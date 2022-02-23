@@ -1,1 +1,154 @@
-{"type":"FeatureCollection","features":[{"id":61580,"type":"Feature","geometry":{"type":"Point","coordinates":[18.76663,51.22327]},"properties":{"isced:level":"1;2","ref:rspo":61580,"official_name":"Katolicka Szko\u0142a Podstawowa Stowarzyszenia Przyjaci\u00f3\u0142 Szk\u00f3\u0142 Katolickich im. \u015aw. Faustyny Kowalskiej w Drobnicach","name":"Katolicka Szko\u0142a Podstawowa Stowarzyszenia Przyjaci\u00f3\u0142 Szk\u00f3\u0142 Katolickich","addr:country":"PL","addr:postcode":"98-320","addr:place":"Drobnice","addr:housenumber":"48","addr:teryt:sym_ul":708207,"contact:phone":"+48 438423022","contact:email":"drobnice@spsk.info.pl","contact:website":"http:\/\/www.drobnice.spsk.pl","ref:regon":"101492568","ref:vatin":"PL8321860199","operator":"Stowarzyszenie Przyjaci\u00f3\u0142 Szk\u00f3\u0142 Katolickich","operator:type":"ngo","amenity":"school"}},{"id":108957,"type":"Feature","geometry":{"type":"Point","coordinates":[18.76663,51.22324]},"properties":{"ref:rspo":108957,"official_name":"Punkt Przedszkolny Stowarzyszenia Przyjaci\u00f3\u0142 Szk\u00f3\u0142 Katolickich","name":"Punkt Przedszkolny Stowarzyszenia Przyjaci\u00f3\u0142 Szk\u00f3\u0142 Katolickich","addr:country":"PL","addr:postcode":"98-320","addr:place":"Drobnice","addr:housenumber":"48","addr:teryt:sym_ul":708207,"contact:phone":"+48 438423022","contact:email":"drobnice@spsk.info.pl","ref:regon":"101545550","operator":"Stowarzyszenie Przyjaci\u00f3\u0142 Szk\u00f3\u0142 Katolickich","operator:type":"ngo","amenity":"kindergarten"}},{"id":27673,"type":"Feature","geometry":{"type":"Point","coordinates":[18.79016,51.2864999]},"properties":{"isced:level":"1;2","ref:rspo":27673,"official_name":"Szko\u0142a Podstawowa im. Powsta\u0144c\u00f3w Styczniowych w Osjakowie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"98-320","addr:city":"Osjak\u00f3w","addr:street":"ul. Cz\u0119stochowska","addr:housenumber":"24","addr:teryt:simc":3458,"addr:teryt:sym_ul":708420,"contact:phone":"+48 438423317","contact:email":"sp.osjakow@wp.pl","contact:website":"http:\/\/www.sposjakow.eu","ref:regon":"000271667","ref:vatin":"PL8321887376","operator":"Gmina Osjak\u00f3w","operator:type":"government","amenity":"school"}},{"id":43038,"type":"Feature","geometry":{"type":"Point","coordinates":[18.78937,51.2886499]},"properties":{"ref:rspo":43038,"official_name":"Publiczne Przedszkole w Osjakowie","name":"Publiczne Przedszkole w Osjakowie","addr:country":"PL","addr:postcode":"98-320","addr:city":"Osjak\u00f3w","addr:street":"ul. Ko\u015bcielna","addr:housenumber":"7","addr:teryt:simc":9546,"addr:teryt:sym_ul":708420,"contact:phone":"+48 438423386","contact:email":"slonecznapolana@vp.pl","contact:website":"http:\/\/www.przedszkole.osjakow.pl","ref:regon":"731515497","ref:vatin":"PL8321895298","operator":"Gmina Osjak\u00f3w","operator:type":"government","amenity":"kindergarten"}},{"id":86403,"type":"Feature","geometry":{"type":"Point","coordinates":[18.73509,51.29667]},"properties":{"isced:level":"1;2","ref:rspo":86403,"official_name":"Katolicka Szko\u0142a Podstawowa Stowarzyszenia Przyjaci\u00f3\u0142 Szk\u00f3\u0142 Katolickich im. \u015aw. Brata Alberta Chmielowskiego w Czernicach","name":"Katolicka Szko\u0142a Podstawowa Stowarzyszenia Przyjaci\u00f3\u0142 Szk\u00f3\u0142 Katolickich","addr:country":"PL","addr:postcode":"98-320","addr:place":"Czernice","addr:housenumber":"118","addr:teryt:sym_ul":708101,"contact:phone":"+48 438423870","contact:email":"czernice@spsk.info.pl","ref:regon":"101501741","ref:vatin":"PL8321860207","operator":"Stowarzyszenie Przyjaci\u00f3\u0142 Szk\u00f3\u0142 Katolickich","operator:type":"ngo","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 61580,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.76663,
+                    51.22327
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 61580,
+                "official_name": "Katolicka Szko\u0142a Podstawowa Stowarzyszenia Przyjaci\u00f3\u0142 Szk\u00f3\u0142 Katolickich im. \u015aw. Faustyny Kowalskiej w Drobnicach",
+                "name": "Katolicka Szko\u0142a Podstawowa Stowarzyszenia Przyjaci\u00f3\u0142 Szk\u00f3\u0142 Katolickich",
+                "addr:country": "PL",
+                "addr:postcode": "98-320",
+                "addr:place": "Drobnice",
+                "addr:housenumber": "48",
+                "addr:teryt:sym_ul": 708207,
+                "contact:phone": "+48 438423022",
+                "contact:email": "drobnice@spsk.info.pl",
+                "contact:website": "http:\/\/www.drobnice.spsk.pl",
+                "ref:regon": "101492568",
+                "ref:vatin": "PL8321860199",
+                "operator": "Stowarzyszenie Przyjaci\u00f3\u0142 Szk\u00f3\u0142 Katolickich",
+                "operator:type": "ngo",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 108957,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.76663,
+                    51.22324
+                ]
+            },
+            "properties": {
+                "ref:rspo": 108957,
+                "official_name": "Punkt Przedszkolny Stowarzyszenia Przyjaci\u00f3\u0142 Szk\u00f3\u0142 Katolickich",
+                "name": "Punkt Przedszkolny Stowarzyszenia Przyjaci\u00f3\u0142 Szk\u00f3\u0142 Katolickich",
+                "addr:country": "PL",
+                "addr:postcode": "98-320",
+                "addr:place": "Drobnice",
+                "addr:housenumber": "48",
+                "addr:teryt:sym_ul": 708207,
+                "contact:phone": "+48 438423022",
+                "contact:email": "drobnice@spsk.info.pl",
+                "ref:regon": "101545550",
+                "operator": "Stowarzyszenie Przyjaci\u00f3\u0142 Szk\u00f3\u0142 Katolickich",
+                "operator:type": "ngo",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 27673,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.79016,
+                    51.2864999
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 27673,
+                "official_name": "Szko\u0142a Podstawowa im. Powsta\u0144c\u00f3w Styczniowych w Osjakowie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "98-320",
+                "addr:city": "Osjak\u00f3w",
+                "addr:street": "ul. Cz\u0119stochowska",
+                "addr:housenumber": "24",
+                "addr:teryt:simc": 3458,
+                "addr:teryt:sym_ul": 708420,
+                "contact:phone": "+48 438423317",
+                "contact:email": "sp.osjakow@wp.pl",
+                "contact:website": "http:\/\/www.sposjakow.eu",
+                "ref:regon": "000271667",
+                "ref:vatin": "PL8321887376",
+                "operator": "Gmina Osjak\u00f3w",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 43038,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.78937,
+                    51.2886499
+                ]
+            },
+            "properties": {
+                "ref:rspo": 43038,
+                "official_name": "Publiczne Przedszkole w Osjakowie",
+                "name": "Publiczne Przedszkole w Osjakowie",
+                "addr:country": "PL",
+                "addr:postcode": "98-320",
+                "addr:city": "Osjak\u00f3w",
+                "addr:street": "ul. Ko\u015bcielna",
+                "addr:housenumber": "7",
+                "addr:teryt:simc": 9546,
+                "addr:teryt:sym_ul": 708420,
+                "contact:phone": "+48 438423386",
+                "contact:email": "slonecznapolana@vp.pl",
+                "contact:website": "http:\/\/www.przedszkole.osjakow.pl",
+                "ref:regon": "731515497",
+                "ref:vatin": "PL8321895298",
+                "operator": "Gmina Osjak\u00f3w",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 86403,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.73509,
+                    51.29667
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 86403,
+                "official_name": "Katolicka Szko\u0142a Podstawowa Stowarzyszenia Przyjaci\u00f3\u0142 Szk\u00f3\u0142 Katolickich im. \u015aw. Brata Alberta Chmielowskiego w Czernicach",
+                "name": "Katolicka Szko\u0142a Podstawowa Stowarzyszenia Przyjaci\u00f3\u0142 Szk\u00f3\u0142 Katolickich",
+                "addr:country": "PL",
+                "addr:postcode": "98-320",
+                "addr:place": "Czernice",
+                "addr:housenumber": "118",
+                "addr:teryt:sym_ul": 708101,
+                "contact:phone": "+48 438423870",
+                "contact:email": "czernice@spsk.info.pl",
+                "ref:regon": "101501741",
+                "ref:vatin": "PL8321860207",
+                "operator": "Stowarzyszenie Przyjaci\u00f3\u0142 Szk\u00f3\u0142 Katolickich",
+                "operator:type": "ngo",
+                "amenity": "school"
+            }
+        }
+    ]
+}

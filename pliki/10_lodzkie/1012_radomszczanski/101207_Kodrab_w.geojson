@@ -1,1 +1,66 @@
-{"type":"FeatureCollection","features":[{"id":26173,"type":"Feature","geometry":{"type":"Point","coordinates":[19.69262,51.0950599]},"properties":{"isced:level":"1;2","ref:rspo":26173,"official_name":"Publiczna Szko\u0142a Podstawowa w Rzejowicach","name":"Publiczna Szko\u0142a Podstawowa w Rzejowicach","addr:country":"PL","addr:postcode":"97-512","addr:place":"Kolonia Rzejowice","addr:housenumber":"91","addr:teryt:sym_ul":543634,"contact:phone":"+48 446819076","contact:email":"sprzejowice@wikom.pl","ref:regon":"001139250","ref:vatin":"PL7722122213","operator":"Gmina Kodr\u0105b","operator:type":"government","amenity":"school"}},{"id":70856,"type":"Feature","geometry":{"type":"Point","coordinates":[19.63317,51.10437]},"properties":{"isced:level":"1;2","ref:rspo":70856,"official_name":"Publiczna Szko\u0142a Podstawowa w Kodr\u0119bie","name":"Publiczna Szko\u0142a Podstawowa w Kodr\u0119bie","addr:country":"PL","addr:postcode":"97-512","addr:city":"Kodr\u0105b","addr:street":"ul. Le\u015bna","addr:housenumber":"2","addr:teryt:simc":10898,"addr:teryt:sym_ul":543516,"contact:phone":"+48 446819326","contact:email":"pspkodrab@wikom.pl","contact:website":"https:\/\/pspkodrab.wikom.pl","ref:regon":"000756554","ref:vatin":"PL7722413695","operator":"Gmina Kodr\u0105b","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 26173,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.69262,
+                    51.0950599
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 26173,
+                "official_name": "Publiczna Szko\u0142a Podstawowa w Rzejowicach",
+                "name": "Publiczna Szko\u0142a Podstawowa w Rzejowicach",
+                "addr:country": "PL",
+                "addr:postcode": "97-512",
+                "addr:place": "Kolonia Rzejowice",
+                "addr:housenumber": "91",
+                "addr:teryt:sym_ul": 543634,
+                "contact:phone": "+48 446819076",
+                "contact:email": "sprzejowice@wikom.pl",
+                "ref:regon": "001139250",
+                "ref:vatin": "PL7722122213",
+                "operator": "Gmina Kodr\u0105b",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 70856,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.63317,
+                    51.10437
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 70856,
+                "official_name": "Publiczna Szko\u0142a Podstawowa w Kodr\u0119bie",
+                "name": "Publiczna Szko\u0142a Podstawowa w Kodr\u0119bie",
+                "addr:country": "PL",
+                "addr:postcode": "97-512",
+                "addr:city": "Kodr\u0105b",
+                "addr:street": "ul. Le\u015bna",
+                "addr:housenumber": "2",
+                "addr:teryt:simc": 10898,
+                "addr:teryt:sym_ul": 543516,
+                "contact:phone": "+48 446819326",
+                "contact:email": "pspkodrab@wikom.pl",
+                "contact:website": "https:\/\/pspkodrab.wikom.pl",
+                "ref:regon": "000756554",
+                "ref:vatin": "PL7722413695",
+                "operator": "Gmina Kodr\u0105b",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

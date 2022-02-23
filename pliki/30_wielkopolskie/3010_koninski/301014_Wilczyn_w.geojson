@@ -1,1 +1,184 @@
-{"type":"FeatureCollection","features":[{"id":85967,"type":"Feature","geometry":{"type":"Point","coordinates":[18.2304768,52.4543338]},"properties":{"isced:level":"1;2","ref:rspo":85967,"official_name":"Szko\u0142a Podstawowa w Wilczynie Filia w Bieli Biela 4","name":"Szko\u0142a Podstawowa w Wilczynie Filia w Bieli Biela 4","addr:country":"PL","addr:postcode":"62-550","addr:place":"Biela","addr:housenumber":"4","addr:teryt:sym_ul":299980,"contact:phone":"+48 632686103","ref:regon":"274016000","ref:vatin":"PL6651883920","operator":"Gmina Wilczyn","operator:type":"government","amenity":"school","note":"Parent RSPO: 75663"}},{"id":35279,"type":"Feature","geometry":{"type":"Point","coordinates":[18.1326149,52.4584909]},"properties":{"isced:level":"1;2","ref:rspo":35279,"official_name":"Szko\u0142a Podstawowa im. Tony Halika w Kaliskach Z Siedzib\u0105 w D\u0119b\u00f3wcu","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"62-550","addr:place":"D\u0119b\u00f3wiec","addr:housenumber":"19","addr:teryt:sym_ul":300009,"contact:phone":"+48 632683053","contact:email":"spkaliska@op.pl","contact:website":"http:\/\/www.spkaliska.szkolnastrona.pl","ref:regon":"001190190","ref:vatin":"PL6651883877","operator":"Gmina Wilczyn","operator:type":"government","amenity":"school"}},{"id":75663,"type":"Feature","geometry":{"type":"Point","coordinates":[18.167280197144,52.474380493164]},"properties":{"isced:level":"1;2","ref:rspo":75663,"official_name":"Szko\u0142a Podstawowa im. Jana Paw\u0142a II w Wilczynie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"62-550","addr:city":"Wilczog\u00f3ra","addr:street":"ul. 700-lecia","addr:housenumber":"14","addr:teryt:simc":72,"addr:teryt:sym_ul":300305,"contact:phone":"+48 632683004","contact:email":"spwilczyn@gimwilczyn.nazwa.pl","contact:website":"http:\/\/www.zswilczyn.szkolnastrona.pl","ref:regon":"000274016","ref:vatin":"PL6652571080","operator":"Gmina Wilczyn","operator:type":"government","amenity":"school","note":"Children RSPO: 85967"}},{"id":79395,"type":"Feature","geometry":{"type":"Point","coordinates":[18.16668,52.47685]},"properties":{"isced:level":"3","ref:rspo":79395,"official_name":"Bran\u017cowa Szko\u0142a I Stopnia w Wilczog\u00f3rze","name":"Bran\u017cowa Szko\u0142a I Stopnia w Wilczog\u00f3rze","addr:country":"PL","addr:postcode":"62-550","addr:city":"Wilczog\u00f3ra","addr:street":"ul. 700-lecia","addr:housenumber":"10","addr:teryt:simc":72,"addr:teryt:sym_ul":300305,"contact:phone":"+48 632683016","contact:email":"zszwilczyn@op.pl","ref:regon":"311596058","operator":"Powiat Koni\u0144ski","operator:type":"government","amenity":"school","note":"Parent RSPO: 13327"}},{"id":112309,"type":"Feature","geometry":{"type":"Point","coordinates":[18.16629,52.4825724]},"properties":{"ref:rspo":112309,"official_name":"Familijne Punkty Przedszkolne -Wilczog\u00f3ra","name":"Familijne Punkty Przedszkolne -Wilczog\u00f3ra","addr:country":"PL","addr:postcode":"62-550","addr:place":"Wilczog\u00f3ra","addr:housenumber":"8","addr:teryt:sym_ul":300305,"contact:phone":"+48 512027446","contact:email":"p.walczak@familijny.pl","ref:regon":"302385510","operator":"Dane Do Uzupe\u0142nienia","operator:type":"private","amenity":"kindergarten"}},{"id":34875,"type":"Feature","geometry":{"type":"Point","coordinates":[18.360652923584,52.543701171875]},"properties":{"ref:rspo":34875,"official_name":"Gminne Przedszkole Bajka w Wilczynie","name":"Gminne Przedszkole Bajka w Wilczynie","addr:country":"PL","addr:postcode":"62-550","addr:place":"Wilczyn","addr:housenumber":"19","addr:teryt:sym_ul":300311,"contact:phone":"+48 632683150","contact:email":"bajka@przedszkolewilczyn.pl","contact:website":"http:\/\/przedszkolewilczyn.pl","ref:regon":"000996040","ref:vatin":"PL6651884345","operator":"Gmina Wilczyn","operator:type":"government","amenity":"kindergarten"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 85967,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.2304768,
+                    52.4543338
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 85967,
+                "official_name": "Szko\u0142a Podstawowa w Wilczynie Filia w Bieli Biela 4",
+                "name": "Szko\u0142a Podstawowa w Wilczynie Filia w Bieli Biela 4",
+                "addr:country": "PL",
+                "addr:postcode": "62-550",
+                "addr:place": "Biela",
+                "addr:housenumber": "4",
+                "addr:teryt:sym_ul": 299980,
+                "contact:phone": "+48 632686103",
+                "ref:regon": "274016000",
+                "ref:vatin": "PL6651883920",
+                "operator": "Gmina Wilczyn",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 75663"
+            }
+        },
+        {
+            "id": 35279,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.1326149,
+                    52.4584909
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 35279,
+                "official_name": "Szko\u0142a Podstawowa im. Tony Halika w Kaliskach Z Siedzib\u0105 w D\u0119b\u00f3wcu",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "62-550",
+                "addr:place": "D\u0119b\u00f3wiec",
+                "addr:housenumber": "19",
+                "addr:teryt:sym_ul": 300009,
+                "contact:phone": "+48 632683053",
+                "contact:email": "spkaliska@op.pl",
+                "contact:website": "http:\/\/www.spkaliska.szkolnastrona.pl",
+                "ref:regon": "001190190",
+                "ref:vatin": "PL6651883877",
+                "operator": "Gmina Wilczyn",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 75663,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.167280197144,
+                    52.474380493164
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 75663,
+                "official_name": "Szko\u0142a Podstawowa im. Jana Paw\u0142a II w Wilczynie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "62-550",
+                "addr:city": "Wilczog\u00f3ra",
+                "addr:street": "ul. 700-lecia",
+                "addr:housenumber": "14",
+                "addr:teryt:simc": 72,
+                "addr:teryt:sym_ul": 300305,
+                "contact:phone": "+48 632683004",
+                "contact:email": "spwilczyn@gimwilczyn.nazwa.pl",
+                "contact:website": "http:\/\/www.zswilczyn.szkolnastrona.pl",
+                "ref:regon": "000274016",
+                "ref:vatin": "PL6652571080",
+                "operator": "Gmina Wilczyn",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Children RSPO: 85967"
+            }
+        },
+        {
+            "id": 79395,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.16668,
+                    52.47685
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 79395,
+                "official_name": "Bran\u017cowa Szko\u0142a I Stopnia w Wilczog\u00f3rze",
+                "name": "Bran\u017cowa Szko\u0142a I Stopnia w Wilczog\u00f3rze",
+                "addr:country": "PL",
+                "addr:postcode": "62-550",
+                "addr:city": "Wilczog\u00f3ra",
+                "addr:street": "ul. 700-lecia",
+                "addr:housenumber": "10",
+                "addr:teryt:simc": 72,
+                "addr:teryt:sym_ul": 300305,
+                "contact:phone": "+48 632683016",
+                "contact:email": "zszwilczyn@op.pl",
+                "ref:regon": "311596058",
+                "operator": "Powiat Koni\u0144ski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 13327"
+            }
+        },
+        {
+            "id": 112309,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.16629,
+                    52.4825724
+                ]
+            },
+            "properties": {
+                "ref:rspo": 112309,
+                "official_name": "Familijne Punkty Przedszkolne -Wilczog\u00f3ra",
+                "name": "Familijne Punkty Przedszkolne -Wilczog\u00f3ra",
+                "addr:country": "PL",
+                "addr:postcode": "62-550",
+                "addr:place": "Wilczog\u00f3ra",
+                "addr:housenumber": "8",
+                "addr:teryt:sym_ul": 300305,
+                "contact:phone": "+48 512027446",
+                "contact:email": "p.walczak@familijny.pl",
+                "ref:regon": "302385510",
+                "operator": "Dane Do Uzupe\u0142nienia",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 34875,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.360652923584,
+                    52.543701171875
+                ]
+            },
+            "properties": {
+                "ref:rspo": 34875,
+                "official_name": "Gminne Przedszkole Bajka w Wilczynie",
+                "name": "Gminne Przedszkole Bajka w Wilczynie",
+                "addr:country": "PL",
+                "addr:postcode": "62-550",
+                "addr:place": "Wilczyn",
+                "addr:housenumber": "19",
+                "addr:teryt:sym_ul": 300311,
+                "contact:phone": "+48 632683150",
+                "contact:email": "bajka@przedszkolewilczyn.pl",
+                "contact:website": "http:\/\/przedszkolewilczyn.pl",
+                "ref:regon": "000996040",
+                "ref:vatin": "PL6651884345",
+                "operator": "Gmina Wilczyn",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        }
+    ]
+}

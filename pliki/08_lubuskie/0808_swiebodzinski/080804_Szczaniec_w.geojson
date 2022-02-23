@@ -1,1 +1,91 @@
-{"type":"FeatureCollection","features":[{"id":74373,"type":"Feature","geometry":{"type":"Point","coordinates":[15.69134,52.19804]},"properties":{"isced:level":"1;2","ref:rspo":74373,"official_name":"Szko\u0142a Podstawowa Im \u015aw. Jana Paw\u0142a II w Smardzewie","name":"Szko\u0142a Podstawowa Im \u015aw. Jana Paw\u0142a II w Smardzewie","addr:country":"PL","addr:postcode":"66-225","addr:place":"Smardzewo","addr:housenumber":"95","addr:teryt:sym_ul":914496,"contact:phone":"+48 683811678","contact:email":"psp.smardzewo@wp.pl","ref:regon":"970572047","operator":"Gmina Szczaniec","operator:type":"government","amenity":"school"}},{"id":74418,"type":"Feature","geometry":{"type":"Point","coordinates":[15.68158,52.2654]},"properties":{"ref:rspo":74418,"official_name":"Gminne Przedszkole w Szcza\u0144cu","name":"Gminne Przedszkole w Szcza\u0144cu","addr:country":"PL","addr:postcode":"66-225","addr:city":"Szczaniec","addr:street":"ul. Spacerowa","addr:housenumber":"2C","addr:teryt:simc":20641,"addr:teryt:sym_ul":914504,"contact:phone":"+48 683410422","ref:regon":"978066444","operator":"Gmina Szczaniec","operator:type":"government","amenity":"kindergarten"}},{"id":77974,"type":"Feature","geometry":{"type":"Point","coordinates":[15.6841015,52.2689388]},"properties":{"isced:level":"1;2","ref:rspo":77974,"official_name":"Szko\u0142a Podstawowa im. Emilii Sczanieckiej w Szcza\u0144cu","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"66-225","addr:city":"Szczaniec","addr:street":"ul. Szkolna","addr:housenumber":"2","addr:teryt:simc":21970,"addr:teryt:sym_ul":914504,"contact:phone":"+48 683410218","contact:email":"szczaniec.szkola@wp.pl","ref:regon":"970572030","operator":"Gmina Szczaniec","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 74373,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.69134,
+                    52.19804
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 74373,
+                "official_name": "Szko\u0142a Podstawowa Im \u015aw. Jana Paw\u0142a II w Smardzewie",
+                "name": "Szko\u0142a Podstawowa Im \u015aw. Jana Paw\u0142a II w Smardzewie",
+                "addr:country": "PL",
+                "addr:postcode": "66-225",
+                "addr:place": "Smardzewo",
+                "addr:housenumber": "95",
+                "addr:teryt:sym_ul": 914496,
+                "contact:phone": "+48 683811678",
+                "contact:email": "psp.smardzewo@wp.pl",
+                "ref:regon": "970572047",
+                "operator": "Gmina Szczaniec",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 74418,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.68158,
+                    52.2654
+                ]
+            },
+            "properties": {
+                "ref:rspo": 74418,
+                "official_name": "Gminne Przedszkole w Szcza\u0144cu",
+                "name": "Gminne Przedszkole w Szcza\u0144cu",
+                "addr:country": "PL",
+                "addr:postcode": "66-225",
+                "addr:city": "Szczaniec",
+                "addr:street": "ul. Spacerowa",
+                "addr:housenumber": "2C",
+                "addr:teryt:simc": 20641,
+                "addr:teryt:sym_ul": 914504,
+                "contact:phone": "+48 683410422",
+                "ref:regon": "978066444",
+                "operator": "Gmina Szczaniec",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 77974,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6841015,
+                    52.2689388
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 77974,
+                "official_name": "Szko\u0142a Podstawowa im. Emilii Sczanieckiej w Szcza\u0144cu",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "66-225",
+                "addr:city": "Szczaniec",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "2",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 914504,
+                "contact:phone": "+48 683410218",
+                "contact:email": "szczaniec.szkola@wp.pl",
+                "ref:regon": "970572030",
+                "operator": "Gmina Szczaniec",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

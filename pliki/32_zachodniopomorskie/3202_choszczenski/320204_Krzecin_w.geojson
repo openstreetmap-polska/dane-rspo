@@ -1,1 +1,37 @@
-{"type":"FeatureCollection","features":[{"id":111804,"type":"Feature","geometry":{"type":"Point","coordinates":[15.49125,53.07794]},"properties":{"isced:level":"1;2","ref:rspo":111804,"official_name":"Szko\u0142a Podstawowa w Krz\u0119cinie","name":"Szko\u0142a Podstawowa w Krz\u0119cinie","addr:country":"PL","addr:postcode":"73-231","addr:city":"Krz\u0119cin","addr:street":"ul. Pogodna","addr:housenumber":"4","addr:teryt:simc":16900,"addr:teryt:sym_ul":182403,"contact:phone":"+48 957655148","contact:email":"szkola@krzecin.pl","contact:website":"http:\/\/zs.krzecin.pl","ref:regon":"210314658","ref:vatin":"PL5941603153","operator":"Gmina Krz\u0119cin","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 111804,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.49125,
+                    53.07794
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 111804,
+                "official_name": "Szko\u0142a Podstawowa w Krz\u0119cinie",
+                "name": "Szko\u0142a Podstawowa w Krz\u0119cinie",
+                "addr:country": "PL",
+                "addr:postcode": "73-231",
+                "addr:city": "Krz\u0119cin",
+                "addr:street": "ul. Pogodna",
+                "addr:housenumber": "4",
+                "addr:teryt:simc": 16900,
+                "addr:teryt:sym_ul": 182403,
+                "contact:phone": "+48 957655148",
+                "contact:email": "szkola@krzecin.pl",
+                "contact:website": "http:\/\/zs.krzecin.pl",
+                "ref:regon": "210314658",
+                "ref:vatin": "PL5941603153",
+                "operator": "Gmina Krz\u0119cin",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

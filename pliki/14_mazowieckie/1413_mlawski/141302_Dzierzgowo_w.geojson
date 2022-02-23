@@ -1,1 +1,65 @@
-{"type":"FeatureCollection","features":[{"id":84653,"type":"Feature","geometry":{"type":"Point","coordinates":[20.687447,53.104567]},"properties":{"isced:level":"1;2","ref:rspo":84653,"official_name":"Szko\u0142a Podstawowa w Rzegnowie","name":"Szko\u0142a Podstawowa w Rzegnowie","addr:country":"PL","addr:postcode":"06-520","addr:place":"Rz\u0119gnowo","addr:housenumber":"94","addr:teryt:sym_ul":114324,"contact:phone":"+48 236527740","contact:email":"sprzegnowo@gazeta.pl","contact:website":"http:\/\/www.sprzegnowo.szkolnastrona.pl","ref:regon":"001158884","operator":"Gmina Dzierzgowo","operator:type":"government","amenity":"school"}},{"id":60728,"type":"Feature","geometry":{"type":"Point","coordinates":[20.6649299,53.14577]},"properties":{"isced:level":"1;2","ref:rspo":60728,"official_name":"Szko\u0142a Podstawowa im. Marsz. J\u00f3zefa Pi\u0142sudskiego","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"06-520","addr:city":"Dzierzgowo","addr:street":"ul. Jagiello\u0144ska","addr:housenumber":"21","addr:teryt:simc":7029,"addr:teryt:sym_ul":114198,"contact:phone":"+48 236533048","contact:email":"sz.p.dzierzgowo@wp.pl","ref:regon":"000692771","ref:vatin":"PL5691618052","operator":"Gmina Dzierzgowo","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 84653,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.687447,
+                    53.104567
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 84653,
+                "official_name": "Szko\u0142a Podstawowa w Rzegnowie",
+                "name": "Szko\u0142a Podstawowa w Rzegnowie",
+                "addr:country": "PL",
+                "addr:postcode": "06-520",
+                "addr:place": "Rz\u0119gnowo",
+                "addr:housenumber": "94",
+                "addr:teryt:sym_ul": 114324,
+                "contact:phone": "+48 236527740",
+                "contact:email": "sprzegnowo@gazeta.pl",
+                "contact:website": "http:\/\/www.sprzegnowo.szkolnastrona.pl",
+                "ref:regon": "001158884",
+                "operator": "Gmina Dzierzgowo",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 60728,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.6649299,
+                    53.14577
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 60728,
+                "official_name": "Szko\u0142a Podstawowa im. Marsz. J\u00f3zefa Pi\u0142sudskiego",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "06-520",
+                "addr:city": "Dzierzgowo",
+                "addr:street": "ul. Jagiello\u0144ska",
+                "addr:housenumber": "21",
+                "addr:teryt:simc": 7029,
+                "addr:teryt:sym_ul": 114198,
+                "contact:phone": "+48 236533048",
+                "contact:email": "sz.p.dzierzgowo@wp.pl",
+                "ref:regon": "000692771",
+                "ref:vatin": "PL5691618052",
+                "operator": "Gmina Dzierzgowo",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

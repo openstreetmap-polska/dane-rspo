@@ -1,1 +1,101 @@
-{"type":"FeatureCollection","features":[{"id":59739,"type":"Feature","geometry":{"type":"Point","coordinates":[22.95786,52.94711]},"properties":{"ref:rspo":59739,"official_name":"Przedszkole Samorz\u0105dowe Jednooddzia\u0142owe w Sura\u017cu","name":"Przedszkole Samorz\u0105dowe Jednooddzia\u0142owe w Sura\u017cu","addr:country":"PL","addr:postcode":"18-105","addr:city":"Sura\u017c","addr:street":"ul. Bielska","addr:housenumber":"17","addr:teryt:simc":1279,"addr:teryt:sym_ul":923510,"contact:phone":"+48 856503125","contact:email":"zsipowsuraz@wp.pl","contact:website":"http:\/\/www.surazszkola.republika.pl","ref:regon":"000942819","operator":"Gmina Sura\u017c","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 105017"}},{"id":105017,"type":"Feature","geometry":{"type":"Point","coordinates":[22.96112,52.9510999]},"properties":{"ref:rspo":105017,"official_name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 I Plac\u00f3wek O\u015bwiatowo - Wychowawczych w Sura\u017cu","name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 I Plac\u00f3wek O\u015bwiatowo - Wychowawczych w Sura\u017cu","addr:country":"PL","addr:postcode":"18-105","addr:city":"Sura\u017c","addr:street":"ul. Szkolna","addr:housenumber":"1","addr:teryt:simc":21970,"addr:teryt:sym_ul":923510,"contact:phone":"+48 856503121","contact:email":"zsipowsuraz@wp.pl","contact:website":"http:\/\/www.surazszkola.republika.pl","ref:regon":"200227080","ref:vatin":"PL9661964610","operator":"Gmina Sura\u017c","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 59739;105018"}},{"id":105018,"type":"Feature","geometry":{"type":"Point","coordinates":[22.96112,52.9510699]},"properties":{"isced:level":"1;2","ref:rspo":105018,"official_name":"Szko\u0142a Podstawowa im. Jana Paw\u0142a II w Sura\u017cu","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"18-105","addr:city":"Sura\u017c","addr:street":"ul. Szkolna","addr:housenumber":"1","addr:teryt:simc":21970,"addr:teryt:sym_ul":923510,"contact:phone":"+48 856503121","contact:email":"zsipowsuraz@wp.pl","contact:website":"http:\/\/www.surazszkola.republika.pl","ref:regon":"000262734","operator":"Gmina Sura\u017c","operator:type":"government","amenity":"school","note":"Parent RSPO: 105017"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 59739,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.95786,
+                    52.94711
+                ]
+            },
+            "properties": {
+                "ref:rspo": 59739,
+                "official_name": "Przedszkole Samorz\u0105dowe Jednooddzia\u0142owe w Sura\u017cu",
+                "name": "Przedszkole Samorz\u0105dowe Jednooddzia\u0142owe w Sura\u017cu",
+                "addr:country": "PL",
+                "addr:postcode": "18-105",
+                "addr:city": "Sura\u017c",
+                "addr:street": "ul. Bielska",
+                "addr:housenumber": "17",
+                "addr:teryt:simc": 1279,
+                "addr:teryt:sym_ul": 923510,
+                "contact:phone": "+48 856503125",
+                "contact:email": "zsipowsuraz@wp.pl",
+                "contact:website": "http:\/\/www.surazszkola.republika.pl",
+                "ref:regon": "000942819",
+                "operator": "Gmina Sura\u017c",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 105017"
+            }
+        },
+        {
+            "id": 105017,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.96112,
+                    52.9510999
+                ]
+            },
+            "properties": {
+                "ref:rspo": 105017,
+                "official_name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 I Plac\u00f3wek O\u015bwiatowo - Wychowawczych w Sura\u017cu",
+                "name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 I Plac\u00f3wek O\u015bwiatowo - Wychowawczych w Sura\u017cu",
+                "addr:country": "PL",
+                "addr:postcode": "18-105",
+                "addr:city": "Sura\u017c",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 923510,
+                "contact:phone": "+48 856503121",
+                "contact:email": "zsipowsuraz@wp.pl",
+                "contact:website": "http:\/\/www.surazszkola.republika.pl",
+                "ref:regon": "200227080",
+                "ref:vatin": "PL9661964610",
+                "operator": "Gmina Sura\u017c",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 59739;105018"
+            }
+        },
+        {
+            "id": 105018,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.96112,
+                    52.9510699
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 105018,
+                "official_name": "Szko\u0142a Podstawowa im. Jana Paw\u0142a II w Sura\u017cu",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "18-105",
+                "addr:city": "Sura\u017c",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 923510,
+                "contact:phone": "+48 856503121",
+                "contact:email": "zsipowsuraz@wp.pl",
+                "contact:website": "http:\/\/www.surazszkola.republika.pl",
+                "ref:regon": "000262734",
+                "operator": "Gmina Sura\u017c",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 105017"
+            }
+        }
+    ]
+}

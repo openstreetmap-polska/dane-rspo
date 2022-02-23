@@ -1,1 +1,101 @@
-{"type":"FeatureCollection","features":[{"id":61784,"type":"Feature","geometry":{"type":"Point","coordinates":[16.0157,50.85049]},"properties":{"ref:rspo":61784,"official_name":"Przedszkole Publiczne","name":"Przedszkole Publiczne","addr:country":"PL","addr:postcode":"58-410","addr:city":"Marcisz\u00f3w","addr:street":"ul. Szkolna","addr:housenumber":"8","addr:teryt:simc":21970,"addr:teryt:sym_ul":191052,"contact:phone":"+48 757410303","contact:email":"szkola@marciszow.pl","contact:website":"http:\/\/www.szkolamarciszow.edupage.org","ref:regon":"021995305","operator":"Gmina Marcisz\u00f3w","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 55165"}},{"id":55165,"type":"Feature","geometry":{"type":"Point","coordinates":[16.01644,50.85159]},"properties":{"ref:rspo":55165,"official_name":"Zespo\u0142 Szkolno-Przedszkolny","name":"Zespo\u0142 Szkolno-Przedszkolny","addr:country":"PL","addr:postcode":"58-410","addr:city":"Marcisz\u00f3w","addr:street":"ul. Szkolna","addr:housenumber":"2","addr:teryt:simc":21970,"addr:teryt:sym_ul":191052,"contact:phone":"+48 757410303","contact:email":"szkola@marciszow.pl","contact:website":"http:\/\/www.szkolamarciszow.edupage.org","ref:regon":"231218361","ref:vatin":"PL6141552638","operator":"Gmina Marcisz\u00f3w","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 61783;61784"}},{"id":61783,"type":"Feature","geometry":{"type":"Point","coordinates":[16.01644,50.85156]},"properties":{"isced:level":"1;2","ref:rspo":61783,"official_name":"Szko\u0142a Podstawowa w Marciszowie","name":"Szko\u0142a Podstawowa w Marciszowie","addr:country":"PL","addr:postcode":"58-410","addr:city":"Marcisz\u00f3w","addr:street":"ul. Szkolna","addr:housenumber":"2","addr:teryt:simc":21970,"addr:teryt:sym_ul":191052,"contact:phone":"+48 757410303","contact:email":"szkola@marciszow.pl","contact:website":"http:\/\/www.szkolamarciszow.edupage.org","ref:regon":"000560503","operator":"Gmina Marcisz\u00f3w","operator:type":"government","amenity":"school","note":"Parent RSPO: 55165"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 61784,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.0157,
+                    50.85049
+                ]
+            },
+            "properties": {
+                "ref:rspo": 61784,
+                "official_name": "Przedszkole Publiczne",
+                "name": "Przedszkole Publiczne",
+                "addr:country": "PL",
+                "addr:postcode": "58-410",
+                "addr:city": "Marcisz\u00f3w",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "8",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 191052,
+                "contact:phone": "+48 757410303",
+                "contact:email": "szkola@marciszow.pl",
+                "contact:website": "http:\/\/www.szkolamarciszow.edupage.org",
+                "ref:regon": "021995305",
+                "operator": "Gmina Marcisz\u00f3w",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 55165"
+            }
+        },
+        {
+            "id": 55165,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.01644,
+                    50.85159
+                ]
+            },
+            "properties": {
+                "ref:rspo": 55165,
+                "official_name": "Zespo\u0142 Szkolno-Przedszkolny",
+                "name": "Zespo\u0142 Szkolno-Przedszkolny",
+                "addr:country": "PL",
+                "addr:postcode": "58-410",
+                "addr:city": "Marcisz\u00f3w",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "2",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 191052,
+                "contact:phone": "+48 757410303",
+                "contact:email": "szkola@marciszow.pl",
+                "contact:website": "http:\/\/www.szkolamarciszow.edupage.org",
+                "ref:regon": "231218361",
+                "ref:vatin": "PL6141552638",
+                "operator": "Gmina Marcisz\u00f3w",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 61783;61784"
+            }
+        },
+        {
+            "id": 61783,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.01644,
+                    50.85156
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 61783,
+                "official_name": "Szko\u0142a Podstawowa w Marciszowie",
+                "name": "Szko\u0142a Podstawowa w Marciszowie",
+                "addr:country": "PL",
+                "addr:postcode": "58-410",
+                "addr:city": "Marcisz\u00f3w",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "2",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 191052,
+                "contact:phone": "+48 757410303",
+                "contact:email": "szkola@marciszow.pl",
+                "contact:website": "http:\/\/www.szkolamarciszow.edupage.org",
+                "ref:regon": "000560503",
+                "operator": "Gmina Marcisz\u00f3w",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 55165"
+            }
+        }
+    ]
+}

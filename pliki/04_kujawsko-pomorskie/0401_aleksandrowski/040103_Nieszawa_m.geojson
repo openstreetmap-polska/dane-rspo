@@ -1,1 +1,130 @@
-{"type":"FeatureCollection","features":[{"id":278185,"type":"Feature","geometry":{"type":"Point","coordinates":[18.8981308,52.8309717]},"properties":{"ref:rspo":278185,"official_name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny","name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny","addr:country":"PL","addr:postcode":"87-730","addr:city":"Nieszawa","addr:street":"ul. Zjazd","addr:housenumber":"5","addr:teryt:simc":26170,"addr:teryt:sym_ul":985987,"contact:phone":"+48 542838178","contact:email":"nieszawazs@gmail.com","contact:website":"http:\/\/zsnieszawa.szkolna.net","ref:regon":"389853014","operator":"Gmina Miejska Nieszawa","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 122459;122465"}},{"id":122459,"type":"Feature","geometry":{"type":"Point","coordinates":[18.8981308,52.8309417]},"properties":{"isced:level":"1;2","ref:rspo":122459,"official_name":"Szko\u0142a Podstawowa w Nieszawie","name":"Szko\u0142a Podstawowa w Nieszawie","addr:country":"PL","addr:postcode":"87-730","addr:city":"Nieszawa","addr:street":"ul. Zjazd","addr:housenumber":"5","addr:teryt:simc":26170,"addr:teryt:sym_ul":985987,"contact:phone":"+48 542838178","contact:email":"nieszawazs@gmail.com","contact:website":"http:\/\/zsnieszawa.szkolna.net","ref:regon":"000264390","ref:vatin":"PL8911632944","operator":"Gmina Miejska Nieszawa","operator:type":"government","amenity":"school","note":"Parent RSPO: 278185"}},{"id":122465,"type":"Feature","geometry":{"type":"Point","coordinates":[18.8981308,52.8309117]},"properties":{"ref:rspo":122465,"official_name":"Przedszkole Samorz\u0105dowe w Nieszawie","name":"Przedszkole Samorz\u0105dowe w Nieszawie","addr:country":"PL","addr:postcode":"87-730","addr:city":"Nieszawa","addr:street":"ul. Zjazd","addr:housenumber":"5","addr:teryt:simc":26170,"addr:teryt:sym_ul":985987,"contact:email":"ps.nieszawa5@wp.pl","ref:regon":"910038811","ref:vatin":"PL8911596326","operator":"Gmina Miejska Nieszawa","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 278185"}},{"id":272498,"type":"Feature","geometry":{"type":"Point","coordinates":[18.899459838867,52.836101531982]},"properties":{"ref:rspo":272498,"official_name":"Niepubliczne Przedszkole \"Bajeczna Przysta\u0144\" w Nieszawie","name":"Niepubliczne Przedszkole \"Bajeczna Przysta\u0144\" w Nieszawie","addr:country":"PL","addr:postcode":"87-730","addr:city":"Nieszawa","addr:street":"ul. Maksymiliana Marii Kolbe","addr:housenumber":"4","addr:teryt:simc":8800,"addr:teryt:sym_ul":985987,"contact:phone":"+48 542824097","contact:email":"ziemia.kujawska@wp.pl","contact:website":"http:\/\/ziemiakujawska.pl","ref:regon":"384262917","operator":"Stowarzyszenie \"Partnerstwo Dla Ziemi Kujawskiej\"","operator:type":"ngo","amenity":"kindergarten"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 278185,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.8981308,
+                    52.8309717
+                ]
+            },
+            "properties": {
+                "ref:rspo": 278185,
+                "official_name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny",
+                "name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny",
+                "addr:country": "PL",
+                "addr:postcode": "87-730",
+                "addr:city": "Nieszawa",
+                "addr:street": "ul. Zjazd",
+                "addr:housenumber": "5",
+                "addr:teryt:simc": 26170,
+                "addr:teryt:sym_ul": 985987,
+                "contact:phone": "+48 542838178",
+                "contact:email": "nieszawazs@gmail.com",
+                "contact:website": "http:\/\/zsnieszawa.szkolna.net",
+                "ref:regon": "389853014",
+                "operator": "Gmina Miejska Nieszawa",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 122459;122465"
+            }
+        },
+        {
+            "id": 122459,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.8981308,
+                    52.8309417
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 122459,
+                "official_name": "Szko\u0142a Podstawowa w Nieszawie",
+                "name": "Szko\u0142a Podstawowa w Nieszawie",
+                "addr:country": "PL",
+                "addr:postcode": "87-730",
+                "addr:city": "Nieszawa",
+                "addr:street": "ul. Zjazd",
+                "addr:housenumber": "5",
+                "addr:teryt:simc": 26170,
+                "addr:teryt:sym_ul": 985987,
+                "contact:phone": "+48 542838178",
+                "contact:email": "nieszawazs@gmail.com",
+                "contact:website": "http:\/\/zsnieszawa.szkolna.net",
+                "ref:regon": "000264390",
+                "ref:vatin": "PL8911632944",
+                "operator": "Gmina Miejska Nieszawa",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 278185"
+            }
+        },
+        {
+            "id": 122465,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.8981308,
+                    52.8309117
+                ]
+            },
+            "properties": {
+                "ref:rspo": 122465,
+                "official_name": "Przedszkole Samorz\u0105dowe w Nieszawie",
+                "name": "Przedszkole Samorz\u0105dowe w Nieszawie",
+                "addr:country": "PL",
+                "addr:postcode": "87-730",
+                "addr:city": "Nieszawa",
+                "addr:street": "ul. Zjazd",
+                "addr:housenumber": "5",
+                "addr:teryt:simc": 26170,
+                "addr:teryt:sym_ul": 985987,
+                "contact:email": "ps.nieszawa5@wp.pl",
+                "ref:regon": "910038811",
+                "ref:vatin": "PL8911596326",
+                "operator": "Gmina Miejska Nieszawa",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 278185"
+            }
+        },
+        {
+            "id": 272498,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.899459838867,
+                    52.836101531982
+                ]
+            },
+            "properties": {
+                "ref:rspo": 272498,
+                "official_name": "Niepubliczne Przedszkole \"Bajeczna Przysta\u0144\" w Nieszawie",
+                "name": "Niepubliczne Przedszkole \"Bajeczna Przysta\u0144\" w Nieszawie",
+                "addr:country": "PL",
+                "addr:postcode": "87-730",
+                "addr:city": "Nieszawa",
+                "addr:street": "ul. Maksymiliana Marii Kolbe",
+                "addr:housenumber": "4",
+                "addr:teryt:simc": 8800,
+                "addr:teryt:sym_ul": 985987,
+                "contact:phone": "+48 542824097",
+                "contact:email": "ziemia.kujawska@wp.pl",
+                "contact:website": "http:\/\/ziemiakujawska.pl",
+                "ref:regon": "384262917",
+                "operator": "Stowarzyszenie \"Partnerstwo Dla Ziemi Kujawskiej\"",
+                "operator:type": "ngo",
+                "amenity": "kindergarten"
+            }
+        }
+    ]
+}

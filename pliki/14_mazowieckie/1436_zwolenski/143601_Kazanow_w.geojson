@@ -1,1 +1,124 @@
-{"type":"FeatureCollection","features":[{"id":43517,"type":"Feature","geometry":{"type":"Point","coordinates":[21.3787,51.23361]},"properties":{"isced:level":"1;2","ref:rspo":43517,"official_name":"Publiczna Szko\u0142a Podstawowa w Kowalkowie","name":"Publiczna Szko\u0142a Podstawowa w Kowalkowie","addr:country":"PL","addr:postcode":"26-713","addr:place":"Kowalk\u00f3w-Kolonia","addr:housenumber":"17","addr:teryt:sym_ul":625881,"contact:phone":"+48 486767854","contact:email":"pspkowalkow@o2.pl","ref:regon":"001194650","ref:vatin":"PL8111765477","operator":"Gmina Kazan\u00f3w","operator:type":"government","amenity":"school"}},{"id":34210,"type":"Feature","geometry":{"type":"Point","coordinates":[21.46245,51.27423]},"properties":{"isced:level":"1;2","ref:rspo":34210,"official_name":"Zesp\u00f3\u0142 Plac\u00f3wek O\u015bwiatowych w Kazanowie Publiczna Szko\u0142a Podstawowa w Kazanowie","name":"Zesp\u00f3\u0142 Plac\u00f3wek O\u015bwiatowych w Kazanowie Publiczna Szko\u0142a Podstawowa w Kazanowie","addr:country":"PL","addr:postcode":"26-713","addr:city":"Kazan\u00f3w","addr:street":"ul. Ko\u015bcielna","addr:housenumber":"52","addr:teryt:simc":9546,"addr:teryt:sym_ul":625728,"contact:phone":"+48 486766016","contact:email":"psp@kazanow.pl","contact:website":"http:\/\/www.kazanow.schoolpage.pl","ref:regon":"000265388","ref:vatin":"PL8111765454","operator":"Gmina Kazan\u00f3w","operator:type":"government","amenity":"school"}},{"id":43519,"type":"Feature","geometry":{"type":"Point","coordinates":[21.46778,51.27975]},"properties":{"ref:rspo":43519,"official_name":"Zesp\u00f3\u0142 Plac\u00f3wek O\u015bwiatowych w Kazanowie Publiczne Przedszkole w Kazanowie","name":"Zesp\u00f3\u0142 Plac\u00f3wek O\u015bwiatowych w Kazanowie Publiczne Przedszkole w Kazanowie","addr:country":"PL","addr:postcode":"26-713","addr:city":"Kazan\u00f3w","addr:street":"ul. Zwole\u0144ska","addr:housenumber":"36","addr:teryt:simc":26313,"addr:teryt:sym_ul":625728,"contact:phone":"+48 486766063","contact:email":"pp@kazanow.pl","ref:regon":"670922373","operator":"Gmina Kazan\u00f3w","operator:type":"government","amenity":"kindergarten"}},{"id":34227,"type":"Feature","geometry":{"type":"Point","coordinates":[21.38162,51.29165]},"properties":{"isced:level":"1;2","ref:rspo":34227,"official_name":"Publiczna Szko\u0142a Podstawowa w Zakrz\u00f3wku","name":"Publiczna Szko\u0142a Podstawowa w Zakrz\u00f3wku","addr:country":"PL","addr:postcode":"26-713","addr:place":"Zakrz\u00f3wek-Wie\u015b","addr:housenumber":"7","addr:teryt:sym_ul":626478,"contact:phone":"+48 486766047","contact:email":"pspzakrzowek@interia.pl","ref:regon":"001194667","ref:vatin":"PL8111765460","operator":"Gmina Kazan\u00f3w","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 43517,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.3787,
+                    51.23361
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 43517,
+                "official_name": "Publiczna Szko\u0142a Podstawowa w Kowalkowie",
+                "name": "Publiczna Szko\u0142a Podstawowa w Kowalkowie",
+                "addr:country": "PL",
+                "addr:postcode": "26-713",
+                "addr:place": "Kowalk\u00f3w-Kolonia",
+                "addr:housenumber": "17",
+                "addr:teryt:sym_ul": 625881,
+                "contact:phone": "+48 486767854",
+                "contact:email": "pspkowalkow@o2.pl",
+                "ref:regon": "001194650",
+                "ref:vatin": "PL8111765477",
+                "operator": "Gmina Kazan\u00f3w",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 34210,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.46245,
+                    51.27423
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 34210,
+                "official_name": "Zesp\u00f3\u0142 Plac\u00f3wek O\u015bwiatowych w Kazanowie Publiczna Szko\u0142a Podstawowa w Kazanowie",
+                "name": "Zesp\u00f3\u0142 Plac\u00f3wek O\u015bwiatowych w Kazanowie Publiczna Szko\u0142a Podstawowa w Kazanowie",
+                "addr:country": "PL",
+                "addr:postcode": "26-713",
+                "addr:city": "Kazan\u00f3w",
+                "addr:street": "ul. Ko\u015bcielna",
+                "addr:housenumber": "52",
+                "addr:teryt:simc": 9546,
+                "addr:teryt:sym_ul": 625728,
+                "contact:phone": "+48 486766016",
+                "contact:email": "psp@kazanow.pl",
+                "contact:website": "http:\/\/www.kazanow.schoolpage.pl",
+                "ref:regon": "000265388",
+                "ref:vatin": "PL8111765454",
+                "operator": "Gmina Kazan\u00f3w",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 43519,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.46778,
+                    51.27975
+                ]
+            },
+            "properties": {
+                "ref:rspo": 43519,
+                "official_name": "Zesp\u00f3\u0142 Plac\u00f3wek O\u015bwiatowych w Kazanowie Publiczne Przedszkole w Kazanowie",
+                "name": "Zesp\u00f3\u0142 Plac\u00f3wek O\u015bwiatowych w Kazanowie Publiczne Przedszkole w Kazanowie",
+                "addr:country": "PL",
+                "addr:postcode": "26-713",
+                "addr:city": "Kazan\u00f3w",
+                "addr:street": "ul. Zwole\u0144ska",
+                "addr:housenumber": "36",
+                "addr:teryt:simc": 26313,
+                "addr:teryt:sym_ul": 625728,
+                "contact:phone": "+48 486766063",
+                "contact:email": "pp@kazanow.pl",
+                "ref:regon": "670922373",
+                "operator": "Gmina Kazan\u00f3w",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 34227,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.38162,
+                    51.29165
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 34227,
+                "official_name": "Publiczna Szko\u0142a Podstawowa w Zakrz\u00f3wku",
+                "name": "Publiczna Szko\u0142a Podstawowa w Zakrz\u00f3wku",
+                "addr:country": "PL",
+                "addr:postcode": "26-713",
+                "addr:place": "Zakrz\u00f3wek-Wie\u015b",
+                "addr:housenumber": "7",
+                "addr:teryt:sym_ul": 626478,
+                "contact:phone": "+48 486766047",
+                "contact:email": "pspzakrzowek@interia.pl",
+                "ref:regon": "001194667",
+                "ref:vatin": "PL8111765460",
+                "operator": "Gmina Kazan\u00f3w",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

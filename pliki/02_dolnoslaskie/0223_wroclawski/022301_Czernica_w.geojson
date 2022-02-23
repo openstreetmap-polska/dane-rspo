@@ -1,1 +1,644 @@
-{"type":"FeatureCollection","features":[{"id":27327,"type":"Feature","geometry":{"type":"Point","coordinates":[17.26726,51.03404]},"properties":{"isced:level":"1;2","ref:rspo":27327,"official_name":"Szko\u0142a Podstawowa im. Janusza Korczaka w Ratowicach","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"55-003","addr:city":"Ratowice","addr:street":"ul. Wroc\u0142awska","addr:housenumber":"36","addr:teryt:simc":24806,"addr:teryt:sym_ul":873627,"contact:phone":"+48 713189168","contact:email":"sekretariat@spratowice.edu.pl","contact:website":"http:\/\/www.spratowice.edu.pl","ref:regon":"932849923","operator":"Gmina Czernica","operator:type":"government","amenity":"school"}},{"id":115201,"type":"Feature","geometry":{"type":"Point","coordinates":[17.24857,51.047]},"properties":{"ref:rspo":115201,"official_name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w Czernicy","name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w Czernicy","addr:country":"PL","addr:postcode":"55-003","addr:city":"Czernica","addr:street":"ul. \u015bw. Brata Alberta Adama Chmielowskiego","addr:housenumber":"9","addr:teryt:simc":30942,"addr:teryt:sym_ul":873515,"contact:phone":"+48 713180116","contact:email":"sekretariat@zspczernica.pl","contact:website":"http:\/\/www.spczernica.szkolnastrona.pl","ref:regon":"022168389","operator":"Gmina Czernica","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 38809;71800"}},{"id":38809,"type":"Feature","geometry":{"type":"Point","coordinates":[17.24857,51.046969999999995]},"properties":{"isced:level":"1;2","ref:rspo":38809,"official_name":"Szko\u0142a Podstawowa im. Papie\u017ca Jana Paw\u0142a II w Czernicy","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"55-003","addr:city":"Czernica","addr:street":"ul. \u015bw. Brata Alberta Adama Chmielowskiego","addr:housenumber":"9","addr:teryt:simc":30942,"addr:teryt:sym_ul":873515,"contact:phone":"+48 713180116","contact:email":"sekretariat@zspczernica.pl","contact:website":"http:\/\/www.spczernica.szkolnastrona.pl","ref:regon":"000592354","operator":"Gmina Czernica","operator:type":"government","amenity":"school","note":"Parent RSPO: 115201"}},{"id":71800,"type":"Feature","geometry":{"type":"Point","coordinates":[17.23375,51.0482]},"properties":{"ref:rspo":71800,"official_name":"Przedszkole Publiczne w Czernicy","name":"Przedszkole Publiczne w Czernicy","addr:country":"PL","addr:postcode":"55-003","addr:city":"Czernica","addr:street":"ul. Wroc\u0142awska","addr:housenumber":"52","addr:teryt:simc":24806,"addr:teryt:sym_ul":873515,"contact:phone":"+48 713180116","contact:email":"sekretariat@zspczernica.pl","contact:website":"http:\/\/www.spczernica.szkolnastrona.pl","ref:regon":"021420088","operator":"Gmina Czernica","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 115201"}},{"id":275295,"type":"Feature","geometry":{"type":"Point","coordinates":[17.19056,51.06689]},"properties":{"ref:rspo":275295,"official_name":"Niepubliczne Przedszkole \"Tysi\u0105ca Ba\u015bni\"","name":"Niepubliczne Przedszkole \"Tysi\u0105ca Ba\u015bni\"","addr:country":"PL","addr:postcode":"55-002","addr:city":"Gajk\u00f3w","addr:street":"ul. Dobrej Zabawy","addr:housenumber":"1","addr:teryt:simc":56383,"addr:teryt:sym_ul":873538,"contact:phone":"+48 604647193","contact:email":"tysiacabasni@gmail.com","ref:regon":"386792720","operator":"Justyna Szyma\u0144ska","operator:type":"private","amenity":"kindergarten"}},{"id":275296,"type":"Feature","geometry":{"type":"Point","coordinates":[17.19056,51.06686]},"properties":{"ref:rspo":275296,"official_name":"Publiczne Przedszkole \"Ba\u015bni I Bajek\"","name":"Publiczne Przedszkole \"Ba\u015bni I Bajek\"","addr:country":"PL","addr:postcode":"55-002","addr:city":"Gajk\u00f3w","addr:street":"ul. Dobrej Zabawy","addr:housenumber":"1","addr:teryt:simc":56383,"addr:teryt:sym_ul":873538,"contact:phone":"+48 604647193","contact:email":"przedszkole.gajkow@gmail.com","ref:regon":"386792861","operator":"Justyna Szyma\u0144ska","operator:type":"private","amenity":"kindergarten"}},{"id":131248,"type":"Feature","geometry":{"type":"Point","coordinates":[17.17681,51.06874]},"properties":{"ref:rspo":131248,"official_name":"Niepubliczna Plac\u00f3wka Kszta\u0142cenia Ustawicznego Nowoczesny O\u015brodek Edukacji Anna Ratuszniak","name":"Niepubliczna Plac\u00f3wka Kszta\u0142cenia Ustawicznego Nowoczesny O\u015brodek Edukacji Anna Ratuszniak","addr:country":"PL","addr:postcode":"55-002","addr:city":"Kamieniec Wroc\u0142awski","addr:street":"ul. Zau\u0142ek Szkolny","addr:housenumber":"24","addr:teryt:simc":25789,"addr:teryt:sym_ul":873567,"contact:phone":"+48 713185845","contact:email":"noe.szkolenia@gmail.com","contact:website":"http:\/\/nowoczesnyosrodekedukacji.pl","ref:regon":"365096365","operator":"Nowoczesny O\u015brodek Edukacji Anna Ratuszniak","operator:type":"consortium","fixme":"w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. amenity=training + training=*, amenity=dancing_school, amenity=language_school, amenity=music_school)"}},{"id":120648,"type":"Feature","geometry":{"type":"Point","coordinates":[17.18349,51.0693399]},"properties":{"ref:rspo":120648,"official_name":"Niepubliczne Przedszkole \"Kredka\"","name":"Niepubliczne Przedszkole \"Kredka\"","addr:country":"PL","addr:postcode":"55-002","addr:city":"Kamieniec Wroc\u0142awski","addr:street":"ul. Wroc\u0142awska","addr:housenumber":"29","addr:teryt:simc":24806,"addr:teryt:sym_ul":873567,"contact:phone":"+48 500015116","contact:email":"kredka.biuro@gmail.com","contact:website":"http:\/\/www.kredka.eprzedszkola.pl","ref:regon":"022276096","operator":"Joanna Augustynowicz","operator:type":"private","amenity":"kindergarten"}},{"id":274552,"type":"Feature","geometry":{"type":"Point","coordinates":[17.17821,51.07228]},"properties":{"ref:rspo":274552,"official_name":"Instytut Rozwoju Kompetencji Skeleton","name":"Instytut Rozwoju Kompetencji Skeleton","addr:country":"PL","addr:postcode":"55-002","addr:city":"Kamieniec Wroc\u0142awski","addr:street":"ul. Sp\u00f3\u0142dzielcza","addr:housenumber":"1","addr:teryt:simc":20696,"addr:teryt:sym_ul":873567,"contact:phone":"+48 786183809","contact:email":"biuro@skeleton.com.pl","contact:website":"http:\/\/www.skeleton.com.pl","ref:regon":"385949361","operator":"Instytut Rozwoju Kompetencji Skeleton Klaudia Jasi\u0144ska","operator:type":"consortium","fixme":"w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. amenity=training + training=*, amenity=dancing_school, amenity=language_school, amenity=music_school)"}},{"id":120627,"type":"Feature","geometry":{"type":"Point","coordinates":[17.18067,51.0739]},"properties":{"ref:rspo":120627,"official_name":"Niepubliczne Przedszkole \"Calineczka I Przyjaciele\"","name":"Niepubliczne Przedszkole \"Calineczka I Przyjaciele\"","addr:country":"PL","addr:postcode":"55-002","addr:city":"Kamieniec Wroc\u0142awski","addr:street":"ul. \u015awierkowa","addr:housenumber":"4","addr:teryt:simc":22508,"addr:teryt:sym_ul":873567,"contact:phone":"+48 603634567","contact:email":"margotslawek@gmail.com","contact:website":"http:\/\/www.calineczkaiprzyjaciele.pl","ref:regon":"022273465","operator":"S\u0142awomir Kwa\u015bny","operator:type":"private","amenity":"kindergarten"}},{"id":264916,"type":"Feature","geometry":{"type":"Point","coordinates":[17.29018,51.07559]},"properties":{"ref:rspo":264916,"official_name":"Przedszkole Niepubliczne \"Radosne\"","name":"Przedszkole Niepubliczne \"Radosne\"","addr:country":"PL","addr:postcode":"55-003","addr:city":"Chrz\u0105stawa Ma\u0142a","addr:street":"ul. \u015awierkowa","addr:housenumber":"4","addr:teryt:simc":22508,"addr:teryt:sym_ul":873490,"contact:phone":"+48 669367457","contact:email":"niepubliczneprzedszkoleradosne@gmail.com","ref:regon":"368523371","operator":"Katarzyna Pawli\u0144ska","operator:type":"private","amenity":"kindergarten"}},{"id":19116,"type":"Feature","geometry":{"type":"Point","coordinates":[17.17353,51.0771299]},"properties":{"ref:rspo":19116,"official_name":"\"Happy Kids\" Przedszkole Niepubliczne Nr 1 w Kamie\u0144cu Wroc\u0142awskim","name":"\"Happy Kids\" Przedszkole Niepubliczne Nr 1 w Kamie\u0144cu Wroc\u0142awskim","addr:country":"PL","addr:postcode":"55-002","addr:city":"Kamieniec Wroc\u0142awski","addr:street":"ul. Cichy K\u0105cik","addr:housenumber":"16","addr:teryt:simc":2985,"addr:teryt:sym_ul":873567,"contact:phone":"+48 694112158","contact:email":"happykids@happykids.edu.pl","contact:website":"http:\/\/www.happykids.edu.pl","ref:regon":"021975165","operator":"Anna Jezierska","operator:type":"private","amenity":"kindergarten"}},{"id":19013,"type":"Feature","geometry":{"type":"Point","coordinates":[17.17388,51.07744]},"properties":{"isced:level":"1;2","ref:rspo":19013,"official_name":"Szko\u0142a Podstawowa im. Boles\u0142awa Krzywoustego w Kamie\u0144cu Wroc\u0142awskim","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"55-002","addr:city":"Kamieniec Wroc\u0142awski","addr:street":"ul. Kolejowa","addr:housenumber":"8","addr:teryt:simc":8828,"addr:teryt:sym_ul":873567,"contact:phone":"+48 713185595","contact:email":"sekretariat@spkamieniec.edu.pl","contact:website":"http:\/\/www.spkamieniec.pl","ref:regon":"001181506","operator":"Gmina Czernica","operator:type":"government","amenity":"school"}},{"id":19055,"type":"Feature","geometry":{"type":"Point","coordinates":[17.18052,51.08331]},"properties":{"ref:rspo":19055,"official_name":"Niepubliczne Przedszkole Bajkochatka","name":"Niepubliczne Przedszkole Bajkochatka","addr:country":"PL","addr:postcode":"55-002","addr:city":"Kamieniec Wroc\u0142awski","addr:street":"ul. Jasia i Ma\u0142gosi","addr:housenumber":"2","addr:teryt:simc":7298,"addr:teryt:sym_ul":873567,"contact:phone":"+48 790690292","contact:email":"kontakt@bajkochatka-przedszkole.pl","contact:website":"http:\/\/www.bajkochatka-przedszkole.pl","ref:regon":"021975136","operator":"Krzysztof Stachowicz","operator:type":"private","amenity":"kindergarten"}},{"id":124636,"type":"Feature","geometry":{"type":"Point","coordinates":[17.29203,51.09179]},"properties":{"ref:rspo":124636,"official_name":"Przedszkole Niepubliczne \"Jutrzenka\" im. \u015aw. J\u00f3zefa","name":"Przedszkole Niepubliczne \"Jutrzenka\"","addr:country":"PL","addr:postcode":"55-003","addr:city":"Chrz\u0105stawa Wielka","addr:street":"ul. Wroc\u0142awska","addr:housenumber":"18","addr:teryt:simc":24806,"addr:teryt:sym_ul":873509,"contact:phone":"+48 723310340","contact:email":"info@przedszkole-chrzastawa.pl","contact:website":"http:\/\/www.przedszkole-chrzastawa.pl","ref:regon":"022489515","operator":"Artur \u015awierc","operator:type":"private","amenity":"kindergarten"}},{"id":104484,"type":"Feature","geometry":{"type":"Point","coordinates":[17.29202,51.09237]},"properties":{"isced:level":"1;2","ref:rspo":104484,"official_name":"Szko\u0142a Podstawowa im. Piast\u00f3w \u015aL\u0105skich w Chrz\u0105stawie Wielkiej","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"55-003","addr:city":"Chrz\u0105stawa Wielka","addr:street":"ul. Wroc\u0142awska","addr:housenumber":"19","addr:teryt:simc":24806,"addr:teryt:sym_ul":873509,"contact:phone":"+48 713189624","contact:email":"sekretariat@cranstava.edu.pl","contact:website":"http:\/\/www.szkola-chrzastawa.edupage.org","ref:regon":"001181498","operator":"Gmina Czernica","operator:type":"government","amenity":"school"}},{"id":124634,"type":"Feature","geometry":{"type":"Point","coordinates":[17.19002,51.09277]},"properties":{"ref:rspo":124634,"official_name":"Przedszkole Niepubliczne \"Mini World\"","name":"Przedszkole Niepubliczne \"Mini World\"","addr:country":"PL","addr:postcode":"55-002","addr:city":"Dobrzykowice","addr:street":"ul. Kolejowa","addr:housenumber":"19","addr:teryt:simc":8828,"addr:teryt:sym_ul":873521,"contact:phone":"+48 669239320","contact:email":"biuro@miniworld.com.pl","contact:website":"http:\/\/miniworld.com.pl","ref:regon":"022489490","operator":"Magdalena Mi\u015bkiewicz","operator:type":"private","amenity":"kindergarten"}},{"id":196444,"type":"Feature","geometry":{"type":"Point","coordinates":[17.19002,51.09274]},"properties":{"ref:rspo":196444,"official_name":"Przedszkole Publiczne Mini World","name":"Przedszkole Publiczne Mini World","addr:country":"PL","addr:postcode":"55-002","addr:city":"Dobrzykowice","addr:street":"ul. Kolejowa","addr:housenumber":"19","addr:teryt:simc":8828,"addr:teryt:sym_ul":873521,"contact:phone":"+48 669239320","contact:email":"biuro@miniworld.com.pl","contact:website":"http:\/\/www.miniworld.com.pl","ref:regon":"368013670","operator":"Magdalena Mi\u015bkiewicz","operator:type":"private","amenity":"kindergarten"}},{"id":267603,"type":"Feature","geometry":{"type":"Point","coordinates":[17.1906,51.09298]},"properties":{"ref:rspo":267603,"official_name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w Dobrzykowicach","name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w Dobrzykowicach","addr:country":"PL","addr:postcode":"55-002","addr:city":"Dobrzykowice","addr:street":"ul. Sukcesu","addr:housenumber":"2","addr:teryt:simc":51147,"addr:teryt:sym_ul":873521,"contact:phone":"+48 713185581","contact:email":"dobrzykowice@wp.pl","contact:website":"http:\/\/www.spdobrzykowice.edupage.org","ref:regon":"380428960","operator":"Gmina Czernica","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 27298;267640"}},{"id":27298,"type":"Feature","geometry":{"type":"Point","coordinates":[17.1906,51.092949999999995]},"properties":{"isced:level":"1;2","ref:rspo":27298,"official_name":"Szko\u0142a Podstawowa im. Stulecia Odzyskania Niepodleg\u0142o\u015bci Polski w Dobrzykowicach","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"55-002","addr:city":"Dobrzykowice","addr:street":"ul. Sukcesu","addr:housenumber":"2","addr:teryt:simc":51147,"addr:teryt:sym_ul":873521,"contact:phone":"+48 713185581","contact:email":"sekretariat@zspdobrzykowice.edupoczta.pl","contact:website":"http:\/\/www.spdobrzykowice.edupage.org","ref:regon":"001268667","operator":"Gmina Czernica","operator:type":"government","amenity":"school","note":"Parent RSPO: 267603"}},{"id":267640,"type":"Feature","geometry":{"type":"Point","coordinates":[17.1906,51.09292]},"properties":{"ref:rspo":267640,"official_name":"Przedszkole Publiczne w Dobrzykowicach","name":"Przedszkole Publiczne w Dobrzykowicach","addr:country":"PL","addr:postcode":"55-002","addr:city":"Dobrzykowice","addr:street":"ul. Sukcesu","addr:housenumber":"2","addr:teryt:simc":51147,"addr:teryt:sym_ul":873521,"contact:phone":"+48 713185581","contact:email":"sekretariat@zspdobrzykowice.edupoczta.pl","ref:regon":"380473238","operator":"Gmina Czernica","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 267603"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 27327,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.26726,
+                    51.03404
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 27327,
+                "official_name": "Szko\u0142a Podstawowa im. Janusza Korczaka w Ratowicach",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "55-003",
+                "addr:city": "Ratowice",
+                "addr:street": "ul. Wroc\u0142awska",
+                "addr:housenumber": "36",
+                "addr:teryt:simc": 24806,
+                "addr:teryt:sym_ul": 873627,
+                "contact:phone": "+48 713189168",
+                "contact:email": "sekretariat@spratowice.edu.pl",
+                "contact:website": "http:\/\/www.spratowice.edu.pl",
+                "ref:regon": "932849923",
+                "operator": "Gmina Czernica",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 115201,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.24857,
+                    51.047
+                ]
+            },
+            "properties": {
+                "ref:rspo": 115201,
+                "official_name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w Czernicy",
+                "name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w Czernicy",
+                "addr:country": "PL",
+                "addr:postcode": "55-003",
+                "addr:city": "Czernica",
+                "addr:street": "ul. \u015bw. Brata Alberta Adama Chmielowskiego",
+                "addr:housenumber": "9",
+                "addr:teryt:simc": 30942,
+                "addr:teryt:sym_ul": 873515,
+                "contact:phone": "+48 713180116",
+                "contact:email": "sekretariat@zspczernica.pl",
+                "contact:website": "http:\/\/www.spczernica.szkolnastrona.pl",
+                "ref:regon": "022168389",
+                "operator": "Gmina Czernica",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 38809;71800"
+            }
+        },
+        {
+            "id": 38809,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.24857,
+                    51.046969999999995
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 38809,
+                "official_name": "Szko\u0142a Podstawowa im. Papie\u017ca Jana Paw\u0142a II w Czernicy",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "55-003",
+                "addr:city": "Czernica",
+                "addr:street": "ul. \u015bw. Brata Alberta Adama Chmielowskiego",
+                "addr:housenumber": "9",
+                "addr:teryt:simc": 30942,
+                "addr:teryt:sym_ul": 873515,
+                "contact:phone": "+48 713180116",
+                "contact:email": "sekretariat@zspczernica.pl",
+                "contact:website": "http:\/\/www.spczernica.szkolnastrona.pl",
+                "ref:regon": "000592354",
+                "operator": "Gmina Czernica",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 115201"
+            }
+        },
+        {
+            "id": 71800,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.23375,
+                    51.0482
+                ]
+            },
+            "properties": {
+                "ref:rspo": 71800,
+                "official_name": "Przedszkole Publiczne w Czernicy",
+                "name": "Przedszkole Publiczne w Czernicy",
+                "addr:country": "PL",
+                "addr:postcode": "55-003",
+                "addr:city": "Czernica",
+                "addr:street": "ul. Wroc\u0142awska",
+                "addr:housenumber": "52",
+                "addr:teryt:simc": 24806,
+                "addr:teryt:sym_ul": 873515,
+                "contact:phone": "+48 713180116",
+                "contact:email": "sekretariat@zspczernica.pl",
+                "contact:website": "http:\/\/www.spczernica.szkolnastrona.pl",
+                "ref:regon": "021420088",
+                "operator": "Gmina Czernica",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 115201"
+            }
+        },
+        {
+            "id": 275295,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.19056,
+                    51.06689
+                ]
+            },
+            "properties": {
+                "ref:rspo": 275295,
+                "official_name": "Niepubliczne Przedszkole \"Tysi\u0105ca Ba\u015bni\"",
+                "name": "Niepubliczne Przedszkole \"Tysi\u0105ca Ba\u015bni\"",
+                "addr:country": "PL",
+                "addr:postcode": "55-002",
+                "addr:city": "Gajk\u00f3w",
+                "addr:street": "ul. Dobrej Zabawy",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 56383,
+                "addr:teryt:sym_ul": 873538,
+                "contact:phone": "+48 604647193",
+                "contact:email": "tysiacabasni@gmail.com",
+                "ref:regon": "386792720",
+                "operator": "Justyna Szyma\u0144ska",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 275296,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.19056,
+                    51.06686
+                ]
+            },
+            "properties": {
+                "ref:rspo": 275296,
+                "official_name": "Publiczne Przedszkole \"Ba\u015bni I Bajek\"",
+                "name": "Publiczne Przedszkole \"Ba\u015bni I Bajek\"",
+                "addr:country": "PL",
+                "addr:postcode": "55-002",
+                "addr:city": "Gajk\u00f3w",
+                "addr:street": "ul. Dobrej Zabawy",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 56383,
+                "addr:teryt:sym_ul": 873538,
+                "contact:phone": "+48 604647193",
+                "contact:email": "przedszkole.gajkow@gmail.com",
+                "ref:regon": "386792861",
+                "operator": "Justyna Szyma\u0144ska",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 131248,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.17681,
+                    51.06874
+                ]
+            },
+            "properties": {
+                "ref:rspo": 131248,
+                "official_name": "Niepubliczna Plac\u00f3wka Kszta\u0142cenia Ustawicznego Nowoczesny O\u015brodek Edukacji Anna Ratuszniak",
+                "name": "Niepubliczna Plac\u00f3wka Kszta\u0142cenia Ustawicznego Nowoczesny O\u015brodek Edukacji Anna Ratuszniak",
+                "addr:country": "PL",
+                "addr:postcode": "55-002",
+                "addr:city": "Kamieniec Wroc\u0142awski",
+                "addr:street": "ul. Zau\u0142ek Szkolny",
+                "addr:housenumber": "24",
+                "addr:teryt:simc": 25789,
+                "addr:teryt:sym_ul": 873567,
+                "contact:phone": "+48 713185845",
+                "contact:email": "noe.szkolenia@gmail.com",
+                "contact:website": "http:\/\/nowoczesnyosrodekedukacji.pl",
+                "ref:regon": "365096365",
+                "operator": "Nowoczesny O\u015brodek Edukacji Anna Ratuszniak",
+                "operator:type": "consortium",
+                "fixme": "w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. amenity=training + training=*, amenity=dancing_school, amenity=language_school, amenity=music_school)"
+            }
+        },
+        {
+            "id": 120648,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.18349,
+                    51.0693399
+                ]
+            },
+            "properties": {
+                "ref:rspo": 120648,
+                "official_name": "Niepubliczne Przedszkole \"Kredka\"",
+                "name": "Niepubliczne Przedszkole \"Kredka\"",
+                "addr:country": "PL",
+                "addr:postcode": "55-002",
+                "addr:city": "Kamieniec Wroc\u0142awski",
+                "addr:street": "ul. Wroc\u0142awska",
+                "addr:housenumber": "29",
+                "addr:teryt:simc": 24806,
+                "addr:teryt:sym_ul": 873567,
+                "contact:phone": "+48 500015116",
+                "contact:email": "kredka.biuro@gmail.com",
+                "contact:website": "http:\/\/www.kredka.eprzedszkola.pl",
+                "ref:regon": "022276096",
+                "operator": "Joanna Augustynowicz",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 274552,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.17821,
+                    51.07228
+                ]
+            },
+            "properties": {
+                "ref:rspo": 274552,
+                "official_name": "Instytut Rozwoju Kompetencji Skeleton",
+                "name": "Instytut Rozwoju Kompetencji Skeleton",
+                "addr:country": "PL",
+                "addr:postcode": "55-002",
+                "addr:city": "Kamieniec Wroc\u0142awski",
+                "addr:street": "ul. Sp\u00f3\u0142dzielcza",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 20696,
+                "addr:teryt:sym_ul": 873567,
+                "contact:phone": "+48 786183809",
+                "contact:email": "biuro@skeleton.com.pl",
+                "contact:website": "http:\/\/www.skeleton.com.pl",
+                "ref:regon": "385949361",
+                "operator": "Instytut Rozwoju Kompetencji Skeleton Klaudia Jasi\u0144ska",
+                "operator:type": "consortium",
+                "fixme": "w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. amenity=training + training=*, amenity=dancing_school, amenity=language_school, amenity=music_school)"
+            }
+        },
+        {
+            "id": 120627,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.18067,
+                    51.0739
+                ]
+            },
+            "properties": {
+                "ref:rspo": 120627,
+                "official_name": "Niepubliczne Przedszkole \"Calineczka I Przyjaciele\"",
+                "name": "Niepubliczne Przedszkole \"Calineczka I Przyjaciele\"",
+                "addr:country": "PL",
+                "addr:postcode": "55-002",
+                "addr:city": "Kamieniec Wroc\u0142awski",
+                "addr:street": "ul. \u015awierkowa",
+                "addr:housenumber": "4",
+                "addr:teryt:simc": 22508,
+                "addr:teryt:sym_ul": 873567,
+                "contact:phone": "+48 603634567",
+                "contact:email": "margotslawek@gmail.com",
+                "contact:website": "http:\/\/www.calineczkaiprzyjaciele.pl",
+                "ref:regon": "022273465",
+                "operator": "S\u0142awomir Kwa\u015bny",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 264916,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.29018,
+                    51.07559
+                ]
+            },
+            "properties": {
+                "ref:rspo": 264916,
+                "official_name": "Przedszkole Niepubliczne \"Radosne\"",
+                "name": "Przedszkole Niepubliczne \"Radosne\"",
+                "addr:country": "PL",
+                "addr:postcode": "55-003",
+                "addr:city": "Chrz\u0105stawa Ma\u0142a",
+                "addr:street": "ul. \u015awierkowa",
+                "addr:housenumber": "4",
+                "addr:teryt:simc": 22508,
+                "addr:teryt:sym_ul": 873490,
+                "contact:phone": "+48 669367457",
+                "contact:email": "niepubliczneprzedszkoleradosne@gmail.com",
+                "ref:regon": "368523371",
+                "operator": "Katarzyna Pawli\u0144ska",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 19116,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.17353,
+                    51.0771299
+                ]
+            },
+            "properties": {
+                "ref:rspo": 19116,
+                "official_name": "\"Happy Kids\" Przedszkole Niepubliczne Nr 1 w Kamie\u0144cu Wroc\u0142awskim",
+                "name": "\"Happy Kids\" Przedszkole Niepubliczne Nr 1 w Kamie\u0144cu Wroc\u0142awskim",
+                "addr:country": "PL",
+                "addr:postcode": "55-002",
+                "addr:city": "Kamieniec Wroc\u0142awski",
+                "addr:street": "ul. Cichy K\u0105cik",
+                "addr:housenumber": "16",
+                "addr:teryt:simc": 2985,
+                "addr:teryt:sym_ul": 873567,
+                "contact:phone": "+48 694112158",
+                "contact:email": "happykids@happykids.edu.pl",
+                "contact:website": "http:\/\/www.happykids.edu.pl",
+                "ref:regon": "021975165",
+                "operator": "Anna Jezierska",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 19013,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.17388,
+                    51.07744
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 19013,
+                "official_name": "Szko\u0142a Podstawowa im. Boles\u0142awa Krzywoustego w Kamie\u0144cu Wroc\u0142awskim",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "55-002",
+                "addr:city": "Kamieniec Wroc\u0142awski",
+                "addr:street": "ul. Kolejowa",
+                "addr:housenumber": "8",
+                "addr:teryt:simc": 8828,
+                "addr:teryt:sym_ul": 873567,
+                "contact:phone": "+48 713185595",
+                "contact:email": "sekretariat@spkamieniec.edu.pl",
+                "contact:website": "http:\/\/www.spkamieniec.pl",
+                "ref:regon": "001181506",
+                "operator": "Gmina Czernica",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 19055,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.18052,
+                    51.08331
+                ]
+            },
+            "properties": {
+                "ref:rspo": 19055,
+                "official_name": "Niepubliczne Przedszkole Bajkochatka",
+                "name": "Niepubliczne Przedszkole Bajkochatka",
+                "addr:country": "PL",
+                "addr:postcode": "55-002",
+                "addr:city": "Kamieniec Wroc\u0142awski",
+                "addr:street": "ul. Jasia i Ma\u0142gosi",
+                "addr:housenumber": "2",
+                "addr:teryt:simc": 7298,
+                "addr:teryt:sym_ul": 873567,
+                "contact:phone": "+48 790690292",
+                "contact:email": "kontakt@bajkochatka-przedszkole.pl",
+                "contact:website": "http:\/\/www.bajkochatka-przedszkole.pl",
+                "ref:regon": "021975136",
+                "operator": "Krzysztof Stachowicz",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 124636,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.29203,
+                    51.09179
+                ]
+            },
+            "properties": {
+                "ref:rspo": 124636,
+                "official_name": "Przedszkole Niepubliczne \"Jutrzenka\" im. \u015aw. J\u00f3zefa",
+                "name": "Przedszkole Niepubliczne \"Jutrzenka\"",
+                "addr:country": "PL",
+                "addr:postcode": "55-003",
+                "addr:city": "Chrz\u0105stawa Wielka",
+                "addr:street": "ul. Wroc\u0142awska",
+                "addr:housenumber": "18",
+                "addr:teryt:simc": 24806,
+                "addr:teryt:sym_ul": 873509,
+                "contact:phone": "+48 723310340",
+                "contact:email": "info@przedszkole-chrzastawa.pl",
+                "contact:website": "http:\/\/www.przedszkole-chrzastawa.pl",
+                "ref:regon": "022489515",
+                "operator": "Artur \u015awierc",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 104484,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.29202,
+                    51.09237
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 104484,
+                "official_name": "Szko\u0142a Podstawowa im. Piast\u00f3w \u015aL\u0105skich w Chrz\u0105stawie Wielkiej",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "55-003",
+                "addr:city": "Chrz\u0105stawa Wielka",
+                "addr:street": "ul. Wroc\u0142awska",
+                "addr:housenumber": "19",
+                "addr:teryt:simc": 24806,
+                "addr:teryt:sym_ul": 873509,
+                "contact:phone": "+48 713189624",
+                "contact:email": "sekretariat@cranstava.edu.pl",
+                "contact:website": "http:\/\/www.szkola-chrzastawa.edupage.org",
+                "ref:regon": "001181498",
+                "operator": "Gmina Czernica",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 124634,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.19002,
+                    51.09277
+                ]
+            },
+            "properties": {
+                "ref:rspo": 124634,
+                "official_name": "Przedszkole Niepubliczne \"Mini World\"",
+                "name": "Przedszkole Niepubliczne \"Mini World\"",
+                "addr:country": "PL",
+                "addr:postcode": "55-002",
+                "addr:city": "Dobrzykowice",
+                "addr:street": "ul. Kolejowa",
+                "addr:housenumber": "19",
+                "addr:teryt:simc": 8828,
+                "addr:teryt:sym_ul": 873521,
+                "contact:phone": "+48 669239320",
+                "contact:email": "biuro@miniworld.com.pl",
+                "contact:website": "http:\/\/miniworld.com.pl",
+                "ref:regon": "022489490",
+                "operator": "Magdalena Mi\u015bkiewicz",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 196444,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.19002,
+                    51.09274
+                ]
+            },
+            "properties": {
+                "ref:rspo": 196444,
+                "official_name": "Przedszkole Publiczne Mini World",
+                "name": "Przedszkole Publiczne Mini World",
+                "addr:country": "PL",
+                "addr:postcode": "55-002",
+                "addr:city": "Dobrzykowice",
+                "addr:street": "ul. Kolejowa",
+                "addr:housenumber": "19",
+                "addr:teryt:simc": 8828,
+                "addr:teryt:sym_ul": 873521,
+                "contact:phone": "+48 669239320",
+                "contact:email": "biuro@miniworld.com.pl",
+                "contact:website": "http:\/\/www.miniworld.com.pl",
+                "ref:regon": "368013670",
+                "operator": "Magdalena Mi\u015bkiewicz",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 267603,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.1906,
+                    51.09298
+                ]
+            },
+            "properties": {
+                "ref:rspo": 267603,
+                "official_name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w Dobrzykowicach",
+                "name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w Dobrzykowicach",
+                "addr:country": "PL",
+                "addr:postcode": "55-002",
+                "addr:city": "Dobrzykowice",
+                "addr:street": "ul. Sukcesu",
+                "addr:housenumber": "2",
+                "addr:teryt:simc": 51147,
+                "addr:teryt:sym_ul": 873521,
+                "contact:phone": "+48 713185581",
+                "contact:email": "dobrzykowice@wp.pl",
+                "contact:website": "http:\/\/www.spdobrzykowice.edupage.org",
+                "ref:regon": "380428960",
+                "operator": "Gmina Czernica",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 27298;267640"
+            }
+        },
+        {
+            "id": 27298,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.1906,
+                    51.092949999999995
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 27298,
+                "official_name": "Szko\u0142a Podstawowa im. Stulecia Odzyskania Niepodleg\u0142o\u015bci Polski w Dobrzykowicach",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "55-002",
+                "addr:city": "Dobrzykowice",
+                "addr:street": "ul. Sukcesu",
+                "addr:housenumber": "2",
+                "addr:teryt:simc": 51147,
+                "addr:teryt:sym_ul": 873521,
+                "contact:phone": "+48 713185581",
+                "contact:email": "sekretariat@zspdobrzykowice.edupoczta.pl",
+                "contact:website": "http:\/\/www.spdobrzykowice.edupage.org",
+                "ref:regon": "001268667",
+                "operator": "Gmina Czernica",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 267603"
+            }
+        },
+        {
+            "id": 267640,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.1906,
+                    51.09292
+                ]
+            },
+            "properties": {
+                "ref:rspo": 267640,
+                "official_name": "Przedszkole Publiczne w Dobrzykowicach",
+                "name": "Przedszkole Publiczne w Dobrzykowicach",
+                "addr:country": "PL",
+                "addr:postcode": "55-002",
+                "addr:city": "Dobrzykowice",
+                "addr:street": "ul. Sukcesu",
+                "addr:housenumber": "2",
+                "addr:teryt:simc": 51147,
+                "addr:teryt:sym_ul": 873521,
+                "contact:phone": "+48 713185581",
+                "contact:email": "sekretariat@zspdobrzykowice.edupoczta.pl",
+                "ref:regon": "380473238",
+                "operator": "Gmina Czernica",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 267603"
+            }
+        }
+    ]
+}

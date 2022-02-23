@@ -1,1 +1,125 @@
-{"type":"FeatureCollection","features":[{"id":41642,"type":"Feature","geometry":{"type":"Point","coordinates":[22.83851,50.65563]},"properties":{"isced:level":"1;2","ref:rspo":41642,"official_name":"Publiczna Szko\u0142a Podstawowa w Czarnymstoku","name":"Publiczna Szko\u0142a Podstawowa w Czarnymstoku","addr:country":"PL","addr:postcode":"22-463","addr:place":"Czarnystok","addr:housenumber":"129A","addr:teryt:sym_ul":897059,"contact:phone":"+48 846810001","contact:email":"sp-czarnystok@wp.pl","contact:website":"http:\/\/szkolaczarnystok.blogspot.com","ref:regon":"001136204","ref:vatin":"PL9222432408","operator":"Gmina Radecznica","operator:type":"government","amenity":"school"}},{"id":41464,"type":"Feature","geometry":{"type":"Point","coordinates":[22.84196,50.688]},"properties":{"isced:level":"1;2","ref:rspo":41464,"official_name":"Publiczna Szko\u0142a Podstawowa w Gorajcu","name":"Publiczna Szko\u0142a Podstawowa w Gorajcu","addr:country":"PL","addr:postcode":"22-463","addr:place":"Gorajec-Stara Wie\u015b","addr:housenumber":"114","addr:teryt:sym_ul":897119,"contact:phone":"+48 846810560","contact:email":"zs_gorajec@wp.pl","contact:website":"http:\/\/szkola.gorajec.pl\/","ref:regon":"001136049","ref:vatin":"PL9223051559","operator":"Gmina Radecznica","operator:type":"government","amenity":"school"}},{"id":41462,"type":"Feature","geometry":{"type":"Point","coordinates":[22.84938,50.72552]},"properties":{"isced:level":"1;2","ref:rspo":41462,"official_name":"Publiczna Szko\u0142a Podstawowa im. Jana Paw\u0142a II w Zaburzu","name":"Publiczna Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"22-463","addr:place":"Zaburze","addr:housenumber":"100","addr:teryt:sym_ul":897450,"contact:phone":"+48 846818047","contact:email":"sp_zaburz@gazeta.pl","ref:regon":"001224569","ref:vatin":"PL9222432383","operator":"Gmina Radecznica","operator:type":"government","amenity":"school"}},{"id":41458,"type":"Feature","geometry":{"type":"Point","coordinates":[22.8257,50.75501]},"properties":{"isced:level":"1;2","ref:rspo":41458,"official_name":"Publiczna Szko\u0142a Podstawowa w Radecznicy","name":"Publiczna Szko\u0142a Podstawowa w Radecznicy","addr:country":"PL","addr:postcode":"22-463","addr:city":"Radecznica","addr:street":"ul. Gwarna","addr:housenumber":"4","addr:teryt:simc":6415,"addr:teryt:sym_ul":897421,"contact:phone":"+48 846818691","contact:email":"sp_radecznica@poczta.onet.pl","ref:regon":"000630913","ref:vatin":"PL9222432414","operator":"Gmina Radecznica","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 41642,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.83851,
+                    50.65563
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 41642,
+                "official_name": "Publiczna Szko\u0142a Podstawowa w Czarnymstoku",
+                "name": "Publiczna Szko\u0142a Podstawowa w Czarnymstoku",
+                "addr:country": "PL",
+                "addr:postcode": "22-463",
+                "addr:place": "Czarnystok",
+                "addr:housenumber": "129A",
+                "addr:teryt:sym_ul": 897059,
+                "contact:phone": "+48 846810001",
+                "contact:email": "sp-czarnystok@wp.pl",
+                "contact:website": "http:\/\/szkolaczarnystok.blogspot.com",
+                "ref:regon": "001136204",
+                "ref:vatin": "PL9222432408",
+                "operator": "Gmina Radecznica",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 41464,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.84196,
+                    50.688
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 41464,
+                "official_name": "Publiczna Szko\u0142a Podstawowa w Gorajcu",
+                "name": "Publiczna Szko\u0142a Podstawowa w Gorajcu",
+                "addr:country": "PL",
+                "addr:postcode": "22-463",
+                "addr:place": "Gorajec-Stara Wie\u015b",
+                "addr:housenumber": "114",
+                "addr:teryt:sym_ul": 897119,
+                "contact:phone": "+48 846810560",
+                "contact:email": "zs_gorajec@wp.pl",
+                "contact:website": "http:\/\/szkola.gorajec.pl\/",
+                "ref:regon": "001136049",
+                "ref:vatin": "PL9223051559",
+                "operator": "Gmina Radecznica",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 41462,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.84938,
+                    50.72552
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 41462,
+                "official_name": "Publiczna Szko\u0142a Podstawowa im. Jana Paw\u0142a II w Zaburzu",
+                "name": "Publiczna Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "22-463",
+                "addr:place": "Zaburze",
+                "addr:housenumber": "100",
+                "addr:teryt:sym_ul": 897450,
+                "contact:phone": "+48 846818047",
+                "contact:email": "sp_zaburz@gazeta.pl",
+                "ref:regon": "001224569",
+                "ref:vatin": "PL9222432383",
+                "operator": "Gmina Radecznica",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 41458,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.8257,
+                    50.75501
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 41458,
+                "official_name": "Publiczna Szko\u0142a Podstawowa w Radecznicy",
+                "name": "Publiczna Szko\u0142a Podstawowa w Radecznicy",
+                "addr:country": "PL",
+                "addr:postcode": "22-463",
+                "addr:city": "Radecznica",
+                "addr:street": "ul. Gwarna",
+                "addr:housenumber": "4",
+                "addr:teryt:simc": 6415,
+                "addr:teryt:sym_ul": 897421,
+                "contact:phone": "+48 846818691",
+                "contact:email": "sp_radecznica@poczta.onet.pl",
+                "ref:regon": "000630913",
+                "ref:vatin": "PL9222432414",
+                "operator": "Gmina Radecznica",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

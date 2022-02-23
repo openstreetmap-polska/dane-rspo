@@ -1,1 +1,218 @@
-{"type":"FeatureCollection","features":[{"id":131986,"type":"Feature","geometry":{"type":"Point","coordinates":[23.10979,50.86197]},"properties":{"isced:level":"1;2","ref:rspo":131986,"official_name":"Szko\u0142a Podstawowa w Tarzymiechach","name":"Szko\u0142a Podstawowa w Tarzymiechach","addr:country":"PL","addr:postcode":"22-375","addr:place":"Tarzymiechy Pierwsze","addr:housenumber":"72","addr:door":"-","addr:teryt:sym_ul":889870,"contact:phone":"+48 846183174","contact:email":"sptarzymiechy@wp.pl","contact:website":"http:\/\/sptarzymiechy72.edupage.org","ref:regon":"365400395","ref:vatin":"PL5641597023","operator":"Gmina Izbica","operator:type":"government","amenity":"school"}},{"id":265969,"type":"Feature","geometry":{"type":"Point","coordinates":[23.0735,50.87582]},"properties":{"isced:level":"1;2","ref:rspo":265969,"official_name":"Szko\u0142a Podstawowa w Wirkowicach","name":"Szko\u0142a Podstawowa w Wirkowicach","addr:country":"PL","addr:postcode":"22-375","addr:place":"Wirkowice Drugie","addr:housenumber":"20","addr:teryt:sym_ul":889947,"contact:phone":"+48 846183175","contact:email":"spwirkowice@gmail.com","contact:website":"http:\/\/spwirkowice.edupage.org","ref:regon":"369091749","ref:vatin":"PL5641597069","operator":"Gmina Izbica","operator:type":"government","amenity":"school"}},{"id":13136,"type":"Feature","geometry":{"type":"Point","coordinates":[23.16185,50.89279]},"properties":{"isced:level":"1;2","ref:rspo":13136,"official_name":"Szko\u0142a Podstawowa im.marii Konopnickiej w Izbicy","name":"Szko\u0142a Podstawowa im.marii Konopnickiej w Izbicy","addr:country":"PL","addr:postcode":"22-375","addr:city":"Izbica","addr:street":"ul. Szkolna","addr:housenumber":"13","addr:teryt:simc":21970,"addr:teryt:sym_ul":889700,"contact:phone":"+48 846183092","contact:email":"zsizbica@gmail.com","contact:website":"http:\/\/www.spizbica.edupage.org","ref:regon":"110598067","ref:vatin":"PL5641597000","operator":"Gmina Izbica","operator:type":"government","amenity":"school"}},{"id":265968,"type":"Feature","geometry":{"type":"Point","coordinates":[23.13386,50.89519]},"properties":{"isced:level":"1;2","ref:rspo":265968,"official_name":"Szko\u0142a Podstawowa w Tarnog\u00f3rze","name":"Szko\u0142a Podstawowa w Tarnog\u00f3rze","addr:country":"PL","addr:postcode":"22-375","addr:city":"Tarnog\u00f3ra","addr:street":"ul. Krakowskie Przedmie\u015bcie","addr:housenumber":"74","addr:teryt:simc":9803,"addr:teryt:sym_ul":889858,"contact:phone":"+48 846183056","contact:email":"aciechanska@o2.pl","ref:regon":"369091726","ref:vatin":"PL5641597052","operator":"Gmina Izbica","operator:type":"government","amenity":"school"}},{"id":8292,"type":"Feature","geometry":{"type":"Point","coordinates":[23.16382,50.8973299]},"properties":{"ref:rspo":8292,"official_name":"Samorz\u0105dowe Przedszkole w Izbicy","name":"Samorz\u0105dowe Przedszkole w Izbicy","addr:country":"PL","addr:postcode":"22-375","addr:city":"Izbica","addr:street":"ul. Klinkierniana","addr:housenumber":"1","addr:teryt:simc":8563,"addr:teryt:sym_ul":889700,"contact:phone":"+48 846183018","contact:email":"przedszkolewizbicy@gmail.com","ref:regon":"000896686","ref:vatin":"PL9222209975","operator":"Gmina Izbica","operator:type":"government","amenity":"kindergarten"}},{"id":131987,"type":"Feature","geometry":{"type":"Point","coordinates":[23.09469,50.90487]},"properties":{"isced:level":"1;2","ref:rspo":131987,"official_name":"Szko\u0142a Podstawowa w Tarnog\u00f3rze-Kolonii","name":"Szko\u0142a Podstawowa w Tarnog\u00f3rze-Kolonii","addr:country":"PL","addr:postcode":"22-375","addr:place":"Tarnog\u00f3ra-Kolonia","addr:housenumber":"72","addr:door":"-","addr:teryt:sym_ul":889864,"contact:phone":"+48 846183085","contact:email":"etokarska40@interia.pl","ref:regon":"365400478","ref:vatin":"PL5641596986","operator":"Gmina Izbica","operator:type":"government","amenity":"school"}},{"id":13214,"type":"Feature","geometry":{"type":"Point","coordinates":[23.20878,50.9052]},"properties":{"isced:level":"1;2","ref:rspo":13214,"official_name":"Szko\u0142a Podstawowa im. Jana Paw\u0142a - Papie\u017ca w Or\u0142owie Drewnianym","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"22-375","addr:place":"Or\u0142\u00f3w Drewniany","addr:housenumber":"60A","addr:teryt:sym_ul":889775,"contact:phone":"+48 846183420","contact:email":"renatazmijak@op.pl","ref:regon":"001134100","ref:vatin":"PL5641702402","operator":"Gmina Izbica","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 131986,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.10979,
+                    50.86197
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 131986,
+                "official_name": "Szko\u0142a Podstawowa w Tarzymiechach",
+                "name": "Szko\u0142a Podstawowa w Tarzymiechach",
+                "addr:country": "PL",
+                "addr:postcode": "22-375",
+                "addr:place": "Tarzymiechy Pierwsze",
+                "addr:housenumber": "72",
+                "addr:door": "-",
+                "addr:teryt:sym_ul": 889870,
+                "contact:phone": "+48 846183174",
+                "contact:email": "sptarzymiechy@wp.pl",
+                "contact:website": "http:\/\/sptarzymiechy72.edupage.org",
+                "ref:regon": "365400395",
+                "ref:vatin": "PL5641597023",
+                "operator": "Gmina Izbica",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 265969,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.0735,
+                    50.87582
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 265969,
+                "official_name": "Szko\u0142a Podstawowa w Wirkowicach",
+                "name": "Szko\u0142a Podstawowa w Wirkowicach",
+                "addr:country": "PL",
+                "addr:postcode": "22-375",
+                "addr:place": "Wirkowice Drugie",
+                "addr:housenumber": "20",
+                "addr:teryt:sym_ul": 889947,
+                "contact:phone": "+48 846183175",
+                "contact:email": "spwirkowice@gmail.com",
+                "contact:website": "http:\/\/spwirkowice.edupage.org",
+                "ref:regon": "369091749",
+                "ref:vatin": "PL5641597069",
+                "operator": "Gmina Izbica",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 13136,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.16185,
+                    50.89279
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 13136,
+                "official_name": "Szko\u0142a Podstawowa im.marii Konopnickiej w Izbicy",
+                "name": "Szko\u0142a Podstawowa im.marii Konopnickiej w Izbicy",
+                "addr:country": "PL",
+                "addr:postcode": "22-375",
+                "addr:city": "Izbica",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "13",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 889700,
+                "contact:phone": "+48 846183092",
+                "contact:email": "zsizbica@gmail.com",
+                "contact:website": "http:\/\/www.spizbica.edupage.org",
+                "ref:regon": "110598067",
+                "ref:vatin": "PL5641597000",
+                "operator": "Gmina Izbica",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 265968,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.13386,
+                    50.89519
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 265968,
+                "official_name": "Szko\u0142a Podstawowa w Tarnog\u00f3rze",
+                "name": "Szko\u0142a Podstawowa w Tarnog\u00f3rze",
+                "addr:country": "PL",
+                "addr:postcode": "22-375",
+                "addr:city": "Tarnog\u00f3ra",
+                "addr:street": "ul. Krakowskie Przedmie\u015bcie",
+                "addr:housenumber": "74",
+                "addr:teryt:simc": 9803,
+                "addr:teryt:sym_ul": 889858,
+                "contact:phone": "+48 846183056",
+                "contact:email": "aciechanska@o2.pl",
+                "ref:regon": "369091726",
+                "ref:vatin": "PL5641597052",
+                "operator": "Gmina Izbica",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 8292,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.16382,
+                    50.8973299
+                ]
+            },
+            "properties": {
+                "ref:rspo": 8292,
+                "official_name": "Samorz\u0105dowe Przedszkole w Izbicy",
+                "name": "Samorz\u0105dowe Przedszkole w Izbicy",
+                "addr:country": "PL",
+                "addr:postcode": "22-375",
+                "addr:city": "Izbica",
+                "addr:street": "ul. Klinkierniana",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 8563,
+                "addr:teryt:sym_ul": 889700,
+                "contact:phone": "+48 846183018",
+                "contact:email": "przedszkolewizbicy@gmail.com",
+                "ref:regon": "000896686",
+                "ref:vatin": "PL9222209975",
+                "operator": "Gmina Izbica",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 131987,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.09469,
+                    50.90487
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 131987,
+                "official_name": "Szko\u0142a Podstawowa w Tarnog\u00f3rze-Kolonii",
+                "name": "Szko\u0142a Podstawowa w Tarnog\u00f3rze-Kolonii",
+                "addr:country": "PL",
+                "addr:postcode": "22-375",
+                "addr:place": "Tarnog\u00f3ra-Kolonia",
+                "addr:housenumber": "72",
+                "addr:door": "-",
+                "addr:teryt:sym_ul": 889864,
+                "contact:phone": "+48 846183085",
+                "contact:email": "etokarska40@interia.pl",
+                "ref:regon": "365400478",
+                "ref:vatin": "PL5641596986",
+                "operator": "Gmina Izbica",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 13214,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.20878,
+                    50.9052
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 13214,
+                "official_name": "Szko\u0142a Podstawowa im. Jana Paw\u0142a - Papie\u017ca w Or\u0142owie Drewnianym",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "22-375",
+                "addr:place": "Or\u0142\u00f3w Drewniany",
+                "addr:housenumber": "60A",
+                "addr:teryt:sym_ul": 889775,
+                "contact:phone": "+48 846183420",
+                "contact:email": "renatazmijak@op.pl",
+                "ref:regon": "001134100",
+                "ref:vatin": "PL5641702402",
+                "operator": "Gmina Izbica",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

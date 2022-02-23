@@ -1,1 +1,189 @@
-{"type":"FeatureCollection","features":[{"id":104667,"type":"Feature","geometry":{"type":"Point","coordinates":[20.6162,50.571388]},"properties":{"isced:level":"1;2","ref:rspo":104667,"official_name":"Szko\u0142a Filialna w Gartatowicach","name":"Szko\u0142a Filialna w Gartatowicach","addr:country":"PL","addr:postcode":"28-404","addr:place":"Gartatowice","addr:housenumber":"12","addr:teryt:sym_ul":242625,"contact:phone":"+48 413568057","contact:email":"spgartatowice@interia.pl","ref:regon":"705232000","operator":"Gmina Kije","operator:type":"government","amenity":"school","note":"Parent RSPO: 72798"}},{"id":43033,"type":"Feature","geometry":{"type":"Point","coordinates":[20.5745169,50.606969]},"properties":{"ref:rspo":43033,"official_name":"Zesp\u00f3\u0142 Plac\u00f3wek O\u015bwiatowych w Kijach","name":"Zesp\u00f3\u0142 Plac\u00f3wek O\u015bwiatowych w Kijach","addr:country":"PL","addr:postcode":"28-404","addr:city":"Kije","addr:street":"ul. Szkolna","addr:housenumber":"21","addr:teryt:simc":21970,"addr:teryt:sym_ul":242750,"contact:phone":"+48 413568012","contact:email":"gimkije@gmail.com","ref:regon":"292831000","ref:vatin":"PL6621738952","operator":"Gmina Kije","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 72798;72931;72933"}},{"id":72798,"type":"Feature","geometry":{"type":"Point","coordinates":[20.5745169,50.606939]},"properties":{"isced:level":"1;2","ref:rspo":72798,"official_name":"Szko\u0142a Podstawowa w Kijach","name":"Szko\u0142a Podstawowa w Kijach","addr:country":"PL","addr:postcode":"28-404","addr:city":"Kije","addr:street":"ul. Szkolna","addr:housenumber":"21","addr:teryt:simc":21970,"addr:teryt:sym_ul":242750,"contact:phone":"+48 413568012","contact:email":"spkije@gmail.com","ref:regon":"000705232","operator":"Gmina Kije","operator:type":"government","amenity":"school","note":"Children RSPO: 104666;104667Parent RSPO: 43033"}},{"id":72931,"type":"Feature","geometry":{"type":"Point","coordinates":[20.5745169,50.606909]},"properties":{"ref:rspo":72931,"official_name":"Przedszkole Publiczne w Kijach","name":"Przedszkole Publiczne w Kijach","addr:country":"PL","addr:postcode":"28-404","addr:city":"Kije","addr:street":"ul. Szkolna","addr:housenumber":"21","addr:teryt:simc":21970,"addr:teryt:sym_ul":242750,"contact:phone":"+48 413568012","contact:email":"spkije@gmail.com","ref:regon":"290014313","operator":"Gmina Kije","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 43033"}},{"id":72933,"type":"Feature","geometry":{"type":"Point","coordinates":[20.58692,50.64922]},"properties":{"ref:rspo":72933,"official_name":"Przedszkole Publiczne we W\u0142oszczowicach","name":"Przedszkole Publiczne we W\u0142oszczowicach","addr:country":"PL","addr:postcode":"28-404","addr:city":"W\u0142oszczowice","addr:street":"ul. Szkolna","addr:housenumber":"3","addr:teryt:simc":21970,"addr:teryt:sym_ul":243174,"contact:phone":"+48 413568095","contact:email":"ulks@wloszczowice.pl","ref:regon":"290014336","operator":"Gmina Kije","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 43033"}},{"id":104666,"type":"Feature","geometry":{"type":"Point","coordinates":[20.58692,50.64919]},"properties":{"isced:level":"1;2","ref:rspo":104666,"official_name":"Szko\u0142a Filialna we W\u0142oszczowicach","name":"Szko\u0142a Filialna we W\u0142oszczowicach","addr:country":"PL","addr:postcode":"28-404","addr:city":"W\u0142oszczowice","addr:street":"ul. Szkolna","addr:housenumber":"3","addr:teryt:simc":21970,"addr:teryt:sym_ul":243174,"contact:phone":"+48 413568095","contact:email":"ulks@wloszczowice.pl","contact:website":"http:\/\/www.wloszczowice.pl","ref:regon":"705232000","operator":"Gmina Kije","operator:type":"government","amenity":"school","note":"Parent RSPO: 72798"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 104667,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.6162,
+                    50.571388
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 104667,
+                "official_name": "Szko\u0142a Filialna w Gartatowicach",
+                "name": "Szko\u0142a Filialna w Gartatowicach",
+                "addr:country": "PL",
+                "addr:postcode": "28-404",
+                "addr:place": "Gartatowice",
+                "addr:housenumber": "12",
+                "addr:teryt:sym_ul": 242625,
+                "contact:phone": "+48 413568057",
+                "contact:email": "spgartatowice@interia.pl",
+                "ref:regon": "705232000",
+                "operator": "Gmina Kije",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 72798"
+            }
+        },
+        {
+            "id": 43033,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.5745169,
+                    50.606969
+                ]
+            },
+            "properties": {
+                "ref:rspo": 43033,
+                "official_name": "Zesp\u00f3\u0142 Plac\u00f3wek O\u015bwiatowych w Kijach",
+                "name": "Zesp\u00f3\u0142 Plac\u00f3wek O\u015bwiatowych w Kijach",
+                "addr:country": "PL",
+                "addr:postcode": "28-404",
+                "addr:city": "Kije",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "21",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 242750,
+                "contact:phone": "+48 413568012",
+                "contact:email": "gimkije@gmail.com",
+                "ref:regon": "292831000",
+                "ref:vatin": "PL6621738952",
+                "operator": "Gmina Kije",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 72798;72931;72933"
+            }
+        },
+        {
+            "id": 72798,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.5745169,
+                    50.606939
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 72798,
+                "official_name": "Szko\u0142a Podstawowa w Kijach",
+                "name": "Szko\u0142a Podstawowa w Kijach",
+                "addr:country": "PL",
+                "addr:postcode": "28-404",
+                "addr:city": "Kije",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "21",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 242750,
+                "contact:phone": "+48 413568012",
+                "contact:email": "spkije@gmail.com",
+                "ref:regon": "000705232",
+                "operator": "Gmina Kije",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Children RSPO: 104666;104667Parent RSPO: 43033"
+            }
+        },
+        {
+            "id": 72931,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.5745169,
+                    50.606909
+                ]
+            },
+            "properties": {
+                "ref:rspo": 72931,
+                "official_name": "Przedszkole Publiczne w Kijach",
+                "name": "Przedszkole Publiczne w Kijach",
+                "addr:country": "PL",
+                "addr:postcode": "28-404",
+                "addr:city": "Kije",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "21",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 242750,
+                "contact:phone": "+48 413568012",
+                "contact:email": "spkije@gmail.com",
+                "ref:regon": "290014313",
+                "operator": "Gmina Kije",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 43033"
+            }
+        },
+        {
+            "id": 72933,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.58692,
+                    50.64922
+                ]
+            },
+            "properties": {
+                "ref:rspo": 72933,
+                "official_name": "Przedszkole Publiczne we W\u0142oszczowicach",
+                "name": "Przedszkole Publiczne we W\u0142oszczowicach",
+                "addr:country": "PL",
+                "addr:postcode": "28-404",
+                "addr:city": "W\u0142oszczowice",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "3",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 243174,
+                "contact:phone": "+48 413568095",
+                "contact:email": "ulks@wloszczowice.pl",
+                "ref:regon": "290014336",
+                "operator": "Gmina Kije",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 43033"
+            }
+        },
+        {
+            "id": 104666,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.58692,
+                    50.64919
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 104666,
+                "official_name": "Szko\u0142a Filialna we W\u0142oszczowicach",
+                "name": "Szko\u0142a Filialna we W\u0142oszczowicach",
+                "addr:country": "PL",
+                "addr:postcode": "28-404",
+                "addr:city": "W\u0142oszczowice",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "3",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 243174,
+                "contact:phone": "+48 413568095",
+                "contact:email": "ulks@wloszczowice.pl",
+                "contact:website": "http:\/\/www.wloszczowice.pl",
+                "ref:regon": "705232000",
+                "operator": "Gmina Kije",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 72798"
+            }
+        }
+    ]
+}

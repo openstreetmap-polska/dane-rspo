@@ -1,1 +1,237 @@
-{"type":"FeatureCollection","features":[{"id":13232,"type":"Feature","geometry":{"type":"Point","coordinates":[22.96867,50.60794]},"properties":{"isced:level":"3","ref:rspo":13232,"official_name":"Technikum im. Jana Zamoyskiego w Zwierzy\u0144cu","name":"Technikum","addr:country":"PL","addr:postcode":"22-470","addr:city":"Zwierzyniec","addr:street":"ul. Browarna","addr:housenumber":"1","addr:door":"1","addr:teryt:simc":2148,"addr:teryt:sym_ul":988253,"contact:phone":"+48 846872020","contact:email":"zsdios@interia.pl","contact:website":"http:\/\/zsdios.pl","ref:regon":"951153138","ref:vatin":"PL9221070771","operator":"Powiat Zamojski","operator:type":"government","amenity":"school"}},{"id":129279,"type":"Feature","geometry":{"type":"Point","coordinates":[22.96956,50.6123199]},"properties":{"ref:rspo":129279,"official_name":"Niepubliczne Przedszkole Motylek Justyna Kur","name":"Niepubliczne Przedszkole Motylek Justyna Kur","addr:country":"PL","addr:postcode":"22-470","addr:city":"Zwierzyniec","addr:street":"ul. Parkowa","addr:housenumber":"5A","addr:teryt:simc":15710,"addr:teryt:sym_ul":988253,"contact:phone":"+48 690482106","ref:regon":"362541310","ref:vatin":"PL9222868011","operator":"Justyna Kur","operator:type":"private","amenity":"kindergarten"}},{"id":115300,"type":"Feature","geometry":{"type":"Point","coordinates":[22.96935,50.61461]},"properties":{"isced:level":"1;2","ref:rspo":115300,"official_name":"Szko\u0142a Podstawowa im. Dzieci Zamojszczyzny w Zwierzy\u0144cu","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"22-470","addr:city":"Zwierzyniec","addr:street":"ul. Partyzant\u00f3w","addr:housenumber":"3","addr:teryt:simc":15733,"addr:teryt:sym_ul":988253,"contact:phone":"+48 846872142","contact:email":"sp-zwierzyniec3@wp.pl","ref:regon":"000563789","ref:vatin":"PL9223044594","operator":"Gmina Zwierzyniec","operator:type":"government","amenity":"school","note":"Children RSPO: 118643"}},{"id":88245,"type":"Feature","geometry":{"type":"Point","coordinates":[22.96455,50.61478]},"properties":{"ref:rspo":88245,"official_name":"Przedszkole Samorz\u0105dowe im. Wandy Cebrykow","name":"Przedszkole Samorz\u0105dowe","addr:country":"PL","addr:postcode":"22-470","addr:city":"Zwierzyniec","addr:street":"ul. S\u0142owackiego","addr:housenumber":"2","addr:teryt:simc":20286,"addr:teryt:sym_ul":988253,"contact:phone":"+48 846872008","contact:email":"przedszkole-zwierzyniec@o2.pl","ref:regon":"950444201","ref:vatin":"PL9222430361","operator":"Gmina Zwierzyniec","operator:type":"government","amenity":"kindergarten"}},{"id":127959,"type":"Feature","geometry":{"type":"Point","coordinates":[22.97181,50.61554]},"properties":{"ref:rspo":127959,"official_name":"Szkolne Schronisko M\u0142odzie\u017cowe w Zwierzy\u0144cu","name":"Szkolne Schronisko M\u0142odzie\u017cowe w Zwierzy\u0144cu","addr:country":"PL","addr:postcode":"22-470","addr:city":"Zwierzyniec","addr:street":"ul. Armii Krajowej","addr:housenumber":"36","addr:teryt:simc":432,"addr:teryt:sym_ul":988253,"contact:phone":"+48 846873275","ref:regon":"361995121","operator":"Gmina Zwierzyniec","operator:type":"government","tourism":"hostel"}},{"id":88369,"type":"Feature","geometry":{"type":"Point","coordinates":[22.9496,50.62099]},"properties":{"ref:rspo":88369,"official_name":"Punkt Przedszkolny w Wyw\u0142oczce","name":"Punkt Przedszkolny w Wyw\u0142oczce","addr:country":"PL","addr:postcode":"22-470","addr:place":"Wyw\u0142oczka","addr:housenumber":"153","addr:teryt:sym_ul":907154,"contact:phone":"+48 846872301","ref:regon":"061489870","operator":"Stowarzyszenie Profilaktyczno-Edukacyjne \"Razem\" W Zwierzy\u0144cu","operator:type":"ngo","amenity":"kindergarten"}},{"id":118643,"type":"Feature","geometry":{"type":"Point","coordinates":[22.9496,50.62096]},"properties":{"isced:level":"1;2","ref:rspo":118643,"official_name":"Szko\u0142a Filialna im. Marii I Jana Pacze\u015bnych w Wyw\u0142oczce","name":"Szko\u0142a Filialna","addr:country":"PL","addr:postcode":"22-470","addr:place":"Wyw\u0142oczka","addr:housenumber":"153","addr:teryt:sym_ul":907154,"contact:phone":"+48 846879240","ref:regon":"563789000","operator":"Gmina Zwierzyniec","operator:type":"government","amenity":"school","note":"Parent RSPO: 115300"}},{"id":264040,"type":"Feature","geometry":{"type":"Point","coordinates":[22.96334,50.66832]},"properties":{"ref:rspo":264040,"official_name":"Publiczny Punkt Przedszkolny \"Le\u015bne Skrzaty\"","name":"Publiczny Punkt Przedszkolny \"Le\u015bne Skrzaty\"","addr:country":"PL","addr:postcode":"22-470","addr:place":"\u017burawnica","addr:housenumber":"85","addr:teryt:sym_ul":907160,"contact:email":"lesneskrzaty@zurawnica.pl","ref:regon":"368254356","operator":"Stowarzyszenie Aktywnych Kobiet W \u017burawnicy","operator:type":"ngo","amenity":"kindergarten"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 13232,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.96867,
+                    50.60794
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 13232,
+                "official_name": "Technikum im. Jana Zamoyskiego w Zwierzy\u0144cu",
+                "name": "Technikum",
+                "addr:country": "PL",
+                "addr:postcode": "22-470",
+                "addr:city": "Zwierzyniec",
+                "addr:street": "ul. Browarna",
+                "addr:housenumber": "1",
+                "addr:door": "1",
+                "addr:teryt:simc": 2148,
+                "addr:teryt:sym_ul": 988253,
+                "contact:phone": "+48 846872020",
+                "contact:email": "zsdios@interia.pl",
+                "contact:website": "http:\/\/zsdios.pl",
+                "ref:regon": "951153138",
+                "ref:vatin": "PL9221070771",
+                "operator": "Powiat Zamojski",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 129279,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.96956,
+                    50.6123199
+                ]
+            },
+            "properties": {
+                "ref:rspo": 129279,
+                "official_name": "Niepubliczne Przedszkole Motylek Justyna Kur",
+                "name": "Niepubliczne Przedszkole Motylek Justyna Kur",
+                "addr:country": "PL",
+                "addr:postcode": "22-470",
+                "addr:city": "Zwierzyniec",
+                "addr:street": "ul. Parkowa",
+                "addr:housenumber": "5A",
+                "addr:teryt:simc": 15710,
+                "addr:teryt:sym_ul": 988253,
+                "contact:phone": "+48 690482106",
+                "ref:regon": "362541310",
+                "ref:vatin": "PL9222868011",
+                "operator": "Justyna Kur",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 115300,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.96935,
+                    50.61461
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 115300,
+                "official_name": "Szko\u0142a Podstawowa im. Dzieci Zamojszczyzny w Zwierzy\u0144cu",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "22-470",
+                "addr:city": "Zwierzyniec",
+                "addr:street": "ul. Partyzant\u00f3w",
+                "addr:housenumber": "3",
+                "addr:teryt:simc": 15733,
+                "addr:teryt:sym_ul": 988253,
+                "contact:phone": "+48 846872142",
+                "contact:email": "sp-zwierzyniec3@wp.pl",
+                "ref:regon": "000563789",
+                "ref:vatin": "PL9223044594",
+                "operator": "Gmina Zwierzyniec",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Children RSPO: 118643"
+            }
+        },
+        {
+            "id": 88245,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.96455,
+                    50.61478
+                ]
+            },
+            "properties": {
+                "ref:rspo": 88245,
+                "official_name": "Przedszkole Samorz\u0105dowe im. Wandy Cebrykow",
+                "name": "Przedszkole Samorz\u0105dowe",
+                "addr:country": "PL",
+                "addr:postcode": "22-470",
+                "addr:city": "Zwierzyniec",
+                "addr:street": "ul. S\u0142owackiego",
+                "addr:housenumber": "2",
+                "addr:teryt:simc": 20286,
+                "addr:teryt:sym_ul": 988253,
+                "contact:phone": "+48 846872008",
+                "contact:email": "przedszkole-zwierzyniec@o2.pl",
+                "ref:regon": "950444201",
+                "ref:vatin": "PL9222430361",
+                "operator": "Gmina Zwierzyniec",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 127959,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.97181,
+                    50.61554
+                ]
+            },
+            "properties": {
+                "ref:rspo": 127959,
+                "official_name": "Szkolne Schronisko M\u0142odzie\u017cowe w Zwierzy\u0144cu",
+                "name": "Szkolne Schronisko M\u0142odzie\u017cowe w Zwierzy\u0144cu",
+                "addr:country": "PL",
+                "addr:postcode": "22-470",
+                "addr:city": "Zwierzyniec",
+                "addr:street": "ul. Armii Krajowej",
+                "addr:housenumber": "36",
+                "addr:teryt:simc": 432,
+                "addr:teryt:sym_ul": 988253,
+                "contact:phone": "+48 846873275",
+                "ref:regon": "361995121",
+                "operator": "Gmina Zwierzyniec",
+                "operator:type": "government",
+                "tourism": "hostel"
+            }
+        },
+        {
+            "id": 88369,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.9496,
+                    50.62099
+                ]
+            },
+            "properties": {
+                "ref:rspo": 88369,
+                "official_name": "Punkt Przedszkolny w Wyw\u0142oczce",
+                "name": "Punkt Przedszkolny w Wyw\u0142oczce",
+                "addr:country": "PL",
+                "addr:postcode": "22-470",
+                "addr:place": "Wyw\u0142oczka",
+                "addr:housenumber": "153",
+                "addr:teryt:sym_ul": 907154,
+                "contact:phone": "+48 846872301",
+                "ref:regon": "061489870",
+                "operator": "Stowarzyszenie Profilaktyczno-Edukacyjne \"Razem\" W Zwierzy\u0144cu",
+                "operator:type": "ngo",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 118643,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.9496,
+                    50.62096
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 118643,
+                "official_name": "Szko\u0142a Filialna im. Marii I Jana Pacze\u015bnych w Wyw\u0142oczce",
+                "name": "Szko\u0142a Filialna",
+                "addr:country": "PL",
+                "addr:postcode": "22-470",
+                "addr:place": "Wyw\u0142oczka",
+                "addr:housenumber": "153",
+                "addr:teryt:sym_ul": 907154,
+                "contact:phone": "+48 846879240",
+                "ref:regon": "563789000",
+                "operator": "Gmina Zwierzyniec",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 115300"
+            }
+        },
+        {
+            "id": 264040,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.96334,
+                    50.66832
+                ]
+            },
+            "properties": {
+                "ref:rspo": 264040,
+                "official_name": "Publiczny Punkt Przedszkolny \"Le\u015bne Skrzaty\"",
+                "name": "Publiczny Punkt Przedszkolny \"Le\u015bne Skrzaty\"",
+                "addr:country": "PL",
+                "addr:postcode": "22-470",
+                "addr:place": "\u017burawnica",
+                "addr:housenumber": "85",
+                "addr:teryt:sym_ul": 907160,
+                "contact:email": "lesneskrzaty@zurawnica.pl",
+                "ref:regon": "368254356",
+                "operator": "Stowarzyszenie Aktywnych Kobiet W \u017burawnicy",
+                "operator:type": "ngo",
+                "amenity": "kindergarten"
+            }
+        }
+    ]
+}

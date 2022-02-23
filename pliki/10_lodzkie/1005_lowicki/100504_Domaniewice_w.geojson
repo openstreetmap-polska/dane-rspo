@@ -1,1 +1,100 @@
-{"type":"FeatureCollection","features":[{"id":20328,"type":"Feature","geometry":{"type":"Point","coordinates":[19.8100099,52.007]},"properties":{"isced:level":"1;2","ref:rspo":20328,"official_name":"Szko\u0142a Podstawowa im. Jana Paw\u0142a II w Domaniewicach","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"99-434","addr:city":"Domaniewice","addr:street":"ul. G\u0142\u00f3wna","addr:housenumber":"13","addr:door":"-","addr:teryt:simc":5635,"addr:teryt:sym_ul":727311,"contact:phone":"+48 468383592","contact:email":"szkola_jp@domaniewice.pl","contact:website":"http:\/\/spdomaniewice.edupage.org","ref:regon":"000563542","ref:vatin":"PL8341055615","operator":"Gmina Domaniewice","operator:type":"government","amenity":"school"}},{"id":133466,"type":"Feature","geometry":{"type":"Point","coordinates":[19.8100099,52.006969999999995]},"properties":{"ref:rspo":133466,"official_name":"Publiczne Przedszkole w Domaniewicach Wraz Z Oddzia\u0142em Zamiejscowym w Skaratkach","name":"Publiczne Przedszkole w Domaniewicach Wraz Z Oddzia\u0142em Zamiejscowym w Skaratkach","addr:country":"PL","addr:postcode":"99-434","addr:city":"Domaniewice","addr:street":"ul. G\u0142\u00f3wna","addr:housenumber":"13","addr:teryt:simc":5635,"addr:teryt:sym_ul":727311,"contact:phone":"+48 468383579","contact:email":"przedszkole@domaniewice.pl","contact:website":"http:\/\/przedszkolewdomaniewicach.pl","ref:regon":"367338648","ref:vatin":"PL8341886894","operator":"Gmina Domaniewice","operator:type":"government","amenity":"kindergarten"}},{"id":23543,"type":"Feature","geometry":{"type":"Point","coordinates":[19.78762,52.02969]},"properties":{"isced:level":"1;2","ref:rspo":23543,"official_name":"Szko\u0142a Podstawowa im. Marii Konopnickiej w Skaratkach","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"99-434","addr:place":"Skaratki","addr:housenumber":"44A","addr:door":"-","addr:teryt:sym_ul":727676,"contact:phone":"+48 468383382","contact:email":"szkola_mk@domaniewice.pl","contact:website":"http:\/\/spskaratki.szkolnastrona.pl\/","ref:regon":"001112043","ref:vatin":"PL8341055785","operator":"Gmina Domaniewice","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 20328,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8100099,
+                    52.007
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 20328,
+                "official_name": "Szko\u0142a Podstawowa im. Jana Paw\u0142a II w Domaniewicach",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "99-434",
+                "addr:city": "Domaniewice",
+                "addr:street": "ul. G\u0142\u00f3wna",
+                "addr:housenumber": "13",
+                "addr:door": "-",
+                "addr:teryt:simc": 5635,
+                "addr:teryt:sym_ul": 727311,
+                "contact:phone": "+48 468383592",
+                "contact:email": "szkola_jp@domaniewice.pl",
+                "contact:website": "http:\/\/spdomaniewice.edupage.org",
+                "ref:regon": "000563542",
+                "ref:vatin": "PL8341055615",
+                "operator": "Gmina Domaniewice",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 133466,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8100099,
+                    52.006969999999995
+                ]
+            },
+            "properties": {
+                "ref:rspo": 133466,
+                "official_name": "Publiczne Przedszkole w Domaniewicach Wraz Z Oddzia\u0142em Zamiejscowym w Skaratkach",
+                "name": "Publiczne Przedszkole w Domaniewicach Wraz Z Oddzia\u0142em Zamiejscowym w Skaratkach",
+                "addr:country": "PL",
+                "addr:postcode": "99-434",
+                "addr:city": "Domaniewice",
+                "addr:street": "ul. G\u0142\u00f3wna",
+                "addr:housenumber": "13",
+                "addr:teryt:simc": 5635,
+                "addr:teryt:sym_ul": 727311,
+                "contact:phone": "+48 468383579",
+                "contact:email": "przedszkole@domaniewice.pl",
+                "contact:website": "http:\/\/przedszkolewdomaniewicach.pl",
+                "ref:regon": "367338648",
+                "ref:vatin": "PL8341886894",
+                "operator": "Gmina Domaniewice",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 23543,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.78762,
+                    52.02969
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 23543,
+                "official_name": "Szko\u0142a Podstawowa im. Marii Konopnickiej w Skaratkach",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "99-434",
+                "addr:place": "Skaratki",
+                "addr:housenumber": "44A",
+                "addr:door": "-",
+                "addr:teryt:sym_ul": 727676,
+                "contact:phone": "+48 468383382",
+                "contact:email": "szkola_mk@domaniewice.pl",
+                "contact:website": "http:\/\/spskaratki.szkolnastrona.pl\/",
+                "ref:regon": "001112043",
+                "ref:vatin": "PL8341055785",
+                "operator": "Gmina Domaniewice",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

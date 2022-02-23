@@ -1,1 +1,127 @@
-{"type":"FeatureCollection","features":[{"id":12274,"type":"Feature","geometry":{"type":"Point","coordinates":[18.66223,53.4817899]},"properties":{"ref:rspo":12274,"official_name":"Przedszkole Samorz\u0105dowe","name":"Przedszkole Samorz\u0105dowe","addr:country":"PL","addr:postcode":"86-134","addr:city":"G\u00f3rna Grupa","addr:street":"ul. \u015awiecka","addr:housenumber":"9","addr:teryt:simc":22475,"addr:teryt:sym_ul":84729,"contact:phone":"+48 523325612","contact:email":"dyrektor.przedszkole@dragacz.pl","contact:website":"http:\/\/www.przedszkolegornagrupa.blizej.info","ref:regon":"091485452","ref:vatin":"PL5591785023","operator":"Gmina Dragacz","operator:type":"government","amenity":"kindergarten"}},{"id":262692,"type":"Feature","geometry":{"type":"Point","coordinates":[18.72291,53.486765]},"properties":{"isced:level":"1;2","ref:rspo":262692,"official_name":"Szko\u0142a Podstawowa w Michalu","name":"Szko\u0142a Podstawowa w Michalu","addr:country":"PL","addr:postcode":"86-134","addr:place":"Michale","addr:housenumber":"101A","addr:teryt:sym_ul":84741,"contact:phone":"+48 523325179","contact:email":"sekretariat.spmichale@dragacz.pl","contact:website":"http:\/\/spwmichalu.com","ref:regon":"368052368","operator":"Gmina Dragacz","operator:type":"government","amenity":"school"}},{"id":12264,"type":"Feature","geometry":{"type":"Point","coordinates":[18.7345559,53.501714]},"properties":{"isced:level":"1;2","ref:rspo":12264,"official_name":"Szko\u0142a Podstawowa im. Ziemi Kociewskiej w Dragaczu","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"86-134","addr:place":"Dragacz","addr:housenumber":"60A","addr:teryt:sym_ul":84681,"contact:phone":"+48 523325187","contact:email":"drag2066@wp.pl","contact:website":"http:\/\/www.szkoladragacz.republika.pl\/","ref:regon":"001198850","ref:vatin":"PL5591785000","operator":"Gmina Dragacz","operator:type":"government","amenity":"school"}},{"id":11963,"type":"Feature","geometry":{"type":"Point","coordinates":[18.64341,53.50602]},"properties":{"isced:level":"1;2","ref:rspo":11963,"official_name":"Szko\u0142a Podstawowa im. 16. Pu\u0142ku U\u0142an\u00f3w Wielkopolskich w Grupie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"86-134","addr:city":"Grupa","addr:street":"ul. Szkolna","addr:housenumber":"2","addr:teryt:simc":21970,"addr:teryt:sym_ul":84735,"contact:phone":"+48 523325528","contact:email":"sekretariat.spgrupa@dragacz.pl","contact:website":"http:\/\/www.szkolagrupa.pl","ref:regon":"000266471","ref:vatin":"PL5591785017","operator":"Gmina Dragacz","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 12274,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.66223,
+                    53.4817899
+                ]
+            },
+            "properties": {
+                "ref:rspo": 12274,
+                "official_name": "Przedszkole Samorz\u0105dowe",
+                "name": "Przedszkole Samorz\u0105dowe",
+                "addr:country": "PL",
+                "addr:postcode": "86-134",
+                "addr:city": "G\u00f3rna Grupa",
+                "addr:street": "ul. \u015awiecka",
+                "addr:housenumber": "9",
+                "addr:teryt:simc": 22475,
+                "addr:teryt:sym_ul": 84729,
+                "contact:phone": "+48 523325612",
+                "contact:email": "dyrektor.przedszkole@dragacz.pl",
+                "contact:website": "http:\/\/www.przedszkolegornagrupa.blizej.info",
+                "ref:regon": "091485452",
+                "ref:vatin": "PL5591785023",
+                "operator": "Gmina Dragacz",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 262692,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.72291,
+                    53.486765
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 262692,
+                "official_name": "Szko\u0142a Podstawowa w Michalu",
+                "name": "Szko\u0142a Podstawowa w Michalu",
+                "addr:country": "PL",
+                "addr:postcode": "86-134",
+                "addr:place": "Michale",
+                "addr:housenumber": "101A",
+                "addr:teryt:sym_ul": 84741,
+                "contact:phone": "+48 523325179",
+                "contact:email": "sekretariat.spmichale@dragacz.pl",
+                "contact:website": "http:\/\/spwmichalu.com",
+                "ref:regon": "368052368",
+                "operator": "Gmina Dragacz",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 12264,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.7345559,
+                    53.501714
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 12264,
+                "official_name": "Szko\u0142a Podstawowa im. Ziemi Kociewskiej w Dragaczu",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "86-134",
+                "addr:place": "Dragacz",
+                "addr:housenumber": "60A",
+                "addr:teryt:sym_ul": 84681,
+                "contact:phone": "+48 523325187",
+                "contact:email": "drag2066@wp.pl",
+                "contact:website": "http:\/\/www.szkoladragacz.republika.pl\/",
+                "ref:regon": "001198850",
+                "ref:vatin": "PL5591785000",
+                "operator": "Gmina Dragacz",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 11963,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.64341,
+                    53.50602
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 11963,
+                "official_name": "Szko\u0142a Podstawowa im. 16. Pu\u0142ku U\u0142an\u00f3w Wielkopolskich w Grupie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "86-134",
+                "addr:city": "Grupa",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "2",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 84735,
+                "contact:phone": "+48 523325528",
+                "contact:email": "sekretariat.spgrupa@dragacz.pl",
+                "contact:website": "http:\/\/www.szkolagrupa.pl",
+                "ref:regon": "000266471",
+                "ref:vatin": "PL5591785017",
+                "operator": "Gmina Dragacz",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

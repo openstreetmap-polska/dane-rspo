@@ -1,1 +1,130 @@
-{"type":"FeatureCollection","features":[{"id":106463,"type":"Feature","geometry":{"type":"Point","coordinates":[17.66641,53.32179]},"properties":{"isced:level":"1;2","ref:rspo":106463,"official_name":"Szko\u0142a Podstawowa im. Mieczys\u0142awa Droboszewskiego w W\u0105welnie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"89-413","addr:city":"W\u0105welno","addr:street":"ul. Szkolna","addr:housenumber":"1","addr:teryt:simc":21970,"addr:teryt:sym_ul":96359,"contact:phone":"+48 523893012","contact:email":"sekretariat@spw.sosno.pl","contact:website":"http:\/\/spw.sosno.pl","ref:regon":"001157703","ref:vatin":"PL5040065178","operator":"Gmina So\u015bno","operator:type":"government","amenity":"school"}},{"id":106165,"type":"Feature","geometry":{"type":"Point","coordinates":[17.68915,53.3892]},"properties":{"isced:level":"1;2","ref:rspo":106165,"official_name":"Szko\u0142a Podstawowa im. Janusza Korczaka w So\u015bnie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"89-412","addr:city":"So\u015bno","addr:street":"ul. Kami\u0144skiego","addr:housenumber":"1","addr:teryt:simc":7902,"addr:teryt:sym_ul":96230,"contact:phone":"+48 523891210","contact:email":"sekretariat@sps.sosno.pl","contact:website":"http:\/\/www.zssosno.szkolna.net","ref:regon":"000562844","ref:vatin":"PL5040065161","operator":"Gmina So\u015bno","operator:type":"government","amenity":"school"}},{"id":103679,"type":"Feature","geometry":{"type":"Point","coordinates":[17.68676,53.39026]},"properties":{"ref:rspo":103679,"official_name":"Samorz\u0105dowe Przedszkole w So\u015bnie","name":"Samorz\u0105dowe Przedszkole w So\u015bnie","addr:country":"PL","addr:postcode":"89-412","addr:city":"So\u015bno","addr:street":"ul. Parkowa","addr:housenumber":"4","addr:teryt:simc":15710,"addr:teryt:sym_ul":96230,"contact:phone":"+48 523891216","contact:email":"dyrektor@ps.sosno.pl","contact:website":"http:\/\/www.przedszkolesosno.com","ref:regon":"091475092","ref:vatin":"PL5611465914","operator":"Gmina So\u015bno","operator:type":"government","amenity":"kindergarten"}},{"id":103680,"type":"Feature","geometry":{"type":"Point","coordinates":[17.663496,53.442191]},"properties":{"isced:level":"1;2","ref:rspo":103680,"official_name":"Szko\u0142a Podstawowa w Przepa\u0142kowie","name":"Szko\u0142a Podstawowa w Przepa\u0142kowie","addr:country":"PL","addr:postcode":"89-412","addr:place":"Przepa\u0142kowo","addr:housenumber":"7","addr:teryt:sym_ul":96098,"contact:phone":"+48 523884678","contact:email":"sekretariat@spp.sosno.pl","contact:website":"http:\/\/przepalkowo.edupage.org\/","ref:regon":"001157710","ref:vatin":"PL5611403913","operator":"Gmina So\u015bno","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 106463,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.66641,
+                    53.32179
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 106463,
+                "official_name": "Szko\u0142a Podstawowa im. Mieczys\u0142awa Droboszewskiego w W\u0105welnie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "89-413",
+                "addr:city": "W\u0105welno",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 96359,
+                "contact:phone": "+48 523893012",
+                "contact:email": "sekretariat@spw.sosno.pl",
+                "contact:website": "http:\/\/spw.sosno.pl",
+                "ref:regon": "001157703",
+                "ref:vatin": "PL5040065178",
+                "operator": "Gmina So\u015bno",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 106165,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.68915,
+                    53.3892
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 106165,
+                "official_name": "Szko\u0142a Podstawowa im. Janusza Korczaka w So\u015bnie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "89-412",
+                "addr:city": "So\u015bno",
+                "addr:street": "ul. Kami\u0144skiego",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 7902,
+                "addr:teryt:sym_ul": 96230,
+                "contact:phone": "+48 523891210",
+                "contact:email": "sekretariat@sps.sosno.pl",
+                "contact:website": "http:\/\/www.zssosno.szkolna.net",
+                "ref:regon": "000562844",
+                "ref:vatin": "PL5040065161",
+                "operator": "Gmina So\u015bno",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 103679,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.68676,
+                    53.39026
+                ]
+            },
+            "properties": {
+                "ref:rspo": 103679,
+                "official_name": "Samorz\u0105dowe Przedszkole w So\u015bnie",
+                "name": "Samorz\u0105dowe Przedszkole w So\u015bnie",
+                "addr:country": "PL",
+                "addr:postcode": "89-412",
+                "addr:city": "So\u015bno",
+                "addr:street": "ul. Parkowa",
+                "addr:housenumber": "4",
+                "addr:teryt:simc": 15710,
+                "addr:teryt:sym_ul": 96230,
+                "contact:phone": "+48 523891216",
+                "contact:email": "dyrektor@ps.sosno.pl",
+                "contact:website": "http:\/\/www.przedszkolesosno.com",
+                "ref:regon": "091475092",
+                "ref:vatin": "PL5611465914",
+                "operator": "Gmina So\u015bno",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 103680,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.663496,
+                    53.442191
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 103680,
+                "official_name": "Szko\u0142a Podstawowa w Przepa\u0142kowie",
+                "name": "Szko\u0142a Podstawowa w Przepa\u0142kowie",
+                "addr:country": "PL",
+                "addr:postcode": "89-412",
+                "addr:place": "Przepa\u0142kowo",
+                "addr:housenumber": "7",
+                "addr:teryt:sym_ul": 96098,
+                "contact:phone": "+48 523884678",
+                "contact:email": "sekretariat@spp.sosno.pl",
+                "contact:website": "http:\/\/przepalkowo.edupage.org\/",
+                "ref:regon": "001157710",
+                "ref:vatin": "PL5611403913",
+                "operator": "Gmina So\u015bno",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

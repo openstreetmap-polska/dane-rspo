@@ -1,1 +1,153 @@
-{"type":"FeatureCollection","features":[{"id":44647,"type":"Feature","geometry":{"type":"Point","coordinates":[20.5768439,53.0121429]},"properties":{"isced:level":"1;2","ref:rspo":44647,"official_name":"Szko\u0142a Podstawowa w Humi\u0119cinie","name":"Szko\u0142a Podstawowa w Humi\u0119cinie","addr:country":"PL","addr:postcode":"06-460","addr:place":"Humi\u0119cino","addr:housenumber":"20","addr:teryt:sym_ul":115520,"contact:phone":"+48 236715460","contact:email":"sphumiecin@gmail.com","ref:regon":"001158803","ref:vatin":"PL5661394346","operator":"Gmina Grudusk","operator:type":"government","amenity":"school"}},{"id":109759,"type":"Feature","geometry":{"type":"Point","coordinates":[20.57346,53.05025]},"properties":{"ref:rspo":109759,"official_name":"Echo Jacek Rama","name":"Echo Jacek Rama","addr:country":"PL","addr:postcode":"06-460","addr:place":"Borzuchowo-Da\u0107bogi","addr:housenumber":"9","addr:teryt:sym_ul":115750,"contact:phone":"+48 607934412","contact:email":"jacek.rama@prokonto.pl","ref:regon":"146538114","operator":"Jacek Rama","operator:type":"private","fixme":"w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. amenity=training + training=*, amenity=dancing_school, amenity=language_school, amenity=music_school) albo amenity=school, amenity=college, albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education."}},{"id":44648,"type":"Feature","geometry":{"type":"Point","coordinates":[20.62493,53.05604]},"properties":{"ref:rspo":44648,"official_name":"Zesp\u00f3\u0142 Plac\u00f3wek O\u015bwiatowych","name":"Zesp\u00f3\u0142 Plac\u00f3wek O\u015bwiatowych","addr:country":"PL","addr:postcode":"06-460","addr:city":"Grudusk","addr:street":"ul. Szkolna","addr:housenumber":"2","addr:teryt:simc":21970,"addr:teryt:sym_ul":115499,"contact:phone":"+48 236715468","contact:email":"sp.grudusk1@wp.pl","ref:regon":"130418546","ref:vatin":"PL5661700122","operator":"Gmina Grudusk","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 87350;87352"}},{"id":87350,"type":"Feature","geometry":{"type":"Point","coordinates":[20.62493,53.05601]},"properties":{"isced:level":"1;2","ref:rspo":87350,"official_name":"Szko\u0142a Podstawowa","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"06-460","addr:city":"Grudusk","addr:street":"ul. Szkolna","addr:housenumber":"2","addr:teryt:simc":21970,"addr:teryt:sym_ul":115499,"contact:phone":"+48 236715468","contact:email":"sp.grudusk1@wp.pl","ref:regon":"000692788","operator":"Gmina Grudusk","operator:type":"government","amenity":"school","note":"Parent RSPO: 44648"}},{"id":87352,"type":"Feature","geometry":{"type":"Point","coordinates":[20.62493,53.055980000000005]},"properties":{"ref:rspo":87352,"official_name":"Punkt Przedszkolny","name":"Punkt Przedszkolny","addr:country":"PL","addr:postcode":"06-460","addr:city":"Grudusk","addr:street":"ul. Szkolna","addr:housenumber":"2","addr:teryt:simc":21970,"addr:teryt:sym_ul":115499,"contact:phone":"+48 236715468","ref:regon":"146415601","operator":"Gmina Grudusk","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 44648"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 44647,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.5768439,
+                    53.0121429
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 44647,
+                "official_name": "Szko\u0142a Podstawowa w Humi\u0119cinie",
+                "name": "Szko\u0142a Podstawowa w Humi\u0119cinie",
+                "addr:country": "PL",
+                "addr:postcode": "06-460",
+                "addr:place": "Humi\u0119cino",
+                "addr:housenumber": "20",
+                "addr:teryt:sym_ul": 115520,
+                "contact:phone": "+48 236715460",
+                "contact:email": "sphumiecin@gmail.com",
+                "ref:regon": "001158803",
+                "ref:vatin": "PL5661394346",
+                "operator": "Gmina Grudusk",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 109759,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.57346,
+                    53.05025
+                ]
+            },
+            "properties": {
+                "ref:rspo": 109759,
+                "official_name": "Echo Jacek Rama",
+                "name": "Echo Jacek Rama",
+                "addr:country": "PL",
+                "addr:postcode": "06-460",
+                "addr:place": "Borzuchowo-Da\u0107bogi",
+                "addr:housenumber": "9",
+                "addr:teryt:sym_ul": 115750,
+                "contact:phone": "+48 607934412",
+                "contact:email": "jacek.rama@prokonto.pl",
+                "ref:regon": "146538114",
+                "operator": "Jacek Rama",
+                "operator:type": "private",
+                "fixme": "w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. amenity=training + training=*, amenity=dancing_school, amenity=language_school, amenity=music_school) albo amenity=school, amenity=college, albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education."
+            }
+        },
+        {
+            "id": 44648,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.62493,
+                    53.05604
+                ]
+            },
+            "properties": {
+                "ref:rspo": 44648,
+                "official_name": "Zesp\u00f3\u0142 Plac\u00f3wek O\u015bwiatowych",
+                "name": "Zesp\u00f3\u0142 Plac\u00f3wek O\u015bwiatowych",
+                "addr:country": "PL",
+                "addr:postcode": "06-460",
+                "addr:city": "Grudusk",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "2",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 115499,
+                "contact:phone": "+48 236715468",
+                "contact:email": "sp.grudusk1@wp.pl",
+                "ref:regon": "130418546",
+                "ref:vatin": "PL5661700122",
+                "operator": "Gmina Grudusk",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 87350;87352"
+            }
+        },
+        {
+            "id": 87350,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.62493,
+                    53.05601
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 87350,
+                "official_name": "Szko\u0142a Podstawowa",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "06-460",
+                "addr:city": "Grudusk",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "2",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 115499,
+                "contact:phone": "+48 236715468",
+                "contact:email": "sp.grudusk1@wp.pl",
+                "ref:regon": "000692788",
+                "operator": "Gmina Grudusk",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 44648"
+            }
+        },
+        {
+            "id": 87352,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.62493,
+                    53.055980000000005
+                ]
+            },
+            "properties": {
+                "ref:rspo": 87352,
+                "official_name": "Punkt Przedszkolny",
+                "name": "Punkt Przedszkolny",
+                "addr:country": "PL",
+                "addr:postcode": "06-460",
+                "addr:city": "Grudusk",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "2",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 115499,
+                "contact:phone": "+48 236715468",
+                "ref:regon": "146415601",
+                "operator": "Gmina Grudusk",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 44648"
+            }
+        }
+    ]
+}

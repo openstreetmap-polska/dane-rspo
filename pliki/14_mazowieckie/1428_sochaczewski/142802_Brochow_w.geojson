@@ -1,1 +1,118 @@
-{"type":"FeatureCollection","features":[{"id":126563,"type":"Feature","geometry":{"type":"Point","coordinates":[20.322541,52.3057103]},"properties":{"ref:rspo":126563,"official_name":"Niepubliczne Przedszkole \u0141oszaki","name":"Niepubliczne Przedszkole \u0141oszaki","addr:country":"PL","addr:postcode":"05-088","addr:place":"Lasocin","addr:housenumber":"4","addr:teryt:sym_ul":9739,"contact:phone":"+48 505818971","contact:email":"drejzi8@wp.pl","ref:regon":"360495920","operator":"M-Dw S.c.","operator:type":"consortium","amenity":"kindergarten"}},{"id":262477,"type":"Feature","geometry":{"type":"Point","coordinates":[20.3228963,52.3062218]},"properties":{"isced:level":"1;2","ref:rspo":262477,"official_name":"Szko\u0142a Podstawowa w Lasocinie","name":"Szko\u0142a Podstawowa w Lasocinie","addr:country":"PL","addr:postcode":"05-088","addr:place":"Lasocin","addr:housenumber":"3","addr:teryt:sym_ul":9739,"contact:phone":"+48 227257777","contact:email":"splasocin@onet.pl","ref:regon":"368024455","operator":"Gmina Broch\u00f3w","operator:type":"government","amenity":"school"}},{"id":51426,"type":"Feature","geometry":{"type":"Point","coordinates":[20.260404,52.3221859]},"properties":{"isced:level":"1;2","ref:rspo":51426,"official_name":"Szko\u0142a Podstawowa im. Fryderyka Chopina w Brochowie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"05-088","addr:place":"Broch\u00f3w","addr:housenumber":"27","addr:teryt:sym_ul":9580,"contact:phone":"+48 227257059","contact:email":"spbrochow@poczta.onet.pl","ref:regon":"017274744","ref:vatin":"PL8371610932","operator":"Gmina Broch\u00f3w","operator:type":"government","amenity":"school"}},{"id":51427,"type":"Feature","geometry":{"type":"Point","coordinates":[20.2780279,52.3726969]},"properties":{"isced:level":"1;2","ref:rspo":51427,"official_name":"Szko\u0142a Podstawowa im.w\u0142adys\u0142awa Jagie\u0142\u0142y w \u015aladowie","name":"Szko\u0142a Podstawowa im.w\u0142adys\u0142awa Jagie\u0142\u0142y w \u015aladowie","addr:country":"PL","addr:postcode":"05-088","addr:place":"\u015alad\u00f3w","addr:housenumber":"101","addr:teryt:sym_ul":9811,"contact:phone":"+48 227257144","contact:email":"spsladow@op.pl","ref:regon":"017255818","ref:vatin":"PL8371613824","operator":"Gmina Broch\u00f3w","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 126563,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.322541,
+                    52.3057103
+                ]
+            },
+            "properties": {
+                "ref:rspo": 126563,
+                "official_name": "Niepubliczne Przedszkole \u0141oszaki",
+                "name": "Niepubliczne Przedszkole \u0141oszaki",
+                "addr:country": "PL",
+                "addr:postcode": "05-088",
+                "addr:place": "Lasocin",
+                "addr:housenumber": "4",
+                "addr:teryt:sym_ul": 9739,
+                "contact:phone": "+48 505818971",
+                "contact:email": "drejzi8@wp.pl",
+                "ref:regon": "360495920",
+                "operator": "M-Dw S.c.",
+                "operator:type": "consortium",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 262477,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.3228963,
+                    52.3062218
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 262477,
+                "official_name": "Szko\u0142a Podstawowa w Lasocinie",
+                "name": "Szko\u0142a Podstawowa w Lasocinie",
+                "addr:country": "PL",
+                "addr:postcode": "05-088",
+                "addr:place": "Lasocin",
+                "addr:housenumber": "3",
+                "addr:teryt:sym_ul": 9739,
+                "contact:phone": "+48 227257777",
+                "contact:email": "splasocin@onet.pl",
+                "ref:regon": "368024455",
+                "operator": "Gmina Broch\u00f3w",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 51426,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.260404,
+                    52.3221859
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 51426,
+                "official_name": "Szko\u0142a Podstawowa im. Fryderyka Chopina w Brochowie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "05-088",
+                "addr:place": "Broch\u00f3w",
+                "addr:housenumber": "27",
+                "addr:teryt:sym_ul": 9580,
+                "contact:phone": "+48 227257059",
+                "contact:email": "spbrochow@poczta.onet.pl",
+                "ref:regon": "017274744",
+                "ref:vatin": "PL8371610932",
+                "operator": "Gmina Broch\u00f3w",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 51427,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.2780279,
+                    52.3726969
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 51427,
+                "official_name": "Szko\u0142a Podstawowa im.w\u0142adys\u0142awa Jagie\u0142\u0142y w \u015aladowie",
+                "name": "Szko\u0142a Podstawowa im.w\u0142adys\u0142awa Jagie\u0142\u0142y w \u015aladowie",
+                "addr:country": "PL",
+                "addr:postcode": "05-088",
+                "addr:place": "\u015alad\u00f3w",
+                "addr:housenumber": "101",
+                "addr:teryt:sym_ul": 9811,
+                "contact:phone": "+48 227257144",
+                "contact:email": "spsladow@op.pl",
+                "ref:regon": "017255818",
+                "ref:vatin": "PL8371613824",
+                "operator": "Gmina Broch\u00f3w",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

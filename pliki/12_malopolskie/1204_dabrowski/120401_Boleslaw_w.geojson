@@ -1,1 +1,97 @@
-{"type":"FeatureCollection","features":[{"id":59027,"type":"Feature","geometry":{"type":"Point","coordinates":[20.90065,50.27229]},"properties":{"ref:rspo":59027,"official_name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 w Boles\u0142awiu","name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 w Boles\u0142awiu","addr:country":"PL","addr:postcode":"33-220","addr:place":"Boles\u0142aw","addr:housenumber":"95","addr:teryt:sym_ul":813068,"contact:phone":"+48 146415006","contact:email":"zsboleslaw@wp.pl","contact:website":"http:\/\/www.zs.boleslaw.com.pl","ref:regon":"122613811","ref:vatin":"PL8711770015","operator":"Gmina Boles\u0142aw","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 59024;59026"}},{"id":59024,"type":"Feature","geometry":{"type":"Point","coordinates":[20.90065,50.272259999999996]},"properties":{"isced:level":"1;2","ref:rspo":59024,"official_name":"Szko\u0142a Podstawowa im. Dra Paw\u0142a Sochy w Boles\u0142awiu","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"33-220","addr:place":"Boles\u0142aw","addr:housenumber":"95","addr:teryt:sym_ul":813068,"contact:phone":"+48 146415006","contact:email":"zsboleslaw@wp.pl","contact:website":"http:\/\/www.zs.boleslaw.com.pl","ref:regon":"000718370","ref:vatin":"PL8711632052","operator":"Gmina Boles\u0142aw","operator:type":"government","amenity":"school","note":"Parent RSPO: 59027"}},{"id":59026,"type":"Feature","geometry":{"type":"Point","coordinates":[20.8964399,50.27429]},"properties":{"ref:rspo":59026,"official_name":"Przedszkole Publiczne w Boles\u0142awiu","name":"Przedszkole Publiczne w Boles\u0142awiu","addr:country":"PL","addr:postcode":"33-220","addr:place":"Boles\u0142aw","addr:housenumber":"130","addr:teryt:sym_ul":813068,"contact:phone":"+48 146415015","contact:email":"przedszkole1bol@wp.pl","contact:website":"http:\/\/www.zs.boleslaw.com.pl","ref:regon":"852540739","ref:vatin":"PL8711632046","operator":"Gmina Boles\u0142aw","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 59027"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 59027,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.90065,
+                    50.27229
+                ]
+            },
+            "properties": {
+                "ref:rspo": 59027,
+                "official_name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 w Boles\u0142awiu",
+                "name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 w Boles\u0142awiu",
+                "addr:country": "PL",
+                "addr:postcode": "33-220",
+                "addr:place": "Boles\u0142aw",
+                "addr:housenumber": "95",
+                "addr:teryt:sym_ul": 813068,
+                "contact:phone": "+48 146415006",
+                "contact:email": "zsboleslaw@wp.pl",
+                "contact:website": "http:\/\/www.zs.boleslaw.com.pl",
+                "ref:regon": "122613811",
+                "ref:vatin": "PL8711770015",
+                "operator": "Gmina Boles\u0142aw",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 59024;59026"
+            }
+        },
+        {
+            "id": 59024,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.90065,
+                    50.272259999999996
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 59024,
+                "official_name": "Szko\u0142a Podstawowa im. Dra Paw\u0142a Sochy w Boles\u0142awiu",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "33-220",
+                "addr:place": "Boles\u0142aw",
+                "addr:housenumber": "95",
+                "addr:teryt:sym_ul": 813068,
+                "contact:phone": "+48 146415006",
+                "contact:email": "zsboleslaw@wp.pl",
+                "contact:website": "http:\/\/www.zs.boleslaw.com.pl",
+                "ref:regon": "000718370",
+                "ref:vatin": "PL8711632052",
+                "operator": "Gmina Boles\u0142aw",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 59027"
+            }
+        },
+        {
+            "id": 59026,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.8964399,
+                    50.27429
+                ]
+            },
+            "properties": {
+                "ref:rspo": 59026,
+                "official_name": "Przedszkole Publiczne w Boles\u0142awiu",
+                "name": "Przedszkole Publiczne w Boles\u0142awiu",
+                "addr:country": "PL",
+                "addr:postcode": "33-220",
+                "addr:place": "Boles\u0142aw",
+                "addr:housenumber": "130",
+                "addr:teryt:sym_ul": 813068,
+                "contact:phone": "+48 146415015",
+                "contact:email": "przedszkole1bol@wp.pl",
+                "contact:website": "http:\/\/www.zs.boleslaw.com.pl",
+                "ref:regon": "852540739",
+                "ref:vatin": "PL8711632046",
+                "operator": "Gmina Boles\u0142aw",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 59027"
+            }
+        }
+    ]
+}

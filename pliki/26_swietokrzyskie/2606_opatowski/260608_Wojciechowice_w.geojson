@@ -1,1 +1,149 @@
-{"type":"FeatureCollection","features":[{"id":85994,"type":"Feature","geometry":{"type":"Point","coordinates":[21.52994,50.81109]},"properties":{"isced:level":"1;2","ref:rspo":85994,"official_name":"Publiczna Szko\u0142a Podstawowa im. Ofiar Katynia w Gierczycach","name":"Publiczna Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"27-532","addr:place":"Gierczyce","addr:housenumber":"123","addr:teryt:sym_ul":809919,"contact:phone":"+48 158614305","contact:email":"pspgierczyce@wp.pl","ref:regon":"260650541","ref:vatin":"PL8631646098","operator":"Stowarzyszenie Na Rzecz Edukacji Gminy Wojciechowice \"Dzieci Naszym Dobrem\"","operator:type":"ngo","amenity":"school"}},{"id":85970,"type":"Feature","geometry":{"type":"Point","coordinates":[21.58439,50.82181]},"properties":{"isced:level":"1;2","ref:rspo":85970,"official_name":"Publiczna Szko\u0142a Podstawowa w Stodo\u0142ach","name":"Publiczna Szko\u0142a Podstawowa w Stodo\u0142ach","addr:country":"PL","addr:postcode":"27-532","addr:place":"Stodo\u0142y-Kolonie","addr:housenumber":"55","addr:teryt:sym_ul":810383,"contact:phone":"+48 158617220","contact:email":"pspstodoly@wp.pl","ref:regon":"260650618","ref:vatin":"PL8631646075","operator":"Stowarzyszenie Na Rzecz Edukacji Gminy Wojciechowice \"Dzieci Naszym Dobrem\"","operator:type":"ngo","amenity":"school"}},{"id":87376,"type":"Feature","geometry":{"type":"Point","coordinates":[21.62895,50.84162]},"properties":{"isced:level":"1;2","ref:rspo":87376,"official_name":"Publiczna Szko\u0142a Podstawowa w Bidzinach","name":"Publiczna Szko\u0142a Podstawowa w Bidzinach","addr:country":"PL","addr:postcode":"27-532","addr:place":"Bidziny","addr:housenumber":"121","addr:teryt:sym_ul":809799,"contact:phone":"+48 158618343","contact:email":"pspbidziny@wp.pl","contact:website":"http:\/\/bidziny.szkolna.net","ref:regon":"001186225","ref:vatin":"PL8631646106","operator":"Gmina Wojciechowice","operator:type":"government","amenity":"school"}},{"id":85881,"type":"Feature","geometry":{"type":"Point","coordinates":[21.58962,50.84555]},"properties":{"isced:level":"1;2","ref:rspo":85881,"official_name":"Publiczna Szko\u0142a Podstawowa w Wojciechowicach im. Gen. Franciszka Kami\u0144skiego Komendanta G\u0142\u00f3wnego Bch","name":"Publiczna Szko\u0142a Podstawowa w Wojciechowicach","addr:country":"PL","addr:postcode":"27-532","addr:place":"Wojciechowice","addr:housenumber":"40","addr:teryt:sym_ul":810437,"contact:phone":"+48 158614008","contact:email":"pspwojciechowice@poczta.onet.pl","ref:regon":"260650564","ref:vatin":"PL8631646081","operator":"Stowarzyszenie Na Rzecz Edukacji Gminy Wojciechowice \"Dzieci Naszym Dobrem\"","operator:type":"ngo","amenity":"school"}},{"id":277950,"type":"Feature","geometry":{"type":"Point","coordinates":[21.58962,50.84552]},"properties":{"ref:rspo":277950,"official_name":"Innovaspal O\u015brodek Profesjonalizacji Kadry","name":"Innovaspal O\u015brodek Profesjonalizacji Kadry","addr:country":"PL","addr:postcode":"27-532","addr:place":"Wojciechowice","addr:housenumber":"40","addr:teryt:sym_ul":810437,"contact:phone":"+48 794665212","contact:email":"innovaspal@gmail.com","ref:regon":"389694260","operator":"\"Innovaspal\" O\u015brodek Profesjonalizacji Kadr Sp\u00f3\u0142ka Z Ograniczon\u0105 Odpowiedzialno\u015bci\u0105","operator:type":"private","fixme":"w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. amenity=training + training=*, amenity=dancing_school, amenity=language_school, amenity=music_school)"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 85994,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.52994,
+                    50.81109
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 85994,
+                "official_name": "Publiczna Szko\u0142a Podstawowa im. Ofiar Katynia w Gierczycach",
+                "name": "Publiczna Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "27-532",
+                "addr:place": "Gierczyce",
+                "addr:housenumber": "123",
+                "addr:teryt:sym_ul": 809919,
+                "contact:phone": "+48 158614305",
+                "contact:email": "pspgierczyce@wp.pl",
+                "ref:regon": "260650541",
+                "ref:vatin": "PL8631646098",
+                "operator": "Stowarzyszenie Na Rzecz Edukacji Gminy Wojciechowice \"Dzieci Naszym Dobrem\"",
+                "operator:type": "ngo",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 85970,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.58439,
+                    50.82181
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 85970,
+                "official_name": "Publiczna Szko\u0142a Podstawowa w Stodo\u0142ach",
+                "name": "Publiczna Szko\u0142a Podstawowa w Stodo\u0142ach",
+                "addr:country": "PL",
+                "addr:postcode": "27-532",
+                "addr:place": "Stodo\u0142y-Kolonie",
+                "addr:housenumber": "55",
+                "addr:teryt:sym_ul": 810383,
+                "contact:phone": "+48 158617220",
+                "contact:email": "pspstodoly@wp.pl",
+                "ref:regon": "260650618",
+                "ref:vatin": "PL8631646075",
+                "operator": "Stowarzyszenie Na Rzecz Edukacji Gminy Wojciechowice \"Dzieci Naszym Dobrem\"",
+                "operator:type": "ngo",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 87376,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.62895,
+                    50.84162
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 87376,
+                "official_name": "Publiczna Szko\u0142a Podstawowa w Bidzinach",
+                "name": "Publiczna Szko\u0142a Podstawowa w Bidzinach",
+                "addr:country": "PL",
+                "addr:postcode": "27-532",
+                "addr:place": "Bidziny",
+                "addr:housenumber": "121",
+                "addr:teryt:sym_ul": 809799,
+                "contact:phone": "+48 158618343",
+                "contact:email": "pspbidziny@wp.pl",
+                "contact:website": "http:\/\/bidziny.szkolna.net",
+                "ref:regon": "001186225",
+                "ref:vatin": "PL8631646106",
+                "operator": "Gmina Wojciechowice",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 85881,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.58962,
+                    50.84555
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 85881,
+                "official_name": "Publiczna Szko\u0142a Podstawowa w Wojciechowicach im. Gen. Franciszka Kami\u0144skiego Komendanta G\u0142\u00f3wnego Bch",
+                "name": "Publiczna Szko\u0142a Podstawowa w Wojciechowicach",
+                "addr:country": "PL",
+                "addr:postcode": "27-532",
+                "addr:place": "Wojciechowice",
+                "addr:housenumber": "40",
+                "addr:teryt:sym_ul": 810437,
+                "contact:phone": "+48 158614008",
+                "contact:email": "pspwojciechowice@poczta.onet.pl",
+                "ref:regon": "260650564",
+                "ref:vatin": "PL8631646081",
+                "operator": "Stowarzyszenie Na Rzecz Edukacji Gminy Wojciechowice \"Dzieci Naszym Dobrem\"",
+                "operator:type": "ngo",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 277950,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.58962,
+                    50.84552
+                ]
+            },
+            "properties": {
+                "ref:rspo": 277950,
+                "official_name": "Innovaspal O\u015brodek Profesjonalizacji Kadry",
+                "name": "Innovaspal O\u015brodek Profesjonalizacji Kadry",
+                "addr:country": "PL",
+                "addr:postcode": "27-532",
+                "addr:place": "Wojciechowice",
+                "addr:housenumber": "40",
+                "addr:teryt:sym_ul": 810437,
+                "contact:phone": "+48 794665212",
+                "contact:email": "innovaspal@gmail.com",
+                "ref:regon": "389694260",
+                "operator": "\"Innovaspal\" O\u015brodek Profesjonalizacji Kadr Sp\u00f3\u0142ka Z Ograniczon\u0105 Odpowiedzialno\u015bci\u0105",
+                "operator:type": "private",
+                "fixme": "w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. amenity=training + training=*, amenity=dancing_school, amenity=language_school, amenity=music_school)"
+            }
+        }
+    ]
+}

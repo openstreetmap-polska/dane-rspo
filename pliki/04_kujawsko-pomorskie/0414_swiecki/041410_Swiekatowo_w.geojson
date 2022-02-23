@@ -1,1 +1,37 @@
-{"type":"FeatureCollection","features":[{"id":86167,"type":"Feature","geometry":{"type":"Point","coordinates":[18.09551,53.41784]},"properties":{"isced:level":"1;2","ref:rspo":86167,"official_name":"Szko\u0142a Podstawowa im. \u015aw. Franciszka Z Asy\u017cu w \u015awiekatowie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"86-182","addr:city":"\u015awiekatowo","addr:street":"ul. Dworcowa","addr:housenumber":"20A","addr:teryt:simc":4434,"addr:teryt:sym_ul":98016,"contact:phone":"+48 523322060","contact:email":"spswiekatowo@poczta.onet.pl","contact:website":"http:\/\/www.spswiekatowo.szkolna.net\/","ref:regon":"001159903","ref:vatin":"PL5591811186","operator":"Gmina \u015awiekatowo","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 86167,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.09551,
+                    53.41784
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 86167,
+                "official_name": "Szko\u0142a Podstawowa im. \u015aw. Franciszka Z Asy\u017cu w \u015awiekatowie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "86-182",
+                "addr:city": "\u015awiekatowo",
+                "addr:street": "ul. Dworcowa",
+                "addr:housenumber": "20A",
+                "addr:teryt:simc": 4434,
+                "addr:teryt:sym_ul": 98016,
+                "contact:phone": "+48 523322060",
+                "contact:email": "spswiekatowo@poczta.onet.pl",
+                "contact:website": "http:\/\/www.spswiekatowo.szkolna.net\/",
+                "ref:regon": "001159903",
+                "ref:vatin": "PL5591811186",
+                "operator": "Gmina \u015awiekatowo",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

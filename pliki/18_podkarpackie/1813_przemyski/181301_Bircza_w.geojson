@@ -1,1 +1,215 @@
-{"type":"FeatureCollection","features":[{"id":58554,"type":"Feature","geometry":{"type":"Point","coordinates":[22.43314,49.66407]},"properties":{"isced:level":"1;2","ref:rspo":58554,"official_name":"Szko\u0142a Podstawowa im.b\u0142.ks.bronis\u0142awa Markiewicza w Leszczawie Dolnej","name":"Szko\u0142a Podstawowa im.b\u0142.ks.bronis\u0142awa Markiewicza w Leszczawie Dolnej","addr:country":"PL","addr:postcode":"37-740","addr:place":"Leszczawa Dolna","addr:housenumber":"21","addr:teryt:sym_ul":599379,"contact:phone":"+48 166725059","ref:regon":"001207269","ref:vatin":"PL7952456219","operator":"Gmina Bircza","operator:type":"government","amenity":"school"}},{"id":75650,"type":"Feature","geometry":{"type":"Point","coordinates":[22.48644,49.68952]},"properties":{"ref:rspo":75650,"official_name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 w Birczy","name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 w Birczy","addr:country":"PL","addr:postcode":"37-740","addr:city":"Bircza","addr:street":"ul. Parkowa","addr:housenumber":"1","addr:teryt:simc":15710,"addr:teryt:sym_ul":598990,"contact:phone":"+48 166725526","contact:email":"zsbircza@poczta.onet.pl","ref:regon":"650241967","ref:vatin":"PL7952456202","operator":"Gmina Bircza","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 79670;85805"}},{"id":79670,"type":"Feature","geometry":{"type":"Point","coordinates":[22.48644,49.68949]},"properties":{"isced:level":"1;2","ref:rspo":79670,"official_name":"Szko\u0142a Podstawowa im.mjr Henryka Dobrza\u0144skiego \"Hubala\"","name":"Szko\u0142a Podstawowa im.mjr Henryka Dobrza\u0144skiego \"Hubala\"","addr:country":"PL","addr:postcode":"37-740","addr:city":"Bircza","addr:street":"ul. Parkowa","addr:housenumber":"1","addr:teryt:simc":15710,"addr:teryt:sym_ul":598990,"contact:phone":"+48 166725526","contact:email":"zsbircza@poczta.onet.pl","ref:regon":"651424003","ref:vatin":"PL7952456202","operator":"Gmina Bircza","operator:type":"government","amenity":"school","note":"Parent RSPO: 75650"}},{"id":85805,"type":"Feature","geometry":{"type":"Point","coordinates":[22.48644,49.689460000000004]},"properties":{"ref:rspo":85805,"official_name":"Samorzadowe Przedszkole","name":"Samorzadowe Przedszkole","addr:country":"PL","addr:postcode":"37-740","addr:city":"Bircza","addr:street":"ul. Parkowa","addr:housenumber":"1","addr:teryt:simc":15710,"addr:teryt:sym_ul":598990,"contact:phone":"+48 166725526","ref:regon":"180608584","ref:vatin":"PL7952456202","operator":"Gmina Bircza","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 75650"}},{"id":75649,"type":"Feature","geometry":{"type":"Point","coordinates":[22.36602,49.7033]},"properties":{"isced:level":"1;2","ref:rspo":75649,"official_name":"Szko\u0142a Podstawowa im.ks.jana Twardowskiego w Lipie","name":"Szko\u0142a Podstawowa im.ks.jana Twardowskiego w Lipie","addr:country":"PL","addr:postcode":"37-740","addr:place":"Lipa","addr:housenumber":"52","addr:teryt:sym_ul":599451,"contact:phone":"+48 166725296","contact:email":"jlichota@poczta.fm","ref:regon":"001207275","operator":"Gmina Bircza","operator:type":"government","amenity":"school"}},{"id":61628,"type":"Feature","geometry":{"type":"Point","coordinates":[22.35578,49.73091]},"properties":{"isced:level":"1;2","ref:rspo":61628,"official_name":"Niepubliczna Szko\u0142a Podstawowa w \u017bohatynie","name":"Niepubliczna Szko\u0142a Podstawowa w \u017bohatynie","addr:country":"PL","addr:postcode":"37-751","addr:place":"\u017bohatyn","addr:housenumber":"46","addr:teryt:sym_ul":599681,"contact:phone":"+48 166725449","contact:email":"nspzohatyn@poczta.onet.pl","contact:website":"http:\/\/www.nspzohatyn.edupage.org","ref:regon":"180902160","ref:vatin":"PL7952522548","operator":"Stowarzyszenie \"Wsp\u00f3lne Dobro\"","operator:type":"ngo","amenity":"school"}},{"id":58859,"type":"Feature","geometry":{"type":"Point","coordinates":[22.4665399,49.74251]},"properties":{"isced:level":"1;2","ref:rspo":58859,"official_name":"Szko\u0142a Podstawowa im.noblist\u00f3w Polskich w Sufczynie","name":"Szko\u0142a Podstawowa im.noblist\u00f3w Polskich w Sufczynie","addr:country":"PL","addr:postcode":"37-740","addr:place":"Sufczyna","addr:housenumber":"52","addr:teryt:sym_ul":599623,"contact:phone":"+48 166725026","contact:email":"eben@op.pl","contact:website":"http:\/\/www.spsufczyna.szkolnastrona.pl","ref:regon":"001207281","ref:vatin":"PL7952455970","operator":"Gmina Bircza","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 58554,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.43314,
+                    49.66407
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 58554,
+                "official_name": "Szko\u0142a Podstawowa im.b\u0142.ks.bronis\u0142awa Markiewicza w Leszczawie Dolnej",
+                "name": "Szko\u0142a Podstawowa im.b\u0142.ks.bronis\u0142awa Markiewicza w Leszczawie Dolnej",
+                "addr:country": "PL",
+                "addr:postcode": "37-740",
+                "addr:place": "Leszczawa Dolna",
+                "addr:housenumber": "21",
+                "addr:teryt:sym_ul": 599379,
+                "contact:phone": "+48 166725059",
+                "ref:regon": "001207269",
+                "ref:vatin": "PL7952456219",
+                "operator": "Gmina Bircza",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 75650,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.48644,
+                    49.68952
+                ]
+            },
+            "properties": {
+                "ref:rspo": 75650,
+                "official_name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 w Birczy",
+                "name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 w Birczy",
+                "addr:country": "PL",
+                "addr:postcode": "37-740",
+                "addr:city": "Bircza",
+                "addr:street": "ul. Parkowa",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 15710,
+                "addr:teryt:sym_ul": 598990,
+                "contact:phone": "+48 166725526",
+                "contact:email": "zsbircza@poczta.onet.pl",
+                "ref:regon": "650241967",
+                "ref:vatin": "PL7952456202",
+                "operator": "Gmina Bircza",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 79670;85805"
+            }
+        },
+        {
+            "id": 79670,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.48644,
+                    49.68949
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 79670,
+                "official_name": "Szko\u0142a Podstawowa im.mjr Henryka Dobrza\u0144skiego \"Hubala\"",
+                "name": "Szko\u0142a Podstawowa im.mjr Henryka Dobrza\u0144skiego \"Hubala\"",
+                "addr:country": "PL",
+                "addr:postcode": "37-740",
+                "addr:city": "Bircza",
+                "addr:street": "ul. Parkowa",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 15710,
+                "addr:teryt:sym_ul": 598990,
+                "contact:phone": "+48 166725526",
+                "contact:email": "zsbircza@poczta.onet.pl",
+                "ref:regon": "651424003",
+                "ref:vatin": "PL7952456202",
+                "operator": "Gmina Bircza",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 75650"
+            }
+        },
+        {
+            "id": 85805,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.48644,
+                    49.689460000000004
+                ]
+            },
+            "properties": {
+                "ref:rspo": 85805,
+                "official_name": "Samorzadowe Przedszkole",
+                "name": "Samorzadowe Przedszkole",
+                "addr:country": "PL",
+                "addr:postcode": "37-740",
+                "addr:city": "Bircza",
+                "addr:street": "ul. Parkowa",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 15710,
+                "addr:teryt:sym_ul": 598990,
+                "contact:phone": "+48 166725526",
+                "ref:regon": "180608584",
+                "ref:vatin": "PL7952456202",
+                "operator": "Gmina Bircza",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 75650"
+            }
+        },
+        {
+            "id": 75649,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.36602,
+                    49.7033
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 75649,
+                "official_name": "Szko\u0142a Podstawowa im.ks.jana Twardowskiego w Lipie",
+                "name": "Szko\u0142a Podstawowa im.ks.jana Twardowskiego w Lipie",
+                "addr:country": "PL",
+                "addr:postcode": "37-740",
+                "addr:place": "Lipa",
+                "addr:housenumber": "52",
+                "addr:teryt:sym_ul": 599451,
+                "contact:phone": "+48 166725296",
+                "contact:email": "jlichota@poczta.fm",
+                "ref:regon": "001207275",
+                "operator": "Gmina Bircza",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 61628,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.35578,
+                    49.73091
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 61628,
+                "official_name": "Niepubliczna Szko\u0142a Podstawowa w \u017bohatynie",
+                "name": "Niepubliczna Szko\u0142a Podstawowa w \u017bohatynie",
+                "addr:country": "PL",
+                "addr:postcode": "37-751",
+                "addr:place": "\u017bohatyn",
+                "addr:housenumber": "46",
+                "addr:teryt:sym_ul": 599681,
+                "contact:phone": "+48 166725449",
+                "contact:email": "nspzohatyn@poczta.onet.pl",
+                "contact:website": "http:\/\/www.nspzohatyn.edupage.org",
+                "ref:regon": "180902160",
+                "ref:vatin": "PL7952522548",
+                "operator": "Stowarzyszenie \"Wsp\u00f3lne Dobro\"",
+                "operator:type": "ngo",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 58859,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.4665399,
+                    49.74251
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 58859,
+                "official_name": "Szko\u0142a Podstawowa im.noblist\u00f3w Polskich w Sufczynie",
+                "name": "Szko\u0142a Podstawowa im.noblist\u00f3w Polskich w Sufczynie",
+                "addr:country": "PL",
+                "addr:postcode": "37-740",
+                "addr:place": "Sufczyna",
+                "addr:housenumber": "52",
+                "addr:teryt:sym_ul": 599623,
+                "contact:phone": "+48 166725026",
+                "contact:email": "eben@op.pl",
+                "contact:website": "http:\/\/www.spsufczyna.szkolnastrona.pl",
+                "ref:regon": "001207281",
+                "ref:vatin": "PL7952455970",
+                "operator": "Gmina Bircza",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

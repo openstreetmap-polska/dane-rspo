@@ -1,1 +1,158 @@
-{"type":"FeatureCollection","features":[{"id":85226,"type":"Feature","geometry":{"type":"Point","coordinates":[19.2007587,50.0868139]},"properties":{"ref:rspo":85226,"official_name":"Plac\u00f3wka Pracy Pozaszkolnej dla Dzieci I M\u0142odzie\u017cy \"Aura","name":"Plac\u00f3wka Pracy Pozaszkolnej dla Dzieci I M\u0142odzie\u017cy \"Aura","addr:country":"PL","addr:postcode":"41-403","addr:city":"Che\u0142m \u015al\u0105ski","addr:street":"ul. Che\u0142mska","addr:housenumber":"193","addr:teryt:simc":2709,"addr:teryt:sym_ul":941518,"contact:phone":"+48 509748777","contact:email":"adwokatlukasz@gmail.com","ref:regon":"243096730","operator":"Fundacja Na Rzecz Edukacji Ekologicznej \"Ekologia\"","operator:type":"ngo","fixme":"w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. amenity=training + training=*, amenity=dancing_school, amenity=language_school, amenity=music_school)"}},{"id":86705,"type":"Feature","geometry":{"type":"Point","coordinates":[19.21024,50.09333]},"properties":{"isced:level":"1;2","ref:rspo":86705,"official_name":"Szko\u0142a Podstawowa Nr1 Z Oddzia\u0142ami Integracyjnymi im. Augusta Kardyna\u0142a Hlonda","name":"Szko\u0142a Podstawowa Nr1 Z Oddzia\u0142ami Integracyjnymi","addr:country":"PL","addr:postcode":"41-403","addr:city":"Che\u0142m \u015al\u0105ski","addr:street":"ul. Mieczys\u0142awa Kar\u0142owicza","addr:housenumber":"21","addr:teryt:simc":8058,"addr:teryt:sym_ul":941518,"contact:phone":"+48 322258262","contact:email":"sp1chelmsl@gmail.com","contact:website":"http:\/\/www.sp1.chelmslaski.edupage.org","ref:regon":"000722302","ref:vatin":"PL6462581626","operator":"Gmina Che\u0142m \u015al\u0105ski","operator:type":"government","amenity":"school"}},{"id":86706,"type":"Feature","geometry":{"type":"Point","coordinates":[19.18927,50.1121]},"properties":{"isced:level":"1;2","ref:rspo":86706,"official_name":"Szko\u0142a Podstawowa Nr 2 im. Floriana Adamskiego w Che\u0142mie \u015aL\u0105skim","name":"Szko\u0142a Podstawowa Nr 2","addr:country":"PL","addr:postcode":"41-403","addr:city":"Che\u0142m \u015al\u0105ski","addr:street":"ul. Oskara Kolberga","addr:housenumber":"1","addr:teryt:simc":8812,"addr:teryt:sym_ul":941518,"contact:phone":"+48 322258020","contact:email":"sp29@0p.pl","contact:website":"http:\/\/sp2.chelmsl.pl","ref:regon":"000722294","ref:vatin":"PL6462581572","operator":"Gmina Che\u0142m \u015al\u0105ski","operator:type":"government","amenity":"school"}},{"id":86707,"type":"Feature","geometry":{"type":"Point","coordinates":[19.18348,50.1188999]},"properties":{"ref:rspo":86707,"official_name":"Gminne Przedszkole Nr 1 w Che\u0142mie \u015aL\u0105skim","name":"Gminne Przedszkole Nr 1 w Che\u0142mie \u015aL\u0105skim","addr:country":"PL","addr:postcode":"41-403","addr:city":"Che\u0142m \u015al\u0105ski","addr:street":"ul. Technik\u00f3w","addr:housenumber":"25","addr:teryt:simc":22728,"addr:teryt:sym_ul":941518,"contact:phone":"+48 322257696","contact:email":"sekretariat@gp1.chelmsl.pl","contact:website":"http:\/\/chelmsl.pl\/gp1-\/","ref:regon":"271048608","ref:vatin":"PL6462581595","operator":"Gmina Che\u0142m \u015al\u0105ski","operator:type":"government","amenity":"kindergarten"}},{"id":133899,"type":"Feature","geometry":{"type":"Point","coordinates":[19.20014,50.12677]},"properties":{"ref:rspo":133899,"official_name":"O\u015brodek Szkole\u0144 Work Art","name":"O\u015brodek Szkole\u0144 Work Art","addr:country":"PL","addr:postcode":"41-403","addr:city":"Che\u0142m \u015al\u0105ski","addr:street":"ul. Che\u0142mska","addr:housenumber":"9a","addr:teryt:simc":2709,"addr:teryt:sym_ul":941518,"contact:phone":"+48 735917282","contact:email":"d.parzniewski@o2.pl","ref:regon":"367721057","operator":"Work Art Sp\u00f3\u0142ka Z Ograniczon\u0105 Odpowiedzialno\u015bci\u0105","operator:type":"private","fixme":"w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. amenity=training + training=*, amenity=dancing_school, amenity=language_school, amenity=music_school)"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 85226,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.2007587,
+                    50.0868139
+                ]
+            },
+            "properties": {
+                "ref:rspo": 85226,
+                "official_name": "Plac\u00f3wka Pracy Pozaszkolnej dla Dzieci I M\u0142odzie\u017cy \"Aura",
+                "name": "Plac\u00f3wka Pracy Pozaszkolnej dla Dzieci I M\u0142odzie\u017cy \"Aura",
+                "addr:country": "PL",
+                "addr:postcode": "41-403",
+                "addr:city": "Che\u0142m \u015al\u0105ski",
+                "addr:street": "ul. Che\u0142mska",
+                "addr:housenumber": "193",
+                "addr:teryt:simc": 2709,
+                "addr:teryt:sym_ul": 941518,
+                "contact:phone": "+48 509748777",
+                "contact:email": "adwokatlukasz@gmail.com",
+                "ref:regon": "243096730",
+                "operator": "Fundacja Na Rzecz Edukacji Ekologicznej \"Ekologia\"",
+                "operator:type": "ngo",
+                "fixme": "w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. amenity=training + training=*, amenity=dancing_school, amenity=language_school, amenity=music_school)"
+            }
+        },
+        {
+            "id": 86705,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.21024,
+                    50.09333
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 86705,
+                "official_name": "Szko\u0142a Podstawowa Nr1 Z Oddzia\u0142ami Integracyjnymi im. Augusta Kardyna\u0142a Hlonda",
+                "name": "Szko\u0142a Podstawowa Nr1 Z Oddzia\u0142ami Integracyjnymi",
+                "addr:country": "PL",
+                "addr:postcode": "41-403",
+                "addr:city": "Che\u0142m \u015al\u0105ski",
+                "addr:street": "ul. Mieczys\u0142awa Kar\u0142owicza",
+                "addr:housenumber": "21",
+                "addr:teryt:simc": 8058,
+                "addr:teryt:sym_ul": 941518,
+                "contact:phone": "+48 322258262",
+                "contact:email": "sp1chelmsl@gmail.com",
+                "contact:website": "http:\/\/www.sp1.chelmslaski.edupage.org",
+                "ref:regon": "000722302",
+                "ref:vatin": "PL6462581626",
+                "operator": "Gmina Che\u0142m \u015al\u0105ski",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 86706,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.18927,
+                    50.1121
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 86706,
+                "official_name": "Szko\u0142a Podstawowa Nr 2 im. Floriana Adamskiego w Che\u0142mie \u015aL\u0105skim",
+                "name": "Szko\u0142a Podstawowa Nr 2",
+                "addr:country": "PL",
+                "addr:postcode": "41-403",
+                "addr:city": "Che\u0142m \u015al\u0105ski",
+                "addr:street": "ul. Oskara Kolberga",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 8812,
+                "addr:teryt:sym_ul": 941518,
+                "contact:phone": "+48 322258020",
+                "contact:email": "sp29@0p.pl",
+                "contact:website": "http:\/\/sp2.chelmsl.pl",
+                "ref:regon": "000722294",
+                "ref:vatin": "PL6462581572",
+                "operator": "Gmina Che\u0142m \u015al\u0105ski",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 86707,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.18348,
+                    50.1188999
+                ]
+            },
+            "properties": {
+                "ref:rspo": 86707,
+                "official_name": "Gminne Przedszkole Nr 1 w Che\u0142mie \u015aL\u0105skim",
+                "name": "Gminne Przedszkole Nr 1 w Che\u0142mie \u015aL\u0105skim",
+                "addr:country": "PL",
+                "addr:postcode": "41-403",
+                "addr:city": "Che\u0142m \u015al\u0105ski",
+                "addr:street": "ul. Technik\u00f3w",
+                "addr:housenumber": "25",
+                "addr:teryt:simc": 22728,
+                "addr:teryt:sym_ul": 941518,
+                "contact:phone": "+48 322257696",
+                "contact:email": "sekretariat@gp1.chelmsl.pl",
+                "contact:website": "http:\/\/chelmsl.pl\/gp1-\/",
+                "ref:regon": "271048608",
+                "ref:vatin": "PL6462581595",
+                "operator": "Gmina Che\u0142m \u015al\u0105ski",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 133899,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.20014,
+                    50.12677
+                ]
+            },
+            "properties": {
+                "ref:rspo": 133899,
+                "official_name": "O\u015brodek Szkole\u0144 Work Art",
+                "name": "O\u015brodek Szkole\u0144 Work Art",
+                "addr:country": "PL",
+                "addr:postcode": "41-403",
+                "addr:city": "Che\u0142m \u015al\u0105ski",
+                "addr:street": "ul. Che\u0142mska",
+                "addr:housenumber": "9a",
+                "addr:teryt:simc": 2709,
+                "addr:teryt:sym_ul": 941518,
+                "contact:phone": "+48 735917282",
+                "contact:email": "d.parzniewski@o2.pl",
+                "ref:regon": "367721057",
+                "operator": "Work Art Sp\u00f3\u0142ka Z Ograniczon\u0105 Odpowiedzialno\u015bci\u0105",
+                "operator:type": "private",
+                "fixme": "w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. amenity=training + training=*, amenity=dancing_school, amenity=language_school, amenity=music_school)"
+            }
+        }
+    ]
+}

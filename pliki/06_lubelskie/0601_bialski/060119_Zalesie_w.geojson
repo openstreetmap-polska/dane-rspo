@@ -1,1 +1,181 @@
-{"type":"FeatureCollection","features":[{"id":22432,"type":"Feature","geometry":{"type":"Point","coordinates":[23.35983,52.03661]},"properties":{"isced:level":"1;2","ref:rspo":22432,"official_name":"Szko\u0142a Podstawowa im.polski Niepodleg\u0142ej w Zalesiu","name":"Szko\u0142a Podstawowa im.polski Niepodleg\u0142ej w Zalesiu","addr:country":"PL","addr:postcode":"21-512","addr:city":"Zalesie","addr:street":"ul. Szkolna","addr:housenumber":"10","addr:teryt:simc":21970,"addr:teryt:sym_ul":23053,"contact:phone":"+48 833757529","contact:email":"zalesiesp@wp.pl","ref:regon":"000713504","ref:vatin":"PL5372142041","operator":"Gmina Zalesie","operator:type":"government","amenity":"school"}},{"id":123791,"type":"Feature","geometry":{"type":"Point","coordinates":[23.35983,52.03658]},"properties":{"ref:rspo":123791,"official_name":"Niepubliczne Przedszkole\"Ma\u0142a Akademia\" w Zalesiu","name":"Niepubliczne Przedszkole\"Ma\u0142a Akademia\" w Zalesiu","addr:country":"PL","addr:postcode":"21-512","addr:city":"Zalesie","addr:street":"ul. Szkolna","addr:housenumber":"10","addr:door":"10","addr:teryt:simc":21970,"addr:teryt:sym_ul":23053,"contact:email":"mala.akademia@wp.pl","ref:regon":"061713379","operator":"Fundacja Akademia Umiej\u0119tno\u015bci","operator:type":"ngo","amenity":"kindergarten"}},{"id":9938,"type":"Feature","geometry":{"type":"Point","coordinates":[23.4884099,52.037022]},"properties":{"isced:level":"1;2","ref:rspo":9938,"official_name":"Szko\u0142a Podstawowa im. Marii Konopnickiej w W\u00f3lce Dobry\u0144skiej","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"21-512","addr:place":"W\u00f3lka Dobry\u0144ska","addr:housenumber":"57","addr:teryt:sym_ul":23047,"contact:phone":"+48 833751603","contact:email":"spkonopnicka@wp.pl","ref:regon":"001126559","ref:vatin":"PL5372142064","operator":"Gmina Zalesie","operator:type":"government","amenity":"school"}},{"id":9936,"type":"Feature","geometry":{"type":"Point","coordinates":[23.4740344,52.0635586]},"properties":{"isced:level":"1;2","ref:rspo":9936,"official_name":"Szko\u0142a Podstawowa w Dobryniu Du\u017cym","name":"Szko\u0142a Podstawowa w Dobryniu Du\u017cym","addr:country":"PL","addr:postcode":"21-512","addr:place":"Dobry\u0144 Du\u017cy","addr:housenumber":"68","addr:teryt:sym_ul":22734,"contact:phone":"+48 833759674","contact:email":"joladyrektor@tlen.pl","ref:regon":"030946886","ref:vatin":"PL5372320927","operator":"Gmina Zalesie","operator:type":"government","amenity":"school"}},{"id":9942,"type":"Feature","geometry":{"type":"Point","coordinates":[23.370503,52.0694329]},"properties":{"isced:level":"1;2","ref:rspo":9942,"official_name":"Szko\u0142a Podstawowa Ma\u0142a Akademia Z Oddzia\u0142em Przedszkolnym w Kijowcu","name":"Szko\u0142a Podstawowa Ma\u0142a Akademia Z Oddzia\u0142em Przedszkolnym w Kijowcu","addr:country":"PL","addr:postcode":"21-512","addr:place":"Kijowiec","addr:housenumber":"34","addr:teryt:sym_ul":22823,"contact:phone":"+48 833757526","contact:email":"szkola_kijowiec@wp.pl","ref:regon":"061456379","ref:vatin":"PL5372142058","operator":"Fundacja Akademia Umiej\u0119tno\u015bci","operator:type":"ngo","amenity":"school"}},{"id":9947,"type":"Feature","geometry":{"type":"Point","coordinates":[23.444083,52.103069]},"properties":{"isced:level":"1;2","ref:rspo":9947,"official_name":"Szko\u0142a Podstawowa w Berez\u00f3wce","name":"Szko\u0142a Podstawowa w Berez\u00f3wce","addr:country":"PL","addr:postcode":"21-512","addr:place":"Berez\u00f3wka","addr:housenumber":"26","addr:teryt:sym_ul":22680,"contact:phone":"+48 833759078","contact:email":"sberezowka@wp.pl","ref:regon":"061456422","ref:vatin":"PL5372623390","operator":"Stowarzyszenie \"Za Rzek\u0105 Krzn\u0105\" W Berez\u00f3wce","operator:type":"ngo","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 22432,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.35983,
+                    52.03661
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 22432,
+                "official_name": "Szko\u0142a Podstawowa im.polski Niepodleg\u0142ej w Zalesiu",
+                "name": "Szko\u0142a Podstawowa im.polski Niepodleg\u0142ej w Zalesiu",
+                "addr:country": "PL",
+                "addr:postcode": "21-512",
+                "addr:city": "Zalesie",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "10",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 23053,
+                "contact:phone": "+48 833757529",
+                "contact:email": "zalesiesp@wp.pl",
+                "ref:regon": "000713504",
+                "ref:vatin": "PL5372142041",
+                "operator": "Gmina Zalesie",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 123791,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.35983,
+                    52.03658
+                ]
+            },
+            "properties": {
+                "ref:rspo": 123791,
+                "official_name": "Niepubliczne Przedszkole\"Ma\u0142a Akademia\" w Zalesiu",
+                "name": "Niepubliczne Przedszkole\"Ma\u0142a Akademia\" w Zalesiu",
+                "addr:country": "PL",
+                "addr:postcode": "21-512",
+                "addr:city": "Zalesie",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "10",
+                "addr:door": "10",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 23053,
+                "contact:email": "mala.akademia@wp.pl",
+                "ref:regon": "061713379",
+                "operator": "Fundacja Akademia Umiej\u0119tno\u015bci",
+                "operator:type": "ngo",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 9938,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.4884099,
+                    52.037022
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 9938,
+                "official_name": "Szko\u0142a Podstawowa im. Marii Konopnickiej w W\u00f3lce Dobry\u0144skiej",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "21-512",
+                "addr:place": "W\u00f3lka Dobry\u0144ska",
+                "addr:housenumber": "57",
+                "addr:teryt:sym_ul": 23047,
+                "contact:phone": "+48 833751603",
+                "contact:email": "spkonopnicka@wp.pl",
+                "ref:regon": "001126559",
+                "ref:vatin": "PL5372142064",
+                "operator": "Gmina Zalesie",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 9936,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.4740344,
+                    52.0635586
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 9936,
+                "official_name": "Szko\u0142a Podstawowa w Dobryniu Du\u017cym",
+                "name": "Szko\u0142a Podstawowa w Dobryniu Du\u017cym",
+                "addr:country": "PL",
+                "addr:postcode": "21-512",
+                "addr:place": "Dobry\u0144 Du\u017cy",
+                "addr:housenumber": "68",
+                "addr:teryt:sym_ul": 22734,
+                "contact:phone": "+48 833759674",
+                "contact:email": "joladyrektor@tlen.pl",
+                "ref:regon": "030946886",
+                "ref:vatin": "PL5372320927",
+                "operator": "Gmina Zalesie",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 9942,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.370503,
+                    52.0694329
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 9942,
+                "official_name": "Szko\u0142a Podstawowa Ma\u0142a Akademia Z Oddzia\u0142em Przedszkolnym w Kijowcu",
+                "name": "Szko\u0142a Podstawowa Ma\u0142a Akademia Z Oddzia\u0142em Przedszkolnym w Kijowcu",
+                "addr:country": "PL",
+                "addr:postcode": "21-512",
+                "addr:place": "Kijowiec",
+                "addr:housenumber": "34",
+                "addr:teryt:sym_ul": 22823,
+                "contact:phone": "+48 833757526",
+                "contact:email": "szkola_kijowiec@wp.pl",
+                "ref:regon": "061456379",
+                "ref:vatin": "PL5372142058",
+                "operator": "Fundacja Akademia Umiej\u0119tno\u015bci",
+                "operator:type": "ngo",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 9947,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.444083,
+                    52.103069
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 9947,
+                "official_name": "Szko\u0142a Podstawowa w Berez\u00f3wce",
+                "name": "Szko\u0142a Podstawowa w Berez\u00f3wce",
+                "addr:country": "PL",
+                "addr:postcode": "21-512",
+                "addr:place": "Berez\u00f3wka",
+                "addr:housenumber": "26",
+                "addr:teryt:sym_ul": 22680,
+                "contact:phone": "+48 833759078",
+                "contact:email": "sberezowka@wp.pl",
+                "ref:regon": "061456422",
+                "ref:vatin": "PL5372623390",
+                "operator": "Stowarzyszenie \"Za Rzek\u0105 Krzn\u0105\" W Berez\u00f3wce",
+                "operator:type": "ngo",
+                "amenity": "school"
+            }
+        }
+    ]
+}

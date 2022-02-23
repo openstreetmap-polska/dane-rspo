@@ -1,1 +1,131 @@
-{"type":"FeatureCollection","features":[{"id":12740,"type":"Feature","geometry":{"type":"Point","coordinates":[16.3488,50.72121]},"properties":{"ref:rspo":12740,"official_name":"Niepubliczne Przedszkole Zgromadzenia Si\u00f3str \u015aw. El\u017cbiety","name":"Niepubliczne Przedszkole Zgromadzenia Si\u00f3str \u015aw. El\u017cbiety","addr:country":"PL","addr:postcode":"58-330","addr:city":"Jedlina-Zdr\u00f3j","addr:street":"ul. Piastowska","addr:housenumber":"8","addr:teryt:simc":16046,"addr:teryt:sym_ul":984025,"contact:phone":"+48 748455332","contact:email":"elzb_jedlina@wp.pl","ref:regon":"021967349","ref:vatin":"PL8851272978","operator":"Dane Do Uzupe\u0142nienia","operator:type":"private","amenity":"kindergarten"}},{"id":270255,"type":"Feature","geometry":{"type":"Point","coordinates":[16.34484,50.7245]},"properties":{"ref:rspo":270255,"official_name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny im.janusza Korczaka w Jedlinie-Zdroju","name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny im.janusza Korczaka w Jedlinie-Zdroju","addr:country":"PL","addr:postcode":"58-330","addr:city":"Jedlina-Zdr\u00f3j","addr:street":"ul. Jana Paw\u0142a II","addr:housenumber":"5","addr:teryt:simc":7123,"addr:teryt:sym_ul":984025,"contact:phone":"+48 748455285","contact:email":"sekretariatmsp1@tlen.pl","contact:website":"http:\/\/www.msp.jedlinazdroj.eu","ref:regon":"382282608","operator":"Miasto Jedlina-Zdr\u00f3j","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 12645;270040"}},{"id":12645,"type":"Feature","geometry":{"type":"Point","coordinates":[16.34484,50.72447]},"properties":{"isced:level":"1;2","ref:rspo":12645,"official_name":"Szko\u0142a Podstawowa im. Janusza Korczaka Z Oddzia\u0142ami Gimnazjum","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"58-330","addr:city":"Jedlina-Zdr\u00f3j","addr:street":"ul. Jana Paw\u0142a II","addr:housenumber":"5","addr:teryt:simc":7123,"addr:teryt:sym_ul":984025,"contact:phone":"+48 748455285","contact:email":"sekretariatmsp1@tlen.pl","contact:website":"http:\/\/www.msp.jedlinazdroj.eu","ref:regon":"000691719","ref:vatin":"PL8851006805","operator":"Miasto Jedlina-Zdr\u00f3j","operator:type":"government","amenity":"school","note":"Parent RSPO: 270255"}},{"id":270040,"type":"Feature","geometry":{"type":"Point","coordinates":[16.34484,50.72444]},"properties":{"ref:rspo":270040,"official_name":"Przedszkole","name":"Przedszkole","addr:country":"PL","addr:postcode":"58-330","addr:city":"Jedlina-Zdr\u00f3j","addr:street":"ul. Jana Paw\u0142a II","addr:housenumber":"5","addr:teryt:simc":7123,"addr:teryt:sym_ul":984025,"contact:phone":"+48 748455285","contact:email":"sekretariatmsp1@tlen.pl","contact:website":"http:\/\/www.msp.jedlina.eu","ref:regon":"381995453","operator":"Miasto Jedlina-Zdr\u00f3j","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 270255"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 12740,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3488,
+                    50.72121
+                ]
+            },
+            "properties": {
+                "ref:rspo": 12740,
+                "official_name": "Niepubliczne Przedszkole Zgromadzenia Si\u00f3str \u015aw. El\u017cbiety",
+                "name": "Niepubliczne Przedszkole Zgromadzenia Si\u00f3str \u015aw. El\u017cbiety",
+                "addr:country": "PL",
+                "addr:postcode": "58-330",
+                "addr:city": "Jedlina-Zdr\u00f3j",
+                "addr:street": "ul. Piastowska",
+                "addr:housenumber": "8",
+                "addr:teryt:simc": 16046,
+                "addr:teryt:sym_ul": 984025,
+                "contact:phone": "+48 748455332",
+                "contact:email": "elzb_jedlina@wp.pl",
+                "ref:regon": "021967349",
+                "ref:vatin": "PL8851272978",
+                "operator": "Dane Do Uzupe\u0142nienia",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 270255,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.34484,
+                    50.7245
+                ]
+            },
+            "properties": {
+                "ref:rspo": 270255,
+                "official_name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny im.janusza Korczaka w Jedlinie-Zdroju",
+                "name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny im.janusza Korczaka w Jedlinie-Zdroju",
+                "addr:country": "PL",
+                "addr:postcode": "58-330",
+                "addr:city": "Jedlina-Zdr\u00f3j",
+                "addr:street": "ul. Jana Paw\u0142a II",
+                "addr:housenumber": "5",
+                "addr:teryt:simc": 7123,
+                "addr:teryt:sym_ul": 984025,
+                "contact:phone": "+48 748455285",
+                "contact:email": "sekretariatmsp1@tlen.pl",
+                "contact:website": "http:\/\/www.msp.jedlinazdroj.eu",
+                "ref:regon": "382282608",
+                "operator": "Miasto Jedlina-Zdr\u00f3j",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 12645;270040"
+            }
+        },
+        {
+            "id": 12645,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.34484,
+                    50.72447
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 12645,
+                "official_name": "Szko\u0142a Podstawowa im. Janusza Korczaka Z Oddzia\u0142ami Gimnazjum",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "58-330",
+                "addr:city": "Jedlina-Zdr\u00f3j",
+                "addr:street": "ul. Jana Paw\u0142a II",
+                "addr:housenumber": "5",
+                "addr:teryt:simc": 7123,
+                "addr:teryt:sym_ul": 984025,
+                "contact:phone": "+48 748455285",
+                "contact:email": "sekretariatmsp1@tlen.pl",
+                "contact:website": "http:\/\/www.msp.jedlinazdroj.eu",
+                "ref:regon": "000691719",
+                "ref:vatin": "PL8851006805",
+                "operator": "Miasto Jedlina-Zdr\u00f3j",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 270255"
+            }
+        },
+        {
+            "id": 270040,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.34484,
+                    50.72444
+                ]
+            },
+            "properties": {
+                "ref:rspo": 270040,
+                "official_name": "Przedszkole",
+                "name": "Przedszkole",
+                "addr:country": "PL",
+                "addr:postcode": "58-330",
+                "addr:city": "Jedlina-Zdr\u00f3j",
+                "addr:street": "ul. Jana Paw\u0142a II",
+                "addr:housenumber": "5",
+                "addr:teryt:simc": 7123,
+                "addr:teryt:sym_ul": 984025,
+                "contact:phone": "+48 748455285",
+                "contact:email": "sekretariatmsp1@tlen.pl",
+                "contact:website": "http:\/\/www.msp.jedlina.eu",
+                "ref:regon": "381995453",
+                "operator": "Miasto Jedlina-Zdr\u00f3j",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 270255"
+            }
+        }
+    ]
+}

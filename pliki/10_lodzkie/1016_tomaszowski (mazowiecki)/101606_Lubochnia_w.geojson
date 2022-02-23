@@ -1,1 +1,185 @@
-{"type":"FeatureCollection","features":[{"id":49107,"type":"Feature","geometry":{"type":"Point","coordinates":[20.11281,51.56778]},"properties":{"isced:level":"1;2","ref:rspo":49107,"official_name":"Publiczna Szko\u0142a Podstawowa","name":"Publiczna Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"97-217","addr:place":"Glinnik","addr:housenumber":"48A","addr:teryt:sym_ul":544496,"contact:phone":"+48 447123158","contact:email":"glinnik@neostrada.pl","contact:website":"http:\/\/www.spglinnik.lubochnia.pl","ref:regon":"001160349","ref:vatin":"PL7732227391","operator":"Gmina Lubochnia","operator:type":"government","amenity":"school"}},{"id":72821,"type":"Feature","geometry":{"type":"Point","coordinates":[20.09626,51.57244]},"properties":{"ref:rspo":72821,"official_name":"Przedszkole Wojskowe Nr 129","name":"Przedszkole Wojskowe Nr 129","addr:country":"PL","addr:postcode":"97-217","addr:place":"Nowy Glinnik","addr:housenumber":"6","addr:teryt:sym_ul":544680,"contact:phone":"+48 261167395","contact:email":"m.bryks@ron.mil.pl","ref:regon":"101495791","operator":"Ministerstwo Obrony Narodowej","operator:type":"public","amenity":"kindergarten"}},{"id":277946,"type":"Feature","geometry":{"type":"Point","coordinates":[20.05074,51.60832]},"properties":{"ref:rspo":277946,"official_name":"Przedszkole Publiczne Nr 1 w Lubochni","name":"Przedszkole Publiczne Nr 1 w Lubochni","addr:country":"PL","addr:postcode":"97-217","addr:city":"Lubochnia","addr:street":"ul. \u0141\u00f3dzka","addr:housenumber":"10","addr:teryt:simc":11710,"addr:teryt:sym_ul":544591,"contact:phone":"+48 447101494","contact:email":"przedszkole@lubochnia.pl","ref:regon":"389702380","operator":"Gmina Lubochnia","operator:type":"government","amenity":"kindergarten"}},{"id":49105,"type":"Feature","geometry":{"type":"Point","coordinates":[20.0497193,51.60907]},"properties":{"ref:rspo":49105,"official_name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w Lubochni","name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w Lubochni","addr:country":"PL","addr:postcode":"97-217","addr:city":"Lubochnia","addr:street":"ul. \u0141\u00f3dzka","addr:housenumber":"19","addr:teryt:simc":11710,"addr:teryt:sym_ul":544591,"contact:phone":"+48 447103662","contact:email":"zsp@lubochnia.pl","contact:website":"http:\/\/zsp.lubochnia.pl","ref:regon":"592161180","ref:vatin":"PL7732232038","operator":"Gmina Lubochnia","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 70106;70107"}},{"id":70106,"type":"Feature","geometry":{"type":"Point","coordinates":[20.0497193,51.60904]},"properties":{"isced:level":"1;2","ref:rspo":70106,"official_name":"Szko\u0142a Podstawowa im. Powsta\u0144c\u00f3w Styczniowych 1863 R. w Lubochni","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"97-217","addr:city":"Lubochnia","addr:street":"ul. \u0141\u00f3dzka","addr:housenumber":"19","addr:teryt:simc":11710,"addr:teryt:sym_ul":544591,"contact:phone":"+48 447103662","contact:email":"zsp@lubochnia.pl","ref:regon":"000270490","operator":"Gmina Lubochnia","operator:type":"government","amenity":"school","note":"Parent RSPO: 49105"}},{"id":70107,"type":"Feature","geometry":{"type":"Point","coordinates":[20.0497193,51.609010000000005]},"properties":{"ref:rspo":70107,"official_name":"Przedszkole w Lubochni","name":"Przedszkole w Lubochni","addr:country":"PL","addr:postcode":"97-217","addr:city":"Lubochnia","addr:street":"ul. \u0141\u00f3dzka","addr:housenumber":"19","addr:teryt:simc":11710,"addr:teryt:sym_ul":544591,"contact:phone":"+48 447101494","contact:email":"zsp@lubochnia.pl","ref:regon":"590787879","operator":"Gmina Lubochnia","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 49105"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 49107,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.11281,
+                    51.56778
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 49107,
+                "official_name": "Publiczna Szko\u0142a Podstawowa",
+                "name": "Publiczna Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "97-217",
+                "addr:place": "Glinnik",
+                "addr:housenumber": "48A",
+                "addr:teryt:sym_ul": 544496,
+                "contact:phone": "+48 447123158",
+                "contact:email": "glinnik@neostrada.pl",
+                "contact:website": "http:\/\/www.spglinnik.lubochnia.pl",
+                "ref:regon": "001160349",
+                "ref:vatin": "PL7732227391",
+                "operator": "Gmina Lubochnia",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 72821,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.09626,
+                    51.57244
+                ]
+            },
+            "properties": {
+                "ref:rspo": 72821,
+                "official_name": "Przedszkole Wojskowe Nr 129",
+                "name": "Przedszkole Wojskowe Nr 129",
+                "addr:country": "PL",
+                "addr:postcode": "97-217",
+                "addr:place": "Nowy Glinnik",
+                "addr:housenumber": "6",
+                "addr:teryt:sym_ul": 544680,
+                "contact:phone": "+48 261167395",
+                "contact:email": "m.bryks@ron.mil.pl",
+                "ref:regon": "101495791",
+                "operator": "Ministerstwo Obrony Narodowej",
+                "operator:type": "public",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 277946,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.05074,
+                    51.60832
+                ]
+            },
+            "properties": {
+                "ref:rspo": 277946,
+                "official_name": "Przedszkole Publiczne Nr 1 w Lubochni",
+                "name": "Przedszkole Publiczne Nr 1 w Lubochni",
+                "addr:country": "PL",
+                "addr:postcode": "97-217",
+                "addr:city": "Lubochnia",
+                "addr:street": "ul. \u0141\u00f3dzka",
+                "addr:housenumber": "10",
+                "addr:teryt:simc": 11710,
+                "addr:teryt:sym_ul": 544591,
+                "contact:phone": "+48 447101494",
+                "contact:email": "przedszkole@lubochnia.pl",
+                "ref:regon": "389702380",
+                "operator": "Gmina Lubochnia",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 49105,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.0497193,
+                    51.60907
+                ]
+            },
+            "properties": {
+                "ref:rspo": 49105,
+                "official_name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w Lubochni",
+                "name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w Lubochni",
+                "addr:country": "PL",
+                "addr:postcode": "97-217",
+                "addr:city": "Lubochnia",
+                "addr:street": "ul. \u0141\u00f3dzka",
+                "addr:housenumber": "19",
+                "addr:teryt:simc": 11710,
+                "addr:teryt:sym_ul": 544591,
+                "contact:phone": "+48 447103662",
+                "contact:email": "zsp@lubochnia.pl",
+                "contact:website": "http:\/\/zsp.lubochnia.pl",
+                "ref:regon": "592161180",
+                "ref:vatin": "PL7732232038",
+                "operator": "Gmina Lubochnia",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 70106;70107"
+            }
+        },
+        {
+            "id": 70106,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.0497193,
+                    51.60904
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 70106,
+                "official_name": "Szko\u0142a Podstawowa im. Powsta\u0144c\u00f3w Styczniowych 1863 R. w Lubochni",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "97-217",
+                "addr:city": "Lubochnia",
+                "addr:street": "ul. \u0141\u00f3dzka",
+                "addr:housenumber": "19",
+                "addr:teryt:simc": 11710,
+                "addr:teryt:sym_ul": 544591,
+                "contact:phone": "+48 447103662",
+                "contact:email": "zsp@lubochnia.pl",
+                "ref:regon": "000270490",
+                "operator": "Gmina Lubochnia",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 49105"
+            }
+        },
+        {
+            "id": 70107,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.0497193,
+                    51.609010000000005
+                ]
+            },
+            "properties": {
+                "ref:rspo": 70107,
+                "official_name": "Przedszkole w Lubochni",
+                "name": "Przedszkole w Lubochni",
+                "addr:country": "PL",
+                "addr:postcode": "97-217",
+                "addr:city": "Lubochnia",
+                "addr:street": "ul. \u0141\u00f3dzka",
+                "addr:housenumber": "19",
+                "addr:teryt:simc": 11710,
+                "addr:teryt:sym_ul": 544591,
+                "contact:phone": "+48 447101494",
+                "contact:email": "zsp@lubochnia.pl",
+                "ref:regon": "590787879",
+                "operator": "Gmina Lubochnia",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 49105"
+            }
+        }
+    ]
+}

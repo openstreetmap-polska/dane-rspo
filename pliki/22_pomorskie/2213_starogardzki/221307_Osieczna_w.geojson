@@ -1,1 +1,196 @@
-{"type":"FeatureCollection","features":[{"id":107145,"type":"Feature","geometry":{"type":"Point","coordinates":[18.11564,53.76721]},"properties":{"ref:rspo":107145,"official_name":"Samorz\u0105dowe Przedszkole Publiczne w Szlachcie","name":"Samorz\u0105dowe Przedszkole Publiczne w Szlachcie","addr:country":"PL","addr:postcode":"83-243","addr:city":"Szlachta","addr:street":"ul. 3 Maja","addr:housenumber":"67","addr:teryt:simc":11937,"addr:teryt:sym_ul":168277,"contact:phone":"+48 585881531","contact:email":"pspszlachta@interia.pl","ref:regon":"191925959","operator":"Gmina Osieczna","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 106774"}},{"id":106774,"type":"Feature","geometry":{"type":"Point","coordinates":[18.11638,53.77005]},"properties":{"ref:rspo":106774,"official_name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 Publicznych w Szlachcie","name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 Publicznych w Szlachcie","addr:country":"PL","addr:postcode":"83-243","addr:city":"Szlachta","addr:street":"ul. 3 Maja","addr:housenumber":"32","addr:teryt:simc":11937,"addr:teryt:sym_ul":168277,"contact:phone":"+48 585881323","contact:email":"pspszlachta@interia.pl","contact:website":"http:\/\/www.zspszlachta.szkolnastrona.pl","ref:regon":"192937580","ref:vatin":"PL5922031454","operator":"Gmina Osieczna","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 107114;107145"}},{"id":107114,"type":"Feature","geometry":{"type":"Point","coordinates":[18.11638,53.770019999999995]},"properties":{"isced:level":"1;2","ref:rspo":107114,"official_name":"Szko\u0142a Podstawowa im.spadochroniarzy Wojska Polskiego w Szlachcie","name":"Szko\u0142a Podstawowa im.spadochroniarzy Wojska Polskiego w Szlachcie","addr:country":"PL","addr:postcode":"83-243","addr:city":"Szlachta","addr:street":"ul. 3 Maja","addr:housenumber":"32","addr:teryt:simc":11937,"addr:teryt:sym_ul":168277,"contact:phone":"+48 585881323","contact:email":"pspszlachta@interia.pl","contact:website":"http:\/\/www.zspszlachta.szkolnastrona.pl","ref:regon":"001172803","operator":"Gmina Osieczna","operator:type":"government","amenity":"school","note":"Parent RSPO: 106774"}},{"id":106789,"type":"Feature","geometry":{"type":"Point","coordinates":[18.20199,53.77168]},"properties":{"ref:rspo":106789,"official_name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 Publicznych w Osiecznej","name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 Publicznych w Osiecznej","addr:country":"PL","addr:postcode":"83-242","addr:city":"Osieczna","addr:street":"ul. Mickiewicza","addr:housenumber":"1","addr:teryt:simc":12734,"addr:teryt:sym_ul":168202,"contact:phone":"+48 585881460","contact:email":"zsposieczna@interia.pl","contact:website":"http:\/\/www.zspo.webd.pl","ref:regon":"000684547","ref:vatin":"PL5921892906","operator":"Gmina Osieczna","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 106820;107064"}},{"id":106820,"type":"Feature","geometry":{"type":"Point","coordinates":[18.20199,53.77165]},"properties":{"ref:rspo":106820,"official_name":"Samorz\u0105dowe Przedszkole Publiczne w Osiecznej","name":"Samorz\u0105dowe Przedszkole Publiczne w Osiecznej","addr:country":"PL","addr:postcode":"83-242","addr:city":"Osieczna","addr:street":"ul. Mickiewicza","addr:housenumber":"1","addr:teryt:simc":12734,"addr:teryt:sym_ul":168202,"contact:phone":"+48 585881353","contact:email":"spposieczna@wp.pl","ref:regon":"191926077","ref:vatin":"PL5921902757","operator":"Gmina Osieczna","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 106789"}},{"id":107064,"type":"Feature","geometry":{"type":"Point","coordinates":[18.20199,53.771620000000006]},"properties":{"isced:level":"1;2","ref:rspo":107064,"official_name":"Szko\u0142a Podstawowa im.lotnik\u00f3w Wojska Polskiego w Osiecznej","name":"Szko\u0142a Podstawowa im.lotnik\u00f3w Wojska Polskiego w Osiecznej","addr:country":"PL","addr:postcode":"83-242","addr:city":"Osieczna","addr:street":"ul. Mickiewicza","addr:housenumber":"1","addr:teryt:simc":12734,"addr:teryt:sym_ul":168202,"contact:phone":"+48 585881460","contact:email":"zsposieczna@interia.pl","contact:website":"http:\/\/www.zspo.webd.pl","ref:regon":"192938303","operator":"Gmina Osieczna","operator:type":"government","amenity":"school","note":"Parent RSPO: 106789"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 107145,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.11564,
+                    53.76721
+                ]
+            },
+            "properties": {
+                "ref:rspo": 107145,
+                "official_name": "Samorz\u0105dowe Przedszkole Publiczne w Szlachcie",
+                "name": "Samorz\u0105dowe Przedszkole Publiczne w Szlachcie",
+                "addr:country": "PL",
+                "addr:postcode": "83-243",
+                "addr:city": "Szlachta",
+                "addr:street": "ul. 3 Maja",
+                "addr:housenumber": "67",
+                "addr:teryt:simc": 11937,
+                "addr:teryt:sym_ul": 168277,
+                "contact:phone": "+48 585881531",
+                "contact:email": "pspszlachta@interia.pl",
+                "ref:regon": "191925959",
+                "operator": "Gmina Osieczna",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 106774"
+            }
+        },
+        {
+            "id": 106774,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.11638,
+                    53.77005
+                ]
+            },
+            "properties": {
+                "ref:rspo": 106774,
+                "official_name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Publicznych w Szlachcie",
+                "name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Publicznych w Szlachcie",
+                "addr:country": "PL",
+                "addr:postcode": "83-243",
+                "addr:city": "Szlachta",
+                "addr:street": "ul. 3 Maja",
+                "addr:housenumber": "32",
+                "addr:teryt:simc": 11937,
+                "addr:teryt:sym_ul": 168277,
+                "contact:phone": "+48 585881323",
+                "contact:email": "pspszlachta@interia.pl",
+                "contact:website": "http:\/\/www.zspszlachta.szkolnastrona.pl",
+                "ref:regon": "192937580",
+                "ref:vatin": "PL5922031454",
+                "operator": "Gmina Osieczna",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 107114;107145"
+            }
+        },
+        {
+            "id": 107114,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.11638,
+                    53.770019999999995
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 107114,
+                "official_name": "Szko\u0142a Podstawowa im.spadochroniarzy Wojska Polskiego w Szlachcie",
+                "name": "Szko\u0142a Podstawowa im.spadochroniarzy Wojska Polskiego w Szlachcie",
+                "addr:country": "PL",
+                "addr:postcode": "83-243",
+                "addr:city": "Szlachta",
+                "addr:street": "ul. 3 Maja",
+                "addr:housenumber": "32",
+                "addr:teryt:simc": 11937,
+                "addr:teryt:sym_ul": 168277,
+                "contact:phone": "+48 585881323",
+                "contact:email": "pspszlachta@interia.pl",
+                "contact:website": "http:\/\/www.zspszlachta.szkolnastrona.pl",
+                "ref:regon": "001172803",
+                "operator": "Gmina Osieczna",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 106774"
+            }
+        },
+        {
+            "id": 106789,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.20199,
+                    53.77168
+                ]
+            },
+            "properties": {
+                "ref:rspo": 106789,
+                "official_name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Publicznych w Osiecznej",
+                "name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Publicznych w Osiecznej",
+                "addr:country": "PL",
+                "addr:postcode": "83-242",
+                "addr:city": "Osieczna",
+                "addr:street": "ul. Mickiewicza",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 12734,
+                "addr:teryt:sym_ul": 168202,
+                "contact:phone": "+48 585881460",
+                "contact:email": "zsposieczna@interia.pl",
+                "contact:website": "http:\/\/www.zspo.webd.pl",
+                "ref:regon": "000684547",
+                "ref:vatin": "PL5921892906",
+                "operator": "Gmina Osieczna",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 106820;107064"
+            }
+        },
+        {
+            "id": 106820,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.20199,
+                    53.77165
+                ]
+            },
+            "properties": {
+                "ref:rspo": 106820,
+                "official_name": "Samorz\u0105dowe Przedszkole Publiczne w Osiecznej",
+                "name": "Samorz\u0105dowe Przedszkole Publiczne w Osiecznej",
+                "addr:country": "PL",
+                "addr:postcode": "83-242",
+                "addr:city": "Osieczna",
+                "addr:street": "ul. Mickiewicza",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 12734,
+                "addr:teryt:sym_ul": 168202,
+                "contact:phone": "+48 585881353",
+                "contact:email": "spposieczna@wp.pl",
+                "ref:regon": "191926077",
+                "ref:vatin": "PL5921902757",
+                "operator": "Gmina Osieczna",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 106789"
+            }
+        },
+        {
+            "id": 107064,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.20199,
+                    53.771620000000006
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 107064,
+                "official_name": "Szko\u0142a Podstawowa im.lotnik\u00f3w Wojska Polskiego w Osiecznej",
+                "name": "Szko\u0142a Podstawowa im.lotnik\u00f3w Wojska Polskiego w Osiecznej",
+                "addr:country": "PL",
+                "addr:postcode": "83-242",
+                "addr:city": "Osieczna",
+                "addr:street": "ul. Mickiewicza",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 12734,
+                "addr:teryt:sym_ul": 168202,
+                "contact:phone": "+48 585881460",
+                "contact:email": "zsposieczna@interia.pl",
+                "contact:website": "http:\/\/www.zspo.webd.pl",
+                "ref:regon": "192938303",
+                "operator": "Gmina Osieczna",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 106789"
+            }
+        }
+    ]
+}

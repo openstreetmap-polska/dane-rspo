@@ -1,1 +1,159 @@
-{"type":"FeatureCollection","features":[{"id":26190,"type":"Feature","geometry":{"type":"Point","coordinates":[15.26464,52.26466]},"properties":{"ref:rspo":26190,"official_name":"O\u015brodek Dokszta\u0142cania Zawodowego P. W. Atest Wies\u0142aw Klimczyk w Toporowie","name":"O\u015brodek Dokszta\u0142cania Zawodowego P. W. Atest Wies\u0142aw Klimczyk w Toporowie","addr:country":"PL","addr:postcode":"66-220","addr:city":"Topor\u00f3w","addr:street":"ul. Szkolna","addr:housenumber":"11","addr:teryt:simc":21970,"addr:teryt:sym_ul":911530,"contact:phone":"+48 604931904","contact:email":"pklimczykw@interia.pl","ref:regon":"081079470","ref:vatin":"PL9271244291","operator":"Wies\u0142aw Klimczyk","operator:type":"private","fixme":"w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. amenity=training + training=*, amenity=dancing_school, amenity=language_school, amenity=music_school) albo amenity=school, amenity=college, albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education."}},{"id":58489,"type":"Feature","geometry":{"type":"Point","coordinates":[15.26464,52.26463]},"properties":{"isced:level":"1;2","ref:rspo":58489,"official_name":"Samorz\u0105dowa Szko\u0142a Podstawowa I Oddzia\u0142 Przedszkolny im. J. Korczaka w Toporowie","name":"Samorz\u0105dowa Szko\u0142a Podstawowa I Oddzia\u0142 Przedszkolny","addr:country":"PL","addr:postcode":"66-220","addr:city":"Topor\u00f3w","addr:street":"ul. Szkolna","addr:housenumber":"11","addr:teryt:simc":21970,"addr:teryt:sym_ul":911530,"contact:phone":"+48 683411072","contact:email":"szkola_toporow@o2.pl","ref:regon":"970572840","ref:vatin":"PL9271813441","operator":"Gmina \u0141ag\u00f3w","operator:type":"government","amenity":"school"}},{"id":58481,"type":"Feature","geometry":{"type":"Point","coordinates":[15.29726,52.33758]},"properties":{"isced:level":"1;2","ref:rspo":58481,"official_name":"Samorz\u0105dowa Szko\u0142a Podstawowa im. Obro\u0144c\u00f3w Warszawy w \u0141agowie","name":"Samorz\u0105dowa Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"66-220","addr:city":"\u0141ag\u00f3w","addr:street":"ul. Szkolna","addr:housenumber":"1","addr:teryt:simc":21970,"addr:teryt:sym_ul":911434,"contact:phone":"+48 683412728","contact:email":"szkolagow@poczta.fm","contact:website":"http:\/\/www.zelagow.pl","ref:regon":"970572805","ref:vatin":"PL9271812878","operator":"Gmina \u0141ag\u00f3w","operator:type":"government","amenity":"school","note":"Children RSPO: 276210"}},{"id":58490,"type":"Feature","geometry":{"type":"Point","coordinates":[15.30066,52.34264]},"properties":{"ref:rspo":58490,"official_name":"Samorz\u0105dowe Przedszkole w \u0141agowie","name":"Samorz\u0105dowe Przedszkole w \u0141agowie","addr:country":"PL","addr:postcode":"66-220","addr:city":"\u0141ag\u00f3w","addr:street":"ul. S\u0142oneczna","addr:housenumber":"2","addr:teryt:simc":20254,"addr:teryt:sym_ul":911434,"contact:phone":"+48 683412162","contact:email":"przedszkolelagow@o2.pl","ref:regon":"978013100","ref:vatin":"PL9271926369","operator":"Gmina \u0141ag\u00f3w","operator:type":"government","amenity":"kindergarten"}},{"id":276210,"type":"Feature","geometry":{"type":"Point","coordinates":[15.3755,52.36163]},"properties":{"isced:level":"1;2","ref:rspo":276210,"official_name":"Filia Samorz\u0105dowej Szko\u0142y Podstawowej im. Obro\u0144c\u00f3w Warszawy w \u0141agowie","name":"Filia Samorz\u0105dowej Szko\u0142y Podstawowej","addr:country":"PL","addr:postcode":"66-220","addr:place":"Sieniawa","addr:housenumber":"8","addr:teryt:sym_ul":911500,"contact:phone":"+48 503723460","contact:email":"szkola.sieniawa@poczta.onet.pl","ref:regon":"970572805","ref:vatin":"PL9271812878","operator":"Gmina \u0141ag\u00f3w","operator:type":"government","amenity":"school","note":"Parent RSPO: 58481"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 26190,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.26464,
+                    52.26466
+                ]
+            },
+            "properties": {
+                "ref:rspo": 26190,
+                "official_name": "O\u015brodek Dokszta\u0142cania Zawodowego P. W. Atest Wies\u0142aw Klimczyk w Toporowie",
+                "name": "O\u015brodek Dokszta\u0142cania Zawodowego P. W. Atest Wies\u0142aw Klimczyk w Toporowie",
+                "addr:country": "PL",
+                "addr:postcode": "66-220",
+                "addr:city": "Topor\u00f3w",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "11",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 911530,
+                "contact:phone": "+48 604931904",
+                "contact:email": "pklimczykw@interia.pl",
+                "ref:regon": "081079470",
+                "ref:vatin": "PL9271244291",
+                "operator": "Wies\u0142aw Klimczyk",
+                "operator:type": "private",
+                "fixme": "w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. amenity=training + training=*, amenity=dancing_school, amenity=language_school, amenity=music_school) albo amenity=school, amenity=college, albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education."
+            }
+        },
+        {
+            "id": 58489,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.26464,
+                    52.26463
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 58489,
+                "official_name": "Samorz\u0105dowa Szko\u0142a Podstawowa I Oddzia\u0142 Przedszkolny im. J. Korczaka w Toporowie",
+                "name": "Samorz\u0105dowa Szko\u0142a Podstawowa I Oddzia\u0142 Przedszkolny",
+                "addr:country": "PL",
+                "addr:postcode": "66-220",
+                "addr:city": "Topor\u00f3w",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "11",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 911530,
+                "contact:phone": "+48 683411072",
+                "contact:email": "szkola_toporow@o2.pl",
+                "ref:regon": "970572840",
+                "ref:vatin": "PL9271813441",
+                "operator": "Gmina \u0141ag\u00f3w",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 58481,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.29726,
+                    52.33758
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 58481,
+                "official_name": "Samorz\u0105dowa Szko\u0142a Podstawowa im. Obro\u0144c\u00f3w Warszawy w \u0141agowie",
+                "name": "Samorz\u0105dowa Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "66-220",
+                "addr:city": "\u0141ag\u00f3w",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 911434,
+                "contact:phone": "+48 683412728",
+                "contact:email": "szkolagow@poczta.fm",
+                "contact:website": "http:\/\/www.zelagow.pl",
+                "ref:regon": "970572805",
+                "ref:vatin": "PL9271812878",
+                "operator": "Gmina \u0141ag\u00f3w",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Children RSPO: 276210"
+            }
+        },
+        {
+            "id": 58490,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.30066,
+                    52.34264
+                ]
+            },
+            "properties": {
+                "ref:rspo": 58490,
+                "official_name": "Samorz\u0105dowe Przedszkole w \u0141agowie",
+                "name": "Samorz\u0105dowe Przedszkole w \u0141agowie",
+                "addr:country": "PL",
+                "addr:postcode": "66-220",
+                "addr:city": "\u0141ag\u00f3w",
+                "addr:street": "ul. S\u0142oneczna",
+                "addr:housenumber": "2",
+                "addr:teryt:simc": 20254,
+                "addr:teryt:sym_ul": 911434,
+                "contact:phone": "+48 683412162",
+                "contact:email": "przedszkolelagow@o2.pl",
+                "ref:regon": "978013100",
+                "ref:vatin": "PL9271926369",
+                "operator": "Gmina \u0141ag\u00f3w",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 276210,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.3755,
+                    52.36163
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 276210,
+                "official_name": "Filia Samorz\u0105dowej Szko\u0142y Podstawowej im. Obro\u0144c\u00f3w Warszawy w \u0141agowie",
+                "name": "Filia Samorz\u0105dowej Szko\u0142y Podstawowej",
+                "addr:country": "PL",
+                "addr:postcode": "66-220",
+                "addr:place": "Sieniawa",
+                "addr:housenumber": "8",
+                "addr:teryt:sym_ul": 911500,
+                "contact:phone": "+48 503723460",
+                "contact:email": "szkola.sieniawa@poczta.onet.pl",
+                "ref:regon": "970572805",
+                "ref:vatin": "PL9271812878",
+                "operator": "Gmina \u0141ag\u00f3w",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 58481"
+            }
+        }
+    ]
+}

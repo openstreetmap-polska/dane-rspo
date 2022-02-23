@@ -1,1 +1,216 @@
-{"type":"FeatureCollection","features":[{"id":104700,"type":"Feature","geometry":{"type":"Point","coordinates":[17.00456,53.09776]},"properties":{"ref:rspo":104700,"official_name":"Publiczne Przedszkole w Miasteczku Kraje\u0144skim","name":"Publiczne Przedszkole w Miasteczku Kraje\u0144skim","addr:country":"PL","addr:postcode":"89-350","addr:city":"Miasteczko Kraje\u0144skie","addr:street":"pl. Plac Wolno\u015bci","addr:housenumber":"12","addr:teryt:simc":16414,"addr:teryt:sym_ul":528132,"contact:phone":"+48 672873129","contact:email":"przedszkolemiasteczko@wp.pl","ref:regon":"570263117","ref:vatin":"PL7642331771","operator":"Gmina Miasteczko Kraje\u0144skie","operator:type":"government","amenity":"kindergarten"}},{"id":104533,"type":"Feature","geometry":{"type":"Point","coordinates":[17.00744,53.10122]},"properties":{"isced:level":"1;2","ref:rspo":104533,"official_name":"Szko\u0142a Podstawowa im. Kmdra Boles\u0142awa Romanowskiego","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"89-350","addr:city":"Miasteczko Kraje\u0144skie","addr:street":"ul. Szkolna","addr:housenumber":"1","addr:teryt:simc":21970,"addr:teryt:sym_ul":528132,"contact:phone":"+48 672873161","contact:email":"spmiast@wp.pl","ref:regon":"001170431","ref:vatin":"PL7642601710","operator":"Gmina Miasteczko Kraje\u0144skie","operator:type":"government","amenity":"school"}},{"id":34347,"type":"Feature","geometry":{"type":"Point","coordinates":[17.02114,53.1033]},"properties":{"ref:rspo":34347,"official_name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 Centrum Kszta\u0142cenia Rolniczego im. Micha\u0142a Drzyma\u0142y w Brzostowie","name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 Centrum Kszta\u0142cenia Rolniczego","addr:country":"PL","addr:postcode":"89-350","addr:place":"Brzostowo","addr:housenumber":"69","addr:teryt:sym_ul":528149,"contact:phone":"+48 672874411","contact:email":"brzostowo@wp.pl","contact:website":"http:\/\/www.ckrbrzostowo.pl","ref:regon":"300749585","ref:vatin":"PL7642310510","operator":"Ministerstwo Rolnictwa I Rozwoju Wsi","operator:type":"public","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 82506;83413;130462;264825"}},{"id":82506,"type":"Feature","geometry":{"type":"Point","coordinates":[17.02114,53.103269999999995]},"properties":{"isced:level":"3","ref:rspo":82506,"official_name":"Technikum w Brzostowie","name":"Technikum w Brzostowie","addr:country":"PL","addr:postcode":"89-350","addr:place":"Brzostowo","addr:housenumber":"69","addr:teryt:sym_ul":528149,"contact:phone":"+48 672874411","contact:email":"brzostowo@wp.pl","contact:website":"http:\/\/www.ckrbrzostowo.pl","ref:regon":"300749639","operator":"Ministerstwo Rolnictwa I Rozwoju Wsi","operator:type":"public","amenity":"school","note":"Parent RSPO: 34347"}},{"id":83413,"type":"Feature","geometry":{"type":"Point","coordinates":[17.02114,53.10324]},"properties":{"isced:level":"3","ref:rspo":83413,"official_name":"Bran\u017cowa Szko\u0142a I Stopnia w Brzostowie","name":"Bran\u017cowa Szko\u0142a I Stopnia w Brzostowie","addr:country":"PL","addr:postcode":"89-350","addr:place":"Brzostowo","addr:housenumber":"69","addr:teryt:sym_ul":528149,"contact:phone":"+48 672874411","contact:email":"brzostowo@wp.pl","contact:website":"http:\/\/www.ckrbrzostowo.pl","ref:regon":"300749668","operator":"Ministerstwo Rolnictwa I Rozwoju Wsi","operator:type":"public","amenity":"school","note":"Parent RSPO: 34347"}},{"id":130462,"type":"Feature","geometry":{"type":"Point","coordinates":[17.02114,53.10321]},"properties":{"ref:rspo":130462,"official_name":"Centrum Kszta\u0142cenia Ustawicznego w Brzostowie","name":"Centrum Kszta\u0142cenia Ustawicznego w Brzostowie","addr:country":"PL","addr:postcode":"89-350","addr:place":"Brzostowo","addr:housenumber":"69","addr:teryt:sym_ul":528149,"contact:phone":"+48 672874411","contact:email":"brzostowo@wp.pl","contact:website":"http:\/\/www.ckrbrzostowo.pl","ref:regon":"364031406","operator":"Ministerstwo Rolnictwa I Rozwoju Wsi","operator:type":"public","fixme":"w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. amenity=training + training=*, amenity=dancing_school, amenity=language_school, amenity=music_school)","note":"Parent RSPO: 34347"}},{"id":264825,"type":"Feature","geometry":{"type":"Point","coordinates":[17.02114,53.103179999999995]},"properties":{"isced:level":"4","ref:rspo":264825,"official_name":"Szko\u0142a Policealna w Brzostowie","name":"Szko\u0142a Policealna w Brzostowie","addr:country":"PL","addr:postcode":"89-350","addr:place":"Brzostowo","addr:housenumber":"69","addr:teryt:sym_ul":528149,"contact:phone":"+48 672874411","contact:email":"brzostowo@wp.pl","contact:website":"http:\/\/www.ckrbrzostowo.pl","ref:regon":"368480414","operator":"Ministerstwo Rolnictwa I Rozwoju Wsi","operator:type":"public","amenity":"college","note":"Parent RSPO: 34347"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 104700,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.00456,
+                    53.09776
+                ]
+            },
+            "properties": {
+                "ref:rspo": 104700,
+                "official_name": "Publiczne Przedszkole w Miasteczku Kraje\u0144skim",
+                "name": "Publiczne Przedszkole w Miasteczku Kraje\u0144skim",
+                "addr:country": "PL",
+                "addr:postcode": "89-350",
+                "addr:city": "Miasteczko Kraje\u0144skie",
+                "addr:street": "pl. Plac Wolno\u015bci",
+                "addr:housenumber": "12",
+                "addr:teryt:simc": 16414,
+                "addr:teryt:sym_ul": 528132,
+                "contact:phone": "+48 672873129",
+                "contact:email": "przedszkolemiasteczko@wp.pl",
+                "ref:regon": "570263117",
+                "ref:vatin": "PL7642331771",
+                "operator": "Gmina Miasteczko Kraje\u0144skie",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 104533,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.00744,
+                    53.10122
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 104533,
+                "official_name": "Szko\u0142a Podstawowa im. Kmdra Boles\u0142awa Romanowskiego",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "89-350",
+                "addr:city": "Miasteczko Kraje\u0144skie",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 528132,
+                "contact:phone": "+48 672873161",
+                "contact:email": "spmiast@wp.pl",
+                "ref:regon": "001170431",
+                "ref:vatin": "PL7642601710",
+                "operator": "Gmina Miasteczko Kraje\u0144skie",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 34347,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.02114,
+                    53.1033
+                ]
+            },
+            "properties": {
+                "ref:rspo": 34347,
+                "official_name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Centrum Kszta\u0142cenia Rolniczego im. Micha\u0142a Drzyma\u0142y w Brzostowie",
+                "name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Centrum Kszta\u0142cenia Rolniczego",
+                "addr:country": "PL",
+                "addr:postcode": "89-350",
+                "addr:place": "Brzostowo",
+                "addr:housenumber": "69",
+                "addr:teryt:sym_ul": 528149,
+                "contact:phone": "+48 672874411",
+                "contact:email": "brzostowo@wp.pl",
+                "contact:website": "http:\/\/www.ckrbrzostowo.pl",
+                "ref:regon": "300749585",
+                "ref:vatin": "PL7642310510",
+                "operator": "Ministerstwo Rolnictwa I Rozwoju Wsi",
+                "operator:type": "public",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 82506;83413;130462;264825"
+            }
+        },
+        {
+            "id": 82506,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.02114,
+                    53.103269999999995
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 82506,
+                "official_name": "Technikum w Brzostowie",
+                "name": "Technikum w Brzostowie",
+                "addr:country": "PL",
+                "addr:postcode": "89-350",
+                "addr:place": "Brzostowo",
+                "addr:housenumber": "69",
+                "addr:teryt:sym_ul": 528149,
+                "contact:phone": "+48 672874411",
+                "contact:email": "brzostowo@wp.pl",
+                "contact:website": "http:\/\/www.ckrbrzostowo.pl",
+                "ref:regon": "300749639",
+                "operator": "Ministerstwo Rolnictwa I Rozwoju Wsi",
+                "operator:type": "public",
+                "amenity": "school",
+                "note": "Parent RSPO: 34347"
+            }
+        },
+        {
+            "id": 83413,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.02114,
+                    53.10324
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 83413,
+                "official_name": "Bran\u017cowa Szko\u0142a I Stopnia w Brzostowie",
+                "name": "Bran\u017cowa Szko\u0142a I Stopnia w Brzostowie",
+                "addr:country": "PL",
+                "addr:postcode": "89-350",
+                "addr:place": "Brzostowo",
+                "addr:housenumber": "69",
+                "addr:teryt:sym_ul": 528149,
+                "contact:phone": "+48 672874411",
+                "contact:email": "brzostowo@wp.pl",
+                "contact:website": "http:\/\/www.ckrbrzostowo.pl",
+                "ref:regon": "300749668",
+                "operator": "Ministerstwo Rolnictwa I Rozwoju Wsi",
+                "operator:type": "public",
+                "amenity": "school",
+                "note": "Parent RSPO: 34347"
+            }
+        },
+        {
+            "id": 130462,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.02114,
+                    53.10321
+                ]
+            },
+            "properties": {
+                "ref:rspo": 130462,
+                "official_name": "Centrum Kszta\u0142cenia Ustawicznego w Brzostowie",
+                "name": "Centrum Kszta\u0142cenia Ustawicznego w Brzostowie",
+                "addr:country": "PL",
+                "addr:postcode": "89-350",
+                "addr:place": "Brzostowo",
+                "addr:housenumber": "69",
+                "addr:teryt:sym_ul": 528149,
+                "contact:phone": "+48 672874411",
+                "contact:email": "brzostowo@wp.pl",
+                "contact:website": "http:\/\/www.ckrbrzostowo.pl",
+                "ref:regon": "364031406",
+                "operator": "Ministerstwo Rolnictwa I Rozwoju Wsi",
+                "operator:type": "public",
+                "fixme": "w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. amenity=training + training=*, amenity=dancing_school, amenity=language_school, amenity=music_school)",
+                "note": "Parent RSPO: 34347"
+            }
+        },
+        {
+            "id": 264825,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.02114,
+                    53.103179999999995
+                ]
+            },
+            "properties": {
+                "isced:level": "4",
+                "ref:rspo": 264825,
+                "official_name": "Szko\u0142a Policealna w Brzostowie",
+                "name": "Szko\u0142a Policealna w Brzostowie",
+                "addr:country": "PL",
+                "addr:postcode": "89-350",
+                "addr:place": "Brzostowo",
+                "addr:housenumber": "69",
+                "addr:teryt:sym_ul": 528149,
+                "contact:phone": "+48 672874411",
+                "contact:email": "brzostowo@wp.pl",
+                "contact:website": "http:\/\/www.ckrbrzostowo.pl",
+                "ref:regon": "368480414",
+                "operator": "Ministerstwo Rolnictwa I Rozwoju Wsi",
+                "operator:type": "public",
+                "amenity": "college",
+                "note": "Parent RSPO: 34347"
+            }
+        }
+    ]
+}

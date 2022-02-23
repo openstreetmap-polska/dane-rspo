@@ -1,1 +1,190 @@
-{"type":"FeatureCollection","features":[{"id":275916,"type":"Feature","geometry":{"type":"Point","coordinates":[15.533351898193,51.92472076416]},"properties":{"ref:rspo":275916,"official_name":"Przedszkole Niepubliczne \"Kraina Marze\u0144\" Justyna Hutor","name":"Przedszkole Niepubliczne \"Kraina Marze\u0144\" Justyna Hutor","addr:country":"PL","addr:postcode":"66-133","addr:place":"Klenica","addr:housenumber":"5","addr:teryt:sym_ul":907929,"contact:phone":"+48 669425339","ref:regon":"386954329","ref:vatin":"PL9251486134","operator":"Justyna Hutor","operator:type":"private","amenity":"kindergarten"}},{"id":84381,"type":"Feature","geometry":{"type":"Point","coordinates":[15.809,51.95474]},"properties":{"ref:rspo":84381,"official_name":"Przedszkole Samorz\u0105dowe w Bojad\u0142ach","name":"Przedszkole Samorz\u0105dowe w Bojad\u0142ach","addr:country":"PL","addr:postcode":"66-130","addr:city":"Bojad\u0142a","addr:street":"ul. Sulechowska","addr:housenumber":"37","addr:teryt:simc":21545,"addr:teryt:sym_ul":907881,"contact:phone":"+48 683523324","contact:email":"sp_bojadla@poczta.onet.pl","contact:website":"http:\/\/www.przedszkole.bojadla.pl","ref:regon":"000907616","ref:vatin":"PL9730659874","operator":"Gmina Bojad\u0142a","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 47116"}},{"id":47116,"type":"Feature","geometry":{"type":"Point","coordinates":[15.81506,51.95523]},"properties":{"ref:rspo":47116,"official_name":"Zesp\u00f3\u0142 Edukacyjny w Bojad\u0142ach","name":"Zesp\u00f3\u0142 Edukacyjny w Bojad\u0142ach","addr:country":"PL","addr:postcode":"66-130","addr:city":"Bojad\u0142a","addr:street":"ul. Szkolna","addr:housenumber":"1","addr:teryt:simc":21970,"addr:teryt:sym_ul":907881,"contact:phone":"+48 683523314","contact:email":"sp_bojadla@poczta.onet.pl","contact:website":"http:\/\/spbojadla.edu.pl","ref:regon":"978055788","operator":"Gmina Bojad\u0142a","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 69477;84381"}},{"id":69477,"type":"Feature","geometry":{"type":"Point","coordinates":[15.81506,51.9552]},"properties":{"isced:level":"1;2","ref:rspo":69477,"official_name":"Szko\u0142a Podstawowa w Bojad\u0142ach im. Miko\u0142aja Kopernika","name":"Szko\u0142a Podstawowa w Bojad\u0142ach","addr:country":"PL","addr:postcode":"66-130","addr:city":"Bojad\u0142a","addr:street":"ul. Szkolna","addr:housenumber":"1","addr:teryt:simc":21970,"addr:teryt:sym_ul":907881,"contact:phone":"+48 683523314","contact:email":"sp_bojadla@poczta.onet.pl","contact:website":"http:\/\/spbojadla.edu.pl","ref:regon":"970571585","ref:vatin":"PL9730656315","operator":"Gmina Bojad\u0142a","operator:type":"government","amenity":"school","note":"Parent RSPO: 47116"}},{"id":54256,"type":"Feature","geometry":{"type":"Point","coordinates":[15.77009,51.99283]},"properties":{"isced:level":"1;2","ref:rspo":54256,"official_name":"Szko\u0142a Podstawowa w Klenicy","name":"Szko\u0142a Podstawowa w Klenicy","addr:country":"PL","addr:postcode":"66-133","addr:city":"Klenica","addr:street":"ul. Boles\u0142awa Chrobrego","addr:housenumber":"68","addr:teryt:simc":1742,"addr:teryt:sym_ul":907929,"contact:phone":"+48 683523514","contact:email":"spklenica@op.pl","contact:website":"http:\/\/www.spklenica.edu.pl","ref:regon":"970571591","ref:vatin":"PL9730656321","operator":"Gmina Bojad\u0142a","operator:type":"government","amenity":"school"}},{"id":84881,"type":"Feature","geometry":{"type":"Point","coordinates":[15.78794,51.99439]},"properties":{"ref:rspo":84881,"official_name":"Niepubliczne Przedszkole \"Ma\u0142y Odkrywca\" Kamila Ostapczuk","name":"Niepubliczne Przedszkole \"Ma\u0142y Odkrywca\" Kamila Ostapczuk","addr:country":"PL","addr:postcode":"66-133","addr:city":"Klenica","addr:street":"ul. Kargowska","addr:housenumber":"5","addr:teryt:simc":8040,"addr:teryt:sym_ul":907929,"contact:phone":"+48 698293332","ref:regon":"081088546","ref:vatin":"PL9730810029","operator":"Dane Do Uzupe\u0142nienia","operator:type":"private","amenity":"kindergarten"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 275916,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.533351898193,
+                    51.92472076416
+                ]
+            },
+            "properties": {
+                "ref:rspo": 275916,
+                "official_name": "Przedszkole Niepubliczne \"Kraina Marze\u0144\" Justyna Hutor",
+                "name": "Przedszkole Niepubliczne \"Kraina Marze\u0144\" Justyna Hutor",
+                "addr:country": "PL",
+                "addr:postcode": "66-133",
+                "addr:place": "Klenica",
+                "addr:housenumber": "5",
+                "addr:teryt:sym_ul": 907929,
+                "contact:phone": "+48 669425339",
+                "ref:regon": "386954329",
+                "ref:vatin": "PL9251486134",
+                "operator": "Justyna Hutor",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 84381,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.809,
+                    51.95474
+                ]
+            },
+            "properties": {
+                "ref:rspo": 84381,
+                "official_name": "Przedszkole Samorz\u0105dowe w Bojad\u0142ach",
+                "name": "Przedszkole Samorz\u0105dowe w Bojad\u0142ach",
+                "addr:country": "PL",
+                "addr:postcode": "66-130",
+                "addr:city": "Bojad\u0142a",
+                "addr:street": "ul. Sulechowska",
+                "addr:housenumber": "37",
+                "addr:teryt:simc": 21545,
+                "addr:teryt:sym_ul": 907881,
+                "contact:phone": "+48 683523324",
+                "contact:email": "sp_bojadla@poczta.onet.pl",
+                "contact:website": "http:\/\/www.przedszkole.bojadla.pl",
+                "ref:regon": "000907616",
+                "ref:vatin": "PL9730659874",
+                "operator": "Gmina Bojad\u0142a",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 47116"
+            }
+        },
+        {
+            "id": 47116,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.81506,
+                    51.95523
+                ]
+            },
+            "properties": {
+                "ref:rspo": 47116,
+                "official_name": "Zesp\u00f3\u0142 Edukacyjny w Bojad\u0142ach",
+                "name": "Zesp\u00f3\u0142 Edukacyjny w Bojad\u0142ach",
+                "addr:country": "PL",
+                "addr:postcode": "66-130",
+                "addr:city": "Bojad\u0142a",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 907881,
+                "contact:phone": "+48 683523314",
+                "contact:email": "sp_bojadla@poczta.onet.pl",
+                "contact:website": "http:\/\/spbojadla.edu.pl",
+                "ref:regon": "978055788",
+                "operator": "Gmina Bojad\u0142a",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 69477;84381"
+            }
+        },
+        {
+            "id": 69477,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.81506,
+                    51.9552
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 69477,
+                "official_name": "Szko\u0142a Podstawowa w Bojad\u0142ach im. Miko\u0142aja Kopernika",
+                "name": "Szko\u0142a Podstawowa w Bojad\u0142ach",
+                "addr:country": "PL",
+                "addr:postcode": "66-130",
+                "addr:city": "Bojad\u0142a",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 907881,
+                "contact:phone": "+48 683523314",
+                "contact:email": "sp_bojadla@poczta.onet.pl",
+                "contact:website": "http:\/\/spbojadla.edu.pl",
+                "ref:regon": "970571585",
+                "ref:vatin": "PL9730656315",
+                "operator": "Gmina Bojad\u0142a",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 47116"
+            }
+        },
+        {
+            "id": 54256,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.77009,
+                    51.99283
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 54256,
+                "official_name": "Szko\u0142a Podstawowa w Klenicy",
+                "name": "Szko\u0142a Podstawowa w Klenicy",
+                "addr:country": "PL",
+                "addr:postcode": "66-133",
+                "addr:city": "Klenica",
+                "addr:street": "ul. Boles\u0142awa Chrobrego",
+                "addr:housenumber": "68",
+                "addr:teryt:simc": 1742,
+                "addr:teryt:sym_ul": 907929,
+                "contact:phone": "+48 683523514",
+                "contact:email": "spklenica@op.pl",
+                "contact:website": "http:\/\/www.spklenica.edu.pl",
+                "ref:regon": "970571591",
+                "ref:vatin": "PL9730656321",
+                "operator": "Gmina Bojad\u0142a",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 84881,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.78794,
+                    51.99439
+                ]
+            },
+            "properties": {
+                "ref:rspo": 84881,
+                "official_name": "Niepubliczne Przedszkole \"Ma\u0142y Odkrywca\" Kamila Ostapczuk",
+                "name": "Niepubliczne Przedszkole \"Ma\u0142y Odkrywca\" Kamila Ostapczuk",
+                "addr:country": "PL",
+                "addr:postcode": "66-133",
+                "addr:city": "Klenica",
+                "addr:street": "ul. Kargowska",
+                "addr:housenumber": "5",
+                "addr:teryt:simc": 8040,
+                "addr:teryt:sym_ul": 907929,
+                "contact:phone": "+48 698293332",
+                "ref:regon": "081088546",
+                "ref:vatin": "PL9730810029",
+                "operator": "Dane Do Uzupe\u0142nienia",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        }
+    ]
+}

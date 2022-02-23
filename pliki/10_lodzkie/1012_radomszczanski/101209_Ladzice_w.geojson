@@ -1,1 +1,156 @@
-{"type":"FeatureCollection","features":[{"id":34517,"type":"Feature","geometry":{"type":"Point","coordinates":[19.26415,51.07205]},"properties":{"isced:level":"1;2","ref:rspo":34517,"official_name":"Publiczna Szko\u0142a Podstawowa im. \u015awi\u0119tego Jana Paw\u0142a II w Jedlnie","name":"Publiczna Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"97-561","addr:place":"Jedlno Pierwsze","addr:housenumber":"33A","addr:teryt:sym_ul":544792,"contact:phone":"+48 446840441","contact:email":"pspjedlno@poczta.onet.pl","contact:website":"http:\/\/pspjedlno.edupage.org\/","ref:regon":"001160384","ref:vatin":"PL7722118654","operator":"Gmina \u0141adzice","operator:type":"government","amenity":"school"}},{"id":262481,"type":"Feature","geometry":{"type":"Point","coordinates":[19.35224,51.07785]},"properties":{"isced:level":"1;2","ref:rspo":262481,"official_name":"Publiczna Szko\u0142a Podstawowa w Radziechowicach","name":"Publiczna Szko\u0142a Podstawowa w Radziechowicach","addr:country":"PL","addr:postcode":"97-561","addr:city":"Radziechowice Drugie","addr:street":"ul. Szkolna","addr:housenumber":"5","addr:teryt:simc":21970,"addr:teryt:sym_ul":544846,"contact:phone":"+48 446840823","contact:email":"psp_radziechowice@onet.pl","contact:website":"http:\/\/www.pspradziechowice.edupage.org","ref:regon":"368030993","ref:vatin":"PL7722413755","operator":"Gmina \u0141adzice","operator:type":"government","amenity":"school"}},{"id":34524,"type":"Feature","geometry":{"type":"Point","coordinates":[19.3862,51.10583]},"properties":{"ref:rspo":34524,"official_name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w Stobiecku Szlacheckim","name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w Stobiecku Szlacheckim","addr:country":"PL","addr:postcode":"97-561","addr:place":"Stobiecko Szlacheckie","addr:housenumber":"24A","addr:teryt:sym_ul":544875,"contact:phone":"+48 446821039","contact:email":"stobiecko@poczta.onet.pl","ref:regon":"100713487","ref:vatin":"PL7722366033","operator":"Gmina \u0141adzice","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 49248;49250"}},{"id":49248,"type":"Feature","geometry":{"type":"Point","coordinates":[19.3862,51.105799999999995]},"properties":{"ref:rspo":49248,"official_name":"Publiczne Przedszkole w Stobiecku Szlacheckim","name":"Publiczne Przedszkole w Stobiecku Szlacheckim","addr:country":"PL","addr:postcode":"97-561","addr:place":"Stobiecko Szlacheckie","addr:housenumber":"24A","addr:teryt:sym_ul":544875,"contact:phone":"+48 446821039","contact:email":"stobiecko@poczta.onet.pl","ref:regon":"590020238","ref:vatin":"PL7722119263","operator":"Gmina \u0141adzice","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 34524"}},{"id":49250,"type":"Feature","geometry":{"type":"Point","coordinates":[19.3862,51.10577]},"properties":{"isced:level":"1;2","ref:rspo":49250,"official_name":"Publiczna Szko\u0142a Podstawowa w Stobiecku Szlacheckim","name":"Publiczna Szko\u0142a Podstawowa w Stobiecku Szlacheckim","addr:country":"PL","addr:postcode":"97-561","addr:place":"Stobiecko Szlacheckie","addr:housenumber":"24A","addr:teryt:sym_ul":544875,"contact:phone":"+48 446821039","contact:email":"stobiecko@poczta.onet.pl","ref:regon":"001160409","ref:vatin":"PL7722118660","operator":"Gmina \u0141adzice","operator:type":"government","amenity":"school","note":"Parent RSPO: 34524"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 34517,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.26415,
+                    51.07205
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 34517,
+                "official_name": "Publiczna Szko\u0142a Podstawowa im. \u015awi\u0119tego Jana Paw\u0142a II w Jedlnie",
+                "name": "Publiczna Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "97-561",
+                "addr:place": "Jedlno Pierwsze",
+                "addr:housenumber": "33A",
+                "addr:teryt:sym_ul": 544792,
+                "contact:phone": "+48 446840441",
+                "contact:email": "pspjedlno@poczta.onet.pl",
+                "contact:website": "http:\/\/pspjedlno.edupage.org\/",
+                "ref:regon": "001160384",
+                "ref:vatin": "PL7722118654",
+                "operator": "Gmina \u0141adzice",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 262481,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.35224,
+                    51.07785
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 262481,
+                "official_name": "Publiczna Szko\u0142a Podstawowa w Radziechowicach",
+                "name": "Publiczna Szko\u0142a Podstawowa w Radziechowicach",
+                "addr:country": "PL",
+                "addr:postcode": "97-561",
+                "addr:city": "Radziechowice Drugie",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "5",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 544846,
+                "contact:phone": "+48 446840823",
+                "contact:email": "psp_radziechowice@onet.pl",
+                "contact:website": "http:\/\/www.pspradziechowice.edupage.org",
+                "ref:regon": "368030993",
+                "ref:vatin": "PL7722413755",
+                "operator": "Gmina \u0141adzice",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 34524,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.3862,
+                    51.10583
+                ]
+            },
+            "properties": {
+                "ref:rspo": 34524,
+                "official_name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w Stobiecku Szlacheckim",
+                "name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w Stobiecku Szlacheckim",
+                "addr:country": "PL",
+                "addr:postcode": "97-561",
+                "addr:place": "Stobiecko Szlacheckie",
+                "addr:housenumber": "24A",
+                "addr:teryt:sym_ul": 544875,
+                "contact:phone": "+48 446821039",
+                "contact:email": "stobiecko@poczta.onet.pl",
+                "ref:regon": "100713487",
+                "ref:vatin": "PL7722366033",
+                "operator": "Gmina \u0141adzice",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 49248;49250"
+            }
+        },
+        {
+            "id": 49248,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.3862,
+                    51.105799999999995
+                ]
+            },
+            "properties": {
+                "ref:rspo": 49248,
+                "official_name": "Publiczne Przedszkole w Stobiecku Szlacheckim",
+                "name": "Publiczne Przedszkole w Stobiecku Szlacheckim",
+                "addr:country": "PL",
+                "addr:postcode": "97-561",
+                "addr:place": "Stobiecko Szlacheckie",
+                "addr:housenumber": "24A",
+                "addr:teryt:sym_ul": 544875,
+                "contact:phone": "+48 446821039",
+                "contact:email": "stobiecko@poczta.onet.pl",
+                "ref:regon": "590020238",
+                "ref:vatin": "PL7722119263",
+                "operator": "Gmina \u0141adzice",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 34524"
+            }
+        },
+        {
+            "id": 49250,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.3862,
+                    51.10577
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 49250,
+                "official_name": "Publiczna Szko\u0142a Podstawowa w Stobiecku Szlacheckim",
+                "name": "Publiczna Szko\u0142a Podstawowa w Stobiecku Szlacheckim",
+                "addr:country": "PL",
+                "addr:postcode": "97-561",
+                "addr:place": "Stobiecko Szlacheckie",
+                "addr:housenumber": "24A",
+                "addr:teryt:sym_ul": 544875,
+                "contact:phone": "+48 446821039",
+                "contact:email": "stobiecko@poczta.onet.pl",
+                "ref:regon": "001160409",
+                "ref:vatin": "PL7722118660",
+                "operator": "Gmina \u0141adzice",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 34524"
+            }
+        }
+    ]
+}

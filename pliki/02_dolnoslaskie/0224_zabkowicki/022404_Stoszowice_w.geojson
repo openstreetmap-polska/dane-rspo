@@ -1,1 +1,184 @@
-{"type":"FeatureCollection","features":[{"id":129062,"type":"Feature","geometry":{"type":"Point","coordinates":[16.6619199,50.5738]},"properties":{"ref:rspo":129062,"official_name":"Niepubliczny Dom Wczas\u00f3w Dzieci\u0119cych \"Srebrna G\u00f3ra\"","name":"Niepubliczny Dom Wczas\u00f3w Dzieci\u0119cych \"Srebrna G\u00f3ra\"","addr:country":"PL","addr:postcode":"57-212","addr:city":"Srebrna G\u00f3ra","addr:street":"ul. Widokowa","addr:housenumber":"1","addr:teryt:simc":24012,"addr:teryt:sym_ul":855500,"contact:email":"arek2x@op.pl","ref:regon":"362464041","operator":"\"Pod Fortami\" Sp\u00f3\u0142ka Z Ograniczon\u0105 Odpowiedzialno\u015bci\u0105","operator:type":"private","leisure":"resort"}},{"id":86408,"type":"Feature","geometry":{"type":"Point","coordinates":[16.66497,50.57668]},"properties":{"ref:rspo":86408,"official_name":"Przedszkole Niepubliczne \"Kajtek\"","name":"Przedszkole Niepubliczne \"Kajtek\"","addr:country":"PL","addr:postcode":"57-215","addr:city":"Srebrna G\u00f3ra","addr:street":"ul. K\u0105pielowa","addr:housenumber":"2","addr:door":"-","addr:teryt:simc":8294,"addr:teryt:sym_ul":855500,"contact:phone":"+48 748103924","contact:email":"przedszkole.kajtek@wp.pl","contact:website":"http:\/\/www.przedszkolesrebrnagora.pl","ref:regon":"022011392","ref:vatin":"PL8871066360","operator":"Dane Do Uzupe\u0142nienia","operator:type":"private","amenity":"kindergarten"}},{"id":3719,"type":"Feature","geometry":{"type":"Point","coordinates":[16.6912999,50.58259]},"properties":{"isced:level":"1;2","ref:rspo":3719,"official_name":"Szko\u0142a Podstawowa w Budzowie Z Fili\u0105 w Grodziszczu","name":"Szko\u0142a Podstawowa w Budzowie Z Fili\u0105 w Grodziszczu","addr:country":"PL","addr:postcode":"57-214","addr:city":"Budz\u00f3w","addr:street":"ul. Henryka Pobo\u017cnego","addr:housenumber":"1","addr:teryt:simc":6602,"addr:teryt:sym_ul":855397,"contact:phone":"+48 748164620","contact:email":"spbudzow@onet.eu","contact:website":"http:\/\/www.spbudzow.pl","ref:regon":"021645930","ref:vatin":"PL8871803143","operator":"Gmina Stoszowice","operator:type":"government","amenity":"school","note":"Children RSPO: 6926"}},{"id":91513,"type":"Feature","geometry":{"type":"Point","coordinates":[16.7422,50.59962]},"properties":{"ref:rspo":91513,"official_name":"Przedszkole Niepubliczne \"Kolorowy Balonik\"","name":"Przedszkole Niepubliczne \"Kolorowy Balonik\"","addr:country":"PL","addr:postcode":"57-213","addr:place":"Stoszowice","addr:housenumber":"34","addr:door":"-","addr:teryt:sym_ul":855517,"contact:email":"kolorowybalonik@vp.pl","ref:regon":"022021462","ref:vatin":"PL8871066779","operator":"Dane Do Uzupe\u0142nienia","operator:type":"private","amenity":"kindergarten"}},{"id":6926,"type":"Feature","geometry":{"type":"Point","coordinates":[16.65638,50.62515]},"properties":{"isced:level":"1;2","ref:rspo":6926,"official_name":"Filia w Grodziszczu - Szko\u0142a Podstawowa w Budzowie Z Fili\u0105 w Grodziszczu","name":"Filia w Grodziszczu - Szko\u0142a Podstawowa w Budzowie Z Fili\u0105 w Grodziszczu","addr:country":"PL","addr:postcode":"57-215","addr:place":"Grodziszcze","addr:housenumber":"4","addr:teryt:sym_ul":855411,"contact:phone":"+48 748164620","contact:email":"spbudzow@onet.eu","ref:regon":"216459300","ref:vatin":"PL8871803143","operator":"Gmina Stoszowice","operator:type":"government","amenity":"school","note":"Parent RSPO: 3719"}},{"id":3720,"type":"Feature","geometry":{"type":"Point","coordinates":[16.72721,50.64287]},"properties":{"ref:rspo":3720,"official_name":"Publiczne Przedszkole w Przedborowej","name":"Publiczne Przedszkole w Przedborowej","addr:country":"PL","addr:postcode":"57-215","addr:place":"Przedborowa","addr:housenumber":"100","addr:teryt:sym_ul":855470,"contact:phone":"+48 748342463","contact:email":"mendyk_d@wp.pl","ref:regon":"021662236","ref:vatin":"PL8871803083","operator":"Gmina Stoszowice","operator:type":"government","amenity":"kindergarten"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 129062,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.6619199,
+                    50.5738
+                ]
+            },
+            "properties": {
+                "ref:rspo": 129062,
+                "official_name": "Niepubliczny Dom Wczas\u00f3w Dzieci\u0119cych \"Srebrna G\u00f3ra\"",
+                "name": "Niepubliczny Dom Wczas\u00f3w Dzieci\u0119cych \"Srebrna G\u00f3ra\"",
+                "addr:country": "PL",
+                "addr:postcode": "57-212",
+                "addr:city": "Srebrna G\u00f3ra",
+                "addr:street": "ul. Widokowa",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 24012,
+                "addr:teryt:sym_ul": 855500,
+                "contact:email": "arek2x@op.pl",
+                "ref:regon": "362464041",
+                "operator": "\"Pod Fortami\" Sp\u00f3\u0142ka Z Ograniczon\u0105 Odpowiedzialno\u015bci\u0105",
+                "operator:type": "private",
+                "leisure": "resort"
+            }
+        },
+        {
+            "id": 86408,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.66497,
+                    50.57668
+                ]
+            },
+            "properties": {
+                "ref:rspo": 86408,
+                "official_name": "Przedszkole Niepubliczne \"Kajtek\"",
+                "name": "Przedszkole Niepubliczne \"Kajtek\"",
+                "addr:country": "PL",
+                "addr:postcode": "57-215",
+                "addr:city": "Srebrna G\u00f3ra",
+                "addr:street": "ul. K\u0105pielowa",
+                "addr:housenumber": "2",
+                "addr:door": "-",
+                "addr:teryt:simc": 8294,
+                "addr:teryt:sym_ul": 855500,
+                "contact:phone": "+48 748103924",
+                "contact:email": "przedszkole.kajtek@wp.pl",
+                "contact:website": "http:\/\/www.przedszkolesrebrnagora.pl",
+                "ref:regon": "022011392",
+                "ref:vatin": "PL8871066360",
+                "operator": "Dane Do Uzupe\u0142nienia",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 3719,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.6912999,
+                    50.58259
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 3719,
+                "official_name": "Szko\u0142a Podstawowa w Budzowie Z Fili\u0105 w Grodziszczu",
+                "name": "Szko\u0142a Podstawowa w Budzowie Z Fili\u0105 w Grodziszczu",
+                "addr:country": "PL",
+                "addr:postcode": "57-214",
+                "addr:city": "Budz\u00f3w",
+                "addr:street": "ul. Henryka Pobo\u017cnego",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 6602,
+                "addr:teryt:sym_ul": 855397,
+                "contact:phone": "+48 748164620",
+                "contact:email": "spbudzow@onet.eu",
+                "contact:website": "http:\/\/www.spbudzow.pl",
+                "ref:regon": "021645930",
+                "ref:vatin": "PL8871803143",
+                "operator": "Gmina Stoszowice",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Children RSPO: 6926"
+            }
+        },
+        {
+            "id": 91513,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.7422,
+                    50.59962
+                ]
+            },
+            "properties": {
+                "ref:rspo": 91513,
+                "official_name": "Przedszkole Niepubliczne \"Kolorowy Balonik\"",
+                "name": "Przedszkole Niepubliczne \"Kolorowy Balonik\"",
+                "addr:country": "PL",
+                "addr:postcode": "57-213",
+                "addr:place": "Stoszowice",
+                "addr:housenumber": "34",
+                "addr:door": "-",
+                "addr:teryt:sym_ul": 855517,
+                "contact:email": "kolorowybalonik@vp.pl",
+                "ref:regon": "022021462",
+                "ref:vatin": "PL8871066779",
+                "operator": "Dane Do Uzupe\u0142nienia",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 6926,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.65638,
+                    50.62515
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 6926,
+                "official_name": "Filia w Grodziszczu - Szko\u0142a Podstawowa w Budzowie Z Fili\u0105 w Grodziszczu",
+                "name": "Filia w Grodziszczu - Szko\u0142a Podstawowa w Budzowie Z Fili\u0105 w Grodziszczu",
+                "addr:country": "PL",
+                "addr:postcode": "57-215",
+                "addr:place": "Grodziszcze",
+                "addr:housenumber": "4",
+                "addr:teryt:sym_ul": 855411,
+                "contact:phone": "+48 748164620",
+                "contact:email": "spbudzow@onet.eu",
+                "ref:regon": "216459300",
+                "ref:vatin": "PL8871803143",
+                "operator": "Gmina Stoszowice",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 3719"
+            }
+        },
+        {
+            "id": 3720,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.72721,
+                    50.64287
+                ]
+            },
+            "properties": {
+                "ref:rspo": 3720,
+                "official_name": "Publiczne Przedszkole w Przedborowej",
+                "name": "Publiczne Przedszkole w Przedborowej",
+                "addr:country": "PL",
+                "addr:postcode": "57-215",
+                "addr:place": "Przedborowa",
+                "addr:housenumber": "100",
+                "addr:teryt:sym_ul": 855470,
+                "contact:phone": "+48 748342463",
+                "contact:email": "mendyk_d@wp.pl",
+                "ref:regon": "021662236",
+                "ref:vatin": "PL8871803083",
+                "operator": "Gmina Stoszowice",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        }
+    ]
+}

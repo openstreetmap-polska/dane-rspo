@@ -1,1 +1,94 @@
-{"type":"FeatureCollection","features":[{"id":81096,"type":"Feature","geometry":{"type":"Point","coordinates":[19.10182,51.86792]},"properties":{"ref:rspo":81096,"official_name":"Przedszkole Niepubliczne \"Maluszek\"","name":"Przedszkole Niepubliczne \"Maluszek\"","addr:country":"PL","addr:postcode":"99-205","addr:place":"Kuciny","addr:housenumber":"21","addr:teryt:sym_ul":702446,"contact:phone":"+48 436782094","contact:email":"przedszkolemaluszek@poczta.fm","contact:website":"http:\/\/przedszkolemaluszek.pl","ref:regon":"101500227","ref:vatin":"PL8281412039","operator":"Spo\u0142eczne Towarzystwo Wsparcia Rozwoju Osobowo\u015bci I Tw\u00f3rczo\u015bci Artystycznej W.r.o.t.a.","operator:type":"ngo","amenity":"kindergarten"}},{"id":84144,"type":"Feature","geometry":{"type":"Point","coordinates":[19.1009,51.88355]},"properties":{"isced:level":"1;2","ref:rspo":84144,"official_name":"Szko\u0142a Podstawowa im. Powsta\u0144c\u00f3w Styczniowych w Dalikowie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"99-205","addr:city":"Dalik\u00f3w","addr:street":"ul. \u0141\u0119czycka","addr:housenumber":"3","addr:teryt:simc":11607,"addr:teryt:sym_ul":701961,"contact:phone":"+48 436780112","contact:email":"szkola@spdalikow.pl","ref:regon":"000733560","ref:vatin":"PL8281281560","operator":"Gmina Dalik\u00f3w","operator:type":"government","amenity":"school"}},{"id":84146,"type":"Feature","geometry":{"type":"Point","coordinates":[19.0665,51.92628]},"properties":{"isced:level":"1;2","ref:rspo":84146,"official_name":"Szko\u0142a Podstawowa im. Prof. Mieczys\u0142awa Szymczaka w Domaniewie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"99-205","addr:place":"Domaniew","addr:housenumber":"42","addr:teryt:sym_ul":702140,"contact:phone":"+48 436780276","contact:email":"sp.domaniew@op.pl","ref:regon":"001149780","ref:vatin":"PL8281281577","operator":"Gmina Dalik\u00f3w","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 81096,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.10182,
+                    51.86792
+                ]
+            },
+            "properties": {
+                "ref:rspo": 81096,
+                "official_name": "Przedszkole Niepubliczne \"Maluszek\"",
+                "name": "Przedszkole Niepubliczne \"Maluszek\"",
+                "addr:country": "PL",
+                "addr:postcode": "99-205",
+                "addr:place": "Kuciny",
+                "addr:housenumber": "21",
+                "addr:teryt:sym_ul": 702446,
+                "contact:phone": "+48 436782094",
+                "contact:email": "przedszkolemaluszek@poczta.fm",
+                "contact:website": "http:\/\/przedszkolemaluszek.pl",
+                "ref:regon": "101500227",
+                "ref:vatin": "PL8281412039",
+                "operator": "Spo\u0142eczne Towarzystwo Wsparcia Rozwoju Osobowo\u015bci I Tw\u00f3rczo\u015bci Artystycznej W.r.o.t.a.",
+                "operator:type": "ngo",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 84144,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.1009,
+                    51.88355
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 84144,
+                "official_name": "Szko\u0142a Podstawowa im. Powsta\u0144c\u00f3w Styczniowych w Dalikowie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "99-205",
+                "addr:city": "Dalik\u00f3w",
+                "addr:street": "ul. \u0141\u0119czycka",
+                "addr:housenumber": "3",
+                "addr:teryt:simc": 11607,
+                "addr:teryt:sym_ul": 701961,
+                "contact:phone": "+48 436780112",
+                "contact:email": "szkola@spdalikow.pl",
+                "ref:regon": "000733560",
+                "ref:vatin": "PL8281281560",
+                "operator": "Gmina Dalik\u00f3w",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 84146,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0665,
+                    51.92628
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 84146,
+                "official_name": "Szko\u0142a Podstawowa im. Prof. Mieczys\u0142awa Szymczaka w Domaniewie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "99-205",
+                "addr:place": "Domaniew",
+                "addr:housenumber": "42",
+                "addr:teryt:sym_ul": 702140,
+                "contact:phone": "+48 436780276",
+                "contact:email": "sp.domaniew@op.pl",
+                "ref:regon": "001149780",
+                "ref:vatin": "PL8281281577",
+                "operator": "Gmina Dalik\u00f3w",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

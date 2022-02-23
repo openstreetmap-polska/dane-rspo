@@ -1,1 +1,156 @@
-{"type":"FeatureCollection","features":[{"id":277451,"type":"Feature","geometry":{"type":"Point","coordinates":[16.16588,51.24801]},"properties":{"ref:rspo":277451,"official_name":"Przedszkole w Rzeszotarach","name":"Przedszkole w Rzeszotarach","addr:country":"PL","addr:postcode":"59-222","addr:city":"Rzeszotary","addr:street":"ul. Szkolna","addr:housenumber":"1","addr:teryt:simc":21970,"addr:teryt:sym_ul":365871,"contact:phone":"+48 768871220","ref:regon":"388951358","operator":"Gmina Mi\u0142kowice","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 277450"}},{"id":277450,"type":"Feature","geometry":{"type":"Point","coordinates":[16.16358,51.25118]},"properties":{"ref:rspo":277450,"official_name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w Rzeszotarach","name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w Rzeszotarach","addr:country":"PL","addr:postcode":"59-222","addr:city":"Rzeszotary","addr:street":"ul. Wiejska","addr:housenumber":"68","addr:teryt:simc":24048,"addr:teryt:sym_ul":365871,"contact:phone":"+48 768871220","ref:regon":"388951312","ref:vatin":"PL6912555653","operator":"Gmina Mi\u0142kowice","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 110365;277451"}},{"id":110365,"type":"Feature","geometry":{"type":"Point","coordinates":[16.16358,51.251149999999996]},"properties":{"isced:level":"1;2","ref:rspo":110365,"official_name":"Szko\u0142a Podstawowa im. Marii Konopnickiej w Rzeszotarach","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"59-222","addr:city":"Rzeszotary","addr:street":"ul. Wiejska","addr:housenumber":"68","addr:teryt:simc":24048,"addr:teryt:sym_ul":365871,"contact:phone":"+48 768871220","contact:email":"sp_rzesz@poczta.onet.pl","ref:regon":"001239619","operator":"Gmina Mi\u0142kowice","operator:type":"government","amenity":"school","note":"Parent RSPO: 277450"}},{"id":110548,"type":"Feature","geometry":{"type":"Point","coordinates":[16.0597,51.25548]},"properties":{"isced:level":"1;2","ref:rspo":110548,"official_name":"Szko\u0142a Podstawowa w Mi\u0142kowicach","name":"Szko\u0142a Podstawowa w Mi\u0142kowicach","addr:country":"PL","addr:postcode":"59-222","addr:city":"Mi\u0142kowice","addr:street":"ul. Wojska Polskiego","addr:housenumber":"75","addr:teryt:simc":24628,"addr:teryt:sym_ul":365859,"contact:phone":"+48 768871219","contact:email":"spmilkowice@ugmilkowice.net","ref:regon":"390922912","ref:vatin":"PL6912528449","operator":"Gmina Mi\u0142kowice","operator:type":"government","amenity":"school"}},{"id":126577,"type":"Feature","geometry":{"type":"Point","coordinates":[16.07154,51.25557]},"properties":{"ref:rspo":126577,"official_name":"Przedszkole Niepubliczne \"S\u0142oneczko\"","name":"Przedszkole Niepubliczne \"S\u0142oneczko\"","addr:country":"PL","addr:postcode":"59-222","addr:city":"Mi\u0142kowice","addr:street":"ul. Wojska Polskiego","addr:housenumber":"34","addr:teryt:simc":24628,"addr:teryt:sym_ul":365859,"contact:email":"przedszkole.milkowice@gmail.com","ref:regon":"360549827","ref:vatin":"PL6912557103","operator":"Monika \u0141ukasiewicz","operator:type":"private","amenity":"kindergarten"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 277451,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.16588,
+                    51.24801
+                ]
+            },
+            "properties": {
+                "ref:rspo": 277451,
+                "official_name": "Przedszkole w Rzeszotarach",
+                "name": "Przedszkole w Rzeszotarach",
+                "addr:country": "PL",
+                "addr:postcode": "59-222",
+                "addr:city": "Rzeszotary",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 365871,
+                "contact:phone": "+48 768871220",
+                "ref:regon": "388951358",
+                "operator": "Gmina Mi\u0142kowice",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 277450"
+            }
+        },
+        {
+            "id": 277450,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.16358,
+                    51.25118
+                ]
+            },
+            "properties": {
+                "ref:rspo": 277450,
+                "official_name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w Rzeszotarach",
+                "name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w Rzeszotarach",
+                "addr:country": "PL",
+                "addr:postcode": "59-222",
+                "addr:city": "Rzeszotary",
+                "addr:street": "ul. Wiejska",
+                "addr:housenumber": "68",
+                "addr:teryt:simc": 24048,
+                "addr:teryt:sym_ul": 365871,
+                "contact:phone": "+48 768871220",
+                "ref:regon": "388951312",
+                "ref:vatin": "PL6912555653",
+                "operator": "Gmina Mi\u0142kowice",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 110365;277451"
+            }
+        },
+        {
+            "id": 110365,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.16358,
+                    51.251149999999996
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 110365,
+                "official_name": "Szko\u0142a Podstawowa im. Marii Konopnickiej w Rzeszotarach",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "59-222",
+                "addr:city": "Rzeszotary",
+                "addr:street": "ul. Wiejska",
+                "addr:housenumber": "68",
+                "addr:teryt:simc": 24048,
+                "addr:teryt:sym_ul": 365871,
+                "contact:phone": "+48 768871220",
+                "contact:email": "sp_rzesz@poczta.onet.pl",
+                "ref:regon": "001239619",
+                "operator": "Gmina Mi\u0142kowice",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 277450"
+            }
+        },
+        {
+            "id": 110548,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.0597,
+                    51.25548
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 110548,
+                "official_name": "Szko\u0142a Podstawowa w Mi\u0142kowicach",
+                "name": "Szko\u0142a Podstawowa w Mi\u0142kowicach",
+                "addr:country": "PL",
+                "addr:postcode": "59-222",
+                "addr:city": "Mi\u0142kowice",
+                "addr:street": "ul. Wojska Polskiego",
+                "addr:housenumber": "75",
+                "addr:teryt:simc": 24628,
+                "addr:teryt:sym_ul": 365859,
+                "contact:phone": "+48 768871219",
+                "contact:email": "spmilkowice@ugmilkowice.net",
+                "ref:regon": "390922912",
+                "ref:vatin": "PL6912528449",
+                "operator": "Gmina Mi\u0142kowice",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 126577,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.07154,
+                    51.25557
+                ]
+            },
+            "properties": {
+                "ref:rspo": 126577,
+                "official_name": "Przedszkole Niepubliczne \"S\u0142oneczko\"",
+                "name": "Przedszkole Niepubliczne \"S\u0142oneczko\"",
+                "addr:country": "PL",
+                "addr:postcode": "59-222",
+                "addr:city": "Mi\u0142kowice",
+                "addr:street": "ul. Wojska Polskiego",
+                "addr:housenumber": "34",
+                "addr:teryt:simc": 24628,
+                "addr:teryt:sym_ul": 365859,
+                "contact:email": "przedszkole.milkowice@gmail.com",
+                "ref:regon": "360549827",
+                "ref:vatin": "PL6912557103",
+                "operator": "Monika \u0141ukasiewicz",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        }
+    ]
+}

@@ -1,1 +1,408 @@
-{"type":"FeatureCollection","features":[{"id":129166,"type":"Feature","geometry":{"type":"Point","coordinates":[22.6950499,53.4397]},"properties":{"ref:rspo":129166,"official_name":"Niepubliczna Poradnia Psychologiczno-Pedagogiczna Allegro - Filia w Downarach","name":"Niepubliczna Poradnia Psychologiczno-Pedagogiczna Allegro - Filia w Downarach","addr:country":"PL","addr:postcode":"19-110","addr:place":"Downary","addr:housenumber":"52","addr:teryt:sym_ul":396682,"contact:phone":"+48 607503423","contact:email":"fundacja_pe@wp.pl","ref:regon":"362498844","operator":"Fundacja Polska Edukacja Im. Komisji Edukacji Narodowej","operator:type":"ngo","healthcare":"councelling","counselling_type":"education","fixme":"w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. healthcare=councelling + counselling_type=education albo healthcare=psychotherapist)"}},{"id":129257,"type":"Feature","geometry":{"type":"Point","coordinates":[22.6950499,53.43967]},"properties":{"isced:level":"1;2","ref:rspo":129257,"official_name":"Szko\u0142a Podstawowa w Downarach","name":"Szko\u0142a Podstawowa w Downarach","addr:country":"PL","addr:postcode":"19-110","addr:place":"Downary","addr:housenumber":"52","addr:teryt:sym_ul":396682,"contact:phone":"+48 857380016","contact:email":"marlenkaszyszy@gmail.com","ref:regon":"362538615","operator":"Fundacja Polska Edukacja Im. Komisji Edukacji Narodowej","operator:type":"ngo","amenity":"school"}},{"id":16599,"type":"Feature","geometry":{"type":"Point","coordinates":[22.73079,53.48672]},"properties":{"ref:rspo":16599,"official_name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w Goni\u0105dzu","name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w Goni\u0105dzu","addr:country":"PL","addr:postcode":"19-110","addr:city":"Goni\u0105dz","addr:street":"ul. Konstytucji 3 Maja","addr:housenumber":"18","addr:teryt:simc":9213,"addr:teryt:sym_ul":957360,"contact:phone":"+48 857380004","contact:email":"zspgoniadz@gmail.com","contact:website":"http:\/\/zsp.goniadz.pl","ref:regon":"451203366","ref:vatin":"PL5461309465","operator":"Gmina Goni\u0105dz","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 47140;47788"}},{"id":47140,"type":"Feature","geometry":{"type":"Point","coordinates":[22.73079,53.486689999999996]},"properties":{"isced:level":"1;2","ref:rspo":47140,"official_name":"Szko\u0142a Podstawowa w Goni\u0105dzu","name":"Szko\u0142a Podstawowa w Goni\u0105dzu","addr:country":"PL","addr:postcode":"19-110","addr:city":"Goni\u0105dz","addr:street":"ul. Konstytucji 3 Maja","addr:housenumber":"18","addr:teryt:simc":9213,"addr:teryt:sym_ul":957360,"contact:phone":"+48 857380004","contact:email":"zspgoniadz@gmail.com","contact:website":"http:\/\/zsp.goniadz.pl","ref:regon":"000230929","ref:vatin":"PL5461257337","operator":"Gmina Goni\u0105dz","operator:type":"government","amenity":"school","note":"Parent RSPO: 16599"}},{"id":111848,"type":"Feature","geometry":{"type":"Point","coordinates":[22.73079,53.48666]},"properties":{"ref:rspo":111848,"official_name":"Pa\u0144stwowa Szko\u0142a Muzyczna I St. im. Jana Sebastiana Bacha w Grajewie Filia w Goni\u0105dzu","name":"Pa\u0144stwowa Szko\u0142a Muzyczna I St.","addr:country":"PL","addr:postcode":"19-226","addr:city":"Goni\u0105dz","addr:street":"ul. Konstytucji 3 Maja","addr:housenumber":"18","addr:teryt:simc":9213,"addr:teryt:sym_ul":957360,"contact:phone":"+48 857380647","ref:regon":"929010000","operator":"Ministerstwo Kultury I Dziedzictwa Narodowego","operator:type":"public","amenity":"music_school","note":"Parent RSPO: 103542"}},{"id":92999,"type":"Feature","geometry":{"type":"Point","coordinates":[22.736410140991,53.488620758057]},"properties":{"ref:rspo":92999,"official_name":"M\u0142odzie\u017cowy O\u015brodek Socjoterapii w Goni\u0105dzu","name":"M\u0142odzie\u017cowy O\u015brodek Socjoterapii w Goni\u0105dzu","addr:country":"PL","addr:postcode":"19-110","addr:city":"Goni\u0105dz","addr:street":"ul. R\u00f3\u017cana","addr:housenumber":"2","addr:teryt:simc":19000,"addr:teryt:sym_ul":957360,"contact:phone":"+48 857380023","contact:email":"sekretariat@mowgoniadz.pl","contact:website":"http:\/\/www.mosgoniadz.pl","ref:regon":"200748382","operator":"Powiat Moniecki","operator:type":"government","fixme":"amenity=social facility + social_facility=group_home + social_facility:for=juvenile","note":"Parent RSPO: 3078"}},{"id":47788,"type":"Feature","geometry":{"type":"Point","coordinates":[22.736410140991,53.488590758057]},"properties":{"ref:rspo":47788,"official_name":"Przedszkole Samorz\u0105dowe w Goni\u0105dzu","name":"Przedszkole Samorz\u0105dowe w Goni\u0105dzu","addr:country":"PL","addr:postcode":"19-110","addr:city":"Goni\u0105dz","addr:street":"ul. R\u00f3\u017cana","addr:housenumber":"2","addr:teryt:simc":19000,"addr:teryt:sym_ul":957360,"contact:phone":"+48 857380033","contact:email":"zspgoniadz@gmail.com","contact:website":"http:\/\/zsp.goniaadz.pl","ref:regon":"450009722","ref:vatin":"PL5461257277","operator":"Gmina Goni\u0105dz","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 16599"}},{"id":3078,"type":"Feature","geometry":{"type":"Point","coordinates":[22.73647,53.48963]},"properties":{"ref:rspo":3078,"official_name":"M\u0142odzie\u017cowe Centrum Edukacji I Readaptacji Spo\u0142ecznej w Goni\u0105dzu","name":"M\u0142odzie\u017cowe Centrum Edukacji I Readaptacji Spo\u0142ecznej w Goni\u0105dzu","addr:country":"PL","addr:postcode":"19-110","addr:city":"Goni\u0105dz","addr:street":"pl. Plac 11 Listopada","addr:housenumber":"37","addr:teryt:simc":52699,"addr:teryt:sym_ul":957360,"contact:phone":"+48 857380023","contact:email":"sekretariat@mowgoniadz.pl","contact:website":"http:\/\/www.mowgoniadz.pl","ref:regon":"200716784","operator":"Powiat Moniecki","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 92999;93021;103712"}},{"id":93021,"type":"Feature","geometry":{"type":"Point","coordinates":[22.73647,53.489599999999996]},"properties":{"ref:rspo":93021,"official_name":"M\u0142odzie\u017cowy O\u015brodek Wychowawczy \"Promyk\" w Goni\u0105dzu im. Unii Europejskiej","name":"M\u0142odzie\u017cowy O\u015brodek Wychowawczy \"Promyk\" w Goni\u0105dzu","addr:country":"PL","addr:postcode":"19-110","addr:city":"Goni\u0105dz","addr:street":"pl. 11 Listopada","addr:housenumber":"37","addr:teryt:simc":11202,"addr:teryt:sym_ul":957360,"contact:phone":"+48 857380023","contact:email":"sekretariat@mowgoniadz.pl","contact:website":"http:\/\/www.mowgoniadz.pl","ref:regon":"000192436","ref:vatin":"PL7191182227","operator":"Powiat Moniecki","operator:type":"government","fixme":"amenity=social facility + social_facility=group_home + social_facility:for=juvenile","note":"Children RSPO: 103415;103939;124082Parent RSPO: 3078"}},{"id":103712,"type":"Feature","geometry":{"type":"Point","coordinates":[22.73647,53.48957]},"properties":{"ref:rspo":103712,"official_name":"M\u0142odzie\u017cowy O\u015brodek Wychowawczy \"Promyk\" w Goni\u0105dzu Szkolne Schronisko M\u0142odzie\u017cowe Nr 2 \"Nad Biebrz\u0105\" w Goni\u0105dzu","name":"M\u0142odzie\u017cowy O\u015brodek Wychowawczy \"Promyk\" w Goni\u0105dzu Szkolne Schronisko M\u0142odzie\u017cowe Nr 2 \"Nad Biebrz\u0105\" w Goni\u0105dzu","addr:country":"PL","addr:postcode":"19-110","addr:city":"Goni\u0105dz","addr:street":"pl. Plac 11 Listopada","addr:housenumber":"37","addr:teryt:simc":52699,"addr:teryt:sym_ul":957360,"contact:phone":"+48 857380023","ref:regon":"200025554","operator":"Powiat Moniecki","operator:type":"government","tourism":"hostel","note":"Parent RSPO: 3078"}},{"id":103415,"type":"Feature","geometry":{"type":"Point","coordinates":[22.73647,53.48954]},"properties":{"isced:level":"3","ref:rspo":103415,"official_name":"Liceum Og\u00f3lnokszta\u0142c\u0105ce Specjalne w Goni\u0105dzu","name":"Liceum Og\u00f3lnokszta\u0142c\u0105ce Specjalne w Goni\u0105dzu","addr:country":"PL","addr:postcode":"19-110","addr:city":"Goni\u0105dz","addr:street":"pl. Plac 11 Listopada","addr:housenumber":"37","addr:teryt:simc":52699,"addr:teryt:sym_ul":957360,"contact:phone":"+48 857380023","contact:email":"sekretariat@mowgoniadz.pl","contact:website":"http:\/\/www.mowgoniadz.pl","ref:regon":"200748896","operator":"Powiat Moniecki","operator:type":"government","amenity":"school","note":"Parent RSPO: 93021"}},{"id":103939,"type":"Feature","geometry":{"type":"Point","coordinates":[22.73647,53.489509999999996]},"properties":{"isced:level":"1;2","ref:rspo":103939,"official_name":"Szko\u0142a Podstawowa Specjalna w Goni\u0105dzu","name":"Szko\u0142a Podstawowa Specjalna w Goni\u0105dzu","addr:country":"PL","addr:postcode":"19-110","addr:city":"Goni\u0105dz","addr:street":"pl. Plac 11 Listopada","addr:housenumber":"37","addr:teryt:simc":52699,"addr:teryt:sym_ul":957360,"contact:phone":"+48 857380023","contact:email":"sekretariat@mowgoniadz.pl","contact:website":"http:\/\/www.mowgoniadz.pl","ref:regon":"200750226","operator":"Powiat Moniecki","operator:type":"government","amenity":"school","note":"Parent RSPO: 93021"}},{"id":124082,"type":"Feature","geometry":{"type":"Point","coordinates":[22.73647,53.48948]},"properties":{"isced:level":"3","ref:rspo":124082,"official_name":"Technikum Specjalne w Goni\u0105dzu","name":"Technikum Specjalne w Goni\u0105dzu","addr:country":"PL","addr:postcode":"19-110","addr:city":"Goni\u0105dz","addr:street":"pl. Plac 11 Listopada","addr:housenumber":"37","addr:teryt:simc":52699,"addr:teryt:sym_ul":957360,"contact:phone":"+48 857380023","contact:email":"sekretariat@mowgoniadz.pl","ref:regon":"200876051","operator":"Powiat Moniecki","operator:type":"government","amenity":"school","note":"Parent RSPO: 93021"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 129166,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.6950499,
+                    53.4397
+                ]
+            },
+            "properties": {
+                "ref:rspo": 129166,
+                "official_name": "Niepubliczna Poradnia Psychologiczno-Pedagogiczna Allegro - Filia w Downarach",
+                "name": "Niepubliczna Poradnia Psychologiczno-Pedagogiczna Allegro - Filia w Downarach",
+                "addr:country": "PL",
+                "addr:postcode": "19-110",
+                "addr:place": "Downary",
+                "addr:housenumber": "52",
+                "addr:teryt:sym_ul": 396682,
+                "contact:phone": "+48 607503423",
+                "contact:email": "fundacja_pe@wp.pl",
+                "ref:regon": "362498844",
+                "operator": "Fundacja Polska Edukacja Im. Komisji Edukacji Narodowej",
+                "operator:type": "ngo",
+                "healthcare": "counselling",
+                "counselling_type": "education",
+                "fixme": "w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. healthcare=counselling + counselling_type=education albo healthcare=psychotherapist)"
+            }
+        },
+        {
+            "id": 129257,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.6950499,
+                    53.43967
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 129257,
+                "official_name": "Szko\u0142a Podstawowa w Downarach",
+                "name": "Szko\u0142a Podstawowa w Downarach",
+                "addr:country": "PL",
+                "addr:postcode": "19-110",
+                "addr:place": "Downary",
+                "addr:housenumber": "52",
+                "addr:teryt:sym_ul": 396682,
+                "contact:phone": "+48 857380016",
+                "contact:email": "marlenkaszyszy@gmail.com",
+                "ref:regon": "362538615",
+                "operator": "Fundacja Polska Edukacja Im. Komisji Edukacji Narodowej",
+                "operator:type": "ngo",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 16599,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.73079,
+                    53.48672
+                ]
+            },
+            "properties": {
+                "ref:rspo": 16599,
+                "official_name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w Goni\u0105dzu",
+                "name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w Goni\u0105dzu",
+                "addr:country": "PL",
+                "addr:postcode": "19-110",
+                "addr:city": "Goni\u0105dz",
+                "addr:street": "ul. Konstytucji 3 Maja",
+                "addr:housenumber": "18",
+                "addr:teryt:simc": 9213,
+                "addr:teryt:sym_ul": 957360,
+                "contact:phone": "+48 857380004",
+                "contact:email": "zspgoniadz@gmail.com",
+                "contact:website": "http:\/\/zsp.goniadz.pl",
+                "ref:regon": "451203366",
+                "ref:vatin": "PL5461309465",
+                "operator": "Gmina Goni\u0105dz",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 47140;47788"
+            }
+        },
+        {
+            "id": 47140,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.73079,
+                    53.486689999999996
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 47140,
+                "official_name": "Szko\u0142a Podstawowa w Goni\u0105dzu",
+                "name": "Szko\u0142a Podstawowa w Goni\u0105dzu",
+                "addr:country": "PL",
+                "addr:postcode": "19-110",
+                "addr:city": "Goni\u0105dz",
+                "addr:street": "ul. Konstytucji 3 Maja",
+                "addr:housenumber": "18",
+                "addr:teryt:simc": 9213,
+                "addr:teryt:sym_ul": 957360,
+                "contact:phone": "+48 857380004",
+                "contact:email": "zspgoniadz@gmail.com",
+                "contact:website": "http:\/\/zsp.goniadz.pl",
+                "ref:regon": "000230929",
+                "ref:vatin": "PL5461257337",
+                "operator": "Gmina Goni\u0105dz",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 16599"
+            }
+        },
+        {
+            "id": 111848,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.73079,
+                    53.48666
+                ]
+            },
+            "properties": {
+                "ref:rspo": 111848,
+                "official_name": "Pa\u0144stwowa Szko\u0142a Muzyczna I St. im. Jana Sebastiana Bacha w Grajewie Filia w Goni\u0105dzu",
+                "name": "Pa\u0144stwowa Szko\u0142a Muzyczna I St.",
+                "addr:country": "PL",
+                "addr:postcode": "19-226",
+                "addr:city": "Goni\u0105dz",
+                "addr:street": "ul. Konstytucji 3 Maja",
+                "addr:housenumber": "18",
+                "addr:teryt:simc": 9213,
+                "addr:teryt:sym_ul": 957360,
+                "contact:phone": "+48 857380647",
+                "ref:regon": "929010000",
+                "operator": "Ministerstwo Kultury I Dziedzictwa Narodowego",
+                "operator:type": "public",
+                "amenity": "music_school",
+                "note": "Parent RSPO: 103542"
+            }
+        },
+        {
+            "id": 92999,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.736410140991,
+                    53.488620758057
+                ]
+            },
+            "properties": {
+                "ref:rspo": 92999,
+                "official_name": "M\u0142odzie\u017cowy O\u015brodek Socjoterapii w Goni\u0105dzu",
+                "name": "M\u0142odzie\u017cowy O\u015brodek Socjoterapii w Goni\u0105dzu",
+                "addr:country": "PL",
+                "addr:postcode": "19-110",
+                "addr:city": "Goni\u0105dz",
+                "addr:street": "ul. R\u00f3\u017cana",
+                "addr:housenumber": "2",
+                "addr:teryt:simc": 19000,
+                "addr:teryt:sym_ul": 957360,
+                "contact:phone": "+48 857380023",
+                "contact:email": "sekretariat@mowgoniadz.pl",
+                "contact:website": "http:\/\/www.mosgoniadz.pl",
+                "ref:regon": "200748382",
+                "operator": "Powiat Moniecki",
+                "operator:type": "government",
+                "fixme": "amenity=social_facility + social_facility=group_home + social_facility:for=juvenile",
+                "note": "Parent RSPO: 3078"
+            }
+        },
+        {
+            "id": 47788,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.736410140991,
+                    53.488590758057
+                ]
+            },
+            "properties": {
+                "ref:rspo": 47788,
+                "official_name": "Przedszkole Samorz\u0105dowe w Goni\u0105dzu",
+                "name": "Przedszkole Samorz\u0105dowe w Goni\u0105dzu",
+                "addr:country": "PL",
+                "addr:postcode": "19-110",
+                "addr:city": "Goni\u0105dz",
+                "addr:street": "ul. R\u00f3\u017cana",
+                "addr:housenumber": "2",
+                "addr:teryt:simc": 19000,
+                "addr:teryt:sym_ul": 957360,
+                "contact:phone": "+48 857380033",
+                "contact:email": "zspgoniadz@gmail.com",
+                "contact:website": "http:\/\/zsp.goniaadz.pl",
+                "ref:regon": "450009722",
+                "ref:vatin": "PL5461257277",
+                "operator": "Gmina Goni\u0105dz",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 16599"
+            }
+        },
+        {
+            "id": 3078,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.73647,
+                    53.48963
+                ]
+            },
+            "properties": {
+                "ref:rspo": 3078,
+                "official_name": "M\u0142odzie\u017cowe Centrum Edukacji I Readaptacji Spo\u0142ecznej w Goni\u0105dzu",
+                "name": "M\u0142odzie\u017cowe Centrum Edukacji I Readaptacji Spo\u0142ecznej w Goni\u0105dzu",
+                "addr:country": "PL",
+                "addr:postcode": "19-110",
+                "addr:city": "Goni\u0105dz",
+                "addr:street": "pl. Plac 11 Listopada",
+                "addr:housenumber": "37",
+                "addr:teryt:simc": 52699,
+                "addr:teryt:sym_ul": 957360,
+                "contact:phone": "+48 857380023",
+                "contact:email": "sekretariat@mowgoniadz.pl",
+                "contact:website": "http:\/\/www.mowgoniadz.pl",
+                "ref:regon": "200716784",
+                "operator": "Powiat Moniecki",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 92999;93021;103712"
+            }
+        },
+        {
+            "id": 93021,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.73647,
+                    53.489599999999996
+                ]
+            },
+            "properties": {
+                "ref:rspo": 93021,
+                "official_name": "M\u0142odzie\u017cowy O\u015brodek Wychowawczy \"Promyk\" w Goni\u0105dzu im. Unii Europejskiej",
+                "name": "M\u0142odzie\u017cowy O\u015brodek Wychowawczy \"Promyk\" w Goni\u0105dzu",
+                "addr:country": "PL",
+                "addr:postcode": "19-110",
+                "addr:city": "Goni\u0105dz",
+                "addr:street": "pl. 11 Listopada",
+                "addr:housenumber": "37",
+                "addr:teryt:simc": 11202,
+                "addr:teryt:sym_ul": 957360,
+                "contact:phone": "+48 857380023",
+                "contact:email": "sekretariat@mowgoniadz.pl",
+                "contact:website": "http:\/\/www.mowgoniadz.pl",
+                "ref:regon": "000192436",
+                "ref:vatin": "PL7191182227",
+                "operator": "Powiat Moniecki",
+                "operator:type": "government",
+                "fixme": "amenity=social_facility + social_facility=group_home + social_facility:for=juvenile",
+                "note": "Children RSPO: 103415;103939;124082Parent RSPO: 3078"
+            }
+        },
+        {
+            "id": 103712,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.73647,
+                    53.48957
+                ]
+            },
+            "properties": {
+                "ref:rspo": 103712,
+                "official_name": "M\u0142odzie\u017cowy O\u015brodek Wychowawczy \"Promyk\" w Goni\u0105dzu Szkolne Schronisko M\u0142odzie\u017cowe Nr 2 \"Nad Biebrz\u0105\" w Goni\u0105dzu",
+                "name": "M\u0142odzie\u017cowy O\u015brodek Wychowawczy \"Promyk\" w Goni\u0105dzu Szkolne Schronisko M\u0142odzie\u017cowe Nr 2 \"Nad Biebrz\u0105\" w Goni\u0105dzu",
+                "addr:country": "PL",
+                "addr:postcode": "19-110",
+                "addr:city": "Goni\u0105dz",
+                "addr:street": "pl. Plac 11 Listopada",
+                "addr:housenumber": "37",
+                "addr:teryt:simc": 52699,
+                "addr:teryt:sym_ul": 957360,
+                "contact:phone": "+48 857380023",
+                "ref:regon": "200025554",
+                "operator": "Powiat Moniecki",
+                "operator:type": "government",
+                "tourism": "hostel",
+                "note": "Parent RSPO: 3078"
+            }
+        },
+        {
+            "id": 103415,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.73647,
+                    53.48954
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 103415,
+                "official_name": "Liceum Og\u00f3lnokszta\u0142c\u0105ce Specjalne w Goni\u0105dzu",
+                "name": "Liceum Og\u00f3lnokszta\u0142c\u0105ce Specjalne w Goni\u0105dzu",
+                "addr:country": "PL",
+                "addr:postcode": "19-110",
+                "addr:city": "Goni\u0105dz",
+                "addr:street": "pl. Plac 11 Listopada",
+                "addr:housenumber": "37",
+                "addr:teryt:simc": 52699,
+                "addr:teryt:sym_ul": 957360,
+                "contact:phone": "+48 857380023",
+                "contact:email": "sekretariat@mowgoniadz.pl",
+                "contact:website": "http:\/\/www.mowgoniadz.pl",
+                "ref:regon": "200748896",
+                "operator": "Powiat Moniecki",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 93021"
+            }
+        },
+        {
+            "id": 103939,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.73647,
+                    53.489509999999996
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 103939,
+                "official_name": "Szko\u0142a Podstawowa Specjalna w Goni\u0105dzu",
+                "name": "Szko\u0142a Podstawowa Specjalna w Goni\u0105dzu",
+                "addr:country": "PL",
+                "addr:postcode": "19-110",
+                "addr:city": "Goni\u0105dz",
+                "addr:street": "pl. Plac 11 Listopada",
+                "addr:housenumber": "37",
+                "addr:teryt:simc": 52699,
+                "addr:teryt:sym_ul": 957360,
+                "contact:phone": "+48 857380023",
+                "contact:email": "sekretariat@mowgoniadz.pl",
+                "contact:website": "http:\/\/www.mowgoniadz.pl",
+                "ref:regon": "200750226",
+                "operator": "Powiat Moniecki",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 93021"
+            }
+        },
+        {
+            "id": 124082,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.73647,
+                    53.48948
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 124082,
+                "official_name": "Technikum Specjalne w Goni\u0105dzu",
+                "name": "Technikum Specjalne w Goni\u0105dzu",
+                "addr:country": "PL",
+                "addr:postcode": "19-110",
+                "addr:city": "Goni\u0105dz",
+                "addr:street": "pl. Plac 11 Listopada",
+                "addr:housenumber": "37",
+                "addr:teryt:simc": 52699,
+                "addr:teryt:sym_ul": 957360,
+                "contact:phone": "+48 857380023",
+                "contact:email": "sekretariat@mowgoniadz.pl",
+                "ref:regon": "200876051",
+                "operator": "Powiat Moniecki",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 93021"
+            }
+        }
+    ]
+}

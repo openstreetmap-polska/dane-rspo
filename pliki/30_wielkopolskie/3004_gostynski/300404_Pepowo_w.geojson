@@ -1,1 +1,128 @@
-{"type":"FeatureCollection","features":[{"id":27367,"type":"Feature","geometry":{"type":"Point","coordinates":[17.06331,51.73145]},"properties":{"isced:level":"1;2","ref:rspo":27367,"official_name":"Szko\u0142a Podstawowa im. Powsta\u0144c\u00f3w Wielkopolskich w Skoraszewicach","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"63-830","addr:place":"Skoraszewice","addr:housenumber":"15a","addr:teryt:sym_ul":374440,"contact:phone":"+48 655737625","contact:email":"skoraszewicesp@poczta.onet.pl","contact:website":"http:\/\/www.skoraszewicesp.pepowo.pl","ref:regon":"001118086","ref:vatin":"PL6961636328","operator":"Gmina P\u0119powo","operator:type":"government","amenity":"school"}},{"id":129443,"type":"Feature","geometry":{"type":"Point","coordinates":[17.06697,51.73396]},"properties":{"ref:rspo":129443,"official_name":"Niepubliczne Przedszkole Kraina Smerf\u00f3w","name":"Niepubliczne Przedszkole Kraina Smerf\u00f3w","addr:country":"PL","addr:postcode":"63-830","addr:place":"Skoraszewice","addr:housenumber":"29","addr:door":"3, 1","addr:teryt:sym_ul":374440,"contact:phone":"+48 661470936","contact:email":"martynak33@wp.pl","ref:regon":"362608540","ref:vatin":"PL6961821043","operator":"Martyna Koz\u0142owska","operator:type":"private","amenity":"kindergarten"}},{"id":27369,"type":"Feature","geometry":{"type":"Point","coordinates":[17.11344,51.75797]},"properties":{"isced:level":"1;2","ref:rspo":27369,"official_name":"Szko\u0142a Podstawowa im. Jana Paw\u0142a II w P\u0119powie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"63-830","addr:city":"P\u0119powo","addr:street":"ul. Powsta\u0144c\u00f3w Wielkopolskich","addr:housenumber":"44","addr:teryt:simc":17377,"addr:teryt:sym_ul":374344,"contact:phone":"+48 655736124","contact:email":"sekretariat@pepowo.edu.pl","contact:website":"http:\/\/www.pepowo.edu.pl","ref:regon":"000269794","ref:vatin":"PL6961733646","operator":"Gmina P\u0119powo","operator:type":"government","amenity":"school"}},{"id":28185,"type":"Feature","geometry":{"type":"Point","coordinates":[17.11919,51.75943]},"properties":{"ref:rspo":28185,"official_name":"'' Kwiecinscy'' O\u015brodek Szkolenia Biuro Us\u0142ug Bhp I P.po\u017c Dawid Kwieci\u0144ski","name":"'' Kwiecinscy'' O\u015brodek Szkolenia Biuro Us\u0142ug Bhp I P.po\u017c Dawid Kwieci\u0144ski","addr:country":"PL","addr:postcode":"63-830","addr:city":"P\u0119powo","addr:street":"ul. Mariana Or\u0142onia","addr:housenumber":"15","addr:door":"-","addr:teryt:simc":15172,"addr:teryt:sym_ul":374344,"contact:phone":"+48 655736992","contact:email":"bhp.kwiecinscy@interia.pl","contact:website":"http:\/\/www.bhp-szkolenia.pl","ref:regon":"302239115","ref:vatin":"PL6961636469","operator":"Dawid Kwieci\u0144ski","operator:type":"private","fixme":"w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. amenity=training + training=*, amenity=dancing_school, amenity=language_school, amenity=music_school)"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 27367,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.06331,
+                    51.73145
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 27367,
+                "official_name": "Szko\u0142a Podstawowa im. Powsta\u0144c\u00f3w Wielkopolskich w Skoraszewicach",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "63-830",
+                "addr:place": "Skoraszewice",
+                "addr:housenumber": "15a",
+                "addr:teryt:sym_ul": 374440,
+                "contact:phone": "+48 655737625",
+                "contact:email": "skoraszewicesp@poczta.onet.pl",
+                "contact:website": "http:\/\/www.skoraszewicesp.pepowo.pl",
+                "ref:regon": "001118086",
+                "ref:vatin": "PL6961636328",
+                "operator": "Gmina P\u0119powo",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 129443,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.06697,
+                    51.73396
+                ]
+            },
+            "properties": {
+                "ref:rspo": 129443,
+                "official_name": "Niepubliczne Przedszkole Kraina Smerf\u00f3w",
+                "name": "Niepubliczne Przedszkole Kraina Smerf\u00f3w",
+                "addr:country": "PL",
+                "addr:postcode": "63-830",
+                "addr:place": "Skoraszewice",
+                "addr:housenumber": "29",
+                "addr:door": "3, 1",
+                "addr:teryt:sym_ul": 374440,
+                "contact:phone": "+48 661470936",
+                "contact:email": "martynak33@wp.pl",
+                "ref:regon": "362608540",
+                "ref:vatin": "PL6961821043",
+                "operator": "Martyna Koz\u0142owska",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 27369,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.11344,
+                    51.75797
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 27369,
+                "official_name": "Szko\u0142a Podstawowa im. Jana Paw\u0142a II w P\u0119powie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "63-830",
+                "addr:city": "P\u0119powo",
+                "addr:street": "ul. Powsta\u0144c\u00f3w Wielkopolskich",
+                "addr:housenumber": "44",
+                "addr:teryt:simc": 17377,
+                "addr:teryt:sym_ul": 374344,
+                "contact:phone": "+48 655736124",
+                "contact:email": "sekretariat@pepowo.edu.pl",
+                "contact:website": "http:\/\/www.pepowo.edu.pl",
+                "ref:regon": "000269794",
+                "ref:vatin": "PL6961733646",
+                "operator": "Gmina P\u0119powo",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 28185,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.11919,
+                    51.75943
+                ]
+            },
+            "properties": {
+                "ref:rspo": 28185,
+                "official_name": "'' Kwiecinscy'' O\u015brodek Szkolenia Biuro Us\u0142ug Bhp I P.po\u017c Dawid Kwieci\u0144ski",
+                "name": "'' Kwiecinscy'' O\u015brodek Szkolenia Biuro Us\u0142ug Bhp I P.po\u017c Dawid Kwieci\u0144ski",
+                "addr:country": "PL",
+                "addr:postcode": "63-830",
+                "addr:city": "P\u0119powo",
+                "addr:street": "ul. Mariana Or\u0142onia",
+                "addr:housenumber": "15",
+                "addr:door": "-",
+                "addr:teryt:simc": 15172,
+                "addr:teryt:sym_ul": 374344,
+                "contact:phone": "+48 655736992",
+                "contact:email": "bhp.kwiecinscy@interia.pl",
+                "contact:website": "http:\/\/www.bhp-szkolenia.pl",
+                "ref:regon": "302239115",
+                "ref:vatin": "PL6961636469",
+                "operator": "Dawid Kwieci\u0144ski",
+                "operator:type": "private",
+                "fixme": "w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. amenity=training + training=*, amenity=dancing_school, amenity=language_school, amenity=music_school)"
+            }
+        }
+    ]
+}

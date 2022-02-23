@@ -1,1 +1,935 @@
-{"type":"FeatureCollection","features":[{"id":11214,"type":"Feature","geometry":{"type":"Point","coordinates":[23.407238006592,51.49634552002]},"properties":{"isced:level":"3","ref:rspo":11214,"official_name":"Liceum Og\u00f3lnokszta\u0142c\u0105ce dla Doros\u0142ych","name":"Liceum Og\u00f3lnokszta\u0142c\u0105ce dla Doros\u0142ych","addr:country":"PL","addr:postcode":"22-200","addr:place":"W\u0142odawa","addr:housenumber":"19","addr:teryt:sym_ul":930294,"contact:email":"zk_wlodawa@sw.gov.pl","ref:regon":"061460889","operator":"Ministerstwo Sprawiedliwo\u015bci","operator:type":"public","amenity":"school","note":"Parent RSPO: 4450"}},{"id":14479,"type":"Feature","geometry":{"type":"Point","coordinates":[23.5504399,51.54199]},"properties":{"isced:level":"1;2","ref:rspo":14479,"official_name":"Szko\u0142a Podstawowa Nr 2 im. Komisji Edukacji Narodowej","name":"Szko\u0142a Podstawowa Nr 2","addr:country":"PL","addr:postcode":"22-200","addr:city":"W\u0142odawa","addr:street":"ul. Kopernika","addr:housenumber":"3","addr:teryt:simc":9276,"addr:teryt:sym_ul":930294,"contact:phone":"+48 825721345","contact:email":"sekretariat@sp2wlodawa.pl","contact:website":"http:\/\/www.sp2wlodawa.pl","ref:regon":"000582189","ref:vatin":"PL5651023832","operator":"Gmina Miejska W\u0142odawa","operator:type":"government","amenity":"school"}},{"id":16002,"type":"Feature","geometry":{"type":"Point","coordinates":[23.55582,51.54567]},"properties":{"ref:rspo":16002,"official_name":"Niepubliczne Przedszkole \"Ma\u0142a Akademia\"","name":"Niepubliczne Przedszkole \"Ma\u0142a Akademia\"","addr:country":"PL","addr:postcode":"22-200","addr:city":"W\u0142odawa","addr:street":"ul. 11 Listopada","addr:housenumber":"5B","addr:teryt:simc":11205,"addr:teryt:sym_ul":930294,"contact:phone":"+48 509312996","contact:email":"mala.akademia@wp.pl","ref:regon":"061461541","operator":"Fundacja Akademia Umiej\u0119tno\u015bci","operator:type":"ngo","amenity":"kindergarten"}},{"id":31074,"type":"Feature","geometry":{"type":"Point","coordinates":[23.55043,51.54601]},"properties":{"ref:rspo":31074,"official_name":"Poradnia Psychologiczno-Pedagogiczna we W\u0142odawie","name":"Poradnia Psychologiczno-Pedagogiczna we W\u0142odawie","addr:country":"PL","addr:postcode":"22-200","addr:city":"W\u0142odawa","addr:street":"ul. Partyzant\u00f3w","addr:housenumber":"17","addr:teryt:simc":15733,"addr:teryt:sym_ul":930294,"contact:phone":"+48 825721271","contact:email":"sekretariat@pppwlodawa.pl","contact:website":"http:\/\/pppwlodawa.pl","ref:regon":"000739254","ref:vatin":"PL5651340840","operator":"Powiat W\u0142odawski","operator:type":"government","healthcare":"councelling","counselling_type":"education","fixme":"w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. healthcare=councelling + counselling_type=education albo healthcare=psychotherapist)"}},{"id":31954,"type":"Feature","geometry":{"type":"Point","coordinates":[23.55043,51.54598]},"properties":{"ref:rspo":31954,"official_name":"M\u0142odzie\u017cowy Dom Kultury im.oskara Kolberga we W\u0142odawie","name":"M\u0142odzie\u017cowy Dom Kultury im.oskara Kolberga we W\u0142odawie","addr:country":"PL","addr:postcode":"22-200","addr:city":"W\u0142odawa","addr:street":"ul. Partyzant\u00f3w","addr:housenumber":"17","addr:teryt:simc":15733,"addr:teryt:sym_ul":930294,"contact:phone":"+48 825726531","contact:email":"mdkwlodawa@o2.pl","contact:website":"http:\/\/mdk.wlodawa.pl","ref:regon":"000739248","ref:vatin":"PL5651340834","operator":"Powiat W\u0142odawski","operator:type":"government","amenity":"community_centre","community_centre:for":"juvenile"}},{"id":44496,"type":"Feature","geometry":{"type":"Point","coordinates":[23.54869,51.5461]},"properties":{"ref:rspo":44496,"official_name":"Specjalny O\u015brodek Szkolno-Wychowawczy we W\u0142odawie","name":"Specjalny O\u015brodek Szkolno-Wychowawczy we W\u0142odawie","addr:country":"PL","addr:postcode":"22-200","addr:city":"W\u0142odawa","addr:street":"ul. Partyzant\u00f3w","addr:housenumber":"13","addr:teryt:simc":15733,"addr:teryt:sym_ul":930294,"contact:phone":"+48 825721336","contact:email":"sekretariat@sosw.powiatwlodawski.pl","contact:website":"http:\/\/www.sosw.powiatwlodawski.pl","ref:regon":"000201129","ref:vatin":"PL5651205303","operator":"Powiat W\u0142odawski","operator:type":"government","amenity":"school","note":"Children RSPO: 83421;83469;83527;128263"}},{"id":44497,"type":"Feature","geometry":{"type":"Point","coordinates":[23.54869,51.54607]},"properties":{"ref:rspo":44497,"official_name":"Szkolne Schronisko M\u0142odzie\u017cowe Nr 3 we W\u0142odawie","name":"Szkolne Schronisko M\u0142odzie\u017cowe Nr 3 we W\u0142odawie","addr:country":"PL","addr:postcode":"22-200","addr:city":"W\u0142odawa","addr:street":"ul. Partyzant\u00f3w","addr:housenumber":"13","addr:teryt:simc":15733,"addr:teryt:sym_ul":930294,"contact:phone":"+48 825721336","contact:email":"ssm3.wlodawa@o2.pl","ref:regon":"060645061","operator":"Powiat W\u0142odawski","operator:type":"government","tourism":"hostel"}},{"id":83421,"type":"Feature","geometry":{"type":"Point","coordinates":[23.54869,51.546040000000005]},"properties":{"isced:level":"1;2","ref:rspo":83421,"official_name":"Szko\u0142a Podstawowa Specjalna Nr 4 we W\u0142odawie","name":"Szko\u0142a Podstawowa Specjalna Nr 4 we W\u0142odawie","addr:country":"PL","addr:postcode":"22-200","addr:city":"W\u0142odawa","addr:street":"ul. Partyzant\u00f3w","addr:housenumber":"13","addr:teryt:simc":15733,"addr:teryt:sym_ul":930294,"contact:phone":"+48 825721336","contact:email":"sekretariat@sosw.powiatwlodawski.pl","contact:website":"http:\/\/sosw.powiatwlodawski.pl","ref:regon":"000739231","operator":"Powiat W\u0142odawski","operator:type":"government","amenity":"school","note":"Parent RSPO: 44496"}},{"id":83469,"type":"Feature","geometry":{"type":"Point","coordinates":[23.54869,51.54601]},"properties":{"isced:level":"3","ref:rspo":83469,"official_name":"Bran\u017cowa Szko\u0142a Specjalna I Stopnia Nr 2 we W\u0142odawie","name":"Bran\u017cowa Szko\u0142a Specjalna I Stopnia Nr 2 we W\u0142odawie","addr:country":"PL","addr:postcode":"22-200","addr:city":"W\u0142odawa","addr:street":"ul. Partyzant\u00f3w","addr:housenumber":"13","addr:teryt:simc":15733,"addr:teryt:sym_ul":930294,"contact:phone":"+48 825721336","contact:email":"sekretariat@sosw.powiatwlodawski.pl","contact:website":"http:\/\/sosw.powiatwlodawski.pl","ref:regon":"000834484","operator":"Powiat W\u0142odawski","operator:type":"government","amenity":"school","note":"Parent RSPO: 44496"}},{"id":83527,"type":"Feature","geometry":{"type":"Point","coordinates":[23.54869,51.54598]},"properties":{"ref:rspo":83527,"official_name":"Szko\u0142a Specjalna Przysposabiaj\u0105ca Do Pracy we W\u0142odawie","name":"Szko\u0142a Specjalna Przysposabiaj\u0105ca Do Pracy we W\u0142odawie","addr:country":"PL","addr:postcode":"22-200","addr:city":"W\u0142odawa","addr:street":"ul. Partyzant\u00f3w","addr:housenumber":"13","addr:teryt:simc":15733,"addr:teryt:sym_ul":930294,"contact:phone":"+48 825721336","contact:email":"sekretariat@sosw.powiatwlodawski.pl","ref:regon":"110722892","operator":"Powiat W\u0142odawski","operator:type":"government","amenity":"school","note":"Parent RSPO: 44496"}},{"id":128263,"type":"Feature","geometry":{"type":"Point","coordinates":[23.54869,51.545950000000005]},"properties":{"ref:rspo":128263,"official_name":"Przedszkole Specjalne we W\u0142odawie","name":"Przedszkole Specjalne we W\u0142odawie","addr:country":"PL","addr:postcode":"22-200","addr:city":"W\u0142odawa","addr:street":"ul. Partyzant\u00f3w","addr:housenumber":"13","addr:teryt:simc":15733,"addr:teryt:sym_ul":930294,"contact:phone":"+48 825721336","contact:email":"sekretariat@sosw.powiatwlodawski.pl","contact:website":"http:\/\/www.sosw.wlodawa.pl","ref:regon":"362213824","operator":"Powiat W\u0142odawski","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 44496"}},{"id":14604,"type":"Feature","geometry":{"type":"Point","coordinates":[23.54954,51.54705]},"properties":{"ref:rspo":14604,"official_name":"Przedszkole Miejskie Nr 1 we W\u0142odawie","name":"Przedszkole Miejskie Nr 1 we W\u0142odawie","addr:country":"PL","addr:postcode":"22-200","addr:city":"W\u0142odawa","addr:street":"ul. S\u0142owackiego","addr:housenumber":"16","addr:teryt:simc":20286,"addr:teryt:sym_ul":930294,"contact:phone":"+48 825722459","contact:email":"przedszkole1@o2.pl","ref:regon":"110711010","ref:vatin":"PL5651427400","operator":"Gmina Miejska W\u0142odawa","operator:type":"government","amenity":"kindergarten"}},{"id":128335,"type":"Feature","geometry":{"type":"Point","coordinates":[23.55861,51.54799]},"properties":{"ref:rspo":128335,"official_name":"Szko\u0142a Muzyczna I Stopnia we W\u0142odawie","name":"Szko\u0142a Muzyczna I Stopnia we W\u0142odawie","addr:country":"PL","addr:postcode":"22-200","addr:city":"W\u0142odawa","addr:street":"ul. Szkolna","addr:housenumber":"7","addr:teryt:simc":21970,"addr:teryt:sym_ul":930294,"contact:phone":"+48 508590265","contact:email":"smi@wlodawa.eu","contact:website":"http:\/\/www.smi.wlodawa.eu","ref:regon":"362235731","ref:vatin":"PL5651526958","operator":"Gmina Miejska W\u0142odawa","operator:type":"government","amenity":"music_school"}},{"id":14593,"type":"Feature","geometry":{"type":"Point","coordinates":[23.5581299,51.54843]},"properties":{"ref:rspo":14593,"official_name":"Miejskie Przedszkole Integracyjne we W\u0142odawie","name":"Miejskie Przedszkole Integracyjne we W\u0142odawie","addr:country":"PL","addr:postcode":"22-200","addr:city":"W\u0142odawa","addr:street":"ul. Szkolna","addr:housenumber":"5","addr:teryt:simc":21970,"addr:teryt:sym_ul":930294,"contact:phone":"+48 825722231","contact:email":"mpi@poczta.onet.eu","ref:regon":"110170547","ref:vatin":"PL5651312275","operator":"Gmina Miejska W\u0142odawa","operator:type":"government","amenity":"kindergarten"}},{"id":44500,"type":"Feature","geometry":{"type":"Point","coordinates":[23.55786,51.54847]},"properties":{"ref:rspo":44500,"official_name":"Szkolne Schronisko M\u0142odzie\u017cowe Nr 1 we W\u0142odawie","name":"Szkolne Schronisko M\u0142odzie\u017cowe Nr 1 we W\u0142odawie","addr:country":"PL","addr:postcode":"22-200","addr:city":"W\u0142odawa","addr:street":"ul. Szkolna","addr:housenumber":"3","addr:teryt:simc":21970,"addr:teryt:sym_ul":930294,"contact:phone":"+48 825721113","contact:email":"szkola@1lo.wlodawa.pl","ref:regon":"060035919","operator":"Powiat W\u0142odawski","operator:type":"government","tourism":"hostel"}},{"id":44499,"type":"Feature","geometry":{"type":"Point","coordinates":[23.55731,51.5485]},"properties":{"isced:level":"3","ref:rspo":44499,"official_name":"I Liceum Og\u00f3lnokszta\u0142c\u0105ce im. Tadeusza Ko\u015bciuszki","name":"I Liceum Og\u00f3lnokszta\u0142c\u0105ce","addr:country":"PL","addr:postcode":"22-200","addr:city":"W\u0142odawa","addr:street":"ul. Szkolna","addr:housenumber":"1","addr:teryt:simc":21970,"addr:teryt:sym_ul":930294,"contact:phone":"+48 825721023","contact:email":"szkola@1lo.wlodawa.pl","contact:website":"http:\/\/www.1lo.wlodawa.pl","ref:regon":"000228826","ref:vatin":"PL5651211597","operator":"Powiat W\u0142odawski","operator:type":"government","amenity":"school"}},{"id":31141,"type":"Feature","geometry":{"type":"Point","coordinates":[23.55308,51.5489]},"properties":{"ref:rspo":31141,"official_name":"O\u015brodek Szkolenia \"Lider\" Miros\u0142aw Wit we W\u0142odawie","name":"O\u015brodek Szkolenia \"Lider\" Miros\u0142aw Wit we W\u0142odawie","addr:country":"PL","addr:postcode":"22-200","addr:city":"W\u0142odawa","addr:street":"ul. \u017beromskiego","addr:housenumber":"9","addr:teryt:simc":26464,"addr:teryt:sym_ul":930294,"contact:phone":"+48 825722097","ref:regon":"061471812","ref:vatin":"PL5651025357","operator":"Miros\u0142aw Wit","operator:type":"private","fixme":"w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. amenity=training + training=*, amenity=dancing_school, amenity=language_school, amenity=music_school) albo amenity=school, amenity=college, albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education."}},{"id":14509,"type":"Feature","geometry":{"type":"Point","coordinates":[23.54319,51.54933]},"properties":{"isced:level":"1;2","ref:rspo":14509,"official_name":"Szko\u0142a Podstawowa Nr 3 im. Gen. Franciszka Kleeberga","name":"Szko\u0142a Podstawowa Nr 3","addr:country":"PL","addr:postcode":"22-200","addr:city":"W\u0142odawa","addr:street":"ul. prof. Zbigniewa Sierpi\u0144skiego","addr:housenumber":"4","addr:teryt:simc":30598,"addr:teryt:sym_ul":930294,"contact:phone":"+48 825721138","contact:email":"sp3wlodawa@op.pl","ref:regon":"110106555","ref:vatin":"PL5651215170","operator":"Gmina Miejska W\u0142odawa","operator:type":"government","amenity":"school"}},{"id":14614,"type":"Feature","geometry":{"type":"Point","coordinates":[23.54319,51.549299999999995]},"properties":{"ref:rspo":14614,"official_name":"Przedszkole Miejskie Nr 2 we W\u0142odawie","name":"Przedszkole Miejskie Nr 2 we W\u0142odawie","addr:country":"PL","addr:postcode":"22-200","addr:city":"W\u0142odawa","addr:street":"ul. prof. Zbigniewa Sierpi\u0144skiego","addr:housenumber":"4","addr:teryt:simc":30598,"addr:teryt:sym_ul":930294,"contact:phone":"+48 515286538","contact:email":"pm2wlodawa@gmail.com","contact:website":"http:\/\/pm2.wlodawa.eu","ref:regon":"060512816","ref:vatin":"PL5651513329","operator":"Gmina Miejska W\u0142odawa","operator:type":"government","amenity":"kindergarten"}},{"id":4450,"type":"Feature","geometry":{"type":"Point","coordinates":[23.5409394,51.5526101]},"properties":{"ref:rspo":4450,"official_name":"Centrum Kszta\u0142cenia Ustawicznego","name":"Centrum Kszta\u0142cenia Ustawicznego","addr:country":"PL","addr:postcode":"22-200","addr:city":"W\u0142odawa","addr:street":"ul. \u017bo\u0142nierzy WiN","addr:housenumber":"19","addr:teryt:simc":32081,"addr:teryt:sym_ul":930294,"contact:email":"zk_wlodawa@sw.gov.pl","ref:regon":"061448960","operator":"Ministerstwo Sprawiedliwo\u015bci","operator:type":"public","amenity":"school","fixme":"amenity=school lub amenity=college","note":"Children RSPO: 11214;20175"}},{"id":20175,"type":"Feature","geometry":{"type":"Point","coordinates":[23.5409394,51.5525801]},"properties":{"isced:level":"1;2","ref:rspo":20175,"official_name":"Szko\u0142a Podstawowa dla Doros\u0142ych","name":"Szko\u0142a Podstawowa dla Doros\u0142ych","addr:country":"PL","addr:postcode":"22-200","addr:city":"W\u0142odawa","addr:street":"ul. \u017bo\u0142nierzy WiN","addr:housenumber":"19","addr:teryt:simc":32081,"addr:teryt:sym_ul":930294,"contact:phone":"+48 825726835","contact:email":"zk_wlodawa@sw.gov.pl","ref:regon":"061464976","operator":"Ministerstwo Sprawiedliwo\u015bci","operator:type":"public","amenity":"school","note":"Parent RSPO: 4450"}},{"id":44498,"type":"Feature","geometry":{"type":"Point","coordinates":[23.54106,51.55305]},"properties":{"isced:level":"3","ref:rspo":44498,"official_name":"Bran\u017cowa Szko\u0142a I Stopnia we W\u0142odawie","name":"Bran\u017cowa Szko\u0142a I Stopnia we W\u0142odawie","addr:country":"PL","addr:postcode":"22-200","addr:city":"W\u0142odawa","addr:street":"ul. \u017bo\u0142nierzy WiN","addr:housenumber":"16","addr:teryt:simc":32081,"addr:teryt:sym_ul":930294,"contact:phone":"+48 825726345","contact:email":"wlodawaszkola@gmail.com","contact:website":"http:\/\/www.wlodawa.edu.pl","ref:regon":"061484140","operator":"Europejski Ruch Aktywizacji Spo\u0142ecznej \"Eras\"","operator:type":"ngo","amenity":"school"}},{"id":133582,"type":"Feature","geometry":{"type":"Point","coordinates":[23.54106,51.55302]},"properties":{"isced:level":"1;2","ref:rspo":133582,"official_name":"Szko\u0142a Podstawowa Z Oddzia\u0142ami Przysposabiaj\u0105cymi Do Pracy we W\u0142odawie","name":"Szko\u0142a Podstawowa Z Oddzia\u0142ami Przysposabiaj\u0105cymi Do Pracy we W\u0142odawie","addr:country":"PL","addr:postcode":"22-200","addr:city":"W\u0142odawa","addr:street":"ul. \u017bo\u0142nierzy WiN","addr:housenumber":"16","addr:teryt:simc":32081,"addr:teryt:sym_ul":930294,"contact:phone":"+48 825726345","contact:email":"wlodawaszkola@wlodawa.com","contact:website":"http:\/\/www.wlodawa.edu.pl","ref:regon":"367429575","operator":"Europejski Ruch Aktywizacji Spo\u0142ecznej \"Eras\"","operator:type":"ngo","amenity":"school"}},{"id":44501,"type":"Feature","geometry":{"type":"Point","coordinates":[23.55779,51.55379]},"properties":{"ref:rspo":44501,"official_name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 Zawodowych Nr 1 im. 2 Warszawskiej Brygady Saper\u00f3w I Ii Liceum Og\u00f3lnokszta\u0142c\u0105ce im. Andrzeja Frycza Modrzewskiego","name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 Zawodowych Nr 1","addr:country":"PL","addr:postcode":"22-200","addr:city":"W\u0142odawa","addr:street":"ul. Modrzewskiego","addr:housenumber":"24","addr:teryt:simc":13186,"addr:teryt:sym_ul":930294,"contact:phone":"+48 825721488","contact:email":"2losekretariat@konto.pl","contact:website":"http:\/\/www.2lo.wlodawa.pl","ref:regon":"000198947","ref:vatin":"PL5651197733","operator":"Powiat W\u0142odawski","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 44502;79016;79090;80423;81055;81056"}},{"id":44502,"type":"Feature","geometry":{"type":"Point","coordinates":[23.55779,51.55376]},"properties":{"ref:rspo":44502,"official_name":"Szkolne Schronisko M\u0142odzie\u017cowe we W\u0142odawie","name":"Szkolne Schronisko M\u0142odzie\u017cowe we W\u0142odawie","addr:country":"PL","addr:postcode":"22-200","addr:city":"W\u0142odawa","addr:street":"ul. Modrzewskiego","addr:housenumber":"24","addr:teryt:simc":13186,"addr:teryt:sym_ul":930294,"contact:phone":"+48 825721488","contact:email":"2losekretariat@konto.pl","contact:website":"http:\/\/www.2lo.wlodawa.pl\/internat\/","ref:regon":"061476258","operator":"Powiat W\u0142odawski","operator:type":"government","tourism":"hostel","note":"Parent RSPO: 44501"}},{"id":79016,"type":"Feature","geometry":{"type":"Point","coordinates":[23.55779,51.55373]},"properties":{"isced:level":"3","ref:rspo":79016,"official_name":"Liceum Og\u00f3lnokszta\u0142c\u0105ce dla Doros\u0142ych","name":"Liceum Og\u00f3lnokszta\u0142c\u0105ce dla Doros\u0142ych","addr:country":"PL","addr:postcode":"22-200","addr:city":"W\u0142odawa","addr:street":"ul. Modrzewskiego","addr:housenumber":"24","addr:teryt:simc":13186,"addr:teryt:sym_ul":930294,"contact:phone":"+48 825721488","contact:email":"2losekretariat@konto.pl","contact:website":"http:\/\/www.2lo.wlodawa.pl","ref:regon":"061484217","operator":"Powiat W\u0142odawski","operator:type":"government","amenity":"school","note":"Parent RSPO: 44501"}},{"id":79090,"type":"Feature","geometry":{"type":"Point","coordinates":[23.55779,51.5537]},"properties":{"isced:level":"4","ref:rspo":79090,"official_name":"Szko\u0142a Policealna","name":"Szko\u0142a Policealna","addr:country":"PL","addr:postcode":"22-200","addr:city":"W\u0142odawa","addr:street":"ul. Modrzewskiego","addr:housenumber":"24","addr:teryt:simc":13186,"addr:teryt:sym_ul":930294,"contact:phone":"+48 825721488","contact:email":"2losekretariat@konto.pl","contact:website":"http:\/\/www.2lo.wlodawa.pl","ref:regon":"061484223","operator":"Powiat W\u0142odawski","operator:type":"government","amenity":"college","note":"Parent RSPO: 44501"}},{"id":80423,"type":"Feature","geometry":{"type":"Point","coordinates":[23.55779,51.55367]},"properties":{"isced:level":"3","ref:rspo":80423,"official_name":"Ii Liceum Og\u00f3lnokszta\u0142c\u0105ce im. Andrzeja Frycza Modrzewskiego","name":"Ii Liceum Og\u00f3lnokszta\u0142c\u0105ce","addr:country":"PL","addr:postcode":"22-200","addr:city":"W\u0142odawa","addr:street":"ul. Modrzewskiego","addr:housenumber":"24","addr:teryt:simc":13186,"addr:teryt:sym_ul":930294,"contact:phone":"+48 825721488","contact:email":"2losekretariat@konto.pl","contact:website":"http:\/\/www.2lo.wlodawa.pl","ref:regon":"110004642","operator":"Powiat W\u0142odawski","operator:type":"government","amenity":"school","note":"Parent RSPO: 44501"}},{"id":81055,"type":"Feature","geometry":{"type":"Point","coordinates":[23.55779,51.55364]},"properties":{"isced:level":"3","ref:rspo":81055,"official_name":"Bran\u017cowa Szko\u0142a I Stopnia Nr 1 we W\u0142odawie","name":"Bran\u017cowa Szko\u0142a I Stopnia Nr 1 we W\u0142odawie","addr:country":"PL","addr:postcode":"22-200","addr:city":"W\u0142odawa","addr:street":"ul. Modrzewskiego","addr:housenumber":"24","addr:teryt:simc":13186,"addr:teryt:sym_ul":930294,"contact:phone":"+48 825721488","contact:email":"2losekretariat@konto.pl","contact:website":"http:\/\/www.2lo.wlodawa.pl","ref:regon":"110607760","operator":"Powiat W\u0142odawski","operator:type":"government","amenity":"school","note":"Parent RSPO: 44501"}},{"id":81056,"type":"Feature","geometry":{"type":"Point","coordinates":[23.55779,51.55361]},"properties":{"isced:level":"3","ref:rspo":81056,"official_name":"Technikum","name":"Technikum","addr:country":"PL","addr:postcode":"22-200","addr:city":"W\u0142odawa","addr:street":"ul. Modrzewskiego","addr:housenumber":"24","addr:teryt:simc":13186,"addr:teryt:sym_ul":930294,"contact:phone":"+48 825721488","contact:email":"2losekretariat@konto.pl","contact:website":"http:\/\/www.2lo.wlodawa.pl","ref:regon":"110724655","operator":"Powiat W\u0142odawski","operator:type":"government","amenity":"school","note":"Parent RSPO: 44501"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 11214,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.407238006592,
+                    51.49634552002
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 11214,
+                "official_name": "Liceum Og\u00f3lnokszta\u0142c\u0105ce dla Doros\u0142ych",
+                "name": "Liceum Og\u00f3lnokszta\u0142c\u0105ce dla Doros\u0142ych",
+                "addr:country": "PL",
+                "addr:postcode": "22-200",
+                "addr:place": "W\u0142odawa",
+                "addr:housenumber": "19",
+                "addr:teryt:sym_ul": 930294,
+                "contact:email": "zk_wlodawa@sw.gov.pl",
+                "ref:regon": "061460889",
+                "operator": "Ministerstwo Sprawiedliwo\u015bci",
+                "operator:type": "public",
+                "amenity": "school",
+                "note": "Parent RSPO: 4450"
+            }
+        },
+        {
+            "id": 14479,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.5504399,
+                    51.54199
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 14479,
+                "official_name": "Szko\u0142a Podstawowa Nr 2 im. Komisji Edukacji Narodowej",
+                "name": "Szko\u0142a Podstawowa Nr 2",
+                "addr:country": "PL",
+                "addr:postcode": "22-200",
+                "addr:city": "W\u0142odawa",
+                "addr:street": "ul. Kopernika",
+                "addr:housenumber": "3",
+                "addr:teryt:simc": 9276,
+                "addr:teryt:sym_ul": 930294,
+                "contact:phone": "+48 825721345",
+                "contact:email": "sekretariat@sp2wlodawa.pl",
+                "contact:website": "http:\/\/www.sp2wlodawa.pl",
+                "ref:regon": "000582189",
+                "ref:vatin": "PL5651023832",
+                "operator": "Gmina Miejska W\u0142odawa",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 16002,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.55582,
+                    51.54567
+                ]
+            },
+            "properties": {
+                "ref:rspo": 16002,
+                "official_name": "Niepubliczne Przedszkole \"Ma\u0142a Akademia\"",
+                "name": "Niepubliczne Przedszkole \"Ma\u0142a Akademia\"",
+                "addr:country": "PL",
+                "addr:postcode": "22-200",
+                "addr:city": "W\u0142odawa",
+                "addr:street": "ul. 11 Listopada",
+                "addr:housenumber": "5B",
+                "addr:teryt:simc": 11205,
+                "addr:teryt:sym_ul": 930294,
+                "contact:phone": "+48 509312996",
+                "contact:email": "mala.akademia@wp.pl",
+                "ref:regon": "061461541",
+                "operator": "Fundacja Akademia Umiej\u0119tno\u015bci",
+                "operator:type": "ngo",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 31074,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.55043,
+                    51.54601
+                ]
+            },
+            "properties": {
+                "ref:rspo": 31074,
+                "official_name": "Poradnia Psychologiczno-Pedagogiczna we W\u0142odawie",
+                "name": "Poradnia Psychologiczno-Pedagogiczna we W\u0142odawie",
+                "addr:country": "PL",
+                "addr:postcode": "22-200",
+                "addr:city": "W\u0142odawa",
+                "addr:street": "ul. Partyzant\u00f3w",
+                "addr:housenumber": "17",
+                "addr:teryt:simc": 15733,
+                "addr:teryt:sym_ul": 930294,
+                "contact:phone": "+48 825721271",
+                "contact:email": "sekretariat@pppwlodawa.pl",
+                "contact:website": "http:\/\/pppwlodawa.pl",
+                "ref:regon": "000739254",
+                "ref:vatin": "PL5651340840",
+                "operator": "Powiat W\u0142odawski",
+                "operator:type": "government",
+                "healthcare": "counselling",
+                "counselling_type": "education",
+                "fixme": "w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. healthcare=counselling + counselling_type=education albo healthcare=psychotherapist)"
+            }
+        },
+        {
+            "id": 31954,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.55043,
+                    51.54598
+                ]
+            },
+            "properties": {
+                "ref:rspo": 31954,
+                "official_name": "M\u0142odzie\u017cowy Dom Kultury im.oskara Kolberga we W\u0142odawie",
+                "name": "M\u0142odzie\u017cowy Dom Kultury im.oskara Kolberga we W\u0142odawie",
+                "addr:country": "PL",
+                "addr:postcode": "22-200",
+                "addr:city": "W\u0142odawa",
+                "addr:street": "ul. Partyzant\u00f3w",
+                "addr:housenumber": "17",
+                "addr:teryt:simc": 15733,
+                "addr:teryt:sym_ul": 930294,
+                "contact:phone": "+48 825726531",
+                "contact:email": "mdkwlodawa@o2.pl",
+                "contact:website": "http:\/\/mdk.wlodawa.pl",
+                "ref:regon": "000739248",
+                "ref:vatin": "PL5651340834",
+                "operator": "Powiat W\u0142odawski",
+                "operator:type": "government",
+                "amenity": "community_centre",
+                "community_centre:for": "juvenile"
+            }
+        },
+        {
+            "id": 44496,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.54869,
+                    51.5461
+                ]
+            },
+            "properties": {
+                "ref:rspo": 44496,
+                "official_name": "Specjalny O\u015brodek Szkolno-Wychowawczy we W\u0142odawie",
+                "name": "Specjalny O\u015brodek Szkolno-Wychowawczy we W\u0142odawie",
+                "addr:country": "PL",
+                "addr:postcode": "22-200",
+                "addr:city": "W\u0142odawa",
+                "addr:street": "ul. Partyzant\u00f3w",
+                "addr:housenumber": "13",
+                "addr:teryt:simc": 15733,
+                "addr:teryt:sym_ul": 930294,
+                "contact:phone": "+48 825721336",
+                "contact:email": "sekretariat@sosw.powiatwlodawski.pl",
+                "contact:website": "http:\/\/www.sosw.powiatwlodawski.pl",
+                "ref:regon": "000201129",
+                "ref:vatin": "PL5651205303",
+                "operator": "Powiat W\u0142odawski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Children RSPO: 83421;83469;83527;128263"
+            }
+        },
+        {
+            "id": 44497,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.54869,
+                    51.54607
+                ]
+            },
+            "properties": {
+                "ref:rspo": 44497,
+                "official_name": "Szkolne Schronisko M\u0142odzie\u017cowe Nr 3 we W\u0142odawie",
+                "name": "Szkolne Schronisko M\u0142odzie\u017cowe Nr 3 we W\u0142odawie",
+                "addr:country": "PL",
+                "addr:postcode": "22-200",
+                "addr:city": "W\u0142odawa",
+                "addr:street": "ul. Partyzant\u00f3w",
+                "addr:housenumber": "13",
+                "addr:teryt:simc": 15733,
+                "addr:teryt:sym_ul": 930294,
+                "contact:phone": "+48 825721336",
+                "contact:email": "ssm3.wlodawa@o2.pl",
+                "ref:regon": "060645061",
+                "operator": "Powiat W\u0142odawski",
+                "operator:type": "government",
+                "tourism": "hostel"
+            }
+        },
+        {
+            "id": 83421,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.54869,
+                    51.546040000000005
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 83421,
+                "official_name": "Szko\u0142a Podstawowa Specjalna Nr 4 we W\u0142odawie",
+                "name": "Szko\u0142a Podstawowa Specjalna Nr 4 we W\u0142odawie",
+                "addr:country": "PL",
+                "addr:postcode": "22-200",
+                "addr:city": "W\u0142odawa",
+                "addr:street": "ul. Partyzant\u00f3w",
+                "addr:housenumber": "13",
+                "addr:teryt:simc": 15733,
+                "addr:teryt:sym_ul": 930294,
+                "contact:phone": "+48 825721336",
+                "contact:email": "sekretariat@sosw.powiatwlodawski.pl",
+                "contact:website": "http:\/\/sosw.powiatwlodawski.pl",
+                "ref:regon": "000739231",
+                "operator": "Powiat W\u0142odawski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 44496"
+            }
+        },
+        {
+            "id": 83469,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.54869,
+                    51.54601
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 83469,
+                "official_name": "Bran\u017cowa Szko\u0142a Specjalna I Stopnia Nr 2 we W\u0142odawie",
+                "name": "Bran\u017cowa Szko\u0142a Specjalna I Stopnia Nr 2 we W\u0142odawie",
+                "addr:country": "PL",
+                "addr:postcode": "22-200",
+                "addr:city": "W\u0142odawa",
+                "addr:street": "ul. Partyzant\u00f3w",
+                "addr:housenumber": "13",
+                "addr:teryt:simc": 15733,
+                "addr:teryt:sym_ul": 930294,
+                "contact:phone": "+48 825721336",
+                "contact:email": "sekretariat@sosw.powiatwlodawski.pl",
+                "contact:website": "http:\/\/sosw.powiatwlodawski.pl",
+                "ref:regon": "000834484",
+                "operator": "Powiat W\u0142odawski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 44496"
+            }
+        },
+        {
+            "id": 83527,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.54869,
+                    51.54598
+                ]
+            },
+            "properties": {
+                "ref:rspo": 83527,
+                "official_name": "Szko\u0142a Specjalna Przysposabiaj\u0105ca Do Pracy we W\u0142odawie",
+                "name": "Szko\u0142a Specjalna Przysposabiaj\u0105ca Do Pracy we W\u0142odawie",
+                "addr:country": "PL",
+                "addr:postcode": "22-200",
+                "addr:city": "W\u0142odawa",
+                "addr:street": "ul. Partyzant\u00f3w",
+                "addr:housenumber": "13",
+                "addr:teryt:simc": 15733,
+                "addr:teryt:sym_ul": 930294,
+                "contact:phone": "+48 825721336",
+                "contact:email": "sekretariat@sosw.powiatwlodawski.pl",
+                "ref:regon": "110722892",
+                "operator": "Powiat W\u0142odawski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 44496"
+            }
+        },
+        {
+            "id": 128263,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.54869,
+                    51.545950000000005
+                ]
+            },
+            "properties": {
+                "ref:rspo": 128263,
+                "official_name": "Przedszkole Specjalne we W\u0142odawie",
+                "name": "Przedszkole Specjalne we W\u0142odawie",
+                "addr:country": "PL",
+                "addr:postcode": "22-200",
+                "addr:city": "W\u0142odawa",
+                "addr:street": "ul. Partyzant\u00f3w",
+                "addr:housenumber": "13",
+                "addr:teryt:simc": 15733,
+                "addr:teryt:sym_ul": 930294,
+                "contact:phone": "+48 825721336",
+                "contact:email": "sekretariat@sosw.powiatwlodawski.pl",
+                "contact:website": "http:\/\/www.sosw.wlodawa.pl",
+                "ref:regon": "362213824",
+                "operator": "Powiat W\u0142odawski",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 44496"
+            }
+        },
+        {
+            "id": 14604,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.54954,
+                    51.54705
+                ]
+            },
+            "properties": {
+                "ref:rspo": 14604,
+                "official_name": "Przedszkole Miejskie Nr 1 we W\u0142odawie",
+                "name": "Przedszkole Miejskie Nr 1 we W\u0142odawie",
+                "addr:country": "PL",
+                "addr:postcode": "22-200",
+                "addr:city": "W\u0142odawa",
+                "addr:street": "ul. S\u0142owackiego",
+                "addr:housenumber": "16",
+                "addr:teryt:simc": 20286,
+                "addr:teryt:sym_ul": 930294,
+                "contact:phone": "+48 825722459",
+                "contact:email": "przedszkole1@o2.pl",
+                "ref:regon": "110711010",
+                "ref:vatin": "PL5651427400",
+                "operator": "Gmina Miejska W\u0142odawa",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 128335,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.55861,
+                    51.54799
+                ]
+            },
+            "properties": {
+                "ref:rspo": 128335,
+                "official_name": "Szko\u0142a Muzyczna I Stopnia we W\u0142odawie",
+                "name": "Szko\u0142a Muzyczna I Stopnia we W\u0142odawie",
+                "addr:country": "PL",
+                "addr:postcode": "22-200",
+                "addr:city": "W\u0142odawa",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "7",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 930294,
+                "contact:phone": "+48 508590265",
+                "contact:email": "smi@wlodawa.eu",
+                "contact:website": "http:\/\/www.smi.wlodawa.eu",
+                "ref:regon": "362235731",
+                "ref:vatin": "PL5651526958",
+                "operator": "Gmina Miejska W\u0142odawa",
+                "operator:type": "government",
+                "amenity": "music_school"
+            }
+        },
+        {
+            "id": 14593,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.5581299,
+                    51.54843
+                ]
+            },
+            "properties": {
+                "ref:rspo": 14593,
+                "official_name": "Miejskie Przedszkole Integracyjne we W\u0142odawie",
+                "name": "Miejskie Przedszkole Integracyjne we W\u0142odawie",
+                "addr:country": "PL",
+                "addr:postcode": "22-200",
+                "addr:city": "W\u0142odawa",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "5",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 930294,
+                "contact:phone": "+48 825722231",
+                "contact:email": "mpi@poczta.onet.eu",
+                "ref:regon": "110170547",
+                "ref:vatin": "PL5651312275",
+                "operator": "Gmina Miejska W\u0142odawa",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 44500,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.55786,
+                    51.54847
+                ]
+            },
+            "properties": {
+                "ref:rspo": 44500,
+                "official_name": "Szkolne Schronisko M\u0142odzie\u017cowe Nr 1 we W\u0142odawie",
+                "name": "Szkolne Schronisko M\u0142odzie\u017cowe Nr 1 we W\u0142odawie",
+                "addr:country": "PL",
+                "addr:postcode": "22-200",
+                "addr:city": "W\u0142odawa",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "3",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 930294,
+                "contact:phone": "+48 825721113",
+                "contact:email": "szkola@1lo.wlodawa.pl",
+                "ref:regon": "060035919",
+                "operator": "Powiat W\u0142odawski",
+                "operator:type": "government",
+                "tourism": "hostel"
+            }
+        },
+        {
+            "id": 44499,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.55731,
+                    51.5485
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 44499,
+                "official_name": "I Liceum Og\u00f3lnokszta\u0142c\u0105ce im. Tadeusza Ko\u015bciuszki",
+                "name": "I Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+                "addr:country": "PL",
+                "addr:postcode": "22-200",
+                "addr:city": "W\u0142odawa",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 930294,
+                "contact:phone": "+48 825721023",
+                "contact:email": "szkola@1lo.wlodawa.pl",
+                "contact:website": "http:\/\/www.1lo.wlodawa.pl",
+                "ref:regon": "000228826",
+                "ref:vatin": "PL5651211597",
+                "operator": "Powiat W\u0142odawski",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 31141,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.55308,
+                    51.5489
+                ]
+            },
+            "properties": {
+                "ref:rspo": 31141,
+                "official_name": "O\u015brodek Szkolenia \"Lider\" Miros\u0142aw Wit we W\u0142odawie",
+                "name": "O\u015brodek Szkolenia \"Lider\" Miros\u0142aw Wit we W\u0142odawie",
+                "addr:country": "PL",
+                "addr:postcode": "22-200",
+                "addr:city": "W\u0142odawa",
+                "addr:street": "ul. \u017beromskiego",
+                "addr:housenumber": "9",
+                "addr:teryt:simc": 26464,
+                "addr:teryt:sym_ul": 930294,
+                "contact:phone": "+48 825722097",
+                "ref:regon": "061471812",
+                "ref:vatin": "PL5651025357",
+                "operator": "Miros\u0142aw Wit",
+                "operator:type": "private",
+                "fixme": "w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. amenity=training + training=*, amenity=dancing_school, amenity=language_school, amenity=music_school) albo amenity=school, amenity=college, albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education."
+            }
+        },
+        {
+            "id": 14509,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.54319,
+                    51.54933
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 14509,
+                "official_name": "Szko\u0142a Podstawowa Nr 3 im. Gen. Franciszka Kleeberga",
+                "name": "Szko\u0142a Podstawowa Nr 3",
+                "addr:country": "PL",
+                "addr:postcode": "22-200",
+                "addr:city": "W\u0142odawa",
+                "addr:street": "ul. prof. Zbigniewa Sierpi\u0144skiego",
+                "addr:housenumber": "4",
+                "addr:teryt:simc": 30598,
+                "addr:teryt:sym_ul": 930294,
+                "contact:phone": "+48 825721138",
+                "contact:email": "sp3wlodawa@op.pl",
+                "ref:regon": "110106555",
+                "ref:vatin": "PL5651215170",
+                "operator": "Gmina Miejska W\u0142odawa",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 14614,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.54319,
+                    51.549299999999995
+                ]
+            },
+            "properties": {
+                "ref:rspo": 14614,
+                "official_name": "Przedszkole Miejskie Nr 2 we W\u0142odawie",
+                "name": "Przedszkole Miejskie Nr 2 we W\u0142odawie",
+                "addr:country": "PL",
+                "addr:postcode": "22-200",
+                "addr:city": "W\u0142odawa",
+                "addr:street": "ul. prof. Zbigniewa Sierpi\u0144skiego",
+                "addr:housenumber": "4",
+                "addr:teryt:simc": 30598,
+                "addr:teryt:sym_ul": 930294,
+                "contact:phone": "+48 515286538",
+                "contact:email": "pm2wlodawa@gmail.com",
+                "contact:website": "http:\/\/pm2.wlodawa.eu",
+                "ref:regon": "060512816",
+                "ref:vatin": "PL5651513329",
+                "operator": "Gmina Miejska W\u0142odawa",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 4450,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.5409394,
+                    51.5526101
+                ]
+            },
+            "properties": {
+                "ref:rspo": 4450,
+                "official_name": "Centrum Kszta\u0142cenia Ustawicznego",
+                "name": "Centrum Kszta\u0142cenia Ustawicznego",
+                "addr:country": "PL",
+                "addr:postcode": "22-200",
+                "addr:city": "W\u0142odawa",
+                "addr:street": "ul. \u017bo\u0142nierzy WiN",
+                "addr:housenumber": "19",
+                "addr:teryt:simc": 32081,
+                "addr:teryt:sym_ul": 930294,
+                "contact:email": "zk_wlodawa@sw.gov.pl",
+                "ref:regon": "061448960",
+                "operator": "Ministerstwo Sprawiedliwo\u015bci",
+                "operator:type": "public",
+                "amenity": "school",
+                "fixme": "amenity=school lub amenity=college",
+                "note": "Children RSPO: 11214;20175"
+            }
+        },
+        {
+            "id": 20175,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.5409394,
+                    51.5525801
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 20175,
+                "official_name": "Szko\u0142a Podstawowa dla Doros\u0142ych",
+                "name": "Szko\u0142a Podstawowa dla Doros\u0142ych",
+                "addr:country": "PL",
+                "addr:postcode": "22-200",
+                "addr:city": "W\u0142odawa",
+                "addr:street": "ul. \u017bo\u0142nierzy WiN",
+                "addr:housenumber": "19",
+                "addr:teryt:simc": 32081,
+                "addr:teryt:sym_ul": 930294,
+                "contact:phone": "+48 825726835",
+                "contact:email": "zk_wlodawa@sw.gov.pl",
+                "ref:regon": "061464976",
+                "operator": "Ministerstwo Sprawiedliwo\u015bci",
+                "operator:type": "public",
+                "amenity": "school",
+                "note": "Parent RSPO: 4450"
+            }
+        },
+        {
+            "id": 44498,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.54106,
+                    51.55305
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 44498,
+                "official_name": "Bran\u017cowa Szko\u0142a I Stopnia we W\u0142odawie",
+                "name": "Bran\u017cowa Szko\u0142a I Stopnia we W\u0142odawie",
+                "addr:country": "PL",
+                "addr:postcode": "22-200",
+                "addr:city": "W\u0142odawa",
+                "addr:street": "ul. \u017bo\u0142nierzy WiN",
+                "addr:housenumber": "16",
+                "addr:teryt:simc": 32081,
+                "addr:teryt:sym_ul": 930294,
+                "contact:phone": "+48 825726345",
+                "contact:email": "wlodawaszkola@gmail.com",
+                "contact:website": "http:\/\/www.wlodawa.edu.pl",
+                "ref:regon": "061484140",
+                "operator": "Europejski Ruch Aktywizacji Spo\u0142ecznej \"Eras\"",
+                "operator:type": "ngo",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 133582,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.54106,
+                    51.55302
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 133582,
+                "official_name": "Szko\u0142a Podstawowa Z Oddzia\u0142ami Przysposabiaj\u0105cymi Do Pracy we W\u0142odawie",
+                "name": "Szko\u0142a Podstawowa Z Oddzia\u0142ami Przysposabiaj\u0105cymi Do Pracy we W\u0142odawie",
+                "addr:country": "PL",
+                "addr:postcode": "22-200",
+                "addr:city": "W\u0142odawa",
+                "addr:street": "ul. \u017bo\u0142nierzy WiN",
+                "addr:housenumber": "16",
+                "addr:teryt:simc": 32081,
+                "addr:teryt:sym_ul": 930294,
+                "contact:phone": "+48 825726345",
+                "contact:email": "wlodawaszkola@wlodawa.com",
+                "contact:website": "http:\/\/www.wlodawa.edu.pl",
+                "ref:regon": "367429575",
+                "operator": "Europejski Ruch Aktywizacji Spo\u0142ecznej \"Eras\"",
+                "operator:type": "ngo",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 44501,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.55779,
+                    51.55379
+                ]
+            },
+            "properties": {
+                "ref:rspo": 44501,
+                "official_name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Zawodowych Nr 1 im. 2 Warszawskiej Brygady Saper\u00f3w I Ii Liceum Og\u00f3lnokszta\u0142c\u0105ce im. Andrzeja Frycza Modrzewskiego",
+                "name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Zawodowych Nr 1",
+                "addr:country": "PL",
+                "addr:postcode": "22-200",
+                "addr:city": "W\u0142odawa",
+                "addr:street": "ul. Modrzewskiego",
+                "addr:housenumber": "24",
+                "addr:teryt:simc": 13186,
+                "addr:teryt:sym_ul": 930294,
+                "contact:phone": "+48 825721488",
+                "contact:email": "2losekretariat@konto.pl",
+                "contact:website": "http:\/\/www.2lo.wlodawa.pl",
+                "ref:regon": "000198947",
+                "ref:vatin": "PL5651197733",
+                "operator": "Powiat W\u0142odawski",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 44502;79016;79090;80423;81055;81056"
+            }
+        },
+        {
+            "id": 44502,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.55779,
+                    51.55376
+                ]
+            },
+            "properties": {
+                "ref:rspo": 44502,
+                "official_name": "Szkolne Schronisko M\u0142odzie\u017cowe we W\u0142odawie",
+                "name": "Szkolne Schronisko M\u0142odzie\u017cowe we W\u0142odawie",
+                "addr:country": "PL",
+                "addr:postcode": "22-200",
+                "addr:city": "W\u0142odawa",
+                "addr:street": "ul. Modrzewskiego",
+                "addr:housenumber": "24",
+                "addr:teryt:simc": 13186,
+                "addr:teryt:sym_ul": 930294,
+                "contact:phone": "+48 825721488",
+                "contact:email": "2losekretariat@konto.pl",
+                "contact:website": "http:\/\/www.2lo.wlodawa.pl\/internat\/",
+                "ref:regon": "061476258",
+                "operator": "Powiat W\u0142odawski",
+                "operator:type": "government",
+                "tourism": "hostel",
+                "note": "Parent RSPO: 44501"
+            }
+        },
+        {
+            "id": 79016,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.55779,
+                    51.55373
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 79016,
+                "official_name": "Liceum Og\u00f3lnokszta\u0142c\u0105ce dla Doros\u0142ych",
+                "name": "Liceum Og\u00f3lnokszta\u0142c\u0105ce dla Doros\u0142ych",
+                "addr:country": "PL",
+                "addr:postcode": "22-200",
+                "addr:city": "W\u0142odawa",
+                "addr:street": "ul. Modrzewskiego",
+                "addr:housenumber": "24",
+                "addr:teryt:simc": 13186,
+                "addr:teryt:sym_ul": 930294,
+                "contact:phone": "+48 825721488",
+                "contact:email": "2losekretariat@konto.pl",
+                "contact:website": "http:\/\/www.2lo.wlodawa.pl",
+                "ref:regon": "061484217",
+                "operator": "Powiat W\u0142odawski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 44501"
+            }
+        },
+        {
+            "id": 79090,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.55779,
+                    51.5537
+                ]
+            },
+            "properties": {
+                "isced:level": "4",
+                "ref:rspo": 79090,
+                "official_name": "Szko\u0142a Policealna",
+                "name": "Szko\u0142a Policealna",
+                "addr:country": "PL",
+                "addr:postcode": "22-200",
+                "addr:city": "W\u0142odawa",
+                "addr:street": "ul. Modrzewskiego",
+                "addr:housenumber": "24",
+                "addr:teryt:simc": 13186,
+                "addr:teryt:sym_ul": 930294,
+                "contact:phone": "+48 825721488",
+                "contact:email": "2losekretariat@konto.pl",
+                "contact:website": "http:\/\/www.2lo.wlodawa.pl",
+                "ref:regon": "061484223",
+                "operator": "Powiat W\u0142odawski",
+                "operator:type": "government",
+                "amenity": "college",
+                "note": "Parent RSPO: 44501"
+            }
+        },
+        {
+            "id": 80423,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.55779,
+                    51.55367
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 80423,
+                "official_name": "Ii Liceum Og\u00f3lnokszta\u0142c\u0105ce im. Andrzeja Frycza Modrzewskiego",
+                "name": "Ii Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+                "addr:country": "PL",
+                "addr:postcode": "22-200",
+                "addr:city": "W\u0142odawa",
+                "addr:street": "ul. Modrzewskiego",
+                "addr:housenumber": "24",
+                "addr:teryt:simc": 13186,
+                "addr:teryt:sym_ul": 930294,
+                "contact:phone": "+48 825721488",
+                "contact:email": "2losekretariat@konto.pl",
+                "contact:website": "http:\/\/www.2lo.wlodawa.pl",
+                "ref:regon": "110004642",
+                "operator": "Powiat W\u0142odawski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 44501"
+            }
+        },
+        {
+            "id": 81055,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.55779,
+                    51.55364
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 81055,
+                "official_name": "Bran\u017cowa Szko\u0142a I Stopnia Nr 1 we W\u0142odawie",
+                "name": "Bran\u017cowa Szko\u0142a I Stopnia Nr 1 we W\u0142odawie",
+                "addr:country": "PL",
+                "addr:postcode": "22-200",
+                "addr:city": "W\u0142odawa",
+                "addr:street": "ul. Modrzewskiego",
+                "addr:housenumber": "24",
+                "addr:teryt:simc": 13186,
+                "addr:teryt:sym_ul": 930294,
+                "contact:phone": "+48 825721488",
+                "contact:email": "2losekretariat@konto.pl",
+                "contact:website": "http:\/\/www.2lo.wlodawa.pl",
+                "ref:regon": "110607760",
+                "operator": "Powiat W\u0142odawski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 44501"
+            }
+        },
+        {
+            "id": 81056,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.55779,
+                    51.55361
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 81056,
+                "official_name": "Technikum",
+                "name": "Technikum",
+                "addr:country": "PL",
+                "addr:postcode": "22-200",
+                "addr:city": "W\u0142odawa",
+                "addr:street": "ul. Modrzewskiego",
+                "addr:housenumber": "24",
+                "addr:teryt:simc": 13186,
+                "addr:teryt:sym_ul": 930294,
+                "contact:phone": "+48 825721488",
+                "contact:email": "2losekretariat@konto.pl",
+                "contact:website": "http:\/\/www.2lo.wlodawa.pl",
+                "ref:regon": "110724655",
+                "operator": "Powiat W\u0142odawski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 44501"
+            }
+        }
+    ]
+}

@@ -1,1 +1,211 @@
-{"type":"FeatureCollection","features":[{"id":129048,"type":"Feature","geometry":{"type":"Point","coordinates":[21.9936,53.90467]},"properties":{"isced:level":"1;2","ref:rspo":129048,"official_name":"Szko\u0142a Podstawowa im. Feliksa Nowowiejskiego w Wydminach Szko\u0142a Filialna w Talkach","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"11-510","addr:place":"Talki","addr:housenumber":"2","addr:teryt:sym_ul":772524,"contact:phone":"+48 874210604","contact:email":"sptalki@onet.pl","ref:regon":"519462486","operator":"Gmina Wydminy","operator:type":"government","amenity":"school","note":"Parent RSPO: 53902"}},{"id":34729,"type":"Feature","geometry":{"type":"Point","coordinates":[22.03512,53.98032]},"properties":{"ref:rspo":34729,"official_name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 Og\u00f3lnokszta\u0142c\u0105cych w Wydminach","name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 Og\u00f3lnokszta\u0142c\u0105cych w Wydminach","addr:country":"PL","addr:postcode":"11-510","addr:city":"Wydminy","addr:street":"ul. Grunwaldzka","addr:housenumber":"94","addr:teryt:simc":6260,"addr:teryt:sym_ul":772582,"contact:phone":"+48 874210028","contact:email":"zsowydminy@interia.pl","contact:website":"http:\/\/www.zsowydminy.pl","ref:regon":"510901263","ref:vatin":"PL8451752930","operator":"Gmina Wydminy","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 53902;55686"}},{"id":53902,"type":"Feature","geometry":{"type":"Point","coordinates":[22.03512,53.98029]},"properties":{"isced:level":"1;2","ref:rspo":53902,"official_name":"Szko\u0142a Podstawowa im. Feliksa Nowowiejskiego w Wydminach","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"11-510","addr:city":"Wydminy","addr:street":"ul. Grunwaldzka","addr:housenumber":"94","addr:teryt:simc":6260,"addr:teryt:sym_ul":772582,"contact:phone":"+48 874210028","contact:email":"zsowydminy@interia.pl","ref:regon":"519462486","operator":"Gmina Wydminy","operator:type":"government","amenity":"school","note":"Children RSPO: 129048Parent RSPO: 34729"}},{"id":55686,"type":"Feature","geometry":{"type":"Point","coordinates":[22.03512,53.98026]},"properties":{"isced:level":"3","ref:rspo":55686,"official_name":"Samorz\u0105dowe Liceum Og\u00f3lnokszta\u0142c\u0105ce w Wydminach","name":"Samorz\u0105dowe Liceum Og\u00f3lnokszta\u0142c\u0105ce w Wydminach","addr:country":"PL","addr:postcode":"11-510","addr:city":"Wydminy","addr:street":"ul. Grunwaldzka","addr:housenumber":"94","addr:teryt:simc":6260,"addr:teryt:sym_ul":772582,"ref:regon":"519462440","operator":"Gmina Wydminy","operator:type":"government","amenity":"school","note":"Parent RSPO: 34729"}},{"id":128291,"type":"Feature","geometry":{"type":"Point","coordinates":[22.0263199,53.98408]},"properties":{"ref:rspo":128291,"official_name":"Punkt Wychowania Przedszkolnego \"Ma\u0142y Artysta\"","name":"Punkt Wychowania Przedszkolnego \"Ma\u0142y Artysta\"","addr:country":"PL","addr:postcode":"11-510","addr:city":"Wydminy","addr:street":"ul. Grunwaldzka","addr:housenumber":"36","addr:teryt:simc":6260,"addr:teryt:sym_ul":772582,"contact:email":"ordowskaewelina@wp.pl","ref:regon":"362222786","operator":"Ewelina Ordowska","operator:type":"private","amenity":"kindergarten"}},{"id":128278,"type":"Feature","geometry":{"type":"Point","coordinates":[21.844268798828,53.998924255371]},"properties":{"ref:rspo":128278,"official_name":"Niepubliczne Przedszkole \"S\u0142oneczna Kraina\" w Wydminach","name":"Niepubliczne Przedszkole \"S\u0142oneczna Kraina\" w Wydminach","addr:country":"PL","addr:postcode":"80-299","addr:place":"Wydminy","addr:housenumber":"28","addr:teryt:sym_ul":772582,"contact:email":"wydminy@slonecznakraina.pl","ref:regon":"362215740","operator":"Centrum Edukacji Novum Sp\u00f3\u0142ka Z Ograniczon\u0105 Odpowiedzialno\u015bci\u0105","operator:type":"private","amenity":"kindergarten"}},{"id":53651,"type":"Feature","geometry":{"type":"Point","coordinates":[22.07919,54.02776]},"properties":{"isced:level":"1;2","ref:rspo":53651,"official_name":"Szko\u0142a Podstawowa w Gawlikach Wielkich","name":"Szko\u0142a Podstawowa w Gawlikach Wielkich","addr:country":"PL","addr:postcode":"11-510","addr:place":"Gawliki Wielkie","addr:housenumber":"32","addr:teryt:sym_ul":772257,"contact:phone":"+48 874212058","contact:email":"sp-gawlikiwielkie@gawliki.schoolpage.pl","contact:website":"https:\/\/gawliki.schoolpage.pl\/","ref:regon":"001144669","ref:vatin":"PL8451989721","operator":"Gmina Wydminy","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 129048,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.9936,
+                    53.90467
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 129048,
+                "official_name": "Szko\u0142a Podstawowa im. Feliksa Nowowiejskiego w Wydminach Szko\u0142a Filialna w Talkach",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "11-510",
+                "addr:place": "Talki",
+                "addr:housenumber": "2",
+                "addr:teryt:sym_ul": 772524,
+                "contact:phone": "+48 874210604",
+                "contact:email": "sptalki@onet.pl",
+                "ref:regon": "519462486",
+                "operator": "Gmina Wydminy",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 53902"
+            }
+        },
+        {
+            "id": 34729,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.03512,
+                    53.98032
+                ]
+            },
+            "properties": {
+                "ref:rspo": 34729,
+                "official_name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Og\u00f3lnokszta\u0142c\u0105cych w Wydminach",
+                "name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Og\u00f3lnokszta\u0142c\u0105cych w Wydminach",
+                "addr:country": "PL",
+                "addr:postcode": "11-510",
+                "addr:city": "Wydminy",
+                "addr:street": "ul. Grunwaldzka",
+                "addr:housenumber": "94",
+                "addr:teryt:simc": 6260,
+                "addr:teryt:sym_ul": 772582,
+                "contact:phone": "+48 874210028",
+                "contact:email": "zsowydminy@interia.pl",
+                "contact:website": "http:\/\/www.zsowydminy.pl",
+                "ref:regon": "510901263",
+                "ref:vatin": "PL8451752930",
+                "operator": "Gmina Wydminy",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 53902;55686"
+            }
+        },
+        {
+            "id": 53902,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.03512,
+                    53.98029
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 53902,
+                "official_name": "Szko\u0142a Podstawowa im. Feliksa Nowowiejskiego w Wydminach",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "11-510",
+                "addr:city": "Wydminy",
+                "addr:street": "ul. Grunwaldzka",
+                "addr:housenumber": "94",
+                "addr:teryt:simc": 6260,
+                "addr:teryt:sym_ul": 772582,
+                "contact:phone": "+48 874210028",
+                "contact:email": "zsowydminy@interia.pl",
+                "ref:regon": "519462486",
+                "operator": "Gmina Wydminy",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Children RSPO: 129048Parent RSPO: 34729"
+            }
+        },
+        {
+            "id": 55686,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.03512,
+                    53.98026
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 55686,
+                "official_name": "Samorz\u0105dowe Liceum Og\u00f3lnokszta\u0142c\u0105ce w Wydminach",
+                "name": "Samorz\u0105dowe Liceum Og\u00f3lnokszta\u0142c\u0105ce w Wydminach",
+                "addr:country": "PL",
+                "addr:postcode": "11-510",
+                "addr:city": "Wydminy",
+                "addr:street": "ul. Grunwaldzka",
+                "addr:housenumber": "94",
+                "addr:teryt:simc": 6260,
+                "addr:teryt:sym_ul": 772582,
+                "ref:regon": "519462440",
+                "operator": "Gmina Wydminy",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 34729"
+            }
+        },
+        {
+            "id": 128291,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.0263199,
+                    53.98408
+                ]
+            },
+            "properties": {
+                "ref:rspo": 128291,
+                "official_name": "Punkt Wychowania Przedszkolnego \"Ma\u0142y Artysta\"",
+                "name": "Punkt Wychowania Przedszkolnego \"Ma\u0142y Artysta\"",
+                "addr:country": "PL",
+                "addr:postcode": "11-510",
+                "addr:city": "Wydminy",
+                "addr:street": "ul. Grunwaldzka",
+                "addr:housenumber": "36",
+                "addr:teryt:simc": 6260,
+                "addr:teryt:sym_ul": 772582,
+                "contact:email": "ordowskaewelina@wp.pl",
+                "ref:regon": "362222786",
+                "operator": "Ewelina Ordowska",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 128278,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.844268798828,
+                    53.998924255371
+                ]
+            },
+            "properties": {
+                "ref:rspo": 128278,
+                "official_name": "Niepubliczne Przedszkole \"S\u0142oneczna Kraina\" w Wydminach",
+                "name": "Niepubliczne Przedszkole \"S\u0142oneczna Kraina\" w Wydminach",
+                "addr:country": "PL",
+                "addr:postcode": "80-299",
+                "addr:place": "Wydminy",
+                "addr:housenumber": "28",
+                "addr:teryt:sym_ul": 772582,
+                "contact:email": "wydminy@slonecznakraina.pl",
+                "ref:regon": "362215740",
+                "operator": "Centrum Edukacji Novum Sp\u00f3\u0142ka Z Ograniczon\u0105 Odpowiedzialno\u015bci\u0105",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 53651,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.07919,
+                    54.02776
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 53651,
+                "official_name": "Szko\u0142a Podstawowa w Gawlikach Wielkich",
+                "name": "Szko\u0142a Podstawowa w Gawlikach Wielkich",
+                "addr:country": "PL",
+                "addr:postcode": "11-510",
+                "addr:place": "Gawliki Wielkie",
+                "addr:housenumber": "32",
+                "addr:teryt:sym_ul": 772257,
+                "contact:phone": "+48 874212058",
+                "contact:email": "sp-gawlikiwielkie@gawliki.schoolpage.pl",
+                "contact:website": "https:\/\/gawliki.schoolpage.pl\/",
+                "ref:regon": "001144669",
+                "ref:vatin": "PL8451989721",
+                "operator": "Gmina Wydminy",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

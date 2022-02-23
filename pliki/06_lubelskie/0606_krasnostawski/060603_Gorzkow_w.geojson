@@ -1,1 +1,37 @@
-{"type":"FeatureCollection","features":[{"id":11845,"type":"Feature","geometry":{"type":"Point","coordinates":[23.01316,50.94692]},"properties":{"isced:level":"1;2","ref:rspo":11845,"official_name":"Szko\u0142a Podstawowa w Gorzkowie","name":"Szko\u0142a Podstawowa w Gorzkowie","addr:country":"PL","addr:postcode":"22-315","addr:city":"Gorzk\u00f3w-Osada","addr:street":"ul. G\u0142\u00f3wna","addr:housenumber":"7","addr:teryt:simc":5635,"addr:teryt:sym_ul":888333,"contact:phone":"+48 846838510","contact:email":"spgorzkow@wp.pl","contact:website":"http:\/\/spgorzkow.edupage.org","ref:regon":"000266650","ref:vatin":"PL5641577569","operator":"Gmina Gorzk\u00f3w","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 11845,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.01316,
+                    50.94692
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 11845,
+                "official_name": "Szko\u0142a Podstawowa w Gorzkowie",
+                "name": "Szko\u0142a Podstawowa w Gorzkowie",
+                "addr:country": "PL",
+                "addr:postcode": "22-315",
+                "addr:city": "Gorzk\u00f3w-Osada",
+                "addr:street": "ul. G\u0142\u00f3wna",
+                "addr:housenumber": "7",
+                "addr:teryt:simc": 5635,
+                "addr:teryt:sym_ul": 888333,
+                "contact:phone": "+48 846838510",
+                "contact:email": "spgorzkow@wp.pl",
+                "contact:website": "http:\/\/spgorzkow.edupage.org",
+                "ref:regon": "000266650",
+                "ref:vatin": "PL5641577569",
+                "operator": "Gmina Gorzk\u00f3w",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

@@ -1,1 +1,122 @@
-{"type":"FeatureCollection","features":[{"id":8976,"type":"Feature","geometry":{"type":"Point","coordinates":[20.1855999,53.06292]},"properties":{"isced:level":"1;2","ref:rspo":8976,"official_name":"Szko\u0142a Podstawowa w Zawadach","name":"Szko\u0142a Podstawowa w Zawadach","addr:country":"PL","addr:postcode":"06-545","addr:place":"Zawady","addr:housenumber":"60","addr:teryt:sym_ul":118492,"contact:phone":"+48 236555068","contact:email":"zawady1@gazeta.pl","ref:regon":"001159004","ref:vatin":"PL5691633117","operator":"Gmina Lipowiec Ko\u015bcielny","operator:type":"government","amenity":"school"}},{"id":8975,"type":"Feature","geometry":{"type":"Point","coordinates":[20.1827,53.1054369]},"properties":{"isced:level":"1;2","ref:rspo":8975,"official_name":"Szko\u0142a Podstawowa im.b\u0142.bp.L.wetma\u0144skiego w Lipowcu Ko\u015bcielnym","name":"Szko\u0142a Podstawowa im.b\u0142.bp.L.wetma\u0144skiego w Lipowcu Ko\u015bcielnym","addr:country":"PL","addr:postcode":"06-545","addr:place":"Lipowiec Ko\u015bcielny","addr:housenumber":"212","addr:teryt:sym_ul":118380,"contact:phone":"+48 236555078","contact:email":"splipowieck@poczta.onet.pl","contact:website":"http:\/\/splipowiec.szkolnastrona.pl","ref:regon":"000784415","ref:vatin":"PL5691698890","operator":"Gmina Lipowiec Ko\u015bcielny","operator:type":"government","amenity":"school"}},{"id":8978,"type":"Feature","geometry":{"type":"Point","coordinates":[20.3298539,53.111725]},"properties":{"isced:level":"1;2","ref:rspo":8978,"official_name":"Szko\u0142a Podstawowa w \u0141omi","name":"Szko\u0142a Podstawowa w \u0141omi","addr:country":"PL","addr:postcode":"06-500","addr:place":"\u0141omia","addr:housenumber":"109","addr:teryt:sym_ul":118405,"contact:phone":"+48 236543659","contact:email":"lomia3@wp.pl","ref:regon":"001158996","ref:vatin":"PL5691633086","operator":"Gmina Lipowiec Ko\u015bcielny","operator:type":"government","amenity":"school"}},{"id":8977,"type":"Feature","geometry":{"type":"Point","coordinates":[20.235586,53.1174259]},"properties":{"isced:level":"1;2","ref:rspo":8977,"official_name":"Szko\u0142a Podstawowa w Turzy Ma\u0142ej","name":"Szko\u0142a Podstawowa w Turzy Ma\u0142ej","addr:country":"PL","addr:postcode":"06-545","addr:place":"Turza Ma\u0142a","addr:housenumber":"15","addr:teryt:sym_ul":118457,"contact:phone":"+48 236556099","contact:email":"spturza303@wp.pl","ref:regon":"001158980","ref:vatin":"PL5691698915","operator":"Gmina Lipowiec Ko\u015bcielny","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 8976,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.1855999,
+                    53.06292
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 8976,
+                "official_name": "Szko\u0142a Podstawowa w Zawadach",
+                "name": "Szko\u0142a Podstawowa w Zawadach",
+                "addr:country": "PL",
+                "addr:postcode": "06-545",
+                "addr:place": "Zawady",
+                "addr:housenumber": "60",
+                "addr:teryt:sym_ul": 118492,
+                "contact:phone": "+48 236555068",
+                "contact:email": "zawady1@gazeta.pl",
+                "ref:regon": "001159004",
+                "ref:vatin": "PL5691633117",
+                "operator": "Gmina Lipowiec Ko\u015bcielny",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 8975,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.1827,
+                    53.1054369
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 8975,
+                "official_name": "Szko\u0142a Podstawowa im.b\u0142.bp.L.wetma\u0144skiego w Lipowcu Ko\u015bcielnym",
+                "name": "Szko\u0142a Podstawowa im.b\u0142.bp.L.wetma\u0144skiego w Lipowcu Ko\u015bcielnym",
+                "addr:country": "PL",
+                "addr:postcode": "06-545",
+                "addr:place": "Lipowiec Ko\u015bcielny",
+                "addr:housenumber": "212",
+                "addr:teryt:sym_ul": 118380,
+                "contact:phone": "+48 236555078",
+                "contact:email": "splipowieck@poczta.onet.pl",
+                "contact:website": "http:\/\/splipowiec.szkolnastrona.pl",
+                "ref:regon": "000784415",
+                "ref:vatin": "PL5691698890",
+                "operator": "Gmina Lipowiec Ko\u015bcielny",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 8978,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.3298539,
+                    53.111725
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 8978,
+                "official_name": "Szko\u0142a Podstawowa w \u0141omi",
+                "name": "Szko\u0142a Podstawowa w \u0141omi",
+                "addr:country": "PL",
+                "addr:postcode": "06-500",
+                "addr:place": "\u0141omia",
+                "addr:housenumber": "109",
+                "addr:teryt:sym_ul": 118405,
+                "contact:phone": "+48 236543659",
+                "contact:email": "lomia3@wp.pl",
+                "ref:regon": "001158996",
+                "ref:vatin": "PL5691633086",
+                "operator": "Gmina Lipowiec Ko\u015bcielny",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 8977,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.235586,
+                    53.1174259
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 8977,
+                "official_name": "Szko\u0142a Podstawowa w Turzy Ma\u0142ej",
+                "name": "Szko\u0142a Podstawowa w Turzy Ma\u0142ej",
+                "addr:country": "PL",
+                "addr:postcode": "06-545",
+                "addr:place": "Turza Ma\u0142a",
+                "addr:housenumber": "15",
+                "addr:teryt:sym_ul": 118457,
+                "contact:phone": "+48 236556099",
+                "contact:email": "spturza303@wp.pl",
+                "ref:regon": "001158980",
+                "ref:vatin": "PL5691698915",
+                "operator": "Gmina Lipowiec Ko\u015bcielny",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

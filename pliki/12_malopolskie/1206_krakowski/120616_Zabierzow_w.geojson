@@ -1,1 +1,1041 @@
-{"type":"FeatureCollection","features":[{"id":266623,"type":"Feature","geometry":{"type":"Point","coordinates":[19.800287,50.072091]},"properties":{"ref:rspo":266623,"official_name":"O\u015brodek Szkolenia Krak\u00f3w-Airport","name":"O\u015brodek Szkolenia Krak\u00f3w-Airport","addr:country":"PL","addr:postcode":"32-083","addr:city":"Balice","addr:street":"ul. kpt. Mieczys\u0142awa Medweckiego","addr:housenumber":"1","addr:teryt:simc":30445,"addr:teryt:sym_ul":343533,"contact:phone":"+48 126393300","contact:email":"przepustki@krakowairport.pl","contact:website":"http:\/\/www.krakowairport.pl","ref:regon":"369611255","operator":"Mi\u0119dzynarodowy Port Lotniczy Im. Jana Paw\u0142a Ii Krak\u00f3w-Balice Sp\u00f3\u0142ka Z Ograniczon\u0105 Odpowiedzialno\u015bci\u0105","operator:type":"private","fixme":"w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. amenity=training + training=*, amenity=dancing_school, amenity=language_school, amenity=music_school)"}},{"id":5866,"type":"Feature","geometry":{"type":"Point","coordinates":[19.7939,50.08561]},"properties":{"ref:rspo":5866,"official_name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w Balicach","name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w Balicach","addr:country":"PL","addr:postcode":"32-083","addr:city":"Balice","addr:street":"ul. Szkolna","addr:housenumber":"66","addr:teryt:simc":21970,"addr:teryt:sym_ul":343533,"contact:phone":"+48 122856025","contact:email":"sp_balice@op.pl","contact:website":"http:\/\/www.spbalice.zabierzow.org.pl","ref:regon":"121285894","ref:vatin":"PL5130209310","operator":"Gmina Zabierz\u00f3w","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 55701;55702"}},{"id":55701,"type":"Feature","geometry":{"type":"Point","coordinates":[19.7939,50.08558]},"properties":{"isced:level":"1;2","ref:rspo":55701,"official_name":"Szko\u0142a Podstawowa w Balicach","name":"Szko\u0142a Podstawowa w Balicach","addr:country":"PL","addr:postcode":"32-083","addr:city":"Balice","addr:street":"ul. Szkolna","addr:housenumber":"66","addr:teryt:simc":21970,"addr:teryt:sym_ul":343533,"contact:phone":"+48 122856025","contact:email":"sp_balice@op.pl","ref:regon":"001234504","ref:vatin":"PL9441963703","operator":"Gmina Zabierz\u00f3w","operator:type":"government","amenity":"school","note":"Parent RSPO: 5866"}},{"id":55702,"type":"Feature","geometry":{"type":"Point","coordinates":[19.7939,50.085550000000005]},"properties":{"ref:rspo":55702,"official_name":"Przedszkole Samorz\u0105dowe w Balicach","name":"Przedszkole Samorz\u0105dowe w Balicach","addr:country":"PL","addr:postcode":"32-083","addr:city":"Balice","addr:street":"ul. Szkolna","addr:housenumber":"66","addr:teryt:simc":21970,"addr:teryt:sym_ul":343533,"contact:phone":"+48 122856025","contact:email":"sp_balice@op.pl","contact:website":"http:\/\/www.spbalice.zabierzow.org.pl","ref:regon":"121285345","ref:vatin":"PL5130168054","operator":"Gmina Zabierz\u00f3w","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 5866"}},{"id":120104,"type":"Feature","geometry":{"type":"Point","coordinates":[19.79917,50.09005]},"properties":{"ref:rspo":120104,"official_name":"Niepubliczne Przedszkole J\u0119zykowe Akademia Ma\u0142ych Tygrysk\u00f3w","name":"Niepubliczne Przedszkole J\u0119zykowe Akademia Ma\u0142ych Tygrysk\u00f3w","addr:country":"PL","addr:postcode":"32-083","addr:city":"Balice","addr:street":"ul. Akacjowa","addr:housenumber":"46","addr:teryt:simc":157,"addr:teryt:sym_ul":343533,"contact:email":"balice@maletygryski.pl","contact:website":"http:\/\/www.maletygryski.pl","ref:regon":"122949913","operator":"Kinga Grzybowska","operator:type":"private","amenity":"kindergarten"}},{"id":129045,"type":"Feature","geometry":{"type":"Point","coordinates":[19.78767,50.09034]},"properties":{"ref:rspo":129045,"official_name":"Niepubliczne Przedszkole \"Radosne Nutki\"","name":"Niepubliczne Przedszkole \"Radosne Nutki\"","addr:country":"PL","addr:postcode":"32-080","addr:city":"Zabierz\u00f3w","addr:street":"ul. Le\u015bna","addr:housenumber":"2a","addr:teryt:simc":10898,"addr:teryt:sym_ul":344024,"contact:phone":"+48 693616661","contact:email":"cezary@e-cezar.pl","contact:website":"http:\/\/radosnenutki.pl","ref:regon":"362459040","operator":"Eureka 41 Sp\u00f3\u0142ka Z Ograniczon\u0105 Odpowiedzialno\u015bci\u0105","operator:type":"private","amenity":"kindergarten"}},{"id":56731,"type":"Feature","geometry":{"type":"Point","coordinates":[19.7079,50.09345]},"properties":{"isced:level":"1;2","ref:rspo":56731,"official_name":"Publiczna Szko\u0142a Podstawowa im. Marii Konopnickiej w Brzoskwinii","name":"Publiczna Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"32-084","addr:city":"Brzoskwinia","addr:street":"ul. im. Tadeusza Sko\u0142uby","addr:housenumber":"7","addr:teryt:simc":55754,"addr:teryt:sym_ul":343674,"contact:phone":"+48 122839121","contact:email":"spbrzoskwinia@interia.pl","contact:website":"http:\/\/spbrzoskwinia.edupage.org","ref:regon":"122691099","ref:vatin":"PL9441418041","operator":"Bogus\u0142awa Mysiorska-Wolny","operator:type":"private","amenity":"school"}},{"id":57073,"type":"Feature","geometry":{"type":"Point","coordinates":[19.7079,50.093419999999995]},"properties":{"ref:rspo":57073,"official_name":"Niepubliczny Punkt Przedszkolny \"Bajkowy \u015awiat\"","name":"Niepubliczny Punkt Przedszkolny \"Bajkowy \u015awiat\"","addr:country":"PL","addr:postcode":"32-084","addr:city":"Brzoskwinia","addr:street":"ul. im. Tadeusza Sko\u0142uby","addr:housenumber":"7","addr:teryt:simc":55754,"addr:teryt:sym_ul":343674,"contact:phone":"+48 122839121","contact:email":"spbrzoskwinia@interia.pl","contact:website":"http:\/\/spbrzoskwinia.edupage.org","ref:regon":"122700830","ref:vatin":"PL9441418041","operator":"Bogus\u0142awa Mysiorska-Wolny","operator:type":"private","amenity":"kindergarten"}},{"id":55103,"type":"Feature","geometry":{"type":"Point","coordinates":[19.83661,50.09952]},"properties":{"isced:level":"1;2","ref:rspo":55103,"official_name":"Szko\u0142a Podstawowa im. Wandy Rutkiewicz w Rz\u0105sce","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"30-199","addr:city":"Rz\u0105ska","addr:street":"ul. Krakowska","addr:housenumber":"122","addr:teryt:simc":9796,"addr:teryt:sym_ul":343912,"contact:phone":"+48 126379390","contact:email":"sprzaska@gmail.com","contact:website":"http:\/\/www.sprzaska.zabierzow.org.pl","ref:regon":"001234579","ref:vatin":"PL9441963761","operator":"Gmina Zabierz\u00f3w","operator:type":"government","amenity":"school"}},{"id":87419,"type":"Feature","geometry":{"type":"Point","coordinates":[19.83661,50.099489999999996]},"properties":{"ref:rspo":87419,"official_name":"Przedszkole \"Kubusiowy \u015awiat II\"","name":"Przedszkole \"Kubusiowy \u015awiat II\"","addr:country":"PL","addr:postcode":"30-199","addr:city":"Rz\u0105ska","addr:street":"ul. Krakowska","addr:housenumber":"122","addr:teryt:simc":9796,"addr:teryt:sym_ul":343912,"contact:phone":"+48 880774477","contact:email":"kubusiowy.swiat@wp.pl","ref:regon":"122712625","ref:vatin":"PL5130170424","operator":"Dane Do Uzupe\u0142nienia","operator:type":"private","amenity":"kindergarten"}},{"id":277603,"type":"Feature","geometry":{"type":"Point","coordinates":[19.83177,50.10546]},"properties":{"ref:rspo":277603,"official_name":"Niepubliczne Przedszkole Radosne Smerfy w Rz\u0105sce","name":"Niepubliczne Przedszkole Radosne Smerfy w Rz\u0105sce","addr:country":"PL","addr:postcode":"31-199","addr:city":"Rz\u0105ska","addr:street":"ul. Sucha","addr:housenumber":"44","addr:teryt:simc":21489,"addr:teryt:sym_ul":343912,"contact:phone":"+48 693105726","contact:website":"http:\/\/www.radosnenutki.eu","ref:regon":"389188798","ref:vatin":"PL6780059821","operator":"Cezary Schiff","operator:type":"private","amenity":"kindergarten"}},{"id":5870,"type":"Feature","geometry":{"type":"Point","coordinates":[19.70641,50.1069]},"properties":{"isced:level":"1;2","ref:rspo":5870,"official_name":"Szko\u0142a Podstawowa im. Bohater\u00f3w Westerplatte w Nielepicach","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"32-064","addr:city":"Nielepice","addr:street":"ul. D\u0142uga","addr:housenumber":"17","addr:teryt:simc":3839,"addr:teryt:sym_ul":343869,"contact:phone":"+48 122838089","contact:email":"spniel@interia.pl","contact:website":"http:\/\/spnielepice.neostrada.pl","ref:regon":"001234527","ref:vatin":"PL9441963933","operator":"Gmina Zabierz\u00f3w","operator:type":"government","amenity":"school"}},{"id":5875,"type":"Feature","geometry":{"type":"Point","coordinates":[19.79731,50.11376]},"properties":{"ref:rspo":5875,"official_name":"Poradnia Psychologiczno-Pedagogiczna w Zabierzowie","name":"Poradnia Psychologiczno-Pedagogiczna w Zabierzowie","addr:country":"PL","addr:postcode":"32-080","addr:city":"Zabierz\u00f3w","addr:street":"ul. Cmentarna","addr:housenumber":"2","addr:teryt:simc":3114,"addr:teryt:sym_ul":344024,"contact:phone":"+48 122854020","contact:email":"johan.zabierzow@interia.pl","contact:website":"http:\/\/www.poradnia.zabierzow.org.pl","ref:regon":"350706074","ref:vatin":"PL6762054977","operator":"Gmina Zabierz\u00f3w","operator:type":"government","healthcare":"councelling","counselling_type":"education","fixme":"w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. healthcare=councelling + counselling_type=education albo healthcare=psychotherapist)"}},{"id":84049,"type":"Feature","geometry":{"type":"Point","coordinates":[19.7626,50.11644]},"properties":{"ref:rspo":84049,"official_name":"Pluszowy Mi\u015b Niepubliczne Przedszkole J\u0119zykowe Z Oddzia\u0142em Integracyjnym","name":"Pluszowy Mi\u015b Niepubliczne Przedszkole J\u0119zykowe Z Oddzia\u0142em Integracyjnym","addr:country":"PL","addr:postcode":"32-080","addr:city":"Zabierz\u00f3w","addr:street":"ul. \u015al\u0105ska","addr:housenumber":"334","addr:teryt:simc":22308,"addr:teryt:sym_ul":344024,"contact:phone":"+48 604554470","contact:email":"pluszowy.mis@gmail.com","contact:website":"http:\/\/www.pluszowymis.com","ref:regon":"122710431","ref:vatin":"PL5130178874","operator":"Pluszowy Mi\u015b S.c. Kazimierz Krasowski. Patrycja Krasowska-Morawiec","operator:type":"private","amenity":"kindergarten"}},{"id":123268,"type":"Feature","geometry":{"type":"Point","coordinates":[19.79908,50.11675]},"properties":{"ref:rspo":123268,"official_name":"Zesp\u00f3\u0142 Szkolno - Przedszkolny w Zabierzowie","name":"Zesp\u00f3\u0142 Szkolno - Przedszkolny w Zabierzowie","addr:country":"PL","addr:postcode":"32-080","addr:city":"Zabierz\u00f3w","addr:street":"ul. Kolejowa","addr:housenumber":"15","addr:teryt:simc":8828,"addr:teryt:sym_ul":344024,"contact:phone":"+48 122854887","contact:email":"spzabierzow1@wp.pl","contact:website":"http:\/\/zspzabierzow.pl","ref:regon":"123140361","ref:vatin":"PL5130238079","operator":"Gmina Zabierz\u00f3w","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 5873;5876"}},{"id":127467,"type":"Feature","geometry":{"type":"Point","coordinates":[19.79908,50.11672]},"properties":{"isced:level":"4","ref:rspo":127467,"official_name":"Policealna Szko\u0142a Zawodowa \"Edukator\" w Zabierzowie","name":"Policealna Szko\u0142a Zawodowa \"Edukator\" w Zabierzowie","addr:country":"PL","addr:postcode":"32-080","addr:city":"Zabierz\u00f3w","addr:street":"ul. Kolejowa","addr:housenumber":"15","addr:teryt:simc":8828,"addr:teryt:sym_ul":344024,"contact:phone":"+48 530533534","contact:email":"elzbietaseweryn@interia.pl","contact:website":"http:\/\/www.zabierzow.ckedukator.pl","ref:regon":"361636215","ref:vatin":"PL9451051300","operator":"El\u017cbieta Seweryn","operator:type":"private","amenity":"college"}},{"id":5873,"type":"Feature","geometry":{"type":"Point","coordinates":[19.79908,50.116690000000006]},"properties":{"isced:level":"1;2","ref:rspo":5873,"official_name":"Szko\u0142a Podstawowa im. Janusza Korczaka w Zabierzowie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"32-080","addr:city":"Zabierz\u00f3w","addr:street":"ul. Kolejowa","addr:housenumber":"15","addr:teryt:simc":8828,"addr:teryt:sym_ul":344024,"contact:phone":"+48 122854887","contact:email":"spzabierzow1@wp.pl","contact:website":"http:\/\/www.zspzabierzow.pl","ref:regon":"000273979","ref:vatin":"PL9441963318","operator":"Gmina Zabierz\u00f3w","operator:type":"government","amenity":"school","note":"Parent RSPO: 123268"}},{"id":5876,"type":"Feature","geometry":{"type":"Point","coordinates":[19.79617,50.11679]},"properties":{"ref:rspo":5876,"official_name":"Przedszkole Samorz\u0105dowe Z Oddzia\u0142ami Integracyjnymi w Zabierzowie","name":"Przedszkole Samorz\u0105dowe Z Oddzia\u0142ami Integracyjnymi w Zabierzowie","addr:country":"PL","addr:postcode":"32-080","addr:city":"Zabierz\u00f3w","addr:street":"ul. Sportowa","addr:housenumber":"15","addr:teryt:simc":20683,"addr:teryt:sym_ul":344024,"contact:phone":"+48 123972240","contact:email":"przedszkole_zabierzow@interia.pl","contact:website":"http:\/\/www.przedszkole.zabierzow.pl","ref:regon":"121417568","ref:vatin":"PL5130217309","operator":"Gmina Zabierz\u00f3w","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 123268"}},{"id":83399,"type":"Feature","geometry":{"type":"Point","coordinates":[19.79923,50.11727]},"properties":{"ref:rspo":83399,"official_name":"Szko\u0142a J\u0119zyka Angielskiego \"Best Friend\"","name":"Szko\u0142a J\u0119zyka Angielskiego \"Best Friend\"","addr:country":"PL","addr:postcode":"32-080","addr:city":"Zabierz\u00f3w","addr:street":"ul. Kolejowa","addr:housenumber":"15a","addr:teryt:simc":8828,"addr:teryt:sym_ul":344024,"contact:phone":"+48 122854602","contact:email":"szkola@bestfriend.edu.pl","contact:website":"http:\/\/www.bestfriend.edu.pl","ref:regon":"122709557","ref:vatin":"PL5130062545","operator":"\"Best Friend\" S.c. Dorota Lipiarska,Joanna Zawadzi\u0144ska-\u017byra","operator:type":"consortium","fixme":"w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. amenity=training + training=*, amenity=dancing_school, amenity=language_school, amenity=music_school)"}},{"id":84549,"type":"Feature","geometry":{"type":"Point","coordinates":[19.76976,50.11764]},"properties":{"ref:rspo":84549,"official_name":"Integracyjne Przedszkole Niepubliczne Eko-Ludki","name":"Integracyjne Przedszkole Niepubliczne Eko-Ludki","addr:country":"PL","addr:postcode":"32-080","addr:city":"Zabierz\u00f3w","addr:street":"ul. \u015al\u0105ska","addr:housenumber":"262","addr:teryt:simc":22308,"addr:teryt:sym_ul":344024,"contact:phone":"+48 122851482","contact:email":"barbaradziurdzia@wp.pl","contact:website":"http:\/\/www.ekoludki-przedszkole.pl","ref:regon":"122710483","ref:vatin":"PL8721906657","operator":"Dane Do Uzupe\u0142nienia","operator:type":"private","amenity":"kindergarten"}},{"id":272274,"type":"Feature","geometry":{"type":"Point","coordinates":[19.7144,50.12025]},"properties":{"ref:rspo":272274,"official_name":"Niepubliczna Plac\u00f3wka O\u015bwiatowo-Wychowawcza Frygi Drygi","name":"Niepubliczna Plac\u00f3wka O\u015bwiatowo-Wychowawcza Frygi Drygi","addr:country":"PL","addr:postcode":"32-080","addr:city":"Zabierz\u00f3w","addr:street":"os. Henryka Sienkiewicza","addr:housenumber":"8","addr:teryt:simc":19832,"addr:teryt:sym_ul":344024,"contact:phone":"+48 696007241","contact:email":"frygidrygi@vp.pl","contact:website":"http:\/\/frygidrygi.com","ref:regon":"384073381","ref:vatin":"PL5130070929","operator":"Natalia Kubica-Lupa","operator:type":"private","fixme":"w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. amenity=training + training=*, amenity=dancing_school, amenity=language_school, amenity=music_school)"}},{"id":55709,"type":"Feature","geometry":{"type":"Point","coordinates":[19.70777,50.12291]},"properties":{"isced:level":"1;2","ref:rspo":55709,"official_name":"Szko\u0142a Podstawowa im. Armii Krajowej w Rudawie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"32-064","addr:city":"Rudawa","addr:street":"ul. Stanis\u0142awa Polaczka","addr:housenumber":"25","addr:teryt:simc":16964,"addr:teryt:sym_ul":343941,"contact:phone":"+48 122839550","contact:email":"zssekretariat@poczta.onet.pl","contact:website":"http:\/\/www.sprudawa.zabierzow.org.pl","ref:regon":"001234556","ref:vatin":"PL9441963749","operator":"Gmina Zabierz\u00f3w","operator:type":"government","amenity":"school"}},{"id":75522,"type":"Feature","geometry":{"type":"Point","coordinates":[19.70712,50.12312]},"properties":{"ref:rspo":75522,"official_name":"Przedszkole Niepubliczne Zgromadzenia Si\u00f3str S\u0142u\u017cebniczek Nmp Np","name":"Przedszkole Niepubliczne Zgromadzenia Si\u00f3str S\u0142u\u017cebniczek Nmp Np","addr:country":"PL","addr:postcode":"32-064","addr:city":"Rudawa","addr:street":"ul. Stanis\u0142awa Polaczka","addr:housenumber":"27","addr:teryt:simc":16964,"addr:teryt:sym_ul":343941,"contact:phone":"+48 122838050","ref:regon":"122711459","ref:vatin":"PL9441968362","operator":"Zgromadzenie Si\u00f3str S\u0142u\u017cebniczek Naj\u015bwi\u0119tszej Maryi Panny Niepokalanie Pocz\u0119tej, Prowincja Krakowska","operator:type":"religious","amenity":"kindergarten"}},{"id":5868,"type":"Feature","geometry":{"type":"Point","coordinates":[19.82226,50.12447]},"properties":{"isced:level":"1;2","ref:rspo":5868,"official_name":"Szko\u0142a Podstawowa im. Tadeusza Ko\u015bciuszki w Brzeziu","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"32-080","addr:city":"Brzezie","addr:street":"ul. Szkolna","addr:housenumber":"1","addr:teryt:simc":21970,"addr:teryt:sym_ul":343645,"contact:phone":"+48 122851181","contact:email":"spbrzezie@poczta.onet.pl","contact:website":"http:\/\/spbrzezie.edupage.org","ref:regon":"001234585","ref:vatin":"PL9441963726","operator":"Gmina Zabierz\u00f3w","operator:type":"government","amenity":"school"}},{"id":71235,"type":"Feature","geometry":{"type":"Point","coordinates":[19.80606,50.12755]},"properties":{"ref:rspo":71235,"official_name":"Niepubliczne Przedszkole Fantazja","name":"Niepubliczne Przedszkole Fantazja","addr:country":"PL","addr:postcode":"32-082","addr:city":"Bolechowice","addr:street":"ul. Zielona","addr:housenumber":"2a","addr:teryt:simc":26081,"addr:teryt:sym_ul":343562,"contact:phone":"+48 123784050","contact:email":"kontakt@fantazja-dzieci.pl","contact:website":"http:\/\/www.fantazja-dzieci.pl","ref:regon":"122699422","ref:vatin":"PL5130135497","operator":"Mwm - Investor Sp\u00f3\u0142ka Z Ograniczon\u0105 Odpowiedzialno\u015bci\u0105","operator:type":"private","amenity":"kindergarten"}},{"id":123535,"type":"Feature","geometry":{"type":"Point","coordinates":[19.80606,50.12752]},"properties":{"isced:level":"1;2","ref:rspo":123535,"official_name":"Niepubliczna Szko\u0142a Podstawowa Horyzont","name":"Niepubliczna Szko\u0142a Podstawowa Horyzont","addr:country":"PL","addr:postcode":"32-082","addr:city":"Bolechowice","addr:street":"ul. Zielona","addr:housenumber":"2A","addr:teryt:simc":26081,"addr:teryt:sym_ul":343562,"contact:phone":"+48 123784050","contact:email":"szkola.horyzont@gmail.com","contact:website":"http:\/\/www.fantazja-dzieci.pl","ref:regon":"123161788","ref:vatin":"PL5130135497","operator":"Mwm - Investor Sp\u00f3\u0142ka Z Ograniczon\u0105 Odpowiedzialno\u015bci\u0105","operator:type":"private","amenity":"school"}},{"id":5869,"type":"Feature","geometry":{"type":"Point","coordinates":[19.76327,50.14645]},"properties":{"isced:level":"1;2","ref:rspo":5869,"official_name":"Szko\u0142a Podstawowa im. Por. Piotra Olka Ps. \"Go\u0142\u0105b\" w Kobylanach","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"32-082","addr:city":"Kobylany","addr:street":"ul. Jana Paw\u0142a II","addr:housenumber":"61","addr:teryt:simc":7123,"addr:teryt:sym_ul":343786,"contact:phone":"+48 122852027","contact:email":"sekretariat@spkobylany.edu.pl","contact:website":"http:\/\/www.spkobylany.edu.pl","ref:regon":"001234303","ref:vatin":"PL9441963695","operator":"Gmina Zabierz\u00f3w","operator:type":"government","amenity":"school"}},{"id":5867,"type":"Feature","geometry":{"type":"Point","coordinates":[19.79343,50.1475099]},"properties":{"isced:level":"1;2","ref:rspo":5867,"official_name":"Szko\u0142a Podstawowa Imienia Ks. J\u00f3zefa Poniatowskiego w Bolechowicach","name":"Szko\u0142a Podstawowa Imienia Ks. J\u00f3zefa Poniatowskiego w Bolechowicach","addr:country":"PL","addr:postcode":"32-082","addr:city":"Bolechowice","addr:street":"ul. Szkolna","addr:housenumber":"7","addr:teryt:simc":21970,"addr:teryt:sym_ul":343562,"contact:phone":"+48 122851184","contact:email":"spbolechowice@interia.pl","contact:website":"http:\/\/www.spbolechowice.zabierzow.org.pl","ref:regon":"001234562","ref:vatin":"PL9441963867","operator":"Gmina Zabierz\u00f3w","operator:type":"government","amenity":"school"}},{"id":75719,"type":"Feature","geometry":{"type":"Point","coordinates":[19.79233,50.14811]},"properties":{"ref:rspo":75719,"official_name":"Prywatne Przedszkole \"Magnificat\" Zgromadzenia Si\u00f3str S\u0142u\u017cebnic Nawiedzenia","name":"Prywatne Przedszkole \"Magnificat\" Zgromadzenia Si\u00f3str S\u0142u\u017cebnic Nawiedzenia","addr:country":"PL","addr:postcode":"32-082","addr:city":"Bolechowice","addr:street":"ul. Ko\u015bcielna","addr:housenumber":"18","addr:teryt:simc":9546,"addr:teryt:sym_ul":343562,"contact:phone":"+48 122854893","contact:email":"przedszkolebolechowice@op.pl","ref:regon":"122711465","ref:vatin":"PL5130021782","operator":"Zgromadzenie Si\u00f3str S\u0142u\u017cebnic Nawiedzenia","operator:type":"religious","amenity":"kindergarten"}},{"id":73310,"type":"Feature","geometry":{"type":"Point","coordinates":[19.71249,50.14895]},"properties":{"isced:level":"1;2","ref:rspo":73310,"official_name":"Integracyjna Szko\u0142a Podstawowa im. Ofiar Pacyfikacji w Radwanowicach","name":"Integracyjna Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"32-064","addr:city":"Radwanowice","addr:street":"ul. Szkolna","addr:housenumber":"6","addr:teryt:simc":21970,"addr:teryt:sym_ul":343881,"contact:phone":"+48 122838346","contact:email":"szkola@integracyjna.org","contact:website":"http:\/\/www.integracyjna.org","ref:regon":"122706398","ref:vatin":"PL5130009686","operator":"O\u015bwiatowe Towarzystwo Integracyjne W Radwanowicach","operator:type":"ngo","amenity":"school"}},{"id":73514,"type":"Feature","geometry":{"type":"Point","coordinates":[19.71249,50.14892]},"properties":{"ref:rspo":73514,"official_name":"Niepubliczne Przedszkole w Radwanowicach","name":"Niepubliczne Przedszkole w Radwanowicach","addr:country":"PL","addr:postcode":"32-064","addr:city":"Radwanowice","addr:street":"ul. Szkolna","addr:housenumber":"6","addr:teryt:simc":21970,"addr:teryt:sym_ul":343881,"contact:phone":"+48 122838346","contact:email":"szkola@integracyjna.org","contact:website":"http:\/\/www.integracyjna.org","ref:regon":"122706406","ref:vatin":"PL5130009686","operator":"O\u015bwiatowe Towarzystwo Integracyjne W Radwanowicach","operator:type":"ngo","amenity":"kindergarten"}},{"id":84882,"type":"Feature","geometry":{"type":"Point","coordinates":[19.79419,50.15878]},"properties":{"ref:rspo":84882,"official_name":"Prywatne Przedszkole \"S\u0142oneczne Wzg\u00f3rze\"","name":"Prywatne Przedszkole \"S\u0142oneczne Wzg\u00f3rze\"","addr:country":"PL","addr:postcode":"32-082","addr:city":"Zelk\u00f3w","addr:street":"ul. Jana Paw\u0142a II","addr:housenumber":"22","addr:teryt:simc":7123,"addr:teryt:sym_ul":344030,"contact:phone":"+48 122830923","contact:email":"przedszkole@slonecznewzgorze.pl","contact:website":"http:\/\/www.slonecznewzgorze.pl","ref:regon":"122711590","ref:vatin":"PL5130237430","operator":"Krzysztof Figiel","operator:type":"private","amenity":"kindergarten"}},{"id":84883,"type":"Feature","geometry":{"type":"Point","coordinates":[19.79419,50.15875]},"properties":{"isced:level":"1;2","ref:rspo":84883,"official_name":"Niepubliczna Szko\u0142a Podstawowa w Zelkowie","name":"Niepubliczna Szko\u0142a Podstawowa w Zelkowie","addr:country":"PL","addr:postcode":"32-082","addr:city":"Zelk\u00f3w","addr:street":"ul. Jana Paw\u0142a II","addr:housenumber":"22","addr:teryt:simc":7123,"addr:teryt:sym_ul":344030,"contact:phone":"+48 122830923","contact:email":"szkola@slonecznewzgorze.pl","contact:website":"http:\/\/www.slonecznewzgorze.pl","ref:regon":"122711614","ref:vatin":"PL5130237447","operator":"Krzysztof Figiel","operator:type":"private","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 266623,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.800287,
+                    50.072091
+                ]
+            },
+            "properties": {
+                "ref:rspo": 266623,
+                "official_name": "O\u015brodek Szkolenia Krak\u00f3w-Airport",
+                "name": "O\u015brodek Szkolenia Krak\u00f3w-Airport",
+                "addr:country": "PL",
+                "addr:postcode": "32-083",
+                "addr:city": "Balice",
+                "addr:street": "ul. kpt. Mieczys\u0142awa Medweckiego",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 30445,
+                "addr:teryt:sym_ul": 343533,
+                "contact:phone": "+48 126393300",
+                "contact:email": "przepustki@krakowairport.pl",
+                "contact:website": "http:\/\/www.krakowairport.pl",
+                "ref:regon": "369611255",
+                "operator": "Mi\u0119dzynarodowy Port Lotniczy Im. Jana Paw\u0142a Ii Krak\u00f3w-Balice Sp\u00f3\u0142ka Z Ograniczon\u0105 Odpowiedzialno\u015bci\u0105",
+                "operator:type": "private",
+                "fixme": "w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. amenity=training + training=*, amenity=dancing_school, amenity=language_school, amenity=music_school)"
+            }
+        },
+        {
+            "id": 5866,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.7939,
+                    50.08561
+                ]
+            },
+            "properties": {
+                "ref:rspo": 5866,
+                "official_name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w Balicach",
+                "name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w Balicach",
+                "addr:country": "PL",
+                "addr:postcode": "32-083",
+                "addr:city": "Balice",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "66",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 343533,
+                "contact:phone": "+48 122856025",
+                "contact:email": "sp_balice@op.pl",
+                "contact:website": "http:\/\/www.spbalice.zabierzow.org.pl",
+                "ref:regon": "121285894",
+                "ref:vatin": "PL5130209310",
+                "operator": "Gmina Zabierz\u00f3w",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 55701;55702"
+            }
+        },
+        {
+            "id": 55701,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.7939,
+                    50.08558
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 55701,
+                "official_name": "Szko\u0142a Podstawowa w Balicach",
+                "name": "Szko\u0142a Podstawowa w Balicach",
+                "addr:country": "PL",
+                "addr:postcode": "32-083",
+                "addr:city": "Balice",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "66",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 343533,
+                "contact:phone": "+48 122856025",
+                "contact:email": "sp_balice@op.pl",
+                "ref:regon": "001234504",
+                "ref:vatin": "PL9441963703",
+                "operator": "Gmina Zabierz\u00f3w",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 5866"
+            }
+        },
+        {
+            "id": 55702,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.7939,
+                    50.085550000000005
+                ]
+            },
+            "properties": {
+                "ref:rspo": 55702,
+                "official_name": "Przedszkole Samorz\u0105dowe w Balicach",
+                "name": "Przedszkole Samorz\u0105dowe w Balicach",
+                "addr:country": "PL",
+                "addr:postcode": "32-083",
+                "addr:city": "Balice",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "66",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 343533,
+                "contact:phone": "+48 122856025",
+                "contact:email": "sp_balice@op.pl",
+                "contact:website": "http:\/\/www.spbalice.zabierzow.org.pl",
+                "ref:regon": "121285345",
+                "ref:vatin": "PL5130168054",
+                "operator": "Gmina Zabierz\u00f3w",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 5866"
+            }
+        },
+        {
+            "id": 120104,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.79917,
+                    50.09005
+                ]
+            },
+            "properties": {
+                "ref:rspo": 120104,
+                "official_name": "Niepubliczne Przedszkole J\u0119zykowe Akademia Ma\u0142ych Tygrysk\u00f3w",
+                "name": "Niepubliczne Przedszkole J\u0119zykowe Akademia Ma\u0142ych Tygrysk\u00f3w",
+                "addr:country": "PL",
+                "addr:postcode": "32-083",
+                "addr:city": "Balice",
+                "addr:street": "ul. Akacjowa",
+                "addr:housenumber": "46",
+                "addr:teryt:simc": 157,
+                "addr:teryt:sym_ul": 343533,
+                "contact:email": "balice@maletygryski.pl",
+                "contact:website": "http:\/\/www.maletygryski.pl",
+                "ref:regon": "122949913",
+                "operator": "Kinga Grzybowska",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 129045,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.78767,
+                    50.09034
+                ]
+            },
+            "properties": {
+                "ref:rspo": 129045,
+                "official_name": "Niepubliczne Przedszkole \"Radosne Nutki\"",
+                "name": "Niepubliczne Przedszkole \"Radosne Nutki\"",
+                "addr:country": "PL",
+                "addr:postcode": "32-080",
+                "addr:city": "Zabierz\u00f3w",
+                "addr:street": "ul. Le\u015bna",
+                "addr:housenumber": "2a",
+                "addr:teryt:simc": 10898,
+                "addr:teryt:sym_ul": 344024,
+                "contact:phone": "+48 693616661",
+                "contact:email": "cezary@e-cezar.pl",
+                "contact:website": "http:\/\/radosnenutki.pl",
+                "ref:regon": "362459040",
+                "operator": "Eureka 41 Sp\u00f3\u0142ka Z Ograniczon\u0105 Odpowiedzialno\u015bci\u0105",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 56731,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.7079,
+                    50.09345
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 56731,
+                "official_name": "Publiczna Szko\u0142a Podstawowa im. Marii Konopnickiej w Brzoskwinii",
+                "name": "Publiczna Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "32-084",
+                "addr:city": "Brzoskwinia",
+                "addr:street": "ul. im. Tadeusza Sko\u0142uby",
+                "addr:housenumber": "7",
+                "addr:teryt:simc": 55754,
+                "addr:teryt:sym_ul": 343674,
+                "contact:phone": "+48 122839121",
+                "contact:email": "spbrzoskwinia@interia.pl",
+                "contact:website": "http:\/\/spbrzoskwinia.edupage.org",
+                "ref:regon": "122691099",
+                "ref:vatin": "PL9441418041",
+                "operator": "Bogus\u0142awa Mysiorska-Wolny",
+                "operator:type": "private",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 57073,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.7079,
+                    50.093419999999995
+                ]
+            },
+            "properties": {
+                "ref:rspo": 57073,
+                "official_name": "Niepubliczny Punkt Przedszkolny \"Bajkowy \u015awiat\"",
+                "name": "Niepubliczny Punkt Przedszkolny \"Bajkowy \u015awiat\"",
+                "addr:country": "PL",
+                "addr:postcode": "32-084",
+                "addr:city": "Brzoskwinia",
+                "addr:street": "ul. im. Tadeusza Sko\u0142uby",
+                "addr:housenumber": "7",
+                "addr:teryt:simc": 55754,
+                "addr:teryt:sym_ul": 343674,
+                "contact:phone": "+48 122839121",
+                "contact:email": "spbrzoskwinia@interia.pl",
+                "contact:website": "http:\/\/spbrzoskwinia.edupage.org",
+                "ref:regon": "122700830",
+                "ref:vatin": "PL9441418041",
+                "operator": "Bogus\u0142awa Mysiorska-Wolny",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 55103,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.83661,
+                    50.09952
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 55103,
+                "official_name": "Szko\u0142a Podstawowa im. Wandy Rutkiewicz w Rz\u0105sce",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "30-199",
+                "addr:city": "Rz\u0105ska",
+                "addr:street": "ul. Krakowska",
+                "addr:housenumber": "122",
+                "addr:teryt:simc": 9796,
+                "addr:teryt:sym_ul": 343912,
+                "contact:phone": "+48 126379390",
+                "contact:email": "sprzaska@gmail.com",
+                "contact:website": "http:\/\/www.sprzaska.zabierzow.org.pl",
+                "ref:regon": "001234579",
+                "ref:vatin": "PL9441963761",
+                "operator": "Gmina Zabierz\u00f3w",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 87419,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.83661,
+                    50.099489999999996
+                ]
+            },
+            "properties": {
+                "ref:rspo": 87419,
+                "official_name": "Przedszkole \"Kubusiowy \u015awiat II\"",
+                "name": "Przedszkole \"Kubusiowy \u015awiat II\"",
+                "addr:country": "PL",
+                "addr:postcode": "30-199",
+                "addr:city": "Rz\u0105ska",
+                "addr:street": "ul. Krakowska",
+                "addr:housenumber": "122",
+                "addr:teryt:simc": 9796,
+                "addr:teryt:sym_ul": 343912,
+                "contact:phone": "+48 880774477",
+                "contact:email": "kubusiowy.swiat@wp.pl",
+                "ref:regon": "122712625",
+                "ref:vatin": "PL5130170424",
+                "operator": "Dane Do Uzupe\u0142nienia",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 277603,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.83177,
+                    50.10546
+                ]
+            },
+            "properties": {
+                "ref:rspo": 277603,
+                "official_name": "Niepubliczne Przedszkole Radosne Smerfy w Rz\u0105sce",
+                "name": "Niepubliczne Przedszkole Radosne Smerfy w Rz\u0105sce",
+                "addr:country": "PL",
+                "addr:postcode": "31-199",
+                "addr:city": "Rz\u0105ska",
+                "addr:street": "ul. Sucha",
+                "addr:housenumber": "44",
+                "addr:teryt:simc": 21489,
+                "addr:teryt:sym_ul": 343912,
+                "contact:phone": "+48 693105726",
+                "contact:website": "http:\/\/www.radosnenutki.eu",
+                "ref:regon": "389188798",
+                "ref:vatin": "PL6780059821",
+                "operator": "Cezary Schiff",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 5870,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.70641,
+                    50.1069
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 5870,
+                "official_name": "Szko\u0142a Podstawowa im. Bohater\u00f3w Westerplatte w Nielepicach",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "32-064",
+                "addr:city": "Nielepice",
+                "addr:street": "ul. D\u0142uga",
+                "addr:housenumber": "17",
+                "addr:teryt:simc": 3839,
+                "addr:teryt:sym_ul": 343869,
+                "contact:phone": "+48 122838089",
+                "contact:email": "spniel@interia.pl",
+                "contact:website": "http:\/\/spnielepice.neostrada.pl",
+                "ref:regon": "001234527",
+                "ref:vatin": "PL9441963933",
+                "operator": "Gmina Zabierz\u00f3w",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 5875,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.79731,
+                    50.11376
+                ]
+            },
+            "properties": {
+                "ref:rspo": 5875,
+                "official_name": "Poradnia Psychologiczno-Pedagogiczna w Zabierzowie",
+                "name": "Poradnia Psychologiczno-Pedagogiczna w Zabierzowie",
+                "addr:country": "PL",
+                "addr:postcode": "32-080",
+                "addr:city": "Zabierz\u00f3w",
+                "addr:street": "ul. Cmentarna",
+                "addr:housenumber": "2",
+                "addr:teryt:simc": 3114,
+                "addr:teryt:sym_ul": 344024,
+                "contact:phone": "+48 122854020",
+                "contact:email": "johan.zabierzow@interia.pl",
+                "contact:website": "http:\/\/www.poradnia.zabierzow.org.pl",
+                "ref:regon": "350706074",
+                "ref:vatin": "PL6762054977",
+                "operator": "Gmina Zabierz\u00f3w",
+                "operator:type": "government",
+                "healthcare": "counselling",
+                "counselling_type": "education",
+                "fixme": "w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. healthcare=counselling + counselling_type=education albo healthcare=psychotherapist)"
+            }
+        },
+        {
+            "id": 84049,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.7626,
+                    50.11644
+                ]
+            },
+            "properties": {
+                "ref:rspo": 84049,
+                "official_name": "Pluszowy Mi\u015b Niepubliczne Przedszkole J\u0119zykowe Z Oddzia\u0142em Integracyjnym",
+                "name": "Pluszowy Mi\u015b Niepubliczne Przedszkole J\u0119zykowe Z Oddzia\u0142em Integracyjnym",
+                "addr:country": "PL",
+                "addr:postcode": "32-080",
+                "addr:city": "Zabierz\u00f3w",
+                "addr:street": "ul. \u015al\u0105ska",
+                "addr:housenumber": "334",
+                "addr:teryt:simc": 22308,
+                "addr:teryt:sym_ul": 344024,
+                "contact:phone": "+48 604554470",
+                "contact:email": "pluszowy.mis@gmail.com",
+                "contact:website": "http:\/\/www.pluszowymis.com",
+                "ref:regon": "122710431",
+                "ref:vatin": "PL5130178874",
+                "operator": "Pluszowy Mi\u015b S.c. Kazimierz Krasowski. Patrycja Krasowska-Morawiec",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 123268,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.79908,
+                    50.11675
+                ]
+            },
+            "properties": {
+                "ref:rspo": 123268,
+                "official_name": "Zesp\u00f3\u0142 Szkolno - Przedszkolny w Zabierzowie",
+                "name": "Zesp\u00f3\u0142 Szkolno - Przedszkolny w Zabierzowie",
+                "addr:country": "PL",
+                "addr:postcode": "32-080",
+                "addr:city": "Zabierz\u00f3w",
+                "addr:street": "ul. Kolejowa",
+                "addr:housenumber": "15",
+                "addr:teryt:simc": 8828,
+                "addr:teryt:sym_ul": 344024,
+                "contact:phone": "+48 122854887",
+                "contact:email": "spzabierzow1@wp.pl",
+                "contact:website": "http:\/\/zspzabierzow.pl",
+                "ref:regon": "123140361",
+                "ref:vatin": "PL5130238079",
+                "operator": "Gmina Zabierz\u00f3w",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 5873;5876"
+            }
+        },
+        {
+            "id": 127467,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.79908,
+                    50.11672
+                ]
+            },
+            "properties": {
+                "isced:level": "4",
+                "ref:rspo": 127467,
+                "official_name": "Policealna Szko\u0142a Zawodowa \"Edukator\" w Zabierzowie",
+                "name": "Policealna Szko\u0142a Zawodowa \"Edukator\" w Zabierzowie",
+                "addr:country": "PL",
+                "addr:postcode": "32-080",
+                "addr:city": "Zabierz\u00f3w",
+                "addr:street": "ul. Kolejowa",
+                "addr:housenumber": "15",
+                "addr:teryt:simc": 8828,
+                "addr:teryt:sym_ul": 344024,
+                "contact:phone": "+48 530533534",
+                "contact:email": "elzbietaseweryn@interia.pl",
+                "contact:website": "http:\/\/www.zabierzow.ckedukator.pl",
+                "ref:regon": "361636215",
+                "ref:vatin": "PL9451051300",
+                "operator": "El\u017cbieta Seweryn",
+                "operator:type": "private",
+                "amenity": "college"
+            }
+        },
+        {
+            "id": 5873,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.79908,
+                    50.116690000000006
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 5873,
+                "official_name": "Szko\u0142a Podstawowa im. Janusza Korczaka w Zabierzowie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "32-080",
+                "addr:city": "Zabierz\u00f3w",
+                "addr:street": "ul. Kolejowa",
+                "addr:housenumber": "15",
+                "addr:teryt:simc": 8828,
+                "addr:teryt:sym_ul": 344024,
+                "contact:phone": "+48 122854887",
+                "contact:email": "spzabierzow1@wp.pl",
+                "contact:website": "http:\/\/www.zspzabierzow.pl",
+                "ref:regon": "000273979",
+                "ref:vatin": "PL9441963318",
+                "operator": "Gmina Zabierz\u00f3w",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 123268"
+            }
+        },
+        {
+            "id": 5876,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.79617,
+                    50.11679
+                ]
+            },
+            "properties": {
+                "ref:rspo": 5876,
+                "official_name": "Przedszkole Samorz\u0105dowe Z Oddzia\u0142ami Integracyjnymi w Zabierzowie",
+                "name": "Przedszkole Samorz\u0105dowe Z Oddzia\u0142ami Integracyjnymi w Zabierzowie",
+                "addr:country": "PL",
+                "addr:postcode": "32-080",
+                "addr:city": "Zabierz\u00f3w",
+                "addr:street": "ul. Sportowa",
+                "addr:housenumber": "15",
+                "addr:teryt:simc": 20683,
+                "addr:teryt:sym_ul": 344024,
+                "contact:phone": "+48 123972240",
+                "contact:email": "przedszkole_zabierzow@interia.pl",
+                "contact:website": "http:\/\/www.przedszkole.zabierzow.pl",
+                "ref:regon": "121417568",
+                "ref:vatin": "PL5130217309",
+                "operator": "Gmina Zabierz\u00f3w",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 123268"
+            }
+        },
+        {
+            "id": 83399,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.79923,
+                    50.11727
+                ]
+            },
+            "properties": {
+                "ref:rspo": 83399,
+                "official_name": "Szko\u0142a J\u0119zyka Angielskiego \"Best Friend\"",
+                "name": "Szko\u0142a J\u0119zyka Angielskiego \"Best Friend\"",
+                "addr:country": "PL",
+                "addr:postcode": "32-080",
+                "addr:city": "Zabierz\u00f3w",
+                "addr:street": "ul. Kolejowa",
+                "addr:housenumber": "15a",
+                "addr:teryt:simc": 8828,
+                "addr:teryt:sym_ul": 344024,
+                "contact:phone": "+48 122854602",
+                "contact:email": "szkola@bestfriend.edu.pl",
+                "contact:website": "http:\/\/www.bestfriend.edu.pl",
+                "ref:regon": "122709557",
+                "ref:vatin": "PL5130062545",
+                "operator": "\"Best Friend\" S.c. Dorota Lipiarska,Joanna Zawadzi\u0144ska-\u017byra",
+                "operator:type": "consortium",
+                "fixme": "w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. amenity=training + training=*, amenity=dancing_school, amenity=language_school, amenity=music_school)"
+            }
+        },
+        {
+            "id": 84549,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.76976,
+                    50.11764
+                ]
+            },
+            "properties": {
+                "ref:rspo": 84549,
+                "official_name": "Integracyjne Przedszkole Niepubliczne Eko-Ludki",
+                "name": "Integracyjne Przedszkole Niepubliczne Eko-Ludki",
+                "addr:country": "PL",
+                "addr:postcode": "32-080",
+                "addr:city": "Zabierz\u00f3w",
+                "addr:street": "ul. \u015al\u0105ska",
+                "addr:housenumber": "262",
+                "addr:teryt:simc": 22308,
+                "addr:teryt:sym_ul": 344024,
+                "contact:phone": "+48 122851482",
+                "contact:email": "barbaradziurdzia@wp.pl",
+                "contact:website": "http:\/\/www.ekoludki-przedszkole.pl",
+                "ref:regon": "122710483",
+                "ref:vatin": "PL8721906657",
+                "operator": "Dane Do Uzupe\u0142nienia",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 272274,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.7144,
+                    50.12025
+                ]
+            },
+            "properties": {
+                "ref:rspo": 272274,
+                "official_name": "Niepubliczna Plac\u00f3wka O\u015bwiatowo-Wychowawcza Frygi Drygi",
+                "name": "Niepubliczna Plac\u00f3wka O\u015bwiatowo-Wychowawcza Frygi Drygi",
+                "addr:country": "PL",
+                "addr:postcode": "32-080",
+                "addr:city": "Zabierz\u00f3w",
+                "addr:street": "os. Henryka Sienkiewicza",
+                "addr:housenumber": "8",
+                "addr:teryt:simc": 19832,
+                "addr:teryt:sym_ul": 344024,
+                "contact:phone": "+48 696007241",
+                "contact:email": "frygidrygi@vp.pl",
+                "contact:website": "http:\/\/frygidrygi.com",
+                "ref:regon": "384073381",
+                "ref:vatin": "PL5130070929",
+                "operator": "Natalia Kubica-Lupa",
+                "operator:type": "private",
+                "fixme": "w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. amenity=training + training=*, amenity=dancing_school, amenity=language_school, amenity=music_school)"
+            }
+        },
+        {
+            "id": 55709,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.70777,
+                    50.12291
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 55709,
+                "official_name": "Szko\u0142a Podstawowa im. Armii Krajowej w Rudawie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "32-064",
+                "addr:city": "Rudawa",
+                "addr:street": "ul. Stanis\u0142awa Polaczka",
+                "addr:housenumber": "25",
+                "addr:teryt:simc": 16964,
+                "addr:teryt:sym_ul": 343941,
+                "contact:phone": "+48 122839550",
+                "contact:email": "zssekretariat@poczta.onet.pl",
+                "contact:website": "http:\/\/www.sprudawa.zabierzow.org.pl",
+                "ref:regon": "001234556",
+                "ref:vatin": "PL9441963749",
+                "operator": "Gmina Zabierz\u00f3w",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 75522,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.70712,
+                    50.12312
+                ]
+            },
+            "properties": {
+                "ref:rspo": 75522,
+                "official_name": "Przedszkole Niepubliczne Zgromadzenia Si\u00f3str S\u0142u\u017cebniczek Nmp Np",
+                "name": "Przedszkole Niepubliczne Zgromadzenia Si\u00f3str S\u0142u\u017cebniczek Nmp Np",
+                "addr:country": "PL",
+                "addr:postcode": "32-064",
+                "addr:city": "Rudawa",
+                "addr:street": "ul. Stanis\u0142awa Polaczka",
+                "addr:housenumber": "27",
+                "addr:teryt:simc": 16964,
+                "addr:teryt:sym_ul": 343941,
+                "contact:phone": "+48 122838050",
+                "ref:regon": "122711459",
+                "ref:vatin": "PL9441968362",
+                "operator": "Zgromadzenie Si\u00f3str S\u0142u\u017cebniczek Naj\u015bwi\u0119tszej Maryi Panny Niepokalanie Pocz\u0119tej, Prowincja Krakowska",
+                "operator:type": "religious",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 5868,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.82226,
+                    50.12447
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 5868,
+                "official_name": "Szko\u0142a Podstawowa im. Tadeusza Ko\u015bciuszki w Brzeziu",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "32-080",
+                "addr:city": "Brzezie",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 343645,
+                "contact:phone": "+48 122851181",
+                "contact:email": "spbrzezie@poczta.onet.pl",
+                "contact:website": "http:\/\/spbrzezie.edupage.org",
+                "ref:regon": "001234585",
+                "ref:vatin": "PL9441963726",
+                "operator": "Gmina Zabierz\u00f3w",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 71235,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.80606,
+                    50.12755
+                ]
+            },
+            "properties": {
+                "ref:rspo": 71235,
+                "official_name": "Niepubliczne Przedszkole Fantazja",
+                "name": "Niepubliczne Przedszkole Fantazja",
+                "addr:country": "PL",
+                "addr:postcode": "32-082",
+                "addr:city": "Bolechowice",
+                "addr:street": "ul. Zielona",
+                "addr:housenumber": "2a",
+                "addr:teryt:simc": 26081,
+                "addr:teryt:sym_ul": 343562,
+                "contact:phone": "+48 123784050",
+                "contact:email": "kontakt@fantazja-dzieci.pl",
+                "contact:website": "http:\/\/www.fantazja-dzieci.pl",
+                "ref:regon": "122699422",
+                "ref:vatin": "PL5130135497",
+                "operator": "Mwm - Investor Sp\u00f3\u0142ka Z Ograniczon\u0105 Odpowiedzialno\u015bci\u0105",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 123535,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.80606,
+                    50.12752
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 123535,
+                "official_name": "Niepubliczna Szko\u0142a Podstawowa Horyzont",
+                "name": "Niepubliczna Szko\u0142a Podstawowa Horyzont",
+                "addr:country": "PL",
+                "addr:postcode": "32-082",
+                "addr:city": "Bolechowice",
+                "addr:street": "ul. Zielona",
+                "addr:housenumber": "2A",
+                "addr:teryt:simc": 26081,
+                "addr:teryt:sym_ul": 343562,
+                "contact:phone": "+48 123784050",
+                "contact:email": "szkola.horyzont@gmail.com",
+                "contact:website": "http:\/\/www.fantazja-dzieci.pl",
+                "ref:regon": "123161788",
+                "ref:vatin": "PL5130135497",
+                "operator": "Mwm - Investor Sp\u00f3\u0142ka Z Ograniczon\u0105 Odpowiedzialno\u015bci\u0105",
+                "operator:type": "private",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 5869,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.76327,
+                    50.14645
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 5869,
+                "official_name": "Szko\u0142a Podstawowa im. Por. Piotra Olka Ps. \"Go\u0142\u0105b\" w Kobylanach",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "32-082",
+                "addr:city": "Kobylany",
+                "addr:street": "ul. Jana Paw\u0142a II",
+                "addr:housenumber": "61",
+                "addr:teryt:simc": 7123,
+                "addr:teryt:sym_ul": 343786,
+                "contact:phone": "+48 122852027",
+                "contact:email": "sekretariat@spkobylany.edu.pl",
+                "contact:website": "http:\/\/www.spkobylany.edu.pl",
+                "ref:regon": "001234303",
+                "ref:vatin": "PL9441963695",
+                "operator": "Gmina Zabierz\u00f3w",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 5867,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.79343,
+                    50.1475099
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 5867,
+                "official_name": "Szko\u0142a Podstawowa Imienia Ks. J\u00f3zefa Poniatowskiego w Bolechowicach",
+                "name": "Szko\u0142a Podstawowa Imienia Ks. J\u00f3zefa Poniatowskiego w Bolechowicach",
+                "addr:country": "PL",
+                "addr:postcode": "32-082",
+                "addr:city": "Bolechowice",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "7",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 343562,
+                "contact:phone": "+48 122851184",
+                "contact:email": "spbolechowice@interia.pl",
+                "contact:website": "http:\/\/www.spbolechowice.zabierzow.org.pl",
+                "ref:regon": "001234562",
+                "ref:vatin": "PL9441963867",
+                "operator": "Gmina Zabierz\u00f3w",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 75719,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.79233,
+                    50.14811
+                ]
+            },
+            "properties": {
+                "ref:rspo": 75719,
+                "official_name": "Prywatne Przedszkole \"Magnificat\" Zgromadzenia Si\u00f3str S\u0142u\u017cebnic Nawiedzenia",
+                "name": "Prywatne Przedszkole \"Magnificat\" Zgromadzenia Si\u00f3str S\u0142u\u017cebnic Nawiedzenia",
+                "addr:country": "PL",
+                "addr:postcode": "32-082",
+                "addr:city": "Bolechowice",
+                "addr:street": "ul. Ko\u015bcielna",
+                "addr:housenumber": "18",
+                "addr:teryt:simc": 9546,
+                "addr:teryt:sym_ul": 343562,
+                "contact:phone": "+48 122854893",
+                "contact:email": "przedszkolebolechowice@op.pl",
+                "ref:regon": "122711465",
+                "ref:vatin": "PL5130021782",
+                "operator": "Zgromadzenie Si\u00f3str S\u0142u\u017cebnic Nawiedzenia",
+                "operator:type": "religious",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 73310,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.71249,
+                    50.14895
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 73310,
+                "official_name": "Integracyjna Szko\u0142a Podstawowa im. Ofiar Pacyfikacji w Radwanowicach",
+                "name": "Integracyjna Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "32-064",
+                "addr:city": "Radwanowice",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "6",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 343881,
+                "contact:phone": "+48 122838346",
+                "contact:email": "szkola@integracyjna.org",
+                "contact:website": "http:\/\/www.integracyjna.org",
+                "ref:regon": "122706398",
+                "ref:vatin": "PL5130009686",
+                "operator": "O\u015bwiatowe Towarzystwo Integracyjne W Radwanowicach",
+                "operator:type": "ngo",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 73514,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.71249,
+                    50.14892
+                ]
+            },
+            "properties": {
+                "ref:rspo": 73514,
+                "official_name": "Niepubliczne Przedszkole w Radwanowicach",
+                "name": "Niepubliczne Przedszkole w Radwanowicach",
+                "addr:country": "PL",
+                "addr:postcode": "32-064",
+                "addr:city": "Radwanowice",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "6",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 343881,
+                "contact:phone": "+48 122838346",
+                "contact:email": "szkola@integracyjna.org",
+                "contact:website": "http:\/\/www.integracyjna.org",
+                "ref:regon": "122706406",
+                "ref:vatin": "PL5130009686",
+                "operator": "O\u015bwiatowe Towarzystwo Integracyjne W Radwanowicach",
+                "operator:type": "ngo",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 84882,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.79419,
+                    50.15878
+                ]
+            },
+            "properties": {
+                "ref:rspo": 84882,
+                "official_name": "Prywatne Przedszkole \"S\u0142oneczne Wzg\u00f3rze\"",
+                "name": "Prywatne Przedszkole \"S\u0142oneczne Wzg\u00f3rze\"",
+                "addr:country": "PL",
+                "addr:postcode": "32-082",
+                "addr:city": "Zelk\u00f3w",
+                "addr:street": "ul. Jana Paw\u0142a II",
+                "addr:housenumber": "22",
+                "addr:teryt:simc": 7123,
+                "addr:teryt:sym_ul": 344030,
+                "contact:phone": "+48 122830923",
+                "contact:email": "przedszkole@slonecznewzgorze.pl",
+                "contact:website": "http:\/\/www.slonecznewzgorze.pl",
+                "ref:regon": "122711590",
+                "ref:vatin": "PL5130237430",
+                "operator": "Krzysztof Figiel",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 84883,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.79419,
+                    50.15875
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 84883,
+                "official_name": "Niepubliczna Szko\u0142a Podstawowa w Zelkowie",
+                "name": "Niepubliczna Szko\u0142a Podstawowa w Zelkowie",
+                "addr:country": "PL",
+                "addr:postcode": "32-082",
+                "addr:city": "Zelk\u00f3w",
+                "addr:street": "ul. Jana Paw\u0142a II",
+                "addr:housenumber": "22",
+                "addr:teryt:simc": 7123,
+                "addr:teryt:sym_ul": 344030,
+                "contact:phone": "+48 122830923",
+                "contact:email": "szkola@slonecznewzgorze.pl",
+                "contact:website": "http:\/\/www.slonecznewzgorze.pl",
+                "ref:regon": "122711614",
+                "ref:vatin": "PL5130237447",
+                "operator": "Krzysztof Figiel",
+                "operator:type": "private",
+                "amenity": "school"
+            }
+        }
+    ]
+}

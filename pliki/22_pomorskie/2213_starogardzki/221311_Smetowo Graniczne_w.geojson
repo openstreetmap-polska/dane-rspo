@@ -1,1 +1,188 @@
-{"type":"FeatureCollection","features":[{"id":22527,"type":"Feature","geometry":{"type":"Point","coordinates":[18.633637,53.690433]},"properties":{"isced:level":"1;2","ref:rspo":22527,"official_name":"Szko\u0142a Podstawowa im. Dzieci Potulic w Kamionce","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"83-230","addr:place":"Kamionka","addr:housenumber":"12","addr:teryt:sym_ul":172244,"contact:phone":"+48 585821867","contact:email":"psp.kamionka@wp.pl","ref:regon":"190957101","ref:vatin":"PL5922221522","operator":"Gmina Sm\u0119towo Graniczne","operator:type":"government","amenity":"school"}},{"id":22495,"type":"Feature","geometry":{"type":"Point","coordinates":[18.651046,53.739731]},"properties":{"isced:level":"1;2","ref:rspo":22495,"official_name":"Szko\u0142a Podstawowa w Kopytkowie","name":"Szko\u0142a Podstawowa w Kopytkowie","addr:country":"PL","addr:postcode":"83-230","addr:place":"Kopytkowo","addr:housenumber":"18","addr:teryt:sym_ul":172250,"contact:phone":"+48 585619466","contact:email":"pspkopytkowo@op.pl","ref:regon":"190957199","ref:vatin":"PL5922221516","operator":"Gmina Sm\u0119towo Graniczne","operator:type":"government","amenity":"school"}},{"id":30764,"type":"Feature","geometry":{"type":"Point","coordinates":[18.69162,53.74427]},"properties":{"isced:level":"1;2","ref:rspo":30764,"official_name":"Szko\u0142a Podstawowa im. Ks. Paw\u0142a Szynwelskiego w Sm\u0119towie Granicznym","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"83-230","addr:city":"Sm\u0119towo Graniczne","addr:street":"ul. Gda\u0144ska","addr:housenumber":"23","addr:teryt:simc":5431,"addr:teryt:sym_ul":172356,"contact:phone":"+48 585619028","contact:email":"sekretariat@szkolasmetowo.edu.pl","contact:website":"http:\/\/www.gimnazjumsmetowo.manifo.com","ref:regon":"192953194","ref:vatin":"PL5922221539","operator":"Gmina Sm\u0119towo Graniczne","operator:type":"government","amenity":"school"}},{"id":131879,"type":"Feature","geometry":{"type":"Point","coordinates":[18.69162,53.74424]},"properties":{"isced:level":"4","ref:rspo":131879,"official_name":"Policealne Studium Zawodowe Przy Ckz \"Nauka\" Sp. Z O.o. w Tczewie","name":"Policealne Studium Zawodowe Przy Ckz \"Nauka\" Sp. Z O.o. w Tczewie","addr:country":"PL","addr:postcode":"83-230","addr:city":"Sm\u0119towo Graniczne","addr:street":"ul. Gda\u0144ska","addr:housenumber":"23","addr:teryt:simc":5431,"addr:teryt:sym_ul":172356,"contact:phone":"+48 587217046","contact:email":"ckz.nauka@wp.pl","contact:website":"http:\/\/www.nauka.etczew.eu","ref:regon":"365371452","operator":"Centrum Kszta\u0142cenia Zawodowego \"Nauka\" Sp\u00f3\u0142ka Z Ograniczon\u0105 Odpowiedzialno\u015bci\u0105","operator:type":"private","amenity":"college"}},{"id":131880,"type":"Feature","geometry":{"type":"Point","coordinates":[18.69162,53.74421]},"properties":{"isced:level":"4","ref:rspo":131880,"official_name":"Medyczne Studium Zawodowe Przy Centrum Kszta\u0142cenia Zawodowego \"Nauka\" Sp. Z O.o. w Tczewie","name":"Medyczne Studium Zawodowe Przy Centrum Kszta\u0142cenia Zawodowego \"Nauka\" Sp. Z O.o. w Tczewie","addr:country":"PL","addr:postcode":"83-230","addr:city":"Sm\u0119towo Graniczne","addr:street":"ul. Gda\u0144ska","addr:housenumber":"23","addr:teryt:simc":5431,"addr:teryt:sym_ul":172356,"contact:phone":"+48 587217046","contact:email":"ckz.nauka@wp.pl","contact:website":"http:\/\/www.nauka.etczew.eu","ref:regon":"365371481","operator":"Centrum Kszta\u0142cenia Zawodowego \"Nauka\" Sp\u00f3\u0142ka Z Ograniczon\u0105 Odpowiedzialno\u015bci\u0105","operator:type":"private","amenity":"college"}},{"id":22410,"type":"Feature","geometry":{"type":"Point","coordinates":[18.69148,53.7447]},"properties":{"ref:rspo":22410,"official_name":"Samorz\u0105dowe Przedszkole w Sm\u0119towie Granicznym","name":"Samorz\u0105dowe Przedszkole w Sm\u0119towie Granicznym","addr:country":"PL","addr:postcode":"83-230","addr:city":"Sm\u0119towo Graniczne","addr:street":"ul. Brzozowa","addr:housenumber":"3","addr:teryt:simc":2276,"addr:teryt:sym_ul":172356,"contact:phone":"+48 585619118","contact:email":"przedszkole.smetowo@wp.pl","contact:website":"http:\/\/www.przedszkolesmetowo.edupage.org","ref:regon":"190582687","ref:vatin":"PL5921616454","operator":"Gmina Sm\u0119towo Graniczne","operator:type":"government","amenity":"kindergarten"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 22527,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.633637,
+                    53.690433
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 22527,
+                "official_name": "Szko\u0142a Podstawowa im. Dzieci Potulic w Kamionce",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "83-230",
+                "addr:place": "Kamionka",
+                "addr:housenumber": "12",
+                "addr:teryt:sym_ul": 172244,
+                "contact:phone": "+48 585821867",
+                "contact:email": "psp.kamionka@wp.pl",
+                "ref:regon": "190957101",
+                "ref:vatin": "PL5922221522",
+                "operator": "Gmina Sm\u0119towo Graniczne",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 22495,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.651046,
+                    53.739731
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 22495,
+                "official_name": "Szko\u0142a Podstawowa w Kopytkowie",
+                "name": "Szko\u0142a Podstawowa w Kopytkowie",
+                "addr:country": "PL",
+                "addr:postcode": "83-230",
+                "addr:place": "Kopytkowo",
+                "addr:housenumber": "18",
+                "addr:teryt:sym_ul": 172250,
+                "contact:phone": "+48 585619466",
+                "contact:email": "pspkopytkowo@op.pl",
+                "ref:regon": "190957199",
+                "ref:vatin": "PL5922221516",
+                "operator": "Gmina Sm\u0119towo Graniczne",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 30764,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.69162,
+                    53.74427
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 30764,
+                "official_name": "Szko\u0142a Podstawowa im. Ks. Paw\u0142a Szynwelskiego w Sm\u0119towie Granicznym",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "83-230",
+                "addr:city": "Sm\u0119towo Graniczne",
+                "addr:street": "ul. Gda\u0144ska",
+                "addr:housenumber": "23",
+                "addr:teryt:simc": 5431,
+                "addr:teryt:sym_ul": 172356,
+                "contact:phone": "+48 585619028",
+                "contact:email": "sekretariat@szkolasmetowo.edu.pl",
+                "contact:website": "http:\/\/www.gimnazjumsmetowo.manifo.com",
+                "ref:regon": "192953194",
+                "ref:vatin": "PL5922221539",
+                "operator": "Gmina Sm\u0119towo Graniczne",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 131879,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.69162,
+                    53.74424
+                ]
+            },
+            "properties": {
+                "isced:level": "4",
+                "ref:rspo": 131879,
+                "official_name": "Policealne Studium Zawodowe Przy Ckz \"Nauka\" Sp. Z O.o. w Tczewie",
+                "name": "Policealne Studium Zawodowe Przy Ckz \"Nauka\" Sp. Z O.o. w Tczewie",
+                "addr:country": "PL",
+                "addr:postcode": "83-230",
+                "addr:city": "Sm\u0119towo Graniczne",
+                "addr:street": "ul. Gda\u0144ska",
+                "addr:housenumber": "23",
+                "addr:teryt:simc": 5431,
+                "addr:teryt:sym_ul": 172356,
+                "contact:phone": "+48 587217046",
+                "contact:email": "ckz.nauka@wp.pl",
+                "contact:website": "http:\/\/www.nauka.etczew.eu",
+                "ref:regon": "365371452",
+                "operator": "Centrum Kszta\u0142cenia Zawodowego \"Nauka\" Sp\u00f3\u0142ka Z Ograniczon\u0105 Odpowiedzialno\u015bci\u0105",
+                "operator:type": "private",
+                "amenity": "college"
+            }
+        },
+        {
+            "id": 131880,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.69162,
+                    53.74421
+                ]
+            },
+            "properties": {
+                "isced:level": "4",
+                "ref:rspo": 131880,
+                "official_name": "Medyczne Studium Zawodowe Przy Centrum Kszta\u0142cenia Zawodowego \"Nauka\" Sp. Z O.o. w Tczewie",
+                "name": "Medyczne Studium Zawodowe Przy Centrum Kszta\u0142cenia Zawodowego \"Nauka\" Sp. Z O.o. w Tczewie",
+                "addr:country": "PL",
+                "addr:postcode": "83-230",
+                "addr:city": "Sm\u0119towo Graniczne",
+                "addr:street": "ul. Gda\u0144ska",
+                "addr:housenumber": "23",
+                "addr:teryt:simc": 5431,
+                "addr:teryt:sym_ul": 172356,
+                "contact:phone": "+48 587217046",
+                "contact:email": "ckz.nauka@wp.pl",
+                "contact:website": "http:\/\/www.nauka.etczew.eu",
+                "ref:regon": "365371481",
+                "operator": "Centrum Kszta\u0142cenia Zawodowego \"Nauka\" Sp\u00f3\u0142ka Z Ograniczon\u0105 Odpowiedzialno\u015bci\u0105",
+                "operator:type": "private",
+                "amenity": "college"
+            }
+        },
+        {
+            "id": 22410,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.69148,
+                    53.7447
+                ]
+            },
+            "properties": {
+                "ref:rspo": 22410,
+                "official_name": "Samorz\u0105dowe Przedszkole w Sm\u0119towie Granicznym",
+                "name": "Samorz\u0105dowe Przedszkole w Sm\u0119towie Granicznym",
+                "addr:country": "PL",
+                "addr:postcode": "83-230",
+                "addr:city": "Sm\u0119towo Graniczne",
+                "addr:street": "ul. Brzozowa",
+                "addr:housenumber": "3",
+                "addr:teryt:simc": 2276,
+                "addr:teryt:sym_ul": 172356,
+                "contact:phone": "+48 585619118",
+                "contact:email": "przedszkole.smetowo@wp.pl",
+                "contact:website": "http:\/\/www.przedszkolesmetowo.edupage.org",
+                "ref:regon": "190582687",
+                "ref:vatin": "PL5921616454",
+                "operator": "Gmina Sm\u0119towo Graniczne",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        }
+    ]
+}

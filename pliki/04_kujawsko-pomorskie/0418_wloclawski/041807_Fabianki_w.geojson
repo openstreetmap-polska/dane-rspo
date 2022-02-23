@@ -1,1 +1,214 @@
-{"type":"FeatureCollection","features":[{"id":103911,"type":"Feature","geometry":{"type":"Point","coordinates":[19.026636123657,52.515983581543]},"properties":{"isced:level":"1;2","ref:rspo":103911,"official_name":"Szko\u0142a Podstawowa w Fabiankach im. Jerzego Pietrkiewicza","name":"Szko\u0142a Podstawowa w Fabiankach","addr:country":"PL","addr:postcode":"87-811","addr:place":"Fabianki","addr:housenumber":"1","addr:teryt:sym_ul":862612,"contact:phone":"+48 542516874","contact:email":"dyrektor@sp.fabianki.pl","contact:website":"http:\/\/www.szkola.fabianki.pl\/","ref:regon":"000273554","ref:vatin":"PL8882196735","operator":"Gmina Fabianki","operator:type":"government","amenity":"school"}},{"id":103537,"type":"Feature","geometry":{"type":"Point","coordinates":[19.1014,52.68168]},"properties":{"isced:level":"1;2","ref:rspo":103537,"official_name":"Szko\u0142a Podstawowa w Szpetalu G\u00f3rnym im. Kazimierza III Wielkiego","name":"Szko\u0142a Podstawowa w Szpetalu G\u00f3rnym","addr:country":"PL","addr:postcode":"87-811","addr:city":"Szpetal G\u00f3rny","addr:street":"ul. Szkolna","addr:housenumber":"1","addr:teryt:simc":21970,"addr:teryt:sym_ul":862747,"contact:phone":"+48 542370370","contact:email":"szkola@spszpetal.pl","contact:website":"http:\/\/www.spszpetal.pl","ref:regon":"910927853","ref:vatin":"PL8882196735","operator":"Gmina Fabianki","operator:type":"government","amenity":"school"}},{"id":124883,"type":"Feature","geometry":{"type":"Point","coordinates":[19.09706,52.68278]},"properties":{"ref:rspo":124883,"official_name":"Przedszkole O Profilu Katolickim \"Anio\u0142ek\"","name":"Przedszkole O Profilu Katolickim \"Anio\u0142ek\"","addr:country":"PL","addr:postcode":"87-811","addr:city":"Szpetal G\u00f3rny","addr:street":"ul. Le\u015bna","addr:housenumber":"2","addr:teryt:simc":10898,"addr:teryt:sym_ul":862747,"contact:phone":"+48 605266945","contact:email":"j.reniecki@op.pl","ref:regon":"341621519","ref:vatin":"PL8881310755","operator":"Jacek Reniecki","operator:type":"private","amenity":"kindergarten"}},{"id":113541,"type":"Feature","geometry":{"type":"Point","coordinates":[19.10052,52.68408]},"properties":{"ref:rspo":113541,"official_name":"Przedszkole Niepubliczne Ma\u0142y Mi\u015b","name":"Przedszkole Niepubliczne Ma\u0142y Mi\u015b","addr:country":"PL","addr:postcode":"87-811","addr:city":"Szpetal G\u00f3rny","addr:street":"ul. W\u0142oc\u0142awska","addr:housenumber":"44","addr:teryt:simc":24504,"addr:teryt:sym_ul":862747,"contact:phone":"+48 542316439","ref:regon":"341415582","ref:vatin":"PL8882763708","operator":"\"Progres\" Aleksandra Rycicka","operator:type":"consortium","amenity":"kindergarten"}},{"id":104656,"type":"Feature","geometry":{"type":"Point","coordinates":[19.1487,52.68784]},"properties":{"isced:level":"1;2","ref:rspo":104656,"official_name":"Szko\u0142a Podstawowa im. Rycerstwa Polskiego w Nasiegniewie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"87-811","addr:place":"Nasiegniewo","addr:housenumber":"68","addr:teryt:sym_ul":862658,"contact:phone":"+48 542550199","contact:email":"zsp.nasiegniewo@wp.pl","contact:website":"http:\/\/zspnasiegniewo.pl\/","ref:regon":"001142570","ref:vatin":"PL8882196735","operator":"Gmina Fabianki","operator:type":"government","amenity":"school"}},{"id":113467,"type":"Feature","geometry":{"type":"Point","coordinates":[19.10876083374,52.717998504639]},"properties":{"ref:rspo":113467,"official_name":"Przedszkole Prywatne \"T\u0119czowy Zak\u0105tek\" Agnieszka Doli\u0144ska","name":"Przedszkole Prywatne \"T\u0119czowy Zak\u0105tek\" Agnieszka Doli\u0144ska","addr:country":"PL","addr:postcode":"87-811","addr:place":"Fabianki","addr:housenumber":"110","addr:teryt:sym_ul":862612,"contact:phone":"+48 793191901","contact:email":"agnieszka.dolinska@vp.pl","ref:regon":"341414690","ref:vatin":"PL8881495660","operator":"Agnieszka Doli\u0144ska","operator:type":"private","amenity":"kindergarten"}},{"id":103908,"type":"Feature","geometry":{"type":"Point","coordinates":[19.10767,52.7339]},"properties":{"isced:level":"1;2","ref:rspo":103908,"official_name":"Szko\u0142a Podstawowa w Cypriance im.or\u0142a Bia\u0142ego","name":"Szko\u0142a Podstawowa w Cypriance im.or\u0142a Bia\u0142ego","addr:country":"PL","addr:postcode":"87-811","addr:place":"Cyprianka","addr:housenumber":"107","addr:teryt:sym_ul":862606,"contact:phone":"+48 542516717","contact:email":"pspcyprianka@vp.pl","contact:website":"https:\/\/spcyprianka.edupage.org\/","ref:regon":"001142021","ref:vatin":"PL8882196735","operator":"Gmina Fabianki","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 103911,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.026636123657,
+                    52.515983581543
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 103911,
+                "official_name": "Szko\u0142a Podstawowa w Fabiankach im. Jerzego Pietrkiewicza",
+                "name": "Szko\u0142a Podstawowa w Fabiankach",
+                "addr:country": "PL",
+                "addr:postcode": "87-811",
+                "addr:place": "Fabianki",
+                "addr:housenumber": "1",
+                "addr:teryt:sym_ul": 862612,
+                "contact:phone": "+48 542516874",
+                "contact:email": "dyrektor@sp.fabianki.pl",
+                "contact:website": "http:\/\/www.szkola.fabianki.pl\/",
+                "ref:regon": "000273554",
+                "ref:vatin": "PL8882196735",
+                "operator": "Gmina Fabianki",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 103537,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.1014,
+                    52.68168
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 103537,
+                "official_name": "Szko\u0142a Podstawowa w Szpetalu G\u00f3rnym im. Kazimierza III Wielkiego",
+                "name": "Szko\u0142a Podstawowa w Szpetalu G\u00f3rnym",
+                "addr:country": "PL",
+                "addr:postcode": "87-811",
+                "addr:city": "Szpetal G\u00f3rny",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 862747,
+                "contact:phone": "+48 542370370",
+                "contact:email": "szkola@spszpetal.pl",
+                "contact:website": "http:\/\/www.spszpetal.pl",
+                "ref:regon": "910927853",
+                "ref:vatin": "PL8882196735",
+                "operator": "Gmina Fabianki",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 124883,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.09706,
+                    52.68278
+                ]
+            },
+            "properties": {
+                "ref:rspo": 124883,
+                "official_name": "Przedszkole O Profilu Katolickim \"Anio\u0142ek\"",
+                "name": "Przedszkole O Profilu Katolickim \"Anio\u0142ek\"",
+                "addr:country": "PL",
+                "addr:postcode": "87-811",
+                "addr:city": "Szpetal G\u00f3rny",
+                "addr:street": "ul. Le\u015bna",
+                "addr:housenumber": "2",
+                "addr:teryt:simc": 10898,
+                "addr:teryt:sym_ul": 862747,
+                "contact:phone": "+48 605266945",
+                "contact:email": "j.reniecki@op.pl",
+                "ref:regon": "341621519",
+                "ref:vatin": "PL8881310755",
+                "operator": "Jacek Reniecki",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 113541,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.10052,
+                    52.68408
+                ]
+            },
+            "properties": {
+                "ref:rspo": 113541,
+                "official_name": "Przedszkole Niepubliczne Ma\u0142y Mi\u015b",
+                "name": "Przedszkole Niepubliczne Ma\u0142y Mi\u015b",
+                "addr:country": "PL",
+                "addr:postcode": "87-811",
+                "addr:city": "Szpetal G\u00f3rny",
+                "addr:street": "ul. W\u0142oc\u0142awska",
+                "addr:housenumber": "44",
+                "addr:teryt:simc": 24504,
+                "addr:teryt:sym_ul": 862747,
+                "contact:phone": "+48 542316439",
+                "ref:regon": "341415582",
+                "ref:vatin": "PL8882763708",
+                "operator": "\"Progres\" Aleksandra Rycicka",
+                "operator:type": "consortium",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 104656,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.1487,
+                    52.68784
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 104656,
+                "official_name": "Szko\u0142a Podstawowa im. Rycerstwa Polskiego w Nasiegniewie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "87-811",
+                "addr:place": "Nasiegniewo",
+                "addr:housenumber": "68",
+                "addr:teryt:sym_ul": 862658,
+                "contact:phone": "+48 542550199",
+                "contact:email": "zsp.nasiegniewo@wp.pl",
+                "contact:website": "http:\/\/zspnasiegniewo.pl\/",
+                "ref:regon": "001142570",
+                "ref:vatin": "PL8882196735",
+                "operator": "Gmina Fabianki",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 113467,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.10876083374,
+                    52.717998504639
+                ]
+            },
+            "properties": {
+                "ref:rspo": 113467,
+                "official_name": "Przedszkole Prywatne \"T\u0119czowy Zak\u0105tek\" Agnieszka Doli\u0144ska",
+                "name": "Przedszkole Prywatne \"T\u0119czowy Zak\u0105tek\" Agnieszka Doli\u0144ska",
+                "addr:country": "PL",
+                "addr:postcode": "87-811",
+                "addr:place": "Fabianki",
+                "addr:housenumber": "110",
+                "addr:teryt:sym_ul": 862612,
+                "contact:phone": "+48 793191901",
+                "contact:email": "agnieszka.dolinska@vp.pl",
+                "ref:regon": "341414690",
+                "ref:vatin": "PL8881495660",
+                "operator": "Agnieszka Doli\u0144ska",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 103908,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.10767,
+                    52.7339
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 103908,
+                "official_name": "Szko\u0142a Podstawowa w Cypriance im.or\u0142a Bia\u0142ego",
+                "name": "Szko\u0142a Podstawowa w Cypriance im.or\u0142a Bia\u0142ego",
+                "addr:country": "PL",
+                "addr:postcode": "87-811",
+                "addr:place": "Cyprianka",
+                "addr:housenumber": "107",
+                "addr:teryt:sym_ul": 862606,
+                "contact:phone": "+48 542516717",
+                "contact:email": "pspcyprianka@vp.pl",
+                "contact:website": "https:\/\/spcyprianka.edupage.org\/",
+                "ref:regon": "001142021",
+                "ref:vatin": "PL8882196735",
+                "operator": "Gmina Fabianki",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

@@ -1,1 +1,150 @@
-{"type":"FeatureCollection","features":[{"id":69938,"type":"Feature","geometry":{"type":"Point","coordinates":[19.26783,53.01396]},"properties":{"isced:level":"1;2","ref:rspo":69938,"official_name":"Szko\u0142a Podstawowa w Radzynku","name":"Szko\u0142a Podstawowa w Radzynku","addr:country":"PL","addr:postcode":"87-517","addr:place":"Radzynek","addr:housenumber":"1","addr:teryt:sym_ul":859722,"contact:phone":"+48 542701157","contact:email":"radzynek@wp.pl","ref:regon":"001170313","ref:vatin":"PL8921342194","operator":"Gmina Brzuze","operator:type":"government","amenity":"school"}},{"id":69822,"type":"Feature","geometry":{"type":"Point","coordinates":[19.23073,53.04102]},"properties":{"isced:level":"1;2","ref:rspo":69822,"official_name":"Szko\u0142a Podstawowa w Ugoszczu","name":"Szko\u0142a Podstawowa w Ugoszczu","addr:country":"PL","addr:postcode":"87-517","addr:place":"Ugoszcz","addr:housenumber":"22","addr:teryt:sym_ul":859780,"contact:phone":"+48 542701104","contact:email":"spugoszcz@gmail.com","contact:website":"http:\/\/www.spugoszcz.brzuze.eu","ref:regon":"001170299","ref:vatin":"PL8921342231","operator":"Gmina Brzuze","operator:type":"government","amenity":"school"}},{"id":122406,"type":"Feature","geometry":{"type":"Point","coordinates":[19.2958399,53.06956]},"properties":{"isced:level":"1;2","ref:rspo":122406,"official_name":"Szko\u0142a Podstawowa im.tadeusza Ko\u015bciuszki","name":"Szko\u0142a Podstawowa im.tadeusza Ko\u015bciuszki","addr:country":"PL","addr:postcode":"87-522","addr:place":"Ostrowite","addr:housenumber":"63","addr:teryt:sym_ul":859679,"contact:phone":"+48 542701295","contact:email":"spostrowite@interia.pl","contact:website":"http:\/\/www.spostrowite.brzuze.eu","ref:regon":"000235507","operator":"Gmina Brzuze","operator:type":"government","amenity":"school"}},{"id":70240,"type":"Feature","geometry":{"type":"Point","coordinates":[19.29787,53.07124]},"properties":{"ref:rspo":70240,"official_name":"Przedszkole Samorz\u0105dowe w Ostrowitem","name":"Przedszkole Samorz\u0105dowe w Ostrowitem","addr:country":"PL","addr:postcode":"87-522","addr:place":"Ostrowite","addr:housenumber":"178","addr:teryt:sym_ul":859679,"contact:email":"przedszkoleostrowite@wp.pl","ref:regon":"910038679","ref:vatin":"PL8921342225","operator":"Gmina Brzuze","operator:type":"government","amenity":"kindergarten"}},{"id":122400,"type":"Feature","geometry":{"type":"Point","coordinates":[19.26922,53.09191]},"properties":{"isced:level":"1;2","ref:rspo":122400,"official_name":"Szko\u0142a Podstawowa w Tr\u0105binie","name":"Szko\u0142a Podstawowa w Tr\u0105binie","addr:country":"PL","addr:postcode":"87-522","addr:place":"Tr\u0105bin-Wie\u015b","addr:housenumber":"6","addr:teryt:sym_ul":859774,"contact:phone":"+48 542801382","contact:email":"sptrabin@wp.pl","contact:website":"http:\/\/www.trabin.brzuze.eu","ref:regon":"001170282","ref:vatin":"PL8921342202","operator":"Gmina Brzuze","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 69938,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.26783,
+                    53.01396
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 69938,
+                "official_name": "Szko\u0142a Podstawowa w Radzynku",
+                "name": "Szko\u0142a Podstawowa w Radzynku",
+                "addr:country": "PL",
+                "addr:postcode": "87-517",
+                "addr:place": "Radzynek",
+                "addr:housenumber": "1",
+                "addr:teryt:sym_ul": 859722,
+                "contact:phone": "+48 542701157",
+                "contact:email": "radzynek@wp.pl",
+                "ref:regon": "001170313",
+                "ref:vatin": "PL8921342194",
+                "operator": "Gmina Brzuze",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 69822,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.23073,
+                    53.04102
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 69822,
+                "official_name": "Szko\u0142a Podstawowa w Ugoszczu",
+                "name": "Szko\u0142a Podstawowa w Ugoszczu",
+                "addr:country": "PL",
+                "addr:postcode": "87-517",
+                "addr:place": "Ugoszcz",
+                "addr:housenumber": "22",
+                "addr:teryt:sym_ul": 859780,
+                "contact:phone": "+48 542701104",
+                "contact:email": "spugoszcz@gmail.com",
+                "contact:website": "http:\/\/www.spugoszcz.brzuze.eu",
+                "ref:regon": "001170299",
+                "ref:vatin": "PL8921342231",
+                "operator": "Gmina Brzuze",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 122406,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.2958399,
+                    53.06956
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 122406,
+                "official_name": "Szko\u0142a Podstawowa im.tadeusza Ko\u015bciuszki",
+                "name": "Szko\u0142a Podstawowa im.tadeusza Ko\u015bciuszki",
+                "addr:country": "PL",
+                "addr:postcode": "87-522",
+                "addr:place": "Ostrowite",
+                "addr:housenumber": "63",
+                "addr:teryt:sym_ul": 859679,
+                "contact:phone": "+48 542701295",
+                "contact:email": "spostrowite@interia.pl",
+                "contact:website": "http:\/\/www.spostrowite.brzuze.eu",
+                "ref:regon": "000235507",
+                "operator": "Gmina Brzuze",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 70240,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.29787,
+                    53.07124
+                ]
+            },
+            "properties": {
+                "ref:rspo": 70240,
+                "official_name": "Przedszkole Samorz\u0105dowe w Ostrowitem",
+                "name": "Przedszkole Samorz\u0105dowe w Ostrowitem",
+                "addr:country": "PL",
+                "addr:postcode": "87-522",
+                "addr:place": "Ostrowite",
+                "addr:housenumber": "178",
+                "addr:teryt:sym_ul": 859679,
+                "contact:email": "przedszkoleostrowite@wp.pl",
+                "ref:regon": "910038679",
+                "ref:vatin": "PL8921342225",
+                "operator": "Gmina Brzuze",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 122400,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.26922,
+                    53.09191
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 122400,
+                "official_name": "Szko\u0142a Podstawowa w Tr\u0105binie",
+                "name": "Szko\u0142a Podstawowa w Tr\u0105binie",
+                "addr:country": "PL",
+                "addr:postcode": "87-522",
+                "addr:place": "Tr\u0105bin-Wie\u015b",
+                "addr:housenumber": "6",
+                "addr:teryt:sym_ul": 859774,
+                "contact:phone": "+48 542801382",
+                "contact:email": "sptrabin@wp.pl",
+                "contact:website": "http:\/\/www.trabin.brzuze.eu",
+                "ref:regon": "001170282",
+                "ref:vatin": "PL8921342202",
+                "operator": "Gmina Brzuze",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

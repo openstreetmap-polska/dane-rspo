@@ -1,1 +1,117 @@
-{"type":"FeatureCollection","features":[{"id":268089,"type":"Feature","geometry":{"type":"Point","coordinates":[20.68322,54.02872]},"properties":{"isced:level":"1;2","ref:rspo":268089,"official_name":"Niepubliczna Szko\u0142a Podstawowa w \u017begotach","name":"Niepubliczna Szko\u0142a Podstawowa w \u017begotach","addr:country":"PL","addr:postcode":"11-106","addr:place":"\u017begoty","addr:housenumber":"91","addr:teryt:sym_ul":478316,"contact:phone":"+48 690933787","contact:email":"m-turzynska@o2.pl","contact:website":"http:\/\/www.podstawowalidzbark.pl","ref:regon":"380934231","ref:vatin":"PL7432039113","operator":"Marta Turzy\u0144ska - Lange","operator:type":"private","amenity":"school"}},{"id":104558,"type":"Feature","geometry":{"type":"Point","coordinates":[20.7744399,54.09808]},"properties":{"isced:level":"1;2","ref:rspo":104558,"official_name":"Szko\u0142a Podstawowa w Kiwitach","name":"Szko\u0142a Podstawowa w Kiwitach","addr:country":"PL","addr:postcode":"11-106","addr:place":"Kiwity","addr:housenumber":"63A","addr:teryt:sym_ul":478144,"contact:phone":"+48 897660979","contact:email":"pgkiwity@poczta.onet.pl","ref:regon":"000594324","operator":"Gmina Kiwity","operator:type":"government","amenity":"school"}},{"id":104560,"type":"Feature","geometry":{"type":"Point","coordinates":[20.74972,54.16391]},"properties":{"isced:level":"1;2","ref:rspo":104560,"official_name":"Niepubliczna Szko\u0142a Podstawowa w Krekolach","name":"Niepubliczna Szko\u0142a Podstawowa w Krekolach","addr:country":"PL","addr:postcode":"11-106","addr:place":"Krekole","addr:housenumber":"34","addr:teryt:sym_ul":478204,"contact:phone":"+48 897662284","contact:email":"krekole1@wp.pl","ref:regon":"281457693","operator":"Alicja Styczewska","operator:type":"private","amenity":"school"}},{"id":104561,"type":"Feature","geometry":{"type":"Point","coordinates":[20.74972,54.16388]},"properties":{"ref:rspo":104561,"official_name":"Niepubliczny Punkt Przedszkolny \"Balbina\" w Krekolach","name":"Niepubliczny Punkt Przedszkolny \"Balbina\" w Krekolach","addr:country":"PL","addr:postcode":"11-106","addr:place":"Krekole","addr:housenumber":"34","addr:teryt:sym_ul":478204,"contact:phone":"+48 897662284","ref:regon":"281457701","operator":"Alicja Styczewska","operator:type":"private","amenity":"kindergarten"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 268089,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.68322,
+                    54.02872
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 268089,
+                "official_name": "Niepubliczna Szko\u0142a Podstawowa w \u017begotach",
+                "name": "Niepubliczna Szko\u0142a Podstawowa w \u017begotach",
+                "addr:country": "PL",
+                "addr:postcode": "11-106",
+                "addr:place": "\u017begoty",
+                "addr:housenumber": "91",
+                "addr:teryt:sym_ul": 478316,
+                "contact:phone": "+48 690933787",
+                "contact:email": "m-turzynska@o2.pl",
+                "contact:website": "http:\/\/www.podstawowalidzbark.pl",
+                "ref:regon": "380934231",
+                "ref:vatin": "PL7432039113",
+                "operator": "Marta Turzy\u0144ska - Lange",
+                "operator:type": "private",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 104558,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.7744399,
+                    54.09808
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 104558,
+                "official_name": "Szko\u0142a Podstawowa w Kiwitach",
+                "name": "Szko\u0142a Podstawowa w Kiwitach",
+                "addr:country": "PL",
+                "addr:postcode": "11-106",
+                "addr:place": "Kiwity",
+                "addr:housenumber": "63A",
+                "addr:teryt:sym_ul": 478144,
+                "contact:phone": "+48 897660979",
+                "contact:email": "pgkiwity@poczta.onet.pl",
+                "ref:regon": "000594324",
+                "operator": "Gmina Kiwity",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 104560,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.74972,
+                    54.16391
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 104560,
+                "official_name": "Niepubliczna Szko\u0142a Podstawowa w Krekolach",
+                "name": "Niepubliczna Szko\u0142a Podstawowa w Krekolach",
+                "addr:country": "PL",
+                "addr:postcode": "11-106",
+                "addr:place": "Krekole",
+                "addr:housenumber": "34",
+                "addr:teryt:sym_ul": 478204,
+                "contact:phone": "+48 897662284",
+                "contact:email": "krekole1@wp.pl",
+                "ref:regon": "281457693",
+                "operator": "Alicja Styczewska",
+                "operator:type": "private",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 104561,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.74972,
+                    54.16388
+                ]
+            },
+            "properties": {
+                "ref:rspo": 104561,
+                "official_name": "Niepubliczny Punkt Przedszkolny \"Balbina\" w Krekolach",
+                "name": "Niepubliczny Punkt Przedszkolny \"Balbina\" w Krekolach",
+                "addr:country": "PL",
+                "addr:postcode": "11-106",
+                "addr:place": "Krekole",
+                "addr:housenumber": "34",
+                "addr:teryt:sym_ul": 478204,
+                "contact:phone": "+48 897662284",
+                "ref:regon": "281457701",
+                "operator": "Alicja Styczewska",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        }
+    ]
+}

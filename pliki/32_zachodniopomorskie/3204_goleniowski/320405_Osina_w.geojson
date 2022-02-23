@@ -1,1 +1,33 @@
-{"type":"FeatureCollection","features":[{"id":22605,"type":"Feature","geometry":{"type":"Point","coordinates":[15.01199,53.60704]},"properties":{"isced:level":"1;2","ref:rspo":22605,"official_name":"Szko\u0142a Podstawowa im. Bronis\u0142awa Malinowskiego w Osinie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"72-221","addr:place":"Osina","addr:housenumber":"54","addr:teryt:sym_ul":780469,"contact:phone":"+48 913910380","contact:email":"sekretariat@sposina.pl","ref:regon":"000577455","operator":"Gmina Osina","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 22605,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.01199,
+                    53.60704
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 22605,
+                "official_name": "Szko\u0142a Podstawowa im. Bronis\u0142awa Malinowskiego w Osinie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "72-221",
+                "addr:place": "Osina",
+                "addr:housenumber": "54",
+                "addr:teryt:sym_ul": 780469,
+                "contact:phone": "+48 913910380",
+                "contact:email": "sekretariat@sposina.pl",
+                "ref:regon": "000577455",
+                "operator": "Gmina Osina",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

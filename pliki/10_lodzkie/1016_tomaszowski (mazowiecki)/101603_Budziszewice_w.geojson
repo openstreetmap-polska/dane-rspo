@@ -1,1 +1,64 @@
-{"type":"FeatureCollection","features":[{"id":112172,"type":"Feature","geometry":{"type":"Point","coordinates":[19.93286,51.66012]},"properties":{"isced:level":"1;2","ref:rspo":112172,"official_name":"Szko\u0142a Podstawowa im.kardyna\u0142a Stefana Wyszy\u0144skiego w Budziszewicach","name":"Szko\u0142a Podstawowa im.kardyna\u0142a Stefana Wyszy\u0144skiego w Budziszewicach","addr:country":"PL","addr:postcode":"97-212","addr:city":"Budziszewice","addr:street":"ul. Szkolna","addr:housenumber":"4","addr:teryt:simc":21970,"addr:teryt:sym_ul":536841,"contact:phone":"+48 447102321","contact:email":"zsbudziszewice@op.pl","contact:website":"http:\/\/www.zsbudziszewice.szkolnastrona.pl","ref:regon":"001159659","ref:vatin":"PL7732403557","operator":"Gmina Budziszewice","operator:type":"government","amenity":"school"}},{"id":119882,"type":"Feature","geometry":{"type":"Point","coordinates":[20.0095,51.67328]},"properties":{"ref:rspo":119882,"official_name":"Szko\u0142a Podstawowa w Budziszewicach Punkt Przedszkolny w R\u0119kawcu","name":"Szko\u0142a Podstawowa w Budziszewicach Punkt Przedszkolny w R\u0119kawcu","addr:country":"PL","addr:postcode":"97-212","addr:place":"R\u0119kawiec","addr:housenumber":"13","addr:teryt:sym_ul":536924,"contact:phone":"+48 447102387","ref:regon":"101664680","ref:vatin":"PL7732403557","operator":"Gmina Budziszewice","operator:type":"government","amenity":"kindergarten"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 112172,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.93286,
+                    51.66012
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 112172,
+                "official_name": "Szko\u0142a Podstawowa im.kardyna\u0142a Stefana Wyszy\u0144skiego w Budziszewicach",
+                "name": "Szko\u0142a Podstawowa im.kardyna\u0142a Stefana Wyszy\u0144skiego w Budziszewicach",
+                "addr:country": "PL",
+                "addr:postcode": "97-212",
+                "addr:city": "Budziszewice",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "4",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 536841,
+                "contact:phone": "+48 447102321",
+                "contact:email": "zsbudziszewice@op.pl",
+                "contact:website": "http:\/\/www.zsbudziszewice.szkolnastrona.pl",
+                "ref:regon": "001159659",
+                "ref:vatin": "PL7732403557",
+                "operator": "Gmina Budziszewice",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 119882,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.0095,
+                    51.67328
+                ]
+            },
+            "properties": {
+                "ref:rspo": 119882,
+                "official_name": "Szko\u0142a Podstawowa w Budziszewicach Punkt Przedszkolny w R\u0119kawcu",
+                "name": "Szko\u0142a Podstawowa w Budziszewicach Punkt Przedszkolny w R\u0119kawcu",
+                "addr:country": "PL",
+                "addr:postcode": "97-212",
+                "addr:place": "R\u0119kawiec",
+                "addr:housenumber": "13",
+                "addr:teryt:sym_ul": 536924,
+                "contact:phone": "+48 447102387",
+                "ref:regon": "101664680",
+                "ref:vatin": "PL7732403557",
+                "operator": "Gmina Budziszewice",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        }
+    ]
+}

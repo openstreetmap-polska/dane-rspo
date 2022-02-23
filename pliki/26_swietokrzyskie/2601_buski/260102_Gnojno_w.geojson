@@ -1,1 +1,231 @@
-{"type":"FeatureCollection","features":[{"id":196375,"type":"Feature","geometry":{"type":"Point","coordinates":[20.836349,50.544475]},"properties":{"isced:level":"1;2","ref:rspo":196375,"official_name":"Szko\u0142a Podstawowa w Balicach","name":"Szko\u0142a Podstawowa w Balicach","addr:country":"PL","addr:postcode":"28-114","addr:place":"Balice","addr:housenumber":"59","addr:teryt:sym_ul":237989,"contact:phone":"+48 413531727","contact:email":"baliceszp@interia.pl","contact:website":"http:\/\/www.spbalice.szkolnastrona.pl","ref:regon":"367992603","operator":"Gmina Gnojno","operator:type":"government","amenity":"school"}},{"id":263321,"type":"Feature","geometry":{"type":"Point","coordinates":[20.836349,50.544444999999996]},"properties":{"ref:rspo":263321,"official_name":"Punkt Przedszkolny Przy Szkole Podstawowej w Balicach","name":"Punkt Przedszkolny Przy Szkole Podstawowej w Balicach","addr:country":"PL","addr:postcode":"28-114","addr:place":"Balice","addr:housenumber":"59","addr:teryt:sym_ul":237989,"contact:phone":"+48 413531727","contact:email":"baliceszp@interia.pl","ref:regon":"368179732","operator":"Gmina Gnojno","operator:type":"government","amenity":"kindergarten"}},{"id":22748,"type":"Feature","geometry":{"type":"Point","coordinates":[20.882444,50.579892]},"properties":{"isced:level":"1;2","ref:rspo":22748,"official_name":"Szko\u0142a Podstawowa w Raczycach","name":"Szko\u0142a Podstawowa w Raczycach","addr:country":"PL","addr:postcode":"28-114","addr:place":"Raczyce","addr:housenumber":"64","addr:teryt:sym_ul":238486,"contact:phone":"+48 413532085","contact:email":"spraczyce@op.pl","contact:website":"http:\/\/www.spraczyce.szkolnastrona.pl","ref:regon":"001216334","ref:vatin":"PL6551968812","operator":"Gmina Gnojno","operator:type":"government","amenity":"school"}},{"id":123978,"type":"Feature","geometry":{"type":"Point","coordinates":[20.882444,50.579862]},"properties":{"ref:rspo":123978,"official_name":"Punkt Przedszkolny Przy Szkole Podstawowej w Raczycach","name":"Punkt Przedszkolny Przy Szkole Podstawowej w Raczycach","addr:country":"PL","addr:postcode":"28-114","addr:place":"Raczyce","addr:housenumber":"64","addr:teryt:sym_ul":238486,"contact:phone":"+48 413532085","contact:email":"spraczyce@op.pl","ref:regon":"260787493","operator":"Gmina Gnojno","operator:type":"government","amenity":"kindergarten"}},{"id":196372,"type":"Feature","geometry":{"type":"Point","coordinates":[20.9202881,50.58578]},"properties":{"isced:level":"1;2","ref:rspo":196372,"official_name":"Szko\u0142a Podstawowa w Jarz\u0105bkach","name":"Szko\u0142a Podstawowa w Jarz\u0105bkach","addr:country":"PL","addr:postcode":"28-114","addr:place":"Jarz\u0105bki","addr:housenumber":"90","addr:teryt:sym_ul":238300,"contact:phone":"+48 413532097","contact:email":"szkolajarzabki@wp.pl","contact:website":"http:\/\/www.szkolajarzabki.szkolnastrona.pl","ref:regon":"367991986","operator":"Gmina Gnojno","operator:type":"government","amenity":"school"}},{"id":263332,"type":"Feature","geometry":{"type":"Point","coordinates":[20.9202881,50.58575]},"properties":{"ref:rspo":263332,"official_name":"Punkt Przedszkolny Przy Szkole Podstawowej w Jarz\u0105bkach","name":"Punkt Przedszkolny Przy Szkole Podstawowej w Jarz\u0105bkach","addr:country":"PL","addr:postcode":"28-114","addr:place":"Jarz\u0105bki","addr:housenumber":"90","addr:teryt:sym_ul":238300,"contact:phone":"+48 413532097","contact:email":"szkolajarzabki@wp.pl","contact:website":"http:\/\/www.szkolajarzabki.szkolnastrona.pl","ref:regon":"368180853","operator":"Gmina Gnojno","operator:type":"government","amenity":"kindergarten"}},{"id":23049,"type":"Feature","geometry":{"type":"Point","coordinates":[20.840134,50.6042201]},"properties":{"isced:level":"1;2","ref:rspo":23049,"official_name":"Szko\u0142a Podstawowa im. Marii Konopnickiej w Gnojnie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"28-114","addr:place":"Gnojno","addr:housenumber":"148","addr:teryt:sym_ul":238084,"contact:phone":"+48 413532013","contact:email":"szkolagnojno@wp.pl","ref:regon":"000640716","ref:vatin":"PL6551968835","operator":"Gmina Gnojno","operator:type":"government","amenity":"school"}},{"id":123977,"type":"Feature","geometry":{"type":"Point","coordinates":[20.840134,50.6041901]},"properties":{"ref:rspo":123977,"official_name":"Punkt Przedszkolny Przy Szkole Podstawowej w Gnojnie","name":"Punkt Przedszkolny Przy Szkole Podstawowej w Gnojnie","addr:country":"PL","addr:postcode":"28-114","addr:place":"Gnojno","addr:housenumber":"148","addr:teryt:sym_ul":238084,"contact:phone":"+48 413532013","contact:email":"szkolagnojno@wp.pl","ref:regon":"260787501","operator":"Gmina Gnojno","operator:type":"government","amenity":"kindergarten"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 196375,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.836349,
+                    50.544475
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 196375,
+                "official_name": "Szko\u0142a Podstawowa w Balicach",
+                "name": "Szko\u0142a Podstawowa w Balicach",
+                "addr:country": "PL",
+                "addr:postcode": "28-114",
+                "addr:place": "Balice",
+                "addr:housenumber": "59",
+                "addr:teryt:sym_ul": 237989,
+                "contact:phone": "+48 413531727",
+                "contact:email": "baliceszp@interia.pl",
+                "contact:website": "http:\/\/www.spbalice.szkolnastrona.pl",
+                "ref:regon": "367992603",
+                "operator": "Gmina Gnojno",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 263321,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.836349,
+                    50.544444999999996
+                ]
+            },
+            "properties": {
+                "ref:rspo": 263321,
+                "official_name": "Punkt Przedszkolny Przy Szkole Podstawowej w Balicach",
+                "name": "Punkt Przedszkolny Przy Szkole Podstawowej w Balicach",
+                "addr:country": "PL",
+                "addr:postcode": "28-114",
+                "addr:place": "Balice",
+                "addr:housenumber": "59",
+                "addr:teryt:sym_ul": 237989,
+                "contact:phone": "+48 413531727",
+                "contact:email": "baliceszp@interia.pl",
+                "ref:regon": "368179732",
+                "operator": "Gmina Gnojno",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 22748,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.882444,
+                    50.579892
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 22748,
+                "official_name": "Szko\u0142a Podstawowa w Raczycach",
+                "name": "Szko\u0142a Podstawowa w Raczycach",
+                "addr:country": "PL",
+                "addr:postcode": "28-114",
+                "addr:place": "Raczyce",
+                "addr:housenumber": "64",
+                "addr:teryt:sym_ul": 238486,
+                "contact:phone": "+48 413532085",
+                "contact:email": "spraczyce@op.pl",
+                "contact:website": "http:\/\/www.spraczyce.szkolnastrona.pl",
+                "ref:regon": "001216334",
+                "ref:vatin": "PL6551968812",
+                "operator": "Gmina Gnojno",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 123978,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.882444,
+                    50.579862
+                ]
+            },
+            "properties": {
+                "ref:rspo": 123978,
+                "official_name": "Punkt Przedszkolny Przy Szkole Podstawowej w Raczycach",
+                "name": "Punkt Przedszkolny Przy Szkole Podstawowej w Raczycach",
+                "addr:country": "PL",
+                "addr:postcode": "28-114",
+                "addr:place": "Raczyce",
+                "addr:housenumber": "64",
+                "addr:teryt:sym_ul": 238486,
+                "contact:phone": "+48 413532085",
+                "contact:email": "spraczyce@op.pl",
+                "ref:regon": "260787493",
+                "operator": "Gmina Gnojno",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 196372,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.9202881,
+                    50.58578
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 196372,
+                "official_name": "Szko\u0142a Podstawowa w Jarz\u0105bkach",
+                "name": "Szko\u0142a Podstawowa w Jarz\u0105bkach",
+                "addr:country": "PL",
+                "addr:postcode": "28-114",
+                "addr:place": "Jarz\u0105bki",
+                "addr:housenumber": "90",
+                "addr:teryt:sym_ul": 238300,
+                "contact:phone": "+48 413532097",
+                "contact:email": "szkolajarzabki@wp.pl",
+                "contact:website": "http:\/\/www.szkolajarzabki.szkolnastrona.pl",
+                "ref:regon": "367991986",
+                "operator": "Gmina Gnojno",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 263332,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.9202881,
+                    50.58575
+                ]
+            },
+            "properties": {
+                "ref:rspo": 263332,
+                "official_name": "Punkt Przedszkolny Przy Szkole Podstawowej w Jarz\u0105bkach",
+                "name": "Punkt Przedszkolny Przy Szkole Podstawowej w Jarz\u0105bkach",
+                "addr:country": "PL",
+                "addr:postcode": "28-114",
+                "addr:place": "Jarz\u0105bki",
+                "addr:housenumber": "90",
+                "addr:teryt:sym_ul": 238300,
+                "contact:phone": "+48 413532097",
+                "contact:email": "szkolajarzabki@wp.pl",
+                "contact:website": "http:\/\/www.szkolajarzabki.szkolnastrona.pl",
+                "ref:regon": "368180853",
+                "operator": "Gmina Gnojno",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 23049,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.840134,
+                    50.6042201
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 23049,
+                "official_name": "Szko\u0142a Podstawowa im. Marii Konopnickiej w Gnojnie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "28-114",
+                "addr:place": "Gnojno",
+                "addr:housenumber": "148",
+                "addr:teryt:sym_ul": 238084,
+                "contact:phone": "+48 413532013",
+                "contact:email": "szkolagnojno@wp.pl",
+                "ref:regon": "000640716",
+                "ref:vatin": "PL6551968835",
+                "operator": "Gmina Gnojno",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 123977,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.840134,
+                    50.6041901
+                ]
+            },
+            "properties": {
+                "ref:rspo": 123977,
+                "official_name": "Punkt Przedszkolny Przy Szkole Podstawowej w Gnojnie",
+                "name": "Punkt Przedszkolny Przy Szkole Podstawowej w Gnojnie",
+                "addr:country": "PL",
+                "addr:postcode": "28-114",
+                "addr:place": "Gnojno",
+                "addr:housenumber": "148",
+                "addr:teryt:sym_ul": 238084,
+                "contact:phone": "+48 413532013",
+                "contact:email": "szkolagnojno@wp.pl",
+                "ref:regon": "260787501",
+                "operator": "Gmina Gnojno",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        }
+    ]
+}

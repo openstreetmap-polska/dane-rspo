@@ -1,1 +1,152 @@
-{"type":"FeatureCollection","features":[{"id":80430,"type":"Feature","geometry":{"type":"Point","coordinates":[22.7446339,52.104468]},"properties":{"isced:level":"1;2","ref:rspo":80430,"official_name":"Niepubliczna Szko\u0142a Podstawowa w Mostowie","name":"Niepubliczna Szko\u0142a Podstawowa w Mostowie","addr:country":"PL","addr:postcode":"08-206","addr:place":"Most\u00f3w","addr:housenumber":"10","addr:teryt:sym_ul":12641,"contact:phone":"+48 833580126","contact:email":"ela.o.mostow@interia.pl","ref:regon":"146407694","ref:vatin":"PL4960230451","operator":"Stowarzyszenie Rozwoju Wsi Most\u00f3w","operator:type":"ngo","amenity":"school"}},{"id":84031,"type":"Feature","geometry":{"type":"Point","coordinates":[22.7446339,52.104437999999995]},"properties":{"ref:rspo":84031,"official_name":"Niepubliczne Przedszkole \n\" S\u0142oneczko\"","name":"Niepubliczne Przedszkole \n\" S\u0142oneczko\"","addr:country":"PL","addr:postcode":"08-206","addr:place":"Most\u00f3w","addr:housenumber":"10","addr:teryt:sym_ul":12641,"contact:phone":"+48 833580126","ref:regon":"146407659","operator":"Stowarzyszenie Rozwoju Wsi Most\u00f3w","operator:type":"ngo","amenity":"kindergarten"}},{"id":84747,"type":"Feature","geometry":{"type":"Point","coordinates":[22.8386112,52.1365541]},"properties":{"ref:rspo":84747,"official_name":"Przedszkole Samorz\u0105dowe w Huszlewie w Zespole Szkolno-Wychowawczym w Huszlewie","name":"Przedszkole Samorz\u0105dowe w Huszlewie w Zespole Szkolno-Wychowawczym w Huszlewie","addr:country":"PL","addr:postcode":"08-206","addr:place":"Huszlew","addr:housenumber":"75","addr:teryt:sym_ul":12517,"contact:phone":"+48 833580335","contact:email":"gimhuszlew@poczta.onet.pl","contact:website":"http:\/\/zswhuszlew.szkolnastrona.pl","ref:regon":"000966642","ref:vatin":"PL4960142267","operator":"Gmina Huszlew","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 53135"}},{"id":53135,"type":"Feature","geometry":{"type":"Point","coordinates":[22.8441248,52.1395399]},"properties":{"ref:rspo":53135,"official_name":"Zesp\u00f3\u0142 Szkolno-Wychowawczy w Huszlewie","name":"Zesp\u00f3\u0142 Szkolno-Wychowawczy w Huszlewie","addr:country":"PL","addr:postcode":"08-206","addr:place":"Huszlew","addr:housenumber":"113","addr:teryt:sym_ul":12517,"contact:phone":"+48 833580335","contact:email":"gimhuszlew@poczta.onet.pl","contact:website":"http:\/\/zswhuszlew.szkolnastrona.pl","ref:regon":"141562711","ref:vatin":"PL4960232450","operator":"Gmina Huszlew","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 84747;84980"}},{"id":84980,"type":"Feature","geometry":{"type":"Point","coordinates":[22.8441248,52.1395099]},"properties":{"isced:level":"1;2","ref:rspo":84980,"official_name":"Szko\u0142a Podstawowa im. Jana Paw\u0142a II w Huszlewie w Zespole Szkolno Wychowawczym w Huszlewie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"08-206","addr:place":"Huszlew","addr:housenumber":"113","addr:teryt:sym_ul":12517,"contact:phone":"+48 833580335","contact:email":"gimhuszlew@poczta.onet.pl","contact:website":"http:\/\/zswhuszlew.szkolnastrona.pl","ref:regon":"000712893","ref:vatin":"PL4960142244","operator":"Gmina Huszlew","operator:type":"government","amenity":"school","note":"Parent RSPO: 53135"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 80430,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.7446339,
+                    52.104468
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 80430,
+                "official_name": "Niepubliczna Szko\u0142a Podstawowa w Mostowie",
+                "name": "Niepubliczna Szko\u0142a Podstawowa w Mostowie",
+                "addr:country": "PL",
+                "addr:postcode": "08-206",
+                "addr:place": "Most\u00f3w",
+                "addr:housenumber": "10",
+                "addr:teryt:sym_ul": 12641,
+                "contact:phone": "+48 833580126",
+                "contact:email": "ela.o.mostow@interia.pl",
+                "ref:regon": "146407694",
+                "ref:vatin": "PL4960230451",
+                "operator": "Stowarzyszenie Rozwoju Wsi Most\u00f3w",
+                "operator:type": "ngo",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 84031,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.7446339,
+                    52.104437999999995
+                ]
+            },
+            "properties": {
+                "ref:rspo": 84031,
+                "official_name": "Niepubliczne Przedszkole \n\" S\u0142oneczko\"",
+                "name": "Niepubliczne Przedszkole \n\" S\u0142oneczko\"",
+                "addr:country": "PL",
+                "addr:postcode": "08-206",
+                "addr:place": "Most\u00f3w",
+                "addr:housenumber": "10",
+                "addr:teryt:sym_ul": 12641,
+                "contact:phone": "+48 833580126",
+                "ref:regon": "146407659",
+                "operator": "Stowarzyszenie Rozwoju Wsi Most\u00f3w",
+                "operator:type": "ngo",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 84747,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.8386112,
+                    52.1365541
+                ]
+            },
+            "properties": {
+                "ref:rspo": 84747,
+                "official_name": "Przedszkole Samorz\u0105dowe w Huszlewie w Zespole Szkolno-Wychowawczym w Huszlewie",
+                "name": "Przedszkole Samorz\u0105dowe w Huszlewie w Zespole Szkolno-Wychowawczym w Huszlewie",
+                "addr:country": "PL",
+                "addr:postcode": "08-206",
+                "addr:place": "Huszlew",
+                "addr:housenumber": "75",
+                "addr:teryt:sym_ul": 12517,
+                "contact:phone": "+48 833580335",
+                "contact:email": "gimhuszlew@poczta.onet.pl",
+                "contact:website": "http:\/\/zswhuszlew.szkolnastrona.pl",
+                "ref:regon": "000966642",
+                "ref:vatin": "PL4960142267",
+                "operator": "Gmina Huszlew",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 53135"
+            }
+        },
+        {
+            "id": 53135,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.8441248,
+                    52.1395399
+                ]
+            },
+            "properties": {
+                "ref:rspo": 53135,
+                "official_name": "Zesp\u00f3\u0142 Szkolno-Wychowawczy w Huszlewie",
+                "name": "Zesp\u00f3\u0142 Szkolno-Wychowawczy w Huszlewie",
+                "addr:country": "PL",
+                "addr:postcode": "08-206",
+                "addr:place": "Huszlew",
+                "addr:housenumber": "113",
+                "addr:teryt:sym_ul": 12517,
+                "contact:phone": "+48 833580335",
+                "contact:email": "gimhuszlew@poczta.onet.pl",
+                "contact:website": "http:\/\/zswhuszlew.szkolnastrona.pl",
+                "ref:regon": "141562711",
+                "ref:vatin": "PL4960232450",
+                "operator": "Gmina Huszlew",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 84747;84980"
+            }
+        },
+        {
+            "id": 84980,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.8441248,
+                    52.1395099
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 84980,
+                "official_name": "Szko\u0142a Podstawowa im. Jana Paw\u0142a II w Huszlewie w Zespole Szkolno Wychowawczym w Huszlewie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "08-206",
+                "addr:place": "Huszlew",
+                "addr:housenumber": "113",
+                "addr:teryt:sym_ul": 12517,
+                "contact:phone": "+48 833580335",
+                "contact:email": "gimhuszlew@poczta.onet.pl",
+                "contact:website": "http:\/\/zswhuszlew.szkolnastrona.pl",
+                "ref:regon": "000712893",
+                "ref:vatin": "PL4960142244",
+                "operator": "Gmina Huszlew",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 53135"
+            }
+        }
+    ]
+}

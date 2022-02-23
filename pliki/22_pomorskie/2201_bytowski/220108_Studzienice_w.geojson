@@ -1,1 +1,97 @@
-{"type":"FeatureCollection","features":[{"id":69894,"type":"Feature","geometry":{"type":"Point","coordinates":[17.57935,54.09159]},"properties":{"isced:level":"1;2","ref:rspo":69894,"official_name":"Szko\u0142a Podstawowa im. Ks. Antoniego Pepli\u0144skiego w Studzienicach","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"77-143","addr:city":"Studzienice","addr:street":"ul. Brzozowa","addr:housenumber":"7","addr:teryt:simc":2276,"addr:teryt:sym_ul":751574,"contact:phone":"+48 598216528","contact:email":"studzienicegim@poczta.onet.pl","contact:website":"http:\/\/www.zs.studzienice.pl","ref:regon":"000647405","ref:vatin":"PL8421734175","operator":"Gmina Studzienice","operator:type":"government","amenity":"school"}},{"id":69984,"type":"Feature","geometry":{"type":"Point","coordinates":[17.52747,54.12551]},"properties":{"isced:level":"1;2","ref:rspo":69984,"official_name":"Szko\u0142a Podstawowa im. Obro\u0144c\u00f3w Polsko\u015bci Na Ziemi Ugoskiej w Ugoszczy","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"77-142","addr:place":"Ugoszcz","addr:housenumber":"46","addr:teryt:sym_ul":751597,"contact:phone":"+48 598214760","contact:email":"spugoszcz@poczta.onet.pl","contact:website":"http:\/\/zsugoszcz.edupage.org","ref:regon":"001210596","ref:vatin":"PL8421734181","operator":"Gmina Studzienice","operator:type":"government","amenity":"school"}},{"id":70014,"type":"Feature","geometry":{"type":"Point","coordinates":[17.6386458,54.1527158]},"properties":{"isced:level":"1;2","ref:rspo":70014,"official_name":"Szko\u0142a Podstawowa Imienia Tajnej Organizacji Wojskowej \"Gryf Pomorski\" w P\u00f3\u0142cznie","name":"Szko\u0142a Podstawowa Imienia Tajnej Organizacji Wojskowej \"Gryf Pomorski\" w P\u00f3\u0142cznie","addr:country":"PL","addr:postcode":"77-125","addr:place":"P\u00f3\u0142czno","addr:housenumber":"3","addr:teryt:sym_ul":751396,"contact:phone":"+48 598214325","contact:email":"zspolczno@poczta.onet.pl","contact:website":"http:\/\/zspolczno.edupage.org","ref:regon":"001210604","ref:vatin":"PL8421734169","operator":"Gmina Studzienice","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 69894,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.57935,
+                    54.09159
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 69894,
+                "official_name": "Szko\u0142a Podstawowa im. Ks. Antoniego Pepli\u0144skiego w Studzienicach",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "77-143",
+                "addr:city": "Studzienice",
+                "addr:street": "ul. Brzozowa",
+                "addr:housenumber": "7",
+                "addr:teryt:simc": 2276,
+                "addr:teryt:sym_ul": 751574,
+                "contact:phone": "+48 598216528",
+                "contact:email": "studzienicegim@poczta.onet.pl",
+                "contact:website": "http:\/\/www.zs.studzienice.pl",
+                "ref:regon": "000647405",
+                "ref:vatin": "PL8421734175",
+                "operator": "Gmina Studzienice",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 69984,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.52747,
+                    54.12551
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 69984,
+                "official_name": "Szko\u0142a Podstawowa im. Obro\u0144c\u00f3w Polsko\u015bci Na Ziemi Ugoskiej w Ugoszczy",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "77-142",
+                "addr:place": "Ugoszcz",
+                "addr:housenumber": "46",
+                "addr:teryt:sym_ul": 751597,
+                "contact:phone": "+48 598214760",
+                "contact:email": "spugoszcz@poczta.onet.pl",
+                "contact:website": "http:\/\/zsugoszcz.edupage.org",
+                "ref:regon": "001210596",
+                "ref:vatin": "PL8421734181",
+                "operator": "Gmina Studzienice",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 70014,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.6386458,
+                    54.1527158
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 70014,
+                "official_name": "Szko\u0142a Podstawowa Imienia Tajnej Organizacji Wojskowej \"Gryf Pomorski\" w P\u00f3\u0142cznie",
+                "name": "Szko\u0142a Podstawowa Imienia Tajnej Organizacji Wojskowej \"Gryf Pomorski\" w P\u00f3\u0142cznie",
+                "addr:country": "PL",
+                "addr:postcode": "77-125",
+                "addr:place": "P\u00f3\u0142czno",
+                "addr:housenumber": "3",
+                "addr:teryt:sym_ul": 751396,
+                "contact:phone": "+48 598214325",
+                "contact:email": "zspolczno@poczta.onet.pl",
+                "contact:website": "http:\/\/zspolczno.edupage.org",
+                "ref:regon": "001210604",
+                "ref:vatin": "PL8421734169",
+                "operator": "Gmina Studzienice",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

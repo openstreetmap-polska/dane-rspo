@@ -1,1 +1,129 @@
-{"type":"FeatureCollection","features":[{"id":17632,"type":"Feature","geometry":{"type":"Point","coordinates":[16.42941,50.89052]},"properties":{"isced:level":"1;2","ref:rspo":17632,"official_name":"Szko\u0142a Podstawowa Z Oddzia\u0142ami Integracyjnym w Starym Jaworowie","name":"Szko\u0142a Podstawowa Z Oddzia\u0142ami Integracyjnym w Starym Jaworowie","addr:country":"PL","addr:postcode":"58-140","addr:place":"Stary Jawor\u00f3w","addr:housenumber":"38","addr:teryt:sym_ul":852571,"contact:phone":"+48 748588159","contact:email":"spstaryjawor@interia.pl","contact:website":"http:\/\/www.spstaryjaworow.jaworzyna.net","ref:regon":"001227042","ref:vatin":"PL8842116753","operator":"Gmina Jaworzyna \u015al\u0105ska","operator:type":"government","amenity":"school"}},{"id":17630,"type":"Feature","geometry":{"type":"Point","coordinates":[16.4308799,50.91561]},"properties":{"isced:level":"1;2","ref:rspo":17630,"official_name":"Szko\u0142a Podstawowa im. Marii Konopnickiej w Jaworzynie \u015aL\u0105skiej","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"58-140","addr:city":"Jaworzyna \u015al\u0105ska","addr:street":"ul. Adama Mickiewicza","addr:housenumber":"9","addr:teryt:simc":12740,"addr:teryt:sym_ul":984019,"contact:phone":"+48 748588177","contact:email":"sp@szkola.jaworzyna.net","contact:website":"http:\/\/www.szkola.jaworzyna.net","ref:regon":"000239014","ref:vatin":"PL8842116150","operator":"Gmina Jaworzyna \u015al\u0105ska","operator:type":"government","amenity":"school"}},{"id":17629,"type":"Feature","geometry":{"type":"Point","coordinates":[16.43236,50.9169]},"properties":{"ref:rspo":17629,"official_name":"Przedszkole Samorz\u0105dowe im. \"Chatka Puchatka\" w Jaworzynie \u015aL\u0105skiej","name":"Przedszkole Samorz\u0105dowe","addr:country":"PL","addr:postcode":"58-140","addr:city":"Jaworzyna \u015al\u0105ska","addr:street":"ul. Westerplatte","addr:housenumber":"18","addr:teryt:simc":23897,"addr:teryt:sym_ul":984019,"contact:phone":"+48 748588277","contact:email":"przedszkole@jaworzyna.net","ref:regon":"021405025","ref:vatin":"PL8842727416","operator":"Gmina Jaworzyna \u015al\u0105ska","operator:type":"government","amenity":"kindergarten"}},{"id":17631,"type":"Feature","geometry":{"type":"Point","coordinates":[16.43846,50.94873]},"properties":{"isced:level":"1;2","ref:rspo":17631,"official_name":"Szko\u0142a Podstawowa im. \u015awi\u0119tego Miko\u0142aja w Pastuchowie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"58-115","addr:city":"Pastuch\u00f3w","addr:street":"ul. Wyzwolenia","addr:housenumber":"22","addr:teryt:simc":25133,"addr:teryt:sym_ul":852559,"contact:phone":"+48 748508126","contact:email":"pastuchow@jaworzyna.net","contact:website":"http:\/\/www.pastuchowsp.jaworzyna.net","ref:regon":"001215547","ref:vatin":"PL8842117511","operator":"Gmina Jaworzyna \u015al\u0105ska","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 17632,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.42941,
+                    50.89052
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 17632,
+                "official_name": "Szko\u0142a Podstawowa Z Oddzia\u0142ami Integracyjnym w Starym Jaworowie",
+                "name": "Szko\u0142a Podstawowa Z Oddzia\u0142ami Integracyjnym w Starym Jaworowie",
+                "addr:country": "PL",
+                "addr:postcode": "58-140",
+                "addr:place": "Stary Jawor\u00f3w",
+                "addr:housenumber": "38",
+                "addr:teryt:sym_ul": 852571,
+                "contact:phone": "+48 748588159",
+                "contact:email": "spstaryjawor@interia.pl",
+                "contact:website": "http:\/\/www.spstaryjaworow.jaworzyna.net",
+                "ref:regon": "001227042",
+                "ref:vatin": "PL8842116753",
+                "operator": "Gmina Jaworzyna \u015al\u0105ska",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 17630,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.4308799,
+                    50.91561
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 17630,
+                "official_name": "Szko\u0142a Podstawowa im. Marii Konopnickiej w Jaworzynie \u015aL\u0105skiej",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "58-140",
+                "addr:city": "Jaworzyna \u015al\u0105ska",
+                "addr:street": "ul. Adama Mickiewicza",
+                "addr:housenumber": "9",
+                "addr:teryt:simc": 12740,
+                "addr:teryt:sym_ul": 984019,
+                "contact:phone": "+48 748588177",
+                "contact:email": "sp@szkola.jaworzyna.net",
+                "contact:website": "http:\/\/www.szkola.jaworzyna.net",
+                "ref:regon": "000239014",
+                "ref:vatin": "PL8842116150",
+                "operator": "Gmina Jaworzyna \u015al\u0105ska",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 17629,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.43236,
+                    50.9169
+                ]
+            },
+            "properties": {
+                "ref:rspo": 17629,
+                "official_name": "Przedszkole Samorz\u0105dowe im. \"Chatka Puchatka\" w Jaworzynie \u015aL\u0105skiej",
+                "name": "Przedszkole Samorz\u0105dowe",
+                "addr:country": "PL",
+                "addr:postcode": "58-140",
+                "addr:city": "Jaworzyna \u015al\u0105ska",
+                "addr:street": "ul. Westerplatte",
+                "addr:housenumber": "18",
+                "addr:teryt:simc": 23897,
+                "addr:teryt:sym_ul": 984019,
+                "contact:phone": "+48 748588277",
+                "contact:email": "przedszkole@jaworzyna.net",
+                "ref:regon": "021405025",
+                "ref:vatin": "PL8842727416",
+                "operator": "Gmina Jaworzyna \u015al\u0105ska",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 17631,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.43846,
+                    50.94873
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 17631,
+                "official_name": "Szko\u0142a Podstawowa im. \u015awi\u0119tego Miko\u0142aja w Pastuchowie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "58-115",
+                "addr:city": "Pastuch\u00f3w",
+                "addr:street": "ul. Wyzwolenia",
+                "addr:housenumber": "22",
+                "addr:teryt:simc": 25133,
+                "addr:teryt:sym_ul": 852559,
+                "contact:phone": "+48 748508126",
+                "contact:email": "pastuchow@jaworzyna.net",
+                "contact:website": "http:\/\/www.pastuchowsp.jaworzyna.net",
+                "ref:regon": "001215547",
+                "ref:vatin": "PL8842117511",
+                "operator": "Gmina Jaworzyna \u015al\u0105ska",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

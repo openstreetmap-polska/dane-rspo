@@ -1,1 +1,153 @@
-{"type":"FeatureCollection","features":[{"id":19393,"type":"Feature","geometry":{"type":"Point","coordinates":[20.5722578,50.2175809]},"properties":{"isced:level":"1;2","ref:rspo":19393,"official_name":"Samorz\u0105dowa Szko\u0142a Podstawowa im. Edwarda Haruzy w Dobies\u0142awicach","name":"Samorz\u0105dowa Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"28-512","addr:place":"Dobies\u0142awice","addr:housenumber":"38a","addr:teryt:sym_ul":226840,"contact:phone":"+48 413511041","contact:email":"sekretariat@sspdobieslawice.szkolnastrona.pl","contact:website":"http:\/\/www.sspdobieslawice.szkolnastrona.pl","ref:regon":"001167370","ref:vatin":"PL6621491641","operator":"Gmina Bejsce","operator:type":"government","amenity":"school"}},{"id":90528,"type":"Feature","geometry":{"type":"Point","coordinates":[20.5722578,50.2175509]},"properties":{"ref:rspo":90528,"official_name":"Punkt Przedszkolny w Dobies\u0142awicach","name":"Punkt Przedszkolny w Dobies\u0142awicach","addr:country":"PL","addr:postcode":"28-512","addr:place":"Dobies\u0142awice","addr:housenumber":"38A","addr:teryt:sym_ul":226840,"contact:phone":"+48 413511041","contact:email":"sekretariat@sspdobieslawice.szkolnastrona.pl","contact:website":"http:\/\/sspdobieslawice.szkolnastrona.pl","ref:regon":"260651300","operator":"Gmina Bejsce","operator:type":"government","amenity":"kindergarten"}},{"id":277717,"type":"Feature","geometry":{"type":"Point","coordinates":[20.601813,50.241385]},"properties":{"ref:rspo":277717,"official_name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w Bejscach","name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w Bejscach","addr:country":"PL","addr:postcode":"28-512","addr:place":"Bejsce","addr:housenumber":"233","addr:teryt:sym_ul":226690,"contact:phone":"+48 413511009","contact:email":"sspbejsce@wp.pl","contact:website":"http:\/\/ssspbejsce.pl","ref:regon":"389375939","operator":"Gmina Bejsce","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 19480;50571"}},{"id":19480,"type":"Feature","geometry":{"type":"Point","coordinates":[20.601813,50.241355]},"properties":{"isced:level":"1;2","ref:rspo":19480,"official_name":"Samorz\u0105dowa Szko\u0142a Podstawowa im. Gen. Franciszka Kami\u0144skiego w Bejscach","name":"Samorz\u0105dowa Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"28-512","addr:place":"Bejsce","addr:housenumber":"233","addr:teryt:sym_ul":226690,"contact:phone":"+48 413511009","contact:email":"sspbejsce@wp.pl","contact:website":"http:\/\/sspbejsce.pl","ref:regon":"000265342","ref:vatin":"PL6621491635","operator":"Gmina Bejsce","operator:type":"government","amenity":"school","note":"Parent RSPO: 277717"}},{"id":50571,"type":"Feature","geometry":{"type":"Point","coordinates":[20.601813,50.241325]},"properties":{"ref:rspo":50571,"official_name":"Samorz\u0105dowe Przedszkole w Bejscach","name":"Samorz\u0105dowe Przedszkole w Bejscach","addr:country":"PL","addr:postcode":"28-512","addr:place":"Bejsce","addr:housenumber":"233","addr:teryt:sym_ul":226690,"contact:phone":"+48 413511009","contact:email":"sspbejsce@wp.pl","contact:website":"http:\/\/www.sspbejsce.pl","ref:regon":"260642659","operator":"Gmina Bejsce","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 277717"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 19393,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.5722578,
+                    50.2175809
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 19393,
+                "official_name": "Samorz\u0105dowa Szko\u0142a Podstawowa im. Edwarda Haruzy w Dobies\u0142awicach",
+                "name": "Samorz\u0105dowa Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "28-512",
+                "addr:place": "Dobies\u0142awice",
+                "addr:housenumber": "38a",
+                "addr:teryt:sym_ul": 226840,
+                "contact:phone": "+48 413511041",
+                "contact:email": "sekretariat@sspdobieslawice.szkolnastrona.pl",
+                "contact:website": "http:\/\/www.sspdobieslawice.szkolnastrona.pl",
+                "ref:regon": "001167370",
+                "ref:vatin": "PL6621491641",
+                "operator": "Gmina Bejsce",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 90528,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.5722578,
+                    50.2175509
+                ]
+            },
+            "properties": {
+                "ref:rspo": 90528,
+                "official_name": "Punkt Przedszkolny w Dobies\u0142awicach",
+                "name": "Punkt Przedszkolny w Dobies\u0142awicach",
+                "addr:country": "PL",
+                "addr:postcode": "28-512",
+                "addr:place": "Dobies\u0142awice",
+                "addr:housenumber": "38A",
+                "addr:teryt:sym_ul": 226840,
+                "contact:phone": "+48 413511041",
+                "contact:email": "sekretariat@sspdobieslawice.szkolnastrona.pl",
+                "contact:website": "http:\/\/sspdobieslawice.szkolnastrona.pl",
+                "ref:regon": "260651300",
+                "operator": "Gmina Bejsce",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 277717,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.601813,
+                    50.241385
+                ]
+            },
+            "properties": {
+                "ref:rspo": 277717,
+                "official_name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w Bejscach",
+                "name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w Bejscach",
+                "addr:country": "PL",
+                "addr:postcode": "28-512",
+                "addr:place": "Bejsce",
+                "addr:housenumber": "233",
+                "addr:teryt:sym_ul": 226690,
+                "contact:phone": "+48 413511009",
+                "contact:email": "sspbejsce@wp.pl",
+                "contact:website": "http:\/\/ssspbejsce.pl",
+                "ref:regon": "389375939",
+                "operator": "Gmina Bejsce",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 19480;50571"
+            }
+        },
+        {
+            "id": 19480,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.601813,
+                    50.241355
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 19480,
+                "official_name": "Samorz\u0105dowa Szko\u0142a Podstawowa im. Gen. Franciszka Kami\u0144skiego w Bejscach",
+                "name": "Samorz\u0105dowa Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "28-512",
+                "addr:place": "Bejsce",
+                "addr:housenumber": "233",
+                "addr:teryt:sym_ul": 226690,
+                "contact:phone": "+48 413511009",
+                "contact:email": "sspbejsce@wp.pl",
+                "contact:website": "http:\/\/sspbejsce.pl",
+                "ref:regon": "000265342",
+                "ref:vatin": "PL6621491635",
+                "operator": "Gmina Bejsce",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 277717"
+            }
+        },
+        {
+            "id": 50571,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.601813,
+                    50.241325
+                ]
+            },
+            "properties": {
+                "ref:rspo": 50571,
+                "official_name": "Samorz\u0105dowe Przedszkole w Bejscach",
+                "name": "Samorz\u0105dowe Przedszkole w Bejscach",
+                "addr:country": "PL",
+                "addr:postcode": "28-512",
+                "addr:place": "Bejsce",
+                "addr:housenumber": "233",
+                "addr:teryt:sym_ul": 226690,
+                "contact:phone": "+48 413511009",
+                "contact:email": "sspbejsce@wp.pl",
+                "contact:website": "http:\/\/www.sspbejsce.pl",
+                "ref:regon": "260642659",
+                "operator": "Gmina Bejsce",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 277717"
+            }
+        }
+    ]
+}

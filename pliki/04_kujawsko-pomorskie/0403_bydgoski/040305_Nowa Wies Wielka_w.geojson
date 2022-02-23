@@ -1,1 +1,189 @@
-{"type":"FeatureCollection","features":[{"id":60263,"type":"Feature","geometry":{"type":"Point","coordinates":[18.09334,52.97057]},"properties":{"isced:level":"1;2","ref:rspo":60263,"official_name":"Szko\u0142a Podstawowa im. Marii Konopnickiej","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"86-060","addr:city":"Nowa Wie\u015b Wielka","addr:street":"ul. Ogrodowa","addr:housenumber":"1","addr:teryt:simc":14834,"addr:teryt:sym_ul":92775,"contact:phone":"+48 523812859","contact:email":"spnww@nowawieswielka.pl","contact:website":"http:\/\/www.spnww.polskaszkola.pl","ref:regon":"000269742","ref:vatin":"PL5542751515","operator":"Gmina Nowa Wie\u015b Wielka","operator:type":"government","amenity":"school"}},{"id":60264,"type":"Feature","geometry":{"type":"Point","coordinates":[18.01313,53.02671]},"properties":{"isced:level":"1;2","ref:rspo":60264,"official_name":"Szko\u0142a Podstawowa im.powsta\u0144c\u00f3w Wielkopolskich","name":"Szko\u0142a Podstawowa im.powsta\u0144c\u00f3w Wielkopolskich","addr:country":"PL","addr:postcode":"86-061","addr:city":"Brzoza","addr:street":"ul. Powsta\u0144c\u00f3w Wielkopolskich","addr:housenumber":"31","addr:teryt:simc":17377,"addr:teryt:sym_ul":92640,"contact:phone":"+48 523810168","contact:email":"spbrzoza@nowawieswielka.pl","contact:website":"http:\/\/www.spbrzoza.pl","ref:regon":"001158223","ref:vatin":"PL9532268558","operator":"Gmina Nowa Wie\u015b Wielka","operator:type":"government","amenity":"school"}},{"id":72019,"type":"Feature","geometry":{"type":"Point","coordinates":[18.01313,53.02668]},"properties":{"isced:level":"3","ref:rspo":72019,"official_name":"Prestige Liceum Og\u00f3lnokszta\u0142\u0105ce w Brzozie","name":"Prestige Liceum Og\u00f3lnokszta\u0142\u0105ce w Brzozie","addr:country":"PL","addr:postcode":"86-061","addr:city":"Brzoza","addr:street":"ul. Powsta\u0144c\u00f3w Wielkopolskich","addr:housenumber":"31A","addr:teryt:simc":17377,"addr:teryt:sym_ul":92640,"contact:phone":"+48 788717092","contact:email":"kontakt@zsprestige.pl","ref:regon":"341346993","operator":"Tw\u00f3j Prestige Sp\u00f3\u0142ka Z Ograniczon\u0105 Odpowiedzialno\u015bci\u0105","operator:type":"private","amenity":"school"}},{"id":60270,"type":"Feature","geometry":{"type":"Point","coordinates":[18.01209,53.02706]},"properties":{"ref:rspo":60270,"official_name":"Przedszkole Samorz\u0105dowe \"Jarz\u0119binka\"","name":"Przedszkole Samorz\u0105dowe \"Jarz\u0119binka\"","addr:country":"PL","addr:postcode":"86-061","addr:city":"Brzoza","addr:street":"ul. \u0141abiszy\u0144ska","addr:housenumber":"23","addr:teryt:simc":11481,"addr:teryt:sym_ul":92640,"contact:phone":"+48 523810153","contact:email":"przedszkolewbrzozie@gmail.com","ref:regon":"093129856","ref:vatin":"PL5542535303","operator":"Gmina Nowa Wie\u015b Wielka","operator:type":"government","amenity":"kindergarten"}},{"id":60269,"type":"Feature","geometry":{"type":"Point","coordinates":[18.01174,53.03268]},"properties":{"ref:rspo":60269,"official_name":"Przedszkole Samorz\u0105dowe \"Stokrotka\"","name":"Przedszkole Samorz\u0105dowe \"Stokrotka\"","addr:country":"PL","addr:postcode":"86-060","addr:city":"Nowa Wie\u015b Wielka","addr:street":"ul. Kwiatowa","addr:housenumber":"20","addr:teryt:simc":10562,"addr:teryt:sym_ul":92775,"contact:phone":"+48 523812344","contact:email":"przedszkolestokrotka@wp.pl","ref:regon":"000269558","ref:vatin":"PL9532268564","operator":"Gmina Nowa Wie\u015b Wielka","operator:type":"government","amenity":"kindergarten"}},{"id":122161,"type":"Feature","geometry":{"type":"Point","coordinates":[18.01172,53.03379]},"properties":{"ref:rspo":122161,"official_name":"Przedszkole Niepubliczne \"Motylek\"","name":"Przedszkole Niepubliczne \"Motylek\"","addr:country":"PL","addr:postcode":"86-061","addr:city":"Brzoza","addr:street":"ul. Sosnowa","addr:housenumber":"9","addr:teryt:simc":20598,"addr:teryt:sym_ul":92640,"contact:phone":"+48 785522552","contact:email":"ksmaczek@interia.pl","ref:regon":"341546752","ref:vatin":"PL9531491969","operator":"Katarzyna Smak","operator:type":"private","amenity":"kindergarten"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 60263,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.09334,
+                    52.97057
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 60263,
+                "official_name": "Szko\u0142a Podstawowa im. Marii Konopnickiej",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "86-060",
+                "addr:city": "Nowa Wie\u015b Wielka",
+                "addr:street": "ul. Ogrodowa",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 14834,
+                "addr:teryt:sym_ul": 92775,
+                "contact:phone": "+48 523812859",
+                "contact:email": "spnww@nowawieswielka.pl",
+                "contact:website": "http:\/\/www.spnww.polskaszkola.pl",
+                "ref:regon": "000269742",
+                "ref:vatin": "PL5542751515",
+                "operator": "Gmina Nowa Wie\u015b Wielka",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 60264,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.01313,
+                    53.02671
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 60264,
+                "official_name": "Szko\u0142a Podstawowa im.powsta\u0144c\u00f3w Wielkopolskich",
+                "name": "Szko\u0142a Podstawowa im.powsta\u0144c\u00f3w Wielkopolskich",
+                "addr:country": "PL",
+                "addr:postcode": "86-061",
+                "addr:city": "Brzoza",
+                "addr:street": "ul. Powsta\u0144c\u00f3w Wielkopolskich",
+                "addr:housenumber": "31",
+                "addr:teryt:simc": 17377,
+                "addr:teryt:sym_ul": 92640,
+                "contact:phone": "+48 523810168",
+                "contact:email": "spbrzoza@nowawieswielka.pl",
+                "contact:website": "http:\/\/www.spbrzoza.pl",
+                "ref:regon": "001158223",
+                "ref:vatin": "PL9532268558",
+                "operator": "Gmina Nowa Wie\u015b Wielka",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 72019,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.01313,
+                    53.02668
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 72019,
+                "official_name": "Prestige Liceum Og\u00f3lnokszta\u0142\u0105ce w Brzozie",
+                "name": "Prestige Liceum Og\u00f3lnokszta\u0142\u0105ce w Brzozie",
+                "addr:country": "PL",
+                "addr:postcode": "86-061",
+                "addr:city": "Brzoza",
+                "addr:street": "ul. Powsta\u0144c\u00f3w Wielkopolskich",
+                "addr:housenumber": "31A",
+                "addr:teryt:simc": 17377,
+                "addr:teryt:sym_ul": 92640,
+                "contact:phone": "+48 788717092",
+                "contact:email": "kontakt@zsprestige.pl",
+                "ref:regon": "341346993",
+                "operator": "Tw\u00f3j Prestige Sp\u00f3\u0142ka Z Ograniczon\u0105 Odpowiedzialno\u015bci\u0105",
+                "operator:type": "private",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 60270,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.01209,
+                    53.02706
+                ]
+            },
+            "properties": {
+                "ref:rspo": 60270,
+                "official_name": "Przedszkole Samorz\u0105dowe \"Jarz\u0119binka\"",
+                "name": "Przedszkole Samorz\u0105dowe \"Jarz\u0119binka\"",
+                "addr:country": "PL",
+                "addr:postcode": "86-061",
+                "addr:city": "Brzoza",
+                "addr:street": "ul. \u0141abiszy\u0144ska",
+                "addr:housenumber": "23",
+                "addr:teryt:simc": 11481,
+                "addr:teryt:sym_ul": 92640,
+                "contact:phone": "+48 523810153",
+                "contact:email": "przedszkolewbrzozie@gmail.com",
+                "ref:regon": "093129856",
+                "ref:vatin": "PL5542535303",
+                "operator": "Gmina Nowa Wie\u015b Wielka",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 60269,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.01174,
+                    53.03268
+                ]
+            },
+            "properties": {
+                "ref:rspo": 60269,
+                "official_name": "Przedszkole Samorz\u0105dowe \"Stokrotka\"",
+                "name": "Przedszkole Samorz\u0105dowe \"Stokrotka\"",
+                "addr:country": "PL",
+                "addr:postcode": "86-060",
+                "addr:city": "Nowa Wie\u015b Wielka",
+                "addr:street": "ul. Kwiatowa",
+                "addr:housenumber": "20",
+                "addr:teryt:simc": 10562,
+                "addr:teryt:sym_ul": 92775,
+                "contact:phone": "+48 523812344",
+                "contact:email": "przedszkolestokrotka@wp.pl",
+                "ref:regon": "000269558",
+                "ref:vatin": "PL9532268564",
+                "operator": "Gmina Nowa Wie\u015b Wielka",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 122161,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.01172,
+                    53.03379
+                ]
+            },
+            "properties": {
+                "ref:rspo": 122161,
+                "official_name": "Przedszkole Niepubliczne \"Motylek\"",
+                "name": "Przedszkole Niepubliczne \"Motylek\"",
+                "addr:country": "PL",
+                "addr:postcode": "86-061",
+                "addr:city": "Brzoza",
+                "addr:street": "ul. Sosnowa",
+                "addr:housenumber": "9",
+                "addr:teryt:simc": 20598,
+                "addr:teryt:sym_ul": 92640,
+                "contact:phone": "+48 785522552",
+                "contact:email": "ksmaczek@interia.pl",
+                "ref:regon": "341546752",
+                "ref:vatin": "PL9531491969",
+                "operator": "Katarzyna Smak",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        }
+    ]
+}

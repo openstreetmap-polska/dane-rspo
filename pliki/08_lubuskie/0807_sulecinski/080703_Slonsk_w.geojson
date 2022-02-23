@@ -1,1 +1,102 @@
-{"type":"FeatureCollection","features":[{"id":62078,"type":"Feature","geometry":{"type":"Point","coordinates":[14.80089,52.56379]},"properties":{"ref:rspo":62078,"official_name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 w S\u0142o\u0144sku","name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 w S\u0142o\u0144sku","addr:country":"PL","addr:postcode":"66-436","addr:city":"S\u0142o\u0144sk","addr:street":"ul. Lipowa","addr:housenumber":"9","addr:teryt:simc":11139,"addr:teryt:sym_ul":187062,"contact:phone":"+48 957572218","contact:email":"zsslonsk@o2.pl","contact:website":"http:\/\/www.zsslonsk.edupage.org","ref:regon":"211273536","ref:vatin":"PL9271830959","operator":"Gmina S\u0142o\u0144sk","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 75174;79272"}},{"id":79272,"type":"Feature","geometry":{"type":"Point","coordinates":[14.80089,52.563759999999995]},"properties":{"isced:level":"1;2","ref:rspo":79272,"official_name":"Szko\u0142a Podstawowa im. Przyja\u017ani Narod\u00f3w w S\u0142o\u0144sku","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"66-436","addr:city":"S\u0142o\u0144sk","addr:street":"ul. Lipowa","addr:housenumber":"9","addr:teryt:simc":11139,"addr:teryt:sym_ul":187062,"contact:phone":"+48 957572218","contact:email":"kadry.zs@slonsk.pl","contact:website":"http:\/\/www.zsslonsk.edupage.org","ref:regon":"210312375","ref:vatin":"PL5981317123","operator":"Gmina S\u0142o\u0144sk","operator:type":"government","amenity":"school","note":"Parent RSPO: 62078"}},{"id":75174,"type":"Feature","geometry":{"type":"Point","coordinates":[14.80071,52.5650199]},"properties":{"ref:rspo":75174,"official_name":"Przedszkole Samorz\u0105dowe w S\u0142o\u0144sku","name":"Przedszkole Samorz\u0105dowe w S\u0142o\u0144sku","addr:country":"PL","addr:postcode":"66-436","addr:city":"S\u0142o\u0144sk","addr:street":"ul. Lipowa","addr:housenumber":"15","addr:teryt:simc":11139,"addr:teryt:sym_ul":187062,"contact:phone":"+48 957572256","contact:email":"przedszkole.slonsk@onet.pl","ref:regon":"080036850","ref:vatin":"PL4290018819","operator":"Gmina S\u0142o\u0144sk","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 62078"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 62078,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.80089,
+                    52.56379
+                ]
+            },
+            "properties": {
+                "ref:rspo": 62078,
+                "official_name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 w S\u0142o\u0144sku",
+                "name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 w S\u0142o\u0144sku",
+                "addr:country": "PL",
+                "addr:postcode": "66-436",
+                "addr:city": "S\u0142o\u0144sk",
+                "addr:street": "ul. Lipowa",
+                "addr:housenumber": "9",
+                "addr:teryt:simc": 11139,
+                "addr:teryt:sym_ul": 187062,
+                "contact:phone": "+48 957572218",
+                "contact:email": "zsslonsk@o2.pl",
+                "contact:website": "http:\/\/www.zsslonsk.edupage.org",
+                "ref:regon": "211273536",
+                "ref:vatin": "PL9271830959",
+                "operator": "Gmina S\u0142o\u0144sk",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 75174;79272"
+            }
+        },
+        {
+            "id": 79272,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.80089,
+                    52.563759999999995
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 79272,
+                "official_name": "Szko\u0142a Podstawowa im. Przyja\u017ani Narod\u00f3w w S\u0142o\u0144sku",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "66-436",
+                "addr:city": "S\u0142o\u0144sk",
+                "addr:street": "ul. Lipowa",
+                "addr:housenumber": "9",
+                "addr:teryt:simc": 11139,
+                "addr:teryt:sym_ul": 187062,
+                "contact:phone": "+48 957572218",
+                "contact:email": "kadry.zs@slonsk.pl",
+                "contact:website": "http:\/\/www.zsslonsk.edupage.org",
+                "ref:regon": "210312375",
+                "ref:vatin": "PL5981317123",
+                "operator": "Gmina S\u0142o\u0144sk",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 62078"
+            }
+        },
+        {
+            "id": 75174,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.80071,
+                    52.5650199
+                ]
+            },
+            "properties": {
+                "ref:rspo": 75174,
+                "official_name": "Przedszkole Samorz\u0105dowe w S\u0142o\u0144sku",
+                "name": "Przedszkole Samorz\u0105dowe w S\u0142o\u0144sku",
+                "addr:country": "PL",
+                "addr:postcode": "66-436",
+                "addr:city": "S\u0142o\u0144sk",
+                "addr:street": "ul. Lipowa",
+                "addr:housenumber": "15",
+                "addr:teryt:simc": 11139,
+                "addr:teryt:sym_ul": 187062,
+                "contact:phone": "+48 957572256",
+                "contact:email": "przedszkole.slonsk@onet.pl",
+                "ref:regon": "080036850",
+                "ref:vatin": "PL4290018819",
+                "operator": "Gmina S\u0142o\u0144sk",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 62078"
+            }
+        }
+    ]
+}

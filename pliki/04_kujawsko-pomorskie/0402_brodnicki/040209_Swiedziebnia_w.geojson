@@ -1,1 +1,152 @@
-{"type":"FeatureCollection","features":[{"id":91969,"type":"Feature","geometry":{"type":"Point","coordinates":[19.55667,53.09528]},"properties":{"isced:level":"1;2","ref:rspo":91969,"official_name":"Szko\u0142a Podstawowa im. Ppor. Piotra Wysockiego w \u015awiedziebni\nSzko\u0142a Filialna w Zasadach","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"87-335","addr:place":"Zasady Nowe","addr:housenumber":"62","addr:teryt:sym_ul":849570,"contact:phone":"+48 564938411","contact:email":"sp_swiedziebnia@op.pl","ref:regon":"271408000","ref:vatin":"PL8741311536","operator":"Gmina \u015awiedziebnia","operator:type":"government","amenity":"school","note":"Parent RSPO: 14353"}},{"id":91968,"type":"Feature","geometry":{"type":"Point","coordinates":[19.49945,53.11144]},"properties":{"isced:level":"1;2","ref:rspo":91968,"official_name":"Szko\u0142a Podstawowa im. Ppor. Piotra Wysockiego w \u015awiedziebni\nSzko\u0142a Filialna im. Komisji Edukacji Narodowej w Micha\u0142kach","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"87-335","addr:place":"Micha\u0142ki","addr:housenumber":"56","addr:teryt:sym_ul":849540,"contact:phone":"+48 564938411","contact:email":"sp_swiedziebnia@op.pl","ref:regon":"271408000","ref:vatin":"PL8741311536","operator":"Gmina \u015awiedziebnia","operator:type":"government","amenity":"school","note":"Parent RSPO: 14353"}},{"id":14356,"type":"Feature","geometry":{"type":"Point","coordinates":[19.59016,53.13865]},"properties":{"isced:level":"1;2","ref:rspo":14356,"official_name":"Szko\u0142a Podstawowa w Janowie","name":"Szko\u0142a Podstawowa w Janowie","addr:country":"PL","addr:postcode":"87-335","addr:place":"Janowo","addr:housenumber":"145A","addr:teryt:sym_ul":849391,"contact:phone":"+48 564938426","contact:email":"spjanowo@sp-janowo.edupage.org","contact:website":"http:\/\/sp-janowo.edupage.org","ref:regon":"001211650","ref:vatin":"PL8741558521","operator":"Gmina \u015awiedziebnia","operator:type":"government","amenity":"school"}},{"id":269166,"type":"Feature","geometry":{"type":"Point","coordinates":[19.5565,53.15222]},"properties":{"ref:rspo":269166,"official_name":"Akademia Tygrysk\u00f3w","name":"Akademia Tygrysk\u00f3w","addr:country":"PL","addr:postcode":"87-335","addr:place":"\u015awiedziebnia","addr:housenumber":"92","addr:teryt:sym_ul":849675,"contact:email":"akademiatygryskow.swiedziebnia@gmail.com","ref:regon":"381390550","operator":"Fundacja Rozwoju Lepszej Przysz\u0142o\u015bci","operator:type":"ngo","amenity":"kindergarten"}},{"id":14353,"type":"Feature","geometry":{"type":"Point","coordinates":[19.54895,53.15372]},"properties":{"isced:level":"1;2","ref:rspo":14353,"official_name":"Szko\u0142a Podstawowa im. Ppor. Piotra Wysockiego w \u015awiedziebni","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"87-335","addr:place":"\u015awiedziebnia","addr:housenumber":"51","addr:teryt:sym_ul":849675,"contact:phone":"+48 564938411","contact:email":"sp_swiedziebnia@op.pl","contact:website":"http:\/\/www.sp.swiedziebnia.pl","ref:regon":"000271408","ref:vatin":"PL8741311536","operator":"Gmina \u015awiedziebnia","operator:type":"government","amenity":"school","note":"Children RSPO: 91968;91969"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 91969,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.55667,
+                    53.09528
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 91969,
+                "official_name": "Szko\u0142a Podstawowa im. Ppor. Piotra Wysockiego w \u015awiedziebni\nSzko\u0142a Filialna w Zasadach",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "87-335",
+                "addr:place": "Zasady Nowe",
+                "addr:housenumber": "62",
+                "addr:teryt:sym_ul": 849570,
+                "contact:phone": "+48 564938411",
+                "contact:email": "sp_swiedziebnia@op.pl",
+                "ref:regon": "271408000",
+                "ref:vatin": "PL8741311536",
+                "operator": "Gmina \u015awiedziebnia",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 14353"
+            }
+        },
+        {
+            "id": 91968,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.49945,
+                    53.11144
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 91968,
+                "official_name": "Szko\u0142a Podstawowa im. Ppor. Piotra Wysockiego w \u015awiedziebni\nSzko\u0142a Filialna im. Komisji Edukacji Narodowej w Micha\u0142kach",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "87-335",
+                "addr:place": "Micha\u0142ki",
+                "addr:housenumber": "56",
+                "addr:teryt:sym_ul": 849540,
+                "contact:phone": "+48 564938411",
+                "contact:email": "sp_swiedziebnia@op.pl",
+                "ref:regon": "271408000",
+                "ref:vatin": "PL8741311536",
+                "operator": "Gmina \u015awiedziebnia",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 14353"
+            }
+        },
+        {
+            "id": 14356,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.59016,
+                    53.13865
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 14356,
+                "official_name": "Szko\u0142a Podstawowa w Janowie",
+                "name": "Szko\u0142a Podstawowa w Janowie",
+                "addr:country": "PL",
+                "addr:postcode": "87-335",
+                "addr:place": "Janowo",
+                "addr:housenumber": "145A",
+                "addr:teryt:sym_ul": 849391,
+                "contact:phone": "+48 564938426",
+                "contact:email": "spjanowo@sp-janowo.edupage.org",
+                "contact:website": "http:\/\/sp-janowo.edupage.org",
+                "ref:regon": "001211650",
+                "ref:vatin": "PL8741558521",
+                "operator": "Gmina \u015awiedziebnia",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 269166,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5565,
+                    53.15222
+                ]
+            },
+            "properties": {
+                "ref:rspo": 269166,
+                "official_name": "Akademia Tygrysk\u00f3w",
+                "name": "Akademia Tygrysk\u00f3w",
+                "addr:country": "PL",
+                "addr:postcode": "87-335",
+                "addr:place": "\u015awiedziebnia",
+                "addr:housenumber": "92",
+                "addr:teryt:sym_ul": 849675,
+                "contact:email": "akademiatygryskow.swiedziebnia@gmail.com",
+                "ref:regon": "381390550",
+                "operator": "Fundacja Rozwoju Lepszej Przysz\u0142o\u015bci",
+                "operator:type": "ngo",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 14353,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.54895,
+                    53.15372
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 14353,
+                "official_name": "Szko\u0142a Podstawowa im. Ppor. Piotra Wysockiego w \u015awiedziebni",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "87-335",
+                "addr:place": "\u015awiedziebnia",
+                "addr:housenumber": "51",
+                "addr:teryt:sym_ul": 849675,
+                "contact:phone": "+48 564938411",
+                "contact:email": "sp_swiedziebnia@op.pl",
+                "contact:website": "http:\/\/www.sp.swiedziebnia.pl",
+                "ref:regon": "000271408",
+                "ref:vatin": "PL8741311536",
+                "operator": "Gmina \u015awiedziebnia",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Children RSPO: 91968;91969"
+            }
+        }
+    ]
+}

@@ -1,1 +1,130 @@
-{"type":"FeatureCollection","features":[{"id":8421,"type":"Feature","geometry":{"type":"Point","coordinates":[17.21048,54.66575]},"properties":{"ref:rspo":8421,"official_name":"Zesp\u00f3\u0142 Szkolno - Przedszkolny w Smo\u0142dzinie","name":"Zesp\u00f3\u0142 Szkolno - Przedszkolny w Smo\u0142dzinie","addr:country":"PL","addr:postcode":"76-214","addr:city":"Smo\u0142dzino","addr:street":"ul. Bohater\u00f3w Warszawy","addr:housenumber":"48","addr:teryt:simc":1679,"addr:teryt:sym_ul":751166,"contact:phone":"+48 598117321","contact:email":"sekretariat@smoldzino.edu.pl","contact:website":"http:\/\/www.smoldzino.edu.pl","ref:regon":"771554678","ref:vatin":"PL8392815065","operator":"Gmina Smo\u0142dzino","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 111237;111350;111493"}},{"id":111237,"type":"Feature","geometry":{"type":"Point","coordinates":[17.21048,54.66572]},"properties":{"ref:rspo":111237,"official_name":"Gminne Przedszkole w Smo\u0142dzinie","name":"Gminne Przedszkole w Smo\u0142dzinie","addr:country":"PL","addr:postcode":"76-214","addr:city":"Smo\u0142dzino","addr:street":"ul. Bohater\u00f3w Warszawy","addr:housenumber":"48","addr:teryt:simc":1679,"addr:teryt:sym_ul":751166,"contact:phone":"+48 598117321","contact:email":"sekretariat@smoldzino.edu.pl","ref:regon":"000908656","operator":"Gmina Smo\u0142dzino","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 8421"}},{"id":111350,"type":"Feature","geometry":{"type":"Point","coordinates":[17.21048,54.665690000000005]},"properties":{"isced:level":"1;2","ref:rspo":111350,"official_name":"Szko\u0142a Podstawowa w Smo\u0142dzinie","name":"Szko\u0142a Podstawowa w Smo\u0142dzinie","addr:country":"PL","addr:postcode":"76-214","addr:city":"Smo\u0142dzino","addr:street":"ul. Bohater\u00f3w Warszawy","addr:housenumber":"48","addr:teryt:simc":1679,"addr:teryt:sym_ul":751166,"contact:phone":"+48 598117321","contact:email":"sekretariat@smoldzino.edu.pl","ref:regon":"000684441","operator":"Gmina Smo\u0142dzino","operator:type":"government","amenity":"school","note":"Parent RSPO: 8421"}},{"id":111493,"type":"Feature","geometry":{"type":"Point","coordinates":[17.21048,54.66566]},"properties":{"ref:rspo":111493,"official_name":"Publiczne Szkolne Schronisko M\u0142odzie\u017cowe Przy Zespole Szkolno-Przedszkolnym w Smo\u0142dzinie","name":"Publiczne Szkolne Schronisko M\u0142odzie\u017cowe Przy Zespole Szkolno-Przedszkolnym w Smo\u0142dzinie","addr:country":"PL","addr:postcode":"76-214","addr:city":"Smo\u0142dzino","addr:street":"ul. Bohater\u00f3w Warszawy","addr:housenumber":"48","addr:teryt:simc":1679,"addr:teryt:sym_ul":751166,"contact:phone":"+48 598117321","contact:email":"sekretariat@smoldzino.edu.pl","contact:website":"http:\/\/smoldzino.edu.pl","ref:regon":"221844528","operator":"Gmina Smo\u0142dzino","operator:type":"government","tourism":"hostel","note":"Parent RSPO: 8421"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 8421,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.21048,
+                    54.66575
+                ]
+            },
+            "properties": {
+                "ref:rspo": 8421,
+                "official_name": "Zesp\u00f3\u0142 Szkolno - Przedszkolny w Smo\u0142dzinie",
+                "name": "Zesp\u00f3\u0142 Szkolno - Przedszkolny w Smo\u0142dzinie",
+                "addr:country": "PL",
+                "addr:postcode": "76-214",
+                "addr:city": "Smo\u0142dzino",
+                "addr:street": "ul. Bohater\u00f3w Warszawy",
+                "addr:housenumber": "48",
+                "addr:teryt:simc": 1679,
+                "addr:teryt:sym_ul": 751166,
+                "contact:phone": "+48 598117321",
+                "contact:email": "sekretariat@smoldzino.edu.pl",
+                "contact:website": "http:\/\/www.smoldzino.edu.pl",
+                "ref:regon": "771554678",
+                "ref:vatin": "PL8392815065",
+                "operator": "Gmina Smo\u0142dzino",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 111237;111350;111493"
+            }
+        },
+        {
+            "id": 111237,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.21048,
+                    54.66572
+                ]
+            },
+            "properties": {
+                "ref:rspo": 111237,
+                "official_name": "Gminne Przedszkole w Smo\u0142dzinie",
+                "name": "Gminne Przedszkole w Smo\u0142dzinie",
+                "addr:country": "PL",
+                "addr:postcode": "76-214",
+                "addr:city": "Smo\u0142dzino",
+                "addr:street": "ul. Bohater\u00f3w Warszawy",
+                "addr:housenumber": "48",
+                "addr:teryt:simc": 1679,
+                "addr:teryt:sym_ul": 751166,
+                "contact:phone": "+48 598117321",
+                "contact:email": "sekretariat@smoldzino.edu.pl",
+                "ref:regon": "000908656",
+                "operator": "Gmina Smo\u0142dzino",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 8421"
+            }
+        },
+        {
+            "id": 111350,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.21048,
+                    54.665690000000005
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 111350,
+                "official_name": "Szko\u0142a Podstawowa w Smo\u0142dzinie",
+                "name": "Szko\u0142a Podstawowa w Smo\u0142dzinie",
+                "addr:country": "PL",
+                "addr:postcode": "76-214",
+                "addr:city": "Smo\u0142dzino",
+                "addr:street": "ul. Bohater\u00f3w Warszawy",
+                "addr:housenumber": "48",
+                "addr:teryt:simc": 1679,
+                "addr:teryt:sym_ul": 751166,
+                "contact:phone": "+48 598117321",
+                "contact:email": "sekretariat@smoldzino.edu.pl",
+                "ref:regon": "000684441",
+                "operator": "Gmina Smo\u0142dzino",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 8421"
+            }
+        },
+        {
+            "id": 111493,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.21048,
+                    54.66566
+                ]
+            },
+            "properties": {
+                "ref:rspo": 111493,
+                "official_name": "Publiczne Szkolne Schronisko M\u0142odzie\u017cowe Przy Zespole Szkolno-Przedszkolnym w Smo\u0142dzinie",
+                "name": "Publiczne Szkolne Schronisko M\u0142odzie\u017cowe Przy Zespole Szkolno-Przedszkolnym w Smo\u0142dzinie",
+                "addr:country": "PL",
+                "addr:postcode": "76-214",
+                "addr:city": "Smo\u0142dzino",
+                "addr:street": "ul. Bohater\u00f3w Warszawy",
+                "addr:housenumber": "48",
+                "addr:teryt:simc": 1679,
+                "addr:teryt:sym_ul": 751166,
+                "contact:phone": "+48 598117321",
+                "contact:email": "sekretariat@smoldzino.edu.pl",
+                "contact:website": "http:\/\/smoldzino.edu.pl",
+                "ref:regon": "221844528",
+                "operator": "Gmina Smo\u0142dzino",
+                "operator:type": "government",
+                "tourism": "hostel",
+                "note": "Parent RSPO: 8421"
+            }
+        }
+    ]
+}

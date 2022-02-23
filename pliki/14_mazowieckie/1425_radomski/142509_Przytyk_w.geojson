@@ -1,1 +1,127 @@
-{"type":"FeatureCollection","features":[{"id":61884,"type":"Feature","geometry":{"type":"Point","coordinates":[20.83528,51.46199]},"properties":{"isced:level":"1;2","ref:rspo":61884,"official_name":"Publiczna Szko\u0142a Podstawowa im. Or\u0142a Bia\u0142ego we Wrzosie","name":"Publiczna Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"26-650","addr:place":"Wrzos","addr:housenumber":"6","addr:teryt:sym_ul":634590,"contact:phone":"+48 486180028","contact:email":"pspwrzos@wp.pl","contact:website":"http:\/\/www.pspwrzos.pl","ref:regon":"001145835","ref:vatin":"PL9482604088","operator":"Gmina Przytyk","operator:type":"government","amenity":"school"}},{"id":62433,"type":"Feature","geometry":{"type":"Point","coordinates":[20.9036,51.47163]},"properties":{"ref:rspo":62433,"official_name":"Publiczne Przedszkole w Przytyku","name":"Publiczne Przedszkole w Przytyku","addr:country":"PL","addr:postcode":"26-650","addr:city":"Przytyk","addr:street":"ul. Stefana \u017beromskiego","addr:housenumber":"11","addr:teryt:simc":26469,"addr:teryt:sym_ul":634348,"contact:phone":"+48 483121050","contact:email":"przedszkoleprzytyk@gmail.com","contact:website":"http:\/\/www.przedszkoleprzytyk.pl","ref:regon":"672981871","ref:vatin":"PL9482604094","operator":"Gmina Przytyk","operator:type":"government","amenity":"kindergarten"}},{"id":58174,"type":"Feature","geometry":{"type":"Point","coordinates":[20.90487,51.47197]},"properties":{"isced:level":"1;2","ref:rspo":58174,"official_name":"Publiczna Szko\u0142a Podstawowa im. Przyjaci\u00f3\u0142 Dzieci w Przytyku","name":"Publiczna Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"26-650","addr:city":"Przytyk","addr:street":"ul. Szkolna","addr:housenumber":"3","addr:teryt:simc":21970,"addr:teryt:sym_ul":634348,"contact:phone":"+48 486180352","contact:email":"pspprzytyk@poczta.onet.pl","ref:regon":"000271526","ref:vatin":"PL7981076494","operator":"Gmina Przytyk","operator:type":"government","amenity":"school"}},{"id":61883,"type":"Feature","geometry":{"type":"Point","coordinates":[20.82743,51.49767]},"properties":{"isced:level":"1;2","ref:rspo":61883,"official_name":"Publiczna Szko\u0142a Podstawowa \nIm. Kornela Makuszy\u0144skiego\nWe Wrzeszczowie","name":"Publiczna Szko\u0142a Podstawowa \nIm. Kornela Makuszy\u0144skiego\nWe Wrzeszczowie","addr:country":"PL","addr:postcode":"26-650","addr:place":"Wrzeszcz\u00f3w","addr:housenumber":"47","addr:teryt:sym_ul":634578,"contact:phone":"+48 486180103","contact:email":"pspwrzeszcz@poczta.onet.pl","contact:website":"http:\/\/pspwrzeszczow.szkolnastrona.pl","ref:regon":"001145670","ref:vatin":"PL7981076494","operator":"Gmina Przytyk","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 61884,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.83528,
+                    51.46199
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 61884,
+                "official_name": "Publiczna Szko\u0142a Podstawowa im. Or\u0142a Bia\u0142ego we Wrzosie",
+                "name": "Publiczna Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "26-650",
+                "addr:place": "Wrzos",
+                "addr:housenumber": "6",
+                "addr:teryt:sym_ul": 634590,
+                "contact:phone": "+48 486180028",
+                "contact:email": "pspwrzos@wp.pl",
+                "contact:website": "http:\/\/www.pspwrzos.pl",
+                "ref:regon": "001145835",
+                "ref:vatin": "PL9482604088",
+                "operator": "Gmina Przytyk",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 62433,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.9036,
+                    51.47163
+                ]
+            },
+            "properties": {
+                "ref:rspo": 62433,
+                "official_name": "Publiczne Przedszkole w Przytyku",
+                "name": "Publiczne Przedszkole w Przytyku",
+                "addr:country": "PL",
+                "addr:postcode": "26-650",
+                "addr:city": "Przytyk",
+                "addr:street": "ul. Stefana \u017beromskiego",
+                "addr:housenumber": "11",
+                "addr:teryt:simc": 26469,
+                "addr:teryt:sym_ul": 634348,
+                "contact:phone": "+48 483121050",
+                "contact:email": "przedszkoleprzytyk@gmail.com",
+                "contact:website": "http:\/\/www.przedszkoleprzytyk.pl",
+                "ref:regon": "672981871",
+                "ref:vatin": "PL9482604094",
+                "operator": "Gmina Przytyk",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 58174,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.90487,
+                    51.47197
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 58174,
+                "official_name": "Publiczna Szko\u0142a Podstawowa im. Przyjaci\u00f3\u0142 Dzieci w Przytyku",
+                "name": "Publiczna Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "26-650",
+                "addr:city": "Przytyk",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "3",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 634348,
+                "contact:phone": "+48 486180352",
+                "contact:email": "pspprzytyk@poczta.onet.pl",
+                "ref:regon": "000271526",
+                "ref:vatin": "PL7981076494",
+                "operator": "Gmina Przytyk",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 61883,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.82743,
+                    51.49767
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 61883,
+                "official_name": "Publiczna Szko\u0142a Podstawowa \nIm. Kornela Makuszy\u0144skiego\nWe Wrzeszczowie",
+                "name": "Publiczna Szko\u0142a Podstawowa \nIm. Kornela Makuszy\u0144skiego\nWe Wrzeszczowie",
+                "addr:country": "PL",
+                "addr:postcode": "26-650",
+                "addr:place": "Wrzeszcz\u00f3w",
+                "addr:housenumber": "47",
+                "addr:teryt:sym_ul": 634578,
+                "contact:phone": "+48 486180103",
+                "contact:email": "pspwrzeszcz@poczta.onet.pl",
+                "contact:website": "http:\/\/pspwrzeszczow.szkolnastrona.pl",
+                "ref:regon": "001145670",
+                "ref:vatin": "PL7981076494",
+                "operator": "Gmina Przytyk",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

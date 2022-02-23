@@ -1,1 +1,93 @@
-{"type":"FeatureCollection","features":[{"id":274332,"type":"Feature","geometry":{"type":"Point","coordinates":[20.4825899,51.87948]},"properties":{"ref:rspo":274332,"official_name":"Niepubliczne Przedszkole w Turowej Woli","name":"Niepubliczne Przedszkole w Turowej Woli","addr:country":"PL","addr:postcode":"96-111","addr:place":"Turowa Wola","addr:housenumber":"20","addr:teryt:sym_ul":729706,"contact:phone":"+48 468317067","contact:email":"nsptwola@op.pl","contact:website":"http:\/\/www.kowiesy.pl","ref:regon":"385580393","ref:vatin":"PL8361780816","operator":"Stowarzyszenie Rozwoju Wsi Turowa Wola I Okolic","operator:type":"ngo","amenity":"kindergarten"}},{"id":64390,"type":"Feature","geometry":{"type":"Point","coordinates":[20.42219,51.8903]},"properties":{"isced:level":"1;2","ref:rspo":64390,"official_name":"Szko\u0142a Podstawowa im. Kornela Makuszy\u0144skiego w Kowiesach","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"96-111","addr:place":"Kowiesy","addr:housenumber":"81","addr:door":"81","addr:teryt:sym_ul":729600,"contact:phone":"+48 468317299","contact:email":"spkowiesy@vp.pl","contact:website":"http:\/\/www.kowiesy.pl","ref:regon":"001112592","ref:vatin":"PL8361665328","operator":"Gmina Kowiesy","operator:type":"government","amenity":"school"}},{"id":64389,"type":"Feature","geometry":{"type":"Point","coordinates":[20.33609,51.91849]},"properties":{"ref:rspo":64389,"official_name":"Zesp\u00f3\u0142 Wychowania Przedszkolnego w Jeruzalu","name":"Zesp\u00f3\u0142 Wychowania Przedszkolnego w Jeruzalu","addr:country":"PL","addr:postcode":"96-111","addr:place":"Jeruzal","addr:housenumber":"18","addr:teryt:sym_ul":729557,"contact:phone":"+48 468349260","contact:email":"st.kowiesy@gmail.com","contact:website":"http:\/\/st-kowiesy.pl","ref:regon":"101493295","operator":"Dane Do Uzupe\u0142nienia","operator:type":"private","amenity":"kindergarten"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 274332,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.4825899,
+                    51.87948
+                ]
+            },
+            "properties": {
+                "ref:rspo": 274332,
+                "official_name": "Niepubliczne Przedszkole w Turowej Woli",
+                "name": "Niepubliczne Przedszkole w Turowej Woli",
+                "addr:country": "PL",
+                "addr:postcode": "96-111",
+                "addr:place": "Turowa Wola",
+                "addr:housenumber": "20",
+                "addr:teryt:sym_ul": 729706,
+                "contact:phone": "+48 468317067",
+                "contact:email": "nsptwola@op.pl",
+                "contact:website": "http:\/\/www.kowiesy.pl",
+                "ref:regon": "385580393",
+                "ref:vatin": "PL8361780816",
+                "operator": "Stowarzyszenie Rozwoju Wsi Turowa Wola I Okolic",
+                "operator:type": "ngo",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 64390,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.42219,
+                    51.8903
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 64390,
+                "official_name": "Szko\u0142a Podstawowa im. Kornela Makuszy\u0144skiego w Kowiesach",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "96-111",
+                "addr:place": "Kowiesy",
+                "addr:housenumber": "81",
+                "addr:door": "81",
+                "addr:teryt:sym_ul": 729600,
+                "contact:phone": "+48 468317299",
+                "contact:email": "spkowiesy@vp.pl",
+                "contact:website": "http:\/\/www.kowiesy.pl",
+                "ref:regon": "001112592",
+                "ref:vatin": "PL8361665328",
+                "operator": "Gmina Kowiesy",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 64389,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.33609,
+                    51.91849
+                ]
+            },
+            "properties": {
+                "ref:rspo": 64389,
+                "official_name": "Zesp\u00f3\u0142 Wychowania Przedszkolnego w Jeruzalu",
+                "name": "Zesp\u00f3\u0142 Wychowania Przedszkolnego w Jeruzalu",
+                "addr:country": "PL",
+                "addr:postcode": "96-111",
+                "addr:place": "Jeruzal",
+                "addr:housenumber": "18",
+                "addr:teryt:sym_ul": 729557,
+                "contact:phone": "+48 468349260",
+                "contact:email": "st.kowiesy@gmail.com",
+                "contact:website": "http:\/\/st-kowiesy.pl",
+                "ref:regon": "101493295",
+                "operator": "Dane Do Uzupe\u0142nienia",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        }
+    ]
+}

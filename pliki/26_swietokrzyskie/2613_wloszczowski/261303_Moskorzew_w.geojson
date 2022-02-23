@@ -1,1 +1,186 @@
-{"type":"FeatureCollection","features":[{"id":14263,"type":"Feature","geometry":{"type":"Point","coordinates":[19.927432,50.645962]},"properties":{"ref:rspo":14263,"official_name":"Zesp\u00f3\u0142 Plac\u00f3wek O\u015bwiatowych w Moskorzewie","name":"Zesp\u00f3\u0142 Plac\u00f3wek O\u015bwiatowych w Moskorzewie","addr:country":"PL","addr:postcode":"29-130","addr:place":"Moskorzew","addr:housenumber":"97","addr:teryt:sym_ul":138425,"contact:phone":"+48 343542080","contact:email":"psp.moskorzew@wp.pl","ref:regon":"260467162","ref:vatin":"PL6562094676","operator":"Gmina Moskorzew","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 88133;88134"}},{"id":88133,"type":"Feature","geometry":{"type":"Point","coordinates":[19.927432,50.645931999999995]},"properties":{"ref:rspo":88133,"official_name":"Publiczne Przedszkole Samorz\u0105dowe w Moskorzewie","name":"Publiczne Przedszkole Samorz\u0105dowe w Moskorzewie","addr:country":"PL","addr:postcode":"29-130","addr:place":"Moskorzew","addr:housenumber":"97","addr:teryt:sym_ul":138425,"contact:phone":"+48 343542080","contact:email":"psp.moskorzew@wp.pl","ref:regon":"150027161","operator":"Gmina Moskorzew","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 14263"}},{"id":88134,"type":"Feature","geometry":{"type":"Point","coordinates":[19.927432,50.645902]},"properties":{"isced:level":"1;2","ref:rspo":88134,"official_name":"Publiczna Szko\u0142a Podstawowa w Moskorzewie","name":"Publiczna Szko\u0142a Podstawowa w Moskorzewie","addr:country":"PL","addr:postcode":"29-130","addr:place":"Moskorzew","addr:housenumber":"97","addr:teryt:sym_ul":138425,"contact:phone":"+48 343542080","contact:email":"psp.moskorzew@wp.pl","ref:regon":"000271532","operator":"Gmina Moskorzew","operator:type":"government","amenity":"school","note":"Parent RSPO: 14263"}},{"id":14273,"type":"Feature","geometry":{"type":"Point","coordinates":[19.99562,50.64737]},"properties":{"ref:rspo":14273,"official_name":"Zesp\u00f3\u0142 Plac\u00f3wek O\u015bwiatowych w Chlewicach","name":"Zesp\u00f3\u0142 Plac\u00f3wek O\u015bwiatowych w Chlewicach","addr:country":"PL","addr:postcode":"29-130","addr:city":"Chlewice","addr:street":"ul. B\u0142onie","addr:housenumber":"23","addr:teryt:simc":1465,"addr:teryt:sym_ul":138320,"contact:phone":"+48 343546518","contact:email":"pspchlewice@o2.pl","ref:regon":"260467529","ref:vatin":"PL6562094653","operator":"Gmina Moskorzew","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 88136;88137"}},{"id":88136,"type":"Feature","geometry":{"type":"Point","coordinates":[19.99562,50.64734]},"properties":{"ref:rspo":88136,"official_name":"Publiczne Przedszkole Samorz\u0105dowe w Chlewicach","name":"Publiczne Przedszkole Samorz\u0105dowe w Chlewicach","addr:country":"PL","addr:postcode":"29-130","addr:city":"Chlewice","addr:street":"ul. B\u0142onie","addr:housenumber":"23","addr:teryt:simc":1465,"addr:teryt:sym_ul":138320,"contact:phone":"+48 343546518","contact:email":"pspchlewice@o2.pl","ref:regon":"150027184","operator":"Gmina Moskorzew","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 14273"}},{"id":88137,"type":"Feature","geometry":{"type":"Point","coordinates":[19.99562,50.647310000000004]},"properties":{"isced:level":"1;2","ref:rspo":88137,"official_name":"Publiczna Szko\u0142a Podstawowa w Chlewicach","name":"Publiczna Szko\u0142a Podstawowa w Chlewicach","addr:country":"PL","addr:postcode":"29-130","addr:city":"Chlewice","addr:street":"ul. B\u0142onie","addr:housenumber":"23","addr:teryt:simc":1465,"addr:teryt:sym_ul":138320,"contact:phone":"+48 343546518","contact:email":"pspchlewice@o2.pl","contact:website":"http:\/\/zpochlewice.szkolnastrona.pl","ref:regon":"001204348","operator":"Gmina Moskorzew","operator:type":"government","amenity":"school","note":"Parent RSPO: 14273"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 14263,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.927432,
+                    50.645962
+                ]
+            },
+            "properties": {
+                "ref:rspo": 14263,
+                "official_name": "Zesp\u00f3\u0142 Plac\u00f3wek O\u015bwiatowych w Moskorzewie",
+                "name": "Zesp\u00f3\u0142 Plac\u00f3wek O\u015bwiatowych w Moskorzewie",
+                "addr:country": "PL",
+                "addr:postcode": "29-130",
+                "addr:place": "Moskorzew",
+                "addr:housenumber": "97",
+                "addr:teryt:sym_ul": 138425,
+                "contact:phone": "+48 343542080",
+                "contact:email": "psp.moskorzew@wp.pl",
+                "ref:regon": "260467162",
+                "ref:vatin": "PL6562094676",
+                "operator": "Gmina Moskorzew",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 88133;88134"
+            }
+        },
+        {
+            "id": 88133,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.927432,
+                    50.645931999999995
+                ]
+            },
+            "properties": {
+                "ref:rspo": 88133,
+                "official_name": "Publiczne Przedszkole Samorz\u0105dowe w Moskorzewie",
+                "name": "Publiczne Przedszkole Samorz\u0105dowe w Moskorzewie",
+                "addr:country": "PL",
+                "addr:postcode": "29-130",
+                "addr:place": "Moskorzew",
+                "addr:housenumber": "97",
+                "addr:teryt:sym_ul": 138425,
+                "contact:phone": "+48 343542080",
+                "contact:email": "psp.moskorzew@wp.pl",
+                "ref:regon": "150027161",
+                "operator": "Gmina Moskorzew",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 14263"
+            }
+        },
+        {
+            "id": 88134,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.927432,
+                    50.645902
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 88134,
+                "official_name": "Publiczna Szko\u0142a Podstawowa w Moskorzewie",
+                "name": "Publiczna Szko\u0142a Podstawowa w Moskorzewie",
+                "addr:country": "PL",
+                "addr:postcode": "29-130",
+                "addr:place": "Moskorzew",
+                "addr:housenumber": "97",
+                "addr:teryt:sym_ul": 138425,
+                "contact:phone": "+48 343542080",
+                "contact:email": "psp.moskorzew@wp.pl",
+                "ref:regon": "000271532",
+                "operator": "Gmina Moskorzew",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 14263"
+            }
+        },
+        {
+            "id": 14273,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.99562,
+                    50.64737
+                ]
+            },
+            "properties": {
+                "ref:rspo": 14273,
+                "official_name": "Zesp\u00f3\u0142 Plac\u00f3wek O\u015bwiatowych w Chlewicach",
+                "name": "Zesp\u00f3\u0142 Plac\u00f3wek O\u015bwiatowych w Chlewicach",
+                "addr:country": "PL",
+                "addr:postcode": "29-130",
+                "addr:city": "Chlewice",
+                "addr:street": "ul. B\u0142onie",
+                "addr:housenumber": "23",
+                "addr:teryt:simc": 1465,
+                "addr:teryt:sym_ul": 138320,
+                "contact:phone": "+48 343546518",
+                "contact:email": "pspchlewice@o2.pl",
+                "ref:regon": "260467529",
+                "ref:vatin": "PL6562094653",
+                "operator": "Gmina Moskorzew",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 88136;88137"
+            }
+        },
+        {
+            "id": 88136,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.99562,
+                    50.64734
+                ]
+            },
+            "properties": {
+                "ref:rspo": 88136,
+                "official_name": "Publiczne Przedszkole Samorz\u0105dowe w Chlewicach",
+                "name": "Publiczne Przedszkole Samorz\u0105dowe w Chlewicach",
+                "addr:country": "PL",
+                "addr:postcode": "29-130",
+                "addr:city": "Chlewice",
+                "addr:street": "ul. B\u0142onie",
+                "addr:housenumber": "23",
+                "addr:teryt:simc": 1465,
+                "addr:teryt:sym_ul": 138320,
+                "contact:phone": "+48 343546518",
+                "contact:email": "pspchlewice@o2.pl",
+                "ref:regon": "150027184",
+                "operator": "Gmina Moskorzew",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 14273"
+            }
+        },
+        {
+            "id": 88137,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.99562,
+                    50.647310000000004
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 88137,
+                "official_name": "Publiczna Szko\u0142a Podstawowa w Chlewicach",
+                "name": "Publiczna Szko\u0142a Podstawowa w Chlewicach",
+                "addr:country": "PL",
+                "addr:postcode": "29-130",
+                "addr:city": "Chlewice",
+                "addr:street": "ul. B\u0142onie",
+                "addr:housenumber": "23",
+                "addr:teryt:simc": 1465,
+                "addr:teryt:sym_ul": 138320,
+                "contact:phone": "+48 343546518",
+                "contact:email": "pspchlewice@o2.pl",
+                "contact:website": "http:\/\/zpochlewice.szkolnastrona.pl",
+                "ref:regon": "001204348",
+                "operator": "Gmina Moskorzew",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 14273"
+            }
+        }
+    ]
+}

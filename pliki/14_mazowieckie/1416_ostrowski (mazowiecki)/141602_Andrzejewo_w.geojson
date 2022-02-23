@@ -1,1 +1,123 @@
-{"type":"FeatureCollection","features":[{"id":27288,"type":"Feature","geometry":{"type":"Point","coordinates":[22.12858,52.82421]},"properties":{"isced:level":"1;2","ref:rspo":27288,"official_name":"Szko\u0142a Podstawowa w Starej Rusko\u0142\u0119ce","name":"Szko\u0142a Podstawowa w Starej Rusko\u0142\u0119ce","addr:country":"PL","addr:postcode":"07-305","addr:place":"Stara Rusko\u0142\u0119ka","addr:housenumber":"40a","addr:teryt:sym_ul":394849,"contact:phone":"+48 862719697","contact:email":"sp.stararuskoleka@wp.pl","ref:regon":"450007574","ref:vatin":"PL7591574132","operator":"Gmina Andrzejewo","operator:type":"government","amenity":"school"}},{"id":27290,"type":"Feature","geometry":{"type":"Point","coordinates":[22.19407,52.82768]},"properties":{"isced:level":"1;2","ref:rspo":27290,"official_name":"Szko\u0142a Podstawowa im. 18 Dywizji Piechoty Ziemi \u0141om\u017cy\u0144skiej w Andrzejewie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"07-305","addr:city":"Andrzejewo","addr:street":"ul. Warszawska","addr:housenumber":"4","addr:teryt:simc":23682,"addr:teryt:sym_ul":394507,"contact:phone":"+48 862717071","contact:email":"spandrzejewo@wp.pl","contact:website":"http:\/\/spandrzejewo.edupage.org","ref:regon":"000647233","ref:vatin":"PL7591574149","operator":"Gmina Andrzejewo","operator:type":"government","amenity":"school"}},{"id":125793,"type":"Feature","geometry":{"type":"Point","coordinates":[22.19407,52.82765]},"properties":{"ref:rspo":125793,"official_name":"Punkt Przedszkolny \"Radosny Maluch Na Wsi\" w Andrzejewie","name":"Punkt Przedszkolny \"Radosny Maluch Na Wsi\" w Andrzejewie","addr:country":"PL","addr:postcode":"07-305","addr:city":"Andrzejewo","addr:street":"ul. Warszawska","addr:housenumber":"4","addr:teryt:simc":23682,"addr:teryt:sym_ul":394507,"contact:phone":"+48 862717097","ref:regon":"147485390","operator":"Gmina Andrzejewo","operator:type":"government","amenity":"kindergarten"}},{"id":27289,"type":"Feature","geometry":{"type":"Point","coordinates":[22.26173,52.87391]},"properties":{"isced:level":"1;2","ref:rspo":27289,"official_name":"Szko\u0142a Podstawowa w O\u0142dakach Polonii","name":"Szko\u0142a Podstawowa w O\u0142dakach Polonii","addr:country":"PL","addr:postcode":"07-305","addr:place":"O\u0142daki-Polonia","addr:housenumber":"2","addr:teryt:sym_ul":394737,"contact:phone":"+48 862717048","contact:email":"oldakipolonia7@wp.pl","ref:regon":"001119080","ref:vatin":"PL7591574126","operator":"Gmina Andrzejewo","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 27288,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.12858,
+                    52.82421
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 27288,
+                "official_name": "Szko\u0142a Podstawowa w Starej Rusko\u0142\u0119ce",
+                "name": "Szko\u0142a Podstawowa w Starej Rusko\u0142\u0119ce",
+                "addr:country": "PL",
+                "addr:postcode": "07-305",
+                "addr:place": "Stara Rusko\u0142\u0119ka",
+                "addr:housenumber": "40a",
+                "addr:teryt:sym_ul": 394849,
+                "contact:phone": "+48 862719697",
+                "contact:email": "sp.stararuskoleka@wp.pl",
+                "ref:regon": "450007574",
+                "ref:vatin": "PL7591574132",
+                "operator": "Gmina Andrzejewo",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 27290,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.19407,
+                    52.82768
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 27290,
+                "official_name": "Szko\u0142a Podstawowa im. 18 Dywizji Piechoty Ziemi \u0141om\u017cy\u0144skiej w Andrzejewie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "07-305",
+                "addr:city": "Andrzejewo",
+                "addr:street": "ul. Warszawska",
+                "addr:housenumber": "4",
+                "addr:teryt:simc": 23682,
+                "addr:teryt:sym_ul": 394507,
+                "contact:phone": "+48 862717071",
+                "contact:email": "spandrzejewo@wp.pl",
+                "contact:website": "http:\/\/spandrzejewo.edupage.org",
+                "ref:regon": "000647233",
+                "ref:vatin": "PL7591574149",
+                "operator": "Gmina Andrzejewo",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 125793,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.19407,
+                    52.82765
+                ]
+            },
+            "properties": {
+                "ref:rspo": 125793,
+                "official_name": "Punkt Przedszkolny \"Radosny Maluch Na Wsi\" w Andrzejewie",
+                "name": "Punkt Przedszkolny \"Radosny Maluch Na Wsi\" w Andrzejewie",
+                "addr:country": "PL",
+                "addr:postcode": "07-305",
+                "addr:city": "Andrzejewo",
+                "addr:street": "ul. Warszawska",
+                "addr:housenumber": "4",
+                "addr:teryt:simc": 23682,
+                "addr:teryt:sym_ul": 394507,
+                "contact:phone": "+48 862717097",
+                "ref:regon": "147485390",
+                "operator": "Gmina Andrzejewo",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 27289,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.26173,
+                    52.87391
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 27289,
+                "official_name": "Szko\u0142a Podstawowa w O\u0142dakach Polonii",
+                "name": "Szko\u0142a Podstawowa w O\u0142dakach Polonii",
+                "addr:country": "PL",
+                "addr:postcode": "07-305",
+                "addr:place": "O\u0142daki-Polonia",
+                "addr:housenumber": "2",
+                "addr:teryt:sym_ul": 394737,
+                "contact:phone": "+48 862717048",
+                "contact:email": "oldakipolonia7@wp.pl",
+                "ref:regon": "001119080",
+                "ref:vatin": "PL7591574126",
+                "operator": "Gmina Andrzejewo",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

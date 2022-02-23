@@ -1,1 +1,191 @@
-{"type":"FeatureCollection","features":[{"id":44565,"type":"Feature","geometry":{"type":"Point","coordinates":[21.99131,53.04174]},"properties":{"ref:rspo":44565,"official_name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w \u015aniadowie","name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w \u015aniadowie","addr:country":"PL","addr:postcode":"18-411","addr:city":"\u015aniadowo","addr:street":"ul. \u0141om\u017cy\u0144ska","addr:housenumber":"29","addr:teryt:simc":11659,"addr:teryt:sym_ul":408600,"contact:phone":"+48 862176143","contact:email":"zspsniadowo@wp.pl","contact:website":"http:\/\/zspsniadowo.edupage.org","ref:regon":"451152440","ref:vatin":"PL7181891577","operator":"Gmina \u015aniadowo","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 62298;62299"}},{"id":62298,"type":"Feature","geometry":{"type":"Point","coordinates":[21.99131,53.041709999999995]},"properties":{"isced:level":"1;2","ref:rspo":62298,"official_name":"Szko\u0142a Podstawowa im. Pu\u0142ku 3-Go Strzelc\u00f3w Konnych w \u015aniadowie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"18-411","addr:city":"\u015aniadowo","addr:street":"ul. \u0141om\u017cy\u0144ska","addr:housenumber":"29","addr:teryt:simc":11659,"addr:teryt:sym_ul":408600,"contact:phone":"+48 862176143","contact:email":"zspsniadowo@wp.pl","contact:website":"http:\/\/zspsniadowo.edupage.org","ref:regon":"000564731","ref:vatin":"PL7181891577","operator":"Gmina \u015aniadowo","operator:type":"government","amenity":"school","note":"Parent RSPO: 44565"}},{"id":62299,"type":"Feature","geometry":{"type":"Point","coordinates":[21.99131,53.04168]},"properties":{"ref:rspo":62299,"official_name":"Gminne Przedszkole w \u015aniadowie","name":"Gminne Przedszkole w \u015aniadowie","addr:country":"PL","addr:postcode":"18-411","addr:city":"\u015aniadowo","addr:street":"ul. \u0141om\u017cy\u0144ska","addr:housenumber":"29","addr:teryt:simc":11659,"addr:teryt:sym_ul":408600,"contact:phone":"+48 862176143","contact:email":"zspsniadowo@wp.pl","ref:regon":"450009691","ref:vatin":"PL7181891577","operator":"Gmina \u015aniadowo","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 44565"}},{"id":277967,"type":"Feature","geometry":{"type":"Point","coordinates":[21.94951,53.12015]},"properties":{"ref:rspo":277967,"official_name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w Szczepankowie","name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w Szczepankowie","addr:country":"PL","addr:postcode":"18-411","addr:place":"Szczepankowo","addr:housenumber":"20","addr:teryt:sym_ul":408570,"contact:phone":"+48 862170966","contact:email":"spszczepankowo@sniadowo.pl","ref:regon":"389711679","operator":"Gmina \u015aniadowo","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 49216;62338"}},{"id":49216,"type":"Feature","geometry":{"type":"Point","coordinates":[21.94951,53.12012]},"properties":{"ref:rspo":49216,"official_name":"Publiczne Przedszkole w Szczepankowie","name":"Publiczne Przedszkole w Szczepankowie","addr:country":"PL","addr:postcode":"18-411","addr:place":"Szczepankowo","addr:housenumber":"20","addr:teryt:sym_ul":408570,"contact:phone":"+48 862170966","contact:email":"spszczepankowo@sniadowo.pl","ref:regon":"200736083","ref:vatin":"PL7181772200","operator":"Gmina \u015aniadowo","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 277967"}},{"id":62338,"type":"Feature","geometry":{"type":"Point","coordinates":[21.94951,53.120090000000005]},"properties":{"isced:level":"1;2","ref:rspo":62338,"official_name":"Szko\u0142a Podstawowa w Szczepankowie","name":"Szko\u0142a Podstawowa w Szczepankowie","addr:country":"PL","addr:postcode":"18-411","addr:place":"Szczepankowo","addr:housenumber":"20","addr:teryt:sym_ul":408570,"contact:phone":"+48 862170966","contact:email":"spszczepankowo@sniadowo.pl","contact:website":"http:\/\/www.szczepankowo.szkolna.net","ref:regon":"001129055","ref:vatin":"PL7181772200","operator":"Gmina \u015aniadowo","operator:type":"government","amenity":"school","note":"Parent RSPO: 277967"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 44565,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.99131,
+                    53.04174
+                ]
+            },
+            "properties": {
+                "ref:rspo": 44565,
+                "official_name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w \u015aniadowie",
+                "name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w \u015aniadowie",
+                "addr:country": "PL",
+                "addr:postcode": "18-411",
+                "addr:city": "\u015aniadowo",
+                "addr:street": "ul. \u0141om\u017cy\u0144ska",
+                "addr:housenumber": "29",
+                "addr:teryt:simc": 11659,
+                "addr:teryt:sym_ul": 408600,
+                "contact:phone": "+48 862176143",
+                "contact:email": "zspsniadowo@wp.pl",
+                "contact:website": "http:\/\/zspsniadowo.edupage.org",
+                "ref:regon": "451152440",
+                "ref:vatin": "PL7181891577",
+                "operator": "Gmina \u015aniadowo",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 62298;62299"
+            }
+        },
+        {
+            "id": 62298,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.99131,
+                    53.041709999999995
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 62298,
+                "official_name": "Szko\u0142a Podstawowa im. Pu\u0142ku 3-Go Strzelc\u00f3w Konnych w \u015aniadowie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "18-411",
+                "addr:city": "\u015aniadowo",
+                "addr:street": "ul. \u0141om\u017cy\u0144ska",
+                "addr:housenumber": "29",
+                "addr:teryt:simc": 11659,
+                "addr:teryt:sym_ul": 408600,
+                "contact:phone": "+48 862176143",
+                "contact:email": "zspsniadowo@wp.pl",
+                "contact:website": "http:\/\/zspsniadowo.edupage.org",
+                "ref:regon": "000564731",
+                "ref:vatin": "PL7181891577",
+                "operator": "Gmina \u015aniadowo",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 44565"
+            }
+        },
+        {
+            "id": 62299,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.99131,
+                    53.04168
+                ]
+            },
+            "properties": {
+                "ref:rspo": 62299,
+                "official_name": "Gminne Przedszkole w \u015aniadowie",
+                "name": "Gminne Przedszkole w \u015aniadowie",
+                "addr:country": "PL",
+                "addr:postcode": "18-411",
+                "addr:city": "\u015aniadowo",
+                "addr:street": "ul. \u0141om\u017cy\u0144ska",
+                "addr:housenumber": "29",
+                "addr:teryt:simc": 11659,
+                "addr:teryt:sym_ul": 408600,
+                "contact:phone": "+48 862176143",
+                "contact:email": "zspsniadowo@wp.pl",
+                "ref:regon": "450009691",
+                "ref:vatin": "PL7181891577",
+                "operator": "Gmina \u015aniadowo",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 44565"
+            }
+        },
+        {
+            "id": 277967,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.94951,
+                    53.12015
+                ]
+            },
+            "properties": {
+                "ref:rspo": 277967,
+                "official_name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w Szczepankowie",
+                "name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w Szczepankowie",
+                "addr:country": "PL",
+                "addr:postcode": "18-411",
+                "addr:place": "Szczepankowo",
+                "addr:housenumber": "20",
+                "addr:teryt:sym_ul": 408570,
+                "contact:phone": "+48 862170966",
+                "contact:email": "spszczepankowo@sniadowo.pl",
+                "ref:regon": "389711679",
+                "operator": "Gmina \u015aniadowo",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 49216;62338"
+            }
+        },
+        {
+            "id": 49216,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.94951,
+                    53.12012
+                ]
+            },
+            "properties": {
+                "ref:rspo": 49216,
+                "official_name": "Publiczne Przedszkole w Szczepankowie",
+                "name": "Publiczne Przedszkole w Szczepankowie",
+                "addr:country": "PL",
+                "addr:postcode": "18-411",
+                "addr:place": "Szczepankowo",
+                "addr:housenumber": "20",
+                "addr:teryt:sym_ul": 408570,
+                "contact:phone": "+48 862170966",
+                "contact:email": "spszczepankowo@sniadowo.pl",
+                "ref:regon": "200736083",
+                "ref:vatin": "PL7181772200",
+                "operator": "Gmina \u015aniadowo",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 277967"
+            }
+        },
+        {
+            "id": 62338,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.94951,
+                    53.120090000000005
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 62338,
+                "official_name": "Szko\u0142a Podstawowa w Szczepankowie",
+                "name": "Szko\u0142a Podstawowa w Szczepankowie",
+                "addr:country": "PL",
+                "addr:postcode": "18-411",
+                "addr:place": "Szczepankowo",
+                "addr:housenumber": "20",
+                "addr:teryt:sym_ul": 408570,
+                "contact:phone": "+48 862170966",
+                "contact:email": "spszczepankowo@sniadowo.pl",
+                "contact:website": "http:\/\/www.szczepankowo.szkolna.net",
+                "ref:regon": "001129055",
+                "ref:vatin": "PL7181772200",
+                "operator": "Gmina \u015aniadowo",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 277967"
+            }
+        }
+    ]
+}

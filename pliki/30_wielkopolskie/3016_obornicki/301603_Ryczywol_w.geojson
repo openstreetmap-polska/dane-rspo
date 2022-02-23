@@ -1,1 +1,155 @@
-{"type":"FeatureCollection","features":[{"id":57617,"type":"Feature","geometry":{"type":"Point","coordinates":[16.78841,52.72136]},"properties":{"ref:rspo":57617,"official_name":"Przedszkole Publiczne w Ryczywole","name":"Przedszkole Publiczne w Ryczywole","addr:country":"PL","addr:postcode":"64-630","addr:place":"Ryczyw\u00f3\u0142","addr:housenumber":"16","addr:teryt:sym_ul":529440,"contact:phone":"+48 672837160","contact:email":"e.matuszak@przedszkoleryczywol.pl","ref:regon":"570800667","ref:vatin":"PL7661820152","operator":"Gmina Ryczyw\u00f3\u0142","operator:type":"government","amenity":"kindergarten"}},{"id":66103,"type":"Feature","geometry":{"type":"Point","coordinates":[16.8232,52.75438]},"properties":{"ref:rspo":66103,"official_name":"Zesp\u00f3\u0142 Szkolno - Przedszkolny w Ludomach","name":"Zesp\u00f3\u0142 Szkolno - Przedszkolny w Ludomach","addr:country":"PL","addr:postcode":"64-603","addr:place":"Ludomy","addr:housenumber":"25","addr:teryt:sym_ul":529290,"contact:phone":"+48 672836110","contact:email":"sekretariat@zsludomy.pl","contact:website":"http:\/\/www.zsludomy.pl","ref:regon":"570854781","ref:vatin":"PL7661856552","operator":"Gmina Ryczyw\u00f3\u0142","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 66102;75191"}},{"id":75191,"type":"Feature","geometry":{"type":"Point","coordinates":[16.8232,52.754349999999995]},"properties":{"isced:level":"1;2","ref:rspo":75191,"official_name":"Szko\u0142a Podstawowa im. Karola Marcinkowskiego w Ludomach","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"64-603","addr:place":"Ludomy","addr:housenumber":"25","addr:teryt:sym_ul":529290,"contact:phone":"+48 672836110","contact:email":"sekretariat@zsludomy.pl","ref:regon":"001149342","ref:vatin":"PL7661856552","operator":"Gmina Ryczyw\u00f3\u0142","operator:type":"government","amenity":"school","note":"Parent RSPO: 66103"}},{"id":66102,"type":"Feature","geometry":{"type":"Point","coordinates":[16.81655,52.7567]},"properties":{"ref:rspo":66102,"official_name":"Przedszkole Publiczne w Ludomach","name":"Przedszkole Publiczne w Ludomach","addr:country":"PL","addr:postcode":"64-603","addr:place":"Ludomy","addr:housenumber":"84","addr:teryt:sym_ul":529290,"contact:phone":"+48 672836110","contact:email":"sekretariat@zsludomy.pl","ref:regon":"570800673","ref:vatin":"PL7661820175","operator":"Gmina Ryczyw\u00f3\u0142","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 66103"}},{"id":56455,"type":"Feature","geometry":{"type":"Point","coordinates":[16.82466,52.81711]},"properties":{"isced:level":"1;2","ref:rspo":56455,"official_name":"Szko\u0142a Podstawowa im. Powsta\u0144c\u00f3w Wielkopolskich","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"64-630","addr:city":"Ryczyw\u00f3\u0142","addr:street":"ul. Szkolna","addr:housenumber":"1","addr:teryt:simc":21970,"addr:teryt:sym_ul":529440,"contact:phone":"+48 672837026","contact:email":"spryczywol@gmail.com","contact:website":"http:\/\/spryczywol.pl","ref:regon":"000807702","ref:vatin":"PL7661820100","operator":"Gmina Ryczyw\u00f3\u0142","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 57617,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.78841,
+                    52.72136
+                ]
+            },
+            "properties": {
+                "ref:rspo": 57617,
+                "official_name": "Przedszkole Publiczne w Ryczywole",
+                "name": "Przedszkole Publiczne w Ryczywole",
+                "addr:country": "PL",
+                "addr:postcode": "64-630",
+                "addr:place": "Ryczyw\u00f3\u0142",
+                "addr:housenumber": "16",
+                "addr:teryt:sym_ul": 529440,
+                "contact:phone": "+48 672837160",
+                "contact:email": "e.matuszak@przedszkoleryczywol.pl",
+                "ref:regon": "570800667",
+                "ref:vatin": "PL7661820152",
+                "operator": "Gmina Ryczyw\u00f3\u0142",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 66103,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.8232,
+                    52.75438
+                ]
+            },
+            "properties": {
+                "ref:rspo": 66103,
+                "official_name": "Zesp\u00f3\u0142 Szkolno - Przedszkolny w Ludomach",
+                "name": "Zesp\u00f3\u0142 Szkolno - Przedszkolny w Ludomach",
+                "addr:country": "PL",
+                "addr:postcode": "64-603",
+                "addr:place": "Ludomy",
+                "addr:housenumber": "25",
+                "addr:teryt:sym_ul": 529290,
+                "contact:phone": "+48 672836110",
+                "contact:email": "sekretariat@zsludomy.pl",
+                "contact:website": "http:\/\/www.zsludomy.pl",
+                "ref:regon": "570854781",
+                "ref:vatin": "PL7661856552",
+                "operator": "Gmina Ryczyw\u00f3\u0142",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 66102;75191"
+            }
+        },
+        {
+            "id": 75191,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.8232,
+                    52.754349999999995
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 75191,
+                "official_name": "Szko\u0142a Podstawowa im. Karola Marcinkowskiego w Ludomach",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "64-603",
+                "addr:place": "Ludomy",
+                "addr:housenumber": "25",
+                "addr:teryt:sym_ul": 529290,
+                "contact:phone": "+48 672836110",
+                "contact:email": "sekretariat@zsludomy.pl",
+                "ref:regon": "001149342",
+                "ref:vatin": "PL7661856552",
+                "operator": "Gmina Ryczyw\u00f3\u0142",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 66103"
+            }
+        },
+        {
+            "id": 66102,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.81655,
+                    52.7567
+                ]
+            },
+            "properties": {
+                "ref:rspo": 66102,
+                "official_name": "Przedszkole Publiczne w Ludomach",
+                "name": "Przedszkole Publiczne w Ludomach",
+                "addr:country": "PL",
+                "addr:postcode": "64-603",
+                "addr:place": "Ludomy",
+                "addr:housenumber": "84",
+                "addr:teryt:sym_ul": 529290,
+                "contact:phone": "+48 672836110",
+                "contact:email": "sekretariat@zsludomy.pl",
+                "ref:regon": "570800673",
+                "ref:vatin": "PL7661820175",
+                "operator": "Gmina Ryczyw\u00f3\u0142",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 66103"
+            }
+        },
+        {
+            "id": 56455,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.82466,
+                    52.81711
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 56455,
+                "official_name": "Szko\u0142a Podstawowa im. Powsta\u0144c\u00f3w Wielkopolskich",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "64-630",
+                "addr:city": "Ryczyw\u00f3\u0142",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 529440,
+                "contact:phone": "+48 672837026",
+                "contact:email": "spryczywol@gmail.com",
+                "contact:website": "http:\/\/spryczywol.pl",
+                "ref:regon": "000807702",
+                "ref:vatin": "PL7661820100",
+                "operator": "Gmina Ryczyw\u00f3\u0142",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

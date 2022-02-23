@@ -1,1 +1,68 @@
-{"type":"FeatureCollection","features":[{"id":89094,"type":"Feature","geometry":{"type":"Point","coordinates":[15.92624,50.8821]},"properties":{"isced:level":"1;2","ref:rspo":89094,"official_name":"Szko\u0142a Podstawowa im. Wandy Rutkiewicz w Janowicach Wielkich","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"58-520","addr:city":"Janowice Wielkie","addr:street":"ul. Partyzant\u00f3w","addr:housenumber":"4","addr:teryt:simc":15733,"addr:teryt:sym_ul":189670,"contact:phone":"+48 757515277","contact:email":"szkola@janowicewielkie.eu","contact:website":"http:\/\/gzsjanowicew.szkolnastrona.pl","ref:regon":"000596599","ref:vatin":"PL6112454057","operator":"Gmina Janowice Wielkie","operator:type":"government","amenity":"school"}},{"id":89139,"type":"Feature","geometry":{"type":"Point","coordinates":[15.92624,50.88207]},"properties":{"ref:rspo":89139,"official_name":"Przedszkole Publiczne","name":"Przedszkole Publiczne","addr:country":"PL","addr:postcode":"58-520","addr:city":"Janowice Wielkie","addr:street":"ul. Partyzant\u00f3w","addr:housenumber":"4","addr:teryt:simc":15733,"addr:teryt:sym_ul":189670,"contact:phone":"+48 757515171","contact:email":"przedszkole@janowicewielkie.eu","contact:website":"http:\/\/www.przedszkolejanowicewielkie.eu","ref:regon":"230314016","ref:vatin":"PL6112323817","operator":"Gmina Janowice Wielkie","operator:type":"government","amenity":"kindergarten"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 89094,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.92624,
+                    50.8821
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 89094,
+                "official_name": "Szko\u0142a Podstawowa im. Wandy Rutkiewicz w Janowicach Wielkich",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "58-520",
+                "addr:city": "Janowice Wielkie",
+                "addr:street": "ul. Partyzant\u00f3w",
+                "addr:housenumber": "4",
+                "addr:teryt:simc": 15733,
+                "addr:teryt:sym_ul": 189670,
+                "contact:phone": "+48 757515277",
+                "contact:email": "szkola@janowicewielkie.eu",
+                "contact:website": "http:\/\/gzsjanowicew.szkolnastrona.pl",
+                "ref:regon": "000596599",
+                "ref:vatin": "PL6112454057",
+                "operator": "Gmina Janowice Wielkie",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 89139,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.92624,
+                    50.88207
+                ]
+            },
+            "properties": {
+                "ref:rspo": 89139,
+                "official_name": "Przedszkole Publiczne",
+                "name": "Przedszkole Publiczne",
+                "addr:country": "PL",
+                "addr:postcode": "58-520",
+                "addr:city": "Janowice Wielkie",
+                "addr:street": "ul. Partyzant\u00f3w",
+                "addr:housenumber": "4",
+                "addr:teryt:simc": 15733,
+                "addr:teryt:sym_ul": 189670,
+                "contact:phone": "+48 757515171",
+                "contact:email": "przedszkole@janowicewielkie.eu",
+                "contact:website": "http:\/\/www.przedszkolejanowicewielkie.eu",
+                "ref:regon": "230314016",
+                "ref:vatin": "PL6112323817",
+                "operator": "Gmina Janowice Wielkie",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        }
+    ]
+}

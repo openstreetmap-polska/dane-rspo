@@ -1,1 +1,941 @@
-{"type":"FeatureCollection","features":[{"id":70600,"type":"Feature","geometry":{"type":"Point","coordinates":[14.675566,52.6569012]},"properties":{"isced:level":"1;2","ref:rspo":70600,"official_name":"Szko\u0142a Podstawowa im. Marii Konopnickiej w Sarbinowie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"74-404","addr:place":"Sarbinowo","addr:housenumber":"80","addr:teryt:sym_ul":180060,"contact:phone":"+48 957605124","contact:email":"szkolasarbinowo@wp.pl","contact:website":"https:\/\/szkolasarbinowo.edupage.org\/","ref:regon":"210314894","ref:vatin":"PL5971602164","operator":"Gmina D\u0119bno","operator:type":"government","amenity":"school"}},{"id":277200,"type":"Feature","geometry":{"type":"Point","coordinates":[14.71389,52.68822]},"properties":{"ref:rspo":277200,"official_name":"Punkt Przedszkolny \"Puchatek\"","name":"Punkt Przedszkolny \"Puchatek\"","addr:country":"PL","addr:postcode":"74-404","addr:city":"Cychry","addr:street":"ul. Jana Paw\u0142a II","addr:housenumber":"66","addr:door":"5","addr:teryt:simc":7123,"addr:teryt:sym_ul":179743,"contact:email":"monika.rebiasz@interia.pl","contact:website":"https:\/\/www.facebook.com\/niepubliczny-punkt-przedszkolny-puchatek-105761204905183","ref:regon":"388329890","ref:vatin":"PL5971238379","operator":"Monika R\u0119biasz","operator:type":"private","amenity":"kindergarten"}},{"id":70536,"type":"Feature","geometry":{"type":"Point","coordinates":[14.70996,52.6901]},"properties":{"isced:level":"1;2","ref:rspo":70536,"official_name":"Szko\u0142a Podstawowa im. W\u0142adys\u0142awa St. Reymonta w Cychrach","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"74-404","addr:city":"Cychry","addr:street":"ul. Jana Paw\u0142a II","addr:housenumber":"85","addr:teryt:simc":7123,"addr:teryt:sym_ul":179743,"contact:phone":"+48 957607710","contact:email":"spcychry@o2.pl","contact:website":"http:\/\/spcychry.edupage.org","ref:regon":"210314948","ref:vatin":"PL5971351615","operator":"Gmina D\u0119bno","operator:type":"government","amenity":"school"}},{"id":263981,"type":"Feature","geometry":{"type":"Point","coordinates":[14.648663,52.707752]},"properties":{"isced:level":"1;2","ref:rspo":263981,"official_name":"Filia Szko\u0142a Podstawowa w Dargomy\u015blu","name":"Filia Szko\u0142a Podstawowa w Dargomy\u015blu","addr:country":"PL","addr:postcode":"74-404","addr:place":"Dargomy\u015bl","addr:housenumber":"102","addr:teryt:sym_ul":179795,"contact:phone":"+48 957602197","contact:email":"sekretariat@sp3debno.pl","ref:regon":"210314859","operator":"Gmina D\u0119bno","operator:type":"government","amenity":"school","note":"Parent RSPO: 63473"}},{"id":63473,"type":"Feature","geometry":{"type":"Point","coordinates":[14.69921,52.73532]},"properties":{"isced:level":"1;2","ref:rspo":63473,"official_name":"Szko\u0142a Podstawowa Nr3 im. Jaros\u0142awa D\u0105browskiego w D\u0119bnie","name":"Szko\u0142a Podstawowa Nr3","addr:country":"PL","addr:postcode":"74-400","addr:city":"D\u0119bno","addr:street":"ul. Juliusza S\u0142owackiego","addr:housenumber":"21","addr:teryt:simc":20291,"addr:teryt:sym_ul":935305,"contact:phone":"+48 957602197","contact:email":"sekretariat@sp3debno.pl","contact:website":"http:\/\/www.sp3debno.edupage.org","ref:regon":"210314859","ref:vatin":"PL5971627767","operator":"Gmina D\u0119bno","operator:type":"government","amenity":"school","note":"Children RSPO: 263981"}},{"id":83277,"type":"Feature","geometry":{"type":"Point","coordinates":[14.69365,52.73561]},"properties":{"ref:rspo":83277,"official_name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 Nr 1 im. Juliusza S\u0142owackiego w D\u0119bnie","name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 Nr 1","addr:country":"PL","addr:postcode":"74-400","addr:city":"D\u0119bno","addr:street":"ul. Zachodnia","addr:housenumber":"4","addr:teryt:simc":25305,"addr:teryt:sym_ul":935305,"contact:phone":"+48 957602136","contact:email":"zsdebno@wp.pl","contact:website":"http:\/\/www.zsdebno.pl","ref:regon":"000178755","ref:vatin":"PL5971005072","operator":"Powiat My\u015bliborski","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 88176;88212;88219;268212;268213"}},{"id":88176,"type":"Feature","geometry":{"type":"Point","coordinates":[14.69365,52.73558]},"properties":{"isced:level":"3","ref:rspo":88176,"official_name":"Bran\u017cowa Szko\u0142a I Stopnia","name":"Bran\u017cowa Szko\u0142a I Stopnia","addr:country":"PL","addr:postcode":"74-400","addr:city":"D\u0119bno","addr:street":"ul. Zachodnia","addr:housenumber":"4","addr:teryt:simc":25305,"addr:teryt:sym_ul":935305,"contact:phone":"+48 957602136","contact:email":"zsdebno@wp.pl","contact:website":"http:\/\/www.zsdebno.pl","ref:regon":"812075966","ref:vatin":"PL5971005072","operator":"Powiat My\u015bliborski","operator:type":"government","amenity":"school","note":"Parent RSPO: 83277"}},{"id":88212,"type":"Feature","geometry":{"type":"Point","coordinates":[14.69365,52.73555]},"properties":{"isced:level":"3","ref:rspo":88212,"official_name":"Technikum Nr 1","name":"Technikum Nr 1","addr:country":"PL","addr:postcode":"74-400","addr:city":"D\u0119bno","addr:street":"ul. Zachodnia","addr:housenumber":"4","addr:teryt:simc":25305,"addr:teryt:sym_ul":935305,"contact:phone":"+48 957602136","contact:email":"zsdebno@wp.pl","contact:website":"http:\/\/www.zsdebno.pl","ref:regon":"812541405","ref:vatin":"PL5971005072","operator":"Powiat My\u015bliborski","operator:type":"government","amenity":"school","note":"Parent RSPO: 83277"}},{"id":88219,"type":"Feature","geometry":{"type":"Point","coordinates":[14.69365,52.73552]},"properties":{"isced:level":"3","ref:rspo":88219,"official_name":"I Liceum Og\u00f3lnokszta\u0142c\u0105ce","name":"I Liceum Og\u00f3lnokszta\u0142c\u0105ce","addr:country":"PL","addr:postcode":"74-400","addr:city":"D\u0119bno","addr:street":"ul. Zachodnia","addr:housenumber":"4","addr:teryt:simc":25305,"addr:teryt:sym_ul":935305,"contact:phone":"+48 957602136","contact:email":"zsdebno@wp.pl","contact:website":"http:\/\/www.zsdebno.pl","ref:regon":"812541345","ref:vatin":"PL5971005072","operator":"Powiat My\u015bliborski","operator:type":"government","amenity":"school","note":"Parent RSPO: 83277"}},{"id":268212,"type":"Feature","geometry":{"type":"Point","coordinates":[14.69365,52.73549]},"properties":{"ref:rspo":268212,"official_name":"Centrum Kszta\u0142cenia Ustawicznego w D\u0119bnie","name":"Centrum Kszta\u0142cenia Ustawicznego w D\u0119bnie","addr:country":"PL","addr:postcode":"74-400","addr:city":"D\u0119bno","addr:street":"ul. Zachodnia","addr:housenumber":"4","addr:teryt:simc":25305,"addr:teryt:sym_ul":935305,"contact:phone":"+48 957472136","contact:email":"zsdebno@wp.pl","contact:website":"http:\/\/www.zspdebno.pl","ref:regon":"381026790","ref:vatin":"PL5971005072","operator":"Powiat My\u015bliborski","operator:type":"government","fixme":"w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. amenity=training + training=*, amenity=dancing_school, amenity=language_school, amenity=music_school)","note":"Parent RSPO: 83277"}},{"id":268213,"type":"Feature","geometry":{"type":"Point","coordinates":[14.69365,52.73546]},"properties":{"isced:level":"4","ref:rspo":268213,"official_name":"Szko\u0142a Policealna w Zespole Szk\u00f3\u0142 Nr 1 im. Juliusza S\u0142owackiego w D\u0119bnie","name":"Szko\u0142a Policealna w Zespole Szk\u00f3\u0142 Nr 1","addr:country":"PL","addr:postcode":"74-400","addr:city":"D\u0119bno","addr:street":"ul. Zachodnia","addr:housenumber":"4","addr:teryt:simc":25305,"addr:teryt:sym_ul":935305,"contact:phone":"+48 957602136","contact:email":"zsdebno@wp.pl","contact:website":"http:\/\/www.zsdebno.pl","ref:regon":"381031152","ref:vatin":"PL5971005072","operator":"Powiat My\u015bliborski","operator:type":"government","amenity":"college","note":"Parent RSPO: 83277"}},{"id":70688,"type":"Feature","geometry":{"type":"Point","coordinates":[14.69781,52.73566]},"properties":{"ref:rspo":70688,"official_name":"Przedszkole Nr 2 im. Stanis\u0142awy Modrzejewskiej w D\u0119bnie","name":"Przedszkole Nr 2","addr:country":"PL","addr:postcode":"74-400","addr:city":"D\u0119bno","addr:street":"ul. Jana Paw\u0142a II","addr:housenumber":"42","addr:teryt:simc":7123,"addr:teryt:sym_ul":935305,"contact:phone":"+48 957602782","contact:email":"p2debno@wp.pl","contact:website":"http:\/\/www.p2debno.szkolnastrona.pl","ref:regon":"210019847","ref:vatin":"PL5971000330","operator":"Gmina D\u0119bno","operator:type":"government","amenity":"kindergarten"}},{"id":70671,"type":"Feature","geometry":{"type":"Point","coordinates":[14.7005,52.73758]},"properties":{"ref:rspo":70671,"official_name":"Przedszkole Nr 1 \"Czarodziejska Kraina\" w Debnie","name":"Przedszkole Nr 1 \"Czarodziejska Kraina\" w Debnie","addr:country":"PL","addr:postcode":"74-400","addr:city":"D\u0119bno","addr:street":"ul. Tadeusza Ko\u015bciuszki","addr:housenumber":"6","addr:teryt:simc":9582,"addr:teryt:sym_ul":935305,"contact:phone":"+48 957602332","contact:email":"czarodziejskakraina@buziaczek.pl","contact:website":"https:\/\/przedszkole-debno.edupage.org\/","ref:regon":"210019860","ref:vatin":"PL5971000353","operator":"Gmina D\u0119bno","operator:type":"government","amenity":"kindergarten"}},{"id":70528,"type":"Feature","geometry":{"type":"Point","coordinates":[14.7055,52.73782]},"properties":{"isced:level":"1;2","ref:rspo":70528,"official_name":"Szko\u0142a Podstawowa Nr 1 im. Komisji Edukacji Narodowej w D\u0119bnie","name":"Szko\u0142a Podstawowa Nr 1","addr:country":"PL","addr:postcode":"74-400","addr:city":"D\u0119bno","addr:street":"ul. Marsza\u0142ka J\u00f3zefa Pi\u0142sudskiego","addr:housenumber":"10","addr:teryt:simc":36029,"addr:teryt:sym_ul":935305,"contact:phone":"+48 957602783","contact:email":"sekretariat@sp1debno.pl","contact:website":"https:\/\/sp1debno.edupage.org\/","ref:regon":"210314820","ref:vatin":"PL5971471940","operator":"Gmina D\u0119bno","operator:type":"government","amenity":"school"}},{"id":89785,"type":"Feature","geometry":{"type":"Point","coordinates":[14.7088,52.73816]},"properties":{"ref:rspo":89785,"official_name":"Centrum Kszta\u0142cenia Ustawicznego Artgraf Bhp Henryk Marchlewicz Niepubliczna Plac\u00f3wka O\u015bwiatowa","name":"Centrum Kszta\u0142cenia Ustawicznego Artgraf Bhp Henryk Marchlewicz Niepubliczna Plac\u00f3wka O\u015bwiatowa","addr:country":"PL","addr:postcode":"74-400","addr:city":"D\u0119bno","addr:street":"ul. Jana Baczewskiego","addr:housenumber":"20","addr:teryt:simc":563,"addr:teryt:sym_ul":935305,"contact:phone":"+48 509749449","contact:email":"henryk@cku-bhp.pl","contact:website":"http:\/\/cku-bhp.pl","ref:regon":"321303960","operator":"Henryk Marchlewicz","operator:type":"private"}},{"id":103565,"type":"Feature","geometry":{"type":"Point","coordinates":[14.7088,52.73813]},"properties":{"ref:rspo":103565,"official_name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 Stowarzyszenia O\u015bwiatowego im. Ignacego \u0141ukasiewicza w D\u0119bnie","name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 Stowarzyszenia O\u015bwiatowego","addr:country":"PL","addr:postcode":"74-400","addr:city":"D\u0119bno","addr:street":"ul. Jana Baczewskiego","addr:housenumber":"20","addr:teryt:simc":563,"addr:teryt:sym_ul":935305,"contact:phone":"+48 957603269","contact:email":"sto@stodebno.net","contact:website":"http:\/\/www.stodebno.net\/","ref:regon":"321314170","operator":"Stowarzyszenie O\u015bwiatowe W D\u0119bnie","operator:type":"ngo","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 106813;262916"}},{"id":106813,"type":"Feature","geometry":{"type":"Point","coordinates":[14.7088,52.7381]},"properties":{"isced:level":"3","ref:rspo":106813,"official_name":"Liceum Og\u00f3lnokszta\u0142c\u0105ce w Zespole Szk\u00f3\u0142 Stowarzyszenia O\u015bwiatowego w D\u0119bnie","name":"Liceum Og\u00f3lnokszta\u0142c\u0105ce w Zespole Szk\u00f3\u0142 Stowarzyszenia O\u015bwiatowego w D\u0119bnie","addr:country":"PL","addr:postcode":"74-400","addr:city":"D\u0119bno","addr:street":"ul. Jana Baczewskiego","addr:housenumber":"20","addr:teryt:simc":563,"addr:teryt:sym_ul":935305,"contact:phone":"+48 957603269","contact:email":"sto@stodebno.net","contact:website":"http:\/\/www.stodebno.net","ref:regon":"321326687","ref:vatin":"PL5971004983","operator":"Stowarzyszenie O\u015bwiatowe W D\u0119bnie","operator:type":"ngo","amenity":"school","note":"Parent RSPO: 103565"}},{"id":262916,"type":"Feature","geometry":{"type":"Point","coordinates":[14.7088,52.73807]},"properties":{"isced:level":"1;2","ref:rspo":262916,"official_name":"Szko\u0142a Podstawowa Stowarzyszenia O\u015bwiatowego im. Ignacego \u0141ukasiewicza w D\u0119bnie","name":"Szko\u0142a Podstawowa Stowarzyszenia O\u015bwiatowego","addr:country":"PL","addr:postcode":"74-400","addr:city":"D\u0119bno","addr:street":"ul. Jana Baczewskiego","addr:housenumber":"20","addr:teryt:simc":563,"addr:teryt:sym_ul":935305,"contact:phone":"+48 957603269","contact:email":"sto@stodebno.net","contact:website":"http:\/\/www.stodebno.net\/","ref:regon":"368072810","operator":"Stowarzyszenie O\u015bwiatowe W D\u0119bnie","operator:type":"ngo","amenity":"school","note":"Parent RSPO: 103565"}},{"id":262375,"type":"Feature","geometry":{"type":"Point","coordinates":[14.69947,52.7387299]},"properties":{"isced:level":"1;2","ref:rspo":262375,"official_name":"Szko\u0142a Podstawowa Nr 2 im. Arkadego Fiedlera w D\u0119bnie","name":"Szko\u0142a Podstawowa Nr 2","addr:country":"PL","addr:postcode":"74-400","addr:city":"D\u0119bno","addr:street":"ul. Jana Paw\u0142a II","addr:housenumber":"1","addr:teryt:simc":7123,"addr:teryt:sym_ul":935305,"contact:phone":"+48 957602713","contact:email":"sekretariat@sp2debno.pl","contact:website":"https:\/\/sp2debno.edupage.org","ref:regon":"367995033","operator":"Gmina D\u0119bno","operator:type":"government","amenity":"school"}},{"id":92534,"type":"Feature","geometry":{"type":"Point","coordinates":[14.69691,52.73934]},"properties":{"ref:rspo":92534,"official_name":"Niepubliczne Przedszkole Towarzystwa Salezja\u0144skiego im.\u015bw. Jana Bosko","name":"Niepubliczne Przedszkole Towarzystwa Salezja\u0144skiego im.\u015bw. Jana Bosko","addr:country":"PL","addr:postcode":"74-400","addr:city":"D\u0119bno","addr:street":"ul. Plac Konstytucji 3-go Maja","addr:housenumber":"2","addr:teryt:simc":55188,"addr:teryt:sym_ul":935305,"contact:phone":"+48 957604854","contact:email":"przedszkole@naszdom.edu.pl","contact:website":"http:\/\/www.naszdom.edu.pl","ref:regon":"321310640","operator":"Towarzystwo Salezja\u0144skie Inspektoria P.w. \u015aw. Wojciecha","operator:type":"religious","amenity":"kindergarten"}},{"id":72686,"type":"Feature","geometry":{"type":"Point","coordinates":[14.70232,52.73935]},"properties":{"ref:rspo":72686,"official_name":"Poradnia Psychologiczno-Pedagogiczna w D\u0119bnie","name":"Poradnia Psychologiczno-Pedagogiczna w D\u0119bnie","addr:country":"PL","addr:postcode":"74-400","addr:city":"D\u0119bno","addr:street":"ul. Adama Mickiewicza","addr:housenumber":"30B","addr:teryt:simc":12740,"addr:teryt:sym_ul":935305,"contact:phone":"+48 957602338","contact:email":"pppdebno@wp.pl","contact:website":"http:\/\/pppdebno.szkolnastrona.pl\/","ref:regon":"000711860","ref:vatin":"PL5971022188","operator":"Powiat My\u015bliborski","operator:type":"government","healthcare":"councelling","counselling_type":"education","fixme":"w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. healthcare=councelling + counselling_type=education albo healthcare=psychotherapist)"}},{"id":131610,"type":"Feature","geometry":{"type":"Point","coordinates":[14.70362,52.73997]},"properties":{"isced:level":"1;2","ref:rspo":131610,"official_name":"Szko\u0142a Podstawowa Specjalna Towarzystwa Salezja\u0144skiego im. \u015aw. Jana Bosko","name":"Szko\u0142a Podstawowa Specjalna Towarzystwa Salezja\u0144skiego","addr:country":"PL","addr:postcode":"74-400","addr:city":"D\u0119bno","addr:street":"ul. Adama Mickiewicza","addr:housenumber":"33","addr:teryt:simc":12740,"addr:teryt:sym_ul":935305,"contact:phone":"+48 957260597","contact:email":"sekretariatsts@gmail.com","contact:website":"http:\/\/www.scedebno.pl\/","ref:regon":"365314550","operator":"Towarzystwo Salezja\u0144skie Inspektoria P.w. \u015aw. Wojciecha","operator:type":"religious","amenity":"school"}},{"id":131652,"type":"Feature","geometry":{"type":"Point","coordinates":[14.70362,52.73994]},"properties":{"ref:rspo":131652,"official_name":"Przedszkole Specjalne Towarzystwa Salezja\u0144skiego im. \u015aw. Jana Bosko","name":"Przedszkole Specjalne Towarzystwa Salezja\u0144skiego","addr:country":"PL","addr:postcode":"74-400","addr:city":"D\u0119bno","addr:street":"ul. Adama Mickiewicza","addr:housenumber":"33","addr:teryt:simc":12740,"addr:teryt:sym_ul":935305,"contact:phone":"+48 697325771","contact:email":"sekretariatsts@gmail.com","ref:regon":"365323648","operator":"Towarzystwo Salezja\u0144skie Inspektoria P.w. \u015aw. Wojciecha","operator:type":"religious","amenity":"kindergarten"}},{"id":92816,"type":"Feature","geometry":{"type":"Point","coordinates":[14.7690366,52.7843409]},"properties":{"ref:rspo":92816,"official_name":"Zesp\u00f3\u0142 Plac\u00f3wek O\u015bwiatowych im. Ks. Andrzeja Przyby\u0142y Sdb w Barn\u00f3wku","name":"Zesp\u00f3\u0142 Plac\u00f3wek O\u015bwiatowych","addr:country":"PL","addr:postcode":"74-311","addr:place":"Barn\u00f3wko","addr:housenumber":"38","addr:teryt:sym_ul":179690,"contact:phone":"+48 957692662","contact:email":"szkola.barnowko@yahoo.pl","contact:website":"http:\/\/nspbarnowko.eu","ref:regon":"321309967","ref:vatin":"PL5971725955","operator":"Stowarzyszenie Edukacyjne Na Rzecz Rozwoju Wsi Mostno, Wi\u0119c\u0142aw, \u0141azy I Barn\u00f3wko \"Nasza Szko\u0142a\"","operator:type":"ngo","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 70729;84208"}},{"id":70729,"type":"Feature","geometry":{"type":"Point","coordinates":[14.7690366,52.784310899999994]},"properties":{"ref:rspo":70729,"official_name":"Zesp\u00f3\u0142 Plac\u00f3wek O\u015bwiatowych im. Ks.andrzeja Przyby\u0142y Sdb -Niepubliczne Ma\u0142e Przedszkole \"Lesne Skrzaty\"","name":"Zesp\u00f3\u0142 Plac\u00f3wek O\u015bwiatowych","addr:country":"PL","addr:postcode":"74-311","addr:place":"Barn\u00f3wko","addr:housenumber":"38","addr:teryt:sym_ul":179690,"contact:phone":"+48 957602662","contact:email":"szkola.barnowko@yahoo.pl","contact:website":"http:\/\/www.nspbarnowko.eu\/","ref:regon":"321294131","operator":"Stowarzyszenie Edukacyjne Na Rzecz Rozwoju Wsi Mostno, Wi\u0119c\u0142aw, \u0141azy I Barn\u00f3wko \"Nasza Szko\u0142a\"","operator:type":"ngo","amenity":"kindergarten","note":"Parent RSPO: 92816"}},{"id":84208,"type":"Feature","geometry":{"type":"Point","coordinates":[14.7690366,52.7842809]},"properties":{"isced:level":"1;2","ref:rspo":84208,"official_name":"Zesp\u00f3\u0142 Plac\u00f3wek O\u015bwiatowych im. Ks. Andrzeja Przyby\u0142y Sdb-Niepubliczna Szko\u0142a Podstawowa","name":"Zesp\u00f3\u0142 Plac\u00f3wek O\u015bwiatowych","addr:country":"PL","addr:postcode":"74-311","addr:place":"Barn\u00f3wko","addr:housenumber":"38","addr:teryt:sym_ul":179690,"contact:phone":"+48 957602662","contact:email":"szkola.barnowko@yahoo.pl","contact:website":"http:\/\/www.nspbarnowko.eu\/","ref:regon":"321299482","operator":"Stowarzyszenie Edukacyjne Na Rzecz Rozwoju Wsi Mostno, Wi\u0119c\u0142aw, \u0141azy I Barn\u00f3wko \"Nasza Szko\u0142a\"","operator:type":"ngo","amenity":"school","note":"Parent RSPO: 92816"}},{"id":70526,"type":"Feature","geometry":{"type":"Point","coordinates":[14.637137,52.7861769]},"properties":{"isced:level":"1;2","ref:rspo":70526,"official_name":"Szko\u0142a Podstawowa Nr 1 im. M\u0142odych Talent\u00f3w w Smolnicy","name":"Szko\u0142a Podstawowa Nr 1","addr:country":"PL","addr:postcode":"74-400","addr:place":"Smolnica","addr:housenumber":"20","addr:teryt:sym_ul":180083,"contact:phone":"+48 957601490","contact:email":"spsmolnica@o2.pl","contact:website":"https:\/\/sp1smolnica.edupage.org\/","ref:regon":"210314977","ref:vatin":"PL5971334338","operator":"Gmina D\u0119bno","operator:type":"government","amenity":"school"}},{"id":124117,"type":"Feature","geometry":{"type":"Point","coordinates":[14.6364892,52.7871956]},"properties":{"ref:rspo":124117,"official_name":"M\u0142odzie\u017cowy O\u015brodek Socjoterapii w Smolnicy","name":"M\u0142odzie\u017cowy O\u015brodek Socjoterapii w Smolnicy","addr:country":"PL","addr:postcode":"74-400","addr:place":"Smolnica","addr:housenumber":"51","addr:teryt:sym_ul":180083,"contact:phone":"+48 957601494","contact:email":"smolnica@smolnica.pl","contact:website":"http:\/\/www.smolnica.pl","ref:regon":"321560549","ref:vatin":"PL5971749246","operator":"Powiat My\u015bliborski","operator:type":"government","fixme":"amenity=social facility + social_facility=group_home + social_facility:for=juvenile","note":"Children RSPO: 124389"}},{"id":124389,"type":"Feature","geometry":{"type":"Point","coordinates":[14.6364892,52.787165599999994]},"properties":{"isced:level":"1;2","ref:rspo":124389,"official_name":"Szko\u0142a Podstwowa Specjalna Nr 2 w Smolnicy","name":"Szko\u0142a Podstwowa Specjalna Nr 2 w Smolnicy","addr:country":"PL","addr:postcode":"74-400","addr:place":"Smolnica","addr:housenumber":"51","addr:teryt:sym_ul":180083,"contact:phone":"+48 957601494","contact:email":"smolnica@smolnica.pl","contact:website":"http:\/\/www.smolnica.pl","ref:regon":"321564754","ref:vatin":"PL5971457414","operator":"Powiat My\u015bliborski","operator:type":"government","amenity":"school","note":"Parent RSPO: 124117"}},{"id":55477,"type":"Feature","geometry":{"type":"Point","coordinates":[14.7835365,52.8487174]},"properties":{"isced:level":"1;2","ref:rspo":55477,"official_name":"Szko\u0142a Podstawowa im. Kornela Makuszy\u0144skiego w R\u00f3\u017ca\u0144sku","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"74-311","addr:place":"R\u00f3\u017ca\u0144sko","addr:housenumber":"87","addr:teryt:sym_ul":180019,"contact:phone":"+48 957601815","contact:email":"sprozansko@sprozansko.pl","contact:website":"http:\/\/www.sprozansko.edupage.org","ref:regon":"210314871","operator":"Gmina D\u0119bno","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 70600,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.675566,
+                    52.6569012
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 70600,
+                "official_name": "Szko\u0142a Podstawowa im. Marii Konopnickiej w Sarbinowie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "74-404",
+                "addr:place": "Sarbinowo",
+                "addr:housenumber": "80",
+                "addr:teryt:sym_ul": 180060,
+                "contact:phone": "+48 957605124",
+                "contact:email": "szkolasarbinowo@wp.pl",
+                "contact:website": "https:\/\/szkolasarbinowo.edupage.org\/",
+                "ref:regon": "210314894",
+                "ref:vatin": "PL5971602164",
+                "operator": "Gmina D\u0119bno",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 277200,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.71389,
+                    52.68822
+                ]
+            },
+            "properties": {
+                "ref:rspo": 277200,
+                "official_name": "Punkt Przedszkolny \"Puchatek\"",
+                "name": "Punkt Przedszkolny \"Puchatek\"",
+                "addr:country": "PL",
+                "addr:postcode": "74-404",
+                "addr:city": "Cychry",
+                "addr:street": "ul. Jana Paw\u0142a II",
+                "addr:housenumber": "66",
+                "addr:door": "5",
+                "addr:teryt:simc": 7123,
+                "addr:teryt:sym_ul": 179743,
+                "contact:email": "monika.rebiasz@interia.pl",
+                "contact:website": "https:\/\/www.facebook.com\/niepubliczny-punkt-przedszkolny-puchatek-105761204905183",
+                "ref:regon": "388329890",
+                "ref:vatin": "PL5971238379",
+                "operator": "Monika R\u0119biasz",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 70536,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.70996,
+                    52.6901
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 70536,
+                "official_name": "Szko\u0142a Podstawowa im. W\u0142adys\u0142awa St. Reymonta w Cychrach",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "74-404",
+                "addr:city": "Cychry",
+                "addr:street": "ul. Jana Paw\u0142a II",
+                "addr:housenumber": "85",
+                "addr:teryt:simc": 7123,
+                "addr:teryt:sym_ul": 179743,
+                "contact:phone": "+48 957607710",
+                "contact:email": "spcychry@o2.pl",
+                "contact:website": "http:\/\/spcychry.edupage.org",
+                "ref:regon": "210314948",
+                "ref:vatin": "PL5971351615",
+                "operator": "Gmina D\u0119bno",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 263981,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.648663,
+                    52.707752
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 263981,
+                "official_name": "Filia Szko\u0142a Podstawowa w Dargomy\u015blu",
+                "name": "Filia Szko\u0142a Podstawowa w Dargomy\u015blu",
+                "addr:country": "PL",
+                "addr:postcode": "74-404",
+                "addr:place": "Dargomy\u015bl",
+                "addr:housenumber": "102",
+                "addr:teryt:sym_ul": 179795,
+                "contact:phone": "+48 957602197",
+                "contact:email": "sekretariat@sp3debno.pl",
+                "ref:regon": "210314859",
+                "operator": "Gmina D\u0119bno",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 63473"
+            }
+        },
+        {
+            "id": 63473,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.69921,
+                    52.73532
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 63473,
+                "official_name": "Szko\u0142a Podstawowa Nr3 im. Jaros\u0142awa D\u0105browskiego w D\u0119bnie",
+                "name": "Szko\u0142a Podstawowa Nr3",
+                "addr:country": "PL",
+                "addr:postcode": "74-400",
+                "addr:city": "D\u0119bno",
+                "addr:street": "ul. Juliusza S\u0142owackiego",
+                "addr:housenumber": "21",
+                "addr:teryt:simc": 20291,
+                "addr:teryt:sym_ul": 935305,
+                "contact:phone": "+48 957602197",
+                "contact:email": "sekretariat@sp3debno.pl",
+                "contact:website": "http:\/\/www.sp3debno.edupage.org",
+                "ref:regon": "210314859",
+                "ref:vatin": "PL5971627767",
+                "operator": "Gmina D\u0119bno",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Children RSPO: 263981"
+            }
+        },
+        {
+            "id": 83277,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.69365,
+                    52.73561
+                ]
+            },
+            "properties": {
+                "ref:rspo": 83277,
+                "official_name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Nr 1 im. Juliusza S\u0142owackiego w D\u0119bnie",
+                "name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Nr 1",
+                "addr:country": "PL",
+                "addr:postcode": "74-400",
+                "addr:city": "D\u0119bno",
+                "addr:street": "ul. Zachodnia",
+                "addr:housenumber": "4",
+                "addr:teryt:simc": 25305,
+                "addr:teryt:sym_ul": 935305,
+                "contact:phone": "+48 957602136",
+                "contact:email": "zsdebno@wp.pl",
+                "contact:website": "http:\/\/www.zsdebno.pl",
+                "ref:regon": "000178755",
+                "ref:vatin": "PL5971005072",
+                "operator": "Powiat My\u015bliborski",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 88176;88212;88219;268212;268213"
+            }
+        },
+        {
+            "id": 88176,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.69365,
+                    52.73558
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 88176,
+                "official_name": "Bran\u017cowa Szko\u0142a I Stopnia",
+                "name": "Bran\u017cowa Szko\u0142a I Stopnia",
+                "addr:country": "PL",
+                "addr:postcode": "74-400",
+                "addr:city": "D\u0119bno",
+                "addr:street": "ul. Zachodnia",
+                "addr:housenumber": "4",
+                "addr:teryt:simc": 25305,
+                "addr:teryt:sym_ul": 935305,
+                "contact:phone": "+48 957602136",
+                "contact:email": "zsdebno@wp.pl",
+                "contact:website": "http:\/\/www.zsdebno.pl",
+                "ref:regon": "812075966",
+                "ref:vatin": "PL5971005072",
+                "operator": "Powiat My\u015bliborski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 83277"
+            }
+        },
+        {
+            "id": 88212,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.69365,
+                    52.73555
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 88212,
+                "official_name": "Technikum Nr 1",
+                "name": "Technikum Nr 1",
+                "addr:country": "PL",
+                "addr:postcode": "74-400",
+                "addr:city": "D\u0119bno",
+                "addr:street": "ul. Zachodnia",
+                "addr:housenumber": "4",
+                "addr:teryt:simc": 25305,
+                "addr:teryt:sym_ul": 935305,
+                "contact:phone": "+48 957602136",
+                "contact:email": "zsdebno@wp.pl",
+                "contact:website": "http:\/\/www.zsdebno.pl",
+                "ref:regon": "812541405",
+                "ref:vatin": "PL5971005072",
+                "operator": "Powiat My\u015bliborski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 83277"
+            }
+        },
+        {
+            "id": 88219,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.69365,
+                    52.73552
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 88219,
+                "official_name": "I Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+                "name": "I Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+                "addr:country": "PL",
+                "addr:postcode": "74-400",
+                "addr:city": "D\u0119bno",
+                "addr:street": "ul. Zachodnia",
+                "addr:housenumber": "4",
+                "addr:teryt:simc": 25305,
+                "addr:teryt:sym_ul": 935305,
+                "contact:phone": "+48 957602136",
+                "contact:email": "zsdebno@wp.pl",
+                "contact:website": "http:\/\/www.zsdebno.pl",
+                "ref:regon": "812541345",
+                "ref:vatin": "PL5971005072",
+                "operator": "Powiat My\u015bliborski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 83277"
+            }
+        },
+        {
+            "id": 268212,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.69365,
+                    52.73549
+                ]
+            },
+            "properties": {
+                "ref:rspo": 268212,
+                "official_name": "Centrum Kszta\u0142cenia Ustawicznego w D\u0119bnie",
+                "name": "Centrum Kszta\u0142cenia Ustawicznego w D\u0119bnie",
+                "addr:country": "PL",
+                "addr:postcode": "74-400",
+                "addr:city": "D\u0119bno",
+                "addr:street": "ul. Zachodnia",
+                "addr:housenumber": "4",
+                "addr:teryt:simc": 25305,
+                "addr:teryt:sym_ul": 935305,
+                "contact:phone": "+48 957472136",
+                "contact:email": "zsdebno@wp.pl",
+                "contact:website": "http:\/\/www.zspdebno.pl",
+                "ref:regon": "381026790",
+                "ref:vatin": "PL5971005072",
+                "operator": "Powiat My\u015bliborski",
+                "operator:type": "government",
+                "fixme": "w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. amenity=training + training=*, amenity=dancing_school, amenity=language_school, amenity=music_school)",
+                "note": "Parent RSPO: 83277"
+            }
+        },
+        {
+            "id": 268213,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.69365,
+                    52.73546
+                ]
+            },
+            "properties": {
+                "isced:level": "4",
+                "ref:rspo": 268213,
+                "official_name": "Szko\u0142a Policealna w Zespole Szk\u00f3\u0142 Nr 1 im. Juliusza S\u0142owackiego w D\u0119bnie",
+                "name": "Szko\u0142a Policealna w Zespole Szk\u00f3\u0142 Nr 1",
+                "addr:country": "PL",
+                "addr:postcode": "74-400",
+                "addr:city": "D\u0119bno",
+                "addr:street": "ul. Zachodnia",
+                "addr:housenumber": "4",
+                "addr:teryt:simc": 25305,
+                "addr:teryt:sym_ul": 935305,
+                "contact:phone": "+48 957602136",
+                "contact:email": "zsdebno@wp.pl",
+                "contact:website": "http:\/\/www.zsdebno.pl",
+                "ref:regon": "381031152",
+                "ref:vatin": "PL5971005072",
+                "operator": "Powiat My\u015bliborski",
+                "operator:type": "government",
+                "amenity": "college",
+                "note": "Parent RSPO: 83277"
+            }
+        },
+        {
+            "id": 70688,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.69781,
+                    52.73566
+                ]
+            },
+            "properties": {
+                "ref:rspo": 70688,
+                "official_name": "Przedszkole Nr 2 im. Stanis\u0142awy Modrzejewskiej w D\u0119bnie",
+                "name": "Przedszkole Nr 2",
+                "addr:country": "PL",
+                "addr:postcode": "74-400",
+                "addr:city": "D\u0119bno",
+                "addr:street": "ul. Jana Paw\u0142a II",
+                "addr:housenumber": "42",
+                "addr:teryt:simc": 7123,
+                "addr:teryt:sym_ul": 935305,
+                "contact:phone": "+48 957602782",
+                "contact:email": "p2debno@wp.pl",
+                "contact:website": "http:\/\/www.p2debno.szkolnastrona.pl",
+                "ref:regon": "210019847",
+                "ref:vatin": "PL5971000330",
+                "operator": "Gmina D\u0119bno",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 70671,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.7005,
+                    52.73758
+                ]
+            },
+            "properties": {
+                "ref:rspo": 70671,
+                "official_name": "Przedszkole Nr 1 \"Czarodziejska Kraina\" w Debnie",
+                "name": "Przedszkole Nr 1 \"Czarodziejska Kraina\" w Debnie",
+                "addr:country": "PL",
+                "addr:postcode": "74-400",
+                "addr:city": "D\u0119bno",
+                "addr:street": "ul. Tadeusza Ko\u015bciuszki",
+                "addr:housenumber": "6",
+                "addr:teryt:simc": 9582,
+                "addr:teryt:sym_ul": 935305,
+                "contact:phone": "+48 957602332",
+                "contact:email": "czarodziejskakraina@buziaczek.pl",
+                "contact:website": "https:\/\/przedszkole-debno.edupage.org\/",
+                "ref:regon": "210019860",
+                "ref:vatin": "PL5971000353",
+                "operator": "Gmina D\u0119bno",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 70528,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.7055,
+                    52.73782
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 70528,
+                "official_name": "Szko\u0142a Podstawowa Nr 1 im. Komisji Edukacji Narodowej w D\u0119bnie",
+                "name": "Szko\u0142a Podstawowa Nr 1",
+                "addr:country": "PL",
+                "addr:postcode": "74-400",
+                "addr:city": "D\u0119bno",
+                "addr:street": "ul. Marsza\u0142ka J\u00f3zefa Pi\u0142sudskiego",
+                "addr:housenumber": "10",
+                "addr:teryt:simc": 36029,
+                "addr:teryt:sym_ul": 935305,
+                "contact:phone": "+48 957602783",
+                "contact:email": "sekretariat@sp1debno.pl",
+                "contact:website": "https:\/\/sp1debno.edupage.org\/",
+                "ref:regon": "210314820",
+                "ref:vatin": "PL5971471940",
+                "operator": "Gmina D\u0119bno",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 89785,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.7088,
+                    52.73816
+                ]
+            },
+            "properties": {
+                "ref:rspo": 89785,
+                "official_name": "Centrum Kszta\u0142cenia Ustawicznego Artgraf Bhp Henryk Marchlewicz Niepubliczna Plac\u00f3wka O\u015bwiatowa",
+                "name": "Centrum Kszta\u0142cenia Ustawicznego Artgraf Bhp Henryk Marchlewicz Niepubliczna Plac\u00f3wka O\u015bwiatowa",
+                "addr:country": "PL",
+                "addr:postcode": "74-400",
+                "addr:city": "D\u0119bno",
+                "addr:street": "ul. Jana Baczewskiego",
+                "addr:housenumber": "20",
+                "addr:teryt:simc": 563,
+                "addr:teryt:sym_ul": 935305,
+                "contact:phone": "+48 509749449",
+                "contact:email": "henryk@cku-bhp.pl",
+                "contact:website": "http:\/\/cku-bhp.pl",
+                "ref:regon": "321303960",
+                "operator": "Henryk Marchlewicz",
+                "operator:type": "private"
+            }
+        },
+        {
+            "id": 103565,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.7088,
+                    52.73813
+                ]
+            },
+            "properties": {
+                "ref:rspo": 103565,
+                "official_name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Stowarzyszenia O\u015bwiatowego im. Ignacego \u0141ukasiewicza w D\u0119bnie",
+                "name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Stowarzyszenia O\u015bwiatowego",
+                "addr:country": "PL",
+                "addr:postcode": "74-400",
+                "addr:city": "D\u0119bno",
+                "addr:street": "ul. Jana Baczewskiego",
+                "addr:housenumber": "20",
+                "addr:teryt:simc": 563,
+                "addr:teryt:sym_ul": 935305,
+                "contact:phone": "+48 957603269",
+                "contact:email": "sto@stodebno.net",
+                "contact:website": "http:\/\/www.stodebno.net\/",
+                "ref:regon": "321314170",
+                "operator": "Stowarzyszenie O\u015bwiatowe W D\u0119bnie",
+                "operator:type": "ngo",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 106813;262916"
+            }
+        },
+        {
+            "id": 106813,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.7088,
+                    52.7381
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 106813,
+                "official_name": "Liceum Og\u00f3lnokszta\u0142c\u0105ce w Zespole Szk\u00f3\u0142 Stowarzyszenia O\u015bwiatowego w D\u0119bnie",
+                "name": "Liceum Og\u00f3lnokszta\u0142c\u0105ce w Zespole Szk\u00f3\u0142 Stowarzyszenia O\u015bwiatowego w D\u0119bnie",
+                "addr:country": "PL",
+                "addr:postcode": "74-400",
+                "addr:city": "D\u0119bno",
+                "addr:street": "ul. Jana Baczewskiego",
+                "addr:housenumber": "20",
+                "addr:teryt:simc": 563,
+                "addr:teryt:sym_ul": 935305,
+                "contact:phone": "+48 957603269",
+                "contact:email": "sto@stodebno.net",
+                "contact:website": "http:\/\/www.stodebno.net",
+                "ref:regon": "321326687",
+                "ref:vatin": "PL5971004983",
+                "operator": "Stowarzyszenie O\u015bwiatowe W D\u0119bnie",
+                "operator:type": "ngo",
+                "amenity": "school",
+                "note": "Parent RSPO: 103565"
+            }
+        },
+        {
+            "id": 262916,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.7088,
+                    52.73807
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 262916,
+                "official_name": "Szko\u0142a Podstawowa Stowarzyszenia O\u015bwiatowego im. Ignacego \u0141ukasiewicza w D\u0119bnie",
+                "name": "Szko\u0142a Podstawowa Stowarzyszenia O\u015bwiatowego",
+                "addr:country": "PL",
+                "addr:postcode": "74-400",
+                "addr:city": "D\u0119bno",
+                "addr:street": "ul. Jana Baczewskiego",
+                "addr:housenumber": "20",
+                "addr:teryt:simc": 563,
+                "addr:teryt:sym_ul": 935305,
+                "contact:phone": "+48 957603269",
+                "contact:email": "sto@stodebno.net",
+                "contact:website": "http:\/\/www.stodebno.net\/",
+                "ref:regon": "368072810",
+                "operator": "Stowarzyszenie O\u015bwiatowe W D\u0119bnie",
+                "operator:type": "ngo",
+                "amenity": "school",
+                "note": "Parent RSPO: 103565"
+            }
+        },
+        {
+            "id": 262375,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.69947,
+                    52.7387299
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 262375,
+                "official_name": "Szko\u0142a Podstawowa Nr 2 im. Arkadego Fiedlera w D\u0119bnie",
+                "name": "Szko\u0142a Podstawowa Nr 2",
+                "addr:country": "PL",
+                "addr:postcode": "74-400",
+                "addr:city": "D\u0119bno",
+                "addr:street": "ul. Jana Paw\u0142a II",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 7123,
+                "addr:teryt:sym_ul": 935305,
+                "contact:phone": "+48 957602713",
+                "contact:email": "sekretariat@sp2debno.pl",
+                "contact:website": "https:\/\/sp2debno.edupage.org",
+                "ref:regon": "367995033",
+                "operator": "Gmina D\u0119bno",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 92534,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.69691,
+                    52.73934
+                ]
+            },
+            "properties": {
+                "ref:rspo": 92534,
+                "official_name": "Niepubliczne Przedszkole Towarzystwa Salezja\u0144skiego im.\u015bw. Jana Bosko",
+                "name": "Niepubliczne Przedszkole Towarzystwa Salezja\u0144skiego im.\u015bw. Jana Bosko",
+                "addr:country": "PL",
+                "addr:postcode": "74-400",
+                "addr:city": "D\u0119bno",
+                "addr:street": "ul. Plac Konstytucji 3-go Maja",
+                "addr:housenumber": "2",
+                "addr:teryt:simc": 55188,
+                "addr:teryt:sym_ul": 935305,
+                "contact:phone": "+48 957604854",
+                "contact:email": "przedszkole@naszdom.edu.pl",
+                "contact:website": "http:\/\/www.naszdom.edu.pl",
+                "ref:regon": "321310640",
+                "operator": "Towarzystwo Salezja\u0144skie Inspektoria P.w. \u015aw. Wojciecha",
+                "operator:type": "religious",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 72686,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.70232,
+                    52.73935
+                ]
+            },
+            "properties": {
+                "ref:rspo": 72686,
+                "official_name": "Poradnia Psychologiczno-Pedagogiczna w D\u0119bnie",
+                "name": "Poradnia Psychologiczno-Pedagogiczna w D\u0119bnie",
+                "addr:country": "PL",
+                "addr:postcode": "74-400",
+                "addr:city": "D\u0119bno",
+                "addr:street": "ul. Adama Mickiewicza",
+                "addr:housenumber": "30B",
+                "addr:teryt:simc": 12740,
+                "addr:teryt:sym_ul": 935305,
+                "contact:phone": "+48 957602338",
+                "contact:email": "pppdebno@wp.pl",
+                "contact:website": "http:\/\/pppdebno.szkolnastrona.pl\/",
+                "ref:regon": "000711860",
+                "ref:vatin": "PL5971022188",
+                "operator": "Powiat My\u015bliborski",
+                "operator:type": "government",
+                "healthcare": "counselling",
+                "counselling_type": "education",
+                "fixme": "w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. healthcare=counselling + counselling_type=education albo healthcare=psychotherapist)"
+            }
+        },
+        {
+            "id": 131610,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.70362,
+                    52.73997
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 131610,
+                "official_name": "Szko\u0142a Podstawowa Specjalna Towarzystwa Salezja\u0144skiego im. \u015aw. Jana Bosko",
+                "name": "Szko\u0142a Podstawowa Specjalna Towarzystwa Salezja\u0144skiego",
+                "addr:country": "PL",
+                "addr:postcode": "74-400",
+                "addr:city": "D\u0119bno",
+                "addr:street": "ul. Adama Mickiewicza",
+                "addr:housenumber": "33",
+                "addr:teryt:simc": 12740,
+                "addr:teryt:sym_ul": 935305,
+                "contact:phone": "+48 957260597",
+                "contact:email": "sekretariatsts@gmail.com",
+                "contact:website": "http:\/\/www.scedebno.pl\/",
+                "ref:regon": "365314550",
+                "operator": "Towarzystwo Salezja\u0144skie Inspektoria P.w. \u015aw. Wojciecha",
+                "operator:type": "religious",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 131652,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.70362,
+                    52.73994
+                ]
+            },
+            "properties": {
+                "ref:rspo": 131652,
+                "official_name": "Przedszkole Specjalne Towarzystwa Salezja\u0144skiego im. \u015aw. Jana Bosko",
+                "name": "Przedszkole Specjalne Towarzystwa Salezja\u0144skiego",
+                "addr:country": "PL",
+                "addr:postcode": "74-400",
+                "addr:city": "D\u0119bno",
+                "addr:street": "ul. Adama Mickiewicza",
+                "addr:housenumber": "33",
+                "addr:teryt:simc": 12740,
+                "addr:teryt:sym_ul": 935305,
+                "contact:phone": "+48 697325771",
+                "contact:email": "sekretariatsts@gmail.com",
+                "ref:regon": "365323648",
+                "operator": "Towarzystwo Salezja\u0144skie Inspektoria P.w. \u015aw. Wojciecha",
+                "operator:type": "religious",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 92816,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.7690366,
+                    52.7843409
+                ]
+            },
+            "properties": {
+                "ref:rspo": 92816,
+                "official_name": "Zesp\u00f3\u0142 Plac\u00f3wek O\u015bwiatowych im. Ks. Andrzeja Przyby\u0142y Sdb w Barn\u00f3wku",
+                "name": "Zesp\u00f3\u0142 Plac\u00f3wek O\u015bwiatowych",
+                "addr:country": "PL",
+                "addr:postcode": "74-311",
+                "addr:place": "Barn\u00f3wko",
+                "addr:housenumber": "38",
+                "addr:teryt:sym_ul": 179690,
+                "contact:phone": "+48 957692662",
+                "contact:email": "szkola.barnowko@yahoo.pl",
+                "contact:website": "http:\/\/nspbarnowko.eu",
+                "ref:regon": "321309967",
+                "ref:vatin": "PL5971725955",
+                "operator": "Stowarzyszenie Edukacyjne Na Rzecz Rozwoju Wsi Mostno, Wi\u0119c\u0142aw, \u0141azy I Barn\u00f3wko \"Nasza Szko\u0142a\"",
+                "operator:type": "ngo",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 70729;84208"
+            }
+        },
+        {
+            "id": 70729,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.7690366,
+                    52.784310899999994
+                ]
+            },
+            "properties": {
+                "ref:rspo": 70729,
+                "official_name": "Zesp\u00f3\u0142 Plac\u00f3wek O\u015bwiatowych im. Ks.andrzeja Przyby\u0142y Sdb -Niepubliczne Ma\u0142e Przedszkole \"Lesne Skrzaty\"",
+                "name": "Zesp\u00f3\u0142 Plac\u00f3wek O\u015bwiatowych",
+                "addr:country": "PL",
+                "addr:postcode": "74-311",
+                "addr:place": "Barn\u00f3wko",
+                "addr:housenumber": "38",
+                "addr:teryt:sym_ul": 179690,
+                "contact:phone": "+48 957602662",
+                "contact:email": "szkola.barnowko@yahoo.pl",
+                "contact:website": "http:\/\/www.nspbarnowko.eu\/",
+                "ref:regon": "321294131",
+                "operator": "Stowarzyszenie Edukacyjne Na Rzecz Rozwoju Wsi Mostno, Wi\u0119c\u0142aw, \u0141azy I Barn\u00f3wko \"Nasza Szko\u0142a\"",
+                "operator:type": "ngo",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 92816"
+            }
+        },
+        {
+            "id": 84208,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.7690366,
+                    52.7842809
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 84208,
+                "official_name": "Zesp\u00f3\u0142 Plac\u00f3wek O\u015bwiatowych im. Ks. Andrzeja Przyby\u0142y Sdb-Niepubliczna Szko\u0142a Podstawowa",
+                "name": "Zesp\u00f3\u0142 Plac\u00f3wek O\u015bwiatowych",
+                "addr:country": "PL",
+                "addr:postcode": "74-311",
+                "addr:place": "Barn\u00f3wko",
+                "addr:housenumber": "38",
+                "addr:teryt:sym_ul": 179690,
+                "contact:phone": "+48 957602662",
+                "contact:email": "szkola.barnowko@yahoo.pl",
+                "contact:website": "http:\/\/www.nspbarnowko.eu\/",
+                "ref:regon": "321299482",
+                "operator": "Stowarzyszenie Edukacyjne Na Rzecz Rozwoju Wsi Mostno, Wi\u0119c\u0142aw, \u0141azy I Barn\u00f3wko \"Nasza Szko\u0142a\"",
+                "operator:type": "ngo",
+                "amenity": "school",
+                "note": "Parent RSPO: 92816"
+            }
+        },
+        {
+            "id": 70526,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.637137,
+                    52.7861769
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 70526,
+                "official_name": "Szko\u0142a Podstawowa Nr 1 im. M\u0142odych Talent\u00f3w w Smolnicy",
+                "name": "Szko\u0142a Podstawowa Nr 1",
+                "addr:country": "PL",
+                "addr:postcode": "74-400",
+                "addr:place": "Smolnica",
+                "addr:housenumber": "20",
+                "addr:teryt:sym_ul": 180083,
+                "contact:phone": "+48 957601490",
+                "contact:email": "spsmolnica@o2.pl",
+                "contact:website": "https:\/\/sp1smolnica.edupage.org\/",
+                "ref:regon": "210314977",
+                "ref:vatin": "PL5971334338",
+                "operator": "Gmina D\u0119bno",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 124117,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.6364892,
+                    52.7871956
+                ]
+            },
+            "properties": {
+                "ref:rspo": 124117,
+                "official_name": "M\u0142odzie\u017cowy O\u015brodek Socjoterapii w Smolnicy",
+                "name": "M\u0142odzie\u017cowy O\u015brodek Socjoterapii w Smolnicy",
+                "addr:country": "PL",
+                "addr:postcode": "74-400",
+                "addr:place": "Smolnica",
+                "addr:housenumber": "51",
+                "addr:teryt:sym_ul": 180083,
+                "contact:phone": "+48 957601494",
+                "contact:email": "smolnica@smolnica.pl",
+                "contact:website": "http:\/\/www.smolnica.pl",
+                "ref:regon": "321560549",
+                "ref:vatin": "PL5971749246",
+                "operator": "Powiat My\u015bliborski",
+                "operator:type": "government",
+                "fixme": "amenity=social_facility + social_facility=group_home + social_facility:for=juvenile",
+                "note": "Children RSPO: 124389"
+            }
+        },
+        {
+            "id": 124389,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.6364892,
+                    52.787165599999994
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 124389,
+                "official_name": "Szko\u0142a Podstwowa Specjalna Nr 2 w Smolnicy",
+                "name": "Szko\u0142a Podstwowa Specjalna Nr 2 w Smolnicy",
+                "addr:country": "PL",
+                "addr:postcode": "74-400",
+                "addr:place": "Smolnica",
+                "addr:housenumber": "51",
+                "addr:teryt:sym_ul": 180083,
+                "contact:phone": "+48 957601494",
+                "contact:email": "smolnica@smolnica.pl",
+                "contact:website": "http:\/\/www.smolnica.pl",
+                "ref:regon": "321564754",
+                "ref:vatin": "PL5971457414",
+                "operator": "Powiat My\u015bliborski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 124117"
+            }
+        },
+        {
+            "id": 55477,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.7835365,
+                    52.8487174
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 55477,
+                "official_name": "Szko\u0142a Podstawowa im. Kornela Makuszy\u0144skiego w R\u00f3\u017ca\u0144sku",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "74-311",
+                "addr:place": "R\u00f3\u017ca\u0144sko",
+                "addr:housenumber": "87",
+                "addr:teryt:sym_ul": 180019,
+                "contact:phone": "+48 957601815",
+                "contact:email": "sprozansko@sprozansko.pl",
+                "contact:website": "http:\/\/www.sprozansko.edupage.org",
+                "ref:regon": "210314871",
+                "operator": "Gmina D\u0119bno",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

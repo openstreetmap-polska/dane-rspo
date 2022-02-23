@@ -1,1 +1,184 @@
-{"type":"FeatureCollection","features":[{"id":81418,"type":"Feature","geometry":{"type":"Point","coordinates":[16.53941,51.02802]},"properties":{"isced:level":"1;2","ref:rspo":81418,"official_name":"Szko\u0142a Podstawowa w Mieczkowie","name":"Szko\u0142a Podstawowa w Mieczkowie","addr:country":"PL","addr:postcode":"55-311","addr:place":"Mieczk\u00f3w","addr:housenumber":"14","addr:teryt:sym_ul":876086,"contact:phone":"+48 713170250","contact:email":"spmieczkow@wp.pl","contact:website":"http:\/\/www.spmieczkow.szkolnastrona.pl","ref:regon":"001181759","ref:vatin":"PL9131602448","operator":"Gmina Kostom\u0142oty","operator:type":"government","amenity":"school"}},{"id":107582,"type":"Feature","geometry":{"type":"Point","coordinates":[16.6844,51.03305]},"properties":{"ref:rspo":107582,"official_name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny \"Nasza Szko\u0142a\"","name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny \"Nasza Szko\u0142a\"","addr:country":"PL","addr:postcode":"55-311","addr:city":"Piotrowice","addr:street":"ul. G\u0142\u00f3wna","addr:housenumber":"65","addr:teryt:simc":5635,"addr:teryt:sym_ul":876146,"contact:email":"sppiotrowice@interia.pl","ref:regon":"022062640","operator":"Stowarzyszenie \"Nasza Szko\u0142a\" W Piotrowicach","operator:type":"ngo","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 106911;107340"}},{"id":106911,"type":"Feature","geometry":{"type":"Point","coordinates":[16.6823,51.0349]},"properties":{"isced:level":"1;2","ref:rspo":106911,"official_name":"Szko\u0142a Podstawowa \"Nasza Szko\u0142a\"","name":"Szko\u0142a Podstawowa \"Nasza Szko\u0142a\"","addr:country":"PL","addr:postcode":"55-311","addr:place":"Piotrowice","addr:housenumber":"31","addr:teryt:sym_ul":876146,"contact:phone":"+48 713970286","contact:email":"sppiotrowice@interia.pl","ref:regon":"022055490","operator":"Stowarzyszenie \"Nasza Szko\u0142a\" W Piotrowicach","operator:type":"ngo","amenity":"school","note":"Parent RSPO: 107582"}},{"id":107340,"type":"Feature","geometry":{"type":"Point","coordinates":[16.6823,51.03487]},"properties":{"ref:rspo":107340,"official_name":"Niepubliczne Przedszkole Stowarzyszenia \"Nasza Szko\u0142a\"","name":"Niepubliczne Przedszkole Stowarzyszenia \"Nasza Szko\u0142a\"","addr:country":"PL","addr:postcode":"55-311","addr:place":"Piotrowice","addr:housenumber":"31","addr:teryt:sym_ul":876146,"contact:phone":"+48 713970286","contact:email":"sppiotrowice@interia.pl","ref:regon":"022060255","operator":"Stowarzyszenie \"Nasza Szko\u0142a\" W Piotrowicach","operator:type":"ngo","amenity":"kindergarten","note":"Parent RSPO: 107582"}},{"id":81417,"type":"Feature","geometry":{"type":"Point","coordinates":[16.61573,51.04303]},"properties":{"isced:level":"1;2","ref:rspo":81417,"official_name":"Szko\u0142a Podstawowa im.marii Konopnickiej w Kostom\u0142otach","name":"Szko\u0142a Podstawowa im.marii Konopnickiej w Kostom\u0142otach","addr:country":"PL","addr:postcode":"55-311","addr:city":"Kostom\u0142oty","addr:street":"ul. Wroc\u0142awska","addr:housenumber":"10","addr:teryt:simc":24806,"addr:teryt:sym_ul":876063,"contact:phone":"+48 713170206","contact:email":"spkostomloty@op.pl","contact:website":"http:\/\/spkostomloty.eu","ref:regon":"000563364","ref:vatin":"PL9131602230","operator":"Gmina Kostom\u0142oty","operator:type":"government","amenity":"school"}},{"id":83706,"type":"Feature","geometry":{"type":"Point","coordinates":[16.74249,51.1024]},"properties":{"isced:level":"1;2","ref:rspo":83706,"official_name":"Szko\u0142a Podstawowa im. \u015aw. Jana Boskow Karczycach","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"55-311","addr:place":"Karczyce","addr:housenumber":"12","addr:teryt:sym_ul":876040,"contact:phone":"+48 713171876","contact:email":"spkarczyce@o2.pl","contact:website":"http:\/\/spkarczyce.szkolnastrona.pl\/","ref:regon":"001181742","ref:vatin":"PL9131601609","operator":"Gmina Kostom\u0142oty","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 81418,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.53941,
+                    51.02802
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 81418,
+                "official_name": "Szko\u0142a Podstawowa w Mieczkowie",
+                "name": "Szko\u0142a Podstawowa w Mieczkowie",
+                "addr:country": "PL",
+                "addr:postcode": "55-311",
+                "addr:place": "Mieczk\u00f3w",
+                "addr:housenumber": "14",
+                "addr:teryt:sym_ul": 876086,
+                "contact:phone": "+48 713170250",
+                "contact:email": "spmieczkow@wp.pl",
+                "contact:website": "http:\/\/www.spmieczkow.szkolnastrona.pl",
+                "ref:regon": "001181759",
+                "ref:vatin": "PL9131602448",
+                "operator": "Gmina Kostom\u0142oty",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 107582,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.6844,
+                    51.03305
+                ]
+            },
+            "properties": {
+                "ref:rspo": 107582,
+                "official_name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny \"Nasza Szko\u0142a\"",
+                "name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny \"Nasza Szko\u0142a\"",
+                "addr:country": "PL",
+                "addr:postcode": "55-311",
+                "addr:city": "Piotrowice",
+                "addr:street": "ul. G\u0142\u00f3wna",
+                "addr:housenumber": "65",
+                "addr:teryt:simc": 5635,
+                "addr:teryt:sym_ul": 876146,
+                "contact:email": "sppiotrowice@interia.pl",
+                "ref:regon": "022062640",
+                "operator": "Stowarzyszenie \"Nasza Szko\u0142a\" W Piotrowicach",
+                "operator:type": "ngo",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 106911;107340"
+            }
+        },
+        {
+            "id": 106911,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.6823,
+                    51.0349
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 106911,
+                "official_name": "Szko\u0142a Podstawowa \"Nasza Szko\u0142a\"",
+                "name": "Szko\u0142a Podstawowa \"Nasza Szko\u0142a\"",
+                "addr:country": "PL",
+                "addr:postcode": "55-311",
+                "addr:place": "Piotrowice",
+                "addr:housenumber": "31",
+                "addr:teryt:sym_ul": 876146,
+                "contact:phone": "+48 713970286",
+                "contact:email": "sppiotrowice@interia.pl",
+                "ref:regon": "022055490",
+                "operator": "Stowarzyszenie \"Nasza Szko\u0142a\" W Piotrowicach",
+                "operator:type": "ngo",
+                "amenity": "school",
+                "note": "Parent RSPO: 107582"
+            }
+        },
+        {
+            "id": 107340,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.6823,
+                    51.03487
+                ]
+            },
+            "properties": {
+                "ref:rspo": 107340,
+                "official_name": "Niepubliczne Przedszkole Stowarzyszenia \"Nasza Szko\u0142a\"",
+                "name": "Niepubliczne Przedszkole Stowarzyszenia \"Nasza Szko\u0142a\"",
+                "addr:country": "PL",
+                "addr:postcode": "55-311",
+                "addr:place": "Piotrowice",
+                "addr:housenumber": "31",
+                "addr:teryt:sym_ul": 876146,
+                "contact:phone": "+48 713970286",
+                "contact:email": "sppiotrowice@interia.pl",
+                "ref:regon": "022060255",
+                "operator": "Stowarzyszenie \"Nasza Szko\u0142a\" W Piotrowicach",
+                "operator:type": "ngo",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 107582"
+            }
+        },
+        {
+            "id": 81417,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.61573,
+                    51.04303
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 81417,
+                "official_name": "Szko\u0142a Podstawowa im.marii Konopnickiej w Kostom\u0142otach",
+                "name": "Szko\u0142a Podstawowa im.marii Konopnickiej w Kostom\u0142otach",
+                "addr:country": "PL",
+                "addr:postcode": "55-311",
+                "addr:city": "Kostom\u0142oty",
+                "addr:street": "ul. Wroc\u0142awska",
+                "addr:housenumber": "10",
+                "addr:teryt:simc": 24806,
+                "addr:teryt:sym_ul": 876063,
+                "contact:phone": "+48 713170206",
+                "contact:email": "spkostomloty@op.pl",
+                "contact:website": "http:\/\/spkostomloty.eu",
+                "ref:regon": "000563364",
+                "ref:vatin": "PL9131602230",
+                "operator": "Gmina Kostom\u0142oty",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 83706,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.74249,
+                    51.1024
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 83706,
+                "official_name": "Szko\u0142a Podstawowa im. \u015aw. Jana Boskow Karczycach",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "55-311",
+                "addr:place": "Karczyce",
+                "addr:housenumber": "12",
+                "addr:teryt:sym_ul": 876040,
+                "contact:phone": "+48 713171876",
+                "contact:email": "spkarczyce@o2.pl",
+                "contact:website": "http:\/\/spkarczyce.szkolnastrona.pl\/",
+                "ref:regon": "001181742",
+                "ref:vatin": "PL9131601609",
+                "operator": "Gmina Kostom\u0142oty",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

@@ -1,1 +1,63 @@
-{"type":"FeatureCollection","features":[{"id":15518,"type":"Feature","geometry":{"type":"Point","coordinates":[20.78155,50.2444599]},"properties":{"isced:level":"1;2","ref:rspo":15518,"official_name":"Szko\u0142a Podstawowa im. Mjr H. Sucharskiego w Gr\u0119boszowie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"33-260","addr:place":"Gr\u0119bosz\u00f3w","addr:housenumber":"136","addr:teryt:sym_ul":820105,"contact:phone":"+48 146416012","contact:email":"spgreboszow@op.pl","contact:website":"http:\/\/spgreboszow.pl","ref:regon":"000718401","ref:vatin":"PL8711769992","operator":"Gmina Gr\u0119bosz\u00f3w","operator:type":"government","amenity":"school"}},{"id":15519,"type":"Feature","geometry":{"type":"Point","coordinates":[20.7791802,50.2508807]},"properties":{"ref:rspo":15519,"official_name":"Publiczne Przedszkole w Gr\u0119boszowie","name":"Publiczne Przedszkole w Gr\u0119boszowie","addr:country":"PL","addr:postcode":"33-260","addr:place":"Gr\u0119bosz\u00f3w","addr:housenumber":"4","addr:teryt:sym_ul":820105,"contact:phone":"+48 146416049","contact:email":"malgorzata.przedszkole4@interia.pl","ref:regon":"120867625","ref:vatin":"PL8711746100","operator":"Gmina Gr\u0119bosz\u00f3w","operator:type":"government","amenity":"kindergarten"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 15518,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.78155,
+                    50.2444599
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 15518,
+                "official_name": "Szko\u0142a Podstawowa im. Mjr H. Sucharskiego w Gr\u0119boszowie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "33-260",
+                "addr:place": "Gr\u0119bosz\u00f3w",
+                "addr:housenumber": "136",
+                "addr:teryt:sym_ul": 820105,
+                "contact:phone": "+48 146416012",
+                "contact:email": "spgreboszow@op.pl",
+                "contact:website": "http:\/\/spgreboszow.pl",
+                "ref:regon": "000718401",
+                "ref:vatin": "PL8711769992",
+                "operator": "Gmina Gr\u0119bosz\u00f3w",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 15519,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.7791802,
+                    50.2508807
+                ]
+            },
+            "properties": {
+                "ref:rspo": 15519,
+                "official_name": "Publiczne Przedszkole w Gr\u0119boszowie",
+                "name": "Publiczne Przedszkole w Gr\u0119boszowie",
+                "addr:country": "PL",
+                "addr:postcode": "33-260",
+                "addr:place": "Gr\u0119bosz\u00f3w",
+                "addr:housenumber": "4",
+                "addr:teryt:sym_ul": 820105,
+                "contact:phone": "+48 146416049",
+                "contact:email": "malgorzata.przedszkole4@interia.pl",
+                "ref:regon": "120867625",
+                "ref:vatin": "PL8711746100",
+                "operator": "Gmina Gr\u0119bosz\u00f3w",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        }
+    ]
+}

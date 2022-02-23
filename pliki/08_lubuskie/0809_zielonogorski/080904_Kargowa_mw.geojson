@@ -1,1 +1,132 @@
-{"type":"FeatureCollection","features":[{"id":84245,"type":"Feature","geometry":{"type":"Point","coordinates":[15.86038,52.07177]},"properties":{"ref:rspo":84245,"official_name":"Przedszkole Publiczne","name":"Przedszkole Publiczne","addr:country":"PL","addr:postcode":"66-120","addr:city":"Kargowa","addr:street":"ul. Browarna","addr:housenumber":"9","addr:teryt:simc":2148,"addr:teryt:sym_ul":988448,"contact:phone":"+48 683525070","contact:email":"przedszkole@kargowa.pl","contact:website":"http:\/\/www.przedszkole.kargowa.pl","ref:regon":"970779653","ref:vatin":"PL9231450713","operator":"Gmina Kargowa","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 84572"}},{"id":72851,"type":"Feature","geometry":{"type":"Point","coordinates":[15.78756,52.09585]},"properties":{"isced:level":"1;2","ref:rspo":72851,"official_name":"Szko\u0142a Podstawowa Specjalna w Wojnowie Przy Szpitalu Rehabilitacyjno - Leczniczym dla Dzieci","name":"Szko\u0142a Podstawowa Specjalna w Wojnowie Przy Szpitalu Rehabilitacyjno - Leczniczym dla Dzieci","addr:country":"PL","addr:postcode":"66-120","addr:place":"Wojnowo","addr:housenumber":"7a","addr:teryt:sym_ul":910080,"contact:email":"spwojnowo@wp.pl","contact:website":"http:\/\/spwojnowo.edupage.org","ref:regon":"080012191","ref:vatin":"PL9731045619","operator":"Powiat Zielonog\u00f3rski","operator:type":"government","amenity":"school"}},{"id":84572,"type":"Feature","geometry":{"type":"Point","coordinates":[15.82608,52.16285]},"properties":{"ref:rspo":84572,"official_name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w Kargowej","name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w Kargowej","addr:country":"PL","addr:postcode":"66-120","addr:city":"Kargowa","addr:street":"ul. Ko\u015bcielna","addr:housenumber":"45","addr:teryt:simc":9546,"addr:teryt:sym_ul":988448,"contact:phone":"+48 683525296","contact:email":"sp@kargowa.pl","contact:website":"http:\/\/www.sp.kargowa.pl","ref:regon":"081004294","ref:vatin":"PL9731007576","operator":"Gmina Kargowa","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 84245;84571"}},{"id":84571,"type":"Feature","geometry":{"type":"Point","coordinates":[15.82608,52.162819999999996]},"properties":{"isced:level":"1;2","ref:rspo":84571,"official_name":"Publiczna Szko\u0142a Podstawowa","name":"Publiczna Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"66-120","addr:city":"Kargowa","addr:street":"ul. Ko\u015bcielna","addr:housenumber":"45","addr:teryt:simc":9546,"addr:teryt:sym_ul":988448,"contact:phone":"+48 683525296","contact:email":"sp@kargowa.pl","contact:website":"http:\/\/www.sp.kargowa.pl","ref:regon":"970779682","ref:vatin":"PL9231450742","operator":"Gmina Kargowa","operator:type":"government","amenity":"school","note":"Parent RSPO: 84572"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 84245,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.86038,
+                    52.07177
+                ]
+            },
+            "properties": {
+                "ref:rspo": 84245,
+                "official_name": "Przedszkole Publiczne",
+                "name": "Przedszkole Publiczne",
+                "addr:country": "PL",
+                "addr:postcode": "66-120",
+                "addr:city": "Kargowa",
+                "addr:street": "ul. Browarna",
+                "addr:housenumber": "9",
+                "addr:teryt:simc": 2148,
+                "addr:teryt:sym_ul": 988448,
+                "contact:phone": "+48 683525070",
+                "contact:email": "przedszkole@kargowa.pl",
+                "contact:website": "http:\/\/www.przedszkole.kargowa.pl",
+                "ref:regon": "970779653",
+                "ref:vatin": "PL9231450713",
+                "operator": "Gmina Kargowa",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 84572"
+            }
+        },
+        {
+            "id": 72851,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.78756,
+                    52.09585
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 72851,
+                "official_name": "Szko\u0142a Podstawowa Specjalna w Wojnowie Przy Szpitalu Rehabilitacyjno - Leczniczym dla Dzieci",
+                "name": "Szko\u0142a Podstawowa Specjalna w Wojnowie Przy Szpitalu Rehabilitacyjno - Leczniczym dla Dzieci",
+                "addr:country": "PL",
+                "addr:postcode": "66-120",
+                "addr:place": "Wojnowo",
+                "addr:housenumber": "7a",
+                "addr:teryt:sym_ul": 910080,
+                "contact:email": "spwojnowo@wp.pl",
+                "contact:website": "http:\/\/spwojnowo.edupage.org",
+                "ref:regon": "080012191",
+                "ref:vatin": "PL9731045619",
+                "operator": "Powiat Zielonog\u00f3rski",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 84572,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.82608,
+                    52.16285
+                ]
+            },
+            "properties": {
+                "ref:rspo": 84572,
+                "official_name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w Kargowej",
+                "name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w Kargowej",
+                "addr:country": "PL",
+                "addr:postcode": "66-120",
+                "addr:city": "Kargowa",
+                "addr:street": "ul. Ko\u015bcielna",
+                "addr:housenumber": "45",
+                "addr:teryt:simc": 9546,
+                "addr:teryt:sym_ul": 988448,
+                "contact:phone": "+48 683525296",
+                "contact:email": "sp@kargowa.pl",
+                "contact:website": "http:\/\/www.sp.kargowa.pl",
+                "ref:regon": "081004294",
+                "ref:vatin": "PL9731007576",
+                "operator": "Gmina Kargowa",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 84245;84571"
+            }
+        },
+        {
+            "id": 84571,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.82608,
+                    52.162819999999996
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 84571,
+                "official_name": "Publiczna Szko\u0142a Podstawowa",
+                "name": "Publiczna Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "66-120",
+                "addr:city": "Kargowa",
+                "addr:street": "ul. Ko\u015bcielna",
+                "addr:housenumber": "45",
+                "addr:teryt:simc": 9546,
+                "addr:teryt:sym_ul": 988448,
+                "contact:phone": "+48 683525296",
+                "contact:email": "sp@kargowa.pl",
+                "contact:website": "http:\/\/www.sp.kargowa.pl",
+                "ref:regon": "970779682",
+                "ref:vatin": "PL9231450742",
+                "operator": "Gmina Kargowa",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 84572"
+            }
+        }
+    ]
+}

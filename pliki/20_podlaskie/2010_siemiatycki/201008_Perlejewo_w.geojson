@@ -1,1 +1,63 @@
-{"type":"FeatureCollection","features":[{"id":23006,"type":"Feature","geometry":{"type":"Point","coordinates":[22.564,52.5674599]},"properties":{"isced:level":"1;2","ref:rspo":23006,"official_name":"Szko\u0142a Podstawowa w Perlejewie","name":"Szko\u0142a Podstawowa w Perlejewie","addr:country":"PL","addr:postcode":"17-322","addr:place":"Perlejewo","addr:housenumber":"12","addr:teryt:sym_ul":403293,"contact:phone":"+48 856578505","contact:email":"sp.perlejewo@wp.pl","contact:website":"http:\/\/www.sp.perlejewo.szkolnastrona.pl","ref:regon":"000272856","ref:vatin":"PL7221160438","operator":"Gmina Perlejewo","operator:type":"government","amenity":"school"}},{"id":55069,"type":"Feature","geometry":{"type":"Point","coordinates":[22.5631999,52.569]},"properties":{"ref:rspo":55069,"official_name":"Punkt Przedszkolny w Perlejewie","name":"Punkt Przedszkolny w Perlejewie","addr:country":"PL","addr:postcode":"17-322","addr:place":"Perlejewo","addr:housenumber":"8A","addr:teryt:sym_ul":403293,"contact:phone":"+48 856578505","contact:email":"sp.perlejewo@wp.pl","contact:website":"http:\/\/www.sp.perlejewo.szkolnastrona.pl","ref:regon":"200736752","operator":"Gmina Perlejewo","operator:type":"government","amenity":"kindergarten"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 23006,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.564,
+                    52.5674599
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 23006,
+                "official_name": "Szko\u0142a Podstawowa w Perlejewie",
+                "name": "Szko\u0142a Podstawowa w Perlejewie",
+                "addr:country": "PL",
+                "addr:postcode": "17-322",
+                "addr:place": "Perlejewo",
+                "addr:housenumber": "12",
+                "addr:teryt:sym_ul": 403293,
+                "contact:phone": "+48 856578505",
+                "contact:email": "sp.perlejewo@wp.pl",
+                "contact:website": "http:\/\/www.sp.perlejewo.szkolnastrona.pl",
+                "ref:regon": "000272856",
+                "ref:vatin": "PL7221160438",
+                "operator": "Gmina Perlejewo",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 55069,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.5631999,
+                    52.569
+                ]
+            },
+            "properties": {
+                "ref:rspo": 55069,
+                "official_name": "Punkt Przedszkolny w Perlejewie",
+                "name": "Punkt Przedszkolny w Perlejewie",
+                "addr:country": "PL",
+                "addr:postcode": "17-322",
+                "addr:place": "Perlejewo",
+                "addr:housenumber": "8A",
+                "addr:teryt:sym_ul": 403293,
+                "contact:phone": "+48 856578505",
+                "contact:email": "sp.perlejewo@wp.pl",
+                "contact:website": "http:\/\/www.sp.perlejewo.szkolnastrona.pl",
+                "ref:regon": "200736752",
+                "operator": "Gmina Perlejewo",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        }
+    ]
+}

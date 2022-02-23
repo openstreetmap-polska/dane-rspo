@@ -1,1 +1,220 @@
-{"type":"FeatureCollection","features":[{"id":68553,"type":"Feature","geometry":{"type":"Point","coordinates":[19.17249,53.92304]},"properties":{"ref:rspo":68553,"official_name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny im.franciszka Jujki w Starym Targu","name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny im.franciszka Jujki w Starym Targu","addr:country":"PL","addr:postcode":"82-410","addr:city":"Stary Targ","addr:street":"ul. G\u0142\u00f3wna","addr:housenumber":"37 A","addr:teryt:simc":5635,"addr:teryt:sym_ul":157486,"contact:phone":"+48 552776222","contact:email":"sekretariat@zsstarytarg.szkolnastrona.pl","contact:website":"http:\/\/www.zsstarytarg.szkolnastrona.pl","ref:regon":"221680630","ref:vatin":"PL5792250027","operator":"Gmina Stary Targ","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 85773;263700"}},{"id":85773,"type":"Feature","geometry":{"type":"Point","coordinates":[19.17249,53.92301]},"properties":{"isced:level":"1;2","ref:rspo":85773,"official_name":"Szko\u0142a Podstawowa im. Franciszka Jujki w Zespole Szkolno-Przedszkolnym w Starym Targu","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"82-410","addr:city":"Stary Targ","addr:street":"ul. G\u0142\u00f3wna","addr:housenumber":"37 A","addr:teryt:simc":5635,"addr:teryt:sym_ul":157486,"contact:phone":"+48 552776222","contact:email":"sekretariat@zsstarytarg.szkolnastrona.pl","contact:website":"http:\/\/www.zsstarytarg.szkolnastrona.pl","ref:regon":"000269966","operator":"Gmina Stary Targ","operator:type":"government","amenity":"school","note":"Parent RSPO: 68553"}},{"id":263700,"type":"Feature","geometry":{"type":"Point","coordinates":[19.17249,53.92298]},"properties":{"ref:rspo":263700,"official_name":"Przedszkole","name":"Przedszkole","addr:country":"PL","addr:postcode":"82-410","addr:city":"Stary Targ","addr:street":"ul. G\u0142\u00f3wna","addr:housenumber":"37 A","addr:teryt:simc":5635,"addr:teryt:sym_ul":157486,"contact:phone":"+48 552776222","contact:email":"zsstarytarg@interia.pl","contact:website":"http:\/\/www.zs.gminastarytarg.pl","ref:regon":"368215161","operator":"Gmina Stary Targ","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 68553"}},{"id":68548,"type":"Feature","geometry":{"type":"Point","coordinates":[19.2346599,53.927526]},"properties":{"ref:rspo":68548,"official_name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny im. Rodziny Sierakowskich","name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny","addr:country":"PL","addr:postcode":"82-410","addr:place":"Waplewo Wielkie","addr:housenumber":"15","addr:teryt:sym_ul":157606,"contact:phone":"+48 552771522","contact:email":"zspw@isztum.pl","contact:website":"http:\/\/spwaplewowielkie.edupage.org","ref:regon":"221655550","ref:vatin":"PL5792250116","operator":"Gmina Stary Targ","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 85939;86054"}},{"id":85939,"type":"Feature","geometry":{"type":"Point","coordinates":[19.234662,53.9278337]},"properties":{"ref:rspo":85939,"official_name":"Publiczne Przedszkole w Waplewie Wielkim","name":"Publiczne Przedszkole w Waplewie Wielkim","addr:country":"PL","addr:postcode":"82-410","addr:place":"Waplewo Wielkie","addr:housenumber":"15A","addr:teryt:sym_ul":157606,"contact:phone":"+48 552771522","contact:email":"zspw@isztum.pl","contact:website":"http:\/\/spwaplewowielkie.edupage.org","ref:regon":"221655626","operator":"Gmina Stary Targ","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 68548"}},{"id":86054,"type":"Feature","geometry":{"type":"Point","coordinates":[19.234662,53.9278037]},"properties":{"isced:level":"1;2","ref:rspo":86054,"official_name":"Szko\u0142a Podstawowa im. Rodziny Sierakowskich w Waplewie Wielkim","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"82-410","addr:place":"Waplewo Wielkie","addr:housenumber":"15A","addr:teryt:sym_ul":157606,"contact:phone":"+48 552771522","contact:email":"zspw@isztum.pl","contact:website":"http:\/\/www.spwaplewowielkie.edupage.org","ref:regon":"170162392","operator":"Gmina Stary Targ","operator:type":"government","amenity":"school","note":"Parent RSPO: 68548"}},{"id":69357,"type":"Feature","geometry":{"type":"Point","coordinates":[19.152297,53.984537]},"properties":{"isced:level":"1;2","ref:rspo":69357,"official_name":"Szko\u0142a Podstawowa im. Feliksa \u0141oyki","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"82-410","addr:place":"Szropy","addr:housenumber":"40","addr:teryt:sym_ul":157500,"contact:phone":"+48 552670133","contact:email":"sp.szropy18@wp.pl","contact:website":"http:\/\/www.szkola-szropy.pl","ref:regon":"001219433","operator":"Gmina Stary Targ","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 68553,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.17249,
+                    53.92304
+                ]
+            },
+            "properties": {
+                "ref:rspo": 68553,
+                "official_name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny im.franciszka Jujki w Starym Targu",
+                "name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny im.franciszka Jujki w Starym Targu",
+                "addr:country": "PL",
+                "addr:postcode": "82-410",
+                "addr:city": "Stary Targ",
+                "addr:street": "ul. G\u0142\u00f3wna",
+                "addr:housenumber": "37 A",
+                "addr:teryt:simc": 5635,
+                "addr:teryt:sym_ul": 157486,
+                "contact:phone": "+48 552776222",
+                "contact:email": "sekretariat@zsstarytarg.szkolnastrona.pl",
+                "contact:website": "http:\/\/www.zsstarytarg.szkolnastrona.pl",
+                "ref:regon": "221680630",
+                "ref:vatin": "PL5792250027",
+                "operator": "Gmina Stary Targ",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 85773;263700"
+            }
+        },
+        {
+            "id": 85773,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.17249,
+                    53.92301
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 85773,
+                "official_name": "Szko\u0142a Podstawowa im. Franciszka Jujki w Zespole Szkolno-Przedszkolnym w Starym Targu",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "82-410",
+                "addr:city": "Stary Targ",
+                "addr:street": "ul. G\u0142\u00f3wna",
+                "addr:housenumber": "37 A",
+                "addr:teryt:simc": 5635,
+                "addr:teryt:sym_ul": 157486,
+                "contact:phone": "+48 552776222",
+                "contact:email": "sekretariat@zsstarytarg.szkolnastrona.pl",
+                "contact:website": "http:\/\/www.zsstarytarg.szkolnastrona.pl",
+                "ref:regon": "000269966",
+                "operator": "Gmina Stary Targ",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 68553"
+            }
+        },
+        {
+            "id": 263700,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.17249,
+                    53.92298
+                ]
+            },
+            "properties": {
+                "ref:rspo": 263700,
+                "official_name": "Przedszkole",
+                "name": "Przedszkole",
+                "addr:country": "PL",
+                "addr:postcode": "82-410",
+                "addr:city": "Stary Targ",
+                "addr:street": "ul. G\u0142\u00f3wna",
+                "addr:housenumber": "37 A",
+                "addr:teryt:simc": 5635,
+                "addr:teryt:sym_ul": 157486,
+                "contact:phone": "+48 552776222",
+                "contact:email": "zsstarytarg@interia.pl",
+                "contact:website": "http:\/\/www.zs.gminastarytarg.pl",
+                "ref:regon": "368215161",
+                "operator": "Gmina Stary Targ",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 68553"
+            }
+        },
+        {
+            "id": 68548,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.2346599,
+                    53.927526
+                ]
+            },
+            "properties": {
+                "ref:rspo": 68548,
+                "official_name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny im. Rodziny Sierakowskich",
+                "name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny",
+                "addr:country": "PL",
+                "addr:postcode": "82-410",
+                "addr:place": "Waplewo Wielkie",
+                "addr:housenumber": "15",
+                "addr:teryt:sym_ul": 157606,
+                "contact:phone": "+48 552771522",
+                "contact:email": "zspw@isztum.pl",
+                "contact:website": "http:\/\/spwaplewowielkie.edupage.org",
+                "ref:regon": "221655550",
+                "ref:vatin": "PL5792250116",
+                "operator": "Gmina Stary Targ",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 85939;86054"
+            }
+        },
+        {
+            "id": 85939,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.234662,
+                    53.9278337
+                ]
+            },
+            "properties": {
+                "ref:rspo": 85939,
+                "official_name": "Publiczne Przedszkole w Waplewie Wielkim",
+                "name": "Publiczne Przedszkole w Waplewie Wielkim",
+                "addr:country": "PL",
+                "addr:postcode": "82-410",
+                "addr:place": "Waplewo Wielkie",
+                "addr:housenumber": "15A",
+                "addr:teryt:sym_ul": 157606,
+                "contact:phone": "+48 552771522",
+                "contact:email": "zspw@isztum.pl",
+                "contact:website": "http:\/\/spwaplewowielkie.edupage.org",
+                "ref:regon": "221655626",
+                "operator": "Gmina Stary Targ",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 68548"
+            }
+        },
+        {
+            "id": 86054,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.234662,
+                    53.9278037
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 86054,
+                "official_name": "Szko\u0142a Podstawowa im. Rodziny Sierakowskich w Waplewie Wielkim",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "82-410",
+                "addr:place": "Waplewo Wielkie",
+                "addr:housenumber": "15A",
+                "addr:teryt:sym_ul": 157606,
+                "contact:phone": "+48 552771522",
+                "contact:email": "zspw@isztum.pl",
+                "contact:website": "http:\/\/www.spwaplewowielkie.edupage.org",
+                "ref:regon": "170162392",
+                "operator": "Gmina Stary Targ",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 68548"
+            }
+        },
+        {
+            "id": 69357,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.152297,
+                    53.984537
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 69357,
+                "official_name": "Szko\u0142a Podstawowa im. Feliksa \u0141oyki",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "82-410",
+                "addr:place": "Szropy",
+                "addr:housenumber": "40",
+                "addr:teryt:sym_ul": 157500,
+                "contact:phone": "+48 552670133",
+                "contact:email": "sp.szropy18@wp.pl",
+                "contact:website": "http:\/\/www.szkola-szropy.pl",
+                "ref:regon": "001219433",
+                "operator": "Gmina Stary Targ",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

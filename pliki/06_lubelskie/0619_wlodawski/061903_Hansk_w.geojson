@@ -1,1 +1,99 @@
-{"type":"FeatureCollection","features":[{"id":26733,"type":"Feature","geometry":{"type":"Point","coordinates":[23.4059,51.4002399]},"properties":{"ref:rspo":26733,"official_name":"Zesp\u00f3\u0142 Szko\u0142y Podstawowej I Przedszkola im. Jana Paw\u0142a II w Ha\u0144sku","name":"Zesp\u00f3\u0142 Szko\u0142y Podstawowej I Przedszkola","addr:country":"PL","addr:postcode":"22-235","addr:place":"Ha\u0144sk Pierwszy","addr:housenumber":"1","addr:teryt:sym_ul":103527,"contact:phone":"+48 825714256","contact:email":"zespolszkoly1@vp.pl","contact:website":"http:\/\/www.zspiphansk.pl","ref:regon":"110003677","ref:vatin":"PL5651383714","operator":"Gmina Ha\u0144sk","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 31136;39136"}},{"id":31136,"type":"Feature","geometry":{"type":"Point","coordinates":[23.41124,51.40383]},"properties":{"isced:level":"1;2","ref:rspo":31136,"official_name":"Szko\u0142a Podstawowa w Ha\u0144sku","name":"Szko\u0142a Podstawowa w Ha\u0144sku","addr:country":"PL","addr:postcode":"22-235","addr:city":"Ha\u0144sk Pierwszy","addr:street":"ul. Szkolna","addr:housenumber":"1","addr:teryt:simc":21970,"addr:teryt:sym_ul":103527,"contact:phone":"+48 825714256","contact:email":"zespolszkoly1@vp.pl","contact:website":"http:\/\/www.zspiphansk.pl","ref:regon":"110600640","operator":"Gmina Ha\u0144sk","operator:type":"government","amenity":"school","note":"Parent RSPO: 26733"}},{"id":39136,"type":"Feature","geometry":{"type":"Point","coordinates":[23.41124,51.4038]},"properties":{"ref:rspo":39136,"official_name":"Przedszkole w Ha\u0144sku","name":"Przedszkole w Ha\u0144sku","addr:country":"PL","addr:postcode":"22-235","addr:city":"Ha\u0144sk Pierwszy","addr:street":"ul. Szkolna","addr:housenumber":"1","addr:teryt:simc":21970,"addr:teryt:sym_ul":103527,"contact:phone":"+48 825714050","contact:email":"zespolszkoly1@vp.pl","contact:website":"http:\/\/www.zspiphansk.pl","ref:regon":"110600657","operator":"Gmina Ha\u0144sk","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 26733"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 26733,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.4059,
+                    51.4002399
+                ]
+            },
+            "properties": {
+                "ref:rspo": 26733,
+                "official_name": "Zesp\u00f3\u0142 Szko\u0142y Podstawowej I Przedszkola im. Jana Paw\u0142a II w Ha\u0144sku",
+                "name": "Zesp\u00f3\u0142 Szko\u0142y Podstawowej I Przedszkola",
+                "addr:country": "PL",
+                "addr:postcode": "22-235",
+                "addr:place": "Ha\u0144sk Pierwszy",
+                "addr:housenumber": "1",
+                "addr:teryt:sym_ul": 103527,
+                "contact:phone": "+48 825714256",
+                "contact:email": "zespolszkoly1@vp.pl",
+                "contact:website": "http:\/\/www.zspiphansk.pl",
+                "ref:regon": "110003677",
+                "ref:vatin": "PL5651383714",
+                "operator": "Gmina Ha\u0144sk",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 31136;39136"
+            }
+        },
+        {
+            "id": 31136,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.41124,
+                    51.40383
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 31136,
+                "official_name": "Szko\u0142a Podstawowa w Ha\u0144sku",
+                "name": "Szko\u0142a Podstawowa w Ha\u0144sku",
+                "addr:country": "PL",
+                "addr:postcode": "22-235",
+                "addr:city": "Ha\u0144sk Pierwszy",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 103527,
+                "contact:phone": "+48 825714256",
+                "contact:email": "zespolszkoly1@vp.pl",
+                "contact:website": "http:\/\/www.zspiphansk.pl",
+                "ref:regon": "110600640",
+                "operator": "Gmina Ha\u0144sk",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 26733"
+            }
+        },
+        {
+            "id": 39136,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.41124,
+                    51.4038
+                ]
+            },
+            "properties": {
+                "ref:rspo": 39136,
+                "official_name": "Przedszkole w Ha\u0144sku",
+                "name": "Przedszkole w Ha\u0144sku",
+                "addr:country": "PL",
+                "addr:postcode": "22-235",
+                "addr:city": "Ha\u0144sk Pierwszy",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 103527,
+                "contact:phone": "+48 825714050",
+                "contact:email": "zespolszkoly1@vp.pl",
+                "contact:website": "http:\/\/www.zspiphansk.pl",
+                "ref:regon": "110600657",
+                "operator": "Gmina Ha\u0144sk",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 26733"
+            }
+        }
+    ]
+}

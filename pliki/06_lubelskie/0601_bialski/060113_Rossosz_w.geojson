@@ -1,1 +1,99 @@
-{"type":"FeatureCollection","features":[{"id":277920,"type":"Feature","geometry":{"type":"Point","coordinates":[23.12966,51.85443]},"properties":{"ref:rspo":277920,"official_name":"Zesp\u00f3\u0142 Plac\u00f3wek O\u015bwiatowych w Rossoszu","name":"Zesp\u00f3\u0142 Plac\u00f3wek O\u015bwiatowych w Rossoszu","addr:country":"PL","addr:postcode":"21-533","addr:city":"Rossosz","addr:street":"ul. Lubelska","addr:housenumber":"37","addr:teryt:simc":11307,"addr:teryt:sym_ul":18721,"contact:phone":"+48 833784517","contact:email":"sp_rossosz@poczta.onet.pl","ref:regon":"389660976","operator":"Gmina Rossosz","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 7204;7206"}},{"id":7206,"type":"Feature","geometry":{"type":"Point","coordinates":[23.12966,51.8544]},"properties":{"isced:level":"1;2","ref:rspo":7206,"official_name":"Szko\u0142a Podstawowa im.pp\u0142k.stefana Skoczylasa w Rossoszu","name":"Szko\u0142a Podstawowa im.pp\u0142k.stefana Skoczylasa w Rossoszu","addr:country":"PL","addr:postcode":"21-533","addr:city":"Rossosz","addr:street":"ul. Lubelska","addr:housenumber":"37","addr:teryt:simc":11307,"addr:teryt:sym_ul":18721,"contact:phone":"+48 833784517","contact:email":"sp_rossosz@poczta.onet.pl","ref:regon":"001085346","ref:vatin":"PL5372105270","operator":"Gmina Rossosz","operator:type":"government","amenity":"school","note":"Parent RSPO: 277920"}},{"id":7204,"type":"Feature","geometry":{"type":"Point","coordinates":[23.13944,51.85911]},"properties":{"ref:rspo":7204,"official_name":"Przedszkole Publiczne w Rossoszu","name":"Przedszkole Publiczne w Rossoszu","addr:country":"PL","addr:postcode":"21-533","addr:city":"Rossosz","addr:street":"ul. Batalion\u00f3w Ch\u0142opskich","addr:housenumber":"57","addr:teryt:simc":868,"addr:teryt:sym_ul":18721,"contact:phone":"+48 833784517","contact:email":"sp_rossosz@poczta.onet.pl","ref:regon":"060668100","ref:vatin":"PL5372591520","operator":"Gmina Rossosz","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 277920"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 277920,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.12966,
+                    51.85443
+                ]
+            },
+            "properties": {
+                "ref:rspo": 277920,
+                "official_name": "Zesp\u00f3\u0142 Plac\u00f3wek O\u015bwiatowych w Rossoszu",
+                "name": "Zesp\u00f3\u0142 Plac\u00f3wek O\u015bwiatowych w Rossoszu",
+                "addr:country": "PL",
+                "addr:postcode": "21-533",
+                "addr:city": "Rossosz",
+                "addr:street": "ul. Lubelska",
+                "addr:housenumber": "37",
+                "addr:teryt:simc": 11307,
+                "addr:teryt:sym_ul": 18721,
+                "contact:phone": "+48 833784517",
+                "contact:email": "sp_rossosz@poczta.onet.pl",
+                "ref:regon": "389660976",
+                "operator": "Gmina Rossosz",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 7204;7206"
+            }
+        },
+        {
+            "id": 7206,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.12966,
+                    51.8544
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 7206,
+                "official_name": "Szko\u0142a Podstawowa im.pp\u0142k.stefana Skoczylasa w Rossoszu",
+                "name": "Szko\u0142a Podstawowa im.pp\u0142k.stefana Skoczylasa w Rossoszu",
+                "addr:country": "PL",
+                "addr:postcode": "21-533",
+                "addr:city": "Rossosz",
+                "addr:street": "ul. Lubelska",
+                "addr:housenumber": "37",
+                "addr:teryt:simc": 11307,
+                "addr:teryt:sym_ul": 18721,
+                "contact:phone": "+48 833784517",
+                "contact:email": "sp_rossosz@poczta.onet.pl",
+                "ref:regon": "001085346",
+                "ref:vatin": "PL5372105270",
+                "operator": "Gmina Rossosz",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 277920"
+            }
+        },
+        {
+            "id": 7204,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.13944,
+                    51.85911
+                ]
+            },
+            "properties": {
+                "ref:rspo": 7204,
+                "official_name": "Przedszkole Publiczne w Rossoszu",
+                "name": "Przedszkole Publiczne w Rossoszu",
+                "addr:country": "PL",
+                "addr:postcode": "21-533",
+                "addr:city": "Rossosz",
+                "addr:street": "ul. Batalion\u00f3w Ch\u0142opskich",
+                "addr:housenumber": "57",
+                "addr:teryt:simc": 868,
+                "addr:teryt:sym_ul": 18721,
+                "contact:phone": "+48 833784517",
+                "contact:email": "sp_rossosz@poczta.onet.pl",
+                "ref:regon": "060668100",
+                "ref:vatin": "PL5372591520",
+                "operator": "Gmina Rossosz",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 277920"
+            }
+        }
+    ]
+}

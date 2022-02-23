@@ -1,1 +1,646 @@
-{"type":"FeatureCollection","features":[{"id":277475,"type":"Feature","geometry":{"type":"Point","coordinates":[16.72736,53.41428]},"properties":{"ref:rspo":277475,"official_name":"Przedszkole Samorz\u0105dowe w Samborsku","name":"Przedszkole Samorz\u0105dowe w Samborsku","addr:country":"PL","addr:postcode":"64-915","addr:place":"Samborsko","addr:housenumber":"41","addr:teryt:sym_ul":526363,"contact:phone":"+48 672663410","contact:email":"psp_brzeznica@poczta.onet.pl","ref:regon":"388970775","operator":"Gmina I Miasto Jastrowie","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 277472"}},{"id":11885,"type":"Feature","geometry":{"type":"Point","coordinates":[16.809,53.41796]},"properties":{"ref:rspo":11885,"official_name":"M\u0142odzie\u017cowy O\u015brodek Wychowawczy im. Dr. Janusza Korczaka w Jastrowiu","name":"M\u0142odzie\u017cowy O\u015brodek Wychowawczy","addr:country":"PL","addr:postcode":"64-915","addr:city":"Jastrowie","addr:street":"ul. Pozna\u0144ska","addr:housenumber":"35","addr:teryt:simc":17394,"addr:teryt:sym_ul":966843,"contact:phone":"+48 672662883","contact:email":"mow2@zlotow-powiat.pl","ref:regon":"302027270","ref:vatin":"PL7671696630","operator":"Powiat Z\u0142otowski","operator:type":"government","fixme":"amenity=social facility + social_facility=group_home + social_facility:for=juvenile","note":"Children RSPO: 264660;278124;278125"}},{"id":275227,"type":"Feature","geometry":{"type":"Point","coordinates":[16.809,53.41793]},"properties":{"ref:rspo":275227,"official_name":"Zespo\u0142 Szk\u00f3\u0142 w Jastrowiu","name":"Zespo\u0142 Szk\u00f3\u0142 w Jastrowiu","addr:country":"PL","addr:postcode":"64-915","addr:city":"Jastrowie","addr:street":"ul. Pozna\u0144ska","addr:housenumber":"35","addr:teryt:simc":17394,"addr:teryt:sym_ul":966843,"contact:phone":"+48 672662191","contact:email":"naszaszkola@jastrowie.pl","ref:regon":"386714507","ref:vatin":"PL7671715988","operator":"Gmina I Miasto Jastrowie","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 81042;81095;81111"}},{"id":264660,"type":"Feature","geometry":{"type":"Point","coordinates":[16.809,53.4179]},"properties":{"isced:level":"1;2","ref:rspo":264660,"official_name":"Szko\u0142a Podstawowa Nr 2 w Jastrowiu","name":"Szko\u0142a Podstawowa Nr 2 w Jastrowiu","addr:country":"PL","addr:postcode":"64-915","addr:city":"Jastrowie","addr:street":"ul. Pozna\u0144ska","addr:housenumber":"35","addr:teryt:simc":17394,"addr:teryt:sym_ul":966843,"contact:phone":"+48 672662883","contact:email":"mow2@zlotow-powiat.pl","ref:regon":"368415227","operator":"Powiat Z\u0142otowski","operator:type":"government","amenity":"school","note":"Parent RSPO: 11885"}},{"id":278124,"type":"Feature","geometry":{"type":"Point","coordinates":[16.809,53.41787]},"properties":{"isced:level":"3","ref:rspo":278124,"official_name":"Bran\u017cowa Szko\u0142a I Stopnia w Jastrowiu","name":"Bran\u017cowa Szko\u0142a I Stopnia w Jastrowiu","addr:country":"PL","addr:postcode":"64-915","addr:city":"Jastrowie","addr:street":"ul. Pozna\u0144ska","addr:housenumber":"35","addr:teryt:simc":17394,"addr:teryt:sym_ul":966843,"contact:phone":"+48 672662883","contact:email":"mow2@zlotow-powiat.pl","ref:regon":"389847976","operator":"Powiat Z\u0142otowski","operator:type":"government","amenity":"school","note":"Parent RSPO: 11885"}},{"id":278125,"type":"Feature","geometry":{"type":"Point","coordinates":[16.809,53.41784]},"properties":{"isced:level":"3","ref:rspo":278125,"official_name":"Liceum Og\u00f3lnokszta\u0142c\u0105ce w Jastrowiu","name":"Liceum Og\u00f3lnokszta\u0142c\u0105ce w Jastrowiu","addr:country":"PL","addr:postcode":"64-915","addr:city":"Jastrowie","addr:street":"ul. Pozna\u0144ska","addr:housenumber":"35","addr:teryt:simc":17394,"addr:teryt:sym_ul":966843,"contact:phone":"+48 672662883","contact:email":"mow2@zlotow-powiat.pl","ref:regon":"389848094","operator":"Powiat Z\u0142otowski","operator:type":"government","amenity":"school","note":"Parent RSPO: 11885"}},{"id":81042,"type":"Feature","geometry":{"type":"Point","coordinates":[16.809,53.41781]},"properties":{"isced:level":"3","ref:rspo":81042,"official_name":"I Liceum Og\u00f3lnokszta\u0142c\u0105ce im. Hipolita Cegielskiego w Jastrowiu","name":"I Liceum Og\u00f3lnokszta\u0142c\u0105ce","addr:country":"PL","addr:postcode":"64-915","addr:city":"Jastrowie","addr:street":"ul. Pozna\u0144ska","addr:housenumber":"35","addr:teryt:simc":17394,"addr:teryt:sym_ul":966843,"contact:phone":"+48 672662191","contact:email":"naszaszkola@jastrowie.pl","ref:regon":"572083106","operator":"Gmina I Miasto Jastrowie","operator:type":"government","amenity":"school","note":"Parent RSPO: 275227"}},{"id":81095,"type":"Feature","geometry":{"type":"Point","coordinates":[16.809,53.41778]},"properties":{"isced:level":"3","ref:rspo":81095,"official_name":"Technikum Nr 1 im. Hipolita Cegielskiego w Jastrowiu","name":"Technikum Nr 1","addr:country":"PL","addr:postcode":"64-915","addr:city":"Jastrowie","addr:street":"ul. Pozna\u0144ska","addr:housenumber":"35","addr:teryt:simc":17394,"addr:teryt:sym_ul":966843,"contact:phone":"+48 672662191","contact:email":"naszaszkola@jastrowie.pl","ref:regon":"572044448","operator":"Gmina I Miasto Jastrowie","operator:type":"government","amenity":"school","note":"Parent RSPO: 275227"}},{"id":81111,"type":"Feature","geometry":{"type":"Point","coordinates":[16.809,53.41775]},"properties":{"isced:level":"3","ref:rspo":81111,"official_name":"Bran\u017cowa Szko\u0142a I Stopnia im. Hipolita Cegielskiego w Jastrowiu","name":"Bran\u017cowa Szko\u0142a I Stopnia","addr:country":"PL","addr:postcode":"64-915","addr:city":"Jastrowie","addr:street":"ul. Pozna\u0144ska","addr:housenumber":"35","addr:teryt:simc":17394,"addr:teryt:sym_ul":966843,"contact:phone":"+48 672662191","contact:email":"naszaszkola@jastrowie.pl","ref:regon":"572044945","operator":"Gmina I Miasto Jastrowie","operator:type":"government","amenity":"school","note":"Parent RSPO: 275227"}},{"id":13219,"type":"Feature","geometry":{"type":"Point","coordinates":[16.82396,53.41839]},"properties":{"ref:rspo":13219,"official_name":"Specjalny O\u015brodek Szkolno - Wychowawczy im. Polskich Olimpijczyk\u00f3w w Jastrowiu","name":"Specjalny O\u015brodek Szkolno - Wychowawczy","addr:country":"PL","addr:postcode":"64-915","addr:city":"Jastrowie","addr:street":"ul. Wojska Polskiego","addr:housenumber":"25","addr:teryt:simc":24628,"addr:teryt:sym_ul":966843,"contact:phone":"+48 672661806","contact:email":"soswjastrowie@onet.pl","contact:website":"http:\/\/wwwsoswjastrowie.pl","ref:regon":"000195044","ref:vatin":"PL7671422453","operator":"Powiat Z\u0142otowski","operator:type":"government","amenity":"school","note":"Children RSPO: 22624;22742"}},{"id":22624,"type":"Feature","geometry":{"type":"Point","coordinates":[16.82396,53.41836]},"properties":{"isced:level":"1;2","ref:rspo":22624,"official_name":"Szko\u0142a Podstawowa Nr 1 w Jastrowiu","name":"Szko\u0142a Podstawowa Nr 1 w Jastrowiu","addr:country":"PL","addr:postcode":"64-915","addr:city":"Jastrowie","addr:street":"ul. Wojska Polskiego","addr:housenumber":"25","addr:teryt:simc":24628,"addr:teryt:sym_ul":966843,"contact:phone":"+48 672661806","contact:email":"soswjastrowie@onet.pl","contact:website":"http:\/\/soswjastrowie.pl","ref:regon":"570876140","operator":"Powiat Z\u0142otowski","operator:type":"government","amenity":"school","note":"Parent RSPO: 13219"}},{"id":22742,"type":"Feature","geometry":{"type":"Point","coordinates":[16.82396,53.418330000000005]},"properties":{"ref:rspo":22742,"official_name":"Szko\u0142a Przysposabiaj\u0105ca Do Pracy w Jastrowiu","name":"Szko\u0142a Przysposabiaj\u0105ca Do Pracy w Jastrowiu","addr:country":"PL","addr:postcode":"64-915","addr:city":"Jastrowie","addr:street":"ul. Wojska Polskiego","addr:housenumber":"25","addr:teryt:simc":24628,"addr:teryt:sym_ul":966843,"contact:phone":"+48 672661806","contact:email":"soswjastrowie@onet.pl","contact:website":"http:\/\/soswjastrowie.pl","ref:regon":"572137470","operator":"Powiat Z\u0142otowski","operator:type":"government","amenity":"school","note":"Parent RSPO: 13219"}},{"id":86154,"type":"Feature","geometry":{"type":"Point","coordinates":[16.82621,53.41933]},"properties":{"ref:rspo":86154,"official_name":"Przedszkole Samorz\u0105dowe im.marii Konopnickiej w Jastrowiu","name":"Przedszkole Samorz\u0105dowe im.marii Konopnickiej w Jastrowiu","addr:country":"PL","addr:postcode":"64-915","addr:city":"Jastrowie","addr:street":"al. Wolno\u015bci","addr:housenumber":"3","addr:teryt:simc":24682,"addr:teryt:sym_ul":966843,"contact:phone":"+48 672662706","contact:email":"przedszkole_jastrowie@wp.pl","ref:regon":"301008320","ref:vatin":"PL7671663470","operator":"Gmina I Miasto Jastrowie","operator:type":"government","amenity":"kindergarten"}},{"id":88530,"type":"Feature","geometry":{"type":"Point","coordinates":[16.82539,53.41965]},"properties":{"isced:level":"1;2","ref:rspo":88530,"official_name":"Szko\u0142a Podstawowa Nr 2 im. Marii Konopnickiej w Jastrowiu","name":"Szko\u0142a Podstawowa Nr 2","addr:country":"PL","addr:postcode":"64-915","addr:city":"Jastrowie","addr:street":"al. Wolno\u015bci","addr:housenumber":"1","addr:teryt:simc":24682,"addr:teryt:sym_ul":966843,"contact:phone":"+48 672662709","contact:email":"jastrowiepsp@gmail.com","contact:website":"http:\/\/www.sp2jastrowie.edupage.org","ref:regon":"001130265","operator":"Gmina I Miasto Jastrowie","operator:type":"government","amenity":"school"}},{"id":129387,"type":"Feature","geometry":{"type":"Point","coordinates":[16.81205,53.4216]},"properties":{"ref:rspo":129387,"official_name":"Niepubliczne Przedszkole Motylek","name":"Niepubliczne Przedszkole Motylek","addr:country":"PL","addr:postcode":"64-915","addr:city":"Jastrowie","addr:street":"ul. Jagiello\u0144ska","addr:housenumber":"6","addr:teryt:simc":7029,"addr:teryt:sym_ul":966843,"contact:phone":"+48 721312741","contact:email":"zlobekmotylek@gmail.com","ref:regon":"362577911","operator":"Dorota Ludewicz","operator:type":"private","amenity":"kindergarten"}},{"id":262247,"type":"Feature","geometry":{"type":"Point","coordinates":[16.81219,53.42197]},"properties":{"isced:level":"1;2","ref:rspo":262247,"official_name":"Szko\u0142a Podstawowa Nr 1 im.adama Mickiewicza w Jastrowiu","name":"Szko\u0142a Podstawowa Nr 1 im.adama Mickiewicza w Jastrowiu","addr:country":"PL","addr:postcode":"64-915","addr:city":"Jastrowie","addr:street":"ul. Kili\u0144szczak\u00f3w","addr:housenumber":"18","addr:teryt:simc":8437,"addr:teryt:sym_ul":966843,"contact:phone":"+48 672662854","contact:email":"sekretariat.pgjast@interia.pl","contact:website":"http:\/\/www.pgjast.szkolnastrona.pl","ref:regon":"367992649","operator":"Gmina I Miasto Jastrowie","operator:type":"government","amenity":"school"}},{"id":277472,"type":"Feature","geometry":{"type":"Point","coordinates":[16.69602,53.43155]},"properties":{"ref:rspo":277472,"official_name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w Brze\u017anicy","name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w Brze\u017anicy","addr:country":"PL","addr:postcode":"64-915","addr:place":"Brze\u017anica","addr:housenumber":"61","addr:teryt:sym_ul":526274,"contact:phone":"+48 672663410","contact:email":"psp_brzeznica@poczta.onet.pl","ref:regon":"388968270","operator":"Gmina I Miasto Jastrowie","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 86153;277474;277475"}},{"id":86153,"type":"Feature","geometry":{"type":"Point","coordinates":[16.69602,53.43152]},"properties":{"isced:level":"1;2","ref:rspo":86153,"official_name":"Szko\u0142a Podstawowa im. Stefana Czarnieckiego w Brze\u017anicy","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"64-915","addr:place":"Brze\u017anica","addr:housenumber":"61","addr:teryt:sym_ul":526274,"contact:phone":"+48 672663410","contact:email":"psp_brzeznica@poczta.onet.pl","ref:regon":"570219381","operator":"Gmina I Miasto Jastrowie","operator:type":"government","amenity":"school","note":"Parent RSPO: 277472"}},{"id":277474,"type":"Feature","geometry":{"type":"Point","coordinates":[16.69602,53.431490000000004]},"properties":{"ref:rspo":277474,"official_name":"Przedszkole Samorz\u0105dowe w Brze\u017anicy","name":"Przedszkole Samorz\u0105dowe w Brze\u017anicy","addr:country":"PL","addr:postcode":"64-915","addr:place":"Brze\u017anica","addr:housenumber":"61","addr:teryt:sym_ul":526274,"contact:phone":"+48 672663410","contact:email":"psp_brzeznica@poczta.onet.pl","ref:regon":"388969306","operator":"Gmina I Miasto Jastrowie","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 277472"}},{"id":86331,"type":"Feature","geometry":{"type":"Point","coordinates":[16.6076799,53.46651]},"properties":{"ref:rspo":86331,"official_name":"Przedszkole Niepubliczne \"Zaczarowana Kraina\" w Jastrowiu","name":"Przedszkole Niepubliczne \"Zaczarowana Kraina\" w Jastrowiu","addr:country":"PL","addr:postcode":"64-915","addr:city":"Jastrowie","addr:street":"ul. Mickiewicza","addr:housenumber":"31","addr:teryt:simc":12734,"addr:teryt:sym_ul":966843,"contact:phone":"+48 500191443","contact:email":"zaczarowanakraina1983@wp.pl","contact:website":"http:\/\/www.przedszkole-jastrowie.pl","ref:regon":"302271225","ref:vatin":"PL7671595739","operator":"Agnieszka Trocka","operator:type":"private","amenity":"kindergarten"}},{"id":89684,"type":"Feature","geometry":{"type":"Point","coordinates":[16.61036,53.47036]},"properties":{"isced:level":"1;2","ref:rspo":89684,"official_name":"Szko\u0142a Podstawowa im.por. Tadeusza Janeczko w Sypniewie","name":"Szko\u0142a Podstawowa im.por. Tadeusza Janeczko w Sypniewie","addr:country":"PL","addr:postcode":"64-915","addr:city":"Sypniewo","addr:street":"ul. Szkolna","addr:housenumber":"1","addr:teryt:simc":21970,"addr:teryt:sym_ul":526386,"contact:phone":"+48 672661207","contact:email":"sekretariat.sp.sypniewo@gmail.com","contact:website":"http:\/\/sp-sypniewo.com","ref:regon":"001130271","operator":"Gmina I Miasto Jastrowie","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 277475,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.72736,
+                    53.41428
+                ]
+            },
+            "properties": {
+                "ref:rspo": 277475,
+                "official_name": "Przedszkole Samorz\u0105dowe w Samborsku",
+                "name": "Przedszkole Samorz\u0105dowe w Samborsku",
+                "addr:country": "PL",
+                "addr:postcode": "64-915",
+                "addr:place": "Samborsko",
+                "addr:housenumber": "41",
+                "addr:teryt:sym_ul": 526363,
+                "contact:phone": "+48 672663410",
+                "contact:email": "psp_brzeznica@poczta.onet.pl",
+                "ref:regon": "388970775",
+                "operator": "Gmina I Miasto Jastrowie",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 277472"
+            }
+        },
+        {
+            "id": 11885,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.809,
+                    53.41796
+                ]
+            },
+            "properties": {
+                "ref:rspo": 11885,
+                "official_name": "M\u0142odzie\u017cowy O\u015brodek Wychowawczy im. Dr. Janusza Korczaka w Jastrowiu",
+                "name": "M\u0142odzie\u017cowy O\u015brodek Wychowawczy",
+                "addr:country": "PL",
+                "addr:postcode": "64-915",
+                "addr:city": "Jastrowie",
+                "addr:street": "ul. Pozna\u0144ska",
+                "addr:housenumber": "35",
+                "addr:teryt:simc": 17394,
+                "addr:teryt:sym_ul": 966843,
+                "contact:phone": "+48 672662883",
+                "contact:email": "mow2@zlotow-powiat.pl",
+                "ref:regon": "302027270",
+                "ref:vatin": "PL7671696630",
+                "operator": "Powiat Z\u0142otowski",
+                "operator:type": "government",
+                "fixme": "amenity=social_facility + social_facility=group_home + social_facility:for=juvenile",
+                "note": "Children RSPO: 264660;278124;278125"
+            }
+        },
+        {
+            "id": 275227,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.809,
+                    53.41793
+                ]
+            },
+            "properties": {
+                "ref:rspo": 275227,
+                "official_name": "Zespo\u0142 Szk\u00f3\u0142 w Jastrowiu",
+                "name": "Zespo\u0142 Szk\u00f3\u0142 w Jastrowiu",
+                "addr:country": "PL",
+                "addr:postcode": "64-915",
+                "addr:city": "Jastrowie",
+                "addr:street": "ul. Pozna\u0144ska",
+                "addr:housenumber": "35",
+                "addr:teryt:simc": 17394,
+                "addr:teryt:sym_ul": 966843,
+                "contact:phone": "+48 672662191",
+                "contact:email": "naszaszkola@jastrowie.pl",
+                "ref:regon": "386714507",
+                "ref:vatin": "PL7671715988",
+                "operator": "Gmina I Miasto Jastrowie",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 81042;81095;81111"
+            }
+        },
+        {
+            "id": 264660,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.809,
+                    53.4179
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 264660,
+                "official_name": "Szko\u0142a Podstawowa Nr 2 w Jastrowiu",
+                "name": "Szko\u0142a Podstawowa Nr 2 w Jastrowiu",
+                "addr:country": "PL",
+                "addr:postcode": "64-915",
+                "addr:city": "Jastrowie",
+                "addr:street": "ul. Pozna\u0144ska",
+                "addr:housenumber": "35",
+                "addr:teryt:simc": 17394,
+                "addr:teryt:sym_ul": 966843,
+                "contact:phone": "+48 672662883",
+                "contact:email": "mow2@zlotow-powiat.pl",
+                "ref:regon": "368415227",
+                "operator": "Powiat Z\u0142otowski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 11885"
+            }
+        },
+        {
+            "id": 278124,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.809,
+                    53.41787
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 278124,
+                "official_name": "Bran\u017cowa Szko\u0142a I Stopnia w Jastrowiu",
+                "name": "Bran\u017cowa Szko\u0142a I Stopnia w Jastrowiu",
+                "addr:country": "PL",
+                "addr:postcode": "64-915",
+                "addr:city": "Jastrowie",
+                "addr:street": "ul. Pozna\u0144ska",
+                "addr:housenumber": "35",
+                "addr:teryt:simc": 17394,
+                "addr:teryt:sym_ul": 966843,
+                "contact:phone": "+48 672662883",
+                "contact:email": "mow2@zlotow-powiat.pl",
+                "ref:regon": "389847976",
+                "operator": "Powiat Z\u0142otowski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 11885"
+            }
+        },
+        {
+            "id": 278125,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.809,
+                    53.41784
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 278125,
+                "official_name": "Liceum Og\u00f3lnokszta\u0142c\u0105ce w Jastrowiu",
+                "name": "Liceum Og\u00f3lnokszta\u0142c\u0105ce w Jastrowiu",
+                "addr:country": "PL",
+                "addr:postcode": "64-915",
+                "addr:city": "Jastrowie",
+                "addr:street": "ul. Pozna\u0144ska",
+                "addr:housenumber": "35",
+                "addr:teryt:simc": 17394,
+                "addr:teryt:sym_ul": 966843,
+                "contact:phone": "+48 672662883",
+                "contact:email": "mow2@zlotow-powiat.pl",
+                "ref:regon": "389848094",
+                "operator": "Powiat Z\u0142otowski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 11885"
+            }
+        },
+        {
+            "id": 81042,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.809,
+                    53.41781
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 81042,
+                "official_name": "I Liceum Og\u00f3lnokszta\u0142c\u0105ce im. Hipolita Cegielskiego w Jastrowiu",
+                "name": "I Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+                "addr:country": "PL",
+                "addr:postcode": "64-915",
+                "addr:city": "Jastrowie",
+                "addr:street": "ul. Pozna\u0144ska",
+                "addr:housenumber": "35",
+                "addr:teryt:simc": 17394,
+                "addr:teryt:sym_ul": 966843,
+                "contact:phone": "+48 672662191",
+                "contact:email": "naszaszkola@jastrowie.pl",
+                "ref:regon": "572083106",
+                "operator": "Gmina I Miasto Jastrowie",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 275227"
+            }
+        },
+        {
+            "id": 81095,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.809,
+                    53.41778
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 81095,
+                "official_name": "Technikum Nr 1 im. Hipolita Cegielskiego w Jastrowiu",
+                "name": "Technikum Nr 1",
+                "addr:country": "PL",
+                "addr:postcode": "64-915",
+                "addr:city": "Jastrowie",
+                "addr:street": "ul. Pozna\u0144ska",
+                "addr:housenumber": "35",
+                "addr:teryt:simc": 17394,
+                "addr:teryt:sym_ul": 966843,
+                "contact:phone": "+48 672662191",
+                "contact:email": "naszaszkola@jastrowie.pl",
+                "ref:regon": "572044448",
+                "operator": "Gmina I Miasto Jastrowie",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 275227"
+            }
+        },
+        {
+            "id": 81111,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.809,
+                    53.41775
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 81111,
+                "official_name": "Bran\u017cowa Szko\u0142a I Stopnia im. Hipolita Cegielskiego w Jastrowiu",
+                "name": "Bran\u017cowa Szko\u0142a I Stopnia",
+                "addr:country": "PL",
+                "addr:postcode": "64-915",
+                "addr:city": "Jastrowie",
+                "addr:street": "ul. Pozna\u0144ska",
+                "addr:housenumber": "35",
+                "addr:teryt:simc": 17394,
+                "addr:teryt:sym_ul": 966843,
+                "contact:phone": "+48 672662191",
+                "contact:email": "naszaszkola@jastrowie.pl",
+                "ref:regon": "572044945",
+                "operator": "Gmina I Miasto Jastrowie",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 275227"
+            }
+        },
+        {
+            "id": 13219,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.82396,
+                    53.41839
+                ]
+            },
+            "properties": {
+                "ref:rspo": 13219,
+                "official_name": "Specjalny O\u015brodek Szkolno - Wychowawczy im. Polskich Olimpijczyk\u00f3w w Jastrowiu",
+                "name": "Specjalny O\u015brodek Szkolno - Wychowawczy",
+                "addr:country": "PL",
+                "addr:postcode": "64-915",
+                "addr:city": "Jastrowie",
+                "addr:street": "ul. Wojska Polskiego",
+                "addr:housenumber": "25",
+                "addr:teryt:simc": 24628,
+                "addr:teryt:sym_ul": 966843,
+                "contact:phone": "+48 672661806",
+                "contact:email": "soswjastrowie@onet.pl",
+                "contact:website": "http:\/\/wwwsoswjastrowie.pl",
+                "ref:regon": "000195044",
+                "ref:vatin": "PL7671422453",
+                "operator": "Powiat Z\u0142otowski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Children RSPO: 22624;22742"
+            }
+        },
+        {
+            "id": 22624,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.82396,
+                    53.41836
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 22624,
+                "official_name": "Szko\u0142a Podstawowa Nr 1 w Jastrowiu",
+                "name": "Szko\u0142a Podstawowa Nr 1 w Jastrowiu",
+                "addr:country": "PL",
+                "addr:postcode": "64-915",
+                "addr:city": "Jastrowie",
+                "addr:street": "ul. Wojska Polskiego",
+                "addr:housenumber": "25",
+                "addr:teryt:simc": 24628,
+                "addr:teryt:sym_ul": 966843,
+                "contact:phone": "+48 672661806",
+                "contact:email": "soswjastrowie@onet.pl",
+                "contact:website": "http:\/\/soswjastrowie.pl",
+                "ref:regon": "570876140",
+                "operator": "Powiat Z\u0142otowski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 13219"
+            }
+        },
+        {
+            "id": 22742,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.82396,
+                    53.418330000000005
+                ]
+            },
+            "properties": {
+                "ref:rspo": 22742,
+                "official_name": "Szko\u0142a Przysposabiaj\u0105ca Do Pracy w Jastrowiu",
+                "name": "Szko\u0142a Przysposabiaj\u0105ca Do Pracy w Jastrowiu",
+                "addr:country": "PL",
+                "addr:postcode": "64-915",
+                "addr:city": "Jastrowie",
+                "addr:street": "ul. Wojska Polskiego",
+                "addr:housenumber": "25",
+                "addr:teryt:simc": 24628,
+                "addr:teryt:sym_ul": 966843,
+                "contact:phone": "+48 672661806",
+                "contact:email": "soswjastrowie@onet.pl",
+                "contact:website": "http:\/\/soswjastrowie.pl",
+                "ref:regon": "572137470",
+                "operator": "Powiat Z\u0142otowski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 13219"
+            }
+        },
+        {
+            "id": 86154,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.82621,
+                    53.41933
+                ]
+            },
+            "properties": {
+                "ref:rspo": 86154,
+                "official_name": "Przedszkole Samorz\u0105dowe im.marii Konopnickiej w Jastrowiu",
+                "name": "Przedszkole Samorz\u0105dowe im.marii Konopnickiej w Jastrowiu",
+                "addr:country": "PL",
+                "addr:postcode": "64-915",
+                "addr:city": "Jastrowie",
+                "addr:street": "al. Wolno\u015bci",
+                "addr:housenumber": "3",
+                "addr:teryt:simc": 24682,
+                "addr:teryt:sym_ul": 966843,
+                "contact:phone": "+48 672662706",
+                "contact:email": "przedszkole_jastrowie@wp.pl",
+                "ref:regon": "301008320",
+                "ref:vatin": "PL7671663470",
+                "operator": "Gmina I Miasto Jastrowie",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 88530,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.82539,
+                    53.41965
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 88530,
+                "official_name": "Szko\u0142a Podstawowa Nr 2 im. Marii Konopnickiej w Jastrowiu",
+                "name": "Szko\u0142a Podstawowa Nr 2",
+                "addr:country": "PL",
+                "addr:postcode": "64-915",
+                "addr:city": "Jastrowie",
+                "addr:street": "al. Wolno\u015bci",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 24682,
+                "addr:teryt:sym_ul": 966843,
+                "contact:phone": "+48 672662709",
+                "contact:email": "jastrowiepsp@gmail.com",
+                "contact:website": "http:\/\/www.sp2jastrowie.edupage.org",
+                "ref:regon": "001130265",
+                "operator": "Gmina I Miasto Jastrowie",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 129387,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.81205,
+                    53.4216
+                ]
+            },
+            "properties": {
+                "ref:rspo": 129387,
+                "official_name": "Niepubliczne Przedszkole Motylek",
+                "name": "Niepubliczne Przedszkole Motylek",
+                "addr:country": "PL",
+                "addr:postcode": "64-915",
+                "addr:city": "Jastrowie",
+                "addr:street": "ul. Jagiello\u0144ska",
+                "addr:housenumber": "6",
+                "addr:teryt:simc": 7029,
+                "addr:teryt:sym_ul": 966843,
+                "contact:phone": "+48 721312741",
+                "contact:email": "zlobekmotylek@gmail.com",
+                "ref:regon": "362577911",
+                "operator": "Dorota Ludewicz",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 262247,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.81219,
+                    53.42197
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 262247,
+                "official_name": "Szko\u0142a Podstawowa Nr 1 im.adama Mickiewicza w Jastrowiu",
+                "name": "Szko\u0142a Podstawowa Nr 1 im.adama Mickiewicza w Jastrowiu",
+                "addr:country": "PL",
+                "addr:postcode": "64-915",
+                "addr:city": "Jastrowie",
+                "addr:street": "ul. Kili\u0144szczak\u00f3w",
+                "addr:housenumber": "18",
+                "addr:teryt:simc": 8437,
+                "addr:teryt:sym_ul": 966843,
+                "contact:phone": "+48 672662854",
+                "contact:email": "sekretariat.pgjast@interia.pl",
+                "contact:website": "http:\/\/www.pgjast.szkolnastrona.pl",
+                "ref:regon": "367992649",
+                "operator": "Gmina I Miasto Jastrowie",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 277472,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.69602,
+                    53.43155
+                ]
+            },
+            "properties": {
+                "ref:rspo": 277472,
+                "official_name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w Brze\u017anicy",
+                "name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w Brze\u017anicy",
+                "addr:country": "PL",
+                "addr:postcode": "64-915",
+                "addr:place": "Brze\u017anica",
+                "addr:housenumber": "61",
+                "addr:teryt:sym_ul": 526274,
+                "contact:phone": "+48 672663410",
+                "contact:email": "psp_brzeznica@poczta.onet.pl",
+                "ref:regon": "388968270",
+                "operator": "Gmina I Miasto Jastrowie",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 86153;277474;277475"
+            }
+        },
+        {
+            "id": 86153,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.69602,
+                    53.43152
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 86153,
+                "official_name": "Szko\u0142a Podstawowa im. Stefana Czarnieckiego w Brze\u017anicy",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "64-915",
+                "addr:place": "Brze\u017anica",
+                "addr:housenumber": "61",
+                "addr:teryt:sym_ul": 526274,
+                "contact:phone": "+48 672663410",
+                "contact:email": "psp_brzeznica@poczta.onet.pl",
+                "ref:regon": "570219381",
+                "operator": "Gmina I Miasto Jastrowie",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 277472"
+            }
+        },
+        {
+            "id": 277474,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.69602,
+                    53.431490000000004
+                ]
+            },
+            "properties": {
+                "ref:rspo": 277474,
+                "official_name": "Przedszkole Samorz\u0105dowe w Brze\u017anicy",
+                "name": "Przedszkole Samorz\u0105dowe w Brze\u017anicy",
+                "addr:country": "PL",
+                "addr:postcode": "64-915",
+                "addr:place": "Brze\u017anica",
+                "addr:housenumber": "61",
+                "addr:teryt:sym_ul": 526274,
+                "contact:phone": "+48 672663410",
+                "contact:email": "psp_brzeznica@poczta.onet.pl",
+                "ref:regon": "388969306",
+                "operator": "Gmina I Miasto Jastrowie",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 277472"
+            }
+        },
+        {
+            "id": 86331,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.6076799,
+                    53.46651
+                ]
+            },
+            "properties": {
+                "ref:rspo": 86331,
+                "official_name": "Przedszkole Niepubliczne \"Zaczarowana Kraina\" w Jastrowiu",
+                "name": "Przedszkole Niepubliczne \"Zaczarowana Kraina\" w Jastrowiu",
+                "addr:country": "PL",
+                "addr:postcode": "64-915",
+                "addr:city": "Jastrowie",
+                "addr:street": "ul. Mickiewicza",
+                "addr:housenumber": "31",
+                "addr:teryt:simc": 12734,
+                "addr:teryt:sym_ul": 966843,
+                "contact:phone": "+48 500191443",
+                "contact:email": "zaczarowanakraina1983@wp.pl",
+                "contact:website": "http:\/\/www.przedszkole-jastrowie.pl",
+                "ref:regon": "302271225",
+                "ref:vatin": "PL7671595739",
+                "operator": "Agnieszka Trocka",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 89684,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.61036,
+                    53.47036
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 89684,
+                "official_name": "Szko\u0142a Podstawowa im.por. Tadeusza Janeczko w Sypniewie",
+                "name": "Szko\u0142a Podstawowa im.por. Tadeusza Janeczko w Sypniewie",
+                "addr:country": "PL",
+                "addr:postcode": "64-915",
+                "addr:city": "Sypniewo",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 526386,
+                "contact:phone": "+48 672661207",
+                "contact:email": "sekretariat.sp.sypniewo@gmail.com",
+                "contact:website": "http:\/\/sp-sypniewo.com",
+                "ref:regon": "001130271",
+                "operator": "Gmina I Miasto Jastrowie",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

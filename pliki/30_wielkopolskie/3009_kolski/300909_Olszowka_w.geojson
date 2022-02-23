@@ -1,1 +1,95 @@
-{"type":"FeatureCollection","features":[{"id":88151,"type":"Feature","geometry":{"type":"Point","coordinates":[18.8476219,52.1592849]},"properties":{"isced:level":"1;2","ref:rspo":88151,"official_name":"Szko\u0142a Podstawowa im. \u015aw.st.kostki w \u0141ubiance","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"62-641","addr:place":"\u0141ubianka","addr:housenumber":"21","addr:teryt:sym_ul":290162,"contact:phone":"+48 632616722","contact:email":"szkolalubianka@wp.pl","contact:website":"http:\/\/www.splubianka.szkolnastrona.pl","ref:regon":"001190209","ref:vatin":"PL6662117402","operator":"Gmina Olsz\u00f3wka","operator:type":"government","amenity":"school"}},{"id":133679,"type":"Feature","geometry":{"type":"Point","coordinates":[18.887902,52.1888359]},"properties":{"isced:level":"1;2","ref:rspo":133679,"official_name":"Szko\u0142a Podstawowa im. Marii Konopnickiej w G\u0142\u0119bokiem","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"62-641","addr:place":"G\u0142\u0119bokie","addr:housenumber":"88","addr:teryt:sym_ul":290067,"contact:phone":"+48 632739036","contact:email":"dyrektor@glebokie.org.pl","contact:website":"http:\/\/www.spglebokie.szkolnastrona.pl","ref:regon":"367541237","ref:vatin":"PL6662117371","operator":"Gmina Olsz\u00f3wka","operator:type":"government","amenity":"school"}},{"id":133680,"type":"Feature","geometry":{"type":"Point","coordinates":[18.81042,52.19024]},"properties":{"isced:level":"1;2","ref:rspo":133680,"official_name":"Szko\u0142a Podstawowa im. Henryka Sienkiewicza w Pon\u0119towie G\u00f3rnym Drugim","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"62-641","addr:place":"Pon\u0119t\u00f3w G\u00f3rny Drugi","addr:housenumber":"44","addr:teryt:sym_ul":1061618,"contact:phone":"+48 632739004","contact:email":"spponetowg@interia.pl","contact:website":"http:\/\/www.spponetowg.szkolnastrona.pl","ref:regon":"367540551","ref:vatin":"PL6662117388","operator":"Gmina Olsz\u00f3wka","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 88151,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.8476219,
+                    52.1592849
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 88151,
+                "official_name": "Szko\u0142a Podstawowa im. \u015aw.st.kostki w \u0141ubiance",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "62-641",
+                "addr:place": "\u0141ubianka",
+                "addr:housenumber": "21",
+                "addr:teryt:sym_ul": 290162,
+                "contact:phone": "+48 632616722",
+                "contact:email": "szkolalubianka@wp.pl",
+                "contact:website": "http:\/\/www.splubianka.szkolnastrona.pl",
+                "ref:regon": "001190209",
+                "ref:vatin": "PL6662117402",
+                "operator": "Gmina Olsz\u00f3wka",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 133679,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.887902,
+                    52.1888359
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 133679,
+                "official_name": "Szko\u0142a Podstawowa im. Marii Konopnickiej w G\u0142\u0119bokiem",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "62-641",
+                "addr:place": "G\u0142\u0119bokie",
+                "addr:housenumber": "88",
+                "addr:teryt:sym_ul": 290067,
+                "contact:phone": "+48 632739036",
+                "contact:email": "dyrektor@glebokie.org.pl",
+                "contact:website": "http:\/\/www.spglebokie.szkolnastrona.pl",
+                "ref:regon": "367541237",
+                "ref:vatin": "PL6662117371",
+                "operator": "Gmina Olsz\u00f3wka",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 133680,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.81042,
+                    52.19024
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 133680,
+                "official_name": "Szko\u0142a Podstawowa im. Henryka Sienkiewicza w Pon\u0119towie G\u00f3rnym Drugim",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "62-641",
+                "addr:place": "Pon\u0119t\u00f3w G\u00f3rny Drugi",
+                "addr:housenumber": "44",
+                "addr:teryt:sym_ul": 1061618,
+                "contact:phone": "+48 632739004",
+                "contact:email": "spponetowg@interia.pl",
+                "contact:website": "http:\/\/www.spponetowg.szkolnastrona.pl",
+                "ref:regon": "367540551",
+                "ref:vatin": "PL6662117388",
+                "operator": "Gmina Olsz\u00f3wka",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

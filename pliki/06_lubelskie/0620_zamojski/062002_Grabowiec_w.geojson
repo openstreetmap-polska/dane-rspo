@@ -1,1 +1,164 @@
-{"type":"FeatureCollection","features":[{"id":4533,"type":"Feature","geometry":{"type":"Point","coordinates":[23.5503399,50.81969]},"properties":{"ref:rspo":4533,"official_name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 im. Henryka Sienkiewicza w Grabowcu","name":"Zesp\u00f3\u0142 Szk\u00f3\u0142","addr:country":"PL","addr:postcode":"22-425","addr:city":"Grabowiec","addr:street":"ul. Wojs\u0142awska","addr:housenumber":"1","addr:teryt:simc":24638,"addr:teryt:sym_ul":888528,"contact:phone":"+48 846512417","contact:email":"grabowiec@grabowiec.edu.pl","contact:website":"http:\/\/www.grabowiec.edu.pl","ref:regon":"950314622","ref:vatin":"PL9222523565","operator":"Gmina Grabowiec","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 6303;6305;14095;17547"}},{"id":6303,"type":"Feature","geometry":{"type":"Point","coordinates":[23.5503399,50.81966]},"properties":{"isced:level":"3","ref:rspo":6303,"official_name":"Liceum Og\u00f3lnokszta\u0142c\u0105ce Zespo\u0142u Szk\u00f3\u0142 im. Henryka Sienkiewicza w Grabowcu","name":"Liceum Og\u00f3lnokszta\u0142c\u0105ce Zespo\u0142u Szk\u00f3\u0142","addr:country":"PL","addr:postcode":"22-425","addr:city":"Grabowiec","addr:street":"ul. Wojs\u0142awska","addr:housenumber":"1","addr:teryt:simc":24638,"addr:teryt:sym_ul":888528,"contact:phone":"+48 846512177","contact:email":"grabowiec@grabowiec.edu.pl","contact:website":"http:\/\/www.grabowiec.edu.pl","ref:regon":"061452536","operator":"Gmina Grabowiec","operator:type":"government","amenity":"school","note":"Parent RSPO: 4533"}},{"id":6305,"type":"Feature","geometry":{"type":"Point","coordinates":[23.5503399,50.819630000000004]},"properties":{"ref:rspo":6305,"official_name":"Szkolne Schronisko M\u0142odzie\u017cowe Zespo\u0142u Szk\u00f3\u0142 im. Henryka Sienkiewicza w Grabowcu","name":"Szkolne Schronisko M\u0142odzie\u017cowe Zespo\u0142u Szk\u00f3\u0142","addr:country":"PL","addr:postcode":"22-425","addr:city":"Grabowiec","addr:street":"ul. Wojs\u0142awska","addr:housenumber":"1","addr:teryt:simc":24638,"addr:teryt:sym_ul":888528,"contact:phone":"+48 846512177","contact:email":"grabowiec@grabowiec.edu.pl","contact:website":"http:\/\/www.grabowiec.edu.pl","ref:regon":"061452619","operator":"Gmina Grabowiec","operator:type":"government","tourism":"hostel","note":"Parent RSPO: 4533"}},{"id":14095,"type":"Feature","geometry":{"type":"Point","coordinates":[23.5503399,50.8196]},"properties":{"isced:level":"1;2","ref:rspo":14095,"official_name":"Szko\u0142a Podstawowa Zespo\u0142u Szk\u00f3\u0142 im. Henryka Sienkiewicza w Grabowcu","name":"Szko\u0142a Podstawowa Zespo\u0142u Szk\u00f3\u0142","addr:country":"PL","addr:postcode":"22-425","addr:city":"Grabowiec","addr:street":"ul. Wojs\u0142awska","addr:housenumber":"1","addr:teryt:simc":24638,"addr:teryt:sym_ul":888528,"contact:phone":"+48 846512417","contact:email":"grabowiec@grabowiec.edu.pl","contact:website":"http:\/\/www.grabowiec.edu.pl","ref:regon":"951069449","operator":"Gmina Grabowiec","operator:type":"government","amenity":"school","note":"Parent RSPO: 4533"}},{"id":17547,"type":"Feature","geometry":{"type":"Point","coordinates":[23.5503399,50.81957]},"properties":{"ref:rspo":17547,"official_name":"Przedszkole Samorz\u0105dowe Zespo\u0142u Szk\u00f3\u0142 im. Henryka Sienkiewicza w Grabowcu","name":"Przedszkole Samorz\u0105dowe Zespo\u0142u Szk\u00f3\u0142","addr:country":"PL","addr:postcode":"22-425","addr:city":"Grabowiec","addr:street":"ul. Wojs\u0142awska","addr:housenumber":"1","addr:teryt:simc":24638,"addr:teryt:sym_ul":888528,"contact:phone":"+48 846512417","contact:email":"grabowiec@grabowiec.edu.pl","contact:website":"http:\/\/www.grabowiec.edu.pl","ref:regon":"951069426","operator":"Gmina Grabowiec","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 4533"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 4533,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.5503399,
+                    50.81969
+                ]
+            },
+            "properties": {
+                "ref:rspo": 4533,
+                "official_name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 im. Henryka Sienkiewicza w Grabowcu",
+                "name": "Zesp\u00f3\u0142 Szk\u00f3\u0142",
+                "addr:country": "PL",
+                "addr:postcode": "22-425",
+                "addr:city": "Grabowiec",
+                "addr:street": "ul. Wojs\u0142awska",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 24638,
+                "addr:teryt:sym_ul": 888528,
+                "contact:phone": "+48 846512417",
+                "contact:email": "grabowiec@grabowiec.edu.pl",
+                "contact:website": "http:\/\/www.grabowiec.edu.pl",
+                "ref:regon": "950314622",
+                "ref:vatin": "PL9222523565",
+                "operator": "Gmina Grabowiec",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 6303;6305;14095;17547"
+            }
+        },
+        {
+            "id": 6303,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.5503399,
+                    50.81966
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 6303,
+                "official_name": "Liceum Og\u00f3lnokszta\u0142c\u0105ce Zespo\u0142u Szk\u00f3\u0142 im. Henryka Sienkiewicza w Grabowcu",
+                "name": "Liceum Og\u00f3lnokszta\u0142c\u0105ce Zespo\u0142u Szk\u00f3\u0142",
+                "addr:country": "PL",
+                "addr:postcode": "22-425",
+                "addr:city": "Grabowiec",
+                "addr:street": "ul. Wojs\u0142awska",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 24638,
+                "addr:teryt:sym_ul": 888528,
+                "contact:phone": "+48 846512177",
+                "contact:email": "grabowiec@grabowiec.edu.pl",
+                "contact:website": "http:\/\/www.grabowiec.edu.pl",
+                "ref:regon": "061452536",
+                "operator": "Gmina Grabowiec",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 4533"
+            }
+        },
+        {
+            "id": 6305,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.5503399,
+                    50.819630000000004
+                ]
+            },
+            "properties": {
+                "ref:rspo": 6305,
+                "official_name": "Szkolne Schronisko M\u0142odzie\u017cowe Zespo\u0142u Szk\u00f3\u0142 im. Henryka Sienkiewicza w Grabowcu",
+                "name": "Szkolne Schronisko M\u0142odzie\u017cowe Zespo\u0142u Szk\u00f3\u0142",
+                "addr:country": "PL",
+                "addr:postcode": "22-425",
+                "addr:city": "Grabowiec",
+                "addr:street": "ul. Wojs\u0142awska",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 24638,
+                "addr:teryt:sym_ul": 888528,
+                "contact:phone": "+48 846512177",
+                "contact:email": "grabowiec@grabowiec.edu.pl",
+                "contact:website": "http:\/\/www.grabowiec.edu.pl",
+                "ref:regon": "061452619",
+                "operator": "Gmina Grabowiec",
+                "operator:type": "government",
+                "tourism": "hostel",
+                "note": "Parent RSPO: 4533"
+            }
+        },
+        {
+            "id": 14095,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.5503399,
+                    50.8196
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 14095,
+                "official_name": "Szko\u0142a Podstawowa Zespo\u0142u Szk\u00f3\u0142 im. Henryka Sienkiewicza w Grabowcu",
+                "name": "Szko\u0142a Podstawowa Zespo\u0142u Szk\u00f3\u0142",
+                "addr:country": "PL",
+                "addr:postcode": "22-425",
+                "addr:city": "Grabowiec",
+                "addr:street": "ul. Wojs\u0142awska",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 24638,
+                "addr:teryt:sym_ul": 888528,
+                "contact:phone": "+48 846512417",
+                "contact:email": "grabowiec@grabowiec.edu.pl",
+                "contact:website": "http:\/\/www.grabowiec.edu.pl",
+                "ref:regon": "951069449",
+                "operator": "Gmina Grabowiec",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 4533"
+            }
+        },
+        {
+            "id": 17547,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.5503399,
+                    50.81957
+                ]
+            },
+            "properties": {
+                "ref:rspo": 17547,
+                "official_name": "Przedszkole Samorz\u0105dowe Zespo\u0142u Szk\u00f3\u0142 im. Henryka Sienkiewicza w Grabowcu",
+                "name": "Przedszkole Samorz\u0105dowe Zespo\u0142u Szk\u00f3\u0142",
+                "addr:country": "PL",
+                "addr:postcode": "22-425",
+                "addr:city": "Grabowiec",
+                "addr:street": "ul. Wojs\u0142awska",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 24638,
+                "addr:teryt:sym_ul": 888528,
+                "contact:phone": "+48 846512417",
+                "contact:email": "grabowiec@grabowiec.edu.pl",
+                "contact:website": "http:\/\/www.grabowiec.edu.pl",
+                "ref:regon": "951069426",
+                "operator": "Gmina Grabowiec",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 4533"
+            }
+        }
+    ]
+}

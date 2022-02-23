@@ -1,1 +1,159 @@
-{"type":"FeatureCollection","features":[{"id":80686,"type":"Feature","geometry":{"type":"Point","coordinates":[18.88798,51.1736099]},"properties":{"isced:level":"1;2","ref:rspo":80686,"official_name":"Publiczna Szko\u0142a Podstawowa im. Kornela Makuszy\u0144skiego w Siemkowicach","name":"Publiczna Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"98-354","addr:city":"Siemkowice","addr:street":"ul. Nowa","addr:housenumber":"1","addr:teryt:simc":14330,"addr:teryt:sym_ul":713020,"contact:phone":"+48 438412718","contact:email":"pspsiemkowice@onet.pl","contact:website":"http:\/\/spsiemkowice.szkolnastrona.pl","ref:regon":"000272425","ref:vatin":"PL5080024636","operator":"Gmina Siemkowice","operator:type":"government","amenity":"school"}},{"id":80671,"type":"Feature","geometry":{"type":"Point","coordinates":[18.902610778809,51.20325088501]},"properties":{"ref:rspo":80671,"official_name":"Publiczne Przedszkole w Siemkowicach","name":"Publiczne Przedszkole w Siemkowicach","addr:country":"PL","addr:postcode":"98-354","addr:city":"Siemkowice","addr:street":"ul. Przedszkolna","addr:housenumber":"2","addr:teryt:simc":17683,"addr:teryt:sym_ul":713020,"contact:phone":"+48 438867291","contact:email":"ppsiemkowice@op.pl","ref:regon":"592154612","ref:vatin":"PL5080023513","operator":"Gmina Siemkowice","operator:type":"government","amenity":"kindergarten"}},{"id":60092,"type":"Feature","geometry":{"type":"Point","coordinates":[18.87959,51.22911]},"properties":{"isced:level":"1;2","ref:rspo":60092,"official_name":"Publiczna Szko\u0142a Podstawowa w Lipniku","name":"Publiczna Szko\u0142a Podstawowa w Lipniku","addr:country":"PL","addr:postcode":"98-354","addr:place":"Kolonia Lipnik","addr:housenumber":"11","addr:teryt:sym_ul":712717,"contact:phone":"+48 438417367","contact:email":"dyrektor@psplipnik.szkolnastrona.pl","contact:website":"http:\/\/www.psplipnik.szkolnastrona.pl","ref:regon":"001150612","ref:vatin":"PL5080025216","operator":"Gmina Siemkowice","operator:type":"government","amenity":"school"}},{"id":4066,"type":"Feature","geometry":{"type":"Point","coordinates":[18.83191,51.25011]},"properties":{"isced:level":"1;2","ref:rspo":4066,"official_name":"Publiczna Szko\u0142a Podstawowa w Radoszewicach","name":"Publiczna Szko\u0142a Podstawowa w Radoszewicach","addr:country":"PL","addr:postcode":"98-354","addr:city":"Radoszewice","addr:street":"ul. Niemojewskich","addr:housenumber":"1B","addr:teryt:simc":14188,"addr:teryt:sym_ul":712887,"contact:phone":"+48 438417122","contact:email":"pspradoszewice@op.pl","contact:website":"http:\/\/pspradoszewice.szkolnastrona.pl","ref:regon":"001150434","ref:vatin":"PL5080023708","operator":"Gmina Siemkowice","operator:type":"government","amenity":"school"}},{"id":126179,"type":"Feature","geometry":{"type":"Point","coordinates":[18.83191,51.25008]},"properties":{"ref:rspo":126179,"official_name":"Punkt Przedszkolny w Publicznej Szkole Podstawowej w Radoszewicach","name":"Punkt Przedszkolny w Publicznej Szkole Podstawowej w Radoszewicach","addr:country":"PL","addr:postcode":"98-354","addr:city":"Radoszewice","addr:street":"ul. Niemojewskich","addr:housenumber":"1b","addr:teryt:simc":14188,"addr:teryt:sym_ul":712887,"contact:phone":"+48 438417122","contact:email":"pspradoszewice@op.pl","ref:regon":"360164464","ref:vatin":"PL5080023708","operator":"Gmina Siemkowice","operator:type":"government","amenity":"kindergarten"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 80686,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.88798,
+                    51.1736099
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 80686,
+                "official_name": "Publiczna Szko\u0142a Podstawowa im. Kornela Makuszy\u0144skiego w Siemkowicach",
+                "name": "Publiczna Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "98-354",
+                "addr:city": "Siemkowice",
+                "addr:street": "ul. Nowa",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 14330,
+                "addr:teryt:sym_ul": 713020,
+                "contact:phone": "+48 438412718",
+                "contact:email": "pspsiemkowice@onet.pl",
+                "contact:website": "http:\/\/spsiemkowice.szkolnastrona.pl",
+                "ref:regon": "000272425",
+                "ref:vatin": "PL5080024636",
+                "operator": "Gmina Siemkowice",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 80671,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.902610778809,
+                    51.20325088501
+                ]
+            },
+            "properties": {
+                "ref:rspo": 80671,
+                "official_name": "Publiczne Przedszkole w Siemkowicach",
+                "name": "Publiczne Przedszkole w Siemkowicach",
+                "addr:country": "PL",
+                "addr:postcode": "98-354",
+                "addr:city": "Siemkowice",
+                "addr:street": "ul. Przedszkolna",
+                "addr:housenumber": "2",
+                "addr:teryt:simc": 17683,
+                "addr:teryt:sym_ul": 713020,
+                "contact:phone": "+48 438867291",
+                "contact:email": "ppsiemkowice@op.pl",
+                "ref:regon": "592154612",
+                "ref:vatin": "PL5080023513",
+                "operator": "Gmina Siemkowice",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 60092,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.87959,
+                    51.22911
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 60092,
+                "official_name": "Publiczna Szko\u0142a Podstawowa w Lipniku",
+                "name": "Publiczna Szko\u0142a Podstawowa w Lipniku",
+                "addr:country": "PL",
+                "addr:postcode": "98-354",
+                "addr:place": "Kolonia Lipnik",
+                "addr:housenumber": "11",
+                "addr:teryt:sym_ul": 712717,
+                "contact:phone": "+48 438417367",
+                "contact:email": "dyrektor@psplipnik.szkolnastrona.pl",
+                "contact:website": "http:\/\/www.psplipnik.szkolnastrona.pl",
+                "ref:regon": "001150612",
+                "ref:vatin": "PL5080025216",
+                "operator": "Gmina Siemkowice",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 4066,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.83191,
+                    51.25011
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 4066,
+                "official_name": "Publiczna Szko\u0142a Podstawowa w Radoszewicach",
+                "name": "Publiczna Szko\u0142a Podstawowa w Radoszewicach",
+                "addr:country": "PL",
+                "addr:postcode": "98-354",
+                "addr:city": "Radoszewice",
+                "addr:street": "ul. Niemojewskich",
+                "addr:housenumber": "1B",
+                "addr:teryt:simc": 14188,
+                "addr:teryt:sym_ul": 712887,
+                "contact:phone": "+48 438417122",
+                "contact:email": "pspradoszewice@op.pl",
+                "contact:website": "http:\/\/pspradoszewice.szkolnastrona.pl",
+                "ref:regon": "001150434",
+                "ref:vatin": "PL5080023708",
+                "operator": "Gmina Siemkowice",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 126179,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.83191,
+                    51.25008
+                ]
+            },
+            "properties": {
+                "ref:rspo": 126179,
+                "official_name": "Punkt Przedszkolny w Publicznej Szkole Podstawowej w Radoszewicach",
+                "name": "Punkt Przedszkolny w Publicznej Szkole Podstawowej w Radoszewicach",
+                "addr:country": "PL",
+                "addr:postcode": "98-354",
+                "addr:city": "Radoszewice",
+                "addr:street": "ul. Niemojewskich",
+                "addr:housenumber": "1b",
+                "addr:teryt:simc": 14188,
+                "addr:teryt:sym_ul": 712887,
+                "contact:phone": "+48 438417122",
+                "contact:email": "pspradoszewice@op.pl",
+                "ref:regon": "360164464",
+                "ref:vatin": "PL5080023708",
+                "operator": "Gmina Siemkowice",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        }
+    ]
+}

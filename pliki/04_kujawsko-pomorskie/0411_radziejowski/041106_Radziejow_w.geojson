@@ -1,1 +1,213 @@
-{"type":"FeatureCollection","features":[{"id":104312,"type":"Feature","geometry":{"type":"Point","coordinates":[18.64141,52.61794]},"properties":{"isced:level":"1;2","ref:rspo":104312,"official_name":"Szko\u0142a Podstawowa im. W\u0142adys\u0142awa \u0141okietka w P\u0142owcach","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"88-200","addr:place":"P\u0142owce","addr:housenumber":"94","addr:teryt:sym_ul":868106,"contact:phone":"+48 542853680","contact:email":"spplowce@o2.pl","contact:website":"http:\/\/www.spplowce.q4.pl","ref:regon":"001136121","ref:vatin":"PL8891515513","operator":"Gmina Radziej\u00f3w","operator:type":"government","amenity":"school"}},{"id":93075,"type":"Feature","geometry":{"type":"Point","coordinates":[18.58146,52.62835]},"properties":{"ref:rspo":93075,"official_name":"Przedszkole Gminne w Skibinie","name":"Przedszkole Gminne w Skibinie","addr:country":"PL","addr:postcode":"88-200","addr:place":"Skibin","addr:housenumber":"53","addr:teryt:sym_ul":868164,"contact:phone":"+48 695833305","contact:email":"przedszkole@ugradziejow.pl","ref:regon":"341362199","ref:vatin":"PL8891512696","operator":"Gmina Radziej\u00f3w","operator:type":"government","amenity":"kindergarten"}},{"id":13308,"type":"Feature","geometry":{"type":"Point","coordinates":[18.52255,52.63404]},"properties":{"ref:rspo":13308,"official_name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 Rolnicze Centrum Kszta\u0142cenia Ustawicznego","name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 Rolnicze Centrum Kszta\u0142cenia Ustawicznego","addr:country":"PL","addr:postcode":"88-200","addr:place":"Przemystka","addr:housenumber":"21","addr:teryt:sym_ul":867963,"contact:phone":"+48 542853665","contact:email":"przemystka@przemystka.pl","contact:website":"http:\/\/www.przemystka.pl","ref:regon":"000100049","ref:vatin":"PL8891032714","operator":"Powiat Radziejowski","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 110390;110391;272404"}},{"id":110390,"type":"Feature","geometry":{"type":"Point","coordinates":[18.52255,52.634009999999996]},"properties":{"isced:level":"3","ref:rspo":110390,"official_name":"Bran\u017cowa Szko\u0142a I Stopnia","name":"Bran\u017cowa Szko\u0142a I Stopnia","addr:country":"PL","addr:postcode":"88-200","addr:place":"Przemystka","addr:housenumber":"21","addr:teryt:sym_ul":867963,"contact:phone":"+48 542853665","contact:email":"przemystka@przemystka.pl","contact:website":"http:\/\/www.przemystka.pl","ref:regon":"910948677","operator":"Powiat Radziejowski","operator:type":"government","amenity":"school","note":"Parent RSPO: 13308"}},{"id":110391,"type":"Feature","geometry":{"type":"Point","coordinates":[18.52255,52.63398]},"properties":{"isced:level":"3","ref:rspo":110391,"official_name":"Liceum Og\u00f3lnokszta\u0142c\u0105ce","name":"Liceum Og\u00f3lnokszta\u0142c\u0105ce","addr:country":"PL","addr:postcode":"88-200","addr:place":"Przemystka","addr:housenumber":"21","addr:teryt:sym_ul":867963,"contact:phone":"+48 542853665","contact:email":"przemystka@przemystka.pl","contact:website":"http:\/\/www.przemystka.pl","ref:regon":"911358446","operator":"Powiat Radziejowski","operator:type":"government","amenity":"school","note":"Parent RSPO: 13308"}},{"id":272404,"type":"Feature","geometry":{"type":"Point","coordinates":[18.52255,52.63395]},"properties":{"isced:level":"3","ref:rspo":272404,"official_name":"Technikum","name":"Technikum","addr:country":"PL","addr:postcode":"88-200","addr:place":"Przemystka","addr:housenumber":"21","addr:teryt:sym_ul":867963,"contact:phone":"+48 542853665","contact:email":"przemystka@przemystka.pl","contact:website":"http:\/\/www.przemystka.pl","ref:regon":"384164072","operator":"Powiat Radziejowski","operator:type":"government","amenity":"school","note":"Parent RSPO: 13308"}},{"id":104374,"type":"Feature","geometry":{"type":"Point","coordinates":[18.54447,52.6507]},"properties":{"isced:level":"1;2","ref:rspo":104374,"official_name":"Szko\u0142a Podstawowa im. Stefana Kardyna\u0142a Wyszy\u0144skiego w Bieganowie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"88-200","addr:place":"Bieganowo","addr:housenumber":"9","addr:teryt:sym_ul":867934,"contact:phone":"+48 542853517","contact:email":"bieganowo@o2.pl","ref:regon":"001136138","ref:vatin":"PL8891515536","operator":"Gmina Radziej\u00f3w","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 104312,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.64141,
+                    52.61794
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 104312,
+                "official_name": "Szko\u0142a Podstawowa im. W\u0142adys\u0142awa \u0141okietka w P\u0142owcach",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "88-200",
+                "addr:place": "P\u0142owce",
+                "addr:housenumber": "94",
+                "addr:teryt:sym_ul": 868106,
+                "contact:phone": "+48 542853680",
+                "contact:email": "spplowce@o2.pl",
+                "contact:website": "http:\/\/www.spplowce.q4.pl",
+                "ref:regon": "001136121",
+                "ref:vatin": "PL8891515513",
+                "operator": "Gmina Radziej\u00f3w",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 93075,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.58146,
+                    52.62835
+                ]
+            },
+            "properties": {
+                "ref:rspo": 93075,
+                "official_name": "Przedszkole Gminne w Skibinie",
+                "name": "Przedszkole Gminne w Skibinie",
+                "addr:country": "PL",
+                "addr:postcode": "88-200",
+                "addr:place": "Skibin",
+                "addr:housenumber": "53",
+                "addr:teryt:sym_ul": 868164,
+                "contact:phone": "+48 695833305",
+                "contact:email": "przedszkole@ugradziejow.pl",
+                "ref:regon": "341362199",
+                "ref:vatin": "PL8891512696",
+                "operator": "Gmina Radziej\u00f3w",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 13308,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.52255,
+                    52.63404
+                ]
+            },
+            "properties": {
+                "ref:rspo": 13308,
+                "official_name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Rolnicze Centrum Kszta\u0142cenia Ustawicznego",
+                "name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Rolnicze Centrum Kszta\u0142cenia Ustawicznego",
+                "addr:country": "PL",
+                "addr:postcode": "88-200",
+                "addr:place": "Przemystka",
+                "addr:housenumber": "21",
+                "addr:teryt:sym_ul": 867963,
+                "contact:phone": "+48 542853665",
+                "contact:email": "przemystka@przemystka.pl",
+                "contact:website": "http:\/\/www.przemystka.pl",
+                "ref:regon": "000100049",
+                "ref:vatin": "PL8891032714",
+                "operator": "Powiat Radziejowski",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 110390;110391;272404"
+            }
+        },
+        {
+            "id": 110390,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.52255,
+                    52.634009999999996
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 110390,
+                "official_name": "Bran\u017cowa Szko\u0142a I Stopnia",
+                "name": "Bran\u017cowa Szko\u0142a I Stopnia",
+                "addr:country": "PL",
+                "addr:postcode": "88-200",
+                "addr:place": "Przemystka",
+                "addr:housenumber": "21",
+                "addr:teryt:sym_ul": 867963,
+                "contact:phone": "+48 542853665",
+                "contact:email": "przemystka@przemystka.pl",
+                "contact:website": "http:\/\/www.przemystka.pl",
+                "ref:regon": "910948677",
+                "operator": "Powiat Radziejowski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 13308"
+            }
+        },
+        {
+            "id": 110391,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.52255,
+                    52.63398
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 110391,
+                "official_name": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+                "name": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+                "addr:country": "PL",
+                "addr:postcode": "88-200",
+                "addr:place": "Przemystka",
+                "addr:housenumber": "21",
+                "addr:teryt:sym_ul": 867963,
+                "contact:phone": "+48 542853665",
+                "contact:email": "przemystka@przemystka.pl",
+                "contact:website": "http:\/\/www.przemystka.pl",
+                "ref:regon": "911358446",
+                "operator": "Powiat Radziejowski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 13308"
+            }
+        },
+        {
+            "id": 272404,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.52255,
+                    52.63395
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 272404,
+                "official_name": "Technikum",
+                "name": "Technikum",
+                "addr:country": "PL",
+                "addr:postcode": "88-200",
+                "addr:place": "Przemystka",
+                "addr:housenumber": "21",
+                "addr:teryt:sym_ul": 867963,
+                "contact:phone": "+48 542853665",
+                "contact:email": "przemystka@przemystka.pl",
+                "contact:website": "http:\/\/www.przemystka.pl",
+                "ref:regon": "384164072",
+                "operator": "Powiat Radziejowski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 13308"
+            }
+        },
+        {
+            "id": 104374,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.54447,
+                    52.6507
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 104374,
+                "official_name": "Szko\u0142a Podstawowa im. Stefana Kardyna\u0142a Wyszy\u0144skiego w Bieganowie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "88-200",
+                "addr:place": "Bieganowo",
+                "addr:housenumber": "9",
+                "addr:teryt:sym_ul": 867934,
+                "contact:phone": "+48 542853517",
+                "contact:email": "bieganowo@o2.pl",
+                "ref:regon": "001136138",
+                "ref:vatin": "PL8891515536",
+                "operator": "Gmina Radziej\u00f3w",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

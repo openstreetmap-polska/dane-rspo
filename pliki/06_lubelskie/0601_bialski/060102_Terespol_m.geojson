@@ -1,1 +1,164 @@
-{"type":"FeatureCollection","features":[{"id":133386,"type":"Feature","geometry":{"type":"Point","coordinates":[23.60726,52.07363]},"properties":{"isced:level":"3","ref:rspo":133386,"official_name":"Akademickie Liceum Og\u00f3lnokszta\u0142c\u0105ce w Terespolu Pa\u0144stwowej Szko\u0142y Wy\u017cszej im. Papie\u017ca Jana Paw\u0142a II w Bia\u0142ej Podlaskiej","name":"Akademickie Liceum Og\u00f3lnokszta\u0142c\u0105ce w Terespolu Pa\u0144stwowej Szko\u0142y Wy\u017cszej","addr:country":"PL","addr:postcode":"21-550","addr:city":"Terespol","addr:street":"ul. Wojska Polskiego","addr:housenumber":"88","addr:teryt:simc":24628,"addr:teryt:sym_ul":922343,"contact:phone":"+48 833752004","contact:email":"zso.terespol@wp.pl","ref:regon":"367154575","operator":"Pa\u0144stwowa Szko\u0142a Wy\u017csza Im.papie\u017ca Jana Paw\u0142a Ii W Bia\u0142ej Podlaskiej","operator:type":"public","amenity":"school"}},{"id":118977,"type":"Feature","geometry":{"type":"Point","coordinates":[23.60726,52.0736]},"properties":{"ref:rspo":118977,"official_name":"Powiatowa Poradnia Psychologiczno-Pedagogiczna w Bia\u0142ej Podlaskiej\nFilia w Terespolu","name":"Powiatowa Poradnia Psychologiczno-Pedagogiczna w Bia\u0142ej Podlaskiej\nFilia w Terespolu","addr:country":"PL","addr:postcode":"21-550","addr:city":"Terespol","addr:street":"ul. Wojska Polskiego","addr:housenumber":"88","addr:teryt:simc":24628,"addr:teryt:sym_ul":922343,"contact:phone":"+48 833752344","contact:email":"pppterespoln.b@interia.pl","ref:regon":"615787860","operator":"Powiat Bialski","operator:type":"government","healthcare":"councelling","counselling_type":"education","fixme":"w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. healthcare=councelling + counselling_type=education albo healthcare=psychotherapist)","note":"Parent RSPO: 115561"}},{"id":22323,"type":"Feature","geometry":{"type":"Point","coordinates":[23.61301,52.0795]},"properties":{"ref:rspo":22323,"official_name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 Publicznych Nr 1 w Terespolu","name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 Publicznych Nr 1 w Terespolu","addr:country":"PL","addr:postcode":"21-550","addr:city":"Terespol","addr:street":"ul. Henryka Sienkiewicza","addr:housenumber":"27","addr:teryt:simc":19834,"addr:teryt:sym_ul":922343,"contact:phone":"+48 833752172","contact:email":"zsp1_terespol@wp.pl","contact:website":"http:\/\/www.zsp1terespol.edu.pl","ref:regon":"030885601","ref:vatin":"PL5372225689","operator":"Gmina Miasto Terespol","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 22324;49714"}},{"id":22324,"type":"Feature","geometry":{"type":"Point","coordinates":[23.61301,52.07947]},"properties":{"ref:rspo":22324,"official_name":"Przedszkole Miejskie w Terespolu","name":"Przedszkole Miejskie w Terespolu","addr:country":"PL","addr:postcode":"21-550","addr:city":"Terespol","addr:street":"ul. Henryka Sienkiewicza","addr:housenumber":"27","addr:teryt:simc":19834,"addr:teryt:sym_ul":922343,"contact:phone":"+48 833752111","contact:email":"przedszkole@terespol.pl","contact:website":"http:\/\/www.przed.terespol.szkolnastrona.pl","ref:regon":"030000301","ref:vatin":"PL5371075785","operator":"Gmina Miasto Terespol","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 22323"}},{"id":49714,"type":"Feature","geometry":{"type":"Point","coordinates":[23.61301,52.079440000000005]},"properties":{"isced:level":"1;2","ref:rspo":49714,"official_name":"Szko\u0142a Podstawowa Nr 1 im.\u015bw.kr\u00f3lowej Jadwigi w Terespolu","name":"Szko\u0142a Podstawowa Nr 1 im.\u015bw.kr\u00f3lowej Jadwigi w Terespolu","addr:country":"PL","addr:postcode":"21-550","addr:city":"Terespol","addr:street":"ul. Henryka Sienkiewicza","addr:housenumber":"27","addr:teryt:simc":19834,"addr:teryt:sym_ul":922343,"contact:phone":"+48 833752172","contact:email":"zsp1_terespol@wp.pl","contact:website":"http:\/\/www.zsp1terespol.edu.pl","ref:regon":"000263550","operator":"Gmina Miasto Terespol","operator:type":"government","amenity":"school","note":"Parent RSPO: 22323"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 133386,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.60726,
+                    52.07363
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 133386,
+                "official_name": "Akademickie Liceum Og\u00f3lnokszta\u0142c\u0105ce w Terespolu Pa\u0144stwowej Szko\u0142y Wy\u017cszej im. Papie\u017ca Jana Paw\u0142a II w Bia\u0142ej Podlaskiej",
+                "name": "Akademickie Liceum Og\u00f3lnokszta\u0142c\u0105ce w Terespolu Pa\u0144stwowej Szko\u0142y Wy\u017cszej",
+                "addr:country": "PL",
+                "addr:postcode": "21-550",
+                "addr:city": "Terespol",
+                "addr:street": "ul. Wojska Polskiego",
+                "addr:housenumber": "88",
+                "addr:teryt:simc": 24628,
+                "addr:teryt:sym_ul": 922343,
+                "contact:phone": "+48 833752004",
+                "contact:email": "zso.terespol@wp.pl",
+                "ref:regon": "367154575",
+                "operator": "Pa\u0144stwowa Szko\u0142a Wy\u017csza Im.papie\u017ca Jana Paw\u0142a Ii W Bia\u0142ej Podlaskiej",
+                "operator:type": "public",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 118977,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.60726,
+                    52.0736
+                ]
+            },
+            "properties": {
+                "ref:rspo": 118977,
+                "official_name": "Powiatowa Poradnia Psychologiczno-Pedagogiczna w Bia\u0142ej Podlaskiej\nFilia w Terespolu",
+                "name": "Powiatowa Poradnia Psychologiczno-Pedagogiczna w Bia\u0142ej Podlaskiej\nFilia w Terespolu",
+                "addr:country": "PL",
+                "addr:postcode": "21-550",
+                "addr:city": "Terespol",
+                "addr:street": "ul. Wojska Polskiego",
+                "addr:housenumber": "88",
+                "addr:teryt:simc": 24628,
+                "addr:teryt:sym_ul": 922343,
+                "contact:phone": "+48 833752344",
+                "contact:email": "pppterespoln.b@interia.pl",
+                "ref:regon": "615787860",
+                "operator": "Powiat Bialski",
+                "operator:type": "government",
+                "healthcare": "counselling",
+                "counselling_type": "education",
+                "fixme": "w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. healthcare=counselling + counselling_type=education albo healthcare=psychotherapist)",
+                "note": "Parent RSPO: 115561"
+            }
+        },
+        {
+            "id": 22323,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.61301,
+                    52.0795
+                ]
+            },
+            "properties": {
+                "ref:rspo": 22323,
+                "official_name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Publicznych Nr 1 w Terespolu",
+                "name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Publicznych Nr 1 w Terespolu",
+                "addr:country": "PL",
+                "addr:postcode": "21-550",
+                "addr:city": "Terespol",
+                "addr:street": "ul. Henryka Sienkiewicza",
+                "addr:housenumber": "27",
+                "addr:teryt:simc": 19834,
+                "addr:teryt:sym_ul": 922343,
+                "contact:phone": "+48 833752172",
+                "contact:email": "zsp1_terespol@wp.pl",
+                "contact:website": "http:\/\/www.zsp1terespol.edu.pl",
+                "ref:regon": "030885601",
+                "ref:vatin": "PL5372225689",
+                "operator": "Gmina Miasto Terespol",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 22324;49714"
+            }
+        },
+        {
+            "id": 22324,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.61301,
+                    52.07947
+                ]
+            },
+            "properties": {
+                "ref:rspo": 22324,
+                "official_name": "Przedszkole Miejskie w Terespolu",
+                "name": "Przedszkole Miejskie w Terespolu",
+                "addr:country": "PL",
+                "addr:postcode": "21-550",
+                "addr:city": "Terespol",
+                "addr:street": "ul. Henryka Sienkiewicza",
+                "addr:housenumber": "27",
+                "addr:teryt:simc": 19834,
+                "addr:teryt:sym_ul": 922343,
+                "contact:phone": "+48 833752111",
+                "contact:email": "przedszkole@terespol.pl",
+                "contact:website": "http:\/\/www.przed.terespol.szkolnastrona.pl",
+                "ref:regon": "030000301",
+                "ref:vatin": "PL5371075785",
+                "operator": "Gmina Miasto Terespol",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 22323"
+            }
+        },
+        {
+            "id": 49714,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.61301,
+                    52.079440000000005
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 49714,
+                "official_name": "Szko\u0142a Podstawowa Nr 1 im.\u015bw.kr\u00f3lowej Jadwigi w Terespolu",
+                "name": "Szko\u0142a Podstawowa Nr 1 im.\u015bw.kr\u00f3lowej Jadwigi w Terespolu",
+                "addr:country": "PL",
+                "addr:postcode": "21-550",
+                "addr:city": "Terespol",
+                "addr:street": "ul. Henryka Sienkiewicza",
+                "addr:housenumber": "27",
+                "addr:teryt:simc": 19834,
+                "addr:teryt:sym_ul": 922343,
+                "contact:phone": "+48 833752172",
+                "contact:email": "zsp1_terespol@wp.pl",
+                "contact:website": "http:\/\/www.zsp1terespol.edu.pl",
+                "ref:regon": "000263550",
+                "operator": "Gmina Miasto Terespol",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 22323"
+            }
+        }
+    ]
+}

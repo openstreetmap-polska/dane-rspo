@@ -1,1 +1,163 @@
-{"type":"FeatureCollection","features":[{"id":9930,"type":"Feature","geometry":{"type":"Point","coordinates":[24.03951,50.84414]},"properties":{"ref:rspo":9930,"official_name":"Przedszkole Samorz\u0105dowe w Strzy\u017cowie","name":"Przedszkole Samorz\u0105dowe w Strzy\u017cowie","addr:country":"PL","addr:postcode":"22-525","addr:city":"Strzy\u017c\u00f3w","addr:street":"ul. Bohater\u00f3w Wrze\u015bnia","addr:housenumber":"10","addr:teryt:simc":1688,"addr:teryt:sym_ul":888988,"contact:phone":"+48 846516014","contact:email":"przedszkolestrzyzow@wp.pl","ref:regon":"950223316","ref:vatin":"PL9191509333","operator":"Gmina Horod\u0142o","operator:type":"government","amenity":"kindergarten"}},{"id":87652,"type":"Feature","geometry":{"type":"Point","coordinates":[24.03951,50.84411]},"properties":{"isced:level":"1;2","ref:rspo":87652,"official_name":"Szko\u0142a Podstawowa w Strzy\u017cowie","name":"Szko\u0142a Podstawowa w Strzy\u017cowie","addr:country":"PL","addr:postcode":"22-525","addr:city":"Strzy\u017c\u00f3w","addr:street":"ul. Bohater\u00f3w Wrze\u015bnia","addr:housenumber":"10","addr:teryt:simc":1688,"addr:teryt:sym_ul":888988,"contact:phone":"+48 846516007","contact:email":"szkolastrzyzow@wp.pl","ref:regon":"001137787","ref:vatin":"PL9191625507","operator":"Gmina Horod\u0142o","operator:type":"government","amenity":"school"}},{"id":9929,"type":"Feature","geometry":{"type":"Point","coordinates":[24.03888,50.89266]},"properties":{"ref:rspo":9929,"official_name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 w Horodle","name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 w Horodle","addr:country":"PL","addr:postcode":"22-523","addr:city":"Horod\u0142o","addr:street":"ul. J\u00f3zefa Pi\u0142sudskiego","addr:housenumber":"58","addr:teryt:simc":16264,"addr:teryt:sym_ul":888787,"contact:phone":"+48 846515331","contact:email":"sphorodlo@interia.pl","contact:website":"http:\/\/www.zshorodlo","ref:regon":"060277166","ref:vatin":"PL9191775342","operator":"Gmina Horod\u0142o","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 87492;87494"}},{"id":87492,"type":"Feature","geometry":{"type":"Point","coordinates":[24.03888,50.89263]},"properties":{"isced:level":"1;2","ref:rspo":87492,"official_name":"Szko\u0142a Podstawowa w Horodle","name":"Szko\u0142a Podstawowa w Horodle","addr:country":"PL","addr:postcode":"22-523","addr:city":"Horod\u0142o","addr:street":"ul. J\u00f3zefa Pi\u0142sudskiego","addr:housenumber":"58","addr:teryt:simc":16264,"addr:teryt:sym_ul":888787,"contact:phone":"+48 846515331","contact:email":"sphorodlo@interia.pl","contact:website":"http:\/\/www.zshorodlo","ref:regon":"000553035","operator":"Gmina Horod\u0142o","operator:type":"government","amenity":"school","note":"Parent RSPO: 9929"}},{"id":87494,"type":"Feature","geometry":{"type":"Point","coordinates":[24.03888,50.8926]},"properties":{"isced:level":"3","ref:rspo":87494,"official_name":"Liceum Og\u00f3lnokszta\u0142c\u0105ce w Horodle","name":"Liceum Og\u00f3lnokszta\u0142c\u0105ce w Horodle","addr:country":"PL","addr:postcode":"22-523","addr:city":"Horod\u0142o","addr:street":"ul. J\u00f3zefa Pi\u0142sudskiego","addr:housenumber":"58","addr:teryt:simc":16264,"addr:teryt:sym_ul":888787,"contact:phone":"+48 846515331","contact:email":"sphorodlo@interia.pl","contact:website":"http:\/\/www.zshorodlo","ref:regon":"000982820","operator":"Gmina Horod\u0142o","operator:type":"government","amenity":"school","note":"Parent RSPO: 9929"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 9930,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.03951,
+                    50.84414
+                ]
+            },
+            "properties": {
+                "ref:rspo": 9930,
+                "official_name": "Przedszkole Samorz\u0105dowe w Strzy\u017cowie",
+                "name": "Przedszkole Samorz\u0105dowe w Strzy\u017cowie",
+                "addr:country": "PL",
+                "addr:postcode": "22-525",
+                "addr:city": "Strzy\u017c\u00f3w",
+                "addr:street": "ul. Bohater\u00f3w Wrze\u015bnia",
+                "addr:housenumber": "10",
+                "addr:teryt:simc": 1688,
+                "addr:teryt:sym_ul": 888988,
+                "contact:phone": "+48 846516014",
+                "contact:email": "przedszkolestrzyzow@wp.pl",
+                "ref:regon": "950223316",
+                "ref:vatin": "PL9191509333",
+                "operator": "Gmina Horod\u0142o",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 87652,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.03951,
+                    50.84411
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 87652,
+                "official_name": "Szko\u0142a Podstawowa w Strzy\u017cowie",
+                "name": "Szko\u0142a Podstawowa w Strzy\u017cowie",
+                "addr:country": "PL",
+                "addr:postcode": "22-525",
+                "addr:city": "Strzy\u017c\u00f3w",
+                "addr:street": "ul. Bohater\u00f3w Wrze\u015bnia",
+                "addr:housenumber": "10",
+                "addr:teryt:simc": 1688,
+                "addr:teryt:sym_ul": 888988,
+                "contact:phone": "+48 846516007",
+                "contact:email": "szkolastrzyzow@wp.pl",
+                "ref:regon": "001137787",
+                "ref:vatin": "PL9191625507",
+                "operator": "Gmina Horod\u0142o",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 9929,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.03888,
+                    50.89266
+                ]
+            },
+            "properties": {
+                "ref:rspo": 9929,
+                "official_name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 w Horodle",
+                "name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 w Horodle",
+                "addr:country": "PL",
+                "addr:postcode": "22-523",
+                "addr:city": "Horod\u0142o",
+                "addr:street": "ul. J\u00f3zefa Pi\u0142sudskiego",
+                "addr:housenumber": "58",
+                "addr:teryt:simc": 16264,
+                "addr:teryt:sym_ul": 888787,
+                "contact:phone": "+48 846515331",
+                "contact:email": "sphorodlo@interia.pl",
+                "contact:website": "http:\/\/www.zshorodlo",
+                "ref:regon": "060277166",
+                "ref:vatin": "PL9191775342",
+                "operator": "Gmina Horod\u0142o",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 87492;87494"
+            }
+        },
+        {
+            "id": 87492,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.03888,
+                    50.89263
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 87492,
+                "official_name": "Szko\u0142a Podstawowa w Horodle",
+                "name": "Szko\u0142a Podstawowa w Horodle",
+                "addr:country": "PL",
+                "addr:postcode": "22-523",
+                "addr:city": "Horod\u0142o",
+                "addr:street": "ul. J\u00f3zefa Pi\u0142sudskiego",
+                "addr:housenumber": "58",
+                "addr:teryt:simc": 16264,
+                "addr:teryt:sym_ul": 888787,
+                "contact:phone": "+48 846515331",
+                "contact:email": "sphorodlo@interia.pl",
+                "contact:website": "http:\/\/www.zshorodlo",
+                "ref:regon": "000553035",
+                "operator": "Gmina Horod\u0142o",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 9929"
+            }
+        },
+        {
+            "id": 87494,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.03888,
+                    50.8926
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 87494,
+                "official_name": "Liceum Og\u00f3lnokszta\u0142c\u0105ce w Horodle",
+                "name": "Liceum Og\u00f3lnokszta\u0142c\u0105ce w Horodle",
+                "addr:country": "PL",
+                "addr:postcode": "22-523",
+                "addr:city": "Horod\u0142o",
+                "addr:street": "ul. J\u00f3zefa Pi\u0142sudskiego",
+                "addr:housenumber": "58",
+                "addr:teryt:simc": 16264,
+                "addr:teryt:sym_ul": 888787,
+                "contact:phone": "+48 846515331",
+                "contact:email": "sphorodlo@interia.pl",
+                "contact:website": "http:\/\/www.zshorodlo",
+                "ref:regon": "000982820",
+                "operator": "Gmina Horod\u0142o",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 9929"
+            }
+        }
+    ]
+}

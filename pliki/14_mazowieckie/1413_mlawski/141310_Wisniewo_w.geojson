@@ -1,1 +1,124 @@
-{"type":"FeatureCollection","features":[{"id":8343,"type":"Feature","geometry":{"type":"Point","coordinates":[20.3319029,53.036266]},"properties":{"isced:level":"1;2","ref:rspo":8343,"official_name":"Szko\u0142a Podstawowa w Starych Kosinach","name":"Szko\u0142a Podstawowa w Starych Kosinach","addr:country":"PL","addr:postcode":"06-521","addr:place":"Stare Kosiny","addr:housenumber":"1","addr:teryt:sym_ul":129685,"contact:phone":"+48 236557090","contact:email":"sp-kosiny@o2.pl","contact:website":"http:\/\/spstarekosiny.edupage.org","ref:regon":"001156550","ref:vatin":"PL5691633100","operator":"Gmina Wi\u015bniewo","operator:type":"government","amenity":"school"}},{"id":8342,"type":"Feature","geometry":{"type":"Point","coordinates":[20.2754227,53.0467752]},"properties":{"isced:level":"1;2","ref:rspo":8342,"official_name":"Szko\u0142a Podstawowa im.ksi\u0119dza Kanonika W\u0142adys\u0142awa Skierkowskiego w Bogurzynie","name":"Szko\u0142a Podstawowa im.ksi\u0119dza Kanonika W\u0142adys\u0142awa Skierkowskiego w Bogurzynie","addr:country":"PL","addr:postcode":"06-521","addr:place":"Bogurzyn","addr:housenumber":"84","addr:teryt:sym_ul":129515,"contact:phone":"+48 236558004","contact:email":"bogurzyn84@tlen.pl","contact:website":"http:\/\/www.spbogurzyn.edupage.org","ref:regon":"001156572","ref:vatin":"PL5691632833","operator":"Gmina Wi\u015bniewo","operator:type":"government","amenity":"school"}},{"id":8344,"type":"Feature","geometry":{"type":"Point","coordinates":[20.259116,53.0607799]},"properties":{"isced:level":"1;2","ref:rspo":8344,"official_name":"Szko\u0142a Podstawowa w G\u0142u\u017cku","name":"Szko\u0142a Podstawowa w G\u0142u\u017cku","addr:country":"PL","addr:postcode":"06-521","addr:place":"G\u0142u\u017cek","addr:housenumber":"69","addr:teryt:sym_ul":129538,"contact:phone":"+48 236558006","contact:email":"spgluzek@op.pl","ref:regon":"001156566","ref:vatin":"PL5691633092","operator":"Gmina Wi\u015bniewo","operator:type":"government","amenity":"school"}},{"id":92801,"type":"Feature","geometry":{"type":"Point","coordinates":[20.344679,53.065652]},"properties":{"isced:level":"1;2","ref:rspo":92801,"official_name":"Szko\u0142a Podstawowa w Wi\u015bniewie","name":"Szko\u0142a Podstawowa w Wi\u015bniewie","addr:country":"PL","addr:postcode":"06-521","addr:place":"Wi\u015bniewo","addr:housenumber":"78","addr:teryt:sym_ul":129700,"contact:phone":"+48 236557086","contact:email":"gimwisniewo@op.pl","contact:website":"https:\/\/spwisniewo.edupage.org","ref:regon":"000559463","ref:vatin":"PL5691636601","operator":"Gmina Wi\u015bniewo","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 8343,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.3319029,
+                    53.036266
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 8343,
+                "official_name": "Szko\u0142a Podstawowa w Starych Kosinach",
+                "name": "Szko\u0142a Podstawowa w Starych Kosinach",
+                "addr:country": "PL",
+                "addr:postcode": "06-521",
+                "addr:place": "Stare Kosiny",
+                "addr:housenumber": "1",
+                "addr:teryt:sym_ul": 129685,
+                "contact:phone": "+48 236557090",
+                "contact:email": "sp-kosiny@o2.pl",
+                "contact:website": "http:\/\/spstarekosiny.edupage.org",
+                "ref:regon": "001156550",
+                "ref:vatin": "PL5691633100",
+                "operator": "Gmina Wi\u015bniewo",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 8342,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.2754227,
+                    53.0467752
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 8342,
+                "official_name": "Szko\u0142a Podstawowa im.ksi\u0119dza Kanonika W\u0142adys\u0142awa Skierkowskiego w Bogurzynie",
+                "name": "Szko\u0142a Podstawowa im.ksi\u0119dza Kanonika W\u0142adys\u0142awa Skierkowskiego w Bogurzynie",
+                "addr:country": "PL",
+                "addr:postcode": "06-521",
+                "addr:place": "Bogurzyn",
+                "addr:housenumber": "84",
+                "addr:teryt:sym_ul": 129515,
+                "contact:phone": "+48 236558004",
+                "contact:email": "bogurzyn84@tlen.pl",
+                "contact:website": "http:\/\/www.spbogurzyn.edupage.org",
+                "ref:regon": "001156572",
+                "ref:vatin": "PL5691632833",
+                "operator": "Gmina Wi\u015bniewo",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 8344,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.259116,
+                    53.0607799
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 8344,
+                "official_name": "Szko\u0142a Podstawowa w G\u0142u\u017cku",
+                "name": "Szko\u0142a Podstawowa w G\u0142u\u017cku",
+                "addr:country": "PL",
+                "addr:postcode": "06-521",
+                "addr:place": "G\u0142u\u017cek",
+                "addr:housenumber": "69",
+                "addr:teryt:sym_ul": 129538,
+                "contact:phone": "+48 236558006",
+                "contact:email": "spgluzek@op.pl",
+                "ref:regon": "001156566",
+                "ref:vatin": "PL5691633092",
+                "operator": "Gmina Wi\u015bniewo",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 92801,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.344679,
+                    53.065652
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 92801,
+                "official_name": "Szko\u0142a Podstawowa w Wi\u015bniewie",
+                "name": "Szko\u0142a Podstawowa w Wi\u015bniewie",
+                "addr:country": "PL",
+                "addr:postcode": "06-521",
+                "addr:place": "Wi\u015bniewo",
+                "addr:housenumber": "78",
+                "addr:teryt:sym_ul": 129700,
+                "contact:phone": "+48 236557086",
+                "contact:email": "gimwisniewo@op.pl",
+                "contact:website": "https:\/\/spwisniewo.edupage.org",
+                "ref:regon": "000559463",
+                "ref:vatin": "PL5691636601",
+                "operator": "Gmina Wi\u015bniewo",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

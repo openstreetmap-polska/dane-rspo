@@ -1,1 +1,97 @@
-{"type":"FeatureCollection","features":[{"id":79851,"type":"Feature","geometry":{"type":"Point","coordinates":[15.44135,51.5546]},"properties":{"isced:level":"1;2","ref:rspo":79851,"official_name":"Szko\u0142a Podstawowa im.adama Mickiewicza Ma\u0142omice","name":"Szko\u0142a Podstawowa im.adama Mickiewicza Ma\u0142omice","addr:country":"PL","addr:postcode":"67-320","addr:city":"Ma\u0142omice","addr:street":"ul. Plac Tysi\u0105clecia","addr:housenumber":"3","addr:teryt:simc":16411,"addr:teryt:sym_ul":988514,"contact:phone":"+48 683769156","contact:email":"malomice@o2.pl","contact:website":"http:\/\/sp-malomice.edupage.org","ref:regon":"971312070","ref:vatin":"PL9241845465","operator":"Gmina Ma\u0142omice","operator:type":"government","amenity":"school"}},{"id":80264,"type":"Feature","geometry":{"type":"Point","coordinates":[15.4542,51.55815]},"properties":{"ref:rspo":80264,"official_name":"Przedszkole im. Jana Brzechwy w Ma\u0142omicach","name":"Przedszkole","addr:country":"PL","addr:postcode":"67-320","addr:city":"Ma\u0142omice","addr:street":"ul. Boles\u0142awa Chrobrego","addr:housenumber":"8","addr:teryt:simc":1742,"addr:teryt:sym_ul":988514,"contact:phone":"+48 683769323","contact:email":"przedszkolemalomice8@wp.pl","contact:website":"http:\/\/www.ppmalomice.szkolnastrona.pl","ref:regon":"971312087","ref:vatin":"PL9241613789","operator":"Gmina Ma\u0142omice","operator:type":"government","amenity":"kindergarten"}},{"id":80271,"type":"Feature","geometry":{"type":"Point","coordinates":[15.48006,51.60318]},"properties":{"isced:level":"1;2","ref:rspo":80271,"official_name":"Szko\u0142a Podstawowa im. Jana Paw\u0142a II w Chichach","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"67-320","addr:place":"Chichy","addr:housenumber":"52","addr:teryt:sym_ul":911598,"contact:phone":"+48 683769038","contact:email":"spwchichach@wp.pl","ref:regon":"970551358","ref:vatin":"PL9241613766","operator":"Gmina Ma\u0142omice","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 79851,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.44135,
+                    51.5546
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 79851,
+                "official_name": "Szko\u0142a Podstawowa im.adama Mickiewicza Ma\u0142omice",
+                "name": "Szko\u0142a Podstawowa im.adama Mickiewicza Ma\u0142omice",
+                "addr:country": "PL",
+                "addr:postcode": "67-320",
+                "addr:city": "Ma\u0142omice",
+                "addr:street": "ul. Plac Tysi\u0105clecia",
+                "addr:housenumber": "3",
+                "addr:teryt:simc": 16411,
+                "addr:teryt:sym_ul": 988514,
+                "contact:phone": "+48 683769156",
+                "contact:email": "malomice@o2.pl",
+                "contact:website": "http:\/\/sp-malomice.edupage.org",
+                "ref:regon": "971312070",
+                "ref:vatin": "PL9241845465",
+                "operator": "Gmina Ma\u0142omice",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 80264,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4542,
+                    51.55815
+                ]
+            },
+            "properties": {
+                "ref:rspo": 80264,
+                "official_name": "Przedszkole im. Jana Brzechwy w Ma\u0142omicach",
+                "name": "Przedszkole",
+                "addr:country": "PL",
+                "addr:postcode": "67-320",
+                "addr:city": "Ma\u0142omice",
+                "addr:street": "ul. Boles\u0142awa Chrobrego",
+                "addr:housenumber": "8",
+                "addr:teryt:simc": 1742,
+                "addr:teryt:sym_ul": 988514,
+                "contact:phone": "+48 683769323",
+                "contact:email": "przedszkolemalomice8@wp.pl",
+                "contact:website": "http:\/\/www.ppmalomice.szkolnastrona.pl",
+                "ref:regon": "971312087",
+                "ref:vatin": "PL9241613789",
+                "operator": "Gmina Ma\u0142omice",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 80271,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.48006,
+                    51.60318
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 80271,
+                "official_name": "Szko\u0142a Podstawowa im. Jana Paw\u0142a II w Chichach",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "67-320",
+                "addr:place": "Chichy",
+                "addr:housenumber": "52",
+                "addr:teryt:sym_ul": 911598,
+                "contact:phone": "+48 683769038",
+                "contact:email": "spwchichach@wp.pl",
+                "ref:regon": "970551358",
+                "ref:vatin": "PL9241613766",
+                "operator": "Gmina Ma\u0142omice",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

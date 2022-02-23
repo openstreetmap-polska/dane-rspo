@@ -1,1 +1,219 @@
-{"type":"FeatureCollection","features":[{"id":41914,"type":"Feature","geometry":{"type":"Point","coordinates":[18.12901,52.8596999]},"properties":{"ref:rspo":41914,"official_name":"Zesp\u00f3\u0142 Plac\u00f3wek O\u015bwiatowych","name":"Zesp\u00f3\u0142 Plac\u00f3wek O\u015bwiatowych","addr:country":"PL","addr:postcode":"88-180","addr:city":"Tuczno","addr:street":"ul. Pakoska","addr:housenumber":"33","addr:teryt:simc":15562,"addr:teryt:sym_ul":100470,"contact:phone":"+48 523519879","contact:email":"zpotuczno@op.pl","ref:regon":"341340938","operator":"Gmina Z\u0142otniki Kujawskie","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 55772;55773"}},{"id":55772,"type":"Feature","geometry":{"type":"Point","coordinates":[18.12901,52.8596699]},"properties":{"isced:level":"1;2","ref:rspo":55772,"official_name":"Szko\u0142a Podstawowa im. Tadeusza Ko\u015bciuszki w Tucznie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"88-180","addr:city":"Tuczno","addr:street":"ul. Pakoska","addr:housenumber":"33","addr:teryt:simc":15562,"addr:teryt:sym_ul":100470,"contact:phone":"+48 523519879","contact:email":"zpotuczno@op.pl","ref:regon":"001155271","ref:vatin":"PL5562349839","operator":"Gmina Z\u0142otniki Kujawskie","operator:type":"government","amenity":"school","note":"Parent RSPO: 41914"}},{"id":55773,"type":"Feature","geometry":{"type":"Point","coordinates":[18.12901,52.859639900000005]},"properties":{"ref:rspo":55773,"official_name":"Przedszkole Publiczne w Tucznie","name":"Przedszkole Publiczne w Tucznie","addr:country":"PL","addr:postcode":"88-180","addr:city":"Tuczno","addr:street":"ul. Pakoska","addr:housenumber":"33","addr:teryt:simc":15562,"addr:teryt:sym_ul":100470,"contact:phone":"+48 523519879","contact:email":"zpotuczno@op.pl","ref:regon":"093136690","ref:vatin":"PL5562349650","operator":"Gmina Z\u0142otniki Kujawskie","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 41914"}},{"id":55779,"type":"Feature","geometry":{"type":"Point","coordinates":[18.1467223,52.898156]},"properties":{"ref:rspo":55779,"official_name":"Przedszkole Publiczne \"Kujawiaczek\"","name":"Przedszkole Publiczne \"Kujawiaczek\"","addr:country":"PL","addr:postcode":"88-180","addr:city":"Z\u0142otniki Kujawskie","addr:street":"ul. Stra\u017cacka","addr:housenumber":"9","addr:teryt:simc":21271,"addr:teryt:sym_ul":100492,"contact:phone":"+48 523517134","contact:email":"przedszkolezk@inetria.eu","ref:regon":"093136684","ref:vatin":"PL5562349590","operator":"Gmina Z\u0142otniki Kujawskie","operator:type":"government","amenity":"kindergarten"}},{"id":55764,"type":"Feature","geometry":{"type":"Point","coordinates":[18.15622,52.89983]},"properties":{"isced:level":"1;2","ref:rspo":55764,"official_name":"Szko\u0142a Podstawowa im. Karola Urba\u0144skiego","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"88-180","addr:city":"Z\u0142otniki Kujawskie","addr:street":"ul. Powsta\u0144c\u00f3w Wielkopolskich","addr:housenumber":"3","addr:teryt:simc":17377,"addr:teryt:sym_ul":100492,"contact:phone":"+48 523517129","contact:email":"gimzlot@wp.pl","ref:regon":"000273229","ref:vatin":"PL5562349762","operator":"Gmina Z\u0142otniki Kujawskie","operator:type":"government","amenity":"school"}},{"id":55770,"type":"Feature","geometry":{"type":"Point","coordinates":[18.072542,52.9080949]},"properties":{"isced:level":"1;2","ref:rspo":55770,"official_name":"Szko\u0142a Podstawowa Stowarzyszenia Przyjaci\u00f3\u0142 Szk\u00f3\u0142 Katolickich im. Kardyna\u0142a Stefana Wyszy\u0144skiego","name":"Szko\u0142a Podstawowa Stowarzyszenia Przyjaci\u00f3\u0142 Szk\u00f3\u0142 Katolickich","addr:country":"PL","addr:postcode":"88-180","addr:place":"Lisewo Ko\u015bcielne","addr:housenumber":"33","addr:teryt:sym_ul":100345,"contact:phone":"+48 523517520","contact:email":"sp.lisewo@spsk.edu.pl","ref:regon":"341343865","ref:vatin":"PL5562724007","operator":"Stowarzyszenie Przyjaci\u00f3\u0142 Szk\u00f3\u0142 Katolickich","operator:type":"ngo","amenity":"school"}},{"id":55765,"type":"Feature","geometry":{"type":"Point","coordinates":[18.149766,52.91917]},"properties":{"isced:level":"1;2","ref:rspo":55765,"official_name":"Szko\u0142a Podstawowa w Gniewk\u00f3wcu","name":"Szko\u0142a Podstawowa w Gniewk\u00f3wcu","addr:country":"PL","addr:postcode":"88-180","addr:place":"Gniewk\u00f3wiec","addr:housenumber":"25","addr:teryt:sym_ul":100256,"contact:phone":"+48 523517512","contact:email":"sp-gniewkowiec@gazeta.pl","contact:website":"http:\/\/gniewkowiec.pl","ref:regon":"001155319","ref:vatin":"PL5562349710","operator":"Gmina Z\u0142otniki Kujawskie","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 41914,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.12901,
+                    52.8596999
+                ]
+            },
+            "properties": {
+                "ref:rspo": 41914,
+                "official_name": "Zesp\u00f3\u0142 Plac\u00f3wek O\u015bwiatowych",
+                "name": "Zesp\u00f3\u0142 Plac\u00f3wek O\u015bwiatowych",
+                "addr:country": "PL",
+                "addr:postcode": "88-180",
+                "addr:city": "Tuczno",
+                "addr:street": "ul. Pakoska",
+                "addr:housenumber": "33",
+                "addr:teryt:simc": 15562,
+                "addr:teryt:sym_ul": 100470,
+                "contact:phone": "+48 523519879",
+                "contact:email": "zpotuczno@op.pl",
+                "ref:regon": "341340938",
+                "operator": "Gmina Z\u0142otniki Kujawskie",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 55772;55773"
+            }
+        },
+        {
+            "id": 55772,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.12901,
+                    52.8596699
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 55772,
+                "official_name": "Szko\u0142a Podstawowa im. Tadeusza Ko\u015bciuszki w Tucznie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "88-180",
+                "addr:city": "Tuczno",
+                "addr:street": "ul. Pakoska",
+                "addr:housenumber": "33",
+                "addr:teryt:simc": 15562,
+                "addr:teryt:sym_ul": 100470,
+                "contact:phone": "+48 523519879",
+                "contact:email": "zpotuczno@op.pl",
+                "ref:regon": "001155271",
+                "ref:vatin": "PL5562349839",
+                "operator": "Gmina Z\u0142otniki Kujawskie",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 41914"
+            }
+        },
+        {
+            "id": 55773,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.12901,
+                    52.859639900000005
+                ]
+            },
+            "properties": {
+                "ref:rspo": 55773,
+                "official_name": "Przedszkole Publiczne w Tucznie",
+                "name": "Przedszkole Publiczne w Tucznie",
+                "addr:country": "PL",
+                "addr:postcode": "88-180",
+                "addr:city": "Tuczno",
+                "addr:street": "ul. Pakoska",
+                "addr:housenumber": "33",
+                "addr:teryt:simc": 15562,
+                "addr:teryt:sym_ul": 100470,
+                "contact:phone": "+48 523519879",
+                "contact:email": "zpotuczno@op.pl",
+                "ref:regon": "093136690",
+                "ref:vatin": "PL5562349650",
+                "operator": "Gmina Z\u0142otniki Kujawskie",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 41914"
+            }
+        },
+        {
+            "id": 55779,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.1467223,
+                    52.898156
+                ]
+            },
+            "properties": {
+                "ref:rspo": 55779,
+                "official_name": "Przedszkole Publiczne \"Kujawiaczek\"",
+                "name": "Przedszkole Publiczne \"Kujawiaczek\"",
+                "addr:country": "PL",
+                "addr:postcode": "88-180",
+                "addr:city": "Z\u0142otniki Kujawskie",
+                "addr:street": "ul. Stra\u017cacka",
+                "addr:housenumber": "9",
+                "addr:teryt:simc": 21271,
+                "addr:teryt:sym_ul": 100492,
+                "contact:phone": "+48 523517134",
+                "contact:email": "przedszkolezk@inetria.eu",
+                "ref:regon": "093136684",
+                "ref:vatin": "PL5562349590",
+                "operator": "Gmina Z\u0142otniki Kujawskie",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 55764,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.15622,
+                    52.89983
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 55764,
+                "official_name": "Szko\u0142a Podstawowa im. Karola Urba\u0144skiego",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "88-180",
+                "addr:city": "Z\u0142otniki Kujawskie",
+                "addr:street": "ul. Powsta\u0144c\u00f3w Wielkopolskich",
+                "addr:housenumber": "3",
+                "addr:teryt:simc": 17377,
+                "addr:teryt:sym_ul": 100492,
+                "contact:phone": "+48 523517129",
+                "contact:email": "gimzlot@wp.pl",
+                "ref:regon": "000273229",
+                "ref:vatin": "PL5562349762",
+                "operator": "Gmina Z\u0142otniki Kujawskie",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 55770,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.072542,
+                    52.9080949
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 55770,
+                "official_name": "Szko\u0142a Podstawowa Stowarzyszenia Przyjaci\u00f3\u0142 Szk\u00f3\u0142 Katolickich im. Kardyna\u0142a Stefana Wyszy\u0144skiego",
+                "name": "Szko\u0142a Podstawowa Stowarzyszenia Przyjaci\u00f3\u0142 Szk\u00f3\u0142 Katolickich",
+                "addr:country": "PL",
+                "addr:postcode": "88-180",
+                "addr:place": "Lisewo Ko\u015bcielne",
+                "addr:housenumber": "33",
+                "addr:teryt:sym_ul": 100345,
+                "contact:phone": "+48 523517520",
+                "contact:email": "sp.lisewo@spsk.edu.pl",
+                "ref:regon": "341343865",
+                "ref:vatin": "PL5562724007",
+                "operator": "Stowarzyszenie Przyjaci\u00f3\u0142 Szk\u00f3\u0142 Katolickich",
+                "operator:type": "ngo",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 55765,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.149766,
+                    52.91917
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 55765,
+                "official_name": "Szko\u0142a Podstawowa w Gniewk\u00f3wcu",
+                "name": "Szko\u0142a Podstawowa w Gniewk\u00f3wcu",
+                "addr:country": "PL",
+                "addr:postcode": "88-180",
+                "addr:place": "Gniewk\u00f3wiec",
+                "addr:housenumber": "25",
+                "addr:teryt:sym_ul": 100256,
+                "contact:phone": "+48 523517512",
+                "contact:email": "sp-gniewkowiec@gazeta.pl",
+                "contact:website": "http:\/\/gniewkowiec.pl",
+                "ref:regon": "001155319",
+                "ref:vatin": "PL5562349710",
+                "operator": "Gmina Z\u0142otniki Kujawskie",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

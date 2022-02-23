@@ -1,1 +1,160 @@
-{"type":"FeatureCollection","features":[{"id":79097,"type":"Feature","geometry":{"type":"Point","coordinates":[17.948,50.86378]},"properties":{"isced:level":"1;2","ref:rspo":79097,"official_name":"Publiczna Szko\u0142a Podstawowa w Murowie","name":"Publiczna Szko\u0142a Podstawowa w Murowie","addr:country":"PL","addr:postcode":"46-030","addr:city":"Mur\u00f3w","addr:street":"ul. Wolno\u015bci","addr:housenumber":"22","addr:teryt:simc":24687,"addr:teryt:sym_ul":499270,"contact:phone":"+48 774214027","contact:email":"pspmurow@murow.pl","ref:regon":"000272477","ref:vatin":"PL9910172783","operator":"Gmina Mur\u00f3w","operator:type":"government","amenity":"school"}},{"id":79392,"type":"Feature","geometry":{"type":"Point","coordinates":[18.05988,50.86469]},"properties":{"ref:rspo":79392,"official_name":"Przedszkole Publiczne w Starych Budkowicach","name":"Przedszkole Publiczne w Starych Budkowicach","addr:country":"PL","addr:postcode":"46-030","addr:city":"Stare Budkowice","addr:street":"ul. Wo\u0142czy\u0144ska","addr:housenumber":"2","addr:teryt:simc":24708,"addr:teryt:sym_ul":499353,"contact:phone":"+48 774210024","contact:email":"ppbudkowice@murow.pl","ref:regon":"530582931","ref:vatin":"PL9910183172","operator":"Gmina Mur\u00f3w","operator:type":"government","amenity":"kindergarten"}},{"id":79099,"type":"Feature","geometry":{"type":"Point","coordinates":[18.06089,50.8659]},"properties":{"isced:level":"1;2","ref:rspo":79099,"official_name":"Publiczna Szko\u0142a Podstawowa w Starych Budkowicach","name":"Publiczna Szko\u0142a Podstawowa w Starych Budkowicach","addr:country":"PL","addr:postcode":"46-030","addr:city":"Stare Budkowice","addr:street":"ul. Wo\u0142czy\u0144ska","addr:housenumber":"14","addr:teryt:simc":24708,"addr:teryt:sym_ul":499353,"contact:phone":"+48 774210012","contact:email":"pspbudkowice@murow.pl","ref:regon":"001182138","ref:vatin":"PL9910173096","operator":"Gmina Mur\u00f3w","operator:type":"government","amenity":"school"}},{"id":196390,"type":"Feature","geometry":{"type":"Point","coordinates":[17.98594,50.86803]},"properties":{"isced:level":"1;2","ref:rspo":196390,"official_name":"Publiczna Szko\u0142a Podstawowa w Zagwi\u017adziu","name":"Publiczna Szko\u0142a Podstawowa w Zagwi\u017adziu","addr:country":"PL","addr:postcode":"46-030","addr:city":"Zagwi\u017adzie","addr:street":"ul. Lipowa","addr:housenumber":"68","addr:teryt:simc":11139,"addr:teryt:sym_ul":499399,"contact:phone":"+48 774214503","contact:email":"pgzagwizdzie@murow.pl","contact:website":"http:\/\/www.pgzagwizdzie.murow.pl","ref:regon":"367991302","ref:vatin":"PL9910514172","operator":"Gmina Mur\u00f3w","operator:type":"government","amenity":"school"}},{"id":83020,"type":"Feature","geometry":{"type":"Point","coordinates":[17.97947,50.87109]},"properties":{"ref:rspo":83020,"official_name":"Przedszkole Publiczne w Murowie","name":"Przedszkole Publiczne w Murowie","addr:country":"PL","addr:postcode":"46-030","addr:city":"Mur\u00f3w","addr:street":"ul. Lipowa","addr:housenumber":"17","addr:teryt:simc":11139,"addr:teryt:sym_ul":499270,"contact:phone":"+48 774214006","contact:email":"ppmurow@murow.pl","contact:website":"http:\/\/ppmurow.murow.pl","ref:regon":"530582954","ref:vatin":"PL9910173127","operator":"Gmina Mur\u00f3w","operator:type":"government","amenity":"kindergarten"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 79097,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.948,
+                    50.86378
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 79097,
+                "official_name": "Publiczna Szko\u0142a Podstawowa w Murowie",
+                "name": "Publiczna Szko\u0142a Podstawowa w Murowie",
+                "addr:country": "PL",
+                "addr:postcode": "46-030",
+                "addr:city": "Mur\u00f3w",
+                "addr:street": "ul. Wolno\u015bci",
+                "addr:housenumber": "22",
+                "addr:teryt:simc": 24687,
+                "addr:teryt:sym_ul": 499270,
+                "contact:phone": "+48 774214027",
+                "contact:email": "pspmurow@murow.pl",
+                "ref:regon": "000272477",
+                "ref:vatin": "PL9910172783",
+                "operator": "Gmina Mur\u00f3w",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 79392,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.05988,
+                    50.86469
+                ]
+            },
+            "properties": {
+                "ref:rspo": 79392,
+                "official_name": "Przedszkole Publiczne w Starych Budkowicach",
+                "name": "Przedszkole Publiczne w Starych Budkowicach",
+                "addr:country": "PL",
+                "addr:postcode": "46-030",
+                "addr:city": "Stare Budkowice",
+                "addr:street": "ul. Wo\u0142czy\u0144ska",
+                "addr:housenumber": "2",
+                "addr:teryt:simc": 24708,
+                "addr:teryt:sym_ul": 499353,
+                "contact:phone": "+48 774210024",
+                "contact:email": "ppbudkowice@murow.pl",
+                "ref:regon": "530582931",
+                "ref:vatin": "PL9910183172",
+                "operator": "Gmina Mur\u00f3w",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 79099,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.06089,
+                    50.8659
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 79099,
+                "official_name": "Publiczna Szko\u0142a Podstawowa w Starych Budkowicach",
+                "name": "Publiczna Szko\u0142a Podstawowa w Starych Budkowicach",
+                "addr:country": "PL",
+                "addr:postcode": "46-030",
+                "addr:city": "Stare Budkowice",
+                "addr:street": "ul. Wo\u0142czy\u0144ska",
+                "addr:housenumber": "14",
+                "addr:teryt:simc": 24708,
+                "addr:teryt:sym_ul": 499353,
+                "contact:phone": "+48 774210012",
+                "contact:email": "pspbudkowice@murow.pl",
+                "ref:regon": "001182138",
+                "ref:vatin": "PL9910173096",
+                "operator": "Gmina Mur\u00f3w",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 196390,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.98594,
+                    50.86803
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 196390,
+                "official_name": "Publiczna Szko\u0142a Podstawowa w Zagwi\u017adziu",
+                "name": "Publiczna Szko\u0142a Podstawowa w Zagwi\u017adziu",
+                "addr:country": "PL",
+                "addr:postcode": "46-030",
+                "addr:city": "Zagwi\u017adzie",
+                "addr:street": "ul. Lipowa",
+                "addr:housenumber": "68",
+                "addr:teryt:simc": 11139,
+                "addr:teryt:sym_ul": 499399,
+                "contact:phone": "+48 774214503",
+                "contact:email": "pgzagwizdzie@murow.pl",
+                "contact:website": "http:\/\/www.pgzagwizdzie.murow.pl",
+                "ref:regon": "367991302",
+                "ref:vatin": "PL9910514172",
+                "operator": "Gmina Mur\u00f3w",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 83020,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.97947,
+                    50.87109
+                ]
+            },
+            "properties": {
+                "ref:rspo": 83020,
+                "official_name": "Przedszkole Publiczne w Murowie",
+                "name": "Przedszkole Publiczne w Murowie",
+                "addr:country": "PL",
+                "addr:postcode": "46-030",
+                "addr:city": "Mur\u00f3w",
+                "addr:street": "ul. Lipowa",
+                "addr:housenumber": "17",
+                "addr:teryt:simc": 11139,
+                "addr:teryt:sym_ul": 499270,
+                "contact:phone": "+48 774214006",
+                "contact:email": "ppmurow@murow.pl",
+                "contact:website": "http:\/\/ppmurow.murow.pl",
+                "ref:regon": "530582954",
+                "ref:vatin": "PL9910173127",
+                "operator": "Gmina Mur\u00f3w",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        }
+    ]
+}

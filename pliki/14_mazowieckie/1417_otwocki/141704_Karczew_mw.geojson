@@ -1,1 +1,678 @@
-{"type":"FeatureCollection","features":[{"id":7088,"type":"Feature","geometry":{"type":"Point","coordinates":[21.2331519,52.0054139]},"properties":{"isced:level":"1;2","ref:rspo":7088,"official_name":"Szko\u0142a Podstawowa w Glinkach","name":"Szko\u0142a Podstawowa w Glinkach","addr:country":"PL","addr:postcode":"05-480","addr:place":"Glinki","addr:housenumber":"50","addr:teryt:sym_ul":3441,"contact:phone":"+48 227806489","contact:email":"sekretariat@spglinki.pl","contact:website":"http:\/\/www.spglinki.pl","ref:regon":"001307338","ref:vatin":"PL5321746042","operator":"Gmina Karczew","operator:type":"government","amenity":"school"}},{"id":7228,"type":"Feature","geometry":{"type":"Point","coordinates":[21.2855509,52.0251309]},"properties":{"ref:rspo":7228,"official_name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w Sobiekursku","name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w Sobiekursku","addr:country":"PL","addr:postcode":"05-480","addr:place":"Sobiekursk","addr:housenumber":"36","addr:teryt:sym_ul":3642,"contact:phone":"+48 227806595","contact:email":"sekretariat@zsp-sobiekursk.pl","contact:website":"http:\/\/www.zsp-sobiekursk.pl","ref:regon":"015803457","ref:vatin":"PL5321869626","operator":"Gmina Karczew","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 14850;63407"}},{"id":14850,"type":"Feature","geometry":{"type":"Point","coordinates":[21.2855509,52.0251009]},"properties":{"ref:rspo":14850,"official_name":"Przedszkole w Sobiekursku","name":"Przedszkole w Sobiekursku","addr:country":"PL","addr:postcode":"05-480","addr:place":"Sobiekursk","addr:housenumber":"36","addr:teryt:sym_ul":3642,"contact:phone":"+48 227806595","contact:email":"sekretariat@zsp-sobiekursk.pl","contact:website":"http:\/\/www.zsp-sobiekursk.pl","ref:regon":"015803486","operator":"Gmina Karczew","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 7228"}},{"id":63407,"type":"Feature","geometry":{"type":"Point","coordinates":[21.2855509,52.0250709]},"properties":{"isced:level":"1;2","ref:rspo":63407,"official_name":"Szko\u0142a Podstawowa w Sobiekursku","name":"Szko\u0142a Podstawowa w Sobiekursku","addr:country":"PL","addr:postcode":"05-480","addr:place":"Sobiekursk","addr:housenumber":"36","addr:teryt:sym_ul":3642,"contact:phone":"+48 227806595","contact:email":"sekretariat@zsp-sobiekursk.pl","contact:website":"http:\/\/www.zsp-sobiekursk.pl","ref:regon":"015803546","operator":"Gmina Karczew","operator:type":"government","amenity":"school","note":"Parent RSPO: 7228"}},{"id":104462,"type":"Feature","geometry":{"type":"Point","coordinates":[21.363483,52.049152]},"properties":{"isced:level":"1;2","ref:rspo":104462,"official_name":"Szko\u0142a Podstawowa w Nadbrze\u017cu","name":"Szko\u0142a Podstawowa w Nadbrze\u017cu","addr:country":"PL","addr:postcode":"05-480","addr:city":"Nadbrze\u017c","addr:street":"ul. Szkolna","addr:housenumber":"4","addr:teryt:simc":21970,"addr:teryt:sym_ul":3553,"contact:phone":"+48 227806425","contact:email":"spnadbrzez@wp.pl","ref:regon":"146453560","operator":"Stowarzyszenie Rozwoju Wsi Nadbrze\u017c","operator:type":"ngo","amenity":"school"}},{"id":23653,"type":"Feature","geometry":{"type":"Point","coordinates":[21.2205571,52.0510126]},"properties":{"ref:rspo":23653,"official_name":"Niepubliczne Przedszkole \"Wise\u0142ka\"","name":"Niepubliczne Przedszkole \"Wise\u0142ka\"","addr:country":"PL","addr:postcode":"05-480","addr:place":"Nadbrze\u017c","addr:housenumber":"4","addr:teryt:sym_ul":3553,"contact:phone":"+48 227806425","contact:email":"spnadbrzez@wp.pl","ref:regon":"146329913","operator":"Stowarzyszenie Rozwoju Wsi Nadbrze\u017c","operator:type":"ngo","amenity":"kindergarten"}},{"id":196215,"type":"Feature","geometry":{"type":"Point","coordinates":[21.24754,52.0745999]},"properties":{"isced:level":"1;2","ref:rspo":196215,"official_name":"Szko\u0142a Podstawowa Nr 1 w Karczewie im. Boles\u0142awa Prusa","name":"Szko\u0142a Podstawowa Nr 1 w Karczewie","addr:country":"PL","addr:postcode":"05-480","addr:city":"Karczew","addr:street":"ul. Franciszka Bieli\u0144skiego","addr:housenumber":"7","addr:teryt:simc":1269,"addr:teryt:sym_ul":920500,"contact:phone":"+48 227806512","contact:email":"sekretariat@sp1karczew.pl","contact:website":"http:\/\/www.sp1.karczew.edu.pl","ref:regon":"367985827","ref:vatin":"PL5322071362","operator":"Gmina Karczew","operator:type":"government","amenity":"school"}},{"id":276173,"type":"Feature","geometry":{"type":"Point","coordinates":[21.24861,52.07498]},"properties":{"ref:rspo":276173,"official_name":"Kids First By Katarzyna Szulc","name":"Kids First By Katarzyna Szulc","addr:country":"PL","addr:postcode":"05-480","addr:city":"Karczew","addr:street":"ul. Widok","addr:housenumber":"4","addr:teryt:simc":24011,"addr:teryt:sym_ul":920500,"contact:email":"katarzyna.szulc@kidsfirst.edu.pl","contact:website":"http:\/\/www.kidsfirst.edu.pl","ref:regon":"387017331","operator":"Katarzyna Szulc","operator:type":"private","amenity":"kindergarten"}},{"id":276083,"type":"Feature","geometry":{"type":"Point","coordinates":[21.24926,52.07621]},"properties":{"isced:level":"1;2","ref:rspo":276083,"official_name":"Szko\u0142a Podstawowa Sokrates","name":"Szko\u0142a Podstawowa Sokrates","addr:country":"PL","addr:postcode":"05-480","addr:city":"Karczew","addr:street":"ul. Rynek Zygmunta Starego","addr:housenumber":"33","addr:teryt:simc":42179,"addr:teryt:sym_ul":920500,"contact:phone":"+48 570335554","contact:email":"sekretariat@esokrates.com","contact:website":"http:\/\/www.esokrates.com","ref:regon":"386985910","operator":"Lidia Kwiatkowska","operator:type":"private","amenity":"school"}},{"id":12631,"type":"Feature","geometry":{"type":"Point","coordinates":[21.24661,52.07746]},"properties":{"ref:rspo":12631,"official_name":"Przedszkole Nr 1 w Karczewie","name":"Przedszkole Nr 1 w Karczewie","addr:country":"PL","addr:postcode":"05-480","addr:city":"Karczew","addr:street":"ul. Bednarska","addr:housenumber":"2","addr:teryt:simc":956,"addr:teryt:sym_ul":920500,"contact:phone":"+48 227806423","contact:email":"gp1.karczew@gmail.com","contact:website":"http:\/\/www.gp1karczew.pl","ref:regon":"013000731","ref:vatin":"PL5321746065","operator":"Gmina Karczew","operator:type":"government","amenity":"kindergarten"}},{"id":133010,"type":"Feature","geometry":{"type":"Point","coordinates":[21.2486,52.0804199]},"properties":{"ref:rspo":133010,"official_name":"Niepubliczne Przedszkole \"Zielona Kraina\"","name":"Niepubliczne Przedszkole \"Zielona Kraina\"","addr:country":"PL","addr:postcode":"05-480","addr:city":"Karczew","addr:street":"ul. Gen. Stanis\u0142awa Maczka","addr:housenumber":"2","addr:teryt:simc":50705,"addr:teryt:sym_ul":920500,"contact:phone":"+48 664420650","contact:email":"ania_k84@poczta.fm","ref:regon":"366503708","operator":"Anna Semik","operator:type":"private","amenity":"kindergarten"}},{"id":106560,"type":"Feature","geometry":{"type":"Point","coordinates":[21.2482599,52.0825]},"properties":{"ref:rspo":106560,"official_name":"Prywatna Szko\u0142a Muzyczna I St. im. Henryka Wieniawskiego w Karczewie","name":"Prywatna Szko\u0142a Muzyczna I St.","addr:country":"PL","addr:postcode":"05-480","addr:city":"Karczew","addr:street":"ul. Bohater\u00f3w Westerplatte","addr:housenumber":"55","addr:teryt:simc":1681,"addr:teryt:sym_ul":920500,"ref:regon":"146475164","operator":"Konrad Kadlec","operator:type":"private","amenity":"music_school"}},{"id":7167,"type":"Feature","geometry":{"type":"Point","coordinates":[21.24928,52.08252]},"properties":{"isced:level":"1;2","ref:rspo":7167,"official_name":"Szko\u0142a Podstawowa Nr 2 w Karczewie","name":"Szko\u0142a Podstawowa Nr 2 w Karczewie","addr:country":"PL","addr:postcode":"05-480","addr:city":"Karczew","addr:street":"ul. Otwocka","addr:housenumber":"13","addr:teryt:simc":15465,"addr:teryt:sym_ul":920500,"contact:phone":"+48 227806097","contact:email":"sp2karczew@go2.pl","contact:website":"http:\/\/www.sp2karczew.edu.pl","ref:regon":"000263863","ref:vatin":"PL5321712853","operator":"Gmina Karczew","operator:type":"government","amenity":"school"}},{"id":7217,"type":"Feature","geometry":{"type":"Point","coordinates":[21.24299,52.08767]},"properties":{"ref:rspo":7217,"official_name":"Przedszkole Nr 3 w Karczewie","name":"Przedszkole Nr 3 w Karczewie","addr:country":"PL","addr:postcode":"05-480","addr:city":"Karczew","addr:street":"ul. ks. bp. W\u0142adys\u0142awa Mizio\u0142ka","addr:housenumber":"52","addr:teryt:simc":34221,"addr:teryt:sym_ul":920500,"contact:phone":"+48 227806124","contact:email":"gp3.karczew@gmail.com","contact:website":"http:\/\/www.gp3.przedszkolekarczew.pl","ref:regon":"013000719","ref:vatin":"PL5321744178","operator":"Gmina Karczew","operator:type":"government","amenity":"kindergarten"}},{"id":7224,"type":"Feature","geometry":{"type":"Point","coordinates":[21.23965,52.088]},"properties":{"ref:rspo":7224,"official_name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 w Karczewie","name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 w Karczewie","addr:country":"PL","addr:postcode":"05-480","addr:city":"Karczew","addr:street":"ul. ks. kard. Stefana Wyszy\u0144skiego","addr:housenumber":"4","addr:teryt:simc":25114,"addr:teryt:sym_ul":920500,"contact:phone":"+48 227882400","contact:email":"sekretariat@zskarczew.pl","contact:website":"http:\/\/www.zskarczew.edupage.org","ref:regon":"010104588","ref:vatin":"PL5321741412","operator":"Gmina Karczew","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 12875;12888"}},{"id":12875,"type":"Feature","geometry":{"type":"Point","coordinates":[21.23965,52.08797]},"properties":{"isced:level":"3","ref:rspo":12875,"official_name":"Bran\u017cowa Szko\u0142a I Stopnia","name":"Bran\u017cowa Szko\u0142a I Stopnia","addr:country":"PL","addr:postcode":"05-480","addr:city":"Karczew","addr:street":"ul. ks. kard. Stefana Wyszy\u0144skiego","addr:housenumber":"4","addr:teryt:simc":25114,"addr:teryt:sym_ul":920500,"contact:phone":"+48 227882400","contact:email":"sekretariat@zskarczew.pl","contact:website":"http:\/\/www.zskarczew.edupage.org","ref:regon":"015609962","operator":"Gmina Karczew","operator:type":"government","amenity":"school","note":"Parent RSPO: 7224"}},{"id":12888,"type":"Feature","geometry":{"type":"Point","coordinates":[21.23965,52.08794]},"properties":{"isced:level":"3","ref:rspo":12888,"official_name":"Technikum","name":"Technikum","addr:country":"PL","addr:postcode":"05-480","addr:city":"Karczew","addr:street":"ul. ks. kard. Stefana Wyszy\u0144skiego","addr:housenumber":"4","addr:teryt:simc":25114,"addr:teryt:sym_ul":920500,"contact:phone":"+48 227882400","contact:email":"sekretariat@zskarczew.pl","contact:website":"http:\/\/www.zskarczew.edupage.org","ref:regon":"015609933","operator":"Gmina Karczew","operator:type":"government","amenity":"school","note":"Parent RSPO: 7224"}},{"id":7207,"type":"Feature","geometry":{"type":"Point","coordinates":[21.27187,52.10957]},"properties":{"ref:rspo":7207,"official_name":"Przedszkole Nr 2 w Karczewie \"T\u0119czowa Kraina\"","name":"Przedszkole Nr 2 w Karczewie \"T\u0119czowa Kraina\"","addr:country":"PL","addr:postcode":"05-480","addr:city":"Karczew","addr:street":"ul. Miko\u0142aja Kopernika","addr:housenumber":"13","addr:teryt:simc":9282,"addr:teryt:sym_ul":920500,"contact:phone":"+48 227806484","contact:email":"gpnr2@onet.pl","contact:website":"http:\/\/www.gpnr2karczew.szkolnastrona.pl","ref:regon":"013000725","ref:vatin":"PL5321744161","operator":"Gmina Karczew","operator:type":"government","amenity":"kindergarten"}},{"id":7230,"type":"Feature","geometry":{"type":"Point","coordinates":[21.257185,52.11343]},"properties":{"ref:rspo":7230,"official_name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w Otwocku Wielkim","name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w Otwocku Wielkim","addr:country":"PL","addr:postcode":"05-480","addr:city":"Otwock Wielki","addr:street":"ul. Zamkowa","addr:housenumber":"4","addr:teryt:simc":25547,"addr:teryt:sym_ul":3607,"contact:phone":"+48 227806592","contact:email":"szkola@zsp-otwockwielki.pl","contact:website":"http:\/\/www.zsp-otwockwielki.pl","ref:regon":"015803463","ref:vatin":"PL5321869632","operator":"Gmina Karczew","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 15165;15216"}},{"id":12865,"type":"Feature","geometry":{"type":"Point","coordinates":[21.257185,52.1134]},"properties":{"ref:rspo":12865,"official_name":"Niepubliczne Przedszkole \"Plastu\u015b\"","name":"Niepubliczne Przedszkole \"Plastu\u015b\"","addr:country":"PL","addr:postcode":"05-480","addr:city":"Otwock Ma\u0142y","addr:street":"ul. Cz\u0119stochowska","addr:housenumber":"71","addr:teryt:simc":3458,"addr:teryt:sym_ul":3599,"contact:phone":"+48 227809942","contact:email":"bozena.zelazko@wp.pl","ref:regon":"146294497","ref:vatin":"PL5321026402","operator":"Bo\u017cenna \u017belazko","operator:type":"private","amenity":"kindergarten"}},{"id":15165,"type":"Feature","geometry":{"type":"Point","coordinates":[21.257185,52.11337]},"properties":{"ref:rspo":15165,"official_name":"Przedszkole w Otwocku Wielkim","name":"Przedszkole w Otwocku Wielkim","addr:country":"PL","addr:postcode":"05-480","addr:city":"Otwock Wielki","addr:street":"ul. Zamkowa","addr:housenumber":"4","addr:teryt:simc":25547,"addr:teryt:sym_ul":3607,"contact:phone":"+48 227806592","contact:email":"szkola@zsp-otwockwielki.pl","contact:website":"http:\/\/www.zsp-otwockwielki.pl","ref:regon":"015803470","operator":"Gmina Karczew","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 7230"}},{"id":15216,"type":"Feature","geometry":{"type":"Point","coordinates":[21.257185,52.11334]},"properties":{"isced:level":"1;2","ref:rspo":15216,"official_name":"Szko\u0142a Podstawowa w Otwocku Wielkim","name":"Szko\u0142a Podstawowa w Otwocku Wielkim","addr:country":"PL","addr:postcode":"05-480","addr:city":"Otwock Wielki","addr:street":"ul. Zamkowa","addr:housenumber":"4","addr:teryt:simc":25547,"addr:teryt:sym_ul":3607,"contact:phone":"+48 227806592","contact:email":"szkola@zsp-otwockwielki.pl","contact:website":"http:\/\/www.zsp-otwockwielki.pl","ref:regon":"015803523","operator":"Gmina Karczew","operator:type":"government","amenity":"school","note":"Parent RSPO: 7230"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 7088,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.2331519,
+                    52.0054139
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 7088,
+                "official_name": "Szko\u0142a Podstawowa w Glinkach",
+                "name": "Szko\u0142a Podstawowa w Glinkach",
+                "addr:country": "PL",
+                "addr:postcode": "05-480",
+                "addr:place": "Glinki",
+                "addr:housenumber": "50",
+                "addr:teryt:sym_ul": 3441,
+                "contact:phone": "+48 227806489",
+                "contact:email": "sekretariat@spglinki.pl",
+                "contact:website": "http:\/\/www.spglinki.pl",
+                "ref:regon": "001307338",
+                "ref:vatin": "PL5321746042",
+                "operator": "Gmina Karczew",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 7228,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.2855509,
+                    52.0251309
+                ]
+            },
+            "properties": {
+                "ref:rspo": 7228,
+                "official_name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w Sobiekursku",
+                "name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w Sobiekursku",
+                "addr:country": "PL",
+                "addr:postcode": "05-480",
+                "addr:place": "Sobiekursk",
+                "addr:housenumber": "36",
+                "addr:teryt:sym_ul": 3642,
+                "contact:phone": "+48 227806595",
+                "contact:email": "sekretariat@zsp-sobiekursk.pl",
+                "contact:website": "http:\/\/www.zsp-sobiekursk.pl",
+                "ref:regon": "015803457",
+                "ref:vatin": "PL5321869626",
+                "operator": "Gmina Karczew",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 14850;63407"
+            }
+        },
+        {
+            "id": 14850,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.2855509,
+                    52.0251009
+                ]
+            },
+            "properties": {
+                "ref:rspo": 14850,
+                "official_name": "Przedszkole w Sobiekursku",
+                "name": "Przedszkole w Sobiekursku",
+                "addr:country": "PL",
+                "addr:postcode": "05-480",
+                "addr:place": "Sobiekursk",
+                "addr:housenumber": "36",
+                "addr:teryt:sym_ul": 3642,
+                "contact:phone": "+48 227806595",
+                "contact:email": "sekretariat@zsp-sobiekursk.pl",
+                "contact:website": "http:\/\/www.zsp-sobiekursk.pl",
+                "ref:regon": "015803486",
+                "operator": "Gmina Karczew",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 7228"
+            }
+        },
+        {
+            "id": 63407,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.2855509,
+                    52.0250709
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 63407,
+                "official_name": "Szko\u0142a Podstawowa w Sobiekursku",
+                "name": "Szko\u0142a Podstawowa w Sobiekursku",
+                "addr:country": "PL",
+                "addr:postcode": "05-480",
+                "addr:place": "Sobiekursk",
+                "addr:housenumber": "36",
+                "addr:teryt:sym_ul": 3642,
+                "contact:phone": "+48 227806595",
+                "contact:email": "sekretariat@zsp-sobiekursk.pl",
+                "contact:website": "http:\/\/www.zsp-sobiekursk.pl",
+                "ref:regon": "015803546",
+                "operator": "Gmina Karczew",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 7228"
+            }
+        },
+        {
+            "id": 104462,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.363483,
+                    52.049152
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 104462,
+                "official_name": "Szko\u0142a Podstawowa w Nadbrze\u017cu",
+                "name": "Szko\u0142a Podstawowa w Nadbrze\u017cu",
+                "addr:country": "PL",
+                "addr:postcode": "05-480",
+                "addr:city": "Nadbrze\u017c",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "4",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 3553,
+                "contact:phone": "+48 227806425",
+                "contact:email": "spnadbrzez@wp.pl",
+                "ref:regon": "146453560",
+                "operator": "Stowarzyszenie Rozwoju Wsi Nadbrze\u017c",
+                "operator:type": "ngo",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 23653,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.2205571,
+                    52.0510126
+                ]
+            },
+            "properties": {
+                "ref:rspo": 23653,
+                "official_name": "Niepubliczne Przedszkole \"Wise\u0142ka\"",
+                "name": "Niepubliczne Przedszkole \"Wise\u0142ka\"",
+                "addr:country": "PL",
+                "addr:postcode": "05-480",
+                "addr:place": "Nadbrze\u017c",
+                "addr:housenumber": "4",
+                "addr:teryt:sym_ul": 3553,
+                "contact:phone": "+48 227806425",
+                "contact:email": "spnadbrzez@wp.pl",
+                "ref:regon": "146329913",
+                "operator": "Stowarzyszenie Rozwoju Wsi Nadbrze\u017c",
+                "operator:type": "ngo",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 196215,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.24754,
+                    52.0745999
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 196215,
+                "official_name": "Szko\u0142a Podstawowa Nr 1 w Karczewie im. Boles\u0142awa Prusa",
+                "name": "Szko\u0142a Podstawowa Nr 1 w Karczewie",
+                "addr:country": "PL",
+                "addr:postcode": "05-480",
+                "addr:city": "Karczew",
+                "addr:street": "ul. Franciszka Bieli\u0144skiego",
+                "addr:housenumber": "7",
+                "addr:teryt:simc": 1269,
+                "addr:teryt:sym_ul": 920500,
+                "contact:phone": "+48 227806512",
+                "contact:email": "sekretariat@sp1karczew.pl",
+                "contact:website": "http:\/\/www.sp1.karczew.edu.pl",
+                "ref:regon": "367985827",
+                "ref:vatin": "PL5322071362",
+                "operator": "Gmina Karczew",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 276173,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.24861,
+                    52.07498
+                ]
+            },
+            "properties": {
+                "ref:rspo": 276173,
+                "official_name": "Kids First By Katarzyna Szulc",
+                "name": "Kids First By Katarzyna Szulc",
+                "addr:country": "PL",
+                "addr:postcode": "05-480",
+                "addr:city": "Karczew",
+                "addr:street": "ul. Widok",
+                "addr:housenumber": "4",
+                "addr:teryt:simc": 24011,
+                "addr:teryt:sym_ul": 920500,
+                "contact:email": "katarzyna.szulc@kidsfirst.edu.pl",
+                "contact:website": "http:\/\/www.kidsfirst.edu.pl",
+                "ref:regon": "387017331",
+                "operator": "Katarzyna Szulc",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 276083,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.24926,
+                    52.07621
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 276083,
+                "official_name": "Szko\u0142a Podstawowa Sokrates",
+                "name": "Szko\u0142a Podstawowa Sokrates",
+                "addr:country": "PL",
+                "addr:postcode": "05-480",
+                "addr:city": "Karczew",
+                "addr:street": "ul. Rynek Zygmunta Starego",
+                "addr:housenumber": "33",
+                "addr:teryt:simc": 42179,
+                "addr:teryt:sym_ul": 920500,
+                "contact:phone": "+48 570335554",
+                "contact:email": "sekretariat@esokrates.com",
+                "contact:website": "http:\/\/www.esokrates.com",
+                "ref:regon": "386985910",
+                "operator": "Lidia Kwiatkowska",
+                "operator:type": "private",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 12631,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.24661,
+                    52.07746
+                ]
+            },
+            "properties": {
+                "ref:rspo": 12631,
+                "official_name": "Przedszkole Nr 1 w Karczewie",
+                "name": "Przedszkole Nr 1 w Karczewie",
+                "addr:country": "PL",
+                "addr:postcode": "05-480",
+                "addr:city": "Karczew",
+                "addr:street": "ul. Bednarska",
+                "addr:housenumber": "2",
+                "addr:teryt:simc": 956,
+                "addr:teryt:sym_ul": 920500,
+                "contact:phone": "+48 227806423",
+                "contact:email": "gp1.karczew@gmail.com",
+                "contact:website": "http:\/\/www.gp1karczew.pl",
+                "ref:regon": "013000731",
+                "ref:vatin": "PL5321746065",
+                "operator": "Gmina Karczew",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 133010,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.2486,
+                    52.0804199
+                ]
+            },
+            "properties": {
+                "ref:rspo": 133010,
+                "official_name": "Niepubliczne Przedszkole \"Zielona Kraina\"",
+                "name": "Niepubliczne Przedszkole \"Zielona Kraina\"",
+                "addr:country": "PL",
+                "addr:postcode": "05-480",
+                "addr:city": "Karczew",
+                "addr:street": "ul. Gen. Stanis\u0142awa Maczka",
+                "addr:housenumber": "2",
+                "addr:teryt:simc": 50705,
+                "addr:teryt:sym_ul": 920500,
+                "contact:phone": "+48 664420650",
+                "contact:email": "ania_k84@poczta.fm",
+                "ref:regon": "366503708",
+                "operator": "Anna Semik",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 106560,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.2482599,
+                    52.0825
+                ]
+            },
+            "properties": {
+                "ref:rspo": 106560,
+                "official_name": "Prywatna Szko\u0142a Muzyczna I St. im. Henryka Wieniawskiego w Karczewie",
+                "name": "Prywatna Szko\u0142a Muzyczna I St.",
+                "addr:country": "PL",
+                "addr:postcode": "05-480",
+                "addr:city": "Karczew",
+                "addr:street": "ul. Bohater\u00f3w Westerplatte",
+                "addr:housenumber": "55",
+                "addr:teryt:simc": 1681,
+                "addr:teryt:sym_ul": 920500,
+                "ref:regon": "146475164",
+                "operator": "Konrad Kadlec",
+                "operator:type": "private",
+                "amenity": "music_school"
+            }
+        },
+        {
+            "id": 7167,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.24928,
+                    52.08252
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 7167,
+                "official_name": "Szko\u0142a Podstawowa Nr 2 w Karczewie",
+                "name": "Szko\u0142a Podstawowa Nr 2 w Karczewie",
+                "addr:country": "PL",
+                "addr:postcode": "05-480",
+                "addr:city": "Karczew",
+                "addr:street": "ul. Otwocka",
+                "addr:housenumber": "13",
+                "addr:teryt:simc": 15465,
+                "addr:teryt:sym_ul": 920500,
+                "contact:phone": "+48 227806097",
+                "contact:email": "sp2karczew@go2.pl",
+                "contact:website": "http:\/\/www.sp2karczew.edu.pl",
+                "ref:regon": "000263863",
+                "ref:vatin": "PL5321712853",
+                "operator": "Gmina Karczew",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 7217,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.24299,
+                    52.08767
+                ]
+            },
+            "properties": {
+                "ref:rspo": 7217,
+                "official_name": "Przedszkole Nr 3 w Karczewie",
+                "name": "Przedszkole Nr 3 w Karczewie",
+                "addr:country": "PL",
+                "addr:postcode": "05-480",
+                "addr:city": "Karczew",
+                "addr:street": "ul. ks. bp. W\u0142adys\u0142awa Mizio\u0142ka",
+                "addr:housenumber": "52",
+                "addr:teryt:simc": 34221,
+                "addr:teryt:sym_ul": 920500,
+                "contact:phone": "+48 227806124",
+                "contact:email": "gp3.karczew@gmail.com",
+                "contact:website": "http:\/\/www.gp3.przedszkolekarczew.pl",
+                "ref:regon": "013000719",
+                "ref:vatin": "PL5321744178",
+                "operator": "Gmina Karczew",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 7224,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.23965,
+                    52.088
+                ]
+            },
+            "properties": {
+                "ref:rspo": 7224,
+                "official_name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 w Karczewie",
+                "name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 w Karczewie",
+                "addr:country": "PL",
+                "addr:postcode": "05-480",
+                "addr:city": "Karczew",
+                "addr:street": "ul. ks. kard. Stefana Wyszy\u0144skiego",
+                "addr:housenumber": "4",
+                "addr:teryt:simc": 25114,
+                "addr:teryt:sym_ul": 920500,
+                "contact:phone": "+48 227882400",
+                "contact:email": "sekretariat@zskarczew.pl",
+                "contact:website": "http:\/\/www.zskarczew.edupage.org",
+                "ref:regon": "010104588",
+                "ref:vatin": "PL5321741412",
+                "operator": "Gmina Karczew",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 12875;12888"
+            }
+        },
+        {
+            "id": 12875,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.23965,
+                    52.08797
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 12875,
+                "official_name": "Bran\u017cowa Szko\u0142a I Stopnia",
+                "name": "Bran\u017cowa Szko\u0142a I Stopnia",
+                "addr:country": "PL",
+                "addr:postcode": "05-480",
+                "addr:city": "Karczew",
+                "addr:street": "ul. ks. kard. Stefana Wyszy\u0144skiego",
+                "addr:housenumber": "4",
+                "addr:teryt:simc": 25114,
+                "addr:teryt:sym_ul": 920500,
+                "contact:phone": "+48 227882400",
+                "contact:email": "sekretariat@zskarczew.pl",
+                "contact:website": "http:\/\/www.zskarczew.edupage.org",
+                "ref:regon": "015609962",
+                "operator": "Gmina Karczew",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 7224"
+            }
+        },
+        {
+            "id": 12888,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.23965,
+                    52.08794
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 12888,
+                "official_name": "Technikum",
+                "name": "Technikum",
+                "addr:country": "PL",
+                "addr:postcode": "05-480",
+                "addr:city": "Karczew",
+                "addr:street": "ul. ks. kard. Stefana Wyszy\u0144skiego",
+                "addr:housenumber": "4",
+                "addr:teryt:simc": 25114,
+                "addr:teryt:sym_ul": 920500,
+                "contact:phone": "+48 227882400",
+                "contact:email": "sekretariat@zskarczew.pl",
+                "contact:website": "http:\/\/www.zskarczew.edupage.org",
+                "ref:regon": "015609933",
+                "operator": "Gmina Karczew",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 7224"
+            }
+        },
+        {
+            "id": 7207,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.27187,
+                    52.10957
+                ]
+            },
+            "properties": {
+                "ref:rspo": 7207,
+                "official_name": "Przedszkole Nr 2 w Karczewie \"T\u0119czowa Kraina\"",
+                "name": "Przedszkole Nr 2 w Karczewie \"T\u0119czowa Kraina\"",
+                "addr:country": "PL",
+                "addr:postcode": "05-480",
+                "addr:city": "Karczew",
+                "addr:street": "ul. Miko\u0142aja Kopernika",
+                "addr:housenumber": "13",
+                "addr:teryt:simc": 9282,
+                "addr:teryt:sym_ul": 920500,
+                "contact:phone": "+48 227806484",
+                "contact:email": "gpnr2@onet.pl",
+                "contact:website": "http:\/\/www.gpnr2karczew.szkolnastrona.pl",
+                "ref:regon": "013000725",
+                "ref:vatin": "PL5321744161",
+                "operator": "Gmina Karczew",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 7230,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.257185,
+                    52.11343
+                ]
+            },
+            "properties": {
+                "ref:rspo": 7230,
+                "official_name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w Otwocku Wielkim",
+                "name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w Otwocku Wielkim",
+                "addr:country": "PL",
+                "addr:postcode": "05-480",
+                "addr:city": "Otwock Wielki",
+                "addr:street": "ul. Zamkowa",
+                "addr:housenumber": "4",
+                "addr:teryt:simc": 25547,
+                "addr:teryt:sym_ul": 3607,
+                "contact:phone": "+48 227806592",
+                "contact:email": "szkola@zsp-otwockwielki.pl",
+                "contact:website": "http:\/\/www.zsp-otwockwielki.pl",
+                "ref:regon": "015803463",
+                "ref:vatin": "PL5321869632",
+                "operator": "Gmina Karczew",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 15165;15216"
+            }
+        },
+        {
+            "id": 12865,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.257185,
+                    52.1134
+                ]
+            },
+            "properties": {
+                "ref:rspo": 12865,
+                "official_name": "Niepubliczne Przedszkole \"Plastu\u015b\"",
+                "name": "Niepubliczne Przedszkole \"Plastu\u015b\"",
+                "addr:country": "PL",
+                "addr:postcode": "05-480",
+                "addr:city": "Otwock Ma\u0142y",
+                "addr:street": "ul. Cz\u0119stochowska",
+                "addr:housenumber": "71",
+                "addr:teryt:simc": 3458,
+                "addr:teryt:sym_ul": 3599,
+                "contact:phone": "+48 227809942",
+                "contact:email": "bozena.zelazko@wp.pl",
+                "ref:regon": "146294497",
+                "ref:vatin": "PL5321026402",
+                "operator": "Bo\u017cenna \u017belazko",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 15165,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.257185,
+                    52.11337
+                ]
+            },
+            "properties": {
+                "ref:rspo": 15165,
+                "official_name": "Przedszkole w Otwocku Wielkim",
+                "name": "Przedszkole w Otwocku Wielkim",
+                "addr:country": "PL",
+                "addr:postcode": "05-480",
+                "addr:city": "Otwock Wielki",
+                "addr:street": "ul. Zamkowa",
+                "addr:housenumber": "4",
+                "addr:teryt:simc": 25547,
+                "addr:teryt:sym_ul": 3607,
+                "contact:phone": "+48 227806592",
+                "contact:email": "szkola@zsp-otwockwielki.pl",
+                "contact:website": "http:\/\/www.zsp-otwockwielki.pl",
+                "ref:regon": "015803470",
+                "operator": "Gmina Karczew",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 7230"
+            }
+        },
+        {
+            "id": 15216,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.257185,
+                    52.11334
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 15216,
+                "official_name": "Szko\u0142a Podstawowa w Otwocku Wielkim",
+                "name": "Szko\u0142a Podstawowa w Otwocku Wielkim",
+                "addr:country": "PL",
+                "addr:postcode": "05-480",
+                "addr:city": "Otwock Wielki",
+                "addr:street": "ul. Zamkowa",
+                "addr:housenumber": "4",
+                "addr:teryt:simc": 25547,
+                "addr:teryt:sym_ul": 3607,
+                "contact:phone": "+48 227806592",
+                "contact:email": "szkola@zsp-otwockwielki.pl",
+                "contact:website": "http:\/\/www.zsp-otwockwielki.pl",
+                "ref:regon": "015803523",
+                "operator": "Gmina Karczew",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 7230"
+            }
+        }
+    ]
+}

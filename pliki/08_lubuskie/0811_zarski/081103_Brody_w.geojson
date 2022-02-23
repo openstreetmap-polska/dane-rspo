@@ -1,1 +1,101 @@
-{"type":"FeatureCollection","features":[{"id":85775,"type":"Feature","geometry":{"type":"Point","coordinates":[14.7732634,51.7886423]},"properties":{"ref:rspo":85775,"official_name":"Przedszkole Samorz\u0105dowe w Brodach","name":"Przedszkole Samorz\u0105dowe w Brodach","addr:country":"PL","addr:postcode":"68-343","addr:city":"Brody","addr:street":"ul. Traugutta","addr:housenumber":"11","addr:teryt:simc":22961,"addr:teryt:sym_ul":908030,"contact:phone":"+48 683712212","contact:email":"gimbrody@wp.pl","ref:regon":"080489668","ref:vatin":"PL9282065103","operator":"Gmina Brody","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 268306"}},{"id":268306,"type":"Feature","geometry":{"type":"Point","coordinates":[14.77049,51.79123]},"properties":{"ref:rspo":268306,"official_name":"Zesp\u00f3\u0142 Szkolno - Przedszkolny w Brodach","name":"Zesp\u00f3\u0142 Szkolno - Przedszkolny w Brodach","addr:country":"PL","addr:postcode":"68-343","addr:city":"Brody","addr:street":"ul. Kili\u0144skiego","addr:housenumber":"11","addr:teryt:simc":8431,"addr:teryt:sym_ul":908030,"contact:phone":"+48 683712509","contact:email":"zspbrody@gmail.com","contact:website":"http:\/\/www.pspbrody.pl","ref:regon":"381082899","ref:vatin":"PL9282091916","operator":"Gmina Brody","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 85775;88951"}},{"id":88951,"type":"Feature","geometry":{"type":"Point","coordinates":[14.77049,51.791199999999996]},"properties":{"isced:level":"1;2","ref:rspo":88951,"official_name":"Szko\u0142a Podstawowa im. Stefana Batorego w Brodach","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"68-343","addr:city":"Brody","addr:street":"ul. Kili\u0144skiego","addr:housenumber":"11","addr:teryt:simc":8431,"addr:teryt:sym_ul":908030,"contact:phone":"+48 683712509","contact:email":"gimbrody@wp.pl","contact:website":"http:\/\/www.pspbrody.pl\/","ref:regon":"970542017","operator":"Gmina Brody","operator:type":"government","amenity":"school","note":"Parent RSPO: 268306"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 85775,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.7732634,
+                    51.7886423
+                ]
+            },
+            "properties": {
+                "ref:rspo": 85775,
+                "official_name": "Przedszkole Samorz\u0105dowe w Brodach",
+                "name": "Przedszkole Samorz\u0105dowe w Brodach",
+                "addr:country": "PL",
+                "addr:postcode": "68-343",
+                "addr:city": "Brody",
+                "addr:street": "ul. Traugutta",
+                "addr:housenumber": "11",
+                "addr:teryt:simc": 22961,
+                "addr:teryt:sym_ul": 908030,
+                "contact:phone": "+48 683712212",
+                "contact:email": "gimbrody@wp.pl",
+                "ref:regon": "080489668",
+                "ref:vatin": "PL9282065103",
+                "operator": "Gmina Brody",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 268306"
+            }
+        },
+        {
+            "id": 268306,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.77049,
+                    51.79123
+                ]
+            },
+            "properties": {
+                "ref:rspo": 268306,
+                "official_name": "Zesp\u00f3\u0142 Szkolno - Przedszkolny w Brodach",
+                "name": "Zesp\u00f3\u0142 Szkolno - Przedszkolny w Brodach",
+                "addr:country": "PL",
+                "addr:postcode": "68-343",
+                "addr:city": "Brody",
+                "addr:street": "ul. Kili\u0144skiego",
+                "addr:housenumber": "11",
+                "addr:teryt:simc": 8431,
+                "addr:teryt:sym_ul": 908030,
+                "contact:phone": "+48 683712509",
+                "contact:email": "zspbrody@gmail.com",
+                "contact:website": "http:\/\/www.pspbrody.pl",
+                "ref:regon": "381082899",
+                "ref:vatin": "PL9282091916",
+                "operator": "Gmina Brody",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 85775;88951"
+            }
+        },
+        {
+            "id": 88951,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.77049,
+                    51.791199999999996
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 88951,
+                "official_name": "Szko\u0142a Podstawowa im. Stefana Batorego w Brodach",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "68-343",
+                "addr:city": "Brody",
+                "addr:street": "ul. Kili\u0144skiego",
+                "addr:housenumber": "11",
+                "addr:teryt:simc": 8431,
+                "addr:teryt:sym_ul": 908030,
+                "contact:phone": "+48 683712509",
+                "contact:email": "gimbrody@wp.pl",
+                "contact:website": "http:\/\/www.pspbrody.pl\/",
+                "ref:regon": "970542017",
+                "operator": "Gmina Brody",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 268306"
+            }
+        }
+    ]
+}

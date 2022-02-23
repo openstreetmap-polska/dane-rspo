@@ -1,1 +1,96 @@
-{"type":"FeatureCollection","features":[{"id":131926,"type":"Feature","geometry":{"type":"Point","coordinates":[16.22894,50.82362]},"properties":{"ref:rspo":131926,"official_name":"Niepubliczne Przedszkole \"Struga\"","name":"Niepubliczne Przedszkole \"Struga\"","addr:country":"PL","addr:postcode":"58-311","addr:city":"Struga","addr:street":"ul. Szkolna","addr:housenumber":"2","addr:teryt:simc":21970,"addr:teryt:sym_ul":855345,"contact:phone":"+48 502502024","contact:email":"bukowskamucha@tlen.pl","ref:regon":"365384294","ref:vatin":"PL8862597974","operator":"Ramona Bukowska","operator:type":"private","amenity":"kindergarten"}},{"id":111132,"type":"Feature","geometry":{"type":"Point","coordinates":[16.19514,50.84931]},"properties":{"isced:level":"1;2","ref:rspo":111132,"official_name":"Szko\u0142a Podstawowa w Starych Bogaczowicach","name":"Szko\u0142a Podstawowa w Starych Bogaczowicach","addr:country":"PL","addr:postcode":"58-312","addr:city":"Stare Bogaczowice","addr:street":"ul. G\u0142\u00f3wna","addr:housenumber":"172A","addr:teryt:simc":5635,"addr:teryt:sym_ul":855316,"contact:phone":"+48 748452263","contact:email":"zs.starebogaczowice@gmail.com","contact:website":"http:\/\/www.zs.p9.pl","ref:regon":"000845000","ref:vatin":"PL8862631530","operator":"Gmina Stare Bogaczowice","operator:type":"government","amenity":"school"}},{"id":133283,"type":"Feature","geometry":{"type":"Point","coordinates":[16.19514,50.84928]},"properties":{"ref:rspo":133283,"official_name":"Niepubliczne Przedszkole \"Przedszkolaki Spod Tr\u00f3jgarbu\"","name":"Niepubliczne Przedszkole \"Przedszkolaki Spod Tr\u00f3jgarbu\"","addr:country":"PL","addr:postcode":"58-312","addr:city":"Stare Bogaczowice","addr:street":"ul. G\u0142\u00f3wna","addr:housenumber":"172a","addr:teryt:simc":5635,"addr:teryt:sym_ul":855316,"contact:email":"biuro@wokoltrojgarbu.pl","ref:regon":"366918958","ref:vatin":"PL8862977441","operator":"Partnerstwo Wok\u00f3\u0142 Tr\u00f3jgarbu","operator:type":"ngo","amenity":"kindergarten"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 131926,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.22894,
+                    50.82362
+                ]
+            },
+            "properties": {
+                "ref:rspo": 131926,
+                "official_name": "Niepubliczne Przedszkole \"Struga\"",
+                "name": "Niepubliczne Przedszkole \"Struga\"",
+                "addr:country": "PL",
+                "addr:postcode": "58-311",
+                "addr:city": "Struga",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "2",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 855345,
+                "contact:phone": "+48 502502024",
+                "contact:email": "bukowskamucha@tlen.pl",
+                "ref:regon": "365384294",
+                "ref:vatin": "PL8862597974",
+                "operator": "Ramona Bukowska",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 111132,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.19514,
+                    50.84931
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 111132,
+                "official_name": "Szko\u0142a Podstawowa w Starych Bogaczowicach",
+                "name": "Szko\u0142a Podstawowa w Starych Bogaczowicach",
+                "addr:country": "PL",
+                "addr:postcode": "58-312",
+                "addr:city": "Stare Bogaczowice",
+                "addr:street": "ul. G\u0142\u00f3wna",
+                "addr:housenumber": "172A",
+                "addr:teryt:simc": 5635,
+                "addr:teryt:sym_ul": 855316,
+                "contact:phone": "+48 748452263",
+                "contact:email": "zs.starebogaczowice@gmail.com",
+                "contact:website": "http:\/\/www.zs.p9.pl",
+                "ref:regon": "000845000",
+                "ref:vatin": "PL8862631530",
+                "operator": "Gmina Stare Bogaczowice",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 133283,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.19514,
+                    50.84928
+                ]
+            },
+            "properties": {
+                "ref:rspo": 133283,
+                "official_name": "Niepubliczne Przedszkole \"Przedszkolaki Spod Tr\u00f3jgarbu\"",
+                "name": "Niepubliczne Przedszkole \"Przedszkolaki Spod Tr\u00f3jgarbu\"",
+                "addr:country": "PL",
+                "addr:postcode": "58-312",
+                "addr:city": "Stare Bogaczowice",
+                "addr:street": "ul. G\u0142\u00f3wna",
+                "addr:housenumber": "172a",
+                "addr:teryt:simc": 5635,
+                "addr:teryt:sym_ul": 855316,
+                "contact:email": "biuro@wokoltrojgarbu.pl",
+                "ref:regon": "366918958",
+                "ref:vatin": "PL8862977441",
+                "operator": "Partnerstwo Wok\u00f3\u0142 Tr\u00f3jgarbu",
+                "operator:type": "ngo",
+                "amenity": "kindergarten"
+            }
+        }
+    ]
+}

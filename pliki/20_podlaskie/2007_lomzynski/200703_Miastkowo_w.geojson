@@ -1,1 +1,68 @@
-{"type":"FeatureCollection","features":[{"id":126698,"type":"Feature","geometry":{"type":"Point","coordinates":[21.73374,53.13587]},"properties":{"isced:level":"1;2","ref:rspo":126698,"official_name":"Szko\u0142a Podstawowa w Rydzewie","name":"Szko\u0142a Podstawowa w Rydzewie","addr:country":"PL","addr:postcode":"18-413","addr:city":"Rydzewo","addr:street":"ul. Mazurska","addr:housenumber":"22","addr:teryt:simc":12555,"addr:teryt:sym_ul":401940,"contact:phone":"+48 862174861","contact:email":"sprydzewo@wp.pl","contact:website":"http:\/\/www.sprydzewo.szkolnastrona.pl","ref:regon":"001120752","ref:vatin":"PL7181769600","operator":"Gmina Miastkowo","operator:type":"government","amenity":"school"}},{"id":26242,"type":"Feature","geometry":{"type":"Point","coordinates":[21.82581,53.1519199]},"properties":{"isced:level":"1;2","ref:rspo":26242,"official_name":"Szko\u0142a Podstawowa w Miastkowie","name":"Szko\u0142a Podstawowa w Miastkowie","addr:country":"PL","addr:postcode":"18-413","addr:city":"Miastkowo","addr:street":"ul. \u0141om\u017cy\u0144ska","addr:housenumber":"15","addr:teryt:simc":11659,"addr:teryt:sym_ul":401785,"contact:phone":"+48 862174826","contact:email":"miastkowo@gmail.com","ref:regon":"000267737","ref:vatin":"PL7181769706","operator":"Gmina Miastkowo","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 126698,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.73374,
+                    53.13587
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 126698,
+                "official_name": "Szko\u0142a Podstawowa w Rydzewie",
+                "name": "Szko\u0142a Podstawowa w Rydzewie",
+                "addr:country": "PL",
+                "addr:postcode": "18-413",
+                "addr:city": "Rydzewo",
+                "addr:street": "ul. Mazurska",
+                "addr:housenumber": "22",
+                "addr:teryt:simc": 12555,
+                "addr:teryt:sym_ul": 401940,
+                "contact:phone": "+48 862174861",
+                "contact:email": "sprydzewo@wp.pl",
+                "contact:website": "http:\/\/www.sprydzewo.szkolnastrona.pl",
+                "ref:regon": "001120752",
+                "ref:vatin": "PL7181769600",
+                "operator": "Gmina Miastkowo",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 26242,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.82581,
+                    53.1519199
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 26242,
+                "official_name": "Szko\u0142a Podstawowa w Miastkowie",
+                "name": "Szko\u0142a Podstawowa w Miastkowie",
+                "addr:country": "PL",
+                "addr:postcode": "18-413",
+                "addr:city": "Miastkowo",
+                "addr:street": "ul. \u0141om\u017cy\u0144ska",
+                "addr:housenumber": "15",
+                "addr:teryt:simc": 11659,
+                "addr:teryt:sym_ul": 401785,
+                "contact:phone": "+48 862174826",
+                "contact:email": "miastkowo@gmail.com",
+                "ref:regon": "000267737",
+                "ref:vatin": "PL7181769706",
+                "operator": "Gmina Miastkowo",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

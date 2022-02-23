@@ -1,1 +1,205 @@
-{"type":"FeatureCollection","features":[{"id":34406,"type":"Feature","geometry":{"type":"Point","coordinates":[18.623678207398,51.232223510742]},"properties":{"ref:rspo":34406,"official_name":"Publiczne Przedszkole w Bia\u0142ej","name":"Publiczne Przedszkole w Bia\u0142ej","addr:country":"PL","addr:postcode":"98-350","addr:place":"Bia\u0142a Rz\u0105dowa","addr:housenumber":"98","addr:teryt:sym_ul":697308,"contact:phone":"+48 438419386","contact:email":"dorotabel@wp.pl","ref:regon":"731017842","ref:vatin":"PL8321855330","operator":"Gmina Bia\u0142a","operator:type":"government","amenity":"kindergarten"}},{"id":30902,"type":"Feature","geometry":{"type":"Point","coordinates":[18.38819,51.23724]},"properties":{"isced:level":"1;2","ref:rspo":30902,"official_name":"Publiczna Szko\u0142a Podstawowa w M\u0142ynisku","name":"Publiczna Szko\u0142a Podstawowa w M\u0142ynisku","addr:country":"PL","addr:postcode":"98-350","addr:place":"M\u0142ynisko","addr:housenumber":"39","addr:teryt:sym_ul":697538,"contact:phone":"+48 438419089","contact:email":"pspmlynisko@op.pl","ref:regon":"001149520","ref:vatin":"PL8321855318","operator":"Gmina Bia\u0142a","operator:type":"government","amenity":"school"}},{"id":34407,"type":"Feature","geometry":{"type":"Point","coordinates":[18.38819,51.23721]},"properties":{"ref:rspo":34407,"official_name":"Publiczne Przedszkole w M\u0142ynisku","name":"Publiczne Przedszkole w M\u0142ynisku","addr:country":"PL","addr:postcode":"98-350","addr:place":"M\u0142ynisko","addr:housenumber":"39","addr:teryt:sym_ul":697538,"contact:phone":"+48 438419396","contact:email":"mlyniskoprzedszkole@op.pl","ref:regon":"731017859","ref:vatin":"PL8321855287","operator":"Gmina Bia\u0142a","operator:type":"government","amenity":"kindergarten"}},{"id":10694,"type":"Feature","geometry":{"type":"Point","coordinates":[18.46053,51.26382]},"properties":{"ref:rspo":10694,"official_name":"Ledar - Plac\u00f3wka Kszta\u0142cenia Ustawicznego","name":"Ledar - Plac\u00f3wka Kszta\u0142cenia Ustawicznego","addr:country":"PL","addr:postcode":"98-350","addr:place":"Bia\u0142a-Parcela","addr:housenumber":"35F","addr:teryt:sym_ul":697248,"contact:phone":"+48 663051818","contact:email":"biuro@ledar.org.pl","ref:regon":"101464313","ref:vatin":"PL8321319991","operator":"Firma Us\u0142ugowo-Organizacyjna Ledar Dariusz Leman","operator:type":"consortium","fixme":"w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. amenity=training + training=*, amenity=dancing_school, amenity=language_school, amenity=music_school)"}},{"id":34402,"type":"Feature","geometry":{"type":"Point","coordinates":[18.44963,51.26591]},"properties":{"isced:level":"1;2","ref:rspo":34402,"official_name":"Publiczna Szko\u0142a Podstawowa im. Marii Konopnickiej w Bia\u0142ej","name":"Publiczna Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"98-350","addr:place":"Bia\u0142a-Parcela","addr:housenumber":"12","addr:teryt:sym_ul":697248,"contact:phone":"+48 438419095","contact:email":"spgb@wp.pl","contact:website":"http:\/\/www.pspbiala.szkolnastrona.pl","ref:regon":"000562100","ref:vatin":"PL8321855324","operator":"Gmina Bia\u0142a","operator:type":"government","amenity":"school"}},{"id":34404,"type":"Feature","geometry":{"type":"Point","coordinates":[18.43742,51.2972899]},"properties":{"isced:level":"1;2","ref:rspo":34404,"official_name":"Publiczna Szko\u0142a Podstawowa w Naramicach","name":"Publiczna Szko\u0142a Podstawowa w Naramicach","addr:country":"PL","addr:postcode":"98-350","addr:place":"Naramice","addr:housenumber":"125","addr:teryt:sym_ul":697596,"contact:phone":"+48 438419206","contact:email":"narem1@wp.pl","ref:regon":"001149514","ref:vatin":"PL8321855301","operator":"Gmina Bia\u0142a","operator:type":"government","amenity":"school"}},{"id":34408,"type":"Feature","geometry":{"type":"Point","coordinates":[18.43742,51.2972599]},"properties":{"ref:rspo":34408,"official_name":"Publiczne Przedszkole w Naramicach","name":"Publiczne Przedszkole w Naramicach","addr:country":"PL","addr:postcode":"98-350","addr:place":"Naramice","addr:housenumber":"125","addr:teryt:sym_ul":697596,"contact:phone":"+48 438419434","contact:email":"dorotacicha1@o2.pl","ref:regon":"731017865","ref:vatin":"PL8321855293","operator":"Gmina Bia\u0142a","operator:type":"government","amenity":"kindergarten"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 34406,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.623678207398,
+                    51.232223510742
+                ]
+            },
+            "properties": {
+                "ref:rspo": 34406,
+                "official_name": "Publiczne Przedszkole w Bia\u0142ej",
+                "name": "Publiczne Przedszkole w Bia\u0142ej",
+                "addr:country": "PL",
+                "addr:postcode": "98-350",
+                "addr:place": "Bia\u0142a Rz\u0105dowa",
+                "addr:housenumber": "98",
+                "addr:teryt:sym_ul": 697308,
+                "contact:phone": "+48 438419386",
+                "contact:email": "dorotabel@wp.pl",
+                "ref:regon": "731017842",
+                "ref:vatin": "PL8321855330",
+                "operator": "Gmina Bia\u0142a",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 30902,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.38819,
+                    51.23724
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 30902,
+                "official_name": "Publiczna Szko\u0142a Podstawowa w M\u0142ynisku",
+                "name": "Publiczna Szko\u0142a Podstawowa w M\u0142ynisku",
+                "addr:country": "PL",
+                "addr:postcode": "98-350",
+                "addr:place": "M\u0142ynisko",
+                "addr:housenumber": "39",
+                "addr:teryt:sym_ul": 697538,
+                "contact:phone": "+48 438419089",
+                "contact:email": "pspmlynisko@op.pl",
+                "ref:regon": "001149520",
+                "ref:vatin": "PL8321855318",
+                "operator": "Gmina Bia\u0142a",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 34407,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.38819,
+                    51.23721
+                ]
+            },
+            "properties": {
+                "ref:rspo": 34407,
+                "official_name": "Publiczne Przedszkole w M\u0142ynisku",
+                "name": "Publiczne Przedszkole w M\u0142ynisku",
+                "addr:country": "PL",
+                "addr:postcode": "98-350",
+                "addr:place": "M\u0142ynisko",
+                "addr:housenumber": "39",
+                "addr:teryt:sym_ul": 697538,
+                "contact:phone": "+48 438419396",
+                "contact:email": "mlyniskoprzedszkole@op.pl",
+                "ref:regon": "731017859",
+                "ref:vatin": "PL8321855287",
+                "operator": "Gmina Bia\u0142a",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 10694,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.46053,
+                    51.26382
+                ]
+            },
+            "properties": {
+                "ref:rspo": 10694,
+                "official_name": "Ledar - Plac\u00f3wka Kszta\u0142cenia Ustawicznego",
+                "name": "Ledar - Plac\u00f3wka Kszta\u0142cenia Ustawicznego",
+                "addr:country": "PL",
+                "addr:postcode": "98-350",
+                "addr:place": "Bia\u0142a-Parcela",
+                "addr:housenumber": "35F",
+                "addr:teryt:sym_ul": 697248,
+                "contact:phone": "+48 663051818",
+                "contact:email": "biuro@ledar.org.pl",
+                "ref:regon": "101464313",
+                "ref:vatin": "PL8321319991",
+                "operator": "Firma Us\u0142ugowo-Organizacyjna Ledar Dariusz Leman",
+                "operator:type": "consortium",
+                "fixme": "w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. amenity=training + training=*, amenity=dancing_school, amenity=language_school, amenity=music_school)"
+            }
+        },
+        {
+            "id": 34402,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.44963,
+                    51.26591
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 34402,
+                "official_name": "Publiczna Szko\u0142a Podstawowa im. Marii Konopnickiej w Bia\u0142ej",
+                "name": "Publiczna Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "98-350",
+                "addr:place": "Bia\u0142a-Parcela",
+                "addr:housenumber": "12",
+                "addr:teryt:sym_ul": 697248,
+                "contact:phone": "+48 438419095",
+                "contact:email": "spgb@wp.pl",
+                "contact:website": "http:\/\/www.pspbiala.szkolnastrona.pl",
+                "ref:regon": "000562100",
+                "ref:vatin": "PL8321855324",
+                "operator": "Gmina Bia\u0142a",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 34404,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.43742,
+                    51.2972899
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 34404,
+                "official_name": "Publiczna Szko\u0142a Podstawowa w Naramicach",
+                "name": "Publiczna Szko\u0142a Podstawowa w Naramicach",
+                "addr:country": "PL",
+                "addr:postcode": "98-350",
+                "addr:place": "Naramice",
+                "addr:housenumber": "125",
+                "addr:teryt:sym_ul": 697596,
+                "contact:phone": "+48 438419206",
+                "contact:email": "narem1@wp.pl",
+                "ref:regon": "001149514",
+                "ref:vatin": "PL8321855301",
+                "operator": "Gmina Bia\u0142a",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 34408,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.43742,
+                    51.2972599
+                ]
+            },
+            "properties": {
+                "ref:rspo": 34408,
+                "official_name": "Publiczne Przedszkole w Naramicach",
+                "name": "Publiczne Przedszkole w Naramicach",
+                "addr:country": "PL",
+                "addr:postcode": "98-350",
+                "addr:place": "Naramice",
+                "addr:housenumber": "125",
+                "addr:teryt:sym_ul": 697596,
+                "contact:phone": "+48 438419434",
+                "contact:email": "dorotacicha1@o2.pl",
+                "ref:regon": "731017865",
+                "ref:vatin": "PL8321855293",
+                "operator": "Gmina Bia\u0142a",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        }
+    ]
+}

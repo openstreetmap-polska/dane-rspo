@@ -1,1 +1,131 @@
-{"type":"FeatureCollection","features":[{"id":63478,"type":"Feature","geometry":{"type":"Point","coordinates":[22.20822,53.3205]},"properties":{"isced:level":"1;2","ref:rspo":63478,"official_name":"Szko\u0142a Filialna w Jurcu Szlacheckim","name":"Szko\u0142a Filialna w Jurcu Szlacheckim","addr:country":"PL","addr:postcode":"18-520","addr:place":"Jurzec Szlachecki","addr:housenumber":"53","addr:teryt:sym_ul":406446,"contact:phone":"+48 862785056","contact:email":"spstawiski@wp.pl","contact:website":"http:\/\/www.spstawiski.pl","ref:regon":"263478000","ref:vatin":"PL7211143102","operator":"Gmina Stawiski","operator:type":"government","amenity":"school","note":"Parent RSPO: 57829"}},{"id":57830,"type":"Feature","geometry":{"type":"Point","coordinates":[22.06772,53.35607]},"properties":{"isced:level":"1;2","ref:rspo":57830,"official_name":"Szko\u0142a Podstawowa w Porytem","name":"Szko\u0142a Podstawowa w Porytem","addr:country":"PL","addr:postcode":"18-520","addr:city":"Poryte","addr:street":"ul. Szkolna","addr:housenumber":"23","addr:teryt:simc":21970,"addr:teryt:sym_ul":990907,"contact:phone":"+48 862788682","contact:email":"poryte-23@wp.pl","contact:website":"http:\/\/www.spporyte.stawiski.pl","ref:regon":"001129380","ref:vatin":"PL2910081396","operator":"Gmina Stawiski","operator:type":"government","amenity":"school"}},{"id":59166,"type":"Feature","geometry":{"type":"Point","coordinates":[22.16123,53.37907]},"properties":{"ref:rspo":59166,"official_name":"Miejskie Przedszkole w Stawiskach","name":"Miejskie Przedszkole w Stawiskach","addr:country":"PL","addr:postcode":"18-520","addr:city":"Stawiski","addr:street":"ul. Cedrowska","addr:housenumber":"1","addr:teryt:simc":2567,"addr:teryt:sym_ul":957548,"contact:phone":"+48 862785651","contact:email":"stawiski.przedszkole@wp.pl","ref:regon":"450000431","ref:vatin":"PL2910081321","operator":"Gmina Stawiski","operator:type":"government","amenity":"kindergarten"}},{"id":57829,"type":"Feature","geometry":{"type":"Point","coordinates":[22.15906,53.38069]},"properties":{"isced:level":"1;2","ref:rspo":57829,"official_name":"Szko\u0142a Podstawowa im. Tadeusza Ko\u015bciuszki w Stawiskach","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"18-520","addr:city":"Stawiski","addr:street":"ul. Polowa","addr:housenumber":"12","addr:teryt:simc":17027,"addr:teryt:sym_ul":957548,"contact:phone":"+48 862785609","contact:email":"spstawiski@wp.pl","contact:website":"http:\/\/www.spstawiski.pl","ref:regon":"000263478","ref:vatin":"PL7211143102","operator":"Gmina Stawiski","operator:type":"government","amenity":"school","note":"Children RSPO: 63478"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 63478,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.20822,
+                    53.3205
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 63478,
+                "official_name": "Szko\u0142a Filialna w Jurcu Szlacheckim",
+                "name": "Szko\u0142a Filialna w Jurcu Szlacheckim",
+                "addr:country": "PL",
+                "addr:postcode": "18-520",
+                "addr:place": "Jurzec Szlachecki",
+                "addr:housenumber": "53",
+                "addr:teryt:sym_ul": 406446,
+                "contact:phone": "+48 862785056",
+                "contact:email": "spstawiski@wp.pl",
+                "contact:website": "http:\/\/www.spstawiski.pl",
+                "ref:regon": "263478000",
+                "ref:vatin": "PL7211143102",
+                "operator": "Gmina Stawiski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 57829"
+            }
+        },
+        {
+            "id": 57830,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.06772,
+                    53.35607
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 57830,
+                "official_name": "Szko\u0142a Podstawowa w Porytem",
+                "name": "Szko\u0142a Podstawowa w Porytem",
+                "addr:country": "PL",
+                "addr:postcode": "18-520",
+                "addr:city": "Poryte",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "23",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 990907,
+                "contact:phone": "+48 862788682",
+                "contact:email": "poryte-23@wp.pl",
+                "contact:website": "http:\/\/www.spporyte.stawiski.pl",
+                "ref:regon": "001129380",
+                "ref:vatin": "PL2910081396",
+                "operator": "Gmina Stawiski",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 59166,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.16123,
+                    53.37907
+                ]
+            },
+            "properties": {
+                "ref:rspo": 59166,
+                "official_name": "Miejskie Przedszkole w Stawiskach",
+                "name": "Miejskie Przedszkole w Stawiskach",
+                "addr:country": "PL",
+                "addr:postcode": "18-520",
+                "addr:city": "Stawiski",
+                "addr:street": "ul. Cedrowska",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 2567,
+                "addr:teryt:sym_ul": 957548,
+                "contact:phone": "+48 862785651",
+                "contact:email": "stawiski.przedszkole@wp.pl",
+                "ref:regon": "450000431",
+                "ref:vatin": "PL2910081321",
+                "operator": "Gmina Stawiski",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 57829,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.15906,
+                    53.38069
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 57829,
+                "official_name": "Szko\u0142a Podstawowa im. Tadeusza Ko\u015bciuszki w Stawiskach",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "18-520",
+                "addr:city": "Stawiski",
+                "addr:street": "ul. Polowa",
+                "addr:housenumber": "12",
+                "addr:teryt:simc": 17027,
+                "addr:teryt:sym_ul": 957548,
+                "contact:phone": "+48 862785609",
+                "contact:email": "spstawiski@wp.pl",
+                "contact:website": "http:\/\/www.spstawiski.pl",
+                "ref:regon": "000263478",
+                "ref:vatin": "PL7211143102",
+                "operator": "Gmina Stawiski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Children RSPO: 63478"
+            }
+        }
+    ]
+}

@@ -1,1 +1,95 @@
-{"type":"FeatureCollection","features":[{"id":13601,"type":"Feature","geometry":{"type":"Point","coordinates":[18.689170837402,53.840118408203]},"properties":{"isced:level":"1;2","ref:rspo":13601,"official_name":"Szko\u0142a Podstawowa w Morzeszczynie","name":"Szko\u0142a Podstawowa w Morzeszczynie","addr:country":"PL","addr:postcode":"83-132","addr:city":"Morzeszczyn","addr:street":"ul. Kociewska","addr:housenumber":"3","addr:teryt:simc":8740,"addr:teryt:sym_ul":167734,"contact:phone":"+48 585362787","contact:email":"zs-morzeszczyn@wp.pl","contact:website":"http:\/\/spmorzeszczyn.edupage.org","ref:regon":"220255570","operator":"Gmina Morzeszczyn","operator:type":"government","amenity":"school"}},{"id":277564,"type":"Feature","geometry":{"type":"Point","coordinates":[18.689170837402,53.840088408202995]},"properties":{"ref:rspo":277564,"official_name":"Publiczne Przedszkole Mali Odkrywcy","name":"Publiczne Przedszkole Mali Odkrywcy","addr:country":"PL","addr:postcode":"83-132","addr:city":"Morzeszczyn","addr:street":"ul. Kociewska","addr:housenumber":"23","addr:teryt:simc":8740,"addr:teryt:sym_ul":167734,"contact:email":"edu.maliodkrywcy@gmail.com","contact:website":"http:\/\/www.arka-noego.za.pl","ref:regon":"389129554","ref:vatin":"PL5932596270","operator":"Fundacja Edukacyjno-Wychowawcza \"Arka Noego\"","operator:type":"ngo","amenity":"kindergarten"}},{"id":8966,"type":"Feature","geometry":{"type":"Point","coordinates":[18.653444,53.863858]},"properties":{"isced:level":"1;2","ref:rspo":8966,"official_name":"Szko\u0142a Podstawowa im. Marii Konopnickiej w Nowej Cerkwi","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"83-132","addr:place":"Nowa Cerkiew","addr:housenumber":"1","addr:teryt:sym_ul":167740,"contact:phone":"+48 585362205","contact:email":"spnowacerkiew@op.pl","contact:website":"http:\/\/spnowacerkiew.edupage.org","ref:regon":"001172690","operator":"Gmina Morzeszczyn","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 13601,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.689170837402,
+                    53.840118408203
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 13601,
+                "official_name": "Szko\u0142a Podstawowa w Morzeszczynie",
+                "name": "Szko\u0142a Podstawowa w Morzeszczynie",
+                "addr:country": "PL",
+                "addr:postcode": "83-132",
+                "addr:city": "Morzeszczyn",
+                "addr:street": "ul. Kociewska",
+                "addr:housenumber": "3",
+                "addr:teryt:simc": 8740,
+                "addr:teryt:sym_ul": 167734,
+                "contact:phone": "+48 585362787",
+                "contact:email": "zs-morzeszczyn@wp.pl",
+                "contact:website": "http:\/\/spmorzeszczyn.edupage.org",
+                "ref:regon": "220255570",
+                "operator": "Gmina Morzeszczyn",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 277564,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.689170837402,
+                    53.840088408202995
+                ]
+            },
+            "properties": {
+                "ref:rspo": 277564,
+                "official_name": "Publiczne Przedszkole Mali Odkrywcy",
+                "name": "Publiczne Przedszkole Mali Odkrywcy",
+                "addr:country": "PL",
+                "addr:postcode": "83-132",
+                "addr:city": "Morzeszczyn",
+                "addr:street": "ul. Kociewska",
+                "addr:housenumber": "23",
+                "addr:teryt:simc": 8740,
+                "addr:teryt:sym_ul": 167734,
+                "contact:email": "edu.maliodkrywcy@gmail.com",
+                "contact:website": "http:\/\/www.arka-noego.za.pl",
+                "ref:regon": "389129554",
+                "ref:vatin": "PL5932596270",
+                "operator": "Fundacja Edukacyjno-Wychowawcza \"Arka Noego\"",
+                "operator:type": "ngo",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 8966,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.653444,
+                    53.863858
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 8966,
+                "official_name": "Szko\u0142a Podstawowa im. Marii Konopnickiej w Nowej Cerkwi",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "83-132",
+                "addr:place": "Nowa Cerkiew",
+                "addr:housenumber": "1",
+                "addr:teryt:sym_ul": 167740,
+                "contact:phone": "+48 585362205",
+                "contact:email": "spnowacerkiew@op.pl",
+                "contact:website": "http:\/\/spnowacerkiew.edupage.org",
+                "ref:regon": "001172690",
+                "operator": "Gmina Morzeszczyn",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

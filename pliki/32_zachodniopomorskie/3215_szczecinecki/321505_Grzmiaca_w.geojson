@@ -1,1 +1,132 @@
-{"type":"FeatureCollection","features":[{"id":60077,"type":"Feature","geometry":{"type":"Point","coordinates":[16.51708,53.795735]},"properties":{"isced:level":"1;2","ref:rspo":60077,"official_name":"Szko\u0142a Podstawowa im. Marii Konopnickiej w Iwinie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"78-451","addr:place":"Iwin","addr:housenumber":"12A","addr:teryt:sym_ul":306667,"contact:phone":"+48 943757823","contact:email":"spiwin@interia.pl","contact:website":"http:\/\/www.spiwin.grzmiaca.org.pl","ref:regon":"001211354","ref:vatin":"PL6731729262","operator":"Gmina Grzmi\u0105ca","operator:type":"government","amenity":"school"}},{"id":107491,"type":"Feature","geometry":{"type":"Point","coordinates":[16.43166,53.83447]},"properties":{"ref:rspo":107491,"official_name":"Przedszkole w Grzmi\u0105cej","name":"Przedszkole w Grzmi\u0105cej","addr:country":"PL","addr:postcode":"78-450","addr:city":"Grzmi\u0105ca","addr:street":"ul. Kolejowa","addr:housenumber":"3","addr:teryt:simc":8828,"addr:teryt:sym_ul":306437,"contact:phone":"+48 943736826","contact:email":"spgrzmiaca@wp.pl","contact:website":"http:\/\/zsgrzmiaca.pl","ref:regon":"331365580","operator":"Gmina Grzmi\u0105ca","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 60074"}},{"id":60074,"type":"Feature","geometry":{"type":"Point","coordinates":[16.43125,53.83657]},"properties":{"ref:rspo":60074,"official_name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 w Grzmi\u0105cej","name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 w Grzmi\u0105cej","addr:country":"PL","addr:postcode":"78-450","addr:city":"Grzmi\u0105ca","addr:street":"ul. Sportowa","addr:housenumber":"2","addr:teryt:simc":20683,"addr:teryt:sym_ul":306437,"contact:phone":"+48 943736826","contact:email":"spgrzmiaca@wp.pl","contact:website":"http:\/\/zsgrzmiaca.pl","ref:regon":"331365550","ref:vatin":"PL6731737149","operator":"Gmina Grzmi\u0105ca","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 105630;107491"}},{"id":105630,"type":"Feature","geometry":{"type":"Point","coordinates":[16.43125,53.83654]},"properties":{"isced:level":"1;2","ref:rspo":105630,"official_name":"Szko\u0142a Podstawowa w Grzmi\u0105cej","name":"Szko\u0142a Podstawowa w Grzmi\u0105cej","addr:country":"PL","addr:postcode":"78-450","addr:city":"Grzmi\u0105ca","addr:street":"ul. Sportowa","addr:housenumber":"2","addr:teryt:simc":20683,"addr:teryt:sym_ul":306437,"contact:phone":"+48 943736826","contact:email":"spgrzmiaca@wp.pl","contact:website":"http:\/\/zsgrzmiaca.pl","ref:regon":"000267938","ref:vatin":"PL6731729233","operator":"Gmina Grzmi\u0105ca","operator:type":"government","amenity":"school","note":"Parent RSPO: 60074"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 60077,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.51708,
+                    53.795735
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 60077,
+                "official_name": "Szko\u0142a Podstawowa im. Marii Konopnickiej w Iwinie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "78-451",
+                "addr:place": "Iwin",
+                "addr:housenumber": "12A",
+                "addr:teryt:sym_ul": 306667,
+                "contact:phone": "+48 943757823",
+                "contact:email": "spiwin@interia.pl",
+                "contact:website": "http:\/\/www.spiwin.grzmiaca.org.pl",
+                "ref:regon": "001211354",
+                "ref:vatin": "PL6731729262",
+                "operator": "Gmina Grzmi\u0105ca",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 107491,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.43166,
+                    53.83447
+                ]
+            },
+            "properties": {
+                "ref:rspo": 107491,
+                "official_name": "Przedszkole w Grzmi\u0105cej",
+                "name": "Przedszkole w Grzmi\u0105cej",
+                "addr:country": "PL",
+                "addr:postcode": "78-450",
+                "addr:city": "Grzmi\u0105ca",
+                "addr:street": "ul. Kolejowa",
+                "addr:housenumber": "3",
+                "addr:teryt:simc": 8828,
+                "addr:teryt:sym_ul": 306437,
+                "contact:phone": "+48 943736826",
+                "contact:email": "spgrzmiaca@wp.pl",
+                "contact:website": "http:\/\/zsgrzmiaca.pl",
+                "ref:regon": "331365580",
+                "operator": "Gmina Grzmi\u0105ca",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 60074"
+            }
+        },
+        {
+            "id": 60074,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.43125,
+                    53.83657
+                ]
+            },
+            "properties": {
+                "ref:rspo": 60074,
+                "official_name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 w Grzmi\u0105cej",
+                "name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 w Grzmi\u0105cej",
+                "addr:country": "PL",
+                "addr:postcode": "78-450",
+                "addr:city": "Grzmi\u0105ca",
+                "addr:street": "ul. Sportowa",
+                "addr:housenumber": "2",
+                "addr:teryt:simc": 20683,
+                "addr:teryt:sym_ul": 306437,
+                "contact:phone": "+48 943736826",
+                "contact:email": "spgrzmiaca@wp.pl",
+                "contact:website": "http:\/\/zsgrzmiaca.pl",
+                "ref:regon": "331365550",
+                "ref:vatin": "PL6731737149",
+                "operator": "Gmina Grzmi\u0105ca",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 105630;107491"
+            }
+        },
+        {
+            "id": 105630,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.43125,
+                    53.83654
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 105630,
+                "official_name": "Szko\u0142a Podstawowa w Grzmi\u0105cej",
+                "name": "Szko\u0142a Podstawowa w Grzmi\u0105cej",
+                "addr:country": "PL",
+                "addr:postcode": "78-450",
+                "addr:city": "Grzmi\u0105ca",
+                "addr:street": "ul. Sportowa",
+                "addr:housenumber": "2",
+                "addr:teryt:simc": 20683,
+                "addr:teryt:sym_ul": 306437,
+                "contact:phone": "+48 943736826",
+                "contact:email": "spgrzmiaca@wp.pl",
+                "contact:website": "http:\/\/zsgrzmiaca.pl",
+                "ref:regon": "000267938",
+                "ref:vatin": "PL6731729233",
+                "operator": "Gmina Grzmi\u0105ca",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 60074"
+            }
+        }
+    ]
+}

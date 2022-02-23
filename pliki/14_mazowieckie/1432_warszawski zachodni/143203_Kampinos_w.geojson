@@ -1,1 +1,127 @@
-{"type":"FeatureCollection","features":[{"id":130749,"type":"Feature","geometry":{"type":"Point","coordinates":[20.8072394,52.180734]},"properties":{"ref:rspo":130749,"official_name":"Niepubliczna Plac\u00f3wka Kszta\u0142cenia Ustawicznego \"Dom Pracy Tw\u00f3rczej - Granica\"","name":"Niepubliczna Plac\u00f3wka Kszta\u0142cenia Ustawicznego \"Dom Pracy Tw\u00f3rczej - Granica\"","addr:country":"PL","addr:postcode":"05-085","addr:place":"Granica","addr:housenumber":"6","addr:teryt:sym_ul":3122,"contact:phone":"+48 601216501","ref:regon":"364461561","operator":"Stowarzyszenie \"Cztery Krajobrazy\"","operator:type":"ngo","fixme":"w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. amenity=training + training=*, amenity=dancing_school, amenity=language_school, amenity=music_school)"}},{"id":81567,"type":"Feature","geometry":{"type":"Point","coordinates":[20.657667,52.264351]},"properties":{"ref:rspo":81567,"official_name":"Zesp\u00f3\u0142 Szkolno - Przedszkolny Z Oddzia\u0142ami Integracyjnymi w Kampinosie","name":"Zesp\u00f3\u0142 Szkolno - Przedszkolny Z Oddzia\u0142ami Integracyjnymi w Kampinosie","addr:country":"PL","addr:postcode":"05-085","addr:city":"Kampinos","addr:street":"ul. Szkolna","addr:housenumber":"5","addr:teryt:simc":21970,"addr:teryt:sym_ul":3197,"contact:phone":"+48 227250014","contact:email":"sekretariat@zspkampinos.pl","contact:website":"http:\/\/zspkampinos.pl","ref:regon":"015328045","ref:vatin":"PL1181664499","operator":"Gmina Kampinos","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 111338;126578"}},{"id":111338,"type":"Feature","geometry":{"type":"Point","coordinates":[20.657667,52.264320999999995]},"properties":{"ref:rspo":111338,"official_name":"Przedszkole Z Oddzia\u0142ami Integracyjnymi w Kampinosie","name":"Przedszkole Z Oddzia\u0142ami Integracyjnymi w Kampinosie","addr:country":"PL","addr:postcode":"05-085","addr:city":"Kampinos","addr:street":"ul. Szkolna","addr:housenumber":"5","addr:teryt:simc":21970,"addr:teryt:sym_ul":3197,"contact:phone":"+48 227250054","contact:email":"sekretariat@zspkampinos.pl","contact:website":"http:\/\/zspkampinos.pl","ref:regon":"013006219","operator":"Gmina Kampinos","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 81567"}},{"id":126578,"type":"Feature","geometry":{"type":"Point","coordinates":[20.657667,52.264291]},"properties":{"isced:level":"1;2","ref:rspo":126578,"official_name":"Szko\u0142a Podstawowa Z Oddzia\u0142ami Integracyjnymi im.zygmunta Padlewskiego w Kampinosie","name":"Szko\u0142a Podstawowa Z Oddzia\u0142ami Integracyjnymi im.zygmunta Padlewskiego w Kampinosie","addr:country":"PL","addr:postcode":"05-085","addr:city":"Kampinos","addr:street":"ul. Szkolna","addr:housenumber":"5","addr:teryt:simc":21970,"addr:teryt:sym_ul":3197,"contact:phone":"+48 227250014","contact:email":"sekretariat@zspkampinos.pl","contact:website":"http:\/\/www.zspkampinos.pl","ref:regon":"000559440","operator":"Gmina Kampinos","operator:type":"government","amenity":"school","note":"Parent RSPO: 81567"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 130749,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.8072394,
+                    52.180734
+                ]
+            },
+            "properties": {
+                "ref:rspo": 130749,
+                "official_name": "Niepubliczna Plac\u00f3wka Kszta\u0142cenia Ustawicznego \"Dom Pracy Tw\u00f3rczej - Granica\"",
+                "name": "Niepubliczna Plac\u00f3wka Kszta\u0142cenia Ustawicznego \"Dom Pracy Tw\u00f3rczej - Granica\"",
+                "addr:country": "PL",
+                "addr:postcode": "05-085",
+                "addr:place": "Granica",
+                "addr:housenumber": "6",
+                "addr:teryt:sym_ul": 3122,
+                "contact:phone": "+48 601216501",
+                "ref:regon": "364461561",
+                "operator": "Stowarzyszenie \"Cztery Krajobrazy\"",
+                "operator:type": "ngo",
+                "fixme": "w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. amenity=training + training=*, amenity=dancing_school, amenity=language_school, amenity=music_school)"
+            }
+        },
+        {
+            "id": 81567,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.657667,
+                    52.264351
+                ]
+            },
+            "properties": {
+                "ref:rspo": 81567,
+                "official_name": "Zesp\u00f3\u0142 Szkolno - Przedszkolny Z Oddzia\u0142ami Integracyjnymi w Kampinosie",
+                "name": "Zesp\u00f3\u0142 Szkolno - Przedszkolny Z Oddzia\u0142ami Integracyjnymi w Kampinosie",
+                "addr:country": "PL",
+                "addr:postcode": "05-085",
+                "addr:city": "Kampinos",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "5",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 3197,
+                "contact:phone": "+48 227250014",
+                "contact:email": "sekretariat@zspkampinos.pl",
+                "contact:website": "http:\/\/zspkampinos.pl",
+                "ref:regon": "015328045",
+                "ref:vatin": "PL1181664499",
+                "operator": "Gmina Kampinos",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 111338;126578"
+            }
+        },
+        {
+            "id": 111338,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.657667,
+                    52.264320999999995
+                ]
+            },
+            "properties": {
+                "ref:rspo": 111338,
+                "official_name": "Przedszkole Z Oddzia\u0142ami Integracyjnymi w Kampinosie",
+                "name": "Przedszkole Z Oddzia\u0142ami Integracyjnymi w Kampinosie",
+                "addr:country": "PL",
+                "addr:postcode": "05-085",
+                "addr:city": "Kampinos",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "5",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 3197,
+                "contact:phone": "+48 227250054",
+                "contact:email": "sekretariat@zspkampinos.pl",
+                "contact:website": "http:\/\/zspkampinos.pl",
+                "ref:regon": "013006219",
+                "operator": "Gmina Kampinos",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 81567"
+            }
+        },
+        {
+            "id": 126578,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.657667,
+                    52.264291
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 126578,
+                "official_name": "Szko\u0142a Podstawowa Z Oddzia\u0142ami Integracyjnymi im.zygmunta Padlewskiego w Kampinosie",
+                "name": "Szko\u0142a Podstawowa Z Oddzia\u0142ami Integracyjnymi im.zygmunta Padlewskiego w Kampinosie",
+                "addr:country": "PL",
+                "addr:postcode": "05-085",
+                "addr:city": "Kampinos",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "5",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 3197,
+                "contact:phone": "+48 227250014",
+                "contact:email": "sekretariat@zspkampinos.pl",
+                "contact:website": "http:\/\/www.zspkampinos.pl",
+                "ref:regon": "000559440",
+                "operator": "Gmina Kampinos",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 81567"
+            }
+        }
+    ]
+}

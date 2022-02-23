@@ -1,1 +1,187 @@
-{"type":"FeatureCollection","features":[{"id":32060,"type":"Feature","geometry":{"type":"Point","coordinates":[18.4694499,52.10037]},"properties":{"isced:level":"1;2","ref:rspo":32060,"official_name":"Szko\u0142a Podstawowa we W\u0142adys\u0142awowie","name":"Szko\u0142a Podstawowa we W\u0142adys\u0142awowie","addr:country":"PL","addr:postcode":"62-710","addr:city":"W\u0142adys\u0142aw\u00f3w","addr:street":"ul. Jagiello\u0144ska","addr:housenumber":"1B","addr:teryt:simc":7029,"addr:teryt:sym_ul":301210,"contact:phone":"+48 633001055","contact:email":"gimwladyslawow@wp.pl","contact:website":"http:\/\/www.spwladyslawow.pl","ref:regon":"000273695","ref:vatin":"PL6681971327","operator":"Gmina W\u0142adys\u0142aw\u00f3w","operator:type":"government","amenity":"school"}},{"id":32041,"type":"Feature","geometry":{"type":"Point","coordinates":[18.47024,52.10204]},"properties":{"ref:rspo":32041,"official_name":"Przedszkole Gminne we W\u0142adys\u0142awowie","name":"Przedszkole Gminne we W\u0142adys\u0142awowie","addr:country":"PL","addr:postcode":"62-710","addr:city":"W\u0142adys\u0142aw\u00f3w","addr:street":"ul. Kaliska","addr:housenumber":"17A","addr:teryt:simc":7823,"addr:teryt:sym_ul":301210,"contact:phone":"+48 632788042","contact:email":"przeds@wp.pl","contact:website":"http:\/\/www.przedszkole.wladyslawow.pl","ref:regon":"000996867","ref:vatin":"PL6681434925","operator":"Gmina W\u0142adys\u0142aw\u00f3w","operator:type":"government","amenity":"kindergarten"}},{"id":32039,"type":"Feature","geometry":{"type":"Point","coordinates":[18.4345049,52.118327]},"properties":{"isced:level":"1;2","ref:rspo":32039,"official_name":"Szko\u0142a Podstawowa w Chylinie","name":"Szko\u0142a Podstawowa w Chylinie","addr:country":"PL","addr:postcode":"62-710","addr:place":"Chylin","addr:housenumber":"87A","addr:teryt:sym_ul":300966,"contact:email":"spchylin@wp.pl","ref:regon":"001190847","ref:vatin":"PL6681435072","operator":"Gmina W\u0142adys\u0142aw\u00f3w","operator:type":"government","amenity":"school"}},{"id":32042,"type":"Feature","geometry":{"type":"Point","coordinates":[18.4017,52.13618]},"properties":{"isced:level":"1;2","ref:rspo":32042,"official_name":"Szko\u0142a Podstawowa w Wyszynie","name":"Szko\u0142a Podstawowa w Wyszynie","addr:country":"PL","addr:postcode":"62-710","addr:city":"Wyszyna","addr:street":"ul. Turkowska","addr:housenumber":"1","addr:teryt:simc":23157,"addr:teryt:sym_ul":301227,"contact:phone":"+48 632788051","contact:email":"spwyszyna@op.pl","contact:website":"http:\/\/spwyszyna.edupage.org","ref:regon":"001190830","ref:vatin":"PL6681434871","operator":"Gmina W\u0142adys\u0142aw\u00f3w","operator:type":"government","amenity":"school"}},{"id":32038,"type":"Feature","geometry":{"type":"Point","coordinates":[18.4943679,52.140068]},"properties":{"isced:level":"1;2","ref:rspo":32038,"official_name":"Szko\u0142a Podstawowa w Natalii","name":"Szko\u0142a Podstawowa w Natalii","addr:country":"PL","addr:postcode":"62-710","addr:place":"Natalia","addr:housenumber":"22","addr:teryt:sym_ul":301115,"contact:phone":"+48 632788046","contact:email":"spnatalia@wp.pl","ref:regon":"001189732","ref:vatin":"PL6681435014","operator":"Gmina W\u0142adys\u0142aw\u00f3w","operator:type":"government","amenity":"school"}},{"id":32026,"type":"Feature","geometry":{"type":"Point","coordinates":[18.437417,52.1531419]},"properties":{"isced:level":"1;2","ref:rspo":32026,"official_name":"Szko\u0142a Podstawowa im.alfreda Delonga w Kunach","name":"Szko\u0142a Podstawowa im.alfreda Delonga w Kunach","addr:country":"PL","addr:postcode":"62-710","addr:place":"Kuny","addr:housenumber":"137","addr:teryt:sym_ul":301010,"contact:phone":"+48 632788047","contact:email":"spkuny@wp.pl","contact:website":"http:\/\/www.spkuny.pl","ref:regon":"001189726","ref:vatin":"PL6681435095","operator":"Gmina W\u0142adys\u0142aw\u00f3w","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 32060,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.4694499,
+                    52.10037
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 32060,
+                "official_name": "Szko\u0142a Podstawowa we W\u0142adys\u0142awowie",
+                "name": "Szko\u0142a Podstawowa we W\u0142adys\u0142awowie",
+                "addr:country": "PL",
+                "addr:postcode": "62-710",
+                "addr:city": "W\u0142adys\u0142aw\u00f3w",
+                "addr:street": "ul. Jagiello\u0144ska",
+                "addr:housenumber": "1B",
+                "addr:teryt:simc": 7029,
+                "addr:teryt:sym_ul": 301210,
+                "contact:phone": "+48 633001055",
+                "contact:email": "gimwladyslawow@wp.pl",
+                "contact:website": "http:\/\/www.spwladyslawow.pl",
+                "ref:regon": "000273695",
+                "ref:vatin": "PL6681971327",
+                "operator": "Gmina W\u0142adys\u0142aw\u00f3w",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 32041,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.47024,
+                    52.10204
+                ]
+            },
+            "properties": {
+                "ref:rspo": 32041,
+                "official_name": "Przedszkole Gminne we W\u0142adys\u0142awowie",
+                "name": "Przedszkole Gminne we W\u0142adys\u0142awowie",
+                "addr:country": "PL",
+                "addr:postcode": "62-710",
+                "addr:city": "W\u0142adys\u0142aw\u00f3w",
+                "addr:street": "ul. Kaliska",
+                "addr:housenumber": "17A",
+                "addr:teryt:simc": 7823,
+                "addr:teryt:sym_ul": 301210,
+                "contact:phone": "+48 632788042",
+                "contact:email": "przeds@wp.pl",
+                "contact:website": "http:\/\/www.przedszkole.wladyslawow.pl",
+                "ref:regon": "000996867",
+                "ref:vatin": "PL6681434925",
+                "operator": "Gmina W\u0142adys\u0142aw\u00f3w",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 32039,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.4345049,
+                    52.118327
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 32039,
+                "official_name": "Szko\u0142a Podstawowa w Chylinie",
+                "name": "Szko\u0142a Podstawowa w Chylinie",
+                "addr:country": "PL",
+                "addr:postcode": "62-710",
+                "addr:place": "Chylin",
+                "addr:housenumber": "87A",
+                "addr:teryt:sym_ul": 300966,
+                "contact:email": "spchylin@wp.pl",
+                "ref:regon": "001190847",
+                "ref:vatin": "PL6681435072",
+                "operator": "Gmina W\u0142adys\u0142aw\u00f3w",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 32042,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.4017,
+                    52.13618
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 32042,
+                "official_name": "Szko\u0142a Podstawowa w Wyszynie",
+                "name": "Szko\u0142a Podstawowa w Wyszynie",
+                "addr:country": "PL",
+                "addr:postcode": "62-710",
+                "addr:city": "Wyszyna",
+                "addr:street": "ul. Turkowska",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 23157,
+                "addr:teryt:sym_ul": 301227,
+                "contact:phone": "+48 632788051",
+                "contact:email": "spwyszyna@op.pl",
+                "contact:website": "http:\/\/spwyszyna.edupage.org",
+                "ref:regon": "001190830",
+                "ref:vatin": "PL6681434871",
+                "operator": "Gmina W\u0142adys\u0142aw\u00f3w",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 32038,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.4943679,
+                    52.140068
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 32038,
+                "official_name": "Szko\u0142a Podstawowa w Natalii",
+                "name": "Szko\u0142a Podstawowa w Natalii",
+                "addr:country": "PL",
+                "addr:postcode": "62-710",
+                "addr:place": "Natalia",
+                "addr:housenumber": "22",
+                "addr:teryt:sym_ul": 301115,
+                "contact:phone": "+48 632788046",
+                "contact:email": "spnatalia@wp.pl",
+                "ref:regon": "001189732",
+                "ref:vatin": "PL6681435014",
+                "operator": "Gmina W\u0142adys\u0142aw\u00f3w",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 32026,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.437417,
+                    52.1531419
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 32026,
+                "official_name": "Szko\u0142a Podstawowa im.alfreda Delonga w Kunach",
+                "name": "Szko\u0142a Podstawowa im.alfreda Delonga w Kunach",
+                "addr:country": "PL",
+                "addr:postcode": "62-710",
+                "addr:place": "Kuny",
+                "addr:housenumber": "137",
+                "addr:teryt:sym_ul": 301010,
+                "contact:phone": "+48 632788047",
+                "contact:email": "spkuny@wp.pl",
+                "contact:website": "http:\/\/www.spkuny.pl",
+                "ref:regon": "001189726",
+                "ref:vatin": "PL6681435095",
+                "operator": "Gmina W\u0142adys\u0142aw\u00f3w",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

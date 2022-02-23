@@ -1,1 +1,156 @@
-{"type":"FeatureCollection","features":[{"id":125985,"type":"Feature","geometry":{"type":"Point","coordinates":[22.5827,50.36171]},"properties":{"isced:level":"1;2","ref:rspo":125985,"official_name":"Publiczna Szko\u0142a Podstawowa im.ken w Szyszkowie Szko\u0142a Filialna w D\u0105br\u00f3wce","name":"Publiczna Szko\u0142a Podstawowa im.ken w Szyszkowie Szko\u0142a Filialna w D\u0105br\u00f3wce","addr:country":"PL","addr:postcode":"23-423","addr:place":"D\u0105br\u00f3wka","addr:housenumber":"110","addr:teryt:sym_ul":896255,"contact:phone":"+48 846852503","contact:email":"spszyszkow@poczta.onet.pl","contact:website":"http:\/\/spszyszkow.edupage.org","ref:regon":"577372000","operator":"Gmina  Potok  G\u00f3rny","operator:type":"government","amenity":"school","note":"Parent RSPO: 68840"}},{"id":68840,"type":"Feature","geometry":{"type":"Point","coordinates":[22.5371,50.36437]},"properties":{"isced:level":"1;2","ref:rspo":68840,"official_name":"Publiczna Szko\u0142a Podstawowa im. Ken w Szyszkowie","name":"Publiczna Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"23-423","addr:place":"Szyszk\u00f3w","addr:housenumber":"27A","addr:teryt:sym_ul":896485,"contact:phone":"+48 846852503","contact:email":"spszyszkow@poczta.onet.pl","contact:website":"http:\/\/spszyszkow.edupage.org","ref:regon":"000577372","ref:vatin":"PL9181840724","operator":"Gmina  Potok  G\u00f3rny","operator:type":"government","amenity":"school","note":"Children RSPO: 125985"}},{"id":106073,"type":"Feature","geometry":{"type":"Point","coordinates":[22.55759,50.38528]},"properties":{"isced:level":"1;2","ref:rspo":106073,"official_name":"Publiczna Szko\u0142a Podstawowa im.powstania Styczniowegow Potoku G\u00f3rnym","name":"Publiczna Szko\u0142a Podstawowa im.powstania Styczniowegow Potoku G\u00f3rnym","addr:country":"PL","addr:postcode":"23-423","addr:place":"Potok G\u00f3rny","addr:housenumber":"193","addr:teryt:sym_ul":896410,"contact:phone":"+48 846852515","contact:email":"potokszkola@poczta.onet.pl","contact:website":"http:\/\/www.sppotok.cba.pl","ref:regon":"001135966","ref:vatin":"PL9181841066","operator":"Gmina  Potok  G\u00f3rny","operator:type":"government","amenity":"school"}},{"id":68844,"type":"Feature","geometry":{"type":"Point","coordinates":[22.4699199,50.41083]},"properties":{"isced:level":"1;2","ref:rspo":68844,"official_name":"Publiczna Szko\u0142a Podstawowa im. \u015aw. Franciszka Z Asy\u017cu w Lipinach Dolnych","name":"Publiczna Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"23-423","addr:place":"Lipiny Dolne","addr:housenumber":"156A","addr:teryt:sym_ul":896315,"contact:phone":"+48 846853004","contact:email":"dyrektorspld@wp.pl","contact:website":"https:\/\/splipinydolne.edupage.org\/","ref:regon":"001135950","ref:vatin":"PL9181840693","operator":"Gmina  Potok  G\u00f3rny","operator:type":"government","amenity":"school"}},{"id":68843,"type":"Feature","geometry":{"type":"Point","coordinates":[22.48717,50.41912]},"properties":{"isced:level":"1;2","ref:rspo":68843,"official_name":"Publiczna Szko\u0142a Podstawowa im. T. Ko\u015bciuszki w Lipinach G\u00f3rnych","name":"Publiczna Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"23-423","addr:place":"Lipiny G\u00f3rne-Borowina","addr:housenumber":"1A","addr:teryt:sym_ul":896350,"contact:phone":"+48 846853011","contact:email":"splipiny@vp.pl","contact:website":"http:\/\/splipiny.edupage.org","ref:regon":"001135972","ref:vatin":"PL9181840730","operator":"Gmina  Potok  G\u00f3rny","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 125985,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.5827,
+                    50.36171
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 125985,
+                "official_name": "Publiczna Szko\u0142a Podstawowa im.ken w Szyszkowie Szko\u0142a Filialna w D\u0105br\u00f3wce",
+                "name": "Publiczna Szko\u0142a Podstawowa im.ken w Szyszkowie Szko\u0142a Filialna w D\u0105br\u00f3wce",
+                "addr:country": "PL",
+                "addr:postcode": "23-423",
+                "addr:place": "D\u0105br\u00f3wka",
+                "addr:housenumber": "110",
+                "addr:teryt:sym_ul": 896255,
+                "contact:phone": "+48 846852503",
+                "contact:email": "spszyszkow@poczta.onet.pl",
+                "contact:website": "http:\/\/spszyszkow.edupage.org",
+                "ref:regon": "577372000",
+                "operator": "Gmina  Potok  G\u00f3rny",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 68840"
+            }
+        },
+        {
+            "id": 68840,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.5371,
+                    50.36437
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 68840,
+                "official_name": "Publiczna Szko\u0142a Podstawowa im. Ken w Szyszkowie",
+                "name": "Publiczna Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "23-423",
+                "addr:place": "Szyszk\u00f3w",
+                "addr:housenumber": "27A",
+                "addr:teryt:sym_ul": 896485,
+                "contact:phone": "+48 846852503",
+                "contact:email": "spszyszkow@poczta.onet.pl",
+                "contact:website": "http:\/\/spszyszkow.edupage.org",
+                "ref:regon": "000577372",
+                "ref:vatin": "PL9181840724",
+                "operator": "Gmina  Potok  G\u00f3rny",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Children RSPO: 125985"
+            }
+        },
+        {
+            "id": 106073,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.55759,
+                    50.38528
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 106073,
+                "official_name": "Publiczna Szko\u0142a Podstawowa im.powstania Styczniowegow Potoku G\u00f3rnym",
+                "name": "Publiczna Szko\u0142a Podstawowa im.powstania Styczniowegow Potoku G\u00f3rnym",
+                "addr:country": "PL",
+                "addr:postcode": "23-423",
+                "addr:place": "Potok G\u00f3rny",
+                "addr:housenumber": "193",
+                "addr:teryt:sym_ul": 896410,
+                "contact:phone": "+48 846852515",
+                "contact:email": "potokszkola@poczta.onet.pl",
+                "contact:website": "http:\/\/www.sppotok.cba.pl",
+                "ref:regon": "001135966",
+                "ref:vatin": "PL9181841066",
+                "operator": "Gmina  Potok  G\u00f3rny",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 68844,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.4699199,
+                    50.41083
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 68844,
+                "official_name": "Publiczna Szko\u0142a Podstawowa im. \u015aw. Franciszka Z Asy\u017cu w Lipinach Dolnych",
+                "name": "Publiczna Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "23-423",
+                "addr:place": "Lipiny Dolne",
+                "addr:housenumber": "156A",
+                "addr:teryt:sym_ul": 896315,
+                "contact:phone": "+48 846853004",
+                "contact:email": "dyrektorspld@wp.pl",
+                "contact:website": "https:\/\/splipinydolne.edupage.org\/",
+                "ref:regon": "001135950",
+                "ref:vatin": "PL9181840693",
+                "operator": "Gmina  Potok  G\u00f3rny",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 68843,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.48717,
+                    50.41912
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 68843,
+                "official_name": "Publiczna Szko\u0142a Podstawowa im. T. Ko\u015bciuszki w Lipinach G\u00f3rnych",
+                "name": "Publiczna Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "23-423",
+                "addr:place": "Lipiny G\u00f3rne-Borowina",
+                "addr:housenumber": "1A",
+                "addr:teryt:sym_ul": 896350,
+                "contact:phone": "+48 846853011",
+                "contact:email": "splipiny@vp.pl",
+                "contact:website": "http:\/\/splipiny.edupage.org",
+                "ref:regon": "001135972",
+                "ref:vatin": "PL9181840730",
+                "operator": "Gmina  Potok  G\u00f3rny",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

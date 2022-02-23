@@ -1,1 +1,132 @@
-{"type":"FeatureCollection","features":[{"id":8768,"type":"Feature","geometry":{"type":"Point","coordinates":[19.42309,50.5239]},"properties":{"isced:level":"1;2","ref:rspo":8768,"official_name":"Szko\u0142a Podstawowa w Rudnikach","name":"Szko\u0142a Podstawowa w Rudnikach","addr:country":"PL","addr:postcode":"42-421","addr:city":"Rudniki","addr:street":"ul. Szkolna","addr:housenumber":"11","addr:teryt:simc":21970,"addr:teryt:sym_ul":146761,"contact:phone":"+48 343156548","contact:email":"szkolarudniki@wlodowice.pl","contact:website":"http:\/\/rudniki.edupage.org","ref:regon":"001198487","ref:vatin":"PL6492016902","operator":"Gmina W\u0142odowice","operator:type":"government","amenity":"school"}},{"id":4285,"type":"Feature","geometry":{"type":"Point","coordinates":[19.46379,50.54023]},"properties":{"isced:level":"1;2","ref:rspo":4285,"official_name":"Szko\u0142a Podstawowa im. W\u0142adys\u0142awa Broniewskiego we W\u0142odowicach Z Fili\u0105 w Zdowie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"42-421","addr:city":"W\u0142odowice","addr:street":"ul. Krakowska","addr:housenumber":"13","addr:teryt:simc":9796,"addr:teryt:sym_ul":146821,"contact:phone":"+48 343153011","contact:email":"wlodowice@poczta.fm","contact:website":"http:\/\/www.spwlodowice.szkolnastrona.pl","ref:regon":"000630468","ref:vatin":"PL6492016931","operator":"Gmina W\u0142odowice","operator:type":"government","amenity":"school","note":"Children RSPO: 8725"}},{"id":8782,"type":"Feature","geometry":{"type":"Point","coordinates":[19.45654,50.55046]},"properties":{"ref:rspo":8782,"official_name":"Przedszkole we W\u0142odowicach","name":"Przedszkole we W\u0142odowicach","addr:country":"PL","addr:postcode":"42-421","addr:city":"W\u0142odowice","addr:street":"ul. Krakowska","addr:housenumber":"13a","addr:teryt:simc":9796,"addr:teryt:sym_ul":146821,"contact:phone":"+48 343153053","contact:email":"przedszkole@wlodowice.pl","ref:regon":"150033428","ref:vatin":"PL6492016960","operator":"Gmina W\u0142odowice","operator:type":"government","amenity":"kindergarten"}},{"id":8725,"type":"Feature","geometry":{"type":"Point","coordinates":[19.52593,50.60494]},"properties":{"isced:level":"1;2","ref:rspo":8725,"official_name":"Szko\u0142a Podstawowa im. W\u0142adys\u0142awa Broniewskiego we W\u0142odowicach Z Fili\u0105 w Zdowie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"42-421","addr:city":"Zd\u00f3w","addr:street":"ul. Topolowa","addr:housenumber":"1","addr:teryt:simc":22880,"addr:teryt:sym_ul":146838,"contact:phone":"+48 343153016","contact:email":"wlodowice@poczta.fm","contact:website":"http:\/\/www.spwlodowice.szkolnastrona.pl","ref:regon":"630468000","operator":"Gmina W\u0142odowice","operator:type":"government","amenity":"school","note":"Parent RSPO: 4285"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 8768,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.42309,
+                    50.5239
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 8768,
+                "official_name": "Szko\u0142a Podstawowa w Rudnikach",
+                "name": "Szko\u0142a Podstawowa w Rudnikach",
+                "addr:country": "PL",
+                "addr:postcode": "42-421",
+                "addr:city": "Rudniki",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "11",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 146761,
+                "contact:phone": "+48 343156548",
+                "contact:email": "szkolarudniki@wlodowice.pl",
+                "contact:website": "http:\/\/rudniki.edupage.org",
+                "ref:regon": "001198487",
+                "ref:vatin": "PL6492016902",
+                "operator": "Gmina W\u0142odowice",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 4285,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.46379,
+                    50.54023
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 4285,
+                "official_name": "Szko\u0142a Podstawowa im. W\u0142adys\u0142awa Broniewskiego we W\u0142odowicach Z Fili\u0105 w Zdowie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "42-421",
+                "addr:city": "W\u0142odowice",
+                "addr:street": "ul. Krakowska",
+                "addr:housenumber": "13",
+                "addr:teryt:simc": 9796,
+                "addr:teryt:sym_ul": 146821,
+                "contact:phone": "+48 343153011",
+                "contact:email": "wlodowice@poczta.fm",
+                "contact:website": "http:\/\/www.spwlodowice.szkolnastrona.pl",
+                "ref:regon": "000630468",
+                "ref:vatin": "PL6492016931",
+                "operator": "Gmina W\u0142odowice",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Children RSPO: 8725"
+            }
+        },
+        {
+            "id": 8782,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.45654,
+                    50.55046
+                ]
+            },
+            "properties": {
+                "ref:rspo": 8782,
+                "official_name": "Przedszkole we W\u0142odowicach",
+                "name": "Przedszkole we W\u0142odowicach",
+                "addr:country": "PL",
+                "addr:postcode": "42-421",
+                "addr:city": "W\u0142odowice",
+                "addr:street": "ul. Krakowska",
+                "addr:housenumber": "13a",
+                "addr:teryt:simc": 9796,
+                "addr:teryt:sym_ul": 146821,
+                "contact:phone": "+48 343153053",
+                "contact:email": "przedszkole@wlodowice.pl",
+                "ref:regon": "150033428",
+                "ref:vatin": "PL6492016960",
+                "operator": "Gmina W\u0142odowice",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 8725,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.52593,
+                    50.60494
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 8725,
+                "official_name": "Szko\u0142a Podstawowa im. W\u0142adys\u0142awa Broniewskiego we W\u0142odowicach Z Fili\u0105 w Zdowie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "42-421",
+                "addr:city": "Zd\u00f3w",
+                "addr:street": "ul. Topolowa",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 22880,
+                "addr:teryt:sym_ul": 146838,
+                "contact:phone": "+48 343153016",
+                "contact:email": "wlodowice@poczta.fm",
+                "contact:website": "http:\/\/www.spwlodowice.szkolnastrona.pl",
+                "ref:regon": "630468000",
+                "operator": "Gmina W\u0142odowice",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 4285"
+            }
+        }
+    ]
+}

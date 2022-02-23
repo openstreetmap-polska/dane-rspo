@@ -1,1 +1,207 @@
-{"type":"FeatureCollection","features":[{"id":23029,"type":"Feature","geometry":{"type":"Point","coordinates":[17.36555,51.1425]},"properties":{"isced:level":"1;2","ref:rspo":23029,"official_name":"Szko\u0142a Podstawowa Imienia Unicef w Ligocie Ma\u0142ej","name":"Szko\u0142a Podstawowa Imienia Unicef w Ligocie Ma\u0142ej","addr:country":"PL","addr:postcode":"56-400","addr:place":"Ligota Ma\u0142a","addr:housenumber":"15","addr:teryt:sym_ul":879021,"contact:phone":"+48 713140230","contact:email":"spligotamala@olesnica.wroc.pl","contact:website":"http:\/\/www.spligotamala.szkolnastrona.pl\/","ref:regon":"001181890","operator":"Gmina Ole\u015bnica","operator:type":"government","amenity":"school"}},{"id":8183,"type":"Feature","geometry":{"type":"Point","coordinates":[17.42923,51.15804]},"properties":{"isced:level":"1;2","ref:rspo":8183,"official_name":"Szko\u0142a Podstawowa im. Kawaler\u00f3w Orderu U\u015bmiechu w Smolnej","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"56-400","addr:place":"Smolna","addr:housenumber":"70","addr:teryt:sym_ul":879200,"contact:phone":"+48 713140233","contact:email":"spssekretariat@wp.pl","contact:website":"http:\/\/www.spsmolna.wroclaw.pl","ref:regon":"001181920","operator":"Gmina Ole\u015bnica","operator:type":"government","amenity":"school"}},{"id":20249,"type":"Feature","geometry":{"type":"Point","coordinates":[17.4849,51.19179]},"properties":{"isced:level":"1;2","ref:rspo":20249,"official_name":"Szko\u0142a Podstwowa we Wszech\u015bwi\u0119tem","name":"Szko\u0142a Podstwowa we Wszech\u015bwi\u0119tem","addr:country":"PL","addr:postcode":"56-400","addr:place":"Wszech\u015bwi\u0119te","addr:housenumber":"16B","addr:teryt:sym_ul":879274,"contact:phone":"+48 713140234","contact:email":"spwsz@olesnica.wroc.pl","contact:website":"http:\/\/spwszechswiete.szkolnastrona.pl\/","ref:regon":"001181937","operator":"Gmina Ole\u015bnica","operator:type":"government","amenity":"school"}},{"id":112215,"type":"Feature","geometry":{"type":"Point","coordinates":[17.4849,51.191759999999995]},"properties":{"ref:rspo":112215,"official_name":"Punkt Przedszkolny we Wszech\u015bwi\u0119tem","name":"Punkt Przedszkolny we Wszech\u015bwi\u0119tem","addr:country":"PL","addr:postcode":"56-400","addr:place":"Wszech\u015bwi\u0119te","addr:housenumber":"16B","addr:teryt:sym_ul":879274,"contact:phone":"+48 713140234","contact:email":"spwsz@olesnica.wroc.pl","contact:website":"http:\/\/spwszechswiete.szkolnastrona.pl\/","ref:regon":"022102462","operator":"Gmina Ole\u015bnica","operator:type":"government","amenity":"kindergarten"}},{"id":18823,"type":"Feature","geometry":{"type":"Point","coordinates":[17.44353,51.23115]},"properties":{"isced:level":"1;2","ref:rspo":18823,"official_name":"Szko\u0142a Podstawowa im. Or\u0142a Bia\u0142ego w Soko\u0142owicach","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"56-400","addr:place":"Soko\u0142owice","addr:housenumber":"24","addr:teryt:sym_ul":879216,"contact:phone":"+48 713140232","contact:email":"spsokolowice@olesnica.wroc.pl","contact:website":"http:\/\/www.spsokolowice.szkolnastrona.pl","ref:regon":"001181943","operator":"Gmina Ole\u015bnica","operator:type":"government","amenity":"school"}},{"id":121990,"type":"Feature","geometry":{"type":"Point","coordinates":[17.54029,51.23776]},"properties":{"ref:rspo":121990,"official_name":"Niepubliczne Przedszkole Przedszkolandia Poniatowice","name":"Niepubliczne Przedszkole Przedszkolandia Poniatowice","addr:country":"PL","addr:postcode":"56-400","addr:place":"Poniatowice","addr:housenumber":"86","addr:teryt:sym_ul":879162,"contact:phone":"+48 726272727","contact:email":"przedszkolandia.olesnica@wp.pl","contact:website":"http:\/\/www.przedszkolandia.oca.pl","ref:regon":"022353833","ref:vatin":"PL9110009082","operator":"Romuald Krzesi\u0144ski","operator:type":"private","amenity":"kindergarten"}},{"id":22906,"type":"Feature","geometry":{"type":"Point","coordinates":[17.54193,51.23994]},"properties":{"isced:level":"1;2","ref:rspo":22906,"official_name":"Szko\u0142a Podstawowa w Ligocie Polskiej","name":"Szko\u0142a Podstawowa w Ligocie Polskiej","addr:country":"PL","addr:postcode":"56-400","addr:place":"Ligota Polska","addr:housenumber":"3","addr:teryt:sym_ul":879038,"contact:phone":"+48 713140231","contact:email":"spligotapolska@olesnica.wroc.pl","contact:website":"http:\/\/www.splp.szkolnastrona.pl","ref:regon":"001181908","operator":"Gmina Ole\u015bnica","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 23029,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.36555,
+                    51.1425
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 23029,
+                "official_name": "Szko\u0142a Podstawowa Imienia Unicef w Ligocie Ma\u0142ej",
+                "name": "Szko\u0142a Podstawowa Imienia Unicef w Ligocie Ma\u0142ej",
+                "addr:country": "PL",
+                "addr:postcode": "56-400",
+                "addr:place": "Ligota Ma\u0142a",
+                "addr:housenumber": "15",
+                "addr:teryt:sym_ul": 879021,
+                "contact:phone": "+48 713140230",
+                "contact:email": "spligotamala@olesnica.wroc.pl",
+                "contact:website": "http:\/\/www.spligotamala.szkolnastrona.pl\/",
+                "ref:regon": "001181890",
+                "operator": "Gmina Ole\u015bnica",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 8183,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.42923,
+                    51.15804
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 8183,
+                "official_name": "Szko\u0142a Podstawowa im. Kawaler\u00f3w Orderu U\u015bmiechu w Smolnej",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "56-400",
+                "addr:place": "Smolna",
+                "addr:housenumber": "70",
+                "addr:teryt:sym_ul": 879200,
+                "contact:phone": "+48 713140233",
+                "contact:email": "spssekretariat@wp.pl",
+                "contact:website": "http:\/\/www.spsmolna.wroclaw.pl",
+                "ref:regon": "001181920",
+                "operator": "Gmina Ole\u015bnica",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 20249,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.4849,
+                    51.19179
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 20249,
+                "official_name": "Szko\u0142a Podstwowa we Wszech\u015bwi\u0119tem",
+                "name": "Szko\u0142a Podstwowa we Wszech\u015bwi\u0119tem",
+                "addr:country": "PL",
+                "addr:postcode": "56-400",
+                "addr:place": "Wszech\u015bwi\u0119te",
+                "addr:housenumber": "16B",
+                "addr:teryt:sym_ul": 879274,
+                "contact:phone": "+48 713140234",
+                "contact:email": "spwsz@olesnica.wroc.pl",
+                "contact:website": "http:\/\/spwszechswiete.szkolnastrona.pl\/",
+                "ref:regon": "001181937",
+                "operator": "Gmina Ole\u015bnica",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 112215,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.4849,
+                    51.191759999999995
+                ]
+            },
+            "properties": {
+                "ref:rspo": 112215,
+                "official_name": "Punkt Przedszkolny we Wszech\u015bwi\u0119tem",
+                "name": "Punkt Przedszkolny we Wszech\u015bwi\u0119tem",
+                "addr:country": "PL",
+                "addr:postcode": "56-400",
+                "addr:place": "Wszech\u015bwi\u0119te",
+                "addr:housenumber": "16B",
+                "addr:teryt:sym_ul": 879274,
+                "contact:phone": "+48 713140234",
+                "contact:email": "spwsz@olesnica.wroc.pl",
+                "contact:website": "http:\/\/spwszechswiete.szkolnastrona.pl\/",
+                "ref:regon": "022102462",
+                "operator": "Gmina Ole\u015bnica",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 18823,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.44353,
+                    51.23115
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 18823,
+                "official_name": "Szko\u0142a Podstawowa im. Or\u0142a Bia\u0142ego w Soko\u0142owicach",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "56-400",
+                "addr:place": "Soko\u0142owice",
+                "addr:housenumber": "24",
+                "addr:teryt:sym_ul": 879216,
+                "contact:phone": "+48 713140232",
+                "contact:email": "spsokolowice@olesnica.wroc.pl",
+                "contact:website": "http:\/\/www.spsokolowice.szkolnastrona.pl",
+                "ref:regon": "001181943",
+                "operator": "Gmina Ole\u015bnica",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 121990,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.54029,
+                    51.23776
+                ]
+            },
+            "properties": {
+                "ref:rspo": 121990,
+                "official_name": "Niepubliczne Przedszkole Przedszkolandia Poniatowice",
+                "name": "Niepubliczne Przedszkole Przedszkolandia Poniatowice",
+                "addr:country": "PL",
+                "addr:postcode": "56-400",
+                "addr:place": "Poniatowice",
+                "addr:housenumber": "86",
+                "addr:teryt:sym_ul": 879162,
+                "contact:phone": "+48 726272727",
+                "contact:email": "przedszkolandia.olesnica@wp.pl",
+                "contact:website": "http:\/\/www.przedszkolandia.oca.pl",
+                "ref:regon": "022353833",
+                "ref:vatin": "PL9110009082",
+                "operator": "Romuald Krzesi\u0144ski",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 22906,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.54193,
+                    51.23994
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 22906,
+                "official_name": "Szko\u0142a Podstawowa w Ligocie Polskiej",
+                "name": "Szko\u0142a Podstawowa w Ligocie Polskiej",
+                "addr:country": "PL",
+                "addr:postcode": "56-400",
+                "addr:place": "Ligota Polska",
+                "addr:housenumber": "3",
+                "addr:teryt:sym_ul": 879038,
+                "contact:phone": "+48 713140231",
+                "contact:email": "spligotapolska@olesnica.wroc.pl",
+                "contact:website": "http:\/\/www.splp.szkolnastrona.pl",
+                "ref:regon": "001181908",
+                "operator": "Gmina Ole\u015bnica",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

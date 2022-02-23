@@ -1,1 +1,211 @@
-{"type":"FeatureCollection","features":[{"id":3505,"type":"Feature","geometry":{"type":"Point","coordinates":[21.0626303,49.7663952]},"properties":{"ref:rspo":3505,"official_name":"Przedszkole Publiczne w Turzy","name":"Przedszkole Publiczne w Turzy","addr:country":"PL","addr:postcode":"33-167","addr:place":"Turza","addr:housenumber":"280","addr:teryt:sym_ul":829767,"contact:phone":"+48 146531088","contact:email":"przedszkoleturza@gmail.com","contact:website":"http:\/\/www.turza.eprzedszkola.pl","ref:regon":"850467091","ref:vatin":"PL8732032179","operator":"Gmina Rzepiennik Strzy\u017cewski","operator:type":"government","amenity":"kindergarten"}},{"id":6005,"type":"Feature","geometry":{"type":"Point","coordinates":[21.09695,49.77408]},"properties":{"isced:level":"1;2","ref:rspo":6005,"official_name":"Szko\u0142a Podstawowa w Turzy","name":"Szko\u0142a Podstawowa w Turzy","addr:country":"PL","addr:postcode":"33-167","addr:place":"Turza","addr:housenumber":"2","addr:teryt:sym_ul":829767,"contact:phone":"+48 146531085","contact:email":"spturza@op.pl","ref:regon":"000718810","ref:vatin":"PL8731794852","operator":"Gmina Rzepiennik Strzy\u017cewski","operator:type":"government","amenity":"school"}},{"id":3556,"type":"Feature","geometry":{"type":"Point","coordinates":[21.12113,49.77903]},"properties":{"isced:level":"1;2","ref:rspo":3556,"official_name":"Szko\u0142a Podstawowa w Rzepienniku Suchym im.marii Konopnickiej","name":"Szko\u0142a Podstawowa w Rzepienniku Suchym im.marii Konopnickiej","addr:country":"PL","addr:postcode":"33-163","addr:place":"Rzepiennik Suchy","addr:housenumber":"176","addr:teryt:sym_ul":829721,"contact:phone":"+48 146531569","contact:email":"szkola@spsuchy.pl","contact:website":"http:\/\/www.spsuchy.pl","ref:regon":"001189123","ref:vatin":"PL8731794800","operator":"Gmina Rzepiennik Strzy\u017cewski","operator:type":"government","amenity":"school"}},{"id":3549,"type":"Feature","geometry":{"type":"Point","coordinates":[21.07933,49.79325]},"properties":{"ref:rspo":3549,"official_name":"Przedszkole Publiczne w Rzepienniku Biskupim","name":"Przedszkole Publiczne w Rzepienniku Biskupim","addr:country":"PL","addr:postcode":"33-163","addr:place":"Rzepiennik Biskupi","addr:housenumber":"223","addr:teryt:sym_ul":829566,"contact:phone":"+48 146530030","contact:email":"przedszkolebiskupi@gmail.com","contact:website":"http:\/\/biskupi.eprzedszkola.pl","ref:regon":"850467100","ref:vatin":"PL8732031665","operator":"Gmina Rzepiennik Strzy\u017cewski","operator:type":"government","amenity":"kindergarten"}},{"id":3551,"type":"Feature","geometry":{"type":"Point","coordinates":[21.071979,49.7997632]},"properties":{"isced:level":"1;2","ref:rspo":3551,"official_name":"Szko\u0142a Podstawowa w Rzepienniku Biskupim","name":"Szko\u0142a Podstawowa w Rzepienniku Biskupim","addr:country":"PL","addr:postcode":"33-163","addr:place":"Rzepiennik Biskupi","addr:housenumber":"292","addr:teryt:sym_ul":829566,"contact:phone":"+48 146530028","contact:email":"szkola@spbiskupi.pl","contact:website":"http:\/\/www.spbiskupi.pl","ref:regon":"001189100","ref:vatin":"PL8731794697","operator":"Gmina Rzepiennik Strzy\u017cewski","operator:type":"government","amenity":"school"}},{"id":3550,"type":"Feature","geometry":{"type":"Point","coordinates":[21.03557,49.80765]},"properties":{"isced:level":"1;2","ref:rspo":3550,"official_name":"Szko\u0142a Podstawowa w Rzepienniku Strzy\u017cewskim","name":"Szko\u0142a Podstawowa w Rzepienniku Strzy\u017cewskim","addr:country":"PL","addr:postcode":"33-163","addr:place":"Rzepiennik Strzy\u017cewski","addr:housenumber":"402","addr:teryt:sym_ul":829655,"contact:phone":"+48 146530014","contact:email":"szkola@sprzepiennikstrzyzewski.edupoczta.pl","contact:website":"http:\/\/www.sprzepiennik.iap.pl","ref:regon":"001189117","ref:vatin":"PL8731794757","operator":"Gmina Rzepiennik Strzy\u017cewski","operator:type":"government","amenity":"school"}},{"id":5993,"type":"Feature","geometry":{"type":"Point","coordinates":[21.1373399,49.81401]},"properties":{"isced:level":"1;2","ref:rspo":5993,"official_name":"Szko\u0142a Podstawowa im. Jana Paw\u0142a II w Olszynach","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"33-164","addr:place":"Olszyny","addr:housenumber":"62","addr:teryt:sym_ul":829431,"contact:phone":"+48 146532654","contact:email":"szkola@spolszyny.edu.pl","ref:regon":"001189092","ref:vatin":"PL8731794728","operator":"Gmina Rzepiennik Strzy\u017cewski","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 3505,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0626303,
+                    49.7663952
+                ]
+            },
+            "properties": {
+                "ref:rspo": 3505,
+                "official_name": "Przedszkole Publiczne w Turzy",
+                "name": "Przedszkole Publiczne w Turzy",
+                "addr:country": "PL",
+                "addr:postcode": "33-167",
+                "addr:place": "Turza",
+                "addr:housenumber": "280",
+                "addr:teryt:sym_ul": 829767,
+                "contact:phone": "+48 146531088",
+                "contact:email": "przedszkoleturza@gmail.com",
+                "contact:website": "http:\/\/www.turza.eprzedszkola.pl",
+                "ref:regon": "850467091",
+                "ref:vatin": "PL8732032179",
+                "operator": "Gmina Rzepiennik Strzy\u017cewski",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 6005,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.09695,
+                    49.77408
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 6005,
+                "official_name": "Szko\u0142a Podstawowa w Turzy",
+                "name": "Szko\u0142a Podstawowa w Turzy",
+                "addr:country": "PL",
+                "addr:postcode": "33-167",
+                "addr:place": "Turza",
+                "addr:housenumber": "2",
+                "addr:teryt:sym_ul": 829767,
+                "contact:phone": "+48 146531085",
+                "contact:email": "spturza@op.pl",
+                "ref:regon": "000718810",
+                "ref:vatin": "PL8731794852",
+                "operator": "Gmina Rzepiennik Strzy\u017cewski",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 3556,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.12113,
+                    49.77903
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 3556,
+                "official_name": "Szko\u0142a Podstawowa w Rzepienniku Suchym im.marii Konopnickiej",
+                "name": "Szko\u0142a Podstawowa w Rzepienniku Suchym im.marii Konopnickiej",
+                "addr:country": "PL",
+                "addr:postcode": "33-163",
+                "addr:place": "Rzepiennik Suchy",
+                "addr:housenumber": "176",
+                "addr:teryt:sym_ul": 829721,
+                "contact:phone": "+48 146531569",
+                "contact:email": "szkola@spsuchy.pl",
+                "contact:website": "http:\/\/www.spsuchy.pl",
+                "ref:regon": "001189123",
+                "ref:vatin": "PL8731794800",
+                "operator": "Gmina Rzepiennik Strzy\u017cewski",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 3549,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.07933,
+                    49.79325
+                ]
+            },
+            "properties": {
+                "ref:rspo": 3549,
+                "official_name": "Przedszkole Publiczne w Rzepienniku Biskupim",
+                "name": "Przedszkole Publiczne w Rzepienniku Biskupim",
+                "addr:country": "PL",
+                "addr:postcode": "33-163",
+                "addr:place": "Rzepiennik Biskupi",
+                "addr:housenumber": "223",
+                "addr:teryt:sym_ul": 829566,
+                "contact:phone": "+48 146530030",
+                "contact:email": "przedszkolebiskupi@gmail.com",
+                "contact:website": "http:\/\/biskupi.eprzedszkola.pl",
+                "ref:regon": "850467100",
+                "ref:vatin": "PL8732031665",
+                "operator": "Gmina Rzepiennik Strzy\u017cewski",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 3551,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.071979,
+                    49.7997632
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 3551,
+                "official_name": "Szko\u0142a Podstawowa w Rzepienniku Biskupim",
+                "name": "Szko\u0142a Podstawowa w Rzepienniku Biskupim",
+                "addr:country": "PL",
+                "addr:postcode": "33-163",
+                "addr:place": "Rzepiennik Biskupi",
+                "addr:housenumber": "292",
+                "addr:teryt:sym_ul": 829566,
+                "contact:phone": "+48 146530028",
+                "contact:email": "szkola@spbiskupi.pl",
+                "contact:website": "http:\/\/www.spbiskupi.pl",
+                "ref:regon": "001189100",
+                "ref:vatin": "PL8731794697",
+                "operator": "Gmina Rzepiennik Strzy\u017cewski",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 3550,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.03557,
+                    49.80765
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 3550,
+                "official_name": "Szko\u0142a Podstawowa w Rzepienniku Strzy\u017cewskim",
+                "name": "Szko\u0142a Podstawowa w Rzepienniku Strzy\u017cewskim",
+                "addr:country": "PL",
+                "addr:postcode": "33-163",
+                "addr:place": "Rzepiennik Strzy\u017cewski",
+                "addr:housenumber": "402",
+                "addr:teryt:sym_ul": 829655,
+                "contact:phone": "+48 146530014",
+                "contact:email": "szkola@sprzepiennikstrzyzewski.edupoczta.pl",
+                "contact:website": "http:\/\/www.sprzepiennik.iap.pl",
+                "ref:regon": "001189117",
+                "ref:vatin": "PL8731794757",
+                "operator": "Gmina Rzepiennik Strzy\u017cewski",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 5993,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.1373399,
+                    49.81401
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 5993,
+                "official_name": "Szko\u0142a Podstawowa im. Jana Paw\u0142a II w Olszynach",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "33-164",
+                "addr:place": "Olszyny",
+                "addr:housenumber": "62",
+                "addr:teryt:sym_ul": 829431,
+                "contact:phone": "+48 146532654",
+                "contact:email": "szkola@spolszyny.edu.pl",
+                "ref:regon": "001189092",
+                "ref:vatin": "PL8731794728",
+                "operator": "Gmina Rzepiennik Strzy\u017cewski",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

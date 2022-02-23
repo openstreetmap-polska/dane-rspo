@@ -1,1 +1,150 @@
-{"type":"FeatureCollection","features":[{"id":79270,"type":"Feature","geometry":{"type":"Point","coordinates":[18.63502,51.31307]},"properties":{"isced:level":"1;2","ref:rspo":79270,"official_name":"Szko\u0142a Podstawowa w Skrzynnie","name":"Szko\u0142a Podstawowa w Skrzynnie","addr:country":"PL","addr:postcode":"98-311","addr:place":"Skrzynno","addr:housenumber":"96","addr:teryt:sym_ul":708992,"contact:phone":"+48 438415017","contact:email":"spskrzynno@poczta.onet.pl","ref:regon":"000559032","ref:vatin":"PL8321853584","operator":"Gmina Ostr\u00f3wek","operator:type":"government","amenity":"school"}},{"id":79267,"type":"Feature","geometry":{"type":"Point","coordinates":[18.5770899,51.32842]},"properties":{"isced:level":"1;2","ref:rspo":79267,"official_name":"Szko\u0142a Podstawowa w Okalewie","name":"Szko\u0142a Podstawowa w Okalewie","addr:country":"PL","addr:postcode":"98-311","addr:place":"Okalew","addr:housenumber":"19","addr:teryt:sym_ul":708880,"contact:phone":"+48 438415022","contact:email":"sp_okalew@o2.pl","ref:regon":"001150405","ref:vatin":"PL8321853561","operator":"Gmina Ostr\u00f3wek","operator:type":"government","amenity":"school"}},{"id":79269,"type":"Feature","geometry":{"type":"Point","coordinates":[18.62245,51.33571]},"properties":{"isced:level":"1;2","ref:rspo":79269,"official_name":"Szko\u0142a Podstawowa im. Rotmistrza Witolda Pileckiego w Ostr\u00f3wku","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"98-311","addr:place":"Ostr\u00f3wek","addr:housenumber":"95","addr:teryt:sym_ul":708911,"contact:phone":"+48 438415958","contact:email":"spostrowek@op.pl","ref:regon":"001150374","ref:vatin":"PL8321853578","operator":"Gmina Ostr\u00f3wek","operator:type":"government","amenity":"school"}},{"id":80391,"type":"Feature","geometry":{"type":"Point","coordinates":[18.62245,51.335679999999996]},"properties":{"ref:rspo":80391,"official_name":"Przedszkole w Ostr\u00f3wku","name":"Przedszkole w Ostr\u00f3wku","addr:country":"PL","addr:postcode":"98-311","addr:place":"Ostr\u00f3wek","addr:housenumber":"95","addr:teryt:sym_ul":708911,"contact:phone":"+48 438418732","contact:email":"przedszkoleostrowek@o2.pl","ref:regon":"731015381","ref:vatin":"PL8321854477","operator":"Gmina Ostr\u00f3wek","operator:type":"government","amenity":"kindergarten"}},{"id":80414,"type":"Feature","geometry":{"type":"Point","coordinates":[18.5853499,51.36375]},"properties":{"isced:level":"1;2","ref:rspo":80414,"official_name":"Szko\u0142a Podstawowa w Janowie","name":"Szko\u0142a Podstawowa w Janowie","addr:country":"PL","addr:postcode":"98-311","addr:place":"Jan\u00f3w","addr:housenumber":"40","addr:teryt:sym_ul":708673,"contact:phone":"+48 438415815","contact:email":"janow.s.p@o2.pl","contact:website":"http:\/\/spjanow.szkolnastrona.pl","ref:regon":"001150380","ref:vatin":"PL8321853555","operator":"Gmina Ostr\u00f3wek","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 79270,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.63502,
+                    51.31307
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 79270,
+                "official_name": "Szko\u0142a Podstawowa w Skrzynnie",
+                "name": "Szko\u0142a Podstawowa w Skrzynnie",
+                "addr:country": "PL",
+                "addr:postcode": "98-311",
+                "addr:place": "Skrzynno",
+                "addr:housenumber": "96",
+                "addr:teryt:sym_ul": 708992,
+                "contact:phone": "+48 438415017",
+                "contact:email": "spskrzynno@poczta.onet.pl",
+                "ref:regon": "000559032",
+                "ref:vatin": "PL8321853584",
+                "operator": "Gmina Ostr\u00f3wek",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 79267,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.5770899,
+                    51.32842
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 79267,
+                "official_name": "Szko\u0142a Podstawowa w Okalewie",
+                "name": "Szko\u0142a Podstawowa w Okalewie",
+                "addr:country": "PL",
+                "addr:postcode": "98-311",
+                "addr:place": "Okalew",
+                "addr:housenumber": "19",
+                "addr:teryt:sym_ul": 708880,
+                "contact:phone": "+48 438415022",
+                "contact:email": "sp_okalew@o2.pl",
+                "ref:regon": "001150405",
+                "ref:vatin": "PL8321853561",
+                "operator": "Gmina Ostr\u00f3wek",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 79269,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.62245,
+                    51.33571
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 79269,
+                "official_name": "Szko\u0142a Podstawowa im. Rotmistrza Witolda Pileckiego w Ostr\u00f3wku",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "98-311",
+                "addr:place": "Ostr\u00f3wek",
+                "addr:housenumber": "95",
+                "addr:teryt:sym_ul": 708911,
+                "contact:phone": "+48 438415958",
+                "contact:email": "spostrowek@op.pl",
+                "ref:regon": "001150374",
+                "ref:vatin": "PL8321853578",
+                "operator": "Gmina Ostr\u00f3wek",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 80391,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.62245,
+                    51.335679999999996
+                ]
+            },
+            "properties": {
+                "ref:rspo": 80391,
+                "official_name": "Przedszkole w Ostr\u00f3wku",
+                "name": "Przedszkole w Ostr\u00f3wku",
+                "addr:country": "PL",
+                "addr:postcode": "98-311",
+                "addr:place": "Ostr\u00f3wek",
+                "addr:housenumber": "95",
+                "addr:teryt:sym_ul": 708911,
+                "contact:phone": "+48 438418732",
+                "contact:email": "przedszkoleostrowek@o2.pl",
+                "ref:regon": "731015381",
+                "ref:vatin": "PL8321854477",
+                "operator": "Gmina Ostr\u00f3wek",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 80414,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.5853499,
+                    51.36375
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 80414,
+                "official_name": "Szko\u0142a Podstawowa w Janowie",
+                "name": "Szko\u0142a Podstawowa w Janowie",
+                "addr:country": "PL",
+                "addr:postcode": "98-311",
+                "addr:place": "Jan\u00f3w",
+                "addr:housenumber": "40",
+                "addr:teryt:sym_ul": 708673,
+                "contact:phone": "+48 438415815",
+                "contact:email": "janow.s.p@o2.pl",
+                "contact:website": "http:\/\/spjanow.szkolnastrona.pl",
+                "ref:regon": "001150380",
+                "ref:vatin": "PL8321853555",
+                "operator": "Gmina Ostr\u00f3wek",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

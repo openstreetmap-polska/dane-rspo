@@ -1,1 +1,92 @@
-{"type":"FeatureCollection","features":[{"id":263656,"type":"Feature","geometry":{"type":"Point","coordinates":[23.56698,50.61897]},"properties":{"ref:rspo":263656,"official_name":"Samorz\u0105dowe Przedszkole w Komarowie-Osadzie Z Siedzib\u0105 w Zubowicach","name":"Samorz\u0105dowe Przedszkole w Komarowie-Osadzie Z Siedzib\u0105 w Zubowicach","addr:country":"PL","addr:postcode":"22-435","addr:place":"Zubowice","addr:housenumber":"19","addr:teryt:sym_ul":891068,"contact:phone":"+48 846154013","contact:email":"przedszkole_zubowice@o2.pl","ref:regon":"368211246","operator":"Gmina Komar\u00f3w-Osada","operator:type":"government","amenity":"kindergarten"}},{"id":53360,"type":"Feature","geometry":{"type":"Point","coordinates":[23.4717976,50.6293569]},"properties":{"isced:level":"1;2","ref:rspo":53360,"official_name":"Szko\u0142a Podstawowa im.henryka Sienkiewicza w Komarowie-Osadzie","name":"Szko\u0142a Podstawowa im.henryka Sienkiewicza w Komarowie-Osadzie","addr:country":"PL","addr:postcode":"22-435","addr:city":"Komar\u00f3w-Osada","addr:street":"ul. Ko\u015bciuszki","addr:housenumber":"2","addr:teryt:simc":9572,"addr:teryt:sym_ul":890726,"contact:phone":"+48 846153143","contact:email":"spkomarowosada@gmail.com","ref:regon":"000266703","ref:vatin":"PL9222412073","operator":"Gmina Komar\u00f3w-Osada","operator:type":"government","amenity":"school"}},{"id":53358,"type":"Feature","geometry":{"type":"Point","coordinates":[23.45748,50.65669]},"properties":{"isced:level":"1;2","ref:rspo":53358,"official_name":"Szko\u0142a Podstawowa im. Jana Paw\u0142a II w Antoni\u00f3wce","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"22-435","addr:place":"Antoni\u00f3wka","addr:housenumber":"78","addr:teryt:sym_ul":890554,"contact:phone":"+48 846153294","contact:email":"spajp2@op.pl","ref:regon":"001134429","ref:vatin":"PL9222412104","operator":"Gmina Komar\u00f3w-Osada","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 263656,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.56698,
+                    50.61897
+                ]
+            },
+            "properties": {
+                "ref:rspo": 263656,
+                "official_name": "Samorz\u0105dowe Przedszkole w Komarowie-Osadzie Z Siedzib\u0105 w Zubowicach",
+                "name": "Samorz\u0105dowe Przedszkole w Komarowie-Osadzie Z Siedzib\u0105 w Zubowicach",
+                "addr:country": "PL",
+                "addr:postcode": "22-435",
+                "addr:place": "Zubowice",
+                "addr:housenumber": "19",
+                "addr:teryt:sym_ul": 891068,
+                "contact:phone": "+48 846154013",
+                "contact:email": "przedszkole_zubowice@o2.pl",
+                "ref:regon": "368211246",
+                "operator": "Gmina Komar\u00f3w-Osada",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 53360,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.4717976,
+                    50.6293569
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 53360,
+                "official_name": "Szko\u0142a Podstawowa im.henryka Sienkiewicza w Komarowie-Osadzie",
+                "name": "Szko\u0142a Podstawowa im.henryka Sienkiewicza w Komarowie-Osadzie",
+                "addr:country": "PL",
+                "addr:postcode": "22-435",
+                "addr:city": "Komar\u00f3w-Osada",
+                "addr:street": "ul. Ko\u015bciuszki",
+                "addr:housenumber": "2",
+                "addr:teryt:simc": 9572,
+                "addr:teryt:sym_ul": 890726,
+                "contact:phone": "+48 846153143",
+                "contact:email": "spkomarowosada@gmail.com",
+                "ref:regon": "000266703",
+                "ref:vatin": "PL9222412073",
+                "operator": "Gmina Komar\u00f3w-Osada",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 53358,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.45748,
+                    50.65669
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 53358,
+                "official_name": "Szko\u0142a Podstawowa im. Jana Paw\u0142a II w Antoni\u00f3wce",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "22-435",
+                "addr:place": "Antoni\u00f3wka",
+                "addr:housenumber": "78",
+                "addr:teryt:sym_ul": 890554,
+                "contact:phone": "+48 846153294",
+                "contact:email": "spajp2@op.pl",
+                "ref:regon": "001134429",
+                "ref:vatin": "PL9222412104",
+                "operator": "Gmina Komar\u00f3w-Osada",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

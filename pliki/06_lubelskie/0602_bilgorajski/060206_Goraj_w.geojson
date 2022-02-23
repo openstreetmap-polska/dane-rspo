@@ -1,1 +1,101 @@
-{"type":"FeatureCollection","features":[{"id":119138,"type":"Feature","geometry":{"type":"Point","coordinates":[22.66713,50.72027]},"properties":{"ref:rspo":119138,"official_name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 w Goraju","name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 w Goraju","addr:country":"PL","addr:postcode":"23-450","addr:city":"Goraj","addr:street":"ul. Bednarska","addr:housenumber":"8","addr:teryt:simc":956,"addr:teryt:sym_ul":887693,"contact:phone":"+48 846858025","contact:email":"zsgoraj@wp.pl","contact:website":"http:\/\/www.zsgoraj.pl","ref:regon":"061595193","ref:vatin":"PL9182162077","operator":"Gmina Goraj","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 10580;131598"}},{"id":10580,"type":"Feature","geometry":{"type":"Point","coordinates":[22.66713,50.72024]},"properties":{"isced:level":"1;2","ref:rspo":10580,"official_name":"Szko\u0142a Podstawowa im. Gen. W\u0142. Sikorskiego w Goraju","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"23-450","addr:city":"Goraj","addr:street":"ul. Bednarska","addr:housenumber":"8","addr:teryt:simc":956,"addr:teryt:sym_ul":887693,"contact:phone":"+48 846858025","contact:email":"zsgoraj@wp.pl","contact:website":"http:\/\/www.zsgoraj.pl","ref:regon":"000630899","operator":"Gmina Goraj","operator:type":"government","amenity":"school","note":"Parent RSPO: 119138"}},{"id":131598,"type":"Feature","geometry":{"type":"Point","coordinates":[22.66799,50.72101]},"properties":{"ref:rspo":131598,"official_name":"Przedszkole Samorz\u0105dowe w Goraju","name":"Przedszkole Samorz\u0105dowe w Goraju","addr:country":"PL","addr:postcode":"23-450","addr:city":"Goraj","addr:street":"ul. Frampolska","addr:housenumber":"3","addr:teryt:simc":5147,"addr:teryt:sym_ul":887693,"contact:phone":"+48 846385607","contact:email":"zsgoraj@wp.pl","contact:website":"http:\/\/www.zsgoraj.pl","ref:regon":"365314276","operator":"Gmina Goraj","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 119138"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 119138,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.66713,
+                    50.72027
+                ]
+            },
+            "properties": {
+                "ref:rspo": 119138,
+                "official_name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 w Goraju",
+                "name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 w Goraju",
+                "addr:country": "PL",
+                "addr:postcode": "23-450",
+                "addr:city": "Goraj",
+                "addr:street": "ul. Bednarska",
+                "addr:housenumber": "8",
+                "addr:teryt:simc": 956,
+                "addr:teryt:sym_ul": 887693,
+                "contact:phone": "+48 846858025",
+                "contact:email": "zsgoraj@wp.pl",
+                "contact:website": "http:\/\/www.zsgoraj.pl",
+                "ref:regon": "061595193",
+                "ref:vatin": "PL9182162077",
+                "operator": "Gmina Goraj",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 10580;131598"
+            }
+        },
+        {
+            "id": 10580,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.66713,
+                    50.72024
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 10580,
+                "official_name": "Szko\u0142a Podstawowa im. Gen. W\u0142. Sikorskiego w Goraju",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "23-450",
+                "addr:city": "Goraj",
+                "addr:street": "ul. Bednarska",
+                "addr:housenumber": "8",
+                "addr:teryt:simc": 956,
+                "addr:teryt:sym_ul": 887693,
+                "contact:phone": "+48 846858025",
+                "contact:email": "zsgoraj@wp.pl",
+                "contact:website": "http:\/\/www.zsgoraj.pl",
+                "ref:regon": "000630899",
+                "operator": "Gmina Goraj",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 119138"
+            }
+        },
+        {
+            "id": 131598,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.66799,
+                    50.72101
+                ]
+            },
+            "properties": {
+                "ref:rspo": 131598,
+                "official_name": "Przedszkole Samorz\u0105dowe w Goraju",
+                "name": "Przedszkole Samorz\u0105dowe w Goraju",
+                "addr:country": "PL",
+                "addr:postcode": "23-450",
+                "addr:city": "Goraj",
+                "addr:street": "ul. Frampolska",
+                "addr:housenumber": "3",
+                "addr:teryt:simc": 5147,
+                "addr:teryt:sym_ul": 887693,
+                "contact:phone": "+48 846385607",
+                "contact:email": "zsgoraj@wp.pl",
+                "contact:website": "http:\/\/www.zsgoraj.pl",
+                "ref:regon": "365314276",
+                "operator": "Gmina Goraj",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 119138"
+            }
+        }
+    ]
+}

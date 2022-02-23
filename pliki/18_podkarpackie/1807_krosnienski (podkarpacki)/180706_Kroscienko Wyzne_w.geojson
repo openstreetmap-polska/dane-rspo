@@ -1,1 +1,98 @@
-{"type":"FeatureCollection","features":[{"id":15171,"type":"Feature","geometry":{"type":"Point","coordinates":[21.82829,49.67318]},"properties":{"ref:rspo":15171,"official_name":"Samorz\u0105dowe Przedszkole im. Wandy Chotomskiej","name":"Samorz\u0105dowe Przedszkole","addr:country":"PL","addr:postcode":"38-422","addr:city":"Kro\u015bcienko Wy\u017cne","addr:street":"ul. Po\u0142udniowa","addr:housenumber":"11","addr:teryt:simc":17070,"addr:teryt:sym_ul":355080,"contact:phone":"+48 134315302","contact:email":"przedszkolekw@onet.eu","contact:website":"http:\/\/www.przedszkole.kroscienkowyzne.eu","ref:regon":"180465200","ref:vatin":"PL6842574489","operator":"Gmina Kro\u015bcienko Wy\u017cne","operator:type":"government","amenity":"kindergarten"}},{"id":30225,"type":"Feature","geometry":{"type":"Point","coordinates":[21.83144,49.67588]},"properties":{"ref:rspo":30225,"official_name":"Przedszkole \u015aw. J\u00f3zefa Prowadzone Przez Zgromadzenie Si\u00f3str S\u0142u\u017cebniczkek Nmp Np","name":"Przedszkole \u015aw. J\u00f3zefa Prowadzone Przez Zgromadzenie Si\u00f3str S\u0142u\u017cebniczkek Nmp Np","addr:country":"PL","addr:postcode":"38-422","addr:city":"Kro\u015bcienko Wy\u017cne","addr:street":"ul. Szkolna","addr:housenumber":"36","addr:teryt:simc":21970,"addr:teryt:sym_ul":355080,"contact:phone":"+48 134334647","contact:email":"siostrykroscienkowyzne@wp.pl","ref:regon":"180904093","ref:vatin":"PL6841790340","operator":"Zg.ss.s\u0142u\u017cebniczek Nmp Niepokalanie Pocz\u0119tej, Dom Generalny","operator:type":"religious","amenity":"kindergarten"}},{"id":34716,"type":"Feature","geometry":{"type":"Point","coordinates":[21.8291499,49.6764]},"properties":{"isced:level":"1;2","ref:rspo":34716,"official_name":"Publiczna Szko\u0142a Podstawowa im. Jana Paw\u0142a II w Kro\u015bcienku Wy\u017cnym","name":"Publiczna Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"38-422","addr:city":"Kro\u015bcienko Wy\u017cne","addr:street":"ul. Szkolna","addr:housenumber":"34","addr:teryt:simc":21970,"addr:teryt:sym_ul":355080,"contact:phone":"+48 134315019","contact:email":"pspkw@wp.pl","contact:website":"http:\/\/www.spkw.pl","ref:regon":"001214750","ref:vatin":"PL6842094424","operator":"Gmina Kro\u015bcienko Wy\u017cne","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 15171,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.82829,
+                    49.67318
+                ]
+            },
+            "properties": {
+                "ref:rspo": 15171,
+                "official_name": "Samorz\u0105dowe Przedszkole im. Wandy Chotomskiej",
+                "name": "Samorz\u0105dowe Przedszkole",
+                "addr:country": "PL",
+                "addr:postcode": "38-422",
+                "addr:city": "Kro\u015bcienko Wy\u017cne",
+                "addr:street": "ul. Po\u0142udniowa",
+                "addr:housenumber": "11",
+                "addr:teryt:simc": 17070,
+                "addr:teryt:sym_ul": 355080,
+                "contact:phone": "+48 134315302",
+                "contact:email": "przedszkolekw@onet.eu",
+                "contact:website": "http:\/\/www.przedszkole.kroscienkowyzne.eu",
+                "ref:regon": "180465200",
+                "ref:vatin": "PL6842574489",
+                "operator": "Gmina Kro\u015bcienko Wy\u017cne",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 30225,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.83144,
+                    49.67588
+                ]
+            },
+            "properties": {
+                "ref:rspo": 30225,
+                "official_name": "Przedszkole \u015aw. J\u00f3zefa Prowadzone Przez Zgromadzenie Si\u00f3str S\u0142u\u017cebniczkek Nmp Np",
+                "name": "Przedszkole \u015aw. J\u00f3zefa Prowadzone Przez Zgromadzenie Si\u00f3str S\u0142u\u017cebniczkek Nmp Np",
+                "addr:country": "PL",
+                "addr:postcode": "38-422",
+                "addr:city": "Kro\u015bcienko Wy\u017cne",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "36",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 355080,
+                "contact:phone": "+48 134334647",
+                "contact:email": "siostrykroscienkowyzne@wp.pl",
+                "ref:regon": "180904093",
+                "ref:vatin": "PL6841790340",
+                "operator": "Zg.ss.s\u0142u\u017cebniczek Nmp Niepokalanie Pocz\u0119tej, Dom Generalny",
+                "operator:type": "religious",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 34716,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.8291499,
+                    49.6764
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 34716,
+                "official_name": "Publiczna Szko\u0142a Podstawowa im. Jana Paw\u0142a II w Kro\u015bcienku Wy\u017cnym",
+                "name": "Publiczna Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "38-422",
+                "addr:city": "Kro\u015bcienko Wy\u017cne",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "34",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 355080,
+                "contact:phone": "+48 134315019",
+                "contact:email": "pspkw@wp.pl",
+                "contact:website": "http:\/\/www.spkw.pl",
+                "ref:regon": "001214750",
+                "ref:vatin": "PL6842094424",
+                "operator": "Gmina Kro\u015bcienko Wy\u017cne",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

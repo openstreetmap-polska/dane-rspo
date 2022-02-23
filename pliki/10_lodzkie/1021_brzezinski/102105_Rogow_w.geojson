@@ -1,1 +1,154 @@
-{"type":"FeatureCollection","features":[{"id":268588,"type":"Feature","geometry":{"type":"Point","coordinates":[19.8544899,51.78796]},"properties":{"isced:level":"1;2","ref:rspo":268588,"official_name":"Filia Szko\u0142y Podstawowej im. Marsza\u0142ka J\u00f3zefa Pi\u0142sudskiego w Rogowie Z Siedzib\u0105 w W\u0105grach,","name":"Filia Szko\u0142y Podstawowej","addr:country":"PL","addr:postcode":"95-063","addr:place":"W\u0105gry","addr:housenumber":"87","addr:teryt:sym_ul":736267,"contact:phone":"+48 468748863","contact:email":"zsrogow@gmail.com","ref:regon":"681046000","operator":"Gmina Rog\u00f3w","operator:type":"government","amenity":"school","note":"Parent RSPO: 11534"}},{"id":11534,"type":"Feature","geometry":{"type":"Point","coordinates":[19.88257,51.8168099]},"properties":{"isced:level":"1;2","ref:rspo":11534,"official_name":"Szko\u0142a Podstawowa im. Marsza\u0142ka J\u00f3zefa Pi\u0142sudskiego w Rogowie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"95-063","addr:city":"Rog\u00f3w","addr:street":"ul. Szkolna","addr:housenumber":"4","addr:teryt:simc":21970,"addr:teryt:sym_ul":736379,"contact:phone":"+48 468748031","contact:email":"zsrogow@gmail.com","ref:regon":"000681046","operator":"Gmina Rog\u00f3w","operator:type":"government","amenity":"school","note":"Children RSPO: 268588"}},{"id":14392,"type":"Feature","geometry":{"type":"Point","coordinates":[19.88942,51.81719]},"properties":{"ref:rspo":14392,"official_name":"Gminne Przedszkole w Rogowie","name":"Gminne Przedszkole w Rogowie","addr:country":"PL","addr:postcode":"95-063","addr:city":"Rog\u00f3w","addr:street":"ul. Targowa","addr:housenumber":"3","addr:teryt:simc":22659,"addr:teryt:sym_ul":736379,"contact:phone":"+48 509397639","contact:email":"przedszkolerogow@interia.pl","contact:website":"http:\/\/www.przedszkole_rogow.ecom.net.pl\/","ref:regon":"750021263","ref:vatin":"PL8331320872","operator":"Gmina Rog\u00f3w","operator:type":"government","amenity":"kindergarten"}},{"id":14393,"type":"Feature","geometry":{"type":"Point","coordinates":[19.84808,51.8202799]},"properties":{"ref:rspo":14393,"official_name":"Niepubliczne Przedszkole im. Marty Robin w Olszy","name":"Niepubliczne Przedszkole","addr:country":"PL","addr:postcode":"95-063","addr:place":"Olsza","addr:housenumber":"33","addr:teryt:sym_ul":736304,"contact:phone":"+48 468748605","contact:email":"basia.rilke@gmail.com","ref:regon":"101467547","ref:vatin":"PL8331015301","operator":"Stowarzyszenie \"Ognisko Mi\u0142o\u015bci\"","operator:type":"ngo","amenity":"kindergarten"}},{"id":15928,"type":"Feature","geometry":{"type":"Point","coordinates":[19.90712,51.84259]},"properties":{"isced:level":"1;2","ref:rspo":15928,"official_name":"Szko\u0142a Podstawowa im. W\u0142adys\u0142awa Stanis\u0142awa Reymonta w Przy\u0142\u0119ku Du\u017cym","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"95-063","addr:place":"Przy\u0142\u0119k Du\u017cy","addr:housenumber":"49","addr:teryt:sym_ul":736333,"contact:phone":"+48 468748032","contact:email":"szkolap@op.pl","contact:website":"http:\/\/spprzylek.edupage.org","ref:regon":"101470006","ref:vatin":"PL8331320895","operator":"Stowarzyszenie Przyjaci\u00f3\u0142 Szko\u0142y \"A Teraz My\"","operator:type":"ngo","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 268588,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8544899,
+                    51.78796
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 268588,
+                "official_name": "Filia Szko\u0142y Podstawowej im. Marsza\u0142ka J\u00f3zefa Pi\u0142sudskiego w Rogowie Z Siedzib\u0105 w W\u0105grach,",
+                "name": "Filia Szko\u0142y Podstawowej",
+                "addr:country": "PL",
+                "addr:postcode": "95-063",
+                "addr:place": "W\u0105gry",
+                "addr:housenumber": "87",
+                "addr:teryt:sym_ul": 736267,
+                "contact:phone": "+48 468748863",
+                "contact:email": "zsrogow@gmail.com",
+                "ref:regon": "681046000",
+                "operator": "Gmina Rog\u00f3w",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 11534"
+            }
+        },
+        {
+            "id": 11534,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.88257,
+                    51.8168099
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 11534,
+                "official_name": "Szko\u0142a Podstawowa im. Marsza\u0142ka J\u00f3zefa Pi\u0142sudskiego w Rogowie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "95-063",
+                "addr:city": "Rog\u00f3w",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "4",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 736379,
+                "contact:phone": "+48 468748031",
+                "contact:email": "zsrogow@gmail.com",
+                "ref:regon": "000681046",
+                "operator": "Gmina Rog\u00f3w",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Children RSPO: 268588"
+            }
+        },
+        {
+            "id": 14392,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.88942,
+                    51.81719
+                ]
+            },
+            "properties": {
+                "ref:rspo": 14392,
+                "official_name": "Gminne Przedszkole w Rogowie",
+                "name": "Gminne Przedszkole w Rogowie",
+                "addr:country": "PL",
+                "addr:postcode": "95-063",
+                "addr:city": "Rog\u00f3w",
+                "addr:street": "ul. Targowa",
+                "addr:housenumber": "3",
+                "addr:teryt:simc": 22659,
+                "addr:teryt:sym_ul": 736379,
+                "contact:phone": "+48 509397639",
+                "contact:email": "przedszkolerogow@interia.pl",
+                "contact:website": "http:\/\/www.przedszkole_rogow.ecom.net.pl\/",
+                "ref:regon": "750021263",
+                "ref:vatin": "PL8331320872",
+                "operator": "Gmina Rog\u00f3w",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 14393,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.84808,
+                    51.8202799
+                ]
+            },
+            "properties": {
+                "ref:rspo": 14393,
+                "official_name": "Niepubliczne Przedszkole im. Marty Robin w Olszy",
+                "name": "Niepubliczne Przedszkole",
+                "addr:country": "PL",
+                "addr:postcode": "95-063",
+                "addr:place": "Olsza",
+                "addr:housenumber": "33",
+                "addr:teryt:sym_ul": 736304,
+                "contact:phone": "+48 468748605",
+                "contact:email": "basia.rilke@gmail.com",
+                "ref:regon": "101467547",
+                "ref:vatin": "PL8331015301",
+                "operator": "Stowarzyszenie \"Ognisko Mi\u0142o\u015bci\"",
+                "operator:type": "ngo",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 15928,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.90712,
+                    51.84259
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 15928,
+                "official_name": "Szko\u0142a Podstawowa im. W\u0142adys\u0142awa Stanis\u0142awa Reymonta w Przy\u0142\u0119ku Du\u017cym",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "95-063",
+                "addr:place": "Przy\u0142\u0119k Du\u017cy",
+                "addr:housenumber": "49",
+                "addr:teryt:sym_ul": 736333,
+                "contact:phone": "+48 468748032",
+                "contact:email": "szkolap@op.pl",
+                "contact:website": "http:\/\/spprzylek.edupage.org",
+                "ref:regon": "101470006",
+                "ref:vatin": "PL8331320895",
+                "operator": "Stowarzyszenie Przyjaci\u00f3\u0142 Szko\u0142y \"A Teraz My\"",
+                "operator:type": "ngo",
+                "amenity": "school"
+            }
+        }
+    ]
+}

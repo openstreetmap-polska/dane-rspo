@@ -1,1 +1,37 @@
-{"type":"FeatureCollection","features":[{"id":74088,"type":"Feature","geometry":{"type":"Point","coordinates":[15.10256,51.51677]},"properties":{"isced:level":"1;2","ref:rspo":74088,"official_name":"Szko\u0142a Podstawowa w Witoszynie","name":"Szko\u0142a Podstawowa w Witoszynie","addr:country":"PL","addr:postcode":"68-131","addr:city":"Witoszyn","addr:street":"ul. Szkolna","addr:housenumber":"1","addr:teryt:simc":21970,"addr:teryt:sym_ul":916740,"contact:phone":"+48 683604655","contact:email":"wymiarki@szkola.wp.pl","contact:website":"http:\/\/ww.zswit.pl","ref:regon":"970573153","ref:vatin":"PL9241860743","operator":"Gmina Wymiarki","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 74088,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.10256,
+                    51.51677
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 74088,
+                "official_name": "Szko\u0142a Podstawowa w Witoszynie",
+                "name": "Szko\u0142a Podstawowa w Witoszynie",
+                "addr:country": "PL",
+                "addr:postcode": "68-131",
+                "addr:city": "Witoszyn",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 916740,
+                "contact:phone": "+48 683604655",
+                "contact:email": "wymiarki@szkola.wp.pl",
+                "contact:website": "http:\/\/ww.zswit.pl",
+                "ref:regon": "970573153",
+                "ref:vatin": "PL9241860743",
+                "operator": "Gmina Wymiarki",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

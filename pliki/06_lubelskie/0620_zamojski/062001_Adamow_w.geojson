@@ -1,1 +1,92 @@
-{"type":"FeatureCollection","features":[{"id":72919,"type":"Feature","geometry":{"type":"Point","coordinates":[23.25501,50.59322]},"properties":{"isced:level":"1;2","ref:rspo":72919,"official_name":"Szko\u0142a Podstawowa im. Tadeusza Ko\u015bciuszki w Suchowoli","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"22-442","addr:place":"Suchowola","addr:housenumber":"238","addr:teryt:sym_ul":885292,"contact:phone":"+48 846186140","contact:email":"zs_suchowola@interia.eu","contact:website":"http:\/\/suchowolasp.edupage.org","ref:regon":"000567920","ref:vatin":"PL9222426773","operator":"Gmina Adam\u00f3w","operator:type":"government","amenity":"school"}},{"id":126097,"type":"Feature","geometry":{"type":"Point","coordinates":[23.25501,50.59319]},"properties":{"ref:rspo":126097,"official_name":"Punkt Przedszkolny","name":"Punkt Przedszkolny","addr:country":"PL","addr:postcode":"22-442","addr:place":"Suchowola","addr:housenumber":"238","addr:teryt:sym_ul":885292,"contact:phone":"+48 846186140","contact:email":"zs_suchowola@interia.eu","contact:website":"http:\/\/www.suchowola.strefa.pl","ref:regon":"360192377","operator":"Gmina Adam\u00f3w","operator:type":"government","amenity":"kindergarten"}},{"id":72917,"type":"Feature","geometry":{"type":"Point","coordinates":[23.17695,50.62163]},"properties":{"isced:level":"1;2","ref:rspo":72917,"official_name":"Szko\u0142a Podstawowa im. Batalion\u00f3w Ch\u0142opskich w Szewni G\u00f3rnej","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"22-442","addr:place":"Szewnia G\u00f3rna","addr:housenumber":"21A","addr:teryt:sym_ul":885441,"contact:phone":"+48 846186117","contact:email":"zs.szewniagorna@gmail.com","ref:regon":"001133855","ref:vatin":"PL9222687048","operator":"Gmina Adam\u00f3w","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 72919,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.25501,
+                    50.59322
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 72919,
+                "official_name": "Szko\u0142a Podstawowa im. Tadeusza Ko\u015bciuszki w Suchowoli",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "22-442",
+                "addr:place": "Suchowola",
+                "addr:housenumber": "238",
+                "addr:teryt:sym_ul": 885292,
+                "contact:phone": "+48 846186140",
+                "contact:email": "zs_suchowola@interia.eu",
+                "contact:website": "http:\/\/suchowolasp.edupage.org",
+                "ref:regon": "000567920",
+                "ref:vatin": "PL9222426773",
+                "operator": "Gmina Adam\u00f3w",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 126097,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.25501,
+                    50.59319
+                ]
+            },
+            "properties": {
+                "ref:rspo": 126097,
+                "official_name": "Punkt Przedszkolny",
+                "name": "Punkt Przedszkolny",
+                "addr:country": "PL",
+                "addr:postcode": "22-442",
+                "addr:place": "Suchowola",
+                "addr:housenumber": "238",
+                "addr:teryt:sym_ul": 885292,
+                "contact:phone": "+48 846186140",
+                "contact:email": "zs_suchowola@interia.eu",
+                "contact:website": "http:\/\/www.suchowola.strefa.pl",
+                "ref:regon": "360192377",
+                "operator": "Gmina Adam\u00f3w",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 72917,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.17695,
+                    50.62163
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 72917,
+                "official_name": "Szko\u0142a Podstawowa im. Batalion\u00f3w Ch\u0142opskich w Szewni G\u00f3rnej",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "22-442",
+                "addr:place": "Szewnia G\u00f3rna",
+                "addr:housenumber": "21A",
+                "addr:teryt:sym_ul": 885441,
+                "contact:phone": "+48 846186117",
+                "contact:email": "zs.szewniagorna@gmail.com",
+                "ref:regon": "001133855",
+                "ref:vatin": "PL9222687048",
+                "operator": "Gmina Adam\u00f3w",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

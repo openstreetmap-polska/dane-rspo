@@ -1,1 +1,207 @@
-{"type":"FeatureCollection","features":[{"id":27594,"type":"Feature","geometry":{"type":"Point","coordinates":[20.93842,50.25716]},"properties":{"ref:rspo":27594,"official_name":"Publiczne Przedszkole w Gr\u0105dach","name":"Publiczne Przedszkole w Gr\u0105dach","addr:country":"PL","addr:postcode":"33-221","addr:place":"Gr\u0105dy","addr:housenumber":"32","addr:teryt:sym_ul":824066,"contact:phone":"+48 146437122","contact:email":"ppgrady@wp.pl","ref:regon":"851698622","ref:vatin":"PL8711540031","operator":"Gmina M\u0119drzech\u00f3w","operator:type":"government","amenity":"kindergarten"}},{"id":128115,"type":"Feature","geometry":{"type":"Point","coordinates":[21.01387,50.26734]},"properties":{"ref:rspo":128115,"official_name":"Zesp\u00f3\u0142 Szkolno - Przedszkolny w Woli M\u0119drzechowskiej","name":"Zesp\u00f3\u0142 Szkolno - Przedszkolny w Woli M\u0119drzechowskiej","addr:country":"PL","addr:postcode":"33-221","addr:place":"Wola M\u0119drzechowska","addr:housenumber":"127","addr:teryt:sym_ul":824296,"contact:phone":"+48 146437782","contact:email":"zspwolamed@interia.pl","contact:website":"http:\/\/www.zspwolamed.pl","ref:regon":"362110202","ref:vatin":"PL8711771546","operator":"Gmina M\u0119drzech\u00f3w","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 31049;41890"}},{"id":31049,"type":"Feature","geometry":{"type":"Point","coordinates":[21.01387,50.267309999999995]},"properties":{"ref:rspo":31049,"official_name":"Publiczne Przedszkole w Woli M\u0119drzechowskiej","name":"Publiczne Przedszkole w Woli M\u0119drzechowskiej","addr:country":"PL","addr:postcode":"33-221","addr:place":"Wola M\u0119drzechowska","addr:housenumber":"127","addr:teryt:sym_ul":824296,"contact:phone":"+48 146437782","contact:email":"zspwolamed@interia.pl","contact:website":"http:\/\/www.zspwolamed.pl","ref:regon":"851698639","operator":"Gmina M\u0119drzech\u00f3w","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 128115"}},{"id":41890,"type":"Feature","geometry":{"type":"Point","coordinates":[21.01387,50.26728]},"properties":{"isced:level":"1;2","ref:rspo":41890,"official_name":"Szko\u0142a Podstawowa im. Jana Paw\u0142a II w Woli M\u0119drzechowskiej","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"33-221","addr:place":"Wola M\u0119drzechowska","addr:housenumber":"127","addr:teryt:sym_ul":824296,"contact:phone":"+48 146437782","contact:email":"zspwolamed@interia.pl","contact:website":"http:\/\/www.zspwolamed.pl","ref:regon":"001278341","operator":"Gmina M\u0119drzech\u00f3w","operator:type":"government","amenity":"school","note":"Parent RSPO: 128115"}},{"id":30476,"type":"Feature","geometry":{"type":"Point","coordinates":[20.94778,50.28199]},"properties":{"ref:rspo":30476,"official_name":"Publiczne Przedszkole w M\u0119drzechowie","name":"Publiczne Przedszkole w M\u0119drzechowie","addr:country":"PL","addr:postcode":"33-221","addr:place":"M\u0119drzech\u00f3w","addr:housenumber":"438","addr:teryt:sym_ul":824149,"contact:phone":"+48 146437176","contact:email":"przedszkole.medrzechow@poczta.fm","ref:regon":"851698616","ref:vatin":"PL8711540025","operator":"Gmina M\u0119drzech\u00f3w","operator:type":"government","amenity":"kindergarten"}},{"id":41891,"type":"Feature","geometry":{"type":"Point","coordinates":[20.94742,50.28232]},"properties":{"isced:level":"1;2","ref:rspo":41891,"official_name":"Szko\u0142a Podstawowa im. Marii Konopnickiej w M\u0119drzechowie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"33-221","addr:place":"M\u0119drzech\u00f3w","addr:housenumber":"440","addr:teryt:sym_ul":824149,"contact:phone":"+48 146437123","contact:email":"gimed99@gmail.com","ref:regon":"001066047","ref:vatin":"PL8711749848","operator":"Gmina M\u0119drzech\u00f3w","operator:type":"government","amenity":"school"}},{"id":124311,"type":"Feature","geometry":{"type":"Point","coordinates":[20.9750104,50.2909611]},"properties":{"ref:rspo":124311,"official_name":"Niepubliczna Szko\u0142a Specjalna Przysposabiaj\u0105ca Do Pracy w Kupieninie","name":"Niepubliczna Szko\u0142a Specjalna Przysposabiaj\u0105ca Do Pracy w Kupieninie","addr:country":"PL","addr:postcode":"33-221","addr:place":"Kupienin","addr:housenumber":"115","addr:teryt:sym_ul":824103,"contact:phone":"+48 146437311","contact:email":"sppkupienin@interia.eu","ref:regon":"123193050","operator":"Stowarzyszenie Pomocy Dziecku I Rodzinie \"Przyjazny \u015awiat\"","operator:type":"ngo","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 27594,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.93842,
+                    50.25716
+                ]
+            },
+            "properties": {
+                "ref:rspo": 27594,
+                "official_name": "Publiczne Przedszkole w Gr\u0105dach",
+                "name": "Publiczne Przedszkole w Gr\u0105dach",
+                "addr:country": "PL",
+                "addr:postcode": "33-221",
+                "addr:place": "Gr\u0105dy",
+                "addr:housenumber": "32",
+                "addr:teryt:sym_ul": 824066,
+                "contact:phone": "+48 146437122",
+                "contact:email": "ppgrady@wp.pl",
+                "ref:regon": "851698622",
+                "ref:vatin": "PL8711540031",
+                "operator": "Gmina M\u0119drzech\u00f3w",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 128115,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.01387,
+                    50.26734
+                ]
+            },
+            "properties": {
+                "ref:rspo": 128115,
+                "official_name": "Zesp\u00f3\u0142 Szkolno - Przedszkolny w Woli M\u0119drzechowskiej",
+                "name": "Zesp\u00f3\u0142 Szkolno - Przedszkolny w Woli M\u0119drzechowskiej",
+                "addr:country": "PL",
+                "addr:postcode": "33-221",
+                "addr:place": "Wola M\u0119drzechowska",
+                "addr:housenumber": "127",
+                "addr:teryt:sym_ul": 824296,
+                "contact:phone": "+48 146437782",
+                "contact:email": "zspwolamed@interia.pl",
+                "contact:website": "http:\/\/www.zspwolamed.pl",
+                "ref:regon": "362110202",
+                "ref:vatin": "PL8711771546",
+                "operator": "Gmina M\u0119drzech\u00f3w",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 31049;41890"
+            }
+        },
+        {
+            "id": 31049,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.01387,
+                    50.267309999999995
+                ]
+            },
+            "properties": {
+                "ref:rspo": 31049,
+                "official_name": "Publiczne Przedszkole w Woli M\u0119drzechowskiej",
+                "name": "Publiczne Przedszkole w Woli M\u0119drzechowskiej",
+                "addr:country": "PL",
+                "addr:postcode": "33-221",
+                "addr:place": "Wola M\u0119drzechowska",
+                "addr:housenumber": "127",
+                "addr:teryt:sym_ul": 824296,
+                "contact:phone": "+48 146437782",
+                "contact:email": "zspwolamed@interia.pl",
+                "contact:website": "http:\/\/www.zspwolamed.pl",
+                "ref:regon": "851698639",
+                "operator": "Gmina M\u0119drzech\u00f3w",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 128115"
+            }
+        },
+        {
+            "id": 41890,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.01387,
+                    50.26728
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 41890,
+                "official_name": "Szko\u0142a Podstawowa im. Jana Paw\u0142a II w Woli M\u0119drzechowskiej",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "33-221",
+                "addr:place": "Wola M\u0119drzechowska",
+                "addr:housenumber": "127",
+                "addr:teryt:sym_ul": 824296,
+                "contact:phone": "+48 146437782",
+                "contact:email": "zspwolamed@interia.pl",
+                "contact:website": "http:\/\/www.zspwolamed.pl",
+                "ref:regon": "001278341",
+                "operator": "Gmina M\u0119drzech\u00f3w",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 128115"
+            }
+        },
+        {
+            "id": 30476,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.94778,
+                    50.28199
+                ]
+            },
+            "properties": {
+                "ref:rspo": 30476,
+                "official_name": "Publiczne Przedszkole w M\u0119drzechowie",
+                "name": "Publiczne Przedszkole w M\u0119drzechowie",
+                "addr:country": "PL",
+                "addr:postcode": "33-221",
+                "addr:place": "M\u0119drzech\u00f3w",
+                "addr:housenumber": "438",
+                "addr:teryt:sym_ul": 824149,
+                "contact:phone": "+48 146437176",
+                "contact:email": "przedszkole.medrzechow@poczta.fm",
+                "ref:regon": "851698616",
+                "ref:vatin": "PL8711540025",
+                "operator": "Gmina M\u0119drzech\u00f3w",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 41891,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.94742,
+                    50.28232
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 41891,
+                "official_name": "Szko\u0142a Podstawowa im. Marii Konopnickiej w M\u0119drzechowie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "33-221",
+                "addr:place": "M\u0119drzech\u00f3w",
+                "addr:housenumber": "440",
+                "addr:teryt:sym_ul": 824149,
+                "contact:phone": "+48 146437123",
+                "contact:email": "gimed99@gmail.com",
+                "ref:regon": "001066047",
+                "ref:vatin": "PL8711749848",
+                "operator": "Gmina M\u0119drzech\u00f3w",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 124311,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.9750104,
+                    50.2909611
+                ]
+            },
+            "properties": {
+                "ref:rspo": 124311,
+                "official_name": "Niepubliczna Szko\u0142a Specjalna Przysposabiaj\u0105ca Do Pracy w Kupieninie",
+                "name": "Niepubliczna Szko\u0142a Specjalna Przysposabiaj\u0105ca Do Pracy w Kupieninie",
+                "addr:country": "PL",
+                "addr:postcode": "33-221",
+                "addr:place": "Kupienin",
+                "addr:housenumber": "115",
+                "addr:teryt:sym_ul": 824103,
+                "contact:phone": "+48 146437311",
+                "contact:email": "sppkupienin@interia.eu",
+                "ref:regon": "123193050",
+                "operator": "Stowarzyszenie Pomocy Dziecku I Rodzinie \"Przyjazny \u015awiat\"",
+                "operator:type": "ngo",
+                "amenity": "school"
+            }
+        }
+    ]
+}

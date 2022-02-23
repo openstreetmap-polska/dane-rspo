@@ -1,1 +1,182 @@
-{"type":"FeatureCollection","features":[{"id":10757,"type":"Feature","geometry":{"type":"Point","coordinates":[21.0709029,50.50629]},"properties":{"ref:rspo":10757,"official_name":"Zesp\u00f3\u0142 Plac\u00f3wek O\u015bwiatowych Publiczna Szko\u0142a Podstawowa I Przedszkole w Nizinach","name":"Zesp\u00f3\u0142 Plac\u00f3wek O\u015bwiatowych Publiczna Szko\u0142a Podstawowa I Przedszkole w Nizinach","addr:country":"PL","addr:postcode":"28-142","addr:place":"Niziny","addr:housenumber":"120A","addr:teryt:sym_ul":275352,"contact:phone":"+48 413534183","contact:email":"spniziny@wp.pl","ref:regon":"260630350","ref:vatin":"PL6551971145","operator":"Gmina Tucz\u0119py","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 111605;111606"}},{"id":111605,"type":"Feature","geometry":{"type":"Point","coordinates":[21.0709029,50.50626]},"properties":{"isced:level":"1;2","ref:rspo":111605,"official_name":"Publiczna Szko\u0142a Podstawowa im. Tadeusza Ko\u015bciuszki w Nizinach","name":"Publiczna Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"28-142","addr:place":"Niziny","addr:housenumber":"120A","addr:teryt:sym_ul":275352,"contact:phone":"+48 413534183","contact:email":"spniziny@wp.pl","ref:regon":"001218296","ref:vatin":"PL6551829370","operator":"Gmina Tucz\u0119py","operator:type":"government","amenity":"school","note":"Parent RSPO: 10757"}},{"id":111606,"type":"Feature","geometry":{"type":"Point","coordinates":[21.0709029,50.50623]},"properties":{"ref:rspo":111606,"official_name":"Publiczne Przedszkole w Nizinach","name":"Publiczne Przedszkole w Nizinach","addr:country":"PL","addr:postcode":"28-142","addr:place":"Niziny","addr:housenumber":"120A","addr:teryt:sym_ul":275352,"contact:phone":"+48 413534183","contact:email":"spniziny@wp.pl","ref:regon":"290012952","ref:vatin":"PL6551829370","operator":"Gmina Tucz\u0119py","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 10757"}},{"id":10756,"type":"Feature","geometry":{"type":"Point","coordinates":[20.9913029,50.517393]},"properties":{"ref:rspo":10756,"official_name":"Zesp\u00f3\u0142 Plac\u00f3wek O\u015bwiatowych Publiczna Szko\u0142a Podstawowa I Przedszkole w Tucz\u0119pach","name":"Zesp\u00f3\u0142 Plac\u00f3wek O\u015bwiatowych Publiczna Szko\u0142a Podstawowa I Przedszkole w Tucz\u0119pach","addr:country":"PL","addr:postcode":"28-142","addr:place":"Tucz\u0119py","addr:housenumber":"33","addr:teryt:sym_ul":275560,"contact:phone":"+48 413533142","contact:email":"zpotuczepy@gmail.com","ref:regon":"260630343","ref:vatin":"PL6551971139","operator":"Gmina Tucz\u0119py","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 111603;111604"}},{"id":111603,"type":"Feature","geometry":{"type":"Point","coordinates":[20.9913029,50.517362999999996]},"properties":{"isced:level":"1;2","ref:rspo":111603,"official_name":"Publiczna Szko\u0142a Podstawowa im. Henryka Sienkiewicza w Tucz\u0119pach","name":"Publiczna Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"28-142","addr:place":"Tucz\u0119py","addr:housenumber":"33","addr:teryt:sym_ul":275560,"contact:phone":"+48 413533142","contact:email":"zpotuczepy@gmail.com","ref:regon":"000272968","ref:vatin":"PL6551828459","operator":"Gmina Tucz\u0119py","operator:type":"government","amenity":"school","note":"Parent RSPO: 10756"}},{"id":111604,"type":"Feature","geometry":{"type":"Point","coordinates":[20.9913029,50.517333]},"properties":{"ref:rspo":111604,"official_name":"Publiczne Przedszkole w Tucz\u0119pach","name":"Publiczne Przedszkole w Tucz\u0119pach","addr:country":"PL","addr:postcode":"28-142","addr:place":"Tucz\u0119py","addr:housenumber":"33","addr:teryt:sym_ul":275560,"contact:phone":"+48 413533142","contact:email":"zpotuczepy@gmail.com","ref:regon":"290012946","operator":"Gmina Tucz\u0119py","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 10756"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 10757,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0709029,
+                    50.50629
+                ]
+            },
+            "properties": {
+                "ref:rspo": 10757,
+                "official_name": "Zesp\u00f3\u0142 Plac\u00f3wek O\u015bwiatowych Publiczna Szko\u0142a Podstawowa I Przedszkole w Nizinach",
+                "name": "Zesp\u00f3\u0142 Plac\u00f3wek O\u015bwiatowych Publiczna Szko\u0142a Podstawowa I Przedszkole w Nizinach",
+                "addr:country": "PL",
+                "addr:postcode": "28-142",
+                "addr:place": "Niziny",
+                "addr:housenumber": "120A",
+                "addr:teryt:sym_ul": 275352,
+                "contact:phone": "+48 413534183",
+                "contact:email": "spniziny@wp.pl",
+                "ref:regon": "260630350",
+                "ref:vatin": "PL6551971145",
+                "operator": "Gmina Tucz\u0119py",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 111605;111606"
+            }
+        },
+        {
+            "id": 111605,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0709029,
+                    50.50626
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 111605,
+                "official_name": "Publiczna Szko\u0142a Podstawowa im. Tadeusza Ko\u015bciuszki w Nizinach",
+                "name": "Publiczna Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "28-142",
+                "addr:place": "Niziny",
+                "addr:housenumber": "120A",
+                "addr:teryt:sym_ul": 275352,
+                "contact:phone": "+48 413534183",
+                "contact:email": "spniziny@wp.pl",
+                "ref:regon": "001218296",
+                "ref:vatin": "PL6551829370",
+                "operator": "Gmina Tucz\u0119py",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 10757"
+            }
+        },
+        {
+            "id": 111606,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0709029,
+                    50.50623
+                ]
+            },
+            "properties": {
+                "ref:rspo": 111606,
+                "official_name": "Publiczne Przedszkole w Nizinach",
+                "name": "Publiczne Przedszkole w Nizinach",
+                "addr:country": "PL",
+                "addr:postcode": "28-142",
+                "addr:place": "Niziny",
+                "addr:housenumber": "120A",
+                "addr:teryt:sym_ul": 275352,
+                "contact:phone": "+48 413534183",
+                "contact:email": "spniziny@wp.pl",
+                "ref:regon": "290012952",
+                "ref:vatin": "PL6551829370",
+                "operator": "Gmina Tucz\u0119py",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 10757"
+            }
+        },
+        {
+            "id": 10756,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.9913029,
+                    50.517393
+                ]
+            },
+            "properties": {
+                "ref:rspo": 10756,
+                "official_name": "Zesp\u00f3\u0142 Plac\u00f3wek O\u015bwiatowych Publiczna Szko\u0142a Podstawowa I Przedszkole w Tucz\u0119pach",
+                "name": "Zesp\u00f3\u0142 Plac\u00f3wek O\u015bwiatowych Publiczna Szko\u0142a Podstawowa I Przedszkole w Tucz\u0119pach",
+                "addr:country": "PL",
+                "addr:postcode": "28-142",
+                "addr:place": "Tucz\u0119py",
+                "addr:housenumber": "33",
+                "addr:teryt:sym_ul": 275560,
+                "contact:phone": "+48 413533142",
+                "contact:email": "zpotuczepy@gmail.com",
+                "ref:regon": "260630343",
+                "ref:vatin": "PL6551971139",
+                "operator": "Gmina Tucz\u0119py",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 111603;111604"
+            }
+        },
+        {
+            "id": 111603,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.9913029,
+                    50.517362999999996
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 111603,
+                "official_name": "Publiczna Szko\u0142a Podstawowa im. Henryka Sienkiewicza w Tucz\u0119pach",
+                "name": "Publiczna Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "28-142",
+                "addr:place": "Tucz\u0119py",
+                "addr:housenumber": "33",
+                "addr:teryt:sym_ul": 275560,
+                "contact:phone": "+48 413533142",
+                "contact:email": "zpotuczepy@gmail.com",
+                "ref:regon": "000272968",
+                "ref:vatin": "PL6551828459",
+                "operator": "Gmina Tucz\u0119py",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 10756"
+            }
+        },
+        {
+            "id": 111604,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.9913029,
+                    50.517333
+                ]
+            },
+            "properties": {
+                "ref:rspo": 111604,
+                "official_name": "Publiczne Przedszkole w Tucz\u0119pach",
+                "name": "Publiczne Przedszkole w Tucz\u0119pach",
+                "addr:country": "PL",
+                "addr:postcode": "28-142",
+                "addr:place": "Tucz\u0119py",
+                "addr:housenumber": "33",
+                "addr:teryt:sym_ul": 275560,
+                "contact:phone": "+48 413533142",
+                "contact:email": "zpotuczepy@gmail.com",
+                "ref:regon": "290012946",
+                "operator": "Gmina Tucz\u0119py",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 10756"
+            }
+        }
+    ]
+}

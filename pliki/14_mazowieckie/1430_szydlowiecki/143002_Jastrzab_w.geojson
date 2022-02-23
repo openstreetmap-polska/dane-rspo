@@ -1,1 +1,208 @@
-{"type":"FeatureCollection","features":[{"id":40731,"type":"Feature","geometry":{"type":"Point","coordinates":[20.93085,51.20571]},"properties":{"isced:level":"1;2","ref:rspo":40731,"official_name":"Publiczna Szko\u0142a Podstawowa w G\u0105sawach Rz\u0105dowych","name":"Publiczna Szko\u0142a Podstawowa w G\u0105sawach Rz\u0105dowych","addr:country":"PL","addr:postcode":"26-502","addr:place":"G\u0105sawy Rz\u0105dowe","addr:housenumber":"144A","addr:teryt:sym_ul":623965,"contact:phone":"+48 486290429","contact:email":"gasawy.psp@op.pl","contact:website":"http:\/\/pspgasawy.pl","ref:regon":"001145887","ref:vatin":"PL7991887165","operator":"Gmina Jastrz\u0105b","operator:type":"government","amenity":"school"}},{"id":131465,"type":"Feature","geometry":{"type":"Point","coordinates":[20.94679,51.22711]},"properties":{"ref:rspo":131465,"official_name":"Przedszkole w G\u0105sawach Pleba\u0144skich","name":"Przedszkole w G\u0105sawach Pleba\u0144skich","addr:country":"PL","addr:postcode":"26-502","addr:place":"G\u0105sawy Pleba\u0144skie","addr:housenumber":"48b","addr:teryt:sym_ul":623959,"contact:phone":"+48 519102046","contact:email":"spigp@wp.pl","ref:regon":"365187139","operator":"Gmina Jastrz\u0105b","operator:type":"government","amenity":"kindergarten"}},{"id":6875,"type":"Feature","geometry":{"type":"Point","coordinates":[20.9069,51.23369]},"properties":{"ref:rspo":6875,"official_name":"Niepubliczny Punkt Przedszkolny \"\u015amia\u0142ek Joanna Zawadzka","name":"Niepubliczny Punkt Przedszkolny \"\u015amia\u0142ek Joanna Zawadzka","addr:country":"PL","addr:postcode":"26-502","addr:place":"\u015ami\u0142\u00f3w","addr:housenumber":"9","addr:teryt:sym_ul":624077,"contact:phone":"+48 609670900","contact:email":"joannaz@op.pl","contact:website":"http:\/\/www.smialek.edu.pl","ref:regon":"146272053","operator":"Centrum Edukacji Joanna Zawadzka","operator:type":"consortium","amenity":"kindergarten"}},{"id":128371,"type":"Feature","geometry":{"type":"Point","coordinates":[20.872289657593,51.24531173706]},"properties":{"isced:level":"1;2","ref:rspo":128371,"official_name":"Publiczna Szko\u0142a Podstawowa w Nowym Dworze","name":"Publiczna Szko\u0142a Podstawowa w Nowym Dworze","addr:country":"PL","addr:postcode":"26-502","addr:place":"Nowy Dw\u00f3r","addr:housenumber":"-","addr:teryt:sym_ul":624054,"contact:phone":"+48 668005646","contact:email":"szkolanowydwor@wp.pl","ref:regon":"362273513","operator":"Ewa Figarska","operator:type":"private","amenity":"school"}},{"id":57614,"type":"Feature","geometry":{"type":"Point","coordinates":[20.94759,51.2508399]},"properties":{"isced:level":"1;2","ref:rspo":57614,"official_name":"Publiczna Szko\u0142a Podstawowa im.tadeusza Ko\u015bciuszki w Jastrz\u0119biu","name":"Publiczna Szko\u0142a Podstawowa im.tadeusza Ko\u015bciuszki w Jastrz\u0119biu","addr:country":"PL","addr:postcode":"26-502","addr:city":"Jastrz\u0105b","addr:street":"ul. Ko\u015bciuszki","addr:housenumber":"51B","addr:teryt:simc":9572,"addr:teryt:sym_ul":623988,"contact:phone":"+48 486284031","contact:email":"zspjastrzab@o2.pl","contact:website":"http:\/\/www.jastrzab.edu.pl","ref:regon":"000675560","ref:vatin":"PL7991888058","operator":"Gmina Jastrz\u0105b","operator:type":"government","amenity":"school"}},{"id":7136,"type":"Feature","geometry":{"type":"Point","coordinates":[20.99984,51.26594]},"properties":{"ref:rspo":7136,"official_name":"J\u0119zykowy Punkt Przedszkolny \"Kacperek\"","name":"J\u0119zykowy Punkt Przedszkolny \"Kacperek\"","addr:country":"PL","addr:postcode":"26-502","addr:place":"Wola Lipieniecka Du\u017ca","addr:housenumber":"48","addr:teryt:sym_ul":624083,"contact:phone":"+48 604500749","contact:email":"przedszkole.kacperek@gmail.com","contact:website":"http:\/\/www.kacperek.edu.pl","ref:regon":"146273940","operator":"Aneta Kalita","operator:type":"private","amenity":"kindergarten"}},{"id":40911,"type":"Feature","geometry":{"type":"Point","coordinates":[20.99738,51.26625]},"properties":{"isced:level":"1;2","ref:rspo":40911,"official_name":"Publiczna Szko\u0142a Podstawowa w Woli Lipienieckiej","name":"Publiczna Szko\u0142a Podstawowa w Woli Lipienieckiej","addr:country":"PL","addr:postcode":"26-502","addr:place":"Wola Lipieniecka Du\u017ca","addr:housenumber":"41","addr:teryt:sym_ul":624083,"contact:phone":"+48 486284023","contact:email":"pspwl@wp.pl","contact:website":"http:\/\/pspwl.szkolnastrona.pl\/","ref:regon":"001145893","ref:vatin":"PL7991887053","operator":"Gmina Jastrz\u0105b","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 40731,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.93085,
+                    51.20571
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 40731,
+                "official_name": "Publiczna Szko\u0142a Podstawowa w G\u0105sawach Rz\u0105dowych",
+                "name": "Publiczna Szko\u0142a Podstawowa w G\u0105sawach Rz\u0105dowych",
+                "addr:country": "PL",
+                "addr:postcode": "26-502",
+                "addr:place": "G\u0105sawy Rz\u0105dowe",
+                "addr:housenumber": "144A",
+                "addr:teryt:sym_ul": 623965,
+                "contact:phone": "+48 486290429",
+                "contact:email": "gasawy.psp@op.pl",
+                "contact:website": "http:\/\/pspgasawy.pl",
+                "ref:regon": "001145887",
+                "ref:vatin": "PL7991887165",
+                "operator": "Gmina Jastrz\u0105b",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 131465,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.94679,
+                    51.22711
+                ]
+            },
+            "properties": {
+                "ref:rspo": 131465,
+                "official_name": "Przedszkole w G\u0105sawach Pleba\u0144skich",
+                "name": "Przedszkole w G\u0105sawach Pleba\u0144skich",
+                "addr:country": "PL",
+                "addr:postcode": "26-502",
+                "addr:place": "G\u0105sawy Pleba\u0144skie",
+                "addr:housenumber": "48b",
+                "addr:teryt:sym_ul": 623959,
+                "contact:phone": "+48 519102046",
+                "contact:email": "spigp@wp.pl",
+                "ref:regon": "365187139",
+                "operator": "Gmina Jastrz\u0105b",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 6875,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.9069,
+                    51.23369
+                ]
+            },
+            "properties": {
+                "ref:rspo": 6875,
+                "official_name": "Niepubliczny Punkt Przedszkolny \"\u015amia\u0142ek Joanna Zawadzka",
+                "name": "Niepubliczny Punkt Przedszkolny \"\u015amia\u0142ek Joanna Zawadzka",
+                "addr:country": "PL",
+                "addr:postcode": "26-502",
+                "addr:place": "\u015ami\u0142\u00f3w",
+                "addr:housenumber": "9",
+                "addr:teryt:sym_ul": 624077,
+                "contact:phone": "+48 609670900",
+                "contact:email": "joannaz@op.pl",
+                "contact:website": "http:\/\/www.smialek.edu.pl",
+                "ref:regon": "146272053",
+                "operator": "Centrum Edukacji Joanna Zawadzka",
+                "operator:type": "consortium",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 128371,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.872289657593,
+                    51.24531173706
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 128371,
+                "official_name": "Publiczna Szko\u0142a Podstawowa w Nowym Dworze",
+                "name": "Publiczna Szko\u0142a Podstawowa w Nowym Dworze",
+                "addr:country": "PL",
+                "addr:postcode": "26-502",
+                "addr:place": "Nowy Dw\u00f3r",
+                "addr:housenumber": "-",
+                "addr:teryt:sym_ul": 624054,
+                "contact:phone": "+48 668005646",
+                "contact:email": "szkolanowydwor@wp.pl",
+                "ref:regon": "362273513",
+                "operator": "Ewa Figarska",
+                "operator:type": "private",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 57614,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.94759,
+                    51.2508399
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 57614,
+                "official_name": "Publiczna Szko\u0142a Podstawowa im.tadeusza Ko\u015bciuszki w Jastrz\u0119biu",
+                "name": "Publiczna Szko\u0142a Podstawowa im.tadeusza Ko\u015bciuszki w Jastrz\u0119biu",
+                "addr:country": "PL",
+                "addr:postcode": "26-502",
+                "addr:city": "Jastrz\u0105b",
+                "addr:street": "ul. Ko\u015bciuszki",
+                "addr:housenumber": "51B",
+                "addr:teryt:simc": 9572,
+                "addr:teryt:sym_ul": 623988,
+                "contact:phone": "+48 486284031",
+                "contact:email": "zspjastrzab@o2.pl",
+                "contact:website": "http:\/\/www.jastrzab.edu.pl",
+                "ref:regon": "000675560",
+                "ref:vatin": "PL7991888058",
+                "operator": "Gmina Jastrz\u0105b",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 7136,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.99984,
+                    51.26594
+                ]
+            },
+            "properties": {
+                "ref:rspo": 7136,
+                "official_name": "J\u0119zykowy Punkt Przedszkolny \"Kacperek\"",
+                "name": "J\u0119zykowy Punkt Przedszkolny \"Kacperek\"",
+                "addr:country": "PL",
+                "addr:postcode": "26-502",
+                "addr:place": "Wola Lipieniecka Du\u017ca",
+                "addr:housenumber": "48",
+                "addr:teryt:sym_ul": 624083,
+                "contact:phone": "+48 604500749",
+                "contact:email": "przedszkole.kacperek@gmail.com",
+                "contact:website": "http:\/\/www.kacperek.edu.pl",
+                "ref:regon": "146273940",
+                "operator": "Aneta Kalita",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 40911,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.99738,
+                    51.26625
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 40911,
+                "official_name": "Publiczna Szko\u0142a Podstawowa w Woli Lipienieckiej",
+                "name": "Publiczna Szko\u0142a Podstawowa w Woli Lipienieckiej",
+                "addr:country": "PL",
+                "addr:postcode": "26-502",
+                "addr:place": "Wola Lipieniecka Du\u017ca",
+                "addr:housenumber": "41",
+                "addr:teryt:sym_ul": 624083,
+                "contact:phone": "+48 486284023",
+                "contact:email": "pspwl@wp.pl",
+                "contact:website": "http:\/\/pspwl.szkolnastrona.pl\/",
+                "ref:regon": "001145893",
+                "ref:vatin": "PL7991887053",
+                "operator": "Gmina Jastrz\u0105b",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

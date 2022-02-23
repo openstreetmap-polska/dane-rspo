@@ -1,1 +1,103 @@
-{"type":"FeatureCollection","features":[{"id":267593,"type":"Feature","geometry":{"type":"Point","coordinates":[18.4742048,50.1053936]},"properties":{"ref:rspo":267593,"official_name":"Zesp\u00f3\u0142 Szkolno - Przedszkolny w Jejkowicach","name":"Zesp\u00f3\u0142 Szkolno - Przedszkolny w Jejkowicach","addr:country":"PL","addr:postcode":"44-290","addr:city":"Jejkowice","addr:street":"ul. G\u0142\u00f3wna","addr:housenumber":"42","addr:teryt:simc":5635,"addr:teryt:sym_ul":214178,"contact:phone":"+48 324302562","contact:email":"zsp@jejkowice.pl","contact:website":"http:\/\/spjejkowice.edupage.org","ref:regon":"380376475","ref:vatin":"PL6423212385","operator":"Gmina Jejkowice","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 56328;56329"}},{"id":56328,"type":"Feature","geometry":{"type":"Point","coordinates":[18.4742048,50.1053636]},"properties":{"isced:level":"1;2","ref:rspo":56328,"official_name":"Szko\u0142a Podstawowa im. Jana III Sobieskiego w Jejkowicach","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"44-290","addr:city":"Jejkowice","addr:street":"ul. G\u0142\u00f3wna","addr:housenumber":"42","addr:teryt:simc":5635,"addr:teryt:sym_ul":214178,"contact:phone":"+48 324302562","contact:email":"zsp@jejkowice.pl","contact:website":"http:\/\/www.spjejkowice.edupage.org","ref:regon":"001193099","ref:vatin":"PL6422477182","operator":"Gmina Jejkowice","operator:type":"government","amenity":"school","note":"Parent RSPO: 267593"}},{"id":56329,"type":"Feature","geometry":{"type":"Point","coordinates":[18.47449,50.10625]},"properties":{"ref:rspo":56329,"official_name":"Gminne Przedszkole Publiczne w Jejkowicach","name":"Gminne Przedszkole Publiczne w Jejkowicach","addr:country":"PL","addr:postcode":"44-290","addr:city":"Jejkowice","addr:street":"ul. Szkolna","addr:housenumber":"4","addr:teryt:simc":21970,"addr:teryt:sym_ul":214178,"contact:phone":"+48 324302049","contact:email":"zsp@jejkowice.pl","contact:website":"http:\/\/www.spjejkowice.edupage.org","ref:regon":"271511845","ref:vatin":"PL6422577736","operator":"Gmina Jejkowice","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 267593"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 267593,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.4742048,
+                    50.1053936
+                ]
+            },
+            "properties": {
+                "ref:rspo": 267593,
+                "official_name": "Zesp\u00f3\u0142 Szkolno - Przedszkolny w Jejkowicach",
+                "name": "Zesp\u00f3\u0142 Szkolno - Przedszkolny w Jejkowicach",
+                "addr:country": "PL",
+                "addr:postcode": "44-290",
+                "addr:city": "Jejkowice",
+                "addr:street": "ul. G\u0142\u00f3wna",
+                "addr:housenumber": "42",
+                "addr:teryt:simc": 5635,
+                "addr:teryt:sym_ul": 214178,
+                "contact:phone": "+48 324302562",
+                "contact:email": "zsp@jejkowice.pl",
+                "contact:website": "http:\/\/spjejkowice.edupage.org",
+                "ref:regon": "380376475",
+                "ref:vatin": "PL6423212385",
+                "operator": "Gmina Jejkowice",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 56328;56329"
+            }
+        },
+        {
+            "id": 56328,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.4742048,
+                    50.1053636
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 56328,
+                "official_name": "Szko\u0142a Podstawowa im. Jana III Sobieskiego w Jejkowicach",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "44-290",
+                "addr:city": "Jejkowice",
+                "addr:street": "ul. G\u0142\u00f3wna",
+                "addr:housenumber": "42",
+                "addr:teryt:simc": 5635,
+                "addr:teryt:sym_ul": 214178,
+                "contact:phone": "+48 324302562",
+                "contact:email": "zsp@jejkowice.pl",
+                "contact:website": "http:\/\/www.spjejkowice.edupage.org",
+                "ref:regon": "001193099",
+                "ref:vatin": "PL6422477182",
+                "operator": "Gmina Jejkowice",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 267593"
+            }
+        },
+        {
+            "id": 56329,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.47449,
+                    50.10625
+                ]
+            },
+            "properties": {
+                "ref:rspo": 56329,
+                "official_name": "Gminne Przedszkole Publiczne w Jejkowicach",
+                "name": "Gminne Przedszkole Publiczne w Jejkowicach",
+                "addr:country": "PL",
+                "addr:postcode": "44-290",
+                "addr:city": "Jejkowice",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "4",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 214178,
+                "contact:phone": "+48 324302049",
+                "contact:email": "zsp@jejkowice.pl",
+                "contact:website": "http:\/\/www.spjejkowice.edupage.org",
+                "ref:regon": "271511845",
+                "ref:vatin": "PL6422577736",
+                "operator": "Gmina Jejkowice",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 267593"
+            }
+        }
+    ]
+}

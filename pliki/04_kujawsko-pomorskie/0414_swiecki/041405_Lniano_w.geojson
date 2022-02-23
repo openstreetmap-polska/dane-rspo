@@ -1,1 +1,69 @@
-{"type":"FeatureCollection","features":[{"id":53804,"type":"Feature","geometry":{"type":"Point","coordinates":[18.139,53.49016]},"properties":{"isced:level":"1;2","ref:rspo":53804,"official_name":"Szko\u0142a Podstawowa w B\u0142\u0105dzimiu","name":"Szko\u0142a Podstawowa w B\u0142\u0105dzimiu","addr:country":"PL","addr:postcode":"86-141","addr:city":"B\u0142\u0105dzim","addr:street":"ul. G\u0142\u00f3wna","addr:housenumber":"38","addr:teryt:simc":5635,"addr:teryt:sym_ul":90109,"contact:phone":"+48 523329207","contact:email":"szkolabladzim@wp.pl","contact:website":"http:\/\/www.spbladzim.edupage.org","ref:regon":"001158192","ref:vatin":"PL5591785738","operator":"Gmina Lniano","operator:type":"government","amenity":"school"}},{"id":53803,"type":"Feature","geometry":{"type":"Point","coordinates":[18.21685,53.52903]},"properties":{"isced:level":"1;2","ref:rspo":53803,"official_name":"Szko\u0142a Podstawowa im. Jana Paw\u0142a II w Lnianie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"86-141","addr:city":"Lniano","addr:street":"ul. Szkolna","addr:housenumber":"13","addr:teryt:simc":21970,"addr:teryt:sym_ul":90196,"contact:phone":"+48 523208695","contact:email":"splniano@onet.eu","contact:website":"http:\/\/www.splniano.pl","ref:regon":"000270082","ref:vatin":"PL5591785750","operator":"Gmina Lniano","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 53804,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.139,
+                    53.49016
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 53804,
+                "official_name": "Szko\u0142a Podstawowa w B\u0142\u0105dzimiu",
+                "name": "Szko\u0142a Podstawowa w B\u0142\u0105dzimiu",
+                "addr:country": "PL",
+                "addr:postcode": "86-141",
+                "addr:city": "B\u0142\u0105dzim",
+                "addr:street": "ul. G\u0142\u00f3wna",
+                "addr:housenumber": "38",
+                "addr:teryt:simc": 5635,
+                "addr:teryt:sym_ul": 90109,
+                "contact:phone": "+48 523329207",
+                "contact:email": "szkolabladzim@wp.pl",
+                "contact:website": "http:\/\/www.spbladzim.edupage.org",
+                "ref:regon": "001158192",
+                "ref:vatin": "PL5591785738",
+                "operator": "Gmina Lniano",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 53803,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.21685,
+                    53.52903
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 53803,
+                "official_name": "Szko\u0142a Podstawowa im. Jana Paw\u0142a II w Lnianie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "86-141",
+                "addr:city": "Lniano",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "13",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 90196,
+                "contact:phone": "+48 523208695",
+                "contact:email": "splniano@onet.eu",
+                "contact:website": "http:\/\/www.splniano.pl",
+                "ref:regon": "000270082",
+                "ref:vatin": "PL5591785750",
+                "operator": "Gmina Lniano",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

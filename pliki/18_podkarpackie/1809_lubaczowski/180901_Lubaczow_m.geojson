@@ -1,1 +1,910 @@
-{"type":"FeatureCollection","features":[{"id":273350,"type":"Feature","geometry":{"type":"Point","coordinates":[23.11909,50.15224]},"properties":{"ref:rspo":273350,"official_name":"Ekomaluchy","name":"Ekomaluchy","addr:country":"PL","addr:postcode":"37-600","addr:city":"Lubacz\u00f3w","addr:street":"ul. S\u0142oneczna","addr:housenumber":"19","addr:teryt:simc":20254,"addr:teryt:sym_ul":972447,"contact:email":"ekomaluchy@interia.pl","ref:regon":"384451699","operator":"Karolina Wa\u017cna","operator:type":"private","amenity":"kindergarten"}},{"id":34805,"type":"Feature","geometry":{"type":"Point","coordinates":[23.11469,50.15593]},"properties":{"ref:rspo":34805,"official_name":"Miejskie Przedszkole Nr 2 w Lubaczowie","name":"Miejskie Przedszkole Nr 2 w Lubaczowie","addr:country":"PL","addr:postcode":"37-600","addr:city":"Lubacz\u00f3w","addr:street":"ul. Marii Konopnickiej","addr:housenumber":"9","addr:teryt:simc":9186,"addr:teryt:sym_ul":972447,"contact:phone":"+48 166329125","contact:email":"sekretariat@mp2.lubaczow.pl","ref:regon":"651551948","ref:vatin":"PL7931527144","operator":"Gmina Miejska W Lubaczowie","operator:type":"government","amenity":"kindergarten"}},{"id":65177,"type":"Feature","geometry":{"type":"Point","coordinates":[23.12206,50.15702]},"properties":{"ref:rspo":65177,"official_name":"Pa\u0144stwowa Szko\u0142a Muzyczna I St. im. Krzysztofa Komedy w Lubaczowie","name":"Pa\u0144stwowa Szko\u0142a Muzyczna I St.","addr:country":"PL","addr:postcode":"37-600","addr:city":"Lubacz\u00f3w","addr:street":"ul. Rynek","addr:housenumber":"24","addr:teryt:simc":19253,"addr:teryt:sym_ul":972447,"contact:phone":"+48 166321855","contact:email":"sekretariat@psmlubaczow.pl","contact:website":"http:\/\/www.psmlubaczow.pl","ref:regon":"000742658","operator":"Ministerstwo Kultury I Dziedzictwa Narodowego","operator:type":"public","amenity":"music_school"}},{"id":86236,"type":"Feature","geometry":{"type":"Point","coordinates":[23.12191,50.15721]},"properties":{"ref:rspo":86236,"official_name":"Zak\u0142ad Doskonalenia Zawodowego O\u015brodek Kszta\u0142cenia Zawodowego w Lubaczowie","name":"Zak\u0142ad Doskonalenia Zawodowego O\u015brodek Kszta\u0142cenia Zawodowego w Lubaczowie","addr:country":"PL","addr:postcode":"37-600","addr:city":"Lubacz\u00f3w","addr:street":"ul. Rynek","addr:housenumber":"25","addr:teryt:simc":19253,"addr:teryt:sym_ul":972447,"contact:phone":"+48 166321274","contact:email":"lubaczow@zdz.rzeszow.pl","ref:regon":"180911160","ref:vatin":"PL8130268194","operator":"Zak\u0142ad Doskonalenia Zawodowego W Rzeszowie","operator:type":"ngo","fixme":"w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. amenity=training + training=*, amenity=dancing_school, amenity=language_school, amenity=music_school)"}},{"id":128408,"type":"Feature","geometry":{"type":"Point","coordinates":[23.12191,50.15718]},"properties":{"ref:rspo":128408,"official_name":"Pedagogiczna Biblioteka Wojew\u00f3dzka im. J.g.pawlikowskiego w Przemy\u015blu Filia w Lubaczowie","name":"Pedagogiczna Biblioteka Wojew\u00f3dzka","addr:country":"PL","addr:postcode":"37-600","addr:city":"Lubacz\u00f3w","addr:street":"ul. Rynek","addr:housenumber":"25","addr:teryt:simc":19253,"addr:teryt:sym_ul":972447,"contact:phone":"+48 166321234","contact:email":"lubaczow@pbw.org.pl","ref:regon":"105730900","operator":"Wojew\u00f3dztwo Podkarpackie","operator:type":"government","amenity":"library","note":"Parent RSPO: 92386"}},{"id":70663,"type":"Feature","geometry":{"type":"Point","coordinates":[23.12818,50.1582]},"properties":{"isced:level":"3","ref:rspo":70663,"official_name":"Liceum Og\u00f3lnokszta\u0142c\u0105ce im. Tadeusza Ko\u015bciuszki w Lubaczowie","name":"Liceum Og\u00f3lnokszta\u0142c\u0105ce","addr:country":"PL","addr:postcode":"37-600","addr:city":"Lubacz\u00f3w","addr:street":"ul. Tadeusza Ko\u015bciuszki","addr:housenumber":"26","addr:teryt:simc":9582,"addr:teryt:sym_ul":972447,"contact:phone":"+48 166321153","contact:email":"administracja@lo-lubaczow.pl","contact:website":"http:\/\/www.lo-lubaczow.pl","ref:regon":"651535955","ref:vatin":"PL7931107241","operator":"Powiat Lubaczowski","operator:type":"government","amenity":"school"}},{"id":277278,"type":"Feature","geometry":{"type":"Point","coordinates":[23.12818,50.15817]},"properties":{"isced:level":"3","ref:rspo":277278,"official_name":"Liceum Og\u00f3lnokszta\u0142c\u0105ce dla Doros\u0142ych - Twoja Szko\u0142a w Lubaczowie","name":"Liceum Og\u00f3lnokszta\u0142c\u0105ce dla Doros\u0142ych - Twoja Szko\u0142a w Lubaczowie","addr:country":"PL","addr:postcode":"37-600","addr:city":"Lubacz\u00f3w","addr:street":"ul. Tadeusza Ko\u015bciuszki","addr:housenumber":"26","addr:teryt:simc":9582,"addr:teryt:sym_ul":972447,"contact:phone":"+48 166321153","contact:email":"twojaszkola.lubaczow@gmail.com","ref:regon":"388498960","operator":"Stowarzyszenie Rozwoju Edukacji Przy Liceum Og\u00f3lnokszta\u0142c\u0105cym W Lubaczowie Im.tadeusza Ko\u015bciuszki","operator:type":"ngo","amenity":"school"}},{"id":75345,"type":"Feature","geometry":{"type":"Point","coordinates":[23.12015,50.15844]},"properties":{"isced:level":"1;2","ref:rspo":75345,"official_name":"Szko\u0142a Podstawowa Nr 1\nIm. Gen. Stanis\u0142awa D\u0105bka","name":"Szko\u0142a Podstawowa Nr 1\nIm. Gen. Stanis\u0142awa D\u0105bka","addr:country":"PL","addr:postcode":"37-600","addr:city":"Lubacz\u00f3w","addr:street":"ul. Marii Konopnickiej","addr:housenumber":"5","addr:teryt:simc":9186,"addr:teryt:sym_ul":972447,"contact:phone":"+48 166329055","contact:email":"sekretariat@sp1.lubaczow.pl","ref:regon":"650121714","ref:vatin":"PL7931341729","operator":"Gmina Miejska W Lubaczowie","operator:type":"government","amenity":"school"}},{"id":34565,"type":"Feature","geometry":{"type":"Point","coordinates":[23.12609,50.1602]},"properties":{"isced:level":"1;2","ref:rspo":34565,"official_name":"Szko\u0142a Podstawowa Nr 2 im. Obro\u0144c\u00f3w Lubaczowa","name":"Szko\u0142a Podstawowa Nr 2","addr:country":"PL","addr:postcode":"37-600","addr:city":"Lubacz\u00f3w","addr:street":"ul. Juliusza S\u0142owackiego","addr:housenumber":"9","addr:teryt:simc":20291,"addr:teryt:sym_ul":972447,"contact:phone":"+48 166329425","contact:email":"sekretariat@sp2.lubaczow.pl","contact:website":"http:\/\/www.sp2lubaczow.edupage.org","ref:regon":"650121418","ref:vatin":"PL7931267944","operator":"Gmina Miejska W Lubaczowie","operator:type":"government","amenity":"school"}},{"id":270751,"type":"Feature","geometry":{"type":"Point","coordinates":[23.128559112549,50.160278320312]},"properties":{"ref:rspo":270751,"official_name":"Niepubliczna Plac\u00f3wka Kszta\u0142cenia Ustawicznego \"Psychodia\"","name":"Niepubliczna Plac\u00f3wka Kszta\u0142cenia Ustawicznego \"Psychodia\"","addr:country":"PL","addr:postcode":"37-600","addr:city":"Lubacz\u00f3w","addr:street":"ul. P\u0142k. Stanis\u0142awa D\u0105bka","addr:housenumber":"2b","addr:teryt:simc":48934,"addr:teryt:sym_ul":972447,"contact:phone":"+48 511035215","contact:email":"ekursyonlinepl@gmail.com","contact:website":"http:\/\/psychodia.pl","ref:regon":"382893460","operator":"Diana Puchalska","operator:type":"private","fixme":"w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. amenity=training + training=*, amenity=dancing_school, amenity=language_school, amenity=music_school)"}},{"id":92081,"type":"Feature","geometry":{"type":"Point","coordinates":[23.1376,50.16033]},"properties":{"ref:rspo":92081,"official_name":"Zesp\u00f3\u0142 Plac\u00f3wek im. Jana Paw\u0142a II w Lubaczowie","name":"Zesp\u00f3\u0142 Plac\u00f3wek","addr:country":"PL","addr:postcode":"37-600","addr:city":"Lubacz\u00f3w","addr:street":"ul. Tadeusza Ko\u015bciuszki","addr:housenumber":"145","addr:teryt:simc":9582,"addr:teryt:sym_ul":972447,"contact:phone":"+48 166321088","contact:email":"sekretariat@zplubaczow.com","contact:website":"http:\/\/www.zplubaczow.com\/","ref:regon":"650956643","ref:vatin":"PL7931340569","operator":"Powiat Lubaczowski","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 70665;70666"}},{"id":126046,"type":"Feature","geometry":{"type":"Point","coordinates":[23.1376,50.1603]},"properties":{"isced:level":"1;2","ref:rspo":126046,"official_name":"Szko\u0142a Podstawowa Nr 4 w M\u0142odzie\u017cowym O\u015brodku Wychowawczym w Lubaczowie","name":"Szko\u0142a Podstawowa Nr 4 w M\u0142odzie\u017cowym O\u015brodku Wychowawczym w Lubaczowie","addr:country":"PL","addr:postcode":"37-600","addr:city":"Lubacz\u00f3w","addr:street":"ul. Tadeusza Ko\u015bciuszki","addr:housenumber":"145","addr:teryt:simc":9582,"addr:teryt:sym_ul":972447,"contact:phone":"+48 166321088","contact:email":"sekretariat@zplubaczow.com","ref:regon":"651498361","ref:vatin":"PL7931340569","operator":"Powiat Lubaczowski","operator:type":"government","amenity":"school","note":"Parent RSPO: 70665"}},{"id":268894,"type":"Feature","geometry":{"type":"Point","coordinates":[23.1376,50.160270000000004]},"properties":{"isced:level":"3","ref:rspo":268894,"official_name":"Bran\u017cowa Szko\u0142a I Stopnia w M\u0142odzie\u017cowym O\u015brodku Wychowawczym w Lubaczowie","name":"Bran\u017cowa Szko\u0142a I Stopnia w M\u0142odzie\u017cowym O\u015brodku Wychowawczym w Lubaczowie","addr:country":"PL","addr:postcode":"37-600","addr:city":"Lubacz\u00f3w","addr:street":"ul. Tadeusza Ko\u015bciuszki","addr:housenumber":"145","addr:teryt:simc":9582,"addr:teryt:sym_ul":972447,"contact:phone":"+48 166321088","contact:email":"sekretariat@zplubaczow.com","contact:website":"http:\/\/www.mow.zplubaczow.com\/","ref:regon":"381274417","operator":"Powiat Lubaczowski","operator:type":"government","amenity":"school","note":"Parent RSPO: 70665"}},{"id":109311,"type":"Feature","geometry":{"type":"Point","coordinates":[23.1376,50.16024]},"properties":{"isced:level":"1;2","ref:rspo":109311,"official_name":"Szko\u0142a Podstawowa Nr 3 w Specjalnym O\u015brodku Szkolno-Wychowawczym w Lubaczowie","name":"Szko\u0142a Podstawowa Nr 3 w Specjalnym O\u015brodku Szkolno-Wychowawczym w Lubaczowie","addr:country":"PL","addr:postcode":"37-600","addr:city":"Lubacz\u00f3w","addr:street":"ul. Tadeusza Ko\u015bciuszki","addr:housenumber":"145","addr:teryt:simc":9582,"addr:teryt:sym_ul":972447,"contact:phone":"+48 166321088","contact:email":"sekretariat@zplubaczow.com","contact:website":"http:\/\/www.zplubaczow.com","ref:regon":"651498409","ref:vatin":"PL7931340569","operator":"Powiat Lubaczowski","operator:type":"government","amenity":"school","note":"Parent RSPO: 70666"}},{"id":109320,"type":"Feature","geometry":{"type":"Point","coordinates":[23.1376,50.16021]},"properties":{"ref:rspo":109320,"official_name":"Szko\u0142a Specjalna Przysposabiaj\u0105ca Do Pracy w Specjalnym O\u015brodku Szkolno-Wychowawczym w Lubaczowie","name":"Szko\u0142a Specjalna Przysposabiaj\u0105ca Do Pracy w Specjalnym O\u015brodku Szkolno-Wychowawczym w Lubaczowie","addr:country":"PL","addr:postcode":"37-600","addr:city":"Lubacz\u00f3w","addr:street":"ul. Tadeusza Ko\u015bciuszki","addr:housenumber":"145","addr:teryt:simc":9582,"addr:teryt:sym_ul":972447,"contact:phone":"+48 166321088","contact:email":"sekretariat@zplubaczow.com","contact:website":"http:\/\/www.zplubaczow.com","ref:regon":"180054111","ref:vatin":"PL7931340569","operator":"Powiat Lubaczowski","operator:type":"government","amenity":"school","note":"Parent RSPO: 70666"}},{"id":70665,"type":"Feature","geometry":{"type":"Point","coordinates":[23.1376,50.160180000000004]},"properties":{"ref:rspo":70665,"official_name":"Zesp\u00f3\u0142 Plac\u00f3wek im. Jana Paw\u0142a II M\u0142odzie\u017cowy O\u015brodek Wychowawczy w Lubaczowie","name":"Zesp\u00f3\u0142 Plac\u00f3wek","addr:country":"PL","addr:postcode":"37-600","addr:city":"Lubacz\u00f3w","addr:street":"ul. Tadeusza Ko\u015bciuszki","addr:housenumber":"145","addr:teryt:simc":9582,"addr:teryt:sym_ul":972447,"contact:phone":"+48 166321088","contact:email":"sekretariat@zplubaczow.com","contact:website":"http:\/\/www.zplubaczow.com","ref:regon":"651498378","ref:vatin":"PL7931340569","operator":"Powiat Lubaczowski","operator:type":"government","fixme":"amenity=social facility + social_facility=group_home + social_facility:for=juvenile","note":"Children RSPO: 126046;268894Parent RSPO: 92081"}},{"id":70666,"type":"Feature","geometry":{"type":"Point","coordinates":[23.1376,50.16015]},"properties":{"ref:rspo":70666,"official_name":"Zesp\u00f3\u0142 Plac\u00f3wek im. Jana Paw\u0142a II Specjalny O\u015brodek Szkolno-Wychowawczy w Lubaczowie","name":"Zesp\u00f3\u0142 Plac\u00f3wek","addr:country":"PL","addr:postcode":"37-600","addr:city":"Lubacz\u00f3w","addr:street":"ul. Tadeusza Ko\u015bciuszki","addr:housenumber":"145","addr:teryt:simc":9582,"addr:teryt:sym_ul":972447,"contact:phone":"+48 166321088","contact:email":"zplubaczow145@wp.pl","contact:website":"http:\/\/www.zplubaczow.com\/","ref:regon":"651498384","ref:vatin":"PL7931340569","operator":"Powiat Lubaczowski","operator:type":"government","amenity":"school","note":"Children RSPO: 109311;109320Parent RSPO: 92081"}},{"id":34803,"type":"Feature","geometry":{"type":"Point","coordinates":[23.12155,50.16044]},"properties":{"ref:rspo":34803,"official_name":"Miejskie Przedszkole Nr 1 \"Kraina U\u015bmiechu\"","name":"Miejskie Przedszkole Nr 1 \"Kraina U\u015bmiechu\"","addr:country":"PL","addr:postcode":"37-600","addr:city":"Lubacz\u00f3w","addr:street":"ul. Adama Mickiewicza","addr:housenumber":"33","addr:teryt:simc":12740,"addr:teryt:sym_ul":972447,"contact:phone":"+48 166329360","contact:email":"sekretariat@mp1.lubaczow.pl","ref:regon":"651551925","ref:vatin":"PL7931527150","operator":"Gmina Miejska W Lubaczowie","operator:type":"government","amenity":"kindergarten"}},{"id":70662,"type":"Feature","geometry":{"type":"Point","coordinates":[23.1380899,50.16077]},"properties":{"ref:rspo":70662,"official_name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 im.gen.j\u00f3zefa Kustronia w Lubaczowie","name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 im.gen.j\u00f3zefa Kustronia w Lubaczowie","addr:country":"PL","addr:postcode":"37-600","addr:city":"Lubacz\u00f3w","addr:street":"ul. Tadeusza Ko\u015bciuszki","addr:housenumber":"161","addr:teryt:simc":9582,"addr:teryt:sym_ul":972447,"contact:phone":"+48 166321836","contact:email":"sekretariat@zs-lubaczow.com","ref:regon":"651498579","ref:vatin":"PL7931103912","operator":"Powiat Lubaczowski","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 88993;89105;89106;89164;89195;126066"}},{"id":89107,"type":"Feature","geometry":{"type":"Point","coordinates":[23.1380899,50.16074]},"properties":{"ref:rspo":89107,"official_name":"Centrum Kszta\u0142cenia Ustawicznego w Zespole Szk\u00f3\u0142 im. Gen J\u00f3zefa Kustronia w Lubaczowie","name":"Centrum Kszta\u0142cenia Ustawicznego w Zespole Szk\u00f3\u0142","addr:country":"PL","addr:postcode":"37-600","addr:city":"Lubacz\u00f3w","addr:street":"ul. Tadeusza Ko\u015bciuszki","addr:housenumber":"161","addr:teryt:simc":9582,"addr:teryt:sym_ul":972447,"contact:phone":"+48 166321836","contact:email":"sekretariat@zs-lubaczow.com","contact:website":"http:\/\/zs-lubaczow.com","ref:regon":"180470660","operator":"Powiat Lubaczowski","operator:type":"government","fixme":"w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. amenity=training + training=*, amenity=dancing_school, amenity=language_school, amenity=music_school)"}},{"id":88993,"type":"Feature","geometry":{"type":"Point","coordinates":[23.1380899,50.16071]},"properties":{"isced:level":"3","ref:rspo":88993,"official_name":"Liceum Og\u00f3lnokszta\u0142c\u0105ce w Zespole Szk\u00f3\u0142 im. Gen. J\u00f3zefa Kustronia w Lubaczowie","name":"Liceum Og\u00f3lnokszta\u0142c\u0105ce w Zespole Szk\u00f3\u0142","addr:country":"PL","addr:postcode":"37-600","addr:city":"Lubacz\u00f3w","addr:street":"ul. Tadeusza Ko\u015bciuszki","addr:housenumber":"161","addr:teryt:simc":9582,"addr:teryt:sym_ul":972447,"contact:phone":"+48 166321836","contact:email":"sekretariat@zs-lubaczow.com","contact:website":"http:\/\/zs-lubaczow.com\/","ref:regon":"651498585","operator":"Powiat Lubaczowski","operator:type":"government","amenity":"school","note":"Parent RSPO: 70662"}},{"id":89105,"type":"Feature","geometry":{"type":"Point","coordinates":[23.1380899,50.16068]},"properties":{"isced:level":"3","ref:rspo":89105,"official_name":"Technikum w Zespole Szk\u00f3\u0142 im. Gen. J\u00f3zefa Kustronia w Lubaczowie","name":"Technikum w Zespole Szk\u00f3\u0142","addr:country":"PL","addr:postcode":"37-600","addr:city":"Lubacz\u00f3w","addr:street":"ul. Tadeusza Ko\u015bciuszki","addr:housenumber":"161","addr:teryt:simc":9582,"addr:teryt:sym_ul":972447,"contact:phone":"+48 166321836","contact:email":"sekretariat@zs-lubaczow.com","contact:website":"http:\/\/zs-lubaczow.com\/","ref:regon":"651498697","operator":"Powiat Lubaczowski","operator:type":"government","amenity":"school","note":"Parent RSPO: 70662"}},{"id":89106,"type":"Feature","geometry":{"type":"Point","coordinates":[23.1380899,50.16065]},"properties":{"isced:level":"3","ref:rspo":89106,"official_name":"Bran\u017cowa Szko\u0142a I Stopnia w Zespole Szk\u00f3\u0142 im. Gen. J\u00f3zefa Kustronia w Lubaczowie","name":"Bran\u017cowa Szko\u0142a I Stopnia w Zespole Szk\u00f3\u0142","addr:country":"PL","addr:postcode":"37-600","addr:city":"Lubacz\u00f3w","addr:street":"ul. Tadeusza Ko\u015bciuszki","addr:housenumber":"161","addr:teryt:simc":9582,"addr:teryt:sym_ul":972447,"contact:phone":"+48 166321836","contact:email":"sekretariat@zs-lubaczow.com","contact:website":"http:\/\/zs-lubaczow.com\/","ref:regon":"651498711","operator":"Powiat Lubaczowski","operator:type":"government","amenity":"school","note":"Parent RSPO: 70662"}},{"id":89164,"type":"Feature","geometry":{"type":"Point","coordinates":[23.1380899,50.16062]},"properties":{"ref:rspo":89164,"official_name":"Szkolne Schronisko M\u0142odzie\u017cowe w Zespole Szk\u00f3\u0142 im. Gen. J\u00f3zefa Kustronia w Lubaczowie","name":"Szkolne Schronisko M\u0142odzie\u017cowe w Zespole Szk\u00f3\u0142","addr:country":"PL","addr:postcode":"37-600","addr:city":"Lubacz\u00f3w","addr:street":"ul. Tadeusza Ko\u015bciuszki","addr:housenumber":"161","addr:teryt:simc":9582,"addr:teryt:sym_ul":972447,"contact:phone":"+48 166321836","contact:email":"schronisko@zs-lubaczow.com","ref:regon":"651496669","ref:vatin":"PL7931103912","operator":"Powiat Lubaczowski","operator:type":"government","tourism":"hostel","note":"Parent RSPO: 70662"}},{"id":89195,"type":"Feature","geometry":{"type":"Point","coordinates":[23.1380899,50.16059]},"properties":{"ref:rspo":89195,"official_name":"Internat w Zespole Szk\u00f3\u0142 im. Gen. J\u00f3zefa Kustronia w Lubaczowie","name":"Internat w Zespole Szk\u00f3\u0142","addr:country":"PL","addr:postcode":"37-600","addr:city":"Lubacz\u00f3w","addr:street":"ul. Tadeusza Ko\u015bciuszki","addr:housenumber":"161","addr:teryt:simc":9582,"addr:teryt:sym_ul":972447,"contact:phone":"+48 166321836","contact:email":"sekretariat@zs-lubaczow.com","ref:regon":"651498600","ref:vatin":"PL7931103912","operator":"Powiat Lubaczowski","operator:type":"government","building":"dormitory","note":"Parent RSPO: 70662"}},{"id":126066,"type":"Feature","geometry":{"type":"Point","coordinates":[23.1380899,50.16056]},"properties":{"isced:level":"4","ref:rspo":126066,"official_name":"Cku w Lubaczowie Szko\u0142a Policealna","name":"Cku w Lubaczowie Szko\u0142a Policealna","addr:country":"PL","addr:postcode":"37-600","addr:city":"Lubacz\u00f3w","addr:street":"ul. Tadeusza Ko\u015bciuszki","addr:housenumber":"161","addr:teryt:simc":9582,"addr:teryt:sym_ul":972447,"contact:phone":"+48 166321836","contact:email":"sekretariat@zs-lubaczow.com","ref:regon":"360140038","ref:vatin":"PL7931103912","operator":"Powiat Lubaczowski","operator:type":"government","amenity":"college","note":"Parent RSPO: 70662"}},{"id":34962,"type":"Feature","geometry":{"type":"Point","coordinates":[23.12642,50.16098]},"properties":{"ref:rspo":34962,"official_name":"Miejskie Przedszkole Nr 3 \"Weso\u0142a Tr\u00f3jeczka\"","name":"Miejskie Przedszkole Nr 3 \"Weso\u0142a Tr\u00f3jeczka\"","addr:country":"PL","addr:postcode":"37-600","addr:city":"Lubacz\u00f3w","addr:street":"ul. Juliusza S\u0142owackiego","addr:housenumber":"16","addr:teryt:simc":20291,"addr:teryt:sym_ul":972447,"contact:phone":"+48 166329127","contact:email":"sekretariat@mp3.lubaczow.pl","contact:website":"http:\/\/www.mp3.lubaczow.pl","ref:regon":"651551954","ref:vatin":"PL7931527138","operator":"Gmina Miejska W Lubaczowie","operator:type":"government","amenity":"kindergarten"}},{"id":70664,"type":"Feature","geometry":{"type":"Point","coordinates":[23.12143,50.16115]},"properties":{"ref:rspo":70664,"official_name":"Poradnia Psychologiczno-Pedagogiczna w Lubaczowie","name":"Poradnia Psychologiczno-Pedagogiczna w Lubaczowie","addr:country":"PL","addr:postcode":"37-600","addr:city":"Lubacz\u00f3w","addr:street":"ul. Adama Mickiewicza","addr:housenumber":"45","addr:teryt:simc":12740,"addr:teryt:sym_ul":972447,"contact:phone":"+48 166321378","contact:email":"poradnia@powiatlubaczowski.pl","contact:website":"http:\/\/www.poradnia.powiatlubaczowski.pl","ref:regon":"001057249","ref:vatin":"PL7931401288","operator":"Powiat Lubaczowski","operator:type":"government","healthcare":"councelling","counselling_type":"education","fixme":"w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. healthcare=councelling + counselling_type=education albo healthcare=psychotherapist)"}},{"id":275584,"type":"Feature","geometry":{"type":"Point","coordinates":[23.12555,50.16417]},"properties":{"ref:rspo":275584,"official_name":"Niepubliczne Przedszkole \"Magiczny Zak\u0105tek\"","name":"Niepubliczne Przedszkole \"Magiczny Zak\u0105tek\"","addr:country":"PL","addr:postcode":"37-600","addr:city":"Lubacz\u00f3w","addr:street":"ul. Juliusza S\u0142owackiego","addr:housenumber":"36","addr:teryt:simc":20291,"addr:teryt:sym_ul":972447,"contact:phone":"+48 666957900","contact:email":"magicznyzakatek@op.pl","contact:website":"http:\/\/www.magicznyzakatek.edu.pl","ref:regon":"386926149","operator":"Sp\u00f3\u0142dzielnia Socjalna \"Magiczny Zak\u0105tek\"","operator:type":"cooperative","amenity":"kindergarten"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 273350,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.11909,
+                    50.15224
+                ]
+            },
+            "properties": {
+                "ref:rspo": 273350,
+                "official_name": "Ekomaluchy",
+                "name": "Ekomaluchy",
+                "addr:country": "PL",
+                "addr:postcode": "37-600",
+                "addr:city": "Lubacz\u00f3w",
+                "addr:street": "ul. S\u0142oneczna",
+                "addr:housenumber": "19",
+                "addr:teryt:simc": 20254,
+                "addr:teryt:sym_ul": 972447,
+                "contact:email": "ekomaluchy@interia.pl",
+                "ref:regon": "384451699",
+                "operator": "Karolina Wa\u017cna",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 34805,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.11469,
+                    50.15593
+                ]
+            },
+            "properties": {
+                "ref:rspo": 34805,
+                "official_name": "Miejskie Przedszkole Nr 2 w Lubaczowie",
+                "name": "Miejskie Przedszkole Nr 2 w Lubaczowie",
+                "addr:country": "PL",
+                "addr:postcode": "37-600",
+                "addr:city": "Lubacz\u00f3w",
+                "addr:street": "ul. Marii Konopnickiej",
+                "addr:housenumber": "9",
+                "addr:teryt:simc": 9186,
+                "addr:teryt:sym_ul": 972447,
+                "contact:phone": "+48 166329125",
+                "contact:email": "sekretariat@mp2.lubaczow.pl",
+                "ref:regon": "651551948",
+                "ref:vatin": "PL7931527144",
+                "operator": "Gmina Miejska W Lubaczowie",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 65177,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.12206,
+                    50.15702
+                ]
+            },
+            "properties": {
+                "ref:rspo": 65177,
+                "official_name": "Pa\u0144stwowa Szko\u0142a Muzyczna I St. im. Krzysztofa Komedy w Lubaczowie",
+                "name": "Pa\u0144stwowa Szko\u0142a Muzyczna I St.",
+                "addr:country": "PL",
+                "addr:postcode": "37-600",
+                "addr:city": "Lubacz\u00f3w",
+                "addr:street": "ul. Rynek",
+                "addr:housenumber": "24",
+                "addr:teryt:simc": 19253,
+                "addr:teryt:sym_ul": 972447,
+                "contact:phone": "+48 166321855",
+                "contact:email": "sekretariat@psmlubaczow.pl",
+                "contact:website": "http:\/\/www.psmlubaczow.pl",
+                "ref:regon": "000742658",
+                "operator": "Ministerstwo Kultury I Dziedzictwa Narodowego",
+                "operator:type": "public",
+                "amenity": "music_school"
+            }
+        },
+        {
+            "id": 86236,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.12191,
+                    50.15721
+                ]
+            },
+            "properties": {
+                "ref:rspo": 86236,
+                "official_name": "Zak\u0142ad Doskonalenia Zawodowego O\u015brodek Kszta\u0142cenia Zawodowego w Lubaczowie",
+                "name": "Zak\u0142ad Doskonalenia Zawodowego O\u015brodek Kszta\u0142cenia Zawodowego w Lubaczowie",
+                "addr:country": "PL",
+                "addr:postcode": "37-600",
+                "addr:city": "Lubacz\u00f3w",
+                "addr:street": "ul. Rynek",
+                "addr:housenumber": "25",
+                "addr:teryt:simc": 19253,
+                "addr:teryt:sym_ul": 972447,
+                "contact:phone": "+48 166321274",
+                "contact:email": "lubaczow@zdz.rzeszow.pl",
+                "ref:regon": "180911160",
+                "ref:vatin": "PL8130268194",
+                "operator": "Zak\u0142ad Doskonalenia Zawodowego W Rzeszowie",
+                "operator:type": "ngo",
+                "fixme": "w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. amenity=training + training=*, amenity=dancing_school, amenity=language_school, amenity=music_school)"
+            }
+        },
+        {
+            "id": 128408,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.12191,
+                    50.15718
+                ]
+            },
+            "properties": {
+                "ref:rspo": 128408,
+                "official_name": "Pedagogiczna Biblioteka Wojew\u00f3dzka im. J.g.pawlikowskiego w Przemy\u015blu Filia w Lubaczowie",
+                "name": "Pedagogiczna Biblioteka Wojew\u00f3dzka",
+                "addr:country": "PL",
+                "addr:postcode": "37-600",
+                "addr:city": "Lubacz\u00f3w",
+                "addr:street": "ul. Rynek",
+                "addr:housenumber": "25",
+                "addr:teryt:simc": 19253,
+                "addr:teryt:sym_ul": 972447,
+                "contact:phone": "+48 166321234",
+                "contact:email": "lubaczow@pbw.org.pl",
+                "ref:regon": "105730900",
+                "operator": "Wojew\u00f3dztwo Podkarpackie",
+                "operator:type": "government",
+                "amenity": "library",
+                "note": "Parent RSPO: 92386"
+            }
+        },
+        {
+            "id": 70663,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.12818,
+                    50.1582
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 70663,
+                "official_name": "Liceum Og\u00f3lnokszta\u0142c\u0105ce im. Tadeusza Ko\u015bciuszki w Lubaczowie",
+                "name": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+                "addr:country": "PL",
+                "addr:postcode": "37-600",
+                "addr:city": "Lubacz\u00f3w",
+                "addr:street": "ul. Tadeusza Ko\u015bciuszki",
+                "addr:housenumber": "26",
+                "addr:teryt:simc": 9582,
+                "addr:teryt:sym_ul": 972447,
+                "contact:phone": "+48 166321153",
+                "contact:email": "administracja@lo-lubaczow.pl",
+                "contact:website": "http:\/\/www.lo-lubaczow.pl",
+                "ref:regon": "651535955",
+                "ref:vatin": "PL7931107241",
+                "operator": "Powiat Lubaczowski",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 277278,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.12818,
+                    50.15817
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 277278,
+                "official_name": "Liceum Og\u00f3lnokszta\u0142c\u0105ce dla Doros\u0142ych - Twoja Szko\u0142a w Lubaczowie",
+                "name": "Liceum Og\u00f3lnokszta\u0142c\u0105ce dla Doros\u0142ych - Twoja Szko\u0142a w Lubaczowie",
+                "addr:country": "PL",
+                "addr:postcode": "37-600",
+                "addr:city": "Lubacz\u00f3w",
+                "addr:street": "ul. Tadeusza Ko\u015bciuszki",
+                "addr:housenumber": "26",
+                "addr:teryt:simc": 9582,
+                "addr:teryt:sym_ul": 972447,
+                "contact:phone": "+48 166321153",
+                "contact:email": "twojaszkola.lubaczow@gmail.com",
+                "ref:regon": "388498960",
+                "operator": "Stowarzyszenie Rozwoju Edukacji Przy Liceum Og\u00f3lnokszta\u0142c\u0105cym W Lubaczowie Im.tadeusza Ko\u015bciuszki",
+                "operator:type": "ngo",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 75345,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.12015,
+                    50.15844
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 75345,
+                "official_name": "Szko\u0142a Podstawowa Nr 1\nIm. Gen. Stanis\u0142awa D\u0105bka",
+                "name": "Szko\u0142a Podstawowa Nr 1\nIm. Gen. Stanis\u0142awa D\u0105bka",
+                "addr:country": "PL",
+                "addr:postcode": "37-600",
+                "addr:city": "Lubacz\u00f3w",
+                "addr:street": "ul. Marii Konopnickiej",
+                "addr:housenumber": "5",
+                "addr:teryt:simc": 9186,
+                "addr:teryt:sym_ul": 972447,
+                "contact:phone": "+48 166329055",
+                "contact:email": "sekretariat@sp1.lubaczow.pl",
+                "ref:regon": "650121714",
+                "ref:vatin": "PL7931341729",
+                "operator": "Gmina Miejska W Lubaczowie",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 34565,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.12609,
+                    50.1602
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 34565,
+                "official_name": "Szko\u0142a Podstawowa Nr 2 im. Obro\u0144c\u00f3w Lubaczowa",
+                "name": "Szko\u0142a Podstawowa Nr 2",
+                "addr:country": "PL",
+                "addr:postcode": "37-600",
+                "addr:city": "Lubacz\u00f3w",
+                "addr:street": "ul. Juliusza S\u0142owackiego",
+                "addr:housenumber": "9",
+                "addr:teryt:simc": 20291,
+                "addr:teryt:sym_ul": 972447,
+                "contact:phone": "+48 166329425",
+                "contact:email": "sekretariat@sp2.lubaczow.pl",
+                "contact:website": "http:\/\/www.sp2lubaczow.edupage.org",
+                "ref:regon": "650121418",
+                "ref:vatin": "PL7931267944",
+                "operator": "Gmina Miejska W Lubaczowie",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 270751,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.128559112549,
+                    50.160278320312
+                ]
+            },
+            "properties": {
+                "ref:rspo": 270751,
+                "official_name": "Niepubliczna Plac\u00f3wka Kszta\u0142cenia Ustawicznego \"Psychodia\"",
+                "name": "Niepubliczna Plac\u00f3wka Kszta\u0142cenia Ustawicznego \"Psychodia\"",
+                "addr:country": "PL",
+                "addr:postcode": "37-600",
+                "addr:city": "Lubacz\u00f3w",
+                "addr:street": "ul. P\u0142k. Stanis\u0142awa D\u0105bka",
+                "addr:housenumber": "2b",
+                "addr:teryt:simc": 48934,
+                "addr:teryt:sym_ul": 972447,
+                "contact:phone": "+48 511035215",
+                "contact:email": "ekursyonlinepl@gmail.com",
+                "contact:website": "http:\/\/psychodia.pl",
+                "ref:regon": "382893460",
+                "operator": "Diana Puchalska",
+                "operator:type": "private",
+                "fixme": "w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. amenity=training + training=*, amenity=dancing_school, amenity=language_school, amenity=music_school)"
+            }
+        },
+        {
+            "id": 92081,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.1376,
+                    50.16033
+                ]
+            },
+            "properties": {
+                "ref:rspo": 92081,
+                "official_name": "Zesp\u00f3\u0142 Plac\u00f3wek im. Jana Paw\u0142a II w Lubaczowie",
+                "name": "Zesp\u00f3\u0142 Plac\u00f3wek",
+                "addr:country": "PL",
+                "addr:postcode": "37-600",
+                "addr:city": "Lubacz\u00f3w",
+                "addr:street": "ul. Tadeusza Ko\u015bciuszki",
+                "addr:housenumber": "145",
+                "addr:teryt:simc": 9582,
+                "addr:teryt:sym_ul": 972447,
+                "contact:phone": "+48 166321088",
+                "contact:email": "sekretariat@zplubaczow.com",
+                "contact:website": "http:\/\/www.zplubaczow.com\/",
+                "ref:regon": "650956643",
+                "ref:vatin": "PL7931340569",
+                "operator": "Powiat Lubaczowski",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 70665;70666"
+            }
+        },
+        {
+            "id": 126046,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.1376,
+                    50.1603
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 126046,
+                "official_name": "Szko\u0142a Podstawowa Nr 4 w M\u0142odzie\u017cowym O\u015brodku Wychowawczym w Lubaczowie",
+                "name": "Szko\u0142a Podstawowa Nr 4 w M\u0142odzie\u017cowym O\u015brodku Wychowawczym w Lubaczowie",
+                "addr:country": "PL",
+                "addr:postcode": "37-600",
+                "addr:city": "Lubacz\u00f3w",
+                "addr:street": "ul. Tadeusza Ko\u015bciuszki",
+                "addr:housenumber": "145",
+                "addr:teryt:simc": 9582,
+                "addr:teryt:sym_ul": 972447,
+                "contact:phone": "+48 166321088",
+                "contact:email": "sekretariat@zplubaczow.com",
+                "ref:regon": "651498361",
+                "ref:vatin": "PL7931340569",
+                "operator": "Powiat Lubaczowski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 70665"
+            }
+        },
+        {
+            "id": 268894,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.1376,
+                    50.160270000000004
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 268894,
+                "official_name": "Bran\u017cowa Szko\u0142a I Stopnia w M\u0142odzie\u017cowym O\u015brodku Wychowawczym w Lubaczowie",
+                "name": "Bran\u017cowa Szko\u0142a I Stopnia w M\u0142odzie\u017cowym O\u015brodku Wychowawczym w Lubaczowie",
+                "addr:country": "PL",
+                "addr:postcode": "37-600",
+                "addr:city": "Lubacz\u00f3w",
+                "addr:street": "ul. Tadeusza Ko\u015bciuszki",
+                "addr:housenumber": "145",
+                "addr:teryt:simc": 9582,
+                "addr:teryt:sym_ul": 972447,
+                "contact:phone": "+48 166321088",
+                "contact:email": "sekretariat@zplubaczow.com",
+                "contact:website": "http:\/\/www.mow.zplubaczow.com\/",
+                "ref:regon": "381274417",
+                "operator": "Powiat Lubaczowski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 70665"
+            }
+        },
+        {
+            "id": 109311,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.1376,
+                    50.16024
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 109311,
+                "official_name": "Szko\u0142a Podstawowa Nr 3 w Specjalnym O\u015brodku Szkolno-Wychowawczym w Lubaczowie",
+                "name": "Szko\u0142a Podstawowa Nr 3 w Specjalnym O\u015brodku Szkolno-Wychowawczym w Lubaczowie",
+                "addr:country": "PL",
+                "addr:postcode": "37-600",
+                "addr:city": "Lubacz\u00f3w",
+                "addr:street": "ul. Tadeusza Ko\u015bciuszki",
+                "addr:housenumber": "145",
+                "addr:teryt:simc": 9582,
+                "addr:teryt:sym_ul": 972447,
+                "contact:phone": "+48 166321088",
+                "contact:email": "sekretariat@zplubaczow.com",
+                "contact:website": "http:\/\/www.zplubaczow.com",
+                "ref:regon": "651498409",
+                "ref:vatin": "PL7931340569",
+                "operator": "Powiat Lubaczowski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 70666"
+            }
+        },
+        {
+            "id": 109320,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.1376,
+                    50.16021
+                ]
+            },
+            "properties": {
+                "ref:rspo": 109320,
+                "official_name": "Szko\u0142a Specjalna Przysposabiaj\u0105ca Do Pracy w Specjalnym O\u015brodku Szkolno-Wychowawczym w Lubaczowie",
+                "name": "Szko\u0142a Specjalna Przysposabiaj\u0105ca Do Pracy w Specjalnym O\u015brodku Szkolno-Wychowawczym w Lubaczowie",
+                "addr:country": "PL",
+                "addr:postcode": "37-600",
+                "addr:city": "Lubacz\u00f3w",
+                "addr:street": "ul. Tadeusza Ko\u015bciuszki",
+                "addr:housenumber": "145",
+                "addr:teryt:simc": 9582,
+                "addr:teryt:sym_ul": 972447,
+                "contact:phone": "+48 166321088",
+                "contact:email": "sekretariat@zplubaczow.com",
+                "contact:website": "http:\/\/www.zplubaczow.com",
+                "ref:regon": "180054111",
+                "ref:vatin": "PL7931340569",
+                "operator": "Powiat Lubaczowski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 70666"
+            }
+        },
+        {
+            "id": 70665,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.1376,
+                    50.160180000000004
+                ]
+            },
+            "properties": {
+                "ref:rspo": 70665,
+                "official_name": "Zesp\u00f3\u0142 Plac\u00f3wek im. Jana Paw\u0142a II M\u0142odzie\u017cowy O\u015brodek Wychowawczy w Lubaczowie",
+                "name": "Zesp\u00f3\u0142 Plac\u00f3wek",
+                "addr:country": "PL",
+                "addr:postcode": "37-600",
+                "addr:city": "Lubacz\u00f3w",
+                "addr:street": "ul. Tadeusza Ko\u015bciuszki",
+                "addr:housenumber": "145",
+                "addr:teryt:simc": 9582,
+                "addr:teryt:sym_ul": 972447,
+                "contact:phone": "+48 166321088",
+                "contact:email": "sekretariat@zplubaczow.com",
+                "contact:website": "http:\/\/www.zplubaczow.com",
+                "ref:regon": "651498378",
+                "ref:vatin": "PL7931340569",
+                "operator": "Powiat Lubaczowski",
+                "operator:type": "government",
+                "fixme": "amenity=social_facility + social_facility=group_home + social_facility:for=juvenile",
+                "note": "Children RSPO: 126046;268894Parent RSPO: 92081"
+            }
+        },
+        {
+            "id": 70666,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.1376,
+                    50.16015
+                ]
+            },
+            "properties": {
+                "ref:rspo": 70666,
+                "official_name": "Zesp\u00f3\u0142 Plac\u00f3wek im. Jana Paw\u0142a II Specjalny O\u015brodek Szkolno-Wychowawczy w Lubaczowie",
+                "name": "Zesp\u00f3\u0142 Plac\u00f3wek",
+                "addr:country": "PL",
+                "addr:postcode": "37-600",
+                "addr:city": "Lubacz\u00f3w",
+                "addr:street": "ul. Tadeusza Ko\u015bciuszki",
+                "addr:housenumber": "145",
+                "addr:teryt:simc": 9582,
+                "addr:teryt:sym_ul": 972447,
+                "contact:phone": "+48 166321088",
+                "contact:email": "zplubaczow145@wp.pl",
+                "contact:website": "http:\/\/www.zplubaczow.com\/",
+                "ref:regon": "651498384",
+                "ref:vatin": "PL7931340569",
+                "operator": "Powiat Lubaczowski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Children RSPO: 109311;109320Parent RSPO: 92081"
+            }
+        },
+        {
+            "id": 34803,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.12155,
+                    50.16044
+                ]
+            },
+            "properties": {
+                "ref:rspo": 34803,
+                "official_name": "Miejskie Przedszkole Nr 1 \"Kraina U\u015bmiechu\"",
+                "name": "Miejskie Przedszkole Nr 1 \"Kraina U\u015bmiechu\"",
+                "addr:country": "PL",
+                "addr:postcode": "37-600",
+                "addr:city": "Lubacz\u00f3w",
+                "addr:street": "ul. Adama Mickiewicza",
+                "addr:housenumber": "33",
+                "addr:teryt:simc": 12740,
+                "addr:teryt:sym_ul": 972447,
+                "contact:phone": "+48 166329360",
+                "contact:email": "sekretariat@mp1.lubaczow.pl",
+                "ref:regon": "651551925",
+                "ref:vatin": "PL7931527150",
+                "operator": "Gmina Miejska W Lubaczowie",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 70662,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.1380899,
+                    50.16077
+                ]
+            },
+            "properties": {
+                "ref:rspo": 70662,
+                "official_name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 im.gen.j\u00f3zefa Kustronia w Lubaczowie",
+                "name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 im.gen.j\u00f3zefa Kustronia w Lubaczowie",
+                "addr:country": "PL",
+                "addr:postcode": "37-600",
+                "addr:city": "Lubacz\u00f3w",
+                "addr:street": "ul. Tadeusza Ko\u015bciuszki",
+                "addr:housenumber": "161",
+                "addr:teryt:simc": 9582,
+                "addr:teryt:sym_ul": 972447,
+                "contact:phone": "+48 166321836",
+                "contact:email": "sekretariat@zs-lubaczow.com",
+                "ref:regon": "651498579",
+                "ref:vatin": "PL7931103912",
+                "operator": "Powiat Lubaczowski",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 88993;89105;89106;89164;89195;126066"
+            }
+        },
+        {
+            "id": 89107,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.1380899,
+                    50.16074
+                ]
+            },
+            "properties": {
+                "ref:rspo": 89107,
+                "official_name": "Centrum Kszta\u0142cenia Ustawicznego w Zespole Szk\u00f3\u0142 im. Gen J\u00f3zefa Kustronia w Lubaczowie",
+                "name": "Centrum Kszta\u0142cenia Ustawicznego w Zespole Szk\u00f3\u0142",
+                "addr:country": "PL",
+                "addr:postcode": "37-600",
+                "addr:city": "Lubacz\u00f3w",
+                "addr:street": "ul. Tadeusza Ko\u015bciuszki",
+                "addr:housenumber": "161",
+                "addr:teryt:simc": 9582,
+                "addr:teryt:sym_ul": 972447,
+                "contact:phone": "+48 166321836",
+                "contact:email": "sekretariat@zs-lubaczow.com",
+                "contact:website": "http:\/\/zs-lubaczow.com",
+                "ref:regon": "180470660",
+                "operator": "Powiat Lubaczowski",
+                "operator:type": "government",
+                "fixme": "w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. amenity=training + training=*, amenity=dancing_school, amenity=language_school, amenity=music_school)"
+            }
+        },
+        {
+            "id": 88993,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.1380899,
+                    50.16071
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 88993,
+                "official_name": "Liceum Og\u00f3lnokszta\u0142c\u0105ce w Zespole Szk\u00f3\u0142 im. Gen. J\u00f3zefa Kustronia w Lubaczowie",
+                "name": "Liceum Og\u00f3lnokszta\u0142c\u0105ce w Zespole Szk\u00f3\u0142",
+                "addr:country": "PL",
+                "addr:postcode": "37-600",
+                "addr:city": "Lubacz\u00f3w",
+                "addr:street": "ul. Tadeusza Ko\u015bciuszki",
+                "addr:housenumber": "161",
+                "addr:teryt:simc": 9582,
+                "addr:teryt:sym_ul": 972447,
+                "contact:phone": "+48 166321836",
+                "contact:email": "sekretariat@zs-lubaczow.com",
+                "contact:website": "http:\/\/zs-lubaczow.com\/",
+                "ref:regon": "651498585",
+                "operator": "Powiat Lubaczowski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 70662"
+            }
+        },
+        {
+            "id": 89105,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.1380899,
+                    50.16068
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 89105,
+                "official_name": "Technikum w Zespole Szk\u00f3\u0142 im. Gen. J\u00f3zefa Kustronia w Lubaczowie",
+                "name": "Technikum w Zespole Szk\u00f3\u0142",
+                "addr:country": "PL",
+                "addr:postcode": "37-600",
+                "addr:city": "Lubacz\u00f3w",
+                "addr:street": "ul. Tadeusza Ko\u015bciuszki",
+                "addr:housenumber": "161",
+                "addr:teryt:simc": 9582,
+                "addr:teryt:sym_ul": 972447,
+                "contact:phone": "+48 166321836",
+                "contact:email": "sekretariat@zs-lubaczow.com",
+                "contact:website": "http:\/\/zs-lubaczow.com\/",
+                "ref:regon": "651498697",
+                "operator": "Powiat Lubaczowski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 70662"
+            }
+        },
+        {
+            "id": 89106,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.1380899,
+                    50.16065
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 89106,
+                "official_name": "Bran\u017cowa Szko\u0142a I Stopnia w Zespole Szk\u00f3\u0142 im. Gen. J\u00f3zefa Kustronia w Lubaczowie",
+                "name": "Bran\u017cowa Szko\u0142a I Stopnia w Zespole Szk\u00f3\u0142",
+                "addr:country": "PL",
+                "addr:postcode": "37-600",
+                "addr:city": "Lubacz\u00f3w",
+                "addr:street": "ul. Tadeusza Ko\u015bciuszki",
+                "addr:housenumber": "161",
+                "addr:teryt:simc": 9582,
+                "addr:teryt:sym_ul": 972447,
+                "contact:phone": "+48 166321836",
+                "contact:email": "sekretariat@zs-lubaczow.com",
+                "contact:website": "http:\/\/zs-lubaczow.com\/",
+                "ref:regon": "651498711",
+                "operator": "Powiat Lubaczowski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 70662"
+            }
+        },
+        {
+            "id": 89164,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.1380899,
+                    50.16062
+                ]
+            },
+            "properties": {
+                "ref:rspo": 89164,
+                "official_name": "Szkolne Schronisko M\u0142odzie\u017cowe w Zespole Szk\u00f3\u0142 im. Gen. J\u00f3zefa Kustronia w Lubaczowie",
+                "name": "Szkolne Schronisko M\u0142odzie\u017cowe w Zespole Szk\u00f3\u0142",
+                "addr:country": "PL",
+                "addr:postcode": "37-600",
+                "addr:city": "Lubacz\u00f3w",
+                "addr:street": "ul. Tadeusza Ko\u015bciuszki",
+                "addr:housenumber": "161",
+                "addr:teryt:simc": 9582,
+                "addr:teryt:sym_ul": 972447,
+                "contact:phone": "+48 166321836",
+                "contact:email": "schronisko@zs-lubaczow.com",
+                "ref:regon": "651496669",
+                "ref:vatin": "PL7931103912",
+                "operator": "Powiat Lubaczowski",
+                "operator:type": "government",
+                "tourism": "hostel",
+                "note": "Parent RSPO: 70662"
+            }
+        },
+        {
+            "id": 89195,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.1380899,
+                    50.16059
+                ]
+            },
+            "properties": {
+                "ref:rspo": 89195,
+                "official_name": "Internat w Zespole Szk\u00f3\u0142 im. Gen. J\u00f3zefa Kustronia w Lubaczowie",
+                "name": "Internat w Zespole Szk\u00f3\u0142",
+                "addr:country": "PL",
+                "addr:postcode": "37-600",
+                "addr:city": "Lubacz\u00f3w",
+                "addr:street": "ul. Tadeusza Ko\u015bciuszki",
+                "addr:housenumber": "161",
+                "addr:teryt:simc": 9582,
+                "addr:teryt:sym_ul": 972447,
+                "contact:phone": "+48 166321836",
+                "contact:email": "sekretariat@zs-lubaczow.com",
+                "ref:regon": "651498600",
+                "ref:vatin": "PL7931103912",
+                "operator": "Powiat Lubaczowski",
+                "operator:type": "government",
+                "building": "dormitory",
+                "note": "Parent RSPO: 70662"
+            }
+        },
+        {
+            "id": 126066,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.1380899,
+                    50.16056
+                ]
+            },
+            "properties": {
+                "isced:level": "4",
+                "ref:rspo": 126066,
+                "official_name": "Cku w Lubaczowie Szko\u0142a Policealna",
+                "name": "Cku w Lubaczowie Szko\u0142a Policealna",
+                "addr:country": "PL",
+                "addr:postcode": "37-600",
+                "addr:city": "Lubacz\u00f3w",
+                "addr:street": "ul. Tadeusza Ko\u015bciuszki",
+                "addr:housenumber": "161",
+                "addr:teryt:simc": 9582,
+                "addr:teryt:sym_ul": 972447,
+                "contact:phone": "+48 166321836",
+                "contact:email": "sekretariat@zs-lubaczow.com",
+                "ref:regon": "360140038",
+                "ref:vatin": "PL7931103912",
+                "operator": "Powiat Lubaczowski",
+                "operator:type": "government",
+                "amenity": "college",
+                "note": "Parent RSPO: 70662"
+            }
+        },
+        {
+            "id": 34962,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.12642,
+                    50.16098
+                ]
+            },
+            "properties": {
+                "ref:rspo": 34962,
+                "official_name": "Miejskie Przedszkole Nr 3 \"Weso\u0142a Tr\u00f3jeczka\"",
+                "name": "Miejskie Przedszkole Nr 3 \"Weso\u0142a Tr\u00f3jeczka\"",
+                "addr:country": "PL",
+                "addr:postcode": "37-600",
+                "addr:city": "Lubacz\u00f3w",
+                "addr:street": "ul. Juliusza S\u0142owackiego",
+                "addr:housenumber": "16",
+                "addr:teryt:simc": 20291,
+                "addr:teryt:sym_ul": 972447,
+                "contact:phone": "+48 166329127",
+                "contact:email": "sekretariat@mp3.lubaczow.pl",
+                "contact:website": "http:\/\/www.mp3.lubaczow.pl",
+                "ref:regon": "651551954",
+                "ref:vatin": "PL7931527138",
+                "operator": "Gmina Miejska W Lubaczowie",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 70664,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.12143,
+                    50.16115
+                ]
+            },
+            "properties": {
+                "ref:rspo": 70664,
+                "official_name": "Poradnia Psychologiczno-Pedagogiczna w Lubaczowie",
+                "name": "Poradnia Psychologiczno-Pedagogiczna w Lubaczowie",
+                "addr:country": "PL",
+                "addr:postcode": "37-600",
+                "addr:city": "Lubacz\u00f3w",
+                "addr:street": "ul. Adama Mickiewicza",
+                "addr:housenumber": "45",
+                "addr:teryt:simc": 12740,
+                "addr:teryt:sym_ul": 972447,
+                "contact:phone": "+48 166321378",
+                "contact:email": "poradnia@powiatlubaczowski.pl",
+                "contact:website": "http:\/\/www.poradnia.powiatlubaczowski.pl",
+                "ref:regon": "001057249",
+                "ref:vatin": "PL7931401288",
+                "operator": "Powiat Lubaczowski",
+                "operator:type": "government",
+                "healthcare": "counselling",
+                "counselling_type": "education",
+                "fixme": "w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. healthcare=counselling + counselling_type=education albo healthcare=psychotherapist)"
+            }
+        },
+        {
+            "id": 275584,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.12555,
+                    50.16417
+                ]
+            },
+            "properties": {
+                "ref:rspo": 275584,
+                "official_name": "Niepubliczne Przedszkole \"Magiczny Zak\u0105tek\"",
+                "name": "Niepubliczne Przedszkole \"Magiczny Zak\u0105tek\"",
+                "addr:country": "PL",
+                "addr:postcode": "37-600",
+                "addr:city": "Lubacz\u00f3w",
+                "addr:street": "ul. Juliusza S\u0142owackiego",
+                "addr:housenumber": "36",
+                "addr:teryt:simc": 20291,
+                "addr:teryt:sym_ul": 972447,
+                "contact:phone": "+48 666957900",
+                "contact:email": "magicznyzakatek@op.pl",
+                "contact:website": "http:\/\/www.magicznyzakatek.edu.pl",
+                "ref:regon": "386926149",
+                "operator": "Sp\u00f3\u0142dzielnia Socjalna \"Magiczny Zak\u0105tek\"",
+                "operator:type": "cooperative",
+                "amenity": "kindergarten"
+            }
+        }
+    ]
+}

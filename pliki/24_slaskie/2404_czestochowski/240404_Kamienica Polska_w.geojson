@@ -1,1 +1,99 @@
-{"type":"FeatureCollection","features":[{"id":48425,"type":"Feature","geometry":{"type":"Point","coordinates":[19.12809,50.67316]},"properties":{"ref:rspo":48425,"official_name":"Przedszkole","name":"Przedszkole","addr:country":"PL","addr:postcode":"42-260","addr:city":"Kamienica Polska","addr:street":"ul. Marii Konopnickiej","addr:housenumber":"11A","addr:teryt:simc":9186,"addr:teryt:sym_ul":133646,"contact:phone":"+48 343273219","contact:email":"przedsz.kampol@gmail.com","ref:regon":"150034161","ref:vatin":"PL5731394105","operator":"Gmina Kamienica Polska","operator:type":"government","amenity":"kindergarten"}},{"id":25062,"type":"Feature","geometry":{"type":"Point","coordinates":[19.15334,50.68138]},"properties":{"isced:level":"3","ref:rspo":25062,"official_name":"Liceum Og\u00f3lnokszta\u0142c\u0105ce w Kamienicy Polskiej","name":"Liceum Og\u00f3lnokszta\u0142c\u0105ce w Kamienicy Polskiej","addr:country":"PL","addr:postcode":"42-260","addr:city":"Kamienica Polska","addr:street":"ul. Adama Ferensa","addr:housenumber":"12","addr:teryt:simc":28752,"addr:teryt:sym_ul":133646,"contact:phone":"+48 343273229","contact:email":"sekretariat@lokp.pl","contact:website":"http:\/\/www.lokp.pl","ref:regon":"000715845","ref:vatin":"PL5731337337","operator":"Powiat Cz\u0119stochowski","operator:type":"government","amenity":"school"}},{"id":29413,"type":"Feature","geometry":{"type":"Point","coordinates":[19.15334,50.681349999999995]},"properties":{"isced:level":"1;2","ref:rspo":29413,"official_name":"Szko\u0142a Podstawowa im.henryka Sienkiewicza w Kamienicy Polskiej","name":"Szko\u0142a Podstawowa im.henryka Sienkiewicza w Kamienicy Polskiej","addr:country":"PL","addr:postcode":"42-260","addr:city":"Kamienica Polska","addr:street":"ul. Adama Ferensa","addr:housenumber":"12A","addr:teryt:simc":28752,"addr:teryt:sym_ul":133646,"contact:phone":"+48 343273304","contact:email":"sp2kp@poczta.onet.pl","contact:website":"http:\/\/www.spkp.pl","ref:regon":"000710859","ref:vatin":"PL5732669171","operator":"Gmina Kamienica Polska","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 48425,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.12809,
+                    50.67316
+                ]
+            },
+            "properties": {
+                "ref:rspo": 48425,
+                "official_name": "Przedszkole",
+                "name": "Przedszkole",
+                "addr:country": "PL",
+                "addr:postcode": "42-260",
+                "addr:city": "Kamienica Polska",
+                "addr:street": "ul. Marii Konopnickiej",
+                "addr:housenumber": "11A",
+                "addr:teryt:simc": 9186,
+                "addr:teryt:sym_ul": 133646,
+                "contact:phone": "+48 343273219",
+                "contact:email": "przedsz.kampol@gmail.com",
+                "ref:regon": "150034161",
+                "ref:vatin": "PL5731394105",
+                "operator": "Gmina Kamienica Polska",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 25062,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.15334,
+                    50.68138
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 25062,
+                "official_name": "Liceum Og\u00f3lnokszta\u0142c\u0105ce w Kamienicy Polskiej",
+                "name": "Liceum Og\u00f3lnokszta\u0142c\u0105ce w Kamienicy Polskiej",
+                "addr:country": "PL",
+                "addr:postcode": "42-260",
+                "addr:city": "Kamienica Polska",
+                "addr:street": "ul. Adama Ferensa",
+                "addr:housenumber": "12",
+                "addr:teryt:simc": 28752,
+                "addr:teryt:sym_ul": 133646,
+                "contact:phone": "+48 343273229",
+                "contact:email": "sekretariat@lokp.pl",
+                "contact:website": "http:\/\/www.lokp.pl",
+                "ref:regon": "000715845",
+                "ref:vatin": "PL5731337337",
+                "operator": "Powiat Cz\u0119stochowski",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 29413,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.15334,
+                    50.681349999999995
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 29413,
+                "official_name": "Szko\u0142a Podstawowa im.henryka Sienkiewicza w Kamienicy Polskiej",
+                "name": "Szko\u0142a Podstawowa im.henryka Sienkiewicza w Kamienicy Polskiej",
+                "addr:country": "PL",
+                "addr:postcode": "42-260",
+                "addr:city": "Kamienica Polska",
+                "addr:street": "ul. Adama Ferensa",
+                "addr:housenumber": "12A",
+                "addr:teryt:simc": 28752,
+                "addr:teryt:sym_ul": 133646,
+                "contact:phone": "+48 343273304",
+                "contact:email": "sp2kp@poczta.onet.pl",
+                "contact:website": "http:\/\/www.spkp.pl",
+                "ref:regon": "000710859",
+                "ref:vatin": "PL5732669171",
+                "operator": "Gmina Kamienica Polska",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

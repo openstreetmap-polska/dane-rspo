@@ -1,1 +1,157 @@
-{"type":"FeatureCollection","features":[{"id":6325,"type":"Feature","geometry":{"type":"Point","coordinates":[21.79557,51.8677599]},"properties":{"isced:level":"1;2","ref:rspo":6325,"official_name":"Niepubliczna Szko\u0142a Podstawowa im. Jana Paw\u0142a II w Brzegach","name":"Niepubliczna Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"08-420","addr:place":"Brzegi","addr:housenumber":"124","addr:teryt:sym_ul":680868,"contact:email":"spbrzegi@wp.pl","contact:website":"http:\/\/www.nspjp2brzeg.szkolnastrona.pl","ref:regon":"146273762","ref:vatin":"PL8262189014","operator":"Stowarzyszenie Rozwoju Wsi Brzegi I Zasiada\u0142y","operator:type":"ngo","amenity":"school"}},{"id":9850,"type":"Feature","geometry":{"type":"Point","coordinates":[21.87416,51.88096]},"properties":{"isced:level":"1;2","ref:rspo":9850,"official_name":"Publiczna Szko\u0142a Podstawowa im. Marii Kownackiej w Zwoli","name":"Publiczna Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"08-420","addr:place":"Zwola","addr:housenumber":"45","addr:teryt:sym_ul":681141,"contact:phone":"+48 257544189","contact:email":"pspzwola@wp.pl","contact:website":"http:\/\/spzwola.szkolnastrona.pl","ref:regon":"001123970","ref:vatin":"PL8261446609","operator":"Gmina Miastk\u00f3w Ko\u015bcielny","operator:type":"government","amenity":"school"}},{"id":10000,"type":"Feature","geometry":{"type":"Point","coordinates":[21.82459,51.88171]},"properties":{"isced:level":"1;2","ref:rspo":10000,"official_name":"Publiczna Szko\u0142a Podstawowa im. Leona Wycz\u00f3\u0142kowskiego w Miastkowie Ko\u015bcielnym","name":"Publiczna Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"08-420","addr:city":"Miastk\u00f3w Ko\u015bcielny","addr:street":"ul. Szkolna","addr:housenumber":"8","addr:teryt:simc":21970,"addr:teryt:sym_ul":680934,"contact:phone":"+48 257544240","contact:email":"spmiastkow@wp.pl","contact:website":"http:\/\/spmiastkow.szkolnastrona.pl","ref:regon":"000271816","ref:vatin":"PL8261446555","operator":"Gmina Miastk\u00f3w Ko\u015bcielny","operator:type":"government","amenity":"school"}},{"id":19069,"type":"Feature","geometry":{"type":"Point","coordinates":[21.82459,51.881679999999996]},"properties":{"ref:rspo":19069,"official_name":"Publiczne Przedszkole w Miastkowie Ko\u015bcielnym","name":"Publiczne Przedszkole w Miastkowie Ko\u015bcielnym","addr:country":"PL","addr:postcode":"08-420","addr:city":"Miastk\u00f3w Ko\u015bcielny","addr:street":"ul. Szkolna","addr:housenumber":"8","addr:teryt:simc":21970,"addr:teryt:sym_ul":680934,"contact:phone":"+48 257544111","contact:email":"przedszkolemiastkow@wp.pl","contact:website":"http:\/\/www.ppmiastkow.szkolnastrona.pl","ref:regon":"710006444","ref:vatin":"PL8261446644","operator":"Gmina Miastk\u00f3w Ko\u015bcielny","operator:type":"government","amenity":"kindergarten"}},{"id":9851,"type":"Feature","geometry":{"type":"Point","coordinates":[21.75311,51.89217]},"properties":{"isced:level":"1;2","ref:rspo":9851,"official_name":"Publiczna Szko\u0142a Podstawowa w Zg\u00f3rzu","name":"Publiczna Szko\u0142a Podstawowa w Zg\u00f3rzu","addr:country":"PL","addr:postcode":"08-420","addr:place":"Zg\u00f3rze","addr:housenumber":"30","addr:teryt:sym_ul":681098,"contact:phone":"+48 257511327","contact:email":"spzgorze@wp.pl","contact:website":"http:\/\/spzgorze.szkolnastrona.pl","ref:regon":"001123986","ref:vatin":"PL8261446615","operator":"Gmina Miastk\u00f3w Ko\u015bcielny","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 6325,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.79557,
+                    51.8677599
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 6325,
+                "official_name": "Niepubliczna Szko\u0142a Podstawowa im. Jana Paw\u0142a II w Brzegach",
+                "name": "Niepubliczna Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "08-420",
+                "addr:place": "Brzegi",
+                "addr:housenumber": "124",
+                "addr:teryt:sym_ul": 680868,
+                "contact:email": "spbrzegi@wp.pl",
+                "contact:website": "http:\/\/www.nspjp2brzeg.szkolnastrona.pl",
+                "ref:regon": "146273762",
+                "ref:vatin": "PL8262189014",
+                "operator": "Stowarzyszenie Rozwoju Wsi Brzegi I Zasiada\u0142y",
+                "operator:type": "ngo",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 9850,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.87416,
+                    51.88096
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 9850,
+                "official_name": "Publiczna Szko\u0142a Podstawowa im. Marii Kownackiej w Zwoli",
+                "name": "Publiczna Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "08-420",
+                "addr:place": "Zwola",
+                "addr:housenumber": "45",
+                "addr:teryt:sym_ul": 681141,
+                "contact:phone": "+48 257544189",
+                "contact:email": "pspzwola@wp.pl",
+                "contact:website": "http:\/\/spzwola.szkolnastrona.pl",
+                "ref:regon": "001123970",
+                "ref:vatin": "PL8261446609",
+                "operator": "Gmina Miastk\u00f3w Ko\u015bcielny",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 10000,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.82459,
+                    51.88171
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 10000,
+                "official_name": "Publiczna Szko\u0142a Podstawowa im. Leona Wycz\u00f3\u0142kowskiego w Miastkowie Ko\u015bcielnym",
+                "name": "Publiczna Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "08-420",
+                "addr:city": "Miastk\u00f3w Ko\u015bcielny",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "8",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 680934,
+                "contact:phone": "+48 257544240",
+                "contact:email": "spmiastkow@wp.pl",
+                "contact:website": "http:\/\/spmiastkow.szkolnastrona.pl",
+                "ref:regon": "000271816",
+                "ref:vatin": "PL8261446555",
+                "operator": "Gmina Miastk\u00f3w Ko\u015bcielny",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 19069,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.82459,
+                    51.881679999999996
+                ]
+            },
+            "properties": {
+                "ref:rspo": 19069,
+                "official_name": "Publiczne Przedszkole w Miastkowie Ko\u015bcielnym",
+                "name": "Publiczne Przedszkole w Miastkowie Ko\u015bcielnym",
+                "addr:country": "PL",
+                "addr:postcode": "08-420",
+                "addr:city": "Miastk\u00f3w Ko\u015bcielny",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "8",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 680934,
+                "contact:phone": "+48 257544111",
+                "contact:email": "przedszkolemiastkow@wp.pl",
+                "contact:website": "http:\/\/www.ppmiastkow.szkolnastrona.pl",
+                "ref:regon": "710006444",
+                "ref:vatin": "PL8261446644",
+                "operator": "Gmina Miastk\u00f3w Ko\u015bcielny",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 9851,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.75311,
+                    51.89217
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 9851,
+                "official_name": "Publiczna Szko\u0142a Podstawowa w Zg\u00f3rzu",
+                "name": "Publiczna Szko\u0142a Podstawowa w Zg\u00f3rzu",
+                "addr:country": "PL",
+                "addr:postcode": "08-420",
+                "addr:place": "Zg\u00f3rze",
+                "addr:housenumber": "30",
+                "addr:teryt:sym_ul": 681098,
+                "contact:phone": "+48 257511327",
+                "contact:email": "spzgorze@wp.pl",
+                "contact:website": "http:\/\/spzgorze.szkolnastrona.pl",
+                "ref:regon": "001123986",
+                "ref:vatin": "PL8261446615",
+                "operator": "Gmina Miastk\u00f3w Ko\u015bcielny",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

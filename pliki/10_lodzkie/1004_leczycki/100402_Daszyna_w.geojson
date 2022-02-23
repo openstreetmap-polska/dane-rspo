@@ -1,1 +1,118 @@
-{"type":"FeatureCollection","features":[{"id":82577,"type":"Feature","geometry":{"type":"Point","coordinates":[19.18239,52.15461]},"properties":{"ref:rspo":82577,"official_name":"Ma\u0142e Przedszkole w Daszynie","name":"Ma\u0142e Przedszkole w Daszynie","addr:country":"PL","addr:postcode":"99-107","addr:place":"Daszyna","addr:housenumber":"32","addr:teryt:sym_ul":562241,"contact:phone":"+48 781712510","ref:regon":"101499151","ref:vatin":"PL5070080171","operator":"Stowarzyszenie Skarb Malucha","operator:type":"ngo","amenity":"kindergarten"}},{"id":82573,"type":"Feature","geometry":{"type":"Point","coordinates":[19.17877,52.15858]},"properties":{"isced:level":"1;2","ref:rspo":82573,"official_name":"Szko\u0142a Podstawowa w Daszynie","name":"Szko\u0142a Podstawowa w Daszynie","addr:country":"PL","addr:postcode":"99-107","addr:place":"Daszyna","addr:housenumber":"26a","addr:teryt:sym_ul":562241,"contact:phone":"+48 243891325","contact:email":"spdasz@poczta.onet.pl","ref:regon":"000631798","ref:vatin":"PL7752203873","operator":"Gmina Daszyna","operator:type":"government","amenity":"school"}},{"id":82575,"type":"Feature","geometry":{"type":"Point","coordinates":[19.12079,52.17696]},"properties":{"isced:level":"1;2","ref:rspo":82575,"official_name":"Szko\u0142a Podstawowa w Mazewie","name":"Szko\u0142a Podstawowa w Mazewie","addr:country":"PL","addr:postcode":"99-107","addr:place":"Mazew","addr:housenumber":"68","addr:teryt:sym_ul":562488,"contact:phone":"+48 243890442","contact:email":"sp_mazew@vp.pl","ref:regon":"000692185","ref:vatin":"PL7752205702","operator":"Gmina Daszyna","operator:type":"government","amenity":"school"}},{"id":84032,"type":"Feature","geometry":{"type":"Point","coordinates":[19.12079,52.17693]},"properties":{"ref:rspo":84032,"official_name":"Ma\u0142e Przedszkole w Mazewie","name":"Ma\u0142e Przedszkole w Mazewie","addr:country":"PL","addr:postcode":"99-107","addr:place":"Mazew","addr:housenumber":"68","addr:teryt:sym_ul":562488,"contact:phone":"+48 661133440","contact:email":"sp_mazew@wp.pl","ref:regon":"101499760","ref:vatin":"PL5070085671","operator":"Stowarzyszenie Bajkowy \u015awiat","operator:type":"ngo","amenity":"kindergarten"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 82577,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.18239,
+                    52.15461
+                ]
+            },
+            "properties": {
+                "ref:rspo": 82577,
+                "official_name": "Ma\u0142e Przedszkole w Daszynie",
+                "name": "Ma\u0142e Przedszkole w Daszynie",
+                "addr:country": "PL",
+                "addr:postcode": "99-107",
+                "addr:place": "Daszyna",
+                "addr:housenumber": "32",
+                "addr:teryt:sym_ul": 562241,
+                "contact:phone": "+48 781712510",
+                "ref:regon": "101499151",
+                "ref:vatin": "PL5070080171",
+                "operator": "Stowarzyszenie Skarb Malucha",
+                "operator:type": "ngo",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 82573,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.17877,
+                    52.15858
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 82573,
+                "official_name": "Szko\u0142a Podstawowa w Daszynie",
+                "name": "Szko\u0142a Podstawowa w Daszynie",
+                "addr:country": "PL",
+                "addr:postcode": "99-107",
+                "addr:place": "Daszyna",
+                "addr:housenumber": "26a",
+                "addr:teryt:sym_ul": 562241,
+                "contact:phone": "+48 243891325",
+                "contact:email": "spdasz@poczta.onet.pl",
+                "ref:regon": "000631798",
+                "ref:vatin": "PL7752203873",
+                "operator": "Gmina Daszyna",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 82575,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.12079,
+                    52.17696
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 82575,
+                "official_name": "Szko\u0142a Podstawowa w Mazewie",
+                "name": "Szko\u0142a Podstawowa w Mazewie",
+                "addr:country": "PL",
+                "addr:postcode": "99-107",
+                "addr:place": "Mazew",
+                "addr:housenumber": "68",
+                "addr:teryt:sym_ul": 562488,
+                "contact:phone": "+48 243890442",
+                "contact:email": "sp_mazew@vp.pl",
+                "ref:regon": "000692185",
+                "ref:vatin": "PL7752205702",
+                "operator": "Gmina Daszyna",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 84032,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.12079,
+                    52.17693
+                ]
+            },
+            "properties": {
+                "ref:rspo": 84032,
+                "official_name": "Ma\u0142e Przedszkole w Mazewie",
+                "name": "Ma\u0142e Przedszkole w Mazewie",
+                "addr:country": "PL",
+                "addr:postcode": "99-107",
+                "addr:place": "Mazew",
+                "addr:housenumber": "68",
+                "addr:teryt:sym_ul": 562488,
+                "contact:phone": "+48 661133440",
+                "contact:email": "sp_mazew@wp.pl",
+                "ref:regon": "101499760",
+                "ref:vatin": "PL5070085671",
+                "operator": "Stowarzyszenie Bajkowy \u015awiat",
+                "operator:type": "ngo",
+                "amenity": "kindergarten"
+            }
+        }
+    ]
+}

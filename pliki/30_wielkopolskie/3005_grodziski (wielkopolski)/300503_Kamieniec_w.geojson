@@ -1,1 +1,163 @@
-{"type":"FeatureCollection","features":[{"id":21291,"type":"Feature","geometry":{"type":"Point","coordinates":[16.43527,52.14313]},"properties":{"isced:level":"1;2","ref:rspo":21291,"official_name":"Szko\u0142a Podstawowa im.j.h.d\u0105browskiego","name":"Szko\u0142a Podstawowa im.j.h.d\u0105browskiego","addr:country":"PL","addr:postcode":"64-061","addr:place":"Parz\u0119czewo","addr:housenumber":"25","addr:teryt:sym_ul":584372,"contact:phone":"+48 614430047","contact:email":"sp-parzeczewo@o2.pl","contact:website":"https:\/\/sp-parzeczewo.edupage.org\/","ref:regon":"001224865","ref:vatin":"PL7881392362","operator":"Gmina Kamieniec","operator:type":"government","amenity":"school"}},{"id":21208,"type":"Feature","geometry":{"type":"Point","coordinates":[16.53771,52.1616]},"properties":{"isced:level":"1;2","ref:rspo":21208,"official_name":"Szko\u0142a Podstawowa,Konojad","name":"Szko\u0142a Podstawowa,Konojad","addr:country":"PL","addr:postcode":"64-060","addr:city":"Konojad","addr:street":"ul. Szkolna","addr:housenumber":"15","addr:teryt:simc":21970,"addr:teryt:sym_ul":584277,"contact:phone":"+48 614431578","contact:email":"konojad@op.pl","contact:website":"http:\/\/www.spkonojad.eu","ref:regon":"001224859","ref:vatin":"PL7881392379","operator":"Gmina Kamieniec","operator:type":"government","amenity":"school"}},{"id":43639,"type":"Feature","geometry":{"type":"Point","coordinates":[16.4558399,52.16486]},"properties":{"ref:rspo":43639,"official_name":"Przedszkole Gminne w Kamie\u0144cu","name":"Przedszkole Gminne w Kamie\u0144cu","addr:country":"PL","addr:postcode":"64-061","addr:city":"Kamieniec","addr:street":"ul. Ogrodowa","addr:housenumber":"7","addr:teryt:simc":14834,"addr:teryt:sym_ul":584248,"contact:phone":"+48 614430064","contact:email":"pg_kamieniec@wp.pl","contact:website":"http:\/\/pgkamieniec.szkolnastrona.pl","ref:regon":"630395338","ref:vatin":"PL7881020436","operator":"Gmina Kamieniec","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 277354"}},{"id":277354,"type":"Feature","geometry":{"type":"Point","coordinates":[16.45486,52.16491]},"properties":{"ref:rspo":277354,"official_name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w Kamie\u0144cu","name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w Kamie\u0144cu","addr:country":"PL","addr:postcode":"64-061","addr:city":"Kamieniec","addr:street":"ul. Stawowa","addr:housenumber":"28","addr:teryt:simc":21101,"addr:teryt:sym_ul":584248,"contact:phone":"+48 614430088","contact:email":"spkamieniec@gmail.com","ref:regon":"388676870","operator":"Gmina Kamieniec","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 21273;43639"}},{"id":21273,"type":"Feature","geometry":{"type":"Point","coordinates":[16.45486,52.16488]},"properties":{"isced:level":"1;2","ref:rspo":21273,"official_name":"Szko\u0142a Podstawowa im.jana Paw\u0142a II w Kamie\u0144cu","name":"Szko\u0142a Podstawowa im.jana Paw\u0142a II w Kamie\u0144cu","addr:country":"PL","addr:postcode":"64-061","addr:city":"Kamieniec","addr:street":"ul. Stawowa","addr:housenumber":"28","addr:teryt:simc":21101,"addr:teryt:sym_ul":584248,"contact:phone":"+48 614421077","contact:email":"spkamieniec@gmail.com","contact:website":"http:\/\/szpkamieniec.edupage.org\/","ref:regon":"000655273","ref:vatin":"PL7881392391","operator":"Gmina Kamieniec","operator:type":"government","amenity":"school","note":"Parent RSPO: 277354"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 21291,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.43527,
+                    52.14313
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 21291,
+                "official_name": "Szko\u0142a Podstawowa im.j.h.d\u0105browskiego",
+                "name": "Szko\u0142a Podstawowa im.j.h.d\u0105browskiego",
+                "addr:country": "PL",
+                "addr:postcode": "64-061",
+                "addr:place": "Parz\u0119czewo",
+                "addr:housenumber": "25",
+                "addr:teryt:sym_ul": 584372,
+                "contact:phone": "+48 614430047",
+                "contact:email": "sp-parzeczewo@o2.pl",
+                "contact:website": "https:\/\/sp-parzeczewo.edupage.org\/",
+                "ref:regon": "001224865",
+                "ref:vatin": "PL7881392362",
+                "operator": "Gmina Kamieniec",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 21208,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.53771,
+                    52.1616
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 21208,
+                "official_name": "Szko\u0142a Podstawowa,Konojad",
+                "name": "Szko\u0142a Podstawowa,Konojad",
+                "addr:country": "PL",
+                "addr:postcode": "64-060",
+                "addr:city": "Konojad",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "15",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 584277,
+                "contact:phone": "+48 614431578",
+                "contact:email": "konojad@op.pl",
+                "contact:website": "http:\/\/www.spkonojad.eu",
+                "ref:regon": "001224859",
+                "ref:vatin": "PL7881392379",
+                "operator": "Gmina Kamieniec",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 43639,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.4558399,
+                    52.16486
+                ]
+            },
+            "properties": {
+                "ref:rspo": 43639,
+                "official_name": "Przedszkole Gminne w Kamie\u0144cu",
+                "name": "Przedszkole Gminne w Kamie\u0144cu",
+                "addr:country": "PL",
+                "addr:postcode": "64-061",
+                "addr:city": "Kamieniec",
+                "addr:street": "ul. Ogrodowa",
+                "addr:housenumber": "7",
+                "addr:teryt:simc": 14834,
+                "addr:teryt:sym_ul": 584248,
+                "contact:phone": "+48 614430064",
+                "contact:email": "pg_kamieniec@wp.pl",
+                "contact:website": "http:\/\/pgkamieniec.szkolnastrona.pl",
+                "ref:regon": "630395338",
+                "ref:vatin": "PL7881020436",
+                "operator": "Gmina Kamieniec",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 277354"
+            }
+        },
+        {
+            "id": 277354,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.45486,
+                    52.16491
+                ]
+            },
+            "properties": {
+                "ref:rspo": 277354,
+                "official_name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w Kamie\u0144cu",
+                "name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w Kamie\u0144cu",
+                "addr:country": "PL",
+                "addr:postcode": "64-061",
+                "addr:city": "Kamieniec",
+                "addr:street": "ul. Stawowa",
+                "addr:housenumber": "28",
+                "addr:teryt:simc": 21101,
+                "addr:teryt:sym_ul": 584248,
+                "contact:phone": "+48 614430088",
+                "contact:email": "spkamieniec@gmail.com",
+                "ref:regon": "388676870",
+                "operator": "Gmina Kamieniec",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 21273;43639"
+            }
+        },
+        {
+            "id": 21273,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.45486,
+                    52.16488
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 21273,
+                "official_name": "Szko\u0142a Podstawowa im.jana Paw\u0142a II w Kamie\u0144cu",
+                "name": "Szko\u0142a Podstawowa im.jana Paw\u0142a II w Kamie\u0144cu",
+                "addr:country": "PL",
+                "addr:postcode": "64-061",
+                "addr:city": "Kamieniec",
+                "addr:street": "ul. Stawowa",
+                "addr:housenumber": "28",
+                "addr:teryt:simc": 21101,
+                "addr:teryt:sym_ul": 584248,
+                "contact:phone": "+48 614421077",
+                "contact:email": "spkamieniec@gmail.com",
+                "contact:website": "http:\/\/szpkamieniec.edupage.org\/",
+                "ref:regon": "000655273",
+                "ref:vatin": "PL7881392391",
+                "operator": "Gmina Kamieniec",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 277354"
+            }
+        }
+    ]
+}

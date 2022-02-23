@@ -1,1 +1,220 @@
-{"type":"FeatureCollection","features":[{"id":75090,"type":"Feature","geometry":{"type":"Point","coordinates":[18.9046999,49.69503]},"properties":{"isced:level":"1;2","ref:rspo":75090,"official_name":"Szko\u0142a Podstawowa Nr 1 im. Janusza Korczaka","name":"Szko\u0142a Podstawowa Nr 1","addr:country":"PL","addr:postcode":"43-438","addr:city":"Brenna","addr:street":"ul. Le\u015bnica","addr:housenumber":"103","addr:teryt:simc":10920,"addr:teryt:sym_ul":46172,"contact:phone":"+48 338536100","contact:email":"sekretariat@sp1.brenna.org.pl","contact:website":"http:\/\/www.sp1brenna","ref:regon":"070559997","ref:vatin":"PL5482685713","operator":"Gmina Brenna","operator:type":"government","amenity":"school"}},{"id":75091,"type":"Feature","geometry":{"type":"Point","coordinates":[18.93691,49.7170599]},"properties":{"isced:level":"1;2","ref:rspo":75091,"official_name":"Szko\u0142a Podstawowa Nr 2 im. Stefana \u017beromskiego","name":"Szko\u0142a Podstawowa Nr 2","addr:country":"PL","addr:postcode":"43-438","addr:city":"Brenna","addr:street":"ul. Bukowa","addr:housenumber":"45","addr:teryt:simc":2387,"addr:teryt:sym_ul":46172,"contact:phone":"+48 338536260","contact:email":"dyrektor@sp2brenna.pl","contact:website":"http:\/\/www.sp2brenna.pl","ref:regon":"070559980","ref:vatin":"PL5482198887","operator":"Gmina Brenna","operator:type":"government","amenity":"school"}},{"id":75092,"type":"Feature","geometry":{"type":"Point","coordinates":[18.92564,49.7212699]},"properties":{"ref:rspo":75092,"official_name":"Przedszkole Publiczne Nr 1","name":"Przedszkole Publiczne Nr 1","addr:country":"PL","addr:postcode":"43-438","addr:city":"Brenna","addr:street":"ul. Partyzant\u00f3w","addr:housenumber":"3","addr:teryt:simc":15733,"addr:teryt:sym_ul":46172,"contact:phone":"+48 338536326","contact:email":"dyrektor@przedszkolebrenna.pl","contact:website":"http:\/\/przedszkolebrenna.pl\/","ref:regon":"070559922","ref:vatin":"PL5482373043","operator":"Gmina Brenna","operator:type":"government","amenity":"kindergarten"}},{"id":114075,"type":"Feature","geometry":{"type":"Point","coordinates":[18.86109,49.75998]},"properties":{"ref:rspo":114075,"official_name":"Niepubliczne Przedszkole Tw\u00f3rcze \"Totu\" Z Oddzia\u0142ami Integracyjnymi w G\u00f3rkach Ma\u0142ych","name":"Niepubliczne Przedszkole Tw\u00f3rcze \"Totu\" Z Oddzia\u0142ami Integracyjnymi w G\u00f3rkach Ma\u0142ych","addr:country":"PL","addr:postcode":"43-436","addr:city":"G\u00f3rki Ma\u0142e","addr:street":"ul. Bre\u0144ska","addr:housenumber":"74","addr:teryt:simc":2076,"addr:teryt:sym_ul":46960,"contact:email":"biuro@totucieszyn.pl","ref:regon":"243243214","operator":"Izabela Krzemi\u0144ska-Wo\u017aniak","operator:type":"private","amenity":"kindergarten"}},{"id":75093,"type":"Feature","geometry":{"type":"Point","coordinates":[18.85072,49.77064]},"properties":{"ref:rspo":75093,"official_name":"Przedszkole Publiczne Nr 1","name":"Przedszkole Publiczne Nr 1","addr:country":"PL","addr:postcode":"43-436","addr:city":"G\u00f3rki Ma\u0142e","addr:street":"ul. Zalesie","addr:housenumber":"3","addr:teryt:simc":25484,"addr:teryt:sym_ul":46960,"contact:phone":"+48 338539276","contact:email":"sekretariat@przedszkolegorki.pl","contact:website":"http:\/\/www.przedszkolegorki.pl","ref:regon":"070559945","ref:vatin":"PL5482373037","operator":"Gmina Brenna","operator:type":"government","amenity":"kindergarten"}},{"id":115381,"type":"Feature","geometry":{"type":"Point","coordinates":[18.85391,49.77442]},"properties":{"isced:level":"1;2","ref:rspo":115381,"official_name":"Szko\u0142a Podstawowa im. Tadeusza Ko\u015bciuszki","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"43-436","addr:city":"G\u00f3rki Wielkie","addr:street":"ul. Szkolna","addr:housenumber":"1","addr:teryt:simc":21970,"addr:teryt:sym_ul":47042,"contact:phone":"+48 338539278","contact:email":"sekretariat@spgorki.net","contact:website":"http:\/\/www.spgorki.net","ref:regon":"071011110","ref:vatin":"PL5482198864","operator":"Gmina Brenna","operator:type":"government","amenity":"school"}},{"id":127937,"type":"Feature","geometry":{"type":"Point","coordinates":[18.83302,49.77756]},"properties":{"ref:rspo":127937,"official_name":"Przedszkole Niepubliczne Chichopotam","name":"Przedszkole Niepubliczne Chichopotam","addr:country":"PL","addr:postcode":"43-436","addr:city":"G\u00f3rki Wielkie","addr:street":"ul. Zofii Kossak","addr:housenumber":"92","addr:teryt:simc":9454,"addr:teryt:sym_ul":47042,"contact:phone":"+48 605472865","ref:regon":"361976603","ref:vatin":"PL5481716765","operator":"Urszula Czy\u017cewska","operator:type":"private","amenity":"kindergarten"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 75090,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.9046999,
+                    49.69503
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 75090,
+                "official_name": "Szko\u0142a Podstawowa Nr 1 im. Janusza Korczaka",
+                "name": "Szko\u0142a Podstawowa Nr 1",
+                "addr:country": "PL",
+                "addr:postcode": "43-438",
+                "addr:city": "Brenna",
+                "addr:street": "ul. Le\u015bnica",
+                "addr:housenumber": "103",
+                "addr:teryt:simc": 10920,
+                "addr:teryt:sym_ul": 46172,
+                "contact:phone": "+48 338536100",
+                "contact:email": "sekretariat@sp1.brenna.org.pl",
+                "contact:website": "http:\/\/www.sp1brenna",
+                "ref:regon": "070559997",
+                "ref:vatin": "PL5482685713",
+                "operator": "Gmina Brenna",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 75091,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.93691,
+                    49.7170599
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 75091,
+                "official_name": "Szko\u0142a Podstawowa Nr 2 im. Stefana \u017beromskiego",
+                "name": "Szko\u0142a Podstawowa Nr 2",
+                "addr:country": "PL",
+                "addr:postcode": "43-438",
+                "addr:city": "Brenna",
+                "addr:street": "ul. Bukowa",
+                "addr:housenumber": "45",
+                "addr:teryt:simc": 2387,
+                "addr:teryt:sym_ul": 46172,
+                "contact:phone": "+48 338536260",
+                "contact:email": "dyrektor@sp2brenna.pl",
+                "contact:website": "http:\/\/www.sp2brenna.pl",
+                "ref:regon": "070559980",
+                "ref:vatin": "PL5482198887",
+                "operator": "Gmina Brenna",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 75092,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.92564,
+                    49.7212699
+                ]
+            },
+            "properties": {
+                "ref:rspo": 75092,
+                "official_name": "Przedszkole Publiczne Nr 1",
+                "name": "Przedszkole Publiczne Nr 1",
+                "addr:country": "PL",
+                "addr:postcode": "43-438",
+                "addr:city": "Brenna",
+                "addr:street": "ul. Partyzant\u00f3w",
+                "addr:housenumber": "3",
+                "addr:teryt:simc": 15733,
+                "addr:teryt:sym_ul": 46172,
+                "contact:phone": "+48 338536326",
+                "contact:email": "dyrektor@przedszkolebrenna.pl",
+                "contact:website": "http:\/\/przedszkolebrenna.pl\/",
+                "ref:regon": "070559922",
+                "ref:vatin": "PL5482373043",
+                "operator": "Gmina Brenna",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 114075,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.86109,
+                    49.75998
+                ]
+            },
+            "properties": {
+                "ref:rspo": 114075,
+                "official_name": "Niepubliczne Przedszkole Tw\u00f3rcze \"Totu\" Z Oddzia\u0142ami Integracyjnymi w G\u00f3rkach Ma\u0142ych",
+                "name": "Niepubliczne Przedszkole Tw\u00f3rcze \"Totu\" Z Oddzia\u0142ami Integracyjnymi w G\u00f3rkach Ma\u0142ych",
+                "addr:country": "PL",
+                "addr:postcode": "43-436",
+                "addr:city": "G\u00f3rki Ma\u0142e",
+                "addr:street": "ul. Bre\u0144ska",
+                "addr:housenumber": "74",
+                "addr:teryt:simc": 2076,
+                "addr:teryt:sym_ul": 46960,
+                "contact:email": "biuro@totucieszyn.pl",
+                "ref:regon": "243243214",
+                "operator": "Izabela Krzemi\u0144ska-Wo\u017aniak",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 75093,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.85072,
+                    49.77064
+                ]
+            },
+            "properties": {
+                "ref:rspo": 75093,
+                "official_name": "Przedszkole Publiczne Nr 1",
+                "name": "Przedszkole Publiczne Nr 1",
+                "addr:country": "PL",
+                "addr:postcode": "43-436",
+                "addr:city": "G\u00f3rki Ma\u0142e",
+                "addr:street": "ul. Zalesie",
+                "addr:housenumber": "3",
+                "addr:teryt:simc": 25484,
+                "addr:teryt:sym_ul": 46960,
+                "contact:phone": "+48 338539276",
+                "contact:email": "sekretariat@przedszkolegorki.pl",
+                "contact:website": "http:\/\/www.przedszkolegorki.pl",
+                "ref:regon": "070559945",
+                "ref:vatin": "PL5482373037",
+                "operator": "Gmina Brenna",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 115381,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.85391,
+                    49.77442
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 115381,
+                "official_name": "Szko\u0142a Podstawowa im. Tadeusza Ko\u015bciuszki",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "43-436",
+                "addr:city": "G\u00f3rki Wielkie",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 47042,
+                "contact:phone": "+48 338539278",
+                "contact:email": "sekretariat@spgorki.net",
+                "contact:website": "http:\/\/www.spgorki.net",
+                "ref:regon": "071011110",
+                "ref:vatin": "PL5482198864",
+                "operator": "Gmina Brenna",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 127937,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.83302,
+                    49.77756
+                ]
+            },
+            "properties": {
+                "ref:rspo": 127937,
+                "official_name": "Przedszkole Niepubliczne Chichopotam",
+                "name": "Przedszkole Niepubliczne Chichopotam",
+                "addr:country": "PL",
+                "addr:postcode": "43-436",
+                "addr:city": "G\u00f3rki Wielkie",
+                "addr:street": "ul. Zofii Kossak",
+                "addr:housenumber": "92",
+                "addr:teryt:simc": 9454,
+                "addr:teryt:sym_ul": 47042,
+                "contact:phone": "+48 605472865",
+                "ref:regon": "361976603",
+                "ref:vatin": "PL5481716765",
+                "operator": "Urszula Czy\u017cewska",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        }
+    ]
+}

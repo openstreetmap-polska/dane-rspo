@@ -1,1 +1,129 @@
-{"type":"FeatureCollection","features":[{"id":85120,"type":"Feature","geometry":{"type":"Point","coordinates":[21.72453,52.19029]},"properties":{"isced:level":"1;2","ref:rspo":85120,"official_name":"Szko\u0142a Filialna Szko\u0142y Podstawowej im. Or\u0142a Bia\u0142ego w Jakubowie","name":"Szko\u0142a Filialna Szko\u0142y Podstawowej","addr:country":"PL","addr:postcode":"05-306","addr:place":"J\u0119drzej\u00f3w Nowy","addr:housenumber":"30","addr:teryt:sym_ul":673621,"contact:phone":"+48 257579870","contact:email":"spjedrzejow@jakubow.pl","contact:website":"http:\/\/www.spjedrzejow.jakubow.pl","ref:regon":"001125502","ref:vatin":"PL8221947624","operator":"Gmina Jakub\u00f3w","operator:type":"government","amenity":"school"}},{"id":103611,"type":"Feature","geometry":{"type":"Point","coordinates":[21.67959,52.21869]},"properties":{"isced:level":"1;2","ref:rspo":103611,"official_name":"Szko\u0142a Podstawowa im. Or\u0142a Bia\u0142ego w Jakubowie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"05-306","addr:city":"Jakub\u00f3w","addr:street":"ul. Szkolna","addr:housenumber":"10","addr:teryt:simc":21970,"addr:teryt:sym_ul":673532,"contact:phone":"+48 257579179","contact:email":"zsjakubow@gmail.com","contact:website":"http:\/\/www.szkolajakubow.szkolnastrona.pl","ref:regon":"000717991","ref:vatin":"PL8222206580","operator":"Gmina Jakub\u00f3w","operator:type":"government","amenity":"school"}},{"id":85025,"type":"Feature","geometry":{"type":"Point","coordinates":[21.61608,52.23052]},"properties":{"isced:level":"1;2","ref:rspo":85025,"official_name":"Szko\u0142a Podstawowa im. Jana Paw\u0142a II w Mistowie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"05-306","addr:city":"Mist\u00f3w","addr:street":"ul. Szkolna","addr:housenumber":"3","addr:teryt:simc":21970,"addr:teryt:sym_ul":673590,"contact:phone":"+48 257579131","contact:email":"spmistow36@wp.pl","contact:website":"http:\/\/www.spmistow.com.pl\/mistow\/","ref:regon":"001125525","ref:vatin":"PL8221947481","operator":"Gmina Jakub\u00f3w","operator:type":"government","amenity":"school"}},{"id":85083,"type":"Feature","geometry":{"type":"Point","coordinates":[21.72714,52.25874]},"properties":{"isced:level":"1;2","ref:rspo":85083,"official_name":"Szko\u0142a Podstawowa im. 7 Pu\u0142ku U\u0142an\u00f3w Lubelskich","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"05-306","addr:place":"Wi\u015bniew","addr:housenumber":"45A","addr:teryt:sym_ul":673704,"contact:phone":"+48 257579515","contact:email":"spwisniew@jakubow.pl","contact:website":"http:\/\/www.spwisniew.jakubow.pl","ref:regon":"001125531","ref:vatin":"PL8221947506","operator":"Gmina Jakub\u00f3w","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 85120,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.72453,
+                    52.19029
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 85120,
+                "official_name": "Szko\u0142a Filialna Szko\u0142y Podstawowej im. Or\u0142a Bia\u0142ego w Jakubowie",
+                "name": "Szko\u0142a Filialna Szko\u0142y Podstawowej",
+                "addr:country": "PL",
+                "addr:postcode": "05-306",
+                "addr:place": "J\u0119drzej\u00f3w Nowy",
+                "addr:housenumber": "30",
+                "addr:teryt:sym_ul": 673621,
+                "contact:phone": "+48 257579870",
+                "contact:email": "spjedrzejow@jakubow.pl",
+                "contact:website": "http:\/\/www.spjedrzejow.jakubow.pl",
+                "ref:regon": "001125502",
+                "ref:vatin": "PL8221947624",
+                "operator": "Gmina Jakub\u00f3w",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 103611,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.67959,
+                    52.21869
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 103611,
+                "official_name": "Szko\u0142a Podstawowa im. Or\u0142a Bia\u0142ego w Jakubowie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "05-306",
+                "addr:city": "Jakub\u00f3w",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "10",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 673532,
+                "contact:phone": "+48 257579179",
+                "contact:email": "zsjakubow@gmail.com",
+                "contact:website": "http:\/\/www.szkolajakubow.szkolnastrona.pl",
+                "ref:regon": "000717991",
+                "ref:vatin": "PL8222206580",
+                "operator": "Gmina Jakub\u00f3w",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 85025,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.61608,
+                    52.23052
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 85025,
+                "official_name": "Szko\u0142a Podstawowa im. Jana Paw\u0142a II w Mistowie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "05-306",
+                "addr:city": "Mist\u00f3w",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "3",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 673590,
+                "contact:phone": "+48 257579131",
+                "contact:email": "spmistow36@wp.pl",
+                "contact:website": "http:\/\/www.spmistow.com.pl\/mistow\/",
+                "ref:regon": "001125525",
+                "ref:vatin": "PL8221947481",
+                "operator": "Gmina Jakub\u00f3w",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 85083,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.72714,
+                    52.25874
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 85083,
+                "official_name": "Szko\u0142a Podstawowa im. 7 Pu\u0142ku U\u0142an\u00f3w Lubelskich",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "05-306",
+                "addr:place": "Wi\u015bniew",
+                "addr:housenumber": "45A",
+                "addr:teryt:sym_ul": 673704,
+                "contact:phone": "+48 257579515",
+                "contact:email": "spwisniew@jakubow.pl",
+                "contact:website": "http:\/\/www.spwisniew.jakubow.pl",
+                "ref:regon": "001125531",
+                "ref:vatin": "PL8221947506",
+                "operator": "Gmina Jakub\u00f3w",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

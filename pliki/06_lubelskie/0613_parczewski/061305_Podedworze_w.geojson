@@ -1,1 +1,94 @@
-{"type":"FeatureCollection","features":[{"id":111165,"type":"Feature","geometry":{"type":"Point","coordinates":[23.203266,51.691192]},"properties":{"ref:rspo":111165,"official_name":"Zesp\u00f3\u0142 Plac\u00f3wek O\u015bwiatowych w Podedw\u00f3rzu","name":"Zesp\u00f3\u0142 Plac\u00f3wek O\u015bwiatowych w Podedw\u00f3rzu","addr:country":"PL","addr:postcode":"21-222","addr:place":"Podedw\u00f3rze","addr:housenumber":"96","addr:teryt:sym_ul":17791,"contact:phone":"+48 833795013","contact:email":"podedworzez@op.pl","ref:regon":"061529598","operator":"Gmina Podedw\u00f3rze","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 114832;114834"}},{"id":114832,"type":"Feature","geometry":{"type":"Point","coordinates":[23.203266,51.691162]},"properties":{"isced:level":"1;2","ref:rspo":114832,"official_name":"Zesp\u00f3\u0142 Plac\u00f3wek O\u015bwiatowych w Podedw\u00f3rzu - Szko\u0142a Podstawowa","name":"Zesp\u00f3\u0142 Plac\u00f3wek O\u015bwiatowych w Podedw\u00f3rzu - Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"21-222","addr:place":"Podedw\u00f3rze","addr:housenumber":"96","addr:teryt:sym_ul":17791,"contact:phone":"+48 833795013","contact:email":"podedworzez@op.pl","contact:website":"http:\/\/zpo.podedworze.pl","ref:regon":"000713846","ref:vatin":"PL5391038735","operator":"Gmina Podedw\u00f3rze","operator:type":"government","amenity":"school","note":"Parent RSPO: 111165"}},{"id":114834,"type":"Feature","geometry":{"type":"Point","coordinates":[23.203266,51.691132]},"properties":{"ref:rspo":114834,"official_name":"Zesp\u00f3\u0142 Plac\u00f3wek O\u015bwiatowych w Podedw\u00f3rzu - Przedszkole Samorz\u0105dowe","name":"Zesp\u00f3\u0142 Plac\u00f3wek O\u015bwiatowych w Podedw\u00f3rzu - Przedszkole Samorz\u0105dowe","addr:country":"PL","addr:postcode":"21-222","addr:place":"Podedw\u00f3rze","addr:housenumber":"96","addr:teryt:sym_ul":17791,"contact:phone":"+48 833795013","contact:email":"podedworzez@op.pl","ref:regon":"000967950","ref:vatin":"PL5391479882","operator":"Gmina Podedw\u00f3rze","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 111165"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 111165,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.203266,
+                    51.691192
+                ]
+            },
+            "properties": {
+                "ref:rspo": 111165,
+                "official_name": "Zesp\u00f3\u0142 Plac\u00f3wek O\u015bwiatowych w Podedw\u00f3rzu",
+                "name": "Zesp\u00f3\u0142 Plac\u00f3wek O\u015bwiatowych w Podedw\u00f3rzu",
+                "addr:country": "PL",
+                "addr:postcode": "21-222",
+                "addr:place": "Podedw\u00f3rze",
+                "addr:housenumber": "96",
+                "addr:teryt:sym_ul": 17791,
+                "contact:phone": "+48 833795013",
+                "contact:email": "podedworzez@op.pl",
+                "ref:regon": "061529598",
+                "operator": "Gmina Podedw\u00f3rze",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 114832;114834"
+            }
+        },
+        {
+            "id": 114832,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.203266,
+                    51.691162
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 114832,
+                "official_name": "Zesp\u00f3\u0142 Plac\u00f3wek O\u015bwiatowych w Podedw\u00f3rzu - Szko\u0142a Podstawowa",
+                "name": "Zesp\u00f3\u0142 Plac\u00f3wek O\u015bwiatowych w Podedw\u00f3rzu - Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "21-222",
+                "addr:place": "Podedw\u00f3rze",
+                "addr:housenumber": "96",
+                "addr:teryt:sym_ul": 17791,
+                "contact:phone": "+48 833795013",
+                "contact:email": "podedworzez@op.pl",
+                "contact:website": "http:\/\/zpo.podedworze.pl",
+                "ref:regon": "000713846",
+                "ref:vatin": "PL5391038735",
+                "operator": "Gmina Podedw\u00f3rze",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 111165"
+            }
+        },
+        {
+            "id": 114834,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.203266,
+                    51.691132
+                ]
+            },
+            "properties": {
+                "ref:rspo": 114834,
+                "official_name": "Zesp\u00f3\u0142 Plac\u00f3wek O\u015bwiatowych w Podedw\u00f3rzu - Przedszkole Samorz\u0105dowe",
+                "name": "Zesp\u00f3\u0142 Plac\u00f3wek O\u015bwiatowych w Podedw\u00f3rzu - Przedszkole Samorz\u0105dowe",
+                "addr:country": "PL",
+                "addr:postcode": "21-222",
+                "addr:place": "Podedw\u00f3rze",
+                "addr:housenumber": "96",
+                "addr:teryt:sym_ul": 17791,
+                "contact:phone": "+48 833795013",
+                "contact:email": "podedworzez@op.pl",
+                "ref:regon": "000967950",
+                "ref:vatin": "PL5391479882",
+                "operator": "Gmina Podedw\u00f3rze",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 111165"
+            }
+        }
+    ]
+}

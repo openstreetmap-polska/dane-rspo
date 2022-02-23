@@ -1,1 +1,125 @@
-{"type":"FeatureCollection","features":[{"id":106703,"type":"Feature","geometry":{"type":"Point","coordinates":[23.75252,50.89571]},"properties":{"isced:level":"1;2","ref:rspo":106703,"official_name":"Szko\u0142a Podstawowa im. Marii Konopnickiej w Teratynie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"22-510","addr:place":"Teratyn","addr:housenumber":"127","addr:teryt:sym_ul":904204,"contact:phone":"+48 846579202","contact:email":"spteratyn@uchanie.pl","contact:website":"http:\/\/spteratyn.uchanie.pl","ref:regon":"001138597","ref:vatin":"PL9191550206","operator":"Gmina Uchanie","operator:type":"government","amenity":"school"}},{"id":129391,"type":"Feature","geometry":{"type":"Point","coordinates":[23.75252,50.89568]},"properties":{"ref:rspo":129391,"official_name":"Punkt Przedszkolny Przy Szkole Podstawowej im. Marii Konopnickiej w Teratynie","name":"Punkt Przedszkolny Przy Szkole Podstawowej","addr:country":"PL","addr:postcode":"22-510","addr:place":"Teratyn","addr:housenumber":"127","addr:teryt:sym_ul":904204,"contact:phone":"+48 846579202","contact:email":"spteratyn@uchanie.pl","contact:website":"http:\/\/www.spteratyn.uchanie.pl","ref:regon":"362590372","operator":"Gmina Uchanie","operator:type":"government","amenity":"kindergarten"}},{"id":106693,"type":"Feature","geometry":{"type":"Point","coordinates":[23.64975,50.90749]},"properties":{"isced:level":"1;2","ref:rspo":106693,"official_name":"Szko\u0142a Podstawowa im. Papie\u017ca Jana Paw\u0142a II w Uchaniach","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"22-510","addr:city":"Uchanie","addr:street":"ul. Szkolna","addr:housenumber":"13","addr:teryt:simc":21970,"addr:teryt:sym_ul":904233,"contact:phone":"+48 846577021","contact:email":"sekretariat@szkolauchanie.pl","contact:website":"http:\/\/www.sp.uchanie.pl","ref:regon":"000678021","ref:vatin":"PL9191616230","operator":"Gmina Uchanie","operator:type":"government","amenity":"school"}},{"id":126374,"type":"Feature","geometry":{"type":"Point","coordinates":[23.64975,50.90746]},"properties":{"ref:rspo":126374,"official_name":"Punkt Przedszkolny Przy Szkole Podstawowej w Uchaniach \"Klub Przedszkolaka\"","name":"Punkt Przedszkolny Przy Szkole Podstawowej w Uchaniach \"Klub Przedszkolaka\"","addr:country":"PL","addr:postcode":"22-510","addr:city":"Uchanie","addr:street":"ul. Szkolna","addr:housenumber":"13","addr:teryt:simc":21970,"addr:teryt:sym_ul":904233,"contact:phone":"+48 846577021","contact:email":"spuchanie@uchanie.pl","contact:website":"http:\/\/www.sp.uchanie.pl","ref:regon":"360290536","operator":"Gmina Uchanie","operator:type":"government","amenity":"kindergarten"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 106703,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.75252,
+                    50.89571
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 106703,
+                "official_name": "Szko\u0142a Podstawowa im. Marii Konopnickiej w Teratynie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "22-510",
+                "addr:place": "Teratyn",
+                "addr:housenumber": "127",
+                "addr:teryt:sym_ul": 904204,
+                "contact:phone": "+48 846579202",
+                "contact:email": "spteratyn@uchanie.pl",
+                "contact:website": "http:\/\/spteratyn.uchanie.pl",
+                "ref:regon": "001138597",
+                "ref:vatin": "PL9191550206",
+                "operator": "Gmina Uchanie",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 129391,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.75252,
+                    50.89568
+                ]
+            },
+            "properties": {
+                "ref:rspo": 129391,
+                "official_name": "Punkt Przedszkolny Przy Szkole Podstawowej im. Marii Konopnickiej w Teratynie",
+                "name": "Punkt Przedszkolny Przy Szkole Podstawowej",
+                "addr:country": "PL",
+                "addr:postcode": "22-510",
+                "addr:place": "Teratyn",
+                "addr:housenumber": "127",
+                "addr:teryt:sym_ul": 904204,
+                "contact:phone": "+48 846579202",
+                "contact:email": "spteratyn@uchanie.pl",
+                "contact:website": "http:\/\/www.spteratyn.uchanie.pl",
+                "ref:regon": "362590372",
+                "operator": "Gmina Uchanie",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 106693,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.64975,
+                    50.90749
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 106693,
+                "official_name": "Szko\u0142a Podstawowa im. Papie\u017ca Jana Paw\u0142a II w Uchaniach",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "22-510",
+                "addr:city": "Uchanie",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "13",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 904233,
+                "contact:phone": "+48 846577021",
+                "contact:email": "sekretariat@szkolauchanie.pl",
+                "contact:website": "http:\/\/www.sp.uchanie.pl",
+                "ref:regon": "000678021",
+                "ref:vatin": "PL9191616230",
+                "operator": "Gmina Uchanie",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 126374,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.64975,
+                    50.90746
+                ]
+            },
+            "properties": {
+                "ref:rspo": 126374,
+                "official_name": "Punkt Przedszkolny Przy Szkole Podstawowej w Uchaniach \"Klub Przedszkolaka\"",
+                "name": "Punkt Przedszkolny Przy Szkole Podstawowej w Uchaniach \"Klub Przedszkolaka\"",
+                "addr:country": "PL",
+                "addr:postcode": "22-510",
+                "addr:city": "Uchanie",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "13",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 904233,
+                "contact:phone": "+48 846577021",
+                "contact:email": "spuchanie@uchanie.pl",
+                "contact:website": "http:\/\/www.sp.uchanie.pl",
+                "ref:regon": "360290536",
+                "operator": "Gmina Uchanie",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        }
+    ]
+}

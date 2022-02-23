@@ -1,1 +1,131 @@
-{"type":"FeatureCollection","features":[{"id":40561,"type":"Feature","geometry":{"type":"Point","coordinates":[18.984194,54.209748]},"properties":{"ref:rspo":40561,"official_name":"O\u015brodek Rehabilitacyjno-Edukacyjno-Wychowawczy","name":"O\u015brodek Rehabilitacyjno-Edukacyjno-Wychowawczy","addr:country":"PL","addr:postcode":"82-112","addr:place":"Jeziernik","addr:housenumber":"12","addr:teryt:sym_ul":154045,"contact:phone":"+48 552471546","contact:email":"orewjeziernik@interia.pl","contact:website":"http:\/\/www.fundacjawroc.pl","ref:regon":"221765266","ref:vatin":"PL5791982343","operator":"Fundacja \"Wr\u00f3\u0107\"","operator:type":"ngo","amenity":"school"}},{"id":5150,"type":"Feature","geometry":{"type":"Point","coordinates":[18.95128,54.2126]},"properties":{"ref:rspo":5150,"official_name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 w Ostaszewie","name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 w Ostaszewie","addr:country":"PL","addr:postcode":"82-112","addr:city":"Ostaszewo","addr:street":"ul. Ko\u015bciuszki","addr:housenumber":"22","addr:teryt:simc":9572,"addr:teryt:sym_ul":154105,"contact:phone":"+48 552471346","contact:email":"sekretariat@zsostaszewo.pl","contact:website":"http:\/\/www.zsostaszewo.edupage.pl","ref:regon":"220649730","ref:vatin":"PL5792172971","operator":"Gmina Ostaszewo","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 70714;70715"}},{"id":70714,"type":"Feature","geometry":{"type":"Point","coordinates":[18.95128,54.21257]},"properties":{"isced:level":"1;2","ref:rspo":70714,"official_name":"Szko\u0142a Podstawowa im. Marynarki Wojennej Rp w Ostaszewie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"82-112","addr:city":"Ostaszewo","addr:street":"ul. Ko\u015bciuszki","addr:housenumber":"22","addr:teryt:simc":9572,"addr:teryt:sym_ul":154105,"contact:phone":"+48 552471346","contact:email":"sekretariat@zsostaszewo.pl","contact:website":"https:\/\/zsostaszewo.edupage.org\/","ref:regon":"001219309","ref:vatin":"PL5791794417","operator":"Gmina Ostaszewo","operator:type":"government","amenity":"school","note":"Parent RSPO: 5150"}},{"id":70715,"type":"Feature","geometry":{"type":"Point","coordinates":[18.9493,54.21557]},"properties":{"ref:rspo":70715,"official_name":"Przedszkole w Ostaszewie","name":"Przedszkole w Ostaszewie","addr:country":"PL","addr:postcode":"82-112","addr:city":"Ostaszewo","addr:street":"ul. Ko\u015bciuszki","addr:housenumber":"44","addr:teryt:simc":9572,"addr:teryt:sym_ul":154105,"contact:phone":"+48 552471322","contact:email":"sekretariat@zsostaszewo.pl","ref:regon":"170007059","ref:vatin":"PL5791794417","operator":"Gmina Ostaszewo","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 5150"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 40561,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.984194,
+                    54.209748
+                ]
+            },
+            "properties": {
+                "ref:rspo": 40561,
+                "official_name": "O\u015brodek Rehabilitacyjno-Edukacyjno-Wychowawczy",
+                "name": "O\u015brodek Rehabilitacyjno-Edukacyjno-Wychowawczy",
+                "addr:country": "PL",
+                "addr:postcode": "82-112",
+                "addr:place": "Jeziernik",
+                "addr:housenumber": "12",
+                "addr:teryt:sym_ul": 154045,
+                "contact:phone": "+48 552471546",
+                "contact:email": "orewjeziernik@interia.pl",
+                "contact:website": "http:\/\/www.fundacjawroc.pl",
+                "ref:regon": "221765266",
+                "ref:vatin": "PL5791982343",
+                "operator": "Fundacja \"Wr\u00f3\u0107\"",
+                "operator:type": "ngo",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 5150,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.95128,
+                    54.2126
+                ]
+            },
+            "properties": {
+                "ref:rspo": 5150,
+                "official_name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 w Ostaszewie",
+                "name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 w Ostaszewie",
+                "addr:country": "PL",
+                "addr:postcode": "82-112",
+                "addr:city": "Ostaszewo",
+                "addr:street": "ul. Ko\u015bciuszki",
+                "addr:housenumber": "22",
+                "addr:teryt:simc": 9572,
+                "addr:teryt:sym_ul": 154105,
+                "contact:phone": "+48 552471346",
+                "contact:email": "sekretariat@zsostaszewo.pl",
+                "contact:website": "http:\/\/www.zsostaszewo.edupage.pl",
+                "ref:regon": "220649730",
+                "ref:vatin": "PL5792172971",
+                "operator": "Gmina Ostaszewo",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 70714;70715"
+            }
+        },
+        {
+            "id": 70714,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.95128,
+                    54.21257
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 70714,
+                "official_name": "Szko\u0142a Podstawowa im. Marynarki Wojennej Rp w Ostaszewie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "82-112",
+                "addr:city": "Ostaszewo",
+                "addr:street": "ul. Ko\u015bciuszki",
+                "addr:housenumber": "22",
+                "addr:teryt:simc": 9572,
+                "addr:teryt:sym_ul": 154105,
+                "contact:phone": "+48 552471346",
+                "contact:email": "sekretariat@zsostaszewo.pl",
+                "contact:website": "https:\/\/zsostaszewo.edupage.org\/",
+                "ref:regon": "001219309",
+                "ref:vatin": "PL5791794417",
+                "operator": "Gmina Ostaszewo",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 5150"
+            }
+        },
+        {
+            "id": 70715,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.9493,
+                    54.21557
+                ]
+            },
+            "properties": {
+                "ref:rspo": 70715,
+                "official_name": "Przedszkole w Ostaszewie",
+                "name": "Przedszkole w Ostaszewie",
+                "addr:country": "PL",
+                "addr:postcode": "82-112",
+                "addr:city": "Ostaszewo",
+                "addr:street": "ul. Ko\u015bciuszki",
+                "addr:housenumber": "44",
+                "addr:teryt:simc": 9572,
+                "addr:teryt:sym_ul": 154105,
+                "contact:phone": "+48 552471322",
+                "contact:email": "sekretariat@zsostaszewo.pl",
+                "ref:regon": "170007059",
+                "ref:vatin": "PL5791794417",
+                "operator": "Gmina Ostaszewo",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 5150"
+            }
+        }
+    ]
+}

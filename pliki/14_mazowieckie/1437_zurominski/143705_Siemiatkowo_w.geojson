@@ -1,1 +1,132 @@
-{"type":"FeatureCollection","features":[{"id":42790,"type":"Feature","geometry":{"type":"Point","coordinates":[20.090131,52.858868]},"properties":{"isced:level":"1;2","ref:rspo":42790,"official_name":"Szko\u0142a Podstawowa im. Jana Paw\u0142a II w \u0141aszewie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"09-135","addr:place":"\u0141aszewo","addr:housenumber":"36","addr:teryt:sym_ul":125380,"contact:phone":"+48 236796098","contact:email":"splaszewo@poczta.onet.pl","ref:regon":"001157181","ref:vatin":"PL5110153061","operator":"Gmina Siemi\u0105tkowo","operator:type":"government","amenity":"school"}},{"id":43617,"type":"Feature","geometry":{"type":"Point","coordinates":[20.03548,52.87966]},"properties":{"ref:rspo":43617,"official_name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 w Siemi\u0105tkowie","name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 w Siemi\u0105tkowie","addr:country":"PL","addr:postcode":"09-135","addr:city":"Siemi\u0105tkowo","addr:street":"ul. Warszawska","addr:housenumber":"3a","addr:teryt:simc":23682,"addr:teryt:sym_ul":125552,"contact:phone":"+48 236796033","contact:email":"zs@siemiatkowo.net","contact:website":"http:\/\/zssiemiatkowo.edupage.org","ref:regon":"143329806","ref:vatin":"PL5110287092","operator":"Gmina Siemi\u0105tkowo","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 80943;80946"}},{"id":80943,"type":"Feature","geometry":{"type":"Point","coordinates":[20.03548,52.87963]},"properties":{"isced:level":"1;2","ref:rspo":80943,"official_name":"Szko\u0142a Podstawowa im. Majora Henryka Sucharskiego w Siemi\u0105tkowie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"09-135","addr:city":"Siemi\u0105tkowo","addr:street":"ul. Warszawska","addr:housenumber":"3a","addr:teryt:simc":23682,"addr:teryt:sym_ul":125552,"contact:phone":"+48 236796033","contact:email":"zs@siemiatkowo.net","contact:website":"http:\/\/www.gimsiemiatkowo.edupage.org","ref:regon":"000663730","ref:vatin":"PL5110153049","operator":"Gmina Siemi\u0105tkowo","operator:type":"government","amenity":"school","note":"Parent RSPO: 43617"}},{"id":80946,"type":"Feature","geometry":{"type":"Point","coordinates":[20.03485,52.87995]},"properties":{"ref:rspo":80946,"official_name":"Przedszkole Samorz\u0105dowe w Siemi\u0105tkowie","name":"Przedszkole Samorz\u0105dowe w Siemi\u0105tkowie","addr:country":"PL","addr:postcode":"09-135","addr:city":"Siemi\u0105tkowo","addr:street":"ul. Warszawska","addr:housenumber":"1","addr:teryt:simc":23682,"addr:teryt:sym_ul":125552,"contact:phone":"+48 236796033","contact:email":"zs@siemiatkowo.net","contact:website":"http:\/\/www.gimsiemiatkowo.edupage.org","ref:regon":"130004454","ref:vatin":"PL5110153084","operator":"Gmina Siemi\u0105tkowo","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 43617"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 42790,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.090131,
+                    52.858868
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 42790,
+                "official_name": "Szko\u0142a Podstawowa im. Jana Paw\u0142a II w \u0141aszewie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "09-135",
+                "addr:place": "\u0141aszewo",
+                "addr:housenumber": "36",
+                "addr:teryt:sym_ul": 125380,
+                "contact:phone": "+48 236796098",
+                "contact:email": "splaszewo@poczta.onet.pl",
+                "ref:regon": "001157181",
+                "ref:vatin": "PL5110153061",
+                "operator": "Gmina Siemi\u0105tkowo",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 43617,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.03548,
+                    52.87966
+                ]
+            },
+            "properties": {
+                "ref:rspo": 43617,
+                "official_name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 w Siemi\u0105tkowie",
+                "name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 w Siemi\u0105tkowie",
+                "addr:country": "PL",
+                "addr:postcode": "09-135",
+                "addr:city": "Siemi\u0105tkowo",
+                "addr:street": "ul. Warszawska",
+                "addr:housenumber": "3a",
+                "addr:teryt:simc": 23682,
+                "addr:teryt:sym_ul": 125552,
+                "contact:phone": "+48 236796033",
+                "contact:email": "zs@siemiatkowo.net",
+                "contact:website": "http:\/\/zssiemiatkowo.edupage.org",
+                "ref:regon": "143329806",
+                "ref:vatin": "PL5110287092",
+                "operator": "Gmina Siemi\u0105tkowo",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 80943;80946"
+            }
+        },
+        {
+            "id": 80943,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.03548,
+                    52.87963
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 80943,
+                "official_name": "Szko\u0142a Podstawowa im. Majora Henryka Sucharskiego w Siemi\u0105tkowie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "09-135",
+                "addr:city": "Siemi\u0105tkowo",
+                "addr:street": "ul. Warszawska",
+                "addr:housenumber": "3a",
+                "addr:teryt:simc": 23682,
+                "addr:teryt:sym_ul": 125552,
+                "contact:phone": "+48 236796033",
+                "contact:email": "zs@siemiatkowo.net",
+                "contact:website": "http:\/\/www.gimsiemiatkowo.edupage.org",
+                "ref:regon": "000663730",
+                "ref:vatin": "PL5110153049",
+                "operator": "Gmina Siemi\u0105tkowo",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 43617"
+            }
+        },
+        {
+            "id": 80946,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.03485,
+                    52.87995
+                ]
+            },
+            "properties": {
+                "ref:rspo": 80946,
+                "official_name": "Przedszkole Samorz\u0105dowe w Siemi\u0105tkowie",
+                "name": "Przedszkole Samorz\u0105dowe w Siemi\u0105tkowie",
+                "addr:country": "PL",
+                "addr:postcode": "09-135",
+                "addr:city": "Siemi\u0105tkowo",
+                "addr:street": "ul. Warszawska",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 23682,
+                "addr:teryt:sym_ul": 125552,
+                "contact:phone": "+48 236796033",
+                "contact:email": "zs@siemiatkowo.net",
+                "contact:website": "http:\/\/www.gimsiemiatkowo.edupage.org",
+                "ref:regon": "130004454",
+                "ref:vatin": "PL5110153084",
+                "operator": "Gmina Siemi\u0105tkowo",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 43617"
+            }
+        }
+    ]
+}

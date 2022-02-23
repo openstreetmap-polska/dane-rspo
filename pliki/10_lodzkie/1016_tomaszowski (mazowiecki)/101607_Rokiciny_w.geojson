@@ -1,1 +1,98 @@
-{"type":"FeatureCollection","features":[{"id":69489,"type":"Feature","geometry":{"type":"Point","coordinates":[19.78079,51.6273]},"properties":{"isced:level":"1;2","ref:rspo":69489,"official_name":"Szko\u0142a Podstawowa im. Tadeusza Ko\u015bciuszki w \u0141aznowie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"97-221","addr:place":"\u0141azn\u00f3w","addr:housenumber":"65","addr:teryt:sym_ul":550120,"contact:phone":"+48 447195081","contact:email":"splaznow@szkola-laznow.pl","contact:website":"http:\/\/www.szkola-laznow.pl","ref:regon":"001161277","ref:vatin":"PL7732232096","operator":"Gmina Rokiciny","operator:type":"government","amenity":"school"}},{"id":69487,"type":"Feature","geometry":{"type":"Point","coordinates":[19.7839,51.66643]},"properties":{"isced:level":"1;2","ref:rspo":69487,"official_name":"Szko\u0142a Podstawowa im. W\u0142adys\u0142awa Stanis\u0142awa Reymonta w Rokicinach","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"97-221","addr:city":"Rokiciny-Kolonia","addr:street":"ul. Henryka Sienkiewicza","addr:housenumber":"17","addr:teryt:simc":19834,"addr:teryt:sym_ul":550255,"contact:phone":"+48 447195018","contact:email":"sp_rokiciny@poczta.onet.pl","contact:website":"http:\/\/sprokiciny.pl","ref:regon":"000558972","ref:vatin":"PL7732232110","operator":"Gmina Rokiciny","operator:type":"government","amenity":"school"}},{"id":69492,"type":"Feature","geometry":{"type":"Point","coordinates":[19.7825,51.667]},"properties":{"ref:rspo":69492,"official_name":"Gminne Przedszkole im. Le\u015bnych Skrzat\u00f3w w Rokicinach","name":"Gminne Przedszkole","addr:country":"PL","addr:postcode":"97-221","addr:city":"Rokiciny-Kolonia","addr:street":"ul. Henryka Sienkiewicza","addr:housenumber":"2a","addr:teryt:simc":19834,"addr:teryt:sym_ul":550255,"contact:phone":"+48 447195053","contact:email":"przedszkole.rokiciny@gmail.com","contact:website":"https:\/\/przedszkolerokiciny.wikom.pl","ref:regon":"590020422","ref:vatin":"PL7732232162","operator":"Gmina Rokiciny","operator:type":"government","amenity":"kindergarten"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 69489,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.78079,
+                    51.6273
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 69489,
+                "official_name": "Szko\u0142a Podstawowa im. Tadeusza Ko\u015bciuszki w \u0141aznowie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "97-221",
+                "addr:place": "\u0141azn\u00f3w",
+                "addr:housenumber": "65",
+                "addr:teryt:sym_ul": 550120,
+                "contact:phone": "+48 447195081",
+                "contact:email": "splaznow@szkola-laznow.pl",
+                "contact:website": "http:\/\/www.szkola-laznow.pl",
+                "ref:regon": "001161277",
+                "ref:vatin": "PL7732232096",
+                "operator": "Gmina Rokiciny",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 69487,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.7839,
+                    51.66643
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 69487,
+                "official_name": "Szko\u0142a Podstawowa im. W\u0142adys\u0142awa Stanis\u0142awa Reymonta w Rokicinach",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "97-221",
+                "addr:city": "Rokiciny-Kolonia",
+                "addr:street": "ul. Henryka Sienkiewicza",
+                "addr:housenumber": "17",
+                "addr:teryt:simc": 19834,
+                "addr:teryt:sym_ul": 550255,
+                "contact:phone": "+48 447195018",
+                "contact:email": "sp_rokiciny@poczta.onet.pl",
+                "contact:website": "http:\/\/sprokiciny.pl",
+                "ref:regon": "000558972",
+                "ref:vatin": "PL7732232110",
+                "operator": "Gmina Rokiciny",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 69492,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.7825,
+                    51.667
+                ]
+            },
+            "properties": {
+                "ref:rspo": 69492,
+                "official_name": "Gminne Przedszkole im. Le\u015bnych Skrzat\u00f3w w Rokicinach",
+                "name": "Gminne Przedszkole",
+                "addr:country": "PL",
+                "addr:postcode": "97-221",
+                "addr:city": "Rokiciny-Kolonia",
+                "addr:street": "ul. Henryka Sienkiewicza",
+                "addr:housenumber": "2a",
+                "addr:teryt:simc": 19834,
+                "addr:teryt:sym_ul": 550255,
+                "contact:phone": "+48 447195053",
+                "contact:email": "przedszkole.rokiciny@gmail.com",
+                "contact:website": "https:\/\/przedszkolerokiciny.wikom.pl",
+                "ref:regon": "590020422",
+                "ref:vatin": "PL7732232162",
+                "operator": "Gmina Rokiciny",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        }
+    ]
+}

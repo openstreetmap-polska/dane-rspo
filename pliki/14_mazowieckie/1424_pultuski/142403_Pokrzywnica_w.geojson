@@ -1,1 +1,152 @@
-{"type":"FeatureCollection","features":[{"id":130919,"type":"Feature","geometry":{"type":"Point","coordinates":[14.502960205078,35.87553024292]},"properties":{"ref:rspo":130919,"official_name":"Samorzadowe Przedszkole w Pokrzywnicy","name":"Samorzadowe Przedszkole w Pokrzywnicy","addr:country":"PL","addr:postcode":"06-121","addr:city":"Pokrzywnica","addr:street":"ul. Aleja Jana Paw\u0142a II","addr:housenumber":"10","addr:teryt:simc":33262,"addr:teryt:sym_ul":122915,"contact:phone":"+48 236918715","contact:email":"przedszkole@pokrzywnica.pl","contact:website":"http:\/\/www.przedszkole.pokrzywnica.pl","ref:regon":"364718698","operator":"Gmina Pokrzywnica","operator:type":"government","amenity":"kindergarten"}},{"id":91658,"type":"Feature","geometry":{"type":"Point","coordinates":[21.017349,52.555465]},"properties":{"isced:level":"1;2","ref:rspo":91658,"official_name":"Szko\u0142a Podstawowa im. Doroty Gellner w Poby\u0142kowie Du\u017cym","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"06-114","addr:place":"Poby\u0142kowo Du\u017ce","addr:housenumber":"15","addr:teryt:sym_ul":122861,"contact:phone":"+48 236910406","contact:email":"psppobylkowo@pokrzywnica.pl","contact:website":"http:\/\/sppobylkowo.pokrzywnica.pl","ref:regon":"001157407","ref:vatin":"PL5681459008","operator":"Gmina Pokrzywnica","operator:type":"government","amenity":"school"}},{"id":262691,"type":"Feature","geometry":{"type":"Point","coordinates":[21.089515,52.574084]},"properties":{"isced:level":"1;2","ref:rspo":262691,"official_name":"Szko\u0142a Podstawowa Z Oddzia\u0142ami Integracyjnymi w Dzier\u017ceninie","name":"Szko\u0142a Podstawowa Z Oddzia\u0142ami Integracyjnymi w Dzier\u017ceninie","addr:country":"PL","addr:postcode":"06-114","addr:place":"Dzier\u017cenin","addr:housenumber":"105","addr:teryt:sym_ul":122660,"contact:phone":"+48 236910427","contact:email":"spdzierzenin@pokrzywnica.pl","ref:regon":"368053758","operator":"Gmina Pokrzywnica","operator:type":"government","amenity":"school"}},{"id":91275,"type":"Feature","geometry":{"type":"Point","coordinates":[21.0900919,52.6142169]},"properties":{"isced:level":"1;2","ref:rspo":91275,"official_name":"Szko\u0142a Podstawowa im. Ks. Jana Twardowskiego w Gzowie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"06-114","addr:place":"Gzowo","addr:housenumber":"5","addr:teryt:sym_ul":122677,"contact:phone":"+48 236910424","contact:email":"pspgzowo@pokrzywnica.pl","contact:website":"http:\/\/www.spgzowo.pokrzywnica.pl","ref:regon":"001157399","ref:vatin":"PL5681461850","operator":"Gmina Pokrzywnica","operator:type":"government","amenity":"school"}},{"id":91659,"type":"Feature","geometry":{"type":"Point","coordinates":[21.0256024,52.6254173]},"properties":{"isced:level":"1;2","ref:rspo":91659,"official_name":"Szko\u0142a Podstawowa im. Witolda Machnowskiego w Nowym Niest\u0119powie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"06-121","addr:place":"Nowe Niest\u0119powo","addr:housenumber":"7","addr:teryt:sym_ul":122810,"contact:phone":"+48 236918782","contact:email":"pspniestepowo@pokrzywnica.pl","ref:regon":"000692831","ref:vatin":"PL5681362065","operator":"Gmina Pokrzywnica","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 130919,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.502960205078,
+                    35.87553024292
+                ]
+            },
+            "properties": {
+                "ref:rspo": 130919,
+                "official_name": "Samorzadowe Przedszkole w Pokrzywnicy",
+                "name": "Samorzadowe Przedszkole w Pokrzywnicy",
+                "addr:country": "PL",
+                "addr:postcode": "06-121",
+                "addr:city": "Pokrzywnica",
+                "addr:street": "ul. Aleja Jana Paw\u0142a II",
+                "addr:housenumber": "10",
+                "addr:teryt:simc": 33262,
+                "addr:teryt:sym_ul": 122915,
+                "contact:phone": "+48 236918715",
+                "contact:email": "przedszkole@pokrzywnica.pl",
+                "contact:website": "http:\/\/www.przedszkole.pokrzywnica.pl",
+                "ref:regon": "364718698",
+                "operator": "Gmina Pokrzywnica",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 91658,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.017349,
+                    52.555465
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 91658,
+                "official_name": "Szko\u0142a Podstawowa im. Doroty Gellner w Poby\u0142kowie Du\u017cym",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "06-114",
+                "addr:place": "Poby\u0142kowo Du\u017ce",
+                "addr:housenumber": "15",
+                "addr:teryt:sym_ul": 122861,
+                "contact:phone": "+48 236910406",
+                "contact:email": "psppobylkowo@pokrzywnica.pl",
+                "contact:website": "http:\/\/sppobylkowo.pokrzywnica.pl",
+                "ref:regon": "001157407",
+                "ref:vatin": "PL5681459008",
+                "operator": "Gmina Pokrzywnica",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 262691,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.089515,
+                    52.574084
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 262691,
+                "official_name": "Szko\u0142a Podstawowa Z Oddzia\u0142ami Integracyjnymi w Dzier\u017ceninie",
+                "name": "Szko\u0142a Podstawowa Z Oddzia\u0142ami Integracyjnymi w Dzier\u017ceninie",
+                "addr:country": "PL",
+                "addr:postcode": "06-114",
+                "addr:place": "Dzier\u017cenin",
+                "addr:housenumber": "105",
+                "addr:teryt:sym_ul": 122660,
+                "contact:phone": "+48 236910427",
+                "contact:email": "spdzierzenin@pokrzywnica.pl",
+                "ref:regon": "368053758",
+                "operator": "Gmina Pokrzywnica",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 91275,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0900919,
+                    52.6142169
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 91275,
+                "official_name": "Szko\u0142a Podstawowa im. Ks. Jana Twardowskiego w Gzowie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "06-114",
+                "addr:place": "Gzowo",
+                "addr:housenumber": "5",
+                "addr:teryt:sym_ul": 122677,
+                "contact:phone": "+48 236910424",
+                "contact:email": "pspgzowo@pokrzywnica.pl",
+                "contact:website": "http:\/\/www.spgzowo.pokrzywnica.pl",
+                "ref:regon": "001157399",
+                "ref:vatin": "PL5681461850",
+                "operator": "Gmina Pokrzywnica",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 91659,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0256024,
+                    52.6254173
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 91659,
+                "official_name": "Szko\u0142a Podstawowa im. Witolda Machnowskiego w Nowym Niest\u0119powie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "06-121",
+                "addr:place": "Nowe Niest\u0119powo",
+                "addr:housenumber": "7",
+                "addr:teryt:sym_ul": 122810,
+                "contact:phone": "+48 236918782",
+                "contact:email": "pspniestepowo@pokrzywnica.pl",
+                "ref:regon": "000692831",
+                "ref:vatin": "PL5681362065",
+                "operator": "Gmina Pokrzywnica",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

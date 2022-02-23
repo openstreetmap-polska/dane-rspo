@@ -1,1 +1,211 @@
-{"type":"FeatureCollection","features":[{"id":5414,"type":"Feature","geometry":{"type":"Point","coordinates":[22.7327785,50.665883]},"properties":{"isced:level":"1;2","ref:rspo":5414,"official_name":"Szko\u0142a Podstawowa im.jana Paw\u0142a II w Woli Radzi\u0119ckiej","name":"Szko\u0142a Podstawowa im.jana Paw\u0142a II w Woli Radzi\u0119ckiej","addr:country":"PL","addr:postcode":"23-440","addr:place":"Wola Radzi\u0119cka","addr:housenumber":"61","addr:teryt:sym_ul":887606,"contact:phone":"+48 846857879","contact:email":"wolaszkola@o2.pl","contact:website":"http:\/\/www.wolaszkola.com","ref:regon":"001137971","ref:vatin":"PL9181825506","operator":"Gmina  Frampol","operator:type":"government","amenity":"school"}},{"id":13126,"type":"Feature","geometry":{"type":"Point","coordinates":[22.6741199,50.67425]},"properties":{"ref:rspo":13126,"official_name":"Samorz\u0105dowy Zesp\u00f3\u0142 Szkolny we Frampolu","name":"Samorz\u0105dowy Zesp\u00f3\u0142 Szkolny we Frampolu","addr:country":"PL","addr:postcode":"23-440","addr:city":"Frampol","addr:street":"ul. Gorajska","addr:housenumber":"16","addr:teryt:simc":5806,"addr:teryt:sym_ul":887196,"contact:phone":"+48 846857521","contact:email":"szsframpol@gmail.com","contact:website":"http:\/\/www.szsframpol.pl","ref:regon":"951083366","ref:vatin":"PL9181824197","operator":"Gmina  Frampol","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 50316;50461"}},{"id":50316,"type":"Feature","geometry":{"type":"Point","coordinates":[22.6741199,50.67422]},"properties":{"ref:rspo":50316,"official_name":"Przedszkole we Frampolu","name":"Przedszkole we Frampolu","addr:country":"PL","addr:postcode":"23-440","addr:city":"Frampol","addr:street":"ul. Gorajska","addr:housenumber":"16","addr:teryt:simc":5806,"addr:teryt:sym_ul":887196,"ref:regon":"951082065","operator":"Gmina  Frampol","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 13126"}},{"id":50461,"type":"Feature","geometry":{"type":"Point","coordinates":[22.6741199,50.67419]},"properties":{"isced:level":"1;2","ref:rspo":50461,"official_name":"Szko\u0142a Podstawowa im. J\u00f3zefa Pi\u0142sudskiego we Frampolu","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"23-440","addr:city":"Frampol","addr:street":"ul. Gorajska","addr:housenumber":"16","addr:teryt:simc":5806,"addr:teryt:sym_ul":887196,"contact:phone":"+48 846857521","contact:email":"szsframpol@gmail.com","ref:regon":"000678073","operator":"Gmina  Frampol","operator:type":"government","amenity":"school","note":"Parent RSPO: 13126"}},{"id":41647,"type":"Feature","geometry":{"type":"Point","coordinates":[22.70085,50.6881]},"properties":{"isced:level":"1;2","ref:rspo":41647,"official_name":"Szko\u0142a Podstawowa w Radzi\u0119cinie","name":"Szko\u0142a Podstawowa w Radzi\u0119cinie","addr:country":"PL","addr:postcode":"23-440","addr:place":"Radzi\u0119cin","addr:housenumber":"82","addr:teryt:sym_ul":887374,"contact:phone":"+48 846857574","contact:email":"szkolaradz@wp.pl","ref:regon":"061474584","operator":"\"Stowarzyszenie Przyjaci\u00f3\u0142 Szk\u00f3\u0142\"","operator:type":"ngo","amenity":"school"}},{"id":122584,"type":"Feature","geometry":{"type":"Point","coordinates":[22.70085,50.688069999999996]},"properties":{"ref:rspo":122584,"official_name":"Punkt Przedszkolny Puchatki","name":"Punkt Przedszkolny Puchatki","addr:country":"PL","addr:postcode":"23-440","addr:place":"Radzi\u0119cin","addr:housenumber":"82","addr:teryt:sym_ul":887374,"contact:phone":"+48 846857574","contact:email":"stowarzyszeniebiuro@wp.pl","ref:regon":"061664600","operator":"\"Stowarzyszenie Przyjaci\u00f3\u0142 Szk\u00f3\u0142\"","operator:type":"ngo","amenity":"kindergarten"}},{"id":23185,"type":"Feature","geometry":{"type":"Point","coordinates":[22.74863,50.695]},"properties":{"isced:level":"1;2","ref:rspo":23185,"official_name":"Szko\u0142a Podstawowa im. \u015aw. Stanis\u0142awa Kostki w Teodor\u00f3wce","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"23-440","addr:place":"Teodor\u00f3wka","addr:housenumber":"64","addr:teryt:sym_ul":887530,"contact:phone":"+48 846857028","contact:email":"sp.teodorowka@op.pl","ref:regon":"001137994","ref:vatin":"PL9181824122","operator":"Gmina  Frampol","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 5414,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.7327785,
+                    50.665883
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 5414,
+                "official_name": "Szko\u0142a Podstawowa im.jana Paw\u0142a II w Woli Radzi\u0119ckiej",
+                "name": "Szko\u0142a Podstawowa im.jana Paw\u0142a II w Woli Radzi\u0119ckiej",
+                "addr:country": "PL",
+                "addr:postcode": "23-440",
+                "addr:place": "Wola Radzi\u0119cka",
+                "addr:housenumber": "61",
+                "addr:teryt:sym_ul": 887606,
+                "contact:phone": "+48 846857879",
+                "contact:email": "wolaszkola@o2.pl",
+                "contact:website": "http:\/\/www.wolaszkola.com",
+                "ref:regon": "001137971",
+                "ref:vatin": "PL9181825506",
+                "operator": "Gmina  Frampol",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 13126,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.6741199,
+                    50.67425
+                ]
+            },
+            "properties": {
+                "ref:rspo": 13126,
+                "official_name": "Samorz\u0105dowy Zesp\u00f3\u0142 Szkolny we Frampolu",
+                "name": "Samorz\u0105dowy Zesp\u00f3\u0142 Szkolny we Frampolu",
+                "addr:country": "PL",
+                "addr:postcode": "23-440",
+                "addr:city": "Frampol",
+                "addr:street": "ul. Gorajska",
+                "addr:housenumber": "16",
+                "addr:teryt:simc": 5806,
+                "addr:teryt:sym_ul": 887196,
+                "contact:phone": "+48 846857521",
+                "contact:email": "szsframpol@gmail.com",
+                "contact:website": "http:\/\/www.szsframpol.pl",
+                "ref:regon": "951083366",
+                "ref:vatin": "PL9181824197",
+                "operator": "Gmina  Frampol",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 50316;50461"
+            }
+        },
+        {
+            "id": 50316,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.6741199,
+                    50.67422
+                ]
+            },
+            "properties": {
+                "ref:rspo": 50316,
+                "official_name": "Przedszkole we Frampolu",
+                "name": "Przedszkole we Frampolu",
+                "addr:country": "PL",
+                "addr:postcode": "23-440",
+                "addr:city": "Frampol",
+                "addr:street": "ul. Gorajska",
+                "addr:housenumber": "16",
+                "addr:teryt:simc": 5806,
+                "addr:teryt:sym_ul": 887196,
+                "ref:regon": "951082065",
+                "operator": "Gmina  Frampol",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 13126"
+            }
+        },
+        {
+            "id": 50461,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.6741199,
+                    50.67419
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 50461,
+                "official_name": "Szko\u0142a Podstawowa im. J\u00f3zefa Pi\u0142sudskiego we Frampolu",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "23-440",
+                "addr:city": "Frampol",
+                "addr:street": "ul. Gorajska",
+                "addr:housenumber": "16",
+                "addr:teryt:simc": 5806,
+                "addr:teryt:sym_ul": 887196,
+                "contact:phone": "+48 846857521",
+                "contact:email": "szsframpol@gmail.com",
+                "ref:regon": "000678073",
+                "operator": "Gmina  Frampol",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 13126"
+            }
+        },
+        {
+            "id": 41647,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.70085,
+                    50.6881
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 41647,
+                "official_name": "Szko\u0142a Podstawowa w Radzi\u0119cinie",
+                "name": "Szko\u0142a Podstawowa w Radzi\u0119cinie",
+                "addr:country": "PL",
+                "addr:postcode": "23-440",
+                "addr:place": "Radzi\u0119cin",
+                "addr:housenumber": "82",
+                "addr:teryt:sym_ul": 887374,
+                "contact:phone": "+48 846857574",
+                "contact:email": "szkolaradz@wp.pl",
+                "ref:regon": "061474584",
+                "operator": "\"Stowarzyszenie Przyjaci\u00f3\u0142 Szk\u00f3\u0142\"",
+                "operator:type": "ngo",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 122584,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.70085,
+                    50.688069999999996
+                ]
+            },
+            "properties": {
+                "ref:rspo": 122584,
+                "official_name": "Punkt Przedszkolny Puchatki",
+                "name": "Punkt Przedszkolny Puchatki",
+                "addr:country": "PL",
+                "addr:postcode": "23-440",
+                "addr:place": "Radzi\u0119cin",
+                "addr:housenumber": "82",
+                "addr:teryt:sym_ul": 887374,
+                "contact:phone": "+48 846857574",
+                "contact:email": "stowarzyszeniebiuro@wp.pl",
+                "ref:regon": "061664600",
+                "operator": "\"Stowarzyszenie Przyjaci\u00f3\u0142 Szk\u00f3\u0142\"",
+                "operator:type": "ngo",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 23185,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.74863,
+                    50.695
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 23185,
+                "official_name": "Szko\u0142a Podstawowa im. \u015aw. Stanis\u0142awa Kostki w Teodor\u00f3wce",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "23-440",
+                "addr:place": "Teodor\u00f3wka",
+                "addr:housenumber": "64",
+                "addr:teryt:sym_ul": 887530,
+                "contact:phone": "+48 846857028",
+                "contact:email": "sp.teodorowka@op.pl",
+                "ref:regon": "001137994",
+                "ref:vatin": "PL9181824122",
+                "operator": "Gmina  Frampol",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

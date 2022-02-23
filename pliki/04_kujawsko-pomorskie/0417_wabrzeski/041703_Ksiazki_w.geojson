@@ -1,1 +1,99 @@
-{"type":"FeatureCollection","features":[{"id":60011,"type":"Feature","geometry":{"type":"Point","coordinates":[19.06976,53.32716]},"properties":{"ref:rspo":60011,"official_name":"Szko\u0142a Podstawowa I Przedszkole im. Henryka Sienkiewicza w Ksi\u0105\u017ckach","name":"Szko\u0142a Podstawowa I Przedszkole","addr:country":"PL","addr:postcode":"87-222","addr:city":"Ksi\u0105\u017cki","addr:street":"ul. Szkolna","addr:housenumber":"6","addr:teryt:simc":21970,"addr:teryt:sym_ul":845476,"contact:phone":"+48 566888151","contact:email":"spip@gminaksiazki.pl","contact:website":"https:\/\/spksiazki.edupage.org\/","ref:regon":"870586561","ref:vatin":"PL8781631276","operator":"Gmina Ksi\u0105\u017cki","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 84772;126839"}},{"id":84772,"type":"Feature","geometry":{"type":"Point","coordinates":[19.06976,53.32713]},"properties":{"ref:rspo":84772,"official_name":"Przedszkole w Ksi\u0105\u017ckach","name":"Przedszkole w Ksi\u0105\u017ckach","addr:country":"PL","addr:postcode":"87-222","addr:city":"Ksi\u0105\u017cki","addr:street":"ul. Szkolna","addr:housenumber":"6","addr:teryt:simc":21970,"addr:teryt:sym_ul":845476,"contact:email":"spip@gminaksiazki.pl","ref:regon":"341351712","ref:vatin":"PL8781631276","operator":"Gmina Ksi\u0105\u017cki","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 60011"}},{"id":126839,"type":"Feature","geometry":{"type":"Point","coordinates":[19.06976,53.3271]},"properties":{"isced:level":"1;2","ref:rspo":126839,"official_name":"Szko\u0142a Podstawowa im. Henryka Sienkiewicza w Ksi\u0105\u017ckach","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"87-222","addr:city":"Ksi\u0105\u017cki","addr:street":"ul. Szkolna","addr:housenumber":"6","addr:teryt:simc":21970,"addr:teryt:sym_ul":845476,"contact:phone":"+48 566888151","contact:email":"spip@gminaksiazki.pl","ref:regon":"360803289","operator":"Gmina Ksi\u0105\u017cki","operator:type":"government","amenity":"school","note":"Parent RSPO: 60011"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 60011,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.06976,
+                    53.32716
+                ]
+            },
+            "properties": {
+                "ref:rspo": 60011,
+                "official_name": "Szko\u0142a Podstawowa I Przedszkole im. Henryka Sienkiewicza w Ksi\u0105\u017ckach",
+                "name": "Szko\u0142a Podstawowa I Przedszkole",
+                "addr:country": "PL",
+                "addr:postcode": "87-222",
+                "addr:city": "Ksi\u0105\u017cki",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "6",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 845476,
+                "contact:phone": "+48 566888151",
+                "contact:email": "spip@gminaksiazki.pl",
+                "contact:website": "https:\/\/spksiazki.edupage.org\/",
+                "ref:regon": "870586561",
+                "ref:vatin": "PL8781631276",
+                "operator": "Gmina Ksi\u0105\u017cki",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 84772;126839"
+            }
+        },
+        {
+            "id": 84772,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.06976,
+                    53.32713
+                ]
+            },
+            "properties": {
+                "ref:rspo": 84772,
+                "official_name": "Przedszkole w Ksi\u0105\u017ckach",
+                "name": "Przedszkole w Ksi\u0105\u017ckach",
+                "addr:country": "PL",
+                "addr:postcode": "87-222",
+                "addr:city": "Ksi\u0105\u017cki",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "6",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 845476,
+                "contact:email": "spip@gminaksiazki.pl",
+                "ref:regon": "341351712",
+                "ref:vatin": "PL8781631276",
+                "operator": "Gmina Ksi\u0105\u017cki",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 60011"
+            }
+        },
+        {
+            "id": 126839,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.06976,
+                    53.3271
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 126839,
+                "official_name": "Szko\u0142a Podstawowa im. Henryka Sienkiewicza w Ksi\u0105\u017ckach",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "87-222",
+                "addr:city": "Ksi\u0105\u017cki",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "6",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 845476,
+                "contact:phone": "+48 566888151",
+                "contact:email": "spip@gminaksiazki.pl",
+                "ref:regon": "360803289",
+                "operator": "Gmina Ksi\u0105\u017cki",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 60011"
+            }
+        }
+    ]
+}

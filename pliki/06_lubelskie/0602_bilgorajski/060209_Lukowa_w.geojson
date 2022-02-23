@@ -1,1 +1,66 @@
-{"type":"FeatureCollection","features":[{"id":103709,"type":"Feature","geometry":{"type":"Point","coordinates":[22.92951,50.3743]},"properties":{"isced:level":"1;2","ref:rspo":103709,"official_name":"Szko\u0142a Podstawowa im. Jana Paw\u0142a II w \u0141ukowej","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"23-412","addr:place":"\u0141ukowa","addr:housenumber":"341","addr:door":"341","addr:teryt:sym_ul":894316,"contact:phone":"+48 846874504","contact:email":"lukowa_szkp@op.pl","contact:website":"http:\/\/www.splukowa.szkolnastrona.pl","ref:regon":"000553012","ref:vatin":"PL9181770857","operator":"Gmina  \u0141ukowa","operator:type":"government","amenity":"school"}},{"id":86163,"type":"Feature","geometry":{"type":"Point","coordinates":[22.87605,50.39152]},"properties":{"isced:level":"1;2","ref:rspo":86163,"official_name":"Szko\u0142a Podstawowa im. Por. Edwarda B\u0142aszczaka Ps. \u201cGrom\u201d","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"23-412","addr:place":"Chmielek","addr:housenumber":"81","addr:teryt:sym_ul":894233,"contact:phone":"+48 846855165","contact:email":"dyrektor@sp-chmielek.pl","contact:website":"http:\/\/www.sp-chmielek.pl","ref:regon":"001135771","ref:vatin":"PL9181764182","operator":"Gmina  \u0141ukowa","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 103709,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.92951,
+                    50.3743
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 103709,
+                "official_name": "Szko\u0142a Podstawowa im. Jana Paw\u0142a II w \u0141ukowej",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "23-412",
+                "addr:place": "\u0141ukowa",
+                "addr:housenumber": "341",
+                "addr:door": "341",
+                "addr:teryt:sym_ul": 894316,
+                "contact:phone": "+48 846874504",
+                "contact:email": "lukowa_szkp@op.pl",
+                "contact:website": "http:\/\/www.splukowa.szkolnastrona.pl",
+                "ref:regon": "000553012",
+                "ref:vatin": "PL9181770857",
+                "operator": "Gmina  \u0141ukowa",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 86163,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.87605,
+                    50.39152
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 86163,
+                "official_name": "Szko\u0142a Podstawowa im. Por. Edwarda B\u0142aszczaka Ps. \u201cGrom\u201d",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "23-412",
+                "addr:place": "Chmielek",
+                "addr:housenumber": "81",
+                "addr:teryt:sym_ul": 894233,
+                "contact:phone": "+48 846855165",
+                "contact:email": "dyrektor@sp-chmielek.pl",
+                "contact:website": "http:\/\/www.sp-chmielek.pl",
+                "ref:regon": "001135771",
+                "ref:vatin": "PL9181764182",
+                "operator": "Gmina  \u0141ukowa",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

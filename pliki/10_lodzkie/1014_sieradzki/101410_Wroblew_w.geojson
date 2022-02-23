@@ -1,1 +1,154 @@
-{"type":"FeatureCollection","features":[{"id":17262,"type":"Feature","geometry":{"type":"Point","coordinates":[18.63851,51.57036]},"properties":{"isced:level":"1;2","ref:rspo":17262,"official_name":"Szko\u0142a Podstawowa im. W\u0142adys\u0142awa Stanis\u0142awa Reymonta w Char\u0142upi Wielkiej","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"98-285","addr:place":"Char\u0142upia Wielka","addr:housenumber":"116","addr:teryt:sym_ul":719458,"contact:phone":"+48 438212620","contact:email":"spchw@tlen.pl","contact:website":"http:\/\/www.spchw.szkolnastrona.pl","ref:regon":"001151037","ref:vatin":"PL8272027951","operator":"Gmina Wr\u00f3blew","operator:type":"government","amenity":"school"}},{"id":17424,"type":"Feature","geometry":{"type":"Point","coordinates":[18.5437,51.5954]},"properties":{"isced:level":"1;2","ref:rspo":17424,"official_name":"Szko\u0142a Podstawowa im. Tadeusza Ko\u015bciuszki w W\u0105g\u0142czewie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"98-285","addr:place":"W\u0105g\u0142czew","addr:housenumber":"4","addr:teryt:sym_ul":720036,"contact:phone":"+48 438213619","contact:email":"spwaglczew@poczta.onet.pl","contact:website":"http:\/\/spwaglczew.edupage.org","ref:regon":"001150888","ref:vatin":"PL8272227934","operator":"Gmina Wr\u00f3blew","operator:type":"government","amenity":"school"}},{"id":17584,"type":"Feature","geometry":{"type":"Point","coordinates":[18.6151916,51.6068244]},"properties":{"ref:rspo":17584,"official_name":"Publiczne Przedszkole im. \"Wr\u00f3belka Elemelka\" we Wr\u00f3blewie","name":"Publiczne Przedszkole","addr:country":"PL","addr:postcode":"98-285","addr:place":"Wr\u00f3blew","addr:housenumber":"55","addr:teryt:sym_ul":720071,"contact:phone":"+48 438213115","contact:email":"przedszkole.wroblew@op.pl","contact:website":"http:\/\/www.przedwroblew.szkolnastrona.pl","ref:regon":"731506676","ref:vatin":"PL8272284955","operator":"Gmina Wr\u00f3blew","operator:type":"government","amenity":"kindergarten"}},{"id":268302,"type":"Feature","geometry":{"type":"Point","coordinates":[18.61576,51.60709]},"properties":{"isced:level":"1;2","ref:rspo":268302,"official_name":"Szko\u0142a Podstawowa we Wr\u00f3blewie","name":"Szko\u0142a Podstawowa we Wr\u00f3blewie","addr:country":"PL","addr:postcode":"98-285","addr:place":"Wr\u00f3blew","addr:housenumber":"55B","addr:teryt:sym_ul":720071,"contact:phone":"+48 438213195","contact:email":"sekretariat@spwroblew.pl","contact:website":"http:\/\/pgwroblew.pl","ref:regon":"381070979","ref:vatin":"PL8272317991","operator":"Gmina Wr\u00f3blew","operator:type":"government","amenity":"school"}},{"id":17509,"type":"Feature","geometry":{"type":"Point","coordinates":[18.54592,51.63135]},"properties":{"isced:level":"1;2","ref:rspo":17509,"official_name":"Szko\u0142a Podstawowa w S\u0142omkowie Mokrym","name":"Szko\u0142a Podstawowa w S\u0142omkowie Mokrym","addr:country":"PL","addr:postcode":"98-285","addr:place":"S\u0142omk\u00f3w Mokry","addr:housenumber":"23","addr:teryt:sym_ul":719910,"contact:phone":"+48 438213610","contact:email":"sp_slomkow@poczta.onet.pl","contact:website":"http:\/\/spslomkow.wixsite.com\/home","ref:regon":"001150919","ref:vatin":"PL8272027276","operator":"Gmina Wr\u00f3blew","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 17262,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.63851,
+                    51.57036
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 17262,
+                "official_name": "Szko\u0142a Podstawowa im. W\u0142adys\u0142awa Stanis\u0142awa Reymonta w Char\u0142upi Wielkiej",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "98-285",
+                "addr:place": "Char\u0142upia Wielka",
+                "addr:housenumber": "116",
+                "addr:teryt:sym_ul": 719458,
+                "contact:phone": "+48 438212620",
+                "contact:email": "spchw@tlen.pl",
+                "contact:website": "http:\/\/www.spchw.szkolnastrona.pl",
+                "ref:regon": "001151037",
+                "ref:vatin": "PL8272027951",
+                "operator": "Gmina Wr\u00f3blew",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 17424,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.5437,
+                    51.5954
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 17424,
+                "official_name": "Szko\u0142a Podstawowa im. Tadeusza Ko\u015bciuszki w W\u0105g\u0142czewie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "98-285",
+                "addr:place": "W\u0105g\u0142czew",
+                "addr:housenumber": "4",
+                "addr:teryt:sym_ul": 720036,
+                "contact:phone": "+48 438213619",
+                "contact:email": "spwaglczew@poczta.onet.pl",
+                "contact:website": "http:\/\/spwaglczew.edupage.org",
+                "ref:regon": "001150888",
+                "ref:vatin": "PL8272227934",
+                "operator": "Gmina Wr\u00f3blew",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 17584,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.6151916,
+                    51.6068244
+                ]
+            },
+            "properties": {
+                "ref:rspo": 17584,
+                "official_name": "Publiczne Przedszkole im. \"Wr\u00f3belka Elemelka\" we Wr\u00f3blewie",
+                "name": "Publiczne Przedszkole",
+                "addr:country": "PL",
+                "addr:postcode": "98-285",
+                "addr:place": "Wr\u00f3blew",
+                "addr:housenumber": "55",
+                "addr:teryt:sym_ul": 720071,
+                "contact:phone": "+48 438213115",
+                "contact:email": "przedszkole.wroblew@op.pl",
+                "contact:website": "http:\/\/www.przedwroblew.szkolnastrona.pl",
+                "ref:regon": "731506676",
+                "ref:vatin": "PL8272284955",
+                "operator": "Gmina Wr\u00f3blew",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 268302,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.61576,
+                    51.60709
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 268302,
+                "official_name": "Szko\u0142a Podstawowa we Wr\u00f3blewie",
+                "name": "Szko\u0142a Podstawowa we Wr\u00f3blewie",
+                "addr:country": "PL",
+                "addr:postcode": "98-285",
+                "addr:place": "Wr\u00f3blew",
+                "addr:housenumber": "55B",
+                "addr:teryt:sym_ul": 720071,
+                "contact:phone": "+48 438213195",
+                "contact:email": "sekretariat@spwroblew.pl",
+                "contact:website": "http:\/\/pgwroblew.pl",
+                "ref:regon": "381070979",
+                "ref:vatin": "PL8272317991",
+                "operator": "Gmina Wr\u00f3blew",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 17509,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.54592,
+                    51.63135
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 17509,
+                "official_name": "Szko\u0142a Podstawowa w S\u0142omkowie Mokrym",
+                "name": "Szko\u0142a Podstawowa w S\u0142omkowie Mokrym",
+                "addr:country": "PL",
+                "addr:postcode": "98-285",
+                "addr:place": "S\u0142omk\u00f3w Mokry",
+                "addr:housenumber": "23",
+                "addr:teryt:sym_ul": 719910,
+                "contact:phone": "+48 438213610",
+                "contact:email": "sp_slomkow@poczta.onet.pl",
+                "contact:website": "http:\/\/spslomkow.wixsite.com\/home",
+                "ref:regon": "001150919",
+                "ref:vatin": "PL8272027276",
+                "operator": "Gmina Wr\u00f3blew",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

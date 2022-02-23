@@ -1,1 +1,191 @@
-{"type":"FeatureCollection","features":[{"id":17140,"type":"Feature","geometry":{"type":"Point","coordinates":[19.12718,52.21993]},"properties":{"isced:level":"1;2","ref:rspo":17140,"official_name":"Szko\u0142a Podstawowa Fundacji \"Elementarz\" Z Oddzia\u0142em Przedszkolnym w Jankowicach","name":"Szko\u0142a Podstawowa Fundacji \"Elementarz\" Z Oddzia\u0142em Przedszkolnym w Jankowicach","addr:country":"PL","addr:postcode":"99-340","addr:place":"Jankowice","addr:housenumber":"32","addr:teryt:sym_ul":567362,"contact:phone":"+48 242523064","contact:email":"sp.jankowice@elementarz.edu.pl","contact:website":"http:\/\/spjankowice.ucoz.pl","ref:regon":"101472850","ref:vatin":"PL7752641544","operator":"Fundacja Ekologiczna - Wychowanie I Sztuka \"Elementarz\"","operator:type":"ngo","amenity":"school"}},{"id":17041,"type":"Feature","geometry":{"type":"Point","coordinates":[19.22661,52.24043]},"properties":{"isced:level":"1;2","ref:rspo":17041,"official_name":"Szko\u0142a Podstawowa im. Gen. W\u0142adys\u0142awa Andersa w Nowem","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"99-340","addr:place":"Nowe","addr:housenumber":"36","addr:teryt:sym_ul":567505,"contact:phone":"+48 242523178","contact:email":"sekretariat@sp-nowe.krosniewice.pl","contact:website":"http:\/\/www.spnowe.wikom.pl","ref:regon":"001115120","ref:vatin":"PL7751182063","operator":"Gmina Kro\u015bniewice","operator:type":"government","amenity":"school"}},{"id":269061,"type":"Feature","geometry":{"type":"Point","coordinates":[19.16983,52.25047]},"properties":{"isced:level":"4","ref:rspo":269061,"official_name":"Szko\u0142a Policealna Nr 5 w Kutnie Z Siedzib\u0105 w Kro\u015bniewicach","name":"Szko\u0142a Policealna Nr 5 w Kutnie Z Siedzib\u0105 w Kro\u015bniewicach","addr:country":"PL","addr:postcode":"99-340","addr:city":"Kro\u015bniewice","addr:street":"ul. \u0141\u0119czycka","addr:housenumber":"19a","addr:teryt:simc":11607,"addr:teryt:sym_ul":969095,"contact:phone":"+48 242533518","contact:website":"http:\/\/ckukutno.pl","ref:regon":"381350822","operator":"Powiat Kutnowski","operator:type":"government","amenity":"college","note":"Parent RSPO: 29703"}},{"id":3025,"type":"Feature","geometry":{"type":"Point","coordinates":[19.1702578,52.2507486]},"properties":{"isced:level":"3","ref:rspo":3025,"official_name":"Liceum Og\u00f3lnokszta\u0142c\u0105ce w Kro\u015bniewicach","name":"Liceum Og\u00f3lnokszta\u0142c\u0105ce w Kro\u015bniewicach","addr:country":"PL","addr:postcode":"99-340","addr:city":"Kro\u015bniewice","addr:street":"ul. \u0141\u0119czycka","addr:housenumber":"17","addr:teryt:simc":11607,"addr:teryt:sym_ul":969095,"contact:phone":"+48 242523089","contact:email":"lokrosniewice@op.pl","contact:website":"http:\/\/lokrosniewice.pl","ref:regon":"000206902","ref:vatin":"PL7751315009","operator":"Gmina Kro\u015bniewice","operator:type":"government","amenity":"school"}},{"id":16820,"type":"Feature","geometry":{"type":"Point","coordinates":[19.1702578,52.2507186]},"properties":{"isced:level":"1;2","ref:rspo":16820,"official_name":"Szko\u0142a Podstawowa Nr 1 w Kro\u015bniewicach","name":"Szko\u0142a Podstawowa Nr 1 w Kro\u015bniewicach","addr:country":"PL","addr:postcode":"99-340","addr:city":"Kro\u015bniewice","addr:street":"ul. \u0141\u0119czycka","addr:housenumber":"17","addr:teryt:simc":11607,"addr:teryt:sym_ul":969095,"contact:phone":"+48 242523027","contact:email":"szkolajedynka1@poczta.onet.pl","contact:website":"http:\/\/sp1.krosniewice.pl","ref:regon":"000261611","ref:vatin":"PL7751181951","operator":"Gmina Kro\u015bniewice","operator:type":"government","amenity":"school"}},{"id":17040,"type":"Feature","geometry":{"type":"Point","coordinates":[19.17263,52.25174]},"properties":{"ref:rspo":17040,"official_name":"Miejskie Przedszkole w Kro\u015bniewicach","name":"Miejskie Przedszkole w Kro\u015bniewicach","addr:country":"PL","addr:postcode":"99-340","addr:city":"Kro\u015bniewice","addr:street":"ul. Adama Mickiewicza","addr:housenumber":"2","addr:teryt:simc":12740,"addr:teryt:sym_ul":969095,"contact:phone":"+48 242523022","contact:email":"przedszkolekros@poczta.internetdsl.pl","contact:website":"http:\/\/www.mp.krosniewice.pl\/","ref:regon":"000903601","ref:vatin":"PL7752479730","operator":"Gmina Kro\u015bniewice","operator:type":"government","amenity":"kindergarten"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 17140,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.12718,
+                    52.21993
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 17140,
+                "official_name": "Szko\u0142a Podstawowa Fundacji \"Elementarz\" Z Oddzia\u0142em Przedszkolnym w Jankowicach",
+                "name": "Szko\u0142a Podstawowa Fundacji \"Elementarz\" Z Oddzia\u0142em Przedszkolnym w Jankowicach",
+                "addr:country": "PL",
+                "addr:postcode": "99-340",
+                "addr:place": "Jankowice",
+                "addr:housenumber": "32",
+                "addr:teryt:sym_ul": 567362,
+                "contact:phone": "+48 242523064",
+                "contact:email": "sp.jankowice@elementarz.edu.pl",
+                "contact:website": "http:\/\/spjankowice.ucoz.pl",
+                "ref:regon": "101472850",
+                "ref:vatin": "PL7752641544",
+                "operator": "Fundacja Ekologiczna - Wychowanie I Sztuka \"Elementarz\"",
+                "operator:type": "ngo",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 17041,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.22661,
+                    52.24043
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 17041,
+                "official_name": "Szko\u0142a Podstawowa im. Gen. W\u0142adys\u0142awa Andersa w Nowem",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "99-340",
+                "addr:place": "Nowe",
+                "addr:housenumber": "36",
+                "addr:teryt:sym_ul": 567505,
+                "contact:phone": "+48 242523178",
+                "contact:email": "sekretariat@sp-nowe.krosniewice.pl",
+                "contact:website": "http:\/\/www.spnowe.wikom.pl",
+                "ref:regon": "001115120",
+                "ref:vatin": "PL7751182063",
+                "operator": "Gmina Kro\u015bniewice",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 269061,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.16983,
+                    52.25047
+                ]
+            },
+            "properties": {
+                "isced:level": "4",
+                "ref:rspo": 269061,
+                "official_name": "Szko\u0142a Policealna Nr 5 w Kutnie Z Siedzib\u0105 w Kro\u015bniewicach",
+                "name": "Szko\u0142a Policealna Nr 5 w Kutnie Z Siedzib\u0105 w Kro\u015bniewicach",
+                "addr:country": "PL",
+                "addr:postcode": "99-340",
+                "addr:city": "Kro\u015bniewice",
+                "addr:street": "ul. \u0141\u0119czycka",
+                "addr:housenumber": "19a",
+                "addr:teryt:simc": 11607,
+                "addr:teryt:sym_ul": 969095,
+                "contact:phone": "+48 242533518",
+                "contact:website": "http:\/\/ckukutno.pl",
+                "ref:regon": "381350822",
+                "operator": "Powiat Kutnowski",
+                "operator:type": "government",
+                "amenity": "college",
+                "note": "Parent RSPO: 29703"
+            }
+        },
+        {
+            "id": 3025,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.1702578,
+                    52.2507486
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 3025,
+                "official_name": "Liceum Og\u00f3lnokszta\u0142c\u0105ce w Kro\u015bniewicach",
+                "name": "Liceum Og\u00f3lnokszta\u0142c\u0105ce w Kro\u015bniewicach",
+                "addr:country": "PL",
+                "addr:postcode": "99-340",
+                "addr:city": "Kro\u015bniewice",
+                "addr:street": "ul. \u0141\u0119czycka",
+                "addr:housenumber": "17",
+                "addr:teryt:simc": 11607,
+                "addr:teryt:sym_ul": 969095,
+                "contact:phone": "+48 242523089",
+                "contact:email": "lokrosniewice@op.pl",
+                "contact:website": "http:\/\/lokrosniewice.pl",
+                "ref:regon": "000206902",
+                "ref:vatin": "PL7751315009",
+                "operator": "Gmina Kro\u015bniewice",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 16820,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.1702578,
+                    52.2507186
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 16820,
+                "official_name": "Szko\u0142a Podstawowa Nr 1 w Kro\u015bniewicach",
+                "name": "Szko\u0142a Podstawowa Nr 1 w Kro\u015bniewicach",
+                "addr:country": "PL",
+                "addr:postcode": "99-340",
+                "addr:city": "Kro\u015bniewice",
+                "addr:street": "ul. \u0141\u0119czycka",
+                "addr:housenumber": "17",
+                "addr:teryt:simc": 11607,
+                "addr:teryt:sym_ul": 969095,
+                "contact:phone": "+48 242523027",
+                "contact:email": "szkolajedynka1@poczta.onet.pl",
+                "contact:website": "http:\/\/sp1.krosniewice.pl",
+                "ref:regon": "000261611",
+                "ref:vatin": "PL7751181951",
+                "operator": "Gmina Kro\u015bniewice",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 17040,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.17263,
+                    52.25174
+                ]
+            },
+            "properties": {
+                "ref:rspo": 17040,
+                "official_name": "Miejskie Przedszkole w Kro\u015bniewicach",
+                "name": "Miejskie Przedszkole w Kro\u015bniewicach",
+                "addr:country": "PL",
+                "addr:postcode": "99-340",
+                "addr:city": "Kro\u015bniewice",
+                "addr:street": "ul. Adama Mickiewicza",
+                "addr:housenumber": "2",
+                "addr:teryt:simc": 12740,
+                "addr:teryt:sym_ul": 969095,
+                "contact:phone": "+48 242523022",
+                "contact:email": "przedszkolekros@poczta.internetdsl.pl",
+                "contact:website": "http:\/\/www.mp.krosniewice.pl\/",
+                "ref:regon": "000903601",
+                "ref:vatin": "PL7752479730",
+                "operator": "Gmina Kro\u015bniewice",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        }
+    ]
+}

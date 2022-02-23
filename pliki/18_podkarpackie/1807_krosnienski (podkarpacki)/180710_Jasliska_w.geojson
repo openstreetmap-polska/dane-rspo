@@ -1,1 +1,34 @@
-{"type":"FeatureCollection","features":[{"id":73026,"type":"Feature","geometry":{"type":"Point","coordinates":[21.80775,49.43833]},"properties":{"isced:level":"1;2","ref:rspo":73026,"official_name":"Szko\u0142a Podstawowa w Ja\u015bliskach","name":"Szko\u0142a Podstawowa w Ja\u015bliskach","addr:country":"PL","addr:postcode":"38-485","addr:place":"Ja\u015bliska","addr:housenumber":"170","addr:teryt:sym_ul":349524,"contact:phone":"+48 134310225","contact:email":"zspjasliska@onet.pl","ref:regon":"001200267","ref:vatin":"PL6842053767","operator":"Gmina Ja\u015bliska","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 73026,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.80775,
+                    49.43833
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 73026,
+                "official_name": "Szko\u0142a Podstawowa w Ja\u015bliskach",
+                "name": "Szko\u0142a Podstawowa w Ja\u015bliskach",
+                "addr:country": "PL",
+                "addr:postcode": "38-485",
+                "addr:place": "Ja\u015bliska",
+                "addr:housenumber": "170",
+                "addr:teryt:sym_ul": 349524,
+                "contact:phone": "+48 134310225",
+                "contact:email": "zspjasliska@onet.pl",
+                "ref:regon": "001200267",
+                "ref:vatin": "PL6842053767",
+                "operator": "Gmina Ja\u015bliska",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

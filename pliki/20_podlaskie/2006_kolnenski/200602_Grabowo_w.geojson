@@ -1,1 +1,95 @@
-{"type":"FeatureCollection","features":[{"id":27629,"type":"Feature","geometry":{"type":"Point","coordinates":[22.14768,53.43027]},"properties":{"isced:level":"1;2","ref:rspo":27629,"official_name":"Szko\u0142a Podstawowa w Konopkach Monetach","name":"Szko\u0142a Podstawowa w Konopkach Monetach","addr:country":"PL","addr:postcode":"18-507","addr:place":"Konopki-Monety","addr:housenumber":"39","addr:teryt:sym_ul":397090,"contact:phone":"+48 862790253","contact:email":"sp_konopkimonety@interia.pl","ref:regon":"001118956","ref:vatin":"PL2910083716","operator":"Gmina Grabowo","operator:type":"government","amenity":"school"}},{"id":34872,"type":"Feature","geometry":{"type":"Point","coordinates":[22.15364,53.46847]},"properties":{"isced:level":"1;2","ref:rspo":34872,"official_name":"Szko\u0142a Podstawowa im. Antoniego I Jakuba Wag\u00f3w","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"18-507","addr:city":"Grabowo","addr:street":"ul. Szkolna","addr:housenumber":"7","addr:teryt:simc":21970,"addr:teryt:sym_ul":397010,"contact:phone":"+48 862790059","contact:email":"zs_grabowo@interia.pl","contact:website":"http:\/\/www.szkolagrabowo.szkolnastrona.pl","ref:regon":"000562011","ref:vatin":"PL2910136186","operator":"Gmina Grabowo","operator:type":"government","amenity":"school"}},{"id":34714,"type":"Feature","geometry":{"type":"Point","coordinates":[22.21143,53.50294]},"properties":{"isced:level":"1;2","ref:rspo":34714,"official_name":"Szko\u0142a Podstawowa w Sura\u0142ach","name":"Szko\u0142a Podstawowa w Sura\u0142ach","addr:country":"PL","addr:postcode":"18-507","addr:place":"Sura\u0142y","addr:housenumber":"22","addr:teryt:sym_ul":397285,"contact:phone":"+48 862790301","contact:email":"rogowskaelzbieta@o2.pl","ref:regon":"001118940","ref:vatin":"PL2910083685","operator":"Gmina Grabowo","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 27629,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.14768,
+                    53.43027
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 27629,
+                "official_name": "Szko\u0142a Podstawowa w Konopkach Monetach",
+                "name": "Szko\u0142a Podstawowa w Konopkach Monetach",
+                "addr:country": "PL",
+                "addr:postcode": "18-507",
+                "addr:place": "Konopki-Monety",
+                "addr:housenumber": "39",
+                "addr:teryt:sym_ul": 397090,
+                "contact:phone": "+48 862790253",
+                "contact:email": "sp_konopkimonety@interia.pl",
+                "ref:regon": "001118956",
+                "ref:vatin": "PL2910083716",
+                "operator": "Gmina Grabowo",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 34872,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.15364,
+                    53.46847
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 34872,
+                "official_name": "Szko\u0142a Podstawowa im. Antoniego I Jakuba Wag\u00f3w",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "18-507",
+                "addr:city": "Grabowo",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "7",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 397010,
+                "contact:phone": "+48 862790059",
+                "contact:email": "zs_grabowo@interia.pl",
+                "contact:website": "http:\/\/www.szkolagrabowo.szkolnastrona.pl",
+                "ref:regon": "000562011",
+                "ref:vatin": "PL2910136186",
+                "operator": "Gmina Grabowo",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 34714,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.21143,
+                    53.50294
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 34714,
+                "official_name": "Szko\u0142a Podstawowa w Sura\u0142ach",
+                "name": "Szko\u0142a Podstawowa w Sura\u0142ach",
+                "addr:country": "PL",
+                "addr:postcode": "18-507",
+                "addr:place": "Sura\u0142y",
+                "addr:housenumber": "22",
+                "addr:teryt:sym_ul": 397285,
+                "contact:phone": "+48 862790301",
+                "contact:email": "rogowskaelzbieta@o2.pl",
+                "ref:regon": "001118940",
+                "ref:vatin": "PL2910083685",
+                "operator": "Gmina Grabowo",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

@@ -1,1 +1,153 @@
-{"type":"FeatureCollection","features":[{"id":12635,"type":"Feature","geometry":{"type":"Point","coordinates":[19.71453,53.32345]},"properties":{"isced:level":"1;2","ref:rspo":12635,"official_name":"Szko\u0142a Podstwowa w Boleszynie","name":"Szko\u0142a Podstwowa w Boleszynie","addr:country":"PL","addr:postcode":"13-324","addr:place":"Boleszyn","addr:housenumber":"12B","addr:teryt:sym_ul":843951,"contact:phone":"+48 564741114","contact:email":"spboleszyn@op.pl","ref:regon":"001212490","ref:vatin":"PL8771397577","operator":"Gmina Grodziczno","operator:type":"government","amenity":"school"}},{"id":20691,"type":"Feature","geometry":{"type":"Point","coordinates":[19.7021,53.3545]},"properties":{"isced:level":"1;2","ref:rspo":20691,"official_name":"Szko\u0142a Podstawowa w Mrocznie","name":"Szko\u0142a Podstawowa w Mrocznie","addr:country":"PL","addr:postcode":"13-324","addr:place":"Mroczno","addr:housenumber":"22A","addr:teryt:sym_ul":844063,"contact:phone":"+48 564741110","contact:email":"spmroczno@wp.pl","contact:website":"http:\/\/www.spmroczno.edupage.org","ref:regon":"001212508","ref:vatin":"PL8771454134","operator":"Gmina Grodziczno","operator:type":"government","amenity":"school"}},{"id":20689,"type":"Feature","geometry":{"type":"Point","coordinates":[19.75363,53.4099]},"properties":{"isced:level":"1;2","ref:rspo":20689,"official_name":"Szko\u0142a Podstawowa w Nowym Grodzicznie","name":"Szko\u0142a Podstawowa w Nowym Grodzicznie","addr:country":"PL","addr:postcode":"13-324","addr:place":"Nowe Grodziczno","addr:housenumber":"83","addr:teryt:sym_ul":844070,"contact:phone":"+48 564729151","contact:email":"spnowegrodziczno@grodziczno.pl","contact:website":"http:\/\/www.spnowegrodziczno.edupage.org","ref:regon":"000598279","ref:vatin":"PL8771454128","operator":"Gmina Grodziczno","operator:type":"government","amenity":"school"}},{"id":12712,"type":"Feature","geometry":{"type":"Point","coordinates":[19.84461,53.4379]},"properties":{"isced:level":"1;2","ref:rspo":12712,"official_name":"Szko\u0142a Podstawowa w Zwiniarzu","name":"Szko\u0142a Podstawowa w Zwiniarzu","addr:country":"PL","addr:postcode":"13-324","addr:place":"Zwiniarz","addr:housenumber":"4A","addr:teryt:sym_ul":844146,"contact:phone":"+48 896450497","contact:email":"spzwiniarz@grodziczno.pl","ref:regon":"001212477","ref:vatin":"PL8771397531","operator":"Gmina Grodziczno","operator:type":"government","amenity":"school"}},{"id":12700,"type":"Feature","geometry":{"type":"Point","coordinates":[19.7146,53.44241]},"properties":{"isced:level":"1;2","ref:rspo":12700,"official_name":"Szko\u0142a Podstawowa w Zaj\u0105czkowie","name":"Szko\u0142a Podstawowa w Zaj\u0105czkowie","addr:country":"PL","addr:postcode":"13-324","addr:place":"Zaj\u0105czkowo","addr:housenumber":"21A","addr:teryt:sym_ul":844123,"contact:phone":"+48 564741223","contact:email":"sp.zajac@interia.pl","contact:website":"https:\/\/spzajac.edupage.org\/","ref:regon":"001212454","ref:vatin":"PL8771397548","operator":"Gmina Grodziczno","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 12635,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.71453,
+                    53.32345
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 12635,
+                "official_name": "Szko\u0142a Podstwowa w Boleszynie",
+                "name": "Szko\u0142a Podstwowa w Boleszynie",
+                "addr:country": "PL",
+                "addr:postcode": "13-324",
+                "addr:place": "Boleszyn",
+                "addr:housenumber": "12B",
+                "addr:teryt:sym_ul": 843951,
+                "contact:phone": "+48 564741114",
+                "contact:email": "spboleszyn@op.pl",
+                "ref:regon": "001212490",
+                "ref:vatin": "PL8771397577",
+                "operator": "Gmina Grodziczno",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 20691,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.7021,
+                    53.3545
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 20691,
+                "official_name": "Szko\u0142a Podstawowa w Mrocznie",
+                "name": "Szko\u0142a Podstawowa w Mrocznie",
+                "addr:country": "PL",
+                "addr:postcode": "13-324",
+                "addr:place": "Mroczno",
+                "addr:housenumber": "22A",
+                "addr:teryt:sym_ul": 844063,
+                "contact:phone": "+48 564741110",
+                "contact:email": "spmroczno@wp.pl",
+                "contact:website": "http:\/\/www.spmroczno.edupage.org",
+                "ref:regon": "001212508",
+                "ref:vatin": "PL8771454134",
+                "operator": "Gmina Grodziczno",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 20689,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.75363,
+                    53.4099
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 20689,
+                "official_name": "Szko\u0142a Podstawowa w Nowym Grodzicznie",
+                "name": "Szko\u0142a Podstawowa w Nowym Grodzicznie",
+                "addr:country": "PL",
+                "addr:postcode": "13-324",
+                "addr:place": "Nowe Grodziczno",
+                "addr:housenumber": "83",
+                "addr:teryt:sym_ul": 844070,
+                "contact:phone": "+48 564729151",
+                "contact:email": "spnowegrodziczno@grodziczno.pl",
+                "contact:website": "http:\/\/www.spnowegrodziczno.edupage.org",
+                "ref:regon": "000598279",
+                "ref:vatin": "PL8771454128",
+                "operator": "Gmina Grodziczno",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 12712,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.84461,
+                    53.4379
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 12712,
+                "official_name": "Szko\u0142a Podstawowa w Zwiniarzu",
+                "name": "Szko\u0142a Podstawowa w Zwiniarzu",
+                "addr:country": "PL",
+                "addr:postcode": "13-324",
+                "addr:place": "Zwiniarz",
+                "addr:housenumber": "4A",
+                "addr:teryt:sym_ul": 844146,
+                "contact:phone": "+48 896450497",
+                "contact:email": "spzwiniarz@grodziczno.pl",
+                "ref:regon": "001212477",
+                "ref:vatin": "PL8771397531",
+                "operator": "Gmina Grodziczno",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 12700,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.7146,
+                    53.44241
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 12700,
+                "official_name": "Szko\u0142a Podstawowa w Zaj\u0105czkowie",
+                "name": "Szko\u0142a Podstawowa w Zaj\u0105czkowie",
+                "addr:country": "PL",
+                "addr:postcode": "13-324",
+                "addr:place": "Zaj\u0105czkowo",
+                "addr:housenumber": "21A",
+                "addr:teryt:sym_ul": 844123,
+                "contact:phone": "+48 564741223",
+                "contact:email": "sp.zajac@interia.pl",
+                "contact:website": "https:\/\/spzajac.edupage.org\/",
+                "ref:regon": "001212454",
+                "ref:vatin": "PL8771397548",
+                "operator": "Gmina Grodziczno",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

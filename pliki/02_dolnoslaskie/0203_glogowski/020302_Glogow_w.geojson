@@ -1,1 +1,164 @@
-{"type":"FeatureCollection","features":[{"id":8920,"type":"Feature","geometry":{"type":"Point","coordinates":[16.15991,51.62881]},"properties":{"isced:level":"1;2","ref:rspo":8920,"official_name":"Szko\u0142a Podstawowa Im Jana Paw\u0142a II w Przedmo\u015bciu","name":"Szko\u0142a Podstawowa Im Jana Paw\u0142a II w Przedmo\u015bciu","addr:country":"PL","addr:postcode":"67-210","addr:city":"Przedmo\u015bcie","addr:street":"ul. Szkolna","addr:housenumber":"3","addr:teryt:simc":21970,"addr:teryt:sym_ul":363843,"contact:phone":"+48 768317637","contact:email":"szkola@przedmoscie.edu.pl","contact:website":"https:\/\/przedmoscie.edu.pl\/","ref:regon":"390728788","ref:vatin":"PL6931892239","operator":"Gmina G\u0142og\u00f3w","operator:type":"government","amenity":"school"}},{"id":271956,"type":"Feature","geometry":{"type":"Point","coordinates":[16.10641,51.68298]},"properties":{"ref:rspo":271956,"official_name":"Zesp\u00f3\u0142 Szkolno- Przedszkolny w Serbach","name":"Zesp\u00f3\u0142 Szkolno- Przedszkolny w Serbach","addr:country":"PL","addr:postcode":"67-210","addr:city":"Serby","addr:street":"ul. Ogrodowa","addr:housenumber":"18","addr:teryt:simc":14834,"addr:teryt:sym_ul":363866,"contact:phone":"+48 768331313","contact:email":"zsp@serby.edu.pl","contact:website":"https:\/\/spserby.edupage.org\/","ref:regon":"383833915","operator":"Gmina G\u0142og\u00f3w","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 8918;10011"}},{"id":8918,"type":"Feature","geometry":{"type":"Point","coordinates":[16.10641,51.68295]},"properties":{"isced:level":"1;2","ref:rspo":8918,"official_name":"Szko\u0142a Podstawowa im. Miko\u0142aja Kopernika w Serbach","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"67-210","addr:city":"Serby","addr:street":"ul. Ogrodowa","addr:housenumber":"18","addr:teryt:simc":14834,"addr:teryt:sym_ul":363866,"contact:phone":"+48 768331313","contact:email":"zsp@serby.edu.pl","ref:regon":"390934921","ref:vatin":"PL6931964217","operator":"Gmina G\u0142og\u00f3w","operator:type":"government","amenity":"school","note":"Parent RSPO: 271956"}},{"id":10011,"type":"Feature","geometry":{"type":"Point","coordinates":[16.10641,51.68292]},"properties":{"ref:rspo":10011,"official_name":"Publiczne Przedszkole w Serbach","name":"Publiczne Przedszkole w Serbach","addr:country":"PL","addr:postcode":"67-210","addr:city":"Serby","addr:street":"ul. Ogrodowa","addr:housenumber":"18","addr:teryt:simc":14834,"addr:teryt:sym_ul":363866,"contact:phone":"+48 768331313","contact:email":"zsp@serby.edu.pl","ref:regon":"001020737","ref:vatin":"PL6931013781","operator":"Gmina G\u0142og\u00f3w","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 271956"}},{"id":10013,"type":"Feature","geometry":{"type":"Point","coordinates":[16.20178,51.69615]},"properties":{"isced:level":"1;2","ref:rspo":10013,"official_name":"Szko\u0142a Podstawowa im. Or\u0142a Bia\u0142ego w Wilkowie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"67-200","addr:city":"Wilk\u00f3w","addr:street":"ul. G\u0142ogowska","addr:housenumber":"5a","addr:teryt:simc":5614,"addr:teryt:sym_ul":363903,"contact:phone":"+48 768331670","contact:email":"wilkowsp@wp.pl","contact:website":"http:\/\/www.wilkow.edu.pl","ref:regon":"390728771","ref:vatin":"PL6931892245","operator":"Gmina G\u0142og\u00f3w","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 8920,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.15991,
+                    51.62881
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 8920,
+                "official_name": "Szko\u0142a Podstawowa Im Jana Paw\u0142a II w Przedmo\u015bciu",
+                "name": "Szko\u0142a Podstawowa Im Jana Paw\u0142a II w Przedmo\u015bciu",
+                "addr:country": "PL",
+                "addr:postcode": "67-210",
+                "addr:city": "Przedmo\u015bcie",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "3",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 363843,
+                "contact:phone": "+48 768317637",
+                "contact:email": "szkola@przedmoscie.edu.pl",
+                "contact:website": "https:\/\/przedmoscie.edu.pl\/",
+                "ref:regon": "390728788",
+                "ref:vatin": "PL6931892239",
+                "operator": "Gmina G\u0142og\u00f3w",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 271956,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.10641,
+                    51.68298
+                ]
+            },
+            "properties": {
+                "ref:rspo": 271956,
+                "official_name": "Zesp\u00f3\u0142 Szkolno- Przedszkolny w Serbach",
+                "name": "Zesp\u00f3\u0142 Szkolno- Przedszkolny w Serbach",
+                "addr:country": "PL",
+                "addr:postcode": "67-210",
+                "addr:city": "Serby",
+                "addr:street": "ul. Ogrodowa",
+                "addr:housenumber": "18",
+                "addr:teryt:simc": 14834,
+                "addr:teryt:sym_ul": 363866,
+                "contact:phone": "+48 768331313",
+                "contact:email": "zsp@serby.edu.pl",
+                "contact:website": "https:\/\/spserby.edupage.org\/",
+                "ref:regon": "383833915",
+                "operator": "Gmina G\u0142og\u00f3w",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 8918;10011"
+            }
+        },
+        {
+            "id": 8918,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.10641,
+                    51.68295
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 8918,
+                "official_name": "Szko\u0142a Podstawowa im. Miko\u0142aja Kopernika w Serbach",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "67-210",
+                "addr:city": "Serby",
+                "addr:street": "ul. Ogrodowa",
+                "addr:housenumber": "18",
+                "addr:teryt:simc": 14834,
+                "addr:teryt:sym_ul": 363866,
+                "contact:phone": "+48 768331313",
+                "contact:email": "zsp@serby.edu.pl",
+                "ref:regon": "390934921",
+                "ref:vatin": "PL6931964217",
+                "operator": "Gmina G\u0142og\u00f3w",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 271956"
+            }
+        },
+        {
+            "id": 10011,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.10641,
+                    51.68292
+                ]
+            },
+            "properties": {
+                "ref:rspo": 10011,
+                "official_name": "Publiczne Przedszkole w Serbach",
+                "name": "Publiczne Przedszkole w Serbach",
+                "addr:country": "PL",
+                "addr:postcode": "67-210",
+                "addr:city": "Serby",
+                "addr:street": "ul. Ogrodowa",
+                "addr:housenumber": "18",
+                "addr:teryt:simc": 14834,
+                "addr:teryt:sym_ul": 363866,
+                "contact:phone": "+48 768331313",
+                "contact:email": "zsp@serby.edu.pl",
+                "ref:regon": "001020737",
+                "ref:vatin": "PL6931013781",
+                "operator": "Gmina G\u0142og\u00f3w",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 271956"
+            }
+        },
+        {
+            "id": 10013,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.20178,
+                    51.69615
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 10013,
+                "official_name": "Szko\u0142a Podstawowa im. Or\u0142a Bia\u0142ego w Wilkowie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "67-200",
+                "addr:city": "Wilk\u00f3w",
+                "addr:street": "ul. G\u0142ogowska",
+                "addr:housenumber": "5a",
+                "addr:teryt:simc": 5614,
+                "addr:teryt:sym_ul": 363903,
+                "contact:phone": "+48 768331670",
+                "contact:email": "wilkowsp@wp.pl",
+                "contact:website": "http:\/\/www.wilkow.edu.pl",
+                "ref:regon": "390728771",
+                "ref:vatin": "PL6931892245",
+                "operator": "Gmina G\u0142og\u00f3w",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

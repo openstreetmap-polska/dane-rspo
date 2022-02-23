@@ -1,1 +1,126 @@
-{"type":"FeatureCollection","features":[{"id":277817,"type":"Feature","geometry":{"type":"Point","coordinates":[14.65853,52.93027]},"properties":{"isced:level":"1;2","ref:rspo":277817,"official_name":"Szko\u0142a Filialna w Sto\u0142ecznej Szko\u0142y Podstawowej Im Marka Kot\u0144skiego w G\u00f3ralicach","name":"Szko\u0142a Filialna w Sto\u0142ecznej Szko\u0142y Podstawowej Im Marka Kot\u0144skiego w G\u00f3ralicach","addr:country":"PL","addr:postcode":"74-510","addr:place":"Sto\u0142eczna","addr:housenumber":"9","addr:teryt:sym_ul":784533,"contact:phone":"+48 914148323","contact:email":"spstoleczna@op.pl","ref:regon":"368069417","operator":"Gmina Trzci\u0144sko Zdr\u00f3j","operator:type":"government","amenity":"school","note":"Parent RSPO: 262886"}},{"id":22791,"type":"Feature","geometry":{"type":"Point","coordinates":[14.60713,52.96516]},"properties":{"ref:rspo":22791,"official_name":"Przedszkole Miejskie w Trzci\u0144sku-Zdroju im. Le\u015bne Skrzaty","name":"Przedszkole Miejskie w Trzci\u0144sku-Zdroju","addr:country":"PL","addr:postcode":"74-510","addr:city":"Trzci\u0144sko-Zdr\u00f3j","addr:street":"ul. Ko\u015bciuszki","addr:housenumber":"7","addr:teryt:simc":9572,"addr:teryt:sym_ul":979952,"contact:phone":"+48 914148114","contact:email":"przedszkole@trzcinsko-zdroj.pl","contact:website":"http:\/\/przedszkoletrzcinsko.pl\/","ref:regon":"320928065","operator":"Gmina Trzci\u0144sko Zdr\u00f3j","operator:type":"government","amenity":"kindergarten"}},{"id":22435,"type":"Feature","geometry":{"type":"Point","coordinates":[14.60785,52.96665]},"properties":{"isced:level":"1;2","ref:rspo":22435,"official_name":"Szko\u0142a Podstawowa im.stefana \u017beromskiego w Trzci\u0144sku-Zdroju","name":"Szko\u0142a Podstawowa im.stefana \u017beromskiego w Trzci\u0144sku-Zdroju","addr:country":"PL","addr:postcode":"74-510","addr:city":"Trzci\u0144sko-Zdr\u00f3j","addr:street":"ul. 2 Lutego","addr:housenumber":"3","addr:teryt:simc":11439,"addr:teryt:sym_ul":979952,"contact:phone":"+48 914148084","contact:email":"sptrzcinskozdroj@wp.pl","contact:website":"http:\/\/sptrzcinskozdroj.edupage.org","ref:regon":"000684004","ref:vatin":"PL8581376359","operator":"Gmina Trzci\u0144sko Zdr\u00f3j","operator:type":"government","amenity":"school"}},{"id":262886,"type":"Feature","geometry":{"type":"Point","coordinates":[14.6782,52.9745599]},"properties":{"isced:level":"1;2","ref:rspo":262886,"official_name":"Szko\u0142a Podstawowa im. Marka Kota\u0144skiego w G\u00f3ralicach","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"74-510","addr:place":"G\u00f3ralice","addr:housenumber":"108A","addr:teryt:sym_ul":784415,"contact:phone":"+48 914148014","contact:email":"gimgoralice@wp.pl","contact:website":"http:\/\/spgoralice.edupage.org","ref:regon":"368069417","operator":"Gmina Trzci\u0144sko Zdr\u00f3j","operator:type":"government","amenity":"school","note":"Children RSPO: 277817"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 277817,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.65853,
+                    52.93027
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 277817,
+                "official_name": "Szko\u0142a Filialna w Sto\u0142ecznej Szko\u0142y Podstawowej Im Marka Kot\u0144skiego w G\u00f3ralicach",
+                "name": "Szko\u0142a Filialna w Sto\u0142ecznej Szko\u0142y Podstawowej Im Marka Kot\u0144skiego w G\u00f3ralicach",
+                "addr:country": "PL",
+                "addr:postcode": "74-510",
+                "addr:place": "Sto\u0142eczna",
+                "addr:housenumber": "9",
+                "addr:teryt:sym_ul": 784533,
+                "contact:phone": "+48 914148323",
+                "contact:email": "spstoleczna@op.pl",
+                "ref:regon": "368069417",
+                "operator": "Gmina Trzci\u0144sko Zdr\u00f3j",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 262886"
+            }
+        },
+        {
+            "id": 22791,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.60713,
+                    52.96516
+                ]
+            },
+            "properties": {
+                "ref:rspo": 22791,
+                "official_name": "Przedszkole Miejskie w Trzci\u0144sku-Zdroju im. Le\u015bne Skrzaty",
+                "name": "Przedszkole Miejskie w Trzci\u0144sku-Zdroju",
+                "addr:country": "PL",
+                "addr:postcode": "74-510",
+                "addr:city": "Trzci\u0144sko-Zdr\u00f3j",
+                "addr:street": "ul. Ko\u015bciuszki",
+                "addr:housenumber": "7",
+                "addr:teryt:simc": 9572,
+                "addr:teryt:sym_ul": 979952,
+                "contact:phone": "+48 914148114",
+                "contact:email": "przedszkole@trzcinsko-zdroj.pl",
+                "contact:website": "http:\/\/przedszkoletrzcinsko.pl\/",
+                "ref:regon": "320928065",
+                "operator": "Gmina Trzci\u0144sko Zdr\u00f3j",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 22435,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.60785,
+                    52.96665
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 22435,
+                "official_name": "Szko\u0142a Podstawowa im.stefana \u017beromskiego w Trzci\u0144sku-Zdroju",
+                "name": "Szko\u0142a Podstawowa im.stefana \u017beromskiego w Trzci\u0144sku-Zdroju",
+                "addr:country": "PL",
+                "addr:postcode": "74-510",
+                "addr:city": "Trzci\u0144sko-Zdr\u00f3j",
+                "addr:street": "ul. 2 Lutego",
+                "addr:housenumber": "3",
+                "addr:teryt:simc": 11439,
+                "addr:teryt:sym_ul": 979952,
+                "contact:phone": "+48 914148084",
+                "contact:email": "sptrzcinskozdroj@wp.pl",
+                "contact:website": "http:\/\/sptrzcinskozdroj.edupage.org",
+                "ref:regon": "000684004",
+                "ref:vatin": "PL8581376359",
+                "operator": "Gmina Trzci\u0144sko Zdr\u00f3j",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 262886,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.6782,
+                    52.9745599
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 262886,
+                "official_name": "Szko\u0142a Podstawowa im. Marka Kota\u0144skiego w G\u00f3ralicach",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "74-510",
+                "addr:place": "G\u00f3ralice",
+                "addr:housenumber": "108A",
+                "addr:teryt:sym_ul": 784415,
+                "contact:phone": "+48 914148014",
+                "contact:email": "gimgoralice@wp.pl",
+                "contact:website": "http:\/\/spgoralice.edupage.org",
+                "ref:regon": "368069417",
+                "operator": "Gmina Trzci\u0144sko Zdr\u00f3j",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Children RSPO: 277817"
+            }
+        }
+    ]
+}

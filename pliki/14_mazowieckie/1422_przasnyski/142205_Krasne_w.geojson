@@ -1,1 +1,66 @@
-{"type":"FeatureCollection","features":[{"id":12911,"type":"Feature","geometry":{"type":"Point","coordinates":[20.96872,52.91977]},"properties":{"isced:level":"1;2","ref:rspo":12911,"official_name":"Szko\u0142a Podstawowa im. Marii Konopnickiej w Krasnem","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"06-408","addr:city":"Krasne","addr:street":"ul. Sp\u00f3\u0142dzielcza","addr:housenumber":"1","addr:teryt:simc":20696,"addr:teryt:sym_ul":117268,"contact:phone":"+48 236710023","contact:email":"spkrasne5@wp.pl","contact:website":"http:\/\/www.spkrasne.edupage.org","ref:regon":"000653297","ref:vatin":"PL7611404397","operator":"Gmina Krasne","operator:type":"government","amenity":"school"}},{"id":12909,"type":"Feature","geometry":{"type":"Point","coordinates":[21.0638258,53.1357785]},"properties":{"isced:level":"1;2","ref:rspo":12909,"official_name":"Publiczna Szko\u0142a Podstawowa im. Ksi\u0119dza Jerzego Popie\u0142uszki w Zielonej","name":"Publiczna Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"06-408","addr:place":"Zielona","addr:housenumber":"37","addr:teryt:sym_ul":117601,"contact:phone":"+48 236710325","contact:email":"sp.zielona@op.pl","ref:regon":"001158967","ref:vatin":"PL7611404374","operator":"Gmina Krasne","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 12911,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.96872,
+                    52.91977
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 12911,
+                "official_name": "Szko\u0142a Podstawowa im. Marii Konopnickiej w Krasnem",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "06-408",
+                "addr:city": "Krasne",
+                "addr:street": "ul. Sp\u00f3\u0142dzielcza",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 20696,
+                "addr:teryt:sym_ul": 117268,
+                "contact:phone": "+48 236710023",
+                "contact:email": "spkrasne5@wp.pl",
+                "contact:website": "http:\/\/www.spkrasne.edupage.org",
+                "ref:regon": "000653297",
+                "ref:vatin": "PL7611404397",
+                "operator": "Gmina Krasne",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 12909,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0638258,
+                    53.1357785
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 12909,
+                "official_name": "Publiczna Szko\u0142a Podstawowa im. Ksi\u0119dza Jerzego Popie\u0142uszki w Zielonej",
+                "name": "Publiczna Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "06-408",
+                "addr:place": "Zielona",
+                "addr:housenumber": "37",
+                "addr:teryt:sym_ul": 117601,
+                "contact:phone": "+48 236710325",
+                "contact:email": "sp.zielona@op.pl",
+                "ref:regon": "001158967",
+                "ref:vatin": "PL7611404374",
+                "operator": "Gmina Krasne",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

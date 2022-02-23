@@ -1,1 +1,160 @@
-{"type":"FeatureCollection","features":[{"id":113779,"type":"Feature","geometry":{"type":"Point","coordinates":[21.28363,51.89975]},"properties":{"isced:level":"1;2","ref:rspo":113779,"official_name":"Publiczna Szko\u0142a Podstawowa im. Batalion\u00f3w Ch\u0142opskich w Siedzowie","name":"Publiczna Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"08-443","addr:place":"Siedz\u00f3w","addr:housenumber":"30A","addr:teryt:sym_ul":687830,"contact:phone":"+48 256858877","contact:email":"szkolasiedzow1@wp.pl","ref:regon":"001128021","ref:vatin":"PL5321743405","operator":"Gmina Sobienie-Jeziory","operator:type":"government","amenity":"school"}},{"id":113812,"type":"Feature","geometry":{"type":"Point","coordinates":[21.3052199,51.93106]},"properties":{"ref:rspo":113812,"official_name":"Zesp\u00f3\u0142 Szk\u00f3\u0142","name":"Zesp\u00f3\u0142 Szk\u00f3\u0142","addr:country":"PL","addr:postcode":"08-443","addr:city":"Sobienie-Jeziory","addr:street":"ul. Garwoli\u0144ska","addr:housenumber":"14","addr:teryt:simc":5350,"addr:teryt:sym_ul":687876,"contact:phone":"+48 256858079","contact:email":"euzebia59@o2.pl","contact:website":"http:\/\/sp-sobienie.pl","ref:regon":"140073973","ref:vatin":"PL8261144050","operator":"Gmina Sobienie-Jeziory","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 113848;113886"}},{"id":113848,"type":"Feature","geometry":{"type":"Point","coordinates":[21.3052199,51.93103]},"properties":{"isced:level":"1;2","ref:rspo":113848,"official_name":"Publiczna Szko\u0142a Podstawowa im. Jana Paw\u0142a II w Sobieniach-Jeziorach","name":"Publiczna Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"08-443","addr:city":"Sobienie-Jeziory","addr:street":"ul. Garwoli\u0144ska","addr:housenumber":"14","addr:teryt:simc":5350,"addr:teryt:sym_ul":687876,"contact:phone":"+48 256858079","contact:email":"euzebia59@o2.pl","contact:website":"http:\/\/www.sp-sobienie.pl","ref:regon":"000271176","operator":"Gmina Sobienie-Jeziory","operator:type":"government","amenity":"school","note":"Parent RSPO: 113812"}},{"id":113886,"type":"Feature","geometry":{"type":"Point","coordinates":[21.30495,51.9316]},"properties":{"ref:rspo":113886,"official_name":"Publiczne Przedszkole w Sobieniach-Jeziorach","name":"Publiczne Przedszkole w Sobieniach-Jeziorach","addr:country":"PL","addr:postcode":"08-443","addr:city":"Sobienie-Jeziory","addr:street":"ul. Garwoli\u0144ska","addr:housenumber":"12","addr:teryt:simc":5350,"addr:teryt:sym_ul":687876,"contact:phone":"+48 256858079","contact:email":"euzebia59@o2.pl","contact:website":"http:\/\/sp-sobienie.pl","ref:regon":"140074004","operator":"Gmina Sobienie-Jeziory","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 113812"}},{"id":113780,"type":"Feature","geometry":{"type":"Point","coordinates":[21.3114199,51.97728]},"properties":{"isced:level":"1;2","ref:rspo":113780,"official_name":"Publiczna Szko\u0142a Podstawowa w Warszawicach","name":"Publiczna Szko\u0142a Podstawowa w Warszawicach","addr:country":"PL","addr:postcode":"08-443","addr:place":"Warszawice","addr:housenumber":"13","addr:teryt:sym_ul":688090,"contact:phone":"+48 256858123","contact:email":"activity@gazeta.pl","contact:website":"http:\/\/pspwarszawice.szkolnastrona.pl","ref:regon":"001128015","ref:vatin":"PL5321747998","operator":"Gmina Sobienie-Jeziory","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 113779,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.28363,
+                    51.89975
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 113779,
+                "official_name": "Publiczna Szko\u0142a Podstawowa im. Batalion\u00f3w Ch\u0142opskich w Siedzowie",
+                "name": "Publiczna Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "08-443",
+                "addr:place": "Siedz\u00f3w",
+                "addr:housenumber": "30A",
+                "addr:teryt:sym_ul": 687830,
+                "contact:phone": "+48 256858877",
+                "contact:email": "szkolasiedzow1@wp.pl",
+                "ref:regon": "001128021",
+                "ref:vatin": "PL5321743405",
+                "operator": "Gmina Sobienie-Jeziory",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 113812,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.3052199,
+                    51.93106
+                ]
+            },
+            "properties": {
+                "ref:rspo": 113812,
+                "official_name": "Zesp\u00f3\u0142 Szk\u00f3\u0142",
+                "name": "Zesp\u00f3\u0142 Szk\u00f3\u0142",
+                "addr:country": "PL",
+                "addr:postcode": "08-443",
+                "addr:city": "Sobienie-Jeziory",
+                "addr:street": "ul. Garwoli\u0144ska",
+                "addr:housenumber": "14",
+                "addr:teryt:simc": 5350,
+                "addr:teryt:sym_ul": 687876,
+                "contact:phone": "+48 256858079",
+                "contact:email": "euzebia59@o2.pl",
+                "contact:website": "http:\/\/sp-sobienie.pl",
+                "ref:regon": "140073973",
+                "ref:vatin": "PL8261144050",
+                "operator": "Gmina Sobienie-Jeziory",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 113848;113886"
+            }
+        },
+        {
+            "id": 113848,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.3052199,
+                    51.93103
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 113848,
+                "official_name": "Publiczna Szko\u0142a Podstawowa im. Jana Paw\u0142a II w Sobieniach-Jeziorach",
+                "name": "Publiczna Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "08-443",
+                "addr:city": "Sobienie-Jeziory",
+                "addr:street": "ul. Garwoli\u0144ska",
+                "addr:housenumber": "14",
+                "addr:teryt:simc": 5350,
+                "addr:teryt:sym_ul": 687876,
+                "contact:phone": "+48 256858079",
+                "contact:email": "euzebia59@o2.pl",
+                "contact:website": "http:\/\/www.sp-sobienie.pl",
+                "ref:regon": "000271176",
+                "operator": "Gmina Sobienie-Jeziory",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 113812"
+            }
+        },
+        {
+            "id": 113886,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.30495,
+                    51.9316
+                ]
+            },
+            "properties": {
+                "ref:rspo": 113886,
+                "official_name": "Publiczne Przedszkole w Sobieniach-Jeziorach",
+                "name": "Publiczne Przedszkole w Sobieniach-Jeziorach",
+                "addr:country": "PL",
+                "addr:postcode": "08-443",
+                "addr:city": "Sobienie-Jeziory",
+                "addr:street": "ul. Garwoli\u0144ska",
+                "addr:housenumber": "12",
+                "addr:teryt:simc": 5350,
+                "addr:teryt:sym_ul": 687876,
+                "contact:phone": "+48 256858079",
+                "contact:email": "euzebia59@o2.pl",
+                "contact:website": "http:\/\/sp-sobienie.pl",
+                "ref:regon": "140074004",
+                "operator": "Gmina Sobienie-Jeziory",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 113812"
+            }
+        },
+        {
+            "id": 113780,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.3114199,
+                    51.97728
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 113780,
+                "official_name": "Publiczna Szko\u0142a Podstawowa w Warszawicach",
+                "name": "Publiczna Szko\u0142a Podstawowa w Warszawicach",
+                "addr:country": "PL",
+                "addr:postcode": "08-443",
+                "addr:place": "Warszawice",
+                "addr:housenumber": "13",
+                "addr:teryt:sym_ul": 688090,
+                "contact:phone": "+48 256858123",
+                "contact:email": "activity@gazeta.pl",
+                "contact:website": "http:\/\/pspwarszawice.szkolnastrona.pl",
+                "ref:regon": "001128015",
+                "ref:vatin": "PL5321747998",
+                "operator": "Gmina Sobienie-Jeziory",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

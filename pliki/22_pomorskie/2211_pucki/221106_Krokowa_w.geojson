@@ -1,1 +1,446 @@
-{"type":"FeatureCollection","features":[{"id":74324,"type":"Feature","geometry":{"type":"Point","coordinates":[18.1368419,54.723198]},"properties":{"isced:level":"1;2","ref:rspo":74324,"official_name":"Szko\u0142a Podstawowa w Lubocinie","name":"Szko\u0142a Podstawowa w Lubocinie","addr:country":"PL","addr:postcode":"84-110","addr:place":"Lubocino","addr:housenumber":"10","addr:teryt:sym_ul":165155,"contact:phone":"+48 586737137","contact:email":"splubocino@wp.pl","contact:website":"http:\/\/www.splubocino.superszkolna.pl","ref:regon":"190577947","ref:vatin":"PL5871439440","operator":"Gmina Krokowa","operator:type":"government","amenity":"school"}},{"id":107079,"type":"Feature","geometry":{"type":"Point","coordinates":[18.25008,54.75867]},"properties":{"ref:rspo":107079,"official_name":"Powiatowy Zesp\u00f3\u0142 Szk\u00f3\u0142 im. Stanis\u0142awa Staszica w K\u0142aninie","name":"Powiatowy Zesp\u00f3\u0142 Szk\u00f3\u0142","addr:country":"PL","addr:postcode":"84-107","addr:city":"K\u0142anino","addr:street":"ul. Szkolna","addr:housenumber":"4","addr:teryt:simc":21970,"addr:teryt:sym_ul":165103,"contact:phone":"+48 586738783","contact:email":"zsp.klanino@wp.pl","contact:website":"http:\/\/pzsklanino.edu.pl","ref:regon":"192798240","ref:vatin":"PL5871015059","operator":"Powiat Pucki","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 111536;111537;111538;111539"}},{"id":111536,"type":"Feature","geometry":{"type":"Point","coordinates":[18.25008,54.75864]},"properties":{"isced:level":"3","ref:rspo":111536,"official_name":"Liceum Og\u00f3lnokszta\u0142c\u0105ce w K\u0142aninie Powiatowym Zespole Szk\u00f3\u0142 im. Stanis\u0142awa Staszica w K\u0142aninie","name":"Liceum Og\u00f3lnokszta\u0142c\u0105ce w K\u0142aninie Powiatowym Zespole Szk\u00f3\u0142","addr:country":"PL","addr:postcode":"84-107","addr:city":"K\u0142anino","addr:street":"ul. Szkolna","addr:housenumber":"4","addr:teryt:simc":21970,"addr:teryt:sym_ul":165103,"contact:phone":"+48 586738783","contact:email":"zsp.klanino@wp.pl","contact:website":"http:\/\/www.pzsklanino.edu.pl","ref:regon":"192798291","operator":"Powiat Pucki","operator:type":"government","amenity":"school","note":"Parent RSPO: 107079"}},{"id":111537,"type":"Feature","geometry":{"type":"Point","coordinates":[18.25008,54.758610000000004]},"properties":{"isced:level":"3","ref:rspo":111537,"official_name":"Bran\u017cowa Szko\u0142a I Stopnia w K\u0142aninie w Powiatowym Zespole Szk\u00f3\u0142 im. Stanis\u0142awa Staszica w K\u0142aninie","name":"Bran\u017cowa Szko\u0142a I Stopnia w K\u0142aninie w Powiatowym Zespole Szk\u00f3\u0142","addr:country":"PL","addr:postcode":"84-107","addr:city":"K\u0142anino","addr:street":"ul. Szkolna","addr:housenumber":"4","addr:teryt:simc":21970,"addr:teryt:sym_ul":165103,"contact:phone":"+48 586738783","contact:email":"zspklanino@wp.pl","contact:website":"http:\/\/www.pzsklanino.edu.pl","ref:regon":"192798256","operator":"Powiat Pucki","operator:type":"government","amenity":"school","note":"Parent RSPO: 107079"}},{"id":111538,"type":"Feature","geometry":{"type":"Point","coordinates":[18.25008,54.75858]},"properties":{"isced:level":"3","ref:rspo":111538,"official_name":"Technikum w K\u0142aninie w Powiatowym Zespole Szk\u00f3\u0142 im. Stanis\u0142awa Staszica w K\u0142aninie","name":"Technikum w K\u0142aninie w Powiatowym Zespole Szk\u00f3\u0142","addr:country":"PL","addr:postcode":"84-107","addr:city":"K\u0142anino","addr:street":"ul. Szkolna","addr:housenumber":"4","addr:teryt:simc":21970,"addr:teryt:sym_ul":165103,"contact:phone":"+48 586738783","contact:email":"zspklanino@wp.pl","contact:website":"http:\/\/www.pzsklanino.edu.pl","ref:regon":"192944456","operator":"Powiat Pucki","operator:type":"government","amenity":"school","note":"Parent RSPO: 107079"}},{"id":111539,"type":"Feature","geometry":{"type":"Point","coordinates":[18.25008,54.75855]},"properties":{"isced:level":"4","ref:rspo":111539,"official_name":"Szko\u0142a Policealna w K\u0142aninie w Powiatowym Zespole Szk\u00f3\u0142 im. Stanis\u0142awa Staszica w K\u0142aninie","name":"Szko\u0142a Policealna w K\u0142aninie w Powiatowym Zespole Szk\u00f3\u0142","addr:country":"PL","addr:postcode":"84-107","addr:city":"K\u0142anino","addr:street":"ul. Szkolna","addr:housenumber":"4","addr:teryt:simc":21970,"addr:teryt:sym_ul":165103,"contact:phone":"+48 586738783","contact:email":"zspklanino@wp.pl","contact:website":"http:\/\/www.pzsklanino.edu.pl","ref:regon":"193089220","operator":"Powiat Pucki","operator:type":"government","amenity":"college","note":"Parent RSPO: 107079"}},{"id":63465,"type":"Feature","geometry":{"type":"Point","coordinates":[18.16384,54.77698]},"properties":{"ref:rspo":63465,"official_name":"Przedszkole Niepubliczne \"Chatka Ma\u0142olatka\" w Krokowej","name":"Przedszkole Niepubliczne \"Chatka Ma\u0142olatka\" w Krokowej","addr:country":"PL","addr:postcode":"84-110","addr:city":"Krokowa","addr:street":"ul. Zamkowa","addr:housenumber":"1","addr:teryt:simc":25547,"addr:teryt:sym_ul":165110,"contact:phone":"+48 587742111","ref:regon":"221768260","ref:vatin":"PL5870200346","operator":"Dane Do Uzupe\u0142nienia","operator:type":"private","amenity":"kindergarten"}},{"id":74325,"type":"Feature","geometry":{"type":"Point","coordinates":[18.19563,54.78465]},"properties":{"isced:level":"1;2","ref:rspo":74325,"official_name":"Szko\u0142a Podstawowa w S\u0142awoszynie","name":"Szko\u0142a Podstawowa w S\u0142awoszynie","addr:country":"PL","addr:postcode":"84-110","addr:city":"S\u0142awoszyno","addr:street":"ul. Floriana Ceynowy","addr:housenumber":"24","addr:teryt:simc":2648,"addr:teryt:sym_ul":165221,"contact:phone":"+48 586737596","contact:email":"spslawoszyno@o2.pl","contact:website":"http:\/\/spslawoszyno.szkolna.net","ref:regon":"190577930","ref:vatin":"PL5871439434","operator":"Gmina Krokowa","operator:type":"government","amenity":"school"}},{"id":275439,"type":"Feature","geometry":{"type":"Point","coordinates":[17.99384,54.7859]},"properties":{"ref:rspo":275439,"official_name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w Wierzchucinie","name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w Wierzchucinie","addr:country":"PL","addr:postcode":"84-113","addr:city":"Wierzchucino","addr:street":"ul. Szkolna","addr:housenumber":"22","addr:teryt:simc":21970,"addr:teryt:sym_ul":165379,"contact:phone":"+48 586735033","contact:email":"sp-wierzchucino@home.pl","contact:website":"http:\/\/www.sp.wierzchucino.home.pl","ref:regon":"386932285","ref:vatin":"PL5871726783","operator":"Gmina Krokowa","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 69855;275433"}},{"id":69855,"type":"Feature","geometry":{"type":"Point","coordinates":[17.99384,54.785869999999996]},"properties":{"isced:level":"1;2","ref:rspo":69855,"official_name":"Szko\u0142a Podstawowa w Wierzchucinie","name":"Szko\u0142a Podstawowa w Wierzchucinie","addr:country":"PL","addr:postcode":"84-113","addr:city":"Wierzchucino","addr:street":"ul. Szkolna","addr:housenumber":"22","addr:teryt:simc":21970,"addr:teryt:sym_ul":165379,"contact:phone":"+48 586735033","contact:email":"sp-wierzchucino@home.pl","ref:regon":"190577924","ref:vatin":"PL5871423367","operator":"Gmina Krokowa","operator:type":"government","amenity":"school","note":"Parent RSPO: 275439"}},{"id":275433,"type":"Feature","geometry":{"type":"Point","coordinates":[17.99384,54.78584]},"properties":{"ref:rspo":275433,"official_name":"Publiczne Przedszkole w Wierzchucinie","name":"Publiczne Przedszkole w Wierzchucinie","addr:country":"PL","addr:postcode":"84-113","addr:city":"Wierzchucino","addr:street":"ul. Szkolna","addr:housenumber":"22","addr:teryt:simc":21970,"addr:teryt:sym_ul":165379,"contact:phone":"+48 586735033","contact:email":"sp-wierzchucino@home.pl","contact:website":"http:\/\/www.sp.wierzchucino.home.pl","ref:regon":"386932196","operator":"Gmina Krokowa","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 275439"}},{"id":74323,"type":"Feature","geometry":{"type":"Point","coordinates":[18.08246,54.78656]},"properties":{"isced:level":"1;2","ref:rspo":74323,"official_name":"Szko\u0142a Podstawowa im. Janusza Korczaka w \u017barnowcu","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"84-110","addr:city":"\u017barnowiec","addr:street":"ul. Szkolna","addr:housenumber":"2","addr:teryt:simc":21970,"addr:teryt:sym_ul":165385,"contact:phone":"+48 586737603","contact:email":"sekretariat@szkolazarnowiec.pl","contact:website":"http:\/\/szkolazarnowiec.pl\/","ref:regon":"190577953","ref:vatin":"PL5871439463","operator":"Gmina Krokowa","operator:type":"government","amenity":"school"}},{"id":74322,"type":"Feature","geometry":{"type":"Point","coordinates":[17.96195,54.81525]},"properties":{"isced:level":"1;2","ref:rspo":74322,"official_name":"Szko\u0142a Podstawowa im.kadm.w\u0142.steyera w Krokowej","name":"Szko\u0142a Podstawowa im.kadm.w\u0142.steyera w Krokowej","addr:country":"PL","addr:postcode":"84-110","addr:city":"Krokowa","addr:street":"ul. Szkolna","addr:housenumber":"6","addr:teryt:simc":21970,"addr:teryt:sym_ul":165110,"contact:phone":"+48 586737660","contact:email":"spkrokowa@gmail.com","ref:regon":"190577918","ref:vatin":"PL5871431941","operator":"Gmina Krokowa","operator:type":"government","amenity":"school"}},{"id":263585,"type":"Feature","geometry":{"type":"Point","coordinates":[17.96195,54.81522]},"properties":{"ref:rspo":263585,"official_name":"Publiczne Przedszkole w Krokowej","name":"Publiczne Przedszkole w Krokowej","addr:country":"PL","addr:postcode":"84-110","addr:city":"Krokowa","addr:street":"ul. Szkolna","addr:housenumber":"6","addr:teryt:simc":21970,"addr:teryt:sym_ul":165110,"contact:phone":"+48 695674627","contact:email":"przedszkolepublicznekrokowa@wp.pl","ref:regon":"368205607","ref:vatin":"PL5871713214","operator":"Gmina Krokowa","operator:type":"government","amenity":"kindergarten"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 74324,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.1368419,
+                    54.723198
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 74324,
+                "official_name": "Szko\u0142a Podstawowa w Lubocinie",
+                "name": "Szko\u0142a Podstawowa w Lubocinie",
+                "addr:country": "PL",
+                "addr:postcode": "84-110",
+                "addr:place": "Lubocino",
+                "addr:housenumber": "10",
+                "addr:teryt:sym_ul": 165155,
+                "contact:phone": "+48 586737137",
+                "contact:email": "splubocino@wp.pl",
+                "contact:website": "http:\/\/www.splubocino.superszkolna.pl",
+                "ref:regon": "190577947",
+                "ref:vatin": "PL5871439440",
+                "operator": "Gmina Krokowa",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 107079,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.25008,
+                    54.75867
+                ]
+            },
+            "properties": {
+                "ref:rspo": 107079,
+                "official_name": "Powiatowy Zesp\u00f3\u0142 Szk\u00f3\u0142 im. Stanis\u0142awa Staszica w K\u0142aninie",
+                "name": "Powiatowy Zesp\u00f3\u0142 Szk\u00f3\u0142",
+                "addr:country": "PL",
+                "addr:postcode": "84-107",
+                "addr:city": "K\u0142anino",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "4",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 165103,
+                "contact:phone": "+48 586738783",
+                "contact:email": "zsp.klanino@wp.pl",
+                "contact:website": "http:\/\/pzsklanino.edu.pl",
+                "ref:regon": "192798240",
+                "ref:vatin": "PL5871015059",
+                "operator": "Powiat Pucki",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 111536;111537;111538;111539"
+            }
+        },
+        {
+            "id": 111536,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.25008,
+                    54.75864
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 111536,
+                "official_name": "Liceum Og\u00f3lnokszta\u0142c\u0105ce w K\u0142aninie Powiatowym Zespole Szk\u00f3\u0142 im. Stanis\u0142awa Staszica w K\u0142aninie",
+                "name": "Liceum Og\u00f3lnokszta\u0142c\u0105ce w K\u0142aninie Powiatowym Zespole Szk\u00f3\u0142",
+                "addr:country": "PL",
+                "addr:postcode": "84-107",
+                "addr:city": "K\u0142anino",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "4",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 165103,
+                "contact:phone": "+48 586738783",
+                "contact:email": "zsp.klanino@wp.pl",
+                "contact:website": "http:\/\/www.pzsklanino.edu.pl",
+                "ref:regon": "192798291",
+                "operator": "Powiat Pucki",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 107079"
+            }
+        },
+        {
+            "id": 111537,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.25008,
+                    54.758610000000004
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 111537,
+                "official_name": "Bran\u017cowa Szko\u0142a I Stopnia w K\u0142aninie w Powiatowym Zespole Szk\u00f3\u0142 im. Stanis\u0142awa Staszica w K\u0142aninie",
+                "name": "Bran\u017cowa Szko\u0142a I Stopnia w K\u0142aninie w Powiatowym Zespole Szk\u00f3\u0142",
+                "addr:country": "PL",
+                "addr:postcode": "84-107",
+                "addr:city": "K\u0142anino",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "4",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 165103,
+                "contact:phone": "+48 586738783",
+                "contact:email": "zspklanino@wp.pl",
+                "contact:website": "http:\/\/www.pzsklanino.edu.pl",
+                "ref:regon": "192798256",
+                "operator": "Powiat Pucki",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 107079"
+            }
+        },
+        {
+            "id": 111538,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.25008,
+                    54.75858
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 111538,
+                "official_name": "Technikum w K\u0142aninie w Powiatowym Zespole Szk\u00f3\u0142 im. Stanis\u0142awa Staszica w K\u0142aninie",
+                "name": "Technikum w K\u0142aninie w Powiatowym Zespole Szk\u00f3\u0142",
+                "addr:country": "PL",
+                "addr:postcode": "84-107",
+                "addr:city": "K\u0142anino",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "4",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 165103,
+                "contact:phone": "+48 586738783",
+                "contact:email": "zspklanino@wp.pl",
+                "contact:website": "http:\/\/www.pzsklanino.edu.pl",
+                "ref:regon": "192944456",
+                "operator": "Powiat Pucki",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 107079"
+            }
+        },
+        {
+            "id": 111539,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.25008,
+                    54.75855
+                ]
+            },
+            "properties": {
+                "isced:level": "4",
+                "ref:rspo": 111539,
+                "official_name": "Szko\u0142a Policealna w K\u0142aninie w Powiatowym Zespole Szk\u00f3\u0142 im. Stanis\u0142awa Staszica w K\u0142aninie",
+                "name": "Szko\u0142a Policealna w K\u0142aninie w Powiatowym Zespole Szk\u00f3\u0142",
+                "addr:country": "PL",
+                "addr:postcode": "84-107",
+                "addr:city": "K\u0142anino",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "4",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 165103,
+                "contact:phone": "+48 586738783",
+                "contact:email": "zspklanino@wp.pl",
+                "contact:website": "http:\/\/www.pzsklanino.edu.pl",
+                "ref:regon": "193089220",
+                "operator": "Powiat Pucki",
+                "operator:type": "government",
+                "amenity": "college",
+                "note": "Parent RSPO: 107079"
+            }
+        },
+        {
+            "id": 63465,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.16384,
+                    54.77698
+                ]
+            },
+            "properties": {
+                "ref:rspo": 63465,
+                "official_name": "Przedszkole Niepubliczne \"Chatka Ma\u0142olatka\" w Krokowej",
+                "name": "Przedszkole Niepubliczne \"Chatka Ma\u0142olatka\" w Krokowej",
+                "addr:country": "PL",
+                "addr:postcode": "84-110",
+                "addr:city": "Krokowa",
+                "addr:street": "ul. Zamkowa",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 25547,
+                "addr:teryt:sym_ul": 165110,
+                "contact:phone": "+48 587742111",
+                "ref:regon": "221768260",
+                "ref:vatin": "PL5870200346",
+                "operator": "Dane Do Uzupe\u0142nienia",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 74325,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.19563,
+                    54.78465
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 74325,
+                "official_name": "Szko\u0142a Podstawowa w S\u0142awoszynie",
+                "name": "Szko\u0142a Podstawowa w S\u0142awoszynie",
+                "addr:country": "PL",
+                "addr:postcode": "84-110",
+                "addr:city": "S\u0142awoszyno",
+                "addr:street": "ul. Floriana Ceynowy",
+                "addr:housenumber": "24",
+                "addr:teryt:simc": 2648,
+                "addr:teryt:sym_ul": 165221,
+                "contact:phone": "+48 586737596",
+                "contact:email": "spslawoszyno@o2.pl",
+                "contact:website": "http:\/\/spslawoszyno.szkolna.net",
+                "ref:regon": "190577930",
+                "ref:vatin": "PL5871439434",
+                "operator": "Gmina Krokowa",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 275439,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.99384,
+                    54.7859
+                ]
+            },
+            "properties": {
+                "ref:rspo": 275439,
+                "official_name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w Wierzchucinie",
+                "name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w Wierzchucinie",
+                "addr:country": "PL",
+                "addr:postcode": "84-113",
+                "addr:city": "Wierzchucino",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "22",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 165379,
+                "contact:phone": "+48 586735033",
+                "contact:email": "sp-wierzchucino@home.pl",
+                "contact:website": "http:\/\/www.sp.wierzchucino.home.pl",
+                "ref:regon": "386932285",
+                "ref:vatin": "PL5871726783",
+                "operator": "Gmina Krokowa",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 69855;275433"
+            }
+        },
+        {
+            "id": 69855,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.99384,
+                    54.785869999999996
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 69855,
+                "official_name": "Szko\u0142a Podstawowa w Wierzchucinie",
+                "name": "Szko\u0142a Podstawowa w Wierzchucinie",
+                "addr:country": "PL",
+                "addr:postcode": "84-113",
+                "addr:city": "Wierzchucino",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "22",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 165379,
+                "contact:phone": "+48 586735033",
+                "contact:email": "sp-wierzchucino@home.pl",
+                "ref:regon": "190577924",
+                "ref:vatin": "PL5871423367",
+                "operator": "Gmina Krokowa",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 275439"
+            }
+        },
+        {
+            "id": 275433,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.99384,
+                    54.78584
+                ]
+            },
+            "properties": {
+                "ref:rspo": 275433,
+                "official_name": "Publiczne Przedszkole w Wierzchucinie",
+                "name": "Publiczne Przedszkole w Wierzchucinie",
+                "addr:country": "PL",
+                "addr:postcode": "84-113",
+                "addr:city": "Wierzchucino",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "22",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 165379,
+                "contact:phone": "+48 586735033",
+                "contact:email": "sp-wierzchucino@home.pl",
+                "contact:website": "http:\/\/www.sp.wierzchucino.home.pl",
+                "ref:regon": "386932196",
+                "operator": "Gmina Krokowa",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 275439"
+            }
+        },
+        {
+            "id": 74323,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.08246,
+                    54.78656
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 74323,
+                "official_name": "Szko\u0142a Podstawowa im. Janusza Korczaka w \u017barnowcu",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "84-110",
+                "addr:city": "\u017barnowiec",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "2",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 165385,
+                "contact:phone": "+48 586737603",
+                "contact:email": "sekretariat@szkolazarnowiec.pl",
+                "contact:website": "http:\/\/szkolazarnowiec.pl\/",
+                "ref:regon": "190577953",
+                "ref:vatin": "PL5871439463",
+                "operator": "Gmina Krokowa",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 74322,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.96195,
+                    54.81525
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 74322,
+                "official_name": "Szko\u0142a Podstawowa im.kadm.w\u0142.steyera w Krokowej",
+                "name": "Szko\u0142a Podstawowa im.kadm.w\u0142.steyera w Krokowej",
+                "addr:country": "PL",
+                "addr:postcode": "84-110",
+                "addr:city": "Krokowa",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "6",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 165110,
+                "contact:phone": "+48 586737660",
+                "contact:email": "spkrokowa@gmail.com",
+                "ref:regon": "190577918",
+                "ref:vatin": "PL5871431941",
+                "operator": "Gmina Krokowa",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 263585,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.96195,
+                    54.81522
+                ]
+            },
+            "properties": {
+                "ref:rspo": 263585,
+                "official_name": "Publiczne Przedszkole w Krokowej",
+                "name": "Publiczne Przedszkole w Krokowej",
+                "addr:country": "PL",
+                "addr:postcode": "84-110",
+                "addr:city": "Krokowa",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "6",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 165110,
+                "contact:phone": "+48 695674627",
+                "contact:email": "przedszkolepublicznekrokowa@wp.pl",
+                "ref:regon": "368205607",
+                "ref:vatin": "PL5871713214",
+                "operator": "Gmina Krokowa",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        }
+    ]
+}

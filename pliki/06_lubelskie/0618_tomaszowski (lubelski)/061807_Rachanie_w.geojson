@@ -1,1 +1,152 @@
-{"type":"FeatureCollection","features":[{"id":41183,"type":"Feature","geometry":{"type":"Point","coordinates":[23.55103,50.53787]},"properties":{"isced:level":"1;2","ref:rspo":41183,"official_name":"Szko\u0142a Podstawowa w Rachaniach","name":"Szko\u0142a Podstawowa w Rachaniach","addr:country":"PL","addr:postcode":"22-640","addr:city":"Rachanie","addr:street":"ul. Partyzant\u00f3w","addr:housenumber":"47","addr:teryt:simc":15733,"addr:teryt:sym_ul":896717,"contact:phone":"+48 846632305","contact:email":"szkola.rachanie@op.pl","ref:regon":"000645599","ref:vatin":"PL9211802706","operator":"Gmina Rachanie","operator:type":"government","amenity":"school"}},{"id":41185,"type":"Feature","geometry":{"type":"Point","coordinates":[23.59516,50.54745]},"properties":{"ref:rspo":41185,"official_name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w Michalowie","name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w Michalowie","addr:country":"PL","addr:postcode":"22-640","addr:place":"Michal\u00f3w","addr:housenumber":"117","addr:teryt:sym_ul":896605,"contact:phone":"+48 846633242","contact:email":"michalow1@poczta.onet.pl","ref:regon":"060275606","ref:vatin":"PL9211970148","operator":"Gmina Rachanie","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 74720;74721"}},{"id":74720,"type":"Feature","geometry":{"type":"Point","coordinates":[23.59516,50.547419999999995]},"properties":{"ref:rspo":74720,"official_name":"Przedszkole Samorz\u0105dowe w Michalowie","name":"Przedszkole Samorz\u0105dowe w Michalowie","addr:country":"PL","addr:postcode":"22-640","addr:place":"Michal\u00f3w","addr:housenumber":"117","addr:teryt:sym_ul":896605,"contact:phone":"+48 846633242","contact:email":"michalow1@poczta.onet.pl","ref:regon":"951081858","operator":"Gmina Rachanie","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 41185"}},{"id":74721,"type":"Feature","geometry":{"type":"Point","coordinates":[23.59516,50.54739]},"properties":{"isced:level":"1;2","ref:rspo":74721,"official_name":"Szko\u0142a Podstawowa w Michalowie","name":"Szko\u0142a Podstawowa w Michalowie","addr:country":"PL","addr:postcode":"22-640","addr:place":"Michal\u00f3w","addr:housenumber":"117","addr:teryt:sym_ul":896605,"contact:phone":"+48 846633242","contact:email":"michalow1@poczta.onet.pl","ref:regon":"001135989","operator":"Gmina Rachanie","operator:type":"government","amenity":"school","note":"Parent RSPO: 41185"}},{"id":41182,"type":"Feature","geometry":{"type":"Point","coordinates":[23.58074,50.56527]},"properties":{"isced:level":"1;2","ref:rspo":41182,"official_name":"Szko\u0142a Podstawowa w Wo\u017cuczynie","name":"Szko\u0142a Podstawowa w Wo\u017cuczynie","addr:country":"PL","addr:postcode":"22-640","addr:place":"Wo\u017cuczyn","addr:housenumber":"182","addr:teryt:sym_ul":896947,"contact:phone":"+48 846633244","contact:email":"spwoz@wp.pl","ref:regon":"001135995","ref:vatin":"PL9211802735","operator":"Gmina Rachanie","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 41183,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.55103,
+                    50.53787
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 41183,
+                "official_name": "Szko\u0142a Podstawowa w Rachaniach",
+                "name": "Szko\u0142a Podstawowa w Rachaniach",
+                "addr:country": "PL",
+                "addr:postcode": "22-640",
+                "addr:city": "Rachanie",
+                "addr:street": "ul. Partyzant\u00f3w",
+                "addr:housenumber": "47",
+                "addr:teryt:simc": 15733,
+                "addr:teryt:sym_ul": 896717,
+                "contact:phone": "+48 846632305",
+                "contact:email": "szkola.rachanie@op.pl",
+                "ref:regon": "000645599",
+                "ref:vatin": "PL9211802706",
+                "operator": "Gmina Rachanie",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 41185,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.59516,
+                    50.54745
+                ]
+            },
+            "properties": {
+                "ref:rspo": 41185,
+                "official_name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w Michalowie",
+                "name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w Michalowie",
+                "addr:country": "PL",
+                "addr:postcode": "22-640",
+                "addr:place": "Michal\u00f3w",
+                "addr:housenumber": "117",
+                "addr:teryt:sym_ul": 896605,
+                "contact:phone": "+48 846633242",
+                "contact:email": "michalow1@poczta.onet.pl",
+                "ref:regon": "060275606",
+                "ref:vatin": "PL9211970148",
+                "operator": "Gmina Rachanie",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 74720;74721"
+            }
+        },
+        {
+            "id": 74720,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.59516,
+                    50.547419999999995
+                ]
+            },
+            "properties": {
+                "ref:rspo": 74720,
+                "official_name": "Przedszkole Samorz\u0105dowe w Michalowie",
+                "name": "Przedszkole Samorz\u0105dowe w Michalowie",
+                "addr:country": "PL",
+                "addr:postcode": "22-640",
+                "addr:place": "Michal\u00f3w",
+                "addr:housenumber": "117",
+                "addr:teryt:sym_ul": 896605,
+                "contact:phone": "+48 846633242",
+                "contact:email": "michalow1@poczta.onet.pl",
+                "ref:regon": "951081858",
+                "operator": "Gmina Rachanie",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 41185"
+            }
+        },
+        {
+            "id": 74721,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.59516,
+                    50.54739
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 74721,
+                "official_name": "Szko\u0142a Podstawowa w Michalowie",
+                "name": "Szko\u0142a Podstawowa w Michalowie",
+                "addr:country": "PL",
+                "addr:postcode": "22-640",
+                "addr:place": "Michal\u00f3w",
+                "addr:housenumber": "117",
+                "addr:teryt:sym_ul": 896605,
+                "contact:phone": "+48 846633242",
+                "contact:email": "michalow1@poczta.onet.pl",
+                "ref:regon": "001135989",
+                "operator": "Gmina Rachanie",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 41185"
+            }
+        },
+        {
+            "id": 41182,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.58074,
+                    50.56527
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 41182,
+                "official_name": "Szko\u0142a Podstawowa w Wo\u017cuczynie",
+                "name": "Szko\u0142a Podstawowa w Wo\u017cuczynie",
+                "addr:country": "PL",
+                "addr:postcode": "22-640",
+                "addr:place": "Wo\u017cuczyn",
+                "addr:housenumber": "182",
+                "addr:teryt:sym_ul": 896947,
+                "contact:phone": "+48 846633244",
+                "contact:email": "spwoz@wp.pl",
+                "ref:regon": "001135995",
+                "ref:vatin": "PL9211802735",
+                "operator": "Gmina Rachanie",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

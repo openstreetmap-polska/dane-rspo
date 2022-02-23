@@ -1,1 +1,219 @@
-{"type":"FeatureCollection","features":[{"id":86647,"type":"Feature","geometry":{"type":"Point","coordinates":[15.63861,50.88241]},"properties":{"isced:level":"1;2","ref:rspo":86647,"official_name":"Szko\u0142a Podstawowa im.jana Paw\u0142a II w Wojcieszycach","name":"Szko\u0142a Podstawowa im.jana Paw\u0142a II w Wojcieszycach","addr:country":"PL","addr:postcode":"58-560","addr:city":"Wojcieszyce","addr:street":"ul. Szkolna","addr:housenumber":"2","addr:teryt:simc":21970,"addr:teryt:sym_ul":192436,"contact:phone":"+48 757551638","contact:email":"spwojcieszyce@wp.pl","contact:website":"http:\/\/www.spwojcieszyce.pl","ref:regon":"001177692","ref:vatin":"PL6112467628","operator":"Gmina Stara Kamienica","operator:type":"government","amenity":"school"}},{"id":86646,"type":"Feature","geometry":{"type":"Point","coordinates":[15.548191,50.8855979]},"properties":{"isced:level":"1;2","ref:rspo":86646,"official_name":"Szko\u0142a Podstawowa im.caspara Davida Friedricha w Kopa\u0144cu","name":"Szko\u0142a Podstawowa im.caspara Davida Friedricha w Kopa\u0144cu","addr:country":"PL","addr:postcode":"58-512","addr:place":"Kopaniec","addr:housenumber":"78","addr:teryt:sym_ul":192360,"contact:phone":"+48 757514264","contact:email":"sekretariat@spkopaniec.pl","contact:website":"http:\/\/www.spkopaniec.pl","ref:regon":"001177700","ref:vatin":"PL6112467597","operator":"Gmina Stara Kamienica","operator:type":"government","amenity":"school"}},{"id":86650,"type":"Feature","geometry":{"type":"Point","coordinates":[15.61014,50.8908]},"properties":{"ref:rspo":86650,"official_name":"Gminne Przedszkole w Starej Kamienicy","name":"Gminne Przedszkole w Starej Kamienicy","addr:country":"PL","addr:postcode":"58-512","addr:city":"Stara Kamienica","addr:street":"ul. Izerska","addr:housenumber":"1","addr:teryt:simc":6955,"addr:teryt:sym_ul":192420,"contact:phone":"+48 757514207","contact:email":"przedszkole_1959@o2.pl","ref:regon":"001068833","ref:vatin":"PL6112321439","operator":"Gmina Stara Kamienica","operator:type":"government","amenity":"kindergarten"}},{"id":270868,"type":"Feature","geometry":{"type":"Point","coordinates":[15.61014,50.890769999999996]},"properties":{"ref:rspo":270868,"official_name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 w Starej Kamienicy","name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 w Starej Kamienicy","addr:country":"PL","addr:postcode":"58-512","addr:city":"Stara Kamienica","addr:street":"ul. Sportowa","addr:housenumber":"1","addr:teryt:simc":20683,"addr:teryt:sym_ul":192420,"contact:phone":"+48 757514327","contact:email":"zs.starakamienica@op.pl","ref:regon":"383012360","operator":"Gmina Stara Kamienica","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 263974;270648"}},{"id":263974,"type":"Feature","geometry":{"type":"Point","coordinates":[15.61014,50.89074]},"properties":{"isced:level":"1;2","ref:rspo":263974,"official_name":"Szko\u0142a Podstawowa w Starej Kamienicy","name":"Szko\u0142a Podstawowa w Starej Kamienicy","addr:country":"PL","addr:postcode":"58-512","addr:city":"Stara Kamienica","addr:street":"ul. Sportowa","addr:housenumber":"1","addr:teryt:simc":20683,"addr:teryt:sym_ul":192420,"contact:phone":"+48 757514327","contact:email":"sp.starakamienica@onet.pl","ref:regon":"368246339","operator":"Gmina Stara Kamienica","operator:type":"government","amenity":"school","note":"Parent RSPO: 270868"}},{"id":270648,"type":"Feature","geometry":{"type":"Point","coordinates":[15.61014,50.89071]},"properties":{"isced:level":"3","ref:rspo":270648,"official_name":"Liceum Og\u00f3lnokszta\u0142c\u0105ce w Starej Kamienicy","name":"Liceum Og\u00f3lnokszta\u0142c\u0105ce w Starej Kamienicy","addr:country":"PL","addr:postcode":"58-512","addr:city":"Stara Kamienica","addr:street":"ul. Sportowa","addr:housenumber":"1","addr:teryt:simc":20683,"addr:teryt:sym_ul":192420,"contact:phone":"+48 757514327","contact:email":"zs.starakamienica@op.pl","ref:regon":"382850136","operator":"Gmina Stara Kamienica","operator:type":"government","amenity":"school","note":"Parent RSPO: 270868"}},{"id":86648,"type":"Feature","geometry":{"type":"Point","coordinates":[15.595093,50.938029]},"properties":{"isced:level":"1;2","ref:rspo":86648,"official_name":"Szko\u0142a Podstawowa w Barcinku","name":"Szko\u0142a Podstawowa w Barcinku","addr:country":"PL","addr:postcode":"58-512","addr:place":"Barcinek","addr:housenumber":"10","addr:teryt:sym_ul":192324,"contact:phone":"+48 757514334","contact:email":"sekretariat@spbarcinek.edu.pl","ref:regon":"231203974","ref:vatin":"PL6112418216","operator":"Gmina Stara Kamienica","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 86647,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.63861,
+                    50.88241
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 86647,
+                "official_name": "Szko\u0142a Podstawowa im.jana Paw\u0142a II w Wojcieszycach",
+                "name": "Szko\u0142a Podstawowa im.jana Paw\u0142a II w Wojcieszycach",
+                "addr:country": "PL",
+                "addr:postcode": "58-560",
+                "addr:city": "Wojcieszyce",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "2",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 192436,
+                "contact:phone": "+48 757551638",
+                "contact:email": "spwojcieszyce@wp.pl",
+                "contact:website": "http:\/\/www.spwojcieszyce.pl",
+                "ref:regon": "001177692",
+                "ref:vatin": "PL6112467628",
+                "operator": "Gmina Stara Kamienica",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 86646,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.548191,
+                    50.8855979
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 86646,
+                "official_name": "Szko\u0142a Podstawowa im.caspara Davida Friedricha w Kopa\u0144cu",
+                "name": "Szko\u0142a Podstawowa im.caspara Davida Friedricha w Kopa\u0144cu",
+                "addr:country": "PL",
+                "addr:postcode": "58-512",
+                "addr:place": "Kopaniec",
+                "addr:housenumber": "78",
+                "addr:teryt:sym_ul": 192360,
+                "contact:phone": "+48 757514264",
+                "contact:email": "sekretariat@spkopaniec.pl",
+                "contact:website": "http:\/\/www.spkopaniec.pl",
+                "ref:regon": "001177700",
+                "ref:vatin": "PL6112467597",
+                "operator": "Gmina Stara Kamienica",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 86650,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.61014,
+                    50.8908
+                ]
+            },
+            "properties": {
+                "ref:rspo": 86650,
+                "official_name": "Gminne Przedszkole w Starej Kamienicy",
+                "name": "Gminne Przedszkole w Starej Kamienicy",
+                "addr:country": "PL",
+                "addr:postcode": "58-512",
+                "addr:city": "Stara Kamienica",
+                "addr:street": "ul. Izerska",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 6955,
+                "addr:teryt:sym_ul": 192420,
+                "contact:phone": "+48 757514207",
+                "contact:email": "przedszkole_1959@o2.pl",
+                "ref:regon": "001068833",
+                "ref:vatin": "PL6112321439",
+                "operator": "Gmina Stara Kamienica",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 270868,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.61014,
+                    50.890769999999996
+                ]
+            },
+            "properties": {
+                "ref:rspo": 270868,
+                "official_name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 w Starej Kamienicy",
+                "name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 w Starej Kamienicy",
+                "addr:country": "PL",
+                "addr:postcode": "58-512",
+                "addr:city": "Stara Kamienica",
+                "addr:street": "ul. Sportowa",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 20683,
+                "addr:teryt:sym_ul": 192420,
+                "contact:phone": "+48 757514327",
+                "contact:email": "zs.starakamienica@op.pl",
+                "ref:regon": "383012360",
+                "operator": "Gmina Stara Kamienica",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 263974;270648"
+            }
+        },
+        {
+            "id": 263974,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.61014,
+                    50.89074
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 263974,
+                "official_name": "Szko\u0142a Podstawowa w Starej Kamienicy",
+                "name": "Szko\u0142a Podstawowa w Starej Kamienicy",
+                "addr:country": "PL",
+                "addr:postcode": "58-512",
+                "addr:city": "Stara Kamienica",
+                "addr:street": "ul. Sportowa",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 20683,
+                "addr:teryt:sym_ul": 192420,
+                "contact:phone": "+48 757514327",
+                "contact:email": "sp.starakamienica@onet.pl",
+                "ref:regon": "368246339",
+                "operator": "Gmina Stara Kamienica",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 270868"
+            }
+        },
+        {
+            "id": 270648,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.61014,
+                    50.89071
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 270648,
+                "official_name": "Liceum Og\u00f3lnokszta\u0142c\u0105ce w Starej Kamienicy",
+                "name": "Liceum Og\u00f3lnokszta\u0142c\u0105ce w Starej Kamienicy",
+                "addr:country": "PL",
+                "addr:postcode": "58-512",
+                "addr:city": "Stara Kamienica",
+                "addr:street": "ul. Sportowa",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 20683,
+                "addr:teryt:sym_ul": 192420,
+                "contact:phone": "+48 757514327",
+                "contact:email": "zs.starakamienica@op.pl",
+                "ref:regon": "382850136",
+                "operator": "Gmina Stara Kamienica",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 270868"
+            }
+        },
+        {
+            "id": 86648,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.595093,
+                    50.938029
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 86648,
+                "official_name": "Szko\u0142a Podstawowa w Barcinku",
+                "name": "Szko\u0142a Podstawowa w Barcinku",
+                "addr:country": "PL",
+                "addr:postcode": "58-512",
+                "addr:place": "Barcinek",
+                "addr:housenumber": "10",
+                "addr:teryt:sym_ul": 192324,
+                "contact:phone": "+48 757514334",
+                "contact:email": "sekretariat@spbarcinek.edu.pl",
+                "ref:regon": "231203974",
+                "ref:vatin": "PL6112418216",
+                "operator": "Gmina Stara Kamienica",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

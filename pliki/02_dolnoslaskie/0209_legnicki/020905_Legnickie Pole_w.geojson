@@ -1,1 +1,157 @@
-{"type":"FeatureCollection","features":[{"id":88467,"type":"Feature","geometry":{"type":"Point","coordinates":[16.243770599365,51.144519805908]},"properties":{"ref:rspo":88467,"official_name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w Legnickim Polu","name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w Legnickim Polu","addr:country":"PL","addr:postcode":"59-241","addr:city":"Legnickie Pole","addr:street":"ul. Kosmy Damiana Asama","addr:housenumber":"7","addr:teryt:simc":31029,"addr:teryt:sym_ul":365084,"contact:phone":"+48 768582834","contact:email":"sekretariat@zslegnickiepole.szkolnastrona.pl","contact:website":"http:\/\/www.zslegnickiepole.szkolnastrona.pl","ref:regon":"390764347","ref:vatin":"PL6912137915","operator":"Gmina Legnickie Pole","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 91355;91357"}},{"id":91355,"type":"Feature","geometry":{"type":"Point","coordinates":[16.243770599365,51.144489805907995]},"properties":{"isced:level":"1;2","ref:rspo":91355,"official_name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w Legnickim Polu Szko\u0142a Podstawowa im. Ksi\u0119\u017cnej Anny I Henryka Pobo\u017cnego w Legnickim Polu","name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w Legnickim Polu Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"59-241","addr:city":"Legnickie Pole","addr:street":"ul. Kosmy Damiana Asama","addr:housenumber":"5","addr:teryt:simc":31029,"addr:teryt:sym_ul":365084,"contact:phone":"+48 768582834","contact:email":"sekretariat@zslegnickiepole.szkolnastrona.pl","contact:website":"http:\/\/www.zslegnickiepole.szkolnastrona.pl","ref:regon":"000268323","operator":"Gmina Legnickie Pole","operator:type":"government","amenity":"school","note":"Parent RSPO: 88467"}},{"id":91357,"type":"Feature","geometry":{"type":"Point","coordinates":[16.243770599365,51.144459805908]},"properties":{"ref:rspo":91357,"official_name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w Legnickim Polu Przedszkole w Legnickim Polu","name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w Legnickim Polu Przedszkole w Legnickim Polu","addr:country":"PL","addr:postcode":"59-241","addr:city":"Legnickie Pole","addr:street":"ul. Kosmy Damiana Asama","addr:housenumber":"7A","addr:teryt:simc":31029,"addr:teryt:sym_ul":365084,"contact:phone":"+48 768582835","contact:email":"sekretariat@zslegnickiepole.szkolnastrona.pl","contact:website":"http:\/\/www.zslegnickiepole.szkolnastrona.pl","ref:regon":"022019258","operator":"Gmina Legnickie Pole","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 88467"}},{"id":262881,"type":"Feature","geometry":{"type":"Point","coordinates":[16.21333,51.18734]},"properties":{"isced:level":"1;2","ref:rspo":262881,"official_name":"Terapeutyczna Niepubliczna Szko\u0142a Podstawowa Specjalna w Bartoszowie","name":"Terapeutyczna Niepubliczna Szko\u0142a Podstawowa Specjalna w Bartoszowie","addr:country":"PL","addr:postcode":"59-241","addr:place":"Bartosz\u00f3w","addr:housenumber":"11","addr:teryt:sym_ul":364989,"contact:phone":"+48 602243663","contact:email":"marekzataj@gmail.com","ref:regon":"368065589","operator":"Marek Zatajski","operator:type":"private","amenity":"school"}},{"id":274442,"type":"Feature","geometry":{"type":"Point","coordinates":[16.21242,51.1878699]},"properties":{"ref:rspo":274442,"official_name":"O\u015brodek Szkoleniowo-Doradczy Pika Kamila Andrzejczyk","name":"O\u015brodek Szkoleniowo-Doradczy Pika Kamila Andrzejczyk","addr:country":"PL","addr:postcode":"59-241","addr:place":"Bartosz\u00f3w","addr:housenumber":"12a","addr:teryt:sym_ul":364989,"contact:phone":"+48 606628537","contact:email":"pika.puh@o2.pl","ref:regon":"385805834","ref:vatin":"PL6912297151","operator":"Kamila Andrzejczyk","operator:type":"private","fixme":"w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. amenity=training + training=*, amenity=dancing_school, amenity=language_school, amenity=music_school) albo amenity=school, amenity=college, albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education."}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 88467,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.243770599365,
+                    51.144519805908
+                ]
+            },
+            "properties": {
+                "ref:rspo": 88467,
+                "official_name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w Legnickim Polu",
+                "name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w Legnickim Polu",
+                "addr:country": "PL",
+                "addr:postcode": "59-241",
+                "addr:city": "Legnickie Pole",
+                "addr:street": "ul. Kosmy Damiana Asama",
+                "addr:housenumber": "7",
+                "addr:teryt:simc": 31029,
+                "addr:teryt:sym_ul": 365084,
+                "contact:phone": "+48 768582834",
+                "contact:email": "sekretariat@zslegnickiepole.szkolnastrona.pl",
+                "contact:website": "http:\/\/www.zslegnickiepole.szkolnastrona.pl",
+                "ref:regon": "390764347",
+                "ref:vatin": "PL6912137915",
+                "operator": "Gmina Legnickie Pole",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 91355;91357"
+            }
+        },
+        {
+            "id": 91355,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.243770599365,
+                    51.144489805907995
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 91355,
+                "official_name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w Legnickim Polu Szko\u0142a Podstawowa im. Ksi\u0119\u017cnej Anny I Henryka Pobo\u017cnego w Legnickim Polu",
+                "name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w Legnickim Polu Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "59-241",
+                "addr:city": "Legnickie Pole",
+                "addr:street": "ul. Kosmy Damiana Asama",
+                "addr:housenumber": "5",
+                "addr:teryt:simc": 31029,
+                "addr:teryt:sym_ul": 365084,
+                "contact:phone": "+48 768582834",
+                "contact:email": "sekretariat@zslegnickiepole.szkolnastrona.pl",
+                "contact:website": "http:\/\/www.zslegnickiepole.szkolnastrona.pl",
+                "ref:regon": "000268323",
+                "operator": "Gmina Legnickie Pole",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 88467"
+            }
+        },
+        {
+            "id": 91357,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.243770599365,
+                    51.144459805908
+                ]
+            },
+            "properties": {
+                "ref:rspo": 91357,
+                "official_name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w Legnickim Polu Przedszkole w Legnickim Polu",
+                "name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w Legnickim Polu Przedszkole w Legnickim Polu",
+                "addr:country": "PL",
+                "addr:postcode": "59-241",
+                "addr:city": "Legnickie Pole",
+                "addr:street": "ul. Kosmy Damiana Asama",
+                "addr:housenumber": "7A",
+                "addr:teryt:simc": 31029,
+                "addr:teryt:sym_ul": 365084,
+                "contact:phone": "+48 768582835",
+                "contact:email": "sekretariat@zslegnickiepole.szkolnastrona.pl",
+                "contact:website": "http:\/\/www.zslegnickiepole.szkolnastrona.pl",
+                "ref:regon": "022019258",
+                "operator": "Gmina Legnickie Pole",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 88467"
+            }
+        },
+        {
+            "id": 262881,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.21333,
+                    51.18734
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 262881,
+                "official_name": "Terapeutyczna Niepubliczna Szko\u0142a Podstawowa Specjalna w Bartoszowie",
+                "name": "Terapeutyczna Niepubliczna Szko\u0142a Podstawowa Specjalna w Bartoszowie",
+                "addr:country": "PL",
+                "addr:postcode": "59-241",
+                "addr:place": "Bartosz\u00f3w",
+                "addr:housenumber": "11",
+                "addr:teryt:sym_ul": 364989,
+                "contact:phone": "+48 602243663",
+                "contact:email": "marekzataj@gmail.com",
+                "ref:regon": "368065589",
+                "operator": "Marek Zatajski",
+                "operator:type": "private",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 274442,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.21242,
+                    51.1878699
+                ]
+            },
+            "properties": {
+                "ref:rspo": 274442,
+                "official_name": "O\u015brodek Szkoleniowo-Doradczy Pika Kamila Andrzejczyk",
+                "name": "O\u015brodek Szkoleniowo-Doradczy Pika Kamila Andrzejczyk",
+                "addr:country": "PL",
+                "addr:postcode": "59-241",
+                "addr:place": "Bartosz\u00f3w",
+                "addr:housenumber": "12a",
+                "addr:teryt:sym_ul": 364989,
+                "contact:phone": "+48 606628537",
+                "contact:email": "pika.puh@o2.pl",
+                "ref:regon": "385805834",
+                "ref:vatin": "PL6912297151",
+                "operator": "Kamila Andrzejczyk",
+                "operator:type": "private",
+                "fixme": "w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. amenity=training + training=*, amenity=dancing_school, amenity=language_school, amenity=music_school) albo amenity=school, amenity=college, albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education."
+            }
+        }
+    ]
+}

@@ -1,1 +1,91 @@
-{"type":"FeatureCollection","features":[{"id":106054,"type":"Feature","geometry":{"type":"Point","coordinates":[23.553853,50.9250289]},"properties":{"isced:level":"1;2","ref:rspo":106054,"official_name":"Szko\u0142a Podstawowa w Le\u015bniowicach im. Tadeusza Ko\u015bciuszki","name":"Szko\u0142a Podstawowa w Le\u015bniowicach","addr:country":"PL","addr:postcode":"22-122","addr:place":"Le\u015bniowice","addr:housenumber":"24B","addr:teryt:sym_ul":104917,"contact:phone":"+48 825675466","contact:email":"splesniowice@wp.pl","ref:regon":"000593980","ref:vatin":"PL5632020100","operator":"Gmina Le\u015bniowice","operator:type":"government","amenity":"school"}},{"id":119342,"type":"Feature","geometry":{"type":"Point","coordinates":[23.553853,50.9249989]},"properties":{"isced:level":"1;2","ref:rspo":119342,"official_name":"Szko\u0142a Podstawowa im. Tadeusza Ko\u015bciuszki w Le\u015bniowicach","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"22-122","addr:place":"Le\u015bniowice","addr:housenumber":"24b","addr:teryt:sym_ul":104917,"contact:phone":"+48 825675466","contact:email":"splesniowice@wp.pl","ref:regon":"061597246","operator":"Le\u015bniowskie Stowarzyszenie O\u015bwiatowo-Samorz\u0105dowe","operator:type":"ngo","amenity":"school"}},{"id":119334,"type":"Feature","geometry":{"type":"Point","coordinates":[23.518469,51.034512]},"properties":{"isced:level":"1;2","ref:rspo":119334,"official_name":"Szko\u0142a Podstawowa w Sielcu","name":"Szko\u0142a Podstawowa w Sielcu","addr:country":"PL","addr:postcode":"22-122","addr:place":"Sielec","addr:housenumber":"67A","addr:teryt:sym_ul":105093,"contact:phone":"+48 825676366","contact:email":"sp.sielec@interia.pl","contact:website":"https:\/\/spsielec.edupage.org\/","ref:regon":"061597230","operator":"Le\u015bniowskie Stowarzyszenie O\u015bwiatowo-Samorz\u0105dowe","operator:type":"ngo","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 106054,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.553853,
+                    50.9250289
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 106054,
+                "official_name": "Szko\u0142a Podstawowa w Le\u015bniowicach im. Tadeusza Ko\u015bciuszki",
+                "name": "Szko\u0142a Podstawowa w Le\u015bniowicach",
+                "addr:country": "PL",
+                "addr:postcode": "22-122",
+                "addr:place": "Le\u015bniowice",
+                "addr:housenumber": "24B",
+                "addr:teryt:sym_ul": 104917,
+                "contact:phone": "+48 825675466",
+                "contact:email": "splesniowice@wp.pl",
+                "ref:regon": "000593980",
+                "ref:vatin": "PL5632020100",
+                "operator": "Gmina Le\u015bniowice",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 119342,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.553853,
+                    50.9249989
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 119342,
+                "official_name": "Szko\u0142a Podstawowa im. Tadeusza Ko\u015bciuszki w Le\u015bniowicach",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "22-122",
+                "addr:place": "Le\u015bniowice",
+                "addr:housenumber": "24b",
+                "addr:teryt:sym_ul": 104917,
+                "contact:phone": "+48 825675466",
+                "contact:email": "splesniowice@wp.pl",
+                "ref:regon": "061597246",
+                "operator": "Le\u015bniowskie Stowarzyszenie O\u015bwiatowo-Samorz\u0105dowe",
+                "operator:type": "ngo",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 119334,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.518469,
+                    51.034512
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 119334,
+                "official_name": "Szko\u0142a Podstawowa w Sielcu",
+                "name": "Szko\u0142a Podstawowa w Sielcu",
+                "addr:country": "PL",
+                "addr:postcode": "22-122",
+                "addr:place": "Sielec",
+                "addr:housenumber": "67A",
+                "addr:teryt:sym_ul": 105093,
+                "contact:phone": "+48 825676366",
+                "contact:email": "sp.sielec@interia.pl",
+                "contact:website": "https:\/\/spsielec.edupage.org\/",
+                "ref:regon": "061597230",
+                "operator": "Le\u015bniowskie Stowarzyszenie O\u015bwiatowo-Samorz\u0105dowe",
+                "operator:type": "ngo",
+                "amenity": "school"
+            }
+        }
+    ]
+}

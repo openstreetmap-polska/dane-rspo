@@ -1,1 +1,180 @@
-{"type":"FeatureCollection","features":[{"id":44552,"type":"Feature","geometry":{"type":"Point","coordinates":[22.72319,51.41706]},"properties":{"isced:level":"1;2","ref:rspo":44552,"official_name":"Szko\u0142a Podstawowa im. Jana Kochanowskiego w Nowej Woli","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"21-107","addr:place":"Nowa Wola","addr:housenumber":"95","addr:teryt:sym_ul":391006,"contact:phone":"+48 818510641","contact:email":"nowawola7@wp.pl","contact:website":"http:\/\/www.spnowawola.pl","ref:regon":"001151238","ref:vatin":"PL7141076405","operator":"Gmina Serniki","operator:type":"government","amenity":"school"}},{"id":44553,"type":"Feature","geometry":{"type":"Point","coordinates":[22.78119,51.43508]},"properties":{"isced:level":"1;2","ref:rspo":44553,"official_name":"Szko\u0142a Podstawowa im. Jana Paw\u0142a II w Brzost\u00f3wce","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"21-107","addr:place":"Brzost\u00f3wka","addr:housenumber":"88","addr:teryt:sym_ul":390969,"contact:phone":"+48 818510634","contact:email":"brzostowka.szkola@wp.pl","contact:website":"http:\/\/www.spbrzostowka.pl","ref:regon":"001151250","ref:vatin":"PL7141076434","operator":"Gmina Serniki","operator:type":"government","amenity":"school"}},{"id":278350,"type":"Feature","geometry":{"type":"Point","coordinates":[22.6583232,51.437091]},"properties":{"ref:rspo":278350,"official_name":"Prywatne Przedszkole Casper","name":"Prywatne Przedszkole Casper","addr:country":"PL","addr:postcode":"21-107","addr:place":"Serniki","addr:housenumber":"80","addr:teryt:sym_ul":391041,"contact:email":"kamila@przedszkolecasper.eu","ref:regon":"389865550","ref:vatin":"PL7122807322","operator":"Kamila Skrzypczy\u0144ska","operator:type":"private","amenity":"kindergarten"}},{"id":44554,"type":"Feature","geometry":{"type":"Point","coordinates":[22.65946,51.43753]},"properties":{"isced:level":"1;2","ref:rspo":44554,"official_name":"Szko\u0142a Podstawowa w Sernikach","name":"Szko\u0142a Podstawowa w Sernikach","addr:country":"PL","addr:postcode":"21-107","addr:place":"Serniki","addr:housenumber":"78","addr:teryt:sym_ul":391041,"contact:phone":"+48 818555125","contact:email":"sp.serniki@wp.pl","ref:regon":"430543029","ref:vatin":"PL7141076411","operator":"Gmina Serniki","operator:type":"government","amenity":"school"}},{"id":75236,"type":"Feature","geometry":{"type":"Point","coordinates":[22.73233,51.45092]},"properties":{"isced:level":"1;2","ref:rspo":75236,"official_name":"Publiczna Szko\u0142a Podstawowa w Nowej Wsi","name":"Publiczna Szko\u0142a Podstawowa w Nowej Wsi","addr:country":"PL","addr:postcode":"21-107","addr:place":"Nowa Wie\u015b","addr:housenumber":"76","addr:teryt:sym_ul":390998,"contact:phone":"+48 814510150","contact:email":"nowawies8@wp.pl","ref:regon":"061492406","ref:vatin":"PL7141806022","operator":"Stowarzyszenie Na Rzecz Edukacji I Ekorozwoju Wsi \"Nadzieja\" W Nowej Wsi","operator:type":"ngo","amenity":"school"}},{"id":44549,"type":"Feature","geometry":{"type":"Point","coordinates":[22.67279,51.45339]},"properties":{"isced:level":"1;2","ref:rspo":44549,"official_name":"Szko\u0142a Podstawowa im. Marii Konopnickiej w Woli Sernickiej","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"21-107","addr:place":"Wola Sernicka","addr:housenumber":"242","addr:teryt:sym_ul":391070,"contact:phone":"+48 818510054","contact:email":"sp_wolasernicka@op.pl","contact:website":"http:\/\/spwolasernicka.edupage.org","ref:regon":"000663019","ref:vatin":"PL7141076380","operator":"Gmina Serniki","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 44552,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.72319,
+                    51.41706
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 44552,
+                "official_name": "Szko\u0142a Podstawowa im. Jana Kochanowskiego w Nowej Woli",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "21-107",
+                "addr:place": "Nowa Wola",
+                "addr:housenumber": "95",
+                "addr:teryt:sym_ul": 391006,
+                "contact:phone": "+48 818510641",
+                "contact:email": "nowawola7@wp.pl",
+                "contact:website": "http:\/\/www.spnowawola.pl",
+                "ref:regon": "001151238",
+                "ref:vatin": "PL7141076405",
+                "operator": "Gmina Serniki",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 44553,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.78119,
+                    51.43508
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 44553,
+                "official_name": "Szko\u0142a Podstawowa im. Jana Paw\u0142a II w Brzost\u00f3wce",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "21-107",
+                "addr:place": "Brzost\u00f3wka",
+                "addr:housenumber": "88",
+                "addr:teryt:sym_ul": 390969,
+                "contact:phone": "+48 818510634",
+                "contact:email": "brzostowka.szkola@wp.pl",
+                "contact:website": "http:\/\/www.spbrzostowka.pl",
+                "ref:regon": "001151250",
+                "ref:vatin": "PL7141076434",
+                "operator": "Gmina Serniki",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 278350,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.6583232,
+                    51.437091
+                ]
+            },
+            "properties": {
+                "ref:rspo": 278350,
+                "official_name": "Prywatne Przedszkole Casper",
+                "name": "Prywatne Przedszkole Casper",
+                "addr:country": "PL",
+                "addr:postcode": "21-107",
+                "addr:place": "Serniki",
+                "addr:housenumber": "80",
+                "addr:teryt:sym_ul": 391041,
+                "contact:email": "kamila@przedszkolecasper.eu",
+                "ref:regon": "389865550",
+                "ref:vatin": "PL7122807322",
+                "operator": "Kamila Skrzypczy\u0144ska",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 44554,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.65946,
+                    51.43753
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 44554,
+                "official_name": "Szko\u0142a Podstawowa w Sernikach",
+                "name": "Szko\u0142a Podstawowa w Sernikach",
+                "addr:country": "PL",
+                "addr:postcode": "21-107",
+                "addr:place": "Serniki",
+                "addr:housenumber": "78",
+                "addr:teryt:sym_ul": 391041,
+                "contact:phone": "+48 818555125",
+                "contact:email": "sp.serniki@wp.pl",
+                "ref:regon": "430543029",
+                "ref:vatin": "PL7141076411",
+                "operator": "Gmina Serniki",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 75236,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.73233,
+                    51.45092
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 75236,
+                "official_name": "Publiczna Szko\u0142a Podstawowa w Nowej Wsi",
+                "name": "Publiczna Szko\u0142a Podstawowa w Nowej Wsi",
+                "addr:country": "PL",
+                "addr:postcode": "21-107",
+                "addr:place": "Nowa Wie\u015b",
+                "addr:housenumber": "76",
+                "addr:teryt:sym_ul": 390998,
+                "contact:phone": "+48 814510150",
+                "contact:email": "nowawies8@wp.pl",
+                "ref:regon": "061492406",
+                "ref:vatin": "PL7141806022",
+                "operator": "Stowarzyszenie Na Rzecz Edukacji I Ekorozwoju Wsi \"Nadzieja\" W Nowej Wsi",
+                "operator:type": "ngo",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 44549,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.67279,
+                    51.45339
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 44549,
+                "official_name": "Szko\u0142a Podstawowa im. Marii Konopnickiej w Woli Sernickiej",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "21-107",
+                "addr:place": "Wola Sernicka",
+                "addr:housenumber": "242",
+                "addr:teryt:sym_ul": 391070,
+                "contact:phone": "+48 818510054",
+                "contact:email": "sp_wolasernicka@op.pl",
+                "contact:website": "http:\/\/spwolasernicka.edupage.org",
+                "ref:regon": "000663019",
+                "ref:vatin": "PL7141076380",
+                "operator": "Gmina Serniki",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

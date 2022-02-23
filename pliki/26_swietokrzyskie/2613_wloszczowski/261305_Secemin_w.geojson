@@ -1,1 +1,186 @@
-{"type":"FeatureCollection","features":[{"id":272561,"type":"Feature","geometry":{"type":"Point","coordinates":[19.82419,50.72758]},"properties":{"ref:rspo":272561,"official_name":"O\u015brodek Rewalidacyjno-Wychowawczy w Psarach","name":"O\u015brodek Rewalidacyjno-Wychowawczy w Psarach","addr:country":"PL","addr:postcode":"29-145","addr:place":"Psary-Kolonia","addr:housenumber":"57","addr:teryt:sym_ul":145477,"contact:phone":"+48 534710507","contact:email":"pokonacbariery@wp.pl","ref:regon":"384265979","operator":"Fundacja Na Rzecz Os\u00f3b Niepe\u0142nosprawnych - Pokona\u0107 Bariery","operator:type":"ngo","amenity":"school"}},{"id":18008,"type":"Feature","geometry":{"type":"Point","coordinates":[19.83231,50.76266]},"properties":{"isced:level":"1;2","ref:rspo":18008,"official_name":"Szko\u0142a Podstawowa im. Jana Zawady w Seceminie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"29-145","addr:city":"Secemin","addr:street":"ul. Struga","addr:housenumber":"1B","addr:teryt:simc":21306,"addr:teryt:sym_ul":145490,"contact:phone":"+48 343556023","contact:email":"zs.secemin@interia.pl","contact:website":"http:\/\/www.spsecemin.edu.pl","ref:regon":"000272394","ref:vatin":"PL6562047694","operator":"Gmina Secemin","operator:type":"government","amenity":"school"}},{"id":11467,"type":"Feature","geometry":{"type":"Point","coordinates":[19.83467,50.76534]},"properties":{"ref:rspo":11467,"official_name":"Publiczne Przedszkole w Seceminie","name":"Publiczne Przedszkole w Seceminie","addr:country":"PL","addr:postcode":"29-145","addr:city":"Secemin","addr:street":"ul. Koniecpolska","addr:housenumber":"2A","addr:teryt:simc":9147,"addr:teryt:sym_ul":145490,"contact:phone":"+48 343440146","contact:email":"ppsecemin@vp.pl","ref:regon":"150027020","ref:vatin":"PL6562047719","operator":"Gmina Secemin","operator:type":"government","amenity":"kindergarten"}},{"id":6794,"type":"Feature","geometry":{"type":"Point","coordinates":[19.8669448,50.809591]},"properties":{"ref:rspo":6794,"official_name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w \u017belis\u0142awicach","name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w \u017belis\u0142awicach","addr:country":"PL","addr:postcode":"29-145","addr:place":"\u017belis\u0142awice","addr:housenumber":"13","addr:teryt:sym_ul":145632,"contact:phone":"+48 343556123","contact:email":"zelislawice@wp.pl","contact:website":"http:\/\/spzelislawice.laohost.net","ref:regon":"260018197","ref:vatin":"PL6090070420","operator":"Gmina Secemin","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 16681;16682"}},{"id":16681,"type":"Feature","geometry":{"type":"Point","coordinates":[19.8669448,50.809560999999995]},"properties":{"ref:rspo":16681,"official_name":"Publiczne Przedszkole w \u017belis\u0142awicach","name":"Publiczne Przedszkole w \u017belis\u0142awicach","addr:country":"PL","addr:postcode":"29-145","addr:place":"\u017belis\u0142awice","addr:housenumber":"13","addr:teryt:sym_ul":145632,"contact:phone":"+48 343556123","contact:email":"zelislawice@wp.pl","contact:website":"http:\/\/spzelislawice.laohost.net","ref:regon":"150027014","ref:vatin":"PL6562047688","operator":"Gmina Secemin","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 6794"}},{"id":16682,"type":"Feature","geometry":{"type":"Point","coordinates":[19.8669448,50.809531]},"properties":{"isced:level":"1;2","ref:rspo":16682,"official_name":"Szko\u0142a Podstawowa w \u017belis\u0142awicach","name":"Szko\u0142a Podstawowa w \u017belis\u0142awicach","addr:country":"PL","addr:postcode":"29-145","addr:place":"\u017belis\u0142awice","addr:housenumber":"13","addr:teryt:sym_ul":145632,"contact:phone":"+48 343556123","contact:email":"zelislawice@wp.pl","contact:website":"http:\/\/spzelislawice.laohost.net","ref:regon":"001198091","ref:vatin":"PL6562047671","operator":"Gmina Secemin","operator:type":"government","amenity":"school","note":"Parent RSPO: 6794"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 272561,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.82419,
+                    50.72758
+                ]
+            },
+            "properties": {
+                "ref:rspo": 272561,
+                "official_name": "O\u015brodek Rewalidacyjno-Wychowawczy w Psarach",
+                "name": "O\u015brodek Rewalidacyjno-Wychowawczy w Psarach",
+                "addr:country": "PL",
+                "addr:postcode": "29-145",
+                "addr:place": "Psary-Kolonia",
+                "addr:housenumber": "57",
+                "addr:teryt:sym_ul": 145477,
+                "contact:phone": "+48 534710507",
+                "contact:email": "pokonacbariery@wp.pl",
+                "ref:regon": "384265979",
+                "operator": "Fundacja Na Rzecz Os\u00f3b Niepe\u0142nosprawnych - Pokona\u0107 Bariery",
+                "operator:type": "ngo",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 18008,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.83231,
+                    50.76266
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 18008,
+                "official_name": "Szko\u0142a Podstawowa im. Jana Zawady w Seceminie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "29-145",
+                "addr:city": "Secemin",
+                "addr:street": "ul. Struga",
+                "addr:housenumber": "1B",
+                "addr:teryt:simc": 21306,
+                "addr:teryt:sym_ul": 145490,
+                "contact:phone": "+48 343556023",
+                "contact:email": "zs.secemin@interia.pl",
+                "contact:website": "http:\/\/www.spsecemin.edu.pl",
+                "ref:regon": "000272394",
+                "ref:vatin": "PL6562047694",
+                "operator": "Gmina Secemin",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 11467,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.83467,
+                    50.76534
+                ]
+            },
+            "properties": {
+                "ref:rspo": 11467,
+                "official_name": "Publiczne Przedszkole w Seceminie",
+                "name": "Publiczne Przedszkole w Seceminie",
+                "addr:country": "PL",
+                "addr:postcode": "29-145",
+                "addr:city": "Secemin",
+                "addr:street": "ul. Koniecpolska",
+                "addr:housenumber": "2A",
+                "addr:teryt:simc": 9147,
+                "addr:teryt:sym_ul": 145490,
+                "contact:phone": "+48 343440146",
+                "contact:email": "ppsecemin@vp.pl",
+                "ref:regon": "150027020",
+                "ref:vatin": "PL6562047719",
+                "operator": "Gmina Secemin",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 6794,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8669448,
+                    50.809591
+                ]
+            },
+            "properties": {
+                "ref:rspo": 6794,
+                "official_name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w \u017belis\u0142awicach",
+                "name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w \u017belis\u0142awicach",
+                "addr:country": "PL",
+                "addr:postcode": "29-145",
+                "addr:place": "\u017belis\u0142awice",
+                "addr:housenumber": "13",
+                "addr:teryt:sym_ul": 145632,
+                "contact:phone": "+48 343556123",
+                "contact:email": "zelislawice@wp.pl",
+                "contact:website": "http:\/\/spzelislawice.laohost.net",
+                "ref:regon": "260018197",
+                "ref:vatin": "PL6090070420",
+                "operator": "Gmina Secemin",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 16681;16682"
+            }
+        },
+        {
+            "id": 16681,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8669448,
+                    50.809560999999995
+                ]
+            },
+            "properties": {
+                "ref:rspo": 16681,
+                "official_name": "Publiczne Przedszkole w \u017belis\u0142awicach",
+                "name": "Publiczne Przedszkole w \u017belis\u0142awicach",
+                "addr:country": "PL",
+                "addr:postcode": "29-145",
+                "addr:place": "\u017belis\u0142awice",
+                "addr:housenumber": "13",
+                "addr:teryt:sym_ul": 145632,
+                "contact:phone": "+48 343556123",
+                "contact:email": "zelislawice@wp.pl",
+                "contact:website": "http:\/\/spzelislawice.laohost.net",
+                "ref:regon": "150027014",
+                "ref:vatin": "PL6562047688",
+                "operator": "Gmina Secemin",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 6794"
+            }
+        },
+        {
+            "id": 16682,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8669448,
+                    50.809531
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 16682,
+                "official_name": "Szko\u0142a Podstawowa w \u017belis\u0142awicach",
+                "name": "Szko\u0142a Podstawowa w \u017belis\u0142awicach",
+                "addr:country": "PL",
+                "addr:postcode": "29-145",
+                "addr:place": "\u017belis\u0142awice",
+                "addr:housenumber": "13",
+                "addr:teryt:sym_ul": 145632,
+                "contact:phone": "+48 343556123",
+                "contact:email": "zelislawice@wp.pl",
+                "contact:website": "http:\/\/spzelislawice.laohost.net",
+                "ref:regon": "001198091",
+                "ref:vatin": "PL6562047671",
+                "operator": "Gmina Secemin",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 6794"
+            }
+        }
+    ]
+}

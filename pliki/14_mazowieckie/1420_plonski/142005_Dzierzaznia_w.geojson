@@ -1,1 +1,65 @@
-{"type":"FeatureCollection","features":[{"id":93111,"type":"Feature","geometry":{"type":"Point","coordinates":[20.22245,52.57762]},"properties":{"isced:level":"1;2","ref:rspo":93111,"official_name":"Szko\u0142a Podstawowa im.wandy Chotomskiej w Nowych Kucicach","name":"Szko\u0142a Podstawowa im.wandy Chotomskiej w Nowych Kucicach","addr:country":"PL","addr:postcode":"09-164","addr:place":"Nowe Kucice","addr:housenumber":"46","addr:teryt:sym_ul":113939,"contact:phone":"+48 236615802","contact:email":"spnowekucice@gmail.com","contact:website":"http:\/\/www.spnowekucice.pl","ref:regon":"001158625","ref:vatin":"PL5671590008","operator":"Gmina Dzierz\u0105\u017cnia","operator:type":"government","amenity":"school"}},{"id":121651,"type":"Feature","geometry":{"type":"Point","coordinates":[20.2041039,52.628498]},"properties":{"isced:level":"1;2","ref:rspo":121651,"official_name":"Szko\u0142a Podstawowa im.jana Paw\u0142a II w Dzierz\u0105\u017cni","name":"Szko\u0142a Podstawowa im.jana Paw\u0142a II w Dzierz\u0105\u017cni","addr:country":"PL","addr:postcode":"09-164","addr:place":"Dzierz\u0105\u017cnia","addr:housenumber":"57","addr:teryt:sym_ul":113856,"contact:phone":"+48 236615905","contact:email":"szkoladzierzaznia@op.pl","contact:website":"http:\/\/www.spdzierzaznia.edupage.org","ref:regon":"000663723","ref:vatin":"PL5671600830","operator":"Gmina Dzierz\u0105\u017cnia","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 93111,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.22245,
+                    52.57762
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 93111,
+                "official_name": "Szko\u0142a Podstawowa im.wandy Chotomskiej w Nowych Kucicach",
+                "name": "Szko\u0142a Podstawowa im.wandy Chotomskiej w Nowych Kucicach",
+                "addr:country": "PL",
+                "addr:postcode": "09-164",
+                "addr:place": "Nowe Kucice",
+                "addr:housenumber": "46",
+                "addr:teryt:sym_ul": 113939,
+                "contact:phone": "+48 236615802",
+                "contact:email": "spnowekucice@gmail.com",
+                "contact:website": "http:\/\/www.spnowekucice.pl",
+                "ref:regon": "001158625",
+                "ref:vatin": "PL5671590008",
+                "operator": "Gmina Dzierz\u0105\u017cnia",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 121651,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.2041039,
+                    52.628498
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 121651,
+                "official_name": "Szko\u0142a Podstawowa im.jana Paw\u0142a II w Dzierz\u0105\u017cni",
+                "name": "Szko\u0142a Podstawowa im.jana Paw\u0142a II w Dzierz\u0105\u017cni",
+                "addr:country": "PL",
+                "addr:postcode": "09-164",
+                "addr:place": "Dzierz\u0105\u017cnia",
+                "addr:housenumber": "57",
+                "addr:teryt:sym_ul": 113856,
+                "contact:phone": "+48 236615905",
+                "contact:email": "szkoladzierzaznia@op.pl",
+                "contact:website": "http:\/\/www.spdzierzaznia.edupage.org",
+                "ref:regon": "000663723",
+                "ref:vatin": "PL5671600830",
+                "operator": "Gmina Dzierz\u0105\u017cnia",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

@@ -1,1 +1,66 @@
-{"type":"FeatureCollection","features":[{"id":69080,"type":"Feature","geometry":{"type":"Point","coordinates":[22.78425,54.19192]},"properties":{"isced:level":"1;2","ref:rspo":69080,"official_name":"Szko\u0142a Podstawowa w Paw\u0142\u00f3wce","name":"Szko\u0142a Podstawowa w Paw\u0142\u00f3wce","addr:country":"PL","addr:postcode":"16-427","addr:place":"Nowa Paw\u0142\u00f3wka","addr:housenumber":"1","addr:teryt:sym_ul":765903,"contact:phone":"+48 875691776","contact:email":"sppawlowka@o2.pl","ref:regon":"001144988","ref:vatin":"PL8441826791","operator":"Gmina Przero\u015bl","operator:type":"government","amenity":"school"}},{"id":73496,"type":"Feature","geometry":{"type":"Point","coordinates":[22.65589,54.24969]},"properties":{"isced:level":"1;2","ref:rspo":73496,"official_name":"Szko\u0142a Podstawowa w Przero\u015bli","name":"Szko\u0142a Podstawowa w Przero\u015bli","addr:country":"PL","addr:postcode":"16-427","addr:city":"Przero\u015bl","addr:street":"ul. Dworna","addr:housenumber":"5","addr:teryt:simc":4442,"addr:teryt:sym_ul":765961,"contact:phone":"+48 875691009","contact:email":"sekretariat@spprzerosl.pl","contact:website":"http:\/\/spprzerosl.superszkolna.pl\/","ref:regon":"000268866","ref:vatin":"PL8441110532","operator":"Gmina Przero\u015bl","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 69080,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.78425,
+                    54.19192
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 69080,
+                "official_name": "Szko\u0142a Podstawowa w Paw\u0142\u00f3wce",
+                "name": "Szko\u0142a Podstawowa w Paw\u0142\u00f3wce",
+                "addr:country": "PL",
+                "addr:postcode": "16-427",
+                "addr:place": "Nowa Paw\u0142\u00f3wka",
+                "addr:housenumber": "1",
+                "addr:teryt:sym_ul": 765903,
+                "contact:phone": "+48 875691776",
+                "contact:email": "sppawlowka@o2.pl",
+                "ref:regon": "001144988",
+                "ref:vatin": "PL8441826791",
+                "operator": "Gmina Przero\u015bl",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 73496,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.65589,
+                    54.24969
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 73496,
+                "official_name": "Szko\u0142a Podstawowa w Przero\u015bli",
+                "name": "Szko\u0142a Podstawowa w Przero\u015bli",
+                "addr:country": "PL",
+                "addr:postcode": "16-427",
+                "addr:city": "Przero\u015bl",
+                "addr:street": "ul. Dworna",
+                "addr:housenumber": "5",
+                "addr:teryt:simc": 4442,
+                "addr:teryt:sym_ul": 765961,
+                "contact:phone": "+48 875691009",
+                "contact:email": "sekretariat@spprzerosl.pl",
+                "contact:website": "http:\/\/spprzerosl.superszkolna.pl\/",
+                "ref:regon": "000268866",
+                "ref:vatin": "PL8441110532",
+                "operator": "Gmina Przero\u015bl",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

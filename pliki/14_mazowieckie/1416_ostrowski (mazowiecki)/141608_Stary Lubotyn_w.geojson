@@ -1,1 +1,62 @@
-{"type":"FeatureCollection","features":[{"id":77951,"type":"Feature","geometry":{"type":"Point","coordinates":[21.8771999,52.88144]},"properties":{"isced:level":"1;2","ref:rspo":77951,"official_name":"Szko\u0142a Podstawowa w Sul\u0119cinie Szlacheckim","name":"Szko\u0142a Podstawowa w Sul\u0119cinie Szlacheckim","addr:country":"PL","addr:postcode":"07-303","addr:place":"Sul\u0119cin Szlachecki","addr:housenumber":"73","addr:teryt:sym_ul":520700,"contact:phone":"+48 296446199","contact:email":"podstawowka1_sulecin@interia.pl","ref:regon":"001106692","operator":"Gmina Stary Luboty\u0144","operator:type":"government","amenity":"school"}},{"id":77614,"type":"Feature","geometry":{"type":"Point","coordinates":[21.93591,52.93274]},"properties":{"isced:level":"1;2","ref:rspo":77614,"official_name":"Szko\u0142a Podstawowa im. Jana Paw\u0142a II - Papie\u017ca Polaka w Starym Lubotyniu","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"07-303","addr:place":"Stary Luboty\u0144","addr:housenumber":"7","addr:teryt:sym_ul":520685,"contact:phone":"+48 296446400","contact:email":"splubotyn@wp.pl","contact:website":"http:\/\/www.splubotyn.edupage.org","ref:regon":"000640886","operator":"Gmina Stary Luboty\u0144","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 77951,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.8771999,
+                    52.88144
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 77951,
+                "official_name": "Szko\u0142a Podstawowa w Sul\u0119cinie Szlacheckim",
+                "name": "Szko\u0142a Podstawowa w Sul\u0119cinie Szlacheckim",
+                "addr:country": "PL",
+                "addr:postcode": "07-303",
+                "addr:place": "Sul\u0119cin Szlachecki",
+                "addr:housenumber": "73",
+                "addr:teryt:sym_ul": 520700,
+                "contact:phone": "+48 296446199",
+                "contact:email": "podstawowka1_sulecin@interia.pl",
+                "ref:regon": "001106692",
+                "operator": "Gmina Stary Luboty\u0144",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 77614,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.93591,
+                    52.93274
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 77614,
+                "official_name": "Szko\u0142a Podstawowa im. Jana Paw\u0142a II - Papie\u017ca Polaka w Starym Lubotyniu",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "07-303",
+                "addr:place": "Stary Luboty\u0144",
+                "addr:housenumber": "7",
+                "addr:teryt:sym_ul": 520685,
+                "contact:phone": "+48 296446400",
+                "contact:email": "splubotyn@wp.pl",
+                "contact:website": "http:\/\/www.splubotyn.edupage.org",
+                "ref:regon": "000640886",
+                "operator": "Gmina Stary Luboty\u0144",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

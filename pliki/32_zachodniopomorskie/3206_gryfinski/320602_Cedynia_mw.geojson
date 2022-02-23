@@ -1,1 +1,158 @@
-{"type":"FeatureCollection","features":[{"id":20058,"type":"Feature","geometry":{"type":"Point","coordinates":[14.5006,52.79]},"properties":{"ref:rspo":20058,"official_name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny","name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny","addr:country":"PL","addr:postcode":"74-520","addr:city":"Cedynia","addr:street":"ul. Mieszka I","addr:housenumber":"21","addr:teryt:simc":12832,"addr:teryt:sym_ul":978734,"contact:phone":"+48 914144017","contact:email":"dyrektor@spcedynia.pl","contact:website":"http:\/\/spcedynia.edupage.org","ref:regon":"321090032","ref:vatin":"PL8581846351","operator":"Gmina Cedynia","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 38968;39037"}},{"id":38968,"type":"Feature","geometry":{"type":"Point","coordinates":[14.5006,52.78997]},"properties":{"ref:rspo":38968,"official_name":"Przedszkole Miejskie w Cedynia","name":"Przedszkole Miejskie w Cedynia","addr:country":"PL","addr:postcode":"74-520","addr:city":"Cedynia","addr:street":"ul. Mieszka I","addr:housenumber":"21","addr:teryt:simc":12832,"addr:teryt:sym_ul":978734,"contact:phone":"+48 914144017","contact:email":"dyrektor@spcedynia.pl","contact:website":"https:\/\/spcedynia.edupage.org\/","ref:regon":"321290191","operator":"Gmina Cedynia","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 20058"}},{"id":39037,"type":"Feature","geometry":{"type":"Point","coordinates":[14.5006,52.78994]},"properties":{"isced:level":"1;2","ref:rspo":39037,"official_name":"Szko\u0142a Podstawowa w Cedyni","name":"Szko\u0142a Podstawowa w Cedyni","addr:country":"PL","addr:postcode":"74-750","addr:city":"Cedynia","addr:street":"ul. Mieszka I","addr:housenumber":"21","addr:teryt:simc":12832,"addr:teryt:sym_ul":978734,"contact:phone":"+48 914144017","contact:email":"dyrektor@spcedynia.pl","contact:website":"https:\/\/spcedynia.edupage.org\/","ref:regon":"810861212","operator":"Gmina Cedynia","operator:type":"government","amenity":"school","note":"Parent RSPO: 20058"}},{"id":272478,"type":"Feature","geometry":{"type":"Point","coordinates":[14.14093,52.84983]},"properties":{"ref:rspo":272478,"official_name":"Centrum Sportu I Edukacji Cedyniolandia","name":"Centrum Sportu I Edukacji Cedyniolandia","addr:country":"PL","addr:postcode":"74-520","addr:place":"Osin\u00f3w Dolny","addr:housenumber":"50","addr:teryt:sym_ul":773239,"contact:phone":"+48 914144134","contact:email":"cedyniolandia@o2.pl","ref:regon":"384191206","operator":"Centrum Sportu I Edukacji Cedyniolandia Sp\u00f3\u0142ka Z Ograniczon\u0105 Odpowiedzialno\u015bci\u0105","operator:type":"consortium","fixme":"w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. amenity=training + training=*, amenity=dancing_school, amenity=language_school, amenity=music_school)"}},{"id":20059,"type":"Feature","geometry":{"type":"Point","coordinates":[14.20789,52.97579]},"properties":{"isced:level":"1;2","ref:rspo":20059,"official_name":"Szko\u0142a Podstawowa im.le\u015bnik\u00f3w Polskich","name":"Szko\u0142a Podstawowa im.le\u015bnik\u00f3w Polskich","addr:country":"PL","addr:postcode":"74-520","addr:place":"Piasek","addr:housenumber":"63b","addr:teryt:sym_ul":773245,"contact:phone":"+48 914144721","contact:email":"sppiasek@op.pl","contact:website":"http:\/\/sppiasek.edupage.org","ref:regon":"001223185","ref:vatin":"PL8581631366","operator":"Gmina Cedynia","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 20058,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5006,
+                    52.79
+                ]
+            },
+            "properties": {
+                "ref:rspo": 20058,
+                "official_name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny",
+                "name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny",
+                "addr:country": "PL",
+                "addr:postcode": "74-520",
+                "addr:city": "Cedynia",
+                "addr:street": "ul. Mieszka I",
+                "addr:housenumber": "21",
+                "addr:teryt:simc": 12832,
+                "addr:teryt:sym_ul": 978734,
+                "contact:phone": "+48 914144017",
+                "contact:email": "dyrektor@spcedynia.pl",
+                "contact:website": "http:\/\/spcedynia.edupage.org",
+                "ref:regon": "321090032",
+                "ref:vatin": "PL8581846351",
+                "operator": "Gmina Cedynia",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 38968;39037"
+            }
+        },
+        {
+            "id": 38968,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5006,
+                    52.78997
+                ]
+            },
+            "properties": {
+                "ref:rspo": 38968,
+                "official_name": "Przedszkole Miejskie w Cedynia",
+                "name": "Przedszkole Miejskie w Cedynia",
+                "addr:country": "PL",
+                "addr:postcode": "74-520",
+                "addr:city": "Cedynia",
+                "addr:street": "ul. Mieszka I",
+                "addr:housenumber": "21",
+                "addr:teryt:simc": 12832,
+                "addr:teryt:sym_ul": 978734,
+                "contact:phone": "+48 914144017",
+                "contact:email": "dyrektor@spcedynia.pl",
+                "contact:website": "https:\/\/spcedynia.edupage.org\/",
+                "ref:regon": "321290191",
+                "operator": "Gmina Cedynia",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 20058"
+            }
+        },
+        {
+            "id": 39037,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5006,
+                    52.78994
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 39037,
+                "official_name": "Szko\u0142a Podstawowa w Cedyni",
+                "name": "Szko\u0142a Podstawowa w Cedyni",
+                "addr:country": "PL",
+                "addr:postcode": "74-750",
+                "addr:city": "Cedynia",
+                "addr:street": "ul. Mieszka I",
+                "addr:housenumber": "21",
+                "addr:teryt:simc": 12832,
+                "addr:teryt:sym_ul": 978734,
+                "contact:phone": "+48 914144017",
+                "contact:email": "dyrektor@spcedynia.pl",
+                "contact:website": "https:\/\/spcedynia.edupage.org\/",
+                "ref:regon": "810861212",
+                "operator": "Gmina Cedynia",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 20058"
+            }
+        },
+        {
+            "id": 272478,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.14093,
+                    52.84983
+                ]
+            },
+            "properties": {
+                "ref:rspo": 272478,
+                "official_name": "Centrum Sportu I Edukacji Cedyniolandia",
+                "name": "Centrum Sportu I Edukacji Cedyniolandia",
+                "addr:country": "PL",
+                "addr:postcode": "74-520",
+                "addr:place": "Osin\u00f3w Dolny",
+                "addr:housenumber": "50",
+                "addr:teryt:sym_ul": 773239,
+                "contact:phone": "+48 914144134",
+                "contact:email": "cedyniolandia@o2.pl",
+                "ref:regon": "384191206",
+                "operator": "Centrum Sportu I Edukacji Cedyniolandia Sp\u00f3\u0142ka Z Ograniczon\u0105 Odpowiedzialno\u015bci\u0105",
+                "operator:type": "consortium",
+                "fixme": "w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. amenity=training + training=*, amenity=dancing_school, amenity=language_school, amenity=music_school)"
+            }
+        },
+        {
+            "id": 20059,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.20789,
+                    52.97579
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 20059,
+                "official_name": "Szko\u0142a Podstawowa im.le\u015bnik\u00f3w Polskich",
+                "name": "Szko\u0142a Podstawowa im.le\u015bnik\u00f3w Polskich",
+                "addr:country": "PL",
+                "addr:postcode": "74-520",
+                "addr:place": "Piasek",
+                "addr:housenumber": "63b",
+                "addr:teryt:sym_ul": 773245,
+                "contact:phone": "+48 914144721",
+                "contact:email": "sppiasek@op.pl",
+                "contact:website": "http:\/\/sppiasek.edupage.org",
+                "ref:regon": "001223185",
+                "ref:vatin": "PL8581631366",
+                "operator": "Gmina Cedynia",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

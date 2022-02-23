@@ -1,1 +1,94 @@
-{"type":"FeatureCollection","features":[{"id":262223,"type":"Feature","geometry":{"type":"Point","coordinates":[15.14167,53.42321]},"properties":{"isced:level":"1;2","ref:rspo":262223,"official_name":"Publiczna Szko\u0142a Podstawowa im. Noblist\u00f3w Polskich w Starej D\u0105browie","name":"Publiczna Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"73-112","addr:place":"Stara D\u0105browa","addr:housenumber":"31","addr:teryt:sym_ul":783054,"contact:phone":"+48 915613590","contact:email":"zsp.gimnazjum@wp.pl","contact:website":"https:\/\/pspsd.edupage.org\/","ref:regon":"367992543","operator":"Gmina Stara D\u0105browa","operator:type":"government","amenity":"school","note":"Children RSPO: 278604"}},{"id":278604,"type":"Feature","geometry":{"type":"Point","coordinates":[15.06331,53.44899]},"properties":{"isced:level":"1;2","ref:rspo":278604,"official_name":"Szko\u0142a Filialna Publicznej Szko\u0142y Podstawowej im. Noblist\u00f3w Polskich w Starej D\u0105browie","name":"Szko\u0142a Filialna Publicznej Szko\u0142y Podstawowej","addr:country":"PL","addr:postcode":"73-112","addr:place":"Parlino","addr:housenumber":"17","addr:teryt:sym_ul":783025,"contact:phone":"+48 915613590","contact:email":"zsp.gimnazjum@wp.pl","contact:website":"http:\/\/pspsd.edupage.org","ref:regon":"367992543","operator":"Gmina Stara D\u0105browa","operator:type":"government","amenity":"school","note":"Parent RSPO: 262223"}},{"id":12095,"type":"Feature","geometry":{"type":"Point","coordinates":[15.18306,53.46105]},"properties":{"isced:level":"1;2","ref:rspo":12095,"official_name":"Publiczna Szko\u0142a Podstawowa Im Kornela Makuszy\u0144skiego","name":"Publiczna Szko\u0142a Podstawowa Im Kornela Makuszy\u0144skiego","addr:country":"PL","addr:postcode":"73-112","addr:place":"Chleb\u00f3wko","addr:housenumber":"9","addr:teryt:sym_ul":782920,"contact:phone":"+48 915613395","contact:email":"chlebowko@poczta.onet.pl","ref:regon":"001223647","ref:vatin":"PL8542167031","operator":"Gmina Stara D\u0105browa","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 262223,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.14167,
+                    53.42321
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 262223,
+                "official_name": "Publiczna Szko\u0142a Podstawowa im. Noblist\u00f3w Polskich w Starej D\u0105browie",
+                "name": "Publiczna Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "73-112",
+                "addr:place": "Stara D\u0105browa",
+                "addr:housenumber": "31",
+                "addr:teryt:sym_ul": 783054,
+                "contact:phone": "+48 915613590",
+                "contact:email": "zsp.gimnazjum@wp.pl",
+                "contact:website": "https:\/\/pspsd.edupage.org\/",
+                "ref:regon": "367992543",
+                "operator": "Gmina Stara D\u0105browa",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Children RSPO: 278604"
+            }
+        },
+        {
+            "id": 278604,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.06331,
+                    53.44899
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 278604,
+                "official_name": "Szko\u0142a Filialna Publicznej Szko\u0142y Podstawowej im. Noblist\u00f3w Polskich w Starej D\u0105browie",
+                "name": "Szko\u0142a Filialna Publicznej Szko\u0142y Podstawowej",
+                "addr:country": "PL",
+                "addr:postcode": "73-112",
+                "addr:place": "Parlino",
+                "addr:housenumber": "17",
+                "addr:teryt:sym_ul": 783025,
+                "contact:phone": "+48 915613590",
+                "contact:email": "zsp.gimnazjum@wp.pl",
+                "contact:website": "http:\/\/pspsd.edupage.org",
+                "ref:regon": "367992543",
+                "operator": "Gmina Stara D\u0105browa",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 262223"
+            }
+        },
+        {
+            "id": 12095,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.18306,
+                    53.46105
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 12095,
+                "official_name": "Publiczna Szko\u0142a Podstawowa Im Kornela Makuszy\u0144skiego",
+                "name": "Publiczna Szko\u0142a Podstawowa Im Kornela Makuszy\u0144skiego",
+                "addr:country": "PL",
+                "addr:postcode": "73-112",
+                "addr:place": "Chleb\u00f3wko",
+                "addr:housenumber": "9",
+                "addr:teryt:sym_ul": 782920,
+                "contact:phone": "+48 915613395",
+                "contact:email": "chlebowko@poczta.onet.pl",
+                "ref:regon": "001223647",
+                "ref:vatin": "PL8542167031",
+                "operator": "Gmina Stara D\u0105browa",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

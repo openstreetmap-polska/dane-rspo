@@ -1,1 +1,1025 @@
-{"type":"FeatureCollection","features":[{"id":68000,"type":"Feature","geometry":{"type":"Point","coordinates":[17.16306,51.26318]},"properties":{"isced:level":"1;2","ref:rspo":68000,"official_name":"Szko\u0142a Podstawowa w Bole\u015bcinie","name":"Szko\u0142a Podstawowa w Bole\u015bcinie","addr:country":"PL","addr:postcode":"55-100","addr:place":"Bole\u015bcin","addr:housenumber":"23","addr:teryt:sym_ul":881348,"contact:phone":"+48 713127594","contact:email":"spbolescin@gmail.com","ref:regon":"001181080","ref:vatin":"PL9151587918","operator":"Gmina Trzebnica","operator:type":"government","amenity":"school"}},{"id":17390,"type":"Feature","geometry":{"type":"Point","coordinates":[17.06112,51.3005]},"properties":{"ref:rspo":17390,"official_name":"Poradnia Psychologiczno Pedagogiczna w Trzebnicy","name":"Poradnia Psychologiczno Pedagogiczna w Trzebnicy","addr:country":"PL","addr:postcode":"55-100","addr:city":"Trzebnica","addr:street":"ul. Nowa","addr:housenumber":"1","addr:teryt:simc":14330,"addr:teryt:sym_ul":987383,"contact:phone":"+48 717381000","contact:email":"ppp-trzebnica@wp.pl","contact:website":"http:\/\/www.poradniapp.trzebnica.pl","ref:regon":"933033052","ref:vatin":"PL9151648117","operator":"Powiat Trzebnicki","operator:type":"government","healthcare":"councelling","counselling_type":"education","fixme":"w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. healthcare=councelling + counselling_type=education albo healthcare=psychotherapist)"}},{"id":20133,"type":"Feature","geometry":{"type":"Point","coordinates":[17.06112,51.30047]},"properties":{"ref:rspo":20133,"official_name":"Powiatowy Zesp\u00f3\u0142 Specjalnych Plac\u00f3wek Szkolno-Wychowawczych","name":"Powiatowy Zesp\u00f3\u0142 Specjalnych Plac\u00f3wek Szkolno-Wychowawczych","addr:country":"PL","addr:postcode":"55-100","addr:city":"Trzebnica","addr:street":"ul. Nowa","addr:housenumber":"1","addr:teryt:simc":14330,"addr:teryt:sym_ul":987383,"contact:phone":"+48 713120740","contact:email":"soswtrzebnica@wp.pl","contact:website":"http:\/\/www.soswtrzebnica.edupage.org","ref:regon":"021670170","ref:vatin":"PL9151782293","operator":"Powiat Trzebnicki","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 43553;80881"}},{"id":110546,"type":"Feature","geometry":{"type":"Point","coordinates":[17.06112,51.30044]},"properties":{"ref:rspo":110546,"official_name":"Biblioteka Pedagogiczna w Trzebnicy","name":"Biblioteka Pedagogiczna w Trzebnicy","addr:country":"PL","addr:postcode":"55-100","addr:city":"Trzebnica","addr:street":"ul. Nowa","addr:housenumber":"1","addr:teryt:simc":14330,"addr:teryt:sym_ul":987383,"contact:phone":"+48 693822442","contact:email":"biblioteka.trzebnica@wp.pl","contact:website":"https:\/\/pedagogiczna-trzebnica.pl\/","ref:regon":"020902141","operator":"Powiat Trzebnicki","operator:type":"government","amenity":"library"}},{"id":43553,"type":"Feature","geometry":{"type":"Point","coordinates":[17.06112,51.30041]},"properties":{"ref:rspo":43553,"official_name":"Osrodek Rewalidacyjno- Wychowawczy w Trzebnicy","name":"Osrodek Rewalidacyjno- Wychowawczy w Trzebnicy","addr:country":"PL","addr:postcode":"55-100","addr:city":"Trzebnica","addr:street":"ul. Nowa","addr:housenumber":"1","addr:teryt:simc":14330,"addr:teryt:sym_ul":987383,"contact:phone":"+48 713120740","contact:email":"soswtrzebnica@wp.pl","ref:regon":"021672170","operator":"Powiat Trzebnicki","operator:type":"government","amenity":"school","note":"Parent RSPO: 20133"}},{"id":80881,"type":"Feature","geometry":{"type":"Point","coordinates":[17.06112,51.30038]},"properties":{"ref:rspo":80881,"official_name":"Specjalny Osrodek Szkolno-Wychowawczy w Powiatowym Zespole Specjalnych Plac\u00f3wek Szkolno-Wychowawczych","name":"Specjalny Osrodek Szkolno-Wychowawczy w Powiatowym Zespole Specjalnych Plac\u00f3wek Szkolno-Wychowawczych","addr:country":"PL","addr:postcode":"55-100","addr:city":"Trzebnica","addr:street":"ul. Nowa","addr:housenumber":"1","addr:teryt:simc":14330,"addr:teryt:sym_ul":987383,"contact:phone":"+48 713120740","contact:email":"soswtrzebnica@wp.pl","ref:regon":"000702274","operator":"Powiat Trzebnicki","operator:type":"government","amenity":"school","note":"Children RSPO: 92539;92541;92542Parent RSPO: 20133"}},{"id":92539,"type":"Feature","geometry":{"type":"Point","coordinates":[17.06112,51.30035]},"properties":{"isced:level":"1;2","ref:rspo":92539,"official_name":"Szko\u0142a Podstawowa Specjalna Nr 5 w Trzebnicy","name":"Szko\u0142a Podstawowa Specjalna Nr 5 w Trzebnicy","addr:country":"PL","addr:postcode":"55-100","addr:city":"Trzebnica","addr:street":"ul. Nowa","addr:housenumber":"1","addr:teryt:simc":14330,"addr:teryt:sym_ul":987383,"contact:phone":"+48 713120740","contact:email":"soswtrzebnica@wp.pl","contact:website":"http:\/\/www.soswedupage.org.pl","ref:regon":"001012436","operator":"Powiat Trzebnicki","operator:type":"government","amenity":"school","note":"Parent RSPO: 80881"}},{"id":92541,"type":"Feature","geometry":{"type":"Point","coordinates":[17.06112,51.30032]},"properties":{"ref:rspo":92541,"official_name":"Szko\u0142a Specjalna Przysposabiaj\u0105ca Do Pracy w Powiatowym Zespole Specjalnych Plac\u00f3wek Szkolno - Wychowawczych w Trzebnicy","name":"Szko\u0142a Specjalna Przysposabiaj\u0105ca Do Pracy w Powiatowym Zespole Specjalnych Plac\u00f3wek Szkolno - Wychowawczych w Trzebnicy","addr:country":"PL","addr:postcode":"55-100","addr:city":"Trzebnica","addr:street":"ul. Nowa","addr:housenumber":"1","addr:teryt:simc":14330,"addr:teryt:sym_ul":987383,"contact:phone":"+48 713120740","contact:email":"soswtrzebnica@wp.pl","ref:regon":"020251494","operator":"Powiat Trzebnicki","operator:type":"government","amenity":"school","note":"Parent RSPO: 80881"}},{"id":92542,"type":"Feature","geometry":{"type":"Point","coordinates":[17.06112,51.30029]},"properties":{"isced:level":"3","ref:rspo":92542,"official_name":"Bran\u017cowa Szko\u0142a Specjalna I Stopnia Nr 2 w Powiatowym Zespole Specjalnych Plac\u00f3wek Szkolno-Wychowawczych w Trzebnicy","name":"Bran\u017cowa Szko\u0142a Specjalna I Stopnia Nr 2 w Powiatowym Zespole Specjalnych Plac\u00f3wek Szkolno-Wychowawczych w Trzebnicy","addr:country":"PL","addr:postcode":"55-100","addr:city":"Trzebnica","addr:street":"ul. Nowa","addr:housenumber":"1","addr:teryt:simc":14330,"addr:teryt:sym_ul":987383,"contact:phone":"+48 713120740","contact:email":"soswtrzebnica@wp.pl","ref:regon":"930229843","operator":"Powiat Trzebnicki","operator:type":"government","amenity":"school","note":"Parent RSPO: 80881"}},{"id":124300,"type":"Feature","geometry":{"type":"Point","coordinates":[17.06554,51.30164]},"properties":{"ref:rspo":124300,"official_name":"Przedszkole Niepubliczne \"Czerwony Balonik\"","name":"Przedszkole Niepubliczne \"Czerwony Balonik\"","addr:country":"PL","addr:postcode":"55-100","addr:city":"Trzebnica","addr:street":"ul. Armii Krajowej","addr:housenumber":"2 D","addr:teryt:simc":432,"addr:teryt:sym_ul":987383,"contact:phone":"+48 609553155","contact:email":"przedszkole@czerwony-balonik.home.pl","contact:website":"http:\/\/www.czerwony-balonik.pl","ref:regon":"022484222","ref:vatin":"PL9151528235","operator":"Adrianna Kosowska","operator:type":"private","amenity":"kindergarten"}},{"id":66692,"type":"Feature","geometry":{"type":"Point","coordinates":[17.06094,51.30198]},"properties":{"isced:level":"1;2","ref:rspo":66692,"official_name":"J\u0119zykowa Integracyjna Szko\u0142a Podstawowa im. Anio\u0142\u00f3w Str\u00f3\u017c\u00f3w","name":"J\u0119zykowa Integracyjna Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"55-100","addr:city":"Trzebnica","addr:street":"ul. Wroc\u0142awska","addr:housenumber":"10","addr:teryt:simc":24806,"addr:teryt:sym_ul":987383,"contact:phone":"+48 713870651","contact:email":"sekretariat@man.edu.pl","ref:regon":"022002460","ref:vatin":"PL9151623904","operator":"Agnieszka Mandryga","operator:type":"private","amenity":"school"}},{"id":68055,"type":"Feature","geometry":{"type":"Point","coordinates":[17.06094,51.30195]},"properties":{"ref:rspo":68055,"official_name":"Przedszkole Integracyjne","name":"Przedszkole Integracyjne","addr:country":"PL","addr:postcode":"55-100","addr:city":"Trzebnica","addr:street":"ul. Wroc\u0142awska","addr:housenumber":"10","addr:teryt:simc":24806,"addr:teryt:sym_ul":987383,"contact:phone":"+48 713870651","contact:email":"przedszkole_integracyjne@wp.pl","ref:regon":"022006451","ref:vatin":"PL9151267378","operator":"Agnieszka Mandryga","operator:type":"private","amenity":"kindergarten"}},{"id":66159,"type":"Feature","geometry":{"type":"Point","coordinates":[17.06769,51.30355]},"properties":{"ref:rspo":66159,"official_name":"Gminne Przedszkole Nr 1 w Trzebnicy im. Krasnala Ha\u0142aba\u0142y","name":"Gminne Przedszkole Nr 1 w Trzebnicy","addr:country":"PL","addr:postcode":"55-100","addr:city":"Trzebnica","addr:street":"ul. 3 Maja","addr:housenumber":"4","addr:teryt:simc":11937,"addr:teryt:sym_ul":987383,"contact:phone":"+48 717360380","contact:email":"p1krasnal@gmail.com","ref:regon":"930305403","ref:vatin":"PL9151587999","operator":"Gmina Trzebnica","operator:type":"government","amenity":"kindergarten"}},{"id":66249,"type":"Feature","geometry":{"type":"Point","coordinates":[17.06893,51.30362]},"properties":{"isced:level":"1;2","ref:rspo":66249,"official_name":"Szko\u0142a Podstawowa Nr 2 im. Gen. Leopolda Okulickiego \"Nied\u017awiadka\" w Trzebnicy","name":"Szko\u0142a Podstawowa Nr 2","addr:country":"PL","addr:postcode":"55-100","addr:city":"Trzebnica","addr:street":"ul. 3 Maja","addr:housenumber":"5","addr:teryt:simc":11937,"addr:teryt:sym_ul":987383,"contact:phone":"+48 713120029","contact:email":"trzebnicasp2@wp.pl","ref:regon":"001273906","ref:vatin":"PL9151587976","operator":"Gmina Trzebnica","operator:type":"government","amenity":"school"}},{"id":123955,"type":"Feature","geometry":{"type":"Point","coordinates":[17.06893,51.30359]},"properties":{"ref:rspo":123955,"official_name":"Gminna Szko\u0142a Muzyczna I Stopnia im. Prof. Edmunda Kajdasza w Trzebnicy","name":"Gminna Szko\u0142a Muzyczna I Stopnia","addr:country":"PL","addr:postcode":"55-100","addr:city":"Trzebnica","addr:street":"ul. 3 Maja","addr:housenumber":"5","addr:teryt:simc":11937,"addr:teryt:sym_ul":987383,"contact:phone":"+48 713873772","contact:email":"sekretariat@muzyczna.trzebnica.pl","ref:regon":"022470964","ref:vatin":"PL9151792788","operator":"Gmina Trzebnica","operator:type":"government","amenity":"music_school"}},{"id":16329,"type":"Feature","geometry":{"type":"Point","coordinates":[17.05427,51.30388]},"properties":{"ref:rspo":16329,"official_name":"Powiatowy Zesp\u00f3\u0142 Szk\u00f3\u0142 Nr 2 w Trzebnicy Im Piotra W\u0142ostowica","name":"Powiatowy Zesp\u00f3\u0142 Szk\u00f3\u0142 Nr 2 w Trzebnicy Im Piotra W\u0142ostowica","addr:country":"PL","addr:postcode":"55-100","addr:city":"Trzebnica","addr:street":"ul. Stefana \u017beromskiego","addr:housenumber":"25","addr:teryt:simc":26469,"addr:teryt:sym_ul":987383,"contact:phone":"+48 713120485","contact:email":"sekretariat@pzs2-trzebnica.pl","contact:website":"http:\/\/www.pzs2-trzebnica.pl","ref:regon":"000197971","ref:vatin":"PL9151330817","operator":"Powiat Trzebnicki","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 17029;21763;34791;129113;268208"}},{"id":21763,"type":"Feature","geometry":{"type":"Point","coordinates":[17.05427,51.30385]},"properties":{"isced:level":"3","ref:rspo":21763,"official_name":"Technikum w Powiatowym Zespole Szk\u00f3\u0142 Nr 2 im. Piotra W\u0142ostowica w Trzebnicy","name":"Technikum w Powiatowym Zespole Szk\u00f3\u0142 Nr 2","addr:country":"PL","addr:postcode":"55-100","addr:city":"Trzebnica","addr:street":"ul. Stefana \u017beromskiego","addr:housenumber":"25","addr:teryt:simc":26469,"addr:teryt:sym_ul":987383,"contact:phone":"+48 713120488","contact:email":"sekretariat@pzs2-trzebnica.pl","ref:regon":"932837682","operator":"Powiat Trzebnicki","operator:type":"government","amenity":"school","note":"Parent RSPO: 16329"}},{"id":34791,"type":"Feature","geometry":{"type":"Point","coordinates":[17.05427,51.30382]},"properties":{"isced:level":"3","ref:rspo":34791,"official_name":"Bran\u017cowa Szko\u0142a I Stopnia w Powiatowym Zespole Szk\u00f3\u0142 Nr 2 w Trzebnicy","name":"Bran\u017cowa Szko\u0142a I Stopnia w Powiatowym Zespole Szk\u00f3\u0142 Nr 2 w Trzebnicy","addr:country":"PL","addr:postcode":"55-100","addr:city":"Trzebnica","addr:street":"ul. Stefana \u017beromskiego","addr:housenumber":"25","addr:teryt:simc":26469,"addr:teryt:sym_ul":987383,"contact:phone":"+48 713120488","contact:email":"sekretariat@pzs-2.tzrebnica.pl","ref:regon":"932838380","operator":"Powiat Trzebnicki","operator:type":"government","amenity":"school","note":"Parent RSPO: 16329"}},{"id":129113,"type":"Feature","geometry":{"type":"Point","coordinates":[17.05427,51.30379]},"properties":{"isced:level":"4","ref:rspo":129113,"official_name":"Szko\u0142a Policealna w Powiatowym Zespole Szk\u00f3\u0142 Nr 2 w Trzebnicy","name":"Szko\u0142a Policealna w Powiatowym Zespole Szk\u00f3\u0142 Nr 2 w Trzebnicy","addr:country":"PL","addr:postcode":"55-100","addr:city":"Trzebnica","addr:street":"ul. Stefana \u017beromskiego","addr:housenumber":"25","addr:teryt:simc":26469,"addr:teryt:sym_ul":987383,"contact:phone":"+48 713120485","contact:email":"sekretariat@pzs2-trzebnica.pl","contact:website":"http:\/\/www.pzs2-trzebnica.pl","ref:regon":"020164163","ref:vatin":"PL9151330817","operator":"Powiat Trzebnicki","operator:type":"government","amenity":"college","note":"Parent RSPO: 16329"}},{"id":268208,"type":"Feature","geometry":{"type":"Point","coordinates":[17.05427,51.30376]},"properties":{"isced:level":"1;2","ref:rspo":268208,"official_name":"Szko\u0142a Podstawowa dla Doros\u0142ych","name":"Szko\u0142a Podstawowa dla Doros\u0142ych","addr:country":"PL","addr:postcode":"55-100","addr:city":"Trzebnica","addr:street":"ul. Stefana \u017beromskiego","addr:housenumber":"25","addr:teryt:simc":26469,"addr:teryt:sym_ul":987383,"contact:phone":"+48 713120488","contact:email":"sekretariat@pzs2-trzebnica.pl","ref:regon":"381041854","operator":"Powiat Trzebnicki","operator:type":"government","amenity":"school","note":"Parent RSPO: 16329"}},{"id":124274,"type":"Feature","geometry":{"type":"Point","coordinates":[17.05417,51.30498]},"properties":{"ref:rspo":124274,"official_name":"Przedszkole J\u0119zykowe \"Le\u015bne Skrzaty\"","name":"Przedszkole J\u0119zykowe \"Le\u015bne Skrzaty\"","addr:country":"PL","addr:postcode":"55-100","addr:city":"Trzebnica","addr:street":"ul. Obornicka","addr:housenumber":"41 H","addr:teryt:simc":14593,"addr:teryt:sym_ul":987383,"contact:phone":"+48 882141933","contact:email":"trzebnickielesneskrzaty@gmail.com","ref:regon":"022484156","ref:vatin":"PL9151660408","operator":"Anna Freliga","operator:type":"private","amenity":"kindergarten"}},{"id":17029,"type":"Feature","geometry":{"type":"Point","coordinates":[17.0552101,51.3055801]},"properties":{"isced:level":"3","ref:rspo":17029,"official_name":"Liceum Og\u00f3lnokszta\u0142c\u0105ce dla Doros\u0142ych w Powiatowym Zespole Szk\u00f3\u0142 Nr 2 im. Piotra W\u0142ostowica w Trzebnicy","name":"Liceum Og\u00f3lnokszta\u0142c\u0105ce dla Doros\u0142ych w Powiatowym Zespole Szk\u00f3\u0142 Nr 2","addr:country":"PL","addr:postcode":"55-100","addr:city":"Trzebnica","addr:street":"ul. \u017bo\u0142nierzy Wrze\u015bnia","addr:housenumber":"25","addr:teryt:simc":26516,"addr:teryt:sym_ul":987383,"contact:phone":"+48 713120488","contact:email":"sekretariat@pzs2-trzebnica.pl","ref:regon":"021969242","operator":"Powiat Trzebnicki","operator:type":"government","amenity":"school","note":"Parent RSPO: 16329"}},{"id":124287,"type":"Feature","geometry":{"type":"Point","coordinates":[17.06629,51.30694]},"properties":{"ref:rspo":124287,"official_name":"\"S\u0142oneczko\" Centrum Edukacji I Zabawy","name":"\"S\u0142oneczko\" Centrum Edukacji I Zabawy","addr:country":"PL","addr:postcode":"55-100","addr:city":"Trzebnica","addr:street":"ul. ks. Dziekana Wawrzy\u0144ca Bochenka","addr:housenumber":"26","addr:teryt:simc":28900,"addr:teryt:sym_ul":987383,"contact:phone":"+48 503912694","contact:email":"info@sloneczkotrzebnica.pl","ref:regon":"022484179","ref:vatin":"PL8991407295","operator":"Aleksandra Kabat-Baran","operator:type":"private","amenity":"kindergarten"}},{"id":262534,"type":"Feature","geometry":{"type":"Point","coordinates":[17.06358,51.30821]},"properties":{"isced:level":"1;2","ref:rspo":262534,"official_name":"Szko\u0142a Podstawowa Nr 1 im. Ksi\u0119cia Henryka Brodatego w Trzebnicy","name":"Szko\u0142a Podstawowa Nr 1","addr:country":"PL","addr:postcode":"55-100","addr:city":"Trzebnica","addr:street":"ul. \u015awi\u0119tej Jadwigi","addr:housenumber":"10","addr:teryt:simc":34191,"addr:teryt:sym_ul":987383,"contact:phone":"+48 713120884","contact:email":"sekretariat@sp1.trzebnica.net","ref:regon":"368029783","ref:vatin":"PL9151804801","operator":"Gmina Trzebnica","operator:type":"government","amenity":"school"}},{"id":124502,"type":"Feature","geometry":{"type":"Point","coordinates":[17.0607599,51.30871]},"properties":{"ref:rspo":124502,"official_name":"Niepubliczna Poradnia Psychologiczno-Pedagogiczna \"Nasz \u015awiat\"","name":"Niepubliczna Poradnia Psychologiczno-Pedagogiczna \"Nasz \u015awiat\"","addr:country":"PL","addr:postcode":"55-100","addr:city":"Trzebnica","addr:street":"ul. Ignacego Daszy\u0144skiego","addr:housenumber":"33","addr:door":"1","addr:teryt:simc":3639,"addr:teryt:sym_ul":987383,"contact:phone":"+48 609028393","contact:email":"biuro@naszswiat.org","ref:regon":"022487278","operator":"Stowarzyszenie Na Rzecz Integracji Spo\u0142ecznej \"Nasz \u015awiat\"","operator:type":"ngo","healthcare":"councelling","counselling_type":"education","fixme":"w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. healthcare=councelling + counselling_type=education albo healthcare=psychotherapist)"}},{"id":66226,"type":"Feature","geometry":{"type":"Point","coordinates":[17.06134,51.31073]},"properties":{"ref:rspo":66226,"official_name":"Gminne Przedszkole Nr 2 w Trzebnicy im. Polskiej Niezapominajki","name":"Gminne Przedszkole Nr 2 w Trzebnicy","addr:country":"PL","addr:postcode":"55-100","addr:city":"Trzebnica","addr:street":"ul. Wojska Polskiego","addr:housenumber":"6","addr:teryt:simc":24628,"addr:teryt:sym_ul":987383,"contact:phone":"+48 713120922","contact:email":"pp2.sekretariat@szkola.trzebnica.pl","ref:regon":"930305395","ref:vatin":"PL9151587982","operator":"Gmina Trzebnica","operator:type":"government","amenity":"kindergarten"}},{"id":66278,"type":"Feature","geometry":{"type":"Point","coordinates":[17.0570099,51.31321]},"properties":{"isced:level":"1;2","ref:rspo":66278,"official_name":"Szko\u0142a Podstawowa Nr 3 im. Marii Sk\u0142odowskiej-Curie w Trzebnicy","name":"Szko\u0142a Podstawowa Nr 3","addr:country":"PL","addr:postcode":"55-100","addr:city":"Trzebnica","addr:street":"ul. Marii Konopnickiej","addr:housenumber":"14","addr:teryt:simc":9186,"addr:teryt:sym_ul":987383,"contact:phone":"+48 713120874","contact:email":"trzebnicasp3@op.pl","contact:website":"http:\/\/sp3trzebnica.edupage.org","ref:regon":"000592325","ref:vatin":"PL9151272103","operator":"Gmina Trzebnica","operator:type":"government","amenity":"school"}},{"id":19553,"type":"Feature","geometry":{"type":"Point","coordinates":[17.05914,51.31377]},"properties":{"isced:level":"3","ref:rspo":19553,"official_name":"Liceum Og\u00f3lnokszta\u0142c\u0105ce im.II Armii Wojska Polskiego","name":"Liceum Og\u00f3lnokszta\u0142c\u0105ce im.II Armii Wojska Polskiego","addr:country":"PL","addr:postcode":"55-100","addr:city":"Trzebnica","addr:street":"ul. Wojska Polskiego","addr:housenumber":"17","addr:teryt:simc":24628,"addr:teryt:sym_ul":987383,"contact:phone":"+48 713120976","contact:email":"pzs1@poczta.onet.pl","contact:website":"http:\/\/www.pzs1trzebnica.pl","ref:regon":"932838581","ref:vatin":"PL9151010538","operator":"Powiat Trzebnicki","operator:type":"government","amenity":"school"}},{"id":124296,"type":"Feature","geometry":{"type":"Point","coordinates":[17.06075,51.31971]},"properties":{"ref:rspo":124296,"official_name":"Przedszkole Niepubliczne \"Koniczynka\"","name":"Przedszkole Niepubliczne \"Koniczynka\"","addr:country":"PL","addr:postcode":"55-100","addr:city":"Trzebnica","addr:street":"ul. Prusicka","addr:housenumber":"24 - 24a","addr:teryt:simc":17583,"addr:teryt:sym_ul":987383,"contact:phone":"+48 605138519","contact:email":"asiam79@op.pl","ref:regon":"022484216","ref:vatin":"PL9151510399","operator":"Joanna Mszyca","operator:type":"private","amenity":"kindergarten"}},{"id":22074,"type":"Feature","geometry":{"type":"Point","coordinates":[17.05939,51.31977]},"properties":{"isced:level":"1;2","ref:rspo":22074,"official_name":"Szko\u0142a Podstawowa Nr 4 Im Janusza Korczaka Przy Szpitalu Im \u015aw. Jadwigi \u015aL\u0105skiej w Trzebnicy","name":"Szko\u0142a Podstawowa Nr 4 Im Janusza Korczaka Przy Szpitalu Im \u015aw. Jadwigi \u015aL\u0105skiej w Trzebnicy","addr:country":"PL","addr:postcode":"55-100","addr:city":"Trzebnica","addr:street":"ul. Prusicka","addr:housenumber":"53\/55","addr:teryt:simc":17583,"addr:teryt:sym_ul":987383,"contact:phone":"+48 713120696","contact:email":"sp4.szpital.trzebnica@wp.pl","contact:website":"http:\/\/www.sp4-szpital-trzebnica.pl","ref:regon":"000704391","ref:vatin":"PL9151328849","operator":"Powiat Trzebnicki","operator:type":"government","amenity":"school"}},{"id":68060,"type":"Feature","geometry":{"type":"Point","coordinates":[17.13018,51.33905]},"properties":{"isced:level":"1;2","ref:rspo":68060,"official_name":"Szko\u0142a Podstawowa w Mas\u0142owie","name":"Szko\u0142a Podstawowa w Mas\u0142owie","addr:country":"PL","addr:postcode":"55-100","addr:place":"Mas\u0142\u00f3w","addr:housenumber":"228","addr:teryt:sym_ul":881609,"contact:phone":"+48 713123134","contact:email":"spmaslow.trzebnica@gmail.com","contact:website":"https:\/\/spmaslow.edupage.org\/","ref:regon":"001181067","ref:vatin":"PL9151587947","operator":"Gmina Trzebnica","operator:type":"government","amenity":"school"}},{"id":68033,"type":"Feature","geometry":{"type":"Point","coordinates":[17.18363,51.38356]},"properties":{"isced:level":"1;2","ref:rspo":68033,"official_name":"Szko\u0142a Podstawowa im. \u015aw. Jadwigi \u015aL\u0105skiej w Ku\u017aniczysku","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"55-100","addr:city":"Ku\u017aniczysko","addr:street":"ul. Ku\u017anicza","addr:housenumber":"1","addr:teryt:simc":10527,"addr:teryt:sym_ul":881549,"contact:phone":"+48 713127140","contact:email":"spkuzniczysko@wp.pl","ref:regon":"001181044","ref:vatin":"PL9151587924","operator":"Gmina Trzebnica","operator:type":"government","amenity":"school"}},{"id":68733,"type":"Feature","geometry":{"type":"Point","coordinates":[17.09205,51.4157]},"properties":{"isced:level":"1;2","ref:rspo":68733,"official_name":"Szko\u0142a Podstawowa im. Marii Konopnickiej w Uje\u017ad\u017acu Wielkim","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"55-100","addr:place":"Uje\u017adziec Wielki","addr:housenumber":"46","addr:teryt:sym_ul":881740,"contact:phone":"+48 713127722","contact:email":"zs-ujezdziec@wp.pl","ref:regon":"001181050","ref:vatin":"PL9151659718","operator":"Gmina Trzebnica","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 68000,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.16306,
+                    51.26318
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 68000,
+                "official_name": "Szko\u0142a Podstawowa w Bole\u015bcinie",
+                "name": "Szko\u0142a Podstawowa w Bole\u015bcinie",
+                "addr:country": "PL",
+                "addr:postcode": "55-100",
+                "addr:place": "Bole\u015bcin",
+                "addr:housenumber": "23",
+                "addr:teryt:sym_ul": 881348,
+                "contact:phone": "+48 713127594",
+                "contact:email": "spbolescin@gmail.com",
+                "ref:regon": "001181080",
+                "ref:vatin": "PL9151587918",
+                "operator": "Gmina Trzebnica",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 17390,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.06112,
+                    51.3005
+                ]
+            },
+            "properties": {
+                "ref:rspo": 17390,
+                "official_name": "Poradnia Psychologiczno Pedagogiczna w Trzebnicy",
+                "name": "Poradnia Psychologiczno Pedagogiczna w Trzebnicy",
+                "addr:country": "PL",
+                "addr:postcode": "55-100",
+                "addr:city": "Trzebnica",
+                "addr:street": "ul. Nowa",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 14330,
+                "addr:teryt:sym_ul": 987383,
+                "contact:phone": "+48 717381000",
+                "contact:email": "ppp-trzebnica@wp.pl",
+                "contact:website": "http:\/\/www.poradniapp.trzebnica.pl",
+                "ref:regon": "933033052",
+                "ref:vatin": "PL9151648117",
+                "operator": "Powiat Trzebnicki",
+                "operator:type": "government",
+                "healthcare": "counselling",
+                "counselling_type": "education",
+                "fixme": "w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. healthcare=counselling + counselling_type=education albo healthcare=psychotherapist)"
+            }
+        },
+        {
+            "id": 20133,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.06112,
+                    51.30047
+                ]
+            },
+            "properties": {
+                "ref:rspo": 20133,
+                "official_name": "Powiatowy Zesp\u00f3\u0142 Specjalnych Plac\u00f3wek Szkolno-Wychowawczych",
+                "name": "Powiatowy Zesp\u00f3\u0142 Specjalnych Plac\u00f3wek Szkolno-Wychowawczych",
+                "addr:country": "PL",
+                "addr:postcode": "55-100",
+                "addr:city": "Trzebnica",
+                "addr:street": "ul. Nowa",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 14330,
+                "addr:teryt:sym_ul": 987383,
+                "contact:phone": "+48 713120740",
+                "contact:email": "soswtrzebnica@wp.pl",
+                "contact:website": "http:\/\/www.soswtrzebnica.edupage.org",
+                "ref:regon": "021670170",
+                "ref:vatin": "PL9151782293",
+                "operator": "Powiat Trzebnicki",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 43553;80881"
+            }
+        },
+        {
+            "id": 110546,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.06112,
+                    51.30044
+                ]
+            },
+            "properties": {
+                "ref:rspo": 110546,
+                "official_name": "Biblioteka Pedagogiczna w Trzebnicy",
+                "name": "Biblioteka Pedagogiczna w Trzebnicy",
+                "addr:country": "PL",
+                "addr:postcode": "55-100",
+                "addr:city": "Trzebnica",
+                "addr:street": "ul. Nowa",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 14330,
+                "addr:teryt:sym_ul": 987383,
+                "contact:phone": "+48 693822442",
+                "contact:email": "biblioteka.trzebnica@wp.pl",
+                "contact:website": "https:\/\/pedagogiczna-trzebnica.pl\/",
+                "ref:regon": "020902141",
+                "operator": "Powiat Trzebnicki",
+                "operator:type": "government",
+                "amenity": "library"
+            }
+        },
+        {
+            "id": 43553,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.06112,
+                    51.30041
+                ]
+            },
+            "properties": {
+                "ref:rspo": 43553,
+                "official_name": "Osrodek Rewalidacyjno- Wychowawczy w Trzebnicy",
+                "name": "Osrodek Rewalidacyjno- Wychowawczy w Trzebnicy",
+                "addr:country": "PL",
+                "addr:postcode": "55-100",
+                "addr:city": "Trzebnica",
+                "addr:street": "ul. Nowa",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 14330,
+                "addr:teryt:sym_ul": 987383,
+                "contact:phone": "+48 713120740",
+                "contact:email": "soswtrzebnica@wp.pl",
+                "ref:regon": "021672170",
+                "operator": "Powiat Trzebnicki",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 20133"
+            }
+        },
+        {
+            "id": 80881,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.06112,
+                    51.30038
+                ]
+            },
+            "properties": {
+                "ref:rspo": 80881,
+                "official_name": "Specjalny Osrodek Szkolno-Wychowawczy w Powiatowym Zespole Specjalnych Plac\u00f3wek Szkolno-Wychowawczych",
+                "name": "Specjalny Osrodek Szkolno-Wychowawczy w Powiatowym Zespole Specjalnych Plac\u00f3wek Szkolno-Wychowawczych",
+                "addr:country": "PL",
+                "addr:postcode": "55-100",
+                "addr:city": "Trzebnica",
+                "addr:street": "ul. Nowa",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 14330,
+                "addr:teryt:sym_ul": 987383,
+                "contact:phone": "+48 713120740",
+                "contact:email": "soswtrzebnica@wp.pl",
+                "ref:regon": "000702274",
+                "operator": "Powiat Trzebnicki",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Children RSPO: 92539;92541;92542Parent RSPO: 20133"
+            }
+        },
+        {
+            "id": 92539,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.06112,
+                    51.30035
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 92539,
+                "official_name": "Szko\u0142a Podstawowa Specjalna Nr 5 w Trzebnicy",
+                "name": "Szko\u0142a Podstawowa Specjalna Nr 5 w Trzebnicy",
+                "addr:country": "PL",
+                "addr:postcode": "55-100",
+                "addr:city": "Trzebnica",
+                "addr:street": "ul. Nowa",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 14330,
+                "addr:teryt:sym_ul": 987383,
+                "contact:phone": "+48 713120740",
+                "contact:email": "soswtrzebnica@wp.pl",
+                "contact:website": "http:\/\/www.soswedupage.org.pl",
+                "ref:regon": "001012436",
+                "operator": "Powiat Trzebnicki",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 80881"
+            }
+        },
+        {
+            "id": 92541,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.06112,
+                    51.30032
+                ]
+            },
+            "properties": {
+                "ref:rspo": 92541,
+                "official_name": "Szko\u0142a Specjalna Przysposabiaj\u0105ca Do Pracy w Powiatowym Zespole Specjalnych Plac\u00f3wek Szkolno - Wychowawczych w Trzebnicy",
+                "name": "Szko\u0142a Specjalna Przysposabiaj\u0105ca Do Pracy w Powiatowym Zespole Specjalnych Plac\u00f3wek Szkolno - Wychowawczych w Trzebnicy",
+                "addr:country": "PL",
+                "addr:postcode": "55-100",
+                "addr:city": "Trzebnica",
+                "addr:street": "ul. Nowa",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 14330,
+                "addr:teryt:sym_ul": 987383,
+                "contact:phone": "+48 713120740",
+                "contact:email": "soswtrzebnica@wp.pl",
+                "ref:regon": "020251494",
+                "operator": "Powiat Trzebnicki",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 80881"
+            }
+        },
+        {
+            "id": 92542,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.06112,
+                    51.30029
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 92542,
+                "official_name": "Bran\u017cowa Szko\u0142a Specjalna I Stopnia Nr 2 w Powiatowym Zespole Specjalnych Plac\u00f3wek Szkolno-Wychowawczych w Trzebnicy",
+                "name": "Bran\u017cowa Szko\u0142a Specjalna I Stopnia Nr 2 w Powiatowym Zespole Specjalnych Plac\u00f3wek Szkolno-Wychowawczych w Trzebnicy",
+                "addr:country": "PL",
+                "addr:postcode": "55-100",
+                "addr:city": "Trzebnica",
+                "addr:street": "ul. Nowa",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 14330,
+                "addr:teryt:sym_ul": 987383,
+                "contact:phone": "+48 713120740",
+                "contact:email": "soswtrzebnica@wp.pl",
+                "ref:regon": "930229843",
+                "operator": "Powiat Trzebnicki",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 80881"
+            }
+        },
+        {
+            "id": 124300,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.06554,
+                    51.30164
+                ]
+            },
+            "properties": {
+                "ref:rspo": 124300,
+                "official_name": "Przedszkole Niepubliczne \"Czerwony Balonik\"",
+                "name": "Przedszkole Niepubliczne \"Czerwony Balonik\"",
+                "addr:country": "PL",
+                "addr:postcode": "55-100",
+                "addr:city": "Trzebnica",
+                "addr:street": "ul. Armii Krajowej",
+                "addr:housenumber": "2 D",
+                "addr:teryt:simc": 432,
+                "addr:teryt:sym_ul": 987383,
+                "contact:phone": "+48 609553155",
+                "contact:email": "przedszkole@czerwony-balonik.home.pl",
+                "contact:website": "http:\/\/www.czerwony-balonik.pl",
+                "ref:regon": "022484222",
+                "ref:vatin": "PL9151528235",
+                "operator": "Adrianna Kosowska",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 66692,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.06094,
+                    51.30198
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 66692,
+                "official_name": "J\u0119zykowa Integracyjna Szko\u0142a Podstawowa im. Anio\u0142\u00f3w Str\u00f3\u017c\u00f3w",
+                "name": "J\u0119zykowa Integracyjna Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "55-100",
+                "addr:city": "Trzebnica",
+                "addr:street": "ul. Wroc\u0142awska",
+                "addr:housenumber": "10",
+                "addr:teryt:simc": 24806,
+                "addr:teryt:sym_ul": 987383,
+                "contact:phone": "+48 713870651",
+                "contact:email": "sekretariat@man.edu.pl",
+                "ref:regon": "022002460",
+                "ref:vatin": "PL9151623904",
+                "operator": "Agnieszka Mandryga",
+                "operator:type": "private",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 68055,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.06094,
+                    51.30195
+                ]
+            },
+            "properties": {
+                "ref:rspo": 68055,
+                "official_name": "Przedszkole Integracyjne",
+                "name": "Przedszkole Integracyjne",
+                "addr:country": "PL",
+                "addr:postcode": "55-100",
+                "addr:city": "Trzebnica",
+                "addr:street": "ul. Wroc\u0142awska",
+                "addr:housenumber": "10",
+                "addr:teryt:simc": 24806,
+                "addr:teryt:sym_ul": 987383,
+                "contact:phone": "+48 713870651",
+                "contact:email": "przedszkole_integracyjne@wp.pl",
+                "ref:regon": "022006451",
+                "ref:vatin": "PL9151267378",
+                "operator": "Agnieszka Mandryga",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 66159,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.06769,
+                    51.30355
+                ]
+            },
+            "properties": {
+                "ref:rspo": 66159,
+                "official_name": "Gminne Przedszkole Nr 1 w Trzebnicy im. Krasnala Ha\u0142aba\u0142y",
+                "name": "Gminne Przedszkole Nr 1 w Trzebnicy",
+                "addr:country": "PL",
+                "addr:postcode": "55-100",
+                "addr:city": "Trzebnica",
+                "addr:street": "ul. 3 Maja",
+                "addr:housenumber": "4",
+                "addr:teryt:simc": 11937,
+                "addr:teryt:sym_ul": 987383,
+                "contact:phone": "+48 717360380",
+                "contact:email": "p1krasnal@gmail.com",
+                "ref:regon": "930305403",
+                "ref:vatin": "PL9151587999",
+                "operator": "Gmina Trzebnica",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 66249,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.06893,
+                    51.30362
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 66249,
+                "official_name": "Szko\u0142a Podstawowa Nr 2 im. Gen. Leopolda Okulickiego \"Nied\u017awiadka\" w Trzebnicy",
+                "name": "Szko\u0142a Podstawowa Nr 2",
+                "addr:country": "PL",
+                "addr:postcode": "55-100",
+                "addr:city": "Trzebnica",
+                "addr:street": "ul. 3 Maja",
+                "addr:housenumber": "5",
+                "addr:teryt:simc": 11937,
+                "addr:teryt:sym_ul": 987383,
+                "contact:phone": "+48 713120029",
+                "contact:email": "trzebnicasp2@wp.pl",
+                "ref:regon": "001273906",
+                "ref:vatin": "PL9151587976",
+                "operator": "Gmina Trzebnica",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 123955,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.06893,
+                    51.30359
+                ]
+            },
+            "properties": {
+                "ref:rspo": 123955,
+                "official_name": "Gminna Szko\u0142a Muzyczna I Stopnia im. Prof. Edmunda Kajdasza w Trzebnicy",
+                "name": "Gminna Szko\u0142a Muzyczna I Stopnia",
+                "addr:country": "PL",
+                "addr:postcode": "55-100",
+                "addr:city": "Trzebnica",
+                "addr:street": "ul. 3 Maja",
+                "addr:housenumber": "5",
+                "addr:teryt:simc": 11937,
+                "addr:teryt:sym_ul": 987383,
+                "contact:phone": "+48 713873772",
+                "contact:email": "sekretariat@muzyczna.trzebnica.pl",
+                "ref:regon": "022470964",
+                "ref:vatin": "PL9151792788",
+                "operator": "Gmina Trzebnica",
+                "operator:type": "government",
+                "amenity": "music_school"
+            }
+        },
+        {
+            "id": 16329,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.05427,
+                    51.30388
+                ]
+            },
+            "properties": {
+                "ref:rspo": 16329,
+                "official_name": "Powiatowy Zesp\u00f3\u0142 Szk\u00f3\u0142 Nr 2 w Trzebnicy Im Piotra W\u0142ostowica",
+                "name": "Powiatowy Zesp\u00f3\u0142 Szk\u00f3\u0142 Nr 2 w Trzebnicy Im Piotra W\u0142ostowica",
+                "addr:country": "PL",
+                "addr:postcode": "55-100",
+                "addr:city": "Trzebnica",
+                "addr:street": "ul. Stefana \u017beromskiego",
+                "addr:housenumber": "25",
+                "addr:teryt:simc": 26469,
+                "addr:teryt:sym_ul": 987383,
+                "contact:phone": "+48 713120485",
+                "contact:email": "sekretariat@pzs2-trzebnica.pl",
+                "contact:website": "http:\/\/www.pzs2-trzebnica.pl",
+                "ref:regon": "000197971",
+                "ref:vatin": "PL9151330817",
+                "operator": "Powiat Trzebnicki",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 17029;21763;34791;129113;268208"
+            }
+        },
+        {
+            "id": 21763,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.05427,
+                    51.30385
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 21763,
+                "official_name": "Technikum w Powiatowym Zespole Szk\u00f3\u0142 Nr 2 im. Piotra W\u0142ostowica w Trzebnicy",
+                "name": "Technikum w Powiatowym Zespole Szk\u00f3\u0142 Nr 2",
+                "addr:country": "PL",
+                "addr:postcode": "55-100",
+                "addr:city": "Trzebnica",
+                "addr:street": "ul. Stefana \u017beromskiego",
+                "addr:housenumber": "25",
+                "addr:teryt:simc": 26469,
+                "addr:teryt:sym_ul": 987383,
+                "contact:phone": "+48 713120488",
+                "contact:email": "sekretariat@pzs2-trzebnica.pl",
+                "ref:regon": "932837682",
+                "operator": "Powiat Trzebnicki",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 16329"
+            }
+        },
+        {
+            "id": 34791,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.05427,
+                    51.30382
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 34791,
+                "official_name": "Bran\u017cowa Szko\u0142a I Stopnia w Powiatowym Zespole Szk\u00f3\u0142 Nr 2 w Trzebnicy",
+                "name": "Bran\u017cowa Szko\u0142a I Stopnia w Powiatowym Zespole Szk\u00f3\u0142 Nr 2 w Trzebnicy",
+                "addr:country": "PL",
+                "addr:postcode": "55-100",
+                "addr:city": "Trzebnica",
+                "addr:street": "ul. Stefana \u017beromskiego",
+                "addr:housenumber": "25",
+                "addr:teryt:simc": 26469,
+                "addr:teryt:sym_ul": 987383,
+                "contact:phone": "+48 713120488",
+                "contact:email": "sekretariat@pzs-2.tzrebnica.pl",
+                "ref:regon": "932838380",
+                "operator": "Powiat Trzebnicki",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 16329"
+            }
+        },
+        {
+            "id": 129113,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.05427,
+                    51.30379
+                ]
+            },
+            "properties": {
+                "isced:level": "4",
+                "ref:rspo": 129113,
+                "official_name": "Szko\u0142a Policealna w Powiatowym Zespole Szk\u00f3\u0142 Nr 2 w Trzebnicy",
+                "name": "Szko\u0142a Policealna w Powiatowym Zespole Szk\u00f3\u0142 Nr 2 w Trzebnicy",
+                "addr:country": "PL",
+                "addr:postcode": "55-100",
+                "addr:city": "Trzebnica",
+                "addr:street": "ul. Stefana \u017beromskiego",
+                "addr:housenumber": "25",
+                "addr:teryt:simc": 26469,
+                "addr:teryt:sym_ul": 987383,
+                "contact:phone": "+48 713120485",
+                "contact:email": "sekretariat@pzs2-trzebnica.pl",
+                "contact:website": "http:\/\/www.pzs2-trzebnica.pl",
+                "ref:regon": "020164163",
+                "ref:vatin": "PL9151330817",
+                "operator": "Powiat Trzebnicki",
+                "operator:type": "government",
+                "amenity": "college",
+                "note": "Parent RSPO: 16329"
+            }
+        },
+        {
+            "id": 268208,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.05427,
+                    51.30376
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 268208,
+                "official_name": "Szko\u0142a Podstawowa dla Doros\u0142ych",
+                "name": "Szko\u0142a Podstawowa dla Doros\u0142ych",
+                "addr:country": "PL",
+                "addr:postcode": "55-100",
+                "addr:city": "Trzebnica",
+                "addr:street": "ul. Stefana \u017beromskiego",
+                "addr:housenumber": "25",
+                "addr:teryt:simc": 26469,
+                "addr:teryt:sym_ul": 987383,
+                "contact:phone": "+48 713120488",
+                "contact:email": "sekretariat@pzs2-trzebnica.pl",
+                "ref:regon": "381041854",
+                "operator": "Powiat Trzebnicki",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 16329"
+            }
+        },
+        {
+            "id": 124274,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.05417,
+                    51.30498
+                ]
+            },
+            "properties": {
+                "ref:rspo": 124274,
+                "official_name": "Przedszkole J\u0119zykowe \"Le\u015bne Skrzaty\"",
+                "name": "Przedszkole J\u0119zykowe \"Le\u015bne Skrzaty\"",
+                "addr:country": "PL",
+                "addr:postcode": "55-100",
+                "addr:city": "Trzebnica",
+                "addr:street": "ul. Obornicka",
+                "addr:housenumber": "41 H",
+                "addr:teryt:simc": 14593,
+                "addr:teryt:sym_ul": 987383,
+                "contact:phone": "+48 882141933",
+                "contact:email": "trzebnickielesneskrzaty@gmail.com",
+                "ref:regon": "022484156",
+                "ref:vatin": "PL9151660408",
+                "operator": "Anna Freliga",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 17029,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.0552101,
+                    51.3055801
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 17029,
+                "official_name": "Liceum Og\u00f3lnokszta\u0142c\u0105ce dla Doros\u0142ych w Powiatowym Zespole Szk\u00f3\u0142 Nr 2 im. Piotra W\u0142ostowica w Trzebnicy",
+                "name": "Liceum Og\u00f3lnokszta\u0142c\u0105ce dla Doros\u0142ych w Powiatowym Zespole Szk\u00f3\u0142 Nr 2",
+                "addr:country": "PL",
+                "addr:postcode": "55-100",
+                "addr:city": "Trzebnica",
+                "addr:street": "ul. \u017bo\u0142nierzy Wrze\u015bnia",
+                "addr:housenumber": "25",
+                "addr:teryt:simc": 26516,
+                "addr:teryt:sym_ul": 987383,
+                "contact:phone": "+48 713120488",
+                "contact:email": "sekretariat@pzs2-trzebnica.pl",
+                "ref:regon": "021969242",
+                "operator": "Powiat Trzebnicki",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 16329"
+            }
+        },
+        {
+            "id": 124287,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.06629,
+                    51.30694
+                ]
+            },
+            "properties": {
+                "ref:rspo": 124287,
+                "official_name": "\"S\u0142oneczko\" Centrum Edukacji I Zabawy",
+                "name": "\"S\u0142oneczko\" Centrum Edukacji I Zabawy",
+                "addr:country": "PL",
+                "addr:postcode": "55-100",
+                "addr:city": "Trzebnica",
+                "addr:street": "ul. ks. Dziekana Wawrzy\u0144ca Bochenka",
+                "addr:housenumber": "26",
+                "addr:teryt:simc": 28900,
+                "addr:teryt:sym_ul": 987383,
+                "contact:phone": "+48 503912694",
+                "contact:email": "info@sloneczkotrzebnica.pl",
+                "ref:regon": "022484179",
+                "ref:vatin": "PL8991407295",
+                "operator": "Aleksandra Kabat-Baran",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 262534,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.06358,
+                    51.30821
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 262534,
+                "official_name": "Szko\u0142a Podstawowa Nr 1 im. Ksi\u0119cia Henryka Brodatego w Trzebnicy",
+                "name": "Szko\u0142a Podstawowa Nr 1",
+                "addr:country": "PL",
+                "addr:postcode": "55-100",
+                "addr:city": "Trzebnica",
+                "addr:street": "ul. \u015awi\u0119tej Jadwigi",
+                "addr:housenumber": "10",
+                "addr:teryt:simc": 34191,
+                "addr:teryt:sym_ul": 987383,
+                "contact:phone": "+48 713120884",
+                "contact:email": "sekretariat@sp1.trzebnica.net",
+                "ref:regon": "368029783",
+                "ref:vatin": "PL9151804801",
+                "operator": "Gmina Trzebnica",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 124502,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.0607599,
+                    51.30871
+                ]
+            },
+            "properties": {
+                "ref:rspo": 124502,
+                "official_name": "Niepubliczna Poradnia Psychologiczno-Pedagogiczna \"Nasz \u015awiat\"",
+                "name": "Niepubliczna Poradnia Psychologiczno-Pedagogiczna \"Nasz \u015awiat\"",
+                "addr:country": "PL",
+                "addr:postcode": "55-100",
+                "addr:city": "Trzebnica",
+                "addr:street": "ul. Ignacego Daszy\u0144skiego",
+                "addr:housenumber": "33",
+                "addr:door": "1",
+                "addr:teryt:simc": 3639,
+                "addr:teryt:sym_ul": 987383,
+                "contact:phone": "+48 609028393",
+                "contact:email": "biuro@naszswiat.org",
+                "ref:regon": "022487278",
+                "operator": "Stowarzyszenie Na Rzecz Integracji Spo\u0142ecznej \"Nasz \u015awiat\"",
+                "operator:type": "ngo",
+                "healthcare": "counselling",
+                "counselling_type": "education",
+                "fixme": "w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. healthcare=counselling + counselling_type=education albo healthcare=psychotherapist)"
+            }
+        },
+        {
+            "id": 66226,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.06134,
+                    51.31073
+                ]
+            },
+            "properties": {
+                "ref:rspo": 66226,
+                "official_name": "Gminne Przedszkole Nr 2 w Trzebnicy im. Polskiej Niezapominajki",
+                "name": "Gminne Przedszkole Nr 2 w Trzebnicy",
+                "addr:country": "PL",
+                "addr:postcode": "55-100",
+                "addr:city": "Trzebnica",
+                "addr:street": "ul. Wojska Polskiego",
+                "addr:housenumber": "6",
+                "addr:teryt:simc": 24628,
+                "addr:teryt:sym_ul": 987383,
+                "contact:phone": "+48 713120922",
+                "contact:email": "pp2.sekretariat@szkola.trzebnica.pl",
+                "ref:regon": "930305395",
+                "ref:vatin": "PL9151587982",
+                "operator": "Gmina Trzebnica",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 66278,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.0570099,
+                    51.31321
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 66278,
+                "official_name": "Szko\u0142a Podstawowa Nr 3 im. Marii Sk\u0142odowskiej-Curie w Trzebnicy",
+                "name": "Szko\u0142a Podstawowa Nr 3",
+                "addr:country": "PL",
+                "addr:postcode": "55-100",
+                "addr:city": "Trzebnica",
+                "addr:street": "ul. Marii Konopnickiej",
+                "addr:housenumber": "14",
+                "addr:teryt:simc": 9186,
+                "addr:teryt:sym_ul": 987383,
+                "contact:phone": "+48 713120874",
+                "contact:email": "trzebnicasp3@op.pl",
+                "contact:website": "http:\/\/sp3trzebnica.edupage.org",
+                "ref:regon": "000592325",
+                "ref:vatin": "PL9151272103",
+                "operator": "Gmina Trzebnica",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 19553,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.05914,
+                    51.31377
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 19553,
+                "official_name": "Liceum Og\u00f3lnokszta\u0142c\u0105ce im.II Armii Wojska Polskiego",
+                "name": "Liceum Og\u00f3lnokszta\u0142c\u0105ce im.II Armii Wojska Polskiego",
+                "addr:country": "PL",
+                "addr:postcode": "55-100",
+                "addr:city": "Trzebnica",
+                "addr:street": "ul. Wojska Polskiego",
+                "addr:housenumber": "17",
+                "addr:teryt:simc": 24628,
+                "addr:teryt:sym_ul": 987383,
+                "contact:phone": "+48 713120976",
+                "contact:email": "pzs1@poczta.onet.pl",
+                "contact:website": "http:\/\/www.pzs1trzebnica.pl",
+                "ref:regon": "932838581",
+                "ref:vatin": "PL9151010538",
+                "operator": "Powiat Trzebnicki",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 124296,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.06075,
+                    51.31971
+                ]
+            },
+            "properties": {
+                "ref:rspo": 124296,
+                "official_name": "Przedszkole Niepubliczne \"Koniczynka\"",
+                "name": "Przedszkole Niepubliczne \"Koniczynka\"",
+                "addr:country": "PL",
+                "addr:postcode": "55-100",
+                "addr:city": "Trzebnica",
+                "addr:street": "ul. Prusicka",
+                "addr:housenumber": "24 - 24a",
+                "addr:teryt:simc": 17583,
+                "addr:teryt:sym_ul": 987383,
+                "contact:phone": "+48 605138519",
+                "contact:email": "asiam79@op.pl",
+                "ref:regon": "022484216",
+                "ref:vatin": "PL9151510399",
+                "operator": "Joanna Mszyca",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 22074,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.05939,
+                    51.31977
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 22074,
+                "official_name": "Szko\u0142a Podstawowa Nr 4 Im Janusza Korczaka Przy Szpitalu Im \u015aw. Jadwigi \u015aL\u0105skiej w Trzebnicy",
+                "name": "Szko\u0142a Podstawowa Nr 4 Im Janusza Korczaka Przy Szpitalu Im \u015aw. Jadwigi \u015aL\u0105skiej w Trzebnicy",
+                "addr:country": "PL",
+                "addr:postcode": "55-100",
+                "addr:city": "Trzebnica",
+                "addr:street": "ul. Prusicka",
+                "addr:housenumber": "53\/55",
+                "addr:teryt:simc": 17583,
+                "addr:teryt:sym_ul": 987383,
+                "contact:phone": "+48 713120696",
+                "contact:email": "sp4.szpital.trzebnica@wp.pl",
+                "contact:website": "http:\/\/www.sp4-szpital-trzebnica.pl",
+                "ref:regon": "000704391",
+                "ref:vatin": "PL9151328849",
+                "operator": "Powiat Trzebnicki",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 68060,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.13018,
+                    51.33905
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 68060,
+                "official_name": "Szko\u0142a Podstawowa w Mas\u0142owie",
+                "name": "Szko\u0142a Podstawowa w Mas\u0142owie",
+                "addr:country": "PL",
+                "addr:postcode": "55-100",
+                "addr:place": "Mas\u0142\u00f3w",
+                "addr:housenumber": "228",
+                "addr:teryt:sym_ul": 881609,
+                "contact:phone": "+48 713123134",
+                "contact:email": "spmaslow.trzebnica@gmail.com",
+                "contact:website": "https:\/\/spmaslow.edupage.org\/",
+                "ref:regon": "001181067",
+                "ref:vatin": "PL9151587947",
+                "operator": "Gmina Trzebnica",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 68033,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.18363,
+                    51.38356
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 68033,
+                "official_name": "Szko\u0142a Podstawowa im. \u015aw. Jadwigi \u015aL\u0105skiej w Ku\u017aniczysku",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "55-100",
+                "addr:city": "Ku\u017aniczysko",
+                "addr:street": "ul. Ku\u017anicza",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 10527,
+                "addr:teryt:sym_ul": 881549,
+                "contact:phone": "+48 713127140",
+                "contact:email": "spkuzniczysko@wp.pl",
+                "ref:regon": "001181044",
+                "ref:vatin": "PL9151587924",
+                "operator": "Gmina Trzebnica",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 68733,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.09205,
+                    51.4157
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 68733,
+                "official_name": "Szko\u0142a Podstawowa im. Marii Konopnickiej w Uje\u017ad\u017acu Wielkim",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "55-100",
+                "addr:place": "Uje\u017adziec Wielki",
+                "addr:housenumber": "46",
+                "addr:teryt:sym_ul": 881740,
+                "contact:phone": "+48 713127722",
+                "contact:email": "zs-ujezdziec@wp.pl",
+                "ref:regon": "001181050",
+                "ref:vatin": "PL9151659718",
+                "operator": "Gmina Trzebnica",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

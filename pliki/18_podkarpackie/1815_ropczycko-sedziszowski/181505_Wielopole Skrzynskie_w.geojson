@@ -1,1 +1,209 @@
-{"type":"FeatureCollection","features":[{"id":72466,"type":"Feature","geometry":{"type":"Point","coordinates":[21.5452,49.91693]},"properties":{"isced:level":"1;2","ref:rspo":72466,"official_name":"Szko\u0142a Podstawowa Nr 2 Im Marii Lachman w Brzezinach-Berdechowie","name":"Szko\u0142a Podstawowa Nr 2 Im Marii Lachman w Brzezinach-Berdechowie","addr:country":"PL","addr:postcode":"39-111","addr:place":"Brzeziny","addr:housenumber":"382a","addr:teryt:sym_ul":666242,"contact:phone":"+48 172233202","contact:email":"spberdechow@op.pl","ref:regon":"001133246","ref:vatin":"PL8181413973","operator":"Gmina Wielopole Skrzy\u0144skie","operator:type":"government","amenity":"school"}},{"id":66234,"type":"Feature","geometry":{"type":"Point","coordinates":[21.6110599,49.94389]},"properties":{"isced:level":"1;2","ref:rspo":66234,"official_name":"Szko\u0142a Podstawowa Im Tadeusza Marii Kantora w Wielopolu Skrzy\u0144skim","name":"Szko\u0142a Podstawowa Im Tadeusza Marii Kantora w Wielopolu Skrzy\u0144skim","addr:country":"PL","addr:postcode":"39-110","addr:place":"Wielopole Skrzy\u0144skie","addr:housenumber":"265","addr:teryt:sym_ul":666727,"contact:phone":"+48 172214882","contact:email":"spwielopole-skrz@wp.pl","contact:website":"https:\/\/spwielopole-skrz.szkolna.net","ref:regon":"000270610","operator":"Gmina Wielopole Skrzy\u0144skie","operator:type":"government","amenity":"school"}},{"id":69074,"type":"Feature","geometry":{"type":"Point","coordinates":[21.6110599,49.94386]},"properties":{"ref:rspo":69074,"official_name":"Samorz\u0105dowe Przedszkole w Wielopolu Skrzy\u0144skim","name":"Samorz\u0105dowe Przedszkole w Wielopolu Skrzy\u0144skim","addr:country":"PL","addr:postcode":"39-110","addr:place":"Wielopole Skrzy\u0144skie","addr:housenumber":"265","addr:teryt:sym_ul":666727,"contact:phone":"+48 172214037","contact:email":"przedszkole@wielopole-skrz.pl","ref:regon":"690007542","ref:vatin":"PL8181014434","operator":"Gmina Wielopole Skrzy\u0144skie","operator:type":"government","amenity":"kindergarten"}},{"id":72463,"type":"Feature","geometry":{"type":"Point","coordinates":[21.66307,49.94546]},"properties":{"isced:level":"1;2","ref:rspo":72463,"official_name":"Szko\u0142a Podstawowa im. Sybirak\u00f3w w Nawsiu","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"39-110","addr:place":"Nawsie","addr:housenumber":"302","addr:teryt:sym_ul":666584,"contact:phone":"+48 172234210","contact:email":"spnawsie@interia.pl","contact:website":"http:\/\/spnawsie.edupage.org","ref:regon":"001133281","ref:vatin":"PL8181414010","operator":"Gmina Wielopole Skrzy\u0144skie","operator:type":"government","amenity":"school"}},{"id":72462,"type":"Feature","geometry":{"type":"Point","coordinates":[21.5758,49.95001]},"properties":{"isced:level":"1;2","ref:rspo":72462,"official_name":"Szko\u0142a Podstawowa Nr 1 Im Pp\u0142ka Ludwika Marsza\u0142ka Zbroi\" w Brzezinach","name":"Szko\u0142a Podstawowa Nr 1 Im Pp\u0142ka Ludwika Marsza\u0142ka Zbroi\" w Brzezinach","addr:country":"PL","addr:postcode":"39-111","addr:place":"Brzeziny","addr:housenumber":"621","addr:teryt:sym_ul":666242,"contact:phone":"+48 172233206","contact:email":"spbrzeziny1@vp.pl","ref:regon":"001133269","ref:vatin":"PL8181413996","operator":"Gmina Wielopole Skrzy\u0144skie","operator:type":"government","amenity":"school"}},{"id":72464,"type":"Feature","geometry":{"type":"Point","coordinates":[21.57689,49.97399]},"properties":{"isced:level":"1;2","ref:rspo":72464,"official_name":"Szko\u0142a Podstawowa im. \u015awi\u0119tego Jana Paw\u0142a II w Gliniku","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"39-106","addr:place":"Glinik","addr:housenumber":"75","addr:teryt:sym_ul":666489,"contact:phone":"+48 172234407","contact:email":"spglinik@wp.pl","ref:regon":"001133275","ref:vatin":"PL8181414004","operator":"Gmina Wielopole Skrzy\u0144skie","operator:type":"government","amenity":"school"}},{"id":72465,"type":"Feature","geometry":{"type":"Point","coordinates":[21.59326,49.9844099]},"properties":{"isced:level":"1;2","ref:rspo":72465,"official_name":"Szko\u0142a Podstawowa im.prof.karola Olszewskiego w Broniszowie","name":"Szko\u0142a Podstawowa im.prof.karola Olszewskiego w Broniszowie","addr:country":"PL","addr:postcode":"39-106","addr:place":"Bronisz\u00f3w","addr:housenumber":"197","addr:teryt:sym_ul":666176,"contact:phone":"+48 172213723","contact:email":"spbroniszow@o2.pl","contact:website":"http:\/\/www.spbroniszow.szkolna.net\/","ref:regon":"001133252","ref:vatin":"PL8181414027","operator":"Gmina Wielopole Skrzy\u0144skie","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 72466,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.5452,
+                    49.91693
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 72466,
+                "official_name": "Szko\u0142a Podstawowa Nr 2 Im Marii Lachman w Brzezinach-Berdechowie",
+                "name": "Szko\u0142a Podstawowa Nr 2 Im Marii Lachman w Brzezinach-Berdechowie",
+                "addr:country": "PL",
+                "addr:postcode": "39-111",
+                "addr:place": "Brzeziny",
+                "addr:housenumber": "382a",
+                "addr:teryt:sym_ul": 666242,
+                "contact:phone": "+48 172233202",
+                "contact:email": "spberdechow@op.pl",
+                "ref:regon": "001133246",
+                "ref:vatin": "PL8181413973",
+                "operator": "Gmina Wielopole Skrzy\u0144skie",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 66234,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.6110599,
+                    49.94389
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 66234,
+                "official_name": "Szko\u0142a Podstawowa Im Tadeusza Marii Kantora w Wielopolu Skrzy\u0144skim",
+                "name": "Szko\u0142a Podstawowa Im Tadeusza Marii Kantora w Wielopolu Skrzy\u0144skim",
+                "addr:country": "PL",
+                "addr:postcode": "39-110",
+                "addr:place": "Wielopole Skrzy\u0144skie",
+                "addr:housenumber": "265",
+                "addr:teryt:sym_ul": 666727,
+                "contact:phone": "+48 172214882",
+                "contact:email": "spwielopole-skrz@wp.pl",
+                "contact:website": "https:\/\/spwielopole-skrz.szkolna.net",
+                "ref:regon": "000270610",
+                "operator": "Gmina Wielopole Skrzy\u0144skie",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 69074,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.6110599,
+                    49.94386
+                ]
+            },
+            "properties": {
+                "ref:rspo": 69074,
+                "official_name": "Samorz\u0105dowe Przedszkole w Wielopolu Skrzy\u0144skim",
+                "name": "Samorz\u0105dowe Przedszkole w Wielopolu Skrzy\u0144skim",
+                "addr:country": "PL",
+                "addr:postcode": "39-110",
+                "addr:place": "Wielopole Skrzy\u0144skie",
+                "addr:housenumber": "265",
+                "addr:teryt:sym_ul": 666727,
+                "contact:phone": "+48 172214037",
+                "contact:email": "przedszkole@wielopole-skrz.pl",
+                "ref:regon": "690007542",
+                "ref:vatin": "PL8181014434",
+                "operator": "Gmina Wielopole Skrzy\u0144skie",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 72463,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.66307,
+                    49.94546
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 72463,
+                "official_name": "Szko\u0142a Podstawowa im. Sybirak\u00f3w w Nawsiu",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "39-110",
+                "addr:place": "Nawsie",
+                "addr:housenumber": "302",
+                "addr:teryt:sym_ul": 666584,
+                "contact:phone": "+48 172234210",
+                "contact:email": "spnawsie@interia.pl",
+                "contact:website": "http:\/\/spnawsie.edupage.org",
+                "ref:regon": "001133281",
+                "ref:vatin": "PL8181414010",
+                "operator": "Gmina Wielopole Skrzy\u0144skie",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 72462,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.5758,
+                    49.95001
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 72462,
+                "official_name": "Szko\u0142a Podstawowa Nr 1 Im Pp\u0142ka Ludwika Marsza\u0142ka Zbroi\" w Brzezinach",
+                "name": "Szko\u0142a Podstawowa Nr 1 Im Pp\u0142ka Ludwika Marsza\u0142ka Zbroi\" w Brzezinach",
+                "addr:country": "PL",
+                "addr:postcode": "39-111",
+                "addr:place": "Brzeziny",
+                "addr:housenumber": "621",
+                "addr:teryt:sym_ul": 666242,
+                "contact:phone": "+48 172233206",
+                "contact:email": "spbrzeziny1@vp.pl",
+                "ref:regon": "001133269",
+                "ref:vatin": "PL8181413996",
+                "operator": "Gmina Wielopole Skrzy\u0144skie",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 72464,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.57689,
+                    49.97399
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 72464,
+                "official_name": "Szko\u0142a Podstawowa im. \u015awi\u0119tego Jana Paw\u0142a II w Gliniku",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "39-106",
+                "addr:place": "Glinik",
+                "addr:housenumber": "75",
+                "addr:teryt:sym_ul": 666489,
+                "contact:phone": "+48 172234407",
+                "contact:email": "spglinik@wp.pl",
+                "ref:regon": "001133275",
+                "ref:vatin": "PL8181414004",
+                "operator": "Gmina Wielopole Skrzy\u0144skie",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 72465,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.59326,
+                    49.9844099
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 72465,
+                "official_name": "Szko\u0142a Podstawowa im.prof.karola Olszewskiego w Broniszowie",
+                "name": "Szko\u0142a Podstawowa im.prof.karola Olszewskiego w Broniszowie",
+                "addr:country": "PL",
+                "addr:postcode": "39-106",
+                "addr:place": "Bronisz\u00f3w",
+                "addr:housenumber": "197",
+                "addr:teryt:sym_ul": 666176,
+                "contact:phone": "+48 172213723",
+                "contact:email": "spbroniszow@o2.pl",
+                "contact:website": "http:\/\/www.spbroniszow.szkolna.net\/",
+                "ref:regon": "001133252",
+                "ref:vatin": "PL8181414027",
+                "operator": "Gmina Wielopole Skrzy\u0144skie",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

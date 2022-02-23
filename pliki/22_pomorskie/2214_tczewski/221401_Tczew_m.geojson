@@ -1,1 +1,2853 @@
-{"type":"FeatureCollection","features":[{"id":269230,"type":"Feature","geometry":{"type":"Point","coordinates":[18.76747,54.06681]},"properties":{"ref:rspo":269230,"official_name":"Niepubliczne Przedszkole \"Tropiciele\" Angelika Juda-Czechanowska","name":"Niepubliczne Przedszkole \"Tropiciele\" Angelika Juda-Czechanowska","addr:country":"PL","addr:postcode":"83-110","addr:city":"Tczew","addr:street":"ul. Lecha B\u0105dkowskiego","addr:housenumber":"13","addr:door":"3","addr:teryt:simc":935,"addr:teryt:sym_ul":934903,"contact:phone":"+48 530875598","contact:email":"kontakt@tropiciele.tczew.pl","contact:website":"http:\/\/tropiciele.tczew.pl","ref:regon":"381408792","operator":"Angelika Juda-Czechanowska","operator:type":"private","amenity":"kindergarten"}},{"id":125124,"type":"Feature","geometry":{"type":"Point","coordinates":[18.77419,54.07376]},"properties":{"ref:rspo":125124,"official_name":"Niepubliczne Przedszkole \"T\u0119czowe Przedszkole\"","name":"Niepubliczne Przedszkole \"T\u0119czowe Przedszkole\"","addr:country":"PL","addr:postcode":"83-110","addr:city":"Tczew","addr:street":"ul. J\u00f3zefa Che\u0142mo\u0144skiego","addr:housenumber":"1a","addr:teryt:simc":2706,"addr:teryt:sym_ul":934903,"contact:phone":"+48 888240022","contact:email":"przedszkole@teczowe.edu.pl","contact:website":"http:\/\/www.teczowe.edu.pl","ref:regon":"221773716","ref:vatin":"PL5791574153","operator":"Lidia Kwietniewska-Cabaj","operator:type":"private","amenity":"kindergarten"}},{"id":25066,"type":"Feature","geometry":{"type":"Point","coordinates":[18.79363,54.07509]},"properties":{"ref:rspo":25066,"official_name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 Budowlanych I Odzie\u017cowych im.henryka Sienkiewicza w Tczewie","name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 Budowlanych I Odzie\u017cowych im.henryka Sienkiewicza w Tczewie","addr:country":"PL","addr:postcode":"83-110","addr:city":"Tczew","addr:street":"ul. Ba\u0142dowska","addr:housenumber":"19","addr:teryt:simc":651,"addr:teryt:sym_ul":934903,"contact:phone":"+48 585310566","contact:email":"zsbio@wp.pl","contact:website":"http:\/\/www.zsbio.tcz.pl","ref:regon":"191887093","ref:vatin":"PL5931090226","operator":"Powiat Tczewski","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 48482;58867;278343"}},{"id":48482,"type":"Feature","geometry":{"type":"Point","coordinates":[18.79363,54.07506]},"properties":{"isced:level":"3","ref:rspo":48482,"official_name":"Technikum Nr 3 w Tczewie","name":"Technikum Nr 3 w Tczewie","addr:country":"PL","addr:postcode":"83-110","addr:city":"Tczew","addr:street":"ul. Ba\u0142dowska","addr:housenumber":"19","addr:teryt:simc":651,"addr:teryt:sym_ul":934903,"contact:phone":"+48 585310566","contact:email":"zsbio@wp.pl","contact:website":"http:\/\/www.zsbio.tcz.pl","ref:regon":"192778578","ref:vatin":"PL5931090226","operator":"Powiat Tczewski","operator:type":"government","amenity":"school","note":"Parent RSPO: 25066"}},{"id":58867,"type":"Feature","geometry":{"type":"Point","coordinates":[18.79363,54.075030000000005]},"properties":{"isced:level":"3","ref:rspo":58867,"official_name":"Bran\u017cowa Szko\u0142a I Stopnia Nr 3 w Tczewie","name":"Bran\u017cowa Szko\u0142a I Stopnia Nr 3 w Tczewie","addr:country":"PL","addr:postcode":"83-110","addr:city":"Tczew","addr:street":"ul. Ba\u0142dowska","addr:housenumber":"19","addr:teryt:simc":651,"addr:teryt:sym_ul":934903,"contact:phone":"+48 585310566","contact:email":"zsbio@wp.pl","contact:website":"http:\/\/www.zsbio.tcz.pl","ref:regon":"192778489","ref:vatin":"PL5931090226","operator":"Powiat Tczewski","operator:type":"government","amenity":"school","note":"Parent RSPO: 25066"}},{"id":278343,"type":"Feature","geometry":{"type":"Point","coordinates":[18.79363,54.075]},"properties":{"isced:level":"3","ref:rspo":278343,"official_name":"Ii Liceum Og\u00f3lnokszta\u0142c\u0105ce dla Doros\u0142ych w Tczewie","name":"Ii Liceum Og\u00f3lnokszta\u0142c\u0105ce dla Doros\u0142ych w Tczewie","addr:country":"PL","addr:postcode":"83-110","addr:city":"Tczew","addr:street":"ul. Ba\u0142dowska","addr:housenumber":"19","addr:teryt:simc":651,"addr:teryt:sym_ul":934903,"contact:phone":"+48 585310566","contact:email":"zsbio@wp.pl","contact:website":"http:\/\/www.zsbio.tcz.pl","ref:regon":"389868122","operator":"Powiat Tczewski","operator:type":"government","amenity":"school","note":"Parent RSPO: 25066"}},{"id":67807,"type":"Feature","geometry":{"type":"Point","coordinates":[18.79008,54.07522]},"properties":{"isced:level":"1;2","ref:rspo":67807,"official_name":"Szko\u0142a Podstawowa Nr 10 Z Oddzia\u0142ami Integracyjnymi im.p\u0142k. Stanis\u0142awa D\u0105bka w Tczewie","name":"Szko\u0142a Podstawowa Nr 10 Z Oddzia\u0142ami Integracyjnymi im.p\u0142k. Stanis\u0142awa D\u0105bka w Tczewie","addr:country":"PL","addr:postcode":"83-110","addr:city":"Tczew","addr:street":"ul. Marii Konopnickiej","addr:housenumber":"11","addr:teryt:simc":9186,"addr:teryt:sym_ul":934903,"contact:phone":"+48 585311707","contact:email":"sp10tczew@wp.pl","contact:website":"http:\/\/sp10tczew.edupage.org","ref:regon":"190958951","ref:vatin":"PL5931026599","operator":"Gmina Miejska Tczew","operator:type":"government","amenity":"school"}},{"id":196219,"type":"Feature","geometry":{"type":"Point","coordinates":[18.80059,54.07816]},"properties":{"isced:level":"1;2","ref:rspo":196219,"official_name":"Szko\u0142a Podstawowa Nr 1 im. Gen. Jana Henryka D\u0105browskiego","name":"Szko\u0142a Podstawowa Nr 1","addr:country":"PL","addr:postcode":"83-110","addr:city":"Tczew","addr:street":"ul. Czy\u017cykowska","addr:housenumber":"69","addr:teryt:simc":3535,"addr:teryt:sym_ul":934903,"contact:phone":"+48 585311763","contact:email":"sp1.tczew@wp.pl","contact:website":"http:\/\/sp1tczew.superszkolna.pl\/","ref:regon":"367988636","operator":"Gmina Miejska Tczew","operator:type":"government","amenity":"school"}},{"id":50383,"type":"Feature","geometry":{"type":"Point","coordinates":[18.80276,54.07836]},"properties":{"ref:rspo":50383,"official_name":"Niepubliczne Przedszkole \"Chatka Puchatka\"","name":"Niepubliczne Przedszkole \"Chatka Puchatka\"","addr:country":"PL","addr:postcode":"83-110","addr:city":"Tczew","addr:street":"ul. W\u0142adys\u0142awa Orkana","addr:housenumber":"1","addr:teryt:simc":15140,"addr:teryt:sym_ul":934903,"contact:phone":"+48 585310309","contact:email":"chpuchatka@gmail.com","ref:regon":"221764663","ref:vatin":"PL5931109351","operator":"R\u00f3\u017ca Laskowska","operator:type":"private","amenity":"kindergarten"}},{"id":124388,"type":"Feature","geometry":{"type":"Point","coordinates":[18.80031,54.07871]},"properties":{"isced:level":"1;2","ref:rspo":124388,"official_name":"Niepubliczna Szko\u0142a Podstawowa im. \u015aw. O. Pio w Tczewie","name":"Niepubliczna Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"83-110","addr:city":"Tczew","addr:street":"ul. Czy\u017cykowska","addr:housenumber":"70","addr:teryt:simc":3535,"addr:teryt:sym_ul":934903,"contact:phone":"+48 697302902","contact:email":"nsptczew@sp.tczew.pl","ref:regon":"222148446","operator":"Fundacja Edukacyjno-Wychowawcza \"Arka Noego\"","operator:type":"ngo","amenity":"school"}},{"id":276741,"type":"Feature","geometry":{"type":"Point","coordinates":[18.80031,54.07868]},"properties":{"ref:rspo":276741,"official_name":"Niepubliczna Poradnia Psychologiczno-Pedagogiczna \"Arka Noego\"","name":"Niepubliczna Poradnia Psychologiczno-Pedagogiczna \"Arka Noego\"","addr:country":"PL","addr:postcode":"83-110","addr:city":"Tczew","addr:street":"ul. Czy\u017cykowska","addr:housenumber":"70","addr:teryt:simc":3535,"addr:teryt:sym_ul":934903,"contact:phone":"+48 697302902","contact:email":"nsptczew@sp.tczew.pl","contact:website":"http:\/\/www.arka-noego.za.pl","ref:regon":"387470740","operator":"Fundacja Edukacyjno-Wychowawcza \"Arka Noego\"","operator:type":"ngo","healthcare":"councelling","counselling_type":"education","fixme":"w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. healthcare=councelling + counselling_type=education albo healthcare=psychotherapist)"}},{"id":276742,"type":"Feature","geometry":{"type":"Point","coordinates":[18.80031,54.07865]},"properties":{"isced:level":"3","ref:rspo":276742,"official_name":"Liceum Og\u00f3lnokszta\u0142c\u0105ce im. \u015aw. O. Pio","name":"Liceum Og\u00f3lnokszta\u0142c\u0105ce","addr:country":"PL","addr:postcode":"83-110","addr:city":"Tczew","addr:street":"ul. Czy\u017cykowska","addr:housenumber":"70","addr:teryt:simc":3535,"addr:teryt:sym_ul":934903,"contact:phone":"+48 697302902","contact:email":"nsptczew@sp.tczew.pl","contact:website":"http:\/\/www.sp.tczew.pl","ref:regon":"387470792","operator":"Fundacja Edukacyjno-Wychowawcza \"Arka Noego\"","operator:type":"ngo","amenity":"school"}},{"id":25061,"type":"Feature","geometry":{"type":"Point","coordinates":[18.80418,54.08267]},"properties":{"ref:rspo":25061,"official_name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 Bran\u017cowych im. Ksi\u0119cia Sambora II w Tczewie","name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 Bran\u017cowych","addr:country":"PL","addr:postcode":"83-110","addr:city":"Tczew","addr:street":"ul. Czy\u017cykowska","addr:housenumber":"17","addr:teryt:simc":3535,"addr:teryt:sym_ul":934903,"contact:phone":"+48 585310517","contact:email":"sekretariat@zsbtczew.pl","contact:website":"http:\/\/zsbtczew.pl","ref:regon":"191887532","ref:vatin":"PL5931045898","operator":"Powiat Tczewski","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 34874;34968;43831;275671"}},{"id":34874,"type":"Feature","geometry":{"type":"Point","coordinates":[18.80418,54.08264]},"properties":{"isced:level":"3","ref:rspo":34874,"official_name":"Bran\u017cowa Szko\u0142a I Stopnia Nr 2 w Tczewie","name":"Bran\u017cowa Szko\u0142a I Stopnia Nr 2 w Tczewie","addr:country":"PL","addr:postcode":"83-110","addr:city":"Tczew","addr:street":"ul. Czy\u017cykowska","addr:housenumber":"17","addr:teryt:simc":3535,"addr:teryt:sym_ul":934903,"contact:phone":"+48 585310517","contact:email":"sekretariat@zsbtczew.pl","contact:website":"http:\/\/zsbtczew.pl","ref:regon":"192775195","ref:vatin":"PL5931045898","operator":"Powiat Tczewski","operator:type":"government","amenity":"school","note":"Parent RSPO: 25061"}},{"id":34968,"type":"Feature","geometry":{"type":"Point","coordinates":[18.80418,54.08261]},"properties":{"isced:level":"3","ref:rspo":34968,"official_name":"Liceum Og\u00f3lnokszta\u0142cace dla Doros\u0142ych","name":"Liceum Og\u00f3lnokszta\u0142cace dla Doros\u0142ych","addr:country":"PL","addr:postcode":"83-110","addr:city":"Tczew","addr:street":"ul. Czy\u017cykowska","addr:housenumber":"17","addr:teryt:simc":3535,"addr:teryt:sym_ul":934903,"contact:phone":"+48 585310517","contact:email":"sekretariat@zsbtczew.pl","contact:website":"http:\/\/zsbtczew.pl","ref:regon":"221639248","ref:vatin":"PL5931045898","operator":"Powiat Tczewski","operator:type":"government","amenity":"school","note":"Parent RSPO: 25061"}},{"id":43831,"type":"Feature","geometry":{"type":"Point","coordinates":[18.80418,54.08258]},"properties":{"isced:level":"3","ref:rspo":43831,"official_name":"Technikum Nr 2 w Tczewie","name":"Technikum Nr 2 w Tczewie","addr:country":"PL","addr:postcode":"83-110","addr:city":"Tczew","addr:street":"ul. Czy\u017cykowska","addr:housenumber":"17","addr:teryt:simc":3535,"addr:teryt:sym_ul":934903,"contact:phone":"+48 585310517","contact:email":"sekretariat@zsbtczew.pl","contact:website":"http:\/\/zsbtczew.pl","ref:regon":"220094568","ref:vatin":"PL5931045898","operator":"Powiat Tczewski","operator:type":"government","amenity":"school","note":"Parent RSPO: 25061"}},{"id":275671,"type":"Feature","geometry":{"type":"Point","coordinates":[18.80418,54.08255]},"properties":{"isced:level":"3","ref:rspo":275671,"official_name":"Bran\u017cowa Szko\u0142a II Stopnia w Tczewie","name":"Bran\u017cowa Szko\u0142a II Stopnia w Tczewie","addr:country":"PL","addr:postcode":"83-110","addr:city":"Tczew","addr:street":"ul. Czy\u017cykowska","addr:housenumber":"17","addr:teryt:simc":3535,"addr:teryt:sym_ul":934903,"contact:phone":"+48 585310517","contact:email":"sekretariat@zsbtczew.pl","contact:website":"http:\/\/zsbtczew.pl","ref:regon":"386943449","operator":"Powiat Tczewski","operator:type":"government","amenity":"school","note":"Parent RSPO: 25061"}},{"id":24034,"type":"Feature","geometry":{"type":"Point","coordinates":[18.80229,54.08281]},"properties":{"ref:rspo":24034,"official_name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 Technicznych im. Kmdr Antoniego Garnuszewskiego w Tczewie","name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 Technicznych","addr:country":"PL","addr:postcode":"83-110","addr:city":"Tczew","addr:street":"ul. Parkowa","addr:housenumber":"1","addr:teryt:simc":15710,"addr:teryt:sym_ul":934903,"contact:phone":"+48 585310015","contact:email":"szkola@zst.etczew.eu","contact:website":"http:\/\/www.zst.etczew.eu","ref:regon":"191887561","ref:vatin":"PL5932424221","operator":"Powiat Tczewski","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 38772;38774;44229"}},{"id":38772,"type":"Feature","geometry":{"type":"Point","coordinates":[18.80229,54.08278]},"properties":{"isced:level":"3","ref:rspo":38772,"official_name":"Bran\u017cowa Szko\u0142a I Stopnia Nr 1 w Tczewie","name":"Bran\u017cowa Szko\u0142a I Stopnia Nr 1 w Tczewie","addr:country":"PL","addr:postcode":"83-110","addr:city":"Tczew","addr:street":"ul. Parkowa","addr:housenumber":"1","addr:teryt:simc":15710,"addr:teryt:sym_ul":934903,"contact:phone":"+48 585310015","contact:email":"szkola@zst.etczew.eu","contact:website":"http:\/\/www.zst.etczew.eu","ref:regon":"192774913","ref:vatin":"PL5932424221","operator":"Powiat Tczewski","operator:type":"government","amenity":"school","note":"Parent RSPO: 24034"}},{"id":38774,"type":"Feature","geometry":{"type":"Point","coordinates":[18.80229,54.082750000000004]},"properties":{"isced:level":"3","ref:rspo":38774,"official_name":"Technikum Nr 1 w Tczewie","name":"Technikum Nr 1 w Tczewie","addr:country":"PL","addr:postcode":"83-110","addr:city":"Tczew","addr:street":"ul. Parkowa","addr:housenumber":"1","addr:teryt:simc":15710,"addr:teryt:sym_ul":934903,"contact:phone":"+48 585310015","contact:email":"szkola@zst.etczew.eu","contact:website":"http:\/\/www.zst.etczew.eu","ref:regon":"192779974","ref:vatin":"PL5932424221","operator":"Powiat Tczewski","operator:type":"government","amenity":"school","note":"Parent RSPO: 24034"}},{"id":50384,"type":"Feature","geometry":{"type":"Point","coordinates":[18.79412,54.08291]},"properties":{"ref:rspo":50384,"official_name":"Niepubliczne Przedszkole \"Akademia Krasnoludk\u00f3w\"","name":"Niepubliczne Przedszkole \"Akademia Krasnoludk\u00f3w\"","addr:country":"PL","addr:postcode":"83-110","addr:city":"Tczew","addr:street":"ul. Zielona","addr:housenumber":"5","addr:teryt:simc":26081,"addr:teryt:sym_ul":934903,"contact:phone":"+48 585310391","contact:email":"kontakt@krasnoludki-tczew.pl","ref:regon":"221764634","ref:vatin":"PL5931306927","operator":"Ewa G\u00f3recka","operator:type":"private","amenity":"kindergarten"}},{"id":22959,"type":"Feature","geometry":{"type":"Point","coordinates":[18.78969,54.08459]},"properties":{"isced:level":"3","ref:rspo":22959,"official_name":"I Liceum Og\u00f3lnokszta\u0142c\u0105ce im. Marii Sk\u0142odowskiej-Curie w Tczewie","name":"I Liceum Og\u00f3lnokszta\u0142c\u0105ce","addr:country":"PL","addr:postcode":"83-110","addr:city":"Tczew","addr:street":"ul. Szko\u0142y Morskiej","addr:housenumber":"1","addr:teryt:simc":32111,"addr:teryt:sym_ul":934903,"contact:phone":"+48 585310525","contact:email":"pierwsze.liceum.tczew@gmail.com","contact:website":"http:\/\/www.sklodowska.szkola.tczew.pl","ref:regon":"191887236","ref:vatin":"PL5931045852","operator":"Powiat Tczewski","operator:type":"government","amenity":"school"}},{"id":126705,"type":"Feature","geometry":{"type":"Point","coordinates":[18.80324,54.08636]},"properties":{"ref:rspo":126705,"official_name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 Katolickich w Tczewie","name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 Katolickich w Tczewie","addr:country":"PL","addr:postcode":"83-110","addr:city":"Tczew","addr:street":"ul. Wodna","addr:housenumber":"6","addr:teryt:simc":24550,"addr:teryt:sym_ul":934903,"contact:phone":"+48 585313609","contact:email":"sekretariat@katolik-tcz.pl","contact:website":"http:\/\/www.katolik.tczew.pl","ref:regon":"360646878","ref:vatin":"PL5932309135","operator":"Diecezja Pelpli\u0144ska","operator:type":"religious","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 24106;196228"}},{"id":24106,"type":"Feature","geometry":{"type":"Point","coordinates":[18.80324,54.08633]},"properties":{"isced:level":"3","ref:rspo":24106,"official_name":"Uniwersyteckie Katolickie Liceum Og\u00f3lnokszta\u0142c\u0105ce w Tczewie","name":"Uniwersyteckie Katolickie Liceum Og\u00f3lnokszta\u0142c\u0105ce w Tczewie","addr:country":"PL","addr:postcode":"83-110","addr:city":"Tczew","addr:street":"ul. Wodna","addr:housenumber":"6","addr:teryt:simc":24550,"addr:teryt:sym_ul":934903,"contact:phone":"+48 585313609","contact:email":"sekretariat@katolik-tcz.pl","contact:website":"http:\/\/www.katolik.tczew.pl","ref:regon":"221755256","ref:vatin":"PL5932172593","operator":"Diecezja Pelpli\u0144ska","operator:type":"religious","amenity":"school","note":"Parent RSPO: 126705"}},{"id":196228,"type":"Feature","geometry":{"type":"Point","coordinates":[18.80324,54.0863]},"properties":{"isced:level":"1;2","ref:rspo":196228,"official_name":"Katolicka Szko\u0142a Podstawowa w Tczewie","name":"Katolicka Szko\u0142a Podstawowa w Tczewie","addr:country":"PL","addr:postcode":"83-110","addr:city":"Tczew","addr:street":"ul. Wodna","addr:housenumber":"6","addr:teryt:simc":24550,"addr:teryt:sym_ul":934903,"contact:phone":"+48 585313609","contact:email":"sekretariat@katolik-tcz.pl","contact:website":"http:\/\/katolik.tczew.pl","ref:regon":"367996713","operator":"Diecezja Pelpli\u0144ska","operator:type":"religious","amenity":"school","note":"Parent RSPO: 126705"}},{"id":272737,"type":"Feature","geometry":{"type":"Point","coordinates":[18.79432,54.08694]},"properties":{"ref:rspo":272737,"official_name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 \"Pascal\" w Tczewie","name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 \"Pascal\" w Tczewie","addr:country":"PL","addr:postcode":"83-110","addr:city":"Tczew","addr:street":"ul. Jaros\u0142awa D\u0105browskiego","addr:housenumber":"9","addr:teryt:simc":3687,"addr:teryt:sym_ul":934903,"contact:phone":"+48 583800445","contact:email":"tczew@pascal.edu.pl","contact:website":"http:\/\/www.pascal.edu.pl","ref:regon":"384294277","operator":"Apprendi Sp\u00f3\u0142ka Z Ograniczon\u0105 Odpowiedzialno\u015bci\u0105","operator:type":"private","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 269144;269145;269147;269150"}},{"id":269144,"type":"Feature","geometry":{"type":"Point","coordinates":[18.79432,54.086909999999996]},"properties":{"isced:level":"3","ref:rspo":269144,"official_name":"Liceum Og\u00f3lnokszta\u0142c\u0105ce dla Doros\u0142ych \"Pascal\" w Tczewie","name":"Liceum Og\u00f3lnokszta\u0142c\u0105ce dla Doros\u0142ych \"Pascal\" w Tczewie","addr:country":"PL","addr:postcode":"83-110","addr:city":"Tczew","addr:street":"ul. Jaros\u0142awa D\u0105browskiego","addr:housenumber":"9","addr:teryt:simc":3687,"addr:teryt:sym_ul":934903,"contact:phone":"+48 583800445","contact:email":"tczew@pascal.edu.pl","ref:regon":"381386412","operator":"Apprendi Sp\u00f3\u0142ka Z Ograniczon\u0105 Odpowiedzialno\u015bci\u0105","operator:type":"private","amenity":"school","note":"Parent RSPO: 272737"}},{"id":269145,"type":"Feature","geometry":{"type":"Point","coordinates":[18.79432,54.08688]},"properties":{"isced:level":"4","ref:rspo":269145,"official_name":"Zaoczna Policealna Szko\u0142a Zawodowa \"Pascal\" w Tczewie","name":"Zaoczna Policealna Szko\u0142a Zawodowa \"Pascal\" w Tczewie","addr:country":"PL","addr:postcode":"83-110","addr:city":"Tczew","addr:street":"ul. Jaros\u0142awa D\u0105browskiego","addr:housenumber":"9","addr:teryt:simc":3687,"addr:teryt:sym_ul":934903,"contact:phone":"+48 583800445","contact:email":"tczew@pascal.edu.pl","ref:regon":"381386352","operator":"Apprendi Sp\u00f3\u0142ka Z Ograniczon\u0105 Odpowiedzialno\u015bci\u0105","operator:type":"private","amenity":"college","note":"Parent RSPO: 272737"}},{"id":269147,"type":"Feature","geometry":{"type":"Point","coordinates":[18.79432,54.08685]},"properties":{"isced:level":"4","ref:rspo":269147,"official_name":"Policealna Szko\u0142a Medyczna \"Pascal\" w Tczewie","name":"Policealna Szko\u0142a Medyczna \"Pascal\" w Tczewie","addr:country":"PL","addr:postcode":"83-110","addr:city":"Tczew","addr:street":"ul. Jaros\u0142awa D\u0105browskiego","addr:housenumber":"9","addr:teryt:simc":3687,"addr:teryt:sym_ul":934903,"contact:phone":"+48 583800445","contact:email":"tczew@pascal.edu.pl","ref:regon":"381386441","operator":"Apprendi Sp\u00f3\u0142ka Z Ograniczon\u0105 Odpowiedzialno\u015bci\u0105","operator:type":"private","amenity":"college","note":"Parent RSPO: 272737"}},{"id":269150,"type":"Feature","geometry":{"type":"Point","coordinates":[18.79432,54.086819999999996]},"properties":{"isced:level":"4","ref:rspo":269150,"official_name":"Stacjonarna Policealna Szko\u0142a Medyczna \"Pascal\" w Tczewie","name":"Stacjonarna Policealna Szko\u0142a Medyczna \"Pascal\" w Tczewie","addr:country":"PL","addr:postcode":"83-110","addr:city":"Tczew","addr:street":"ul. Jaros\u0142awa D\u0105browskiego","addr:housenumber":"9","addr:teryt:simc":3687,"addr:teryt:sym_ul":934903,"contact:phone":"+48 583800445","contact:email":"tczew@pascal.edu.pl","ref:regon":"381386429","operator":"Apprendi Sp\u00f3\u0142ka Z Ograniczon\u0105 Odpowiedzialno\u015bci\u0105","operator:type":"private","amenity":"college","note":"Parent RSPO: 272737"}},{"id":129304,"type":"Feature","geometry":{"type":"Point","coordinates":[18.76739,54.08695]},"properties":{"ref:rspo":129304,"official_name":"Niepubliczne Przedszkole \"Bajkowe\"","name":"Niepubliczne Przedszkole \"Bajkowe\"","addr:country":"PL","addr:postcode":"83-110","addr:city":"Tczew","addr:street":"ul. Szewczyka Dratewki","addr:housenumber":"3","addr:teryt:simc":35312,"addr:teryt:sym_ul":934903,"contact:email":"tczew.bajkowe@gmail.com","contact:website":"http:\/\/przedszkole.bajkowe.pl","ref:regon":"362553840","ref:vatin":"PL5932433438","operator":"Joanna Brzozowska","operator:type":"private","amenity":"kindergarten"}},{"id":124393,"type":"Feature","geometry":{"type":"Point","coordinates":[18.8011899,54.08721]},"properties":{"isced:level":"1;2","ref:rspo":124393,"official_name":"Fontanna Marze\u0144 Prywatna Szko\u0142a Podstawowa w Tczewie","name":"Fontanna Marze\u0144 Prywatna Szko\u0142a Podstawowa w Tczewie","addr:country":"PL","addr:postcode":"83-110","addr:city":"Tczew","addr:street":"ul. Stefana Okrzei","addr:housenumber":"2","addr:teryt:simc":14914,"addr:teryt:sym_ul":934903,"contact:phone":"+48 667568877","contact:email":"ps.fontannamarzen@gmail.com","ref:regon":"222148506","operator":"Emil Ochocki","operator:type":"private","amenity":"school"}},{"id":23274,"type":"Feature","geometry":{"type":"Point","coordinates":[18.7885199,54.08727]},"properties":{"ref:rspo":23274,"official_name":"Poradnia Psychologiczno-Pedagogiczna w Tczewie","name":"Poradnia Psychologiczno-Pedagogiczna w Tczewie","addr:country":"PL","addr:postcode":"83-110","addr:city":"Tczew","addr:street":"ul. Wojska Polskiego","addr:housenumber":"6","addr:teryt:simc":24628,"addr:teryt:sym_ul":934903,"contact:phone":"+48 585311009","contact:email":"ppp.tczew@ppp.tczew.pl","contact:website":"http:\/\/www.ppptczew.naszaporadnia.com","ref:regon":"000957904","ref:vatin":"PL5931026429","operator":"Powiat Tczewski","operator:type":"government","healthcare":"councelling","counselling_type":"education","fixme":"w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. healthcare=councelling + counselling_type=education albo healthcare=psychotherapist)"}},{"id":269141,"type":"Feature","geometry":{"type":"Point","coordinates":[18.79493,54.08746]},"properties":{"isced:level":"4","ref:rspo":269141,"official_name":"Centrum Kszta\u0142cenia Plejada Szko\u0142a Policealna Novum w Tczewie","name":"Centrum Kszta\u0142cenia Plejada Szko\u0142a Policealna Novum w Tczewie","addr:country":"PL","addr:postcode":"83-110","addr:city":"Tczew","addr:street":"ul. Obro\u0144c\u00f3w Westerplatte","addr:housenumber":"1","addr:teryt:simc":14655,"addr:teryt:sym_ul":934903,"contact:phone":"+48 512039940","contact:email":"plejada.tczew@gmail.com","contact:website":"http:\/\/www.plejada.edu.pl","ref:regon":"381384732","operator":"Bo\u017cena Sugalska","operator:type":"private","amenity":"college"}},{"id":25377,"type":"Feature","geometry":{"type":"Point","coordinates":[18.80113,54.08779]},"properties":{"ref:rspo":25377,"official_name":"Pa\u0144stwowa Szko\u0142a Muzyczna I St. im. Janiny Gar\u015bci w Tczewie","name":"Pa\u0144stwowa Szko\u0142a Muzyczna I St.","addr:country":"PL","addr:postcode":"83-110","addr:city":"Tczew","addr:street":"pl. \u015bw. Grzegorza","addr:housenumber":"6","addr:teryt:simc":6311,"addr:teryt:sym_ul":934903,"contact:phone":"+48 585312351","contact:email":"muzyczne@o2.pl","contact:website":"http:\/\/psm.tczew.pl","ref:regon":"000278095","operator":"Ministerstwo Kultury I Dziedzictwa Narodowego","operator:type":"public","amenity":"music_school","note":"Children RSPO: 112018"}},{"id":277254,"type":"Feature","geometry":{"type":"Point","coordinates":[18.79705,54.08781]},"properties":{"ref:rspo":277254,"official_name":"Promyczek Przedszkole Niepubliczne Natalia Borkowska","name":"Promyczek Przedszkole Niepubliczne Natalia Borkowska","addr:country":"PL","addr:postcode":"83-110","addr:city":"Tczew","addr:street":"ul. \u0141azienna","addr:housenumber":"12A","addr:teryt:simc":11561,"addr:teryt:sym_ul":934903,"contact:phone":"+48 696962814","contact:email":"natalia_borkowska@wp.pl","ref:regon":"388466396","operator":"Natalia Borkowska","operator:type":"private","amenity":"kindergarten"}},{"id":50376,"type":"Feature","geometry":{"type":"Point","coordinates":[18.78204,54.08805]},"properties":{"ref:rspo":50376,"official_name":"Przedszkole Niepubliczne Niebieskie Migda\u0142y","name":"Przedszkole Niepubliczne Niebieskie Migda\u0142y","addr:country":"PL","addr:postcode":"83-110","addr:city":"Tczew","addr:street":"ul. Grunwaldzka","addr:housenumber":"9","addr:teryt:simc":6260,"addr:teryt:sym_ul":934903,"contact:phone":"+48 505039024","contact:email":"przedszkole@niebieskiemigdaly.org.pl","contact:website":"http:\/\/www.niebieskiemigdaly.org.pl","ref:regon":"221764752","ref:vatin":"PL5931875507","operator":"Bogus\u0142awa Szcz\u0119sna-Gorczy\u0144ska","operator:type":"private","amenity":"kindergarten"}},{"id":125020,"type":"Feature","geometry":{"type":"Point","coordinates":[18.78382,54.08823]},"properties":{"ref:rspo":125020,"official_name":"Niepubliczne Przedszkole \"Twoja Niania\"","name":"Niepubliczne Przedszkole \"Twoja Niania\"","addr:country":"PL","addr:postcode":"83-110","addr:city":"Tczew","addr:street":"ul. Piaskowa","addr:housenumber":"10","addr:door":"1","addr:teryt:simc":16033,"addr:teryt:sym_ul":934903,"contact:phone":"+48 604066321","contact:email":"biuro.twojaniania@gmail.com","contact:website":"http:\/\/www.twojaniania.com.pl","ref:regon":"221773739","ref:vatin":"PL5931782987","operator":"Kamila Chabowska","operator:type":"private","amenity":"kindergarten"}},{"id":30811,"type":"Feature","geometry":{"type":"Point","coordinates":[18.79603,54.08823]},"properties":{"ref:rspo":30811,"official_name":"Przedszkole Niepubliczne \"Siedem Dar\u00f3w\"","name":"Przedszkole Niepubliczne \"Siedem Dar\u00f3w\"","addr:country":"PL","addr:postcode":"83-110","addr:city":"Tczew","addr:street":"ul. Ko\u015bciuszki","addr:housenumber":"18","addr:teryt:simc":9572,"addr:teryt:sym_ul":934903,"contact:phone":"+48 587776801","contact:email":"ewatczew@interia.pl","contact:website":"http:\/\/www.siedemdarow.pl","ref:regon":"221759194","ref:vatin":"PL5932023054","operator":"Ewa Sadokierska","operator:type":"private","amenity":"kindergarten"}},{"id":124054,"type":"Feature","geometry":{"type":"Point","coordinates":[18.78319,54.08889]},"properties":{"ref:rspo":124054,"official_name":"Zesp\u00f3\u0142 Plac\u00f3wek Specjalnych w Tczewie","name":"Zesp\u00f3\u0142 Plac\u00f3wek Specjalnych w Tczewie","addr:country":"PL","addr:postcode":"83-110","addr:city":"Tczew","addr:street":"ul. Grunwaldzka","addr:housenumber":"1","addr:teryt:simc":6260,"addr:teryt:sym_ul":934903,"contact:phone":"+48 585315550","contact:email":"sekretariat@zpstczew.pl","contact:website":"http:\/\/www.zpstczew.pl","ref:regon":"222141711","operator":"Powiat Tczewski","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 25920;124120"}},{"id":50288,"type":"Feature","geometry":{"type":"Point","coordinates":[18.78319,54.08886]},"properties":{"ref:rspo":50288,"official_name":"Przedszkole Nr 3 Specjalne w Tczewie","name":"Przedszkole Nr 3 Specjalne w Tczewie","addr:country":"PL","addr:postcode":"83-110","addr:city":"Tczew","addr:street":"ul. Grunwaldzka","addr:housenumber":"1","addr:teryt:simc":6260,"addr:teryt:sym_ul":934903,"contact:phone":"+48 585315550","contact:email":"sekretariat@zpstczew.pl","contact:website":"http:\/\/www.zpstczew.pl","ref:regon":"193110530","ref:vatin":"PL5931046248","operator":"Powiat Tczewski","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 25920"}},{"id":50391,"type":"Feature","geometry":{"type":"Point","coordinates":[18.78319,54.08883]},"properties":{"isced:level":"1;2","ref:rspo":50391,"official_name":"Szko\u0142a Podstawowa Nr 9 Specjalna w Tczewie","name":"Szko\u0142a Podstawowa Nr 9 Specjalna w Tczewie","addr:country":"PL","addr:postcode":"83-110","addr:city":"Tczew","addr:street":"ul. Grunwaldzka","addr:housenumber":"1","addr:teryt:simc":6260,"addr:teryt:sym_ul":934903,"contact:phone":"+48 585315550","contact:email":"sekretariat@zpstczew.pl","contact:website":"http:\/\/www.zpstczew.pl","ref:regon":"193076080","ref:vatin":"PL5931046248","operator":"Powiat Tczewski","operator:type":"government","amenity":"school","note":"Parent RSPO: 25920"}},{"id":53177,"type":"Feature","geometry":{"type":"Point","coordinates":[18.78319,54.0888]},"properties":{"ref:rspo":53177,"official_name":"Szko\u0142a Specjalna Przysposabiaj\u0105ca Do Pracy w Tczewie","name":"Szko\u0142a Specjalna Przysposabiaj\u0105ca Do Pracy w Tczewie","addr:country":"PL","addr:postcode":"83-110","addr:city":"Tczew","addr:street":"ul. Grunwaldzka","addr:housenumber":"1","addr:teryt:simc":6260,"addr:teryt:sym_ul":934903,"contact:phone":"+48 585315550","contact:email":"sekretariat@zpstczew.pl","contact:website":"http:\/\/www.zpstczew.pl","ref:regon":"193063947","ref:vatin":"PL5931046248","operator":"Powiat Tczewski","operator:type":"government","amenity":"school","note":"Parent RSPO: 25920"}},{"id":62317,"type":"Feature","geometry":{"type":"Point","coordinates":[18.78319,54.08877]},"properties":{"isced:level":"3","ref:rspo":62317,"official_name":"Bran\u017cowa Szko\u0142a I Stopnia Nr 5 Specjalna","name":"Bran\u017cowa Szko\u0142a I Stopnia Nr 5 Specjalna","addr:country":"PL","addr:postcode":"83-110","addr:city":"Tczew","addr:street":"ul. Grunwaldzka","addr:housenumber":"1","addr:teryt:simc":6260,"addr:teryt:sym_ul":934903,"contact:phone":"+48 585315550","contact:email":"sekretariat@zpstczew.pl","contact:website":"http:\/\/www.zpstczew.pl","ref:regon":"193076068","ref:vatin":"PL5931046248","operator":"Powiat Tczewski","operator:type":"government","amenity":"school","note":"Parent RSPO: 25920"}},{"id":25920,"type":"Feature","geometry":{"type":"Point","coordinates":[18.78319,54.08874]},"properties":{"ref:rspo":25920,"official_name":"Specjalny O\u015brodek Szkolno-Wychowawczy im. Jana Paw\u0142a II w Tczewie","name":"Specjalny O\u015brodek Szkolno-Wychowawczy","addr:country":"PL","addr:postcode":"83-110","addr:city":"Tczew","addr:street":"ul. Grunwaldzka","addr:housenumber":"1","addr:teryt:simc":6260,"addr:teryt:sym_ul":934903,"contact:phone":"+48 585315550","contact:email":"sekretariat@zpstczew.pl","contact:website":"http:\/\/www.zpstczew.pl","ref:regon":"191887615","ref:vatin":"PL5931046248","operator":"Powiat Tczewski","operator:type":"government","amenity":"school","note":"Children RSPO: 50288;50391;53177;62317Parent RSPO: 124054"}},{"id":124120,"type":"Feature","geometry":{"type":"Point","coordinates":[18.78319,54.08871]},"properties":{"ref:rspo":124120,"official_name":"O\u015brodek Rewalidacyjno-Wychowawczy w Zespole Plac\u00f3wek Specjalnych w Tczewie","name":"O\u015brodek Rewalidacyjno-Wychowawczy w Zespole Plac\u00f3wek Specjalnych w Tczewie","addr:country":"PL","addr:postcode":"83-110","addr:city":"Tczew","addr:street":"ul. Grunwaldzka","addr:housenumber":"1","addr:teryt:simc":6260,"addr:teryt:sym_ul":934903,"contact:phone":"+48 585315550","contact:email":"sekretariat@zpstczew.pl","contact:website":"http:\/\/www.zpstczew.pl","ref:regon":"222143377","operator":"Powiat Tczewski","operator:type":"government","amenity":"school","note":"Parent RSPO: 124054"}},{"id":66459,"type":"Feature","geometry":{"type":"Point","coordinates":[18.79449,54.08944]},"properties":{"isced:level":"1;2","ref:rspo":66459,"official_name":"Szko\u0142a Podstawowa Nr 5 im. A.mickiewicza w Tczewie","name":"Szko\u0142a Podstawowa Nr 5","addr:country":"PL","addr:postcode":"83-110","addr:city":"Tczew","addr:street":"ul. Obro\u0144c\u00f3w Westerplatte","addr:housenumber":"18","addr:teryt:simc":14655,"addr:teryt:sym_ul":934903,"contact:phone":"+48 585313527","contact:email":"sekretariat.sp5@wp.pl","contact:website":"https:\/\/sp5tczew.edupage.org","ref:regon":"190958997","ref:vatin":"PL5931045912","operator":"Gmina Miejska Tczew","operator:type":"government","amenity":"school"}},{"id":132081,"type":"Feature","geometry":{"type":"Point","coordinates":[18.77014,54.0909]},"properties":{"isced:level":"1;2","ref:rspo":132081,"official_name":"Niepubliczna Szko\u0142a Podstawowa Montessori","name":"Niepubliczna Szko\u0142a Podstawowa Montessori","addr:country":"PL","addr:postcode":"83-110","addr:city":"Tczew","addr:street":"ul. Kubusia Puchatka","addr:housenumber":"5F","addr:door":"15","addr:teryt:simc":10316,"addr:teryt:sym_ul":934903,"contact:phone":"+48 602774428","contact:email":"sekretariat@montessori.tczew.pl","contact:website":"http:\/\/www.montessori.tczew.pl","ref:regon":"365455108","operator":"Krzysztof Richert","operator:type":"private","amenity":"school"}},{"id":275880,"type":"Feature","geometry":{"type":"Point","coordinates":[18.78818,54.09166]},"properties":{"isced:level":"3","ref:rspo":275880,"official_name":"Bran\u017cowa Szko\u0142a I Stopnia w Tczewie","name":"Bran\u017cowa Szko\u0142a I Stopnia w Tczewie","addr:country":"PL","addr:postcode":"83-110","addr:city":"Tczew","addr:street":"ul. Jana Sobieskiego","addr:housenumber":"10","addr:teryt:simc":20427,"addr:teryt:sym_ul":934903,"contact:phone":"+48 660683704","contact:email":"bsp_sobieskiego@onet.pl","ref:regon":"386954542","operator":"Chrystian Wasiewicz","operator:type":"private","amenity":"school"}},{"id":44229,"type":"Feature","geometry":{"type":"Point","coordinates":[18.78818,54.091629999999995]},"properties":{"ref:rspo":44229,"official_name":"Centrum Kszta\u0142cenia Zawodowego","name":"Centrum Kszta\u0142cenia Zawodowego","addr:country":"PL","addr:postcode":"83-110","addr:city":"Tczew","addr:street":"ul. Jana Sobieskiego","addr:housenumber":"10 A","addr:teryt:simc":20427,"addr:teryt:sym_ul":934903,"contact:phone":"+48 585314343","contact:email":"szkola@zst.etczew.eu","ref:regon":"193069594","ref:vatin":"PL5932425717","operator":"Powiat Tczewski","operator:type":"government","fixme":"w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. amenity=training + training=*, amenity=dancing_school, amenity=language_school, amenity=music_school) albo amenity=school, amenity=college, albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Parent RSPO: 24034"}},{"id":24126,"type":"Feature","geometry":{"type":"Point","coordinates":[18.79245,54.09186]},"properties":{"isced:level":"3","ref:rspo":24126,"official_name":"Liceum Og\u00f3lnokszta\u0142c\u0105ce dla Doros\u0142ych","name":"Liceum Og\u00f3lnokszta\u0142c\u0105ce dla Doros\u0142ych","addr:country":"PL","addr:postcode":"83-110","addr:city":"Tczew","addr:street":"ul. Warsztatowa","addr:housenumber":"4","addr:teryt:simc":23695,"addr:teryt:sym_ul":934903,"contact:phone":"+48 587217046","contact:email":"ckz.nauka@wp.pl","contact:website":"http:\/\/www.nauka.etczew.eu","ref:regon":"221755285","ref:vatin":"PL5931639209","operator":"Maria Wasiewicz-Gali\u0144ska","operator:type":"private","amenity":"school"}},{"id":24192,"type":"Feature","geometry":{"type":"Point","coordinates":[18.79245,54.091829999999995]},"properties":{"isced:level":"3","ref:rspo":24192,"official_name":"Bran\u017cowa Szko\u0142a I Stopnia w Tczewie","name":"Bran\u017cowa Szko\u0142a I Stopnia w Tczewie","addr:country":"PL","addr:postcode":"83-110","addr:city":"Tczew","addr:street":"ul. Warsztatowa","addr:housenumber":"4","addr:teryt:simc":23695,"addr:teryt:sym_ul":934903,"contact:phone":"+48 587217046","contact:email":"ckz.nauka@wp.pl","contact:website":"http:\/\/www.nauka.etczew.eu","ref:regon":"221755204","ref:vatin":"PL5931639209","operator":"Maria Wasiewicz-Gali\u0144ska","operator:type":"private","amenity":"school"}},{"id":24211,"type":"Feature","geometry":{"type":"Point","coordinates":[18.79245,54.0918]},"properties":{"isced:level":"4","ref:rspo":24211,"official_name":"Policealne Studium Zawodowe","name":"Policealne Studium Zawodowe","addr:country":"PL","addr:postcode":"83-110","addr:city":"Tczew","addr:street":"ul. Warsztatowa","addr:housenumber":"4","addr:teryt:simc":23695,"addr:teryt:sym_ul":934903,"contact:phone":"+48 587217046","contact:email":"ckz.nauka@wp.pl","contact:website":"http:\/\/www.nauka.etczew.eu","ref:regon":"221755262","ref:vatin":"PL5931639209","operator":"Centrum Kszta\u0142cenia Zawodowego \"Nauka\" Sp\u00f3\u0142ka Z Ograniczon\u0105 Odpowiedzialno\u015bci\u0105","operator:type":"private","amenity":"college"}},{"id":27110,"type":"Feature","geometry":{"type":"Point","coordinates":[18.79245,54.09177]},"properties":{"isced:level":"4","ref:rspo":27110,"official_name":"Medyczne Studium Zawodowe","name":"Medyczne Studium Zawodowe","addr:country":"PL","addr:postcode":"83-110","addr:city":"Tczew","addr:street":"ul. Warsztatowa","addr:housenumber":"4","addr:teryt:simc":23695,"addr:teryt:sym_ul":934903,"contact:phone":"+48 587217046","contact:email":"ckz.nauka@wp.pl","contact:website":"http:\/\/www.nauka.etczew.eu","ref:regon":"221757663","ref:vatin":"PL5931639209","operator":"Centrum Kszta\u0142cenia Zawodowego \"Nauka\" Sp\u00f3\u0142ka Z Ograniczon\u0105 Odpowiedzialno\u015bci\u0105","operator:type":"private","amenity":"college"}},{"id":131700,"type":"Feature","geometry":{"type":"Point","coordinates":[18.79245,54.091739999999994]},"properties":{"isced:level":"3","ref:rspo":131700,"official_name":"Liceum Og\u00f3lnokszta\u0142c\u0105ce","name":"Liceum Og\u00f3lnokszta\u0142c\u0105ce","addr:country":"PL","addr:postcode":"83-110","addr:city":"Tczew","addr:street":"ul. Warsztatowa","addr:housenumber":"4","addr:teryt:simc":23695,"addr:teryt:sym_ul":934903,"contact:phone":"+48 660681360","contact:email":"ckz.nauka@wp.pl","contact:website":"http:\/\/www.nauka.etczew.eu","ref:regon":"365338510","operator":"Centrum Kszta\u0142cenia Zawodowego \"Nauka\" Sp\u00f3\u0142ka Z Ograniczon\u0105 Odpowiedzialno\u015bci\u0105","operator:type":"private","amenity":"school"}},{"id":263697,"type":"Feature","geometry":{"type":"Point","coordinates":[18.79245,54.09171]},"properties":{"isced:level":"1;2","ref:rspo":263697,"official_name":"Szko\u0142a Podstawowa w Tczewie","name":"Szko\u0142a Podstawowa w Tczewie","addr:country":"PL","addr:postcode":"83-110","addr:city":"Tczew","addr:street":"ul. Warsztatowa","addr:housenumber":"4","addr:teryt:simc":23695,"addr:teryt:sym_ul":934903,"contact:phone":"+48 660798839","contact:email":"sp_warsztatowa@onet.pl","ref:regon":"368215149","operator":"Chrystian Wasiewicz","operator:type":"private","amenity":"school"}},{"id":264110,"type":"Feature","geometry":{"type":"Point","coordinates":[18.79245,54.09168]},"properties":{"ref:rspo":264110,"official_name":"Niepubliczna Poradnia Psychologiczno-Pedagogiczna w Tczewie","name":"Niepubliczna Poradnia Psychologiczno-Pedagogiczna w Tczewie","addr:country":"PL","addr:postcode":"83-110","addr:city":"Tczew","addr:street":"ul. Warsztatowa","addr:housenumber":"4","addr:teryt:simc":23695,"addr:teryt:sym_ul":934903,"contact:phone":"+48 587217046","contact:email":"ckz.nauka@wp.pl","contact:website":"http:\/\/www.nauka.etczew.eu","ref:regon":"368263881","operator":"Maria Wasiewicz-Gali\u0144ska","operator:type":"private","healthcare":"councelling","counselling_type":"education","fixme":"w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. healthcare=councelling + counselling_type=education albo healthcare=psychotherapist)"}},{"id":275663,"type":"Feature","geometry":{"type":"Point","coordinates":[18.79245,54.091649999999994]},"properties":{"isced:level":"3","ref:rspo":275663,"official_name":"Bran\u017cowa Szko\u0142a II Stopnia w Tczewie","name":"Bran\u017cowa Szko\u0142a II Stopnia w Tczewie","addr:country":"PL","addr:postcode":"83-110","addr:city":"Tczew","addr:street":"ul. Warsztatowa","addr:housenumber":"4","addr:teryt:simc":23695,"addr:teryt:sym_ul":934903,"contact:phone":"+48 587217046","contact:email":"ckz.nauka@wp.pl","ref:regon":"386933155","operator":"Maria Wasiewicz-Gali\u0144ska","operator:type":"private","amenity":"school"}},{"id":125323,"type":"Feature","geometry":{"type":"Point","coordinates":[18.775279998779,54.092208862305]},"properties":{"ref:rspo":125323,"official_name":"Niepubliczne Przedszkole\"Domowe Przedszkole\"","name":"Niepubliczne Przedszkole\"Domowe Przedszkole\"","addr:country":"PL","addr:postcode":"83-110","addr:city":"Tczew","addr:street":"ul. Kr\u00f3lowej Bony","addr:housenumber":"3","addr:teryt:simc":10000,"addr:teryt:sym_ul":934903,"contact:phone":"+48 531115332","contact:email":"domoweprzedszkoletczew@gmail.com","contact:website":"http:\/\/domoweprzedszkoletczew.pl","ref:regon":"222056483","ref:vatin":"PL5932503357","operator":"Natalia Kamysz","operator:type":"private","amenity":"kindergarten"}},{"id":125328,"type":"Feature","geometry":{"type":"Point","coordinates":[18.775279998779,54.092178862305]},"properties":{"ref:rspo":125328,"official_name":"Niepubliczne Przedszkole \"Akademia Przedszkolaka\"","name":"Niepubliczne Przedszkole \"Akademia Przedszkolaka\"","addr:country":"PL","addr:postcode":"83-110","addr:city":"Tczew","addr:street":"ul. Christiana Andersena","addr:housenumber":"2F","addr:teryt:simc":288,"addr:teryt:sym_ul":934903,"contact:phone":"+48 516077725","contact:email":"akademia_przedszkolaka@interia.eu","contact:website":"http:\/\/www.akademia-przedszkolaka.net","ref:regon":"222056477","ref:vatin":"PL5932157530","operator":"\u0141ukasz Partyka","operator:type":"private","amenity":"kindergarten"}},{"id":67803,"type":"Feature","geometry":{"type":"Point","coordinates":[18.79159,54.09231]},"properties":{"isced:level":"1;2","ref:rspo":67803,"official_name":"Sportowa Szko\u0142a Podstawowa Nr 2 Z Oddzia\u0142ami Integracyjnymi im.bohater\u00f3w Westerplatte w Tczewie","name":"Sportowa Szko\u0142a Podstawowa Nr 2 Z Oddzia\u0142ami Integracyjnymi im.bohater\u00f3w Westerplatte w Tczewie","addr:country":"PL","addr:postcode":"83-110","addr:city":"Tczew","addr:street":"ul. Gda\u0144ska","addr:housenumber":"2","addr:teryt:simc":5431,"addr:teryt:sym_ul":934903,"contact:phone":"+48 587772888","contact:email":"ssp2tczew1@wp.pl","contact:website":"http:\/\/www.ssp2tczew.superszkolna.pl","ref:regon":"190958916","ref:vatin":"PL5932252027","operator":"Gmina Miejska Tczew","operator:type":"government","amenity":"school"}},{"id":130328,"type":"Feature","geometry":{"type":"Point","coordinates":[18.78382,54.09273]},"properties":{"ref:rspo":130328,"official_name":"Krajowe Stowarzyszenie Centr\u00f3w Kszta\u0142cenia Praktycznego","name":"Krajowe Stowarzyszenie Centr\u00f3w Kszta\u0142cenia Praktycznego","addr:country":"PL","addr:postcode":"83-110","addr:city":"Tczew","addr:street":"ul. Al. Zwyci\u0119stwa","addr:housenumber":"6","addr:teryt:simc":52288,"addr:teryt:sym_ul":934903,"contact:phone":"+48 695999723","contact:email":"bakowski.tomasz@wp.pl","ref:regon":"363871647","operator":"Krajowe Stowarzyszenie Centr\u00f3w Kszta\u0142cenia Praktycznego","operator:type":"ngo","fixme":"w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. amenity=training + training=*, amenity=dancing_school, amenity=language_school, amenity=music_school)"}},{"id":68223,"type":"Feature","geometry":{"type":"Point","coordinates":[18.78404,54.09273]},"properties":{"ref:rspo":68223,"official_name":"Niepubliczne Przedszkole \"Ma\u0142e Jag\u00f3dki\" w Tczewie","name":"Niepubliczne Przedszkole \"Ma\u0142e Jag\u00f3dki\" w Tczewie","addr:country":"PL","addr:postcode":"83-110","addr:city":"Tczew","addr:street":"al. Zwyci\u0119stwa","addr:housenumber":"6","addr:teryt:simc":26322,"addr:teryt:sym_ul":934903,"contact:phone":"+48 577363400","contact:email":"male.jagodki-sekretariat1@wp.pl","ref:regon":"221770422","ref:vatin":"PL5932294741","operator":"Dane Do Uzupe\u0142nienia","operator:type":"private","amenity":"kindergarten"}},{"id":50381,"type":"Feature","geometry":{"type":"Point","coordinates":[18.78247,54.09287]},"properties":{"ref:rspo":50381,"official_name":"Niepubliczne Przedszkole \" Czw\u00f3reczka\"","name":"Niepubliczne Przedszkole \" Czw\u00f3reczka\"","addr:country":"PL","addr:postcode":"83-110","addr:city":"Tczew","addr:street":"ul. Saperska","addr:housenumber":"7","addr:teryt:simc":19509,"addr:teryt:sym_ul":934903,"contact:phone":"+48 585314479","contact:email":"malgorzataczworeczka@gmail.com","ref:regon":"221764730","ref:vatin":"PL5931031212","operator":"Ma\u0142gorzata Gudzi\u0144ska","operator:type":"private","amenity":"kindergarten"}},{"id":279063,"type":"Feature","geometry":{"type":"Point","coordinates":[18.76499,54.0933]},"properties":{"ref:rspo":279063,"official_name":"Pszcz\u00f3\u0142ka Dwuj\u0119zyczny Punkt Przedszkolny Hanna Makowska","name":"Pszcz\u00f3\u0142ka Dwuj\u0119zyczny Punkt Przedszkolny Hanna Makowska","addr:country":"PL","addr:postcode":"83-110","addr:city":"Tczew","addr:street":"ul. W\u0142adys\u0142awa Jagie\u0142\u0142y","addr:housenumber":"15","addr:teryt:simc":24494,"addr:teryt:sym_ul":934903,"contact:email":"pszczolkatczew@gmail.com","ref:regon":"520538174","operator":"Hanna Makowska","operator:type":"private","amenity":"kindergarten"}},{"id":125329,"type":"Feature","geometry":{"type":"Point","coordinates":[18.77377,54.09382]},"properties":{"ref:rspo":125329,"official_name":"Niepubliczne Przedszkole \"Blue Kids\"","name":"Niepubliczne Przedszkole \"Blue Kids\"","addr:country":"PL","addr:postcode":"83-110","addr:city":"Tczew","addr:street":"ul. Franciszka \u017bwirki","addr:housenumber":"61","addr:teryt:simc":26601,"addr:teryt:sym_ul":934903,"contact:phone":"+48 536277737","contact:email":"akademia_przedszkolaka@interia.eu","contact:website":"http:\/\/www.akademia-przedszkolaka.net","ref:regon":"222169299","ref:vatin":"PL5932157530","operator":"\u0141ukasz Partyka","operator:type":"private","amenity":"kindergarten"}},{"id":67804,"type":"Feature","geometry":{"type":"Point","coordinates":[18.79182,54.09386]},"properties":{"ref:rspo":67804,"official_name":"Przedszkole Si\u00f3str Mi\u0142osierdzia \u015aw.wincentego A Paulo w Tczewie","name":"Przedszkole Si\u00f3str Mi\u0142osierdzia \u015aw.wincentego A Paulo w Tczewie","addr:country":"PL","addr:postcode":"83-110","addr:city":"Tczew","addr:street":"ul. Kaszubska","addr:housenumber":"17","addr:teryt:simc":8183,"addr:teryt:sym_ul":934903,"contact:phone":"+48 587772875","contact:email":"przedszkolesm@wp.pl","contact:website":"http:\/\/www.przedszkolesiostrtczew.pl","ref:regon":"221776471","ref:vatin":"PL5931045875","operator":"Zgromadzenie Si\u00f3str Mi\u0142osierdzia \u015aw.wincentego A Paulo Prowincja Che\u0142mi\u0144sko-Pozna\u0144ska Dom Zakonny","operator:type":"religious","amenity":"kindergarten"}},{"id":196220,"type":"Feature","geometry":{"type":"Point","coordinates":[18.76339,54.09436]},"properties":{"isced:level":"1;2","ref:rspo":196220,"official_name":"Szko\u0142a Podstawowa Nr 4 im. Kardyna\u0142a Stefana Wyszy\u0144skiego w Tczewie","name":"Szko\u0142a Podstawowa Nr 4","addr:country":"PL","addr:postcode":"83-110","addr:city":"Tczew","addr:street":"ul. W\u0142adys\u0142awa Jagie\u0142\u0142y","addr:housenumber":"8","addr:teryt:simc":24494,"addr:teryt:sym_ul":934903,"contact:phone":"+48 585326028","contact:email":"sp4@tczew.pl","contact:website":"http:\/\/sp4tczew.superszkolna.pl","ref:regon":"367988671","operator":"Gmina Miejska Tczew","operator:type":"government","amenity":"school"}},{"id":278118,"type":"Feature","geometry":{"type":"Point","coordinates":[18.77173,54.09464]},"properties":{"ref:rspo":278118,"official_name":"Punkt Przedszkolny Hocki Klocki Centrum Terapii I Rozwoju","name":"Punkt Przedszkolny Hocki Klocki Centrum Terapii I Rozwoju","addr:country":"PL","addr:postcode":"83-110","addr:city":"Tczew","addr:street":"ul. Franciszka \u017bwirki","addr:housenumber":"55","addr:teryt:simc":26601,"addr:teryt:sym_ul":934903,"contact:phone":"+48 662047750","contact:email":"hockiklockict@gmail.com","ref:regon":"389848740","operator":"Martyna Czapiewska","operator:type":"private","amenity":"kindergarten"}},{"id":67805,"type":"Feature","geometry":{"type":"Point","coordinates":[18.78395,54.09501]},"properties":{"isced:level":"1;2","ref:rspo":67805,"official_name":"Szko\u0142a Podstawowa Nr 11 im. Miko\u0142aja Kopernika w Tczewie","name":"Szko\u0142a Podstawowa Nr 11","addr:country":"PL","addr:postcode":"83-110","addr:city":"Tczew","addr:street":"ul. Saperska","addr:housenumber":"12","addr:teryt:simc":19509,"addr:teryt:sym_ul":934903,"contact:phone":"+48 585315952","contact:email":"sekretariat@sp11.pl","contact:website":"http:\/\/www.sp11.tczew.pl","ref:regon":"190958945","ref:vatin":"PL5931026731","operator":"Gmina Miejska Tczew","operator:type":"government","amenity":"school"}},{"id":25092,"type":"Feature","geometry":{"type":"Point","coordinates":[18.77662,54.09578]},"properties":{"isced:level":"3","ref:rspo":25092,"official_name":"Ii Liceum Og\u00f3lnokszta\u0142c\u0105ce im. Jana III Sobieskiego w Tczewie","name":"Ii Liceum Og\u00f3lnokszta\u0142c\u0105ce","addr:country":"PL","addr:postcode":"83-110","addr:city":"Tczew","addr:street":"ul. Kr\u00f3lowej Marysie\u0144ki","addr:housenumber":"10","addr:teryt:simc":10007,"addr:teryt:sym_ul":934903,"contact:phone":"+48 585316960","contact:email":"2losobieski@wp.pl","contact:website":"http:\/\/2lotczew.superszkolna.pl","ref:regon":"191887124","ref:vatin":"PL5931090261","operator":"Powiat Tczewski","operator:type":"government","amenity":"school"}},{"id":265791,"type":"Feature","geometry":{"type":"Point","coordinates":[18.77022,54.09671]},"properties":{"ref:rspo":265791,"official_name":"Niepubliczne Przedszkole \"Pan S\u0142onik 2\"","name":"Niepubliczne Przedszkole \"Pan S\u0142onik 2\"","addr:country":"PL","addr:postcode":"83-110","addr:city":"Tczew","addr:street":"ul. Jaworowa","addr:housenumber":"1","addr:teryt:simc":7394,"addr:teryt:sym_ul":934903,"contact:phone":"+48 509199533","contact:email":"alicja.kotlicka@wp.pl","ref:regon":"368908326","operator":"Alicja Kotlicka","operator:type":"private","amenity":"kindergarten"}},{"id":50385,"type":"Feature","geometry":{"type":"Point","coordinates":[18.78243,54.0968]},"properties":{"ref:rspo":50385,"official_name":"Niepubliczne Przedszkole \"Jode\u0142ka\"","name":"Niepubliczne Przedszkole \"Jode\u0142ka\"","addr:country":"PL","addr:postcode":"83-110","addr:city":"Tczew","addr:street":"ul. Jedno\u015bci Narodu","addr:housenumber":"26","addr:teryt:simc":7438,"addr:teryt:sym_ul":934903,"contact:phone":"+48 585315272","contact:email":"sekretariat@jodelka.com.pl","contact:website":"http:\/\/www.jodelka.com.pl","ref:regon":"221764628","ref:vatin":"PL5931178725","operator":"Weronika Jod\u0142owska","operator:type":"private","amenity":"kindergarten"}},{"id":269232,"type":"Feature","geometry":{"type":"Point","coordinates":[18.7653,54.09747]},"properties":{"ref:rspo":269232,"official_name":"Przedszkole Niepubliczne \"Edumelodica\"","name":"Przedszkole Niepubliczne \"Edumelodica\"","addr:country":"PL","addr:postcode":"83-110","addr:city":"Tczew","addr:street":"ul. Franciszka \u017bwirki","addr:housenumber":"38","addr:teryt:simc":26601,"addr:teryt:sym_ul":934903,"contact:phone":"+48 506871347","contact:email":"edumelodica@onet.pl","contact:website":"http:\/\/www.edumelodica.pl","ref:regon":"381408846","operator":"Maciej Gerka","operator:type":"private","amenity":"kindergarten"}},{"id":124978,"type":"Feature","geometry":{"type":"Point","coordinates":[18.76169,54.09769]},"properties":{"ref:rspo":124978,"official_name":"Niepubliczne Przedszkole \"Fantazja\"","name":"Niepubliczne Przedszkole \"Fantazja\"","addr:country":"PL","addr:postcode":"83-110","addr:city":"Tczew","addr:street":"ul. Obro\u0144c\u00f3w Tczewa","addr:housenumber":"12","addr:teryt:simc":14648,"addr:teryt:sym_ul":934903,"contact:phone":"+48 792900175","contact:email":"npfantazja@gmail.com","contact:website":"http:\/\/www.fantazjatczew.pl","ref:regon":"221773700","ref:vatin":"PL5932407501","operator":"Emilia Bochonko","operator:type":"private","amenity":"kindergarten"}},{"id":130095,"type":"Feature","geometry":{"type":"Point","coordinates":[18.78307,54.09779]},"properties":{"ref:rspo":130095,"official_name":"Przedszkole Niepubliczne Domek Przedszkolaka Motessori","name":"Przedszkole Niepubliczne Domek Przedszkolaka Motessori","addr:country":"PL","addr:postcode":"83-110","addr:city":"Tczew","addr:street":"ul. Jedno\u015bci Narodu","addr:housenumber":"19","addr:teryt:simc":7438,"addr:teryt:sym_ul":934903,"contact:phone":"+48 508287636","contact:email":"dpm.tczew@gmail.com","contact:website":"http:\/\/www.dpmtczew.pl","ref:regon":"363471215","operator":"Danuta Karczewska","operator:type":"private","amenity":"kindergarten"}},{"id":30745,"type":"Feature","geometry":{"type":"Point","coordinates":[18.77058,54.09804]},"properties":{"ref:rspo":30745,"official_name":"Przedszkole Nr 8 Z Oddzia\u0142ami Integracyjnymi w Tczewie","name":"Przedszkole Nr 8 Z Oddzia\u0142ami Integracyjnymi w Tczewie","addr:country":"PL","addr:postcode":"83-110","addr:city":"Tczew","addr:street":"ul. Jod\u0142owa","addr:housenumber":"6","addr:teryt:simc":7582,"addr:teryt:sym_ul":934903,"contact:phone":"+48 587771733","contact:email":"sekretariat@osiem.tczew.pl","contact:website":"http:\/\/www.osiem.tczew.pl","ref:regon":"221138256","ref:vatin":"PL5932576356","operator":"Gmina Miejska Tczew","operator:type":"government","amenity":"kindergarten"}},{"id":30352,"type":"Feature","geometry":{"type":"Point","coordinates":[18.76433,54.09917]},"properties":{"ref:rspo":30352,"official_name":"Niepubliczna Szko\u0142a Muzyczna I St. w Tczewie","name":"Niepubliczna Szko\u0142a Muzyczna I St. w Tczewie","addr:country":"PL","addr:postcode":"83-110","addr:city":"Tczew","addr:street":"ul. Armii Krajowej","addr:housenumber":"70","addr:teryt:simc":432,"addr:teryt:sym_ul":934903,"ref:regon":"221759120","operator":"Magdalena Szczypiorska","operator:type":"private","amenity":"music_school"}},{"id":67810,"type":"Feature","geometry":{"type":"Point","coordinates":[18.76433,54.09914]},"properties":{"isced:level":"1;2","ref:rspo":67810,"official_name":"Szko\u0142a Podstawowa Nr 8 im. \u015aw. Wojciecha w Tczewie","name":"Szko\u0142a Podstawowa Nr 8","addr:country":"PL","addr:postcode":"83-110","addr:city":"Tczew","addr:street":"ul. Armii Krajowej","addr:housenumber":"70","addr:teryt:simc":432,"addr:teryt:sym_ul":934903,"contact:phone":"+48 585316519","contact:email":"sekretariat@sp8.szkola.tczew.pl","contact:website":"http:\/\/sp8tczew.superszkolna.pl","ref:regon":"190959011","ref:vatin":"PL5931026636","operator":"Gmina Miejska Tczew","operator:type":"government","amenity":"school"}},{"id":48947,"type":"Feature","geometry":{"type":"Point","coordinates":[18.78004,54.09932]},"properties":{"ref:rspo":48947,"official_name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 Ekonomicznych im.ks.janusza St.pasierba w Tczewie","name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 Ekonomicznych im.ks.janusza St.pasierba w Tczewie","addr:country":"PL","addr:postcode":"83-110","addr:city":"Tczew","addr:street":"ul. Gda\u0144ska","addr:housenumber":"17","addr:teryt:simc":5431,"addr:teryt:sym_ul":934903,"contact:phone":"+48 585315516","contact:email":"jerzy.cisewski@zsetczew.pl","contact:website":"http:\/\/www.zsetczew.pl","ref:regon":"191887070","ref:vatin":"PL5930002645","operator":"Powiat Tczewski","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 72335;263291"}},{"id":72335,"type":"Feature","geometry":{"type":"Point","coordinates":[18.78004,54.099289999999996]},"properties":{"isced:level":"3","ref:rspo":72335,"official_name":"Technikum Nr 4 w Tczewie","name":"Technikum Nr 4 w Tczewie","addr:country":"PL","addr:postcode":"83-110","addr:city":"Tczew","addr:street":"ul. Gda\u0144ska","addr:housenumber":"17","addr:teryt:simc":5431,"addr:teryt:sym_ul":934903,"contact:phone":"+48 585315516","contact:email":"jerzy.cisewski@zsetczew.pl","contact:website":"http:\/\/www.zsetczew.pl","ref:regon":"192781008","ref:vatin":"PL5930002645","operator":"Powiat Tczewski","operator:type":"government","amenity":"school","note":"Parent RSPO: 48947"}},{"id":263291,"type":"Feature","geometry":{"type":"Point","coordinates":[18.78004,54.09926]},"properties":{"isced:level":"3","ref:rspo":263291,"official_name":"Bran\u017cowa Szko\u0142a I Stopnia Nr 4 w Tczewie","name":"Bran\u017cowa Szko\u0142a I Stopnia Nr 4 w Tczewie","addr:country":"PL","addr:postcode":"83-110","addr:city":"Tczew","addr:street":"ul. Gda\u0144ska","addr:housenumber":"17","addr:teryt:simc":5431,"addr:teryt:sym_ul":934903,"contact:phone":"+48 585315516","contact:email":"jerzy.cisewski@zsetczew.pl","contact:website":"http:\/\/www.zsetczew.pl","ref:regon":"368179152","operator":"Powiat Tczewski","operator:type":"government","amenity":"school","note":"Parent RSPO: 48947"}},{"id":74953,"type":"Feature","geometry":{"type":"Point","coordinates":[18.76998,54.10005]},"properties":{"ref:rspo":74953,"official_name":"Przedszkole Niepubliczne \"Jarz\u0119binka\"","name":"Przedszkole Niepubliczne \"Jarz\u0119binka\"","addr:country":"PL","addr:postcode":"83-110","addr:city":"Tczew","addr:street":"ul. Jarz\u0119binowa","addr:housenumber":"4","addr:teryt:simc":7290,"addr:teryt:sym_ul":934903,"contact:phone":"+48 585316241","contact:email":"jw@mroczkowscy.pl","ref:regon":"221774667","ref:vatin":"PL5931664897","operator":"Janina Mroczkowska","operator:type":"private","amenity":"kindergarten"}},{"id":124781,"type":"Feature","geometry":{"type":"Point","coordinates":[18.77905,54.10009]},"properties":{"ref:rspo":124781,"official_name":"Niepubliczne Przedszkole \"S\u0142oneczko\"","name":"Niepubliczne Przedszkole \"S\u0142oneczko\"","addr:country":"PL","addr:postcode":"83-110","addr:city":"Tczew","addr:street":"ul. Sadowa","addr:housenumber":"2a","addr:teryt:simc":19404,"addr:teryt:sym_ul":934903,"contact:phone":"+48 500249192","contact:email":"przedszkole.sloneczko.tcz@wp.pl","ref:regon":"222154599","ref:vatin":"PL5791778559","operator":"Ma\u0142gorzata Kotlenga","operator:type":"private","amenity":"kindergarten"}},{"id":67814,"type":"Feature","geometry":{"type":"Point","coordinates":[18.77227,54.10023]},"properties":{"isced:level":"1;2","ref:rspo":67814,"official_name":"Szko\u0142a Podstawowa Nr 12 im.bronis\u0142awa Malinowskiego","name":"Szko\u0142a Podstawowa Nr 12 im.bronis\u0142awa Malinowskiego","addr:country":"PL","addr:postcode":"83-110","addr:city":"Tczew","addr:street":"ul. Topolowa","addr:housenumber":"23","addr:teryt:simc":22880,"addr:teryt:sym_ul":934903,"contact:phone":"+48 585326381","contact:email":"sekretariat@sp12tczew.pl","contact:website":"http:\/\/www.sp12tczew.pl","ref:regon":"190958939","ref:vatin":"PL5931026688","operator":"Gmina Miejska Tczew","operator:type":"government","amenity":"school"}},{"id":273893,"type":"Feature","geometry":{"type":"Point","coordinates":[18.76822,54.1013]},"properties":{"ref:rspo":273893,"official_name":"Niepubliczne Przedszkole \"Na G\u00f3rkach\"","name":"Niepubliczne Przedszkole \"Na G\u00f3rkach\"","addr:country":"PL","addr:postcode":"83-110","addr:city":"Tczew","addr:street":"ul. Armii Krajowej","addr:housenumber":"20","addr:teryt:simc":432,"addr:teryt:sym_ul":934903,"contact:email":"zlobeknagorkach@gmail.com","contact:website":"http:\/\/www.nagorkach.edu.pl","ref:regon":"384812341","operator":"Karolina Juszczyk","operator:type":"private","amenity":"kindergarten"}},{"id":278536,"type":"Feature","geometry":{"type":"Point","coordinates":[18.77504,54.10266]},"properties":{"ref:rspo":278536,"official_name":"Niepubliczne Przedszkole Na G\u00f3rkach 2","name":"Niepubliczne Przedszkole Na G\u00f3rkach 2","addr:country":"PL","addr:postcode":"83-110","addr:city":"Tczew","addr:street":"ul. Aleja Solidarno\u015bci","addr:housenumber":"9","addr:teryt:simc":34760,"addr:teryt:sym_ul":934903,"contact:phone":"+48 577678288","contact:email":"zlobeknagorkach@gmail.com","contact:website":"http:\/\/www.nagorkach@gmail.com","ref:regon":"389965753","operator":"Karolina Juszczyk","operator:type":"private","amenity":"kindergarten"}},{"id":125023,"type":"Feature","geometry":{"type":"Point","coordinates":[18.77436,54.10329]},"properties":{"ref:rspo":125023,"official_name":"Niepubliczne Przedszkole\"Pan S\u0142onik\"","name":"Niepubliczne Przedszkole\"Pan S\u0142onik\"","addr:country":"PL","addr:postcode":"83-110","addr:city":"Tczew","addr:street":"ul. Aleja Solidarno\u015bci","addr:housenumber":"13","addr:teryt:simc":34760,"addr:teryt:sym_ul":934903,"contact:phone":"+48 509199533","contact:email":"alicja.kotlicka@wp.pl","contact:website":"http:\/\/www.pan-slonik.pl","ref:regon":"221764522","ref:vatin":"PL5931717777","operator":"Alicja Kotlicka","operator:type":"private","amenity":"kindergarten"}},{"id":67802,"type":"Feature","geometry":{"type":"Point","coordinates":[18.80423,54.10342]},"properties":{"isced:level":"1;2","ref:rspo":67802,"official_name":"Szko\u0142a Podstawowa Nr 7 im. Stanis\u0142awa Staszica","name":"Szko\u0142a Podstawowa Nr 7","addr:country":"PL","addr:postcode":"83-110","addr:city":"Tczew","addr:street":"ul. Stoczniowc\u00f3w","addr:housenumber":"15A","addr:teryt:simc":21190,"addr:teryt:sym_ul":934903,"contact:phone":"+48 585313506","contact:email":"sekretariat@sp7.tczew.pl","contact:website":"https:\/\/sp7tczew.superszkolna.pl\/","ref:regon":"190959005","ref:vatin":"PL5931057387","operator":"Gmina Miejska Tczew","operator:type":"government","amenity":"school"}},{"id":273895,"type":"Feature","geometry":{"type":"Point","coordinates":[18.77345,54.10364]},"properties":{"ref:rspo":273895,"official_name":"Punkt Przedszkolny Mozaika","name":"Punkt Przedszkolny Mozaika","addr:country":"PL","addr:postcode":"83-110","addr:city":"Tczew","addr:street":"ul. Aleja Solidarno\u015bci","addr:housenumber":"19","addr:teryt:simc":34760,"addr:teryt:sym_ul":934903,"contact:phone":"+48 662049121","contact:email":"biuro.twojaniania@gmail.com","contact:website":"http:\/\/tczew.mozaika.edu.pl\/","ref:regon":"384813754","operator":"Kamila Chabowska","operator:type":"private","amenity":"kindergarten"}},{"id":50378,"type":"Feature","geometry":{"type":"Point","coordinates":[18.80456,54.10411]},"properties":{"ref:rspo":50378,"official_name":"Przedszkole Niepubliczne \"Muszelka\"","name":"Przedszkole Niepubliczne \"Muszelka\"","addr:country":"PL","addr:postcode":"83-110","addr:city":"Tczew","addr:street":"ul. Pionier\u00f3w","addr:housenumber":"7","addr:teryt:simc":16290,"addr:teryt:sym_ul":934903,"contact:phone":"+48 585317541","contact:email":"a.walkowska@tlen.pl","contact:website":"http:\/\/www.muszelka-tczew.pl","ref:regon":"221764746","ref:vatin":"PL5931738503","operator":"Alina Walkowska","operator:type":"private","amenity":"kindergarten"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 269230,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.76747,
+                    54.06681
+                ]
+            },
+            "properties": {
+                "ref:rspo": 269230,
+                "official_name": "Niepubliczne Przedszkole \"Tropiciele\" Angelika Juda-Czechanowska",
+                "name": "Niepubliczne Przedszkole \"Tropiciele\" Angelika Juda-Czechanowska",
+                "addr:country": "PL",
+                "addr:postcode": "83-110",
+                "addr:city": "Tczew",
+                "addr:street": "ul. Lecha B\u0105dkowskiego",
+                "addr:housenumber": "13",
+                "addr:door": "3",
+                "addr:teryt:simc": 935,
+                "addr:teryt:sym_ul": 934903,
+                "contact:phone": "+48 530875598",
+                "contact:email": "kontakt@tropiciele.tczew.pl",
+                "contact:website": "http:\/\/tropiciele.tczew.pl",
+                "ref:regon": "381408792",
+                "operator": "Angelika Juda-Czechanowska",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 125124,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.77419,
+                    54.07376
+                ]
+            },
+            "properties": {
+                "ref:rspo": 125124,
+                "official_name": "Niepubliczne Przedszkole \"T\u0119czowe Przedszkole\"",
+                "name": "Niepubliczne Przedszkole \"T\u0119czowe Przedszkole\"",
+                "addr:country": "PL",
+                "addr:postcode": "83-110",
+                "addr:city": "Tczew",
+                "addr:street": "ul. J\u00f3zefa Che\u0142mo\u0144skiego",
+                "addr:housenumber": "1a",
+                "addr:teryt:simc": 2706,
+                "addr:teryt:sym_ul": 934903,
+                "contact:phone": "+48 888240022",
+                "contact:email": "przedszkole@teczowe.edu.pl",
+                "contact:website": "http:\/\/www.teczowe.edu.pl",
+                "ref:regon": "221773716",
+                "ref:vatin": "PL5791574153",
+                "operator": "Lidia Kwietniewska-Cabaj",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 25066,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.79363,
+                    54.07509
+                ]
+            },
+            "properties": {
+                "ref:rspo": 25066,
+                "official_name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Budowlanych I Odzie\u017cowych im.henryka Sienkiewicza w Tczewie",
+                "name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Budowlanych I Odzie\u017cowych im.henryka Sienkiewicza w Tczewie",
+                "addr:country": "PL",
+                "addr:postcode": "83-110",
+                "addr:city": "Tczew",
+                "addr:street": "ul. Ba\u0142dowska",
+                "addr:housenumber": "19",
+                "addr:teryt:simc": 651,
+                "addr:teryt:sym_ul": 934903,
+                "contact:phone": "+48 585310566",
+                "contact:email": "zsbio@wp.pl",
+                "contact:website": "http:\/\/www.zsbio.tcz.pl",
+                "ref:regon": "191887093",
+                "ref:vatin": "PL5931090226",
+                "operator": "Powiat Tczewski",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 48482;58867;278343"
+            }
+        },
+        {
+            "id": 48482,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.79363,
+                    54.07506
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 48482,
+                "official_name": "Technikum Nr 3 w Tczewie",
+                "name": "Technikum Nr 3 w Tczewie",
+                "addr:country": "PL",
+                "addr:postcode": "83-110",
+                "addr:city": "Tczew",
+                "addr:street": "ul. Ba\u0142dowska",
+                "addr:housenumber": "19",
+                "addr:teryt:simc": 651,
+                "addr:teryt:sym_ul": 934903,
+                "contact:phone": "+48 585310566",
+                "contact:email": "zsbio@wp.pl",
+                "contact:website": "http:\/\/www.zsbio.tcz.pl",
+                "ref:regon": "192778578",
+                "ref:vatin": "PL5931090226",
+                "operator": "Powiat Tczewski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 25066"
+            }
+        },
+        {
+            "id": 58867,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.79363,
+                    54.075030000000005
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 58867,
+                "official_name": "Bran\u017cowa Szko\u0142a I Stopnia Nr 3 w Tczewie",
+                "name": "Bran\u017cowa Szko\u0142a I Stopnia Nr 3 w Tczewie",
+                "addr:country": "PL",
+                "addr:postcode": "83-110",
+                "addr:city": "Tczew",
+                "addr:street": "ul. Ba\u0142dowska",
+                "addr:housenumber": "19",
+                "addr:teryt:simc": 651,
+                "addr:teryt:sym_ul": 934903,
+                "contact:phone": "+48 585310566",
+                "contact:email": "zsbio@wp.pl",
+                "contact:website": "http:\/\/www.zsbio.tcz.pl",
+                "ref:regon": "192778489",
+                "ref:vatin": "PL5931090226",
+                "operator": "Powiat Tczewski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 25066"
+            }
+        },
+        {
+            "id": 278343,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.79363,
+                    54.075
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 278343,
+                "official_name": "Ii Liceum Og\u00f3lnokszta\u0142c\u0105ce dla Doros\u0142ych w Tczewie",
+                "name": "Ii Liceum Og\u00f3lnokszta\u0142c\u0105ce dla Doros\u0142ych w Tczewie",
+                "addr:country": "PL",
+                "addr:postcode": "83-110",
+                "addr:city": "Tczew",
+                "addr:street": "ul. Ba\u0142dowska",
+                "addr:housenumber": "19",
+                "addr:teryt:simc": 651,
+                "addr:teryt:sym_ul": 934903,
+                "contact:phone": "+48 585310566",
+                "contact:email": "zsbio@wp.pl",
+                "contact:website": "http:\/\/www.zsbio.tcz.pl",
+                "ref:regon": "389868122",
+                "operator": "Powiat Tczewski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 25066"
+            }
+        },
+        {
+            "id": 67807,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.79008,
+                    54.07522
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 67807,
+                "official_name": "Szko\u0142a Podstawowa Nr 10 Z Oddzia\u0142ami Integracyjnymi im.p\u0142k. Stanis\u0142awa D\u0105bka w Tczewie",
+                "name": "Szko\u0142a Podstawowa Nr 10 Z Oddzia\u0142ami Integracyjnymi im.p\u0142k. Stanis\u0142awa D\u0105bka w Tczewie",
+                "addr:country": "PL",
+                "addr:postcode": "83-110",
+                "addr:city": "Tczew",
+                "addr:street": "ul. Marii Konopnickiej",
+                "addr:housenumber": "11",
+                "addr:teryt:simc": 9186,
+                "addr:teryt:sym_ul": 934903,
+                "contact:phone": "+48 585311707",
+                "contact:email": "sp10tczew@wp.pl",
+                "contact:website": "http:\/\/sp10tczew.edupage.org",
+                "ref:regon": "190958951",
+                "ref:vatin": "PL5931026599",
+                "operator": "Gmina Miejska Tczew",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 196219,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.80059,
+                    54.07816
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 196219,
+                "official_name": "Szko\u0142a Podstawowa Nr 1 im. Gen. Jana Henryka D\u0105browskiego",
+                "name": "Szko\u0142a Podstawowa Nr 1",
+                "addr:country": "PL",
+                "addr:postcode": "83-110",
+                "addr:city": "Tczew",
+                "addr:street": "ul. Czy\u017cykowska",
+                "addr:housenumber": "69",
+                "addr:teryt:simc": 3535,
+                "addr:teryt:sym_ul": 934903,
+                "contact:phone": "+48 585311763",
+                "contact:email": "sp1.tczew@wp.pl",
+                "contact:website": "http:\/\/sp1tczew.superszkolna.pl\/",
+                "ref:regon": "367988636",
+                "operator": "Gmina Miejska Tczew",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 50383,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.80276,
+                    54.07836
+                ]
+            },
+            "properties": {
+                "ref:rspo": 50383,
+                "official_name": "Niepubliczne Przedszkole \"Chatka Puchatka\"",
+                "name": "Niepubliczne Przedszkole \"Chatka Puchatka\"",
+                "addr:country": "PL",
+                "addr:postcode": "83-110",
+                "addr:city": "Tczew",
+                "addr:street": "ul. W\u0142adys\u0142awa Orkana",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 15140,
+                "addr:teryt:sym_ul": 934903,
+                "contact:phone": "+48 585310309",
+                "contact:email": "chpuchatka@gmail.com",
+                "ref:regon": "221764663",
+                "ref:vatin": "PL5931109351",
+                "operator": "R\u00f3\u017ca Laskowska",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 124388,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.80031,
+                    54.07871
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 124388,
+                "official_name": "Niepubliczna Szko\u0142a Podstawowa im. \u015aw. O. Pio w Tczewie",
+                "name": "Niepubliczna Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "83-110",
+                "addr:city": "Tczew",
+                "addr:street": "ul. Czy\u017cykowska",
+                "addr:housenumber": "70",
+                "addr:teryt:simc": 3535,
+                "addr:teryt:sym_ul": 934903,
+                "contact:phone": "+48 697302902",
+                "contact:email": "nsptczew@sp.tczew.pl",
+                "ref:regon": "222148446",
+                "operator": "Fundacja Edukacyjno-Wychowawcza \"Arka Noego\"",
+                "operator:type": "ngo",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 276741,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.80031,
+                    54.07868
+                ]
+            },
+            "properties": {
+                "ref:rspo": 276741,
+                "official_name": "Niepubliczna Poradnia Psychologiczno-Pedagogiczna \"Arka Noego\"",
+                "name": "Niepubliczna Poradnia Psychologiczno-Pedagogiczna \"Arka Noego\"",
+                "addr:country": "PL",
+                "addr:postcode": "83-110",
+                "addr:city": "Tczew",
+                "addr:street": "ul. Czy\u017cykowska",
+                "addr:housenumber": "70",
+                "addr:teryt:simc": 3535,
+                "addr:teryt:sym_ul": 934903,
+                "contact:phone": "+48 697302902",
+                "contact:email": "nsptczew@sp.tczew.pl",
+                "contact:website": "http:\/\/www.arka-noego.za.pl",
+                "ref:regon": "387470740",
+                "operator": "Fundacja Edukacyjno-Wychowawcza \"Arka Noego\"",
+                "operator:type": "ngo",
+                "healthcare": "counselling",
+                "counselling_type": "education",
+                "fixme": "w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. healthcare=counselling + counselling_type=education albo healthcare=psychotherapist)"
+            }
+        },
+        {
+            "id": 276742,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.80031,
+                    54.07865
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 276742,
+                "official_name": "Liceum Og\u00f3lnokszta\u0142c\u0105ce im. \u015aw. O. Pio",
+                "name": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+                "addr:country": "PL",
+                "addr:postcode": "83-110",
+                "addr:city": "Tczew",
+                "addr:street": "ul. Czy\u017cykowska",
+                "addr:housenumber": "70",
+                "addr:teryt:simc": 3535,
+                "addr:teryt:sym_ul": 934903,
+                "contact:phone": "+48 697302902",
+                "contact:email": "nsptczew@sp.tczew.pl",
+                "contact:website": "http:\/\/www.sp.tczew.pl",
+                "ref:regon": "387470792",
+                "operator": "Fundacja Edukacyjno-Wychowawcza \"Arka Noego\"",
+                "operator:type": "ngo",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 25061,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.80418,
+                    54.08267
+                ]
+            },
+            "properties": {
+                "ref:rspo": 25061,
+                "official_name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Bran\u017cowych im. Ksi\u0119cia Sambora II w Tczewie",
+                "name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Bran\u017cowych",
+                "addr:country": "PL",
+                "addr:postcode": "83-110",
+                "addr:city": "Tczew",
+                "addr:street": "ul. Czy\u017cykowska",
+                "addr:housenumber": "17",
+                "addr:teryt:simc": 3535,
+                "addr:teryt:sym_ul": 934903,
+                "contact:phone": "+48 585310517",
+                "contact:email": "sekretariat@zsbtczew.pl",
+                "contact:website": "http:\/\/zsbtczew.pl",
+                "ref:regon": "191887532",
+                "ref:vatin": "PL5931045898",
+                "operator": "Powiat Tczewski",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 34874;34968;43831;275671"
+            }
+        },
+        {
+            "id": 34874,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.80418,
+                    54.08264
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 34874,
+                "official_name": "Bran\u017cowa Szko\u0142a I Stopnia Nr 2 w Tczewie",
+                "name": "Bran\u017cowa Szko\u0142a I Stopnia Nr 2 w Tczewie",
+                "addr:country": "PL",
+                "addr:postcode": "83-110",
+                "addr:city": "Tczew",
+                "addr:street": "ul. Czy\u017cykowska",
+                "addr:housenumber": "17",
+                "addr:teryt:simc": 3535,
+                "addr:teryt:sym_ul": 934903,
+                "contact:phone": "+48 585310517",
+                "contact:email": "sekretariat@zsbtczew.pl",
+                "contact:website": "http:\/\/zsbtczew.pl",
+                "ref:regon": "192775195",
+                "ref:vatin": "PL5931045898",
+                "operator": "Powiat Tczewski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 25061"
+            }
+        },
+        {
+            "id": 34968,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.80418,
+                    54.08261
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 34968,
+                "official_name": "Liceum Og\u00f3lnokszta\u0142cace dla Doros\u0142ych",
+                "name": "Liceum Og\u00f3lnokszta\u0142cace dla Doros\u0142ych",
+                "addr:country": "PL",
+                "addr:postcode": "83-110",
+                "addr:city": "Tczew",
+                "addr:street": "ul. Czy\u017cykowska",
+                "addr:housenumber": "17",
+                "addr:teryt:simc": 3535,
+                "addr:teryt:sym_ul": 934903,
+                "contact:phone": "+48 585310517",
+                "contact:email": "sekretariat@zsbtczew.pl",
+                "contact:website": "http:\/\/zsbtczew.pl",
+                "ref:regon": "221639248",
+                "ref:vatin": "PL5931045898",
+                "operator": "Powiat Tczewski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 25061"
+            }
+        },
+        {
+            "id": 43831,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.80418,
+                    54.08258
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 43831,
+                "official_name": "Technikum Nr 2 w Tczewie",
+                "name": "Technikum Nr 2 w Tczewie",
+                "addr:country": "PL",
+                "addr:postcode": "83-110",
+                "addr:city": "Tczew",
+                "addr:street": "ul. Czy\u017cykowska",
+                "addr:housenumber": "17",
+                "addr:teryt:simc": 3535,
+                "addr:teryt:sym_ul": 934903,
+                "contact:phone": "+48 585310517",
+                "contact:email": "sekretariat@zsbtczew.pl",
+                "contact:website": "http:\/\/zsbtczew.pl",
+                "ref:regon": "220094568",
+                "ref:vatin": "PL5931045898",
+                "operator": "Powiat Tczewski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 25061"
+            }
+        },
+        {
+            "id": 275671,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.80418,
+                    54.08255
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 275671,
+                "official_name": "Bran\u017cowa Szko\u0142a II Stopnia w Tczewie",
+                "name": "Bran\u017cowa Szko\u0142a II Stopnia w Tczewie",
+                "addr:country": "PL",
+                "addr:postcode": "83-110",
+                "addr:city": "Tczew",
+                "addr:street": "ul. Czy\u017cykowska",
+                "addr:housenumber": "17",
+                "addr:teryt:simc": 3535,
+                "addr:teryt:sym_ul": 934903,
+                "contact:phone": "+48 585310517",
+                "contact:email": "sekretariat@zsbtczew.pl",
+                "contact:website": "http:\/\/zsbtczew.pl",
+                "ref:regon": "386943449",
+                "operator": "Powiat Tczewski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 25061"
+            }
+        },
+        {
+            "id": 24034,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.80229,
+                    54.08281
+                ]
+            },
+            "properties": {
+                "ref:rspo": 24034,
+                "official_name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Technicznych im. Kmdr Antoniego Garnuszewskiego w Tczewie",
+                "name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Technicznych",
+                "addr:country": "PL",
+                "addr:postcode": "83-110",
+                "addr:city": "Tczew",
+                "addr:street": "ul. Parkowa",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 15710,
+                "addr:teryt:sym_ul": 934903,
+                "contact:phone": "+48 585310015",
+                "contact:email": "szkola@zst.etczew.eu",
+                "contact:website": "http:\/\/www.zst.etczew.eu",
+                "ref:regon": "191887561",
+                "ref:vatin": "PL5932424221",
+                "operator": "Powiat Tczewski",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 38772;38774;44229"
+            }
+        },
+        {
+            "id": 38772,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.80229,
+                    54.08278
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 38772,
+                "official_name": "Bran\u017cowa Szko\u0142a I Stopnia Nr 1 w Tczewie",
+                "name": "Bran\u017cowa Szko\u0142a I Stopnia Nr 1 w Tczewie",
+                "addr:country": "PL",
+                "addr:postcode": "83-110",
+                "addr:city": "Tczew",
+                "addr:street": "ul. Parkowa",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 15710,
+                "addr:teryt:sym_ul": 934903,
+                "contact:phone": "+48 585310015",
+                "contact:email": "szkola@zst.etczew.eu",
+                "contact:website": "http:\/\/www.zst.etczew.eu",
+                "ref:regon": "192774913",
+                "ref:vatin": "PL5932424221",
+                "operator": "Powiat Tczewski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 24034"
+            }
+        },
+        {
+            "id": 38774,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.80229,
+                    54.082750000000004
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 38774,
+                "official_name": "Technikum Nr 1 w Tczewie",
+                "name": "Technikum Nr 1 w Tczewie",
+                "addr:country": "PL",
+                "addr:postcode": "83-110",
+                "addr:city": "Tczew",
+                "addr:street": "ul. Parkowa",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 15710,
+                "addr:teryt:sym_ul": 934903,
+                "contact:phone": "+48 585310015",
+                "contact:email": "szkola@zst.etczew.eu",
+                "contact:website": "http:\/\/www.zst.etczew.eu",
+                "ref:regon": "192779974",
+                "ref:vatin": "PL5932424221",
+                "operator": "Powiat Tczewski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 24034"
+            }
+        },
+        {
+            "id": 50384,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.79412,
+                    54.08291
+                ]
+            },
+            "properties": {
+                "ref:rspo": 50384,
+                "official_name": "Niepubliczne Przedszkole \"Akademia Krasnoludk\u00f3w\"",
+                "name": "Niepubliczne Przedszkole \"Akademia Krasnoludk\u00f3w\"",
+                "addr:country": "PL",
+                "addr:postcode": "83-110",
+                "addr:city": "Tczew",
+                "addr:street": "ul. Zielona",
+                "addr:housenumber": "5",
+                "addr:teryt:simc": 26081,
+                "addr:teryt:sym_ul": 934903,
+                "contact:phone": "+48 585310391",
+                "contact:email": "kontakt@krasnoludki-tczew.pl",
+                "ref:regon": "221764634",
+                "ref:vatin": "PL5931306927",
+                "operator": "Ewa G\u00f3recka",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 22959,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.78969,
+                    54.08459
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 22959,
+                "official_name": "I Liceum Og\u00f3lnokszta\u0142c\u0105ce im. Marii Sk\u0142odowskiej-Curie w Tczewie",
+                "name": "I Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+                "addr:country": "PL",
+                "addr:postcode": "83-110",
+                "addr:city": "Tczew",
+                "addr:street": "ul. Szko\u0142y Morskiej",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 32111,
+                "addr:teryt:sym_ul": 934903,
+                "contact:phone": "+48 585310525",
+                "contact:email": "pierwsze.liceum.tczew@gmail.com",
+                "contact:website": "http:\/\/www.sklodowska.szkola.tczew.pl",
+                "ref:regon": "191887236",
+                "ref:vatin": "PL5931045852",
+                "operator": "Powiat Tczewski",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 126705,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.80324,
+                    54.08636
+                ]
+            },
+            "properties": {
+                "ref:rspo": 126705,
+                "official_name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Katolickich w Tczewie",
+                "name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Katolickich w Tczewie",
+                "addr:country": "PL",
+                "addr:postcode": "83-110",
+                "addr:city": "Tczew",
+                "addr:street": "ul. Wodna",
+                "addr:housenumber": "6",
+                "addr:teryt:simc": 24550,
+                "addr:teryt:sym_ul": 934903,
+                "contact:phone": "+48 585313609",
+                "contact:email": "sekretariat@katolik-tcz.pl",
+                "contact:website": "http:\/\/www.katolik.tczew.pl",
+                "ref:regon": "360646878",
+                "ref:vatin": "PL5932309135",
+                "operator": "Diecezja Pelpli\u0144ska",
+                "operator:type": "religious",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 24106;196228"
+            }
+        },
+        {
+            "id": 24106,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.80324,
+                    54.08633
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 24106,
+                "official_name": "Uniwersyteckie Katolickie Liceum Og\u00f3lnokszta\u0142c\u0105ce w Tczewie",
+                "name": "Uniwersyteckie Katolickie Liceum Og\u00f3lnokszta\u0142c\u0105ce w Tczewie",
+                "addr:country": "PL",
+                "addr:postcode": "83-110",
+                "addr:city": "Tczew",
+                "addr:street": "ul. Wodna",
+                "addr:housenumber": "6",
+                "addr:teryt:simc": 24550,
+                "addr:teryt:sym_ul": 934903,
+                "contact:phone": "+48 585313609",
+                "contact:email": "sekretariat@katolik-tcz.pl",
+                "contact:website": "http:\/\/www.katolik.tczew.pl",
+                "ref:regon": "221755256",
+                "ref:vatin": "PL5932172593",
+                "operator": "Diecezja Pelpli\u0144ska",
+                "operator:type": "religious",
+                "amenity": "school",
+                "note": "Parent RSPO: 126705"
+            }
+        },
+        {
+            "id": 196228,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.80324,
+                    54.0863
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 196228,
+                "official_name": "Katolicka Szko\u0142a Podstawowa w Tczewie",
+                "name": "Katolicka Szko\u0142a Podstawowa w Tczewie",
+                "addr:country": "PL",
+                "addr:postcode": "83-110",
+                "addr:city": "Tczew",
+                "addr:street": "ul. Wodna",
+                "addr:housenumber": "6",
+                "addr:teryt:simc": 24550,
+                "addr:teryt:sym_ul": 934903,
+                "contact:phone": "+48 585313609",
+                "contact:email": "sekretariat@katolik-tcz.pl",
+                "contact:website": "http:\/\/katolik.tczew.pl",
+                "ref:regon": "367996713",
+                "operator": "Diecezja Pelpli\u0144ska",
+                "operator:type": "religious",
+                "amenity": "school",
+                "note": "Parent RSPO: 126705"
+            }
+        },
+        {
+            "id": 272737,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.79432,
+                    54.08694
+                ]
+            },
+            "properties": {
+                "ref:rspo": 272737,
+                "official_name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 \"Pascal\" w Tczewie",
+                "name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 \"Pascal\" w Tczewie",
+                "addr:country": "PL",
+                "addr:postcode": "83-110",
+                "addr:city": "Tczew",
+                "addr:street": "ul. Jaros\u0142awa D\u0105browskiego",
+                "addr:housenumber": "9",
+                "addr:teryt:simc": 3687,
+                "addr:teryt:sym_ul": 934903,
+                "contact:phone": "+48 583800445",
+                "contact:email": "tczew@pascal.edu.pl",
+                "contact:website": "http:\/\/www.pascal.edu.pl",
+                "ref:regon": "384294277",
+                "operator": "Apprendi Sp\u00f3\u0142ka Z Ograniczon\u0105 Odpowiedzialno\u015bci\u0105",
+                "operator:type": "private",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 269144;269145;269147;269150"
+            }
+        },
+        {
+            "id": 269144,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.79432,
+                    54.086909999999996
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 269144,
+                "official_name": "Liceum Og\u00f3lnokszta\u0142c\u0105ce dla Doros\u0142ych \"Pascal\" w Tczewie",
+                "name": "Liceum Og\u00f3lnokszta\u0142c\u0105ce dla Doros\u0142ych \"Pascal\" w Tczewie",
+                "addr:country": "PL",
+                "addr:postcode": "83-110",
+                "addr:city": "Tczew",
+                "addr:street": "ul. Jaros\u0142awa D\u0105browskiego",
+                "addr:housenumber": "9",
+                "addr:teryt:simc": 3687,
+                "addr:teryt:sym_ul": 934903,
+                "contact:phone": "+48 583800445",
+                "contact:email": "tczew@pascal.edu.pl",
+                "ref:regon": "381386412",
+                "operator": "Apprendi Sp\u00f3\u0142ka Z Ograniczon\u0105 Odpowiedzialno\u015bci\u0105",
+                "operator:type": "private",
+                "amenity": "school",
+                "note": "Parent RSPO: 272737"
+            }
+        },
+        {
+            "id": 269145,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.79432,
+                    54.08688
+                ]
+            },
+            "properties": {
+                "isced:level": "4",
+                "ref:rspo": 269145,
+                "official_name": "Zaoczna Policealna Szko\u0142a Zawodowa \"Pascal\" w Tczewie",
+                "name": "Zaoczna Policealna Szko\u0142a Zawodowa \"Pascal\" w Tczewie",
+                "addr:country": "PL",
+                "addr:postcode": "83-110",
+                "addr:city": "Tczew",
+                "addr:street": "ul. Jaros\u0142awa D\u0105browskiego",
+                "addr:housenumber": "9",
+                "addr:teryt:simc": 3687,
+                "addr:teryt:sym_ul": 934903,
+                "contact:phone": "+48 583800445",
+                "contact:email": "tczew@pascal.edu.pl",
+                "ref:regon": "381386352",
+                "operator": "Apprendi Sp\u00f3\u0142ka Z Ograniczon\u0105 Odpowiedzialno\u015bci\u0105",
+                "operator:type": "private",
+                "amenity": "college",
+                "note": "Parent RSPO: 272737"
+            }
+        },
+        {
+            "id": 269147,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.79432,
+                    54.08685
+                ]
+            },
+            "properties": {
+                "isced:level": "4",
+                "ref:rspo": 269147,
+                "official_name": "Policealna Szko\u0142a Medyczna \"Pascal\" w Tczewie",
+                "name": "Policealna Szko\u0142a Medyczna \"Pascal\" w Tczewie",
+                "addr:country": "PL",
+                "addr:postcode": "83-110",
+                "addr:city": "Tczew",
+                "addr:street": "ul. Jaros\u0142awa D\u0105browskiego",
+                "addr:housenumber": "9",
+                "addr:teryt:simc": 3687,
+                "addr:teryt:sym_ul": 934903,
+                "contact:phone": "+48 583800445",
+                "contact:email": "tczew@pascal.edu.pl",
+                "ref:regon": "381386441",
+                "operator": "Apprendi Sp\u00f3\u0142ka Z Ograniczon\u0105 Odpowiedzialno\u015bci\u0105",
+                "operator:type": "private",
+                "amenity": "college",
+                "note": "Parent RSPO: 272737"
+            }
+        },
+        {
+            "id": 269150,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.79432,
+                    54.086819999999996
+                ]
+            },
+            "properties": {
+                "isced:level": "4",
+                "ref:rspo": 269150,
+                "official_name": "Stacjonarna Policealna Szko\u0142a Medyczna \"Pascal\" w Tczewie",
+                "name": "Stacjonarna Policealna Szko\u0142a Medyczna \"Pascal\" w Tczewie",
+                "addr:country": "PL",
+                "addr:postcode": "83-110",
+                "addr:city": "Tczew",
+                "addr:street": "ul. Jaros\u0142awa D\u0105browskiego",
+                "addr:housenumber": "9",
+                "addr:teryt:simc": 3687,
+                "addr:teryt:sym_ul": 934903,
+                "contact:phone": "+48 583800445",
+                "contact:email": "tczew@pascal.edu.pl",
+                "ref:regon": "381386429",
+                "operator": "Apprendi Sp\u00f3\u0142ka Z Ograniczon\u0105 Odpowiedzialno\u015bci\u0105",
+                "operator:type": "private",
+                "amenity": "college",
+                "note": "Parent RSPO: 272737"
+            }
+        },
+        {
+            "id": 129304,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.76739,
+                    54.08695
+                ]
+            },
+            "properties": {
+                "ref:rspo": 129304,
+                "official_name": "Niepubliczne Przedszkole \"Bajkowe\"",
+                "name": "Niepubliczne Przedszkole \"Bajkowe\"",
+                "addr:country": "PL",
+                "addr:postcode": "83-110",
+                "addr:city": "Tczew",
+                "addr:street": "ul. Szewczyka Dratewki",
+                "addr:housenumber": "3",
+                "addr:teryt:simc": 35312,
+                "addr:teryt:sym_ul": 934903,
+                "contact:email": "tczew.bajkowe@gmail.com",
+                "contact:website": "http:\/\/przedszkole.bajkowe.pl",
+                "ref:regon": "362553840",
+                "ref:vatin": "PL5932433438",
+                "operator": "Joanna Brzozowska",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 124393,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.8011899,
+                    54.08721
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 124393,
+                "official_name": "Fontanna Marze\u0144 Prywatna Szko\u0142a Podstawowa w Tczewie",
+                "name": "Fontanna Marze\u0144 Prywatna Szko\u0142a Podstawowa w Tczewie",
+                "addr:country": "PL",
+                "addr:postcode": "83-110",
+                "addr:city": "Tczew",
+                "addr:street": "ul. Stefana Okrzei",
+                "addr:housenumber": "2",
+                "addr:teryt:simc": 14914,
+                "addr:teryt:sym_ul": 934903,
+                "contact:phone": "+48 667568877",
+                "contact:email": "ps.fontannamarzen@gmail.com",
+                "ref:regon": "222148506",
+                "operator": "Emil Ochocki",
+                "operator:type": "private",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 23274,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.7885199,
+                    54.08727
+                ]
+            },
+            "properties": {
+                "ref:rspo": 23274,
+                "official_name": "Poradnia Psychologiczno-Pedagogiczna w Tczewie",
+                "name": "Poradnia Psychologiczno-Pedagogiczna w Tczewie",
+                "addr:country": "PL",
+                "addr:postcode": "83-110",
+                "addr:city": "Tczew",
+                "addr:street": "ul. Wojska Polskiego",
+                "addr:housenumber": "6",
+                "addr:teryt:simc": 24628,
+                "addr:teryt:sym_ul": 934903,
+                "contact:phone": "+48 585311009",
+                "contact:email": "ppp.tczew@ppp.tczew.pl",
+                "contact:website": "http:\/\/www.ppptczew.naszaporadnia.com",
+                "ref:regon": "000957904",
+                "ref:vatin": "PL5931026429",
+                "operator": "Powiat Tczewski",
+                "operator:type": "government",
+                "healthcare": "counselling",
+                "counselling_type": "education",
+                "fixme": "w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. healthcare=counselling + counselling_type=education albo healthcare=psychotherapist)"
+            }
+        },
+        {
+            "id": 269141,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.79493,
+                    54.08746
+                ]
+            },
+            "properties": {
+                "isced:level": "4",
+                "ref:rspo": 269141,
+                "official_name": "Centrum Kszta\u0142cenia Plejada Szko\u0142a Policealna Novum w Tczewie",
+                "name": "Centrum Kszta\u0142cenia Plejada Szko\u0142a Policealna Novum w Tczewie",
+                "addr:country": "PL",
+                "addr:postcode": "83-110",
+                "addr:city": "Tczew",
+                "addr:street": "ul. Obro\u0144c\u00f3w Westerplatte",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 14655,
+                "addr:teryt:sym_ul": 934903,
+                "contact:phone": "+48 512039940",
+                "contact:email": "plejada.tczew@gmail.com",
+                "contact:website": "http:\/\/www.plejada.edu.pl",
+                "ref:regon": "381384732",
+                "operator": "Bo\u017cena Sugalska",
+                "operator:type": "private",
+                "amenity": "college"
+            }
+        },
+        {
+            "id": 25377,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.80113,
+                    54.08779
+                ]
+            },
+            "properties": {
+                "ref:rspo": 25377,
+                "official_name": "Pa\u0144stwowa Szko\u0142a Muzyczna I St. im. Janiny Gar\u015bci w Tczewie",
+                "name": "Pa\u0144stwowa Szko\u0142a Muzyczna I St.",
+                "addr:country": "PL",
+                "addr:postcode": "83-110",
+                "addr:city": "Tczew",
+                "addr:street": "pl. \u015bw. Grzegorza",
+                "addr:housenumber": "6",
+                "addr:teryt:simc": 6311,
+                "addr:teryt:sym_ul": 934903,
+                "contact:phone": "+48 585312351",
+                "contact:email": "muzyczne@o2.pl",
+                "contact:website": "http:\/\/psm.tczew.pl",
+                "ref:regon": "000278095",
+                "operator": "Ministerstwo Kultury I Dziedzictwa Narodowego",
+                "operator:type": "public",
+                "amenity": "music_school",
+                "note": "Children RSPO: 112018"
+            }
+        },
+        {
+            "id": 277254,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.79705,
+                    54.08781
+                ]
+            },
+            "properties": {
+                "ref:rspo": 277254,
+                "official_name": "Promyczek Przedszkole Niepubliczne Natalia Borkowska",
+                "name": "Promyczek Przedszkole Niepubliczne Natalia Borkowska",
+                "addr:country": "PL",
+                "addr:postcode": "83-110",
+                "addr:city": "Tczew",
+                "addr:street": "ul. \u0141azienna",
+                "addr:housenumber": "12A",
+                "addr:teryt:simc": 11561,
+                "addr:teryt:sym_ul": 934903,
+                "contact:phone": "+48 696962814",
+                "contact:email": "natalia_borkowska@wp.pl",
+                "ref:regon": "388466396",
+                "operator": "Natalia Borkowska",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 50376,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.78204,
+                    54.08805
+                ]
+            },
+            "properties": {
+                "ref:rspo": 50376,
+                "official_name": "Przedszkole Niepubliczne Niebieskie Migda\u0142y",
+                "name": "Przedszkole Niepubliczne Niebieskie Migda\u0142y",
+                "addr:country": "PL",
+                "addr:postcode": "83-110",
+                "addr:city": "Tczew",
+                "addr:street": "ul. Grunwaldzka",
+                "addr:housenumber": "9",
+                "addr:teryt:simc": 6260,
+                "addr:teryt:sym_ul": 934903,
+                "contact:phone": "+48 505039024",
+                "contact:email": "przedszkole@niebieskiemigdaly.org.pl",
+                "contact:website": "http:\/\/www.niebieskiemigdaly.org.pl",
+                "ref:regon": "221764752",
+                "ref:vatin": "PL5931875507",
+                "operator": "Bogus\u0142awa Szcz\u0119sna-Gorczy\u0144ska",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 125020,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.78382,
+                    54.08823
+                ]
+            },
+            "properties": {
+                "ref:rspo": 125020,
+                "official_name": "Niepubliczne Przedszkole \"Twoja Niania\"",
+                "name": "Niepubliczne Przedszkole \"Twoja Niania\"",
+                "addr:country": "PL",
+                "addr:postcode": "83-110",
+                "addr:city": "Tczew",
+                "addr:street": "ul. Piaskowa",
+                "addr:housenumber": "10",
+                "addr:door": "1",
+                "addr:teryt:simc": 16033,
+                "addr:teryt:sym_ul": 934903,
+                "contact:phone": "+48 604066321",
+                "contact:email": "biuro.twojaniania@gmail.com",
+                "contact:website": "http:\/\/www.twojaniania.com.pl",
+                "ref:regon": "221773739",
+                "ref:vatin": "PL5931782987",
+                "operator": "Kamila Chabowska",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 30811,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.79603,
+                    54.08823
+                ]
+            },
+            "properties": {
+                "ref:rspo": 30811,
+                "official_name": "Przedszkole Niepubliczne \"Siedem Dar\u00f3w\"",
+                "name": "Przedszkole Niepubliczne \"Siedem Dar\u00f3w\"",
+                "addr:country": "PL",
+                "addr:postcode": "83-110",
+                "addr:city": "Tczew",
+                "addr:street": "ul. Ko\u015bciuszki",
+                "addr:housenumber": "18",
+                "addr:teryt:simc": 9572,
+                "addr:teryt:sym_ul": 934903,
+                "contact:phone": "+48 587776801",
+                "contact:email": "ewatczew@interia.pl",
+                "contact:website": "http:\/\/www.siedemdarow.pl",
+                "ref:regon": "221759194",
+                "ref:vatin": "PL5932023054",
+                "operator": "Ewa Sadokierska",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 124054,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.78319,
+                    54.08889
+                ]
+            },
+            "properties": {
+                "ref:rspo": 124054,
+                "official_name": "Zesp\u00f3\u0142 Plac\u00f3wek Specjalnych w Tczewie",
+                "name": "Zesp\u00f3\u0142 Plac\u00f3wek Specjalnych w Tczewie",
+                "addr:country": "PL",
+                "addr:postcode": "83-110",
+                "addr:city": "Tczew",
+                "addr:street": "ul. Grunwaldzka",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 6260,
+                "addr:teryt:sym_ul": 934903,
+                "contact:phone": "+48 585315550",
+                "contact:email": "sekretariat@zpstczew.pl",
+                "contact:website": "http:\/\/www.zpstczew.pl",
+                "ref:regon": "222141711",
+                "operator": "Powiat Tczewski",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 25920;124120"
+            }
+        },
+        {
+            "id": 50288,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.78319,
+                    54.08886
+                ]
+            },
+            "properties": {
+                "ref:rspo": 50288,
+                "official_name": "Przedszkole Nr 3 Specjalne w Tczewie",
+                "name": "Przedszkole Nr 3 Specjalne w Tczewie",
+                "addr:country": "PL",
+                "addr:postcode": "83-110",
+                "addr:city": "Tczew",
+                "addr:street": "ul. Grunwaldzka",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 6260,
+                "addr:teryt:sym_ul": 934903,
+                "contact:phone": "+48 585315550",
+                "contact:email": "sekretariat@zpstczew.pl",
+                "contact:website": "http:\/\/www.zpstczew.pl",
+                "ref:regon": "193110530",
+                "ref:vatin": "PL5931046248",
+                "operator": "Powiat Tczewski",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 25920"
+            }
+        },
+        {
+            "id": 50391,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.78319,
+                    54.08883
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 50391,
+                "official_name": "Szko\u0142a Podstawowa Nr 9 Specjalna w Tczewie",
+                "name": "Szko\u0142a Podstawowa Nr 9 Specjalna w Tczewie",
+                "addr:country": "PL",
+                "addr:postcode": "83-110",
+                "addr:city": "Tczew",
+                "addr:street": "ul. Grunwaldzka",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 6260,
+                "addr:teryt:sym_ul": 934903,
+                "contact:phone": "+48 585315550",
+                "contact:email": "sekretariat@zpstczew.pl",
+                "contact:website": "http:\/\/www.zpstczew.pl",
+                "ref:regon": "193076080",
+                "ref:vatin": "PL5931046248",
+                "operator": "Powiat Tczewski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 25920"
+            }
+        },
+        {
+            "id": 53177,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.78319,
+                    54.0888
+                ]
+            },
+            "properties": {
+                "ref:rspo": 53177,
+                "official_name": "Szko\u0142a Specjalna Przysposabiaj\u0105ca Do Pracy w Tczewie",
+                "name": "Szko\u0142a Specjalna Przysposabiaj\u0105ca Do Pracy w Tczewie",
+                "addr:country": "PL",
+                "addr:postcode": "83-110",
+                "addr:city": "Tczew",
+                "addr:street": "ul. Grunwaldzka",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 6260,
+                "addr:teryt:sym_ul": 934903,
+                "contact:phone": "+48 585315550",
+                "contact:email": "sekretariat@zpstczew.pl",
+                "contact:website": "http:\/\/www.zpstczew.pl",
+                "ref:regon": "193063947",
+                "ref:vatin": "PL5931046248",
+                "operator": "Powiat Tczewski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 25920"
+            }
+        },
+        {
+            "id": 62317,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.78319,
+                    54.08877
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 62317,
+                "official_name": "Bran\u017cowa Szko\u0142a I Stopnia Nr 5 Specjalna",
+                "name": "Bran\u017cowa Szko\u0142a I Stopnia Nr 5 Specjalna",
+                "addr:country": "PL",
+                "addr:postcode": "83-110",
+                "addr:city": "Tczew",
+                "addr:street": "ul. Grunwaldzka",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 6260,
+                "addr:teryt:sym_ul": 934903,
+                "contact:phone": "+48 585315550",
+                "contact:email": "sekretariat@zpstczew.pl",
+                "contact:website": "http:\/\/www.zpstczew.pl",
+                "ref:regon": "193076068",
+                "ref:vatin": "PL5931046248",
+                "operator": "Powiat Tczewski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 25920"
+            }
+        },
+        {
+            "id": 25920,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.78319,
+                    54.08874
+                ]
+            },
+            "properties": {
+                "ref:rspo": 25920,
+                "official_name": "Specjalny O\u015brodek Szkolno-Wychowawczy im. Jana Paw\u0142a II w Tczewie",
+                "name": "Specjalny O\u015brodek Szkolno-Wychowawczy",
+                "addr:country": "PL",
+                "addr:postcode": "83-110",
+                "addr:city": "Tczew",
+                "addr:street": "ul. Grunwaldzka",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 6260,
+                "addr:teryt:sym_ul": 934903,
+                "contact:phone": "+48 585315550",
+                "contact:email": "sekretariat@zpstczew.pl",
+                "contact:website": "http:\/\/www.zpstczew.pl",
+                "ref:regon": "191887615",
+                "ref:vatin": "PL5931046248",
+                "operator": "Powiat Tczewski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Children RSPO: 50288;50391;53177;62317Parent RSPO: 124054"
+            }
+        },
+        {
+            "id": 124120,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.78319,
+                    54.08871
+                ]
+            },
+            "properties": {
+                "ref:rspo": 124120,
+                "official_name": "O\u015brodek Rewalidacyjno-Wychowawczy w Zespole Plac\u00f3wek Specjalnych w Tczewie",
+                "name": "O\u015brodek Rewalidacyjno-Wychowawczy w Zespole Plac\u00f3wek Specjalnych w Tczewie",
+                "addr:country": "PL",
+                "addr:postcode": "83-110",
+                "addr:city": "Tczew",
+                "addr:street": "ul. Grunwaldzka",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 6260,
+                "addr:teryt:sym_ul": 934903,
+                "contact:phone": "+48 585315550",
+                "contact:email": "sekretariat@zpstczew.pl",
+                "contact:website": "http:\/\/www.zpstczew.pl",
+                "ref:regon": "222143377",
+                "operator": "Powiat Tczewski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 124054"
+            }
+        },
+        {
+            "id": 66459,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.79449,
+                    54.08944
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 66459,
+                "official_name": "Szko\u0142a Podstawowa Nr 5 im. A.mickiewicza w Tczewie",
+                "name": "Szko\u0142a Podstawowa Nr 5",
+                "addr:country": "PL",
+                "addr:postcode": "83-110",
+                "addr:city": "Tczew",
+                "addr:street": "ul. Obro\u0144c\u00f3w Westerplatte",
+                "addr:housenumber": "18",
+                "addr:teryt:simc": 14655,
+                "addr:teryt:sym_ul": 934903,
+                "contact:phone": "+48 585313527",
+                "contact:email": "sekretariat.sp5@wp.pl",
+                "contact:website": "https:\/\/sp5tczew.edupage.org",
+                "ref:regon": "190958997",
+                "ref:vatin": "PL5931045912",
+                "operator": "Gmina Miejska Tczew",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 132081,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.77014,
+                    54.0909
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 132081,
+                "official_name": "Niepubliczna Szko\u0142a Podstawowa Montessori",
+                "name": "Niepubliczna Szko\u0142a Podstawowa Montessori",
+                "addr:country": "PL",
+                "addr:postcode": "83-110",
+                "addr:city": "Tczew",
+                "addr:street": "ul. Kubusia Puchatka",
+                "addr:housenumber": "5F",
+                "addr:door": "15",
+                "addr:teryt:simc": 10316,
+                "addr:teryt:sym_ul": 934903,
+                "contact:phone": "+48 602774428",
+                "contact:email": "sekretariat@montessori.tczew.pl",
+                "contact:website": "http:\/\/www.montessori.tczew.pl",
+                "ref:regon": "365455108",
+                "operator": "Krzysztof Richert",
+                "operator:type": "private",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 275880,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.78818,
+                    54.09166
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 275880,
+                "official_name": "Bran\u017cowa Szko\u0142a I Stopnia w Tczewie",
+                "name": "Bran\u017cowa Szko\u0142a I Stopnia w Tczewie",
+                "addr:country": "PL",
+                "addr:postcode": "83-110",
+                "addr:city": "Tczew",
+                "addr:street": "ul. Jana Sobieskiego",
+                "addr:housenumber": "10",
+                "addr:teryt:simc": 20427,
+                "addr:teryt:sym_ul": 934903,
+                "contact:phone": "+48 660683704",
+                "contact:email": "bsp_sobieskiego@onet.pl",
+                "ref:regon": "386954542",
+                "operator": "Chrystian Wasiewicz",
+                "operator:type": "private",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 44229,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.78818,
+                    54.091629999999995
+                ]
+            },
+            "properties": {
+                "ref:rspo": 44229,
+                "official_name": "Centrum Kszta\u0142cenia Zawodowego",
+                "name": "Centrum Kszta\u0142cenia Zawodowego",
+                "addr:country": "PL",
+                "addr:postcode": "83-110",
+                "addr:city": "Tczew",
+                "addr:street": "ul. Jana Sobieskiego",
+                "addr:housenumber": "10 A",
+                "addr:teryt:simc": 20427,
+                "addr:teryt:sym_ul": 934903,
+                "contact:phone": "+48 585314343",
+                "contact:email": "szkola@zst.etczew.eu",
+                "ref:regon": "193069594",
+                "ref:vatin": "PL5932425717",
+                "operator": "Powiat Tczewski",
+                "operator:type": "government",
+                "fixme": "w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. amenity=training + training=*, amenity=dancing_school, amenity=language_school, amenity=music_school) albo amenity=school, amenity=college, albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Parent RSPO: 24034"
+            }
+        },
+        {
+            "id": 24126,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.79245,
+                    54.09186
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 24126,
+                "official_name": "Liceum Og\u00f3lnokszta\u0142c\u0105ce dla Doros\u0142ych",
+                "name": "Liceum Og\u00f3lnokszta\u0142c\u0105ce dla Doros\u0142ych",
+                "addr:country": "PL",
+                "addr:postcode": "83-110",
+                "addr:city": "Tczew",
+                "addr:street": "ul. Warsztatowa",
+                "addr:housenumber": "4",
+                "addr:teryt:simc": 23695,
+                "addr:teryt:sym_ul": 934903,
+                "contact:phone": "+48 587217046",
+                "contact:email": "ckz.nauka@wp.pl",
+                "contact:website": "http:\/\/www.nauka.etczew.eu",
+                "ref:regon": "221755285",
+                "ref:vatin": "PL5931639209",
+                "operator": "Maria Wasiewicz-Gali\u0144ska",
+                "operator:type": "private",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 24192,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.79245,
+                    54.091829999999995
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 24192,
+                "official_name": "Bran\u017cowa Szko\u0142a I Stopnia w Tczewie",
+                "name": "Bran\u017cowa Szko\u0142a I Stopnia w Tczewie",
+                "addr:country": "PL",
+                "addr:postcode": "83-110",
+                "addr:city": "Tczew",
+                "addr:street": "ul. Warsztatowa",
+                "addr:housenumber": "4",
+                "addr:teryt:simc": 23695,
+                "addr:teryt:sym_ul": 934903,
+                "contact:phone": "+48 587217046",
+                "contact:email": "ckz.nauka@wp.pl",
+                "contact:website": "http:\/\/www.nauka.etczew.eu",
+                "ref:regon": "221755204",
+                "ref:vatin": "PL5931639209",
+                "operator": "Maria Wasiewicz-Gali\u0144ska",
+                "operator:type": "private",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 24211,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.79245,
+                    54.0918
+                ]
+            },
+            "properties": {
+                "isced:level": "4",
+                "ref:rspo": 24211,
+                "official_name": "Policealne Studium Zawodowe",
+                "name": "Policealne Studium Zawodowe",
+                "addr:country": "PL",
+                "addr:postcode": "83-110",
+                "addr:city": "Tczew",
+                "addr:street": "ul. Warsztatowa",
+                "addr:housenumber": "4",
+                "addr:teryt:simc": 23695,
+                "addr:teryt:sym_ul": 934903,
+                "contact:phone": "+48 587217046",
+                "contact:email": "ckz.nauka@wp.pl",
+                "contact:website": "http:\/\/www.nauka.etczew.eu",
+                "ref:regon": "221755262",
+                "ref:vatin": "PL5931639209",
+                "operator": "Centrum Kszta\u0142cenia Zawodowego \"Nauka\" Sp\u00f3\u0142ka Z Ograniczon\u0105 Odpowiedzialno\u015bci\u0105",
+                "operator:type": "private",
+                "amenity": "college"
+            }
+        },
+        {
+            "id": 27110,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.79245,
+                    54.09177
+                ]
+            },
+            "properties": {
+                "isced:level": "4",
+                "ref:rspo": 27110,
+                "official_name": "Medyczne Studium Zawodowe",
+                "name": "Medyczne Studium Zawodowe",
+                "addr:country": "PL",
+                "addr:postcode": "83-110",
+                "addr:city": "Tczew",
+                "addr:street": "ul. Warsztatowa",
+                "addr:housenumber": "4",
+                "addr:teryt:simc": 23695,
+                "addr:teryt:sym_ul": 934903,
+                "contact:phone": "+48 587217046",
+                "contact:email": "ckz.nauka@wp.pl",
+                "contact:website": "http:\/\/www.nauka.etczew.eu",
+                "ref:regon": "221757663",
+                "ref:vatin": "PL5931639209",
+                "operator": "Centrum Kszta\u0142cenia Zawodowego \"Nauka\" Sp\u00f3\u0142ka Z Ograniczon\u0105 Odpowiedzialno\u015bci\u0105",
+                "operator:type": "private",
+                "amenity": "college"
+            }
+        },
+        {
+            "id": 131700,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.79245,
+                    54.091739999999994
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 131700,
+                "official_name": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+                "name": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+                "addr:country": "PL",
+                "addr:postcode": "83-110",
+                "addr:city": "Tczew",
+                "addr:street": "ul. Warsztatowa",
+                "addr:housenumber": "4",
+                "addr:teryt:simc": 23695,
+                "addr:teryt:sym_ul": 934903,
+                "contact:phone": "+48 660681360",
+                "contact:email": "ckz.nauka@wp.pl",
+                "contact:website": "http:\/\/www.nauka.etczew.eu",
+                "ref:regon": "365338510",
+                "operator": "Centrum Kszta\u0142cenia Zawodowego \"Nauka\" Sp\u00f3\u0142ka Z Ograniczon\u0105 Odpowiedzialno\u015bci\u0105",
+                "operator:type": "private",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 263697,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.79245,
+                    54.09171
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 263697,
+                "official_name": "Szko\u0142a Podstawowa w Tczewie",
+                "name": "Szko\u0142a Podstawowa w Tczewie",
+                "addr:country": "PL",
+                "addr:postcode": "83-110",
+                "addr:city": "Tczew",
+                "addr:street": "ul. Warsztatowa",
+                "addr:housenumber": "4",
+                "addr:teryt:simc": 23695,
+                "addr:teryt:sym_ul": 934903,
+                "contact:phone": "+48 660798839",
+                "contact:email": "sp_warsztatowa@onet.pl",
+                "ref:regon": "368215149",
+                "operator": "Chrystian Wasiewicz",
+                "operator:type": "private",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 264110,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.79245,
+                    54.09168
+                ]
+            },
+            "properties": {
+                "ref:rspo": 264110,
+                "official_name": "Niepubliczna Poradnia Psychologiczno-Pedagogiczna w Tczewie",
+                "name": "Niepubliczna Poradnia Psychologiczno-Pedagogiczna w Tczewie",
+                "addr:country": "PL",
+                "addr:postcode": "83-110",
+                "addr:city": "Tczew",
+                "addr:street": "ul. Warsztatowa",
+                "addr:housenumber": "4",
+                "addr:teryt:simc": 23695,
+                "addr:teryt:sym_ul": 934903,
+                "contact:phone": "+48 587217046",
+                "contact:email": "ckz.nauka@wp.pl",
+                "contact:website": "http:\/\/www.nauka.etczew.eu",
+                "ref:regon": "368263881",
+                "operator": "Maria Wasiewicz-Gali\u0144ska",
+                "operator:type": "private",
+                "healthcare": "counselling",
+                "counselling_type": "education",
+                "fixme": "w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. healthcare=counselling + counselling_type=education albo healthcare=psychotherapist)"
+            }
+        },
+        {
+            "id": 275663,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.79245,
+                    54.091649999999994
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 275663,
+                "official_name": "Bran\u017cowa Szko\u0142a II Stopnia w Tczewie",
+                "name": "Bran\u017cowa Szko\u0142a II Stopnia w Tczewie",
+                "addr:country": "PL",
+                "addr:postcode": "83-110",
+                "addr:city": "Tczew",
+                "addr:street": "ul. Warsztatowa",
+                "addr:housenumber": "4",
+                "addr:teryt:simc": 23695,
+                "addr:teryt:sym_ul": 934903,
+                "contact:phone": "+48 587217046",
+                "contact:email": "ckz.nauka@wp.pl",
+                "ref:regon": "386933155",
+                "operator": "Maria Wasiewicz-Gali\u0144ska",
+                "operator:type": "private",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 125323,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.775279998779,
+                    54.092208862305
+                ]
+            },
+            "properties": {
+                "ref:rspo": 125323,
+                "official_name": "Niepubliczne Przedszkole\"Domowe Przedszkole\"",
+                "name": "Niepubliczne Przedszkole\"Domowe Przedszkole\"",
+                "addr:country": "PL",
+                "addr:postcode": "83-110",
+                "addr:city": "Tczew",
+                "addr:street": "ul. Kr\u00f3lowej Bony",
+                "addr:housenumber": "3",
+                "addr:teryt:simc": 10000,
+                "addr:teryt:sym_ul": 934903,
+                "contact:phone": "+48 531115332",
+                "contact:email": "domoweprzedszkoletczew@gmail.com",
+                "contact:website": "http:\/\/domoweprzedszkoletczew.pl",
+                "ref:regon": "222056483",
+                "ref:vatin": "PL5932503357",
+                "operator": "Natalia Kamysz",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 125328,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.775279998779,
+                    54.092178862305
+                ]
+            },
+            "properties": {
+                "ref:rspo": 125328,
+                "official_name": "Niepubliczne Przedszkole \"Akademia Przedszkolaka\"",
+                "name": "Niepubliczne Przedszkole \"Akademia Przedszkolaka\"",
+                "addr:country": "PL",
+                "addr:postcode": "83-110",
+                "addr:city": "Tczew",
+                "addr:street": "ul. Christiana Andersena",
+                "addr:housenumber": "2F",
+                "addr:teryt:simc": 288,
+                "addr:teryt:sym_ul": 934903,
+                "contact:phone": "+48 516077725",
+                "contact:email": "akademia_przedszkolaka@interia.eu",
+                "contact:website": "http:\/\/www.akademia-przedszkolaka.net",
+                "ref:regon": "222056477",
+                "ref:vatin": "PL5932157530",
+                "operator": "\u0141ukasz Partyka",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 67803,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.79159,
+                    54.09231
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 67803,
+                "official_name": "Sportowa Szko\u0142a Podstawowa Nr 2 Z Oddzia\u0142ami Integracyjnymi im.bohater\u00f3w Westerplatte w Tczewie",
+                "name": "Sportowa Szko\u0142a Podstawowa Nr 2 Z Oddzia\u0142ami Integracyjnymi im.bohater\u00f3w Westerplatte w Tczewie",
+                "addr:country": "PL",
+                "addr:postcode": "83-110",
+                "addr:city": "Tczew",
+                "addr:street": "ul. Gda\u0144ska",
+                "addr:housenumber": "2",
+                "addr:teryt:simc": 5431,
+                "addr:teryt:sym_ul": 934903,
+                "contact:phone": "+48 587772888",
+                "contact:email": "ssp2tczew1@wp.pl",
+                "contact:website": "http:\/\/www.ssp2tczew.superszkolna.pl",
+                "ref:regon": "190958916",
+                "ref:vatin": "PL5932252027",
+                "operator": "Gmina Miejska Tczew",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 130328,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.78382,
+                    54.09273
+                ]
+            },
+            "properties": {
+                "ref:rspo": 130328,
+                "official_name": "Krajowe Stowarzyszenie Centr\u00f3w Kszta\u0142cenia Praktycznego",
+                "name": "Krajowe Stowarzyszenie Centr\u00f3w Kszta\u0142cenia Praktycznego",
+                "addr:country": "PL",
+                "addr:postcode": "83-110",
+                "addr:city": "Tczew",
+                "addr:street": "ul. Al. Zwyci\u0119stwa",
+                "addr:housenumber": "6",
+                "addr:teryt:simc": 52288,
+                "addr:teryt:sym_ul": 934903,
+                "contact:phone": "+48 695999723",
+                "contact:email": "bakowski.tomasz@wp.pl",
+                "ref:regon": "363871647",
+                "operator": "Krajowe Stowarzyszenie Centr\u00f3w Kszta\u0142cenia Praktycznego",
+                "operator:type": "ngo",
+                "fixme": "w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. amenity=training + training=*, amenity=dancing_school, amenity=language_school, amenity=music_school)"
+            }
+        },
+        {
+            "id": 68223,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.78404,
+                    54.09273
+                ]
+            },
+            "properties": {
+                "ref:rspo": 68223,
+                "official_name": "Niepubliczne Przedszkole \"Ma\u0142e Jag\u00f3dki\" w Tczewie",
+                "name": "Niepubliczne Przedszkole \"Ma\u0142e Jag\u00f3dki\" w Tczewie",
+                "addr:country": "PL",
+                "addr:postcode": "83-110",
+                "addr:city": "Tczew",
+                "addr:street": "al. Zwyci\u0119stwa",
+                "addr:housenumber": "6",
+                "addr:teryt:simc": 26322,
+                "addr:teryt:sym_ul": 934903,
+                "contact:phone": "+48 577363400",
+                "contact:email": "male.jagodki-sekretariat1@wp.pl",
+                "ref:regon": "221770422",
+                "ref:vatin": "PL5932294741",
+                "operator": "Dane Do Uzupe\u0142nienia",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 50381,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.78247,
+                    54.09287
+                ]
+            },
+            "properties": {
+                "ref:rspo": 50381,
+                "official_name": "Niepubliczne Przedszkole \" Czw\u00f3reczka\"",
+                "name": "Niepubliczne Przedszkole \" Czw\u00f3reczka\"",
+                "addr:country": "PL",
+                "addr:postcode": "83-110",
+                "addr:city": "Tczew",
+                "addr:street": "ul. Saperska",
+                "addr:housenumber": "7",
+                "addr:teryt:simc": 19509,
+                "addr:teryt:sym_ul": 934903,
+                "contact:phone": "+48 585314479",
+                "contact:email": "malgorzataczworeczka@gmail.com",
+                "ref:regon": "221764730",
+                "ref:vatin": "PL5931031212",
+                "operator": "Ma\u0142gorzata Gudzi\u0144ska",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 279063,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.76499,
+                    54.0933
+                ]
+            },
+            "properties": {
+                "ref:rspo": 279063,
+                "official_name": "Pszcz\u00f3\u0142ka Dwuj\u0119zyczny Punkt Przedszkolny Hanna Makowska",
+                "name": "Pszcz\u00f3\u0142ka Dwuj\u0119zyczny Punkt Przedszkolny Hanna Makowska",
+                "addr:country": "PL",
+                "addr:postcode": "83-110",
+                "addr:city": "Tczew",
+                "addr:street": "ul. W\u0142adys\u0142awa Jagie\u0142\u0142y",
+                "addr:housenumber": "15",
+                "addr:teryt:simc": 24494,
+                "addr:teryt:sym_ul": 934903,
+                "contact:email": "pszczolkatczew@gmail.com",
+                "ref:regon": "520538174",
+                "operator": "Hanna Makowska",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 125329,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.77377,
+                    54.09382
+                ]
+            },
+            "properties": {
+                "ref:rspo": 125329,
+                "official_name": "Niepubliczne Przedszkole \"Blue Kids\"",
+                "name": "Niepubliczne Przedszkole \"Blue Kids\"",
+                "addr:country": "PL",
+                "addr:postcode": "83-110",
+                "addr:city": "Tczew",
+                "addr:street": "ul. Franciszka \u017bwirki",
+                "addr:housenumber": "61",
+                "addr:teryt:simc": 26601,
+                "addr:teryt:sym_ul": 934903,
+                "contact:phone": "+48 536277737",
+                "contact:email": "akademia_przedszkolaka@interia.eu",
+                "contact:website": "http:\/\/www.akademia-przedszkolaka.net",
+                "ref:regon": "222169299",
+                "ref:vatin": "PL5932157530",
+                "operator": "\u0141ukasz Partyka",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 67804,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.79182,
+                    54.09386
+                ]
+            },
+            "properties": {
+                "ref:rspo": 67804,
+                "official_name": "Przedszkole Si\u00f3str Mi\u0142osierdzia \u015aw.wincentego A Paulo w Tczewie",
+                "name": "Przedszkole Si\u00f3str Mi\u0142osierdzia \u015aw.wincentego A Paulo w Tczewie",
+                "addr:country": "PL",
+                "addr:postcode": "83-110",
+                "addr:city": "Tczew",
+                "addr:street": "ul. Kaszubska",
+                "addr:housenumber": "17",
+                "addr:teryt:simc": 8183,
+                "addr:teryt:sym_ul": 934903,
+                "contact:phone": "+48 587772875",
+                "contact:email": "przedszkolesm@wp.pl",
+                "contact:website": "http:\/\/www.przedszkolesiostrtczew.pl",
+                "ref:regon": "221776471",
+                "ref:vatin": "PL5931045875",
+                "operator": "Zgromadzenie Si\u00f3str Mi\u0142osierdzia \u015aw.wincentego A Paulo Prowincja Che\u0142mi\u0144sko-Pozna\u0144ska Dom Zakonny",
+                "operator:type": "religious",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 196220,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.76339,
+                    54.09436
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 196220,
+                "official_name": "Szko\u0142a Podstawowa Nr 4 im. Kardyna\u0142a Stefana Wyszy\u0144skiego w Tczewie",
+                "name": "Szko\u0142a Podstawowa Nr 4",
+                "addr:country": "PL",
+                "addr:postcode": "83-110",
+                "addr:city": "Tczew",
+                "addr:street": "ul. W\u0142adys\u0142awa Jagie\u0142\u0142y",
+                "addr:housenumber": "8",
+                "addr:teryt:simc": 24494,
+                "addr:teryt:sym_ul": 934903,
+                "contact:phone": "+48 585326028",
+                "contact:email": "sp4@tczew.pl",
+                "contact:website": "http:\/\/sp4tczew.superszkolna.pl",
+                "ref:regon": "367988671",
+                "operator": "Gmina Miejska Tczew",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 278118,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.77173,
+                    54.09464
+                ]
+            },
+            "properties": {
+                "ref:rspo": 278118,
+                "official_name": "Punkt Przedszkolny Hocki Klocki Centrum Terapii I Rozwoju",
+                "name": "Punkt Przedszkolny Hocki Klocki Centrum Terapii I Rozwoju",
+                "addr:country": "PL",
+                "addr:postcode": "83-110",
+                "addr:city": "Tczew",
+                "addr:street": "ul. Franciszka \u017bwirki",
+                "addr:housenumber": "55",
+                "addr:teryt:simc": 26601,
+                "addr:teryt:sym_ul": 934903,
+                "contact:phone": "+48 662047750",
+                "contact:email": "hockiklockict@gmail.com",
+                "ref:regon": "389848740",
+                "operator": "Martyna Czapiewska",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 67805,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.78395,
+                    54.09501
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 67805,
+                "official_name": "Szko\u0142a Podstawowa Nr 11 im. Miko\u0142aja Kopernika w Tczewie",
+                "name": "Szko\u0142a Podstawowa Nr 11",
+                "addr:country": "PL",
+                "addr:postcode": "83-110",
+                "addr:city": "Tczew",
+                "addr:street": "ul. Saperska",
+                "addr:housenumber": "12",
+                "addr:teryt:simc": 19509,
+                "addr:teryt:sym_ul": 934903,
+                "contact:phone": "+48 585315952",
+                "contact:email": "sekretariat@sp11.pl",
+                "contact:website": "http:\/\/www.sp11.tczew.pl",
+                "ref:regon": "190958945",
+                "ref:vatin": "PL5931026731",
+                "operator": "Gmina Miejska Tczew",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 25092,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.77662,
+                    54.09578
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 25092,
+                "official_name": "Ii Liceum Og\u00f3lnokszta\u0142c\u0105ce im. Jana III Sobieskiego w Tczewie",
+                "name": "Ii Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+                "addr:country": "PL",
+                "addr:postcode": "83-110",
+                "addr:city": "Tczew",
+                "addr:street": "ul. Kr\u00f3lowej Marysie\u0144ki",
+                "addr:housenumber": "10",
+                "addr:teryt:simc": 10007,
+                "addr:teryt:sym_ul": 934903,
+                "contact:phone": "+48 585316960",
+                "contact:email": "2losobieski@wp.pl",
+                "contact:website": "http:\/\/2lotczew.superszkolna.pl",
+                "ref:regon": "191887124",
+                "ref:vatin": "PL5931090261",
+                "operator": "Powiat Tczewski",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 265791,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.77022,
+                    54.09671
+                ]
+            },
+            "properties": {
+                "ref:rspo": 265791,
+                "official_name": "Niepubliczne Przedszkole \"Pan S\u0142onik 2\"",
+                "name": "Niepubliczne Przedszkole \"Pan S\u0142onik 2\"",
+                "addr:country": "PL",
+                "addr:postcode": "83-110",
+                "addr:city": "Tczew",
+                "addr:street": "ul. Jaworowa",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 7394,
+                "addr:teryt:sym_ul": 934903,
+                "contact:phone": "+48 509199533",
+                "contact:email": "alicja.kotlicka@wp.pl",
+                "ref:regon": "368908326",
+                "operator": "Alicja Kotlicka",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 50385,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.78243,
+                    54.0968
+                ]
+            },
+            "properties": {
+                "ref:rspo": 50385,
+                "official_name": "Niepubliczne Przedszkole \"Jode\u0142ka\"",
+                "name": "Niepubliczne Przedszkole \"Jode\u0142ka\"",
+                "addr:country": "PL",
+                "addr:postcode": "83-110",
+                "addr:city": "Tczew",
+                "addr:street": "ul. Jedno\u015bci Narodu",
+                "addr:housenumber": "26",
+                "addr:teryt:simc": 7438,
+                "addr:teryt:sym_ul": 934903,
+                "contact:phone": "+48 585315272",
+                "contact:email": "sekretariat@jodelka.com.pl",
+                "contact:website": "http:\/\/www.jodelka.com.pl",
+                "ref:regon": "221764628",
+                "ref:vatin": "PL5931178725",
+                "operator": "Weronika Jod\u0142owska",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 269232,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.7653,
+                    54.09747
+                ]
+            },
+            "properties": {
+                "ref:rspo": 269232,
+                "official_name": "Przedszkole Niepubliczne \"Edumelodica\"",
+                "name": "Przedszkole Niepubliczne \"Edumelodica\"",
+                "addr:country": "PL",
+                "addr:postcode": "83-110",
+                "addr:city": "Tczew",
+                "addr:street": "ul. Franciszka \u017bwirki",
+                "addr:housenumber": "38",
+                "addr:teryt:simc": 26601,
+                "addr:teryt:sym_ul": 934903,
+                "contact:phone": "+48 506871347",
+                "contact:email": "edumelodica@onet.pl",
+                "contact:website": "http:\/\/www.edumelodica.pl",
+                "ref:regon": "381408846",
+                "operator": "Maciej Gerka",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 124978,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.76169,
+                    54.09769
+                ]
+            },
+            "properties": {
+                "ref:rspo": 124978,
+                "official_name": "Niepubliczne Przedszkole \"Fantazja\"",
+                "name": "Niepubliczne Przedszkole \"Fantazja\"",
+                "addr:country": "PL",
+                "addr:postcode": "83-110",
+                "addr:city": "Tczew",
+                "addr:street": "ul. Obro\u0144c\u00f3w Tczewa",
+                "addr:housenumber": "12",
+                "addr:teryt:simc": 14648,
+                "addr:teryt:sym_ul": 934903,
+                "contact:phone": "+48 792900175",
+                "contact:email": "npfantazja@gmail.com",
+                "contact:website": "http:\/\/www.fantazjatczew.pl",
+                "ref:regon": "221773700",
+                "ref:vatin": "PL5932407501",
+                "operator": "Emilia Bochonko",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 130095,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.78307,
+                    54.09779
+                ]
+            },
+            "properties": {
+                "ref:rspo": 130095,
+                "official_name": "Przedszkole Niepubliczne Domek Przedszkolaka Motessori",
+                "name": "Przedszkole Niepubliczne Domek Przedszkolaka Motessori",
+                "addr:country": "PL",
+                "addr:postcode": "83-110",
+                "addr:city": "Tczew",
+                "addr:street": "ul. Jedno\u015bci Narodu",
+                "addr:housenumber": "19",
+                "addr:teryt:simc": 7438,
+                "addr:teryt:sym_ul": 934903,
+                "contact:phone": "+48 508287636",
+                "contact:email": "dpm.tczew@gmail.com",
+                "contact:website": "http:\/\/www.dpmtczew.pl",
+                "ref:regon": "363471215",
+                "operator": "Danuta Karczewska",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 30745,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.77058,
+                    54.09804
+                ]
+            },
+            "properties": {
+                "ref:rspo": 30745,
+                "official_name": "Przedszkole Nr 8 Z Oddzia\u0142ami Integracyjnymi w Tczewie",
+                "name": "Przedszkole Nr 8 Z Oddzia\u0142ami Integracyjnymi w Tczewie",
+                "addr:country": "PL",
+                "addr:postcode": "83-110",
+                "addr:city": "Tczew",
+                "addr:street": "ul. Jod\u0142owa",
+                "addr:housenumber": "6",
+                "addr:teryt:simc": 7582,
+                "addr:teryt:sym_ul": 934903,
+                "contact:phone": "+48 587771733",
+                "contact:email": "sekretariat@osiem.tczew.pl",
+                "contact:website": "http:\/\/www.osiem.tczew.pl",
+                "ref:regon": "221138256",
+                "ref:vatin": "PL5932576356",
+                "operator": "Gmina Miejska Tczew",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 30352,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.76433,
+                    54.09917
+                ]
+            },
+            "properties": {
+                "ref:rspo": 30352,
+                "official_name": "Niepubliczna Szko\u0142a Muzyczna I St. w Tczewie",
+                "name": "Niepubliczna Szko\u0142a Muzyczna I St. w Tczewie",
+                "addr:country": "PL",
+                "addr:postcode": "83-110",
+                "addr:city": "Tczew",
+                "addr:street": "ul. Armii Krajowej",
+                "addr:housenumber": "70",
+                "addr:teryt:simc": 432,
+                "addr:teryt:sym_ul": 934903,
+                "ref:regon": "221759120",
+                "operator": "Magdalena Szczypiorska",
+                "operator:type": "private",
+                "amenity": "music_school"
+            }
+        },
+        {
+            "id": 67810,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.76433,
+                    54.09914
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 67810,
+                "official_name": "Szko\u0142a Podstawowa Nr 8 im. \u015aw. Wojciecha w Tczewie",
+                "name": "Szko\u0142a Podstawowa Nr 8",
+                "addr:country": "PL",
+                "addr:postcode": "83-110",
+                "addr:city": "Tczew",
+                "addr:street": "ul. Armii Krajowej",
+                "addr:housenumber": "70",
+                "addr:teryt:simc": 432,
+                "addr:teryt:sym_ul": 934903,
+                "contact:phone": "+48 585316519",
+                "contact:email": "sekretariat@sp8.szkola.tczew.pl",
+                "contact:website": "http:\/\/sp8tczew.superszkolna.pl",
+                "ref:regon": "190959011",
+                "ref:vatin": "PL5931026636",
+                "operator": "Gmina Miejska Tczew",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 48947,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.78004,
+                    54.09932
+                ]
+            },
+            "properties": {
+                "ref:rspo": 48947,
+                "official_name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Ekonomicznych im.ks.janusza St.pasierba w Tczewie",
+                "name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Ekonomicznych im.ks.janusza St.pasierba w Tczewie",
+                "addr:country": "PL",
+                "addr:postcode": "83-110",
+                "addr:city": "Tczew",
+                "addr:street": "ul. Gda\u0144ska",
+                "addr:housenumber": "17",
+                "addr:teryt:simc": 5431,
+                "addr:teryt:sym_ul": 934903,
+                "contact:phone": "+48 585315516",
+                "contact:email": "jerzy.cisewski@zsetczew.pl",
+                "contact:website": "http:\/\/www.zsetczew.pl",
+                "ref:regon": "191887070",
+                "ref:vatin": "PL5930002645",
+                "operator": "Powiat Tczewski",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 72335;263291"
+            }
+        },
+        {
+            "id": 72335,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.78004,
+                    54.099289999999996
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 72335,
+                "official_name": "Technikum Nr 4 w Tczewie",
+                "name": "Technikum Nr 4 w Tczewie",
+                "addr:country": "PL",
+                "addr:postcode": "83-110",
+                "addr:city": "Tczew",
+                "addr:street": "ul. Gda\u0144ska",
+                "addr:housenumber": "17",
+                "addr:teryt:simc": 5431,
+                "addr:teryt:sym_ul": 934903,
+                "contact:phone": "+48 585315516",
+                "contact:email": "jerzy.cisewski@zsetczew.pl",
+                "contact:website": "http:\/\/www.zsetczew.pl",
+                "ref:regon": "192781008",
+                "ref:vatin": "PL5930002645",
+                "operator": "Powiat Tczewski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 48947"
+            }
+        },
+        {
+            "id": 263291,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.78004,
+                    54.09926
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 263291,
+                "official_name": "Bran\u017cowa Szko\u0142a I Stopnia Nr 4 w Tczewie",
+                "name": "Bran\u017cowa Szko\u0142a I Stopnia Nr 4 w Tczewie",
+                "addr:country": "PL",
+                "addr:postcode": "83-110",
+                "addr:city": "Tczew",
+                "addr:street": "ul. Gda\u0144ska",
+                "addr:housenumber": "17",
+                "addr:teryt:simc": 5431,
+                "addr:teryt:sym_ul": 934903,
+                "contact:phone": "+48 585315516",
+                "contact:email": "jerzy.cisewski@zsetczew.pl",
+                "contact:website": "http:\/\/www.zsetczew.pl",
+                "ref:regon": "368179152",
+                "operator": "Powiat Tczewski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 48947"
+            }
+        },
+        {
+            "id": 74953,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.76998,
+                    54.10005
+                ]
+            },
+            "properties": {
+                "ref:rspo": 74953,
+                "official_name": "Przedszkole Niepubliczne \"Jarz\u0119binka\"",
+                "name": "Przedszkole Niepubliczne \"Jarz\u0119binka\"",
+                "addr:country": "PL",
+                "addr:postcode": "83-110",
+                "addr:city": "Tczew",
+                "addr:street": "ul. Jarz\u0119binowa",
+                "addr:housenumber": "4",
+                "addr:teryt:simc": 7290,
+                "addr:teryt:sym_ul": 934903,
+                "contact:phone": "+48 585316241",
+                "contact:email": "jw@mroczkowscy.pl",
+                "ref:regon": "221774667",
+                "ref:vatin": "PL5931664897",
+                "operator": "Janina Mroczkowska",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 124781,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.77905,
+                    54.10009
+                ]
+            },
+            "properties": {
+                "ref:rspo": 124781,
+                "official_name": "Niepubliczne Przedszkole \"S\u0142oneczko\"",
+                "name": "Niepubliczne Przedszkole \"S\u0142oneczko\"",
+                "addr:country": "PL",
+                "addr:postcode": "83-110",
+                "addr:city": "Tczew",
+                "addr:street": "ul. Sadowa",
+                "addr:housenumber": "2a",
+                "addr:teryt:simc": 19404,
+                "addr:teryt:sym_ul": 934903,
+                "contact:phone": "+48 500249192",
+                "contact:email": "przedszkole.sloneczko.tcz@wp.pl",
+                "ref:regon": "222154599",
+                "ref:vatin": "PL5791778559",
+                "operator": "Ma\u0142gorzata Kotlenga",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 67814,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.77227,
+                    54.10023
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 67814,
+                "official_name": "Szko\u0142a Podstawowa Nr 12 im.bronis\u0142awa Malinowskiego",
+                "name": "Szko\u0142a Podstawowa Nr 12 im.bronis\u0142awa Malinowskiego",
+                "addr:country": "PL",
+                "addr:postcode": "83-110",
+                "addr:city": "Tczew",
+                "addr:street": "ul. Topolowa",
+                "addr:housenumber": "23",
+                "addr:teryt:simc": 22880,
+                "addr:teryt:sym_ul": 934903,
+                "contact:phone": "+48 585326381",
+                "contact:email": "sekretariat@sp12tczew.pl",
+                "contact:website": "http:\/\/www.sp12tczew.pl",
+                "ref:regon": "190958939",
+                "ref:vatin": "PL5931026688",
+                "operator": "Gmina Miejska Tczew",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 273893,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.76822,
+                    54.1013
+                ]
+            },
+            "properties": {
+                "ref:rspo": 273893,
+                "official_name": "Niepubliczne Przedszkole \"Na G\u00f3rkach\"",
+                "name": "Niepubliczne Przedszkole \"Na G\u00f3rkach\"",
+                "addr:country": "PL",
+                "addr:postcode": "83-110",
+                "addr:city": "Tczew",
+                "addr:street": "ul. Armii Krajowej",
+                "addr:housenumber": "20",
+                "addr:teryt:simc": 432,
+                "addr:teryt:sym_ul": 934903,
+                "contact:email": "zlobeknagorkach@gmail.com",
+                "contact:website": "http:\/\/www.nagorkach.edu.pl",
+                "ref:regon": "384812341",
+                "operator": "Karolina Juszczyk",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 278536,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.77504,
+                    54.10266
+                ]
+            },
+            "properties": {
+                "ref:rspo": 278536,
+                "official_name": "Niepubliczne Przedszkole Na G\u00f3rkach 2",
+                "name": "Niepubliczne Przedszkole Na G\u00f3rkach 2",
+                "addr:country": "PL",
+                "addr:postcode": "83-110",
+                "addr:city": "Tczew",
+                "addr:street": "ul. Aleja Solidarno\u015bci",
+                "addr:housenumber": "9",
+                "addr:teryt:simc": 34760,
+                "addr:teryt:sym_ul": 934903,
+                "contact:phone": "+48 577678288",
+                "contact:email": "zlobeknagorkach@gmail.com",
+                "contact:website": "http:\/\/www.nagorkach@gmail.com",
+                "ref:regon": "389965753",
+                "operator": "Karolina Juszczyk",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 125023,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.77436,
+                    54.10329
+                ]
+            },
+            "properties": {
+                "ref:rspo": 125023,
+                "official_name": "Niepubliczne Przedszkole\"Pan S\u0142onik\"",
+                "name": "Niepubliczne Przedszkole\"Pan S\u0142onik\"",
+                "addr:country": "PL",
+                "addr:postcode": "83-110",
+                "addr:city": "Tczew",
+                "addr:street": "ul. Aleja Solidarno\u015bci",
+                "addr:housenumber": "13",
+                "addr:teryt:simc": 34760,
+                "addr:teryt:sym_ul": 934903,
+                "contact:phone": "+48 509199533",
+                "contact:email": "alicja.kotlicka@wp.pl",
+                "contact:website": "http:\/\/www.pan-slonik.pl",
+                "ref:regon": "221764522",
+                "ref:vatin": "PL5931717777",
+                "operator": "Alicja Kotlicka",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 67802,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.80423,
+                    54.10342
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 67802,
+                "official_name": "Szko\u0142a Podstawowa Nr 7 im. Stanis\u0142awa Staszica",
+                "name": "Szko\u0142a Podstawowa Nr 7",
+                "addr:country": "PL",
+                "addr:postcode": "83-110",
+                "addr:city": "Tczew",
+                "addr:street": "ul. Stoczniowc\u00f3w",
+                "addr:housenumber": "15A",
+                "addr:teryt:simc": 21190,
+                "addr:teryt:sym_ul": 934903,
+                "contact:phone": "+48 585313506",
+                "contact:email": "sekretariat@sp7.tczew.pl",
+                "contact:website": "https:\/\/sp7tczew.superszkolna.pl\/",
+                "ref:regon": "190959005",
+                "ref:vatin": "PL5931057387",
+                "operator": "Gmina Miejska Tczew",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 273895,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.77345,
+                    54.10364
+                ]
+            },
+            "properties": {
+                "ref:rspo": 273895,
+                "official_name": "Punkt Przedszkolny Mozaika",
+                "name": "Punkt Przedszkolny Mozaika",
+                "addr:country": "PL",
+                "addr:postcode": "83-110",
+                "addr:city": "Tczew",
+                "addr:street": "ul. Aleja Solidarno\u015bci",
+                "addr:housenumber": "19",
+                "addr:teryt:simc": 34760,
+                "addr:teryt:sym_ul": 934903,
+                "contact:phone": "+48 662049121",
+                "contact:email": "biuro.twojaniania@gmail.com",
+                "contact:website": "http:\/\/tczew.mozaika.edu.pl\/",
+                "ref:regon": "384813754",
+                "operator": "Kamila Chabowska",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 50378,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.80456,
+                    54.10411
+                ]
+            },
+            "properties": {
+                "ref:rspo": 50378,
+                "official_name": "Przedszkole Niepubliczne \"Muszelka\"",
+                "name": "Przedszkole Niepubliczne \"Muszelka\"",
+                "addr:country": "PL",
+                "addr:postcode": "83-110",
+                "addr:city": "Tczew",
+                "addr:street": "ul. Pionier\u00f3w",
+                "addr:housenumber": "7",
+                "addr:teryt:simc": 16290,
+                "addr:teryt:sym_ul": 934903,
+                "contact:phone": "+48 585317541",
+                "contact:email": "a.walkowska@tlen.pl",
+                "contact:website": "http:\/\/www.muszelka-tczew.pl",
+                "ref:regon": "221764746",
+                "ref:vatin": "PL5931738503",
+                "operator": "Alina Walkowska",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        }
+    ]
+}

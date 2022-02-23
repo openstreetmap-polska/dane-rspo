@@ -1,1 +1,101 @@
-{"type":"FeatureCollection","features":[{"id":52452,"type":"Feature","geometry":{"type":"Point","coordinates":[15.09321,51.43725]},"properties":{"ref:rspo":52452,"official_name":"Przedszkole Miejskie w Gozdnicy","name":"Przedszkole Miejskie w Gozdnicy","addr:country":"PL","addr:postcode":"68-130","addr:city":"Gozdnica","addr:street":"ul. Kombatant\u00f3w","addr:housenumber":"11","addr:teryt:simc":9043,"addr:teryt:sym_ul":988388,"contact:phone":"+48 683601067","contact:email":"szkola@gozdnica.pl","ref:regon":"080490370","ref:vatin":"PL9241890744","operator":"Gmina Gozdnica","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 128138"}},{"id":128138,"type":"Feature","geometry":{"type":"Point","coordinates":[15.09888,51.43981]},"properties":{"ref:rspo":128138,"official_name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w Gozdnicy","name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w Gozdnicy","addr:country":"PL","addr:postcode":"68-130","addr:city":"Gozdnica","addr:street":"ul. M\u0142y\u0144ska","addr:housenumber":"1","addr:teryt:simc":13132,"addr:teryt:sym_ul":988388,"contact:phone":"+48 683601067","contact:email":"szkola@gozdnica.pl","contact:website":"http:\/\/spgozdnica.edupage.org\/","ref:regon":"362118043","ref:vatin":"PL9241905575","operator":"Gmina Gozdnica","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 52452;52480"}},{"id":52480,"type":"Feature","geometry":{"type":"Point","coordinates":[15.09897,51.43989]},"properties":{"isced:level":"1;2","ref:rspo":52480,"official_name":"Szko\u0142a Podstawowa im. Pierwszych Osadnik\u00f3w w Gozdnicy","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"68-130","addr:city":"Gozdnica","addr:street":"ul. M\u0142y\u0144ska","addr:housenumber":"1A","addr:teryt:simc":13132,"addr:teryt:sym_ul":988388,"contact:phone":"+48 683601067","contact:email":"szkola@gozdnica.pl","contact:website":"http:\/\/spgozdnica.edupage.org\/","ref:regon":"970550100","operator":"Gmina Gozdnica","operator:type":"government","amenity":"school","note":"Parent RSPO: 128138"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 52452,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.09321,
+                    51.43725
+                ]
+            },
+            "properties": {
+                "ref:rspo": 52452,
+                "official_name": "Przedszkole Miejskie w Gozdnicy",
+                "name": "Przedszkole Miejskie w Gozdnicy",
+                "addr:country": "PL",
+                "addr:postcode": "68-130",
+                "addr:city": "Gozdnica",
+                "addr:street": "ul. Kombatant\u00f3w",
+                "addr:housenumber": "11",
+                "addr:teryt:simc": 9043,
+                "addr:teryt:sym_ul": 988388,
+                "contact:phone": "+48 683601067",
+                "contact:email": "szkola@gozdnica.pl",
+                "ref:regon": "080490370",
+                "ref:vatin": "PL9241890744",
+                "operator": "Gmina Gozdnica",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 128138"
+            }
+        },
+        {
+            "id": 128138,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.09888,
+                    51.43981
+                ]
+            },
+            "properties": {
+                "ref:rspo": 128138,
+                "official_name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w Gozdnicy",
+                "name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w Gozdnicy",
+                "addr:country": "PL",
+                "addr:postcode": "68-130",
+                "addr:city": "Gozdnica",
+                "addr:street": "ul. M\u0142y\u0144ska",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 13132,
+                "addr:teryt:sym_ul": 988388,
+                "contact:phone": "+48 683601067",
+                "contact:email": "szkola@gozdnica.pl",
+                "contact:website": "http:\/\/spgozdnica.edupage.org\/",
+                "ref:regon": "362118043",
+                "ref:vatin": "PL9241905575",
+                "operator": "Gmina Gozdnica",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 52452;52480"
+            }
+        },
+        {
+            "id": 52480,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.09897,
+                    51.43989
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 52480,
+                "official_name": "Szko\u0142a Podstawowa im. Pierwszych Osadnik\u00f3w w Gozdnicy",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "68-130",
+                "addr:city": "Gozdnica",
+                "addr:street": "ul. M\u0142y\u0144ska",
+                "addr:housenumber": "1A",
+                "addr:teryt:simc": 13132,
+                "addr:teryt:sym_ul": 988388,
+                "contact:phone": "+48 683601067",
+                "contact:email": "szkola@gozdnica.pl",
+                "contact:website": "http:\/\/spgozdnica.edupage.org\/",
+                "ref:regon": "970550100",
+                "operator": "Gmina Gozdnica",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 128138"
+            }
+        }
+    ]
+}

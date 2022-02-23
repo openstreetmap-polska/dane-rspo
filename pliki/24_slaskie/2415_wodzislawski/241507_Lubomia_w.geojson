@@ -1,1 +1,161 @@
-{"type":"FeatureCollection","features":[{"id":91685,"type":"Feature","geometry":{"type":"Point","coordinates":[18.3345999,50.02357]},"properties":{"isced:level":"1;2","ref:rspo":91685,"official_name":"Szko\u0142a Podstawowa im. Romana Dworczaka I Dr Anny Wr\u00f3bel","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"44-361","addr:city":"Syrynia","addr:street":"ul. Powsta\u0144c\u00f3w \u015al\u0105skich","addr:housenumber":"26","addr:teryt:simc":17366,"addr:teryt:sym_ul":216208,"contact:phone":"+48 324517353","contact:email":"zsosyrynia@wp.pl","contact:website":"http:\/\/sp.syrynia.pl","ref:regon":"271504360","ref:vatin":"PL6472156008","operator":"Gmina Lubomia","operator:type":"government","amenity":"school"}},{"id":57555,"type":"Feature","geometry":{"type":"Point","coordinates":[18.33158,50.02447]},"properties":{"ref:rspo":57555,"official_name":"Przedszkole im. Janusza Korczaka w Syryni","name":"Przedszkole","addr:country":"PL","addr:postcode":"44-361","addr:city":"Syrynia","addr:street":"ul. Krzy\u017cowa","addr:housenumber":"2","addr:door":"a","addr:teryt:simc":10196,"addr:teryt:sym_ul":216208,"contact:phone":"+48 324517126","contact:email":"przedszkolesyrynia@vp.pl","ref:regon":"271504331","ref:vatin":"PL6472155977","operator":"Gmina Lubomia","operator:type":"government","amenity":"kindergarten"}},{"id":57557,"type":"Feature","geometry":{"type":"Point","coordinates":[18.30317,50.0419]},"properties":{"ref:rspo":57557,"official_name":"Przedszkole im. El\u017cbiety Sojki w Lubomi","name":"Przedszkole","addr:country":"PL","addr:postcode":"44-360","addr:city":"Lubomia","addr:street":"ul. Szkolna","addr:housenumber":"5","addr:teryt:simc":21970,"addr:teryt:sym_ul":216119,"contact:phone":"+48 324516015","contact:email":"przedszkolelubomia@wp.pl","contact:website":"http:\/\/www.przedszkole.lubomia.pl","ref:regon":"271504348","ref:vatin":"PL6472155871","operator":"Gmina Lubomia","operator:type":"government","amenity":"kindergarten"}},{"id":91687,"type":"Feature","geometry":{"type":"Point","coordinates":[18.30283,50.04257]},"properties":{"isced:level":"1;2","ref:rspo":91687,"official_name":"Szko\u0142a Podstawowa im. Brunona Strza\u0142ki","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"44-360","addr:city":"Lubomia","addr:street":"ul. Szkolna","addr:housenumber":"2","addr:teryt:simc":21970,"addr:teryt:sym_ul":216119,"contact:phone":"+48 324516524","contact:email":"splubomia@splubomia.pl","contact:website":"http:\/\/splubomia.szkolnastrona.pl","ref:regon":"000782103","ref:vatin":"PL6472445327","operator":"Gmina Lubomia","operator:type":"government","amenity":"school"}},{"id":267133,"type":"Feature","geometry":{"type":"Point","coordinates":[18.25959,50.04371]},"properties":{"ref:rspo":267133,"official_name":"Przedszkole w Nieboczowach","name":"Przedszkole w Nieboczowach","addr:country":"PL","addr:postcode":"44-360","addr:city":"Nieboczowy","addr:street":"ul. Wiejska","addr:housenumber":"25","addr:teryt:simc":24048,"addr:teryt:sym_ul":216177,"contact:phone":"+48 324408870","contact:email":"przedszkole@nieboczowy.lubomia.pl","ref:regon":"369953010","ref:vatin":"PL6472582372","operator":"Gmina Lubomia","operator:type":"government","amenity":"kindergarten"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 91685,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.3345999,
+                    50.02357
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 91685,
+                "official_name": "Szko\u0142a Podstawowa im. Romana Dworczaka I Dr Anny Wr\u00f3bel",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "44-361",
+                "addr:city": "Syrynia",
+                "addr:street": "ul. Powsta\u0144c\u00f3w \u015al\u0105skich",
+                "addr:housenumber": "26",
+                "addr:teryt:simc": 17366,
+                "addr:teryt:sym_ul": 216208,
+                "contact:phone": "+48 324517353",
+                "contact:email": "zsosyrynia@wp.pl",
+                "contact:website": "http:\/\/sp.syrynia.pl",
+                "ref:regon": "271504360",
+                "ref:vatin": "PL6472156008",
+                "operator": "Gmina Lubomia",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 57555,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.33158,
+                    50.02447
+                ]
+            },
+            "properties": {
+                "ref:rspo": 57555,
+                "official_name": "Przedszkole im. Janusza Korczaka w Syryni",
+                "name": "Przedszkole",
+                "addr:country": "PL",
+                "addr:postcode": "44-361",
+                "addr:city": "Syrynia",
+                "addr:street": "ul. Krzy\u017cowa",
+                "addr:housenumber": "2",
+                "addr:door": "a",
+                "addr:teryt:simc": 10196,
+                "addr:teryt:sym_ul": 216208,
+                "contact:phone": "+48 324517126",
+                "contact:email": "przedszkolesyrynia@vp.pl",
+                "ref:regon": "271504331",
+                "ref:vatin": "PL6472155977",
+                "operator": "Gmina Lubomia",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 57557,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.30317,
+                    50.0419
+                ]
+            },
+            "properties": {
+                "ref:rspo": 57557,
+                "official_name": "Przedszkole im. El\u017cbiety Sojki w Lubomi",
+                "name": "Przedszkole",
+                "addr:country": "PL",
+                "addr:postcode": "44-360",
+                "addr:city": "Lubomia",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "5",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 216119,
+                "contact:phone": "+48 324516015",
+                "contact:email": "przedszkolelubomia@wp.pl",
+                "contact:website": "http:\/\/www.przedszkole.lubomia.pl",
+                "ref:regon": "271504348",
+                "ref:vatin": "PL6472155871",
+                "operator": "Gmina Lubomia",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 91687,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.30283,
+                    50.04257
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 91687,
+                "official_name": "Szko\u0142a Podstawowa im. Brunona Strza\u0142ki",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "44-360",
+                "addr:city": "Lubomia",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "2",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 216119,
+                "contact:phone": "+48 324516524",
+                "contact:email": "splubomia@splubomia.pl",
+                "contact:website": "http:\/\/splubomia.szkolnastrona.pl",
+                "ref:regon": "000782103",
+                "ref:vatin": "PL6472445327",
+                "operator": "Gmina Lubomia",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 267133,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.25959,
+                    50.04371
+                ]
+            },
+            "properties": {
+                "ref:rspo": 267133,
+                "official_name": "Przedszkole w Nieboczowach",
+                "name": "Przedszkole w Nieboczowach",
+                "addr:country": "PL",
+                "addr:postcode": "44-360",
+                "addr:city": "Nieboczowy",
+                "addr:street": "ul. Wiejska",
+                "addr:housenumber": "25",
+                "addr:teryt:simc": 24048,
+                "addr:teryt:sym_ul": 216177,
+                "contact:phone": "+48 324408870",
+                "contact:email": "przedszkole@nieboczowy.lubomia.pl",
+                "ref:regon": "369953010",
+                "ref:vatin": "PL6472582372",
+                "operator": "Gmina Lubomia",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        }
+    ]
+}

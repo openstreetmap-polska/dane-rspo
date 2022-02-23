@@ -1,1 +1,443 @@
-{"type":"FeatureCollection","features":[{"id":9756,"type":"Feature","geometry":{"type":"Point","coordinates":[19.41562,50.60803]},"properties":{"isced:level":"1;2","ref:rspo":9756,"official_name":"Szko\u0142a Podstawowa Im Jana Paw\u0142a II w Jaworzniku","name":"Szko\u0142a Podstawowa Im Jana Paw\u0142a II w Jaworzniku","addr:country":"PL","addr:postcode":"42-310","addr:city":"Jaworznik","addr:street":"ul. Szkolna","addr:housenumber":"35","addr:teryt:simc":21970,"addr:teryt:sym_ul":147507,"contact:phone":"+48 343148299","contact:email":"spjaworznik@op.pl","contact:website":"http:\/\/www.spjaworznik.pl","ref:regon":"001199682","ref:vatin":"PL5771785467","operator":"Gmina \u017barki","operator:type":"government","amenity":"school"}},{"id":22581,"type":"Feature","geometry":{"type":"Point","coordinates":[19.36207,50.62136]},"properties":{"ref:rspo":22581,"official_name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 im. Tadeusza Ko\u015bciuszki w \u017barkach","name":"Zesp\u00f3\u0142 Szk\u00f3\u0142","addr:country":"PL","addr:postcode":"42-310","addr:city":"\u017barki","addr:street":"ul. Myszkowska","addr:housenumber":"50","addr:teryt:simc":13548,"addr:teryt:sym_ul":932643,"contact:phone":"+48 343148024","contact:email":"sekretariat@zs-zarki.edu.pl","contact:website":"http:\/\/www.zs-zarki.edu.pl","ref:regon":"001095385","ref:vatin":"PL5771385673","operator":"Powiat Myszkowski","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 23638;23661;23692;23772"}},{"id":23638,"type":"Feature","geometry":{"type":"Point","coordinates":[19.36207,50.62133]},"properties":{"isced:level":"3","ref:rspo":23638,"official_name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 im.t.ko\u015bciuszki Liceum Og\u00f3lnokszta\u0142c\u0105ce w \u017barkach","name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 im.t.ko\u015bciuszki Liceum Og\u00f3lnokszta\u0142c\u0105ce w \u017barkach","addr:country":"PL","addr:postcode":"42-310","addr:city":"\u017barki","addr:street":"ul. Myszkowska","addr:housenumber":"50","addr:teryt:simc":13548,"addr:teryt:sym_ul":932643,"contact:phone":"+48 343148024","contact:email":"sekretariat@zs-zarki.edu.pl","contact:website":"http:\/\/www.zs-zarki.edu.pl","ref:regon":"152072154","operator":"Powiat Myszkowski","operator:type":"government","amenity":"school","note":"Parent RSPO: 22581"}},{"id":23661,"type":"Feature","geometry":{"type":"Point","coordinates":[19.36207,50.621300000000005]},"properties":{"isced:level":"3","ref:rspo":23661,"official_name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 im.t.ko\u015bciuszki Technikum w \u017barkach","name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 im.t.ko\u015bciuszki Technikum w \u017barkach","addr:country":"PL","addr:postcode":"42-310","addr:city":"\u017barki","addr:street":"ul. Myszkowska","addr:housenumber":"50","addr:teryt:simc":13548,"addr:teryt:sym_ul":932643,"contact:phone":"+48 343148024","contact:email":"sekretariat@zs-zarki.edu.pl","contact:website":"http:\/\/www.zs-zarki.edu.pl","ref:regon":"152072160","operator":"Powiat Myszkowski","operator:type":"government","amenity":"school","note":"Parent RSPO: 22581"}},{"id":23692,"type":"Feature","geometry":{"type":"Point","coordinates":[19.36207,50.62127]},"properties":{"isced:level":"4","ref:rspo":23692,"official_name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 im. T.ko\u015bciuszki Szko\u0142a Policealna w \u017barkach","name":"Zesp\u00f3\u0142 Szk\u00f3\u0142","addr:country":"PL","addr:postcode":"42-310","addr:city":"\u017barki","addr:street":"ul. Myszkowska","addr:housenumber":"50","addr:teryt:simc":13548,"addr:teryt:sym_ul":932643,"contact:phone":"+48 343148024","contact:email":"sekretariat@zs-zarki.edu.pl","contact:website":"http:\/\/www.zs-zarki.edu.pl","ref:regon":"241300161","operator":"Powiat Myszkowski","operator:type":"government","amenity":"college","note":"Parent RSPO: 22581"}},{"id":23772,"type":"Feature","geometry":{"type":"Point","coordinates":[19.36207,50.62124]},"properties":{"ref:rspo":23772,"official_name":"Szkolne Schronisko M\u0142odzie\u017cowe Przy Zespole Szk\u00f3\u0142 w \u017barkach","name":"Szkolne Schronisko M\u0142odzie\u017cowe Przy Zespole Szk\u00f3\u0142 w \u017barkach","addr:country":"PL","addr:postcode":"42-310","addr:city":"\u017barki","addr:street":"ul. Myszkowska","addr:housenumber":"50","addr:teryt:simc":13548,"addr:teryt:sym_ul":932643,"contact:phone":"+48 343148024","contact:email":"sekretariat@zs-zarki.edu.pl","contact:website":"http:\/\/www.zs-zarki.edu.pl","ref:regon":"243058770","operator":"Powiat Myszkowski","operator:type":"government","tourism":"hostel","note":"Parent RSPO: 22581"}},{"id":53122,"type":"Feature","geometry":{"type":"Point","coordinates":[19.35651,50.6221699]},"properties":{"ref:rspo":53122,"official_name":"O\u015brodek Rewalidacyjno-Wychowawczy dla Dzieci I M\u0142odzie\u017cy Niepe\u0142nosprawnej w \u017barkach","name":"O\u015brodek Rewalidacyjno-Wychowawczy dla Dzieci I M\u0142odzie\u017cy Niepe\u0142nosprawnej w \u017barkach","addr:country":"PL","addr:postcode":"42-310","addr:city":"\u017barki","addr:street":"ul. Steinkellera","addr:housenumber":"5","addr:teryt:simc":21133,"addr:teryt:sym_ul":932643,"contact:phone":"+48 343148548","contact:email":"orwzarki@wp.pl","ref:regon":"243075478","operator":"Stowarzyszenie \"Cudowne Dzieci\"","operator:type":"ngo","amenity":"school"}},{"id":9743,"type":"Feature","geometry":{"type":"Point","coordinates":[19.35551,50.62791]},"properties":{"isced:level":"1;2","ref:rspo":9743,"official_name":"Szko\u0142a Podstawowa im. W\u0142adys\u0142awa Szafera w \u017barkach","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"42-310","addr:city":"\u017barki","addr:street":"ul. Cz\u0119stochowska","addr:housenumber":"61","addr:teryt:simc":3458,"addr:teryt:sym_ul":932643,"contact:phone":"+48 343148010","contact:email":"spzarki@interia.pl","contact:website":"http:\/\/www.spzarki.cal24.pl","ref:regon":"000264035","ref:vatin":"PL5771748087","operator":"Gmina \u017barki","operator:type":"government","amenity":"school"}},{"id":9755,"type":"Feature","geometry":{"type":"Point","coordinates":[19.36761,50.62957]},"properties":{"ref:rspo":9755,"official_name":"Przedszkole Publiczne w Zarkach Z Oddzia\u0142em w Kotowicach","name":"Przedszkole Publiczne w Zarkach Z Oddzia\u0142em w Kotowicach","addr:country":"PL","addr:postcode":"42-310","addr:city":"\u017barki","addr:street":"ul. Wierzbowa","addr:housenumber":"8","addr:teryt:simc":24170,"addr:teryt:sym_ul":932643,"contact:phone":"+48 343148157","contact:email":"lszczepan4@wp.pl","contact:website":"http:\/\/www.przedszkole-zarki.pl","ref:regon":"150527923","ref:vatin":"PL5771785438","operator":"Gmina \u017barki","operator:type":"government","amenity":"kindergarten"}},{"id":24525,"type":"Feature","geometry":{"type":"Point","coordinates":[19.36728,50.63015]},"properties":{"ref:rspo":24525,"official_name":"Zak\u0142ad Doskonalenia Zawodowego w Katowicach O\u015brodek Kszta\u0142cenia Zawodowego w \u017barkach","name":"Zak\u0142ad Doskonalenia Zawodowego w Katowicach O\u015brodek Kszta\u0142cenia Zawodowego w \u017barkach","addr:country":"PL","addr:postcode":"42-310","addr:city":"\u017barki","addr:street":"ul. Sosnowa","addr:housenumber":"2","addr:teryt:simc":20598,"addr:teryt:sym_ul":932643,"contact:phone":"+48 343148225","contact:email":"zarki@zdz.katowice.pl","ref:regon":"243061810","operator":"Zak\u0142ad Doskonalenia Zawodowego W Katowicach","operator:type":"ngo","fixme":"w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. amenity=training + training=*, amenity=dancing_school, amenity=language_school, amenity=music_school) albo amenity=school, amenity=college, albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education."}},{"id":115498,"type":"Feature","geometry":{"type":"Point","coordinates":[19.36728,50.63012]},"properties":{"ref:rspo":115498,"official_name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 w \u017barkach Zdz w Katowicach","name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 w \u017barkach Zdz w Katowicach","addr:country":"PL","addr:postcode":"42-310","addr:city":"\u017barki","addr:street":"ul. Sosnowa","addr:housenumber":"2","addr:teryt:simc":20598,"addr:teryt:sym_ul":932643,"contact:phone":"+48 343148099","contact:email":"s-zarki@zdz.katowice.pl","contact:website":"http:\/\/www.szkola.zarki.zdz.pl","ref:regon":"243314523","ref:vatin":"PL6340135558","operator":"Zak\u0142ad Doskonalenia Zawodowego W Katowicach","operator:type":"ngo","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 22709"}},{"id":22709,"type":"Feature","geometry":{"type":"Point","coordinates":[19.36728,50.63009]},"properties":{"isced:level":"3","ref:rspo":22709,"official_name":"Bran\u017cowa Szko\u0142a I Stopnia w \u017barkach Zak\u0142adu Doskonalenia Zawodowego w Katowicach","name":"Bran\u017cowa Szko\u0142a I Stopnia w \u017barkach Zak\u0142adu Doskonalenia Zawodowego w Katowicach","addr:country":"PL","addr:postcode":"42-310","addr:city":"\u017barki","addr:street":"ul. Sosnowa","addr:housenumber":"2","addr:teryt:simc":20598,"addr:teryt:sym_ul":932643,"contact:phone":"+48 343148099","contact:email":"s-zarki@zdz.katowice.pl","contact:website":"http:\/\/www.zarki.zdz.katowice.pl","ref:regon":"243058505","operator":"Zak\u0142ad Doskonalenia Zawodowego W Katowicach","operator:type":"ngo","amenity":"school","note":"Parent RSPO: 115498"}},{"id":9747,"type":"Feature","geometry":{"type":"Point","coordinates":[19.31805,50.65355]},"properties":{"isced:level":"1;2","ref:rspo":9747,"official_name":"Szko\u0142a Podstawowa im. Integracji Europejskiej w Przybynowie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"42-310","addr:city":"Przybyn\u00f3w","addr:street":"ul. Szkolna","addr:housenumber":"2","addr:teryt:simc":21970,"addr:teryt:sym_ul":147571,"contact:phone":"+48 343148063","contact:email":"podstawowa5@gazeta.pl","ref:regon":"001199676","ref:vatin":"PL5771785421","operator":"Gmina \u017barki","operator:type":"government","amenity":"school"}},{"id":9748,"type":"Feature","geometry":{"type":"Point","coordinates":[19.3759442,50.6557245]},"properties":{"isced:level":"1;2","ref:rspo":9748,"official_name":"Szko\u0142a Podstawowa im. 11 Listopada w Zawadzie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"42-310","addr:place":"Zawada","addr:housenumber":"56","addr:teryt:sym_ul":147720,"contact:phone":"+48 343148044","contact:email":"szkolazawada@wp.pl","ref:regon":"001199660","ref:vatin":"PL5771785504","operator":"Gmina \u017barki","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 9756,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.41562,
+                    50.60803
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 9756,
+                "official_name": "Szko\u0142a Podstawowa Im Jana Paw\u0142a II w Jaworzniku",
+                "name": "Szko\u0142a Podstawowa Im Jana Paw\u0142a II w Jaworzniku",
+                "addr:country": "PL",
+                "addr:postcode": "42-310",
+                "addr:city": "Jaworznik",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "35",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 147507,
+                "contact:phone": "+48 343148299",
+                "contact:email": "spjaworznik@op.pl",
+                "contact:website": "http:\/\/www.spjaworznik.pl",
+                "ref:regon": "001199682",
+                "ref:vatin": "PL5771785467",
+                "operator": "Gmina \u017barki",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 22581,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.36207,
+                    50.62136
+                ]
+            },
+            "properties": {
+                "ref:rspo": 22581,
+                "official_name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 im. Tadeusza Ko\u015bciuszki w \u017barkach",
+                "name": "Zesp\u00f3\u0142 Szk\u00f3\u0142",
+                "addr:country": "PL",
+                "addr:postcode": "42-310",
+                "addr:city": "\u017barki",
+                "addr:street": "ul. Myszkowska",
+                "addr:housenumber": "50",
+                "addr:teryt:simc": 13548,
+                "addr:teryt:sym_ul": 932643,
+                "contact:phone": "+48 343148024",
+                "contact:email": "sekretariat@zs-zarki.edu.pl",
+                "contact:website": "http:\/\/www.zs-zarki.edu.pl",
+                "ref:regon": "001095385",
+                "ref:vatin": "PL5771385673",
+                "operator": "Powiat Myszkowski",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 23638;23661;23692;23772"
+            }
+        },
+        {
+            "id": 23638,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.36207,
+                    50.62133
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 23638,
+                "official_name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 im.t.ko\u015bciuszki Liceum Og\u00f3lnokszta\u0142c\u0105ce w \u017barkach",
+                "name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 im.t.ko\u015bciuszki Liceum Og\u00f3lnokszta\u0142c\u0105ce w \u017barkach",
+                "addr:country": "PL",
+                "addr:postcode": "42-310",
+                "addr:city": "\u017barki",
+                "addr:street": "ul. Myszkowska",
+                "addr:housenumber": "50",
+                "addr:teryt:simc": 13548,
+                "addr:teryt:sym_ul": 932643,
+                "contact:phone": "+48 343148024",
+                "contact:email": "sekretariat@zs-zarki.edu.pl",
+                "contact:website": "http:\/\/www.zs-zarki.edu.pl",
+                "ref:regon": "152072154",
+                "operator": "Powiat Myszkowski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 22581"
+            }
+        },
+        {
+            "id": 23661,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.36207,
+                    50.621300000000005
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 23661,
+                "official_name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 im.t.ko\u015bciuszki Technikum w \u017barkach",
+                "name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 im.t.ko\u015bciuszki Technikum w \u017barkach",
+                "addr:country": "PL",
+                "addr:postcode": "42-310",
+                "addr:city": "\u017barki",
+                "addr:street": "ul. Myszkowska",
+                "addr:housenumber": "50",
+                "addr:teryt:simc": 13548,
+                "addr:teryt:sym_ul": 932643,
+                "contact:phone": "+48 343148024",
+                "contact:email": "sekretariat@zs-zarki.edu.pl",
+                "contact:website": "http:\/\/www.zs-zarki.edu.pl",
+                "ref:regon": "152072160",
+                "operator": "Powiat Myszkowski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 22581"
+            }
+        },
+        {
+            "id": 23692,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.36207,
+                    50.62127
+                ]
+            },
+            "properties": {
+                "isced:level": "4",
+                "ref:rspo": 23692,
+                "official_name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 im. T.ko\u015bciuszki Szko\u0142a Policealna w \u017barkach",
+                "name": "Zesp\u00f3\u0142 Szk\u00f3\u0142",
+                "addr:country": "PL",
+                "addr:postcode": "42-310",
+                "addr:city": "\u017barki",
+                "addr:street": "ul. Myszkowska",
+                "addr:housenumber": "50",
+                "addr:teryt:simc": 13548,
+                "addr:teryt:sym_ul": 932643,
+                "contact:phone": "+48 343148024",
+                "contact:email": "sekretariat@zs-zarki.edu.pl",
+                "contact:website": "http:\/\/www.zs-zarki.edu.pl",
+                "ref:regon": "241300161",
+                "operator": "Powiat Myszkowski",
+                "operator:type": "government",
+                "amenity": "college",
+                "note": "Parent RSPO: 22581"
+            }
+        },
+        {
+            "id": 23772,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.36207,
+                    50.62124
+                ]
+            },
+            "properties": {
+                "ref:rspo": 23772,
+                "official_name": "Szkolne Schronisko M\u0142odzie\u017cowe Przy Zespole Szk\u00f3\u0142 w \u017barkach",
+                "name": "Szkolne Schronisko M\u0142odzie\u017cowe Przy Zespole Szk\u00f3\u0142 w \u017barkach",
+                "addr:country": "PL",
+                "addr:postcode": "42-310",
+                "addr:city": "\u017barki",
+                "addr:street": "ul. Myszkowska",
+                "addr:housenumber": "50",
+                "addr:teryt:simc": 13548,
+                "addr:teryt:sym_ul": 932643,
+                "contact:phone": "+48 343148024",
+                "contact:email": "sekretariat@zs-zarki.edu.pl",
+                "contact:website": "http:\/\/www.zs-zarki.edu.pl",
+                "ref:regon": "243058770",
+                "operator": "Powiat Myszkowski",
+                "operator:type": "government",
+                "tourism": "hostel",
+                "note": "Parent RSPO: 22581"
+            }
+        },
+        {
+            "id": 53122,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.35651,
+                    50.6221699
+                ]
+            },
+            "properties": {
+                "ref:rspo": 53122,
+                "official_name": "O\u015brodek Rewalidacyjno-Wychowawczy dla Dzieci I M\u0142odzie\u017cy Niepe\u0142nosprawnej w \u017barkach",
+                "name": "O\u015brodek Rewalidacyjno-Wychowawczy dla Dzieci I M\u0142odzie\u017cy Niepe\u0142nosprawnej w \u017barkach",
+                "addr:country": "PL",
+                "addr:postcode": "42-310",
+                "addr:city": "\u017barki",
+                "addr:street": "ul. Steinkellera",
+                "addr:housenumber": "5",
+                "addr:teryt:simc": 21133,
+                "addr:teryt:sym_ul": 932643,
+                "contact:phone": "+48 343148548",
+                "contact:email": "orwzarki@wp.pl",
+                "ref:regon": "243075478",
+                "operator": "Stowarzyszenie \"Cudowne Dzieci\"",
+                "operator:type": "ngo",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 9743,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.35551,
+                    50.62791
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 9743,
+                "official_name": "Szko\u0142a Podstawowa im. W\u0142adys\u0142awa Szafera w \u017barkach",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "42-310",
+                "addr:city": "\u017barki",
+                "addr:street": "ul. Cz\u0119stochowska",
+                "addr:housenumber": "61",
+                "addr:teryt:simc": 3458,
+                "addr:teryt:sym_ul": 932643,
+                "contact:phone": "+48 343148010",
+                "contact:email": "spzarki@interia.pl",
+                "contact:website": "http:\/\/www.spzarki.cal24.pl",
+                "ref:regon": "000264035",
+                "ref:vatin": "PL5771748087",
+                "operator": "Gmina \u017barki",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 9755,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.36761,
+                    50.62957
+                ]
+            },
+            "properties": {
+                "ref:rspo": 9755,
+                "official_name": "Przedszkole Publiczne w Zarkach Z Oddzia\u0142em w Kotowicach",
+                "name": "Przedszkole Publiczne w Zarkach Z Oddzia\u0142em w Kotowicach",
+                "addr:country": "PL",
+                "addr:postcode": "42-310",
+                "addr:city": "\u017barki",
+                "addr:street": "ul. Wierzbowa",
+                "addr:housenumber": "8",
+                "addr:teryt:simc": 24170,
+                "addr:teryt:sym_ul": 932643,
+                "contact:phone": "+48 343148157",
+                "contact:email": "lszczepan4@wp.pl",
+                "contact:website": "http:\/\/www.przedszkole-zarki.pl",
+                "ref:regon": "150527923",
+                "ref:vatin": "PL5771785438",
+                "operator": "Gmina \u017barki",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 24525,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.36728,
+                    50.63015
+                ]
+            },
+            "properties": {
+                "ref:rspo": 24525,
+                "official_name": "Zak\u0142ad Doskonalenia Zawodowego w Katowicach O\u015brodek Kszta\u0142cenia Zawodowego w \u017barkach",
+                "name": "Zak\u0142ad Doskonalenia Zawodowego w Katowicach O\u015brodek Kszta\u0142cenia Zawodowego w \u017barkach",
+                "addr:country": "PL",
+                "addr:postcode": "42-310",
+                "addr:city": "\u017barki",
+                "addr:street": "ul. Sosnowa",
+                "addr:housenumber": "2",
+                "addr:teryt:simc": 20598,
+                "addr:teryt:sym_ul": 932643,
+                "contact:phone": "+48 343148225",
+                "contact:email": "zarki@zdz.katowice.pl",
+                "ref:regon": "243061810",
+                "operator": "Zak\u0142ad Doskonalenia Zawodowego W Katowicach",
+                "operator:type": "ngo",
+                "fixme": "w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. amenity=training + training=*, amenity=dancing_school, amenity=language_school, amenity=music_school) albo amenity=school, amenity=college, albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education."
+            }
+        },
+        {
+            "id": 115498,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.36728,
+                    50.63012
+                ]
+            },
+            "properties": {
+                "ref:rspo": 115498,
+                "official_name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 w \u017barkach Zdz w Katowicach",
+                "name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 w \u017barkach Zdz w Katowicach",
+                "addr:country": "PL",
+                "addr:postcode": "42-310",
+                "addr:city": "\u017barki",
+                "addr:street": "ul. Sosnowa",
+                "addr:housenumber": "2",
+                "addr:teryt:simc": 20598,
+                "addr:teryt:sym_ul": 932643,
+                "contact:phone": "+48 343148099",
+                "contact:email": "s-zarki@zdz.katowice.pl",
+                "contact:website": "http:\/\/www.szkola.zarki.zdz.pl",
+                "ref:regon": "243314523",
+                "ref:vatin": "PL6340135558",
+                "operator": "Zak\u0142ad Doskonalenia Zawodowego W Katowicach",
+                "operator:type": "ngo",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 22709"
+            }
+        },
+        {
+            "id": 22709,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.36728,
+                    50.63009
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 22709,
+                "official_name": "Bran\u017cowa Szko\u0142a I Stopnia w \u017barkach Zak\u0142adu Doskonalenia Zawodowego w Katowicach",
+                "name": "Bran\u017cowa Szko\u0142a I Stopnia w \u017barkach Zak\u0142adu Doskonalenia Zawodowego w Katowicach",
+                "addr:country": "PL",
+                "addr:postcode": "42-310",
+                "addr:city": "\u017barki",
+                "addr:street": "ul. Sosnowa",
+                "addr:housenumber": "2",
+                "addr:teryt:simc": 20598,
+                "addr:teryt:sym_ul": 932643,
+                "contact:phone": "+48 343148099",
+                "contact:email": "s-zarki@zdz.katowice.pl",
+                "contact:website": "http:\/\/www.zarki.zdz.katowice.pl",
+                "ref:regon": "243058505",
+                "operator": "Zak\u0142ad Doskonalenia Zawodowego W Katowicach",
+                "operator:type": "ngo",
+                "amenity": "school",
+                "note": "Parent RSPO: 115498"
+            }
+        },
+        {
+            "id": 9747,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.31805,
+                    50.65355
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 9747,
+                "official_name": "Szko\u0142a Podstawowa im. Integracji Europejskiej w Przybynowie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "42-310",
+                "addr:city": "Przybyn\u00f3w",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "2",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 147571,
+                "contact:phone": "+48 343148063",
+                "contact:email": "podstawowa5@gazeta.pl",
+                "ref:regon": "001199676",
+                "ref:vatin": "PL5771785421",
+                "operator": "Gmina \u017barki",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 9748,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.3759442,
+                    50.6557245
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 9748,
+                "official_name": "Szko\u0142a Podstawowa im. 11 Listopada w Zawadzie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "42-310",
+                "addr:place": "Zawada",
+                "addr:housenumber": "56",
+                "addr:teryt:sym_ul": 147720,
+                "contact:phone": "+48 343148044",
+                "contact:email": "szkolazawada@wp.pl",
+                "ref:regon": "001199660",
+                "ref:vatin": "PL5771785504",
+                "operator": "Gmina \u017barki",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

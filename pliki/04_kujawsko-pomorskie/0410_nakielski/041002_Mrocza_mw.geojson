@@ -1,1 +1,186 @@
-{"type":"FeatureCollection","features":[{"id":30239,"type":"Feature","geometry":{"type":"Point","coordinates":[17.5825749,53.197821]},"properties":{"isced:level":"1;2","ref:rspo":30239,"official_name":"Niepubliczna Szko\u0142a Podstawowa Stowarzyszenia ''Kmkkos\" w Kosowie","name":"Niepubliczna Szko\u0142a Podstawowa Stowarzyszenia ''Kmkkos\" w Kosowie","addr:country":"PL","addr:postcode":"89-115","addr:place":"Kosowo","addr:housenumber":"22","addr:teryt:sym_ul":92137,"contact:phone":"+48 523856197","contact:email":"nspkosowo@wp.pl","contact:website":"http:\/\/www.kosowo.internetdsl.pl\/historia.htm","ref:regon":"341341116","ref:vatin":"PL5581717416","operator":"Stowarzyszenie Na Rzecz Rozwoju I Integracji \u015arodowiska Wiejskiego So\u0142ectwa Kosowo \"Kmk Kos\"","operator:type":"ngo","amenity":"school"}},{"id":29261,"type":"Feature","geometry":{"type":"Point","coordinates":[17.4820703,53.2397711]},"properties":{"isced:level":"1;2","ref:rspo":29261,"official_name":"Szko\u0142a Podstawowa im. Adama Mickiewicza w Witos\u0142awiu","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"89-114","addr:place":"Witos\u0142aw","addr:housenumber":"9","addr:teryt:sym_ul":92290,"contact:phone":"+48 523868710","contact:email":"sekretariat@sp-witoslaw.pl","contact:website":"http:\/\/spwitoslaw.q4.pl","ref:regon":"001155992","ref:vatin":"PL5581633518","operator":"Gmina Mrocza","operator:type":"government","amenity":"school"}},{"id":125591,"type":"Feature","geometry":{"type":"Point","coordinates":[17.60743,53.24026]},"properties":{"ref:rspo":125591,"official_name":"Przedszkole Niepubliczne \"Mini Akademia\" Barbara Szurik","name":"Przedszkole Niepubliczne \"Mini Akademia\" Barbara Szurik","addr:country":"PL","addr:postcode":"89-115","addr:city":"Mrocza","addr:street":"ul. Post\u0119pu","addr:housenumber":"1","addr:teryt:simc":17248,"addr:teryt:sym_ul":929440,"contact:email":"miniakademiamrocza@wp.pl","contact:website":"http:\/\/przedszkole-mrocza.pl","ref:regon":"341633400","operator":"Barbara Szurik","operator:type":"private","amenity":"kindergarten"}},{"id":29534,"type":"Feature","geometry":{"type":"Point","coordinates":[17.60535,53.24051]},"properties":{"isced:level":"1;2","ref:rspo":29534,"official_name":"Szko\u0142a Podstawowa im. Wojska Polskiego w Mroczy","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"89-115","addr:city":"Mrocza","addr:street":"ul. marsz. J\u00f3zefa Pi\u0142sudskiego","addr:housenumber":"4","addr:teryt:simc":16274,"addr:teryt:sym_ul":929440,"contact:phone":"+48 523858740","contact:email":"sekretariat@sp-mrocza.pl","contact:website":"http:\/\/www.sp-mrocza.pl","ref:regon":"000263538","ref:vatin":"PL5581633429","operator":"Gmina Mrocza","operator:type":"government","amenity":"school"}},{"id":130499,"type":"Feature","geometry":{"type":"Point","coordinates":[17.60535,53.24048]},"properties":{"isced:level":"3","ref:rspo":130499,"official_name":"Technikum Bydgoskiego Zak\u0142adu Doskonalenia Zawodowego w Mroczy","name":"Technikum Bydgoskiego Zak\u0142adu Doskonalenia Zawodowego w Mroczy","addr:country":"PL","addr:postcode":"89-115","addr:city":"Mrocza","addr:street":"ul. marsz. J\u00f3zefa Pi\u0142sudskiego","addr:housenumber":"4","addr:teryt:simc":16274,"addr:teryt:sym_ul":929440,"contact:phone":"+48 523858740","contact:email":"technikum.mrocza@bzdz.pl","ref:regon":"364104341","operator":"Bydgoski Zak\u0142ad Doskonalenia Zawodowego Stowarzyszenie O\u015bwiatowo-Techniczne","operator:type":"ngo","amenity":"school"}},{"id":105423,"type":"Feature","geometry":{"type":"Point","coordinates":[17.60065,53.24359]},"properties":{"ref:rspo":105423,"official_name":"Przedszkole Miejskie w Mroczy","name":"Przedszkole Miejskie w Mroczy","addr:country":"PL","addr:postcode":"89-115","addr:city":"Mrocza","addr:street":"ul. \u0141ob\u017cenicka","addr:housenumber":"11C","addr:teryt:simc":11636,"addr:teryt:sym_ul":929440,"contact:phone":"+48 523856056","contact:email":"przedszkolemiejskiemrocza@wp.pl","ref:regon":"000263283","ref:vatin":"PL5581668304","operator":"Gmina Mrocza","operator:type":"government","amenity":"kindergarten"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 30239,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.5825749,
+                    53.197821
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 30239,
+                "official_name": "Niepubliczna Szko\u0142a Podstawowa Stowarzyszenia ''Kmkkos\" w Kosowie",
+                "name": "Niepubliczna Szko\u0142a Podstawowa Stowarzyszenia ''Kmkkos\" w Kosowie",
+                "addr:country": "PL",
+                "addr:postcode": "89-115",
+                "addr:place": "Kosowo",
+                "addr:housenumber": "22",
+                "addr:teryt:sym_ul": 92137,
+                "contact:phone": "+48 523856197",
+                "contact:email": "nspkosowo@wp.pl",
+                "contact:website": "http:\/\/www.kosowo.internetdsl.pl\/historia.htm",
+                "ref:regon": "341341116",
+                "ref:vatin": "PL5581717416",
+                "operator": "Stowarzyszenie Na Rzecz Rozwoju I Integracji \u015arodowiska Wiejskiego So\u0142ectwa Kosowo \"Kmk Kos\"",
+                "operator:type": "ngo",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 29261,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.4820703,
+                    53.2397711
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 29261,
+                "official_name": "Szko\u0142a Podstawowa im. Adama Mickiewicza w Witos\u0142awiu",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "89-114",
+                "addr:place": "Witos\u0142aw",
+                "addr:housenumber": "9",
+                "addr:teryt:sym_ul": 92290,
+                "contact:phone": "+48 523868710",
+                "contact:email": "sekretariat@sp-witoslaw.pl",
+                "contact:website": "http:\/\/spwitoslaw.q4.pl",
+                "ref:regon": "001155992",
+                "ref:vatin": "PL5581633518",
+                "operator": "Gmina Mrocza",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 125591,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.60743,
+                    53.24026
+                ]
+            },
+            "properties": {
+                "ref:rspo": 125591,
+                "official_name": "Przedszkole Niepubliczne \"Mini Akademia\" Barbara Szurik",
+                "name": "Przedszkole Niepubliczne \"Mini Akademia\" Barbara Szurik",
+                "addr:country": "PL",
+                "addr:postcode": "89-115",
+                "addr:city": "Mrocza",
+                "addr:street": "ul. Post\u0119pu",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 17248,
+                "addr:teryt:sym_ul": 929440,
+                "contact:email": "miniakademiamrocza@wp.pl",
+                "contact:website": "http:\/\/przedszkole-mrocza.pl",
+                "ref:regon": "341633400",
+                "operator": "Barbara Szurik",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 29534,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.60535,
+                    53.24051
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 29534,
+                "official_name": "Szko\u0142a Podstawowa im. Wojska Polskiego w Mroczy",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "89-115",
+                "addr:city": "Mrocza",
+                "addr:street": "ul. marsz. J\u00f3zefa Pi\u0142sudskiego",
+                "addr:housenumber": "4",
+                "addr:teryt:simc": 16274,
+                "addr:teryt:sym_ul": 929440,
+                "contact:phone": "+48 523858740",
+                "contact:email": "sekretariat@sp-mrocza.pl",
+                "contact:website": "http:\/\/www.sp-mrocza.pl",
+                "ref:regon": "000263538",
+                "ref:vatin": "PL5581633429",
+                "operator": "Gmina Mrocza",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 130499,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.60535,
+                    53.24048
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 130499,
+                "official_name": "Technikum Bydgoskiego Zak\u0142adu Doskonalenia Zawodowego w Mroczy",
+                "name": "Technikum Bydgoskiego Zak\u0142adu Doskonalenia Zawodowego w Mroczy",
+                "addr:country": "PL",
+                "addr:postcode": "89-115",
+                "addr:city": "Mrocza",
+                "addr:street": "ul. marsz. J\u00f3zefa Pi\u0142sudskiego",
+                "addr:housenumber": "4",
+                "addr:teryt:simc": 16274,
+                "addr:teryt:sym_ul": 929440,
+                "contact:phone": "+48 523858740",
+                "contact:email": "technikum.mrocza@bzdz.pl",
+                "ref:regon": "364104341",
+                "operator": "Bydgoski Zak\u0142ad Doskonalenia Zawodowego Stowarzyszenie O\u015bwiatowo-Techniczne",
+                "operator:type": "ngo",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 105423,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.60065,
+                    53.24359
+                ]
+            },
+            "properties": {
+                "ref:rspo": 105423,
+                "official_name": "Przedszkole Miejskie w Mroczy",
+                "name": "Przedszkole Miejskie w Mroczy",
+                "addr:country": "PL",
+                "addr:postcode": "89-115",
+                "addr:city": "Mrocza",
+                "addr:street": "ul. \u0141ob\u017cenicka",
+                "addr:housenumber": "11C",
+                "addr:teryt:simc": 11636,
+                "addr:teryt:sym_ul": 929440,
+                "contact:phone": "+48 523856056",
+                "contact:email": "przedszkolemiejskiemrocza@wp.pl",
+                "ref:regon": "000263283",
+                "ref:vatin": "PL5581668304",
+                "operator": "Gmina Mrocza",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        }
+    ]
+}

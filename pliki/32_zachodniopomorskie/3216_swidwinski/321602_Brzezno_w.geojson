@@ -1,1 +1,181 @@
-{"type":"FeatureCollection","features":[{"id":17556,"type":"Feature","geometry":{"type":"Point","coordinates":[15.81825,53.700154]},"properties":{"ref:rspo":17556,"official_name":"M\u0142odzie\u017cowy O\u015brodek Wychowawczy im. Jana Paw\u0142a Ii","name":"M\u0142odzie\u017cowy O\u015brodek Wychowawczy","addr:country":"PL","addr:postcode":"78-316","addr:place":"Rzepczyno","addr:housenumber":"34","addr:teryt:sym_ul":304651,"contact:phone":"+48 943642316","contact:email":"mow@mow-rzepczyno.pl","contact:website":"http:\/\/www.mow-rzepczyno.pl","ref:regon":"321278072","ref:vatin":"PL7641176156","operator":"Towarzystwo Salezja\u0144skie Inspektoria P.w. \u015aw. Wojciecha","operator:type":"religious","fixme":"amenity=social facility + social_facility=group_home + social_facility:for=juvenile","note":"Children RSPO: 262449;271385"}},{"id":262449,"type":"Feature","geometry":{"type":"Point","coordinates":[15.81825,53.700123999999995]},"properties":{"isced:level":"1;2","ref:rspo":262449,"official_name":"Niepubliczna Salezja\u0144ska Szko\u0142a Podstawowa im. Jana Paw\u0142a II w Rzepczynie","name":"Niepubliczna Salezja\u0144ska Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"78-316","addr:place":"Rzepczyno","addr:housenumber":"34","addr:teryt:sym_ul":304651,"contact:phone":"+48 943642316","contact:email":"mow@mow-rzepczyno.pl","contact:website":"http:\/\/www.mow-rzepczyno.pl","ref:regon":"368016852","operator":"Towarzystwo Salezja\u0144skie Inspektoria P.w. \u015aw. Wojciecha","operator:type":"religious","amenity":"school","note":"Parent RSPO: 17556"}},{"id":271385,"type":"Feature","geometry":{"type":"Point","coordinates":[15.81825,53.700094]},"properties":{"isced:level":"3","ref:rspo":271385,"official_name":"Salezja\u0144ska Szko\u0142a Bran\u017cowa I Stopnia im. Jana Paw\u0142a Ii","name":"Salezja\u0144ska Szko\u0142a Bran\u017cowa I Stopnia","addr:country":"PL","addr:postcode":"78-316","addr:place":"Rzepczyno","addr:housenumber":"34","addr:teryt:sym_ul":304651,"contact:phone":"+48 943642316","contact:email":"mow@mow-rzepczyno.pl","contact:website":"http:\/\/www.mow-rzepczyno.pl","ref:regon":"383311921","operator":"Towarzystwo Salezja\u0144skie Inspektoria P.w. \u015aw. Wojciecha","operator:type":"religious","amenity":"school","note":"Parent RSPO: 17556"}},{"id":79268,"type":"Feature","geometry":{"type":"Point","coordinates":[15.790941,53.702059]},"properties":{"ref:rspo":79268,"official_name":"Przedszkole Towarzystwa Przyjaci\u00f3\u0142 Dzieci \"Rumcajs\" w Brze\u017cnie","name":"Przedszkole Towarzystwa Przyjaci\u00f3\u0142 Dzieci \"Rumcajs\" w Brze\u017cnie","addr:country":"PL","addr:postcode":"78-316","addr:place":"Brze\u017cno","addr:housenumber":"15","addr:teryt:sym_ul":304527,"contact:phone":"+48 943425627","contact:email":"koszalin@tpd24.pl","contact:website":"http:\/\/www.tpd24.pl","ref:regon":"321298815","operator":"Towarzystwo Przyjaci\u00f3\u0142 Dzieci Oddzia\u0142 Okr\u0119gowy W Koszalinie","operator:type":"ngo","amenity":"kindergarten"}},{"id":90200,"type":"Feature","geometry":{"type":"Point","coordinates":[15.790941,53.702028999999996]},"properties":{"isced:level":"1;2","ref:rspo":90200,"official_name":"Publiczna Szko\u0142a Podstawowa w Brze\u017cnie","name":"Publiczna Szko\u0142a Podstawowa w Brze\u017cnie","addr:country":"PL","addr:postcode":"78-316","addr:place":"Brze\u017cno","addr:housenumber":"15","addr:teryt:sym_ul":304527,"contact:phone":"+48 943642580","contact:email":"sekretariat@psp.brzezno.pl","contact:website":"http:\/\/www.pspbrzezno.edupage.org","ref:regon":"331038390","ref:vatin":"PL6721754904","operator":"Gmina Brze\u017cno","operator:type":"government","amenity":"school"}},{"id":79334,"type":"Feature","geometry":{"type":"Point","coordinates":[15.715695,53.712085]},"properties":{"ref:rspo":79334,"official_name":"Punkt Przedszkolny Towarzystwa Przyjaci\u00f3\u0142 Dzieci Oddzia\u0142 w Koszaninie","name":"Punkt Przedszkolny Towarzystwa Przyjaci\u00f3\u0142 Dzieci Oddzia\u0142 w Koszaninie","addr:country":"PL","addr:postcode":"78-316","addr:place":"S\u0142onowice","addr:housenumber":"35","addr:teryt:sym_ul":304697,"contact:phone":"+48 943425627","contact:email":"tpd@zeto.koszalin.pl","contact:website":"http:\/\/www.tpd24.pl","ref:regon":"321298821","operator":"Towarzystwo Przyjaci\u00f3\u0142 Dzieci Oddzia\u0142 Okr\u0119gowy W Koszalinie","operator:type":"ngo","amenity":"kindergarten"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 17556,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.81825,
+                    53.700154
+                ]
+            },
+            "properties": {
+                "ref:rspo": 17556,
+                "official_name": "M\u0142odzie\u017cowy O\u015brodek Wychowawczy im. Jana Paw\u0142a Ii",
+                "name": "M\u0142odzie\u017cowy O\u015brodek Wychowawczy",
+                "addr:country": "PL",
+                "addr:postcode": "78-316",
+                "addr:place": "Rzepczyno",
+                "addr:housenumber": "34",
+                "addr:teryt:sym_ul": 304651,
+                "contact:phone": "+48 943642316",
+                "contact:email": "mow@mow-rzepczyno.pl",
+                "contact:website": "http:\/\/www.mow-rzepczyno.pl",
+                "ref:regon": "321278072",
+                "ref:vatin": "PL7641176156",
+                "operator": "Towarzystwo Salezja\u0144skie Inspektoria P.w. \u015aw. Wojciecha",
+                "operator:type": "religious",
+                "fixme": "amenity=social_facility + social_facility=group_home + social_facility:for=juvenile",
+                "note": "Children RSPO: 262449;271385"
+            }
+        },
+        {
+            "id": 262449,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.81825,
+                    53.700123999999995
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 262449,
+                "official_name": "Niepubliczna Salezja\u0144ska Szko\u0142a Podstawowa im. Jana Paw\u0142a II w Rzepczynie",
+                "name": "Niepubliczna Salezja\u0144ska Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "78-316",
+                "addr:place": "Rzepczyno",
+                "addr:housenumber": "34",
+                "addr:teryt:sym_ul": 304651,
+                "contact:phone": "+48 943642316",
+                "contact:email": "mow@mow-rzepczyno.pl",
+                "contact:website": "http:\/\/www.mow-rzepczyno.pl",
+                "ref:regon": "368016852",
+                "operator": "Towarzystwo Salezja\u0144skie Inspektoria P.w. \u015aw. Wojciecha",
+                "operator:type": "religious",
+                "amenity": "school",
+                "note": "Parent RSPO: 17556"
+            }
+        },
+        {
+            "id": 271385,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.81825,
+                    53.700094
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 271385,
+                "official_name": "Salezja\u0144ska Szko\u0142a Bran\u017cowa I Stopnia im. Jana Paw\u0142a Ii",
+                "name": "Salezja\u0144ska Szko\u0142a Bran\u017cowa I Stopnia",
+                "addr:country": "PL",
+                "addr:postcode": "78-316",
+                "addr:place": "Rzepczyno",
+                "addr:housenumber": "34",
+                "addr:teryt:sym_ul": 304651,
+                "contact:phone": "+48 943642316",
+                "contact:email": "mow@mow-rzepczyno.pl",
+                "contact:website": "http:\/\/www.mow-rzepczyno.pl",
+                "ref:regon": "383311921",
+                "operator": "Towarzystwo Salezja\u0144skie Inspektoria P.w. \u015aw. Wojciecha",
+                "operator:type": "religious",
+                "amenity": "school",
+                "note": "Parent RSPO: 17556"
+            }
+        },
+        {
+            "id": 79268,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.790941,
+                    53.702059
+                ]
+            },
+            "properties": {
+                "ref:rspo": 79268,
+                "official_name": "Przedszkole Towarzystwa Przyjaci\u00f3\u0142 Dzieci \"Rumcajs\" w Brze\u017cnie",
+                "name": "Przedszkole Towarzystwa Przyjaci\u00f3\u0142 Dzieci \"Rumcajs\" w Brze\u017cnie",
+                "addr:country": "PL",
+                "addr:postcode": "78-316",
+                "addr:place": "Brze\u017cno",
+                "addr:housenumber": "15",
+                "addr:teryt:sym_ul": 304527,
+                "contact:phone": "+48 943425627",
+                "contact:email": "koszalin@tpd24.pl",
+                "contact:website": "http:\/\/www.tpd24.pl",
+                "ref:regon": "321298815",
+                "operator": "Towarzystwo Przyjaci\u00f3\u0142 Dzieci Oddzia\u0142 Okr\u0119gowy W Koszalinie",
+                "operator:type": "ngo",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 90200,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.790941,
+                    53.702028999999996
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 90200,
+                "official_name": "Publiczna Szko\u0142a Podstawowa w Brze\u017cnie",
+                "name": "Publiczna Szko\u0142a Podstawowa w Brze\u017cnie",
+                "addr:country": "PL",
+                "addr:postcode": "78-316",
+                "addr:place": "Brze\u017cno",
+                "addr:housenumber": "15",
+                "addr:teryt:sym_ul": 304527,
+                "contact:phone": "+48 943642580",
+                "contact:email": "sekretariat@psp.brzezno.pl",
+                "contact:website": "http:\/\/www.pspbrzezno.edupage.org",
+                "ref:regon": "331038390",
+                "ref:vatin": "PL6721754904",
+                "operator": "Gmina Brze\u017cno",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 79334,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.715695,
+                    53.712085
+                ]
+            },
+            "properties": {
+                "ref:rspo": 79334,
+                "official_name": "Punkt Przedszkolny Towarzystwa Przyjaci\u00f3\u0142 Dzieci Oddzia\u0142 w Koszaninie",
+                "name": "Punkt Przedszkolny Towarzystwa Przyjaci\u00f3\u0142 Dzieci Oddzia\u0142 w Koszaninie",
+                "addr:country": "PL",
+                "addr:postcode": "78-316",
+                "addr:place": "S\u0142onowice",
+                "addr:housenumber": "35",
+                "addr:teryt:sym_ul": 304697,
+                "contact:phone": "+48 943425627",
+                "contact:email": "tpd@zeto.koszalin.pl",
+                "contact:website": "http:\/\/www.tpd24.pl",
+                "ref:regon": "321298821",
+                "operator": "Towarzystwo Przyjaci\u00f3\u0142 Dzieci Oddzia\u0142 Okr\u0119gowy W Koszalinie",
+                "operator:type": "ngo",
+                "amenity": "kindergarten"
+            }
+        }
+    ]
+}

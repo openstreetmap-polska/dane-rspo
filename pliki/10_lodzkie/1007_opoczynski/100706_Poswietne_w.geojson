@@ -1,1 +1,184 @@
-{"type":"FeatureCollection","features":[{"id":272495,"type":"Feature","geometry":{"type":"Point","coordinates":[20.2746299,51.47043]},"properties":{"isced:level":"1;2","ref:rspo":272495,"official_name":"Szko\u0142a Podstawowa w D\u0119bie","name":"Szko\u0142a Podstawowa w D\u0119bie","addr:country":"PL","addr:postcode":"26-315","addr:place":"D\u0119ba","addr:housenumber":"80","addr:teryt:sym_ul":548353,"contact:phone":"+48 447567011","contact:email":"spdeba@op.pl","ref:regon":"384261361","operator":"Gmina Po\u015bwi\u0119tne","operator:type":"government","amenity":"school"}},{"id":277743,"type":"Feature","geometry":{"type":"Point","coordinates":[20.36569,51.53523]},"properties":{"ref:rspo":277743,"official_name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w Po\u015bwi\u0119tnem","name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w Po\u015bwi\u0119tnem","addr:country":"PL","addr:postcode":"26-315","addr:city":"Po\u015bwi\u0119tne","addr:street":"ul. Szkolna","addr:housenumber":"2a","addr:teryt:simc":21970,"addr:teryt:sym_ul":548519,"contact:phone":"+48 447547012","contact:email":"zssp@wp.pl","contact:website":"http:\/\/zssposwietne.szkolnastrona.pl\/","ref:regon":"389413769","operator":"Gmina Po\u015bwi\u0119tne","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 85935;131585;278153"}},{"id":85935,"type":"Feature","geometry":{"type":"Point","coordinates":[20.36569,51.535199999999996]},"properties":{"isced:level":"1;2","ref:rspo":85935,"official_name":"Szko\u0142a Podstawowa im.jana III Sobieskiego w Po\u015bwi\u0119tnem","name":"Szko\u0142a Podstawowa im.jana III Sobieskiego w Po\u015bwi\u0119tnem","addr:country":"PL","addr:postcode":"26-315","addr:city":"Po\u015bwi\u0119tne","addr:street":"ul. Szkolna","addr:housenumber":"2A","addr:teryt:simc":21970,"addr:teryt:sym_ul":548519,"contact:phone":"+48 447547012","contact:email":"zssp@wp.pl","ref:regon":"000756376","ref:vatin":"PL7681776282","operator":"Gmina Po\u015bwi\u0119tne","operator:type":"government","amenity":"school","note":"Parent RSPO: 277743"}},{"id":133282,"type":"Feature","geometry":{"type":"Point","coordinates":[20.36339,51.53721]},"properties":{"ref:rspo":133282,"official_name":"Przedszkole Niepubliczne \"Akademia Malucha\"","name":"Przedszkole Niepubliczne \"Akademia Malucha\"","addr:country":"PL","addr:postcode":"26-315","addr:city":"Po\u015bwi\u0119tne","addr:street":"ul. Szkolna","addr:housenumber":"5","addr:teryt:simc":21970,"addr:teryt:sym_ul":548519,"contact:phone":"+48 605404066","contact:email":"jczerska1@wp.pl","ref:regon":"366918533","ref:vatin":"PL7981072220","operator":"Jadwiga Czerska","operator:type":"private","amenity":"kindergarten"}},{"id":131585,"type":"Feature","geometry":{"type":"Point","coordinates":[20.41782,51.54377]},"properties":{"ref:rspo":131585,"official_name":"Samorz\u0105dowe Przedszkole w Brudzewicach","name":"Samorz\u0105dowe Przedszkole w Brudzewicach","addr:country":"PL","addr:postcode":"26-315","addr:place":"Brudzewice-Kolonia","addr:housenumber":"59","addr:teryt:sym_ul":548264,"contact:phone":"+48 447547014","ref:regon":"365230177","ref:vatin":"PL7681838215","operator":"Gmina Po\u015bwi\u0119tne","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 277743"}},{"id":278153,"type":"Feature","geometry":{"type":"Point","coordinates":[20.41782,51.54374]},"properties":{"isced:level":"1;2","ref:rspo":278153,"official_name":"Szko\u0142a Podstawowa im. Jana III Sobieskiego w Po\u015bwi\u0119tnem Ul. Szkolna 2A Z Filia w Brudzewicach","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"26-315","addr:place":"Brudzewice-Kolonia","addr:housenumber":"59","addr:teryt:sym_ul":548264,"contact:phone":"+48 447547014","contact:email":"spbrudzewice@op.pl","ref:regon":"389849716","operator":"Gmina Po\u015bwi\u0119tne","operator:type":"government","amenity":"school","note":"Parent RSPO: 277743"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 272495,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.2746299,
+                    51.47043
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 272495,
+                "official_name": "Szko\u0142a Podstawowa w D\u0119bie",
+                "name": "Szko\u0142a Podstawowa w D\u0119bie",
+                "addr:country": "PL",
+                "addr:postcode": "26-315",
+                "addr:place": "D\u0119ba",
+                "addr:housenumber": "80",
+                "addr:teryt:sym_ul": 548353,
+                "contact:phone": "+48 447567011",
+                "contact:email": "spdeba@op.pl",
+                "ref:regon": "384261361",
+                "operator": "Gmina Po\u015bwi\u0119tne",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 277743,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.36569,
+                    51.53523
+                ]
+            },
+            "properties": {
+                "ref:rspo": 277743,
+                "official_name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w Po\u015bwi\u0119tnem",
+                "name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w Po\u015bwi\u0119tnem",
+                "addr:country": "PL",
+                "addr:postcode": "26-315",
+                "addr:city": "Po\u015bwi\u0119tne",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "2a",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 548519,
+                "contact:phone": "+48 447547012",
+                "contact:email": "zssp@wp.pl",
+                "contact:website": "http:\/\/zssposwietne.szkolnastrona.pl\/",
+                "ref:regon": "389413769",
+                "operator": "Gmina Po\u015bwi\u0119tne",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 85935;131585;278153"
+            }
+        },
+        {
+            "id": 85935,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.36569,
+                    51.535199999999996
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 85935,
+                "official_name": "Szko\u0142a Podstawowa im.jana III Sobieskiego w Po\u015bwi\u0119tnem",
+                "name": "Szko\u0142a Podstawowa im.jana III Sobieskiego w Po\u015bwi\u0119tnem",
+                "addr:country": "PL",
+                "addr:postcode": "26-315",
+                "addr:city": "Po\u015bwi\u0119tne",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "2A",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 548519,
+                "contact:phone": "+48 447547012",
+                "contact:email": "zssp@wp.pl",
+                "ref:regon": "000756376",
+                "ref:vatin": "PL7681776282",
+                "operator": "Gmina Po\u015bwi\u0119tne",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 277743"
+            }
+        },
+        {
+            "id": 133282,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.36339,
+                    51.53721
+                ]
+            },
+            "properties": {
+                "ref:rspo": 133282,
+                "official_name": "Przedszkole Niepubliczne \"Akademia Malucha\"",
+                "name": "Przedszkole Niepubliczne \"Akademia Malucha\"",
+                "addr:country": "PL",
+                "addr:postcode": "26-315",
+                "addr:city": "Po\u015bwi\u0119tne",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "5",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 548519,
+                "contact:phone": "+48 605404066",
+                "contact:email": "jczerska1@wp.pl",
+                "ref:regon": "366918533",
+                "ref:vatin": "PL7981072220",
+                "operator": "Jadwiga Czerska",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 131585,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.41782,
+                    51.54377
+                ]
+            },
+            "properties": {
+                "ref:rspo": 131585,
+                "official_name": "Samorz\u0105dowe Przedszkole w Brudzewicach",
+                "name": "Samorz\u0105dowe Przedszkole w Brudzewicach",
+                "addr:country": "PL",
+                "addr:postcode": "26-315",
+                "addr:place": "Brudzewice-Kolonia",
+                "addr:housenumber": "59",
+                "addr:teryt:sym_ul": 548264,
+                "contact:phone": "+48 447547014",
+                "ref:regon": "365230177",
+                "ref:vatin": "PL7681838215",
+                "operator": "Gmina Po\u015bwi\u0119tne",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 277743"
+            }
+        },
+        {
+            "id": 278153,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.41782,
+                    51.54374
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 278153,
+                "official_name": "Szko\u0142a Podstawowa im. Jana III Sobieskiego w Po\u015bwi\u0119tnem Ul. Szkolna 2A Z Filia w Brudzewicach",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "26-315",
+                "addr:place": "Brudzewice-Kolonia",
+                "addr:housenumber": "59",
+                "addr:teryt:sym_ul": 548264,
+                "contact:phone": "+48 447547014",
+                "contact:email": "spbrudzewice@op.pl",
+                "ref:regon": "389849716",
+                "operator": "Gmina Po\u015bwi\u0119tne",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 277743"
+            }
+        }
+    ]
+}

@@ -1,1 +1,188 @@
-{"type":"FeatureCollection","features":[{"id":104929,"type":"Feature","geometry":{"type":"Point","coordinates":[21.01024,54.06082]},"properties":{"ref:rspo":104929,"official_name":"Punkt Przedszkolny Przy Szkole Podstawowej im.marii Konopnickiej w S\u0105topach","name":"Punkt Przedszkolny Przy Szkole Podstawowej im.marii Konopnickiej w S\u0105topach","addr:country":"PL","addr:postcode":"11-230","addr:place":"S\u0105topy","addr:housenumber":"48a","addr:teryt:sym_ul":472182,"contact:email":"spsatopy@poczta.onet.pl","contact:website":"http:\/\/spsatopy.edupage.org","ref:regon":"281457776","ref:vatin":"PL7431747813","operator":"Gmina Bisztynek","operator:type":"government","amenity":"kindergarten"}},{"id":75504,"type":"Feature","geometry":{"type":"Point","coordinates":[21.0256599,54.06378]},"properties":{"isced:level":"1;2","ref:rspo":75504,"official_name":"Szko\u0142a Postawowa im.marii Konopnickiej w S\u0105topach","name":"Szko\u0142a Postawowa im.marii Konopnickiej w S\u0105topach","addr:country":"PL","addr:postcode":"11-230","addr:place":"S\u0105topy","addr:housenumber":"1","addr:teryt:sym_ul":472182,"contact:phone":"+48 734199644","contact:email":"spsatopy@poczta.onet.pl","contact:website":"http:\/\/spsatopy.edupage.org","ref:regon":"001124649","ref:vatin":"PL7431747813","operator":"Gmina Bisztynek","operator:type":"government","amenity":"school"}},{"id":272212,"type":"Feature","geometry":{"type":"Point","coordinates":[20.9078,54.08748]},"properties":{"ref:rspo":272212,"official_name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w Bisztynku","name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w Bisztynku","addr:country":"PL","addr:postcode":"11-230","addr:city":"Bisztynek","addr:street":"ul. Kolejowa","addr:housenumber":"5","addr:teryt:simc":8828,"addr:teryt:sym_ul":964608,"contact:phone":"+48 897189052","ref:regon":"384035788","ref:vatin":"PL7432038378","operator":"Gmina Bisztynek","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 75503;75507"}},{"id":75503,"type":"Feature","geometry":{"type":"Point","coordinates":[20.9078,54.08745]},"properties":{"isced:level":"1;2","ref:rspo":75503,"official_name":"Szko\u0142a Podstawowa im. Ziemi Warmi\u0144skiej w Bisztynku","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"11-230","addr:city":"Bisztynek","addr:street":"ul. Kolejowa","addr:housenumber":"5","addr:teryt:simc":8828,"addr:teryt:sym_ul":964608,"contact:phone":"+48 897189052","contact:email":"spbisztynek@wp.pl","contact:website":"http:\/\/spbisztynek.edupage.org","ref:regon":"000263946","ref:vatin":"PL7431747807","operator":"Gmina Bisztynek","operator:type":"government","amenity":"school","note":"Parent RSPO: 272212"}},{"id":75507,"type":"Feature","geometry":{"type":"Point","coordinates":[20.90854,54.08807]},"properties":{"ref:rspo":75507,"official_name":"Przedszkole Samorz\u0105dowe w Bisztynku","name":"Przedszkole Samorz\u0105dowe w Bisztynku","addr:country":"PL","addr:postcode":"11-230","addr:city":"Bisztynek","addr:street":"ul. Kolejowa","addr:housenumber":"7","addr:teryt:simc":8828,"addr:teryt:sym_ul":964608,"contact:phone":"+48 897188158","contact:email":"maryla1201@wp.pl","ref:regon":"510018063","ref:vatin":"PL7431626995","operator":"Gmina Bisztynek","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 272212"}},{"id":75505,"type":"Feature","geometry":{"type":"Point","coordinates":[21.01351,54.12047]},"properties":{"isced:level":"1;2","ref:rspo":75505,"official_name":"Szko\u0142a Podstawowa im.polskiego Towarzystwa Le\u015bnego w Grz\u0119dzie","name":"Szko\u0142a Podstawowa im.polskiego Towarzystwa Le\u015bnego w Grz\u0119dzie","addr:country":"PL","addr:postcode":"11-230","addr:place":"Grz\u0119da","addr:housenumber":"31A","addr:teryt:sym_ul":472012,"contact:phone":"+48 897186012","contact:email":"spgrzeda@wp.pl","contact:website":"http:\/\/spgrzeda.szkolnastrona.pl","ref:regon":"001124626","ref:vatin":"PL7431747799","operator":"Gmina Bisztynek","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 104929,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.01024,
+                    54.06082
+                ]
+            },
+            "properties": {
+                "ref:rspo": 104929,
+                "official_name": "Punkt Przedszkolny Przy Szkole Podstawowej im.marii Konopnickiej w S\u0105topach",
+                "name": "Punkt Przedszkolny Przy Szkole Podstawowej im.marii Konopnickiej w S\u0105topach",
+                "addr:country": "PL",
+                "addr:postcode": "11-230",
+                "addr:place": "S\u0105topy",
+                "addr:housenumber": "48a",
+                "addr:teryt:sym_ul": 472182,
+                "contact:email": "spsatopy@poczta.onet.pl",
+                "contact:website": "http:\/\/spsatopy.edupage.org",
+                "ref:regon": "281457776",
+                "ref:vatin": "PL7431747813",
+                "operator": "Gmina Bisztynek",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 75504,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0256599,
+                    54.06378
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 75504,
+                "official_name": "Szko\u0142a Postawowa im.marii Konopnickiej w S\u0105topach",
+                "name": "Szko\u0142a Postawowa im.marii Konopnickiej w S\u0105topach",
+                "addr:country": "PL",
+                "addr:postcode": "11-230",
+                "addr:place": "S\u0105topy",
+                "addr:housenumber": "1",
+                "addr:teryt:sym_ul": 472182,
+                "contact:phone": "+48 734199644",
+                "contact:email": "spsatopy@poczta.onet.pl",
+                "contact:website": "http:\/\/spsatopy.edupage.org",
+                "ref:regon": "001124649",
+                "ref:vatin": "PL7431747813",
+                "operator": "Gmina Bisztynek",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 272212,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.9078,
+                    54.08748
+                ]
+            },
+            "properties": {
+                "ref:rspo": 272212,
+                "official_name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w Bisztynku",
+                "name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w Bisztynku",
+                "addr:country": "PL",
+                "addr:postcode": "11-230",
+                "addr:city": "Bisztynek",
+                "addr:street": "ul. Kolejowa",
+                "addr:housenumber": "5",
+                "addr:teryt:simc": 8828,
+                "addr:teryt:sym_ul": 964608,
+                "contact:phone": "+48 897189052",
+                "ref:regon": "384035788",
+                "ref:vatin": "PL7432038378",
+                "operator": "Gmina Bisztynek",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 75503;75507"
+            }
+        },
+        {
+            "id": 75503,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.9078,
+                    54.08745
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 75503,
+                "official_name": "Szko\u0142a Podstawowa im. Ziemi Warmi\u0144skiej w Bisztynku",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "11-230",
+                "addr:city": "Bisztynek",
+                "addr:street": "ul. Kolejowa",
+                "addr:housenumber": "5",
+                "addr:teryt:simc": 8828,
+                "addr:teryt:sym_ul": 964608,
+                "contact:phone": "+48 897189052",
+                "contact:email": "spbisztynek@wp.pl",
+                "contact:website": "http:\/\/spbisztynek.edupage.org",
+                "ref:regon": "000263946",
+                "ref:vatin": "PL7431747807",
+                "operator": "Gmina Bisztynek",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 272212"
+            }
+        },
+        {
+            "id": 75507,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.90854,
+                    54.08807
+                ]
+            },
+            "properties": {
+                "ref:rspo": 75507,
+                "official_name": "Przedszkole Samorz\u0105dowe w Bisztynku",
+                "name": "Przedszkole Samorz\u0105dowe w Bisztynku",
+                "addr:country": "PL",
+                "addr:postcode": "11-230",
+                "addr:city": "Bisztynek",
+                "addr:street": "ul. Kolejowa",
+                "addr:housenumber": "7",
+                "addr:teryt:simc": 8828,
+                "addr:teryt:sym_ul": 964608,
+                "contact:phone": "+48 897188158",
+                "contact:email": "maryla1201@wp.pl",
+                "ref:regon": "510018063",
+                "ref:vatin": "PL7431626995",
+                "operator": "Gmina Bisztynek",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 272212"
+            }
+        },
+        {
+            "id": 75505,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.01351,
+                    54.12047
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 75505,
+                "official_name": "Szko\u0142a Podstawowa im.polskiego Towarzystwa Le\u015bnego w Grz\u0119dzie",
+                "name": "Szko\u0142a Podstawowa im.polskiego Towarzystwa Le\u015bnego w Grz\u0119dzie",
+                "addr:country": "PL",
+                "addr:postcode": "11-230",
+                "addr:place": "Grz\u0119da",
+                "addr:housenumber": "31A",
+                "addr:teryt:sym_ul": 472012,
+                "contact:phone": "+48 897186012",
+                "contact:email": "spgrzeda@wp.pl",
+                "contact:website": "http:\/\/spgrzeda.szkolnastrona.pl",
+                "ref:regon": "001124626",
+                "ref:vatin": "PL7431747799",
+                "operator": "Gmina Bisztynek",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

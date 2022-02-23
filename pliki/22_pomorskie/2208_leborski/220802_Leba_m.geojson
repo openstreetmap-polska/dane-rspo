@@ -1,1 +1,125 @@
-{"type":"FeatureCollection","features":[{"id":60903,"type":"Feature","geometry":{"type":"Point","coordinates":[17.56006,54.75312]},"properties":{"ref:rspo":60903,"official_name":"Przedszkole Niepubliczne \"Pinokio\"","name":"Przedszkole Niepubliczne \"Pinokio\"","addr:country":"PL","addr:postcode":"84-360","addr:city":"\u0141eba","addr:street":"ul. Adama Mickiewicza","addr:housenumber":"6","addr:teryt:simc":12740,"addr:teryt:sym_ul":977380,"contact:email":"mariaraudo65@gmail.com","ref:regon":"221769318","ref:vatin":"PL8411283587","operator":"Maria Raudo","operator:type":"private","amenity":"kindergarten"}},{"id":60893,"type":"Feature","geometry":{"type":"Point","coordinates":[17.5595,54.75339]},"properties":{"ref:rspo":60893,"official_name":"Niepubliczne Przedszkole \"Maja\"","name":"Niepubliczne Przedszkole \"Maja\"","addr:country":"PL","addr:postcode":"84-360","addr:city":"\u0141eba","addr:street":"ul. Adama Mickiewicza","addr:housenumber":"5","addr:teryt:simc":12740,"addr:teryt:sym_ul":977380,"contact:email":"lucynahalas@gmail.com","ref:regon":"221769347","ref:vatin":"PL5891003639","operator":"Lucyna Ha\u0142as","operator:type":"private","amenity":"kindergarten"}},{"id":60898,"type":"Feature","geometry":{"type":"Point","coordinates":[17.554907,54.7554734]},"properties":{"ref:rspo":60898,"official_name":"Przedszkole Niepubliczne Ochronka Si\u00f3str S\u0142u\u017cebniczek N.m.p.","name":"Przedszkole Niepubliczne Ochronka Si\u00f3str S\u0142u\u017cebniczek N.m.p.","addr:country":"PL","addr:postcode":"84-360","addr:city":"\u0141eba","addr:street":"ul. Ko\u015bcielna","addr:housenumber":"4","addr:teryt:simc":9546,"addr:teryt:sym_ul":977380,"contact:phone":"+48 598661485","contact:email":"ochronka.leba@gmail.com","ref:regon":"221775023","ref:vatin":"PL5272029121","operator":"Zgromadzenie Si\u00f3str S\u0142u\u017cebniczek Naj\u015bwi\u0119tszej Maryi Panny Niepokalanie Pocz\u0119tej-\u015al\u0105skie","operator:type":"religious","amenity":"kindergarten"}},{"id":56166,"type":"Feature","geometry":{"type":"Point","coordinates":[17.55756,54.76143]},"properties":{"isced:level":"1;2","ref:rspo":56166,"official_name":"Szko\u0142a Podstawowa im. Adama Mickiewicza w \u0141ebie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"84-360","addr:city":"\u0141eba","addr:street":"ul. Tysi\u0105clecia","addr:housenumber":"11","addr:teryt:simc":23270,"addr:teryt:sym_ul":977380,"contact:phone":"+48 598661472","contact:email":"sekretariat.szkola@leba.edu.pl","contact:website":"http:\/\/www.leba.edu.pl","ref:regon":"000258342","ref:vatin":"PL8411347057","operator":"Gmina Miejska \u0141eba","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 60903,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.56006,
+                    54.75312
+                ]
+            },
+            "properties": {
+                "ref:rspo": 60903,
+                "official_name": "Przedszkole Niepubliczne \"Pinokio\"",
+                "name": "Przedszkole Niepubliczne \"Pinokio\"",
+                "addr:country": "PL",
+                "addr:postcode": "84-360",
+                "addr:city": "\u0141eba",
+                "addr:street": "ul. Adama Mickiewicza",
+                "addr:housenumber": "6",
+                "addr:teryt:simc": 12740,
+                "addr:teryt:sym_ul": 977380,
+                "contact:email": "mariaraudo65@gmail.com",
+                "ref:regon": "221769318",
+                "ref:vatin": "PL8411283587",
+                "operator": "Maria Raudo",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 60893,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.5595,
+                    54.75339
+                ]
+            },
+            "properties": {
+                "ref:rspo": 60893,
+                "official_name": "Niepubliczne Przedszkole \"Maja\"",
+                "name": "Niepubliczne Przedszkole \"Maja\"",
+                "addr:country": "PL",
+                "addr:postcode": "84-360",
+                "addr:city": "\u0141eba",
+                "addr:street": "ul. Adama Mickiewicza",
+                "addr:housenumber": "5",
+                "addr:teryt:simc": 12740,
+                "addr:teryt:sym_ul": 977380,
+                "contact:email": "lucynahalas@gmail.com",
+                "ref:regon": "221769347",
+                "ref:vatin": "PL5891003639",
+                "operator": "Lucyna Ha\u0142as",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 60898,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.554907,
+                    54.7554734
+                ]
+            },
+            "properties": {
+                "ref:rspo": 60898,
+                "official_name": "Przedszkole Niepubliczne Ochronka Si\u00f3str S\u0142u\u017cebniczek N.m.p.",
+                "name": "Przedszkole Niepubliczne Ochronka Si\u00f3str S\u0142u\u017cebniczek N.m.p.",
+                "addr:country": "PL",
+                "addr:postcode": "84-360",
+                "addr:city": "\u0141eba",
+                "addr:street": "ul. Ko\u015bcielna",
+                "addr:housenumber": "4",
+                "addr:teryt:simc": 9546,
+                "addr:teryt:sym_ul": 977380,
+                "contact:phone": "+48 598661485",
+                "contact:email": "ochronka.leba@gmail.com",
+                "ref:regon": "221775023",
+                "ref:vatin": "PL5272029121",
+                "operator": "Zgromadzenie Si\u00f3str S\u0142u\u017cebniczek Naj\u015bwi\u0119tszej Maryi Panny Niepokalanie Pocz\u0119tej-\u015al\u0105skie",
+                "operator:type": "religious",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 56166,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.55756,
+                    54.76143
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 56166,
+                "official_name": "Szko\u0142a Podstawowa im. Adama Mickiewicza w \u0141ebie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "84-360",
+                "addr:city": "\u0141eba",
+                "addr:street": "ul. Tysi\u0105clecia",
+                "addr:housenumber": "11",
+                "addr:teryt:simc": 23270,
+                "addr:teryt:sym_ul": 977380,
+                "contact:phone": "+48 598661472",
+                "contact:email": "sekretariat.szkola@leba.edu.pl",
+                "contact:website": "http:\/\/www.leba.edu.pl",
+                "ref:regon": "000258342",
+                "ref:vatin": "PL8411347057",
+                "operator": "Gmina Miejska \u0141eba",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

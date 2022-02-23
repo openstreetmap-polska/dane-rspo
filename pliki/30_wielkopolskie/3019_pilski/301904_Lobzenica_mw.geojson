@@ -1,1 +1,436 @@
-{"type":"FeatureCollection","features":[{"id":263790,"type":"Feature","geometry":{"type":"Point","coordinates":[16.732999801636,53.150001525879]},"properties":{"isced:level":"1;2","ref:rspo":263790,"official_name":"Szko\u0142a Podstawowa Specjalna","name":"Szko\u0142a Podstawowa Specjalna","addr:country":"PL","addr:postcode":"89-310","addr:place":"\u0141ob\u017cenica","addr:housenumber":"14","addr:teryt:sym_ul":966984,"contact:phone":"+48 672860020","contact:email":"mow-lobzenica@wp.pl","contact:website":"http:\/\/www.mow-lobzenica.pl","ref:regon":"368222764","operator":"Powiat Pilski","operator:type":"government","amenity":"school","note":"Parent RSPO: 18678"}},{"id":81148,"type":"Feature","geometry":{"type":"Point","coordinates":[17.36384,53.23305]},"properties":{"isced:level":"1;2","ref:rspo":81148,"official_name":"Szko\u0142a Podstawowa im.prymasa Tysi\u0105clecia Stefana Kardyna\u0142a Wyszy\u0144skiego w Fanianowie","name":"Szko\u0142a Podstawowa im.prymasa Tysi\u0105clecia Stefana Kardyna\u0142a Wyszy\u0144skiego w Fanianowie","addr:country":"PL","addr:postcode":"89-310","addr:place":"Fanianowo","addr:housenumber":"29","addr:teryt:sym_ul":527517,"contact:phone":"+48 672861861","contact:email":"spfanianowo@interia.pl","ref:regon":"001130762","ref:vatin":"PL7642305526","operator":"Gmina \u0141ob\u017cenica","operator:type":"government","amenity":"school"}},{"id":81009,"type":"Feature","geometry":{"type":"Point","coordinates":[17.25291,53.25992]},"properties":{"isced:level":"1;2","ref:rspo":81009,"official_name":"Szko\u0142a Podstawowa im.komisji Edukacji Narodowej w \u0141ob\u017cenicy","name":"Szko\u0142a Podstawowa im.komisji Edukacji Narodowej w \u0141ob\u017cenicy","addr:country":"PL","addr:postcode":"89-310","addr:city":"\u0141ob\u017cenica","addr:street":"ul. Adama Mickiewicza","addr:housenumber":"20a","addr:teryt:simc":12740,"addr:teryt:sym_ul":966984,"contact:phone":"+48 672868092","contact:email":"sekretariat@spl.lobzenica.pl","ref:regon":"000262289","ref:vatin":"PL7642305503","operator":"Gmina \u0141ob\u017cenica","operator:type":"government","amenity":"school"}},{"id":81209,"type":"Feature","geometry":{"type":"Point","coordinates":[17.25299,53.26061]},"properties":{"ref:rspo":81209,"official_name":"Przedszkole Publiczne w \u0141ob\u017cenicy","name":"Przedszkole Publiczne w \u0141ob\u017cenicy","addr:country":"PL","addr:postcode":"89-310","addr:city":"\u0141ob\u017cenica","addr:street":"ul. Batorego","addr:housenumber":"5","addr:teryt:simc":886,"addr:teryt:sym_ul":966984,"contact:phone":"+48 672860372","contact:email":"przedsz.lobzen@wp.pl","ref:regon":"570271370","ref:vatin":"PL7642305578","operator":"Gmina \u0141ob\u017cenica","operator:type":"government","amenity":"kindergarten"}},{"id":272369,"type":"Feature","geometry":{"type":"Point","coordinates":[17.25602,53.26213]},"properties":{"ref:rspo":272369,"official_name":"Zesp\u00f3\u0142 Plac\u00f3wek Wychowawczych","name":"Zesp\u00f3\u0142 Plac\u00f3wek Wychowawczych","addr:country":"PL","addr:postcode":"89-310","addr:city":"\u0141ob\u017cenica","addr:street":"ul. Z\u0142otowska","addr:housenumber":"14","addr:teryt:simc":26213,"addr:teryt:sym_ul":966984,"contact:phone":"+48 672860020","contact:email":"mow-lobzenica@wp.pl","ref:regon":"384151974","operator":"Powiat Pilski","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 18678;273003"}},{"id":105531,"type":"Feature","geometry":{"type":"Point","coordinates":[17.25602,53.2621]},"properties":{"isced:level":"3","ref:rspo":105531,"official_name":"Bran\u017cowa Szko\u0142a I Stopnia Specjalna","name":"Bran\u017cowa Szko\u0142a I Stopnia Specjalna","addr:country":"PL","addr:postcode":"89-310","addr:city":"\u0141ob\u017cenica","addr:street":"ul. Z\u0142otowska","addr:housenumber":"14","addr:teryt:simc":26213,"addr:teryt:sym_ul":966984,"contact:phone":"+48 672860020","ref:regon":"570933049","ref:vatin":"PL7671428415","operator":"Powiat Pilski","operator:type":"government","amenity":"school","note":"Parent RSPO: 18678"}},{"id":18678,"type":"Feature","geometry":{"type":"Point","coordinates":[17.25602,53.26207]},"properties":{"ref:rspo":18678,"official_name":"M\u0142odzie\u017cowy O\u015brodek Wychowawczy w \u0141ob\u017cenicy","name":"M\u0142odzie\u017cowy O\u015brodek Wychowawczy w \u0141ob\u017cenicy","addr:country":"PL","addr:postcode":"89-310","addr:city":"\u0141ob\u017cenica","addr:street":"ul. Z\u0142otowska","addr:housenumber":"14","addr:teryt:simc":26213,"addr:teryt:sym_ul":966984,"contact:phone":"+48 672860020","contact:email":"mow-lobzenica@wp.pl","ref:regon":"000201000","ref:vatin":"PL7671428415","operator":"Powiat Pilski","operator:type":"government","fixme":"amenity=social facility + social_facility=group_home + social_facility:for=juvenile","note":"Children RSPO: 105531;263790Parent RSPO: 272369"}},{"id":123956,"type":"Feature","geometry":{"type":"Point","coordinates":[17.2555,53.26214]},"properties":{"ref:rspo":123956,"official_name":"Niepubliczna Poradnia Psychologiczno - Pedagogiczna w \u0141ob\u017cenicy","name":"Niepubliczna Poradnia Psychologiczno - Pedagogiczna w \u0141ob\u017cenicy","addr:country":"PL","addr:postcode":"89-310","addr:city":"\u0141ob\u017cenica","addr:street":"ul. Z\u0142otowska","addr:housenumber":"11a","addr:teryt:simc":26213,"addr:teryt:sym_ul":966984,"contact:phone":"+48 943070124","ref:regon":"302794466","operator":"\"Ja\u015b I Ma\u0142gosia\" Szko\u0142y I Plac\u00f3wki Terapeutyczne","operator:type":"ngo","healthcare":"councelling","counselling_type":"education","fixme":"w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. healthcare=councelling + counselling_type=education albo healthcare=psychotherapist)"}},{"id":18469,"type":"Feature","geometry":{"type":"Point","coordinates":[17.25547,53.26252]},"properties":{"ref:rspo":18469,"official_name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 w \u0141ob\u017cenicy","name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 w \u0141ob\u017cenicy","addr:country":"PL","addr:postcode":"89-310","addr:city":"\u0141ob\u017cenica","addr:street":"ul. Z\u0142otowska","addr:housenumber":"15","addr:teryt:simc":26213,"addr:teryt:sym_ul":966984,"contact:phone":"+48 672860037","contact:email":"sekretariat@zsplobzenica.eu","contact:website":"http:\/\/www.zsplobzenica.eu","ref:regon":"570867453","ref:vatin":"PL7642215651","operator":"Powiat Pilski","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 105233;127634;130344"}},{"id":105233,"type":"Feature","geometry":{"type":"Point","coordinates":[17.25547,53.26249]},"properties":{"isced:level":"3","ref:rspo":105233,"official_name":"Liceum Og\u00f3lnokszta\u0142c\u0105ce im.tadeusza Ko\u015bciuszki w \u0141ob\u017cenicy","name":"Liceum Og\u00f3lnokszta\u0142c\u0105ce im.tadeusza Ko\u015bciuszki w \u0141ob\u017cenicy","addr:country":"PL","addr:postcode":"89-310","addr:city":"\u0141ob\u017cenica","addr:street":"ul. Z\u0142otowska","addr:housenumber":"15","addr:teryt:simc":26213,"addr:teryt:sym_ul":966984,"contact:phone":"+48 672860037","contact:email":"sekretariat@zsplobzenica.eu","contact:website":"http:\/\/www.zsplobzenica.eu","ref:regon":"000228364","ref:vatin":"PL7642215651","operator":"Powiat Pilski","operator:type":"government","amenity":"school","note":"Parent RSPO: 18469"}},{"id":127634,"type":"Feature","geometry":{"type":"Point","coordinates":[17.25547,53.262460000000004]},"properties":{"isced:level":"1;2","ref:rspo":127634,"official_name":"Szko\u0142a Podstawowa Specjalna","name":"Szko\u0142a Podstawowa Specjalna","addr:country":"PL","addr:postcode":"89-310","addr:city":"\u0141ob\u017cenica","addr:street":"ul. Z\u0142otowska","addr:housenumber":"15","addr:teryt:simc":26213,"addr:teryt:sym_ul":966984,"contact:phone":"+48 672860037","contact:email":"sekretariat@zsplobzenica.eu","contact:website":"http:\/\/zsplobzenica.eu","ref:regon":"361781414","operator":"Powiat Pilski","operator:type":"government","amenity":"school","note":"Parent RSPO: 18469"}},{"id":130344,"type":"Feature","geometry":{"type":"Point","coordinates":[17.25547,53.26243]},"properties":{"isced:level":"3","ref:rspo":130344,"official_name":"Bran\u017cowa Szko\u0142a I Stopnia","name":"Bran\u017cowa Szko\u0142a I Stopnia","addr:country":"PL","addr:postcode":"89-310","addr:city":"\u0141ob\u017cenica","addr:street":"ul. Z\u0142otowska","addr:housenumber":"15","addr:teryt:simc":26213,"addr:teryt:sym_ul":966984,"contact:phone":"+48 672860037","contact:email":"sekretariat@zsplobzenica.eu","contact:website":"http:\/\/www.zsplobzenica.eu\/","ref:regon":"363882645","operator":"Powiat Pilski","operator:type":"government","amenity":"school","note":"Parent RSPO: 18469"}},{"id":81065,"type":"Feature","geometry":{"type":"Point","coordinates":[17.19994,53.26746]},"properties":{"isced:level":"1;2","ref:rspo":81065,"official_name":"Szko\u0142a Podstawowa im.miko\u0142aja Kopernika w Wiktor\u00f3wku","name":"Szko\u0142a Podstawowa im.miko\u0142aja Kopernika w Wiktor\u00f3wku","addr:country":"PL","addr:postcode":"89-310","addr:place":"Wiktor\u00f3wko","addr:housenumber":"65","addr:teryt:sym_ul":527701,"contact:phone":"+48 672869184","contact:email":"sp_wiktor@o2.pl","ref:regon":"001130785","ref:vatin":"PL7642305555","operator":"Gmina \u0141ob\u017cenica","operator:type":"government","amenity":"school"}},{"id":80405,"type":"Feature","geometry":{"type":"Point","coordinates":[17.34842,53.29923]},"properties":{"isced:level":"1;2","ref:rspo":80405,"official_name":"Szko\u0142a Podstawowa im.kawaler\u00f3w Orderu U\u015bmiechu w D\u017awiersznie Ma\u0142ym","name":"Szko\u0142a Podstawowa im.kawaler\u00f3w Orderu U\u015bmiechu w D\u017awiersznie Ma\u0142ym","addr:country":"PL","addr:postcode":"89-310","addr:place":"D\u017awierszno Ma\u0142e","addr:housenumber":"8","addr:teryt:sym_ul":527492,"contact:phone":"+48 672861613","contact:email":"spdzwierszno@wp.pl","ref:regon":"001130740","ref:vatin":"PL7642305495","operator":"Gmina \u0141ob\u017cenica","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 263790,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.732999801636,
+                    53.150001525879
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 263790,
+                "official_name": "Szko\u0142a Podstawowa Specjalna",
+                "name": "Szko\u0142a Podstawowa Specjalna",
+                "addr:country": "PL",
+                "addr:postcode": "89-310",
+                "addr:place": "\u0141ob\u017cenica",
+                "addr:housenumber": "14",
+                "addr:teryt:sym_ul": 966984,
+                "contact:phone": "+48 672860020",
+                "contact:email": "mow-lobzenica@wp.pl",
+                "contact:website": "http:\/\/www.mow-lobzenica.pl",
+                "ref:regon": "368222764",
+                "operator": "Powiat Pilski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 18678"
+            }
+        },
+        {
+            "id": 81148,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.36384,
+                    53.23305
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 81148,
+                "official_name": "Szko\u0142a Podstawowa im.prymasa Tysi\u0105clecia Stefana Kardyna\u0142a Wyszy\u0144skiego w Fanianowie",
+                "name": "Szko\u0142a Podstawowa im.prymasa Tysi\u0105clecia Stefana Kardyna\u0142a Wyszy\u0144skiego w Fanianowie",
+                "addr:country": "PL",
+                "addr:postcode": "89-310",
+                "addr:place": "Fanianowo",
+                "addr:housenumber": "29",
+                "addr:teryt:sym_ul": 527517,
+                "contact:phone": "+48 672861861",
+                "contact:email": "spfanianowo@interia.pl",
+                "ref:regon": "001130762",
+                "ref:vatin": "PL7642305526",
+                "operator": "Gmina \u0141ob\u017cenica",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 81009,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.25291,
+                    53.25992
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 81009,
+                "official_name": "Szko\u0142a Podstawowa im.komisji Edukacji Narodowej w \u0141ob\u017cenicy",
+                "name": "Szko\u0142a Podstawowa im.komisji Edukacji Narodowej w \u0141ob\u017cenicy",
+                "addr:country": "PL",
+                "addr:postcode": "89-310",
+                "addr:city": "\u0141ob\u017cenica",
+                "addr:street": "ul. Adama Mickiewicza",
+                "addr:housenumber": "20a",
+                "addr:teryt:simc": 12740,
+                "addr:teryt:sym_ul": 966984,
+                "contact:phone": "+48 672868092",
+                "contact:email": "sekretariat@spl.lobzenica.pl",
+                "ref:regon": "000262289",
+                "ref:vatin": "PL7642305503",
+                "operator": "Gmina \u0141ob\u017cenica",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 81209,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.25299,
+                    53.26061
+                ]
+            },
+            "properties": {
+                "ref:rspo": 81209,
+                "official_name": "Przedszkole Publiczne w \u0141ob\u017cenicy",
+                "name": "Przedszkole Publiczne w \u0141ob\u017cenicy",
+                "addr:country": "PL",
+                "addr:postcode": "89-310",
+                "addr:city": "\u0141ob\u017cenica",
+                "addr:street": "ul. Batorego",
+                "addr:housenumber": "5",
+                "addr:teryt:simc": 886,
+                "addr:teryt:sym_ul": 966984,
+                "contact:phone": "+48 672860372",
+                "contact:email": "przedsz.lobzen@wp.pl",
+                "ref:regon": "570271370",
+                "ref:vatin": "PL7642305578",
+                "operator": "Gmina \u0141ob\u017cenica",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 272369,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.25602,
+                    53.26213
+                ]
+            },
+            "properties": {
+                "ref:rspo": 272369,
+                "official_name": "Zesp\u00f3\u0142 Plac\u00f3wek Wychowawczych",
+                "name": "Zesp\u00f3\u0142 Plac\u00f3wek Wychowawczych",
+                "addr:country": "PL",
+                "addr:postcode": "89-310",
+                "addr:city": "\u0141ob\u017cenica",
+                "addr:street": "ul. Z\u0142otowska",
+                "addr:housenumber": "14",
+                "addr:teryt:simc": 26213,
+                "addr:teryt:sym_ul": 966984,
+                "contact:phone": "+48 672860020",
+                "contact:email": "mow-lobzenica@wp.pl",
+                "ref:regon": "384151974",
+                "operator": "Powiat Pilski",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 18678;273003"
+            }
+        },
+        {
+            "id": 105531,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.25602,
+                    53.2621
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 105531,
+                "official_name": "Bran\u017cowa Szko\u0142a I Stopnia Specjalna",
+                "name": "Bran\u017cowa Szko\u0142a I Stopnia Specjalna",
+                "addr:country": "PL",
+                "addr:postcode": "89-310",
+                "addr:city": "\u0141ob\u017cenica",
+                "addr:street": "ul. Z\u0142otowska",
+                "addr:housenumber": "14",
+                "addr:teryt:simc": 26213,
+                "addr:teryt:sym_ul": 966984,
+                "contact:phone": "+48 672860020",
+                "ref:regon": "570933049",
+                "ref:vatin": "PL7671428415",
+                "operator": "Powiat Pilski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 18678"
+            }
+        },
+        {
+            "id": 18678,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.25602,
+                    53.26207
+                ]
+            },
+            "properties": {
+                "ref:rspo": 18678,
+                "official_name": "M\u0142odzie\u017cowy O\u015brodek Wychowawczy w \u0141ob\u017cenicy",
+                "name": "M\u0142odzie\u017cowy O\u015brodek Wychowawczy w \u0141ob\u017cenicy",
+                "addr:country": "PL",
+                "addr:postcode": "89-310",
+                "addr:city": "\u0141ob\u017cenica",
+                "addr:street": "ul. Z\u0142otowska",
+                "addr:housenumber": "14",
+                "addr:teryt:simc": 26213,
+                "addr:teryt:sym_ul": 966984,
+                "contact:phone": "+48 672860020",
+                "contact:email": "mow-lobzenica@wp.pl",
+                "ref:regon": "000201000",
+                "ref:vatin": "PL7671428415",
+                "operator": "Powiat Pilski",
+                "operator:type": "government",
+                "fixme": "amenity=social_facility + social_facility=group_home + social_facility:for=juvenile",
+                "note": "Children RSPO: 105531;263790Parent RSPO: 272369"
+            }
+        },
+        {
+            "id": 123956,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.2555,
+                    53.26214
+                ]
+            },
+            "properties": {
+                "ref:rspo": 123956,
+                "official_name": "Niepubliczna Poradnia Psychologiczno - Pedagogiczna w \u0141ob\u017cenicy",
+                "name": "Niepubliczna Poradnia Psychologiczno - Pedagogiczna w \u0141ob\u017cenicy",
+                "addr:country": "PL",
+                "addr:postcode": "89-310",
+                "addr:city": "\u0141ob\u017cenica",
+                "addr:street": "ul. Z\u0142otowska",
+                "addr:housenumber": "11a",
+                "addr:teryt:simc": 26213,
+                "addr:teryt:sym_ul": 966984,
+                "contact:phone": "+48 943070124",
+                "ref:regon": "302794466",
+                "operator": "\"Ja\u015b I Ma\u0142gosia\" Szko\u0142y I Plac\u00f3wki Terapeutyczne",
+                "operator:type": "ngo",
+                "healthcare": "counselling",
+                "counselling_type": "education",
+                "fixme": "w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. healthcare=counselling + counselling_type=education albo healthcare=psychotherapist)"
+            }
+        },
+        {
+            "id": 18469,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.25547,
+                    53.26252
+                ]
+            },
+            "properties": {
+                "ref:rspo": 18469,
+                "official_name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 w \u0141ob\u017cenicy",
+                "name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 w \u0141ob\u017cenicy",
+                "addr:country": "PL",
+                "addr:postcode": "89-310",
+                "addr:city": "\u0141ob\u017cenica",
+                "addr:street": "ul. Z\u0142otowska",
+                "addr:housenumber": "15",
+                "addr:teryt:simc": 26213,
+                "addr:teryt:sym_ul": 966984,
+                "contact:phone": "+48 672860037",
+                "contact:email": "sekretariat@zsplobzenica.eu",
+                "contact:website": "http:\/\/www.zsplobzenica.eu",
+                "ref:regon": "570867453",
+                "ref:vatin": "PL7642215651",
+                "operator": "Powiat Pilski",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 105233;127634;130344"
+            }
+        },
+        {
+            "id": 105233,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.25547,
+                    53.26249
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 105233,
+                "official_name": "Liceum Og\u00f3lnokszta\u0142c\u0105ce im.tadeusza Ko\u015bciuszki w \u0141ob\u017cenicy",
+                "name": "Liceum Og\u00f3lnokszta\u0142c\u0105ce im.tadeusza Ko\u015bciuszki w \u0141ob\u017cenicy",
+                "addr:country": "PL",
+                "addr:postcode": "89-310",
+                "addr:city": "\u0141ob\u017cenica",
+                "addr:street": "ul. Z\u0142otowska",
+                "addr:housenumber": "15",
+                "addr:teryt:simc": 26213,
+                "addr:teryt:sym_ul": 966984,
+                "contact:phone": "+48 672860037",
+                "contact:email": "sekretariat@zsplobzenica.eu",
+                "contact:website": "http:\/\/www.zsplobzenica.eu",
+                "ref:regon": "000228364",
+                "ref:vatin": "PL7642215651",
+                "operator": "Powiat Pilski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 18469"
+            }
+        },
+        {
+            "id": 127634,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.25547,
+                    53.262460000000004
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 127634,
+                "official_name": "Szko\u0142a Podstawowa Specjalna",
+                "name": "Szko\u0142a Podstawowa Specjalna",
+                "addr:country": "PL",
+                "addr:postcode": "89-310",
+                "addr:city": "\u0141ob\u017cenica",
+                "addr:street": "ul. Z\u0142otowska",
+                "addr:housenumber": "15",
+                "addr:teryt:simc": 26213,
+                "addr:teryt:sym_ul": 966984,
+                "contact:phone": "+48 672860037",
+                "contact:email": "sekretariat@zsplobzenica.eu",
+                "contact:website": "http:\/\/zsplobzenica.eu",
+                "ref:regon": "361781414",
+                "operator": "Powiat Pilski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 18469"
+            }
+        },
+        {
+            "id": 130344,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.25547,
+                    53.26243
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 130344,
+                "official_name": "Bran\u017cowa Szko\u0142a I Stopnia",
+                "name": "Bran\u017cowa Szko\u0142a I Stopnia",
+                "addr:country": "PL",
+                "addr:postcode": "89-310",
+                "addr:city": "\u0141ob\u017cenica",
+                "addr:street": "ul. Z\u0142otowska",
+                "addr:housenumber": "15",
+                "addr:teryt:simc": 26213,
+                "addr:teryt:sym_ul": 966984,
+                "contact:phone": "+48 672860037",
+                "contact:email": "sekretariat@zsplobzenica.eu",
+                "contact:website": "http:\/\/www.zsplobzenica.eu\/",
+                "ref:regon": "363882645",
+                "operator": "Powiat Pilski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 18469"
+            }
+        },
+        {
+            "id": 81065,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.19994,
+                    53.26746
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 81065,
+                "official_name": "Szko\u0142a Podstawowa im.miko\u0142aja Kopernika w Wiktor\u00f3wku",
+                "name": "Szko\u0142a Podstawowa im.miko\u0142aja Kopernika w Wiktor\u00f3wku",
+                "addr:country": "PL",
+                "addr:postcode": "89-310",
+                "addr:place": "Wiktor\u00f3wko",
+                "addr:housenumber": "65",
+                "addr:teryt:sym_ul": 527701,
+                "contact:phone": "+48 672869184",
+                "contact:email": "sp_wiktor@o2.pl",
+                "ref:regon": "001130785",
+                "ref:vatin": "PL7642305555",
+                "operator": "Gmina \u0141ob\u017cenica",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 80405,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.34842,
+                    53.29923
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 80405,
+                "official_name": "Szko\u0142a Podstawowa im.kawaler\u00f3w Orderu U\u015bmiechu w D\u017awiersznie Ma\u0142ym",
+                "name": "Szko\u0142a Podstawowa im.kawaler\u00f3w Orderu U\u015bmiechu w D\u017awiersznie Ma\u0142ym",
+                "addr:country": "PL",
+                "addr:postcode": "89-310",
+                "addr:place": "D\u017awierszno Ma\u0142e",
+                "addr:housenumber": "8",
+                "addr:teryt:sym_ul": 527492,
+                "contact:phone": "+48 672861613",
+                "contact:email": "spdzwierszno@wp.pl",
+                "ref:regon": "001130740",
+                "ref:vatin": "PL7642305495",
+                "operator": "Gmina \u0141ob\u017cenica",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

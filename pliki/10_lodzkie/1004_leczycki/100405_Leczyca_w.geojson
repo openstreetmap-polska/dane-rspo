@@ -1,1 +1,182 @@
-{"type":"FeatureCollection","features":[{"id":274390,"type":"Feature","geometry":{"type":"Point","coordinates":[19.20723,52.02936]},"properties":{"ref:rspo":274390,"official_name":"Centrum Masa\u017cu Cia\u0142o & Dusza","name":"Centrum Masa\u017cu Cia\u0142o & Dusza","addr:country":"PL","addr:postcode":"99-100","addr:place":"Lubie\u0144","addr:housenumber":"43C","addr:teryt:sym_ul":570163,"contact:email":"kasja_masaze@onet.pl","ref:regon":"385670512","ref:vatin":"PL5070018580","operator":"Ewelina Byli\u0144ska","operator:type":"private","fixme":"w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. amenity=training + training=*, amenity=dancing_school, amenity=language_school, amenity=music_school)"}},{"id":11106,"type":"Feature","geometry":{"type":"Point","coordinates":[19.1370159,52.0310445]},"properties":{"isced:level":"1;2","ref:rspo":11106,"official_name":"Szko\u0142a Podstawowa w Wilczkowicach","name":"Szko\u0142a Podstawowa w Wilczkowicach","addr:country":"PL","addr:postcode":"99-100","addr:place":"Wilczkowice G\u00f3rne","addr:housenumber":"35","addr:teryt:sym_ul":570401,"contact:phone":"+48 247224486","contact:email":"spwilczkowice@gminaleczyca.pl","contact:website":"http:\/\/www.spwilczkowice.edu.pl\/","ref:regon":"001113539","ref:vatin":"PL7752205926","operator":"Gmina \u0141\u0119czyca","operator:type":"government","amenity":"school"}},{"id":9981,"type":"Feature","geometry":{"type":"Point","coordinates":[19.08674,52.04213]},"properties":{"isced:level":"1;2","ref:rspo":9981,"official_name":"Szko\u0142a Podstawowa w Le\u017anicy Ma\u0142ej","name":"Szko\u0142a Podstawowa w Le\u017anicy Ma\u0142ej","addr:country":"PL","addr:postcode":"99-100","addr:place":"Le\u017anica Ma\u0142a","addr:housenumber":"36","addr:teryt:sym_ul":570097,"contact:phone":"+48 247211860","contact:email":"spleznicamala@gminaleczyca.pl","contact:website":"http:\/\/spleznicamala.edupage.org\/","ref:regon":"001113002","ref:vatin":"PL7752205955","operator":"Gmina \u0141\u0119czyca","operator:type":"government","amenity":"school"}},{"id":9897,"type":"Feature","geometry":{"type":"Point","coordinates":[19.12619,52.07591]},"properties":{"isced:level":"1;2","ref:rspo":9897,"official_name":"Szko\u0142a Podstawowa w B\u0142oniu","name":"Szko\u0142a Podstawowa w B\u0142oniu","addr:country":"PL","addr:postcode":"99-100","addr:place":"B\u0142onie","addr:housenumber":"33A","addr:teryt:sym_ul":569786,"contact:phone":"+48 247211721","contact:email":"spblonie@gminaleczyca.pl","contact:website":"http:\/\/www.spblonie.edupage.org","ref:regon":"001112988","ref:vatin":"PL7752205895","operator":"Gmina \u0141\u0119czyca","operator:type":"government","amenity":"school"}},{"id":11003,"type":"Feature","geometry":{"type":"Point","coordinates":[19.18293,52.07794]},"properties":{"isced:level":"1;2","ref:rspo":11003,"official_name":"Samorz\u0105dowa Szko\u0142a Podstawowa im. W\u0142adys\u0142awa \u0141okietka w Topoli Kr\u00f3lewskiej","name":"Samorz\u0105dowa Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"99-100","addr:place":"Topola Kr\u00f3lewska","addr:housenumber":"67","addr:teryt:sym_ul":570476,"contact:phone":"+48 247223231","contact:email":"sptopolakrolewska@gminaleczyca.pl","contact:website":"http:\/\/stopola.edupage.org\/","ref:regon":"001113522","ref:vatin":"PL7752205872","operator":"Gmina \u0141\u0119czyca","operator:type":"government","amenity":"school"}},{"id":10951,"type":"Feature","geometry":{"type":"Point","coordinates":[19.14315,52.11211]},"properties":{"isced:level":"1;2","ref:rspo":10951,"official_name":"Szko\u0142a Podstawowa im. Or\u0142a Bia\u0142ego w Siedlcu","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"99-100","addr:place":"Siedlec","addr:housenumber":"16A","addr:teryt:sym_ul":570364,"contact:phone":"+48 247211427","contact:email":"spsiedlec@gminaleczyca.pl","contact:website":"http:\/\/spsiedlec.edupage.org\/","ref:regon":"001113019","ref:vatin":"PL7752205949","operator":"Gmina \u0141\u0119czyca","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 274390,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.20723,
+                    52.02936
+                ]
+            },
+            "properties": {
+                "ref:rspo": 274390,
+                "official_name": "Centrum Masa\u017cu Cia\u0142o & Dusza",
+                "name": "Centrum Masa\u017cu Cia\u0142o & Dusza",
+                "addr:country": "PL",
+                "addr:postcode": "99-100",
+                "addr:place": "Lubie\u0144",
+                "addr:housenumber": "43C",
+                "addr:teryt:sym_ul": 570163,
+                "contact:email": "kasja_masaze@onet.pl",
+                "ref:regon": "385670512",
+                "ref:vatin": "PL5070018580",
+                "operator": "Ewelina Byli\u0144ska",
+                "operator:type": "private",
+                "fixme": "w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. amenity=training + training=*, amenity=dancing_school, amenity=language_school, amenity=music_school)"
+            }
+        },
+        {
+            "id": 11106,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.1370159,
+                    52.0310445
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 11106,
+                "official_name": "Szko\u0142a Podstawowa w Wilczkowicach",
+                "name": "Szko\u0142a Podstawowa w Wilczkowicach",
+                "addr:country": "PL",
+                "addr:postcode": "99-100",
+                "addr:place": "Wilczkowice G\u00f3rne",
+                "addr:housenumber": "35",
+                "addr:teryt:sym_ul": 570401,
+                "contact:phone": "+48 247224486",
+                "contact:email": "spwilczkowice@gminaleczyca.pl",
+                "contact:website": "http:\/\/www.spwilczkowice.edu.pl\/",
+                "ref:regon": "001113539",
+                "ref:vatin": "PL7752205926",
+                "operator": "Gmina \u0141\u0119czyca",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 9981,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.08674,
+                    52.04213
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 9981,
+                "official_name": "Szko\u0142a Podstawowa w Le\u017anicy Ma\u0142ej",
+                "name": "Szko\u0142a Podstawowa w Le\u017anicy Ma\u0142ej",
+                "addr:country": "PL",
+                "addr:postcode": "99-100",
+                "addr:place": "Le\u017anica Ma\u0142a",
+                "addr:housenumber": "36",
+                "addr:teryt:sym_ul": 570097,
+                "contact:phone": "+48 247211860",
+                "contact:email": "spleznicamala@gminaleczyca.pl",
+                "contact:website": "http:\/\/spleznicamala.edupage.org\/",
+                "ref:regon": "001113002",
+                "ref:vatin": "PL7752205955",
+                "operator": "Gmina \u0141\u0119czyca",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 9897,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.12619,
+                    52.07591
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 9897,
+                "official_name": "Szko\u0142a Podstawowa w B\u0142oniu",
+                "name": "Szko\u0142a Podstawowa w B\u0142oniu",
+                "addr:country": "PL",
+                "addr:postcode": "99-100",
+                "addr:place": "B\u0142onie",
+                "addr:housenumber": "33A",
+                "addr:teryt:sym_ul": 569786,
+                "contact:phone": "+48 247211721",
+                "contact:email": "spblonie@gminaleczyca.pl",
+                "contact:website": "http:\/\/www.spblonie.edupage.org",
+                "ref:regon": "001112988",
+                "ref:vatin": "PL7752205895",
+                "operator": "Gmina \u0141\u0119czyca",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 11003,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.18293,
+                    52.07794
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 11003,
+                "official_name": "Samorz\u0105dowa Szko\u0142a Podstawowa im. W\u0142adys\u0142awa \u0141okietka w Topoli Kr\u00f3lewskiej",
+                "name": "Samorz\u0105dowa Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "99-100",
+                "addr:place": "Topola Kr\u00f3lewska",
+                "addr:housenumber": "67",
+                "addr:teryt:sym_ul": 570476,
+                "contact:phone": "+48 247223231",
+                "contact:email": "sptopolakrolewska@gminaleczyca.pl",
+                "contact:website": "http:\/\/stopola.edupage.org\/",
+                "ref:regon": "001113522",
+                "ref:vatin": "PL7752205872",
+                "operator": "Gmina \u0141\u0119czyca",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 10951,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.14315,
+                    52.11211
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 10951,
+                "official_name": "Szko\u0142a Podstawowa im. Or\u0142a Bia\u0142ego w Siedlcu",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "99-100",
+                "addr:place": "Siedlec",
+                "addr:housenumber": "16A",
+                "addr:teryt:sym_ul": 570364,
+                "contact:phone": "+48 247211427",
+                "contact:email": "spsiedlec@gminaleczyca.pl",
+                "contact:website": "http:\/\/spsiedlec.edupage.org\/",
+                "ref:regon": "001113019",
+                "ref:vatin": "PL7752205949",
+                "operator": "Gmina \u0141\u0119czyca",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

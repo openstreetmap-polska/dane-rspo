@@ -1,1 +1,195 @@
-{"type":"FeatureCollection","features":[{"id":131027,"type":"Feature","geometry":{"type":"Point","coordinates":[19.80125,52.5662]},"properties":{"ref:rspo":131027,"official_name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w Rogozinie","name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w Rogozinie","addr:country":"PL","addr:postcode":"09-442","addr:city":"Rogozino","addr:street":"ul. Mazowiecka","addr:housenumber":"25","addr:teryt:simc":12540,"addr:teryt:sym_ul":573807,"contact:phone":"+48 242637777","contact:email":"sekretariat@sp-rogozino.pl","contact:website":"http:\/\/www.sp-rogozino.pl","ref:regon":"364889678","ref:vatin":"PL7743230391","operator":"Gmina Radzanowo","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 104641;131026"}},{"id":104641,"type":"Feature","geometry":{"type":"Point","coordinates":[19.80125,52.56617]},"properties":{"isced:level":"1;2","ref:rspo":104641,"official_name":"Szko\u0142a Podstawowa w Rogozinie im. Czes\u0142awa Hi\u0144ca","name":"Szko\u0142a Podstawowa w Rogozinie","addr:country":"PL","addr:postcode":"09-442","addr:city":"Rogozino","addr:street":"ul. Mazowiecka","addr:housenumber":"25","addr:teryt:simc":12540,"addr:teryt:sym_ul":573807,"contact:phone":"+48 242637777","contact:email":"sekretariat@sp-rogozino.pl","contact:website":"http:\/\/www.sp-rogozino.pl","ref:regon":"001126996","ref:vatin":"PL7742894433","operator":"Gmina Radzanowo","operator:type":"government","amenity":"school","note":"Parent RSPO: 131027"}},{"id":131026,"type":"Feature","geometry":{"type":"Point","coordinates":[19.80125,52.566140000000004]},"properties":{"ref:rspo":131026,"official_name":"Przedszkole Samorz\u0105dowe w Rogozinie","name":"Przedszkole Samorz\u0105dowe w Rogozinie","addr:country":"PL","addr:postcode":"09-442","addr:city":"Rogozino","addr:street":"ul. Mazowiecka","addr:housenumber":"25","addr:teryt:simc":12540,"addr:teryt:sym_ul":573807,"contact:phone":"+48 242637777","contact:email":"sekretariat@sp-rogozino.pl","contact:website":"http:\/\/www.sp-rogozino.pl","ref:regon":"364889589","ref:vatin":"PL7743230221","operator":"Gmina Radzanowo","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 131027"}},{"id":118684,"type":"Feature","geometry":{"type":"Point","coordinates":[19.76755,52.56632]},"properties":{"ref:rspo":118684,"official_name":"Niepubliczne Przedszkole \"Ma\u0142olatek\"","name":"Niepubliczne Przedszkole \"Ma\u0142olatek\"","addr:country":"PL","addr:postcode":"09-410","addr:place":"Str\u00f3\u017cewko","addr:housenumber":"47\/2","addr:teryt:sym_ul":573865,"contact:phone":"+48 243646044","contact:email":"strozewko@op.pl","contact:website":"http:\/\/www.strozewko.pl","ref:regon":"146816174","ref:vatin":"PL7742871308","operator":"Pawe\u0142 Goszczycki","operator:type":"private","amenity":"kindergarten"}},{"id":104643,"type":"Feature","geometry":{"type":"Point","coordinates":[19.8984,52.57416]},"properties":{"ref:rspo":104643,"official_name":"Samorz\u0105dowe Przedszkole w Radzanowie","name":"Samorz\u0105dowe Przedszkole w Radzanowie","addr:country":"PL","addr:postcode":"09-451","addr:city":"Radzanowo","addr:street":"ul. Marii Konopnickiej","addr:housenumber":"3","addr:teryt:simc":9186,"addr:teryt:sym_ul":573753,"contact:phone":"+48 242654344","contact:email":"przedszkoleradzanowo@op.pl","contact:website":"http:\/\/www.przedszkolowo.pl","ref:regon":"000903765","ref:vatin":"PL7742895697","operator":"Gmina Radzanowo","operator:type":"government","amenity":"kindergarten"}},{"id":104642,"type":"Feature","geometry":{"type":"Point","coordinates":[19.89745,52.57501]},"properties":{"isced:level":"1;2","ref:rspo":104642,"official_name":"Szko\u0142a Podstawowa w Radzanowie im. Miko\u0142aja Kopernika","name":"Szko\u0142a Podstawowa w Radzanowie","addr:country":"PL","addr:postcode":"09-451","addr:city":"Radzanowo","addr:street":"ul. Szkolna","addr:housenumber":"16","addr:teryt:simc":21970,"addr:teryt:sym_ul":573753,"contact:phone":"+48 242654652","contact:email":"spradzanowo@op.pl","contact:website":"http:\/\/www.spradzanowo.pl","ref:regon":"000631806","ref:vatin":"PL7742753402","operator":"Gmina Radzanowo","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 131027,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.80125,
+                    52.5662
+                ]
+            },
+            "properties": {
+                "ref:rspo": 131027,
+                "official_name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w Rogozinie",
+                "name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w Rogozinie",
+                "addr:country": "PL",
+                "addr:postcode": "09-442",
+                "addr:city": "Rogozino",
+                "addr:street": "ul. Mazowiecka",
+                "addr:housenumber": "25",
+                "addr:teryt:simc": 12540,
+                "addr:teryt:sym_ul": 573807,
+                "contact:phone": "+48 242637777",
+                "contact:email": "sekretariat@sp-rogozino.pl",
+                "contact:website": "http:\/\/www.sp-rogozino.pl",
+                "ref:regon": "364889678",
+                "ref:vatin": "PL7743230391",
+                "operator": "Gmina Radzanowo",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 104641;131026"
+            }
+        },
+        {
+            "id": 104641,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.80125,
+                    52.56617
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 104641,
+                "official_name": "Szko\u0142a Podstawowa w Rogozinie im. Czes\u0142awa Hi\u0144ca",
+                "name": "Szko\u0142a Podstawowa w Rogozinie",
+                "addr:country": "PL",
+                "addr:postcode": "09-442",
+                "addr:city": "Rogozino",
+                "addr:street": "ul. Mazowiecka",
+                "addr:housenumber": "25",
+                "addr:teryt:simc": 12540,
+                "addr:teryt:sym_ul": 573807,
+                "contact:phone": "+48 242637777",
+                "contact:email": "sekretariat@sp-rogozino.pl",
+                "contact:website": "http:\/\/www.sp-rogozino.pl",
+                "ref:regon": "001126996",
+                "ref:vatin": "PL7742894433",
+                "operator": "Gmina Radzanowo",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 131027"
+            }
+        },
+        {
+            "id": 131026,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.80125,
+                    52.566140000000004
+                ]
+            },
+            "properties": {
+                "ref:rspo": 131026,
+                "official_name": "Przedszkole Samorz\u0105dowe w Rogozinie",
+                "name": "Przedszkole Samorz\u0105dowe w Rogozinie",
+                "addr:country": "PL",
+                "addr:postcode": "09-442",
+                "addr:city": "Rogozino",
+                "addr:street": "ul. Mazowiecka",
+                "addr:housenumber": "25",
+                "addr:teryt:simc": 12540,
+                "addr:teryt:sym_ul": 573807,
+                "contact:phone": "+48 242637777",
+                "contact:email": "sekretariat@sp-rogozino.pl",
+                "contact:website": "http:\/\/www.sp-rogozino.pl",
+                "ref:regon": "364889589",
+                "ref:vatin": "PL7743230221",
+                "operator": "Gmina Radzanowo",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 131027"
+            }
+        },
+        {
+            "id": 118684,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.76755,
+                    52.56632
+                ]
+            },
+            "properties": {
+                "ref:rspo": 118684,
+                "official_name": "Niepubliczne Przedszkole \"Ma\u0142olatek\"",
+                "name": "Niepubliczne Przedszkole \"Ma\u0142olatek\"",
+                "addr:country": "PL",
+                "addr:postcode": "09-410",
+                "addr:place": "Str\u00f3\u017cewko",
+                "addr:housenumber": "47\/2",
+                "addr:teryt:sym_ul": 573865,
+                "contact:phone": "+48 243646044",
+                "contact:email": "strozewko@op.pl",
+                "contact:website": "http:\/\/www.strozewko.pl",
+                "ref:regon": "146816174",
+                "ref:vatin": "PL7742871308",
+                "operator": "Pawe\u0142 Goszczycki",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 104643,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8984,
+                    52.57416
+                ]
+            },
+            "properties": {
+                "ref:rspo": 104643,
+                "official_name": "Samorz\u0105dowe Przedszkole w Radzanowie",
+                "name": "Samorz\u0105dowe Przedszkole w Radzanowie",
+                "addr:country": "PL",
+                "addr:postcode": "09-451",
+                "addr:city": "Radzanowo",
+                "addr:street": "ul. Marii Konopnickiej",
+                "addr:housenumber": "3",
+                "addr:teryt:simc": 9186,
+                "addr:teryt:sym_ul": 573753,
+                "contact:phone": "+48 242654344",
+                "contact:email": "przedszkoleradzanowo@op.pl",
+                "contact:website": "http:\/\/www.przedszkolowo.pl",
+                "ref:regon": "000903765",
+                "ref:vatin": "PL7742895697",
+                "operator": "Gmina Radzanowo",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 104642,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.89745,
+                    52.57501
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 104642,
+                "official_name": "Szko\u0142a Podstawowa w Radzanowie im. Miko\u0142aja Kopernika",
+                "name": "Szko\u0142a Podstawowa w Radzanowie",
+                "addr:country": "PL",
+                "addr:postcode": "09-451",
+                "addr:city": "Radzanowo",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "16",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 573753,
+                "contact:phone": "+48 242654652",
+                "contact:email": "spradzanowo@op.pl",
+                "contact:website": "http:\/\/www.spradzanowo.pl",
+                "ref:regon": "000631806",
+                "ref:vatin": "PL7742753402",
+                "operator": "Gmina Radzanowo",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

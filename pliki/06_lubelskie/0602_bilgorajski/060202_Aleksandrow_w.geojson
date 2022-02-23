@@ -1,1 +1,62 @@
-{"type":"FeatureCollection","features":[{"id":83748,"type":"Feature","geometry":{"type":"Point","coordinates":[22.92186,50.46452]},"properties":{"isced:level":"1;2","ref:rspo":83748,"official_name":"Szko\u0142a Podstawowa im. Dzieci Zamojszczyzny w Aleksandrowie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"23-408","addr:place":"Aleksandr\u00f3w Pierwszy","addr:housenumber":"104","addr:teryt:sym_ul":885501,"contact:phone":"+48 846875020","contact:email":"spaleksandrow@op.pl","ref:regon":"001134576","ref:vatin":"PL9181997377","operator":"Gmina  Aleksandr\u00f3w","operator:type":"government","amenity":"school"}},{"id":83675,"type":"Feature","geometry":{"type":"Point","coordinates":[22.85643,50.4719]},"properties":{"ref:rspo":83675,"official_name":"Przedszkole \"Le\u015bne Skrzaty\" w Aleksandrowie","name":"Przedszkole \"Le\u015bne Skrzaty\" w Aleksandrowie","addr:country":"PL","addr:postcode":"23-408","addr:city":"Aleksandr\u00f3w","addr:street":"ul. Weso\u0142a","addr:housenumber":"1","addr:teryt:simc":23884,"addr:teryt:sym_ul":885470,"contact:phone":"+48 693866224","ref:regon":"061486311","operator":"Marzena Krajewska","operator:type":"private","amenity":"kindergarten"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 83748,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.92186,
+                    50.46452
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 83748,
+                "official_name": "Szko\u0142a Podstawowa im. Dzieci Zamojszczyzny w Aleksandrowie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "23-408",
+                "addr:place": "Aleksandr\u00f3w Pierwszy",
+                "addr:housenumber": "104",
+                "addr:teryt:sym_ul": 885501,
+                "contact:phone": "+48 846875020",
+                "contact:email": "spaleksandrow@op.pl",
+                "ref:regon": "001134576",
+                "ref:vatin": "PL9181997377",
+                "operator": "Gmina  Aleksandr\u00f3w",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 83675,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.85643,
+                    50.4719
+                ]
+            },
+            "properties": {
+                "ref:rspo": 83675,
+                "official_name": "Przedszkole \"Le\u015bne Skrzaty\" w Aleksandrowie",
+                "name": "Przedszkole \"Le\u015bne Skrzaty\" w Aleksandrowie",
+                "addr:country": "PL",
+                "addr:postcode": "23-408",
+                "addr:city": "Aleksandr\u00f3w",
+                "addr:street": "ul. Weso\u0142a",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 23884,
+                "addr:teryt:sym_ul": 885470,
+                "contact:phone": "+48 693866224",
+                "ref:regon": "061486311",
+                "operator": "Marzena Krajewska",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        }
+    ]
+}

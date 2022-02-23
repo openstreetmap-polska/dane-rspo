@@ -1,1 +1,152 @@
-{"type":"FeatureCollection","features":[{"id":115293,"type":"Feature","geometry":{"type":"Point","coordinates":[21.43817,49.44013]},"properties":{"ref:rspo":115293,"official_name":"Szkolne Schronisko M\u0142odzie\u017cowe w Grabiu","name":"Szkolne Schronisko M\u0142odzie\u017cowe w Grabiu","addr:country":"PL","addr:postcode":"38-232","addr:place":"Grab","addr:housenumber":"22","addr:teryt:sym_ul":355335,"contact:phone":"+48 134414309","contact:email":"schroniskograb@gmail.com","contact:website":"http:\/\/www.schroniskograb.rox.pl","ref:regon":"371163832","operator":"Gmina Krempna","operator:type":"government","tourism":"hostel","note":"Parent RSPO: 35036"}},{"id":35036,"type":"Feature","geometry":{"type":"Point","coordinates":[21.49947,49.51042]},"properties":{"ref:rspo":35036,"official_name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 w Krempnej","name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 w Krempnej","addr:country":"PL","addr:postcode":"38-232","addr:place":"Krempna","addr:housenumber":"45","addr:teryt:sym_ul":355358,"contact:phone":"+48 134414309","contact:email":"gimkrempna@poczta.onet.pl","contact:website":"http:\/\/www.zskrempna.szkolna.net","ref:regon":"180259497","ref:vatin":"PL6852228317","operator":"Gmina Krempna","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 68445;115293;120534;129010"}},{"id":68445,"type":"Feature","geometry":{"type":"Point","coordinates":[21.49947,49.51039]},"properties":{"isced:level":"1;2","ref:rspo":68445,"official_name":"Szko\u0142a Podstawowa w Zespole Szk\u00f3\u0142 w Krempnej","name":"Szko\u0142a Podstawowa w Zespole Szk\u00f3\u0142 w Krempnej","addr:country":"PL","addr:postcode":"38-232","addr:place":"Krempna","addr:housenumber":"45","addr:teryt:sym_ul":355358,"contact:phone":"+48 134414018","contact:email":"gimkrempna@poczta.onet.pl","contact:website":"http:\/\/zskremmpna.szkolna.net","ref:regon":"000741340","ref:vatin":"PL6852004670","operator":"Gmina Krempna","operator:type":"government","amenity":"school","note":"Parent RSPO: 35036"}},{"id":120534,"type":"Feature","geometry":{"type":"Point","coordinates":[21.49947,49.510360000000006]},"properties":{"ref:rspo":120534,"official_name":"Publiczne Przedszkole w Krempnej","name":"Publiczne Przedszkole w Krempnej","addr:country":"PL","addr:postcode":"38-232","addr:place":"Krempna","addr:housenumber":"45","addr:teryt:sym_ul":355358,"contact:phone":"+48 134414309","contact:email":"gimkrempna@poczta.onet.pl","ref:regon":"181031129","operator":"Gmina Krempna","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 35036"}},{"id":129010,"type":"Feature","geometry":{"type":"Point","coordinates":[21.55869,49.52859]},"properties":{"ref:rspo":129010,"official_name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 w Krempnej Szkolne Schronisko M\u0142odzie\u017cowe w Myscowej","name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 w Krempnej Szkolne Schronisko M\u0142odzie\u017cowe w Myscowej","addr:country":"PL","addr:postcode":"38-232","addr:place":"Myscowa","addr:housenumber":"49","addr:teryt:sym_ul":355387,"contact:phone":"+48 134414018","contact:email":"gimkrempna@poczta.onet.pl","ref:regon":"362447781","operator":"Gmina Krempna","operator:type":"government","tourism":"hostel","note":"Parent RSPO: 35036"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 115293,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.43817,
+                    49.44013
+                ]
+            },
+            "properties": {
+                "ref:rspo": 115293,
+                "official_name": "Szkolne Schronisko M\u0142odzie\u017cowe w Grabiu",
+                "name": "Szkolne Schronisko M\u0142odzie\u017cowe w Grabiu",
+                "addr:country": "PL",
+                "addr:postcode": "38-232",
+                "addr:place": "Grab",
+                "addr:housenumber": "22",
+                "addr:teryt:sym_ul": 355335,
+                "contact:phone": "+48 134414309",
+                "contact:email": "schroniskograb@gmail.com",
+                "contact:website": "http:\/\/www.schroniskograb.rox.pl",
+                "ref:regon": "371163832",
+                "operator": "Gmina Krempna",
+                "operator:type": "government",
+                "tourism": "hostel",
+                "note": "Parent RSPO: 35036"
+            }
+        },
+        {
+            "id": 35036,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.49947,
+                    49.51042
+                ]
+            },
+            "properties": {
+                "ref:rspo": 35036,
+                "official_name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 w Krempnej",
+                "name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 w Krempnej",
+                "addr:country": "PL",
+                "addr:postcode": "38-232",
+                "addr:place": "Krempna",
+                "addr:housenumber": "45",
+                "addr:teryt:sym_ul": 355358,
+                "contact:phone": "+48 134414309",
+                "contact:email": "gimkrempna@poczta.onet.pl",
+                "contact:website": "http:\/\/www.zskrempna.szkolna.net",
+                "ref:regon": "180259497",
+                "ref:vatin": "PL6852228317",
+                "operator": "Gmina Krempna",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 68445;115293;120534;129010"
+            }
+        },
+        {
+            "id": 68445,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.49947,
+                    49.51039
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 68445,
+                "official_name": "Szko\u0142a Podstawowa w Zespole Szk\u00f3\u0142 w Krempnej",
+                "name": "Szko\u0142a Podstawowa w Zespole Szk\u00f3\u0142 w Krempnej",
+                "addr:country": "PL",
+                "addr:postcode": "38-232",
+                "addr:place": "Krempna",
+                "addr:housenumber": "45",
+                "addr:teryt:sym_ul": 355358,
+                "contact:phone": "+48 134414018",
+                "contact:email": "gimkrempna@poczta.onet.pl",
+                "contact:website": "http:\/\/zskremmpna.szkolna.net",
+                "ref:regon": "000741340",
+                "ref:vatin": "PL6852004670",
+                "operator": "Gmina Krempna",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 35036"
+            }
+        },
+        {
+            "id": 120534,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.49947,
+                    49.510360000000006
+                ]
+            },
+            "properties": {
+                "ref:rspo": 120534,
+                "official_name": "Publiczne Przedszkole w Krempnej",
+                "name": "Publiczne Przedszkole w Krempnej",
+                "addr:country": "PL",
+                "addr:postcode": "38-232",
+                "addr:place": "Krempna",
+                "addr:housenumber": "45",
+                "addr:teryt:sym_ul": 355358,
+                "contact:phone": "+48 134414309",
+                "contact:email": "gimkrempna@poczta.onet.pl",
+                "ref:regon": "181031129",
+                "operator": "Gmina Krempna",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 35036"
+            }
+        },
+        {
+            "id": 129010,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.55869,
+                    49.52859
+                ]
+            },
+            "properties": {
+                "ref:rspo": 129010,
+                "official_name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 w Krempnej Szkolne Schronisko M\u0142odzie\u017cowe w Myscowej",
+                "name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 w Krempnej Szkolne Schronisko M\u0142odzie\u017cowe w Myscowej",
+                "addr:country": "PL",
+                "addr:postcode": "38-232",
+                "addr:place": "Myscowa",
+                "addr:housenumber": "49",
+                "addr:teryt:sym_ul": 355387,
+                "contact:phone": "+48 134414018",
+                "contact:email": "gimkrempna@poczta.onet.pl",
+                "ref:regon": "362447781",
+                "operator": "Gmina Krempna",
+                "operator:type": "government",
+                "tourism": "hostel",
+                "note": "Parent RSPO: 35036"
+            }
+        }
+    ]
+}

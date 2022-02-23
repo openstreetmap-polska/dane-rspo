@@ -1,1 +1,159 @@
-{"type":"FeatureCollection","features":[{"id":31251,"type":"Feature","geometry":{"type":"Point","coordinates":[19.35113,51.02745]},"properties":{"isced:level":"1;2","ref:rspo":31251,"official_name":"Publiczna Szko\u0142a Podstawowa w Szczepocicach","name":"Publiczna Szko\u0142a Podstawowa w Szczepocicach","addr:country":"PL","addr:postcode":"97-500","addr:place":"Szczepocice Rz\u0105dowe","addr:housenumber":"19c","addr:teryt:sym_ul":549619,"contact:phone":"+48 446833548","contact:email":"szczepocice.sekretariat@gmina-radomsko.pl","contact:website":"http:\/\/pspszczepocice.szkolna.net","ref:regon":"001161194","ref:vatin":"PL7722209256","operator":"Gmina Radomsko","operator:type":"government","amenity":"school"}},{"id":31154,"type":"Feature","geometry":{"type":"Point","coordinates":[19.50269,51.05466]},"properties":{"isced:level":"1;2","ref:rspo":31154,"official_name":"Publiczna Szko\u0142a Podstawowa w Strza\u0142kowie","name":"Publiczna Szko\u0142a Podstawowa w Strza\u0142kowie","addr:country":"PL","addr:postcode":"97-500","addr:city":"Strza\u0142k\u00f3w","addr:street":"ul. Kolumba","addr:housenumber":"2","addr:teryt:simc":8985,"addr:teryt:sym_ul":549571,"contact:phone":"+48 446853841","contact:email":"strzalkow.sekretariat@gmina-radomsko.pl","contact:website":"http:\/\/www.szkola-strzalkow.pl","ref:regon":"001161159","ref:vatin":"PL7722209500","operator":"Gmina Radomsko","operator:type":"government","amenity":"school"}},{"id":30419,"type":"Feature","geometry":{"type":"Point","coordinates":[19.450000762939,51.067001342773]},"properties":{"isced:level":"1;2","ref:rspo":30419,"official_name":"Publiczna Szko\u0142a Podstawowa w Dziep\u00f3\u0142ci","name":"Publiczna Szko\u0142a Podstawowa w Dziep\u00f3\u0142ci","addr:country":"PL","addr:postcode":"97-500","addr:place":"Dziep\u00f3\u0142\u0107","addr:housenumber":"97","addr:teryt:sym_ul":549424,"contact:phone":"+48 446833132","contact:email":"dziepolc.sekretariat@gmina-radomsko.pl","ref:regon":"001161188","ref:vatin":"PL7722209492","operator":"Gmina Radomsko","operator:type":"government","amenity":"school"}},{"id":30807,"type":"Feature","geometry":{"type":"Point","coordinates":[19.5055,51.08963]},"properties":{"isced:level":"1;2","ref:rspo":30807,"official_name":"Publiczna Szko\u0142a Podstawowa w Kietlinie","name":"Publiczna Szko\u0142a Podstawowa w Kietlinie","addr:country":"PL","addr:postcode":"97-500","addr:city":"Kietlin","addr:street":"ul. Radomszcza\u0144ska","addr:housenumber":"61","addr:teryt:simc":18317,"addr:teryt:sym_ul":549507,"contact:phone":"+48 446824221","contact:email":"kietlin.sekretariat@gmina-radomsko.pl","ref:regon":"001161165","ref:vatin":"PL7722209546","operator":"Gmina Radomsko","operator:type":"government","amenity":"school"}},{"id":31022,"type":"Feature","geometry":{"type":"Point","coordinates":[19.50276,51.10356]},"properties":{"isced:level":"1;2","ref:rspo":31022,"official_name":"Publiczna Szko\u0142a Podstawowa w P\u0142oszowie","name":"Publiczna Szko\u0142a Podstawowa w P\u0142oszowie","addr:country":"PL","addr:postcode":"97-500","addr:city":"P\u0142osz\u00f3w","addr:street":"ul. Radomszcza\u0144ska","addr:housenumber":"41","addr:teryt:simc":18317,"addr:teryt:sym_ul":549565,"contact:phone":"+48 446824181","contact:email":"ploszow.sekretariat@gmina-radomsko.pl","contact:website":"http:\/\/www.pspploszow.edupage.org","ref:regon":"001161171","ref:vatin":"PL7722209486","operator":"Gmina Radomsko","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 31251,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.35113,
+                    51.02745
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 31251,
+                "official_name": "Publiczna Szko\u0142a Podstawowa w Szczepocicach",
+                "name": "Publiczna Szko\u0142a Podstawowa w Szczepocicach",
+                "addr:country": "PL",
+                "addr:postcode": "97-500",
+                "addr:place": "Szczepocice Rz\u0105dowe",
+                "addr:housenumber": "19c",
+                "addr:teryt:sym_ul": 549619,
+                "contact:phone": "+48 446833548",
+                "contact:email": "szczepocice.sekretariat@gmina-radomsko.pl",
+                "contact:website": "http:\/\/pspszczepocice.szkolna.net",
+                "ref:regon": "001161194",
+                "ref:vatin": "PL7722209256",
+                "operator": "Gmina Radomsko",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 31154,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.50269,
+                    51.05466
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 31154,
+                "official_name": "Publiczna Szko\u0142a Podstawowa w Strza\u0142kowie",
+                "name": "Publiczna Szko\u0142a Podstawowa w Strza\u0142kowie",
+                "addr:country": "PL",
+                "addr:postcode": "97-500",
+                "addr:city": "Strza\u0142k\u00f3w",
+                "addr:street": "ul. Kolumba",
+                "addr:housenumber": "2",
+                "addr:teryt:simc": 8985,
+                "addr:teryt:sym_ul": 549571,
+                "contact:phone": "+48 446853841",
+                "contact:email": "strzalkow.sekretariat@gmina-radomsko.pl",
+                "contact:website": "http:\/\/www.szkola-strzalkow.pl",
+                "ref:regon": "001161159",
+                "ref:vatin": "PL7722209500",
+                "operator": "Gmina Radomsko",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 30419,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.450000762939,
+                    51.067001342773
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 30419,
+                "official_name": "Publiczna Szko\u0142a Podstawowa w Dziep\u00f3\u0142ci",
+                "name": "Publiczna Szko\u0142a Podstawowa w Dziep\u00f3\u0142ci",
+                "addr:country": "PL",
+                "addr:postcode": "97-500",
+                "addr:place": "Dziep\u00f3\u0142\u0107",
+                "addr:housenumber": "97",
+                "addr:teryt:sym_ul": 549424,
+                "contact:phone": "+48 446833132",
+                "contact:email": "dziepolc.sekretariat@gmina-radomsko.pl",
+                "ref:regon": "001161188",
+                "ref:vatin": "PL7722209492",
+                "operator": "Gmina Radomsko",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 30807,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5055,
+                    51.08963
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 30807,
+                "official_name": "Publiczna Szko\u0142a Podstawowa w Kietlinie",
+                "name": "Publiczna Szko\u0142a Podstawowa w Kietlinie",
+                "addr:country": "PL",
+                "addr:postcode": "97-500",
+                "addr:city": "Kietlin",
+                "addr:street": "ul. Radomszcza\u0144ska",
+                "addr:housenumber": "61",
+                "addr:teryt:simc": 18317,
+                "addr:teryt:sym_ul": 549507,
+                "contact:phone": "+48 446824221",
+                "contact:email": "kietlin.sekretariat@gmina-radomsko.pl",
+                "ref:regon": "001161165",
+                "ref:vatin": "PL7722209546",
+                "operator": "Gmina Radomsko",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 31022,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.50276,
+                    51.10356
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 31022,
+                "official_name": "Publiczna Szko\u0142a Podstawowa w P\u0142oszowie",
+                "name": "Publiczna Szko\u0142a Podstawowa w P\u0142oszowie",
+                "addr:country": "PL",
+                "addr:postcode": "97-500",
+                "addr:city": "P\u0142osz\u00f3w",
+                "addr:street": "ul. Radomszcza\u0144ska",
+                "addr:housenumber": "41",
+                "addr:teryt:simc": 18317,
+                "addr:teryt:sym_ul": 549565,
+                "contact:phone": "+48 446824181",
+                "contact:email": "ploszow.sekretariat@gmina-radomsko.pl",
+                "contact:website": "http:\/\/www.pspploszow.edupage.org",
+                "ref:regon": "001161171",
+                "ref:vatin": "PL7722209486",
+                "operator": "Gmina Radomsko",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

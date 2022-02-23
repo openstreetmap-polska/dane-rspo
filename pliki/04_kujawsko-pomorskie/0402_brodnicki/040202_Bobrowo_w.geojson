@@ -1,1 +1,154 @@
-{"type":"FeatureCollection","features":[{"id":52526,"type":"Feature","geometry":{"type":"Point","coordinates":[19.25529,53.2329099]},"properties":{"isced:level":"1;2","ref:rspo":52526,"official_name":"Szko\u0142a Podstawowa im. Dywizjonu 303 w Ma\u0142kach","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"87-325","addr:place":"Ma\u0142ki","addr:housenumber":"30","addr:teryt:sym_ul":840792,"contact:phone":"+48 564951670","contact:email":"szkolamalki@gmail.com","contact:website":"http:\/\/www.spmalki.pl\/","ref:regon":"001211259","ref:vatin":"PL8741558231","operator":"Gmina Bobrowo","operator:type":"government","amenity":"school"}},{"id":54316,"type":"Feature","geometry":{"type":"Point","coordinates":[19.15259,53.26113]},"properties":{"isced:level":"1;2","ref:rspo":54316,"official_name":"Szko\u0142a Podstawowa w Nie\u017cywi\u0119ciu","name":"Szko\u0142a Podstawowa w Nie\u017cywi\u0119ciu","addr:country":"PL","addr:postcode":"87-326","addr:place":"Nie\u017cywi\u0119\u0107","addr:housenumber":"234","addr:teryt:sym_ul":840823,"contact:phone":"+48 564951712","contact:email":"szkola_niezywiec@wp.pl","contact:website":"http:\/\/szkolaniezywiec.pl","ref:regon":"001211265","ref:vatin":"PL8741558171","operator":"Gmina Bobrowo","operator:type":"government","amenity":"school"}},{"id":51808,"type":"Feature","geometry":{"type":"Point","coordinates":[19.32334,53.2801]},"properties":{"isced:level":"1;2","ref:rspo":51808,"official_name":"Szko\u0142a Podstawowa im. Ma\u0142gorzaty Sulek w Dru\u017cynach","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"87-327","addr:place":"Dru\u017cyny","addr:housenumber":"54","addr:teryt:sym_ul":840697,"contact:phone":"+48 564981932","contact:email":"spdruzyny@interia.pl","contact:website":"http:\/\/szkoladruzyny.pl\/","ref:regon":"001211236","ref:vatin":"PL8741558248","operator":"Gmina Bobrowo","operator:type":"government","amenity":"school"}},{"id":55097,"type":"Feature","geometry":{"type":"Point","coordinates":[19.27554,53.28825]},"properties":{"isced:level":"1;2","ref:rspo":55097,"official_name":"Szko\u0142a Podstawowa im. Jana Paw\u0142a II w Bobrowie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"87-327","addr:place":"Bobrowo","addr:housenumber":"33","addr:teryt:sym_ul":840600,"contact:phone":"+48 564951000","contact:email":"spbobrowo@op.pl","contact:website":"http:\/\/gbobrowo.edupage.org.","ref:regon":"000265193","operator":"Gmina Bobrowo","operator:type":"government","amenity":"school"}},{"id":52420,"type":"Feature","geometry":{"type":"Point","coordinates":[19.18089,53.31852]},"properties":{"isced:level":"1;2","ref:rspo":52420,"official_name":"Szko\u0142a Podstawowa w Kruszynach","name":"Szko\u0142a Podstawowa w Kruszynach","addr:country":"PL","addr:postcode":"87-326","addr:place":"Kruszyny","addr:housenumber":"7a","addr:teryt:sym_ul":840734,"contact:phone":"+48 564952894","contact:email":"spkruszyny@op.pl","contact:website":"http:\/\/www.spkruszyny.pl","ref:regon":"001211242","ref:vatin":"PL8741558188","operator":"Gmina Bobrowo","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 52526,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.25529,
+                    53.2329099
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 52526,
+                "official_name": "Szko\u0142a Podstawowa im. Dywizjonu 303 w Ma\u0142kach",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "87-325",
+                "addr:place": "Ma\u0142ki",
+                "addr:housenumber": "30",
+                "addr:teryt:sym_ul": 840792,
+                "contact:phone": "+48 564951670",
+                "contact:email": "szkolamalki@gmail.com",
+                "contact:website": "http:\/\/www.spmalki.pl\/",
+                "ref:regon": "001211259",
+                "ref:vatin": "PL8741558231",
+                "operator": "Gmina Bobrowo",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 54316,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.15259,
+                    53.26113
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 54316,
+                "official_name": "Szko\u0142a Podstawowa w Nie\u017cywi\u0119ciu",
+                "name": "Szko\u0142a Podstawowa w Nie\u017cywi\u0119ciu",
+                "addr:country": "PL",
+                "addr:postcode": "87-326",
+                "addr:place": "Nie\u017cywi\u0119\u0107",
+                "addr:housenumber": "234",
+                "addr:teryt:sym_ul": 840823,
+                "contact:phone": "+48 564951712",
+                "contact:email": "szkola_niezywiec@wp.pl",
+                "contact:website": "http:\/\/szkolaniezywiec.pl",
+                "ref:regon": "001211265",
+                "ref:vatin": "PL8741558171",
+                "operator": "Gmina Bobrowo",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 51808,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.32334,
+                    53.2801
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 51808,
+                "official_name": "Szko\u0142a Podstawowa im. Ma\u0142gorzaty Sulek w Dru\u017cynach",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "87-327",
+                "addr:place": "Dru\u017cyny",
+                "addr:housenumber": "54",
+                "addr:teryt:sym_ul": 840697,
+                "contact:phone": "+48 564981932",
+                "contact:email": "spdruzyny@interia.pl",
+                "contact:website": "http:\/\/szkoladruzyny.pl\/",
+                "ref:regon": "001211236",
+                "ref:vatin": "PL8741558248",
+                "operator": "Gmina Bobrowo",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 55097,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.27554,
+                    53.28825
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 55097,
+                "official_name": "Szko\u0142a Podstawowa im. Jana Paw\u0142a II w Bobrowie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "87-327",
+                "addr:place": "Bobrowo",
+                "addr:housenumber": "33",
+                "addr:teryt:sym_ul": 840600,
+                "contact:phone": "+48 564951000",
+                "contact:email": "spbobrowo@op.pl",
+                "contact:website": "http:\/\/gbobrowo.edupage.org.",
+                "ref:regon": "000265193",
+                "operator": "Gmina Bobrowo",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 52420,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.18089,
+                    53.31852
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 52420,
+                "official_name": "Szko\u0142a Podstawowa w Kruszynach",
+                "name": "Szko\u0142a Podstawowa w Kruszynach",
+                "addr:country": "PL",
+                "addr:postcode": "87-326",
+                "addr:place": "Kruszyny",
+                "addr:housenumber": "7a",
+                "addr:teryt:sym_ul": 840734,
+                "contact:phone": "+48 564952894",
+                "contact:email": "spkruszyny@op.pl",
+                "contact:website": "http:\/\/www.spkruszyny.pl",
+                "ref:regon": "001211242",
+                "ref:vatin": "PL8741558188",
+                "operator": "Gmina Bobrowo",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

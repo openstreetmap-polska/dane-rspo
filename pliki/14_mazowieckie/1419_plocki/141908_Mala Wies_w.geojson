@@ -1,1 +1,156 @@
-{"type":"FeatureCollection","features":[{"id":80612,"type":"Feature","geometry":{"type":"Point","coordinates":[20.04253,52.41191]},"properties":{"isced:level":"1;2","ref:rspo":80612,"official_name":"Szko\u0142a Podstawowa w Podg\u00f3rzu","name":"Szko\u0142a Podstawowa w Podg\u00f3rzu","addr:country":"PL","addr:postcode":"09-460","addr:place":"Podg\u00f3rze","addr:housenumber":"6","addr:teryt:sym_ul":570944,"contact:phone":"+48 242314153","contact:email":"podgorze@gazeta.pl","contact:website":"http:\/\/www.sppodgorze.pl","ref:regon":"001113210","ref:vatin":"PL7742703953","operator":"Gmina Ma\u0142a Wie\u015b","operator:type":"government","amenity":"school"}},{"id":104690,"type":"Feature","geometry":{"type":"Point","coordinates":[20.15777,52.4559]},"properties":{"isced:level":"1;2","ref:rspo":104690,"official_name":"Niepubliczna Szko\u0142a Podstawowa im. Marsza\u0142ka J\u00f3zefa Pi\u0142sudskiego w Orszymowie","name":"Niepubliczna Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"09-460","addr:place":"Orszymowo","addr:housenumber":"53","addr:teryt:sym_ul":570909,"contact:phone":"+48 242314221","contact:email":"szkolaorszymowo@poczta.onet.pl","ref:regon":"146453790","ref:vatin":"PL7743197676","operator":"Stowarzyszenie Rozwoju Wsi Orszymowo I Okolic","operator:type":"ngo","amenity":"school"}},{"id":80608,"type":"Feature","geometry":{"type":"Point","coordinates":[20.10291,52.45627]},"properties":{"ref:rspo":80608,"official_name":"Samorz\u0105dowe Przedszkole Z Oddzia\u0142em Integracyjnym w Ma\u0142ej Wsi","name":"Samorz\u0105dowe Przedszkole Z Oddzia\u0142em Integracyjnym w Ma\u0142ej Wsi","addr:country":"PL","addr:postcode":"09-460","addr:city":"Ma\u0142a Wie\u015b","addr:street":"ul. Jana Kochanowskiego","addr:housenumber":"17","addr:teryt:simc":8728,"addr:teryt:sym_ul":570750,"contact:phone":"+48 242314099","contact:email":"przedszkole.mw@wp.pl","ref:regon":"000903966","ref:vatin":"PL7742703947","operator":"Gmina Ma\u0142a Wie\u015b","operator:type":"government","amenity":"kindergarten"}},{"id":109089,"type":"Feature","geometry":{"type":"Point","coordinates":[20.10378,52.45864]},"properties":{"isced:level":"1;2","ref:rspo":109089,"official_name":"Szko\u0142a Podstawowa im. Wincentego Hipolita Gawareckiego w Ma\u0142ej Wsi","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"09-460","addr:city":"Ma\u0142a Wie\u015b","addr:street":"ul. Jana Kochanowskiego","addr:housenumber":"1 7","addr:teryt:simc":8728,"addr:teryt:sym_ul":570750,"contact:phone":"+48 242314044","contact:email":"sp_mala_wies@poczta.onet.pl","contact:website":"http:\/\/www.malawies.webd.pl\/","ref:regon":"000583102","ref:vatin":"PL7742703999","operator":"Gmina Ma\u0142a Wie\u015b","operator:type":"government","amenity":"school"}},{"id":80611,"type":"Feature","geometry":{"type":"Point","coordinates":[20.17153,52.49576]},"properties":{"isced:level":"1;2","ref:rspo":80611,"official_name":"Szko\u0142a Podstawowa w Dzier\u017canowie","name":"Szko\u0142a Podstawowa w Dzier\u017canowie","addr:country":"PL","addr:postcode":"09-460","addr:place":"Dzier\u017canowo","addr:housenumber":"53","addr:teryt:sym_ul":570677,"contact:phone":"+48 242313031","contact:email":"spdzierzanowo@wp.pl","contact:website":"http:\/\/spdzierzanowo.blogspot.com","ref:regon":"001115627","ref:vatin":"PL7742704007","operator":"Gmina Ma\u0142a Wie\u015b","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 80612,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.04253,
+                    52.41191
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 80612,
+                "official_name": "Szko\u0142a Podstawowa w Podg\u00f3rzu",
+                "name": "Szko\u0142a Podstawowa w Podg\u00f3rzu",
+                "addr:country": "PL",
+                "addr:postcode": "09-460",
+                "addr:place": "Podg\u00f3rze",
+                "addr:housenumber": "6",
+                "addr:teryt:sym_ul": 570944,
+                "contact:phone": "+48 242314153",
+                "contact:email": "podgorze@gazeta.pl",
+                "contact:website": "http:\/\/www.sppodgorze.pl",
+                "ref:regon": "001113210",
+                "ref:vatin": "PL7742703953",
+                "operator": "Gmina Ma\u0142a Wie\u015b",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 104690,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.15777,
+                    52.4559
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 104690,
+                "official_name": "Niepubliczna Szko\u0142a Podstawowa im. Marsza\u0142ka J\u00f3zefa Pi\u0142sudskiego w Orszymowie",
+                "name": "Niepubliczna Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "09-460",
+                "addr:place": "Orszymowo",
+                "addr:housenumber": "53",
+                "addr:teryt:sym_ul": 570909,
+                "contact:phone": "+48 242314221",
+                "contact:email": "szkolaorszymowo@poczta.onet.pl",
+                "ref:regon": "146453790",
+                "ref:vatin": "PL7743197676",
+                "operator": "Stowarzyszenie Rozwoju Wsi Orszymowo I Okolic",
+                "operator:type": "ngo",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 80608,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.10291,
+                    52.45627
+                ]
+            },
+            "properties": {
+                "ref:rspo": 80608,
+                "official_name": "Samorz\u0105dowe Przedszkole Z Oddzia\u0142em Integracyjnym w Ma\u0142ej Wsi",
+                "name": "Samorz\u0105dowe Przedszkole Z Oddzia\u0142em Integracyjnym w Ma\u0142ej Wsi",
+                "addr:country": "PL",
+                "addr:postcode": "09-460",
+                "addr:city": "Ma\u0142a Wie\u015b",
+                "addr:street": "ul. Jana Kochanowskiego",
+                "addr:housenumber": "17",
+                "addr:teryt:simc": 8728,
+                "addr:teryt:sym_ul": 570750,
+                "contact:phone": "+48 242314099",
+                "contact:email": "przedszkole.mw@wp.pl",
+                "ref:regon": "000903966",
+                "ref:vatin": "PL7742703947",
+                "operator": "Gmina Ma\u0142a Wie\u015b",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 109089,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.10378,
+                    52.45864
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 109089,
+                "official_name": "Szko\u0142a Podstawowa im. Wincentego Hipolita Gawareckiego w Ma\u0142ej Wsi",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "09-460",
+                "addr:city": "Ma\u0142a Wie\u015b",
+                "addr:street": "ul. Jana Kochanowskiego",
+                "addr:housenumber": "1 7",
+                "addr:teryt:simc": 8728,
+                "addr:teryt:sym_ul": 570750,
+                "contact:phone": "+48 242314044",
+                "contact:email": "sp_mala_wies@poczta.onet.pl",
+                "contact:website": "http:\/\/www.malawies.webd.pl\/",
+                "ref:regon": "000583102",
+                "ref:vatin": "PL7742703999",
+                "operator": "Gmina Ma\u0142a Wie\u015b",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 80611,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.17153,
+                    52.49576
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 80611,
+                "official_name": "Szko\u0142a Podstawowa w Dzier\u017canowie",
+                "name": "Szko\u0142a Podstawowa w Dzier\u017canowie",
+                "addr:country": "PL",
+                "addr:postcode": "09-460",
+                "addr:place": "Dzier\u017canowo",
+                "addr:housenumber": "53",
+                "addr:teryt:sym_ul": 570677,
+                "contact:phone": "+48 242313031",
+                "contact:email": "spdzierzanowo@wp.pl",
+                "contact:website": "http:\/\/spdzierzanowo.blogspot.com",
+                "ref:regon": "001115627",
+                "ref:vatin": "PL7742704007",
+                "operator": "Gmina Ma\u0142a Wie\u015b",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

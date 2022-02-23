@@ -1,1 +1,98 @@
-{"type":"FeatureCollection","features":[{"id":29539,"type":"Feature","geometry":{"type":"Point","coordinates":[20.2936799,51.59736]},"properties":{"isced:level":"1;2","ref:rspo":29539,"official_name":"Szko\u0142a Podstawowa im. Narcyzy \u017bmichowskiej w Rzeczycy","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"97-220","addr:city":"Rzeczyca","addr:street":"ul. ks. J\u0119drzeja Kitowicza","addr:housenumber":"4","addr:teryt:simc":8466,"addr:teryt:sym_ul":551527,"contact:phone":"+48 447105193","contact:email":"psprzeczyca@poczta.onet.pl","contact:website":"http:\/\/www.szkola-rzeczyca.pl\/","ref:regon":"000684926","ref:vatin":"PL7732228367","operator":"Gmina Rzeczyca","operator:type":"government","amenity":"school","note":"Children RSPO: 121583;121588"}},{"id":121583,"type":"Feature","geometry":{"type":"Point","coordinates":[20.3828299,51.5996499]},"properties":{"isced:level":"1;2","ref:rspo":121583,"official_name":"Szko\u0142a Podstawowa im. Narcyzy \u017bmichowskiej w Rzeczycy, Filia w Luboczy","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"97-220","addr:place":"Lubocz","addr:housenumber":"3","addr:teryt:sym_ul":551496,"contact:phone":"+48 447105193","contact:email":"psprzeczyca@poczta.onet.pl","contact:website":"http:\/\/www.szkola-rzeczyca.pl","ref:regon":"684926000","operator":"Gmina Rzeczyca","operator:type":"government","amenity":"school","note":"Parent RSPO: 29539"}},{"id":121588,"type":"Feature","geometry":{"type":"Point","coordinates":[20.29252,51.62658]},"properties":{"isced:level":"1;2","ref:rspo":121588,"official_name":"Szko\u0142a Podstawowa im. Narcyzy \u017bmichowskiej w Rzeczycy, Filia w Sadykierzu","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"97-220","addr:place":"Sadykierz","addr:housenumber":"51","addr:teryt:sym_ul":551540,"contact:phone":"+48 447105193","contact:email":"psprzeczyca@poczta.onet.pl","contact:website":"http:\/\/www.szkola-rzeczyca.pl","ref:regon":"684926000","operator":"Gmina Rzeczyca","operator:type":"government","amenity":"school","note":"Parent RSPO: 29539"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 29539,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.2936799,
+                    51.59736
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 29539,
+                "official_name": "Szko\u0142a Podstawowa im. Narcyzy \u017bmichowskiej w Rzeczycy",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "97-220",
+                "addr:city": "Rzeczyca",
+                "addr:street": "ul. ks. J\u0119drzeja Kitowicza",
+                "addr:housenumber": "4",
+                "addr:teryt:simc": 8466,
+                "addr:teryt:sym_ul": 551527,
+                "contact:phone": "+48 447105193",
+                "contact:email": "psprzeczyca@poczta.onet.pl",
+                "contact:website": "http:\/\/www.szkola-rzeczyca.pl\/",
+                "ref:regon": "000684926",
+                "ref:vatin": "PL7732228367",
+                "operator": "Gmina Rzeczyca",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Children RSPO: 121583;121588"
+            }
+        },
+        {
+            "id": 121583,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.3828299,
+                    51.5996499
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 121583,
+                "official_name": "Szko\u0142a Podstawowa im. Narcyzy \u017bmichowskiej w Rzeczycy, Filia w Luboczy",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "97-220",
+                "addr:place": "Lubocz",
+                "addr:housenumber": "3",
+                "addr:teryt:sym_ul": 551496,
+                "contact:phone": "+48 447105193",
+                "contact:email": "psprzeczyca@poczta.onet.pl",
+                "contact:website": "http:\/\/www.szkola-rzeczyca.pl",
+                "ref:regon": "684926000",
+                "operator": "Gmina Rzeczyca",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 29539"
+            }
+        },
+        {
+            "id": 121588,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.29252,
+                    51.62658
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 121588,
+                "official_name": "Szko\u0142a Podstawowa im. Narcyzy \u017bmichowskiej w Rzeczycy, Filia w Sadykierzu",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "97-220",
+                "addr:place": "Sadykierz",
+                "addr:housenumber": "51",
+                "addr:teryt:sym_ul": 551540,
+                "contact:phone": "+48 447105193",
+                "contact:email": "psprzeczyca@poczta.onet.pl",
+                "contact:website": "http:\/\/www.szkola-rzeczyca.pl",
+                "ref:regon": "684926000",
+                "operator": "Gmina Rzeczyca",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 29539"
+            }
+        }
+    ]
+}

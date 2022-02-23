@@ -1,1 +1,132 @@
-{"type":"FeatureCollection","features":[{"id":65212,"type":"Feature","geometry":{"type":"Point","coordinates":[19.06575,50.02411]},"properties":{"isced:level":"1;2","ref:rspo":65212,"official_name":"Szko\u0142a Podstawowa im. J\u00f3zefa Kassolika w Mi\u0119dzyrzeczu","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"43-220","addr:city":"Mi\u0119dzyrzecze","addr:street":"ul. \u017bubr\u00f3w","addr:housenumber":"13","addr:teryt:simc":26550,"addr:teryt:sym_ul":212720,"contact:phone":"+48 322189200","contact:email":"sekretariat@spkassolik.pl","contact:website":"http:\/\/www.spkassolik.pl","ref:regon":"000725938","ref:vatin":"PL6462484159","operator":"Gmina Bojszowy","operator:type":"government","amenity":"school"}},{"id":65218,"type":"Feature","geometry":{"type":"Point","coordinates":[19.100500106811,50.057949066162]},"properties":{"isced:level":"1;2","ref:rspo":65218,"official_name":"Szko\u0142a Podstawowa Im Wilhelma Gawlikowicza w Bojszowach","name":"Szko\u0142a Podstawowa Im Wilhelma Gawlikowicza w Bojszowach","addr:country":"PL","addr:postcode":"43-220","addr:city":"Bojszowy","addr:street":"ul. \u015awi\u0119tego Jana","addr:housenumber":"33","addr:teryt:simc":33209,"addr:teryt:sym_ul":212707,"contact:phone":"+48 322189122","contact:email":"sp_bojszowy@poczta.onet.pl","contact:website":"http:\/\/www.spbojszowy.pl","ref:regon":"000725915","ref:vatin":"PL6462484171","operator":"Gmina Bojszowy","operator:type":"government","amenity":"school"}},{"id":92269,"type":"Feature","geometry":{"type":"Point","coordinates":[19.05069,50.06065]},"properties":{"isced:level":"1;2","ref:rspo":92269,"official_name":"Gminna Szko\u0142a Podstawowa Z Oddzia\u0142ami Integracyjnymi im. Ks. Jerzego Popie\u0142uszki w \u015awierczy\u0144cu","name":"Gminna Szko\u0142a Podstawowa Z Oddzia\u0142ami Integracyjnymi","addr:country":"PL","addr:postcode":"43-220","addr:city":"\u015awierczyniec","addr:street":"ul. Sierpowa","addr:housenumber":"38","addr:teryt:simc":19885,"addr:teryt:sym_ul":212736,"contact:phone":"+48 322189586","contact:email":"gsp_swierczyniec@wp.pl","contact:website":"http:\/\/www.gsp-swierczyniec.pl","ref:regon":"001385077","ref:vatin":"PL6462484165","operator":"Gmina Bojszowy","operator:type":"government","amenity":"school"}},{"id":64625,"type":"Feature","geometry":{"type":"Point","coordinates":[19.09277,50.06088]},"properties":{"ref:rspo":64625,"official_name":"Gminne Przedszkole w Bojszowach","name":"Gminne Przedszkole w Bojszowach","addr:country":"PL","addr:postcode":"43-220","addr:city":"Bojszowy","addr:street":"ul. Gaikowa","addr:housenumber":"64","addr:teryt:simc":5243,"addr:teryt:sym_ul":212707,"contact:phone":"+48 322189255","contact:email":"sekretariat@bojszowyprzedszkole.pl","contact:website":"http:\/\/www.przedszkole-bojszowy.szkolnastrona.pl","ref:regon":"271511756","ref:vatin":"PL6461030752","operator":"Gmina Bojszowy","operator:type":"government","amenity":"kindergarten"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 65212,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.06575,
+                    50.02411
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 65212,
+                "official_name": "Szko\u0142a Podstawowa im. J\u00f3zefa Kassolika w Mi\u0119dzyrzeczu",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "43-220",
+                "addr:city": "Mi\u0119dzyrzecze",
+                "addr:street": "ul. \u017bubr\u00f3w",
+                "addr:housenumber": "13",
+                "addr:teryt:simc": 26550,
+                "addr:teryt:sym_ul": 212720,
+                "contact:phone": "+48 322189200",
+                "contact:email": "sekretariat@spkassolik.pl",
+                "contact:website": "http:\/\/www.spkassolik.pl",
+                "ref:regon": "000725938",
+                "ref:vatin": "PL6462484159",
+                "operator": "Gmina Bojszowy",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 65218,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.100500106811,
+                    50.057949066162
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 65218,
+                "official_name": "Szko\u0142a Podstawowa Im Wilhelma Gawlikowicza w Bojszowach",
+                "name": "Szko\u0142a Podstawowa Im Wilhelma Gawlikowicza w Bojszowach",
+                "addr:country": "PL",
+                "addr:postcode": "43-220",
+                "addr:city": "Bojszowy",
+                "addr:street": "ul. \u015awi\u0119tego Jana",
+                "addr:housenumber": "33",
+                "addr:teryt:simc": 33209,
+                "addr:teryt:sym_ul": 212707,
+                "contact:phone": "+48 322189122",
+                "contact:email": "sp_bojszowy@poczta.onet.pl",
+                "contact:website": "http:\/\/www.spbojszowy.pl",
+                "ref:regon": "000725915",
+                "ref:vatin": "PL6462484171",
+                "operator": "Gmina Bojszowy",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 92269,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.05069,
+                    50.06065
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 92269,
+                "official_name": "Gminna Szko\u0142a Podstawowa Z Oddzia\u0142ami Integracyjnymi im. Ks. Jerzego Popie\u0142uszki w \u015awierczy\u0144cu",
+                "name": "Gminna Szko\u0142a Podstawowa Z Oddzia\u0142ami Integracyjnymi",
+                "addr:country": "PL",
+                "addr:postcode": "43-220",
+                "addr:city": "\u015awierczyniec",
+                "addr:street": "ul. Sierpowa",
+                "addr:housenumber": "38",
+                "addr:teryt:simc": 19885,
+                "addr:teryt:sym_ul": 212736,
+                "contact:phone": "+48 322189586",
+                "contact:email": "gsp_swierczyniec@wp.pl",
+                "contact:website": "http:\/\/www.gsp-swierczyniec.pl",
+                "ref:regon": "001385077",
+                "ref:vatin": "PL6462484165",
+                "operator": "Gmina Bojszowy",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 64625,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.09277,
+                    50.06088
+                ]
+            },
+            "properties": {
+                "ref:rspo": 64625,
+                "official_name": "Gminne Przedszkole w Bojszowach",
+                "name": "Gminne Przedszkole w Bojszowach",
+                "addr:country": "PL",
+                "addr:postcode": "43-220",
+                "addr:city": "Bojszowy",
+                "addr:street": "ul. Gaikowa",
+                "addr:housenumber": "64",
+                "addr:teryt:simc": 5243,
+                "addr:teryt:sym_ul": 212707,
+                "contact:phone": "+48 322189255",
+                "contact:email": "sekretariat@bojszowyprzedszkole.pl",
+                "contact:website": "http:\/\/www.przedszkole-bojszowy.szkolnastrona.pl",
+                "ref:regon": "271511756",
+                "ref:vatin": "PL6461030752",
+                "operator": "Gmina Bojszowy",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        }
+    ]
+}

@@ -1,1 +1,96 @@
-{"type":"FeatureCollection","features":[{"id":74203,"type":"Feature","geometry":{"type":"Point","coordinates":[23.02743,53.66393]},"properties":{"isced:level":"1;2","ref:rspo":74203,"official_name":"Szko\u0142a Podstawowa w Jaminach","name":"Szko\u0142a Podstawowa w Jaminach","addr:country":"PL","addr:postcode":"16-310","addr:place":"Jaminy","addr:housenumber":"25A","addr:teryt:sym_ul":769500,"contact:phone":"+48 876413004","contact:email":"spwj@neostrada.pl","contact:website":"http:\/\/www.spjaminy.stronazen.pl","ref:regon":"200740943","operator":"Spo\u0142eczno - O\u015bwiatowe Stowarzyszenie Pomocy Pokrzywdzonym I Niepe\u0142nosprawnym \"Edukator\"","operator:type":"ngo","amenity":"school"}},{"id":75697,"type":"Feature","geometry":{"type":"Point","coordinates":[23.0974499,53.68532]},"properties":{"isced:level":"1;2","ref:rspo":75697,"official_name":"Szko\u0142a Podstawowa im. Karola Brzostowskiego w Sztabinie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"16-310","addr:city":"Sztabin","addr:street":"ul. Augustowska","addr:housenumber":"82","addr:teryt:simc":493,"addr:teryt:sym_ul":769960,"contact:phone":"+48 876412033","contact:email":"sp.sztabin@gmail.com","contact:website":"http:\/\/www.spsztabin.szkolna.net","ref:regon":"791057941","ref:vatin":"PL8461540649","operator":"Gmina Sztabin","operator:type":"government","amenity":"school"}},{"id":75728,"type":"Feature","geometry":{"type":"Point","coordinates":[23.19508,53.72741]},"properties":{"isced:level":"1;2","ref:rspo":75728,"official_name":"Szko\u0142a Podstawowa im. Sybirak\u00f3w w Krasnymborze","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"16-310","addr:place":"Krasnyb\u00f3r","addr:housenumber":"59","addr:teryt:sym_ul":769798,"contact:phone":"+48 876414004","contact:email":"spinf@wp.pl","contact:website":"http:\/\/www.szkolakrasnybor.pl","ref:regon":"001144474","ref:vatin":"PL8461537920","operator":"Gmina Sztabin","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 74203,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.02743,
+                    53.66393
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 74203,
+                "official_name": "Szko\u0142a Podstawowa w Jaminach",
+                "name": "Szko\u0142a Podstawowa w Jaminach",
+                "addr:country": "PL",
+                "addr:postcode": "16-310",
+                "addr:place": "Jaminy",
+                "addr:housenumber": "25A",
+                "addr:teryt:sym_ul": 769500,
+                "contact:phone": "+48 876413004",
+                "contact:email": "spwj@neostrada.pl",
+                "contact:website": "http:\/\/www.spjaminy.stronazen.pl",
+                "ref:regon": "200740943",
+                "operator": "Spo\u0142eczno - O\u015bwiatowe Stowarzyszenie Pomocy Pokrzywdzonym I Niepe\u0142nosprawnym \"Edukator\"",
+                "operator:type": "ngo",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 75697,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.0974499,
+                    53.68532
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 75697,
+                "official_name": "Szko\u0142a Podstawowa im. Karola Brzostowskiego w Sztabinie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "16-310",
+                "addr:city": "Sztabin",
+                "addr:street": "ul. Augustowska",
+                "addr:housenumber": "82",
+                "addr:teryt:simc": 493,
+                "addr:teryt:sym_ul": 769960,
+                "contact:phone": "+48 876412033",
+                "contact:email": "sp.sztabin@gmail.com",
+                "contact:website": "http:\/\/www.spsztabin.szkolna.net",
+                "ref:regon": "791057941",
+                "ref:vatin": "PL8461540649",
+                "operator": "Gmina Sztabin",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 75728,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.19508,
+                    53.72741
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 75728,
+                "official_name": "Szko\u0142a Podstawowa im. Sybirak\u00f3w w Krasnymborze",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "16-310",
+                "addr:place": "Krasnyb\u00f3r",
+                "addr:housenumber": "59",
+                "addr:teryt:sym_ul": 769798,
+                "contact:phone": "+48 876414004",
+                "contact:email": "spinf@wp.pl",
+                "contact:website": "http:\/\/www.szkolakrasnybor.pl",
+                "ref:regon": "001144474",
+                "ref:vatin": "PL8461537920",
+                "operator": "Gmina Sztabin",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

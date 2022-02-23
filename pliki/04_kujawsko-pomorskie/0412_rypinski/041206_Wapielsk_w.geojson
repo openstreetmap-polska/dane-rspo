@@ -1,1 +1,180 @@
-{"type":"FeatureCollection","features":[{"id":42521,"type":"Feature","geometry":{"type":"Point","coordinates":[19.415557861328,53.048099517822]},"properties":{"isced:level":"1;2","ref:rspo":42521,"official_name":"Szko\u0142a Podstawowa im. Stanis\u0142wa Staszica w W\u0105pielsku","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"87-337","addr:place":"W\u0105pielsk","addr:housenumber":"114","addr:teryt:sym_ul":850448,"contact:phone":"+48 564938324","contact:email":"spwapielsk@wapielsk.pl","ref:regon":"001211762","ref:vatin":"PL8921342136","operator":"Gmina W\u0105pielsk","operator:type":"government","amenity":"school"}},{"id":42518,"type":"Feature","geometry":{"type":"Point","coordinates":[19.3256,53.11013]},"properties":{"isced:level":"1;2","ref:rspo":42518,"official_name":"Szko\u0142a Podstawowa im. Bohater\u00f3w Westerplatte","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"87-337","addr:place":"D\u0142ugie","addr:housenumber":"70","addr:teryt:sym_ul":850307,"contact:phone":"+48 564938392","contact:email":"spdlugie@wapielsk.pl","ref:regon":"001211785","ref:vatin":"PL8921342142","operator":"Gmina W\u0105pielsk","operator:type":"government","amenity":"school"}},{"id":42520,"type":"Feature","geometry":{"type":"Point","coordinates":[19.22557,53.14449]},"properties":{"isced:level":"1;2","ref:rspo":42520,"official_name":"Szko\u0142a Podstawowa w P\u00f3\u0142wiesku Ma\u0142ym","name":"Szko\u0142a Podstawowa w P\u00f3\u0142wiesku Ma\u0142ym","addr:country":"PL","addr:postcode":"87-337","addr:place":"P\u00f3\u0142wiesk Ma\u0142y","addr:housenumber":"37","addr:teryt:sym_ul":850388,"contact:phone":"+48 564937448","contact:email":"sppolwieskmaly@wapielsk.pl","ref:regon":"001211779","ref:vatin":"PL8921338809","operator":"Gmina W\u0105pielsk","operator:type":"government","amenity":"school"}},{"id":131558,"type":"Feature","geometry":{"type":"Point","coordinates":[19.2786827,53.165249]},"properties":{"ref:rspo":131558,"official_name":"Zesp\u00f3\u0142 Szkolno - Przedszkolny w Radzikach Du\u017cych","name":"Zesp\u00f3\u0142 Szkolno - Przedszkolny w Radzikach Du\u017cych","addr:country":"PL","addr:postcode":"87-337","addr:place":"Radziki Du\u017ce","addr:housenumber":"9b","addr:teryt:sym_ul":850394,"contact:phone":"+48 564938231","contact:email":"zspradziki@gmail.com","ref:regon":"365225621","operator":"Gmina W\u0105pielsk","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 42517;131486"}},{"id":42517,"type":"Feature","geometry":{"type":"Point","coordinates":[19.2786827,53.165219]},"properties":{"isced:level":"1;2","ref:rspo":42517,"official_name":"Szko\u0142a Podstawowa w Radzikach Du\u017cych","name":"Szko\u0142a Podstawowa w Radzikach Du\u017cych","addr:country":"PL","addr:postcode":"87-337","addr:place":"Radziki Du\u017ce","addr:housenumber":"9","addr:teryt:sym_ul":850394,"contact:phone":"+48 564938231","contact:email":"spradziki@vp.pl","contact:website":"http:\/\/www.radziki.edupage.org","ref:regon":"000272276","ref:vatin":"PL8921338815","operator":"Gmina W\u0105pielsk","operator:type":"government","amenity":"school","note":"Parent RSPO: 131558"}},{"id":131486,"type":"Feature","geometry":{"type":"Point","coordinates":[19.2786827,53.165189000000005]},"properties":{"ref:rspo":131486,"official_name":"Przedszkole Samorz\u0105dowe w Radzikach Du\u017cych","name":"Przedszkole Samorz\u0105dowe w Radzikach Du\u017cych","addr:country":"PL","addr:postcode":"87-337","addr:place":"Radziki Du\u017ce","addr:housenumber":"9b","addr:teryt:sym_ul":850394,"contact:phone":"+48 564938231","contact:email":"spradziki@vp.pl","ref:regon":"365197907","operator":"Gmina W\u0105pielsk","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 131558"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 42521,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.415557861328,
+                    53.048099517822
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 42521,
+                "official_name": "Szko\u0142a Podstawowa im. Stanis\u0142wa Staszica w W\u0105pielsku",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "87-337",
+                "addr:place": "W\u0105pielsk",
+                "addr:housenumber": "114",
+                "addr:teryt:sym_ul": 850448,
+                "contact:phone": "+48 564938324",
+                "contact:email": "spwapielsk@wapielsk.pl",
+                "ref:regon": "001211762",
+                "ref:vatin": "PL8921342136",
+                "operator": "Gmina W\u0105pielsk",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 42518,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.3256,
+                    53.11013
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 42518,
+                "official_name": "Szko\u0142a Podstawowa im. Bohater\u00f3w Westerplatte",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "87-337",
+                "addr:place": "D\u0142ugie",
+                "addr:housenumber": "70",
+                "addr:teryt:sym_ul": 850307,
+                "contact:phone": "+48 564938392",
+                "contact:email": "spdlugie@wapielsk.pl",
+                "ref:regon": "001211785",
+                "ref:vatin": "PL8921342142",
+                "operator": "Gmina W\u0105pielsk",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 42520,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.22557,
+                    53.14449
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 42520,
+                "official_name": "Szko\u0142a Podstawowa w P\u00f3\u0142wiesku Ma\u0142ym",
+                "name": "Szko\u0142a Podstawowa w P\u00f3\u0142wiesku Ma\u0142ym",
+                "addr:country": "PL",
+                "addr:postcode": "87-337",
+                "addr:place": "P\u00f3\u0142wiesk Ma\u0142y",
+                "addr:housenumber": "37",
+                "addr:teryt:sym_ul": 850388,
+                "contact:phone": "+48 564937448",
+                "contact:email": "sppolwieskmaly@wapielsk.pl",
+                "ref:regon": "001211779",
+                "ref:vatin": "PL8921338809",
+                "operator": "Gmina W\u0105pielsk",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 131558,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.2786827,
+                    53.165249
+                ]
+            },
+            "properties": {
+                "ref:rspo": 131558,
+                "official_name": "Zesp\u00f3\u0142 Szkolno - Przedszkolny w Radzikach Du\u017cych",
+                "name": "Zesp\u00f3\u0142 Szkolno - Przedszkolny w Radzikach Du\u017cych",
+                "addr:country": "PL",
+                "addr:postcode": "87-337",
+                "addr:place": "Radziki Du\u017ce",
+                "addr:housenumber": "9b",
+                "addr:teryt:sym_ul": 850394,
+                "contact:phone": "+48 564938231",
+                "contact:email": "zspradziki@gmail.com",
+                "ref:regon": "365225621",
+                "operator": "Gmina W\u0105pielsk",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 42517;131486"
+            }
+        },
+        {
+            "id": 42517,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.2786827,
+                    53.165219
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 42517,
+                "official_name": "Szko\u0142a Podstawowa w Radzikach Du\u017cych",
+                "name": "Szko\u0142a Podstawowa w Radzikach Du\u017cych",
+                "addr:country": "PL",
+                "addr:postcode": "87-337",
+                "addr:place": "Radziki Du\u017ce",
+                "addr:housenumber": "9",
+                "addr:teryt:sym_ul": 850394,
+                "contact:phone": "+48 564938231",
+                "contact:email": "spradziki@vp.pl",
+                "contact:website": "http:\/\/www.radziki.edupage.org",
+                "ref:regon": "000272276",
+                "ref:vatin": "PL8921338815",
+                "operator": "Gmina W\u0105pielsk",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 131558"
+            }
+        },
+        {
+            "id": 131486,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.2786827,
+                    53.165189000000005
+                ]
+            },
+            "properties": {
+                "ref:rspo": 131486,
+                "official_name": "Przedszkole Samorz\u0105dowe w Radzikach Du\u017cych",
+                "name": "Przedszkole Samorz\u0105dowe w Radzikach Du\u017cych",
+                "addr:country": "PL",
+                "addr:postcode": "87-337",
+                "addr:place": "Radziki Du\u017ce",
+                "addr:housenumber": "9b",
+                "addr:teryt:sym_ul": 850394,
+                "contact:phone": "+48 564938231",
+                "contact:email": "spradziki@vp.pl",
+                "ref:regon": "365197907",
+                "operator": "Gmina W\u0105pielsk",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 131558"
+            }
+        }
+    ]
+}

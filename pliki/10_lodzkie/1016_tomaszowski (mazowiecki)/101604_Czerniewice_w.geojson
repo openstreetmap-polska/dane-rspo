@@ -1,1 +1,132 @@
-{"type":"FeatureCollection","features":[{"id":20079,"type":"Feature","geometry":{"type":"Point","coordinates":[20.16393,51.65781]},"properties":{"ref:rspo":20079,"official_name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w Czerniewicach","name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w Czerniewicach","addr:country":"PL","addr:postcode":"97-216","addr:city":"Czerniewice","addr:street":"ul. Mazowiecka","addr:housenumber":"88","addr:teryt:simc":12540,"addr:teryt:sym_ul":537355,"contact:phone":"+48 447104062","contact:email":"zsipczerniewice.edupage@gmail.com","contact:website":"https:\/\/www.zsp.czerniewice.pl","ref:regon":"592292231","ref:vatin":"PL7732311921","operator":"Gmina Czerniewice","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 24081;29141"}},{"id":24081,"type":"Feature","geometry":{"type":"Point","coordinates":[20.16393,51.657779999999995]},"properties":{"ref:rspo":24081,"official_name":"Przedszkole Komunalne w Czerniewicach","name":"Przedszkole Komunalne w Czerniewicach","addr:country":"PL","addr:postcode":"97-216","addr:city":"Czerniewice","addr:street":"ul. Mazowiecka","addr:housenumber":"88","addr:teryt:simc":12540,"addr:teryt:sym_ul":537355,"contact:phone":"+48 447104062","contact:email":"zsipczerniewice.edupage@gmail.com","contact:website":"https:\/\/www.zsp.czerniewice.pl","ref:regon":"590426609","ref:vatin":"PL7732204007","operator":"Gmina Czerniewice","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 20079"}},{"id":29141,"type":"Feature","geometry":{"type":"Point","coordinates":[20.16393,51.65775]},"properties":{"isced:level":"1;2","ref:rspo":29141,"official_name":"Publiczna Szko\u0142a Podstawowa im.wojciecha Bogus\u0142awskiego w Czerniewicach","name":"Publiczna Szko\u0142a Podstawowa im.wojciecha Bogus\u0142awskiego w Czerniewicach","addr:country":"PL","addr:postcode":"97-216","addr:city":"Czerniewice","addr:street":"ul. Mazowiecka","addr:housenumber":"88","addr:teryt:simc":12540,"addr:teryt:sym_ul":537355,"contact:phone":"+48 447104062","contact:email":"zsipczerniewice.edupage@gmail.com","contact:website":"https:\/\/www.zsp.czerniewice.pl","ref:regon":"000684895","ref:vatin":"PL7732204036","operator":"Gmina Czerniewice","operator:type":"government","amenity":"school","note":"Parent RSPO: 20079"}},{"id":20078,"type":"Feature","geometry":{"type":"Point","coordinates":[20.2102,51.67359]},"properties":{"isced:level":"1;2","ref:rspo":20078,"official_name":"Publiczna Szko\u0142a Podstawowa w Lipiu im.ks.prymasa Jana Lipskiego","name":"Publiczna Szko\u0142a Podstawowa w Lipiu im.ks.prymasa Jana Lipskiego","addr:country":"PL","addr:postcode":"97-216","addr:place":"Lipie","addr:housenumber":"45","addr:teryt:sym_ul":537421,"contact:phone":"+48 447104004","contact:email":"lipie3@wp.pl","ref:regon":"001140507","ref:vatin":"PL7732203982","operator":"Gmina Czerniewice","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 20079,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.16393,
+                    51.65781
+                ]
+            },
+            "properties": {
+                "ref:rspo": 20079,
+                "official_name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w Czerniewicach",
+                "name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w Czerniewicach",
+                "addr:country": "PL",
+                "addr:postcode": "97-216",
+                "addr:city": "Czerniewice",
+                "addr:street": "ul. Mazowiecka",
+                "addr:housenumber": "88",
+                "addr:teryt:simc": 12540,
+                "addr:teryt:sym_ul": 537355,
+                "contact:phone": "+48 447104062",
+                "contact:email": "zsipczerniewice.edupage@gmail.com",
+                "contact:website": "https:\/\/www.zsp.czerniewice.pl",
+                "ref:regon": "592292231",
+                "ref:vatin": "PL7732311921",
+                "operator": "Gmina Czerniewice",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 24081;29141"
+            }
+        },
+        {
+            "id": 24081,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.16393,
+                    51.657779999999995
+                ]
+            },
+            "properties": {
+                "ref:rspo": 24081,
+                "official_name": "Przedszkole Komunalne w Czerniewicach",
+                "name": "Przedszkole Komunalne w Czerniewicach",
+                "addr:country": "PL",
+                "addr:postcode": "97-216",
+                "addr:city": "Czerniewice",
+                "addr:street": "ul. Mazowiecka",
+                "addr:housenumber": "88",
+                "addr:teryt:simc": 12540,
+                "addr:teryt:sym_ul": 537355,
+                "contact:phone": "+48 447104062",
+                "contact:email": "zsipczerniewice.edupage@gmail.com",
+                "contact:website": "https:\/\/www.zsp.czerniewice.pl",
+                "ref:regon": "590426609",
+                "ref:vatin": "PL7732204007",
+                "operator": "Gmina Czerniewice",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 20079"
+            }
+        },
+        {
+            "id": 29141,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.16393,
+                    51.65775
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 29141,
+                "official_name": "Publiczna Szko\u0142a Podstawowa im.wojciecha Bogus\u0142awskiego w Czerniewicach",
+                "name": "Publiczna Szko\u0142a Podstawowa im.wojciecha Bogus\u0142awskiego w Czerniewicach",
+                "addr:country": "PL",
+                "addr:postcode": "97-216",
+                "addr:city": "Czerniewice",
+                "addr:street": "ul. Mazowiecka",
+                "addr:housenumber": "88",
+                "addr:teryt:simc": 12540,
+                "addr:teryt:sym_ul": 537355,
+                "contact:phone": "+48 447104062",
+                "contact:email": "zsipczerniewice.edupage@gmail.com",
+                "contact:website": "https:\/\/www.zsp.czerniewice.pl",
+                "ref:regon": "000684895",
+                "ref:vatin": "PL7732204036",
+                "operator": "Gmina Czerniewice",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 20079"
+            }
+        },
+        {
+            "id": 20078,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.2102,
+                    51.67359
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 20078,
+                "official_name": "Publiczna Szko\u0142a Podstawowa w Lipiu im.ks.prymasa Jana Lipskiego",
+                "name": "Publiczna Szko\u0142a Podstawowa w Lipiu im.ks.prymasa Jana Lipskiego",
+                "addr:country": "PL",
+                "addr:postcode": "97-216",
+                "addr:place": "Lipie",
+                "addr:housenumber": "45",
+                "addr:teryt:sym_ul": 537421,
+                "contact:phone": "+48 447104004",
+                "contact:email": "lipie3@wp.pl",
+                "ref:regon": "001140507",
+                "ref:vatin": "PL7732203982",
+                "operator": "Gmina Czerniewice",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

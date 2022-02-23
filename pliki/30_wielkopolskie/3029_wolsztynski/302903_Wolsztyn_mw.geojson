@@ -1,1 +1,2005 @@
-{"type":"FeatureCollection","features":[{"id":265731,"type":"Feature","geometry":{"type":"Point","coordinates":[16.37845,52.0008399]},"properties":{"ref:rspo":265731,"official_name":"Centrum Szkoleniowe Camp X Anita Karcz","name":"Centrum Szkoleniowe Camp X Anita Karcz","addr:country":"PL","addr:postcode":"64-200","addr:city":"Karpicko","addr:street":"ul. Kasztanowa","addr:housenumber":"6","addr:teryt:simc":8171,"addr:teryt:sym_ul":916377,"contact:email":"biuro.campx@gmail.com","ref:regon":"368870434","operator":"Anita Karcz","operator:type":"private","fixme":"w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. amenity=training + training=*, amenity=dancing_school, amenity=language_school, amenity=music_school)"}},{"id":46648,"type":"Feature","geometry":{"type":"Point","coordinates":[16.04614,52.0093]},"properties":{"ref:rspo":46648,"official_name":"Zesp\u00f3\u0142 Szkolno - Przedszkolny w \u015awi\u0119tnie","name":"Zesp\u00f3\u0142 Szkolno - Przedszkolny w \u015awi\u0119tnie","addr:country":"PL","addr:postcode":"64-224","addr:city":"\u015awi\u0119tno","addr:street":"ul. Szkolna","addr:housenumber":"3","addr:teryt:simc":21970,"addr:teryt:sym_ul":916621,"contact:phone":"+48 683841312","contact:email":"sp.swietno@poczta.fm","contact:website":"http:\/\/www.zspswietno.pl","ref:regon":"411559545","ref:vatin":"PL9231610068","operator":"Gmina Wolsztyn","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 60785;62382"}},{"id":60785,"type":"Feature","geometry":{"type":"Point","coordinates":[16.04614,52.00927]},"properties":{"ref:rspo":60785,"official_name":"Publiczne Przedszkole w \u015awi\u0119tnie","name":"Publiczne Przedszkole w \u015awi\u0119tnie","addr:country":"PL","addr:postcode":"64-224","addr:city":"\u015awi\u0119tno","addr:street":"ul. Szkolna","addr:housenumber":"3","addr:teryt:simc":21970,"addr:teryt:sym_ul":916621,"contact:phone":"+48 683841312","contact:email":"sp.swietno@poczta.fm","contact:website":"http:\/\/www.zspswietno.pl","ref:regon":"411559568","ref:vatin":"PL9231459950","operator":"Gmina Wolsztyn","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 46648"}},{"id":62382,"type":"Feature","geometry":{"type":"Point","coordinates":[16.04614,52.009240000000005]},"properties":{"isced:level":"1;2","ref:rspo":62382,"official_name":"Szko\u0142a Podstawowa im. Jana Paw\u0142a II w \u015awi\u0119tnie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"64-224","addr:city":"\u015awi\u0119tno","addr:street":"ul. Szkolna","addr:housenumber":"3","addr:teryt:simc":21970,"addr:teryt:sym_ul":916621,"contact:phone":"+48 683841312","contact:email":"sp.swietno@poczta.fm","contact:website":"http:\/\/www.zspswietno.pl","ref:regon":"411181325","ref:vatin":"PL9231610068","operator":"Gmina Wolsztyn","operator:type":"government","amenity":"school","note":"Parent RSPO: 46648"}},{"id":127121,"type":"Feature","geometry":{"type":"Point","coordinates":[16.10511,52.04413]},"properties":{"ref:rspo":127121,"official_name":"Pracownia Psychologiczno-Terapeutyczna Neuro-Psycho-Soma Daniel Naskrent Niepubliczna Poradnia Psychologiczno-Pedagogiczna w Wolsztynie","name":"Pracownia Psychologiczno-Terapeutyczna Neuro-Psycho-Soma Daniel Naskrent Niepubliczna Poradnia Psychologiczno-Pedagogiczna w Wolsztynie","addr:country":"PL","addr:postcode":"64-200","addr:city":"Wolsztyn","addr:street":"ul. Wodna","addr:housenumber":"8","addr:teryt:simc":24550,"addr:teryt:sym_ul":988632,"contact:phone":"+48 503429102","ref:regon":"361140187","operator":"Daniel Naskrent","operator:type":"private","healthcare":"councelling","counselling_type":"education","fixme":"w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. healthcare=councelling + counselling_type=education albo healthcare=psychotherapist)"}},{"id":10341,"type":"Feature","geometry":{"type":"Point","coordinates":[16.10397,52.04674]},"properties":{"ref:rspo":10341,"official_name":"Zesp\u00f3\u0142 Szkolno - Przedszkolny w K\u0119b\u0142owie","name":"Zesp\u00f3\u0142 Szkolno - Przedszkolny w K\u0119b\u0142owie","addr:country":"PL","addr:postcode":"64-223","addr:city":"K\u0119b\u0142owo","addr:street":"ul. Strady\u0144ska","addr:housenumber":"15a","addr:teryt:simc":21257,"addr:teryt:sym_ul":916383,"contact:phone":"+48 683841940","contact:email":"spkeblowo@wp.pl","contact:website":"http:\/\/www.zspkeblowo.pl","ref:regon":"301423259","ref:vatin":"PL9231677144","operator":"Gmina Wolsztyn","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 43317;53634"}},{"id":53634,"type":"Feature","geometry":{"type":"Point","coordinates":[16.10397,52.04671]},"properties":{"isced:level":"1;2","ref:rspo":53634,"official_name":"Szko\u0142a Podstawowa im. Franciszka Jujki w K\u0119b\u0142owie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"64-223","addr:city":"K\u0119b\u0142owo","addr:street":"ul. Strady\u0144ska","addr:housenumber":"15a","addr:teryt:simc":21257,"addr:teryt:sym_ul":916383,"contact:phone":"+48 683841940","contact:email":"spkeblowo@wp.pl","contact:website":"http:\/\/www.zspkeblowo.pl","ref:regon":"411181360","ref:vatin":"PL9231460172","operator":"Gmina Wolsztyn","operator:type":"government","amenity":"school","note":"Parent RSPO: 10341"}},{"id":43317,"type":"Feature","geometry":{"type":"Point","coordinates":[16.10272,52.04943]},"properties":{"ref:rspo":43317,"official_name":"Przedszkole w K\u0119b\u0142owie Zesp\u00f3\u0142 Szkolno-Przedszkolny w K\u0119b\u0142owie","name":"Przedszkole w K\u0119b\u0142owie Zesp\u00f3\u0142 Szkolno-Przedszkolny w K\u0119b\u0142owie","addr:country":"PL","addr:postcode":"64-223","addr:city":"K\u0119b\u0142owo","addr:street":"ul. Wolszty\u0144ska","addr:housenumber":"19","addr:teryt:simc":24704,"addr:teryt:sym_ul":916383,"contact:phone":"+48 683841940","contact:email":"spkeblowo@wp.pl","contact:website":"http:\/\/www.zspkeblowo.pl","ref:regon":"301381578","ref:vatin":"PL9231676050","operator":"Gmina Wolsztyn","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 10341"}},{"id":9487,"type":"Feature","geometry":{"type":"Point","coordinates":[16.149229049683,52.055690765381]},"properties":{"ref:rspo":9487,"official_name":"Dom Wczas\u00f3w Dzieci\u0119cych","name":"Dom Wczas\u00f3w Dzieci\u0119cych","addr:country":"PL","addr:postcode":"64-200","addr:city":"Wroniawy","addr:street":"ul. Wolszty\u0144ska","addr:housenumber":"13","addr:teryt:simc":24704,"addr:teryt:sym_ul":916680,"contact:phone":"+48 683841520","contact:email":"dwdpalac@poczta.onet.pl","contact:website":"http:\/\/www.dwdpalac.com","ref:regon":"000193329","ref:vatin":"PL9231012226","operator":"Powiat Wolszty\u0144ski","operator:type":"government","leisure":"resort"}},{"id":13783,"type":"Feature","geometry":{"type":"Point","coordinates":[16.1557299,52.05901]},"properties":{"isced:level":"1;2","ref:rspo":13783,"official_name":"Szko\u0142a Podstawowa we Wroniawach","name":"Szko\u0142a Podstawowa we Wroniawach","addr:country":"PL","addr:postcode":"64-200","addr:city":"Wroniawy","addr:street":"ul. Dworcowa","addr:housenumber":"33","addr:teryt:simc":4434,"addr:teryt:sym_ul":916680,"contact:phone":"+48 683841622","contact:email":"sp_wroniawy@wp.pl","contact:website":"http:\/\/www.spwroniawy.pl","ref:regon":"411181377","ref:vatin":"PL9231459973","operator":"Gmina Wolsztyn","operator:type":"government","amenity":"school","note":"Children RSPO: 104158"}},{"id":115500,"type":"Feature","geometry":{"type":"Point","coordinates":[16.1557299,52.05898]},"properties":{"ref:rspo":115500,"official_name":"Punkt Przedszkolny w Szkole Podstawowej we Wroniawach","name":"Punkt Przedszkolny w Szkole Podstawowej we Wroniawach","addr:country":"PL","addr:postcode":"64-200","addr:city":"Wroniawy","addr:street":"ul. Dworcowa","addr:housenumber":"33","addr:teryt:simc":4434,"addr:teryt:sym_ul":916680,"contact:phone":"+48 683841622","contact:email":"sp_wroniawy@wp.pl","contact:website":"http:\/\/www.spwroniawy.pl","ref:regon":"302473510","operator":"Gmina Wolsztyn","operator:type":"government","amenity":"kindergarten"}},{"id":115502,"type":"Feature","geometry":{"type":"Point","coordinates":[16.128293991089,52.070255279541]},"properties":{"ref:rspo":115502,"official_name":"Punkt Przedszkolny w Szkole Podstawowej w Karpicku","name":"Punkt Przedszkolny w Szkole Podstawowej w Karpicku","addr:country":"PL","addr:postcode":"64-200","addr:place":"Karpicko","addr:housenumber":"72","addr:teryt:sym_ul":916377,"contact:phone":"+48 683843834","contact:email":"kontakt@spkarpicko.pl","contact:website":"http:\/\/www.spkarpicko.pl","ref:regon":"302473549","operator":"Gmina Wolsztyn","operator:type":"government","amenity":"kindergarten"}},{"id":133862,"type":"Feature","geometry":{"type":"Point","coordinates":[16.04662,52.07363]},"properties":{"ref:rspo":133862,"official_name":"Zesp\u00f3\u0142 Szkolno - Przedszkolny w Obrze","name":"Zesp\u00f3\u0142 Szkolno - Przedszkolny w Obrze","addr:country":"PL","addr:postcode":"64-211","addr:city":"Obra","addr:street":"ul. Szkolna","addr:housenumber":"19","addr:teryt:simc":21970,"addr:teryt:sym_ul":916526,"contact:phone":"+48 683841227","contact:email":"szkolaobra@interia.pl","contact:website":"http:\/\/www.szkolaobra.bior.pl","ref:regon":"367696247","operator":"Gmina Wolsztyn","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 50139;68324"}},{"id":50139,"type":"Feature","geometry":{"type":"Point","coordinates":[16.04662,52.0736]},"properties":{"ref:rspo":50139,"official_name":"Przedszkole im. \"Bajkowy Zak\u0105tek\" w Obrze","name":"Przedszkole","addr:country":"PL","addr:postcode":"64-211","addr:city":"Obra","addr:street":"ul. Szkolna","addr:housenumber":"19","addr:teryt:simc":21970,"addr:teryt:sym_ul":916526,"contact:phone":"+48 683841227","contact:email":"szkolaobra@interia.pl","contact:website":"http:\/\/www.przedszkoleobra.bior.pl","ref:regon":"411181420","ref:vatin":"PL9231459944","operator":"Gmina Wolsztyn","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 133862"}},{"id":68324,"type":"Feature","geometry":{"type":"Point","coordinates":[16.04662,52.073570000000004]},"properties":{"isced:level":"1;2","ref:rspo":68324,"official_name":"Szko\u0142a Podstawowa im. Misjonarzy Oblat\u00f3w w Obrze Zesp\u00f3\u0142 Szkolno-Przedszkolny w Obrze","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"64-211","addr:city":"Obra","addr:street":"ul. Szkolna","addr:housenumber":"19","addr:teryt:simc":21970,"addr:teryt:sym_ul":916526,"contact:phone":"+48 683841227","contact:email":"szkolaobra@interia.pl","contact:website":"http:\/\/www.szkolaobra.bior.pl","ref:regon":"411181348","ref:vatin":"PL9231460166","operator":"Gmina Wolsztyn","operator:type":"government","amenity":"school","note":"Parent RSPO: 133862"}},{"id":13800,"type":"Feature","geometry":{"type":"Point","coordinates":[16.13025,52.07839]},"properties":{"isced:level":"1;2","ref:rspo":13800,"official_name":"Szko\u0142a Podstawowa im. Stanis\u0142awa Miko\u0142ajczyka w Starym Widzimiu","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"64-200","addr:place":"Stary Widzim","addr:housenumber":"24","addr:teryt:sym_ul":916590,"contact:phone":"+48 683842280","contact:email":"sp.starywidzim@wp.pl","contact:website":"http:\/\/www.spstarywidzim.pl","ref:regon":"411181354","ref:vatin":"PL9231460019","operator":"Gmina Wolsztyn","operator:type":"government","amenity":"school","note":"Children RSPO: 109119"}},{"id":91722,"type":"Feature","geometry":{"type":"Point","coordinates":[16.13025,52.078359999999996]},"properties":{"ref:rspo":91722,"official_name":"Punkt Przedszkolny w Szkole Podstawowej im. Stanis\u0142awa Miko\u0142ajczyka w Starym Widzimiu","name":"Punkt Przedszkolny w Szkole Podstawowej","addr:country":"PL","addr:postcode":"64-200","addr:place":"Stary Widzim","addr:housenumber":"24","addr:teryt:sym_ul":916590,"contact:phone":"+48 683842280","contact:email":"sp.starywidzim@wp.pl","contact:website":"http:\/\/www.spstarywidzim.pl","ref:regon":"302283330","operator":"Gmina Wolsztyn","operator:type":"government","amenity":"kindergarten"}},{"id":71017,"type":"Feature","geometry":{"type":"Point","coordinates":[16.0470599,52.08041]},"properties":{"ref:rspo":71017,"official_name":"Przedszkole \"S\u0142oneczny K\u0105cik\" w Wolsztynie","name":"Przedszkole \"S\u0142oneczny K\u0105cik\" w Wolsztynie","addr:country":"PL","addr:postcode":"64-200","addr:city":"Wolsztyn","addr:street":"ul. S\u0142oneczna","addr:housenumber":"8","addr:teryt:simc":20254,"addr:teryt:sym_ul":988632,"contact:phone":"+48 609248721","contact:email":"joannagortat@op.pl","contact:website":"http:\/\/www.slonecznykacik.pl","ref:regon":"302260397","ref:vatin":"PL9231641330","operator":"Joanna Gortat","operator:type":"private","amenity":"kindergarten"}},{"id":115504,"type":"Feature","geometry":{"type":"Point","coordinates":[16.17595,52.08252]},"properties":{"ref:rspo":115504,"official_name":"Punkt Przedszkolny w Szkole Podstawowej w Starej D\u0105browie","name":"Punkt Przedszkolny w Szkole Podstawowej w Starej D\u0105browie","addr:country":"PL","addr:postcode":"64-200","addr:place":"Stara D\u0105browa","addr:housenumber":"12A","addr:teryt:sym_ul":916578,"contact:phone":"+48 683843419","contact:email":"sp_wroniawy@wp.pl","contact:website":"http:\/\/www.spstaradabrowa.pl","ref:regon":"302473578","operator":"Gmina Wolsztyn","operator:type":"government","amenity":"kindergarten"}},{"id":104158,"type":"Feature","geometry":{"type":"Point","coordinates":[16.17595,52.08249]},"properties":{"isced:level":"1;2","ref:rspo":104158,"official_name":"Szko\u0142a Podstawowa we Wroniawach Szko\u0142a Filialna w Starej D\u0105browie","name":"Szko\u0142a Podstawowa we Wroniawach Szko\u0142a Filialna w Starej D\u0105browie","addr:country":"PL","addr:postcode":"64-200","addr:place":"Stara D\u0105browa","addr:housenumber":"12A","addr:teryt:sym_ul":916578,"contact:phone":"+48 683483419","contact:email":"sp_wroniawy@wp.pl","contact:website":"http:\/\/www.spstaradabrowa.pl","ref:regon":"411181377","operator":"Gmina Wolsztyn","operator:type":"government","amenity":"school","note":"Parent RSPO: 13783"}},{"id":115503,"type":"Feature","geometry":{"type":"Point","coordinates":[16.13572,52.09855]},"properties":{"ref:rspo":115503,"official_name":"Punkt Przedszkolny w Szkole Podstawowej w Adamowie","name":"Punkt Przedszkolny w Szkole Podstawowej w Adamowie","addr:country":"PL","addr:postcode":"64-200","addr:place":"Adamowo","addr:housenumber":"56","addr:teryt:sym_ul":916220,"contact:phone":"+48 683842688","contact:email":"sp.starywidzim@wp.pl","contact:website":"http:\/\/www.spadamowo.edupage.org","ref:regon":"302473555","operator":"Gmina Wolsztyn","operator:type":"government","amenity":"kindergarten"}},{"id":109119,"type":"Feature","geometry":{"type":"Point","coordinates":[16.13572,52.09852]},"properties":{"isced:level":"1;2","ref:rspo":109119,"official_name":"Szko\u0142a Podstawowa im. Stanis\u0142awa Miko\u0142ajczyka w Starym Widzimiu Szko\u0142a Filialna w Adamowie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"64-200","addr:place":"Adamowo","addr:housenumber":"56","addr:teryt:sym_ul":916220,"contact:phone":"+48 683482280","contact:email":"sp.starywidzim@wp.pl","contact:website":"http:\/\/www.spadamowo.edupage.org","ref:regon":"411181354","operator":"Gmina Wolsztyn","operator:type":"government","amenity":"school","note":"Parent RSPO: 13800"}},{"id":34400,"type":"Feature","geometry":{"type":"Point","coordinates":[16.12246,52.10472]},"properties":{"isced:level":"3","ref:rspo":34400,"official_name":"Liceum Og\u00f3lnokszta\u0142c\u0105ce dla Doros\u0142ych w Wolsztynie Zak\u0142adu Doskonalenia Zawodowego w Zielonej G\u00f3rze","name":"Liceum Og\u00f3lnokszta\u0142c\u0105ce dla Doros\u0142ych w Wolsztynie Zak\u0142adu Doskonalenia Zawodowego w Zielonej G\u00f3rze","addr:country":"PL","addr:postcode":"64-200","addr:city":"Wolsztyn","addr:street":"ul. Przemys\u0142owa","addr:housenumber":"5","addr:teryt:simc":17742,"addr:teryt:sym_ul":988632,"contact:phone":"+48 683471847","contact:email":"okzwolsztyn@zdz.zgora.pl","ref:regon":"302249786","operator":"Zak\u0142ad Doskonalenia Zawodowego W Zielonej G\u00f3rze","operator:type":"ngo","amenity":"school"}},{"id":114989,"type":"Feature","geometry":{"type":"Point","coordinates":[16.12246,52.10469]},"properties":{"ref:rspo":114989,"official_name":"O\u015brodek Kszta\u0142cenia Zawodowego","name":"O\u015brodek Kszta\u0142cenia Zawodowego","addr:country":"PL","addr:postcode":"64-200","addr:city":"Wolsztyn","addr:street":"ul. Przemys\u0142owa","addr:housenumber":"5","addr:teryt:simc":17742,"addr:teryt:sym_ul":988632,"contact:phone":"+48 683471847","ref:regon":"302449433","operator":"Zak\u0142ad Doskonalenia Zawodowego W Zielonej G\u00f3rze","operator:type":"ngo","fixme":"w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. amenity=training + training=*, amenity=dancing_school, amenity=language_school, amenity=music_school)"}},{"id":115015,"type":"Feature","geometry":{"type":"Point","coordinates":[16.12246,52.10466]},"properties":{"isced:level":"4","ref:rspo":115015,"official_name":"Policealne Studium Menad\u017cerskie Zak\u0142adu Doskonalenia Zawodowego","name":"Policealne Studium Menad\u017cerskie Zak\u0142adu Doskonalenia Zawodowego","addr:country":"PL","addr:postcode":"64-200","addr:city":"Wolsztyn","addr:street":"ul. Przemys\u0142owa","addr:housenumber":"5","addr:teryt:simc":17742,"addr:teryt:sym_ul":988632,"contact:phone":"+48 683471847","ref:regon":"302452760","operator":"Zak\u0142ad Doskonalenia Zawodowego W Zielonej G\u00f3rze","operator:type":"ngo","amenity":"college"}},{"id":124277,"type":"Feature","geometry":{"type":"Point","coordinates":[16.12246,52.10463]},"properties":{"isced:level":"3","ref:rspo":124277,"official_name":"Niepubliczna Bran\u017cowa Szko\u0142a I Stopnia w Wolsztynie Zak\u0142adu Doskonalenia Zawodowego w Zielonej G\u00f3rze","name":"Niepubliczna Bran\u017cowa Szko\u0142a I Stopnia w Wolsztynie Zak\u0142adu Doskonalenia Zawodowego w Zielonej G\u00f3rze","addr:country":"PL","addr:postcode":"64-200","addr:city":"Wolsztyn","addr:street":"ul. Przemys\u0142owa","addr:housenumber":"5","addr:teryt:simc":17742,"addr:teryt:sym_ul":988632,"contact:phone":"+48 662947890","contact:email":"ngwolsztyn@interia.pl","ref:regon":"302803596","operator":"Zak\u0142ad Doskonalenia Zawodowego W Zielonej G\u00f3rze","operator:type":"ngo","amenity":"school"}},{"id":265052,"type":"Feature","geometry":{"type":"Point","coordinates":[16.12246,52.1046]},"properties":{"isced:level":"1;2","ref:rspo":265052,"official_name":"Niepubliczna Szko\u0142a Podstawowa w Wolsztynie Zak\u0142adu Doskonalenia Zawodowego w Zielonej G\u00f3rze","name":"Niepubliczna Szko\u0142a Podstawowa w Wolsztynie Zak\u0142adu Doskonalenia Zawodowego w Zielonej G\u00f3rze","addr:country":"PL","addr:postcode":"64-200","addr:city":"Wolsztyn","addr:street":"ul. Przemys\u0142owa","addr:housenumber":"5","addr:teryt:simc":17742,"addr:teryt:sym_ul":988632,"contact:phone":"+48 691499620","contact:email":"ngwolsztyn@interia.pl","ref:regon":"368569284","operator":"Zak\u0142ad Doskonalenia Zawodowego W Zielonej G\u00f3rze","operator:type":"ngo","amenity":"school"}},{"id":115501,"type":"Feature","geometry":{"type":"Point","coordinates":[16.17796,52.10799]},"properties":{"ref:rspo":115501,"official_name":"Punkt Przedszkolny w Szkole Podstawowej w T\u0142okach","name":"Punkt Przedszkolny w Szkole Podstawowej w T\u0142okach","addr:country":"PL","addr:postcode":"64-200","addr:place":"T\u0142oki","addr:housenumber":"43","addr:teryt:sym_ul":916667,"contact:email":"sp1wolsztyn@o2.pl","contact:website":"http:\/\/www.spt\u0142oki.w8w.pl","ref:regon":"302473532","operator":"Gmina Wolsztyn","operator:type":"government","amenity":"kindergarten"}},{"id":109124,"type":"Feature","geometry":{"type":"Point","coordinates":[16.17796,52.10796]},"properties":{"isced:level":"1;2","ref:rspo":109124,"official_name":"Szko\u0142a Filialna Szko\u0142y Podstawowej Nr 1 Z Oddzia\u0142ami Dwuj\u0119zycznymi im. Powsta\u0144c\u00f3w Wielkopolskich w Wolsztynie","name":"Szko\u0142a Filialna Szko\u0142y Podstawowej Nr 1 Z Oddzia\u0142ami Dwuj\u0119zycznymi","addr:country":"PL","addr:postcode":"64-200","addr:place":"T\u0142oki","addr:housenumber":"43","addr:teryt:sym_ul":916667,"contact:email":"sp1wolsztyn@o2.pl","contact:website":"http:\/\/www.spt\u0142oki.w8w.pl","ref:regon":"411181408","operator":"Gmina Wolsztyn","operator:type":"government","amenity":"school","note":"Parent RSPO: 14642"}},{"id":62302,"type":"Feature","geometry":{"type":"Point","coordinates":[16.13971,52.10878]},"properties":{"ref:rspo":62302,"official_name":"Akademia Malucha Niepubliczne Przedszkole Komorowo","name":"Akademia Malucha Niepubliczne Przedszkole Komorowo","addr:country":"PL","addr:postcode":"64-200","addr:place":"Komorowo","addr:housenumber":"33","addr:teryt:sym_ul":916302,"contact:phone":"+48 882700900","contact:email":"biuro@akademiamaluchakomorowo.pl","contact:website":"http:\/\/www.akademiamaluchakomorowo.pl","ref:regon":"302256409","ref:vatin":"PL9231675381","operator":"Sylwia Kulus-Lachowicz","operator:type":"private","amenity":"kindergarten"}},{"id":56112,"type":"Feature","geometry":{"type":"Point","coordinates":[16.12025,52.10993]},"properties":{"isced:level":"1;2","ref:rspo":56112,"official_name":"Szko\u0142a Podstawowa Nr 3 Z Oddzia\u0142ami Integracyjnymi Pomnik Tysi\u0105clecia Pa\u0144stwa Polskiego im. Micha\u0142a Drzyma\u0142y w Wolsztynie","name":"Szko\u0142a Podstawowa Nr 3 Z Oddzia\u0142ami Integracyjnymi Pomnik Tysi\u0105clecia Pa\u0144stwa Polskiego","addr:country":"PL","addr:postcode":"64-200","addr:city":"Wolsztyn","addr:street":"ul. Konopnickiej","addr:housenumber":"1","addr:teryt:simc":9182,"addr:teryt:sym_ul":988632,"contact:phone":"+48 683473557","contact:email":"sekretariat@sp3wolsztyn.pl","contact:website":"http:\/\/www.sp3wolsztyn.pl","ref:regon":"411181390","ref:vatin":"PL9231460054","operator":"Gmina Wolsztyn","operator:type":"government","amenity":"school"}},{"id":59631,"type":"Feature","geometry":{"type":"Point","coordinates":[16.11489,52.11081]},"properties":{"ref:rspo":59631,"official_name":"Punkt Przedszkolny \"\u015awiat Malucha\"","name":"Punkt Przedszkolny \"\u015awiat Malucha\"","addr:country":"PL","addr:postcode":"64-200","addr:city":"Wolsztyn","addr:street":"ul. Asnyka","addr:housenumber":"3","addr:teryt:simc":467,"addr:teryt:sym_ul":988632,"contact:phone":"+48 504243183","contact:email":"agnieszkarybicka@poczta.fm","contact:website":"http:\/\/www.edukacjasmyka.pl","ref:regon":"302254706","ref:vatin":"PL9231396333","operator":"Agnieszka Rybicka","operator:type":"private","amenity":"kindergarten"}},{"id":56114,"type":"Feature","geometry":{"type":"Point","coordinates":[16.12083,52.11117]},"properties":{"ref:rspo":56114,"official_name":"Przedszkole Nr 3 Z Oddzia\u0142ami Integracyjnymi w Wolsztynie","name":"Przedszkole Nr 3 Z Oddzia\u0142ami Integracyjnymi w Wolsztynie","addr:country":"PL","addr:postcode":"64-200","addr:city":"Wolsztyn","addr:street":"ul. Kusoci\u0144skiego","addr:housenumber":"2","addr:teryt:simc":10491,"addr:teryt:sym_ul":988632,"contact:phone":"+48 683842206","contact:email":"przedszkolenr3@wolsztyn.pl","contact:website":"http:\/\/www.p3wolsztyn.pl","ref:regon":"411181443","ref:vatin":"PL9231462165","operator":"Gmina Wolsztyn","operator:type":"government","amenity":"kindergarten"}},{"id":64453,"type":"Feature","geometry":{"type":"Point","coordinates":[16.10686,52.11135]},"properties":{"ref:rspo":64453,"official_name":"Przedszkole Nr 1 \"T\u0119czowa Lokomotywa\" w Wolsztynie","name":"Przedszkole Nr 1 \"T\u0119czowa Lokomotywa\" w Wolsztynie","addr:country":"PL","addr:postcode":"64-200","addr:city":"Wolsztyn","addr:street":"ul. Ogrodowa","addr:housenumber":"1","addr:teryt:simc":14834,"addr:teryt:sym_ul":988632,"contact:phone":"+48 683843429","contact:email":"przedszkole.1wol@wp.pl","contact:website":"http:\/\/www.p1wolsztyn.pl","ref:regon":"411181466","ref:vatin":"PL9231459915","operator":"Gmina Wolsztyn","operator:type":"government","amenity":"kindergarten"}},{"id":5679,"type":"Feature","geometry":{"type":"Point","coordinates":[16.10298,52.11157]},"properties":{"ref:rspo":5679,"official_name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 Og\u00f3lnokszta\u0142c\u0105cych w Wolsztynie","name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 Og\u00f3lnokszta\u0142c\u0105cych w Wolsztynie","addr:country":"PL","addr:postcode":"64-200","addr:city":"Wolsztyn","addr:street":"ul. Poniatowskiego","addr:housenumber":"7","addr:teryt:simc":17100,"addr:teryt:sym_ul":988632,"contact:phone":"+48 683843405","contact:email":"liceum@wolsztyn.com.pl","contact:website":"http:\/\/www.liceumwolsztyn.pl","ref:regon":"000229205","ref:vatin":"PL9231021099","operator":"Powiat Wolszty\u0144ski","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 34418;34420"}},{"id":34418,"type":"Feature","geometry":{"type":"Point","coordinates":[16.10298,52.11154]},"properties":{"isced:level":"3","ref:rspo":34418,"official_name":"Liceum Og\u00f3lnokszta\u0142c\u0105ce im. Marii Sk\u0142odowskiej-Curie","name":"Liceum Og\u00f3lnokszta\u0142c\u0105ce","addr:country":"PL","addr:postcode":"64-200","addr:city":"Wolsztyn","addr:street":"ul. Poniatowskiego","addr:housenumber":"7","addr:teryt:simc":17100,"addr:teryt:sym_ul":988632,"contact:phone":"+48 683843404","contact:email":"liceum@wolsztyn.com.pl","contact:website":"http:\/\/www.liceumwolsztyn.pl","ref:regon":"411528220","operator":"Powiat Wolszty\u0144ski","operator:type":"government","amenity":"school","note":"Parent RSPO: 5679"}},{"id":34420,"type":"Feature","geometry":{"type":"Point","coordinates":[16.10298,52.11151]},"properties":{"isced:level":"3","ref:rspo":34420,"official_name":"Liceum Og\u00f3lnokszta\u0142c\u0105ce dla Doros\u0142ych","name":"Liceum Og\u00f3lnokszta\u0142c\u0105ce dla Doros\u0142ych","addr:country":"PL","addr:postcode":"64-200","addr:city":"Wolsztyn","addr:street":"ul. Poniatowskiego","addr:housenumber":"7","addr:teryt:simc":17100,"addr:teryt:sym_ul":988632,"contact:phone":"+48 683423404","ref:regon":"300651308","operator":"Powiat Wolszty\u0144ski","operator:type":"government","amenity":"school","note":"Parent RSPO: 5679"}},{"id":5750,"type":"Feature","geometry":{"type":"Point","coordinates":[16.1212,52.11196]},"properties":{"ref:rspo":5750,"official_name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 Zawodowych w Wolsztynie","name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 Zawodowych w Wolsztynie","addr:country":"PL","addr:postcode":"64-200","addr:city":"Wolsztyn","addr:street":"ul. Kusoci\u0144skiego","addr:housenumber":"1","addr:teryt:simc":10491,"addr:teryt:sym_ul":988632,"contact:phone":"+48 683842130","contact:email":"sekretariat@zszwolsztyn.pl","contact:website":"http:\/\/www.zszwolsztyn.pl","ref:regon":"000236240","ref:vatin":"PL9231020846","operator":"Powiat Wolszty\u0144ski","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 43571;43574;43955;44011;44125;44680;119017"}},{"id":43571,"type":"Feature","geometry":{"type":"Point","coordinates":[16.1212,52.11193]},"properties":{"isced:level":"3","ref:rspo":43571,"official_name":"Liceum Og\u00f3lnokszta\u0142c\u0105ce w Wolsztynie","name":"Liceum Og\u00f3lnokszta\u0142c\u0105ce w Wolsztynie","addr:country":"PL","addr:postcode":"64-200","addr:city":"Wolsztyn","addr:street":"ul. Kusoci\u0144skiego","addr:housenumber":"1","addr:teryt:simc":10491,"addr:teryt:sym_ul":988632,"contact:phone":"+48 683842130","ref:regon":"302124560","operator":"Powiat Wolszty\u0144ski","operator:type":"government","amenity":"school","note":"Parent RSPO: 5750"}},{"id":43574,"type":"Feature","geometry":{"type":"Point","coordinates":[16.1212,52.111900000000006]},"properties":{"ref:rspo":43574,"official_name":"Centrum Kszta\u0142cenia Zawodowego w Zespole Szk\u00f3\u0142 Zawodowych w Wolsztynie","name":"Centrum Kszta\u0142cenia Zawodowego w Zespole Szk\u00f3\u0142 Zawodowych w Wolsztynie","addr:country":"PL","addr:postcode":"64-200","addr:city":"Wolsztyn","addr:street":"ul. Kusoci\u0144skiego","addr:housenumber":"1","addr:teryt:simc":10491,"addr:teryt:sym_ul":988632,"contact:phone":"+48 683842130","contact:email":"sekretariat@zszwolsztyn.pl","ref:regon":"302124599","operator":"Powiat Wolszty\u0144ski","operator:type":"government","fixme":"w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. amenity=training + training=*, amenity=dancing_school, amenity=language_school, amenity=music_school) albo amenity=school, amenity=college, albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Parent RSPO: 5750"}},{"id":43955,"type":"Feature","geometry":{"type":"Point","coordinates":[16.1212,52.11187]},"properties":{"isced:level":"3","ref:rspo":43955,"official_name":"Bran\u017cowa Szko\u0142a I Stopnia im. Marcina Ro\u017cka w Wolsztynie","name":"Bran\u017cowa Szko\u0142a I Stopnia","addr:country":"PL","addr:postcode":"64-200","addr:city":"Wolsztyn","addr:street":"ul. Kusoci\u0144skiego","addr:housenumber":"1","addr:teryt:simc":10491,"addr:teryt:sym_ul":988632,"contact:phone":"+48 683842130","contact:email":"sekretariat@zszwolsztyn.pl","ref:regon":"411532598","operator":"Powiat Wolszty\u0144ski","operator:type":"government","amenity":"school","note":"Parent RSPO: 5750"}},{"id":44011,"type":"Feature","geometry":{"type":"Point","coordinates":[16.1212,52.11184]},"properties":{"isced:level":"4","ref:rspo":44011,"official_name":"Szko\u0142a Policealna","name":"Szko\u0142a Policealna","addr:country":"PL","addr:postcode":"64-200","addr:city":"Wolsztyn","addr:street":"ul. Kusoci\u0144skiego","addr:housenumber":"1","addr:teryt:simc":10491,"addr:teryt:sym_ul":988632,"contact:phone":"+48 683842130","contact:email":"sekretariat@zszwolsztyn.pl","ref:regon":"300089611","operator":"Powiat Wolszty\u0144ski","operator:type":"government","amenity":"college","note":"Parent RSPO: 5750"}},{"id":44125,"type":"Feature","geometry":{"type":"Point","coordinates":[16.1212,52.111810000000006]},"properties":{"isced:level":"3","ref:rspo":44125,"official_name":"Technikum im.marcina Ro\u017cka","name":"Technikum im.marcina Ro\u017cka","addr:country":"PL","addr:postcode":"64-200","addr:city":"Wolsztyn","addr:street":"ul. Kusoci\u0144skiego","addr:housenumber":"1","addr:teryt:simc":10491,"addr:teryt:sym_ul":988632,"contact:phone":"+48 683842130","contact:email":"sekretariat@zszwolsztyn.pl","ref:regon":"411532658","operator":"Powiat Wolszty\u0144ski","operator:type":"government","amenity":"school","note":"Parent RSPO: 5750"}},{"id":44680,"type":"Feature","geometry":{"type":"Point","coordinates":[16.1212,52.11178]},"properties":{"isced:level":"3","ref:rspo":44680,"official_name":"Bran\u017cowa Szko\u0142a Specjalna I Stopnia w Wolsztynie","name":"Bran\u017cowa Szko\u0142a Specjalna I Stopnia w Wolsztynie","addr:country":"PL","addr:postcode":"64-200","addr:city":"Wolsztyn","addr:street":"ul. Kusoci\u0144skiego","addr:housenumber":"1","addr:teryt:simc":10491,"addr:teryt:sym_ul":988632,"contact:phone":"+48 683842130","ref:regon":"411532581","operator":"Powiat Wolszty\u0144ski","operator:type":"government","amenity":"school","note":"Parent RSPO: 5750"}},{"id":119017,"type":"Feature","geometry":{"type":"Point","coordinates":[16.1212,52.11175]},"properties":{"isced:level":"3","ref:rspo":119017,"official_name":"Liceum Og\u00f3lnokszta\u0142c\u0105ce dla Doros\u0142ych w Zespole Szk\u00f3\u0142 Zawodowych w Wolsztynie","name":"Liceum Og\u00f3lnokszta\u0142c\u0105ce dla Doros\u0142ych w Zespole Szk\u00f3\u0142 Zawodowych w Wolsztynie","addr:country":"PL","addr:postcode":"64-200","addr:city":"Wolsztyn","addr:street":"ul. Kusoci\u0144skiego","addr:housenumber":"1","addr:teryt:simc":10491,"addr:teryt:sym_ul":988632,"contact:phone":"+48 683842130","ref:regon":"302508526","operator":"Powiat Wolszty\u0144ski","operator:type":"government","amenity":"school","note":"Parent RSPO: 5750"}},{"id":14642,"type":"Feature","geometry":{"type":"Point","coordinates":[16.10586,52.11218]},"properties":{"isced:level":"1;2","ref:rspo":14642,"official_name":"Szko\u0142a Podstawowa Nr 1 Z Oddzia\u0142ami Dwuj\u0119zycznymi im. Powsta\u0144c\u00f3w Wielkopolskichw Wolsztynie","name":"Szko\u0142a Podstawowa Nr 1 Z Oddzia\u0142ami Dwuj\u0119zycznymi","addr:country":"PL","addr:postcode":"64-200","addr:city":"Wolsztyn","addr:street":"ul. Poniatowskiego","addr:housenumber":"1","addr:teryt:simc":17100,"addr:teryt:sym_ul":988632,"contact:phone":"+48 683843337","contact:email":"sp1wolsztyn@o2.pl","contact:website":"http:\/\/www.sp1wolsztyn.pl","ref:regon":"411181408","ref:vatin":"PL9231460031","operator":"Gmina Wolsztyn","operator:type":"government","amenity":"school","note":"Children RSPO: 109124"}},{"id":124275,"type":"Feature","geometry":{"type":"Point","coordinates":[16.10586,52.11215]},"properties":{"isced:level":"4","ref:rspo":124275,"official_name":"Szko\u0142a Policealna - Studium Medyczne Lider w Wolsztynie","name":"Szko\u0142a Policealna - Studium Medyczne Lider w Wolsztynie","addr:country":"PL","addr:postcode":"64-200","addr:city":"Wolsztyn","addr:street":"ul. Poniatowskiego","addr:housenumber":"1","addr:door":"A","addr:teryt:simc":17100,"addr:teryt:sym_ul":988632,"contact:phone":"+48 838443337","contact:email":"biuro@cds-lider.com.pl","ref:regon":"302803580","operator":"Ma\u0142gorzata Szl\u0105zak","operator:type":"private","amenity":"college"}},{"id":272149,"type":"Feature","geometry":{"type":"Point","coordinates":[16.10844,52.11249]},"properties":{"ref:rspo":272149,"official_name":"Centrum Kszta\u0142cenia Kadr \"Emat\" w Wolsztynie","name":"Centrum Kszta\u0142cenia Kadr \"Emat\" w Wolsztynie","addr:country":"PL","addr:postcode":"64-200","addr:city":"Wolsztyn","addr:street":"ul. D\u0105browskiego","addr:housenumber":"1","addr:teryt:simc":3667,"addr:teryt:sym_ul":988632,"contact:phone":"+48 683473500","contact:email":"ckk@emat.com.pl","contact:website":"http:\/\/www.emat.com.pl","ref:regon":"383961464","ref:vatin":"PL9231121062","operator":"El\u017cbieta Matysiak","operator:type":"private","fixme":"w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. amenity=training + training=*, amenity=dancing_school, amenity=language_school, amenity=music_school)"}},{"id":54309,"type":"Feature","geometry":{"type":"Point","coordinates":[16.1288899,52.11353]},"properties":{"isced:level":"1;2","ref:rspo":54309,"official_name":"Szko\u0142a Podstawowa Nr 5 Z Oddzia\u0142ami Integracyjnymi w Wolsztynie","name":"Szko\u0142a Podstawowa Nr 5 Z Oddzia\u0142ami Integracyjnymi w Wolsztynie","addr:country":"PL","addr:postcode":"64-200","addr:city":"Wolsztyn","addr:street":"ul. \u017begockiego","addr:housenumber":"26","addr:teryt:simc":26425,"addr:teryt:sym_ul":988632,"contact:phone":"+48 683842158","contact:email":"kontakt@sp5wolsztyn.pl","contact:website":"http:\/\/www.sp5wolsztyn.pl","ref:regon":"411181383","ref:vatin":"PL9231460060","operator":"Gmina Wolsztyn","operator:type":"government","amenity":"school"}},{"id":9488,"type":"Feature","geometry":{"type":"Point","coordinates":[16.1078699,52.11394]},"properties":{"ref:rspo":9488,"official_name":"Powiatowa Poradnia Psychologiczno-Pedagogiczna","name":"Powiatowa Poradnia Psychologiczno-Pedagogiczna","addr:country":"PL","addr:postcode":"64-200","addr:city":"Wolsztyn","addr:street":"ul. 5 Stycznia","addr:housenumber":"5","addr:teryt:simc":21469,"addr:teryt:sym_ul":988632,"contact:phone":"+48 683842082","contact:email":"ppppwolsztyn@wp.pl","contact:website":"http:\/\/www.poradnia.powiatwolsztyn.pl","ref:regon":"000705947","ref:vatin":"PL9231205623","operator":"Powiat Wolszty\u0144ski","operator:type":"government","healthcare":"councelling","counselling_type":"education","fixme":"w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. healthcare=councelling + counselling_type=education albo healthcare=psychotherapist)"}},{"id":133850,"type":"Feature","geometry":{"type":"Point","coordinates":[16.1173499,52.11489]},"properties":{"isced:level":"1;2","ref:rspo":133850,"official_name":"Szko\u0142a Podstawowa Nr 2 Z Oddzia\u0142ami Integracyjnymi im. Tadeusza Ko\u015bciuszki w Wolsztynie","name":"Szko\u0142a Podstawowa Nr 2 Z Oddzia\u0142ami Integracyjnymi","addr:country":"PL","addr:postcode":"64-200","addr:city":"Wolsztyn","addr:street":"ul. Wschowska","addr:housenumber":"15","addr:teryt:simc":24880,"addr:teryt:sym_ul":988632,"contact:phone":"+48 683842218","contact:email":"sekretariat@sp2wolsztyn.pl","contact:website":"http:\/\/www.sp2wolsztyn.pl","ref:regon":"367691327","ref:vatin":"PL9231712685","operator":"Gmina Wolsztyn","operator:type":"government","amenity":"school"}},{"id":5732,"type":"Feature","geometry":{"type":"Point","coordinates":[16.1090899,52.11531]},"properties":{"ref:rspo":5732,"official_name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 Specjalnych w Wolsztynie","name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 Specjalnych w Wolsztynie","addr:country":"PL","addr:postcode":"64-200","addr:city":"Wolsztyn","addr:street":"ul. 5 Stycznia","addr:housenumber":"14","addr:teryt:simc":21469,"addr:teryt:sym_ul":988632,"contact:phone":"+48 683842395","contact:email":"zsswolsztyn@zsswolsztyn.pl","contact:website":"http:\/\/www.zsswolsztyn.pl","ref:regon":"971229156","ref:vatin":"PL9231533600","operator":"Powiat Wolszty\u0144ski","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 34290;34314"}},{"id":34290,"type":"Feature","geometry":{"type":"Point","coordinates":[16.1090899,52.11528]},"properties":{"isced:level":"1;2","ref:rspo":34290,"official_name":"Szko\u0142a Podstawowa Specjalna Nr 4","name":"Szko\u0142a Podstawowa Specjalna Nr 4","addr:country":"PL","addr:postcode":"64-200","addr:city":"Wolsztyn","addr:street":"ul. 5 Stycznia","addr:housenumber":"14","addr:teryt:simc":21469,"addr:teryt:sym_ul":988632,"contact:phone":"+48 683842395","contact:email":"zsswolsztyn@zsswolsztyn.pl","contact:website":"http:\/\/www.zsswolsztyn.pl","ref:regon":"411170296","ref:vatin":"PL9231533600","operator":"Powiat Wolszty\u0144ski","operator:type":"government","amenity":"school","note":"Parent RSPO: 5732"}},{"id":34314,"type":"Feature","geometry":{"type":"Point","coordinates":[16.1090899,52.11525]},"properties":{"ref:rspo":34314,"official_name":"Szko\u0142a Specjalna Przysposabiaj\u0105ca Do Pracy","name":"Szko\u0142a Specjalna Przysposabiaj\u0105ca Do Pracy","addr:country":"PL","addr:postcode":"64-200","addr:city":"Wolsztyn","addr:street":"ul. 5 Stycznia","addr:housenumber":"14","addr:teryt:simc":21469,"addr:teryt:sym_ul":988632,"contact:phone":"+48 683842395","contact:email":"zsswolsztyn@zsswolsztyn.pl","contact:website":"http:\/\/www.zsswolsztyn.pl","ref:regon":"300088451","ref:vatin":"PL9231533600","operator":"Powiat Wolszty\u0144ski","operator:type":"government","amenity":"school","note":"Parent RSPO: 5732"}},{"id":115164,"type":"Feature","geometry":{"type":"Point","coordinates":[16.10623,52.11565]},"properties":{"ref:rspo":115164,"official_name":"Publiczna Biblioteka Pedagogiczna w Poznaniu Filia w Wolsztynie","name":"Publiczna Biblioteka Pedagogiczna w Poznaniu Filia w Wolsztynie","addr:country":"PL","addr:postcode":"64-200","addr:city":"Wolsztyn","addr:street":"ul. Rzeczna","addr:housenumber":"17","addr:door":"1","addr:teryt:simc":19326,"addr:teryt:sym_ul":988632,"contact:phone":"+48 683842271","contact:email":"biblioteka@wolsztyn.pbp.poznan.pl","contact:website":"http:\/\/wolsztyn.pbp.poznan.pl","ref:regon":"639810550","operator":"Wojew\u00f3dztwo Wielkopolskie","operator:type":"government","amenity":"library","note":"Parent RSPO: 30977"}},{"id":31618,"type":"Feature","geometry":{"type":"Point","coordinates":[16.10987,52.11627]},"properties":{"ref:rspo":31618,"official_name":"Pa\u0144stwowa Szko\u0142a Muzyczna I St. im. Ireny Pfeiffer w Wolsztynie","name":"Pa\u0144stwowa Szko\u0142a Muzyczna I St.","addr:country":"PL","addr:postcode":"64-200","addr:city":"Wolsztyn","addr:street":"ul. 5 Stycznia","addr:housenumber":"20","addr:teryt:simc":21469,"addr:teryt:sym_ul":988632,"contact:phone":"+48 683843150","contact:email":"sekretariat@psm.bior.pl","contact:website":"http:\/\/psm.bior.pl","ref:regon":"411432916","operator":"Ministerstwo Kultury I Dziedzictwa Narodowego","operator:type":"public","amenity":"music_school"}},{"id":272455,"type":"Feature","geometry":{"type":"Point","coordinates":[16.11315,52.11678]},"properties":{"ref:rspo":272455,"official_name":"Educus Centrum Szkoleniowe Tomasz Kirszensztejn","name":"Educus Centrum Szkoleniowe Tomasz Kirszensztejn","addr:country":"PL","addr:postcode":"64-200","addr:city":"Wolsztyn","addr:street":"rynek Rynek","addr:housenumber":"14","addr:teryt:simc":19252,"addr:teryt:sym_ul":988632,"contact:email":"educus@educus.pl","contact:website":"http:\/\/www.educus.pl","ref:regon":"384179607","operator":"Tomasz Kirszensztejn","operator:type":"private","fixme":"w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. amenity=training + training=*, amenity=dancing_school, amenity=language_school, amenity=music_school)"}},{"id":60521,"type":"Feature","geometry":{"type":"Point","coordinates":[16.11789,52.1181]},"properties":{"ref:rspo":60521,"official_name":"Niepubliczne Przedszkole Si\u00f3str Mi\u0142osierdzia \u015aw. Wincentego A Paulo w Wolsztynie","name":"Niepubliczne Przedszkole Si\u00f3str Mi\u0142osierdzia \u015aw. Wincentego A Paulo w Wolsztynie","addr:country":"PL","addr:postcode":"64-200","addr:city":"Wolsztyn","addr:street":"ul. Pozna\u0144ska","addr:housenumber":"32","addr:teryt:simc":17394,"addr:teryt:sym_ul":988632,"contact:phone":"+48 508174145","contact:email":"kontakt@przedszkolesiostrwolsztyn.pl","ref:regon":"302263881","ref:vatin":"PL9231683914","operator":"Zgromadzenie Si\u00f3str Mi\u0142osierdzia \u015aw. Wincentego A Paulo Prowincja Che\u0142mi\u0144sko-Pozna\u0144ska","operator:type":"religious","amenity":"kindergarten"}},{"id":62300,"type":"Feature","geometry":{"type":"Point","coordinates":[16.12852,52.11813]},"properties":{"ref:rspo":62300,"official_name":"Przedszkole Nr 5 \"S\u0142oneczna Pi\u0105tka\" w Wolsztynie","name":"Przedszkole Nr 5 \"S\u0142oneczna Pi\u0105tka\" w Wolsztynie","addr:country":"PL","addr:postcode":"64-200","addr:city":"Wolsztyn","addr:street":"ul. Komorowska","addr:housenumber":"4","addr:teryt:simc":9075,"addr:teryt:sym_ul":988632,"contact:phone":"+48 683842615","contact:email":"sloneczneprzedszkole5@onet.eu","contact:website":"http:\/\/www.p5wolsztyn.pl","ref:regon":"411181437","ref:vatin":"PL9231459938","operator":"Gmina Wolsztyn","operator:type":"government","amenity":"kindergarten"}},{"id":5675,"type":"Feature","geometry":{"type":"Point","coordinates":[16.05661,52.12022]},"properties":{"ref:rspo":5675,"official_name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 Rolniczych I Technicznych w Powodowie","name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 Rolniczych I Technicznych w Powodowie","addr:country":"PL","addr:postcode":"64-200","addr:place":"Powodowo","addr:housenumber":"1","addr:door":"1","addr:teryt:sym_ul":916555,"contact:phone":"+48 683843675","contact:email":"zsrpowodowo@poczta.onet.pl","contact:website":"http:\/\/www.zsritpowodowo.pl","ref:regon":"970779096","ref:vatin":"PL9231032878","operator":"Powiat Wolszty\u0144ski","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 34417;60282;124292"}},{"id":34417,"type":"Feature","geometry":{"type":"Point","coordinates":[16.05661,52.12019]},"properties":{"isced:level":"3","ref:rspo":34417,"official_name":"Technikum","name":"Technikum","addr:country":"PL","addr:postcode":"64-200","addr:place":"Powodowo","addr:housenumber":"1","addr:teryt:sym_ul":916555,"contact:phone":"+48 683843675","contact:email":"zsrpowodowo@poczta.onet.pl","contact:website":"http:\/\/www.zsritpowodowo.pl","ref:regon":"300957510","ref:vatin":"PL9231032878","operator":"Powiat Wolszty\u0144ski","operator:type":"government","amenity":"school","note":"Parent RSPO: 5675"}},{"id":60282,"type":"Feature","geometry":{"type":"Point","coordinates":[16.05661,52.120160000000006]},"properties":{"isced:level":"3","ref:rspo":60282,"official_name":"Bran\u017cowa Szko\u0142a I Stopnia w Powodowie","name":"Bran\u017cowa Szko\u0142a I Stopnia w Powodowie","addr:country":"PL","addr:postcode":"64-200","addr:place":"Powodowo","addr:housenumber":"1","addr:teryt:sym_ul":916555,"contact:phone":"+48 683843675","contact:email":"zsrpowodowo@poczta.onet.pl","ref:regon":"411528740","operator":"Powiat Wolszty\u0144ski","operator:type":"government","amenity":"school","note":"Parent RSPO: 5675"}},{"id":124292,"type":"Feature","geometry":{"type":"Point","coordinates":[16.05661,52.12013]},"properties":{"isced:level":"4","ref:rspo":124292,"official_name":"Szko\u0142a Policelana w Zespole Szk\u00f3\u0142 Rolniczych I Technicznych w Powodowie","name":"Szko\u0142a Policelana w Zespole Szk\u00f3\u0142 Rolniczych I Technicznych w Powodowie","addr:country":"PL","addr:postcode":"64-200","addr:place":"Powodowo","addr:housenumber":"1","addr:teryt:sym_ul":916555,"contact:phone":"+48 683843675","ref:regon":"302806100","operator":"Powiat Wolszty\u0144ski","operator:type":"government","amenity":"college","note":"Parent RSPO: 5675"}},{"id":43313,"type":"Feature","geometry":{"type":"Point","coordinates":[16.09216,52.13449]},"properties":{"ref:rspo":43313,"official_name":"Przedszkole \"Jak U Mamy\" w Chorzeminie","name":"Przedszkole \"Jak U Mamy\" w Chorzeminie","addr:country":"PL","addr:postcode":"64-200","addr:place":"Chorzemin","addr:housenumber":"78a","addr:teryt:sym_ul":916325,"contact:phone":"+48 683842733","contact:email":"ppchorzemin@wp.pl","contact:website":"http:\/\/www.ppchorzemin.pl","ref:regon":"301423319","ref:vatin":"PL9231678669","operator":"Gmina Wolsztyn","operator:type":"government","amenity":"kindergarten"}},{"id":124860,"type":"Feature","geometry":{"type":"Point","coordinates":[16.1236,52.13678]},"properties":{"isced:level":"1;2","ref:rspo":124860,"official_name":"Szko\u0142a Podstawowa w Karpicku","name":"Szko\u0142a Podstawowa w Karpicku","addr:country":"PL","addr:postcode":"64-200","addr:city":"Karpicko","addr:street":"ul. Wczasowa","addr:housenumber":"72","addr:teryt:simc":23814,"addr:teryt:sym_ul":916377,"contact:phone":"+48 683843834","contact:email":"kontakt@spkarpicko.pl","contact:website":"http:\/\/www.spkarpicko.pl","ref:regon":"411181331","ref:vatin":"PL9231460025","operator":"Gmina Wolsztyn","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 265731,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.37845,
+                    52.0008399
+                ]
+            },
+            "properties": {
+                "ref:rspo": 265731,
+                "official_name": "Centrum Szkoleniowe Camp X Anita Karcz",
+                "name": "Centrum Szkoleniowe Camp X Anita Karcz",
+                "addr:country": "PL",
+                "addr:postcode": "64-200",
+                "addr:city": "Karpicko",
+                "addr:street": "ul. Kasztanowa",
+                "addr:housenumber": "6",
+                "addr:teryt:simc": 8171,
+                "addr:teryt:sym_ul": 916377,
+                "contact:email": "biuro.campx@gmail.com",
+                "ref:regon": "368870434",
+                "operator": "Anita Karcz",
+                "operator:type": "private",
+                "fixme": "w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. amenity=training + training=*, amenity=dancing_school, amenity=language_school, amenity=music_school)"
+            }
+        },
+        {
+            "id": 46648,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.04614,
+                    52.0093
+                ]
+            },
+            "properties": {
+                "ref:rspo": 46648,
+                "official_name": "Zesp\u00f3\u0142 Szkolno - Przedszkolny w \u015awi\u0119tnie",
+                "name": "Zesp\u00f3\u0142 Szkolno - Przedszkolny w \u015awi\u0119tnie",
+                "addr:country": "PL",
+                "addr:postcode": "64-224",
+                "addr:city": "\u015awi\u0119tno",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "3",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 916621,
+                "contact:phone": "+48 683841312",
+                "contact:email": "sp.swietno@poczta.fm",
+                "contact:website": "http:\/\/www.zspswietno.pl",
+                "ref:regon": "411559545",
+                "ref:vatin": "PL9231610068",
+                "operator": "Gmina Wolsztyn",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 60785;62382"
+            }
+        },
+        {
+            "id": 60785,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.04614,
+                    52.00927
+                ]
+            },
+            "properties": {
+                "ref:rspo": 60785,
+                "official_name": "Publiczne Przedszkole w \u015awi\u0119tnie",
+                "name": "Publiczne Przedszkole w \u015awi\u0119tnie",
+                "addr:country": "PL",
+                "addr:postcode": "64-224",
+                "addr:city": "\u015awi\u0119tno",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "3",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 916621,
+                "contact:phone": "+48 683841312",
+                "contact:email": "sp.swietno@poczta.fm",
+                "contact:website": "http:\/\/www.zspswietno.pl",
+                "ref:regon": "411559568",
+                "ref:vatin": "PL9231459950",
+                "operator": "Gmina Wolsztyn",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 46648"
+            }
+        },
+        {
+            "id": 62382,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.04614,
+                    52.009240000000005
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 62382,
+                "official_name": "Szko\u0142a Podstawowa im. Jana Paw\u0142a II w \u015awi\u0119tnie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "64-224",
+                "addr:city": "\u015awi\u0119tno",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "3",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 916621,
+                "contact:phone": "+48 683841312",
+                "contact:email": "sp.swietno@poczta.fm",
+                "contact:website": "http:\/\/www.zspswietno.pl",
+                "ref:regon": "411181325",
+                "ref:vatin": "PL9231610068",
+                "operator": "Gmina Wolsztyn",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 46648"
+            }
+        },
+        {
+            "id": 127121,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.10511,
+                    52.04413
+                ]
+            },
+            "properties": {
+                "ref:rspo": 127121,
+                "official_name": "Pracownia Psychologiczno-Terapeutyczna Neuro-Psycho-Soma Daniel Naskrent Niepubliczna Poradnia Psychologiczno-Pedagogiczna w Wolsztynie",
+                "name": "Pracownia Psychologiczno-Terapeutyczna Neuro-Psycho-Soma Daniel Naskrent Niepubliczna Poradnia Psychologiczno-Pedagogiczna w Wolsztynie",
+                "addr:country": "PL",
+                "addr:postcode": "64-200",
+                "addr:city": "Wolsztyn",
+                "addr:street": "ul. Wodna",
+                "addr:housenumber": "8",
+                "addr:teryt:simc": 24550,
+                "addr:teryt:sym_ul": 988632,
+                "contact:phone": "+48 503429102",
+                "ref:regon": "361140187",
+                "operator": "Daniel Naskrent",
+                "operator:type": "private",
+                "healthcare": "counselling",
+                "counselling_type": "education",
+                "fixme": "w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. healthcare=counselling + counselling_type=education albo healthcare=psychotherapist)"
+            }
+        },
+        {
+            "id": 10341,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.10397,
+                    52.04674
+                ]
+            },
+            "properties": {
+                "ref:rspo": 10341,
+                "official_name": "Zesp\u00f3\u0142 Szkolno - Przedszkolny w K\u0119b\u0142owie",
+                "name": "Zesp\u00f3\u0142 Szkolno - Przedszkolny w K\u0119b\u0142owie",
+                "addr:country": "PL",
+                "addr:postcode": "64-223",
+                "addr:city": "K\u0119b\u0142owo",
+                "addr:street": "ul. Strady\u0144ska",
+                "addr:housenumber": "15a",
+                "addr:teryt:simc": 21257,
+                "addr:teryt:sym_ul": 916383,
+                "contact:phone": "+48 683841940",
+                "contact:email": "spkeblowo@wp.pl",
+                "contact:website": "http:\/\/www.zspkeblowo.pl",
+                "ref:regon": "301423259",
+                "ref:vatin": "PL9231677144",
+                "operator": "Gmina Wolsztyn",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 43317;53634"
+            }
+        },
+        {
+            "id": 53634,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.10397,
+                    52.04671
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 53634,
+                "official_name": "Szko\u0142a Podstawowa im. Franciszka Jujki w K\u0119b\u0142owie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "64-223",
+                "addr:city": "K\u0119b\u0142owo",
+                "addr:street": "ul. Strady\u0144ska",
+                "addr:housenumber": "15a",
+                "addr:teryt:simc": 21257,
+                "addr:teryt:sym_ul": 916383,
+                "contact:phone": "+48 683841940",
+                "contact:email": "spkeblowo@wp.pl",
+                "contact:website": "http:\/\/www.zspkeblowo.pl",
+                "ref:regon": "411181360",
+                "ref:vatin": "PL9231460172",
+                "operator": "Gmina Wolsztyn",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 10341"
+            }
+        },
+        {
+            "id": 43317,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.10272,
+                    52.04943
+                ]
+            },
+            "properties": {
+                "ref:rspo": 43317,
+                "official_name": "Przedszkole w K\u0119b\u0142owie Zesp\u00f3\u0142 Szkolno-Przedszkolny w K\u0119b\u0142owie",
+                "name": "Przedszkole w K\u0119b\u0142owie Zesp\u00f3\u0142 Szkolno-Przedszkolny w K\u0119b\u0142owie",
+                "addr:country": "PL",
+                "addr:postcode": "64-223",
+                "addr:city": "K\u0119b\u0142owo",
+                "addr:street": "ul. Wolszty\u0144ska",
+                "addr:housenumber": "19",
+                "addr:teryt:simc": 24704,
+                "addr:teryt:sym_ul": 916383,
+                "contact:phone": "+48 683841940",
+                "contact:email": "spkeblowo@wp.pl",
+                "contact:website": "http:\/\/www.zspkeblowo.pl",
+                "ref:regon": "301381578",
+                "ref:vatin": "PL9231676050",
+                "operator": "Gmina Wolsztyn",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 10341"
+            }
+        },
+        {
+            "id": 9487,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.149229049683,
+                    52.055690765381
+                ]
+            },
+            "properties": {
+                "ref:rspo": 9487,
+                "official_name": "Dom Wczas\u00f3w Dzieci\u0119cych",
+                "name": "Dom Wczas\u00f3w Dzieci\u0119cych",
+                "addr:country": "PL",
+                "addr:postcode": "64-200",
+                "addr:city": "Wroniawy",
+                "addr:street": "ul. Wolszty\u0144ska",
+                "addr:housenumber": "13",
+                "addr:teryt:simc": 24704,
+                "addr:teryt:sym_ul": 916680,
+                "contact:phone": "+48 683841520",
+                "contact:email": "dwdpalac@poczta.onet.pl",
+                "contact:website": "http:\/\/www.dwdpalac.com",
+                "ref:regon": "000193329",
+                "ref:vatin": "PL9231012226",
+                "operator": "Powiat Wolszty\u0144ski",
+                "operator:type": "government",
+                "leisure": "resort"
+            }
+        },
+        {
+            "id": 13783,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.1557299,
+                    52.05901
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 13783,
+                "official_name": "Szko\u0142a Podstawowa we Wroniawach",
+                "name": "Szko\u0142a Podstawowa we Wroniawach",
+                "addr:country": "PL",
+                "addr:postcode": "64-200",
+                "addr:city": "Wroniawy",
+                "addr:street": "ul. Dworcowa",
+                "addr:housenumber": "33",
+                "addr:teryt:simc": 4434,
+                "addr:teryt:sym_ul": 916680,
+                "contact:phone": "+48 683841622",
+                "contact:email": "sp_wroniawy@wp.pl",
+                "contact:website": "http:\/\/www.spwroniawy.pl",
+                "ref:regon": "411181377",
+                "ref:vatin": "PL9231459973",
+                "operator": "Gmina Wolsztyn",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Children RSPO: 104158"
+            }
+        },
+        {
+            "id": 115500,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.1557299,
+                    52.05898
+                ]
+            },
+            "properties": {
+                "ref:rspo": 115500,
+                "official_name": "Punkt Przedszkolny w Szkole Podstawowej we Wroniawach",
+                "name": "Punkt Przedszkolny w Szkole Podstawowej we Wroniawach",
+                "addr:country": "PL",
+                "addr:postcode": "64-200",
+                "addr:city": "Wroniawy",
+                "addr:street": "ul. Dworcowa",
+                "addr:housenumber": "33",
+                "addr:teryt:simc": 4434,
+                "addr:teryt:sym_ul": 916680,
+                "contact:phone": "+48 683841622",
+                "contact:email": "sp_wroniawy@wp.pl",
+                "contact:website": "http:\/\/www.spwroniawy.pl",
+                "ref:regon": "302473510",
+                "operator": "Gmina Wolsztyn",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 115502,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.128293991089,
+                    52.070255279541
+                ]
+            },
+            "properties": {
+                "ref:rspo": 115502,
+                "official_name": "Punkt Przedszkolny w Szkole Podstawowej w Karpicku",
+                "name": "Punkt Przedszkolny w Szkole Podstawowej w Karpicku",
+                "addr:country": "PL",
+                "addr:postcode": "64-200",
+                "addr:place": "Karpicko",
+                "addr:housenumber": "72",
+                "addr:teryt:sym_ul": 916377,
+                "contact:phone": "+48 683843834",
+                "contact:email": "kontakt@spkarpicko.pl",
+                "contact:website": "http:\/\/www.spkarpicko.pl",
+                "ref:regon": "302473549",
+                "operator": "Gmina Wolsztyn",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 133862,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.04662,
+                    52.07363
+                ]
+            },
+            "properties": {
+                "ref:rspo": 133862,
+                "official_name": "Zesp\u00f3\u0142 Szkolno - Przedszkolny w Obrze",
+                "name": "Zesp\u00f3\u0142 Szkolno - Przedszkolny w Obrze",
+                "addr:country": "PL",
+                "addr:postcode": "64-211",
+                "addr:city": "Obra",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "19",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 916526,
+                "contact:phone": "+48 683841227",
+                "contact:email": "szkolaobra@interia.pl",
+                "contact:website": "http:\/\/www.szkolaobra.bior.pl",
+                "ref:regon": "367696247",
+                "operator": "Gmina Wolsztyn",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 50139;68324"
+            }
+        },
+        {
+            "id": 50139,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.04662,
+                    52.0736
+                ]
+            },
+            "properties": {
+                "ref:rspo": 50139,
+                "official_name": "Przedszkole im. \"Bajkowy Zak\u0105tek\" w Obrze",
+                "name": "Przedszkole",
+                "addr:country": "PL",
+                "addr:postcode": "64-211",
+                "addr:city": "Obra",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "19",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 916526,
+                "contact:phone": "+48 683841227",
+                "contact:email": "szkolaobra@interia.pl",
+                "contact:website": "http:\/\/www.przedszkoleobra.bior.pl",
+                "ref:regon": "411181420",
+                "ref:vatin": "PL9231459944",
+                "operator": "Gmina Wolsztyn",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 133862"
+            }
+        },
+        {
+            "id": 68324,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.04662,
+                    52.073570000000004
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 68324,
+                "official_name": "Szko\u0142a Podstawowa im. Misjonarzy Oblat\u00f3w w Obrze Zesp\u00f3\u0142 Szkolno-Przedszkolny w Obrze",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "64-211",
+                "addr:city": "Obra",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "19",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 916526,
+                "contact:phone": "+48 683841227",
+                "contact:email": "szkolaobra@interia.pl",
+                "contact:website": "http:\/\/www.szkolaobra.bior.pl",
+                "ref:regon": "411181348",
+                "ref:vatin": "PL9231460166",
+                "operator": "Gmina Wolsztyn",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 133862"
+            }
+        },
+        {
+            "id": 13800,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.13025,
+                    52.07839
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 13800,
+                "official_name": "Szko\u0142a Podstawowa im. Stanis\u0142awa Miko\u0142ajczyka w Starym Widzimiu",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "64-200",
+                "addr:place": "Stary Widzim",
+                "addr:housenumber": "24",
+                "addr:teryt:sym_ul": 916590,
+                "contact:phone": "+48 683842280",
+                "contact:email": "sp.starywidzim@wp.pl",
+                "contact:website": "http:\/\/www.spstarywidzim.pl",
+                "ref:regon": "411181354",
+                "ref:vatin": "PL9231460019",
+                "operator": "Gmina Wolsztyn",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Children RSPO: 109119"
+            }
+        },
+        {
+            "id": 91722,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.13025,
+                    52.078359999999996
+                ]
+            },
+            "properties": {
+                "ref:rspo": 91722,
+                "official_name": "Punkt Przedszkolny w Szkole Podstawowej im. Stanis\u0142awa Miko\u0142ajczyka w Starym Widzimiu",
+                "name": "Punkt Przedszkolny w Szkole Podstawowej",
+                "addr:country": "PL",
+                "addr:postcode": "64-200",
+                "addr:place": "Stary Widzim",
+                "addr:housenumber": "24",
+                "addr:teryt:sym_ul": 916590,
+                "contact:phone": "+48 683842280",
+                "contact:email": "sp.starywidzim@wp.pl",
+                "contact:website": "http:\/\/www.spstarywidzim.pl",
+                "ref:regon": "302283330",
+                "operator": "Gmina Wolsztyn",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 71017,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.0470599,
+                    52.08041
+                ]
+            },
+            "properties": {
+                "ref:rspo": 71017,
+                "official_name": "Przedszkole \"S\u0142oneczny K\u0105cik\" w Wolsztynie",
+                "name": "Przedszkole \"S\u0142oneczny K\u0105cik\" w Wolsztynie",
+                "addr:country": "PL",
+                "addr:postcode": "64-200",
+                "addr:city": "Wolsztyn",
+                "addr:street": "ul. S\u0142oneczna",
+                "addr:housenumber": "8",
+                "addr:teryt:simc": 20254,
+                "addr:teryt:sym_ul": 988632,
+                "contact:phone": "+48 609248721",
+                "contact:email": "joannagortat@op.pl",
+                "contact:website": "http:\/\/www.slonecznykacik.pl",
+                "ref:regon": "302260397",
+                "ref:vatin": "PL9231641330",
+                "operator": "Joanna Gortat",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 115504,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.17595,
+                    52.08252
+                ]
+            },
+            "properties": {
+                "ref:rspo": 115504,
+                "official_name": "Punkt Przedszkolny w Szkole Podstawowej w Starej D\u0105browie",
+                "name": "Punkt Przedszkolny w Szkole Podstawowej w Starej D\u0105browie",
+                "addr:country": "PL",
+                "addr:postcode": "64-200",
+                "addr:place": "Stara D\u0105browa",
+                "addr:housenumber": "12A",
+                "addr:teryt:sym_ul": 916578,
+                "contact:phone": "+48 683843419",
+                "contact:email": "sp_wroniawy@wp.pl",
+                "contact:website": "http:\/\/www.spstaradabrowa.pl",
+                "ref:regon": "302473578",
+                "operator": "Gmina Wolsztyn",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 104158,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.17595,
+                    52.08249
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 104158,
+                "official_name": "Szko\u0142a Podstawowa we Wroniawach Szko\u0142a Filialna w Starej D\u0105browie",
+                "name": "Szko\u0142a Podstawowa we Wroniawach Szko\u0142a Filialna w Starej D\u0105browie",
+                "addr:country": "PL",
+                "addr:postcode": "64-200",
+                "addr:place": "Stara D\u0105browa",
+                "addr:housenumber": "12A",
+                "addr:teryt:sym_ul": 916578,
+                "contact:phone": "+48 683483419",
+                "contact:email": "sp_wroniawy@wp.pl",
+                "contact:website": "http:\/\/www.spstaradabrowa.pl",
+                "ref:regon": "411181377",
+                "operator": "Gmina Wolsztyn",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 13783"
+            }
+        },
+        {
+            "id": 115503,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.13572,
+                    52.09855
+                ]
+            },
+            "properties": {
+                "ref:rspo": 115503,
+                "official_name": "Punkt Przedszkolny w Szkole Podstawowej w Adamowie",
+                "name": "Punkt Przedszkolny w Szkole Podstawowej w Adamowie",
+                "addr:country": "PL",
+                "addr:postcode": "64-200",
+                "addr:place": "Adamowo",
+                "addr:housenumber": "56",
+                "addr:teryt:sym_ul": 916220,
+                "contact:phone": "+48 683842688",
+                "contact:email": "sp.starywidzim@wp.pl",
+                "contact:website": "http:\/\/www.spadamowo.edupage.org",
+                "ref:regon": "302473555",
+                "operator": "Gmina Wolsztyn",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 109119,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.13572,
+                    52.09852
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 109119,
+                "official_name": "Szko\u0142a Podstawowa im. Stanis\u0142awa Miko\u0142ajczyka w Starym Widzimiu Szko\u0142a Filialna w Adamowie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "64-200",
+                "addr:place": "Adamowo",
+                "addr:housenumber": "56",
+                "addr:teryt:sym_ul": 916220,
+                "contact:phone": "+48 683482280",
+                "contact:email": "sp.starywidzim@wp.pl",
+                "contact:website": "http:\/\/www.spadamowo.edupage.org",
+                "ref:regon": "411181354",
+                "operator": "Gmina Wolsztyn",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 13800"
+            }
+        },
+        {
+            "id": 34400,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.12246,
+                    52.10472
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 34400,
+                "official_name": "Liceum Og\u00f3lnokszta\u0142c\u0105ce dla Doros\u0142ych w Wolsztynie Zak\u0142adu Doskonalenia Zawodowego w Zielonej G\u00f3rze",
+                "name": "Liceum Og\u00f3lnokszta\u0142c\u0105ce dla Doros\u0142ych w Wolsztynie Zak\u0142adu Doskonalenia Zawodowego w Zielonej G\u00f3rze",
+                "addr:country": "PL",
+                "addr:postcode": "64-200",
+                "addr:city": "Wolsztyn",
+                "addr:street": "ul. Przemys\u0142owa",
+                "addr:housenumber": "5",
+                "addr:teryt:simc": 17742,
+                "addr:teryt:sym_ul": 988632,
+                "contact:phone": "+48 683471847",
+                "contact:email": "okzwolsztyn@zdz.zgora.pl",
+                "ref:regon": "302249786",
+                "operator": "Zak\u0142ad Doskonalenia Zawodowego W Zielonej G\u00f3rze",
+                "operator:type": "ngo",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 114989,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.12246,
+                    52.10469
+                ]
+            },
+            "properties": {
+                "ref:rspo": 114989,
+                "official_name": "O\u015brodek Kszta\u0142cenia Zawodowego",
+                "name": "O\u015brodek Kszta\u0142cenia Zawodowego",
+                "addr:country": "PL",
+                "addr:postcode": "64-200",
+                "addr:city": "Wolsztyn",
+                "addr:street": "ul. Przemys\u0142owa",
+                "addr:housenumber": "5",
+                "addr:teryt:simc": 17742,
+                "addr:teryt:sym_ul": 988632,
+                "contact:phone": "+48 683471847",
+                "ref:regon": "302449433",
+                "operator": "Zak\u0142ad Doskonalenia Zawodowego W Zielonej G\u00f3rze",
+                "operator:type": "ngo",
+                "fixme": "w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. amenity=training + training=*, amenity=dancing_school, amenity=language_school, amenity=music_school)"
+            }
+        },
+        {
+            "id": 115015,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.12246,
+                    52.10466
+                ]
+            },
+            "properties": {
+                "isced:level": "4",
+                "ref:rspo": 115015,
+                "official_name": "Policealne Studium Menad\u017cerskie Zak\u0142adu Doskonalenia Zawodowego",
+                "name": "Policealne Studium Menad\u017cerskie Zak\u0142adu Doskonalenia Zawodowego",
+                "addr:country": "PL",
+                "addr:postcode": "64-200",
+                "addr:city": "Wolsztyn",
+                "addr:street": "ul. Przemys\u0142owa",
+                "addr:housenumber": "5",
+                "addr:teryt:simc": 17742,
+                "addr:teryt:sym_ul": 988632,
+                "contact:phone": "+48 683471847",
+                "ref:regon": "302452760",
+                "operator": "Zak\u0142ad Doskonalenia Zawodowego W Zielonej G\u00f3rze",
+                "operator:type": "ngo",
+                "amenity": "college"
+            }
+        },
+        {
+            "id": 124277,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.12246,
+                    52.10463
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 124277,
+                "official_name": "Niepubliczna Bran\u017cowa Szko\u0142a I Stopnia w Wolsztynie Zak\u0142adu Doskonalenia Zawodowego w Zielonej G\u00f3rze",
+                "name": "Niepubliczna Bran\u017cowa Szko\u0142a I Stopnia w Wolsztynie Zak\u0142adu Doskonalenia Zawodowego w Zielonej G\u00f3rze",
+                "addr:country": "PL",
+                "addr:postcode": "64-200",
+                "addr:city": "Wolsztyn",
+                "addr:street": "ul. Przemys\u0142owa",
+                "addr:housenumber": "5",
+                "addr:teryt:simc": 17742,
+                "addr:teryt:sym_ul": 988632,
+                "contact:phone": "+48 662947890",
+                "contact:email": "ngwolsztyn@interia.pl",
+                "ref:regon": "302803596",
+                "operator": "Zak\u0142ad Doskonalenia Zawodowego W Zielonej G\u00f3rze",
+                "operator:type": "ngo",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 265052,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.12246,
+                    52.1046
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 265052,
+                "official_name": "Niepubliczna Szko\u0142a Podstawowa w Wolsztynie Zak\u0142adu Doskonalenia Zawodowego w Zielonej G\u00f3rze",
+                "name": "Niepubliczna Szko\u0142a Podstawowa w Wolsztynie Zak\u0142adu Doskonalenia Zawodowego w Zielonej G\u00f3rze",
+                "addr:country": "PL",
+                "addr:postcode": "64-200",
+                "addr:city": "Wolsztyn",
+                "addr:street": "ul. Przemys\u0142owa",
+                "addr:housenumber": "5",
+                "addr:teryt:simc": 17742,
+                "addr:teryt:sym_ul": 988632,
+                "contact:phone": "+48 691499620",
+                "contact:email": "ngwolsztyn@interia.pl",
+                "ref:regon": "368569284",
+                "operator": "Zak\u0142ad Doskonalenia Zawodowego W Zielonej G\u00f3rze",
+                "operator:type": "ngo",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 115501,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.17796,
+                    52.10799
+                ]
+            },
+            "properties": {
+                "ref:rspo": 115501,
+                "official_name": "Punkt Przedszkolny w Szkole Podstawowej w T\u0142okach",
+                "name": "Punkt Przedszkolny w Szkole Podstawowej w T\u0142okach",
+                "addr:country": "PL",
+                "addr:postcode": "64-200",
+                "addr:place": "T\u0142oki",
+                "addr:housenumber": "43",
+                "addr:teryt:sym_ul": 916667,
+                "contact:email": "sp1wolsztyn@o2.pl",
+                "contact:website": "http:\/\/www.spt\u0142oki.w8w.pl",
+                "ref:regon": "302473532",
+                "operator": "Gmina Wolsztyn",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 109124,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.17796,
+                    52.10796
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 109124,
+                "official_name": "Szko\u0142a Filialna Szko\u0142y Podstawowej Nr 1 Z Oddzia\u0142ami Dwuj\u0119zycznymi im. Powsta\u0144c\u00f3w Wielkopolskich w Wolsztynie",
+                "name": "Szko\u0142a Filialna Szko\u0142y Podstawowej Nr 1 Z Oddzia\u0142ami Dwuj\u0119zycznymi",
+                "addr:country": "PL",
+                "addr:postcode": "64-200",
+                "addr:place": "T\u0142oki",
+                "addr:housenumber": "43",
+                "addr:teryt:sym_ul": 916667,
+                "contact:email": "sp1wolsztyn@o2.pl",
+                "contact:website": "http:\/\/www.spt\u0142oki.w8w.pl",
+                "ref:regon": "411181408",
+                "operator": "Gmina Wolsztyn",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 14642"
+            }
+        },
+        {
+            "id": 62302,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.13971,
+                    52.10878
+                ]
+            },
+            "properties": {
+                "ref:rspo": 62302,
+                "official_name": "Akademia Malucha Niepubliczne Przedszkole Komorowo",
+                "name": "Akademia Malucha Niepubliczne Przedszkole Komorowo",
+                "addr:country": "PL",
+                "addr:postcode": "64-200",
+                "addr:place": "Komorowo",
+                "addr:housenumber": "33",
+                "addr:teryt:sym_ul": 916302,
+                "contact:phone": "+48 882700900",
+                "contact:email": "biuro@akademiamaluchakomorowo.pl",
+                "contact:website": "http:\/\/www.akademiamaluchakomorowo.pl",
+                "ref:regon": "302256409",
+                "ref:vatin": "PL9231675381",
+                "operator": "Sylwia Kulus-Lachowicz",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 56112,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.12025,
+                    52.10993
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 56112,
+                "official_name": "Szko\u0142a Podstawowa Nr 3 Z Oddzia\u0142ami Integracyjnymi Pomnik Tysi\u0105clecia Pa\u0144stwa Polskiego im. Micha\u0142a Drzyma\u0142y w Wolsztynie",
+                "name": "Szko\u0142a Podstawowa Nr 3 Z Oddzia\u0142ami Integracyjnymi Pomnik Tysi\u0105clecia Pa\u0144stwa Polskiego",
+                "addr:country": "PL",
+                "addr:postcode": "64-200",
+                "addr:city": "Wolsztyn",
+                "addr:street": "ul. Konopnickiej",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 9182,
+                "addr:teryt:sym_ul": 988632,
+                "contact:phone": "+48 683473557",
+                "contact:email": "sekretariat@sp3wolsztyn.pl",
+                "contact:website": "http:\/\/www.sp3wolsztyn.pl",
+                "ref:regon": "411181390",
+                "ref:vatin": "PL9231460054",
+                "operator": "Gmina Wolsztyn",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 59631,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.11489,
+                    52.11081
+                ]
+            },
+            "properties": {
+                "ref:rspo": 59631,
+                "official_name": "Punkt Przedszkolny \"\u015awiat Malucha\"",
+                "name": "Punkt Przedszkolny \"\u015awiat Malucha\"",
+                "addr:country": "PL",
+                "addr:postcode": "64-200",
+                "addr:city": "Wolsztyn",
+                "addr:street": "ul. Asnyka",
+                "addr:housenumber": "3",
+                "addr:teryt:simc": 467,
+                "addr:teryt:sym_ul": 988632,
+                "contact:phone": "+48 504243183",
+                "contact:email": "agnieszkarybicka@poczta.fm",
+                "contact:website": "http:\/\/www.edukacjasmyka.pl",
+                "ref:regon": "302254706",
+                "ref:vatin": "PL9231396333",
+                "operator": "Agnieszka Rybicka",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 56114,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.12083,
+                    52.11117
+                ]
+            },
+            "properties": {
+                "ref:rspo": 56114,
+                "official_name": "Przedszkole Nr 3 Z Oddzia\u0142ami Integracyjnymi w Wolsztynie",
+                "name": "Przedszkole Nr 3 Z Oddzia\u0142ami Integracyjnymi w Wolsztynie",
+                "addr:country": "PL",
+                "addr:postcode": "64-200",
+                "addr:city": "Wolsztyn",
+                "addr:street": "ul. Kusoci\u0144skiego",
+                "addr:housenumber": "2",
+                "addr:teryt:simc": 10491,
+                "addr:teryt:sym_ul": 988632,
+                "contact:phone": "+48 683842206",
+                "contact:email": "przedszkolenr3@wolsztyn.pl",
+                "contact:website": "http:\/\/www.p3wolsztyn.pl",
+                "ref:regon": "411181443",
+                "ref:vatin": "PL9231462165",
+                "operator": "Gmina Wolsztyn",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 64453,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.10686,
+                    52.11135
+                ]
+            },
+            "properties": {
+                "ref:rspo": 64453,
+                "official_name": "Przedszkole Nr 1 \"T\u0119czowa Lokomotywa\" w Wolsztynie",
+                "name": "Przedszkole Nr 1 \"T\u0119czowa Lokomotywa\" w Wolsztynie",
+                "addr:country": "PL",
+                "addr:postcode": "64-200",
+                "addr:city": "Wolsztyn",
+                "addr:street": "ul. Ogrodowa",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 14834,
+                "addr:teryt:sym_ul": 988632,
+                "contact:phone": "+48 683843429",
+                "contact:email": "przedszkole.1wol@wp.pl",
+                "contact:website": "http:\/\/www.p1wolsztyn.pl",
+                "ref:regon": "411181466",
+                "ref:vatin": "PL9231459915",
+                "operator": "Gmina Wolsztyn",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 5679,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.10298,
+                    52.11157
+                ]
+            },
+            "properties": {
+                "ref:rspo": 5679,
+                "official_name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Og\u00f3lnokszta\u0142c\u0105cych w Wolsztynie",
+                "name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Og\u00f3lnokszta\u0142c\u0105cych w Wolsztynie",
+                "addr:country": "PL",
+                "addr:postcode": "64-200",
+                "addr:city": "Wolsztyn",
+                "addr:street": "ul. Poniatowskiego",
+                "addr:housenumber": "7",
+                "addr:teryt:simc": 17100,
+                "addr:teryt:sym_ul": 988632,
+                "contact:phone": "+48 683843405",
+                "contact:email": "liceum@wolsztyn.com.pl",
+                "contact:website": "http:\/\/www.liceumwolsztyn.pl",
+                "ref:regon": "000229205",
+                "ref:vatin": "PL9231021099",
+                "operator": "Powiat Wolszty\u0144ski",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 34418;34420"
+            }
+        },
+        {
+            "id": 34418,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.10298,
+                    52.11154
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 34418,
+                "official_name": "Liceum Og\u00f3lnokszta\u0142c\u0105ce im. Marii Sk\u0142odowskiej-Curie",
+                "name": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+                "addr:country": "PL",
+                "addr:postcode": "64-200",
+                "addr:city": "Wolsztyn",
+                "addr:street": "ul. Poniatowskiego",
+                "addr:housenumber": "7",
+                "addr:teryt:simc": 17100,
+                "addr:teryt:sym_ul": 988632,
+                "contact:phone": "+48 683843404",
+                "contact:email": "liceum@wolsztyn.com.pl",
+                "contact:website": "http:\/\/www.liceumwolsztyn.pl",
+                "ref:regon": "411528220",
+                "operator": "Powiat Wolszty\u0144ski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 5679"
+            }
+        },
+        {
+            "id": 34420,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.10298,
+                    52.11151
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 34420,
+                "official_name": "Liceum Og\u00f3lnokszta\u0142c\u0105ce dla Doros\u0142ych",
+                "name": "Liceum Og\u00f3lnokszta\u0142c\u0105ce dla Doros\u0142ych",
+                "addr:country": "PL",
+                "addr:postcode": "64-200",
+                "addr:city": "Wolsztyn",
+                "addr:street": "ul. Poniatowskiego",
+                "addr:housenumber": "7",
+                "addr:teryt:simc": 17100,
+                "addr:teryt:sym_ul": 988632,
+                "contact:phone": "+48 683423404",
+                "ref:regon": "300651308",
+                "operator": "Powiat Wolszty\u0144ski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 5679"
+            }
+        },
+        {
+            "id": 5750,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.1212,
+                    52.11196
+                ]
+            },
+            "properties": {
+                "ref:rspo": 5750,
+                "official_name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Zawodowych w Wolsztynie",
+                "name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Zawodowych w Wolsztynie",
+                "addr:country": "PL",
+                "addr:postcode": "64-200",
+                "addr:city": "Wolsztyn",
+                "addr:street": "ul. Kusoci\u0144skiego",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 10491,
+                "addr:teryt:sym_ul": 988632,
+                "contact:phone": "+48 683842130",
+                "contact:email": "sekretariat@zszwolsztyn.pl",
+                "contact:website": "http:\/\/www.zszwolsztyn.pl",
+                "ref:regon": "000236240",
+                "ref:vatin": "PL9231020846",
+                "operator": "Powiat Wolszty\u0144ski",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 43571;43574;43955;44011;44125;44680;119017"
+            }
+        },
+        {
+            "id": 43571,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.1212,
+                    52.11193
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 43571,
+                "official_name": "Liceum Og\u00f3lnokszta\u0142c\u0105ce w Wolsztynie",
+                "name": "Liceum Og\u00f3lnokszta\u0142c\u0105ce w Wolsztynie",
+                "addr:country": "PL",
+                "addr:postcode": "64-200",
+                "addr:city": "Wolsztyn",
+                "addr:street": "ul. Kusoci\u0144skiego",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 10491,
+                "addr:teryt:sym_ul": 988632,
+                "contact:phone": "+48 683842130",
+                "ref:regon": "302124560",
+                "operator": "Powiat Wolszty\u0144ski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 5750"
+            }
+        },
+        {
+            "id": 43574,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.1212,
+                    52.111900000000006
+                ]
+            },
+            "properties": {
+                "ref:rspo": 43574,
+                "official_name": "Centrum Kszta\u0142cenia Zawodowego w Zespole Szk\u00f3\u0142 Zawodowych w Wolsztynie",
+                "name": "Centrum Kszta\u0142cenia Zawodowego w Zespole Szk\u00f3\u0142 Zawodowych w Wolsztynie",
+                "addr:country": "PL",
+                "addr:postcode": "64-200",
+                "addr:city": "Wolsztyn",
+                "addr:street": "ul. Kusoci\u0144skiego",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 10491,
+                "addr:teryt:sym_ul": 988632,
+                "contact:phone": "+48 683842130",
+                "contact:email": "sekretariat@zszwolsztyn.pl",
+                "ref:regon": "302124599",
+                "operator": "Powiat Wolszty\u0144ski",
+                "operator:type": "government",
+                "fixme": "w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. amenity=training + training=*, amenity=dancing_school, amenity=language_school, amenity=music_school) albo amenity=school, amenity=college, albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Parent RSPO: 5750"
+            }
+        },
+        {
+            "id": 43955,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.1212,
+                    52.11187
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 43955,
+                "official_name": "Bran\u017cowa Szko\u0142a I Stopnia im. Marcina Ro\u017cka w Wolsztynie",
+                "name": "Bran\u017cowa Szko\u0142a I Stopnia",
+                "addr:country": "PL",
+                "addr:postcode": "64-200",
+                "addr:city": "Wolsztyn",
+                "addr:street": "ul. Kusoci\u0144skiego",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 10491,
+                "addr:teryt:sym_ul": 988632,
+                "contact:phone": "+48 683842130",
+                "contact:email": "sekretariat@zszwolsztyn.pl",
+                "ref:regon": "411532598",
+                "operator": "Powiat Wolszty\u0144ski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 5750"
+            }
+        },
+        {
+            "id": 44011,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.1212,
+                    52.11184
+                ]
+            },
+            "properties": {
+                "isced:level": "4",
+                "ref:rspo": 44011,
+                "official_name": "Szko\u0142a Policealna",
+                "name": "Szko\u0142a Policealna",
+                "addr:country": "PL",
+                "addr:postcode": "64-200",
+                "addr:city": "Wolsztyn",
+                "addr:street": "ul. Kusoci\u0144skiego",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 10491,
+                "addr:teryt:sym_ul": 988632,
+                "contact:phone": "+48 683842130",
+                "contact:email": "sekretariat@zszwolsztyn.pl",
+                "ref:regon": "300089611",
+                "operator": "Powiat Wolszty\u0144ski",
+                "operator:type": "government",
+                "amenity": "college",
+                "note": "Parent RSPO: 5750"
+            }
+        },
+        {
+            "id": 44125,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.1212,
+                    52.111810000000006
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 44125,
+                "official_name": "Technikum im.marcina Ro\u017cka",
+                "name": "Technikum im.marcina Ro\u017cka",
+                "addr:country": "PL",
+                "addr:postcode": "64-200",
+                "addr:city": "Wolsztyn",
+                "addr:street": "ul. Kusoci\u0144skiego",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 10491,
+                "addr:teryt:sym_ul": 988632,
+                "contact:phone": "+48 683842130",
+                "contact:email": "sekretariat@zszwolsztyn.pl",
+                "ref:regon": "411532658",
+                "operator": "Powiat Wolszty\u0144ski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 5750"
+            }
+        },
+        {
+            "id": 44680,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.1212,
+                    52.11178
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 44680,
+                "official_name": "Bran\u017cowa Szko\u0142a Specjalna I Stopnia w Wolsztynie",
+                "name": "Bran\u017cowa Szko\u0142a Specjalna I Stopnia w Wolsztynie",
+                "addr:country": "PL",
+                "addr:postcode": "64-200",
+                "addr:city": "Wolsztyn",
+                "addr:street": "ul. Kusoci\u0144skiego",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 10491,
+                "addr:teryt:sym_ul": 988632,
+                "contact:phone": "+48 683842130",
+                "ref:regon": "411532581",
+                "operator": "Powiat Wolszty\u0144ski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 5750"
+            }
+        },
+        {
+            "id": 119017,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.1212,
+                    52.11175
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 119017,
+                "official_name": "Liceum Og\u00f3lnokszta\u0142c\u0105ce dla Doros\u0142ych w Zespole Szk\u00f3\u0142 Zawodowych w Wolsztynie",
+                "name": "Liceum Og\u00f3lnokszta\u0142c\u0105ce dla Doros\u0142ych w Zespole Szk\u00f3\u0142 Zawodowych w Wolsztynie",
+                "addr:country": "PL",
+                "addr:postcode": "64-200",
+                "addr:city": "Wolsztyn",
+                "addr:street": "ul. Kusoci\u0144skiego",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 10491,
+                "addr:teryt:sym_ul": 988632,
+                "contact:phone": "+48 683842130",
+                "ref:regon": "302508526",
+                "operator": "Powiat Wolszty\u0144ski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 5750"
+            }
+        },
+        {
+            "id": 14642,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.10586,
+                    52.11218
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 14642,
+                "official_name": "Szko\u0142a Podstawowa Nr 1 Z Oddzia\u0142ami Dwuj\u0119zycznymi im. Powsta\u0144c\u00f3w Wielkopolskichw Wolsztynie",
+                "name": "Szko\u0142a Podstawowa Nr 1 Z Oddzia\u0142ami Dwuj\u0119zycznymi",
+                "addr:country": "PL",
+                "addr:postcode": "64-200",
+                "addr:city": "Wolsztyn",
+                "addr:street": "ul. Poniatowskiego",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 17100,
+                "addr:teryt:sym_ul": 988632,
+                "contact:phone": "+48 683843337",
+                "contact:email": "sp1wolsztyn@o2.pl",
+                "contact:website": "http:\/\/www.sp1wolsztyn.pl",
+                "ref:regon": "411181408",
+                "ref:vatin": "PL9231460031",
+                "operator": "Gmina Wolsztyn",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Children RSPO: 109124"
+            }
+        },
+        {
+            "id": 124275,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.10586,
+                    52.11215
+                ]
+            },
+            "properties": {
+                "isced:level": "4",
+                "ref:rspo": 124275,
+                "official_name": "Szko\u0142a Policealna - Studium Medyczne Lider w Wolsztynie",
+                "name": "Szko\u0142a Policealna - Studium Medyczne Lider w Wolsztynie",
+                "addr:country": "PL",
+                "addr:postcode": "64-200",
+                "addr:city": "Wolsztyn",
+                "addr:street": "ul. Poniatowskiego",
+                "addr:housenumber": "1",
+                "addr:door": "A",
+                "addr:teryt:simc": 17100,
+                "addr:teryt:sym_ul": 988632,
+                "contact:phone": "+48 838443337",
+                "contact:email": "biuro@cds-lider.com.pl",
+                "ref:regon": "302803580",
+                "operator": "Ma\u0142gorzata Szl\u0105zak",
+                "operator:type": "private",
+                "amenity": "college"
+            }
+        },
+        {
+            "id": 272149,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.10844,
+                    52.11249
+                ]
+            },
+            "properties": {
+                "ref:rspo": 272149,
+                "official_name": "Centrum Kszta\u0142cenia Kadr \"Emat\" w Wolsztynie",
+                "name": "Centrum Kszta\u0142cenia Kadr \"Emat\" w Wolsztynie",
+                "addr:country": "PL",
+                "addr:postcode": "64-200",
+                "addr:city": "Wolsztyn",
+                "addr:street": "ul. D\u0105browskiego",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 3667,
+                "addr:teryt:sym_ul": 988632,
+                "contact:phone": "+48 683473500",
+                "contact:email": "ckk@emat.com.pl",
+                "contact:website": "http:\/\/www.emat.com.pl",
+                "ref:regon": "383961464",
+                "ref:vatin": "PL9231121062",
+                "operator": "El\u017cbieta Matysiak",
+                "operator:type": "private",
+                "fixme": "w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. amenity=training + training=*, amenity=dancing_school, amenity=language_school, amenity=music_school)"
+            }
+        },
+        {
+            "id": 54309,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.1288899,
+                    52.11353
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 54309,
+                "official_name": "Szko\u0142a Podstawowa Nr 5 Z Oddzia\u0142ami Integracyjnymi w Wolsztynie",
+                "name": "Szko\u0142a Podstawowa Nr 5 Z Oddzia\u0142ami Integracyjnymi w Wolsztynie",
+                "addr:country": "PL",
+                "addr:postcode": "64-200",
+                "addr:city": "Wolsztyn",
+                "addr:street": "ul. \u017begockiego",
+                "addr:housenumber": "26",
+                "addr:teryt:simc": 26425,
+                "addr:teryt:sym_ul": 988632,
+                "contact:phone": "+48 683842158",
+                "contact:email": "kontakt@sp5wolsztyn.pl",
+                "contact:website": "http:\/\/www.sp5wolsztyn.pl",
+                "ref:regon": "411181383",
+                "ref:vatin": "PL9231460060",
+                "operator": "Gmina Wolsztyn",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 9488,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.1078699,
+                    52.11394
+                ]
+            },
+            "properties": {
+                "ref:rspo": 9488,
+                "official_name": "Powiatowa Poradnia Psychologiczno-Pedagogiczna",
+                "name": "Powiatowa Poradnia Psychologiczno-Pedagogiczna",
+                "addr:country": "PL",
+                "addr:postcode": "64-200",
+                "addr:city": "Wolsztyn",
+                "addr:street": "ul. 5 Stycznia",
+                "addr:housenumber": "5",
+                "addr:teryt:simc": 21469,
+                "addr:teryt:sym_ul": 988632,
+                "contact:phone": "+48 683842082",
+                "contact:email": "ppppwolsztyn@wp.pl",
+                "contact:website": "http:\/\/www.poradnia.powiatwolsztyn.pl",
+                "ref:regon": "000705947",
+                "ref:vatin": "PL9231205623",
+                "operator": "Powiat Wolszty\u0144ski",
+                "operator:type": "government",
+                "healthcare": "counselling",
+                "counselling_type": "education",
+                "fixme": "w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. healthcare=counselling + counselling_type=education albo healthcare=psychotherapist)"
+            }
+        },
+        {
+            "id": 133850,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.1173499,
+                    52.11489
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 133850,
+                "official_name": "Szko\u0142a Podstawowa Nr 2 Z Oddzia\u0142ami Integracyjnymi im. Tadeusza Ko\u015bciuszki w Wolsztynie",
+                "name": "Szko\u0142a Podstawowa Nr 2 Z Oddzia\u0142ami Integracyjnymi",
+                "addr:country": "PL",
+                "addr:postcode": "64-200",
+                "addr:city": "Wolsztyn",
+                "addr:street": "ul. Wschowska",
+                "addr:housenumber": "15",
+                "addr:teryt:simc": 24880,
+                "addr:teryt:sym_ul": 988632,
+                "contact:phone": "+48 683842218",
+                "contact:email": "sekretariat@sp2wolsztyn.pl",
+                "contact:website": "http:\/\/www.sp2wolsztyn.pl",
+                "ref:regon": "367691327",
+                "ref:vatin": "PL9231712685",
+                "operator": "Gmina Wolsztyn",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 5732,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.1090899,
+                    52.11531
+                ]
+            },
+            "properties": {
+                "ref:rspo": 5732,
+                "official_name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Specjalnych w Wolsztynie",
+                "name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Specjalnych w Wolsztynie",
+                "addr:country": "PL",
+                "addr:postcode": "64-200",
+                "addr:city": "Wolsztyn",
+                "addr:street": "ul. 5 Stycznia",
+                "addr:housenumber": "14",
+                "addr:teryt:simc": 21469,
+                "addr:teryt:sym_ul": 988632,
+                "contact:phone": "+48 683842395",
+                "contact:email": "zsswolsztyn@zsswolsztyn.pl",
+                "contact:website": "http:\/\/www.zsswolsztyn.pl",
+                "ref:regon": "971229156",
+                "ref:vatin": "PL9231533600",
+                "operator": "Powiat Wolszty\u0144ski",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 34290;34314"
+            }
+        },
+        {
+            "id": 34290,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.1090899,
+                    52.11528
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 34290,
+                "official_name": "Szko\u0142a Podstawowa Specjalna Nr 4",
+                "name": "Szko\u0142a Podstawowa Specjalna Nr 4",
+                "addr:country": "PL",
+                "addr:postcode": "64-200",
+                "addr:city": "Wolsztyn",
+                "addr:street": "ul. 5 Stycznia",
+                "addr:housenumber": "14",
+                "addr:teryt:simc": 21469,
+                "addr:teryt:sym_ul": 988632,
+                "contact:phone": "+48 683842395",
+                "contact:email": "zsswolsztyn@zsswolsztyn.pl",
+                "contact:website": "http:\/\/www.zsswolsztyn.pl",
+                "ref:regon": "411170296",
+                "ref:vatin": "PL9231533600",
+                "operator": "Powiat Wolszty\u0144ski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 5732"
+            }
+        },
+        {
+            "id": 34314,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.1090899,
+                    52.11525
+                ]
+            },
+            "properties": {
+                "ref:rspo": 34314,
+                "official_name": "Szko\u0142a Specjalna Przysposabiaj\u0105ca Do Pracy",
+                "name": "Szko\u0142a Specjalna Przysposabiaj\u0105ca Do Pracy",
+                "addr:country": "PL",
+                "addr:postcode": "64-200",
+                "addr:city": "Wolsztyn",
+                "addr:street": "ul. 5 Stycznia",
+                "addr:housenumber": "14",
+                "addr:teryt:simc": 21469,
+                "addr:teryt:sym_ul": 988632,
+                "contact:phone": "+48 683842395",
+                "contact:email": "zsswolsztyn@zsswolsztyn.pl",
+                "contact:website": "http:\/\/www.zsswolsztyn.pl",
+                "ref:regon": "300088451",
+                "ref:vatin": "PL9231533600",
+                "operator": "Powiat Wolszty\u0144ski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 5732"
+            }
+        },
+        {
+            "id": 115164,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.10623,
+                    52.11565
+                ]
+            },
+            "properties": {
+                "ref:rspo": 115164,
+                "official_name": "Publiczna Biblioteka Pedagogiczna w Poznaniu Filia w Wolsztynie",
+                "name": "Publiczna Biblioteka Pedagogiczna w Poznaniu Filia w Wolsztynie",
+                "addr:country": "PL",
+                "addr:postcode": "64-200",
+                "addr:city": "Wolsztyn",
+                "addr:street": "ul. Rzeczna",
+                "addr:housenumber": "17",
+                "addr:door": "1",
+                "addr:teryt:simc": 19326,
+                "addr:teryt:sym_ul": 988632,
+                "contact:phone": "+48 683842271",
+                "contact:email": "biblioteka@wolsztyn.pbp.poznan.pl",
+                "contact:website": "http:\/\/wolsztyn.pbp.poznan.pl",
+                "ref:regon": "639810550",
+                "operator": "Wojew\u00f3dztwo Wielkopolskie",
+                "operator:type": "government",
+                "amenity": "library",
+                "note": "Parent RSPO: 30977"
+            }
+        },
+        {
+            "id": 31618,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.10987,
+                    52.11627
+                ]
+            },
+            "properties": {
+                "ref:rspo": 31618,
+                "official_name": "Pa\u0144stwowa Szko\u0142a Muzyczna I St. im. Ireny Pfeiffer w Wolsztynie",
+                "name": "Pa\u0144stwowa Szko\u0142a Muzyczna I St.",
+                "addr:country": "PL",
+                "addr:postcode": "64-200",
+                "addr:city": "Wolsztyn",
+                "addr:street": "ul. 5 Stycznia",
+                "addr:housenumber": "20",
+                "addr:teryt:simc": 21469,
+                "addr:teryt:sym_ul": 988632,
+                "contact:phone": "+48 683843150",
+                "contact:email": "sekretariat@psm.bior.pl",
+                "contact:website": "http:\/\/psm.bior.pl",
+                "ref:regon": "411432916",
+                "operator": "Ministerstwo Kultury I Dziedzictwa Narodowego",
+                "operator:type": "public",
+                "amenity": "music_school"
+            }
+        },
+        {
+            "id": 272455,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.11315,
+                    52.11678
+                ]
+            },
+            "properties": {
+                "ref:rspo": 272455,
+                "official_name": "Educus Centrum Szkoleniowe Tomasz Kirszensztejn",
+                "name": "Educus Centrum Szkoleniowe Tomasz Kirszensztejn",
+                "addr:country": "PL",
+                "addr:postcode": "64-200",
+                "addr:city": "Wolsztyn",
+                "addr:street": "rynek Rynek",
+                "addr:housenumber": "14",
+                "addr:teryt:simc": 19252,
+                "addr:teryt:sym_ul": 988632,
+                "contact:email": "educus@educus.pl",
+                "contact:website": "http:\/\/www.educus.pl",
+                "ref:regon": "384179607",
+                "operator": "Tomasz Kirszensztejn",
+                "operator:type": "private",
+                "fixme": "w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. amenity=training + training=*, amenity=dancing_school, amenity=language_school, amenity=music_school)"
+            }
+        },
+        {
+            "id": 60521,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.11789,
+                    52.1181
+                ]
+            },
+            "properties": {
+                "ref:rspo": 60521,
+                "official_name": "Niepubliczne Przedszkole Si\u00f3str Mi\u0142osierdzia \u015aw. Wincentego A Paulo w Wolsztynie",
+                "name": "Niepubliczne Przedszkole Si\u00f3str Mi\u0142osierdzia \u015aw. Wincentego A Paulo w Wolsztynie",
+                "addr:country": "PL",
+                "addr:postcode": "64-200",
+                "addr:city": "Wolsztyn",
+                "addr:street": "ul. Pozna\u0144ska",
+                "addr:housenumber": "32",
+                "addr:teryt:simc": 17394,
+                "addr:teryt:sym_ul": 988632,
+                "contact:phone": "+48 508174145",
+                "contact:email": "kontakt@przedszkolesiostrwolsztyn.pl",
+                "ref:regon": "302263881",
+                "ref:vatin": "PL9231683914",
+                "operator": "Zgromadzenie Si\u00f3str Mi\u0142osierdzia \u015aw. Wincentego A Paulo Prowincja Che\u0142mi\u0144sko-Pozna\u0144ska",
+                "operator:type": "religious",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 62300,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.12852,
+                    52.11813
+                ]
+            },
+            "properties": {
+                "ref:rspo": 62300,
+                "official_name": "Przedszkole Nr 5 \"S\u0142oneczna Pi\u0105tka\" w Wolsztynie",
+                "name": "Przedszkole Nr 5 \"S\u0142oneczna Pi\u0105tka\" w Wolsztynie",
+                "addr:country": "PL",
+                "addr:postcode": "64-200",
+                "addr:city": "Wolsztyn",
+                "addr:street": "ul. Komorowska",
+                "addr:housenumber": "4",
+                "addr:teryt:simc": 9075,
+                "addr:teryt:sym_ul": 988632,
+                "contact:phone": "+48 683842615",
+                "contact:email": "sloneczneprzedszkole5@onet.eu",
+                "contact:website": "http:\/\/www.p5wolsztyn.pl",
+                "ref:regon": "411181437",
+                "ref:vatin": "PL9231459938",
+                "operator": "Gmina Wolsztyn",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 5675,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.05661,
+                    52.12022
+                ]
+            },
+            "properties": {
+                "ref:rspo": 5675,
+                "official_name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Rolniczych I Technicznych w Powodowie",
+                "name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Rolniczych I Technicznych w Powodowie",
+                "addr:country": "PL",
+                "addr:postcode": "64-200",
+                "addr:place": "Powodowo",
+                "addr:housenumber": "1",
+                "addr:door": "1",
+                "addr:teryt:sym_ul": 916555,
+                "contact:phone": "+48 683843675",
+                "contact:email": "zsrpowodowo@poczta.onet.pl",
+                "contact:website": "http:\/\/www.zsritpowodowo.pl",
+                "ref:regon": "970779096",
+                "ref:vatin": "PL9231032878",
+                "operator": "Powiat Wolszty\u0144ski",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 34417;60282;124292"
+            }
+        },
+        {
+            "id": 34417,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.05661,
+                    52.12019
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 34417,
+                "official_name": "Technikum",
+                "name": "Technikum",
+                "addr:country": "PL",
+                "addr:postcode": "64-200",
+                "addr:place": "Powodowo",
+                "addr:housenumber": "1",
+                "addr:teryt:sym_ul": 916555,
+                "contact:phone": "+48 683843675",
+                "contact:email": "zsrpowodowo@poczta.onet.pl",
+                "contact:website": "http:\/\/www.zsritpowodowo.pl",
+                "ref:regon": "300957510",
+                "ref:vatin": "PL9231032878",
+                "operator": "Powiat Wolszty\u0144ski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 5675"
+            }
+        },
+        {
+            "id": 60282,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.05661,
+                    52.120160000000006
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 60282,
+                "official_name": "Bran\u017cowa Szko\u0142a I Stopnia w Powodowie",
+                "name": "Bran\u017cowa Szko\u0142a I Stopnia w Powodowie",
+                "addr:country": "PL",
+                "addr:postcode": "64-200",
+                "addr:place": "Powodowo",
+                "addr:housenumber": "1",
+                "addr:teryt:sym_ul": 916555,
+                "contact:phone": "+48 683843675",
+                "contact:email": "zsrpowodowo@poczta.onet.pl",
+                "ref:regon": "411528740",
+                "operator": "Powiat Wolszty\u0144ski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 5675"
+            }
+        },
+        {
+            "id": 124292,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.05661,
+                    52.12013
+                ]
+            },
+            "properties": {
+                "isced:level": "4",
+                "ref:rspo": 124292,
+                "official_name": "Szko\u0142a Policelana w Zespole Szk\u00f3\u0142 Rolniczych I Technicznych w Powodowie",
+                "name": "Szko\u0142a Policelana w Zespole Szk\u00f3\u0142 Rolniczych I Technicznych w Powodowie",
+                "addr:country": "PL",
+                "addr:postcode": "64-200",
+                "addr:place": "Powodowo",
+                "addr:housenumber": "1",
+                "addr:teryt:sym_ul": 916555,
+                "contact:phone": "+48 683843675",
+                "ref:regon": "302806100",
+                "operator": "Powiat Wolszty\u0144ski",
+                "operator:type": "government",
+                "amenity": "college",
+                "note": "Parent RSPO: 5675"
+            }
+        },
+        {
+            "id": 43313,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.09216,
+                    52.13449
+                ]
+            },
+            "properties": {
+                "ref:rspo": 43313,
+                "official_name": "Przedszkole \"Jak U Mamy\" w Chorzeminie",
+                "name": "Przedszkole \"Jak U Mamy\" w Chorzeminie",
+                "addr:country": "PL",
+                "addr:postcode": "64-200",
+                "addr:place": "Chorzemin",
+                "addr:housenumber": "78a",
+                "addr:teryt:sym_ul": 916325,
+                "contact:phone": "+48 683842733",
+                "contact:email": "ppchorzemin@wp.pl",
+                "contact:website": "http:\/\/www.ppchorzemin.pl",
+                "ref:regon": "301423319",
+                "ref:vatin": "PL9231678669",
+                "operator": "Gmina Wolsztyn",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 124860,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.1236,
+                    52.13678
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 124860,
+                "official_name": "Szko\u0142a Podstawowa w Karpicku",
+                "name": "Szko\u0142a Podstawowa w Karpicku",
+                "addr:country": "PL",
+                "addr:postcode": "64-200",
+                "addr:city": "Karpicko",
+                "addr:street": "ul. Wczasowa",
+                "addr:housenumber": "72",
+                "addr:teryt:simc": 23814,
+                "addr:teryt:sym_ul": 916377,
+                "contact:phone": "+48 683843834",
+                "contact:email": "kontakt@spkarpicko.pl",
+                "contact:website": "http:\/\/www.spkarpicko.pl",
+                "ref:regon": "411181331",
+                "ref:vatin": "PL9231460025",
+                "operator": "Gmina Wolsztyn",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

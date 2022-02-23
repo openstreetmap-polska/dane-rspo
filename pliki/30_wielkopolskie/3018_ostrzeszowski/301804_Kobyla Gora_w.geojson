@@ -1,1 +1,156 @@
-{"type":"FeatureCollection","features":[{"id":91591,"type":"Feature","geometry":{"type":"Point","coordinates":[17.7825649,51.355484]},"properties":{"isced:level":"1;2","ref:rspo":91591,"official_name":"Szko\u0142a Podstawowa w M\u0105koszycach im. J\u00f3zefa Kulli","name":"Szko\u0142a Podstawowa w M\u0105koszycach","addr:country":"PL","addr:postcode":"63-507","addr:place":"M\u0105koszyce","addr:housenumber":"134","addr:teryt:sym_ul":200236,"contact:phone":"+48 627316812","contact:email":"spmakoszyce@interia.pl","ref:regon":"001171749","ref:vatin":"PL5140225575","operator":"Gmina Kobyla G\u00f3ra","operator:type":"government","amenity":"school"}},{"id":91589,"type":"Feature","geometry":{"type":"Point","coordinates":[17.7944919,51.3562589]},"properties":{"ref:rspo":91589,"official_name":"Publiczne Przedszkole w M\u0105koszycach","name":"Publiczne Przedszkole w M\u0105koszycach","addr:country":"PL","addr:postcode":"63-507","addr:place":"M\u0105koszyce","addr:housenumber":"91","addr:teryt:sym_ul":200236,"contact:phone":"+48 627316803","contact:email":"przedszkole.makoszyce@wp.pl","contact:website":"http:\/\/przedszkole-makoszyce.kobyla-gora.pl","ref:regon":"251539925","ref:vatin":"PL5140213129","operator":"Gmina Kobyla G\u00f3ra","operator:type":"government","amenity":"kindergarten"}},{"id":91592,"type":"Feature","geometry":{"type":"Point","coordinates":[17.9035436,51.3696514]},"properties":{"isced:level":"1;2","ref:rspo":91592,"official_name":"Szko\u0142a Podstawowa w Parzynowie","name":"Szko\u0142a Podstawowa w Parzynowie","addr:country":"PL","addr:postcode":"63-507","addr:place":"Parzyn\u00f3w","addr:housenumber":"7","addr:teryt:sym_ul":200325,"contact:phone":"+48 627316150","contact:email":"sp-parzynow@wp.pl","contact:website":"http:\/\/spparzynow.eu\/","ref:regon":"001171778","ref:vatin":"PL5140211509","operator":"Gmina Kobyla G\u00f3ra","operator:type":"government","amenity":"school"}},{"id":80416,"type":"Feature","geometry":{"type":"Point","coordinates":[17.83166,51.37888]},"properties":{"isced:level":"1;2","ref:rspo":80416,"official_name":"Szko\u0142a Podstawowa w Kobylej G\u00f3rze im. Tadeusza Ko\u015bciuszki","name":"Szko\u0142a Podstawowa w Kobylej G\u00f3rze","addr:country":"PL","addr:postcode":"63-507","addr:city":"Kobyla G\u00f3ra","addr:street":"ul. Kazimierza Tetmajera","addr:housenumber":"1a","addr:teryt:simc":22771,"addr:teryt:sym_ul":200035,"contact:phone":"+48 627316211","contact:email":"spkobylagora@wp.pl","contact:website":"https:\/\/spkobylagora.edupage.org\/","ref:regon":"000268211","ref:vatin":"PL5140213106","operator":"Gmina Kobyla G\u00f3ra","operator:type":"government","amenity":"school"}},{"id":91593,"type":"Feature","geometry":{"type":"Point","coordinates":[17.83719,51.37905]},"properties":{"ref:rspo":91593,"official_name":"Publiczne Przedszkole w Kobylej G\u00f3rze","name":"Publiczne Przedszkole w Kobylej G\u00f3rze","addr:country":"PL","addr:postcode":"63-507","addr:city":"Kobyla G\u00f3ra","addr:street":"pl. Plac Wiosny Lud\u00f3w","addr:housenumber":"24","addr:teryt:simc":33832,"addr:teryt:sym_ul":200035,"contact:phone":"+48 627317507","contact:email":"przedszkolekobylagora@wp.pl","contact:website":"http:\/\/www.przedszkole.kobyla-gora.pl\/","ref:regon":"251539931","ref:vatin":"PL5140247223","operator":"Gmina Kobyla G\u00f3ra","operator:type":"government","amenity":"kindergarten"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 91591,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.7825649,
+                    51.355484
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 91591,
+                "official_name": "Szko\u0142a Podstawowa w M\u0105koszycach im. J\u00f3zefa Kulli",
+                "name": "Szko\u0142a Podstawowa w M\u0105koszycach",
+                "addr:country": "PL",
+                "addr:postcode": "63-507",
+                "addr:place": "M\u0105koszyce",
+                "addr:housenumber": "134",
+                "addr:teryt:sym_ul": 200236,
+                "contact:phone": "+48 627316812",
+                "contact:email": "spmakoszyce@interia.pl",
+                "ref:regon": "001171749",
+                "ref:vatin": "PL5140225575",
+                "operator": "Gmina Kobyla G\u00f3ra",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 91589,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.7944919,
+                    51.3562589
+                ]
+            },
+            "properties": {
+                "ref:rspo": 91589,
+                "official_name": "Publiczne Przedszkole w M\u0105koszycach",
+                "name": "Publiczne Przedszkole w M\u0105koszycach",
+                "addr:country": "PL",
+                "addr:postcode": "63-507",
+                "addr:place": "M\u0105koszyce",
+                "addr:housenumber": "91",
+                "addr:teryt:sym_ul": 200236,
+                "contact:phone": "+48 627316803",
+                "contact:email": "przedszkole.makoszyce@wp.pl",
+                "contact:website": "http:\/\/przedszkole-makoszyce.kobyla-gora.pl",
+                "ref:regon": "251539925",
+                "ref:vatin": "PL5140213129",
+                "operator": "Gmina Kobyla G\u00f3ra",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 91592,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.9035436,
+                    51.3696514
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 91592,
+                "official_name": "Szko\u0142a Podstawowa w Parzynowie",
+                "name": "Szko\u0142a Podstawowa w Parzynowie",
+                "addr:country": "PL",
+                "addr:postcode": "63-507",
+                "addr:place": "Parzyn\u00f3w",
+                "addr:housenumber": "7",
+                "addr:teryt:sym_ul": 200325,
+                "contact:phone": "+48 627316150",
+                "contact:email": "sp-parzynow@wp.pl",
+                "contact:website": "http:\/\/spparzynow.eu\/",
+                "ref:regon": "001171778",
+                "ref:vatin": "PL5140211509",
+                "operator": "Gmina Kobyla G\u00f3ra",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 80416,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.83166,
+                    51.37888
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 80416,
+                "official_name": "Szko\u0142a Podstawowa w Kobylej G\u00f3rze im. Tadeusza Ko\u015bciuszki",
+                "name": "Szko\u0142a Podstawowa w Kobylej G\u00f3rze",
+                "addr:country": "PL",
+                "addr:postcode": "63-507",
+                "addr:city": "Kobyla G\u00f3ra",
+                "addr:street": "ul. Kazimierza Tetmajera",
+                "addr:housenumber": "1a",
+                "addr:teryt:simc": 22771,
+                "addr:teryt:sym_ul": 200035,
+                "contact:phone": "+48 627316211",
+                "contact:email": "spkobylagora@wp.pl",
+                "contact:website": "https:\/\/spkobylagora.edupage.org\/",
+                "ref:regon": "000268211",
+                "ref:vatin": "PL5140213106",
+                "operator": "Gmina Kobyla G\u00f3ra",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 91593,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.83719,
+                    51.37905
+                ]
+            },
+            "properties": {
+                "ref:rspo": 91593,
+                "official_name": "Publiczne Przedszkole w Kobylej G\u00f3rze",
+                "name": "Publiczne Przedszkole w Kobylej G\u00f3rze",
+                "addr:country": "PL",
+                "addr:postcode": "63-507",
+                "addr:city": "Kobyla G\u00f3ra",
+                "addr:street": "pl. Plac Wiosny Lud\u00f3w",
+                "addr:housenumber": "24",
+                "addr:teryt:simc": 33832,
+                "addr:teryt:sym_ul": 200035,
+                "contact:phone": "+48 627317507",
+                "contact:email": "przedszkolekobylagora@wp.pl",
+                "contact:website": "http:\/\/www.przedszkole.kobyla-gora.pl\/",
+                "ref:regon": "251539931",
+                "ref:vatin": "PL5140247223",
+                "operator": "Gmina Kobyla G\u00f3ra",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        }
+    ]
+}

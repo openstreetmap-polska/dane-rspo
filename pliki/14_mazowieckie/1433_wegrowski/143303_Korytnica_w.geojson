@@ -1,1 +1,242 @@
-{"type":"FeatureCollection","features":[{"id":103969,"type":"Feature","geometry":{"type":"Point","coordinates":[21.80665,52.37149]},"properties":{"isced:level":"1;2","ref:rspo":103969,"official_name":"Szko\u0142a Podstawowa w Pniewniku","name":"Szko\u0142a Podstawowa w Pniewniku","addr:country":"PL","addr:postcode":"07-120","addr:place":"Pniewnik","addr:housenumber":"35","addr:teryt:sym_ul":675666,"contact:phone":"+48 256613226","contact:email":"sp.pniewnik@gmail.com","contact:website":"http:\/\/www.sppniewnik.szkolnastrona.pl","ref:regon":"001124201","ref:vatin":"PL8241593632","operator":"Gmina Korytnica","operator:type":"government","amenity":"school"}},{"id":125230,"type":"Feature","geometry":{"type":"Point","coordinates":[21.8027799,52.37189]},"properties":{"ref:rspo":125230,"official_name":"Punkt Przedszkolny Chatka Puchatka","name":"Punkt Przedszkolny Chatka Puchatka","addr:country":"PL","addr:postcode":"07-120","addr:place":"Pniewnik","addr:housenumber":"43","addr:teryt:sym_ul":675666,"contact:email":"stowarzyszenie.pniewnik@o2.pl","ref:regon":"147433080","ref:vatin":"PL8241801160","operator":"Dane Do Uzupe\u0142nienia","operator:type":"private","amenity":"kindergarten"}},{"id":104832,"type":"Feature","geometry":{"type":"Point","coordinates":[21.85342,52.41229]},"properties":{"ref:rspo":104832,"official_name":"Gminne Przedszkole Publiczne w Korytnicy","name":"Gminne Przedszkole Publiczne w Korytnicy","addr:country":"PL","addr:postcode":"07-120","addr:city":"Korytnica","addr:street":"ul. Szkolna","addr:housenumber":"1","addr:teryt:simc":21970,"addr:teryt:sym_ul":675519,"contact:phone":"+48 256612494","contact:email":"spkorytnica@gmail.com","ref:regon":"712544795","ref:vatin":"PL8241604353","operator":"Gmina Korytnica","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 119852"}},{"id":119852,"type":"Feature","geometry":{"type":"Point","coordinates":[21.85429,52.4129999]},"properties":{"ref:rspo":119852,"official_name":"Zesp\u00f3\u0142 Szkolno Przedszkolny w Korytnicy","name":"Zesp\u00f3\u0142 Szkolno Przedszkolny w Korytnicy","addr:country":"PL","addr:postcode":"07-120","addr:city":"Korytnica","addr:street":"ul. Henryka Sienkiewicza","addr:housenumber":"14","addr:teryt:simc":19834,"addr:teryt:sym_ul":675519,"contact:phone":"+48 256612494","contact:email":"spkorytnica@gmail.com","ref:regon":"146864233","operator":"Gmina Korytnica","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 81099;104832"}},{"id":81099,"type":"Feature","geometry":{"type":"Point","coordinates":[21.85429,52.4129699]},"properties":{"isced:level":"1;2","ref:rspo":81099,"official_name":"Szko\u0142a Podstawowa im. Henryka Sienkiewicza w Korytnicy","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"07-120","addr:city":"Korytnica","addr:street":"ul. Henryka Sienkiewicza","addr:housenumber":"14","addr:teryt:simc":19834,"addr:teryt:sym_ul":675519,"contact:phone":"+48 256612494","contact:email":"spkorytnica@gmail.com","ref:regon":"000720102","ref:vatin":"PL8241593709","operator":"Gmina Korytnica","operator:type":"government","amenity":"school","note":"Parent RSPO: 119852"}},{"id":75687,"type":"Feature","geometry":{"type":"Point","coordinates":[21.74843,52.41564]},"properties":{"isced:level":"1;2","ref:rspo":75687,"official_name":"Szko\u0142a Podstawowa w Sewerynowie","name":"Szko\u0142a Podstawowa w Sewerynowie","addr:country":"PL","addr:postcode":"07-120","addr:place":"Seweryn\u00f3w","addr:housenumber":"81","addr:teryt:sym_ul":675749,"contact:phone":"+48 256614319","contact:email":"spsewerynow@wp.pl","ref:regon":"001124218","ref:vatin":"PL8241600183","operator":"Gmina Korytnica","operator:type":"government","amenity":"school"}},{"id":75718,"type":"Feature","geometry":{"type":"Point","coordinates":[21.89121,52.4505399]},"properties":{"isced:level":"1;2","ref:rspo":75718,"official_name":"Szko\u0142a Podstawowa im.bpa Franciszka Jaczewskiego w G\u00f3rkach Grubakach","name":"Szko\u0142a Podstawowa im.bpa Franciszka Jaczewskiego w G\u00f3rkach Grubakach","addr:country":"PL","addr:postcode":"07-120","addr:place":"G\u00f3rki-Grubaki","addr:housenumber":"22a","addr:teryt:sym_ul":675459,"contact:phone":"+48 256612285","contact:email":"spgorkigrubaki@gmail.com","ref:regon":"001124187","ref:vatin":"PL8241600421","operator":"Gmina Korytnica","operator:type":"government","amenity":"school"}},{"id":75668,"type":"Feature","geometry":{"type":"Point","coordinates":[21.74921,52.4636]},"properties":{"isced:level":"1;2","ref:rspo":75668,"official_name":"Szko\u0142a Podstawowa w Maksymilianowie","name":"Szko\u0142a Podstawowa w Maksymilianowie","addr:country":"PL","addr:postcode":"07-120","addr:place":"Maksymilian\u00f3w","addr:housenumber":"30","addr:teryt:sym_ul":675608,"contact:phone":"+48 256612269","contact:email":"spmaksymilianow@interia.pl","ref:regon":"001124193","operator":"Gmina Korytnica","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 103969,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.80665,
+                    52.37149
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 103969,
+                "official_name": "Szko\u0142a Podstawowa w Pniewniku",
+                "name": "Szko\u0142a Podstawowa w Pniewniku",
+                "addr:country": "PL",
+                "addr:postcode": "07-120",
+                "addr:place": "Pniewnik",
+                "addr:housenumber": "35",
+                "addr:teryt:sym_ul": 675666,
+                "contact:phone": "+48 256613226",
+                "contact:email": "sp.pniewnik@gmail.com",
+                "contact:website": "http:\/\/www.sppniewnik.szkolnastrona.pl",
+                "ref:regon": "001124201",
+                "ref:vatin": "PL8241593632",
+                "operator": "Gmina Korytnica",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 125230,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.8027799,
+                    52.37189
+                ]
+            },
+            "properties": {
+                "ref:rspo": 125230,
+                "official_name": "Punkt Przedszkolny Chatka Puchatka",
+                "name": "Punkt Przedszkolny Chatka Puchatka",
+                "addr:country": "PL",
+                "addr:postcode": "07-120",
+                "addr:place": "Pniewnik",
+                "addr:housenumber": "43",
+                "addr:teryt:sym_ul": 675666,
+                "contact:email": "stowarzyszenie.pniewnik@o2.pl",
+                "ref:regon": "147433080",
+                "ref:vatin": "PL8241801160",
+                "operator": "Dane Do Uzupe\u0142nienia",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 104832,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.85342,
+                    52.41229
+                ]
+            },
+            "properties": {
+                "ref:rspo": 104832,
+                "official_name": "Gminne Przedszkole Publiczne w Korytnicy",
+                "name": "Gminne Przedszkole Publiczne w Korytnicy",
+                "addr:country": "PL",
+                "addr:postcode": "07-120",
+                "addr:city": "Korytnica",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 675519,
+                "contact:phone": "+48 256612494",
+                "contact:email": "spkorytnica@gmail.com",
+                "ref:regon": "712544795",
+                "ref:vatin": "PL8241604353",
+                "operator": "Gmina Korytnica",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 119852"
+            }
+        },
+        {
+            "id": 119852,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.85429,
+                    52.4129999
+                ]
+            },
+            "properties": {
+                "ref:rspo": 119852,
+                "official_name": "Zesp\u00f3\u0142 Szkolno Przedszkolny w Korytnicy",
+                "name": "Zesp\u00f3\u0142 Szkolno Przedszkolny w Korytnicy",
+                "addr:country": "PL",
+                "addr:postcode": "07-120",
+                "addr:city": "Korytnica",
+                "addr:street": "ul. Henryka Sienkiewicza",
+                "addr:housenumber": "14",
+                "addr:teryt:simc": 19834,
+                "addr:teryt:sym_ul": 675519,
+                "contact:phone": "+48 256612494",
+                "contact:email": "spkorytnica@gmail.com",
+                "ref:regon": "146864233",
+                "operator": "Gmina Korytnica",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 81099;104832"
+            }
+        },
+        {
+            "id": 81099,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.85429,
+                    52.4129699
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 81099,
+                "official_name": "Szko\u0142a Podstawowa im. Henryka Sienkiewicza w Korytnicy",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "07-120",
+                "addr:city": "Korytnica",
+                "addr:street": "ul. Henryka Sienkiewicza",
+                "addr:housenumber": "14",
+                "addr:teryt:simc": 19834,
+                "addr:teryt:sym_ul": 675519,
+                "contact:phone": "+48 256612494",
+                "contact:email": "spkorytnica@gmail.com",
+                "ref:regon": "000720102",
+                "ref:vatin": "PL8241593709",
+                "operator": "Gmina Korytnica",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 119852"
+            }
+        },
+        {
+            "id": 75687,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.74843,
+                    52.41564
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 75687,
+                "official_name": "Szko\u0142a Podstawowa w Sewerynowie",
+                "name": "Szko\u0142a Podstawowa w Sewerynowie",
+                "addr:country": "PL",
+                "addr:postcode": "07-120",
+                "addr:place": "Seweryn\u00f3w",
+                "addr:housenumber": "81",
+                "addr:teryt:sym_ul": 675749,
+                "contact:phone": "+48 256614319",
+                "contact:email": "spsewerynow@wp.pl",
+                "ref:regon": "001124218",
+                "ref:vatin": "PL8241600183",
+                "operator": "Gmina Korytnica",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 75718,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.89121,
+                    52.4505399
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 75718,
+                "official_name": "Szko\u0142a Podstawowa im.bpa Franciszka Jaczewskiego w G\u00f3rkach Grubakach",
+                "name": "Szko\u0142a Podstawowa im.bpa Franciszka Jaczewskiego w G\u00f3rkach Grubakach",
+                "addr:country": "PL",
+                "addr:postcode": "07-120",
+                "addr:place": "G\u00f3rki-Grubaki",
+                "addr:housenumber": "22a",
+                "addr:teryt:sym_ul": 675459,
+                "contact:phone": "+48 256612285",
+                "contact:email": "spgorkigrubaki@gmail.com",
+                "ref:regon": "001124187",
+                "ref:vatin": "PL8241600421",
+                "operator": "Gmina Korytnica",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 75668,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.74921,
+                    52.4636
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 75668,
+                "official_name": "Szko\u0142a Podstawowa w Maksymilianowie",
+                "name": "Szko\u0142a Podstawowa w Maksymilianowie",
+                "addr:country": "PL",
+                "addr:postcode": "07-120",
+                "addr:place": "Maksymilian\u00f3w",
+                "addr:housenumber": "30",
+                "addr:teryt:sym_ul": 675608,
+                "contact:phone": "+48 256612269",
+                "contact:email": "spmaksymilianow@interia.pl",
+                "ref:regon": "001124193",
+                "operator": "Gmina Korytnica",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

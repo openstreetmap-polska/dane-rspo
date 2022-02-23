@@ -1,1 +1,65 @@
-{"type":"FeatureCollection","features":[{"id":11118,"type":"Feature","geometry":{"type":"Point","coordinates":[19.49537,52.23755]},"properties":{"isced:level":"1;2","ref:rspo":11118,"official_name":"Szko\u0142a Podstawowa im. 37 \u0141\u0119czyckiego P. P. Ks. J\u00f3zefa Poniatowskiego w Szczycie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"99-311","addr:place":"Szczyt","addr:housenumber":"6A","addr:teryt:sym_ul":572647,"contact:phone":"+48 242859627","contact:email":"zs.szczyt@vp.pl","contact:website":"https:\/\/spszczyt.edupage.org\/","ref:regon":"610113887","ref:vatin":"PL7752332926","operator":"Gmina Opor\u00f3w","operator:type":"government","amenity":"school"}},{"id":11101,"type":"Feature","geometry":{"type":"Point","coordinates":[19.56546,52.26255]},"properties":{"isced:level":"1;2","ref:rspo":11101,"official_name":"Szko\u0142a Podstawowa w Oporowie im. Jana Paw\u0142a Ii","name":"Szko\u0142a Podstawowa w Oporowie","addr:country":"PL","addr:postcode":"99-322","addr:place":"Opor\u00f3w","addr:housenumber":"57","addr:teryt:sym_ul":572481,"contact:phone":"+48 243831551","contact:email":"zs.sekretariat@oporow.pl","contact:website":"http:\/\/zsoporow.szkolnastrona.pl\/","ref:regon":"610113781","ref:vatin":"PL7752331306","operator":"Gmina Opor\u00f3w","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 11118,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.49537,
+                    52.23755
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 11118,
+                "official_name": "Szko\u0142a Podstawowa im. 37 \u0141\u0119czyckiego P. P. Ks. J\u00f3zefa Poniatowskiego w Szczycie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "99-311",
+                "addr:place": "Szczyt",
+                "addr:housenumber": "6A",
+                "addr:teryt:sym_ul": 572647,
+                "contact:phone": "+48 242859627",
+                "contact:email": "zs.szczyt@vp.pl",
+                "contact:website": "https:\/\/spszczyt.edupage.org\/",
+                "ref:regon": "610113887",
+                "ref:vatin": "PL7752332926",
+                "operator": "Gmina Opor\u00f3w",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 11101,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.56546,
+                    52.26255
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 11101,
+                "official_name": "Szko\u0142a Podstawowa w Oporowie im. Jana Paw\u0142a Ii",
+                "name": "Szko\u0142a Podstawowa w Oporowie",
+                "addr:country": "PL",
+                "addr:postcode": "99-322",
+                "addr:place": "Opor\u00f3w",
+                "addr:housenumber": "57",
+                "addr:teryt:sym_ul": 572481,
+                "contact:phone": "+48 243831551",
+                "contact:email": "zs.sekretariat@oporow.pl",
+                "contact:website": "http:\/\/zsoporow.szkolnastrona.pl\/",
+                "ref:regon": "610113781",
+                "ref:vatin": "PL7752331306",
+                "operator": "Gmina Opor\u00f3w",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

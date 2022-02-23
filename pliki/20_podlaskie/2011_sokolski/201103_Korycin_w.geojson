@@ -1,1 +1,93 @@
-{"type":"FeatureCollection","features":[{"id":29628,"type":"Feature","geometry":{"type":"Point","coordinates":[23.1498809,53.3690861]},"properties":{"ref:rspo":29628,"official_name":"Punkt Przedszkolny w Bombli","name":"Punkt Przedszkolny w Bombli","addr:country":"PL","addr:postcode":"16-140","addr:place":"Bombla","addr:housenumber":"41","addr:teryt:sym_ul":32201,"contact:email":"przedszkole.korycin@wp.pl","ref:regon":"200734109","operator":"Gmina Korycin","operator:type":"government","amenity":"kindergarten"}},{"id":29552,"type":"Feature","geometry":{"type":"Point","coordinates":[23.08733,53.4465]},"properties":{"ref:rspo":29552,"official_name":"Przedszkole im.jana Paw\u0142a II w Korycinie","name":"Przedszkole im.jana Paw\u0142a II w Korycinie","addr:country":"PL","addr:postcode":"16-140","addr:city":"Korycin","addr:street":"ul. Grodzie\u0144ska","addr:housenumber":"21","addr:teryt:simc":6157,"addr:teryt:sym_ul":32253,"contact:phone":"+48 857219040","contact:email":"przedszkole.korycin@wp.pl","ref:regon":"000943109","ref:vatin":"PL5451653830","operator":"Gmina Korycin","operator:type":"government","amenity":"kindergarten"}},{"id":58774,"type":"Feature","geometry":{"type":"Point","coordinates":[23.08382,53.44722]},"properties":{"isced:level":"1;2","ref:rspo":58774,"official_name":"Szko\u0142a Podstawowa im.stefana Kardyna\u0142a Wyszy\u0144skiego w Korycinie","name":"Szko\u0142a Podstawowa im.stefana Kardyna\u0142a Wyszy\u0144skiego w Korycinie","addr:country":"PL","addr:postcode":"16-140","addr:city":"Korycin","addr:street":"ul. Szkolna","addr:housenumber":"1","addr:teryt:simc":21970,"addr:teryt:sym_ul":32253,"contact:phone":"+48 857219004","contact:email":"zskorycin@gmail.com","contact:website":"http:\/\/www.spkorycin.szkolna.net","ref:regon":"000645493","ref:vatin":"PL5451653847","operator":"Gmina Korycin","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 29628,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.1498809,
+                    53.3690861
+                ]
+            },
+            "properties": {
+                "ref:rspo": 29628,
+                "official_name": "Punkt Przedszkolny w Bombli",
+                "name": "Punkt Przedszkolny w Bombli",
+                "addr:country": "PL",
+                "addr:postcode": "16-140",
+                "addr:place": "Bombla",
+                "addr:housenumber": "41",
+                "addr:teryt:sym_ul": 32201,
+                "contact:email": "przedszkole.korycin@wp.pl",
+                "ref:regon": "200734109",
+                "operator": "Gmina Korycin",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 29552,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.08733,
+                    53.4465
+                ]
+            },
+            "properties": {
+                "ref:rspo": 29552,
+                "official_name": "Przedszkole im.jana Paw\u0142a II w Korycinie",
+                "name": "Przedszkole im.jana Paw\u0142a II w Korycinie",
+                "addr:country": "PL",
+                "addr:postcode": "16-140",
+                "addr:city": "Korycin",
+                "addr:street": "ul. Grodzie\u0144ska",
+                "addr:housenumber": "21",
+                "addr:teryt:simc": 6157,
+                "addr:teryt:sym_ul": 32253,
+                "contact:phone": "+48 857219040",
+                "contact:email": "przedszkole.korycin@wp.pl",
+                "ref:regon": "000943109",
+                "ref:vatin": "PL5451653830",
+                "operator": "Gmina Korycin",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 58774,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.08382,
+                    53.44722
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 58774,
+                "official_name": "Szko\u0142a Podstawowa im.stefana Kardyna\u0142a Wyszy\u0144skiego w Korycinie",
+                "name": "Szko\u0142a Podstawowa im.stefana Kardyna\u0142a Wyszy\u0144skiego w Korycinie",
+                "addr:country": "PL",
+                "addr:postcode": "16-140",
+                "addr:city": "Korycin",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 32253,
+                "contact:phone": "+48 857219004",
+                "contact:email": "zskorycin@gmail.com",
+                "contact:website": "http:\/\/www.spkorycin.szkolna.net",
+                "ref:regon": "000645493",
+                "ref:vatin": "PL5451653847",
+                "operator": "Gmina Korycin",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

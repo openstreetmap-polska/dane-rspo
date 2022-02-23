@@ -1,1 +1,36 @@
-{"type":"FeatureCollection","features":[{"id":107323,"type":"Feature","geometry":{"type":"Point","coordinates":[22.21463,52.76164]},"properties":{"isced:level":"1;2","ref:rspo":107323,"official_name":"Szko\u0142a Podstawowa Im Kardyna\u0142a Stefana Wyszy\u0144skiego w Szulborzu Wielkim","name":"Szko\u0142a Podstawowa Im Kardyna\u0142a Stefana Wyszy\u0144skiego w Szulborzu Wielkim","addr:country":"PL","addr:postcode":"07-324","addr:city":"Szulborze Wielkie","addr:street":"ul. Szarych Szereg\u00f3w","addr:housenumber":"1","addr:teryt:simc":21787,"addr:teryt:sym_ul":407807,"contact:phone":"+48 667013120","contact:email":"spszul@wp.pl","contact:website":"http:\/\/www.szkola@ugszulborze.pl","ref:regon":"450019175","operator":"Gmina Szulborze Wielkie","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 107323,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.21463,
+                    52.76164
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 107323,
+                "official_name": "Szko\u0142a Podstawowa Im Kardyna\u0142a Stefana Wyszy\u0144skiego w Szulborzu Wielkim",
+                "name": "Szko\u0142a Podstawowa Im Kardyna\u0142a Stefana Wyszy\u0144skiego w Szulborzu Wielkim",
+                "addr:country": "PL",
+                "addr:postcode": "07-324",
+                "addr:city": "Szulborze Wielkie",
+                "addr:street": "ul. Szarych Szereg\u00f3w",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 21787,
+                "addr:teryt:sym_ul": 407807,
+                "contact:phone": "+48 667013120",
+                "contact:email": "spszul@wp.pl",
+                "contact:website": "http:\/\/www.szkola@ugszulborze.pl",
+                "ref:regon": "450019175",
+                "operator": "Gmina Szulborze Wielkie",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

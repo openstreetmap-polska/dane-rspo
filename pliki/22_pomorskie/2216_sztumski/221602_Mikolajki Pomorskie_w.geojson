@@ -1,1 +1,182 @@
-{"type":"FeatureCollection","features":[{"id":22017,"type":"Feature","geometry":{"type":"Point","coordinates":[19.1644599,53.85348]},"properties":{"isced:level":"1;2","ref:rspo":22017,"official_name":"Szko\u0142a Podstawowa w Miko\u0142ajkach Pomorskich","name":"Szko\u0142a Podstawowa w Miko\u0142ajkach Pomorskich","addr:country":"PL","addr:postcode":"82-433","addr:city":"Miko\u0142ajki Pomorskie","addr:street":"ul. Szreibera","addr:housenumber":"10-12","addr:teryt:simc":22089,"addr:teryt:sym_ul":152431,"contact:phone":"+48 552770689","contact:email":"zsmp@wp.pl","ref:regon":"170047231","ref:vatin":"PL5792141077","operator":"Gmina Miko\u0142ajki Pomorskie","operator:type":"government","amenity":"school"}},{"id":18751,"type":"Feature","geometry":{"type":"Point","coordinates":[19.16889,53.854]},"properties":{"ref:rspo":18751,"official_name":"Przedszkole Samorz\u0105dowe w Miko\u0142ajkach Pomorskich","name":"Przedszkole Samorz\u0105dowe w Miko\u0142ajkach Pomorskich","addr:country":"PL","addr:postcode":"82-433","addr:city":"Miko\u0142ajki Pomorskie","addr:street":"ul. Ko\u015bciuszki","addr:housenumber":"73","addr:teryt:simc":9572,"addr:teryt:sym_ul":152431,"contact:phone":"+48 552770539","contact:email":"przedszkole-mikolajki@wp.pl","contact:website":"http:\/\/www.mikolajkipomorskie.dlaprzedszkoli.eu","ref:regon":"221088819","ref:vatin":"PL5792227206","operator":"Gmina Miko\u0142ajki Pomorskie","operator:type":"government","amenity":"kindergarten"}},{"id":7852,"type":"Feature","geometry":{"type":"Point","coordinates":[19.1285002,53.8812651]},"properties":{"ref:rspo":7852,"official_name":"Specjalny O\u015brodek Szkolno - Wychowawczy w Ko\u0142oz\u0119biu","name":"Specjalny O\u015brodek Szkolno - Wychowawczy w Ko\u0142oz\u0119biu","addr:country":"PL","addr:postcode":"82-433","addr:place":"Ko\u0142oz\u0105b","addr:housenumber":"10","addr:teryt:sym_ul":152371,"contact:phone":"+48 552770540","contact:email":"gimkol@wp.pl","ref:regon":"170015343","ref:vatin":"PL5791633890","operator":"Powiat Sztumski","operator:type":"government","amenity":"school","note":"Children RSPO: 113662;113738;113739"}},{"id":113662,"type":"Feature","geometry":{"type":"Point","coordinates":[19.1285002,53.8812351]},"properties":{"isced:level":"1;2","ref:rspo":113662,"official_name":"Szko\u0142a Podstawowa Specjalna w Specjalnym O\u015brodku Szkolno-Wychowawczym w Ko\u0142oz\u0119biu","name":"Szko\u0142a Podstawowa Specjalna w Specjalnym O\u015brodku Szkolno-Wychowawczym w Ko\u0142oz\u0119biu","addr:country":"PL","addr:postcode":"82-433","addr:place":"Ko\u0142oz\u0105b","addr:housenumber":"10","addr:teryt:sym_ul":152371,"contact:phone":"+48 552770540","contact:email":"gimkol@wp.pl","ref:regon":"220668294","operator":"Powiat Sztumski","operator:type":"government","amenity":"school","note":"Parent RSPO: 7852"}},{"id":113738,"type":"Feature","geometry":{"type":"Point","coordinates":[19.1285002,53.8812051]},"properties":{"isced:level":"3","ref:rspo":113738,"official_name":"Bran\u017cowa Szko\u0142a I Stopnia Specjalna w Specjalnym O\u015brodku Szkolno - Wychowawczym w Ko\u0142oz\u0119biu","name":"Bran\u017cowa Szko\u0142a I Stopnia Specjalna w Specjalnym O\u015brodku Szkolno - Wychowawczym w Ko\u0142oz\u0119biu","addr:country":"PL","addr:postcode":"82-433","addr:place":"Ko\u0142oz\u0105b","addr:housenumber":"10","addr:teryt:sym_ul":152371,"contact:phone":"+48 552770540","contact:email":"gimkol@wp.pl","ref:regon":"220038854","operator":"Powiat Sztumski","operator:type":"government","amenity":"school","note":"Parent RSPO: 7852"}},{"id":113739,"type":"Feature","geometry":{"type":"Point","coordinates":[19.1285002,53.8811751]},"properties":{"ref:rspo":113739,"official_name":"Szko\u0142a Specjalna Przysposabiaj\u0105ca Do Pracy w Specjalnym O\u015brodku Szkolno-Wychowawczym w Ko\u0142oz\u0119biu","name":"Szko\u0142a Specjalna Przysposabiaj\u0105ca Do Pracy w Specjalnym O\u015brodku Szkolno-Wychowawczym w Ko\u0142oz\u0119biu","addr:country":"PL","addr:postcode":"82-433","addr:place":"Ko\u0142oz\u0105b","addr:housenumber":"10","addr:teryt:sym_ul":152371,"contact:phone":"+48 552770540","contact:email":"gimkol@wp.pl","ref:regon":"220096395","operator":"Powiat Sztumski","operator:type":"government","amenity":"school","note":"Parent RSPO: 7852"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 22017,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.1644599,
+                    53.85348
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 22017,
+                "official_name": "Szko\u0142a Podstawowa w Miko\u0142ajkach Pomorskich",
+                "name": "Szko\u0142a Podstawowa w Miko\u0142ajkach Pomorskich",
+                "addr:country": "PL",
+                "addr:postcode": "82-433",
+                "addr:city": "Miko\u0142ajki Pomorskie",
+                "addr:street": "ul. Szreibera",
+                "addr:housenumber": "10-12",
+                "addr:teryt:simc": 22089,
+                "addr:teryt:sym_ul": 152431,
+                "contact:phone": "+48 552770689",
+                "contact:email": "zsmp@wp.pl",
+                "ref:regon": "170047231",
+                "ref:vatin": "PL5792141077",
+                "operator": "Gmina Miko\u0142ajki Pomorskie",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 18751,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.16889,
+                    53.854
+                ]
+            },
+            "properties": {
+                "ref:rspo": 18751,
+                "official_name": "Przedszkole Samorz\u0105dowe w Miko\u0142ajkach Pomorskich",
+                "name": "Przedszkole Samorz\u0105dowe w Miko\u0142ajkach Pomorskich",
+                "addr:country": "PL",
+                "addr:postcode": "82-433",
+                "addr:city": "Miko\u0142ajki Pomorskie",
+                "addr:street": "ul. Ko\u015bciuszki",
+                "addr:housenumber": "73",
+                "addr:teryt:simc": 9572,
+                "addr:teryt:sym_ul": 152431,
+                "contact:phone": "+48 552770539",
+                "contact:email": "przedszkole-mikolajki@wp.pl",
+                "contact:website": "http:\/\/www.mikolajkipomorskie.dlaprzedszkoli.eu",
+                "ref:regon": "221088819",
+                "ref:vatin": "PL5792227206",
+                "operator": "Gmina Miko\u0142ajki Pomorskie",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 7852,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.1285002,
+                    53.8812651
+                ]
+            },
+            "properties": {
+                "ref:rspo": 7852,
+                "official_name": "Specjalny O\u015brodek Szkolno - Wychowawczy w Ko\u0142oz\u0119biu",
+                "name": "Specjalny O\u015brodek Szkolno - Wychowawczy w Ko\u0142oz\u0119biu",
+                "addr:country": "PL",
+                "addr:postcode": "82-433",
+                "addr:place": "Ko\u0142oz\u0105b",
+                "addr:housenumber": "10",
+                "addr:teryt:sym_ul": 152371,
+                "contact:phone": "+48 552770540",
+                "contact:email": "gimkol@wp.pl",
+                "ref:regon": "170015343",
+                "ref:vatin": "PL5791633890",
+                "operator": "Powiat Sztumski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Children RSPO: 113662;113738;113739"
+            }
+        },
+        {
+            "id": 113662,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.1285002,
+                    53.8812351
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 113662,
+                "official_name": "Szko\u0142a Podstawowa Specjalna w Specjalnym O\u015brodku Szkolno-Wychowawczym w Ko\u0142oz\u0119biu",
+                "name": "Szko\u0142a Podstawowa Specjalna w Specjalnym O\u015brodku Szkolno-Wychowawczym w Ko\u0142oz\u0119biu",
+                "addr:country": "PL",
+                "addr:postcode": "82-433",
+                "addr:place": "Ko\u0142oz\u0105b",
+                "addr:housenumber": "10",
+                "addr:teryt:sym_ul": 152371,
+                "contact:phone": "+48 552770540",
+                "contact:email": "gimkol@wp.pl",
+                "ref:regon": "220668294",
+                "operator": "Powiat Sztumski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 7852"
+            }
+        },
+        {
+            "id": 113738,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.1285002,
+                    53.8812051
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 113738,
+                "official_name": "Bran\u017cowa Szko\u0142a I Stopnia Specjalna w Specjalnym O\u015brodku Szkolno - Wychowawczym w Ko\u0142oz\u0119biu",
+                "name": "Bran\u017cowa Szko\u0142a I Stopnia Specjalna w Specjalnym O\u015brodku Szkolno - Wychowawczym w Ko\u0142oz\u0119biu",
+                "addr:country": "PL",
+                "addr:postcode": "82-433",
+                "addr:place": "Ko\u0142oz\u0105b",
+                "addr:housenumber": "10",
+                "addr:teryt:sym_ul": 152371,
+                "contact:phone": "+48 552770540",
+                "contact:email": "gimkol@wp.pl",
+                "ref:regon": "220038854",
+                "operator": "Powiat Sztumski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 7852"
+            }
+        },
+        {
+            "id": 113739,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.1285002,
+                    53.8811751
+                ]
+            },
+            "properties": {
+                "ref:rspo": 113739,
+                "official_name": "Szko\u0142a Specjalna Przysposabiaj\u0105ca Do Pracy w Specjalnym O\u015brodku Szkolno-Wychowawczym w Ko\u0142oz\u0119biu",
+                "name": "Szko\u0142a Specjalna Przysposabiaj\u0105ca Do Pracy w Specjalnym O\u015brodku Szkolno-Wychowawczym w Ko\u0142oz\u0119biu",
+                "addr:country": "PL",
+                "addr:postcode": "82-433",
+                "addr:place": "Ko\u0142oz\u0105b",
+                "addr:housenumber": "10",
+                "addr:teryt:sym_ul": 152371,
+                "contact:phone": "+48 552770540",
+                "contact:email": "gimkol@wp.pl",
+                "ref:regon": "220096395",
+                "operator": "Powiat Sztumski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 7852"
+            }
+        }
+    ]
+}

@@ -1,1 +1,96 @@
-{"type":"FeatureCollection","features":[{"id":20213,"type":"Feature","geometry":{"type":"Point","coordinates":[20.24577,53.92782]},"properties":{"ref:rspo":20213,"official_name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w \u015awi\u0105tkach","name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w \u015awi\u0105tkach","addr:country":"PL","addr:postcode":"11-008","addr:place":"\u015awi\u0105tki","addr:housenumber":"95","addr:teryt:sym_ul":489805,"contact:phone":"+48 896169880","contact:email":"szkola@spswiatki.edu.pl","contact:website":"http:\/\/spswiatki.edu.pl\/","ref:regon":"519630908","ref:vatin":"PL7393431490","operator":"Gmina \u015awi\u0105tki","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 24271;24272"}},{"id":24272,"type":"Feature","geometry":{"type":"Point","coordinates":[20.24577,53.927789999999995]},"properties":{"isced:level":"1;2","ref:rspo":24272,"official_name":"Szko\u0142a Podstawowa im. Majora Henryka Sucharskiego w \u015awi\u0105tkach","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"11-008","addr:place":"\u015awi\u0105tki","addr:housenumber":"95","addr:teryt:sym_ul":489805,"contact:phone":"+48 896169880","contact:email":"szkola@spswiatki.edu.pl","contact:website":"http:\/\/spswiatki.edu.pl\/","ref:regon":"000271696","ref:vatin":"PL7393029227","operator":"Gmina \u015awi\u0105tki","operator:type":"government","amenity":"school","note":"Parent RSPO: 20213"}},{"id":24271,"type":"Feature","geometry":{"type":"Point","coordinates":[20.24517,53.929]},"properties":{"ref:rspo":24271,"official_name":"Przedszkole Samorz\u0105dowe w \u015awi\u0105tkach","name":"Przedszkole Samorz\u0105dowe w \u015awi\u0105tkach","addr:country":"PL","addr:postcode":"11-008","addr:place":"\u015awi\u0105tki","addr:housenumber":"105","addr:teryt:sym_ul":489805,"contact:phone":"+48 509221959","contact:email":"dorotaprzedszkole@gmail.com","ref:regon":"510508494","ref:vatin":"PL7393089376","operator":"Gmina \u015awi\u0105tki","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 20213"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 20213,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.24577,
+                    53.92782
+                ]
+            },
+            "properties": {
+                "ref:rspo": 20213,
+                "official_name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w \u015awi\u0105tkach",
+                "name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w \u015awi\u0105tkach",
+                "addr:country": "PL",
+                "addr:postcode": "11-008",
+                "addr:place": "\u015awi\u0105tki",
+                "addr:housenumber": "95",
+                "addr:teryt:sym_ul": 489805,
+                "contact:phone": "+48 896169880",
+                "contact:email": "szkola@spswiatki.edu.pl",
+                "contact:website": "http:\/\/spswiatki.edu.pl\/",
+                "ref:regon": "519630908",
+                "ref:vatin": "PL7393431490",
+                "operator": "Gmina \u015awi\u0105tki",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 24271;24272"
+            }
+        },
+        {
+            "id": 24272,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.24577,
+                    53.927789999999995
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 24272,
+                "official_name": "Szko\u0142a Podstawowa im. Majora Henryka Sucharskiego w \u015awi\u0105tkach",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "11-008",
+                "addr:place": "\u015awi\u0105tki",
+                "addr:housenumber": "95",
+                "addr:teryt:sym_ul": 489805,
+                "contact:phone": "+48 896169880",
+                "contact:email": "szkola@spswiatki.edu.pl",
+                "contact:website": "http:\/\/spswiatki.edu.pl\/",
+                "ref:regon": "000271696",
+                "ref:vatin": "PL7393029227",
+                "operator": "Gmina \u015awi\u0105tki",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 20213"
+            }
+        },
+        {
+            "id": 24271,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.24517,
+                    53.929
+                ]
+            },
+            "properties": {
+                "ref:rspo": 24271,
+                "official_name": "Przedszkole Samorz\u0105dowe w \u015awi\u0105tkach",
+                "name": "Przedszkole Samorz\u0105dowe w \u015awi\u0105tkach",
+                "addr:country": "PL",
+                "addr:postcode": "11-008",
+                "addr:place": "\u015awi\u0105tki",
+                "addr:housenumber": "105",
+                "addr:teryt:sym_ul": 489805,
+                "contact:phone": "+48 509221959",
+                "contact:email": "dorotaprzedszkole@gmail.com",
+                "ref:regon": "510508494",
+                "ref:vatin": "PL7393089376",
+                "operator": "Gmina \u015awi\u0105tki",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 20213"
+            }
+        }
+    ]
+}

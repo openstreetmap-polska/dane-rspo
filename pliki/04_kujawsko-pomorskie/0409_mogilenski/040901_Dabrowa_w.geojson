@@ -1,1 +1,156 @@
-{"type":"FeatureCollection","features":[{"id":3944,"type":"Feature","geometry":{"type":"Point","coordinates":[17.8950609,52.7301859]},"properties":{"isced:level":"1;2","ref:rspo":3944,"official_name":"Niepubliczna Szko\u0142a Podstawowa Z Oddzia\u0142ami Integracyjnymi I Oddzia\u0142em Przedszkolnym w Parlinie","name":"Niepubliczna Szko\u0142a Podstawowa Z Oddzia\u0142ami Integracyjnymi I Oddzia\u0142em Przedszkolnym w Parlinie","addr:country":"PL","addr:postcode":"88-306","addr:place":"Parlin","addr:housenumber":"38","addr:teryt:sym_ul":83687,"contact:phone":"+48 523153240","contact:email":"spparlin@wp.pl","ref:regon":"341314540","operator":"Stowarzyszenie Przyjaci\u00f3\u0142 Szko\u0142y Podstawowej Z Oddzia\u0142ami Integracyjnymi W Parlinie \"Integracja\"","operator:type":"ngo","amenity":"school"}},{"id":5940,"type":"Feature","geometry":{"type":"Point","coordinates":[17.93996,52.7432]},"properties":{"ref:rspo":5940,"official_name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 w D\u0105browie","name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 w D\u0105browie","addr:country":"PL","addr:postcode":"88-306","addr:city":"D\u0105browa","addr:street":"ul. Szkolna","addr:housenumber":"15","addr:teryt:simc":21970,"addr:teryt:sym_ul":83606,"contact:phone":"+48 523153223","ref:regon":"340038232","ref:vatin":"PL5571551210","operator":"Gmina D\u0105browa","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 10179;10831"}},{"id":10179,"type":"Feature","geometry":{"type":"Point","coordinates":[17.93996,52.74317]},"properties":{"isced:level":"1;2","ref:rspo":10179,"official_name":"Szko\u0142a Podstawowa w D\u0105browie","name":"Szko\u0142a Podstawowa w D\u0105browie","addr:country":"PL","addr:postcode":"88-306","addr:city":"D\u0105browa","addr:street":"ul. Szkolna","addr:housenumber":"15","addr:teryt:simc":21970,"addr:teryt:sym_ul":83606,"contact:phone":"+48 523153223","contact:email":"gimdab@szkola.wp.pl","contact:website":"http:\/\/zsdabrowa.szkolnastrona.pl","ref:regon":"000266206","operator":"Gmina D\u0105browa","operator:type":"government","amenity":"school","note":"Parent RSPO: 5940"}},{"id":10831,"type":"Feature","geometry":{"type":"Point","coordinates":[17.94322,52.74681]},"properties":{"ref:rspo":10831,"official_name":"Przedszkole w D\u0105browie","name":"Przedszkole w D\u0105browie","addr:country":"PL","addr:postcode":"88-306","addr:city":"D\u0105browa","addr:street":"ul. Parkowa","addr:housenumber":"2","addr:teryt:simc":15710,"addr:teryt:sym_ul":83606,"contact:phone":"+48 523153294","contact:email":"gimdab@szkole.wp.pl","ref:regon":"000265916","operator":"Gmina D\u0105browa","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 5940"}},{"id":6041,"type":"Feature","geometry":{"type":"Point","coordinates":[17.92023,52.82294]},"properties":{"isced:level":"1;2","ref:rspo":6041,"official_name":"Szko\u0142a Podstawowa w Szczepanowie","name":"Szko\u0142a Podstawowa w Szczepanowie","addr:country":"PL","addr:postcode":"88-306","addr:city":"Szczepanowo","addr:street":"ul. Szkolna","addr:housenumber":"1","addr:teryt:simc":21970,"addr:teryt:sym_ul":83776,"contact:phone":"+48 523153825","contact:email":"spszczepanowo@wp.pl","ref:regon":"001199363","operator":"Gmina D\u0105browa","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 3944,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.8950609,
+                    52.7301859
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 3944,
+                "official_name": "Niepubliczna Szko\u0142a Podstawowa Z Oddzia\u0142ami Integracyjnymi I Oddzia\u0142em Przedszkolnym w Parlinie",
+                "name": "Niepubliczna Szko\u0142a Podstawowa Z Oddzia\u0142ami Integracyjnymi I Oddzia\u0142em Przedszkolnym w Parlinie",
+                "addr:country": "PL",
+                "addr:postcode": "88-306",
+                "addr:place": "Parlin",
+                "addr:housenumber": "38",
+                "addr:teryt:sym_ul": 83687,
+                "contact:phone": "+48 523153240",
+                "contact:email": "spparlin@wp.pl",
+                "ref:regon": "341314540",
+                "operator": "Stowarzyszenie Przyjaci\u00f3\u0142 Szko\u0142y Podstawowej Z Oddzia\u0142ami Integracyjnymi W Parlinie \"Integracja\"",
+                "operator:type": "ngo",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 5940,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.93996,
+                    52.7432
+                ]
+            },
+            "properties": {
+                "ref:rspo": 5940,
+                "official_name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 w D\u0105browie",
+                "name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 w D\u0105browie",
+                "addr:country": "PL",
+                "addr:postcode": "88-306",
+                "addr:city": "D\u0105browa",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "15",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 83606,
+                "contact:phone": "+48 523153223",
+                "ref:regon": "340038232",
+                "ref:vatin": "PL5571551210",
+                "operator": "Gmina D\u0105browa",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 10179;10831"
+            }
+        },
+        {
+            "id": 10179,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.93996,
+                    52.74317
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 10179,
+                "official_name": "Szko\u0142a Podstawowa w D\u0105browie",
+                "name": "Szko\u0142a Podstawowa w D\u0105browie",
+                "addr:country": "PL",
+                "addr:postcode": "88-306",
+                "addr:city": "D\u0105browa",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "15",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 83606,
+                "contact:phone": "+48 523153223",
+                "contact:email": "gimdab@szkola.wp.pl",
+                "contact:website": "http:\/\/zsdabrowa.szkolnastrona.pl",
+                "ref:regon": "000266206",
+                "operator": "Gmina D\u0105browa",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 5940"
+            }
+        },
+        {
+            "id": 10831,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.94322,
+                    52.74681
+                ]
+            },
+            "properties": {
+                "ref:rspo": 10831,
+                "official_name": "Przedszkole w D\u0105browie",
+                "name": "Przedszkole w D\u0105browie",
+                "addr:country": "PL",
+                "addr:postcode": "88-306",
+                "addr:city": "D\u0105browa",
+                "addr:street": "ul. Parkowa",
+                "addr:housenumber": "2",
+                "addr:teryt:simc": 15710,
+                "addr:teryt:sym_ul": 83606,
+                "contact:phone": "+48 523153294",
+                "contact:email": "gimdab@szkole.wp.pl",
+                "ref:regon": "000265916",
+                "operator": "Gmina D\u0105browa",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 5940"
+            }
+        },
+        {
+            "id": 6041,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.92023,
+                    52.82294
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 6041,
+                "official_name": "Szko\u0142a Podstawowa w Szczepanowie",
+                "name": "Szko\u0142a Podstawowa w Szczepanowie",
+                "addr:country": "PL",
+                "addr:postcode": "88-306",
+                "addr:city": "Szczepanowo",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 83776,
+                "contact:phone": "+48 523153825",
+                "contact:email": "spszczepanowo@wp.pl",
+                "ref:regon": "001199363",
+                "operator": "Gmina D\u0105browa",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

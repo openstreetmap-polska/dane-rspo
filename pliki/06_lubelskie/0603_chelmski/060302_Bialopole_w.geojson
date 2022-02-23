@@ -1,1 +1,95 @@
-{"type":"FeatureCollection","features":[{"id":275871,"type":"Feature","geometry":{"type":"Point","coordinates":[23.793174,50.965939]},"properties":{"isced:level":"1;2","ref:rspo":275871,"official_name":"Publiczna Szko\u0142a Podstawowa im. 9 Pu\u0142ku Piechoty Legion\u00f3w Ak w Bia\u0142opolu Szko\u0142a Filialna w Strzelcach","name":"Publiczna Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"22-135","addr:place":"Strzelce","addr:housenumber":"43B","addr:teryt:sym_ul":101103,"contact:phone":"+48 825683179","contact:email":"szkolastrzelce@wp.pl","ref:regon":"265448000","operator":"Gmina Bia\u0142opole","operator:type":"government","amenity":"school","note":"Parent RSPO: 30920"}},{"id":30920,"type":"Feature","geometry":{"type":"Point","coordinates":[23.73192024231,50.985591888428]},"properties":{"isced:level":"1;2","ref:rspo":30920,"official_name":"Publiczna Szko\u0142a Podstawowa im. 9 Pu\u0142ku Piechoty Legion\u00f3w Ak w Bia\u0142opolu","name":"Publiczna Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"22-135","addr:city":"Bia\u0142opole","addr:street":"ul. \u017bo\u0142nierzy I AWP","addr:housenumber":"35","addr:teryt:simc":51780,"addr:teryt:sym_ul":100983,"contact:phone":"+48 825682219","contact:email":"zespolszkol_bialopole@op.pl","ref:regon":"000265448","ref:vatin":"PL5632080102","operator":"Gmina Bia\u0142opole","operator:type":"government","amenity":"school","note":"Children RSPO: 275871"}},{"id":41967,"type":"Feature","geometry":{"type":"Point","coordinates":[23.73192024231,50.985561888427995]},"properties":{"ref:rspo":41967,"official_name":"Punkt Przedszkolny w Publicznej Szkole Podstawowej im. 9 Pu\u0142ku Piechoty Legion\u00f3w Ak w Bia\u0142opolu","name":"Punkt Przedszkolny w Publicznej Szkole Podstawowej","addr:country":"PL","addr:postcode":"22-135","addr:city":"Bia\u0142opole","addr:street":"ul. \u017bo\u0142nierzy I AWP","addr:housenumber":"35","addr:teryt:simc":51780,"addr:teryt:sym_ul":100983,"contact:phone":"+48 825682219","contact:email":"bajkowe.przedszkole@wp.pl","ref:regon":"061475394","operator":"Gmina Bia\u0142opole","operator:type":"government","amenity":"kindergarten"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 275871,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.793174,
+                    50.965939
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 275871,
+                "official_name": "Publiczna Szko\u0142a Podstawowa im. 9 Pu\u0142ku Piechoty Legion\u00f3w Ak w Bia\u0142opolu Szko\u0142a Filialna w Strzelcach",
+                "name": "Publiczna Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "22-135",
+                "addr:place": "Strzelce",
+                "addr:housenumber": "43B",
+                "addr:teryt:sym_ul": 101103,
+                "contact:phone": "+48 825683179",
+                "contact:email": "szkolastrzelce@wp.pl",
+                "ref:regon": "265448000",
+                "operator": "Gmina Bia\u0142opole",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 30920"
+            }
+        },
+        {
+            "id": 30920,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.73192024231,
+                    50.985591888428
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 30920,
+                "official_name": "Publiczna Szko\u0142a Podstawowa im. 9 Pu\u0142ku Piechoty Legion\u00f3w Ak w Bia\u0142opolu",
+                "name": "Publiczna Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "22-135",
+                "addr:city": "Bia\u0142opole",
+                "addr:street": "ul. \u017bo\u0142nierzy I AWP",
+                "addr:housenumber": "35",
+                "addr:teryt:simc": 51780,
+                "addr:teryt:sym_ul": 100983,
+                "contact:phone": "+48 825682219",
+                "contact:email": "zespolszkol_bialopole@op.pl",
+                "ref:regon": "000265448",
+                "ref:vatin": "PL5632080102",
+                "operator": "Gmina Bia\u0142opole",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Children RSPO: 275871"
+            }
+        },
+        {
+            "id": 41967,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.73192024231,
+                    50.985561888427995
+                ]
+            },
+            "properties": {
+                "ref:rspo": 41967,
+                "official_name": "Punkt Przedszkolny w Publicznej Szkole Podstawowej im. 9 Pu\u0142ku Piechoty Legion\u00f3w Ak w Bia\u0142opolu",
+                "name": "Punkt Przedszkolny w Publicznej Szkole Podstawowej",
+                "addr:country": "PL",
+                "addr:postcode": "22-135",
+                "addr:city": "Bia\u0142opole",
+                "addr:street": "ul. \u017bo\u0142nierzy I AWP",
+                "addr:housenumber": "35",
+                "addr:teryt:simc": 51780,
+                "addr:teryt:sym_ul": 100983,
+                "contact:phone": "+48 825682219",
+                "contact:email": "bajkowe.przedszkole@wp.pl",
+                "ref:regon": "061475394",
+                "operator": "Gmina Bia\u0142opole",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        }
+    ]
+}

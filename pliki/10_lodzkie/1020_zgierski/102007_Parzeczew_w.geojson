@@ -1,1 +1,150 @@
-{"type":"FeatureCollection","features":[{"id":106469,"type":"Feature","geometry":{"type":"Point","coordinates":[19.25221,51.92371]},"properties":{"isced:level":"1;2","ref:rspo":106469,"official_name":"Szko\u0142a Podstawowa w Chociszewie","name":"Szko\u0142a Podstawowa w Chociszewie","addr:country":"PL","addr:postcode":"95-045","addr:place":"Chociszew","addr:housenumber":"40","addr:teryt:sym_ul":415043,"contact:phone":"+48 427186094","contact:email":"spchociszew@wp.pl","contact:website":"http:\/\/www.spchociszew.pl","ref:regon":"001157755","ref:vatin":"PL7321064361","operator":"Gmina Parz\u0119czew","operator:type":"government","amenity":"school"}},{"id":118515,"type":"Feature","geometry":{"type":"Point","coordinates":[19.25221,51.92368]},"properties":{"ref:rspo":118515,"official_name":"Punkt Przedszkolny \"Plastu\u015b\"","name":"Punkt Przedszkolny \"Plastu\u015b\"","addr:country":"PL","addr:postcode":"95-045","addr:place":"Chociszew","addr:housenumber":"40","addr:teryt:sym_ul":415043,"contact:phone":"+48 783692893","contact:email":"sylwiaszymanska-galon@wp.pl","ref:regon":"101584017","operator":"Sylwia Szyma\u0144ska-Galon","operator:type":"private","amenity":"kindergarten"}},{"id":106470,"type":"Feature","geometry":{"type":"Point","coordinates":[19.20188,51.94362]},"properties":{"isced:level":"1;2","ref:rspo":106470,"official_name":"Szko\u0142a Podstawowa im. Juliana Tuwima w Parz\u0119czewie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"95-045","addr:city":"Parz\u0119czew","addr:street":"ul. Parkowa","addr:housenumber":"6","addr:teryt:simc":15710,"addr:teryt:sym_ul":415340,"contact:phone":"+48 427186091","contact:email":"spparzeczew@wp.pl","contact:website":"http:\/\/www.sp-parzeczew.com","ref:regon":"472240709","ref:vatin":"PL7321071415","operator":"Gmina Parz\u0119czew","operator:type":"government","amenity":"school"}},{"id":113554,"type":"Feature","geometry":{"type":"Point","coordinates":[19.20188,51.94359]},"properties":{"ref:rspo":113554,"official_name":"Punkt Przedszkolny \"Plastu\u015b\"","name":"Punkt Przedszkolny \"Plastu\u015b\"","addr:country":"PL","addr:postcode":"95-045","addr:city":"Parz\u0119czew","addr:street":"ul. Parkowa","addr:housenumber":"6","addr:teryt:simc":15710,"addr:teryt:sym_ul":415340,"contact:phone":"+48 783692893","contact:email":"sylwiaszymanska-galon@wp.pl","ref:regon":"101583986","operator":"Sylwia Szyma\u0144ska-Galon","operator:type":"private","amenity":"kindergarten"}},{"id":72824,"type":"Feature","geometry":{"type":"Point","coordinates":[19.12619,51.99213]},"properties":{"ref:rspo":72824,"official_name":"Przedszkole Wojskowe Nr 147","name":"Przedszkole Wojskowe Nr 147","addr:country":"PL","addr:postcode":"85-043","addr:place":"Le\u017anica Wielka-Osiedle","addr:housenumber":"4","addr:teryt:sym_ul":415215,"contact:phone":"+48 422011835","contact:email":"przedszkole.leznicawielka@o2.pl","ref:regon":"101493929","operator":"Ministerstwo Obrony Narodowej","operator:type":"public","amenity":"kindergarten"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 106469,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.25221,
+                    51.92371
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 106469,
+                "official_name": "Szko\u0142a Podstawowa w Chociszewie",
+                "name": "Szko\u0142a Podstawowa w Chociszewie",
+                "addr:country": "PL",
+                "addr:postcode": "95-045",
+                "addr:place": "Chociszew",
+                "addr:housenumber": "40",
+                "addr:teryt:sym_ul": 415043,
+                "contact:phone": "+48 427186094",
+                "contact:email": "spchociszew@wp.pl",
+                "contact:website": "http:\/\/www.spchociszew.pl",
+                "ref:regon": "001157755",
+                "ref:vatin": "PL7321064361",
+                "operator": "Gmina Parz\u0119czew",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 118515,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.25221,
+                    51.92368
+                ]
+            },
+            "properties": {
+                "ref:rspo": 118515,
+                "official_name": "Punkt Przedszkolny \"Plastu\u015b\"",
+                "name": "Punkt Przedszkolny \"Plastu\u015b\"",
+                "addr:country": "PL",
+                "addr:postcode": "95-045",
+                "addr:place": "Chociszew",
+                "addr:housenumber": "40",
+                "addr:teryt:sym_ul": 415043,
+                "contact:phone": "+48 783692893",
+                "contact:email": "sylwiaszymanska-galon@wp.pl",
+                "ref:regon": "101584017",
+                "operator": "Sylwia Szyma\u0144ska-Galon",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 106470,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.20188,
+                    51.94362
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 106470,
+                "official_name": "Szko\u0142a Podstawowa im. Juliana Tuwima w Parz\u0119czewie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "95-045",
+                "addr:city": "Parz\u0119czew",
+                "addr:street": "ul. Parkowa",
+                "addr:housenumber": "6",
+                "addr:teryt:simc": 15710,
+                "addr:teryt:sym_ul": 415340,
+                "contact:phone": "+48 427186091",
+                "contact:email": "spparzeczew@wp.pl",
+                "contact:website": "http:\/\/www.sp-parzeczew.com",
+                "ref:regon": "472240709",
+                "ref:vatin": "PL7321071415",
+                "operator": "Gmina Parz\u0119czew",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 113554,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.20188,
+                    51.94359
+                ]
+            },
+            "properties": {
+                "ref:rspo": 113554,
+                "official_name": "Punkt Przedszkolny \"Plastu\u015b\"",
+                "name": "Punkt Przedszkolny \"Plastu\u015b\"",
+                "addr:country": "PL",
+                "addr:postcode": "95-045",
+                "addr:city": "Parz\u0119czew",
+                "addr:street": "ul. Parkowa",
+                "addr:housenumber": "6",
+                "addr:teryt:simc": 15710,
+                "addr:teryt:sym_ul": 415340,
+                "contact:phone": "+48 783692893",
+                "contact:email": "sylwiaszymanska-galon@wp.pl",
+                "ref:regon": "101583986",
+                "operator": "Sylwia Szyma\u0144ska-Galon",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 72824,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.12619,
+                    51.99213
+                ]
+            },
+            "properties": {
+                "ref:rspo": 72824,
+                "official_name": "Przedszkole Wojskowe Nr 147",
+                "name": "Przedszkole Wojskowe Nr 147",
+                "addr:country": "PL",
+                "addr:postcode": "85-043",
+                "addr:place": "Le\u017anica Wielka-Osiedle",
+                "addr:housenumber": "4",
+                "addr:teryt:sym_ul": 415215,
+                "contact:phone": "+48 422011835",
+                "contact:email": "przedszkole.leznicawielka@o2.pl",
+                "ref:regon": "101493929",
+                "operator": "Ministerstwo Obrony Narodowej",
+                "operator:type": "public",
+                "amenity": "kindergarten"
+            }
+        }
+    ]
+}

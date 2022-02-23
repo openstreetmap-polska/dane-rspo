@@ -1,1 +1,66 @@
-{"type":"FeatureCollection","features":[{"id":72936,"type":"Feature","geometry":{"type":"Point","coordinates":[15.34784,53.95787]},"properties":{"isced:level":"1;2","ref:rspo":72936,"official_name":"Szko\u0142a Podstawowa w Brojcach","name":"Szko\u0142a Podstawowa w Brojcach","addr:country":"PL","addr:postcode":"72-304","addr:city":"Brojce","addr:street":"ul. D\u0142uga","addr:housenumber":"19","addr:teryt:simc":3839,"addr:teryt:sym_ul":772949,"contact:phone":"+48 913861116","contact:email":"sp.brojce@brojce.net.pl","contact:website":"http:\/\/spbrojce.szkolnastrona.pl","ref:regon":"000697337","ref:vatin":"PL8571842038","operator":"Gmina Brojce","operator:type":"government","amenity":"school"}},{"id":267024,"type":"Feature","geometry":{"type":"Point","coordinates":[15.38755,53.99939]},"properties":{"isced:level":"1;2","ref:rspo":267024,"official_name":"Szko\u0142a Podstawowa w Dargos\u0142awiu","name":"Szko\u0142a Podstawowa w Dargos\u0142awiu","addr:country":"PL","addr:postcode":"72-304","addr:place":"Dargos\u0142aw","addr:housenumber":"32","addr:teryt:sym_ul":772961,"contact:phone":"+48 913856019","contact:email":"sp.dargoslaw@brojce.net.pl","contact:website":"http:\/\/sp.dargoslaw.szkolnastrona.pl","ref:regon":"369808443","operator":"Gmina Brojce","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 72936,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.34784,
+                    53.95787
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 72936,
+                "official_name": "Szko\u0142a Podstawowa w Brojcach",
+                "name": "Szko\u0142a Podstawowa w Brojcach",
+                "addr:country": "PL",
+                "addr:postcode": "72-304",
+                "addr:city": "Brojce",
+                "addr:street": "ul. D\u0142uga",
+                "addr:housenumber": "19",
+                "addr:teryt:simc": 3839,
+                "addr:teryt:sym_ul": 772949,
+                "contact:phone": "+48 913861116",
+                "contact:email": "sp.brojce@brojce.net.pl",
+                "contact:website": "http:\/\/spbrojce.szkolnastrona.pl",
+                "ref:regon": "000697337",
+                "ref:vatin": "PL8571842038",
+                "operator": "Gmina Brojce",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 267024,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.38755,
+                    53.99939
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 267024,
+                "official_name": "Szko\u0142a Podstawowa w Dargos\u0142awiu",
+                "name": "Szko\u0142a Podstawowa w Dargos\u0142awiu",
+                "addr:country": "PL",
+                "addr:postcode": "72-304",
+                "addr:place": "Dargos\u0142aw",
+                "addr:housenumber": "32",
+                "addr:teryt:sym_ul": 772961,
+                "contact:phone": "+48 913856019",
+                "contact:email": "sp.dargoslaw@brojce.net.pl",
+                "contact:website": "http:\/\/sp.dargoslaw.szkolnastrona.pl",
+                "ref:regon": "369808443",
+                "operator": "Gmina Brojce",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

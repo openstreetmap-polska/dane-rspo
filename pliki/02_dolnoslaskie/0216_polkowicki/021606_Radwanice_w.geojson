@@ -1,1 +1,133 @@
-{"type":"FeatureCollection","features":[{"id":71953,"type":"Feature","geometry":{"type":"Point","coordinates":[15.90158,51.54583]},"properties":{"isced:level":"1;2","ref:rspo":71953,"official_name":"Szko\u0142a Podstawowa im. Marii Konopnickiej w Buczynie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"59-160","addr:place":"Buczyna","addr:housenumber":"17","addr:teryt:sym_ul":366920,"contact:phone":"+48 768311312","contact:email":"spbuczyna@interia.pl","contact:website":"http:\/\/www.spbuczyna.edupage.org","ref:regon":"001239915","ref:vatin":"PL5020079616","operator":"Gmina Radwanice","operator:type":"government","amenity":"school"}},{"id":89342,"type":"Feature","geometry":{"type":"Point","coordinates":[15.93531,51.56706]},"properties":{"ref:rspo":89342,"official_name":"Zesp\u00f3\u0142 Szkolno - Przedszkolny w Radwanicach","name":"Zesp\u00f3\u0142 Szkolno - Przedszkolny w Radwanicach","addr:country":"PL","addr:postcode":"59-160","addr:city":"Radwanice","addr:street":"ul. Tenisowa","addr:housenumber":"1","addr:teryt:simc":22744,"addr:teryt:sym_ul":367077,"contact:phone":"+48 768311911","contact:email":"zsp_radwanice@o2.pl","contact:website":"http:\/\/www.zsp.radwanice.pl","ref:regon":"390933181","ref:vatin":"PL6922285066","operator":"Gmina Radwanice","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 84545;89349"}},{"id":84545,"type":"Feature","geometry":{"type":"Point","coordinates":[15.93531,51.567029999999995]},"properties":{"isced:level":"1;2","ref:rspo":84545,"official_name":"Zesp\u00f3\u0142 Szkolno - Przedszkolny Szko\u0142a Podstawowa im. Mariana Falskiego w Radwanicach","name":"Zesp\u00f3\u0142 Szkolno - Przedszkolny Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"59-160","addr:city":"Radwanice","addr:street":"ul. Tenisowa","addr:housenumber":"1","addr:teryt:simc":22744,"addr:teryt:sym_ul":367077,"contact:phone":"+48 768311911","contact:email":"zsp_radwanice@o2.pl","contact:website":"http:\/\/www.zsp.radwanice.pl","ref:regon":"391041421","ref:vatin":"PL6922285066","operator":"Gmina Radwanice","operator:type":"government","amenity":"school","note":"Parent RSPO: 89342"}},{"id":89349,"type":"Feature","geometry":{"type":"Point","coordinates":[15.93524,51.57126]},"properties":{"ref:rspo":89349,"official_name":"Zesp\u00f3\u0142 Szkolno Przedszkolny Publiczne Przedszkole w Radwanicach","name":"Zesp\u00f3\u0142 Szkolno Przedszkolny Publiczne Przedszkole w Radwanicach","addr:country":"PL","addr:postcode":"59-160","addr:city":"Radwanice","addr:street":"ul. Sportowa","addr:housenumber":"6","addr:teryt:simc":20683,"addr:teryt:sym_ul":367077,"contact:phone":"+48 768311310","contact:email":"zsp_radwanice@o2.pl","contact:website":"http:\/\/www.zsp.radwanice.pl","ref:regon":"391041438","ref:vatin":"PL6922285066","operator":"Gmina Radwanice","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 89342"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 71953,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.90158,
+                    51.54583
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 71953,
+                "official_name": "Szko\u0142a Podstawowa im. Marii Konopnickiej w Buczynie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "59-160",
+                "addr:place": "Buczyna",
+                "addr:housenumber": "17",
+                "addr:teryt:sym_ul": 366920,
+                "contact:phone": "+48 768311312",
+                "contact:email": "spbuczyna@interia.pl",
+                "contact:website": "http:\/\/www.spbuczyna.edupage.org",
+                "ref:regon": "001239915",
+                "ref:vatin": "PL5020079616",
+                "operator": "Gmina Radwanice",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 89342,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.93531,
+                    51.56706
+                ]
+            },
+            "properties": {
+                "ref:rspo": 89342,
+                "official_name": "Zesp\u00f3\u0142 Szkolno - Przedszkolny w Radwanicach",
+                "name": "Zesp\u00f3\u0142 Szkolno - Przedszkolny w Radwanicach",
+                "addr:country": "PL",
+                "addr:postcode": "59-160",
+                "addr:city": "Radwanice",
+                "addr:street": "ul. Tenisowa",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 22744,
+                "addr:teryt:sym_ul": 367077,
+                "contact:phone": "+48 768311911",
+                "contact:email": "zsp_radwanice@o2.pl",
+                "contact:website": "http:\/\/www.zsp.radwanice.pl",
+                "ref:regon": "390933181",
+                "ref:vatin": "PL6922285066",
+                "operator": "Gmina Radwanice",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 84545;89349"
+            }
+        },
+        {
+            "id": 84545,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.93531,
+                    51.567029999999995
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 84545,
+                "official_name": "Zesp\u00f3\u0142 Szkolno - Przedszkolny Szko\u0142a Podstawowa im. Mariana Falskiego w Radwanicach",
+                "name": "Zesp\u00f3\u0142 Szkolno - Przedszkolny Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "59-160",
+                "addr:city": "Radwanice",
+                "addr:street": "ul. Tenisowa",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 22744,
+                "addr:teryt:sym_ul": 367077,
+                "contact:phone": "+48 768311911",
+                "contact:email": "zsp_radwanice@o2.pl",
+                "contact:website": "http:\/\/www.zsp.radwanice.pl",
+                "ref:regon": "391041421",
+                "ref:vatin": "PL6922285066",
+                "operator": "Gmina Radwanice",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 89342"
+            }
+        },
+        {
+            "id": 89349,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.93524,
+                    51.57126
+                ]
+            },
+            "properties": {
+                "ref:rspo": 89349,
+                "official_name": "Zesp\u00f3\u0142 Szkolno Przedszkolny Publiczne Przedszkole w Radwanicach",
+                "name": "Zesp\u00f3\u0142 Szkolno Przedszkolny Publiczne Przedszkole w Radwanicach",
+                "addr:country": "PL",
+                "addr:postcode": "59-160",
+                "addr:city": "Radwanice",
+                "addr:street": "ul. Sportowa",
+                "addr:housenumber": "6",
+                "addr:teryt:simc": 20683,
+                "addr:teryt:sym_ul": 367077,
+                "contact:phone": "+48 768311310",
+                "contact:email": "zsp_radwanice@o2.pl",
+                "contact:website": "http:\/\/www.zsp.radwanice.pl",
+                "ref:regon": "391041438",
+                "ref:vatin": "PL6922285066",
+                "operator": "Gmina Radwanice",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 89342"
+            }
+        }
+    ]
+}

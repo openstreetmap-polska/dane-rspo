@@ -1,1 +1,186 @@
-{"type":"FeatureCollection","features":[{"id":22737,"type":"Feature","geometry":{"type":"Point","coordinates":[20.7515329,50.2948029]},"properties":{"isced:level":"1;2","ref:rspo":22737,"official_name":"Publiczna Szko\u0142a Podstawowa w Starym Korczynie","name":"Publiczna Szko\u0142a Podstawowa w Starym Korczynie","addr:country":"PL","addr:postcode":"28-136","addr:place":"Stary Korczyn","addr:housenumber":"85","addr:teryt:sym_ul":256308,"contact:phone":"+48 413771073","contact:email":"starykorczyn@interia.pl","ref:regon":"001216883","ref:vatin":"PL6551943634","operator":"Gmina Nowy Korczyn","operator:type":"government","amenity":"school"}},{"id":271166,"type":"Feature","geometry":{"type":"Point","coordinates":[20.802,50.2978]},"properties":{"ref:rspo":271166,"official_name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w Nowym Korczynie","name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w Nowym Korczynie","addr:country":"PL","addr:postcode":"28-136","addr:city":"Nowy Korczyn","addr:street":"ul. Partyzant\u00f3w","addr:housenumber":"13","addr:teryt:simc":15733,"addr:teryt:sym_ul":256142,"contact:phone":"+48 413771020","contact:email":"spnowykorczyn@poczta.onet.pl","ref:regon":"383133891","ref:vatin":"PL6551978874","operator":"Gmina Nowy Korczyn","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 22732;105523"}},{"id":22732,"type":"Feature","geometry":{"type":"Point","coordinates":[20.802,50.29777]},"properties":{"isced:level":"1;2","ref:rspo":22732,"official_name":"Publiczna Szko\u0142a Podstawowa w Nowym Korczynie","name":"Publiczna Szko\u0142a Podstawowa w Nowym Korczynie","addr:country":"PL","addr:postcode":"28-136","addr:city":"Nowy Korczyn","addr:street":"ul. Partyzant\u00f3w","addr:housenumber":"13","addr:teryt:simc":15733,"addr:teryt:sym_ul":256142,"contact:phone":"+48 413771437","contact:email":"spnowykorczyn@poczta.onet.pl","contact:website":"http:\/\/spnowykorczyn.pl","ref:regon":"000649723","ref:vatin":"PL6551970973","operator":"Gmina Nowy Korczyn","operator:type":"government","amenity":"school","note":"Parent RSPO: 271166"}},{"id":105523,"type":"Feature","geometry":{"type":"Point","coordinates":[20.80562,50.30197]},"properties":{"ref:rspo":105523,"official_name":"Publiczne Przedszkole w Nowym Korczynie","name":"Publiczne Przedszkole w Nowym Korczynie","addr:country":"PL","addr:postcode":"28-136","addr:city":"Nowy Korczyn","addr:street":"ul. Buska","addr:housenumber":"7","addr:teryt:simc":2476,"addr:teryt:sym_ul":256142,"contact:phone":"+48 413771083","contact:email":"spnowykorczyn@poczta.onet.pl","ref:regon":"260658360","operator":"Gmina Nowy Korczyn","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 271166"}},{"id":22731,"type":"Feature","geometry":{"type":"Point","coordinates":[20.912365,50.3140379]},"properties":{"isced:level":"1;2","ref:rspo":22731,"official_name":"Szko\u0142a Podstawowa w Brzostkowie","name":"Szko\u0142a Podstawowa w Brzostkowie","addr:country":"PL","addr:postcode":"28-136","addr:place":"Brzostk\u00f3w","addr:housenumber":"1","addr:teryt:sym_ul":255958,"contact:phone":"+48 413771297","contact:email":"szkola241@wp.pl","contact:website":"http:\/\/spbrzostkow.pl","ref:regon":"001218132","ref:vatin":"PL6551939963","operator":"Gmina Nowy Korczyn","operator:type":"government","amenity":"school"}},{"id":263463,"type":"Feature","geometry":{"type":"Point","coordinates":[20.912365,50.3140079]},"properties":{"ref:rspo":263463,"official_name":"Punkt Przedszkolny Przy Szkole Podstawowej w Brzostkowie","name":"Punkt Przedszkolny Przy Szkole Podstawowej w Brzostkowie","addr:country":"PL","addr:postcode":"28-136","addr:place":"Brzostk\u00f3w","addr:housenumber":"1","addr:teryt:sym_ul":255958,"contact:phone":"+48 413771297","contact:email":"szkola241@wp.pl","ref:regon":"368191733","operator":"Gmina Nowy Korczyn","operator:type":"government","amenity":"kindergarten"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 22737,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.7515329,
+                    50.2948029
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 22737,
+                "official_name": "Publiczna Szko\u0142a Podstawowa w Starym Korczynie",
+                "name": "Publiczna Szko\u0142a Podstawowa w Starym Korczynie",
+                "addr:country": "PL",
+                "addr:postcode": "28-136",
+                "addr:place": "Stary Korczyn",
+                "addr:housenumber": "85",
+                "addr:teryt:sym_ul": 256308,
+                "contact:phone": "+48 413771073",
+                "contact:email": "starykorczyn@interia.pl",
+                "ref:regon": "001216883",
+                "ref:vatin": "PL6551943634",
+                "operator": "Gmina Nowy Korczyn",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 271166,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.802,
+                    50.2978
+                ]
+            },
+            "properties": {
+                "ref:rspo": 271166,
+                "official_name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w Nowym Korczynie",
+                "name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w Nowym Korczynie",
+                "addr:country": "PL",
+                "addr:postcode": "28-136",
+                "addr:city": "Nowy Korczyn",
+                "addr:street": "ul. Partyzant\u00f3w",
+                "addr:housenumber": "13",
+                "addr:teryt:simc": 15733,
+                "addr:teryt:sym_ul": 256142,
+                "contact:phone": "+48 413771020",
+                "contact:email": "spnowykorczyn@poczta.onet.pl",
+                "ref:regon": "383133891",
+                "ref:vatin": "PL6551978874",
+                "operator": "Gmina Nowy Korczyn",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 22732;105523"
+            }
+        },
+        {
+            "id": 22732,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.802,
+                    50.29777
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 22732,
+                "official_name": "Publiczna Szko\u0142a Podstawowa w Nowym Korczynie",
+                "name": "Publiczna Szko\u0142a Podstawowa w Nowym Korczynie",
+                "addr:country": "PL",
+                "addr:postcode": "28-136",
+                "addr:city": "Nowy Korczyn",
+                "addr:street": "ul. Partyzant\u00f3w",
+                "addr:housenumber": "13",
+                "addr:teryt:simc": 15733,
+                "addr:teryt:sym_ul": 256142,
+                "contact:phone": "+48 413771437",
+                "contact:email": "spnowykorczyn@poczta.onet.pl",
+                "contact:website": "http:\/\/spnowykorczyn.pl",
+                "ref:regon": "000649723",
+                "ref:vatin": "PL6551970973",
+                "operator": "Gmina Nowy Korczyn",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 271166"
+            }
+        },
+        {
+            "id": 105523,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.80562,
+                    50.30197
+                ]
+            },
+            "properties": {
+                "ref:rspo": 105523,
+                "official_name": "Publiczne Przedszkole w Nowym Korczynie",
+                "name": "Publiczne Przedszkole w Nowym Korczynie",
+                "addr:country": "PL",
+                "addr:postcode": "28-136",
+                "addr:city": "Nowy Korczyn",
+                "addr:street": "ul. Buska",
+                "addr:housenumber": "7",
+                "addr:teryt:simc": 2476,
+                "addr:teryt:sym_ul": 256142,
+                "contact:phone": "+48 413771083",
+                "contact:email": "spnowykorczyn@poczta.onet.pl",
+                "ref:regon": "260658360",
+                "operator": "Gmina Nowy Korczyn",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 271166"
+            }
+        },
+        {
+            "id": 22731,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.912365,
+                    50.3140379
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 22731,
+                "official_name": "Szko\u0142a Podstawowa w Brzostkowie",
+                "name": "Szko\u0142a Podstawowa w Brzostkowie",
+                "addr:country": "PL",
+                "addr:postcode": "28-136",
+                "addr:place": "Brzostk\u00f3w",
+                "addr:housenumber": "1",
+                "addr:teryt:sym_ul": 255958,
+                "contact:phone": "+48 413771297",
+                "contact:email": "szkola241@wp.pl",
+                "contact:website": "http:\/\/spbrzostkow.pl",
+                "ref:regon": "001218132",
+                "ref:vatin": "PL6551939963",
+                "operator": "Gmina Nowy Korczyn",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 263463,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.912365,
+                    50.3140079
+                ]
+            },
+            "properties": {
+                "ref:rspo": 263463,
+                "official_name": "Punkt Przedszkolny Przy Szkole Podstawowej w Brzostkowie",
+                "name": "Punkt Przedszkolny Przy Szkole Podstawowej w Brzostkowie",
+                "addr:country": "PL",
+                "addr:postcode": "28-136",
+                "addr:place": "Brzostk\u00f3w",
+                "addr:housenumber": "1",
+                "addr:teryt:sym_ul": 255958,
+                "contact:phone": "+48 413771297",
+                "contact:email": "szkola241@wp.pl",
+                "ref:regon": "368191733",
+                "operator": "Gmina Nowy Korczyn",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        }
+    ]
+}

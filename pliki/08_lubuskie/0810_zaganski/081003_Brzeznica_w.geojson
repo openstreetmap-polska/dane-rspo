@@ -1,1 +1,96 @@
-{"type":"FeatureCollection","features":[{"id":72734,"type":"Feature","geometry":{"type":"Point","coordinates":[15.47562,51.70257]},"properties":{"isced:level":"1;2","ref:rspo":72734,"official_name":"Publiczna Szko\u0142a Podstawowa w Chotkowie","name":"Publiczna Szko\u0142a Podstawowa w Chotkowie","addr:country":"PL","addr:postcode":"68-113","addr:city":"Chotk\u00f3w","addr:street":"ul. Ko\u017cuchowska","addr:housenumber":"68","addr:teryt:simc":9764,"addr:teryt:sym_ul":908248,"contact:phone":"+48 683771329","contact:email":"spchotkow@wp.pl","ref:regon":"970532496","ref:vatin":"PL9241696628","operator":"Gmina Brze\u017anica","operator:type":"government","amenity":"school"}},{"id":75363,"type":"Feature","geometry":{"type":"Point","coordinates":[15.38966,51.71511]},"properties":{"isced:level":"1;2","ref:rspo":75363,"official_name":"Szko\u0142a Podstawowa w Brze\u017anicy","name":"Szko\u0142a Podstawowa w Brze\u017anicy","addr:country":"PL","addr:postcode":"68-113","addr:city":"Brze\u017anica","addr:street":"ul. Zielonog\u00f3rska","addr:housenumber":"26","addr:teryt:simc":26102,"addr:teryt:sym_ul":908231,"contact:phone":"+48 683771660","contact:email":"zsbrzeznica@wp.pl","ref:regon":"970532473","ref:vatin":"PL9241848044","operator":"Gmina Brze\u017anica","operator:type":"government","amenity":"school"}},{"id":72735,"type":"Feature","geometry":{"type":"Point","coordinates":[15.46573,51.73874]},"properties":{"isced:level":"1;2","ref:rspo":72735,"official_name":"Szko\u0142a Podstawowa w Wichowie","name":"Szko\u0142a Podstawowa w Wichowie","addr:country":"PL","addr:postcode":"68-113","addr:place":"Wich\u00f3w","addr:housenumber":"24","addr:teryt:sym_ul":908320,"contact:phone":"+48 683771694","contact:email":"spwichow@wp.pl","ref:regon":"970532504","ref:vatin":"PL9241696597","operator":"Gmina Brze\u017anica","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 72734,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.47562,
+                    51.70257
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 72734,
+                "official_name": "Publiczna Szko\u0142a Podstawowa w Chotkowie",
+                "name": "Publiczna Szko\u0142a Podstawowa w Chotkowie",
+                "addr:country": "PL",
+                "addr:postcode": "68-113",
+                "addr:city": "Chotk\u00f3w",
+                "addr:street": "ul. Ko\u017cuchowska",
+                "addr:housenumber": "68",
+                "addr:teryt:simc": 9764,
+                "addr:teryt:sym_ul": 908248,
+                "contact:phone": "+48 683771329",
+                "contact:email": "spchotkow@wp.pl",
+                "ref:regon": "970532496",
+                "ref:vatin": "PL9241696628",
+                "operator": "Gmina Brze\u017anica",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 75363,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.38966,
+                    51.71511
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 75363,
+                "official_name": "Szko\u0142a Podstawowa w Brze\u017anicy",
+                "name": "Szko\u0142a Podstawowa w Brze\u017anicy",
+                "addr:country": "PL",
+                "addr:postcode": "68-113",
+                "addr:city": "Brze\u017anica",
+                "addr:street": "ul. Zielonog\u00f3rska",
+                "addr:housenumber": "26",
+                "addr:teryt:simc": 26102,
+                "addr:teryt:sym_ul": 908231,
+                "contact:phone": "+48 683771660",
+                "contact:email": "zsbrzeznica@wp.pl",
+                "ref:regon": "970532473",
+                "ref:vatin": "PL9241848044",
+                "operator": "Gmina Brze\u017anica",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 72735,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.46573,
+                    51.73874
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 72735,
+                "official_name": "Szko\u0142a Podstawowa w Wichowie",
+                "name": "Szko\u0142a Podstawowa w Wichowie",
+                "addr:country": "PL",
+                "addr:postcode": "68-113",
+                "addr:place": "Wich\u00f3w",
+                "addr:housenumber": "24",
+                "addr:teryt:sym_ul": 908320,
+                "contact:phone": "+48 683771694",
+                "contact:email": "spwichow@wp.pl",
+                "ref:regon": "970532504",
+                "ref:vatin": "PL9241696597",
+                "operator": "Gmina Brze\u017anica",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

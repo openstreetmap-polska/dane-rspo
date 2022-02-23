@@ -1,1 +1,127 @@
-{"type":"FeatureCollection","features":[{"id":42763,"type":"Feature","geometry":{"type":"Point","coordinates":[17.967498,53.4494039]},"properties":{"isced:level":"1;2","ref:rspo":42763,"official_name":"Szko\u0142a Podstawowa w Klonowie","name":"Szko\u0142a Podstawowa w Klonowie","addr:country":"PL","addr:postcode":"89-526","addr:place":"Klonowo","addr:housenumber":"21","addr:teryt:sym_ul":90470,"contact:phone":"+48 605476531","contact:email":"mszklonowo@wp.pl","ref:regon":"341341576","ref:vatin":"PL5611452455","operator":"Stowarzyszenie Edukacji I Rozwoju Wsi Klonowo N\/Brd\u0105 \"Klon\"","operator:type":"ngo","amenity":"school"}},{"id":60119,"type":"Feature","geometry":{"type":"Point","coordinates":[18.02114,53.46647]},"properties":{"isced:level":"1;2","ref:rspo":60119,"official_name":"Szko\u0142a Podstawowa im. Wojska Polskiego w Lubiewie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"89-526","addr:city":"Lubiewo","addr:street":"ul. Wojska Polskiego","addr:housenumber":"16","addr:teryt:simc":24628,"addr:teryt:sym_ul":90629,"contact:phone":"+48 523349377","contact:email":"sekretariat@splubiewo.edu.pl","ref:regon":"000269890","ref:vatin":"PL5611481669","operator":"Gmina Lubiewo","operator:type":"government","amenity":"school"}},{"id":41397,"type":"Feature","geometry":{"type":"Point","coordinates":[18.00527,53.50279]},"properties":{"ref:rspo":41397,"official_name":"Przedszkole Samorz\u0105dowe Gminy Lubiewo","name":"Przedszkole Samorz\u0105dowe Gminy Lubiewo","addr:country":"PL","addr:postcode":"89-510","addr:city":"Bys\u0142aw","addr:street":"ul. Kwiatowa","addr:housenumber":"9","addr:teryt:simc":10562,"addr:teryt:sym_ul":90339,"contact:phone":"+48 512864137","contact:email":"przedbys@poczta.onet.eu","ref:regon":"340673879","ref:vatin":"PL5611588290","operator":"Gmina Lubiewo","operator:type":"government","amenity":"kindergarten"}},{"id":70806,"type":"Feature","geometry":{"type":"Point","coordinates":[18.00527,53.502759999999995]},"properties":{"isced:level":"1;2","ref:rspo":70806,"official_name":"Szko\u0142a Podstawowa im. Janusza Korczaka w Bys\u0142awiu","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"89-510","addr:city":"Bys\u0142aw","addr:street":"ul. Kwiatowa","addr:housenumber":"9","addr:teryt:simc":10562,"addr:teryt:sym_ul":90339,"contact:phone":"+48 523349909","contact:email":"sekretariat@spbyslaw.edu.pl","contact:website":"http:\/\/spbyslaw.edu.pl\/","ref:regon":"001158217","ref:vatin":"PL5611418783","operator":"Gmina Lubiewo","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 42763,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.967498,
+                    53.4494039
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 42763,
+                "official_name": "Szko\u0142a Podstawowa w Klonowie",
+                "name": "Szko\u0142a Podstawowa w Klonowie",
+                "addr:country": "PL",
+                "addr:postcode": "89-526",
+                "addr:place": "Klonowo",
+                "addr:housenumber": "21",
+                "addr:teryt:sym_ul": 90470,
+                "contact:phone": "+48 605476531",
+                "contact:email": "mszklonowo@wp.pl",
+                "ref:regon": "341341576",
+                "ref:vatin": "PL5611452455",
+                "operator": "Stowarzyszenie Edukacji I Rozwoju Wsi Klonowo N\/Brd\u0105 \"Klon\"",
+                "operator:type": "ngo",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 60119,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.02114,
+                    53.46647
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 60119,
+                "official_name": "Szko\u0142a Podstawowa im. Wojska Polskiego w Lubiewie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "89-526",
+                "addr:city": "Lubiewo",
+                "addr:street": "ul. Wojska Polskiego",
+                "addr:housenumber": "16",
+                "addr:teryt:simc": 24628,
+                "addr:teryt:sym_ul": 90629,
+                "contact:phone": "+48 523349377",
+                "contact:email": "sekretariat@splubiewo.edu.pl",
+                "ref:regon": "000269890",
+                "ref:vatin": "PL5611481669",
+                "operator": "Gmina Lubiewo",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 41397,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.00527,
+                    53.50279
+                ]
+            },
+            "properties": {
+                "ref:rspo": 41397,
+                "official_name": "Przedszkole Samorz\u0105dowe Gminy Lubiewo",
+                "name": "Przedszkole Samorz\u0105dowe Gminy Lubiewo",
+                "addr:country": "PL",
+                "addr:postcode": "89-510",
+                "addr:city": "Bys\u0142aw",
+                "addr:street": "ul. Kwiatowa",
+                "addr:housenumber": "9",
+                "addr:teryt:simc": 10562,
+                "addr:teryt:sym_ul": 90339,
+                "contact:phone": "+48 512864137",
+                "contact:email": "przedbys@poczta.onet.eu",
+                "ref:regon": "340673879",
+                "ref:vatin": "PL5611588290",
+                "operator": "Gmina Lubiewo",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 70806,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.00527,
+                    53.502759999999995
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 70806,
+                "official_name": "Szko\u0142a Podstawowa im. Janusza Korczaka w Bys\u0142awiu",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "89-510",
+                "addr:city": "Bys\u0142aw",
+                "addr:street": "ul. Kwiatowa",
+                "addr:housenumber": "9",
+                "addr:teryt:simc": 10562,
+                "addr:teryt:sym_ul": 90339,
+                "contact:phone": "+48 523349909",
+                "contact:email": "sekretariat@spbyslaw.edu.pl",
+                "contact:website": "http:\/\/spbyslaw.edu.pl\/",
+                "ref:regon": "001158217",
+                "ref:vatin": "PL5611418783",
+                "operator": "Gmina Lubiewo",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

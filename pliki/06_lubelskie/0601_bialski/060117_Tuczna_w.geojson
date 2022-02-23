@@ -1,1 +1,91 @@
-{"type":"FeatureCollection","features":[{"id":268316,"type":"Feature","geometry":{"type":"Point","coordinates":[23.4261549,51.8793745]},"properties":{"ref:rspo":268316,"official_name":"Zesp\u00f3\u0142 Szkolno - Przedszkolny w Tucznej","name":"Zesp\u00f3\u0142 Szkolno - Przedszkolny w Tucznej","addr:country":"PL","addr:postcode":"21-523","addr:place":"Tuczna","addr:housenumber":"3","addr:teryt:sym_ul":21255,"contact:phone":"+48 833771062","contact:email":"zstuczna@op.pl","ref:regon":"381089269","operator":"Gmina Tuczna","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 83698;268318"}},{"id":83698,"type":"Feature","geometry":{"type":"Point","coordinates":[23.4261549,51.879344499999995]},"properties":{"isced:level":"1;2","ref:rspo":83698,"official_name":"Szko\u0142a Podstawowa im. Tadeusza Ko\u015bciuszki w Tucznej","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"21-523","addr:place":"Tuczna","addr:housenumber":"3","addr:teryt:sym_ul":21255,"contact:phone":"+48 833771062","contact:email":"zstuczna@op.pl","ref:regon":"000682270","operator":"Gmina Tuczna","operator:type":"government","amenity":"school","note":"Parent RSPO: 268316"}},{"id":268318,"type":"Feature","geometry":{"type":"Point","coordinates":[23.4261549,51.8793145]},"properties":{"ref:rspo":268318,"official_name":"Przedszkole Samorz\u0105dowe w Tucznej","name":"Przedszkole Samorz\u0105dowe w Tucznej","addr:country":"PL","addr:postcode":"21-523","addr:place":"Tuczna","addr:housenumber":"3","addr:teryt:sym_ul":21255,"contact:phone":"+48 833771062","contact:email":"zstuczna@op.pl","ref:regon":"381089341","operator":"Gmina Tuczna","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 268316"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 268316,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.4261549,
+                    51.8793745
+                ]
+            },
+            "properties": {
+                "ref:rspo": 268316,
+                "official_name": "Zesp\u00f3\u0142 Szkolno - Przedszkolny w Tucznej",
+                "name": "Zesp\u00f3\u0142 Szkolno - Przedszkolny w Tucznej",
+                "addr:country": "PL",
+                "addr:postcode": "21-523",
+                "addr:place": "Tuczna",
+                "addr:housenumber": "3",
+                "addr:teryt:sym_ul": 21255,
+                "contact:phone": "+48 833771062",
+                "contact:email": "zstuczna@op.pl",
+                "ref:regon": "381089269",
+                "operator": "Gmina Tuczna",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 83698;268318"
+            }
+        },
+        {
+            "id": 83698,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.4261549,
+                    51.879344499999995
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 83698,
+                "official_name": "Szko\u0142a Podstawowa im. Tadeusza Ko\u015bciuszki w Tucznej",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "21-523",
+                "addr:place": "Tuczna",
+                "addr:housenumber": "3",
+                "addr:teryt:sym_ul": 21255,
+                "contact:phone": "+48 833771062",
+                "contact:email": "zstuczna@op.pl",
+                "ref:regon": "000682270",
+                "operator": "Gmina Tuczna",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 268316"
+            }
+        },
+        {
+            "id": 268318,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.4261549,
+                    51.8793145
+                ]
+            },
+            "properties": {
+                "ref:rspo": 268318,
+                "official_name": "Przedszkole Samorz\u0105dowe w Tucznej",
+                "name": "Przedszkole Samorz\u0105dowe w Tucznej",
+                "addr:country": "PL",
+                "addr:postcode": "21-523",
+                "addr:place": "Tuczna",
+                "addr:housenumber": "3",
+                "addr:teryt:sym_ul": 21255,
+                "contact:phone": "+48 833771062",
+                "contact:email": "zstuczna@op.pl",
+                "ref:regon": "381089341",
+                "operator": "Gmina Tuczna",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 268316"
+            }
+        }
+    ]
+}

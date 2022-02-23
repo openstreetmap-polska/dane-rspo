@@ -1,1 +1,63 @@
-{"type":"FeatureCollection","features":[{"id":68666,"type":"Feature","geometry":{"type":"Point","coordinates":[22.62383,54.18047]},"properties":{"isced:level":"1;2","ref:rspo":68666,"official_name":"Szko\u0142a Podstawowa im. Jana Paw\u0142a II w Filipowie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"16-424","addr:city":"Filip\u00f3w","addr:street":"ul. Marii Konopnickiej","addr:housenumber":"6","addr:teryt:simc":9186,"addr:teryt:sym_ul":757074,"contact:phone":"+48 875696029","contact:email":"zsfilipow@wp.pl","ref:regon":"791010980","operator":"Gmina Filip\u00f3w","operator:type":"government","amenity":"school"}},{"id":109209,"type":"Feature","geometry":{"type":"Point","coordinates":[22.62383,54.18044]},"properties":{"ref:rspo":109209,"official_name":"Punkt Przedszkolny","name":"Punkt Przedszkolny","addr:country":"PL","addr:postcode":"16-424","addr:city":"Filip\u00f3w","addr:street":"ul. Marii Konopnickiej","addr:housenumber":"6","addr:teryt:simc":9186,"addr:teryt:sym_ul":757074,"contact:phone":"+48 875696029","ref:regon":"200761589","operator":"Gmina Filip\u00f3w","operator:type":"government","amenity":"kindergarten"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 68666,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.62383,
+                    54.18047
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 68666,
+                "official_name": "Szko\u0142a Podstawowa im. Jana Paw\u0142a II w Filipowie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "16-424",
+                "addr:city": "Filip\u00f3w",
+                "addr:street": "ul. Marii Konopnickiej",
+                "addr:housenumber": "6",
+                "addr:teryt:simc": 9186,
+                "addr:teryt:sym_ul": 757074,
+                "contact:phone": "+48 875696029",
+                "contact:email": "zsfilipow@wp.pl",
+                "ref:regon": "791010980",
+                "operator": "Gmina Filip\u00f3w",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 109209,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.62383,
+                    54.18044
+                ]
+            },
+            "properties": {
+                "ref:rspo": 109209,
+                "official_name": "Punkt Przedszkolny",
+                "name": "Punkt Przedszkolny",
+                "addr:country": "PL",
+                "addr:postcode": "16-424",
+                "addr:city": "Filip\u00f3w",
+                "addr:street": "ul. Marii Konopnickiej",
+                "addr:housenumber": "6",
+                "addr:teryt:simc": 9186,
+                "addr:teryt:sym_ul": 757074,
+                "contact:phone": "+48 875696029",
+                "ref:regon": "200761589",
+                "operator": "Gmina Filip\u00f3w",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        }
+    ]
+}

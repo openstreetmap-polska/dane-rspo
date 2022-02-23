@@ -1,1 +1,121 @@
-{"type":"FeatureCollection","features":[{"id":124225,"type":"Feature","geometry":{"type":"Point","coordinates":[22.820346,53.279159]},"properties":{"isced:level":"1;2","ref:rspo":124225,"official_name":"Szko\u0142a Podstawowa w D\u0142ugo\u0142\u0119ce","name":"Szko\u0142a Podstawowa w D\u0142ugo\u0142\u0119ce","addr:country":"PL","addr:postcode":"19-111","addr:place":"D\u0142ugo\u0142\u0119ka","addr:housenumber":"50","addr:teryt:sym_ul":32951,"contact:phone":"+48 857169019","contact:email":"sp.d1@wp.pl","contact:website":"http:\/\/www.dlugoleka@sosedukator.pl","ref:regon":"200877369","operator":"Spo\u0142eczno - O\u015bwiatowe Stowarzyszenie Pomocy Pokrzywdzonym I Niepe\u0142nosprawnym \"Edukator\"","operator:type":"ngo","amenity":"school"}},{"id":15933,"type":"Feature","geometry":{"type":"Point","coordinates":[22.8741858,53.281419]},"properties":{"ref:rspo":15933,"official_name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w Krypnie","name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w Krypnie","addr:country":"PL","addr:postcode":"19-111","addr:place":"Krypno Ko\u015bcielne","addr:housenumber":"48","addr:teryt:sym_ul":33011,"contact:phone":"+48 857169005","contact:email":"zsp_krypno@op.pl","contact:website":"http:\/\/zspkrypno.edupage.org","ref:regon":"000562034","ref:vatin":"PL5461209338","operator":"Gmina Krypno","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 22776;40896"}},{"id":22776,"type":"Feature","geometry":{"type":"Point","coordinates":[22.8741858,53.281389]},"properties":{"ref:rspo":22776,"official_name":"Przedszkole Samorz\u0105dowe w Krypnie","name":"Przedszkole Samorz\u0105dowe w Krypnie","addr:country":"PL","addr:postcode":"19-111","addr:place":"Krypno Ko\u015bcielne","addr:housenumber":"48","addr:teryt:sym_ul":33011,"contact:phone":"+48 857169005","ref:regon":"451194035","operator":"Gmina Krypno","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 15933"}},{"id":40896,"type":"Feature","geometry":{"type":"Point","coordinates":[22.8741858,53.281359]},"properties":{"isced:level":"1;2","ref:rspo":40896,"official_name":"Szko\u0142a Podstawowa im. \u015awi\u0119tego Jana Paw\u0142a II w Krypnie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"19-111","addr:place":"Krypno Ko\u015bcielne","addr:housenumber":"48","addr:teryt:sym_ul":33011,"contact:phone":"+48 851769005","contact:email":"zsp_krypno@op.pl","ref:regon":"451194029","operator":"Gmina Krypno","operator:type":"government","amenity":"school","note":"Parent RSPO: 15933"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 124225,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.820346,
+                    53.279159
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 124225,
+                "official_name": "Szko\u0142a Podstawowa w D\u0142ugo\u0142\u0119ce",
+                "name": "Szko\u0142a Podstawowa w D\u0142ugo\u0142\u0119ce",
+                "addr:country": "PL",
+                "addr:postcode": "19-111",
+                "addr:place": "D\u0142ugo\u0142\u0119ka",
+                "addr:housenumber": "50",
+                "addr:teryt:sym_ul": 32951,
+                "contact:phone": "+48 857169019",
+                "contact:email": "sp.d1@wp.pl",
+                "contact:website": "http:\/\/www.dlugoleka@sosedukator.pl",
+                "ref:regon": "200877369",
+                "operator": "Spo\u0142eczno - O\u015bwiatowe Stowarzyszenie Pomocy Pokrzywdzonym I Niepe\u0142nosprawnym \"Edukator\"",
+                "operator:type": "ngo",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 15933,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.8741858,
+                    53.281419
+                ]
+            },
+            "properties": {
+                "ref:rspo": 15933,
+                "official_name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w Krypnie",
+                "name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w Krypnie",
+                "addr:country": "PL",
+                "addr:postcode": "19-111",
+                "addr:place": "Krypno Ko\u015bcielne",
+                "addr:housenumber": "48",
+                "addr:teryt:sym_ul": 33011,
+                "contact:phone": "+48 857169005",
+                "contact:email": "zsp_krypno@op.pl",
+                "contact:website": "http:\/\/zspkrypno.edupage.org",
+                "ref:regon": "000562034",
+                "ref:vatin": "PL5461209338",
+                "operator": "Gmina Krypno",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 22776;40896"
+            }
+        },
+        {
+            "id": 22776,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.8741858,
+                    53.281389
+                ]
+            },
+            "properties": {
+                "ref:rspo": 22776,
+                "official_name": "Przedszkole Samorz\u0105dowe w Krypnie",
+                "name": "Przedszkole Samorz\u0105dowe w Krypnie",
+                "addr:country": "PL",
+                "addr:postcode": "19-111",
+                "addr:place": "Krypno Ko\u015bcielne",
+                "addr:housenumber": "48",
+                "addr:teryt:sym_ul": 33011,
+                "contact:phone": "+48 857169005",
+                "ref:regon": "451194035",
+                "operator": "Gmina Krypno",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 15933"
+            }
+        },
+        {
+            "id": 40896,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.8741858,
+                    53.281359
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 40896,
+                "official_name": "Szko\u0142a Podstawowa im. \u015awi\u0119tego Jana Paw\u0142a II w Krypnie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "19-111",
+                "addr:place": "Krypno Ko\u015bcielne",
+                "addr:housenumber": "48",
+                "addr:teryt:sym_ul": 33011,
+                "contact:phone": "+48 851769005",
+                "contact:email": "zsp_krypno@op.pl",
+                "ref:regon": "451194029",
+                "operator": "Gmina Krypno",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 15933"
+            }
+        }
+    ]
+}

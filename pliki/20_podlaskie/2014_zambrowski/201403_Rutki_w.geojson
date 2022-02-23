@@ -1,1 +1,123 @@
-{"type":"FeatureCollection","features":[{"id":10264,"type":"Feature","geometry":{"type":"Point","coordinates":[22.36403,53.07475]},"properties":{"isced:level":"1;2","ref:rspo":10264,"official_name":"Szko\u0142a Podstawowa w Ko\u0142omyi","name":"Szko\u0142a Podstawowa w Ko\u0142omyi","addr:country":"PL","addr:postcode":"18-312","addr:place":"Ko\u0142omyja","addr:housenumber":"35","addr:teryt:sym_ul":405286,"contact:phone":"+48 862709590","contact:email":"spkolomyja@wp.pl","ref:regon":"450088450","ref:vatin":"PL7231484869","operator":"Gmina Rutki","operator:type":"government","amenity":"school"}},{"id":10265,"type":"Feature","geometry":{"type":"Point","coordinates":[22.44201,53.08728]},"properties":{"isced:level":"1;2","ref:rspo":10265,"official_name":"Szko\u0142a Podstawowa im. 2 Pu\u0142ku U\u0142an\u00f3w Grochowskich w Rutkach","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"18-312","addr:city":"Rutki-Kossaki","addr:street":"ul. 11 Listopada","addr:housenumber":"7A","addr:teryt:simc":11205,"addr:teryt:sym_ul":405441,"contact:phone":"+48 862701006","contact:email":"rutkiszkola@wp.pl","ref:regon":"450088420","ref:vatin":"PL7231484929","operator":"Gmina Rutki","operator:type":"government","amenity":"school"}},{"id":10266,"type":"Feature","geometry":{"type":"Point","coordinates":[22.44201,53.08725]},"properties":{"ref:rspo":10266,"official_name":"Punkt Przedszkolny w Szkole Podstawowej w Rutkach","name":"Punkt Przedszkolny w Szkole Podstawowej w Rutkach","addr:country":"PL","addr:postcode":"18-312","addr:city":"Rutki-Kossaki","addr:street":"ul. 11 Listopada","addr:housenumber":"7A","addr:teryt:simc":11205,"addr:teryt:sym_ul":405441,"contact:phone":"+48 862701006","contact:email":"rutkiszkola@wp.pl","ref:regon":"200724654","operator":"Gmina Rutki","operator:type":"government","amenity":"kindergarten"}},{"id":10263,"type":"Feature","geometry":{"type":"Point","coordinates":[22.4043199,53.14768]},"properties":{"isced:level":"1;2","ref:rspo":10263,"official_name":"Szko\u0142a Podstawowa im. Kpt. W\u0142adys\u0142awa Raginisa w Gr\u0105dach Woniecko","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"18-312","addr:place":"Gr\u0105dy-Woniecko","addr:housenumber":"20","addr:teryt:sym_ul":405197,"contact:phone":"+48 862709205","contact:email":"spgrady@wp.pl","ref:regon":"450088489","ref:vatin":"PL7231484800","operator":"Gmina Rutki","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 10264,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.36403,
+                    53.07475
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 10264,
+                "official_name": "Szko\u0142a Podstawowa w Ko\u0142omyi",
+                "name": "Szko\u0142a Podstawowa w Ko\u0142omyi",
+                "addr:country": "PL",
+                "addr:postcode": "18-312",
+                "addr:place": "Ko\u0142omyja",
+                "addr:housenumber": "35",
+                "addr:teryt:sym_ul": 405286,
+                "contact:phone": "+48 862709590",
+                "contact:email": "spkolomyja@wp.pl",
+                "ref:regon": "450088450",
+                "ref:vatin": "PL7231484869",
+                "operator": "Gmina Rutki",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 10265,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.44201,
+                    53.08728
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 10265,
+                "official_name": "Szko\u0142a Podstawowa im. 2 Pu\u0142ku U\u0142an\u00f3w Grochowskich w Rutkach",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "18-312",
+                "addr:city": "Rutki-Kossaki",
+                "addr:street": "ul. 11 Listopada",
+                "addr:housenumber": "7A",
+                "addr:teryt:simc": 11205,
+                "addr:teryt:sym_ul": 405441,
+                "contact:phone": "+48 862701006",
+                "contact:email": "rutkiszkola@wp.pl",
+                "ref:regon": "450088420",
+                "ref:vatin": "PL7231484929",
+                "operator": "Gmina Rutki",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 10266,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.44201,
+                    53.08725
+                ]
+            },
+            "properties": {
+                "ref:rspo": 10266,
+                "official_name": "Punkt Przedszkolny w Szkole Podstawowej w Rutkach",
+                "name": "Punkt Przedszkolny w Szkole Podstawowej w Rutkach",
+                "addr:country": "PL",
+                "addr:postcode": "18-312",
+                "addr:city": "Rutki-Kossaki",
+                "addr:street": "ul. 11 Listopada",
+                "addr:housenumber": "7A",
+                "addr:teryt:simc": 11205,
+                "addr:teryt:sym_ul": 405441,
+                "contact:phone": "+48 862701006",
+                "contact:email": "rutkiszkola@wp.pl",
+                "ref:regon": "200724654",
+                "operator": "Gmina Rutki",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 10263,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.4043199,
+                    53.14768
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 10263,
+                "official_name": "Szko\u0142a Podstawowa im. Kpt. W\u0142adys\u0142awa Raginisa w Gr\u0105dach Woniecko",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "18-312",
+                "addr:place": "Gr\u0105dy-Woniecko",
+                "addr:housenumber": "20",
+                "addr:teryt:sym_ul": 405197,
+                "contact:phone": "+48 862709205",
+                "contact:email": "spgrady@wp.pl",
+                "ref:regon": "450088489",
+                "ref:vatin": "PL7231484800",
+                "operator": "Gmina Rutki",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

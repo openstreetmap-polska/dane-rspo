@@ -1,1 +1,170 @@
-{"type":"FeatureCollection","features":[{"id":49358,"type":"Feature","geometry":{"type":"Point","coordinates":[21.02396,51.06898]},"properties":{"isced:level":"1;2","ref:rspo":49358,"official_name":"Szko\u0142a Podstawowa im. \u015awi\u0119tokrzyskich Partyzant\u00f3w Armii Krajowej w Wielkiej Wsi","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"27-215","addr:place":"Wielka Wie\u015b","addr:housenumber":"354","addr:door":"-","addr:teryt:sym_ul":276825,"contact:phone":"+48 412712012","contact:email":"spww@konto.pl","contact:website":"http:\/\/spwielkawies.eu\/sp","ref:regon":"290422503","ref:vatin":"PL6641452259","operator":"Gmina W\u0105chock","operator:type":"government","amenity":"school"}},{"id":60860,"type":"Feature","geometry":{"type":"Point","coordinates":[21.0141,51.07409]},"properties":{"ref:rspo":60860,"official_name":"Zesp\u00f3\u0142 Plac\u00f3wek O\u015bwiatowych w W\u0105chocku","name":"Zesp\u00f3\u0142 Plac\u00f3wek O\u015bwiatowych w W\u0105chocku","addr:country":"PL","addr:postcode":"27-215","addr:city":"W\u0105chock","addr:street":"ul. Ko\u015bcielna","addr:housenumber":"10","addr:door":"-","addr:teryt:simc":9546,"addr:teryt:sym_ul":276802,"contact:phone":"+48 412715936","contact:email":"szkolawachock@o2.pl","contact:website":"http:\/\/zpowachock.edupage.org","ref:regon":"260016880","ref:vatin":"PL6641452064","operator":"Gmina W\u0105chock","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 82479;82516"}},{"id":82479,"type":"Feature","geometry":{"type":"Point","coordinates":[21.0141,51.074059999999996]},"properties":{"isced:level":"1;2","ref:rspo":82479,"official_name":"Szko\u0142a Podstawowa im. Bohater\u00f3w Powstania Styczniowego w W\u0105chocku","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"27-215","addr:city":"W\u0105chock","addr:street":"ul. Ko\u015bcielna","addr:housenumber":"10","addr:door":"-","addr:teryt:simc":9546,"addr:teryt:sym_ul":276802,"contact:phone":"+48 412715936","contact:email":"szkolawachock@o2.pl","contact:website":"http:\/\/www.zpowachock.edu.pl\/","ref:regon":"000272922","ref:vatin":"PL6641452064","operator":"Gmina W\u0105chock","operator:type":"government","amenity":"school","note":"Parent RSPO: 60860"}},{"id":82516,"type":"Feature","geometry":{"type":"Point","coordinates":[21.0141,51.07403]},"properties":{"ref:rspo":82516,"official_name":"Przedszkole Publiczne w W\u0105chocku","name":"Przedszkole Publiczne w W\u0105chocku","addr:country":"PL","addr:postcode":"27-215","addr:city":"W\u0105chock","addr:street":"ul. Ko\u015bcielna","addr:housenumber":"10","addr:door":"-","addr:teryt:simc":9546,"addr:teryt:sym_ul":276802,"contact:phone":"+48 412715936","contact:email":"szkolawachock@o2.pl","contact:website":"http:\/\/www.zpowachock.edu.pl\/","ref:regon":"291099079","ref:vatin":"PL6641930078","operator":"Gmina W\u0105chock","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 60860"}},{"id":60859,"type":"Feature","geometry":{"type":"Point","coordinates":[20.93143,51.07466]},"properties":{"isced:level":"1;2","ref:rspo":60859,"official_name":"Szko\u0142a Podstawowa im. Wojska Polskiego w Parszowie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"27-215","addr:city":"Parsz\u00f3w","addr:street":"ul. Szkolna","addr:housenumber":"28","addr:door":"-","addr:teryt:simc":21970,"addr:teryt:sym_ul":276759,"contact:phone":"+48 412712176","contact:email":"szparszow@wp.pl","contact:website":"http:\/\/spparszow.edupage.org","ref:regon":"001218267","ref:vatin":"PL6641442858","operator":"Gmina W\u0105chock","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 49358,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.02396,
+                    51.06898
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 49358,
+                "official_name": "Szko\u0142a Podstawowa im. \u015awi\u0119tokrzyskich Partyzant\u00f3w Armii Krajowej w Wielkiej Wsi",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "27-215",
+                "addr:place": "Wielka Wie\u015b",
+                "addr:housenumber": "354",
+                "addr:door": "-",
+                "addr:teryt:sym_ul": 276825,
+                "contact:phone": "+48 412712012",
+                "contact:email": "spww@konto.pl",
+                "contact:website": "http:\/\/spwielkawies.eu\/sp",
+                "ref:regon": "290422503",
+                "ref:vatin": "PL6641452259",
+                "operator": "Gmina W\u0105chock",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 60860,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0141,
+                    51.07409
+                ]
+            },
+            "properties": {
+                "ref:rspo": 60860,
+                "official_name": "Zesp\u00f3\u0142 Plac\u00f3wek O\u015bwiatowych w W\u0105chocku",
+                "name": "Zesp\u00f3\u0142 Plac\u00f3wek O\u015bwiatowych w W\u0105chocku",
+                "addr:country": "PL",
+                "addr:postcode": "27-215",
+                "addr:city": "W\u0105chock",
+                "addr:street": "ul. Ko\u015bcielna",
+                "addr:housenumber": "10",
+                "addr:door": "-",
+                "addr:teryt:simc": 9546,
+                "addr:teryt:sym_ul": 276802,
+                "contact:phone": "+48 412715936",
+                "contact:email": "szkolawachock@o2.pl",
+                "contact:website": "http:\/\/zpowachock.edupage.org",
+                "ref:regon": "260016880",
+                "ref:vatin": "PL6641452064",
+                "operator": "Gmina W\u0105chock",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 82479;82516"
+            }
+        },
+        {
+            "id": 82479,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0141,
+                    51.074059999999996
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 82479,
+                "official_name": "Szko\u0142a Podstawowa im. Bohater\u00f3w Powstania Styczniowego w W\u0105chocku",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "27-215",
+                "addr:city": "W\u0105chock",
+                "addr:street": "ul. Ko\u015bcielna",
+                "addr:housenumber": "10",
+                "addr:door": "-",
+                "addr:teryt:simc": 9546,
+                "addr:teryt:sym_ul": 276802,
+                "contact:phone": "+48 412715936",
+                "contact:email": "szkolawachock@o2.pl",
+                "contact:website": "http:\/\/www.zpowachock.edu.pl\/",
+                "ref:regon": "000272922",
+                "ref:vatin": "PL6641452064",
+                "operator": "Gmina W\u0105chock",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 60860"
+            }
+        },
+        {
+            "id": 82516,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0141,
+                    51.07403
+                ]
+            },
+            "properties": {
+                "ref:rspo": 82516,
+                "official_name": "Przedszkole Publiczne w W\u0105chocku",
+                "name": "Przedszkole Publiczne w W\u0105chocku",
+                "addr:country": "PL",
+                "addr:postcode": "27-215",
+                "addr:city": "W\u0105chock",
+                "addr:street": "ul. Ko\u015bcielna",
+                "addr:housenumber": "10",
+                "addr:door": "-",
+                "addr:teryt:simc": 9546,
+                "addr:teryt:sym_ul": 276802,
+                "contact:phone": "+48 412715936",
+                "contact:email": "szkolawachock@o2.pl",
+                "contact:website": "http:\/\/www.zpowachock.edu.pl\/",
+                "ref:regon": "291099079",
+                "ref:vatin": "PL6641930078",
+                "operator": "Gmina W\u0105chock",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 60860"
+            }
+        },
+        {
+            "id": 60859,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.93143,
+                    51.07466
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 60859,
+                "official_name": "Szko\u0142a Podstawowa im. Wojska Polskiego w Parszowie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "27-215",
+                "addr:city": "Parsz\u00f3w",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "28",
+                "addr:door": "-",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 276759,
+                "contact:phone": "+48 412712176",
+                "contact:email": "szparszow@wp.pl",
+                "contact:website": "http:\/\/spparszow.edupage.org",
+                "ref:regon": "001218267",
+                "ref:vatin": "PL6641442858",
+                "operator": "Gmina W\u0105chock",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

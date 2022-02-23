@@ -1,1 +1,221 @@
-{"type":"FeatureCollection","features":[{"id":53158,"type":"Feature","geometry":{"type":"Point","coordinates":[22.44135,51.45677]},"properties":{"isced:level":"1;2","ref:rspo":53158,"official_name":"Szko\u0142a Podstawowa im.or\u0142a Bia\u0142ego w Samokl\u0119skach","name":"Szko\u0142a Podstawowa im.or\u0142a Bia\u0142ego w Samokl\u0119skach","addr:country":"PL","addr:postcode":"21-132","addr:place":"Samokl\u0119ski","addr:housenumber":"6","addr:teryt:sym_ul":382651,"contact:phone":"+48 818529413","contact:email":"spsamokleski@op.pl","ref:regon":"001180458","ref:vatin":"PL7141360276","operator":"Gmina Kamionka","operator:type":"government","amenity":"school"}},{"id":122559,"type":"Feature","geometry":{"type":"Point","coordinates":[22.44135,51.456739999999996]},"properties":{"ref:rspo":122559,"official_name":"Punkt Przedszkolny w Samokl\u0119skach","name":"Punkt Przedszkolny w Samokl\u0119skach","addr:country":"PL","addr:postcode":"21-132","addr:place":"Samokl\u0119ski","addr:housenumber":"6","addr:teryt:sym_ul":382651,"contact:phone":"+48 818529413","contact:email":"spsamokleski@op.pl","ref:regon":"061664592","operator":"Gmina Kamionka","operator:type":"government","amenity":"kindergarten"}},{"id":53159,"type":"Feature","geometry":{"type":"Point","coordinates":[22.47318,51.46467]},"properties":{"ref:rspo":53159,"official_name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 w Kamionce im.ks.kardyna\u0142a Stefana Wyszy\u0144skiego","name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 w Kamionce im.ks.kardyna\u0142a Stefana Wyszy\u0144skiego","addr:country":"PL","addr:postcode":"21-132","addr:city":"Kamionka","addr:street":"ul. Lubartowska","addr:housenumber":"53","addr:teryt:simc":11294,"addr:teryt:sym_ul":382480,"contact:phone":"+48 818527009","contact:email":"kamionkasp@wp.pl","contact:website":"http:\/\/www.zs.kamionka.pl","ref:regon":"430422060","ref:vatin":"PL7141288478","operator":"Gmina Kamionka","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 84994;84996;84998"}},{"id":84994,"type":"Feature","geometry":{"type":"Point","coordinates":[22.47318,51.464639999999996]},"properties":{"isced:level":"1;2","ref:rspo":84994,"official_name":"Szko\u0142a Podstawowa w Kamionce","name":"Szko\u0142a Podstawowa w Kamionce","addr:country":"PL","addr:postcode":"21-132","addr:city":"Kamionka","addr:street":"ul. Lubartowska","addr:housenumber":"53","addr:teryt:simc":11294,"addr:teryt:sym_ul":382480,"contact:phone":"+48 818527009","contact:email":"kamionkasp@wp.pl","contact:website":"http:\/\/www.zs.kamionka.pl","ref:regon":"431270250","operator":"Gmina Kamionka","operator:type":"government","amenity":"school","note":"Parent RSPO: 53159"}},{"id":84996,"type":"Feature","geometry":{"type":"Point","coordinates":[22.47318,51.46461]},"properties":{"isced:level":"3","ref:rspo":84996,"official_name":"Bran\u017cowa Szko\u0142a I Stopnia","name":"Bran\u017cowa Szko\u0142a I Stopnia","addr:country":"PL","addr:postcode":"21-132","addr:city":"Kamionka","addr:street":"ul. Lubartowska","addr:housenumber":"53","addr:teryt:simc":11294,"addr:teryt:sym_ul":382480,"contact:phone":"+48 818527009","contact:email":"kamionkasp@wp.pl","contact:website":"http:\/\/www.zskamionka","ref:regon":"430422076","operator":"Gmina Kamionka","operator:type":"government","amenity":"school","note":"Parent RSPO: 53159"}},{"id":84998,"type":"Feature","geometry":{"type":"Point","coordinates":[22.47318,51.46458]},"properties":{"isced:level":"3","ref:rspo":84998,"official_name":"Technikum w Kamionce","name":"Technikum w Kamionce","addr:country":"PL","addr:postcode":"21-132","addr:city":"Kamionka","addr:street":"ul. Lubartowska","addr:housenumber":"53","addr:teryt:simc":11294,"addr:teryt:sym_ul":382480,"contact:phone":"+48 818527009","contact:email":"kamionkasp@wp.pl","contact:website":"http:\/\/www.zskamionka.pl","ref:regon":"060171108","operator":"Gmina Kamionka","operator:type":"government","amenity":"school","note":"Parent RSPO: 53159"}},{"id":53157,"type":"Feature","geometry":{"type":"Point","coordinates":[22.46068,51.47001]},"properties":{"ref:rspo":53157,"official_name":"Przedszkole Samorz\u0105dowe w Kamionce","name":"Przedszkole Samorz\u0105dowe w Kamionce","addr:country":"PL","addr:postcode":"21-132","addr:city":"Kamionka","addr:street":"ul. Ko\u015bcielna","addr:housenumber":"6","addr:teryt:simc":9546,"addr:teryt:sym_ul":382480,"contact:phone":"+48 510858168","contact:email":"przedszkolekamionka@o2.pl","contact:website":"http:\/\/przedszkole.kamionka.pl","ref:regon":"060310604","ref:vatin":"PL7141382421","operator":"Gmina Kamionka","operator:type":"government","amenity":"kindergarten"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 53158,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.44135,
+                    51.45677
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 53158,
+                "official_name": "Szko\u0142a Podstawowa im.or\u0142a Bia\u0142ego w Samokl\u0119skach",
+                "name": "Szko\u0142a Podstawowa im.or\u0142a Bia\u0142ego w Samokl\u0119skach",
+                "addr:country": "PL",
+                "addr:postcode": "21-132",
+                "addr:place": "Samokl\u0119ski",
+                "addr:housenumber": "6",
+                "addr:teryt:sym_ul": 382651,
+                "contact:phone": "+48 818529413",
+                "contact:email": "spsamokleski@op.pl",
+                "ref:regon": "001180458",
+                "ref:vatin": "PL7141360276",
+                "operator": "Gmina Kamionka",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 122559,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.44135,
+                    51.456739999999996
+                ]
+            },
+            "properties": {
+                "ref:rspo": 122559,
+                "official_name": "Punkt Przedszkolny w Samokl\u0119skach",
+                "name": "Punkt Przedszkolny w Samokl\u0119skach",
+                "addr:country": "PL",
+                "addr:postcode": "21-132",
+                "addr:place": "Samokl\u0119ski",
+                "addr:housenumber": "6",
+                "addr:teryt:sym_ul": 382651,
+                "contact:phone": "+48 818529413",
+                "contact:email": "spsamokleski@op.pl",
+                "ref:regon": "061664592",
+                "operator": "Gmina Kamionka",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 53159,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.47318,
+                    51.46467
+                ]
+            },
+            "properties": {
+                "ref:rspo": 53159,
+                "official_name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 w Kamionce im.ks.kardyna\u0142a Stefana Wyszy\u0144skiego",
+                "name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 w Kamionce im.ks.kardyna\u0142a Stefana Wyszy\u0144skiego",
+                "addr:country": "PL",
+                "addr:postcode": "21-132",
+                "addr:city": "Kamionka",
+                "addr:street": "ul. Lubartowska",
+                "addr:housenumber": "53",
+                "addr:teryt:simc": 11294,
+                "addr:teryt:sym_ul": 382480,
+                "contact:phone": "+48 818527009",
+                "contact:email": "kamionkasp@wp.pl",
+                "contact:website": "http:\/\/www.zs.kamionka.pl",
+                "ref:regon": "430422060",
+                "ref:vatin": "PL7141288478",
+                "operator": "Gmina Kamionka",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 84994;84996;84998"
+            }
+        },
+        {
+            "id": 84994,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.47318,
+                    51.464639999999996
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 84994,
+                "official_name": "Szko\u0142a Podstawowa w Kamionce",
+                "name": "Szko\u0142a Podstawowa w Kamionce",
+                "addr:country": "PL",
+                "addr:postcode": "21-132",
+                "addr:city": "Kamionka",
+                "addr:street": "ul. Lubartowska",
+                "addr:housenumber": "53",
+                "addr:teryt:simc": 11294,
+                "addr:teryt:sym_ul": 382480,
+                "contact:phone": "+48 818527009",
+                "contact:email": "kamionkasp@wp.pl",
+                "contact:website": "http:\/\/www.zs.kamionka.pl",
+                "ref:regon": "431270250",
+                "operator": "Gmina Kamionka",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 53159"
+            }
+        },
+        {
+            "id": 84996,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.47318,
+                    51.46461
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 84996,
+                "official_name": "Bran\u017cowa Szko\u0142a I Stopnia",
+                "name": "Bran\u017cowa Szko\u0142a I Stopnia",
+                "addr:country": "PL",
+                "addr:postcode": "21-132",
+                "addr:city": "Kamionka",
+                "addr:street": "ul. Lubartowska",
+                "addr:housenumber": "53",
+                "addr:teryt:simc": 11294,
+                "addr:teryt:sym_ul": 382480,
+                "contact:phone": "+48 818527009",
+                "contact:email": "kamionkasp@wp.pl",
+                "contact:website": "http:\/\/www.zskamionka",
+                "ref:regon": "430422076",
+                "operator": "Gmina Kamionka",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 53159"
+            }
+        },
+        {
+            "id": 84998,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.47318,
+                    51.46458
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 84998,
+                "official_name": "Technikum w Kamionce",
+                "name": "Technikum w Kamionce",
+                "addr:country": "PL",
+                "addr:postcode": "21-132",
+                "addr:city": "Kamionka",
+                "addr:street": "ul. Lubartowska",
+                "addr:housenumber": "53",
+                "addr:teryt:simc": 11294,
+                "addr:teryt:sym_ul": 382480,
+                "contact:phone": "+48 818527009",
+                "contact:email": "kamionkasp@wp.pl",
+                "contact:website": "http:\/\/www.zskamionka.pl",
+                "ref:regon": "060171108",
+                "operator": "Gmina Kamionka",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 53159"
+            }
+        },
+        {
+            "id": 53157,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.46068,
+                    51.47001
+                ]
+            },
+            "properties": {
+                "ref:rspo": 53157,
+                "official_name": "Przedszkole Samorz\u0105dowe w Kamionce",
+                "name": "Przedszkole Samorz\u0105dowe w Kamionce",
+                "addr:country": "PL",
+                "addr:postcode": "21-132",
+                "addr:city": "Kamionka",
+                "addr:street": "ul. Ko\u015bcielna",
+                "addr:housenumber": "6",
+                "addr:teryt:simc": 9546,
+                "addr:teryt:sym_ul": 382480,
+                "contact:phone": "+48 510858168",
+                "contact:email": "przedszkolekamionka@o2.pl",
+                "contact:website": "http:\/\/przedszkole.kamionka.pl",
+                "ref:regon": "060310604",
+                "ref:vatin": "PL7141382421",
+                "operator": "Gmina Kamionka",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        }
+    ]
+}

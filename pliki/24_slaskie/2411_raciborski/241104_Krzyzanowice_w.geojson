@@ -1,1 +1,438 @@
-{"type":"FeatureCollection","features":[{"id":18990,"type":"Feature","geometry":{"type":"Point","coordinates":[18.31847,49.921]},"properties":{"isced:level":"1;2","ref:rspo":18990,"official_name":"Szko\u0142a Podstawowa im. Mjr Henryka Sucharskiego w Cha\u0142upkach","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"47-460","addr:city":"Cha\u0142upki","addr:street":"ul. Szkolna","addr:housenumber":"7","addr:teryt:simc":21970,"addr:teryt:sym_ul":215479,"contact:phone":"+48 324196016","contact:email":"zsochalupki@interia.pl","ref:regon":"001192600","ref:vatin":"PL6392013560","operator":"Gmina Krzy\u017canowice","operator:type":"government","amenity":"school"}},{"id":15504,"type":"Feature","geometry":{"type":"Point","coordinates":[18.31286,49.92808]},"properties":{"ref:rspo":15504,"official_name":"Przedszkole w Cha\u0142upkach","name":"Przedszkole w Cha\u0142upkach","addr:country":"PL","addr:postcode":"47-460","addr:city":"Cha\u0142upki","addr:street":"ul. Fabryczna","addr:housenumber":"2","addr:teryt:simc":4863,"addr:teryt:sym_ul":215479,"contact:phone":"+48 324196756","contact:email":"przedszkole.chalupki@wp.pl","ref:regon":"271512158","ref:vatin":"PL6391938474","operator":"Gmina Krzy\u017canowice","operator:type":"government","amenity":"kindergarten"}},{"id":272196,"type":"Feature","geometry":{"type":"Point","coordinates":[18.32051,49.93961]},"properties":{"ref:rspo":272196,"official_name":"Zesp\u00f3\u0142 Szkolno - Przedszkolny w Zabe\u0142kowie","name":"Zesp\u00f3\u0142 Szkolno - Przedszkolny w Zabe\u0142kowie","addr:country":"PL","addr:postcode":"47-460","addr:city":"Zabe\u0142k\u00f3w","addr:street":"ul. Rymera","addr:housenumber":"7","addr:teryt:simc":19243,"addr:teryt:sym_ul":215634,"contact:phone":"+48 324196027","contact:email":"sekretariat.zspzabelkow@onet.pl","ref:regon":"384015283","operator":"Gmina Krzy\u017canowice","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 15509;17962"}},{"id":15509,"type":"Feature","geometry":{"type":"Point","coordinates":[18.32051,49.93958]},"properties":{"ref:rspo":15509,"official_name":"Przedszkole Publiczne im. Kubusia Puchatka w Zabe\u0142kowie","name":"Przedszkole Publiczne","addr:country":"PL","addr:postcode":"47-460","addr:city":"Zabe\u0142k\u00f3w","addr:street":"ul. Rymera","addr:housenumber":"7","addr:teryt:simc":19243,"addr:teryt:sym_ul":215634,"contact:phone":"+48 324196899","contact:email":"ritawieczorek@o2.pl","ref:regon":"271512224","ref:vatin":"PL6391938439","operator":"Gmina Krzy\u017canowice","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 272196"}},{"id":17962,"type":"Feature","geometry":{"type":"Point","coordinates":[18.32051,49.939550000000004]},"properties":{"isced:level":"1;2","ref:rspo":17962,"official_name":"Szko\u0142a Podstawowa im. J\u00f3zefa Rymera w Zabe\u0142kowie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"47-460","addr:city":"Zabe\u0142k\u00f3w","addr:street":"ul. Rymera","addr:housenumber":"7","addr:teryt:simc":19243,"addr:teryt:sym_ul":215634,"contact:phone":"+48 324196027","contact:email":"sekretariat.zspzabelkow@onet.pl","contact:website":"http:\/\/zspzabelkow.krzyzanowice.pl","ref:regon":"001192591","ref:vatin":"PL6391790971","operator":"Gmina Krzy\u017canowice","operator:type":"government","amenity":"school","note":"Parent RSPO: 272196"}},{"id":17975,"type":"Feature","geometry":{"type":"Point","coordinates":[18.22031,49.97695]},"properties":{"ref:rspo":17975,"official_name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w Owsiszczach","name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w Owsiszczach","addr:country":"PL","addr:postcode":"47-450","addr:city":"Owsiszcze","addr:street":"ul. Szkolna","addr:housenumber":"1","addr:teryt:simc":21970,"addr:teryt:sym_ul":215539,"contact:phone":"+48 324194039","contact:email":"zspowsiszcze@op.pl","ref:regon":"278077777","ref:vatin":"PL6391824753","operator":"Gmina Krzy\u017canowice","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 22246;22247"}},{"id":22246,"type":"Feature","geometry":{"type":"Point","coordinates":[18.22031,49.97692]},"properties":{"isced:level":"1;2","ref:rspo":22246,"official_name":"Szko\u0142a Podstawowa w Owsiszczach","name":"Szko\u0142a Podstawowa w Owsiszczach","addr:country":"PL","addr:postcode":"47-450","addr:city":"Owsiszcze","addr:street":"ul. Szkolna","addr:housenumber":"1","addr:teryt:simc":21970,"addr:teryt:sym_ul":215539,"contact:phone":"+48 324194039","contact:email":"zspowsiszcze@op.pl","ref:regon":"271504006","operator":"Gmina Krzy\u017canowice","operator:type":"government","amenity":"school","note":"Parent RSPO: 17975"}},{"id":22247,"type":"Feature","geometry":{"type":"Point","coordinates":[18.22031,49.976890000000004]},"properties":{"ref:rspo":22247,"official_name":"Przedszkole w Owsiszczach","name":"Przedszkole w Owsiszczach","addr:country":"PL","addr:postcode":"47-450","addr:city":"Owsiszcze","addr:street":"ul. Szkolna","addr:housenumber":"1","addr:teryt:simc":21970,"addr:teryt:sym_ul":215539,"contact:phone":"+48 324194039","contact:email":"zspowsiszcze@op.pl","ref:regon":"271512170","operator":"Gmina Krzy\u017canowice","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 17975"}},{"id":15506,"type":"Feature","geometry":{"type":"Point","coordinates":[18.2691574,49.9820589]},"properties":{"ref:rspo":15506,"official_name":"Przedszkole w Krzy\u017canowicach","name":"Przedszkole w Krzy\u017canowicach","addr:country":"PL","addr:postcode":"47-450","addr:city":"Krzy\u017canowice","addr:street":"ul. Wyzwolenia","addr:housenumber":"1","addr:teryt:simc":25133,"addr:teryt:sym_ul":215500,"contact:phone":"+48 324194026","contact:email":"pkrzyzanowice@onet.pl","ref:regon":"271512164","ref:vatin":"PL6391938445","operator":"Gmina Krzy\u017canowice","operator:type":"government","amenity":"kindergarten"}},{"id":22242,"type":"Feature","geometry":{"type":"Point","coordinates":[18.23778,50.00851]},"properties":{"isced:level":"1;2","ref:rspo":22242,"official_name":"Szko\u0142a Podstawowa im. Miko\u0142aja Kopernika w Tworkowie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"47-451","addr:city":"Twork\u00f3w","addr:street":"ul. Zamkowa","addr:housenumber":"13","addr:teryt:simc":25547,"addr:teryt:sym_ul":215597,"contact:phone":"+48 324196216","contact:email":"zsot@wp.pl","ref:regon":"001190669","ref:vatin":"PL6392013577","operator":"Gmina Krzy\u017canowice","operator:type":"government","amenity":"school"}},{"id":15505,"type":"Feature","geometry":{"type":"Point","coordinates":[18.2391599,50.00961]},"properties":{"ref:rspo":15505,"official_name":"Przedszkole w Tworkowie","name":"Przedszkole w Tworkowie","addr:country":"PL","addr:postcode":"47-451","addr:city":"Twork\u00f3w","addr:street":"ul. Polna","addr:housenumber":"3","addr:teryt:simc":17011,"addr:teryt:sym_ul":215597,"contact:phone":"+48 324196440","contact:email":"kontakt@przedszkoletworkow.pl","ref:regon":"271512218","ref:vatin":"PL6391938422","operator":"Gmina Krzy\u017canowice","operator:type":"government","amenity":"kindergarten"}},{"id":15508,"type":"Feature","geometry":{"type":"Point","coordinates":[18.21577,50.01878]},"properties":{"ref:rspo":15508,"official_name":"Przedszkole w Bie\u0144kowicach","name":"Przedszkole w Bie\u0144kowicach","addr:country":"PL","addr:postcode":"47-451","addr:city":"Bie\u0144kowice","addr:street":"ul. Raciborska","addr:housenumber":"70","addr:teryt:simc":18263,"addr:teryt:sym_ul":215456,"contact:phone":"+48 324196408","contact:email":"barbara.somerla@neostrada.pl","ref:regon":"271512135","ref:vatin":"PL6391938468","operator":"Gmina Krzy\u017canowice","operator:type":"government","amenity":"kindergarten"}},{"id":18992,"type":"Feature","geometry":{"type":"Point","coordinates":[18.21619,50.01911]},"properties":{"isced:level":"1;2","ref:rspo":18992,"official_name":"Szko\u0142a Podstawowa im. Gustawa Morcinka w Krzy\u017canowicach","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"47-450","addr:city":"Krzy\u017canowice","addr:street":"ul. \u0141\u0105kowa","addr:housenumber":"12","addr:teryt:simc":11596,"addr:teryt:sym_ul":215500,"contact:phone":"+48 324194069","contact:email":"szkokrzy@ka.onet.pl","ref:regon":"000737769","ref:vatin":"PL6392013583","operator":"Gmina Krzy\u017canowice","operator:type":"government","amenity":"school"}},{"id":22245,"type":"Feature","geometry":{"type":"Point","coordinates":[18.21056,50.02529]},"properties":{"isced:level":"1;2","ref:rspo":22245,"official_name":"Szko\u0142a Podstawowa im. Bohater\u00f3w Westerplatte w Bie\u0144kowicach","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"47-451","addr:city":"Bie\u0144kowice","addr:street":"ul. Szkolna","addr:housenumber":"1","addr:teryt:simc":21970,"addr:teryt:sym_ul":215456,"contact:phone":"+48 324196278","contact:email":"zsobienkowice@op.pl","contact:website":"https:\/\/sites.google.com\/site\/pierwsza12345\/","ref:regon":"001191077","ref:vatin":"PL6392013554","operator":"Gmina Krzy\u017canowice","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 18990,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.31847,
+                    49.921
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 18990,
+                "official_name": "Szko\u0142a Podstawowa im. Mjr Henryka Sucharskiego w Cha\u0142upkach",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "47-460",
+                "addr:city": "Cha\u0142upki",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "7",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 215479,
+                "contact:phone": "+48 324196016",
+                "contact:email": "zsochalupki@interia.pl",
+                "ref:regon": "001192600",
+                "ref:vatin": "PL6392013560",
+                "operator": "Gmina Krzy\u017canowice",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 15504,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.31286,
+                    49.92808
+                ]
+            },
+            "properties": {
+                "ref:rspo": 15504,
+                "official_name": "Przedszkole w Cha\u0142upkach",
+                "name": "Przedszkole w Cha\u0142upkach",
+                "addr:country": "PL",
+                "addr:postcode": "47-460",
+                "addr:city": "Cha\u0142upki",
+                "addr:street": "ul. Fabryczna",
+                "addr:housenumber": "2",
+                "addr:teryt:simc": 4863,
+                "addr:teryt:sym_ul": 215479,
+                "contact:phone": "+48 324196756",
+                "contact:email": "przedszkole.chalupki@wp.pl",
+                "ref:regon": "271512158",
+                "ref:vatin": "PL6391938474",
+                "operator": "Gmina Krzy\u017canowice",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 272196,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.32051,
+                    49.93961
+                ]
+            },
+            "properties": {
+                "ref:rspo": 272196,
+                "official_name": "Zesp\u00f3\u0142 Szkolno - Przedszkolny w Zabe\u0142kowie",
+                "name": "Zesp\u00f3\u0142 Szkolno - Przedszkolny w Zabe\u0142kowie",
+                "addr:country": "PL",
+                "addr:postcode": "47-460",
+                "addr:city": "Zabe\u0142k\u00f3w",
+                "addr:street": "ul. Rymera",
+                "addr:housenumber": "7",
+                "addr:teryt:simc": 19243,
+                "addr:teryt:sym_ul": 215634,
+                "contact:phone": "+48 324196027",
+                "contact:email": "sekretariat.zspzabelkow@onet.pl",
+                "ref:regon": "384015283",
+                "operator": "Gmina Krzy\u017canowice",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 15509;17962"
+            }
+        },
+        {
+            "id": 15509,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.32051,
+                    49.93958
+                ]
+            },
+            "properties": {
+                "ref:rspo": 15509,
+                "official_name": "Przedszkole Publiczne im. Kubusia Puchatka w Zabe\u0142kowie",
+                "name": "Przedszkole Publiczne",
+                "addr:country": "PL",
+                "addr:postcode": "47-460",
+                "addr:city": "Zabe\u0142k\u00f3w",
+                "addr:street": "ul. Rymera",
+                "addr:housenumber": "7",
+                "addr:teryt:simc": 19243,
+                "addr:teryt:sym_ul": 215634,
+                "contact:phone": "+48 324196899",
+                "contact:email": "ritawieczorek@o2.pl",
+                "ref:regon": "271512224",
+                "ref:vatin": "PL6391938439",
+                "operator": "Gmina Krzy\u017canowice",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 272196"
+            }
+        },
+        {
+            "id": 17962,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.32051,
+                    49.939550000000004
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 17962,
+                "official_name": "Szko\u0142a Podstawowa im. J\u00f3zefa Rymera w Zabe\u0142kowie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "47-460",
+                "addr:city": "Zabe\u0142k\u00f3w",
+                "addr:street": "ul. Rymera",
+                "addr:housenumber": "7",
+                "addr:teryt:simc": 19243,
+                "addr:teryt:sym_ul": 215634,
+                "contact:phone": "+48 324196027",
+                "contact:email": "sekretariat.zspzabelkow@onet.pl",
+                "contact:website": "http:\/\/zspzabelkow.krzyzanowice.pl",
+                "ref:regon": "001192591",
+                "ref:vatin": "PL6391790971",
+                "operator": "Gmina Krzy\u017canowice",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 272196"
+            }
+        },
+        {
+            "id": 17975,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.22031,
+                    49.97695
+                ]
+            },
+            "properties": {
+                "ref:rspo": 17975,
+                "official_name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w Owsiszczach",
+                "name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w Owsiszczach",
+                "addr:country": "PL",
+                "addr:postcode": "47-450",
+                "addr:city": "Owsiszcze",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 215539,
+                "contact:phone": "+48 324194039",
+                "contact:email": "zspowsiszcze@op.pl",
+                "ref:regon": "278077777",
+                "ref:vatin": "PL6391824753",
+                "operator": "Gmina Krzy\u017canowice",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 22246;22247"
+            }
+        },
+        {
+            "id": 22246,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.22031,
+                    49.97692
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 22246,
+                "official_name": "Szko\u0142a Podstawowa w Owsiszczach",
+                "name": "Szko\u0142a Podstawowa w Owsiszczach",
+                "addr:country": "PL",
+                "addr:postcode": "47-450",
+                "addr:city": "Owsiszcze",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 215539,
+                "contact:phone": "+48 324194039",
+                "contact:email": "zspowsiszcze@op.pl",
+                "ref:regon": "271504006",
+                "operator": "Gmina Krzy\u017canowice",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 17975"
+            }
+        },
+        {
+            "id": 22247,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.22031,
+                    49.976890000000004
+                ]
+            },
+            "properties": {
+                "ref:rspo": 22247,
+                "official_name": "Przedszkole w Owsiszczach",
+                "name": "Przedszkole w Owsiszczach",
+                "addr:country": "PL",
+                "addr:postcode": "47-450",
+                "addr:city": "Owsiszcze",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 215539,
+                "contact:phone": "+48 324194039",
+                "contact:email": "zspowsiszcze@op.pl",
+                "ref:regon": "271512170",
+                "operator": "Gmina Krzy\u017canowice",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 17975"
+            }
+        },
+        {
+            "id": 15506,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.2691574,
+                    49.9820589
+                ]
+            },
+            "properties": {
+                "ref:rspo": 15506,
+                "official_name": "Przedszkole w Krzy\u017canowicach",
+                "name": "Przedszkole w Krzy\u017canowicach",
+                "addr:country": "PL",
+                "addr:postcode": "47-450",
+                "addr:city": "Krzy\u017canowice",
+                "addr:street": "ul. Wyzwolenia",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 25133,
+                "addr:teryt:sym_ul": 215500,
+                "contact:phone": "+48 324194026",
+                "contact:email": "pkrzyzanowice@onet.pl",
+                "ref:regon": "271512164",
+                "ref:vatin": "PL6391938445",
+                "operator": "Gmina Krzy\u017canowice",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 22242,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.23778,
+                    50.00851
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 22242,
+                "official_name": "Szko\u0142a Podstawowa im. Miko\u0142aja Kopernika w Tworkowie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "47-451",
+                "addr:city": "Twork\u00f3w",
+                "addr:street": "ul. Zamkowa",
+                "addr:housenumber": "13",
+                "addr:teryt:simc": 25547,
+                "addr:teryt:sym_ul": 215597,
+                "contact:phone": "+48 324196216",
+                "contact:email": "zsot@wp.pl",
+                "ref:regon": "001190669",
+                "ref:vatin": "PL6392013577",
+                "operator": "Gmina Krzy\u017canowice",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 15505,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.2391599,
+                    50.00961
+                ]
+            },
+            "properties": {
+                "ref:rspo": 15505,
+                "official_name": "Przedszkole w Tworkowie",
+                "name": "Przedszkole w Tworkowie",
+                "addr:country": "PL",
+                "addr:postcode": "47-451",
+                "addr:city": "Twork\u00f3w",
+                "addr:street": "ul. Polna",
+                "addr:housenumber": "3",
+                "addr:teryt:simc": 17011,
+                "addr:teryt:sym_ul": 215597,
+                "contact:phone": "+48 324196440",
+                "contact:email": "kontakt@przedszkoletworkow.pl",
+                "ref:regon": "271512218",
+                "ref:vatin": "PL6391938422",
+                "operator": "Gmina Krzy\u017canowice",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 15508,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.21577,
+                    50.01878
+                ]
+            },
+            "properties": {
+                "ref:rspo": 15508,
+                "official_name": "Przedszkole w Bie\u0144kowicach",
+                "name": "Przedszkole w Bie\u0144kowicach",
+                "addr:country": "PL",
+                "addr:postcode": "47-451",
+                "addr:city": "Bie\u0144kowice",
+                "addr:street": "ul. Raciborska",
+                "addr:housenumber": "70",
+                "addr:teryt:simc": 18263,
+                "addr:teryt:sym_ul": 215456,
+                "contact:phone": "+48 324196408",
+                "contact:email": "barbara.somerla@neostrada.pl",
+                "ref:regon": "271512135",
+                "ref:vatin": "PL6391938468",
+                "operator": "Gmina Krzy\u017canowice",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 18992,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.21619,
+                    50.01911
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 18992,
+                "official_name": "Szko\u0142a Podstawowa im. Gustawa Morcinka w Krzy\u017canowicach",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "47-450",
+                "addr:city": "Krzy\u017canowice",
+                "addr:street": "ul. \u0141\u0105kowa",
+                "addr:housenumber": "12",
+                "addr:teryt:simc": 11596,
+                "addr:teryt:sym_ul": 215500,
+                "contact:phone": "+48 324194069",
+                "contact:email": "szkokrzy@ka.onet.pl",
+                "ref:regon": "000737769",
+                "ref:vatin": "PL6392013583",
+                "operator": "Gmina Krzy\u017canowice",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 22245,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.21056,
+                    50.02529
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 22245,
+                "official_name": "Szko\u0142a Podstawowa im. Bohater\u00f3w Westerplatte w Bie\u0144kowicach",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "47-451",
+                "addr:city": "Bie\u0144kowice",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 215456,
+                "contact:phone": "+48 324196278",
+                "contact:email": "zsobienkowice@op.pl",
+                "contact:website": "https:\/\/sites.google.com\/site\/pierwsza12345\/",
+                "ref:regon": "001191077",
+                "ref:vatin": "PL6392013554",
+                "operator": "Gmina Krzy\u017canowice",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

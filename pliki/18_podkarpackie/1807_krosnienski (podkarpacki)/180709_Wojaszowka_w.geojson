@@ -1,1 +1,214 @@
-{"type":"FeatureCollection","features":[{"id":3208,"type":"Feature","geometry":{"type":"Point","coordinates":[21.69209,49.74006]},"properties":{"isced:level":"1;2","ref:rspo":3208,"official_name":"Szko\u0142a Podstawowa im. Bohater\u00f3w Monte Cassino","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"38-406","addr:place":"Ustrobna","addr:housenumber":"1","addr:teryt:sym_ul":362401,"contact:phone":"+48 134311624","contact:email":"spustrobna@poczta.onet.pl","contact:website":"http:\/\/spustrobna.edupage.org","ref:regon":"370492918","ref:vatin":"PL6842205763","operator":"Gmina Wojasz\u00f3wka","operator:type":"government","amenity":"school"}},{"id":19931,"type":"Feature","geometry":{"type":"Point","coordinates":[21.7451,49.74118]},"properties":{"isced:level":"1;2","ref:rspo":19931,"official_name":"Szko\u0142a Podstawowa im. A. Fredry w Odrzykoniu","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"38-406","addr:city":"Odrzyko\u0144","addr:street":"ul. ks. Ernesta \u015awi\u0105tka","addr:housenumber":"4","addr:teryt:simc":36452,"addr:teryt:sym_ul":362080,"contact:phone":"+48 134311727","contact:email":"gimnazjumodrzykon@poczta.fm","contact:website":"http:\/\/www.spodrzykon.edupage.org","ref:regon":"370492930","ref:vatin":"PL6842252136","operator":"Gmina Wojasz\u00f3wka","operator:type":"government","amenity":"school"}},{"id":12033,"type":"Feature","geometry":{"type":"Point","coordinates":[21.7147685,49.7583724]},"properties":{"isced:level":"1;2","ref:rspo":12033,"official_name":"Szko\u0142a Podstawowa im. B\u0142. Stanis\u0142awa Starowieyskiego","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"38-406","addr:place":"Bratk\u00f3wka","addr:housenumber":"19","addr:teryt:sym_ul":361927,"contact:phone":"+48 134311629","contact:email":"sp.bratkowka@interia.pl","ref:regon":"001252488","ref:vatin":"PL6842205792","operator":"Gmina Wojasz\u00f3wka","operator:type":"government","amenity":"school"}},{"id":12070,"type":"Feature","geometry":{"type":"Point","coordinates":[21.670255661011,49.779983520508]},"properties":{"ref:rspo":12070,"official_name":"Gminne Przedszkole w Wojasz\u00f3wce","name":"Gminne Przedszkole w Wojasz\u00f3wce","addr:country":"PL","addr:postcode":"38-471","addr:place":"Wojasz\u00f3wka","addr:housenumber":"205","addr:teryt:sym_ul":362507,"contact:phone":"+48 134385686","contact:email":"gpwoj@wp.pl","contact:website":"http:\/\/przedszkolewojaszowka.edupage.org","ref:regon":"370492976","ref:vatin":"PL6842205786","operator":"Gmina Wojasz\u00f3wka","operator:type":"government","amenity":"kindergarten"}},{"id":3211,"type":"Feature","geometry":{"type":"Point","coordinates":[21.6700717,49.7801062]},"properties":{"isced:level":"1;2","ref:rspo":3211,"official_name":"Szko\u0142a Podstawowa im. K. Trybusa","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"38-471","addr:place":"Wojasz\u00f3wka","addr:housenumber":"48","addr:teryt:sym_ul":362507,"contact:phone":"+48 134385009","contact:email":"szpowoj@interia.pl","ref:regon":"370492924","ref:vatin":"PL6842205757","operator":"Gmina Wojasz\u00f3wka","operator:type":"government","amenity":"school"}},{"id":133963,"type":"Feature","geometry":{"type":"Point","coordinates":[21.65174,49.79168]},"properties":{"isced:level":"1;2","ref:rspo":133963,"official_name":"Szko\u0142a Podstawowa im. Stanis\u0142awa Ga\u0142uszki w Przyb\u00f3wce","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"38-471","addr:place":"Przyb\u00f3wka","addr:housenumber":"189","addr:teryt:sym_ul":362281,"contact:phone":"+48 134385002","contact:email":"spprzyb@interia.pl","contact:website":"http:\/\/www.przybowka.cba.pl\/","ref:regon":"367751970","ref:vatin":"PL6842646875","operator":"Gmina Wojasz\u00f3wka","operator:type":"government","amenity":"school"}},{"id":3204,"type":"Feature","geometry":{"type":"Point","coordinates":[21.6647,49.80531]},"properties":{"isced:level":"1;2","ref:rspo":3204,"official_name":"Szko\u0142a Podstawowa im. J. Kochanowskiego","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"38-471","addr:place":"\u0141\u0119ki Strzy\u017cowskie","addr:housenumber":"87","addr:teryt:sym_ul":362022,"contact:phone":"+48 134385064","contact:email":"spjkochanowski@poczta.onet.pl","contact:website":"http:\/\/szkolapodstawowalekistrzyzowskie.cba.pl\/https:\/\/splekistrzyzowskie.edupage.org\/","ref:regon":"001213710","ref:vatin":"PL6842205740","operator":"Gmina Wojasz\u00f3wka","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 3208,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.69209,
+                    49.74006
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 3208,
+                "official_name": "Szko\u0142a Podstawowa im. Bohater\u00f3w Monte Cassino",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "38-406",
+                "addr:place": "Ustrobna",
+                "addr:housenumber": "1",
+                "addr:teryt:sym_ul": 362401,
+                "contact:phone": "+48 134311624",
+                "contact:email": "spustrobna@poczta.onet.pl",
+                "contact:website": "http:\/\/spustrobna.edupage.org",
+                "ref:regon": "370492918",
+                "ref:vatin": "PL6842205763",
+                "operator": "Gmina Wojasz\u00f3wka",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 19931,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.7451,
+                    49.74118
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 19931,
+                "official_name": "Szko\u0142a Podstawowa im. A. Fredry w Odrzykoniu",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "38-406",
+                "addr:city": "Odrzyko\u0144",
+                "addr:street": "ul. ks. Ernesta \u015awi\u0105tka",
+                "addr:housenumber": "4",
+                "addr:teryt:simc": 36452,
+                "addr:teryt:sym_ul": 362080,
+                "contact:phone": "+48 134311727",
+                "contact:email": "gimnazjumodrzykon@poczta.fm",
+                "contact:website": "http:\/\/www.spodrzykon.edupage.org",
+                "ref:regon": "370492930",
+                "ref:vatin": "PL6842252136",
+                "operator": "Gmina Wojasz\u00f3wka",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 12033,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.7147685,
+                    49.7583724
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 12033,
+                "official_name": "Szko\u0142a Podstawowa im. B\u0142. Stanis\u0142awa Starowieyskiego",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "38-406",
+                "addr:place": "Bratk\u00f3wka",
+                "addr:housenumber": "19",
+                "addr:teryt:sym_ul": 361927,
+                "contact:phone": "+48 134311629",
+                "contact:email": "sp.bratkowka@interia.pl",
+                "ref:regon": "001252488",
+                "ref:vatin": "PL6842205792",
+                "operator": "Gmina Wojasz\u00f3wka",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 12070,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.670255661011,
+                    49.779983520508
+                ]
+            },
+            "properties": {
+                "ref:rspo": 12070,
+                "official_name": "Gminne Przedszkole w Wojasz\u00f3wce",
+                "name": "Gminne Przedszkole w Wojasz\u00f3wce",
+                "addr:country": "PL",
+                "addr:postcode": "38-471",
+                "addr:place": "Wojasz\u00f3wka",
+                "addr:housenumber": "205",
+                "addr:teryt:sym_ul": 362507,
+                "contact:phone": "+48 134385686",
+                "contact:email": "gpwoj@wp.pl",
+                "contact:website": "http:\/\/przedszkolewojaszowka.edupage.org",
+                "ref:regon": "370492976",
+                "ref:vatin": "PL6842205786",
+                "operator": "Gmina Wojasz\u00f3wka",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 3211,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.6700717,
+                    49.7801062
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 3211,
+                "official_name": "Szko\u0142a Podstawowa im. K. Trybusa",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "38-471",
+                "addr:place": "Wojasz\u00f3wka",
+                "addr:housenumber": "48",
+                "addr:teryt:sym_ul": 362507,
+                "contact:phone": "+48 134385009",
+                "contact:email": "szpowoj@interia.pl",
+                "ref:regon": "370492924",
+                "ref:vatin": "PL6842205757",
+                "operator": "Gmina Wojasz\u00f3wka",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 133963,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.65174,
+                    49.79168
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 133963,
+                "official_name": "Szko\u0142a Podstawowa im. Stanis\u0142awa Ga\u0142uszki w Przyb\u00f3wce",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "38-471",
+                "addr:place": "Przyb\u00f3wka",
+                "addr:housenumber": "189",
+                "addr:teryt:sym_ul": 362281,
+                "contact:phone": "+48 134385002",
+                "contact:email": "spprzyb@interia.pl",
+                "contact:website": "http:\/\/www.przybowka.cba.pl\/",
+                "ref:regon": "367751970",
+                "ref:vatin": "PL6842646875",
+                "operator": "Gmina Wojasz\u00f3wka",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 3204,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.6647,
+                    49.80531
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 3204,
+                "official_name": "Szko\u0142a Podstawowa im. J. Kochanowskiego",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "38-471",
+                "addr:place": "\u0141\u0119ki Strzy\u017cowskie",
+                "addr:housenumber": "87",
+                "addr:teryt:sym_ul": 362022,
+                "contact:phone": "+48 134385064",
+                "contact:email": "spjkochanowski@poczta.onet.pl",
+                "contact:website": "http:\/\/szkolapodstawowalekistrzyzowskie.cba.pl\/https:\/\/splekistrzyzowskie.edupage.org\/",
+                "ref:regon": "001213710",
+                "ref:vatin": "PL6842205740",
+                "operator": "Gmina Wojasz\u00f3wka",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

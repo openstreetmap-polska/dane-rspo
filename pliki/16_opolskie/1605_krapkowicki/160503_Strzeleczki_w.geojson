@@ -1,1 +1,192 @@
-{"type":"FeatureCollection","features":[{"id":21949,"type":"Feature","geometry":{"type":"Point","coordinates":[17.90131,50.43291]},"properties":{"isced:level":"1;2","ref:rspo":21949,"official_name":"Szko\u0142a Podstawowa w Komornikach","name":"Szko\u0142a Podstawowa w Komornikach","addr:country":"PL","addr:postcode":"47-364","addr:city":"Komorniki","addr:street":"ul. Szkolna","addr:housenumber":"4","addr:teryt:simc":21970,"addr:teryt:sym_ul":503497,"contact:phone":"+48 774668561","contact:email":"sekretariat@pspkomorniki.pl","ref:regon":"001195690","ref:vatin":"PL1990102420","operator":"Gmina Strzeleczki","operator:type":"government","amenity":"school"}},{"id":21989,"type":"Feature","geometry":{"type":"Point","coordinates":[17.79883,50.44085]},"properties":{"isced:level":"1;2","ref:rspo":21989,"official_name":"Szko\u0142a Podstawowa w Zielinie","name":"Szko\u0142a Podstawowa w Zielinie","addr:country":"PL","addr:postcode":"47-370","addr:city":"Zielina","addr:street":"ul. Prudnicka","addr:housenumber":"8","addr:teryt:simc":17571,"addr:teryt:sym_ul":503652,"contact:phone":"+48 774668488","contact:email":"sekretariat@pspzielina.pl","contact:website":"http:\/\/www.spzielina.pl","ref:regon":"001195537","operator":"Gmina Strzeleczki","operator:type":"government","amenity":"school"}},{"id":21921,"type":"Feature","geometry":{"type":"Point","coordinates":[17.89364,50.45095]},"properties":{"isced:level":"1;2","ref:rspo":21921,"official_name":"Szko\u0142a Podstawowa w Dobrej","name":"Szko\u0142a Podstawowa w Dobrej","addr:country":"PL","addr:postcode":"47-364","addr:city":"Dobra","addr:street":"ul. Szkolna","addr:housenumber":"37","addr:teryt:simc":21970,"addr:teryt:sym_ul":503468,"contact:phone":"+48 774668305","contact:email":"sekretariat@pspdobra.pl","ref:regon":"001195709","ref:vatin":"PL1990102437","operator":"Gmina Strzeleczki","operator:type":"government","amenity":"school"}},{"id":22059,"type":"Feature","geometry":{"type":"Point","coordinates":[17.85424,50.45708]},"properties":{"ref:rspo":22059,"official_name":"Publiczne Przedszkole Z Oddzia\u0142em Integracyjnym w Strzeleczkach","name":"Publiczne Przedszkole Z Oddzia\u0142em Integracyjnym w Strzeleczkach","addr:country":"PL","addr:postcode":"47-364","addr:city":"Strzeleczki","addr:street":"ul. Dworcowa","addr:housenumber":"3","addr:teryt:simc":4434,"addr:teryt:sym_ul":503600,"contact:phone":"+48 774668167","contact:email":"sekretariat@przedszkolestrzeleczki.pl","ref:regon":"530587377","ref:vatin":"PL1990102443","operator":"Gmina Strzeleczki","operator:type":"government","amenity":"kindergarten"}},{"id":21777,"type":"Feature","geometry":{"type":"Point","coordinates":[17.85341,50.45875]},"properties":{"isced:level":"1;2","ref:rspo":21777,"official_name":"Szko\u0142a Podstawowa w Strzeleczkach","name":"Szko\u0142a Podstawowa w Strzeleczkach","addr:country":"PL","addr:postcode":"47-364","addr:city":"Strzeleczki","addr:street":"ul. Sienkiewicza","addr:housenumber":"3","addr:teryt:simc":19830,"addr:teryt:sym_ul":503600,"contact:phone":"+48 774668123","contact:email":"sekretariat@pspstrzeleczki.pl","contact:website":"http:\/\/spstrzeleczki.edupage.org","ref:regon":"000645145","ref:vatin":"PL1990102466","operator":"Gmina Strzeleczki","operator:type":"government","amenity":"school"}},{"id":21972,"type":"Feature","geometry":{"type":"Point","coordinates":[17.79269,50.46931]},"properties":{"isced:level":"1;2","ref:rspo":21972,"official_name":"Szko\u0142a Podstawowa w Rac\u0142awiczkach","name":"Szko\u0142a Podstawowa w Rac\u0142awiczkach","addr:country":"PL","addr:postcode":"47-370","addr:city":"Rac\u0142awiczki","addr:street":"ul. Szkolna","addr:housenumber":"6","addr:teryt:simc":21970,"addr:teryt:sym_ul":503570,"contact:phone":"+48 774668427","contact:email":"sekretariat@pspraclawiczki.pl","contact:website":"http:\/\/www.pspraclawiczki.pl","ref:regon":"001195520","ref:vatin":"PL1990102414","operator":"Gmina Strzeleczki","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 21949,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.90131,
+                    50.43291
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 21949,
+                "official_name": "Szko\u0142a Podstawowa w Komornikach",
+                "name": "Szko\u0142a Podstawowa w Komornikach",
+                "addr:country": "PL",
+                "addr:postcode": "47-364",
+                "addr:city": "Komorniki",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "4",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 503497,
+                "contact:phone": "+48 774668561",
+                "contact:email": "sekretariat@pspkomorniki.pl",
+                "ref:regon": "001195690",
+                "ref:vatin": "PL1990102420",
+                "operator": "Gmina Strzeleczki",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 21989,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.79883,
+                    50.44085
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 21989,
+                "official_name": "Szko\u0142a Podstawowa w Zielinie",
+                "name": "Szko\u0142a Podstawowa w Zielinie",
+                "addr:country": "PL",
+                "addr:postcode": "47-370",
+                "addr:city": "Zielina",
+                "addr:street": "ul. Prudnicka",
+                "addr:housenumber": "8",
+                "addr:teryt:simc": 17571,
+                "addr:teryt:sym_ul": 503652,
+                "contact:phone": "+48 774668488",
+                "contact:email": "sekretariat@pspzielina.pl",
+                "contact:website": "http:\/\/www.spzielina.pl",
+                "ref:regon": "001195537",
+                "operator": "Gmina Strzeleczki",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 21921,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.89364,
+                    50.45095
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 21921,
+                "official_name": "Szko\u0142a Podstawowa w Dobrej",
+                "name": "Szko\u0142a Podstawowa w Dobrej",
+                "addr:country": "PL",
+                "addr:postcode": "47-364",
+                "addr:city": "Dobra",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "37",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 503468,
+                "contact:phone": "+48 774668305",
+                "contact:email": "sekretariat@pspdobra.pl",
+                "ref:regon": "001195709",
+                "ref:vatin": "PL1990102437",
+                "operator": "Gmina Strzeleczki",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 22059,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.85424,
+                    50.45708
+                ]
+            },
+            "properties": {
+                "ref:rspo": 22059,
+                "official_name": "Publiczne Przedszkole Z Oddzia\u0142em Integracyjnym w Strzeleczkach",
+                "name": "Publiczne Przedszkole Z Oddzia\u0142em Integracyjnym w Strzeleczkach",
+                "addr:country": "PL",
+                "addr:postcode": "47-364",
+                "addr:city": "Strzeleczki",
+                "addr:street": "ul. Dworcowa",
+                "addr:housenumber": "3",
+                "addr:teryt:simc": 4434,
+                "addr:teryt:sym_ul": 503600,
+                "contact:phone": "+48 774668167",
+                "contact:email": "sekretariat@przedszkolestrzeleczki.pl",
+                "ref:regon": "530587377",
+                "ref:vatin": "PL1990102443",
+                "operator": "Gmina Strzeleczki",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 21777,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.85341,
+                    50.45875
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 21777,
+                "official_name": "Szko\u0142a Podstawowa w Strzeleczkach",
+                "name": "Szko\u0142a Podstawowa w Strzeleczkach",
+                "addr:country": "PL",
+                "addr:postcode": "47-364",
+                "addr:city": "Strzeleczki",
+                "addr:street": "ul. Sienkiewicza",
+                "addr:housenumber": "3",
+                "addr:teryt:simc": 19830,
+                "addr:teryt:sym_ul": 503600,
+                "contact:phone": "+48 774668123",
+                "contact:email": "sekretariat@pspstrzeleczki.pl",
+                "contact:website": "http:\/\/spstrzeleczki.edupage.org",
+                "ref:regon": "000645145",
+                "ref:vatin": "PL1990102466",
+                "operator": "Gmina Strzeleczki",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 21972,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.79269,
+                    50.46931
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 21972,
+                "official_name": "Szko\u0142a Podstawowa w Rac\u0142awiczkach",
+                "name": "Szko\u0142a Podstawowa w Rac\u0142awiczkach",
+                "addr:country": "PL",
+                "addr:postcode": "47-370",
+                "addr:city": "Rac\u0142awiczki",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "6",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 503570,
+                "contact:phone": "+48 774668427",
+                "contact:email": "sekretariat@pspraclawiczki.pl",
+                "contact:website": "http:\/\/www.pspraclawiczki.pl",
+                "ref:regon": "001195520",
+                "ref:vatin": "PL1990102414",
+                "operator": "Gmina Strzeleczki",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

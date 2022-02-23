@@ -1,1 +1,903 @@
-{"type":"FeatureCollection","features":[{"id":66247,"type":"Feature","geometry":{"type":"Point","coordinates":[18.83746,49.69234]},"properties":{"isced:level":"1;2","ref:rspo":66247,"official_name":"Szko\u0142a Podstawowa Nr 3 Z Oddzia\u0142ami Przedszkolnymi w Ustroniu","name":"Szko\u0142a Podstawowa Nr 3 Z Oddzia\u0142ami Przedszkolnymi w Ustroniu","addr:country":"PL","addr:postcode":"43-450","addr:city":"Ustro\u0144","addr:street":"ul. Pola\u0144ska","addr:housenumber":"25","addr:teryt:simc":16978,"addr:teryt:sym_ul":926677,"contact:phone":"+48 338542263","contact:email":"sp3polana@wp.pl","ref:regon":"070693112","ref:vatin":"PL5481063978","operator":"Miasto Ustro\u0144","operator:type":"government","amenity":"school"}},{"id":126669,"type":"Feature","geometry":{"type":"Point","coordinates":[18.8241799,49.70198]},"properties":{"ref:rspo":126669,"official_name":"Plac\u00f3wka Kszta\u0142cenia Ustawicznego \"Le\u015bnik\"","name":"Plac\u00f3wka Kszta\u0142cenia Ustawicznego \"Le\u015bnik\"","addr:country":"PL","addr:postcode":"43-300","addr:city":"Ustro\u0144","addr:street":"ul. 3 Maja","addr:housenumber":"108","addr:teryt:simc":11937,"addr:teryt:sym_ul":926677,"contact:phone":"+48 338543521","ref:regon":"360630765","operator":"Pa\u0144stwowe Gospodarstwo Le\u015bne Lasy Pa\u0144stowe Nadle\u015bnictwo Ustro\u0144","operator:type":"private","fixme":"w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. amenity=training + training=*, amenity=dancing_school, amenity=language_school, amenity=music_school)"}},{"id":66267,"type":"Feature","geometry":{"type":"Point","coordinates":[18.8143,49.7144199]},"properties":{"ref:rspo":66267,"official_name":"Przedszkole Nr 1 w Ustroniu","name":"Przedszkole Nr 1 w Ustroniu","addr:country":"PL","addr:postcode":"43-450","addr:city":"Ustro\u0144","addr:street":"ul. Partyzant\u00f3w","addr:housenumber":"9","addr:teryt:simc":15733,"addr:teryt:sym_ul":926677,"contact:phone":"+48 338542295","contact:email":"przedszkole1.ustron@op.pl","ref:regon":"072354650","ref:vatin":"PL5481091561","operator":"Miasto Ustro\u0144","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 275052"}},{"id":66294,"type":"Feature","geometry":{"type":"Point","coordinates":[18.81598,49.71446]},"properties":{"ref:rspo":66294,"official_name":"Przedszkole Niepubliczne \"Chatka Puchatka\" w Ustroniu","name":"Przedszkole Niepubliczne \"Chatka Puchatka\" w Ustroniu","addr:country":"PL","addr:postcode":"43-450","addr:city":"Ustro\u0144","addr:street":"ul. 3 Maja","addr:housenumber":"24","addr:teryt:simc":11937,"addr:teryt:sym_ul":926677,"contact:phone":"+48 695588186","contact:email":"monika.mentel@poczta.fm","contact:website":"http:\/\/www.mentel-przedszkola.com","ref:regon":"243088222","ref:vatin":"PL5482102775","operator":"Monika Mentel","operator:type":"private","amenity":"kindergarten"}},{"id":275052,"type":"Feature","geometry":{"type":"Point","coordinates":[18.81495,49.71537]},"properties":{"ref:rspo":275052,"official_name":"Zesp\u00f3\u0142 Szkolno - Przedszkolny Nr 1 w Ustroniu","name":"Zesp\u00f3\u0142 Szkolno - Przedszkolny Nr 1 w Ustroniu","addr:country":"PL","addr:postcode":"43-450","addr:city":"Ustro\u0144","addr:street":"ul. Partyzant\u00f3w","addr:housenumber":"2","addr:teryt:simc":15733,"addr:teryt:sym_ul":926677,"contact:phone":"+48 338543564","contact:email":"sp1ustron@poczta.onet.pl","contact:website":"http:\/\/www.new.sp1.ustron.pl","ref:regon":"386524965","ref:vatin":"PL5482731979","operator":"Miasto Ustro\u0144","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 66267;66347"}},{"id":66347,"type":"Feature","geometry":{"type":"Point","coordinates":[18.81495,49.71534]},"properties":{"isced:level":"1;2","ref:rspo":66347,"official_name":"Szko\u0142a Podstawowa Nr 1 w Ustroniu","name":"Szko\u0142a Podstawowa Nr 1 w Ustroniu","addr:country":"PL","addr:postcode":"43-450","addr:city":"Ustro\u0144","addr:street":"ul. Partyzant\u00f3w","addr:housenumber":"2","addr:teryt:simc":15733,"addr:teryt:sym_ul":926677,"contact:phone":"+48 338543564","contact:email":"sp1ustron@poczta.onet.pl","contact:website":"http:\/\/www.sp1ustron.pl","ref:regon":"070693081","ref:vatin":"PL5481063990","operator":"Miasto Ustro\u0144","operator:type":"government","amenity":"school","note":"Parent RSPO: 275052"}},{"id":7477,"type":"Feature","geometry":{"type":"Point","coordinates":[18.81685,49.71573]},"properties":{"ref:rspo":7477,"official_name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 Technicznych w Ustroniu","name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 Technicznych w Ustroniu","addr:country":"PL","addr:postcode":"43-450","addr:city":"Ustro\u0144","addr:street":"ul. 3 Maja","addr:housenumber":"15","addr:teryt:simc":11937,"addr:teryt:sym_ul":926677,"contact:phone":"+48 338543543","contact:email":"sekretariat@zstustron.edu.pl","contact:website":"http:\/\/zstustron.edu.pl","ref:regon":"070406012","operator":"Powiat Cieszy\u0144ski","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 41973;41975"}},{"id":275074,"type":"Feature","geometry":{"type":"Point","coordinates":[18.81685,49.7157]},"properties":{"isced:level":"3","ref:rspo":275074,"official_name":"Bran\u017cowa Szko\u0142a II Stopnia","name":"Bran\u017cowa Szko\u0142a II Stopnia","addr:country":"PL","addr:postcode":"43-450","addr:city":"Ustro\u0144","addr:street":"ul. 3 Maja","addr:housenumber":"15","addr:teryt:simc":11937,"addr:teryt:sym_ul":926677,"contact:phone":"+48 338543543","ref:regon":"386529951","operator":"Powiat Cieszy\u0144ski","operator:type":"government","amenity":"school"}},{"id":41973,"type":"Feature","geometry":{"type":"Point","coordinates":[18.81685,49.71567]},"properties":{"isced:level":"3","ref:rspo":41973,"official_name":"Bran\u017cowa Szko\u0142a I Stopnia w Ustroniu","name":"Bran\u017cowa Szko\u0142a I Stopnia w Ustroniu","addr:country":"PL","addr:postcode":"43-450","addr:city":"Ustro\u0144","addr:street":"ul. 3 Maja","addr:housenumber":"15","addr:teryt:simc":11937,"addr:teryt:sym_ul":926677,"contact:phone":"+48 338543543","contact:email":"sekretariat@zstustron.edu.pl","ref:regon":"070456027","operator":"Powiat Cieszy\u0144ski","operator:type":"government","amenity":"school","note":"Parent RSPO: 7477"}},{"id":41975,"type":"Feature","geometry":{"type":"Point","coordinates":[18.81685,49.71564]},"properties":{"isced:level":"3","ref:rspo":41975,"official_name":"Technikum w Ustroniu","name":"Technikum w Ustroniu","addr:country":"PL","addr:postcode":"43-450","addr:city":"Ustro\u0144","addr:street":"ul. 3 Maja","addr:housenumber":"15","addr:teryt:simc":11937,"addr:teryt:sym_ul":926677,"contact:phone":"+48 338543543","contact:email":"sekretariat@zstustron.edu.pl","ref:regon":"070454985","operator":"Powiat Cieszy\u0144ski","operator:type":"government","amenity":"school","note":"Parent RSPO: 7477"}},{"id":66280,"type":"Feature","geometry":{"type":"Point","coordinates":[18.80786,49.71663]},"properties":{"ref:rspo":66280,"official_name":"Przedszkole Nr 7 w Ustroniu","name":"Przedszkole Nr 7 w Ustroniu","addr:country":"PL","addr:postcode":"43-450","addr:city":"Ustro\u0144","addr:street":"ul. K. I. Ga\u0142czy\u0144skiego","addr:housenumber":"16","addr:teryt:simc":33503,"addr:teryt:sym_ul":926677,"contact:phone":"+48 338543702","contact:email":"przedszkole7ustron@op.pl","contact:website":"http:\/\/przedszkole7ustron.szkolnastrona.pl","ref:regon":"072354710","ref:vatin":"PL5481091578","operator":"Miasto Ustro\u0144","operator:type":"government","amenity":"kindergarten"}},{"id":66349,"type":"Feature","geometry":{"type":"Point","coordinates":[18.80924,49.7224999]},"properties":{"ref:rspo":66349,"official_name":"Przedszkole Nr 2 w Ustroniu","name":"Przedszkole Nr 2 w Ustroniu","addr:country":"PL","addr:postcode":"43-450","addr:city":"Ustro\u0144","addr:street":"ul. Stra\u017cacka","addr:housenumber":"1","addr:teryt:simc":21271,"addr:teryt:sym_ul":926677,"contact:phone":"+48 338542388","contact:email":"p2@ustron.pl","ref:regon":"072354667","ref:vatin":"PL5481091584","operator":"Miasto Ustro\u0144","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 277631"}},{"id":277631,"type":"Feature","geometry":{"type":"Point","coordinates":[18.8060699,49.72392]},"properties":{"ref:rspo":277631,"official_name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny Nr 2 w Ustroniu","name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny Nr 2 w Ustroniu","addr:country":"PL","addr:postcode":"43-450","addr:city":"Ustro\u0144","addr:street":"ul. Ignacego Daszy\u0144skiego","addr:housenumber":"31","addr:teryt:simc":3639,"addr:teryt:sym_ul":926677,"contact:phone":"+48 338543563","contact:email":"sp2ustron@wp.pl","contact:website":"http:\/\/www.sp2.ustron.pl","ref:regon":"389217442","operator":"Miasto Ustro\u0144","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 66244;66349"}},{"id":66244,"type":"Feature","geometry":{"type":"Point","coordinates":[18.8060699,49.72389]},"properties":{"isced:level":"1;2","ref:rspo":66244,"official_name":"Klimatyczna Szko\u0142a Podstawowa Nr 2 im. Jerzego Michejdy w Ustroniu","name":"Klimatyczna Szko\u0142a Podstawowa Nr 2","addr:country":"PL","addr:postcode":"43-450","addr:city":"Ustro\u0144","addr:street":"ul. Ignacego Daszy\u0144skiego","addr:housenumber":"31","addr:teryt:simc":3639,"addr:teryt:sym_ul":926677,"contact:phone":"+48 338543563","contact:email":"sp2ustron@wp.pl","contact:website":"http:\/\/www.sp2.ustron.pl","ref:regon":"070693098","ref:vatin":"PL5481063984","operator":"Miasto Ustro\u0144","operator:type":"government","amenity":"school","note":"Parent RSPO: 277631"}},{"id":9464,"type":"Feature","geometry":{"type":"Point","coordinates":[18.80564,49.72511]},"properties":{"isced:level":"3","ref:rspo":9464,"official_name":"Bran\u017cowa Szko\u0142a I Stopnia Ustroniu Zak\u0142adu Doskonalenia Zawodowego w Katowicach","name":"Bran\u017cowa Szko\u0142a I Stopnia Ustroniu Zak\u0142adu Doskonalenia Zawodowego w Katowicach","addr:country":"PL","addr:postcode":"43-450","addr:city":"Ustro\u0144","addr:street":"ul. Stawowa","addr:housenumber":"3","addr:teryt:simc":21101,"addr:teryt:sym_ul":926677,"contact:phone":"+48 338543300","contact:email":"s-ustron@zdz.katowice.pl","contact:website":"http:\/\/www.szkoly.ustron.zdz.pl\/","ref:regon":"243039181","operator":"Zak\u0142ad Doskonalenia Zawodowego W Katowicach","operator:type":"ngo","amenity":"school"}},{"id":87116,"type":"Feature","geometry":{"type":"Point","coordinates":[18.80564,49.72508]},"properties":{"ref:rspo":87116,"official_name":"Zak\u0142ad Doskonalenia Zawodowego w Katowicach O\u015brodek Kszta\u0142cenia Zawodowego w Ustroniu","name":"Zak\u0142ad Doskonalenia Zawodowego w Katowicach O\u015brodek Kszta\u0142cenia Zawodowego w Ustroniu","addr:country":"PL","addr:postcode":"43-450","addr:city":"Ustro\u0144","addr:street":"ul. Stawowa","addr:housenumber":"3","addr:teryt:simc":21101,"addr:teryt:sym_ul":926677,"contact:phone":"+48 338543300","contact:email":"ustron@zdz.katowice.pl","ref:regon":"243101320","operator":"Zak\u0142ad Doskonalenia Zawodowego W Katowicach","operator:type":"ngo","fixme":"w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. amenity=training + training=*, amenity=dancing_school, amenity=language_school, amenity=music_school)"}},{"id":263934,"type":"Feature","geometry":{"type":"Point","coordinates":[18.80564,49.72505]},"properties":{"isced:level":"3","ref:rspo":263934,"official_name":"Technikum w Ustroniu Zak\u0142adu Doskonalenia Zawodowego w Katowicach","name":"Technikum w Ustroniu Zak\u0142adu Doskonalenia Zawodowego w Katowicach","addr:country":"PL","addr:postcode":"43-450","addr:city":"Ustro\u0144","addr:street":"ul. Stawowa","addr:housenumber":"3","addr:teryt:simc":21101,"addr:teryt:sym_ul":926677,"contact:phone":"+48 338543300","contact:email":"s-ustron@zdz.katowice.pl","contact:website":"http:\/\/www.szkoly.ustron.zdz.pl\/","ref:regon":"368243097","operator":"Zak\u0142ad Doskonalenia Zawodowego W Katowicach","operator:type":"ngo","amenity":"school"}},{"id":274790,"type":"Feature","geometry":{"type":"Point","coordinates":[18.80564,49.72502]},"properties":{"isced:level":"3","ref:rspo":274790,"official_name":"Bran\u017cowa Szko\u0142a II Stopnia w Ustroniu Zak\u0142adu Doskonalenia Zawodowego w Katowicach","name":"Bran\u017cowa Szko\u0142a II Stopnia w Ustroniu Zak\u0142adu Doskonalenia Zawodowego w Katowicach","addr:country":"PL","addr:postcode":"40-450","addr:city":"Ustro\u0144","addr:street":"ul. Stawowa","addr:housenumber":"3","addr:teryt:simc":21101,"addr:teryt:sym_ul":926677,"contact:phone":"+48 338543300","ref:regon":"386303017","operator":"Zak\u0142ad Doskonalenia Zawodowego W Katowicach","operator:type":"ngo","amenity":"school"}},{"id":127919,"type":"Feature","geometry":{"type":"Point","coordinates":[18.8057,49.72828]},"properties":{"ref:rspo":127919,"official_name":"\"Esprit Edukacja Swoboda Pasja Rozw\u00f3j Inspiracja Tw\u00f3rczo\u015b\u0107 - Kreatywna Akademia M\u0142odego Cz\u0142owieka\" Plac\u00f3wka Wychowania Pozaszkolnego w Ustroniu","name":"\"Esprit Edukacja Swoboda Pasja Rozw\u00f3j Inspiracja Tw\u00f3rczo\u015b\u0107 - Kreatywna Akademia M\u0142odego Cz\u0142owieka\" Plac\u00f3wka Wychowania Pozaszkolnego w Ustroniu","addr:country":"PL","addr:postcode":"43-450","addr:city":"Ustro\u0144","addr:street":"ul. Ignacego Daszy\u0144skiego","addr:housenumber":"2","addr:teryt:simc":3639,"addr:teryt:sym_ul":926677,"contact:phone":"+48 606486333","contact:email":"info@esprit-akademia.pl","contact:website":"http:\/\/www.esprit-akademia.pl","ref:regon":"361968118","operator":"Fundacja Esprit","operator:type":"ngo","fixme":"w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. amenity=training + training=*, amenity=dancing_school, amenity=language_school, amenity=music_school)"}},{"id":66271,"type":"Feature","geometry":{"type":"Point","coordinates":[18.80303,49.73832]},"properties":{"ref:rspo":66271,"official_name":"Przedszkole Nr 4 w Ustroniu","name":"Przedszkole Nr 4 w Ustroniu","addr:country":"PL","addr:postcode":"43-450","addr:city":"Ustro\u0144","addr:street":"ul. Wi\u015bniowa","addr:housenumber":"13","addr:teryt:simc":24412,"addr:teryt:sym_ul":926677,"contact:phone":"+48 338542495","contact:email":"p4@ustron.pl","ref:regon":"072354680","ref:vatin":"PL5481091621","operator":"Miasto Ustro\u0144","operator:type":"government","amenity":"kindergarten"}},{"id":277630,"type":"Feature","geometry":{"type":"Point","coordinates":[18.8287,49.74826]},"properties":{"ref:rspo":277630,"official_name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny Nr 4 w Ustroniu","name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny Nr 4 w Ustroniu","addr:country":"PL","addr:postcode":"43-450","addr:city":"Ustro\u0144","addr:street":"ul. Szkolna","addr:housenumber":"1","addr:teryt:simc":21970,"addr:teryt:sym_ul":926677,"contact:phone":"+48 338542699","contact:email":"sp5ustron@poczta.onet.pl","contact:website":"http:\/\/www.sp5ustron.pl","ref:regon":"389217175","ref:vatin":"PL5482738148","operator":"Miasto Ustro\u0144","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 66251;66275"}},{"id":66251,"type":"Feature","geometry":{"type":"Point","coordinates":[18.8287,49.74823]},"properties":{"isced:level":"1;2","ref:rspo":66251,"official_name":"Szko\u0142a Podstawowa Nr 5 w Ustroniu","name":"Szko\u0142a Podstawowa Nr 5 w Ustroniu","addr:country":"PL","addr:postcode":"43-450","addr:city":"Ustro\u0144","addr:street":"ul. Szkolna","addr:housenumber":"1","addr:teryt:simc":21970,"addr:teryt:sym_ul":926677,"contact:phone":"+48 338542699","contact:email":"sekretariat@sp5ustron.pl","contact:website":"http:\/\/www.sp5ustron.pl","ref:regon":"070693129","ref:vatin":"PL5481063961","operator":"Miasto Ustro\u0144","operator:type":"government","amenity":"school","note":"Parent RSPO: 277630"}},{"id":66275,"type":"Feature","geometry":{"type":"Point","coordinates":[18.8319699,49.74888]},"properties":{"ref:rspo":66275,"official_name":"Przedszkole Nr 5 w Ustroniu","name":"Przedszkole Nr 5 w Ustroniu","addr:country":"PL","addr:postcode":"43-450","addr:city":"Ustro\u0144","addr:street":"ul. Lipowska","addr:housenumber":"127","addr:teryt:simc":11146,"addr:teryt:sym_ul":926677,"contact:phone":"+48 338542796","contact:email":"p5wustroniu@gmail.com","ref:regon":"072354696","ref:vatin":"PL5481091590","operator":"Miasto Ustro\u0144","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 277630"}},{"id":133947,"type":"Feature","geometry":{"type":"Point","coordinates":[18.80029,49.75432]},"properties":{"ref:rspo":133947,"official_name":"Logos M.pilch","name":"Logos M.pilch","addr:country":"PL","addr:postcode":"43-450","addr:city":"Ustro\u0144","addr:street":"ul. Cicha","addr:housenumber":"28","addr:teryt:simc":2974,"addr:teryt:sym_ul":926677,"contact:phone":"+48 338547610","ref:regon":"367741060","operator":"Ma\u0142gorzata Pilch","operator:type":"private","fixme":"w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. amenity=training + training=*, amenity=dancing_school, amenity=language_school, amenity=music_school)"}},{"id":27293,"type":"Feature","geometry":{"type":"Point","coordinates":[18.8020647,49.7599555]},"properties":{"ref:rspo":27293,"official_name":"O\u015brodek Edukacyjno-Rehabilitacyjno-Wychowawczy","name":"O\u015brodek Edukacyjno-Rehabilitacyjno-Wychowawczy","addr:country":"PL","addr:postcode":"43-450","addr:city":"Ustro\u0144","addr:street":"ul. Wiejska","addr:housenumber":"8","addr:teryt:simc":24048,"addr:teryt:sym_ul":926677,"contact:email":"oerwoerw@gmail.com","ref:regon":"243065570","operator":"Towarzystwo Opieki Nad Niepe\u0142nosprawnymi W Ustroniu","operator:type":"ngo","amenity":"school"}},{"id":128224,"type":"Feature","geometry":{"type":"Point","coordinates":[18.80244,49.7608]},"properties":{"ref:rspo":128224,"official_name":"Niepubliczna Poradnia Psychologiczno-Pedagogiczna w Ustroniu","name":"Niepubliczna Poradnia Psychologiczno-Pedagogiczna w Ustroniu","addr:country":"PL","addr:postcode":"43-450","addr:city":"Ustro\u0144","addr:street":"ul. Szeroka","addr:housenumber":"7","addr:teryt:simc":21925,"addr:teryt:sym_ul":926677,"contact:phone":"+48 338547759","ref:regon":"362185714","operator":"Towarzystwo Opieki Nad Niepe\u0142nosprawnymi W Ustroniu","operator:type":"ngo","healthcare":"councelling","counselling_type":"education","fixme":"w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. healthcare=councelling + counselling_type=education albo healthcare=psychotherapist)"}},{"id":66277,"type":"Feature","geometry":{"type":"Point","coordinates":[18.80244,49.76077]},"properties":{"ref:rspo":66277,"official_name":"Przedszkole Nr 6 w Ustroniu","name":"Przedszkole Nr 6 w Ustroniu","addr:country":"PL","addr:postcode":"43-450","addr:city":"Ustro\u0144","addr:street":"ul. Szeroka","addr:housenumber":"7","addr:teryt:simc":21925,"addr:teryt:sym_ul":926677,"contact:phone":"+48 338543594","contact:email":"p6ustron@gmail.com","contact:website":"http:\/\/www.p6ustron.edupage.org","ref:regon":"072354704","ref:vatin":"PL5481091644","operator":"Miasto Ustro\u0144","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 277629"}},{"id":277629,"type":"Feature","geometry":{"type":"Point","coordinates":[18.80421,49.76234]},"properties":{"ref:rspo":277629,"official_name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny Nr 3 w Ustroniu","name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny Nr 3 w Ustroniu","addr:country":"PL","addr:postcode":"43-450","addr:city":"Ustro\u0144","addr:street":"ul. J\u00f3zefa Kreta","addr:housenumber":"6","addr:teryt:simc":9914,"addr:teryt:sym_ul":926677,"contact:phone":"+48 338543428","contact:email":"sp6@ustron.pl","contact:website":"http:\/\/www.sp6.ustron.pl","ref:regon":"389216320","ref:vatin":"PL5482737798","operator":"Miasto Ustro\u0144","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 66255;66277"}},{"id":66255,"type":"Feature","geometry":{"type":"Point","coordinates":[18.80421,49.76231]},"properties":{"isced:level":"1;2","ref:rspo":66255,"official_name":"Szko\u0142a Podstawowa Nr 6 Z Oddzia\u0142ami Integracyjnymi im. J\u00f3zefa Kreta w Ustroniu","name":"Szko\u0142a Podstawowa Nr 6 Z Oddzia\u0142ami Integracyjnymi","addr:country":"PL","addr:postcode":"43-450","addr:city":"Ustro\u0144","addr:street":"ul. J\u00f3zefa Kreta","addr:housenumber":"6","addr:teryt:simc":9914,"addr:teryt:sym_ul":926677,"contact:phone":"+48 338543428","contact:email":"sp6@ustron.pl","contact:website":"http:\/\/www.sp6.ustron.pl","ref:regon":"070693135","ref:vatin":"PL5481063955","operator":"Miasto Ustro\u0144","operator:type":"government","amenity":"school","note":"Parent RSPO: 277629"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 66247,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.83746,
+                    49.69234
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 66247,
+                "official_name": "Szko\u0142a Podstawowa Nr 3 Z Oddzia\u0142ami Przedszkolnymi w Ustroniu",
+                "name": "Szko\u0142a Podstawowa Nr 3 Z Oddzia\u0142ami Przedszkolnymi w Ustroniu",
+                "addr:country": "PL",
+                "addr:postcode": "43-450",
+                "addr:city": "Ustro\u0144",
+                "addr:street": "ul. Pola\u0144ska",
+                "addr:housenumber": "25",
+                "addr:teryt:simc": 16978,
+                "addr:teryt:sym_ul": 926677,
+                "contact:phone": "+48 338542263",
+                "contact:email": "sp3polana@wp.pl",
+                "ref:regon": "070693112",
+                "ref:vatin": "PL5481063978",
+                "operator": "Miasto Ustro\u0144",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 126669,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.8241799,
+                    49.70198
+                ]
+            },
+            "properties": {
+                "ref:rspo": 126669,
+                "official_name": "Plac\u00f3wka Kszta\u0142cenia Ustawicznego \"Le\u015bnik\"",
+                "name": "Plac\u00f3wka Kszta\u0142cenia Ustawicznego \"Le\u015bnik\"",
+                "addr:country": "PL",
+                "addr:postcode": "43-300",
+                "addr:city": "Ustro\u0144",
+                "addr:street": "ul. 3 Maja",
+                "addr:housenumber": "108",
+                "addr:teryt:simc": 11937,
+                "addr:teryt:sym_ul": 926677,
+                "contact:phone": "+48 338543521",
+                "ref:regon": "360630765",
+                "operator": "Pa\u0144stwowe Gospodarstwo Le\u015bne Lasy Pa\u0144stowe Nadle\u015bnictwo Ustro\u0144",
+                "operator:type": "private",
+                "fixme": "w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. amenity=training + training=*, amenity=dancing_school, amenity=language_school, amenity=music_school)"
+            }
+        },
+        {
+            "id": 66267,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.8143,
+                    49.7144199
+                ]
+            },
+            "properties": {
+                "ref:rspo": 66267,
+                "official_name": "Przedszkole Nr 1 w Ustroniu",
+                "name": "Przedszkole Nr 1 w Ustroniu",
+                "addr:country": "PL",
+                "addr:postcode": "43-450",
+                "addr:city": "Ustro\u0144",
+                "addr:street": "ul. Partyzant\u00f3w",
+                "addr:housenumber": "9",
+                "addr:teryt:simc": 15733,
+                "addr:teryt:sym_ul": 926677,
+                "contact:phone": "+48 338542295",
+                "contact:email": "przedszkole1.ustron@op.pl",
+                "ref:regon": "072354650",
+                "ref:vatin": "PL5481091561",
+                "operator": "Miasto Ustro\u0144",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 275052"
+            }
+        },
+        {
+            "id": 66294,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.81598,
+                    49.71446
+                ]
+            },
+            "properties": {
+                "ref:rspo": 66294,
+                "official_name": "Przedszkole Niepubliczne \"Chatka Puchatka\" w Ustroniu",
+                "name": "Przedszkole Niepubliczne \"Chatka Puchatka\" w Ustroniu",
+                "addr:country": "PL",
+                "addr:postcode": "43-450",
+                "addr:city": "Ustro\u0144",
+                "addr:street": "ul. 3 Maja",
+                "addr:housenumber": "24",
+                "addr:teryt:simc": 11937,
+                "addr:teryt:sym_ul": 926677,
+                "contact:phone": "+48 695588186",
+                "contact:email": "monika.mentel@poczta.fm",
+                "contact:website": "http:\/\/www.mentel-przedszkola.com",
+                "ref:regon": "243088222",
+                "ref:vatin": "PL5482102775",
+                "operator": "Monika Mentel",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 275052,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.81495,
+                    49.71537
+                ]
+            },
+            "properties": {
+                "ref:rspo": 275052,
+                "official_name": "Zesp\u00f3\u0142 Szkolno - Przedszkolny Nr 1 w Ustroniu",
+                "name": "Zesp\u00f3\u0142 Szkolno - Przedszkolny Nr 1 w Ustroniu",
+                "addr:country": "PL",
+                "addr:postcode": "43-450",
+                "addr:city": "Ustro\u0144",
+                "addr:street": "ul. Partyzant\u00f3w",
+                "addr:housenumber": "2",
+                "addr:teryt:simc": 15733,
+                "addr:teryt:sym_ul": 926677,
+                "contact:phone": "+48 338543564",
+                "contact:email": "sp1ustron@poczta.onet.pl",
+                "contact:website": "http:\/\/www.new.sp1.ustron.pl",
+                "ref:regon": "386524965",
+                "ref:vatin": "PL5482731979",
+                "operator": "Miasto Ustro\u0144",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 66267;66347"
+            }
+        },
+        {
+            "id": 66347,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.81495,
+                    49.71534
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 66347,
+                "official_name": "Szko\u0142a Podstawowa Nr 1 w Ustroniu",
+                "name": "Szko\u0142a Podstawowa Nr 1 w Ustroniu",
+                "addr:country": "PL",
+                "addr:postcode": "43-450",
+                "addr:city": "Ustro\u0144",
+                "addr:street": "ul. Partyzant\u00f3w",
+                "addr:housenumber": "2",
+                "addr:teryt:simc": 15733,
+                "addr:teryt:sym_ul": 926677,
+                "contact:phone": "+48 338543564",
+                "contact:email": "sp1ustron@poczta.onet.pl",
+                "contact:website": "http:\/\/www.sp1ustron.pl",
+                "ref:regon": "070693081",
+                "ref:vatin": "PL5481063990",
+                "operator": "Miasto Ustro\u0144",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 275052"
+            }
+        },
+        {
+            "id": 7477,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.81685,
+                    49.71573
+                ]
+            },
+            "properties": {
+                "ref:rspo": 7477,
+                "official_name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Technicznych w Ustroniu",
+                "name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Technicznych w Ustroniu",
+                "addr:country": "PL",
+                "addr:postcode": "43-450",
+                "addr:city": "Ustro\u0144",
+                "addr:street": "ul. 3 Maja",
+                "addr:housenumber": "15",
+                "addr:teryt:simc": 11937,
+                "addr:teryt:sym_ul": 926677,
+                "contact:phone": "+48 338543543",
+                "contact:email": "sekretariat@zstustron.edu.pl",
+                "contact:website": "http:\/\/zstustron.edu.pl",
+                "ref:regon": "070406012",
+                "operator": "Powiat Cieszy\u0144ski",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 41973;41975"
+            }
+        },
+        {
+            "id": 275074,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.81685,
+                    49.7157
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 275074,
+                "official_name": "Bran\u017cowa Szko\u0142a II Stopnia",
+                "name": "Bran\u017cowa Szko\u0142a II Stopnia",
+                "addr:country": "PL",
+                "addr:postcode": "43-450",
+                "addr:city": "Ustro\u0144",
+                "addr:street": "ul. 3 Maja",
+                "addr:housenumber": "15",
+                "addr:teryt:simc": 11937,
+                "addr:teryt:sym_ul": 926677,
+                "contact:phone": "+48 338543543",
+                "ref:regon": "386529951",
+                "operator": "Powiat Cieszy\u0144ski",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 41973,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.81685,
+                    49.71567
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 41973,
+                "official_name": "Bran\u017cowa Szko\u0142a I Stopnia w Ustroniu",
+                "name": "Bran\u017cowa Szko\u0142a I Stopnia w Ustroniu",
+                "addr:country": "PL",
+                "addr:postcode": "43-450",
+                "addr:city": "Ustro\u0144",
+                "addr:street": "ul. 3 Maja",
+                "addr:housenumber": "15",
+                "addr:teryt:simc": 11937,
+                "addr:teryt:sym_ul": 926677,
+                "contact:phone": "+48 338543543",
+                "contact:email": "sekretariat@zstustron.edu.pl",
+                "ref:regon": "070456027",
+                "operator": "Powiat Cieszy\u0144ski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 7477"
+            }
+        },
+        {
+            "id": 41975,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.81685,
+                    49.71564
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 41975,
+                "official_name": "Technikum w Ustroniu",
+                "name": "Technikum w Ustroniu",
+                "addr:country": "PL",
+                "addr:postcode": "43-450",
+                "addr:city": "Ustro\u0144",
+                "addr:street": "ul. 3 Maja",
+                "addr:housenumber": "15",
+                "addr:teryt:simc": 11937,
+                "addr:teryt:sym_ul": 926677,
+                "contact:phone": "+48 338543543",
+                "contact:email": "sekretariat@zstustron.edu.pl",
+                "ref:regon": "070454985",
+                "operator": "Powiat Cieszy\u0144ski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 7477"
+            }
+        },
+        {
+            "id": 66280,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.80786,
+                    49.71663
+                ]
+            },
+            "properties": {
+                "ref:rspo": 66280,
+                "official_name": "Przedszkole Nr 7 w Ustroniu",
+                "name": "Przedszkole Nr 7 w Ustroniu",
+                "addr:country": "PL",
+                "addr:postcode": "43-450",
+                "addr:city": "Ustro\u0144",
+                "addr:street": "ul. K. I. Ga\u0142czy\u0144skiego",
+                "addr:housenumber": "16",
+                "addr:teryt:simc": 33503,
+                "addr:teryt:sym_ul": 926677,
+                "contact:phone": "+48 338543702",
+                "contact:email": "przedszkole7ustron@op.pl",
+                "contact:website": "http:\/\/przedszkole7ustron.szkolnastrona.pl",
+                "ref:regon": "072354710",
+                "ref:vatin": "PL5481091578",
+                "operator": "Miasto Ustro\u0144",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 66349,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.80924,
+                    49.7224999
+                ]
+            },
+            "properties": {
+                "ref:rspo": 66349,
+                "official_name": "Przedszkole Nr 2 w Ustroniu",
+                "name": "Przedszkole Nr 2 w Ustroniu",
+                "addr:country": "PL",
+                "addr:postcode": "43-450",
+                "addr:city": "Ustro\u0144",
+                "addr:street": "ul. Stra\u017cacka",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 21271,
+                "addr:teryt:sym_ul": 926677,
+                "contact:phone": "+48 338542388",
+                "contact:email": "p2@ustron.pl",
+                "ref:regon": "072354667",
+                "ref:vatin": "PL5481091584",
+                "operator": "Miasto Ustro\u0144",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 277631"
+            }
+        },
+        {
+            "id": 277631,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.8060699,
+                    49.72392
+                ]
+            },
+            "properties": {
+                "ref:rspo": 277631,
+                "official_name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny Nr 2 w Ustroniu",
+                "name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny Nr 2 w Ustroniu",
+                "addr:country": "PL",
+                "addr:postcode": "43-450",
+                "addr:city": "Ustro\u0144",
+                "addr:street": "ul. Ignacego Daszy\u0144skiego",
+                "addr:housenumber": "31",
+                "addr:teryt:simc": 3639,
+                "addr:teryt:sym_ul": 926677,
+                "contact:phone": "+48 338543563",
+                "contact:email": "sp2ustron@wp.pl",
+                "contact:website": "http:\/\/www.sp2.ustron.pl",
+                "ref:regon": "389217442",
+                "operator": "Miasto Ustro\u0144",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 66244;66349"
+            }
+        },
+        {
+            "id": 66244,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.8060699,
+                    49.72389
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 66244,
+                "official_name": "Klimatyczna Szko\u0142a Podstawowa Nr 2 im. Jerzego Michejdy w Ustroniu",
+                "name": "Klimatyczna Szko\u0142a Podstawowa Nr 2",
+                "addr:country": "PL",
+                "addr:postcode": "43-450",
+                "addr:city": "Ustro\u0144",
+                "addr:street": "ul. Ignacego Daszy\u0144skiego",
+                "addr:housenumber": "31",
+                "addr:teryt:simc": 3639,
+                "addr:teryt:sym_ul": 926677,
+                "contact:phone": "+48 338543563",
+                "contact:email": "sp2ustron@wp.pl",
+                "contact:website": "http:\/\/www.sp2.ustron.pl",
+                "ref:regon": "070693098",
+                "ref:vatin": "PL5481063984",
+                "operator": "Miasto Ustro\u0144",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 277631"
+            }
+        },
+        {
+            "id": 9464,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.80564,
+                    49.72511
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 9464,
+                "official_name": "Bran\u017cowa Szko\u0142a I Stopnia Ustroniu Zak\u0142adu Doskonalenia Zawodowego w Katowicach",
+                "name": "Bran\u017cowa Szko\u0142a I Stopnia Ustroniu Zak\u0142adu Doskonalenia Zawodowego w Katowicach",
+                "addr:country": "PL",
+                "addr:postcode": "43-450",
+                "addr:city": "Ustro\u0144",
+                "addr:street": "ul. Stawowa",
+                "addr:housenumber": "3",
+                "addr:teryt:simc": 21101,
+                "addr:teryt:sym_ul": 926677,
+                "contact:phone": "+48 338543300",
+                "contact:email": "s-ustron@zdz.katowice.pl",
+                "contact:website": "http:\/\/www.szkoly.ustron.zdz.pl\/",
+                "ref:regon": "243039181",
+                "operator": "Zak\u0142ad Doskonalenia Zawodowego W Katowicach",
+                "operator:type": "ngo",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 87116,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.80564,
+                    49.72508
+                ]
+            },
+            "properties": {
+                "ref:rspo": 87116,
+                "official_name": "Zak\u0142ad Doskonalenia Zawodowego w Katowicach O\u015brodek Kszta\u0142cenia Zawodowego w Ustroniu",
+                "name": "Zak\u0142ad Doskonalenia Zawodowego w Katowicach O\u015brodek Kszta\u0142cenia Zawodowego w Ustroniu",
+                "addr:country": "PL",
+                "addr:postcode": "43-450",
+                "addr:city": "Ustro\u0144",
+                "addr:street": "ul. Stawowa",
+                "addr:housenumber": "3",
+                "addr:teryt:simc": 21101,
+                "addr:teryt:sym_ul": 926677,
+                "contact:phone": "+48 338543300",
+                "contact:email": "ustron@zdz.katowice.pl",
+                "ref:regon": "243101320",
+                "operator": "Zak\u0142ad Doskonalenia Zawodowego W Katowicach",
+                "operator:type": "ngo",
+                "fixme": "w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. amenity=training + training=*, amenity=dancing_school, amenity=language_school, amenity=music_school)"
+            }
+        },
+        {
+            "id": 263934,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.80564,
+                    49.72505
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 263934,
+                "official_name": "Technikum w Ustroniu Zak\u0142adu Doskonalenia Zawodowego w Katowicach",
+                "name": "Technikum w Ustroniu Zak\u0142adu Doskonalenia Zawodowego w Katowicach",
+                "addr:country": "PL",
+                "addr:postcode": "43-450",
+                "addr:city": "Ustro\u0144",
+                "addr:street": "ul. Stawowa",
+                "addr:housenumber": "3",
+                "addr:teryt:simc": 21101,
+                "addr:teryt:sym_ul": 926677,
+                "contact:phone": "+48 338543300",
+                "contact:email": "s-ustron@zdz.katowice.pl",
+                "contact:website": "http:\/\/www.szkoly.ustron.zdz.pl\/",
+                "ref:regon": "368243097",
+                "operator": "Zak\u0142ad Doskonalenia Zawodowego W Katowicach",
+                "operator:type": "ngo",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 274790,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.80564,
+                    49.72502
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 274790,
+                "official_name": "Bran\u017cowa Szko\u0142a II Stopnia w Ustroniu Zak\u0142adu Doskonalenia Zawodowego w Katowicach",
+                "name": "Bran\u017cowa Szko\u0142a II Stopnia w Ustroniu Zak\u0142adu Doskonalenia Zawodowego w Katowicach",
+                "addr:country": "PL",
+                "addr:postcode": "40-450",
+                "addr:city": "Ustro\u0144",
+                "addr:street": "ul. Stawowa",
+                "addr:housenumber": "3",
+                "addr:teryt:simc": 21101,
+                "addr:teryt:sym_ul": 926677,
+                "contact:phone": "+48 338543300",
+                "ref:regon": "386303017",
+                "operator": "Zak\u0142ad Doskonalenia Zawodowego W Katowicach",
+                "operator:type": "ngo",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 127919,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.8057,
+                    49.72828
+                ]
+            },
+            "properties": {
+                "ref:rspo": 127919,
+                "official_name": "\"Esprit Edukacja Swoboda Pasja Rozw\u00f3j Inspiracja Tw\u00f3rczo\u015b\u0107 - Kreatywna Akademia M\u0142odego Cz\u0142owieka\" Plac\u00f3wka Wychowania Pozaszkolnego w Ustroniu",
+                "name": "\"Esprit Edukacja Swoboda Pasja Rozw\u00f3j Inspiracja Tw\u00f3rczo\u015b\u0107 - Kreatywna Akademia M\u0142odego Cz\u0142owieka\" Plac\u00f3wka Wychowania Pozaszkolnego w Ustroniu",
+                "addr:country": "PL",
+                "addr:postcode": "43-450",
+                "addr:city": "Ustro\u0144",
+                "addr:street": "ul. Ignacego Daszy\u0144skiego",
+                "addr:housenumber": "2",
+                "addr:teryt:simc": 3639,
+                "addr:teryt:sym_ul": 926677,
+                "contact:phone": "+48 606486333",
+                "contact:email": "info@esprit-akademia.pl",
+                "contact:website": "http:\/\/www.esprit-akademia.pl",
+                "ref:regon": "361968118",
+                "operator": "Fundacja Esprit",
+                "operator:type": "ngo",
+                "fixme": "w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. amenity=training + training=*, amenity=dancing_school, amenity=language_school, amenity=music_school)"
+            }
+        },
+        {
+            "id": 66271,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.80303,
+                    49.73832
+                ]
+            },
+            "properties": {
+                "ref:rspo": 66271,
+                "official_name": "Przedszkole Nr 4 w Ustroniu",
+                "name": "Przedszkole Nr 4 w Ustroniu",
+                "addr:country": "PL",
+                "addr:postcode": "43-450",
+                "addr:city": "Ustro\u0144",
+                "addr:street": "ul. Wi\u015bniowa",
+                "addr:housenumber": "13",
+                "addr:teryt:simc": 24412,
+                "addr:teryt:sym_ul": 926677,
+                "contact:phone": "+48 338542495",
+                "contact:email": "p4@ustron.pl",
+                "ref:regon": "072354680",
+                "ref:vatin": "PL5481091621",
+                "operator": "Miasto Ustro\u0144",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 277630,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.8287,
+                    49.74826
+                ]
+            },
+            "properties": {
+                "ref:rspo": 277630,
+                "official_name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny Nr 4 w Ustroniu",
+                "name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny Nr 4 w Ustroniu",
+                "addr:country": "PL",
+                "addr:postcode": "43-450",
+                "addr:city": "Ustro\u0144",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 926677,
+                "contact:phone": "+48 338542699",
+                "contact:email": "sp5ustron@poczta.onet.pl",
+                "contact:website": "http:\/\/www.sp5ustron.pl",
+                "ref:regon": "389217175",
+                "ref:vatin": "PL5482738148",
+                "operator": "Miasto Ustro\u0144",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 66251;66275"
+            }
+        },
+        {
+            "id": 66251,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.8287,
+                    49.74823
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 66251,
+                "official_name": "Szko\u0142a Podstawowa Nr 5 w Ustroniu",
+                "name": "Szko\u0142a Podstawowa Nr 5 w Ustroniu",
+                "addr:country": "PL",
+                "addr:postcode": "43-450",
+                "addr:city": "Ustro\u0144",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 926677,
+                "contact:phone": "+48 338542699",
+                "contact:email": "sekretariat@sp5ustron.pl",
+                "contact:website": "http:\/\/www.sp5ustron.pl",
+                "ref:regon": "070693129",
+                "ref:vatin": "PL5481063961",
+                "operator": "Miasto Ustro\u0144",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 277630"
+            }
+        },
+        {
+            "id": 66275,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.8319699,
+                    49.74888
+                ]
+            },
+            "properties": {
+                "ref:rspo": 66275,
+                "official_name": "Przedszkole Nr 5 w Ustroniu",
+                "name": "Przedszkole Nr 5 w Ustroniu",
+                "addr:country": "PL",
+                "addr:postcode": "43-450",
+                "addr:city": "Ustro\u0144",
+                "addr:street": "ul. Lipowska",
+                "addr:housenumber": "127",
+                "addr:teryt:simc": 11146,
+                "addr:teryt:sym_ul": 926677,
+                "contact:phone": "+48 338542796",
+                "contact:email": "p5wustroniu@gmail.com",
+                "ref:regon": "072354696",
+                "ref:vatin": "PL5481091590",
+                "operator": "Miasto Ustro\u0144",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 277630"
+            }
+        },
+        {
+            "id": 133947,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.80029,
+                    49.75432
+                ]
+            },
+            "properties": {
+                "ref:rspo": 133947,
+                "official_name": "Logos M.pilch",
+                "name": "Logos M.pilch",
+                "addr:country": "PL",
+                "addr:postcode": "43-450",
+                "addr:city": "Ustro\u0144",
+                "addr:street": "ul. Cicha",
+                "addr:housenumber": "28",
+                "addr:teryt:simc": 2974,
+                "addr:teryt:sym_ul": 926677,
+                "contact:phone": "+48 338547610",
+                "ref:regon": "367741060",
+                "operator": "Ma\u0142gorzata Pilch",
+                "operator:type": "private",
+                "fixme": "w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. amenity=training + training=*, amenity=dancing_school, amenity=language_school, amenity=music_school)"
+            }
+        },
+        {
+            "id": 27293,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.8020647,
+                    49.7599555
+                ]
+            },
+            "properties": {
+                "ref:rspo": 27293,
+                "official_name": "O\u015brodek Edukacyjno-Rehabilitacyjno-Wychowawczy",
+                "name": "O\u015brodek Edukacyjno-Rehabilitacyjno-Wychowawczy",
+                "addr:country": "PL",
+                "addr:postcode": "43-450",
+                "addr:city": "Ustro\u0144",
+                "addr:street": "ul. Wiejska",
+                "addr:housenumber": "8",
+                "addr:teryt:simc": 24048,
+                "addr:teryt:sym_ul": 926677,
+                "contact:email": "oerwoerw@gmail.com",
+                "ref:regon": "243065570",
+                "operator": "Towarzystwo Opieki Nad Niepe\u0142nosprawnymi W Ustroniu",
+                "operator:type": "ngo",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 128224,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.80244,
+                    49.7608
+                ]
+            },
+            "properties": {
+                "ref:rspo": 128224,
+                "official_name": "Niepubliczna Poradnia Psychologiczno-Pedagogiczna w Ustroniu",
+                "name": "Niepubliczna Poradnia Psychologiczno-Pedagogiczna w Ustroniu",
+                "addr:country": "PL",
+                "addr:postcode": "43-450",
+                "addr:city": "Ustro\u0144",
+                "addr:street": "ul. Szeroka",
+                "addr:housenumber": "7",
+                "addr:teryt:simc": 21925,
+                "addr:teryt:sym_ul": 926677,
+                "contact:phone": "+48 338547759",
+                "ref:regon": "362185714",
+                "operator": "Towarzystwo Opieki Nad Niepe\u0142nosprawnymi W Ustroniu",
+                "operator:type": "ngo",
+                "healthcare": "counselling",
+                "counselling_type": "education",
+                "fixme": "w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. healthcare=counselling + counselling_type=education albo healthcare=psychotherapist)"
+            }
+        },
+        {
+            "id": 66277,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.80244,
+                    49.76077
+                ]
+            },
+            "properties": {
+                "ref:rspo": 66277,
+                "official_name": "Przedszkole Nr 6 w Ustroniu",
+                "name": "Przedszkole Nr 6 w Ustroniu",
+                "addr:country": "PL",
+                "addr:postcode": "43-450",
+                "addr:city": "Ustro\u0144",
+                "addr:street": "ul. Szeroka",
+                "addr:housenumber": "7",
+                "addr:teryt:simc": 21925,
+                "addr:teryt:sym_ul": 926677,
+                "contact:phone": "+48 338543594",
+                "contact:email": "p6ustron@gmail.com",
+                "contact:website": "http:\/\/www.p6ustron.edupage.org",
+                "ref:regon": "072354704",
+                "ref:vatin": "PL5481091644",
+                "operator": "Miasto Ustro\u0144",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 277629"
+            }
+        },
+        {
+            "id": 277629,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.80421,
+                    49.76234
+                ]
+            },
+            "properties": {
+                "ref:rspo": 277629,
+                "official_name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny Nr 3 w Ustroniu",
+                "name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny Nr 3 w Ustroniu",
+                "addr:country": "PL",
+                "addr:postcode": "43-450",
+                "addr:city": "Ustro\u0144",
+                "addr:street": "ul. J\u00f3zefa Kreta",
+                "addr:housenumber": "6",
+                "addr:teryt:simc": 9914,
+                "addr:teryt:sym_ul": 926677,
+                "contact:phone": "+48 338543428",
+                "contact:email": "sp6@ustron.pl",
+                "contact:website": "http:\/\/www.sp6.ustron.pl",
+                "ref:regon": "389216320",
+                "ref:vatin": "PL5482737798",
+                "operator": "Miasto Ustro\u0144",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 66255;66277"
+            }
+        },
+        {
+            "id": 66255,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.80421,
+                    49.76231
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 66255,
+                "official_name": "Szko\u0142a Podstawowa Nr 6 Z Oddzia\u0142ami Integracyjnymi im. J\u00f3zefa Kreta w Ustroniu",
+                "name": "Szko\u0142a Podstawowa Nr 6 Z Oddzia\u0142ami Integracyjnymi",
+                "addr:country": "PL",
+                "addr:postcode": "43-450",
+                "addr:city": "Ustro\u0144",
+                "addr:street": "ul. J\u00f3zefa Kreta",
+                "addr:housenumber": "6",
+                "addr:teryt:simc": 9914,
+                "addr:teryt:sym_ul": 926677,
+                "contact:phone": "+48 338543428",
+                "contact:email": "sp6@ustron.pl",
+                "contact:website": "http:\/\/www.sp6.ustron.pl",
+                "ref:regon": "070693135",
+                "ref:vatin": "PL5481063955",
+                "operator": "Miasto Ustro\u0144",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 277629"
+            }
+        }
+    ]
+}

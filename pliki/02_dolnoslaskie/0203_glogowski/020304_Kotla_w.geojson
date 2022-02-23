@@ -1,1 +1,160 @@
-{"type":"FeatureCollection","features":[{"id":125425,"type":"Feature","geometry":{"type":"Point","coordinates":[16.09626,51.72825]},"properties":{"ref:rspo":125425,"official_name":"Niepubliczne Przedszkole \"Chatka Puchatka\"","name":"Niepubliczne Przedszkole \"Chatka Puchatka\"","addr:country":"PL","addr:postcode":"67-240","addr:place":"G\u0142og\u00f3wko","addr:housenumber":"17","addr:teryt:sym_ul":364452,"contact:phone":"+48 724112758","contact:email":"beata1581@wp.pl","contact:website":"http:\/\/www.przedszkoleglogowko.pl","ref:regon":"022509850","ref:vatin":"PL6931610962","operator":"Beata Paszkowska","operator:type":"private","amenity":"kindergarten"}},{"id":122694,"type":"Feature","geometry":{"type":"Point","coordinates":[16.00413,51.73448]},"properties":{"isced:level":"1;2","ref:rspo":122694,"official_name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w Kotli Szko\u0142a Podstawowa im. Kornela Makuszy\u0144skiego w Kotli Szko\u0142a Filialna w Chociemy\u015bli","name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w Kotli Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"67-240","addr:place":"Chociemy\u015bl","addr:housenumber":"23","addr:teryt:sym_ul":364446,"contact:phone":"+48 768318382","ref:regon":"270685000","operator":"Gmina Kotla","operator:type":"government","amenity":"school","note":"Parent RSPO: 68639"}},{"id":69361,"type":"Feature","geometry":{"type":"Point","coordinates":[16.03658,51.74517]},"properties":{"ref:rspo":69361,"official_name":"Przedszkole Publiczne w Kotli","name":"Przedszkole Publiczne w Kotli","addr:country":"PL","addr:postcode":"67-240","addr:city":"Kotla","addr:street":"ul. G\u00f3rna","addr:housenumber":"8","addr:teryt:simc":5948,"addr:teryt:sym_ul":364481,"contact:phone":"+48 768318340","contact:email":"sekretariat@zspkotla.pl","contact:website":"http:\/\/www.zspkotla.pl","ref:regon":"390021847","ref:vatin":"PL6931896042","operator":"Gmina Kotla","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 130997"}},{"id":130997,"type":"Feature","geometry":{"type":"Point","coordinates":[16.03379,51.7458]},"properties":{"ref:rspo":130997,"official_name":"Zesp\u00f3\u0142 Szkolno - Przedszkolny w Kotli","name":"Zesp\u00f3\u0142 Szkolno - Przedszkolny w Kotli","addr:country":"PL","addr:postcode":"67-240","addr:city":"Kotla","addr:street":"ul. Szkolna","addr:housenumber":"4","addr:teryt:simc":21970,"addr:teryt:sym_ul":364481,"contact:phone":"+48 768318382","contact:email":"sekretariat@zspkotla.pl","contact:website":"http:\/\/www.zspkotla.pl","ref:regon":"364851782","ref:vatin":"PL6932179265","operator":"Gmina Kotla","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 68639;69361"}},{"id":68639,"type":"Feature","geometry":{"type":"Point","coordinates":[16.03379,51.74577]},"properties":{"isced:level":"1;2","ref:rspo":68639,"official_name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w Kotli Szko\u0142a Podstawowa im. Kornela Makuszy\u0144skiego w Kotli","name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w Kotli Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"67-240","addr:city":"Kotla","addr:street":"ul. Szkolna","addr:housenumber":"4","addr:teryt:simc":21970,"addr:teryt:sym_ul":364481,"contact:phone":"+48 768318382","contact:email":"sekretariat@zspkotla.pl","contact:website":"http:\/\/www.zspkotla.pl","ref:regon":"000270685","ref:vatin":"PL6931173792","operator":"Gmina Kotla","operator:type":"government","amenity":"school","note":"Children RSPO: 122694Parent RSPO: 130997"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 125425,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.09626,
+                    51.72825
+                ]
+            },
+            "properties": {
+                "ref:rspo": 125425,
+                "official_name": "Niepubliczne Przedszkole \"Chatka Puchatka\"",
+                "name": "Niepubliczne Przedszkole \"Chatka Puchatka\"",
+                "addr:country": "PL",
+                "addr:postcode": "67-240",
+                "addr:place": "G\u0142og\u00f3wko",
+                "addr:housenumber": "17",
+                "addr:teryt:sym_ul": 364452,
+                "contact:phone": "+48 724112758",
+                "contact:email": "beata1581@wp.pl",
+                "contact:website": "http:\/\/www.przedszkoleglogowko.pl",
+                "ref:regon": "022509850",
+                "ref:vatin": "PL6931610962",
+                "operator": "Beata Paszkowska",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 122694,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.00413,
+                    51.73448
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 122694,
+                "official_name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w Kotli Szko\u0142a Podstawowa im. Kornela Makuszy\u0144skiego w Kotli Szko\u0142a Filialna w Chociemy\u015bli",
+                "name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w Kotli Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "67-240",
+                "addr:place": "Chociemy\u015bl",
+                "addr:housenumber": "23",
+                "addr:teryt:sym_ul": 364446,
+                "contact:phone": "+48 768318382",
+                "ref:regon": "270685000",
+                "operator": "Gmina Kotla",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 68639"
+            }
+        },
+        {
+            "id": 69361,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.03658,
+                    51.74517
+                ]
+            },
+            "properties": {
+                "ref:rspo": 69361,
+                "official_name": "Przedszkole Publiczne w Kotli",
+                "name": "Przedszkole Publiczne w Kotli",
+                "addr:country": "PL",
+                "addr:postcode": "67-240",
+                "addr:city": "Kotla",
+                "addr:street": "ul. G\u00f3rna",
+                "addr:housenumber": "8",
+                "addr:teryt:simc": 5948,
+                "addr:teryt:sym_ul": 364481,
+                "contact:phone": "+48 768318340",
+                "contact:email": "sekretariat@zspkotla.pl",
+                "contact:website": "http:\/\/www.zspkotla.pl",
+                "ref:regon": "390021847",
+                "ref:vatin": "PL6931896042",
+                "operator": "Gmina Kotla",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 130997"
+            }
+        },
+        {
+            "id": 130997,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.03379,
+                    51.7458
+                ]
+            },
+            "properties": {
+                "ref:rspo": 130997,
+                "official_name": "Zesp\u00f3\u0142 Szkolno - Przedszkolny w Kotli",
+                "name": "Zesp\u00f3\u0142 Szkolno - Przedszkolny w Kotli",
+                "addr:country": "PL",
+                "addr:postcode": "67-240",
+                "addr:city": "Kotla",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "4",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 364481,
+                "contact:phone": "+48 768318382",
+                "contact:email": "sekretariat@zspkotla.pl",
+                "contact:website": "http:\/\/www.zspkotla.pl",
+                "ref:regon": "364851782",
+                "ref:vatin": "PL6932179265",
+                "operator": "Gmina Kotla",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 68639;69361"
+            }
+        },
+        {
+            "id": 68639,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.03379,
+                    51.74577
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 68639,
+                "official_name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w Kotli Szko\u0142a Podstawowa im. Kornela Makuszy\u0144skiego w Kotli",
+                "name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w Kotli Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "67-240",
+                "addr:city": "Kotla",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "4",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 364481,
+                "contact:phone": "+48 768318382",
+                "contact:email": "sekretariat@zspkotla.pl",
+                "contact:website": "http:\/\/www.zspkotla.pl",
+                "ref:regon": "000270685",
+                "ref:vatin": "PL6931173792",
+                "operator": "Gmina Kotla",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Children RSPO: 122694Parent RSPO: 130997"
+            }
+        }
+    ]
+}

@@ -1,1 +1,160 @@
-{"type":"FeatureCollection","features":[{"id":70506,"type":"Feature","geometry":{"type":"Point","coordinates":[19.27167,51.3168]},"properties":{"isced:level":"1;2","ref:rspo":70506,"official_name":"Szko\u0142a Podstawowa im.\u015bw. Jana Paw\u0142a II w Kaszewicach","name":"Szko\u0142a Podstawowa im.\u015bw. Jana Paw\u0142a II w Kaszewicach","addr:country":"PL","addr:postcode":"97-415","addr:place":"Kaszewice","addr:housenumber":"48","addr:teryt:sym_ul":542416,"contact:phone":"+48 446315021","contact:email":"sp_kaszewice@poczta.onet.pl","ref:regon":"001139310","ref:vatin":"PL7691967931","operator":"Gmina Kluki","operator:type":"government","amenity":"school"}},{"id":70505,"type":"Feature","geometry":{"type":"Point","coordinates":[19.24684,51.34836]},"properties":{"ref:rspo":70505,"official_name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 im. Wandy Malczewskiej w Klukach","name":"Zesp\u00f3\u0142 Szk\u00f3\u0142","addr:country":"PL","addr:postcode":"97-415","addr:city":"Kluki","addr:street":"ul. Szkolna","addr:housenumber":"4","addr:teryt:simc":21970,"addr:teryt:sym_ul":542445,"contact:phone":"+48 446354895","contact:email":"sekretariat@szkola-kluki.home.pl","contact:website":"http:\/\/www.szkola-kluki.szkolnastrona.pl","ref:regon":"100402340","ref:vatin":"PL7692131436","operator":"Gmina Kluki","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 70681;70682"}},{"id":70681,"type":"Feature","geometry":{"type":"Point","coordinates":[19.24684,51.34833]},"properties":{"isced:level":"1;2","ref:rspo":70681,"official_name":"Szko\u0142a Podstawowa w Klukach","name":"Szko\u0142a Podstawowa w Klukach","addr:country":"PL","addr:postcode":"97-415","addr:city":"Kluki","addr:street":"ul. Szkolna","addr:housenumber":"4","addr:teryt:simc":21970,"addr:teryt:sym_ul":542445,"contact:phone":"+48 446354895","contact:email":"sekretariat@szkola-kluki.pl","contact:website":"http:\/\/www.szkola-kluki.szkolnastrona.pl","ref:regon":"000756519","operator":"Gmina Kluki","operator:type":"government","amenity":"school","note":"Parent RSPO: 70505"}},{"id":70682,"type":"Feature","geometry":{"type":"Point","coordinates":[19.24684,51.3483]},"properties":{"ref:rspo":70682,"official_name":"Przedszkole w Klukach","name":"Przedszkole w Klukach","addr:country":"PL","addr:postcode":"97-415","addr:city":"Kluki","addr:street":"ul. Szkolna","addr:housenumber":"4","addr:teryt:simc":21970,"addr:teryt:sym_ul":542445,"contact:phone":"+48 446354895","contact:email":"sekretariat@szkola-kluki.pl","contact:website":"http:\/\/www.szkola-kluki.szkolnastrona.pl","ref:regon":"100591883","operator":"Gmina Kluki","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 70505"}},{"id":70549,"type":"Feature","geometry":{"type":"Point","coordinates":[19.25091,51.38853]},"properties":{"isced:level":"1;2","ref:rspo":70549,"official_name":"Szko\u0142a Podstawowa im. Wandy Malczewskiej w Parznie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"97-415","addr:place":"Parzno","addr:housenumber":"33","addr:teryt:sym_ul":542563,"contact:phone":"+48 446315053","contact:email":"szkola.parzno@wp.pl","contact:website":"http:\/\/sp-parzno.edupage.org","ref:regon":"001139303","ref:vatin":"PL7691967954","operator":"Gmina Kluki","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 70506,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.27167,
+                    51.3168
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 70506,
+                "official_name": "Szko\u0142a Podstawowa im.\u015bw. Jana Paw\u0142a II w Kaszewicach",
+                "name": "Szko\u0142a Podstawowa im.\u015bw. Jana Paw\u0142a II w Kaszewicach",
+                "addr:country": "PL",
+                "addr:postcode": "97-415",
+                "addr:place": "Kaszewice",
+                "addr:housenumber": "48",
+                "addr:teryt:sym_ul": 542416,
+                "contact:phone": "+48 446315021",
+                "contact:email": "sp_kaszewice@poczta.onet.pl",
+                "ref:regon": "001139310",
+                "ref:vatin": "PL7691967931",
+                "operator": "Gmina Kluki",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 70505,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.24684,
+                    51.34836
+                ]
+            },
+            "properties": {
+                "ref:rspo": 70505,
+                "official_name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 im. Wandy Malczewskiej w Klukach",
+                "name": "Zesp\u00f3\u0142 Szk\u00f3\u0142",
+                "addr:country": "PL",
+                "addr:postcode": "97-415",
+                "addr:city": "Kluki",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "4",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 542445,
+                "contact:phone": "+48 446354895",
+                "contact:email": "sekretariat@szkola-kluki.home.pl",
+                "contact:website": "http:\/\/www.szkola-kluki.szkolnastrona.pl",
+                "ref:regon": "100402340",
+                "ref:vatin": "PL7692131436",
+                "operator": "Gmina Kluki",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 70681;70682"
+            }
+        },
+        {
+            "id": 70681,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.24684,
+                    51.34833
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 70681,
+                "official_name": "Szko\u0142a Podstawowa w Klukach",
+                "name": "Szko\u0142a Podstawowa w Klukach",
+                "addr:country": "PL",
+                "addr:postcode": "97-415",
+                "addr:city": "Kluki",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "4",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 542445,
+                "contact:phone": "+48 446354895",
+                "contact:email": "sekretariat@szkola-kluki.pl",
+                "contact:website": "http:\/\/www.szkola-kluki.szkolnastrona.pl",
+                "ref:regon": "000756519",
+                "operator": "Gmina Kluki",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 70505"
+            }
+        },
+        {
+            "id": 70682,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.24684,
+                    51.3483
+                ]
+            },
+            "properties": {
+                "ref:rspo": 70682,
+                "official_name": "Przedszkole w Klukach",
+                "name": "Przedszkole w Klukach",
+                "addr:country": "PL",
+                "addr:postcode": "97-415",
+                "addr:city": "Kluki",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "4",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 542445,
+                "contact:phone": "+48 446354895",
+                "contact:email": "sekretariat@szkola-kluki.pl",
+                "contact:website": "http:\/\/www.szkola-kluki.szkolnastrona.pl",
+                "ref:regon": "100591883",
+                "operator": "Gmina Kluki",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 70505"
+            }
+        },
+        {
+            "id": 70549,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.25091,
+                    51.38853
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 70549,
+                "official_name": "Szko\u0142a Podstawowa im. Wandy Malczewskiej w Parznie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "97-415",
+                "addr:place": "Parzno",
+                "addr:housenumber": "33",
+                "addr:teryt:sym_ul": 542563,
+                "contact:phone": "+48 446315053",
+                "contact:email": "szkola.parzno@wp.pl",
+                "contact:website": "http:\/\/sp-parzno.edupage.org",
+                "ref:regon": "001139303",
+                "ref:vatin": "PL7691967954",
+                "operator": "Gmina Kluki",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

@@ -1,1 +1,103 @@
-{"type":"FeatureCollection","features":[{"id":18051,"type":"Feature","geometry":{"type":"Point","coordinates":[20.93151,50.44055]},"properties":{"ref:rspo":18051,"official_name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w Stopnicy","name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w Stopnicy","addr:country":"PL","addr:postcode":"28-130","addr:city":"Stopnica","addr:street":"ul. Kazimierza Wielkiego","addr:housenumber":"23, 23A, 23B, 23D","addr:teryt:simc":8265,"addr:teryt:sym_ul":272951,"contact:phone":"+48 413779500","contact:email":"spstopnica@interia.pl","contact:website":"http:\/\/www.spstopnica.pl","ref:regon":"260114446","ref:vatin":"PL6551908589","operator":"Gmina Stopnica","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 30096;30622"}},{"id":30096,"type":"Feature","geometry":{"type":"Point","coordinates":[20.93131,50.44111]},"properties":{"ref:rspo":30096,"official_name":"Przedszkole w Stopnicy","name":"Przedszkole w Stopnicy","addr:country":"PL","addr:postcode":"28-130","addr:city":"Stopnica","addr:street":"ul. Kazimierza Wielkiego","addr:housenumber":"23 D","addr:teryt:simc":8265,"addr:teryt:sym_ul":272951,"contact:phone":"+48 413779052","contact:email":"spstopnica@interia.pl","contact:website":"http:\/\/www.spstopnica.pl","ref:regon":"290013035","ref:vatin":"PL6551908589","operator":"Gmina Stopnica","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 18051"}},{"id":30622,"type":"Feature","geometry":{"type":"Point","coordinates":[20.93131,50.44108]},"properties":{"isced:level":"1;2","ref:rspo":30622,"official_name":"Szko\u0142a Podstawowa im. Batalion\u00f3w Ch\u0142opskich w Stopnicy","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"28-130","addr:city":"Stopnica","addr:street":"ul. Kazimierza Wielkiego","addr:housenumber":"23","addr:teryt:simc":8265,"addr:teryt:sym_ul":272951,"contact:phone":"+48 413779500","contact:email":"spstopnica@interia.pl","contact:website":"http:\/\/www.spstopnica.pl","ref:regon":"000580486","ref:vatin":"PL6551908589","operator":"Gmina Stopnica","operator:type":"government","amenity":"school","note":"Parent RSPO: 18051"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 18051,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.93151,
+                    50.44055
+                ]
+            },
+            "properties": {
+                "ref:rspo": 18051,
+                "official_name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w Stopnicy",
+                "name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w Stopnicy",
+                "addr:country": "PL",
+                "addr:postcode": "28-130",
+                "addr:city": "Stopnica",
+                "addr:street": "ul. Kazimierza Wielkiego",
+                "addr:housenumber": "23, 23A, 23B, 23D",
+                "addr:teryt:simc": 8265,
+                "addr:teryt:sym_ul": 272951,
+                "contact:phone": "+48 413779500",
+                "contact:email": "spstopnica@interia.pl",
+                "contact:website": "http:\/\/www.spstopnica.pl",
+                "ref:regon": "260114446",
+                "ref:vatin": "PL6551908589",
+                "operator": "Gmina Stopnica",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 30096;30622"
+            }
+        },
+        {
+            "id": 30096,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.93131,
+                    50.44111
+                ]
+            },
+            "properties": {
+                "ref:rspo": 30096,
+                "official_name": "Przedszkole w Stopnicy",
+                "name": "Przedszkole w Stopnicy",
+                "addr:country": "PL",
+                "addr:postcode": "28-130",
+                "addr:city": "Stopnica",
+                "addr:street": "ul. Kazimierza Wielkiego",
+                "addr:housenumber": "23 D",
+                "addr:teryt:simc": 8265,
+                "addr:teryt:sym_ul": 272951,
+                "contact:phone": "+48 413779052",
+                "contact:email": "spstopnica@interia.pl",
+                "contact:website": "http:\/\/www.spstopnica.pl",
+                "ref:regon": "290013035",
+                "ref:vatin": "PL6551908589",
+                "operator": "Gmina Stopnica",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 18051"
+            }
+        },
+        {
+            "id": 30622,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.93131,
+                    50.44108
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 30622,
+                "official_name": "Szko\u0142a Podstawowa im. Batalion\u00f3w Ch\u0142opskich w Stopnicy",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "28-130",
+                "addr:city": "Stopnica",
+                "addr:street": "ul. Kazimierza Wielkiego",
+                "addr:housenumber": "23",
+                "addr:teryt:simc": 8265,
+                "addr:teryt:sym_ul": 272951,
+                "contact:phone": "+48 413779500",
+                "contact:email": "spstopnica@interia.pl",
+                "contact:website": "http:\/\/www.spstopnica.pl",
+                "ref:regon": "000580486",
+                "ref:vatin": "PL6551908589",
+                "operator": "Gmina Stopnica",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 18051"
+            }
+        }
+    ]
+}

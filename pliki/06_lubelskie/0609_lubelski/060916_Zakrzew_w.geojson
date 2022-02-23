@@ -1,1 +1,66 @@
-{"type":"FeatureCollection","features":[{"id":13245,"type":"Feature","geometry":{"type":"Point","coordinates":[22.58223,50.89424]},"properties":{"isced:level":"1;2","ref:rspo":13245,"official_name":"Szko\u0142a Podstawowa im.jana Paw\u0142a II w Zakrzewie","name":"Szko\u0142a Podstawowa im.jana Paw\u0142a II w Zakrzewie","addr:country":"PL","addr:postcode":"23-155","addr:place":"Zakrzew","addr:housenumber":"226","addr:door":"-","addr:teryt:sym_ul":905920,"contact:phone":"+48 846809219","contact:email":"sp_zakrzew@wp.pl","contact:website":"http:\/\/www.spzakrzew.pl","ref:regon":"000770790","ref:vatin":"PL7132570784","operator":"Gmina Zakrzew","operator:type":"government","amenity":"school"}},{"id":13246,"type":"Feature","geometry":{"type":"Point","coordinates":[22.47792,50.92871]},"properties":{"isced:level":"1;2","ref:rspo":13246,"official_name":"Szko\u0142a Podstawowa w D\u0119binie","name":"Szko\u0142a Podstawowa w D\u0119binie","addr:country":"PL","addr:postcode":"23-155","addr:place":"D\u0119bina","addr:housenumber":"20","addr:teryt:sym_ul":905712,"contact:phone":"+48 846800104","contact:email":"szkoladebina1@interia.pl","contact:website":"http:\/\/www.szkoladebina.superszkolna.pl","ref:regon":"001158499","ref:vatin":"PL7132558903","operator":"Gmina Zakrzew","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 13245,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.58223,
+                    50.89424
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 13245,
+                "official_name": "Szko\u0142a Podstawowa im.jana Paw\u0142a II w Zakrzewie",
+                "name": "Szko\u0142a Podstawowa im.jana Paw\u0142a II w Zakrzewie",
+                "addr:country": "PL",
+                "addr:postcode": "23-155",
+                "addr:place": "Zakrzew",
+                "addr:housenumber": "226",
+                "addr:door": "-",
+                "addr:teryt:sym_ul": 905920,
+                "contact:phone": "+48 846809219",
+                "contact:email": "sp_zakrzew@wp.pl",
+                "contact:website": "http:\/\/www.spzakrzew.pl",
+                "ref:regon": "000770790",
+                "ref:vatin": "PL7132570784",
+                "operator": "Gmina Zakrzew",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 13246,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.47792,
+                    50.92871
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 13246,
+                "official_name": "Szko\u0142a Podstawowa w D\u0119binie",
+                "name": "Szko\u0142a Podstawowa w D\u0119binie",
+                "addr:country": "PL",
+                "addr:postcode": "23-155",
+                "addr:place": "D\u0119bina",
+                "addr:housenumber": "20",
+                "addr:teryt:sym_ul": 905712,
+                "contact:phone": "+48 846800104",
+                "contact:email": "szkoladebina1@interia.pl",
+                "contact:website": "http:\/\/www.szkoladebina.superszkolna.pl",
+                "ref:regon": "001158499",
+                "ref:vatin": "PL7132558903",
+                "operator": "Gmina Zakrzew",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

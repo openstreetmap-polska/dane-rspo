@@ -1,1 +1,94 @@
-{"type":"FeatureCollection","features":[{"id":43763,"type":"Feature","geometry":{"type":"Point","coordinates":[21.49863,50.43319]},"properties":{"isced:level":"1;2","ref:rspo":43763,"official_name":"Szko\u0142a Podstawowa im.ignacego \u0141ukasiewicza w Padwi Narodowej","name":"Szko\u0142a Podstawowa im.ignacego \u0141ukasiewicza w Padwi Narodowej","addr:country":"PL","addr:postcode":"39-340","addr:city":"Padew Narodowa","addr:street":"ul. Szkolna","addr:housenumber":"1","addr:teryt:simc":21970,"addr:teryt:sym_ul":803160,"contact:phone":"+48 158119948","contact:email":"psp_padew@wp.pl","contact:website":"http:\/\/www.sppadew.pl","ref:regon":"000559807","ref:vatin":"PL8172176025","operator":"Gmina Padew Narodowa","operator:type":"government","amenity":"school"}},{"id":43628,"type":"Feature","geometry":{"type":"Point","coordinates":[21.49868,50.43412]},"properties":{"ref:rspo":43628,"official_name":"Niepubliczne Przedszkole \"Promyczek\" w Padwi Narodowej","name":"Niepubliczne Przedszkole \"Promyczek\" w Padwi Narodowej","addr:country":"PL","addr:postcode":"39-340","addr:city":"Padew Narodowa","addr:street":"ul. Szkolna","addr:housenumber":"2","addr:teryt:simc":21970,"addr:teryt:sym_ul":803160,"contact:phone":"+48 158119006","contact:email":"kas227@vp.pl","ref:regon":"180898990","operator":"Stowarzyszenie Rozw\u00f3j Gminy Padew Narodowa","operator:type":"ngo","amenity":"kindergarten"}},{"id":272692,"type":"Feature","geometry":{"type":"Point","coordinates":[21.49485,50.43519]},"properties":{"ref:rspo":272692,"official_name":"Niepubliczne Przedszkole Nasze Smyki","name":"Niepubliczne Przedszkole Nasze Smyki","addr:country":"PL","addr:postcode":"39-340","addr:city":"Padew Narodowa","addr:street":"ul. Jana Paw\u0142a II","addr:housenumber":"4","addr:teryt:simc":7123,"addr:teryt:sym_ul":803160,"contact:email":"npnaszesmyki@gmail.com","ref:regon":"384275216","operator":"Edum Sp\u00f3\u0142ka Z Ograniczon\u0105 Odpowiedzialno\u015bci\u0105","operator:type":"private","amenity":"kindergarten"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 43763,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.49863,
+                    50.43319
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 43763,
+                "official_name": "Szko\u0142a Podstawowa im.ignacego \u0141ukasiewicza w Padwi Narodowej",
+                "name": "Szko\u0142a Podstawowa im.ignacego \u0141ukasiewicza w Padwi Narodowej",
+                "addr:country": "PL",
+                "addr:postcode": "39-340",
+                "addr:city": "Padew Narodowa",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 803160,
+                "contact:phone": "+48 158119948",
+                "contact:email": "psp_padew@wp.pl",
+                "contact:website": "http:\/\/www.sppadew.pl",
+                "ref:regon": "000559807",
+                "ref:vatin": "PL8172176025",
+                "operator": "Gmina Padew Narodowa",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 43628,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.49868,
+                    50.43412
+                ]
+            },
+            "properties": {
+                "ref:rspo": 43628,
+                "official_name": "Niepubliczne Przedszkole \"Promyczek\" w Padwi Narodowej",
+                "name": "Niepubliczne Przedszkole \"Promyczek\" w Padwi Narodowej",
+                "addr:country": "PL",
+                "addr:postcode": "39-340",
+                "addr:city": "Padew Narodowa",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "2",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 803160,
+                "contact:phone": "+48 158119006",
+                "contact:email": "kas227@vp.pl",
+                "ref:regon": "180898990",
+                "operator": "Stowarzyszenie Rozw\u00f3j Gminy Padew Narodowa",
+                "operator:type": "ngo",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 272692,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.49485,
+                    50.43519
+                ]
+            },
+            "properties": {
+                "ref:rspo": 272692,
+                "official_name": "Niepubliczne Przedszkole Nasze Smyki",
+                "name": "Niepubliczne Przedszkole Nasze Smyki",
+                "addr:country": "PL",
+                "addr:postcode": "39-340",
+                "addr:city": "Padew Narodowa",
+                "addr:street": "ul. Jana Paw\u0142a II",
+                "addr:housenumber": "4",
+                "addr:teryt:simc": 7123,
+                "addr:teryt:sym_ul": 803160,
+                "contact:email": "npnaszesmyki@gmail.com",
+                "ref:regon": "384275216",
+                "operator": "Edum Sp\u00f3\u0142ka Z Ograniczon\u0105 Odpowiedzialno\u015bci\u0105",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        }
+    ]
+}

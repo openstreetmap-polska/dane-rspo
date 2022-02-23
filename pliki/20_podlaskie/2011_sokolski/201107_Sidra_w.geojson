@@ -1,1 +1,94 @@
-{"type":"FeatureCollection","features":[{"id":80986,"type":"Feature","geometry":{"type":"Point","coordinates":[23.6251874,53.2972973]},"properties":{"isced:level":"1;2","ref:rspo":80986,"official_name":"Szko\u0142a Podstawowa w Majewie","name":"Szko\u0142a Podstawowa w Majewie","addr:country":"PL","addr:postcode":"16-124","addr:place":"Nowinka","addr:housenumber":"1","addr:teryt:sym_ul":39195,"contact:phone":"+48 857211777","contact:email":"spmajewo@wp.pl","ref:regon":"001162845","ref:vatin":"PL5451585525","operator":"Gmina Sidra","operator:type":"government","amenity":"school"}},{"id":81019,"type":"Feature","geometry":{"type":"Point","coordinates":[23.4647842,53.4823976]},"properties":{"isced:level":"1;2","ref:rspo":81019,"official_name":"Szko\u0142a Podstawowa im.kpt. J\u00f3zefa K\u0142opotowskiego w Jacowlanach","name":"Szko\u0142a Podstawowa im.kpt. J\u00f3zefa K\u0142opotowskiego w Jacowlanach","addr:country":"PL","addr:postcode":"16-124","addr:place":"Jacowlany","addr:housenumber":"13","addr:teryt:sym_ul":39090,"contact:phone":"+48 857211684","contact:email":"jacowlany4@wp.pl","ref:regon":"001162851","ref:vatin":"PL5451585548","operator":"Gmina Sidra","operator:type":"government","amenity":"school"}},{"id":86396,"type":"Feature","geometry":{"type":"Point","coordinates":[23.45366,53.55092]},"properties":{"isced:level":"1;2","ref:rspo":86396,"official_name":"Szko\u0142a Podstawowa w Sidrze","name":"Szko\u0142a Podstawowa w Sidrze","addr:country":"PL","addr:postcode":"16-124","addr:city":"Sidra","addr:street":"ul. Szkolna","addr:housenumber":"1","addr:teryt:simc":21970,"addr:teryt:sym_ul":39284,"contact:phone":"+48 857211614","contact:email":"gimsidra@wp.pl","ref:regon":"000579856","ref:vatin":"PL5451810100","operator":"Gmina Sidra","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 80986,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.6251874,
+                    53.2972973
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 80986,
+                "official_name": "Szko\u0142a Podstawowa w Majewie",
+                "name": "Szko\u0142a Podstawowa w Majewie",
+                "addr:country": "PL",
+                "addr:postcode": "16-124",
+                "addr:place": "Nowinka",
+                "addr:housenumber": "1",
+                "addr:teryt:sym_ul": 39195,
+                "contact:phone": "+48 857211777",
+                "contact:email": "spmajewo@wp.pl",
+                "ref:regon": "001162845",
+                "ref:vatin": "PL5451585525",
+                "operator": "Gmina Sidra",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 81019,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.4647842,
+                    53.4823976
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 81019,
+                "official_name": "Szko\u0142a Podstawowa im.kpt. J\u00f3zefa K\u0142opotowskiego w Jacowlanach",
+                "name": "Szko\u0142a Podstawowa im.kpt. J\u00f3zefa K\u0142opotowskiego w Jacowlanach",
+                "addr:country": "PL",
+                "addr:postcode": "16-124",
+                "addr:place": "Jacowlany",
+                "addr:housenumber": "13",
+                "addr:teryt:sym_ul": 39090,
+                "contact:phone": "+48 857211684",
+                "contact:email": "jacowlany4@wp.pl",
+                "ref:regon": "001162851",
+                "ref:vatin": "PL5451585548",
+                "operator": "Gmina Sidra",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 86396,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.45366,
+                    53.55092
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 86396,
+                "official_name": "Szko\u0142a Podstawowa w Sidrze",
+                "name": "Szko\u0142a Podstawowa w Sidrze",
+                "addr:country": "PL",
+                "addr:postcode": "16-124",
+                "addr:city": "Sidra",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 39284,
+                "contact:phone": "+48 857211614",
+                "contact:email": "gimsidra@wp.pl",
+                "ref:regon": "000579856",
+                "ref:vatin": "PL5451810100",
+                "operator": "Gmina Sidra",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

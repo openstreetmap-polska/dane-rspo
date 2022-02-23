@@ -1,1 +1,99 @@
-{"type":"FeatureCollection","features":[{"id":104982,"type":"Feature","geometry":{"type":"Point","coordinates":[23.58821,50.42256]},"properties":{"ref:rspo":104982,"official_name":"Gminne Przedszkole w Jarczowie","name":"Gminne Przedszkole w Jarczowie","addr:country":"PL","addr:postcode":"22-664","addr:city":"Jarcz\u00f3w","addr:street":"ul. 3 Maja","addr:housenumber":"23","addr:teryt:simc":11937,"addr:teryt:sym_ul":890040,"contact:phone":"+48 846634577","contact:email":"przedszkole777@wp.pl","ref:regon":"950437767","ref:vatin":"PL9211705073","operator":"Gmina Jarcz\u00f3w","operator:type":"government","amenity":"kindergarten"}},{"id":110560,"type":"Feature","geometry":{"type":"Point","coordinates":[23.59118,50.42448]},"properties":{"isced:level":"1;2","ref:rspo":110560,"official_name":"Szko\u0142a Podstawowa w Jarczowie","name":"Szko\u0142a Podstawowa w Jarczowie","addr:country":"PL","addr:postcode":"22-664","addr:city":"Jarcz\u00f3w","addr:street":"ul. Szkolna","addr:housenumber":"3","addr:teryt:simc":21970,"addr:teryt:sym_ul":890040,"contact:phone":"+48 846634524","contact:email":"zspgjarczow@wp.pl","contact:website":"http:\/\/zspgjarczow.superszkolna.pl","ref:regon":"000678038","ref:vatin":"PL9211820992","operator":"Gmina Jarcz\u00f3w","operator:type":"government","amenity":"school","note":"Children RSPO: 114235"}},{"id":114235,"type":"Feature","geometry":{"type":"Point","coordinates":[23.58912,50.4485699]},"properties":{"isced:level":"1;2","ref:rspo":114235,"official_name":"Szko\u0142a Filialna w Wierszczycy","name":"Szko\u0142a Filialna w Wierszczycy","addr:country":"PL","addr:postcode":"22-664","addr:place":"Wierszczyca","addr:housenumber":"54","addr:teryt:sym_ul":890235,"contact:phone":"+48 846634531","contact:email":"zspgjarczow@wp.pl","contact:website":"http:\/\/zspgjarczow.superszkolna.pl","ref:regon":"678038000","ref:vatin":"PL9211820992","operator":"Gmina Jarcz\u00f3w","operator:type":"government","amenity":"school","note":"Parent RSPO: 110560"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 104982,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.58821,
+                    50.42256
+                ]
+            },
+            "properties": {
+                "ref:rspo": 104982,
+                "official_name": "Gminne Przedszkole w Jarczowie",
+                "name": "Gminne Przedszkole w Jarczowie",
+                "addr:country": "PL",
+                "addr:postcode": "22-664",
+                "addr:city": "Jarcz\u00f3w",
+                "addr:street": "ul. 3 Maja",
+                "addr:housenumber": "23",
+                "addr:teryt:simc": 11937,
+                "addr:teryt:sym_ul": 890040,
+                "contact:phone": "+48 846634577",
+                "contact:email": "przedszkole777@wp.pl",
+                "ref:regon": "950437767",
+                "ref:vatin": "PL9211705073",
+                "operator": "Gmina Jarcz\u00f3w",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 110560,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.59118,
+                    50.42448
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 110560,
+                "official_name": "Szko\u0142a Podstawowa w Jarczowie",
+                "name": "Szko\u0142a Podstawowa w Jarczowie",
+                "addr:country": "PL",
+                "addr:postcode": "22-664",
+                "addr:city": "Jarcz\u00f3w",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "3",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 890040,
+                "contact:phone": "+48 846634524",
+                "contact:email": "zspgjarczow@wp.pl",
+                "contact:website": "http:\/\/zspgjarczow.superszkolna.pl",
+                "ref:regon": "000678038",
+                "ref:vatin": "PL9211820992",
+                "operator": "Gmina Jarcz\u00f3w",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Children RSPO: 114235"
+            }
+        },
+        {
+            "id": 114235,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.58912,
+                    50.4485699
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 114235,
+                "official_name": "Szko\u0142a Filialna w Wierszczycy",
+                "name": "Szko\u0142a Filialna w Wierszczycy",
+                "addr:country": "PL",
+                "addr:postcode": "22-664",
+                "addr:place": "Wierszczyca",
+                "addr:housenumber": "54",
+                "addr:teryt:sym_ul": 890235,
+                "contact:phone": "+48 846634531",
+                "contact:email": "zspgjarczow@wp.pl",
+                "contact:website": "http:\/\/zspgjarczow.superszkolna.pl",
+                "ref:regon": "678038000",
+                "ref:vatin": "PL9211820992",
+                "operator": "Gmina Jarcz\u00f3w",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 110560"
+            }
+        }
+    ]
+}

@@ -1,1 +1,363 @@
-{"type":"FeatureCollection","features":[{"id":13578,"type":"Feature","geometry":{"type":"Point","coordinates":[17.51049,50.7436]},"properties":{"isced:level":"1;2","ref:rspo":13578,"official_name":"Publiczna Szko\u0142a Podstawowa Stowarzyszenia Przyjaci\u00f3\u0142 Szk\u00f3\u0142 Katolickich w Micha\u0142owie","name":"Publiczna Szko\u0142a Podstawowa Stowarzyszenia Przyjaci\u00f3\u0142 Szk\u00f3\u0142 Katolickich w Micha\u0142owie","addr:country":"PL","addr:postcode":"49-332","addr:place":"Micha\u0142\u00f3w","addr:housenumber":"125","addr:teryt:sym_ul":500607,"contact:email":"psp.spsk.michalow@wp.pl","ref:regon":"161483730","ref:vatin":"PL7471796232","operator":"Stowarzyszenie Przyjaci\u00f3\u0142 Szk\u00f3\u0142 Katolickich","operator:type":"ngo","amenity":"school"}},{"id":7849,"type":"Feature","geometry":{"type":"Point","coordinates":[17.44229,50.76686]},"properties":{"ref:rspo":7849,"official_name":"Publiczny Zesp\u00f3\u0142 Szkolno-Przedszkolny w Jankowicach Wielkich","name":"Publiczny Zesp\u00f3\u0142 Szkolno-Przedszkolny w Jankowicach Wielkich","addr:country":"PL","addr:postcode":"49-332","addr:place":"Jankowice Wielkie","addr:housenumber":"15","addr:teryt:sym_ul":500576,"contact:phone":"+48 774156254","contact:email":"psp.jankwielkie@interia.pl","contact:website":"http:\/\/www.spjankowice.edupage.org","ref:regon":"160270391","ref:vatin":"PL7471858080","operator":"Gmina Olszanka","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 19257;90010"}},{"id":19257,"type":"Feature","geometry":{"type":"Point","coordinates":[17.44229,50.76683]},"properties":{"isced:level":"1;2","ref:rspo":19257,"official_name":"Publiczna Szko\u0142a Podstawowa Jankowice Wielkie","name":"Publiczna Szko\u0142a Podstawowa Jankowice Wielkie","addr:country":"PL","addr:postcode":"49-332","addr:place":"Jankowice Wielkie","addr:housenumber":"15","addr:teryt:sym_ul":500576,"contact:phone":"+48 774156254","contact:email":"psp.jankowice@interia.pl","ref:regon":"001182240","ref:vatin":"PL7471858080","operator":"Gmina Olszanka","operator:type":"government","amenity":"school","note":"Parent RSPO: 7849"}},{"id":90010,"type":"Feature","geometry":{"type":"Point","coordinates":[17.44026,50.76705]},"properties":{"ref:rspo":90010,"official_name":"Publiczne Przedszkole Jankowice Wielkie","name":"Publiczne Przedszkole Jankowice Wielkie","addr:country":"PL","addr:postcode":"49-332","addr:place":"Jankowice Wielkie","addr:housenumber":"56","addr:teryt:sym_ul":500576,"contact:phone":"+48 774156282","contact:email":"psp.jankwielkie@interia.pl","ref:regon":"530590675","ref:vatin":"PL7471858080","operator":"Gmina Olszanka","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 7849"}},{"id":17460,"type":"Feature","geometry":{"type":"Point","coordinates":[17.4956299,50.78405]},"properties":{"ref:rspo":17460,"official_name":"Centrum Edukacyjno-Szkoleniowe Animus-X","name":"Centrum Edukacyjno-Szkoleniowe Animus-X","addr:country":"PL","addr:postcode":"49-332","addr:place":"Pogorzela","addr:housenumber":"70A","addr:teryt:sym_ul":500636,"contact:phone":"+48 692415783","contact:email":"biuro@animus-x.pl","contact:website":"http:\/\/www.animus-x.pl","ref:regon":"161482209","operator":"Mariusz Oliwa","operator:type":"private","fixme":"w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. amenity=training + training=*, amenity=dancing_school, amenity=language_school, amenity=music_school)"}},{"id":7735,"type":"Feature","geometry":{"type":"Point","coordinates":[17.3912,50.79346]},"properties":{"ref:rspo":7735,"official_name":"Publiczny Zesp\u00f3\u0142 Szkolno-Przedszkolny w Przylesiu","name":"Publiczny Zesp\u00f3\u0142 Szkolno-Przedszkolny w Przylesiu","addr:country":"PL","addr:postcode":"49-332","addr:place":"Przylesie","addr:housenumber":"135b","addr:teryt:sym_ul":500642,"contact:phone":"+48 774124190","contact:email":"dyrektor@szkolawprzylesiu.pl","contact:website":"http:\/\/www.szkolawprzylesiu.pl","ref:regon":"160270273","ref:vatin":"PL7471858068","operator":"Gmina Olszanka","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 18108;18109"}},{"id":18108,"type":"Feature","geometry":{"type":"Point","coordinates":[17.3912,50.79343]},"properties":{"isced:level":"1;2","ref:rspo":18108,"official_name":"Publiczna Szko\u0142a Podstawowa w Przylesiu Imienia Jana Paw\u0142a Ii","name":"Publiczna Szko\u0142a Podstawowa w Przylesiu Imienia Jana Paw\u0142a Ii","addr:country":"PL","addr:postcode":"49-332","addr:place":"Przylesie","addr:housenumber":"135b","addr:teryt:sym_ul":500642,"contact:phone":"+48 774124190","contact:email":"dyrektor@szkolawprzylesiu.pl","contact:website":"http:\/\/www.szkolawprzylesiu.pl","ref:regon":"001182279","ref:vatin":"PL7471858068","operator":"Gmina Olszanka","operator:type":"government","amenity":"school","note":"Parent RSPO: 7735"}},{"id":18109,"type":"Feature","geometry":{"type":"Point","coordinates":[17.3912,50.793400000000005]},"properties":{"ref:rspo":18109,"official_name":"Publiczne Przedszkole w Przylesiu","name":"Publiczne Przedszkole w Przylesiu","addr:country":"PL","addr:postcode":"49-332","addr:place":"Przylesie","addr:housenumber":"135b","addr:teryt:sym_ul":500642,"contact:phone":"+48 774124190","ref:regon":"530590698","ref:vatin":"PL7471858068","operator":"Gmina Olszanka","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 7735"}},{"id":19297,"type":"Feature","geometry":{"type":"Point","coordinates":[17.46404,50.80813]},"properties":{"ref:rspo":19297,"official_name":"Publiczne Przedszkole w Krzy\u017cowicach","name":"Publiczne Przedszkole w Krzy\u017cowicach","addr:country":"PL","addr:postcode":"49-332","addr:place":"Krzy\u017cowice","addr:housenumber":"72","addr:teryt:sym_ul":500599,"contact:phone":"+48 774129128","contact:email":"zs_olszanka@wodip.opole.pl","contact:website":"https:\/\/pzspolszanka.szkolna.net","ref:regon":"531402948","ref:vatin":"PL7471703584","operator":"Gmina Olszanka","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 7433"}},{"id":7433,"type":"Feature","geometry":{"type":"Point","coordinates":[17.51103,50.82423]},"properties":{"ref:rspo":7433,"official_name":"Publiczny Zesp\u00f3\u0142 Szkolno-Przedszkolny w Olszance im. Brygady Partyzanckiej \"Grunwald\"","name":"Publiczny Zesp\u00f3\u0142 Szkolno-Przedszkolny w Olszance","addr:country":"PL","addr:postcode":"49-332","addr:place":"Olszanka","addr:housenumber":"94","addr:teryt:sym_ul":500620,"contact:phone":"+48 774129717","contact:email":"zs_olszanka@wodip.opole.pl","contact:website":"https:\/\/pzspolszanka.szkolna.net","ref:regon":"532326304","ref:vatin":"PL7471703584","operator":"Gmina Olszanka","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 19254;19256;19297"}},{"id":19254,"type":"Feature","geometry":{"type":"Point","coordinates":[17.51103,50.8242]},"properties":{"isced:level":"1;2","ref:rspo":19254,"official_name":"Publiczna Szko\u0142a Podstawowa w Olszance","name":"Publiczna Szko\u0142a Podstawowa w Olszance","addr:country":"PL","addr:postcode":"49-332","addr:place":"Olszanka","addr:housenumber":"94","addr:teryt:sym_ul":500620,"contact:phone":"+48 774129717","contact:email":"zs_olszanka@wodip.opole.pl","contact:website":"https:\/\/pzspolszanka.szkolna.net","ref:regon":"000269251","ref:vatin":"PL7471703584","operator":"Gmina Olszanka","operator:type":"government","amenity":"school","note":"Parent RSPO: 7433"}},{"id":19256,"type":"Feature","geometry":{"type":"Point","coordinates":[17.51103,50.82417]},"properties":{"ref:rspo":19256,"official_name":"Publiczne Przedszkole w Olszance","name":"Publiczne Przedszkole w Olszance","addr:country":"PL","addr:postcode":"49-332","addr:place":"Olszanka","addr:housenumber":"94","addr:teryt:sym_ul":500620,"contact:phone":"+48 774129717","contact:email":"zs_olszanka@wodip.opole.pl","contact:website":"https:\/\/pzspolszanka.szkolna.net","ref:regon":"530590681","ref:vatin":"PL7471703584","operator":"Gmina Olszanka","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 7433"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 13578,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.51049,
+                    50.7436
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 13578,
+                "official_name": "Publiczna Szko\u0142a Podstawowa Stowarzyszenia Przyjaci\u00f3\u0142 Szk\u00f3\u0142 Katolickich w Micha\u0142owie",
+                "name": "Publiczna Szko\u0142a Podstawowa Stowarzyszenia Przyjaci\u00f3\u0142 Szk\u00f3\u0142 Katolickich w Micha\u0142owie",
+                "addr:country": "PL",
+                "addr:postcode": "49-332",
+                "addr:place": "Micha\u0142\u00f3w",
+                "addr:housenumber": "125",
+                "addr:teryt:sym_ul": 500607,
+                "contact:email": "psp.spsk.michalow@wp.pl",
+                "ref:regon": "161483730",
+                "ref:vatin": "PL7471796232",
+                "operator": "Stowarzyszenie Przyjaci\u00f3\u0142 Szk\u00f3\u0142 Katolickich",
+                "operator:type": "ngo",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 7849,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.44229,
+                    50.76686
+                ]
+            },
+            "properties": {
+                "ref:rspo": 7849,
+                "official_name": "Publiczny Zesp\u00f3\u0142 Szkolno-Przedszkolny w Jankowicach Wielkich",
+                "name": "Publiczny Zesp\u00f3\u0142 Szkolno-Przedszkolny w Jankowicach Wielkich",
+                "addr:country": "PL",
+                "addr:postcode": "49-332",
+                "addr:place": "Jankowice Wielkie",
+                "addr:housenumber": "15",
+                "addr:teryt:sym_ul": 500576,
+                "contact:phone": "+48 774156254",
+                "contact:email": "psp.jankwielkie@interia.pl",
+                "contact:website": "http:\/\/www.spjankowice.edupage.org",
+                "ref:regon": "160270391",
+                "ref:vatin": "PL7471858080",
+                "operator": "Gmina Olszanka",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 19257;90010"
+            }
+        },
+        {
+            "id": 19257,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.44229,
+                    50.76683
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 19257,
+                "official_name": "Publiczna Szko\u0142a Podstawowa Jankowice Wielkie",
+                "name": "Publiczna Szko\u0142a Podstawowa Jankowice Wielkie",
+                "addr:country": "PL",
+                "addr:postcode": "49-332",
+                "addr:place": "Jankowice Wielkie",
+                "addr:housenumber": "15",
+                "addr:teryt:sym_ul": 500576,
+                "contact:phone": "+48 774156254",
+                "contact:email": "psp.jankowice@interia.pl",
+                "ref:regon": "001182240",
+                "ref:vatin": "PL7471858080",
+                "operator": "Gmina Olszanka",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 7849"
+            }
+        },
+        {
+            "id": 90010,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.44026,
+                    50.76705
+                ]
+            },
+            "properties": {
+                "ref:rspo": 90010,
+                "official_name": "Publiczne Przedszkole Jankowice Wielkie",
+                "name": "Publiczne Przedszkole Jankowice Wielkie",
+                "addr:country": "PL",
+                "addr:postcode": "49-332",
+                "addr:place": "Jankowice Wielkie",
+                "addr:housenumber": "56",
+                "addr:teryt:sym_ul": 500576,
+                "contact:phone": "+48 774156282",
+                "contact:email": "psp.jankwielkie@interia.pl",
+                "ref:regon": "530590675",
+                "ref:vatin": "PL7471858080",
+                "operator": "Gmina Olszanka",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 7849"
+            }
+        },
+        {
+            "id": 17460,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.4956299,
+                    50.78405
+                ]
+            },
+            "properties": {
+                "ref:rspo": 17460,
+                "official_name": "Centrum Edukacyjno-Szkoleniowe Animus-X",
+                "name": "Centrum Edukacyjno-Szkoleniowe Animus-X",
+                "addr:country": "PL",
+                "addr:postcode": "49-332",
+                "addr:place": "Pogorzela",
+                "addr:housenumber": "70A",
+                "addr:teryt:sym_ul": 500636,
+                "contact:phone": "+48 692415783",
+                "contact:email": "biuro@animus-x.pl",
+                "contact:website": "http:\/\/www.animus-x.pl",
+                "ref:regon": "161482209",
+                "operator": "Mariusz Oliwa",
+                "operator:type": "private",
+                "fixme": "w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. amenity=training + training=*, amenity=dancing_school, amenity=language_school, amenity=music_school)"
+            }
+        },
+        {
+            "id": 7735,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.3912,
+                    50.79346
+                ]
+            },
+            "properties": {
+                "ref:rspo": 7735,
+                "official_name": "Publiczny Zesp\u00f3\u0142 Szkolno-Przedszkolny w Przylesiu",
+                "name": "Publiczny Zesp\u00f3\u0142 Szkolno-Przedszkolny w Przylesiu",
+                "addr:country": "PL",
+                "addr:postcode": "49-332",
+                "addr:place": "Przylesie",
+                "addr:housenumber": "135b",
+                "addr:teryt:sym_ul": 500642,
+                "contact:phone": "+48 774124190",
+                "contact:email": "dyrektor@szkolawprzylesiu.pl",
+                "contact:website": "http:\/\/www.szkolawprzylesiu.pl",
+                "ref:regon": "160270273",
+                "ref:vatin": "PL7471858068",
+                "operator": "Gmina Olszanka",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 18108;18109"
+            }
+        },
+        {
+            "id": 18108,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.3912,
+                    50.79343
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 18108,
+                "official_name": "Publiczna Szko\u0142a Podstawowa w Przylesiu Imienia Jana Paw\u0142a Ii",
+                "name": "Publiczna Szko\u0142a Podstawowa w Przylesiu Imienia Jana Paw\u0142a Ii",
+                "addr:country": "PL",
+                "addr:postcode": "49-332",
+                "addr:place": "Przylesie",
+                "addr:housenumber": "135b",
+                "addr:teryt:sym_ul": 500642,
+                "contact:phone": "+48 774124190",
+                "contact:email": "dyrektor@szkolawprzylesiu.pl",
+                "contact:website": "http:\/\/www.szkolawprzylesiu.pl",
+                "ref:regon": "001182279",
+                "ref:vatin": "PL7471858068",
+                "operator": "Gmina Olszanka",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 7735"
+            }
+        },
+        {
+            "id": 18109,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.3912,
+                    50.793400000000005
+                ]
+            },
+            "properties": {
+                "ref:rspo": 18109,
+                "official_name": "Publiczne Przedszkole w Przylesiu",
+                "name": "Publiczne Przedszkole w Przylesiu",
+                "addr:country": "PL",
+                "addr:postcode": "49-332",
+                "addr:place": "Przylesie",
+                "addr:housenumber": "135b",
+                "addr:teryt:sym_ul": 500642,
+                "contact:phone": "+48 774124190",
+                "ref:regon": "530590698",
+                "ref:vatin": "PL7471858068",
+                "operator": "Gmina Olszanka",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 7735"
+            }
+        },
+        {
+            "id": 19297,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.46404,
+                    50.80813
+                ]
+            },
+            "properties": {
+                "ref:rspo": 19297,
+                "official_name": "Publiczne Przedszkole w Krzy\u017cowicach",
+                "name": "Publiczne Przedszkole w Krzy\u017cowicach",
+                "addr:country": "PL",
+                "addr:postcode": "49-332",
+                "addr:place": "Krzy\u017cowice",
+                "addr:housenumber": "72",
+                "addr:teryt:sym_ul": 500599,
+                "contact:phone": "+48 774129128",
+                "contact:email": "zs_olszanka@wodip.opole.pl",
+                "contact:website": "https:\/\/pzspolszanka.szkolna.net",
+                "ref:regon": "531402948",
+                "ref:vatin": "PL7471703584",
+                "operator": "Gmina Olszanka",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 7433"
+            }
+        },
+        {
+            "id": 7433,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.51103,
+                    50.82423
+                ]
+            },
+            "properties": {
+                "ref:rspo": 7433,
+                "official_name": "Publiczny Zesp\u00f3\u0142 Szkolno-Przedszkolny w Olszance im. Brygady Partyzanckiej \"Grunwald\"",
+                "name": "Publiczny Zesp\u00f3\u0142 Szkolno-Przedszkolny w Olszance",
+                "addr:country": "PL",
+                "addr:postcode": "49-332",
+                "addr:place": "Olszanka",
+                "addr:housenumber": "94",
+                "addr:teryt:sym_ul": 500620,
+                "contact:phone": "+48 774129717",
+                "contact:email": "zs_olszanka@wodip.opole.pl",
+                "contact:website": "https:\/\/pzspolszanka.szkolna.net",
+                "ref:regon": "532326304",
+                "ref:vatin": "PL7471703584",
+                "operator": "Gmina Olszanka",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 19254;19256;19297"
+            }
+        },
+        {
+            "id": 19254,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.51103,
+                    50.8242
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 19254,
+                "official_name": "Publiczna Szko\u0142a Podstawowa w Olszance",
+                "name": "Publiczna Szko\u0142a Podstawowa w Olszance",
+                "addr:country": "PL",
+                "addr:postcode": "49-332",
+                "addr:place": "Olszanka",
+                "addr:housenumber": "94",
+                "addr:teryt:sym_ul": 500620,
+                "contact:phone": "+48 774129717",
+                "contact:email": "zs_olszanka@wodip.opole.pl",
+                "contact:website": "https:\/\/pzspolszanka.szkolna.net",
+                "ref:regon": "000269251",
+                "ref:vatin": "PL7471703584",
+                "operator": "Gmina Olszanka",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 7433"
+            }
+        },
+        {
+            "id": 19256,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.51103,
+                    50.82417
+                ]
+            },
+            "properties": {
+                "ref:rspo": 19256,
+                "official_name": "Publiczne Przedszkole w Olszance",
+                "name": "Publiczne Przedszkole w Olszance",
+                "addr:country": "PL",
+                "addr:postcode": "49-332",
+                "addr:place": "Olszanka",
+                "addr:housenumber": "94",
+                "addr:teryt:sym_ul": 500620,
+                "contact:phone": "+48 774129717",
+                "contact:email": "zs_olszanka@wodip.opole.pl",
+                "contact:website": "https:\/\/pzspolszanka.szkolna.net",
+                "ref:regon": "530590681",
+                "ref:vatin": "PL7471703584",
+                "operator": "Gmina Olszanka",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 7433"
+            }
+        }
+    ]
+}

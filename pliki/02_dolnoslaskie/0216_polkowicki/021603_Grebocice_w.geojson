@@ -1,1 +1,97 @@
-{"type":"FeatureCollection","features":[{"id":42747,"type":"Feature","geometry":{"type":"Point","coordinates":[16.26026,51.594]},"properties":{"isced:level":"1;2","ref:rspo":42747,"official_name":"Szko\u0142a Podstawowa im. Kornela Makuszy\u0144skiego w Rzeczycy","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"59-150","addr:place":"Rzeczyca","addr:housenumber":"1","addr:teryt:sym_ul":364067,"contact:phone":"+48 768315140","contact:email":"sprzeczyca@op.pl","ref:regon":"001239223","ref:vatin":"PL6922272649","operator":"Gmina Gr\u0119bocice","operator:type":"government","amenity":"school"}},{"id":42876,"type":"Feature","geometry":{"type":"Point","coordinates":[16.1665199,51.59866]},"properties":{"ref:rspo":42876,"official_name":"Przedszkole Publiczne im.jana Brzechwy w Gr\u0119bocicach","name":"Przedszkole Publiczne im.jana Brzechwy w Gr\u0119bocicach","addr:country":"PL","addr:postcode":"59-150","addr:city":"Gr\u0119bocice","addr:street":"ul. Ko\u015bcielna","addr:housenumber":"18A","addr:teryt:simc":9546,"addr:teryt:sym_ul":363978,"contact:phone":"+48 768315060","contact:email":"dyrektor@ppgrebocice.pl","contact:website":"http:\/\/ppgrebocice.pl","ref:regon":"001020424","ref:vatin":"PL6922327758","operator":"Gmina Gr\u0119bocice","operator:type":"government","amenity":"kindergarten"}},{"id":84899,"type":"Feature","geometry":{"type":"Point","coordinates":[16.1701,51.60058]},"properties":{"isced:level":"1;2","ref:rspo":84899,"official_name":"Szko\u0142a Podstawowa im. Janusza Kusoci\u0144skiego w Gr\u0119bocicach","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"59-150","addr:city":"Gr\u0119bocice","addr:street":"ul. Szkolna","addr:housenumber":"2","addr:teryt:simc":21970,"addr:teryt:sym_ul":363978,"contact:phone":"+48 768315046","contact:email":"sekretariat@spgrebocice.pl","contact:website":"http:\/\/spgrebocice.pl","ref:regon":"000268369","ref:vatin":"PL6931155707","operator":"Gmina Gr\u0119bocice","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 42747,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.26026,
+                    51.594
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 42747,
+                "official_name": "Szko\u0142a Podstawowa im. Kornela Makuszy\u0144skiego w Rzeczycy",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "59-150",
+                "addr:place": "Rzeczyca",
+                "addr:housenumber": "1",
+                "addr:teryt:sym_ul": 364067,
+                "contact:phone": "+48 768315140",
+                "contact:email": "sprzeczyca@op.pl",
+                "ref:regon": "001239223",
+                "ref:vatin": "PL6922272649",
+                "operator": "Gmina Gr\u0119bocice",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 42876,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.1665199,
+                    51.59866
+                ]
+            },
+            "properties": {
+                "ref:rspo": 42876,
+                "official_name": "Przedszkole Publiczne im.jana Brzechwy w Gr\u0119bocicach",
+                "name": "Przedszkole Publiczne im.jana Brzechwy w Gr\u0119bocicach",
+                "addr:country": "PL",
+                "addr:postcode": "59-150",
+                "addr:city": "Gr\u0119bocice",
+                "addr:street": "ul. Ko\u015bcielna",
+                "addr:housenumber": "18A",
+                "addr:teryt:simc": 9546,
+                "addr:teryt:sym_ul": 363978,
+                "contact:phone": "+48 768315060",
+                "contact:email": "dyrektor@ppgrebocice.pl",
+                "contact:website": "http:\/\/ppgrebocice.pl",
+                "ref:regon": "001020424",
+                "ref:vatin": "PL6922327758",
+                "operator": "Gmina Gr\u0119bocice",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 84899,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.1701,
+                    51.60058
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 84899,
+                "official_name": "Szko\u0142a Podstawowa im. Janusza Kusoci\u0144skiego w Gr\u0119bocicach",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "59-150",
+                "addr:city": "Gr\u0119bocice",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "2",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 363978,
+                "contact:phone": "+48 768315046",
+                "contact:email": "sekretariat@spgrebocice.pl",
+                "contact:website": "http:\/\/spgrebocice.pl",
+                "ref:regon": "000268369",
+                "ref:vatin": "PL6931155707",
+                "operator": "Gmina Gr\u0119bocice",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

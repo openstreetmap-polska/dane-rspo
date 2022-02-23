@@ -1,1 +1,225 @@
-{"type":"FeatureCollection","features":[{"id":69070,"type":"Feature","geometry":{"type":"Point","coordinates":[21.92138,52.01334]},"properties":{"ref:rspo":69070,"official_name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 w Seroczynie","name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 w Seroczynie","addr:country":"PL","addr:postcode":"08-116","addr:city":"Seroczyn","addr:street":"ul. Siedlecka","addr:housenumber":"11","addr:teryt:simc":19769,"addr:teryt:sym_ul":694876,"contact:phone":"+48 256314218","contact:email":"seroczyn@pro.onet.pl","contact:website":"http:\/\/zsseroczyn.pl","ref:regon":"712478615","ref:vatin":"PL8211962616","operator":"Gmina Wodynie","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 110219;110222"}},{"id":110219,"type":"Feature","geometry":{"type":"Point","coordinates":[21.92138,52.01331]},"properties":{"isced:level":"1;2","ref:rspo":110219,"official_name":"Szko\u0142a Podstawowa im. Ks. W. Lewandowskiego","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"08-116","addr:city":"Seroczyn","addr:street":"ul. Siedlecka","addr:housenumber":"11","addr:teryt:simc":19769,"addr:teryt:sym_ul":694876,"contact:phone":"+48 256314218","contact:email":"seroczyn@pro.onet.pl","contact:website":"http:\/\/zsseroczyn.pl","ref:regon":"001137474","operator":"Gmina Wodynie","operator:type":"government","amenity":"school","note":"Parent RSPO: 69070"}},{"id":110222,"type":"Feature","geometry":{"type":"Point","coordinates":[21.9204599,52.01504]},"properties":{"ref:rspo":110222,"official_name":"Samorz\u0105dowe Przedszkole w Seroczynie","name":"Samorz\u0105dowe Przedszkole w Seroczynie","addr:country":"PL","addr:postcode":"08-116","addr:city":"Seroczyn","addr:street":"ul. Siedlecka","addr:housenumber":"1","addr:teryt:simc":19769,"addr:teryt:sym_ul":694876,"contact:phone":"+48 256314037","contact:email":"seroczyn@pro.onet.pl","contact:website":"http:\/\/zsseroczyn.pl","ref:regon":"712376116","operator":"Gmina Wodynie","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 69070"}},{"id":69069,"type":"Feature","geometry":{"type":"Point","coordinates":[21.965,52.04012]},"properties":{"ref:rspo":69069,"official_name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 w Wodyniach","name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 w Wodyniach","addr:country":"PL","addr:postcode":"08-117","addr:city":"Wodynie","addr:street":"ul. Siedlecka","addr:housenumber":"7","addr:teryt:simc":19769,"addr:teryt:sym_ul":694959,"contact:phone":"+48 256312622","contact:email":"spwodynie@poczta.onet.pl","ref:regon":"712486632","ref:vatin":"PL8211956892","operator":"Gmina Wodynie","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 110220;121376"}},{"id":110220,"type":"Feature","geometry":{"type":"Point","coordinates":[21.965,52.04009]},"properties":{"ref:rspo":110220,"official_name":"Samorz\u0105dowe Przedszkole w Wodyniach","name":"Samorz\u0105dowe Przedszkole w Wodyniach","addr:country":"PL","addr:postcode":"08-117","addr:city":"Wodynie","addr:street":"ul. Siedlecka","addr:housenumber":"7","addr:teryt:simc":19769,"addr:teryt:sym_ul":694959,"contact:phone":"+48 256312622","ref:regon":"712376062","operator":"Gmina Wodynie","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 69069"}},{"id":121376,"type":"Feature","geometry":{"type":"Point","coordinates":[21.965,52.040060000000004]},"properties":{"isced:level":"1;2","ref:rspo":121376,"official_name":"Szko\u0142a Podstawowa Imienia W\u0142adys\u0142awa \u0141okietka w Wodyniach","name":"Szko\u0142a Podstawowa Imienia W\u0142adys\u0142awa \u0141okietka w Wodyniach","addr:country":"PL","addr:postcode":"08-117","addr:city":"Wodynie","addr:street":"ul. Siedlecka","addr:housenumber":"7","addr:teryt:simc":19769,"addr:teryt:sym_ul":694959,"contact:phone":"+48 256312622","contact:email":"spwodynie@poczta.onet.pl","contact:website":"http:\/\/www.zswodynie.pl","ref:regon":"000718105","ref:vatin":"PL8211956892","operator":"Gmina Wodynie","operator:type":"government","amenity":"school","note":"Parent RSPO: 69069"}},{"id":69068,"type":"Feature","geometry":{"type":"Point","coordinates":[22.05587,52.0585499]},"properties":{"isced:level":"1;2","ref:rspo":69068,"official_name":"Szko\u0142a Podstawowa im. Gen. J. Dwernickiego","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"08-117","addr:place":"Ruda Woli\u0144ska","addr:housenumber":"44","addr:teryt:sym_ul":694847,"contact:phone":"+48 256317106","contact:email":"sp_ruda@pro.onet.pl","contact:website":"http:\/\/sprudawolinska.pl","ref:regon":"001137451","ref:vatin":"PL8211962591","operator":"Gmina Wodynie","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 69070,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.92138,
+                    52.01334
+                ]
+            },
+            "properties": {
+                "ref:rspo": 69070,
+                "official_name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 w Seroczynie",
+                "name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 w Seroczynie",
+                "addr:country": "PL",
+                "addr:postcode": "08-116",
+                "addr:city": "Seroczyn",
+                "addr:street": "ul. Siedlecka",
+                "addr:housenumber": "11",
+                "addr:teryt:simc": 19769,
+                "addr:teryt:sym_ul": 694876,
+                "contact:phone": "+48 256314218",
+                "contact:email": "seroczyn@pro.onet.pl",
+                "contact:website": "http:\/\/zsseroczyn.pl",
+                "ref:regon": "712478615",
+                "ref:vatin": "PL8211962616",
+                "operator": "Gmina Wodynie",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 110219;110222"
+            }
+        },
+        {
+            "id": 110219,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.92138,
+                    52.01331
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 110219,
+                "official_name": "Szko\u0142a Podstawowa im. Ks. W. Lewandowskiego",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "08-116",
+                "addr:city": "Seroczyn",
+                "addr:street": "ul. Siedlecka",
+                "addr:housenumber": "11",
+                "addr:teryt:simc": 19769,
+                "addr:teryt:sym_ul": 694876,
+                "contact:phone": "+48 256314218",
+                "contact:email": "seroczyn@pro.onet.pl",
+                "contact:website": "http:\/\/zsseroczyn.pl",
+                "ref:regon": "001137474",
+                "operator": "Gmina Wodynie",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 69070"
+            }
+        },
+        {
+            "id": 110222,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.9204599,
+                    52.01504
+                ]
+            },
+            "properties": {
+                "ref:rspo": 110222,
+                "official_name": "Samorz\u0105dowe Przedszkole w Seroczynie",
+                "name": "Samorz\u0105dowe Przedszkole w Seroczynie",
+                "addr:country": "PL",
+                "addr:postcode": "08-116",
+                "addr:city": "Seroczyn",
+                "addr:street": "ul. Siedlecka",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 19769,
+                "addr:teryt:sym_ul": 694876,
+                "contact:phone": "+48 256314037",
+                "contact:email": "seroczyn@pro.onet.pl",
+                "contact:website": "http:\/\/zsseroczyn.pl",
+                "ref:regon": "712376116",
+                "operator": "Gmina Wodynie",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 69070"
+            }
+        },
+        {
+            "id": 69069,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.965,
+                    52.04012
+                ]
+            },
+            "properties": {
+                "ref:rspo": 69069,
+                "official_name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 w Wodyniach",
+                "name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 w Wodyniach",
+                "addr:country": "PL",
+                "addr:postcode": "08-117",
+                "addr:city": "Wodynie",
+                "addr:street": "ul. Siedlecka",
+                "addr:housenumber": "7",
+                "addr:teryt:simc": 19769,
+                "addr:teryt:sym_ul": 694959,
+                "contact:phone": "+48 256312622",
+                "contact:email": "spwodynie@poczta.onet.pl",
+                "ref:regon": "712486632",
+                "ref:vatin": "PL8211956892",
+                "operator": "Gmina Wodynie",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 110220;121376"
+            }
+        },
+        {
+            "id": 110220,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.965,
+                    52.04009
+                ]
+            },
+            "properties": {
+                "ref:rspo": 110220,
+                "official_name": "Samorz\u0105dowe Przedszkole w Wodyniach",
+                "name": "Samorz\u0105dowe Przedszkole w Wodyniach",
+                "addr:country": "PL",
+                "addr:postcode": "08-117",
+                "addr:city": "Wodynie",
+                "addr:street": "ul. Siedlecka",
+                "addr:housenumber": "7",
+                "addr:teryt:simc": 19769,
+                "addr:teryt:sym_ul": 694959,
+                "contact:phone": "+48 256312622",
+                "ref:regon": "712376062",
+                "operator": "Gmina Wodynie",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 69069"
+            }
+        },
+        {
+            "id": 121376,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.965,
+                    52.040060000000004
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 121376,
+                "official_name": "Szko\u0142a Podstawowa Imienia W\u0142adys\u0142awa \u0141okietka w Wodyniach",
+                "name": "Szko\u0142a Podstawowa Imienia W\u0142adys\u0142awa \u0141okietka w Wodyniach",
+                "addr:country": "PL",
+                "addr:postcode": "08-117",
+                "addr:city": "Wodynie",
+                "addr:street": "ul. Siedlecka",
+                "addr:housenumber": "7",
+                "addr:teryt:simc": 19769,
+                "addr:teryt:sym_ul": 694959,
+                "contact:phone": "+48 256312622",
+                "contact:email": "spwodynie@poczta.onet.pl",
+                "contact:website": "http:\/\/www.zswodynie.pl",
+                "ref:regon": "000718105",
+                "ref:vatin": "PL8211956892",
+                "operator": "Gmina Wodynie",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 69069"
+            }
+        },
+        {
+            "id": 69068,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.05587,
+                    52.0585499
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 69068,
+                "official_name": "Szko\u0142a Podstawowa im. Gen. J. Dwernickiego",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "08-117",
+                "addr:place": "Ruda Woli\u0144ska",
+                "addr:housenumber": "44",
+                "addr:teryt:sym_ul": 694847,
+                "contact:phone": "+48 256317106",
+                "contact:email": "sp_ruda@pro.onet.pl",
+                "contact:website": "http:\/\/sprudawolinska.pl",
+                "ref:regon": "001137451",
+                "ref:vatin": "PL8211962591",
+                "operator": "Gmina Wodynie",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

@@ -1,1 +1,146 @@
-{"type":"FeatureCollection","features":[{"id":53603,"type":"Feature","geometry":{"type":"Point","coordinates":[14.9837,53.20369]},"properties":{"ref:rspo":53603,"official_name":"Punkt Przedszkolny Przy Szkole Podstawowej w Starym Przylepie","name":"Punkt Przedszkolny Przy Szkole Podstawowej w Starym Przylepie","addr:country":"PL","addr:postcode":"74-211","addr:place":"Stary Przylep","addr:housenumber":"60","addr:teryt:sym_ul":784912,"contact:phone":"+48 915630997","contact:email":"spstaryprzylep@interia.pl","ref:regon":"321289495","operator":"Gmina Warnice","operator:type":"government","amenity":"kindergarten"}},{"id":111852,"type":"Feature","geometry":{"type":"Point","coordinates":[14.9837,53.20366]},"properties":{"isced:level":"1;2","ref:rspo":111852,"official_name":"Szko\u0142a Podstawowa w Starym Przylepie Filia Szko\u0142y Podstawowej im.kawaler\u00f3w Orderu U\u015bmiechu w Warnicach","name":"Szko\u0142a Podstawowa w Starym Przylepie Filia Szko\u0142y Podstawowej im.kawaler\u00f3w Orderu U\u015bmiechu w Warnicach","addr:country":"PL","addr:postcode":"74-211","addr:place":"Stary Przylep","addr:housenumber":"60","addr:teryt:sym_ul":784912,"contact:phone":"+48 915630997","contact:email":"spstaryprzylep@interia.pl","ref:regon":"561520000","operator":"Gmina Warnice","operator:type":"government","amenity":"school","note":"Parent RSPO: 22946"}},{"id":22946,"type":"Feature","geometry":{"type":"Point","coordinates":[14.99486,53.25388]},"properties":{"isced:level":"1;2","ref:rspo":22946,"official_name":"Szko\u0142a Podstawowa im. Kawaler\u00f3w Orderu U\u015bmiechu","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"74-201","addr:place":"Warnice","addr:housenumber":"30","addr:teryt:sym_ul":784935,"contact:phone":"+48 915612860","contact:email":"spwarnice@wp.pl","contact:website":"http:\/\/www.spwarnice.edupage.org","ref:regon":"000561520","ref:vatin":"PL8531519928","operator":"Gmina Warnice","operator:type":"government","amenity":"school","note":"Children RSPO: 111852"}},{"id":127227,"type":"Feature","geometry":{"type":"Point","coordinates":[14.99486,53.25385]},"properties":{"ref:rspo":127227,"official_name":"Punkt Przedszkolny Przy Szkole Podstawowej im. Kawaler\u00f3w Orderu U\u015bmiechu w Warnicach","name":"Punkt Przedszkolny Przy Szkole Podstawowej","addr:country":"PL","addr:postcode":"74-201","addr:place":"Warnice","addr:housenumber":"30","addr:teryt:sym_ul":784935,"contact:phone":"+48 915612860","contact:email":"spwarnice@wp.pl","ref:regon":"361232104","operator":"Gmina Warnice","operator:type":"government","amenity":"kindergarten"}},{"id":265020,"type":"Feature","geometry":{"type":"Point","coordinates":[14.99486,53.253820000000005]},"properties":{"ref:rspo":265020,"official_name":"Punkt Przedszkolny Przy Szkole Podstawowej im. Kawaler\u00f3w Orderu U\u015bmiechu","name":"Punkt Przedszkolny Przy Szkole Podstawowej","addr:country":"PL","addr:postcode":"74-201","addr:place":"Warnice","addr:housenumber":"30","addr:teryt:sym_ul":784935,"contact:phone":"+48 915612860","contact:email":"spwarnice@wp.pl","ref:regon":"368555951","operator":"Gmina Warnice","operator:type":"government","amenity":"kindergarten"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 53603,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.9837,
+                    53.20369
+                ]
+            },
+            "properties": {
+                "ref:rspo": 53603,
+                "official_name": "Punkt Przedszkolny Przy Szkole Podstawowej w Starym Przylepie",
+                "name": "Punkt Przedszkolny Przy Szkole Podstawowej w Starym Przylepie",
+                "addr:country": "PL",
+                "addr:postcode": "74-211",
+                "addr:place": "Stary Przylep",
+                "addr:housenumber": "60",
+                "addr:teryt:sym_ul": 784912,
+                "contact:phone": "+48 915630997",
+                "contact:email": "spstaryprzylep@interia.pl",
+                "ref:regon": "321289495",
+                "operator": "Gmina Warnice",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 111852,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.9837,
+                    53.20366
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 111852,
+                "official_name": "Szko\u0142a Podstawowa w Starym Przylepie Filia Szko\u0142y Podstawowej im.kawaler\u00f3w Orderu U\u015bmiechu w Warnicach",
+                "name": "Szko\u0142a Podstawowa w Starym Przylepie Filia Szko\u0142y Podstawowej im.kawaler\u00f3w Orderu U\u015bmiechu w Warnicach",
+                "addr:country": "PL",
+                "addr:postcode": "74-211",
+                "addr:place": "Stary Przylep",
+                "addr:housenumber": "60",
+                "addr:teryt:sym_ul": 784912,
+                "contact:phone": "+48 915630997",
+                "contact:email": "spstaryprzylep@interia.pl",
+                "ref:regon": "561520000",
+                "operator": "Gmina Warnice",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 22946"
+            }
+        },
+        {
+            "id": 22946,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.99486,
+                    53.25388
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 22946,
+                "official_name": "Szko\u0142a Podstawowa im. Kawaler\u00f3w Orderu U\u015bmiechu",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "74-201",
+                "addr:place": "Warnice",
+                "addr:housenumber": "30",
+                "addr:teryt:sym_ul": 784935,
+                "contact:phone": "+48 915612860",
+                "contact:email": "spwarnice@wp.pl",
+                "contact:website": "http:\/\/www.spwarnice.edupage.org",
+                "ref:regon": "000561520",
+                "ref:vatin": "PL8531519928",
+                "operator": "Gmina Warnice",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Children RSPO: 111852"
+            }
+        },
+        {
+            "id": 127227,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.99486,
+                    53.25385
+                ]
+            },
+            "properties": {
+                "ref:rspo": 127227,
+                "official_name": "Punkt Przedszkolny Przy Szkole Podstawowej im. Kawaler\u00f3w Orderu U\u015bmiechu w Warnicach",
+                "name": "Punkt Przedszkolny Przy Szkole Podstawowej",
+                "addr:country": "PL",
+                "addr:postcode": "74-201",
+                "addr:place": "Warnice",
+                "addr:housenumber": "30",
+                "addr:teryt:sym_ul": 784935,
+                "contact:phone": "+48 915612860",
+                "contact:email": "spwarnice@wp.pl",
+                "ref:regon": "361232104",
+                "operator": "Gmina Warnice",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 265020,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.99486,
+                    53.253820000000005
+                ]
+            },
+            "properties": {
+                "ref:rspo": 265020,
+                "official_name": "Punkt Przedszkolny Przy Szkole Podstawowej im. Kawaler\u00f3w Orderu U\u015bmiechu",
+                "name": "Punkt Przedszkolny Przy Szkole Podstawowej",
+                "addr:country": "PL",
+                "addr:postcode": "74-201",
+                "addr:place": "Warnice",
+                "addr:housenumber": "30",
+                "addr:teryt:sym_ul": 784935,
+                "contact:phone": "+48 915612860",
+                "contact:email": "spwarnice@wp.pl",
+                "ref:regon": "368555951",
+                "operator": "Gmina Warnice",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        }
+    ]
+}

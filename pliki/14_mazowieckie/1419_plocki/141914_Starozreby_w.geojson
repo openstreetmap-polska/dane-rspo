@@ -1,1 +1,217 @@
-{"type":"FeatureCollection","features":[{"id":39889,"type":"Feature","geometry":{"type":"Point","coordinates":[19.92259,52.61245]},"properties":{"isced:level":"1;2","ref:rspo":39889,"official_name":"Szko\u0142a Podstawowa w Smardzewie","name":"Szko\u0142a Podstawowa w Smardzewie","addr:country":"PL","addr:postcode":"09-440","addr:place":"Smardzewo","addr:housenumber":"4","addr:teryt:sym_ul":577047,"contact:phone":"+48 242617009","contact:email":"sp_smardzewo@interia.pl","ref:regon":"001113485","ref:vatin":"PL7742573605","operator":"Gmina Staro\u017areby","operator:type":"government","amenity":"school"}},{"id":82649,"type":"Feature","geometry":{"type":"Point","coordinates":[19.99354,52.6331599]},"properties":{"ref:rspo":82649,"official_name":"Niepubliczne Przedszkole \"Kajtek\"","name":"Niepubliczne Przedszkole \"Kajtek\"","addr:country":"PL","addr:postcode":"09-440","addr:city":"Staro\u017areby","addr:street":"ul. P\u0142ocka","addr:housenumber":"69B","addr:teryt:simc":16511,"addr:teryt:sym_ul":577060,"contact:phone":"+48 508434319","contact:email":"annasobiesiak2@wp.pl","ref:regon":"146401674","ref:vatin":"PL7741183492","operator":"Anna Sobiesiak","operator:type":"private","amenity":"kindergarten"}},{"id":273761,"type":"Feature","geometry":{"type":"Point","coordinates":[19.98947,52.6337]},"properties":{"ref:rspo":273761,"official_name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w Staro\u017arebach","name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w Staro\u017arebach","addr:country":"PL","addr:postcode":"09-440","addr:city":"Staro\u017areby","addr:street":"ul. Szkolna","addr:housenumber":"7","addr:teryt:simc":21970,"addr:teryt:sym_ul":577060,"contact:phone":"+48 242617011","contact:email":"szkolastarozreby@wp.pl","ref:regon":"384613883","operator":"Gmina Staro\u017areby","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 39892;273762"}},{"id":39892,"type":"Feature","geometry":{"type":"Point","coordinates":[19.98947,52.633669999999995]},"properties":{"isced:level":"1;2","ref:rspo":39892,"official_name":"Szko\u0142a Podstawowa w Staro\u017arebach","name":"Szko\u0142a Podstawowa w Staro\u017arebach","addr:country":"PL","addr:postcode":"09-440","addr:city":"Staro\u017areby","addr:street":"ul. Szkolna","addr:housenumber":"7","addr:teryt:simc":21970,"addr:teryt:sym_ul":577060,"contact:phone":"+48 242617011","contact:email":"szkolastarozreby@wp.pl","ref:regon":"000273749","ref:vatin":"PL7742573485","operator":"Gmina Staro\u017areby","operator:type":"government","amenity":"school","note":"Parent RSPO: 273761"}},{"id":273762,"type":"Feature","geometry":{"type":"Point","coordinates":[19.98947,52.63364]},"properties":{"ref:rspo":273762,"official_name":"Przedszkole w Staro\u017arebach","name":"Przedszkole w Staro\u017arebach","addr:country":"PL","addr:postcode":"09-440","addr:city":"Staro\u017areby","addr:street":"ul. Szkolna","addr:housenumber":"7","addr:teryt:simc":21970,"addr:teryt:sym_ul":577060,"contact:phone":"+48 242617011","contact:email":"przedszkole.starozreby@gmail.com","ref:regon":"384614411","operator":"Gmina Staro\u017areby","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 273761"}},{"id":41073,"type":"Feature","geometry":{"type":"Point","coordinates":[20.09604,52.64614]},"properties":{"isced:level":"1;2","ref:rspo":41073,"official_name":"Szko\u0142a Podstawowa Im Zbigniewa D\u0142u\u017cniewskiego","name":"Szko\u0142a Podstawowa Im Zbigniewa D\u0142u\u017cniewskiego","addr:country":"PL","addr:postcode":"09-440","addr:city":"Nowa G\u00f3ra","addr:street":"ul. Szkolna","addr:housenumber":"6","addr:teryt:simc":21970,"addr:teryt:sym_ul":576705,"contact:phone":"+48 242618111","contact:email":"sp.nowagora@gmail.com","ref:regon":"001113456","ref:vatin":"PL7742573769","operator":"Gmina Staro\u017areby","operator:type":"government","amenity":"school"}},{"id":39888,"type":"Feature","geometry":{"type":"Point","coordinates":[19.9653199,52.66101]},"properties":{"isced:level":"1;2","ref:rspo":39888,"official_name":"Szko\u0142a Podstawowa im. Adama Mickiewicza w Przeciszewie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"09-440","addr:place":"Przeciszewo","addr:housenumber":"26","addr:teryt:sym_ul":576875,"contact:phone":"+48 242617076","contact:email":"przeciszewo@op.pl","ref:regon":"001113491","ref:vatin":"PL7742573982","operator":"Gmina Staro\u017areby","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 39889,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.92259,
+                    52.61245
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 39889,
+                "official_name": "Szko\u0142a Podstawowa w Smardzewie",
+                "name": "Szko\u0142a Podstawowa w Smardzewie",
+                "addr:country": "PL",
+                "addr:postcode": "09-440",
+                "addr:place": "Smardzewo",
+                "addr:housenumber": "4",
+                "addr:teryt:sym_ul": 577047,
+                "contact:phone": "+48 242617009",
+                "contact:email": "sp_smardzewo@interia.pl",
+                "ref:regon": "001113485",
+                "ref:vatin": "PL7742573605",
+                "operator": "Gmina Staro\u017areby",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 82649,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.99354,
+                    52.6331599
+                ]
+            },
+            "properties": {
+                "ref:rspo": 82649,
+                "official_name": "Niepubliczne Przedszkole \"Kajtek\"",
+                "name": "Niepubliczne Przedszkole \"Kajtek\"",
+                "addr:country": "PL",
+                "addr:postcode": "09-440",
+                "addr:city": "Staro\u017areby",
+                "addr:street": "ul. P\u0142ocka",
+                "addr:housenumber": "69B",
+                "addr:teryt:simc": 16511,
+                "addr:teryt:sym_ul": 577060,
+                "contact:phone": "+48 508434319",
+                "contact:email": "annasobiesiak2@wp.pl",
+                "ref:regon": "146401674",
+                "ref:vatin": "PL7741183492",
+                "operator": "Anna Sobiesiak",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 273761,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.98947,
+                    52.6337
+                ]
+            },
+            "properties": {
+                "ref:rspo": 273761,
+                "official_name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w Staro\u017arebach",
+                "name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w Staro\u017arebach",
+                "addr:country": "PL",
+                "addr:postcode": "09-440",
+                "addr:city": "Staro\u017areby",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "7",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 577060,
+                "contact:phone": "+48 242617011",
+                "contact:email": "szkolastarozreby@wp.pl",
+                "ref:regon": "384613883",
+                "operator": "Gmina Staro\u017areby",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 39892;273762"
+            }
+        },
+        {
+            "id": 39892,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.98947,
+                    52.633669999999995
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 39892,
+                "official_name": "Szko\u0142a Podstawowa w Staro\u017arebach",
+                "name": "Szko\u0142a Podstawowa w Staro\u017arebach",
+                "addr:country": "PL",
+                "addr:postcode": "09-440",
+                "addr:city": "Staro\u017areby",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "7",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 577060,
+                "contact:phone": "+48 242617011",
+                "contact:email": "szkolastarozreby@wp.pl",
+                "ref:regon": "000273749",
+                "ref:vatin": "PL7742573485",
+                "operator": "Gmina Staro\u017areby",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 273761"
+            }
+        },
+        {
+            "id": 273762,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.98947,
+                    52.63364
+                ]
+            },
+            "properties": {
+                "ref:rspo": 273762,
+                "official_name": "Przedszkole w Staro\u017arebach",
+                "name": "Przedszkole w Staro\u017arebach",
+                "addr:country": "PL",
+                "addr:postcode": "09-440",
+                "addr:city": "Staro\u017areby",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "7",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 577060,
+                "contact:phone": "+48 242617011",
+                "contact:email": "przedszkole.starozreby@gmail.com",
+                "ref:regon": "384614411",
+                "operator": "Gmina Staro\u017areby",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 273761"
+            }
+        },
+        {
+            "id": 41073,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.09604,
+                    52.64614
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 41073,
+                "official_name": "Szko\u0142a Podstawowa Im Zbigniewa D\u0142u\u017cniewskiego",
+                "name": "Szko\u0142a Podstawowa Im Zbigniewa D\u0142u\u017cniewskiego",
+                "addr:country": "PL",
+                "addr:postcode": "09-440",
+                "addr:city": "Nowa G\u00f3ra",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "6",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 576705,
+                "contact:phone": "+48 242618111",
+                "contact:email": "sp.nowagora@gmail.com",
+                "ref:regon": "001113456",
+                "ref:vatin": "PL7742573769",
+                "operator": "Gmina Staro\u017areby",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 39888,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.9653199,
+                    52.66101
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 39888,
+                "official_name": "Szko\u0142a Podstawowa im. Adama Mickiewicza w Przeciszewie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "09-440",
+                "addr:place": "Przeciszewo",
+                "addr:housenumber": "26",
+                "addr:teryt:sym_ul": 576875,
+                "contact:phone": "+48 242617076",
+                "contact:email": "przeciszewo@op.pl",
+                "ref:regon": "001113491",
+                "ref:vatin": "PL7742573982",
+                "operator": "Gmina Staro\u017areby",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

@@ -1,1 +1,218 @@
-{"type":"FeatureCollection","features":[{"id":18835,"type":"Feature","geometry":{"type":"Point","coordinates":[17.84174,53.15767]},"properties":{"isced:level":"1;2","ref:rspo":18835,"official_name":"Szko\u0142a Podstawowa im. Kardyna\u0142a Stefana Wyszy\u0144skiego w Kruszynie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"86-014","addr:city":"Kruszyn","addr:street":"ul. Szkolna","addr:housenumber":"6","addr:teryt:simc":21970,"addr:teryt:sym_ul":95420,"contact:phone":"+48 523815106","contact:email":"sekretariat@spkruszyn.edu.pl","contact:website":"http:\/\/spkruszyn.edupage.org","ref:regon":"001157666","ref:vatin":"PL5542347464","operator":"Gmina Sicienko","operator:type":"government","amenity":"school"}},{"id":18756,"type":"Feature","geometry":{"type":"Point","coordinates":[17.83975,53.15903]},"properties":{"isced:level":"1;2","ref:rspo":18756,"official_name":"Szko\u0142a Podstawowa im. Miko\u0142aja Kopernika w Sicienku","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"86-014","addr:city":"Sicienko","addr:street":"ul. Bydgoska","addr:housenumber":"8","addr:teryt:simc":2498,"addr:teryt:sym_ul":95621,"contact:phone":"+48 525870569","contact:email":"sp.sicienko@sicienko.pl","contact:website":"http:\/\/www.szkola-sicienko.pl","ref:regon":"000272247","ref:vatin":"PL5542495124","operator":"Gmina Sicienko","operator:type":"government","amenity":"school"}},{"id":18758,"type":"Feature","geometry":{"type":"Point","coordinates":[17.8003879,53.20441]},"properties":{"isced:level":"1;2","ref:rspo":18758,"official_name":"Szko\u0142a Podstawowa im. Anieli Hrabiny Potulickiej w Wojnowie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"86-014","addr:place":"Wojnowo","addr:housenumber":"1A","addr:teryt:sym_ul":95756,"contact:phone":"+48 525870566","contact:email":"sp.wojnowo@sicienko.pl","contact:website":"http:\/\/www.wojnowo.edu.pl","ref:regon":"001157643","ref:vatin":"PL5542347346","operator":"Gmina Sicienko","operator:type":"government","amenity":"school"}},{"id":18836,"type":"Feature","geometry":{"type":"Point","coordinates":[17.8003879,53.20438]},"properties":{"isced:level":"1;2","ref:rspo":18836,"official_name":"Szko\u0142a Podstawowa im. Komisji Edukacji Narodowej w Strzelewie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"86-014","addr:place":"Strzelewo","addr:housenumber":"1","addr:teryt:sym_ul":95644,"contact:phone":"+48 525831780","contact:email":"sp.strzelewo@sicienko.pl","contact:website":"http:\/\/www.spstrzelewo.pl","ref:regon":"001157689","ref:vatin":"PL5542347257","operator":"Gmina Sicienko","operator:type":"government","amenity":"school"}},{"id":275292,"type":"Feature","geometry":{"type":"Point","coordinates":[17.676265,53.206018]},"properties":{"ref:rspo":275292,"official_name":"Zesp\u00f3\u0142 Szkolno - Przedszkolny w Samsiecznie","name":"Zesp\u00f3\u0142 Szkolno - Przedszkolny w Samsiecznie","addr:country":"PL","addr:postcode":"86-014","addr:place":"Samsieczno","addr:housenumber":"34A","addr:teryt:sym_ul":95590,"contact:phone":"+48 525828933","contact:email":"sp.samsieczno@sicienko.pl","contact:website":"https:\/\/spsamsieczno.edupage.org\/","ref:regon":"386796675","operator":"Gmina Sicienko","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 20774;275293"}},{"id":20774,"type":"Feature","geometry":{"type":"Point","coordinates":[17.676265,53.205988]},"properties":{"isced:level":"1;2","ref:rspo":20774,"official_name":"Szko\u0142a Podstawowa im. Ziemi Kraje\u0144skiej w Samsiecznie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"86-014","addr:place":"Samsieczno","addr:housenumber":"34A","addr:teryt:sym_ul":95590,"contact:phone":"+48 525828933","contact:email":"spsamsieczno@wp.pl","contact:website":"http:\/\/spsamsieczno.edupage.org","ref:regon":"001157672","ref:vatin":"PL5542347487","operator":"Gmina Sicienko","operator:type":"government","amenity":"school","note":"Parent RSPO: 275292"}},{"id":275293,"type":"Feature","geometry":{"type":"Point","coordinates":[17.76875,53.23939]},"properties":{"ref:rspo":275293,"official_name":"Przedszkole Samorz\u0105dowe w Trzemi\u0119towie","name":"Przedszkole Samorz\u0105dowe w Trzemi\u0119towie","addr:country":"PL","addr:postcode":"86-014","addr:place":"Trzemi\u0119towo","addr:housenumber":"2","addr:teryt:sym_ul":95680,"contact:phone":"+48 525828933","contact:email":"spsamsieczno@wp.pl","ref:regon":"386796698","operator":"Gmina Sicienko","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 275292"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 18835,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.84174,
+                    53.15767
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 18835,
+                "official_name": "Szko\u0142a Podstawowa im. Kardyna\u0142a Stefana Wyszy\u0144skiego w Kruszynie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "86-014",
+                "addr:city": "Kruszyn",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "6",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 95420,
+                "contact:phone": "+48 523815106",
+                "contact:email": "sekretariat@spkruszyn.edu.pl",
+                "contact:website": "http:\/\/spkruszyn.edupage.org",
+                "ref:regon": "001157666",
+                "ref:vatin": "PL5542347464",
+                "operator": "Gmina Sicienko",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 18756,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.83975,
+                    53.15903
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 18756,
+                "official_name": "Szko\u0142a Podstawowa im. Miko\u0142aja Kopernika w Sicienku",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "86-014",
+                "addr:city": "Sicienko",
+                "addr:street": "ul. Bydgoska",
+                "addr:housenumber": "8",
+                "addr:teryt:simc": 2498,
+                "addr:teryt:sym_ul": 95621,
+                "contact:phone": "+48 525870569",
+                "contact:email": "sp.sicienko@sicienko.pl",
+                "contact:website": "http:\/\/www.szkola-sicienko.pl",
+                "ref:regon": "000272247",
+                "ref:vatin": "PL5542495124",
+                "operator": "Gmina Sicienko",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 18758,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.8003879,
+                    53.20441
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 18758,
+                "official_name": "Szko\u0142a Podstawowa im. Anieli Hrabiny Potulickiej w Wojnowie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "86-014",
+                "addr:place": "Wojnowo",
+                "addr:housenumber": "1A",
+                "addr:teryt:sym_ul": 95756,
+                "contact:phone": "+48 525870566",
+                "contact:email": "sp.wojnowo@sicienko.pl",
+                "contact:website": "http:\/\/www.wojnowo.edu.pl",
+                "ref:regon": "001157643",
+                "ref:vatin": "PL5542347346",
+                "operator": "Gmina Sicienko",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 18836,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.8003879,
+                    53.20438
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 18836,
+                "official_name": "Szko\u0142a Podstawowa im. Komisji Edukacji Narodowej w Strzelewie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "86-014",
+                "addr:place": "Strzelewo",
+                "addr:housenumber": "1",
+                "addr:teryt:sym_ul": 95644,
+                "contact:phone": "+48 525831780",
+                "contact:email": "sp.strzelewo@sicienko.pl",
+                "contact:website": "http:\/\/www.spstrzelewo.pl",
+                "ref:regon": "001157689",
+                "ref:vatin": "PL5542347257",
+                "operator": "Gmina Sicienko",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 275292,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.676265,
+                    53.206018
+                ]
+            },
+            "properties": {
+                "ref:rspo": 275292,
+                "official_name": "Zesp\u00f3\u0142 Szkolno - Przedszkolny w Samsiecznie",
+                "name": "Zesp\u00f3\u0142 Szkolno - Przedszkolny w Samsiecznie",
+                "addr:country": "PL",
+                "addr:postcode": "86-014",
+                "addr:place": "Samsieczno",
+                "addr:housenumber": "34A",
+                "addr:teryt:sym_ul": 95590,
+                "contact:phone": "+48 525828933",
+                "contact:email": "sp.samsieczno@sicienko.pl",
+                "contact:website": "https:\/\/spsamsieczno.edupage.org\/",
+                "ref:regon": "386796675",
+                "operator": "Gmina Sicienko",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 20774;275293"
+            }
+        },
+        {
+            "id": 20774,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.676265,
+                    53.205988
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 20774,
+                "official_name": "Szko\u0142a Podstawowa im. Ziemi Kraje\u0144skiej w Samsiecznie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "86-014",
+                "addr:place": "Samsieczno",
+                "addr:housenumber": "34A",
+                "addr:teryt:sym_ul": 95590,
+                "contact:phone": "+48 525828933",
+                "contact:email": "spsamsieczno@wp.pl",
+                "contact:website": "http:\/\/spsamsieczno.edupage.org",
+                "ref:regon": "001157672",
+                "ref:vatin": "PL5542347487",
+                "operator": "Gmina Sicienko",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 275292"
+            }
+        },
+        {
+            "id": 275293,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.76875,
+                    53.23939
+                ]
+            },
+            "properties": {
+                "ref:rspo": 275293,
+                "official_name": "Przedszkole Samorz\u0105dowe w Trzemi\u0119towie",
+                "name": "Przedszkole Samorz\u0105dowe w Trzemi\u0119towie",
+                "addr:country": "PL",
+                "addr:postcode": "86-014",
+                "addr:place": "Trzemi\u0119towo",
+                "addr:housenumber": "2",
+                "addr:teryt:sym_ul": 95680,
+                "contact:phone": "+48 525828933",
+                "contact:email": "spsamsieczno@wp.pl",
+                "ref:regon": "386796698",
+                "operator": "Gmina Sicienko",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 275292"
+            }
+        }
+    ]
+}

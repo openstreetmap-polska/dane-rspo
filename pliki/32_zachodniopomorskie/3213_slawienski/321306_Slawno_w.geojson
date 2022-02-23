@@ -1,1 +1,232 @@
-{"type":"FeatureCollection","features":[{"id":9299,"type":"Feature","geometry":{"type":"Point","coordinates":[16.79863,54.29069]},"properties":{"isced:level":"1;2","ref:rspo":9299,"official_name":"Szko\u0142a Podstawowa im.gen.stefana Roweckiego-Grota w \u017bukowie","name":"Szko\u0142a Podstawowa im.gen.stefana Roweckiego-Grota w \u017bukowie","addr:country":"PL","addr:postcode":"76-124","addr:place":"\u017bukowo","addr:housenumber":"65","addr:teryt:sym_ul":750557,"contact:phone":"+48 598582223","contact:email":"spzukowo@gminaslawno.pl","ref:regon":"001276773","operator":"Gmina S\u0142awno","operator:type":"government","amenity":"school"}},{"id":118427,"type":"Feature","geometry":{"type":"Point","coordinates":[16.74705,54.30715]},"properties":{"ref:rspo":118427,"official_name":"Przedszkole Gminne w Gwiazdowie","name":"Przedszkole Gminne w Gwiazdowie","addr:country":"PL","addr:postcode":"76-124","addr:place":"Gwiazdowo","addr:housenumber":"43","addr:teryt:sym_ul":750273,"contact:phone":"+48 598582220","contact:email":"przedszkolegwiazdowo@gminaslawno.pl","ref:regon":"321408385","operator":"Gmina S\u0142awno","operator:type":"government","amenity":"kindergarten"}},{"id":9294,"type":"Feature","geometry":{"type":"Point","coordinates":[16.63225,54.34245]},"properties":{"isced:level":"1;2","ref:rspo":9294,"official_name":"Szko\u0142a Podstawowa im.gen.augusta Emila Fieldorfa Ps\"Nil\" w Bobrowicach","name":"Szko\u0142a Podstawowa im.gen.augusta Emila Fieldorfa Ps\"Nil\" w Bobrowicach","addr:country":"PL","addr:postcode":"76-100","addr:place":"Bobrowice","addr:housenumber":"22","addr:teryt:sym_ul":750238,"contact:phone":"+48 598103314","contact:email":"spbobrowice@gminaslawno.pl","ref:regon":"001276945","operator":"Gmina S\u0142awno","operator:type":"government","amenity":"school"}},{"id":9297,"type":"Feature","geometry":{"type":"Point","coordinates":[16.70893,54.36482]},"properties":{"isced:level":"1;2","ref:rspo":9297,"official_name":"Szko\u0142a Podstawowa im.\u017co\u0142nierzy Armii Krajowej w Warszkowie","name":"Szko\u0142a Podstawowa im.\u017co\u0142nierzy Armii Krajowej w Warszkowie","addr:country":"PL","addr:postcode":"76-100","addr:city":"Warszkowo","addr:street":"ul. Szkolna","addr:housenumber":"17","addr:teryt:simc":21970,"addr:teryt:sym_ul":750505,"contact:phone":"+48 598105413","contact:email":"spwarszkowo@gminaslawno.pl","contact:website":"http:\/\/spwarszkowo.pl","ref:regon":"001141240","operator":"Gmina S\u0142awno","operator:type":"government","amenity":"school"}},{"id":9296,"type":"Feature","geometry":{"type":"Point","coordinates":[16.70741,54.39414]},"properties":{"isced:level":"1;2","ref:rspo":9296,"official_name":"Szko\u0142a Podstawowa im.jana Kochanowskiego w S\u0142awsku","name":"Szko\u0142a Podstawowa im.jana Kochanowskiego w S\u0142awsku","addr:country":"PL","addr:postcode":"76-100","addr:place":"S\u0142awsko","addr:housenumber":"97a","addr:teryt:sym_ul":750416,"contact:phone":"+48 598103802","contact:email":"spslawsko@gminaslawno.pl","ref:regon":"001276780","operator":"Gmina S\u0142awno","operator:type":"government","amenity":"school"}},{"id":9298,"type":"Feature","geometry":{"type":"Point","coordinates":[16.77859,54.39941]},"properties":{"isced:level":"1;2","ref:rspo":9298,"official_name":"Szko\u0142a Podstawowa we Wrze\u015bnicy","name":"Szko\u0142a Podstawowa we Wrze\u015bnicy","addr:country":"PL","addr:postcode":"76-122","addr:place":"Wrze\u015bnica","addr:housenumber":"19a","addr:teryt:sym_ul":750534,"contact:phone":"+48 598108823","contact:email":"spwrzesnica@gminaslawno.pl","contact:website":"http:\/\/szkolawrzesnica.pl","ref:regon":"001141346","operator":"Gmina S\u0142awno","operator:type":"government","amenity":"school"}},{"id":120099,"type":"Feature","geometry":{"type":"Point","coordinates":[16.77764,54.39967]},"properties":{"ref:rspo":120099,"official_name":"Przedszkole Niepubliczne \"Ekoludki\" we Wrze\u015bnicy","name":"Przedszkole Niepubliczne \"Ekoludki\" we Wrze\u015bnicy","addr:country":"PL","addr:postcode":"76-100","addr:place":"Wrze\u015bnica","addr:housenumber":"111","addr:teryt:sym_ul":750534,"contact:email":"jednoscwrzesnica@o2.pl","contact:website":"http:\/\/www.ekoludki.edu.pl","ref:regon":"321429051","operator":"Stowarzyszenie Na Rzecz Rozwoju Wsi Wrze\u015bnica \"Jedno\u015b\u0107\"","operator:type":"ngo","amenity":"kindergarten"}},{"id":68305,"type":"Feature","geometry":{"type":"Point","coordinates":[16.40694,54.44094]},"properties":{"ref:rspo":68305,"official_name":"Przedszkole Niepubliczne Pajacyki w Warszkowie","name":"Przedszkole Niepubliczne Pajacyki w Warszkowie","addr:country":"PL","addr:postcode":"76-100","addr:city":"Warszkowo","addr:street":"ul. Jana Paw\u0142a II","addr:housenumber":"1","addr:teryt:simc":7123,"addr:teryt:sym_ul":750505,"contact:email":"pajacyki.pl@wp.pl","ref:regon":"321296331","ref:vatin":"PL4990561158","operator":"Stowarzyszenie Przyjaci\u00f3\u0142 Warszkowa","operator:type":"ngo","amenity":"kindergarten"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 9299,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.79863,
+                    54.29069
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 9299,
+                "official_name": "Szko\u0142a Podstawowa im.gen.stefana Roweckiego-Grota w \u017bukowie",
+                "name": "Szko\u0142a Podstawowa im.gen.stefana Roweckiego-Grota w \u017bukowie",
+                "addr:country": "PL",
+                "addr:postcode": "76-124",
+                "addr:place": "\u017bukowo",
+                "addr:housenumber": "65",
+                "addr:teryt:sym_ul": 750557,
+                "contact:phone": "+48 598582223",
+                "contact:email": "spzukowo@gminaslawno.pl",
+                "ref:regon": "001276773",
+                "operator": "Gmina S\u0142awno",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 118427,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.74705,
+                    54.30715
+                ]
+            },
+            "properties": {
+                "ref:rspo": 118427,
+                "official_name": "Przedszkole Gminne w Gwiazdowie",
+                "name": "Przedszkole Gminne w Gwiazdowie",
+                "addr:country": "PL",
+                "addr:postcode": "76-124",
+                "addr:place": "Gwiazdowo",
+                "addr:housenumber": "43",
+                "addr:teryt:sym_ul": 750273,
+                "contact:phone": "+48 598582220",
+                "contact:email": "przedszkolegwiazdowo@gminaslawno.pl",
+                "ref:regon": "321408385",
+                "operator": "Gmina S\u0142awno",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 9294,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.63225,
+                    54.34245
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 9294,
+                "official_name": "Szko\u0142a Podstawowa im.gen.augusta Emila Fieldorfa Ps\"Nil\" w Bobrowicach",
+                "name": "Szko\u0142a Podstawowa im.gen.augusta Emila Fieldorfa Ps\"Nil\" w Bobrowicach",
+                "addr:country": "PL",
+                "addr:postcode": "76-100",
+                "addr:place": "Bobrowice",
+                "addr:housenumber": "22",
+                "addr:teryt:sym_ul": 750238,
+                "contact:phone": "+48 598103314",
+                "contact:email": "spbobrowice@gminaslawno.pl",
+                "ref:regon": "001276945",
+                "operator": "Gmina S\u0142awno",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 9297,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.70893,
+                    54.36482
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 9297,
+                "official_name": "Szko\u0142a Podstawowa im.\u017co\u0142nierzy Armii Krajowej w Warszkowie",
+                "name": "Szko\u0142a Podstawowa im.\u017co\u0142nierzy Armii Krajowej w Warszkowie",
+                "addr:country": "PL",
+                "addr:postcode": "76-100",
+                "addr:city": "Warszkowo",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "17",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 750505,
+                "contact:phone": "+48 598105413",
+                "contact:email": "spwarszkowo@gminaslawno.pl",
+                "contact:website": "http:\/\/spwarszkowo.pl",
+                "ref:regon": "001141240",
+                "operator": "Gmina S\u0142awno",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 9296,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.70741,
+                    54.39414
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 9296,
+                "official_name": "Szko\u0142a Podstawowa im.jana Kochanowskiego w S\u0142awsku",
+                "name": "Szko\u0142a Podstawowa im.jana Kochanowskiego w S\u0142awsku",
+                "addr:country": "PL",
+                "addr:postcode": "76-100",
+                "addr:place": "S\u0142awsko",
+                "addr:housenumber": "97a",
+                "addr:teryt:sym_ul": 750416,
+                "contact:phone": "+48 598103802",
+                "contact:email": "spslawsko@gminaslawno.pl",
+                "ref:regon": "001276780",
+                "operator": "Gmina S\u0142awno",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 9298,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.77859,
+                    54.39941
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 9298,
+                "official_name": "Szko\u0142a Podstawowa we Wrze\u015bnicy",
+                "name": "Szko\u0142a Podstawowa we Wrze\u015bnicy",
+                "addr:country": "PL",
+                "addr:postcode": "76-122",
+                "addr:place": "Wrze\u015bnica",
+                "addr:housenumber": "19a",
+                "addr:teryt:sym_ul": 750534,
+                "contact:phone": "+48 598108823",
+                "contact:email": "spwrzesnica@gminaslawno.pl",
+                "contact:website": "http:\/\/szkolawrzesnica.pl",
+                "ref:regon": "001141346",
+                "operator": "Gmina S\u0142awno",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 120099,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.77764,
+                    54.39967
+                ]
+            },
+            "properties": {
+                "ref:rspo": 120099,
+                "official_name": "Przedszkole Niepubliczne \"Ekoludki\" we Wrze\u015bnicy",
+                "name": "Przedszkole Niepubliczne \"Ekoludki\" we Wrze\u015bnicy",
+                "addr:country": "PL",
+                "addr:postcode": "76-100",
+                "addr:place": "Wrze\u015bnica",
+                "addr:housenumber": "111",
+                "addr:teryt:sym_ul": 750534,
+                "contact:email": "jednoscwrzesnica@o2.pl",
+                "contact:website": "http:\/\/www.ekoludki.edu.pl",
+                "ref:regon": "321429051",
+                "operator": "Stowarzyszenie Na Rzecz Rozwoju Wsi Wrze\u015bnica \"Jedno\u015b\u0107\"",
+                "operator:type": "ngo",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 68305,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.40694,
+                    54.44094
+                ]
+            },
+            "properties": {
+                "ref:rspo": 68305,
+                "official_name": "Przedszkole Niepubliczne Pajacyki w Warszkowie",
+                "name": "Przedszkole Niepubliczne Pajacyki w Warszkowie",
+                "addr:country": "PL",
+                "addr:postcode": "76-100",
+                "addr:city": "Warszkowo",
+                "addr:street": "ul. Jana Paw\u0142a II",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 7123,
+                "addr:teryt:sym_ul": 750505,
+                "contact:email": "pajacyki.pl@wp.pl",
+                "ref:regon": "321296331",
+                "ref:vatin": "PL4990561158",
+                "operator": "Stowarzyszenie Przyjaci\u00f3\u0142 Warszkowa",
+                "operator:type": "ngo",
+                "amenity": "kindergarten"
+            }
+        }
+    ]
+}

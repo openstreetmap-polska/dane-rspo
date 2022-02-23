@@ -1,1 +1,122 @@
-{"type":"FeatureCollection","features":[{"id":81571,"type":"Feature","geometry":{"type":"Point","coordinates":[15.833065,54.115886]},"properties":{"isced:level":"1;2","ref:rspo":81571,"official_name":"Szko\u0142a Podstawowa im. Ignacego \u0141ukasiewicza we Wrzosowie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"78-114","addr:place":"Wrzosowo","addr:housenumber":"55","addr:teryt:sym_ul":306199,"contact:phone":"+48 943141714","contact:email":"sekretariat@zswrzosowo.pl","contact:website":"http:\/\/www.spwrzosowo.pl","ref:regon":"001175670","operator":"Gmina Dygowo","operator:type":"government","amenity":"school"}},{"id":51855,"type":"Feature","geometry":{"type":"Point","coordinates":[15.7267,54.13461]},"properties":{"isced:level":"1;2","ref:rspo":51855,"official_name":"Szko\u0142a Podstawowa im. Adama Mickiewicza w Dygowie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"78-113","addr:city":"Dygowo","addr:street":"ul. Kolejowa","addr:housenumber":"10","addr:teryt:simc":8828,"addr:teryt:sym_ul":306012,"contact:phone":"+48 943584653","contact:email":"sekretariat@zsdygowo.pl","contact:website":"http:\/\/www.szkoladygowo.pl","ref:regon":"000563619","operator":"Gmina Dygowo","operator:type":"government","amenity":"school"}},{"id":17539,"type":"Feature","geometry":{"type":"Point","coordinates":[15.671641,54.138017]},"properties":{"isced:level":"1;2","ref:rspo":17539,"official_name":"Szko\u0142a Podstawowa Im Or\u0142a Bia\u0142ego w Czerninie","name":"Szko\u0142a Podstawowa Im Or\u0142a Bia\u0142ego w Czerninie","addr:country":"PL","addr:postcode":"78-113","addr:place":"Czernin","addr:housenumber":"29","addr:door":"29","addr:teryt:sym_ul":305998,"contact:phone":"+48 943584370","contact:email":"spczernin@op.pl","contact:website":"http:\/\/www.spczernin.pl","ref:regon":"331357071","ref:vatin":"PL6711771686","operator":"Gmina Dygowo","operator:type":"government","amenity":"school"}},{"id":72886,"type":"Feature","geometry":{"type":"Point","coordinates":[15.769274,54.146289]},"properties":{"ref:rspo":72886,"official_name":"Ognisko Przedszkolne Towarzystwa Przyjaci\u00f3\u0142 Dzieci G\u0105skowo 13,78-113 Dygowo","name":"Ognisko Przedszkolne Towarzystwa Przyjaci\u00f3\u0142 Dzieci G\u0105skowo 13,78-113 Dygowo","addr:country":"PL","addr:postcode":"78-113","addr:place":"G\u0105skowo","addr:housenumber":"13","addr:teryt:sym_ul":306041,"contact:phone":"+48 943423616","ref:regon":"321297164","operator":"Dane Do Uzupe\u0142nienia","operator:type":"private","amenity":"kindergarten"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 81571,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.833065,
+                    54.115886
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 81571,
+                "official_name": "Szko\u0142a Podstawowa im. Ignacego \u0141ukasiewicza we Wrzosowie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "78-114",
+                "addr:place": "Wrzosowo",
+                "addr:housenumber": "55",
+                "addr:teryt:sym_ul": 306199,
+                "contact:phone": "+48 943141714",
+                "contact:email": "sekretariat@zswrzosowo.pl",
+                "contact:website": "http:\/\/www.spwrzosowo.pl",
+                "ref:regon": "001175670",
+                "operator": "Gmina Dygowo",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 51855,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.7267,
+                    54.13461
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 51855,
+                "official_name": "Szko\u0142a Podstawowa im. Adama Mickiewicza w Dygowie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "78-113",
+                "addr:city": "Dygowo",
+                "addr:street": "ul. Kolejowa",
+                "addr:housenumber": "10",
+                "addr:teryt:simc": 8828,
+                "addr:teryt:sym_ul": 306012,
+                "contact:phone": "+48 943584653",
+                "contact:email": "sekretariat@zsdygowo.pl",
+                "contact:website": "http:\/\/www.szkoladygowo.pl",
+                "ref:regon": "000563619",
+                "operator": "Gmina Dygowo",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 17539,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.671641,
+                    54.138017
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 17539,
+                "official_name": "Szko\u0142a Podstawowa Im Or\u0142a Bia\u0142ego w Czerninie",
+                "name": "Szko\u0142a Podstawowa Im Or\u0142a Bia\u0142ego w Czerninie",
+                "addr:country": "PL",
+                "addr:postcode": "78-113",
+                "addr:place": "Czernin",
+                "addr:housenumber": "29",
+                "addr:door": "29",
+                "addr:teryt:sym_ul": 305998,
+                "contact:phone": "+48 943584370",
+                "contact:email": "spczernin@op.pl",
+                "contact:website": "http:\/\/www.spczernin.pl",
+                "ref:regon": "331357071",
+                "ref:vatin": "PL6711771686",
+                "operator": "Gmina Dygowo",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 72886,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.769274,
+                    54.146289
+                ]
+            },
+            "properties": {
+                "ref:rspo": 72886,
+                "official_name": "Ognisko Przedszkolne Towarzystwa Przyjaci\u00f3\u0142 Dzieci G\u0105skowo 13,78-113 Dygowo",
+                "name": "Ognisko Przedszkolne Towarzystwa Przyjaci\u00f3\u0142 Dzieci G\u0105skowo 13,78-113 Dygowo",
+                "addr:country": "PL",
+                "addr:postcode": "78-113",
+                "addr:place": "G\u0105skowo",
+                "addr:housenumber": "13",
+                "addr:teryt:sym_ul": 306041,
+                "contact:phone": "+48 943423616",
+                "ref:regon": "321297164",
+                "operator": "Dane Do Uzupe\u0142nienia",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        }
+    ]
+}

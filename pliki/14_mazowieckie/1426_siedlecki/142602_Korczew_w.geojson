@@ -1,1 +1,131 @@
-{"type":"FeatureCollection","features":[{"id":87173,"type":"Feature","geometry":{"type":"Point","coordinates":[22.55979,52.33527]},"properties":{"isced:level":"1;2","ref:rspo":87173,"official_name":"Publiczna Szko\u0142a Podstawowa w Nowym Bartkowie","name":"Publiczna Szko\u0142a Podstawowa w Nowym Bartkowie","addr:country":"PL","addr:postcode":"08-108","addr:place":"Nowy Bartk\u00f3w","addr:housenumber":"19","addr:teryt:sym_ul":675206,"contact:phone":"+48 256312067","contact:email":"achrusciel@wp.pl","ref:regon":"146457835","ref:vatin":"PL8212632358","operator":"Stowarzyszenie Przyjaci\u00f3\u0142 Szko\u0142y W Nowym Bartkowie","operator:type":"ngo","amenity":"school"}},{"id":86742,"type":"Feature","geometry":{"type":"Point","coordinates":[22.61422,52.3505899]},"properties":{"ref:rspo":86742,"official_name":"Zesp\u00f3\u0142 Plac\u00f3wek O\u015bwiatowych w Korczewie","name":"Zesp\u00f3\u0142 Plac\u00f3wek O\u015bwiatowych w Korczewie","addr:country":"PL","addr:postcode":"08-108","addr:city":"Korczew","addr:street":"ul. Szkolna","addr:housenumber":"4","addr:teryt:simc":21970,"addr:teryt:sym_ul":675146,"contact:phone":"+48 256312029","contact:email":"zpo-korczew@wp.pl","contact:website":"http:\/\/zpokorczew.edupage.org","ref:regon":"141065332","ref:vatin":"PL8212501490","operator":"Gmina Korczew","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 105183;105196"}},{"id":105183,"type":"Feature","geometry":{"type":"Point","coordinates":[22.61422,52.3505599]},"properties":{"isced:level":"1;2","ref:rspo":105183,"official_name":"Publiczna Szko\u0142a Podstawowa w Korczewie","name":"Publiczna Szko\u0142a Podstawowa w Korczewie","addr:country":"PL","addr:postcode":"08-108","addr:city":"Korczew","addr:street":"ul. Szkolna","addr:housenumber":"4","addr:teryt:simc":21970,"addr:teryt:sym_ul":675146,"contact:phone":"+48 256312029","contact:email":"zpo-korczew@wp.pl","contact:website":"http:\/\/www.zpokorczew.edupage.org","ref:regon":"000718000","ref:vatin":"PL8212172000","operator":"Gmina Korczew","operator:type":"government","amenity":"school","note":"Parent RSPO: 86742"}},{"id":105196,"type":"Feature","geometry":{"type":"Point","coordinates":[22.60898,52.35272]},"properties":{"ref:rspo":105196,"official_name":"Gminne Przedszkole Publiczne w Korczewie","name":"Gminne Przedszkole Publiczne w Korczewie","addr:country":"PL","addr:postcode":"08-108","addr:city":"Korczew","addr:street":"ul. Siedlecka","addr:housenumber":"8","addr:teryt:simc":19769,"addr:teryt:sym_ul":675146,"contact:phone":"+48 256312079","contact:email":"skaleta@wp.pl","ref:regon":"712365897","ref:vatin":"PL8212172052","operator":"Gmina Korczew","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 86742"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 87173,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.55979,
+                    52.33527
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 87173,
+                "official_name": "Publiczna Szko\u0142a Podstawowa w Nowym Bartkowie",
+                "name": "Publiczna Szko\u0142a Podstawowa w Nowym Bartkowie",
+                "addr:country": "PL",
+                "addr:postcode": "08-108",
+                "addr:place": "Nowy Bartk\u00f3w",
+                "addr:housenumber": "19",
+                "addr:teryt:sym_ul": 675206,
+                "contact:phone": "+48 256312067",
+                "contact:email": "achrusciel@wp.pl",
+                "ref:regon": "146457835",
+                "ref:vatin": "PL8212632358",
+                "operator": "Stowarzyszenie Przyjaci\u00f3\u0142 Szko\u0142y W Nowym Bartkowie",
+                "operator:type": "ngo",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 86742,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.61422,
+                    52.3505899
+                ]
+            },
+            "properties": {
+                "ref:rspo": 86742,
+                "official_name": "Zesp\u00f3\u0142 Plac\u00f3wek O\u015bwiatowych w Korczewie",
+                "name": "Zesp\u00f3\u0142 Plac\u00f3wek O\u015bwiatowych w Korczewie",
+                "addr:country": "PL",
+                "addr:postcode": "08-108",
+                "addr:city": "Korczew",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "4",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 675146,
+                "contact:phone": "+48 256312029",
+                "contact:email": "zpo-korczew@wp.pl",
+                "contact:website": "http:\/\/zpokorczew.edupage.org",
+                "ref:regon": "141065332",
+                "ref:vatin": "PL8212501490",
+                "operator": "Gmina Korczew",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 105183;105196"
+            }
+        },
+        {
+            "id": 105183,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.61422,
+                    52.3505599
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 105183,
+                "official_name": "Publiczna Szko\u0142a Podstawowa w Korczewie",
+                "name": "Publiczna Szko\u0142a Podstawowa w Korczewie",
+                "addr:country": "PL",
+                "addr:postcode": "08-108",
+                "addr:city": "Korczew",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "4",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 675146,
+                "contact:phone": "+48 256312029",
+                "contact:email": "zpo-korczew@wp.pl",
+                "contact:website": "http:\/\/www.zpokorczew.edupage.org",
+                "ref:regon": "000718000",
+                "ref:vatin": "PL8212172000",
+                "operator": "Gmina Korczew",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 86742"
+            }
+        },
+        {
+            "id": 105196,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.60898,
+                    52.35272
+                ]
+            },
+            "properties": {
+                "ref:rspo": 105196,
+                "official_name": "Gminne Przedszkole Publiczne w Korczewie",
+                "name": "Gminne Przedszkole Publiczne w Korczewie",
+                "addr:country": "PL",
+                "addr:postcode": "08-108",
+                "addr:city": "Korczew",
+                "addr:street": "ul. Siedlecka",
+                "addr:housenumber": "8",
+                "addr:teryt:simc": 19769,
+                "addr:teryt:sym_ul": 675146,
+                "contact:phone": "+48 256312079",
+                "contact:email": "skaleta@wp.pl",
+                "ref:regon": "712365897",
+                "ref:vatin": "PL8212172052",
+                "operator": "Gmina Korczew",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 86742"
+            }
+        }
+    ]
+}

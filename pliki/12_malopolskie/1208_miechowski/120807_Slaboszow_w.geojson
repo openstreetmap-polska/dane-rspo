@@ -1,1 +1,65 @@
-{"type":"FeatureCollection","features":[{"id":58192,"type":"Feature","geometry":{"type":"Point","coordinates":[20.2683,50.383238]},"properties":{"isced:level":"1;2","ref:rspo":58192,"official_name":"Szko\u0142a Podstawowa im. \u015aw. Jana Paw\u0142a II w Dziaduszycach","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"32-218","addr:place":"Dziaduszyce","addr:housenumber":"23","addr:teryt:sym_ul":268346,"contact:phone":"+48 413847184","contact:email":"zsdziaduszyce@poczta.onet.pl","contact:website":"http:\/\/www.spdziaduszyce.szkolnastrona.pl","ref:regon":"356594541","ref:vatin":"PL6591375797","operator":"Gmina S\u0142abosz\u00f3w","operator:type":"government","amenity":"school"}},{"id":59730,"type":"Feature","geometry":{"type":"Point","coordinates":[20.211201,50.390707]},"properties":{"isced:level":"1;2","ref:rspo":59730,"official_name":"Szko\u0142a Podstawowa im. Partyzant\u00f3w Ziemi Miechowskiej w Janowicach","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"32-218","addr:place":"Janowice","addr:housenumber":"50","addr:teryt:sym_ul":268381,"contact:phone":"+48 413846001","contact:email":"spjanowice1@wp.pl","contact:website":"http:\/\/www.spjanowice.edupage.org","ref:regon":"001166168","ref:vatin":"PL6591375768","operator":"Gmina S\u0142abosz\u00f3w","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 58192,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.2683,
+                    50.383238
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 58192,
+                "official_name": "Szko\u0142a Podstawowa im. \u015aw. Jana Paw\u0142a II w Dziaduszycach",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "32-218",
+                "addr:place": "Dziaduszyce",
+                "addr:housenumber": "23",
+                "addr:teryt:sym_ul": 268346,
+                "contact:phone": "+48 413847184",
+                "contact:email": "zsdziaduszyce@poczta.onet.pl",
+                "contact:website": "http:\/\/www.spdziaduszyce.szkolnastrona.pl",
+                "ref:regon": "356594541",
+                "ref:vatin": "PL6591375797",
+                "operator": "Gmina S\u0142abosz\u00f3w",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 59730,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.211201,
+                    50.390707
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 59730,
+                "official_name": "Szko\u0142a Podstawowa im. Partyzant\u00f3w Ziemi Miechowskiej w Janowicach",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "32-218",
+                "addr:place": "Janowice",
+                "addr:housenumber": "50",
+                "addr:teryt:sym_ul": 268381,
+                "contact:phone": "+48 413846001",
+                "contact:email": "spjanowice1@wp.pl",
+                "contact:website": "http:\/\/www.spjanowice.edupage.org",
+                "ref:regon": "001166168",
+                "ref:vatin": "PL6591375768",
+                "operator": "Gmina S\u0142abosz\u00f3w",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

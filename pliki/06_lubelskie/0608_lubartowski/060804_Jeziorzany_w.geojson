@@ -1,1 +1,33 @@
-{"type":"FeatureCollection","features":[{"id":113668,"type":"Feature","geometry":{"type":"Point","coordinates":[22.2741893,51.6137281]},"properties":{"isced:level":"1;2","ref:rspo":113668,"official_name":"Szko\u0142a Podstawowa im.j\u00f3zefa Pi\u0142sudskiego w Przytocznie","name":"Szko\u0142a Podstawowa im.j\u00f3zefa Pi\u0142sudskiego w Przytocznie","addr:country":"PL","addr:postcode":"21-146","addr:place":"Przytoczno","addr:housenumber":"25","addr:teryt:sym_ul":381858,"contact:phone":"+48 818578016","contact:email":"spprzytoczno@vp.pl","ref:regon":"001180263","operator":"Gmina Jeziorzany","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 113668,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.2741893,
+                    51.6137281
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 113668,
+                "official_name": "Szko\u0142a Podstawowa im.j\u00f3zefa Pi\u0142sudskiego w Przytocznie",
+                "name": "Szko\u0142a Podstawowa im.j\u00f3zefa Pi\u0142sudskiego w Przytocznie",
+                "addr:country": "PL",
+                "addr:postcode": "21-146",
+                "addr:place": "Przytoczno",
+                "addr:housenumber": "25",
+                "addr:teryt:sym_ul": 381858,
+                "contact:phone": "+48 818578016",
+                "contact:email": "spprzytoczno@vp.pl",
+                "ref:regon": "001180263",
+                "operator": "Gmina Jeziorzany",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

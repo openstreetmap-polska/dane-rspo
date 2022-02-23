@@ -1,1 +1,191 @@
-{"type":"FeatureCollection","features":[{"id":85963,"type":"Feature","geometry":{"type":"Point","coordinates":[19.10073,51.16721]},"properties":{"isced:level":"1;2","ref:rspo":85963,"official_name":"Szko\u0142a Podstawowa w Dworszowicach Pakoszowych","name":"Szko\u0142a Podstawowa w Dworszowicach Pakoszowych","addr:country":"PL","addr:postcode":"98-338","addr:city":"Dworszowice Pakoszowe","addr:street":"ul. Szkolna","addr:housenumber":"4","addr:teryt:simc":21970,"addr:teryt:sym_ul":552656,"contact:phone":"+48 446846925","contact:email":"sp.dworszowicepak@interia.pl","contact:website":"http:\/\/spdworszowicepakoszowe.pl","ref:regon":"001160740","ref:vatin":"PL7722172607","operator":"Gmina Sulmierzyce","operator:type":"government","amenity":"school"}},{"id":86516,"type":"Feature","geometry":{"type":"Point","coordinates":[19.20802,51.18359]},"properties":{"ref:rspo":86516,"official_name":"Publiczne Przedszkole w Sulmierzycach","name":"Publiczne Przedszkole w Sulmierzycach","addr:country":"PL","addr:postcode":"98-338","addr:city":"Sulmierzyce","addr:street":"ul. Polna","addr:housenumber":"1A","addr:teryt:simc":17011,"addr:teryt:sym_ul":552892,"contact:phone":"+48 343207080","contact:email":"przedszkole.sulmierzyce@wp.pl","ref:regon":"592132622","ref:vatin":"PL7722172582","operator":"Gmina Sulmierzyce","operator:type":"government","amenity":"kindergarten"}},{"id":88231,"type":"Feature","geometry":{"type":"Point","coordinates":[19.2028,51.18451]},"properties":{"isced:level":"1;2","ref:rspo":88231,"official_name":"Szko\u0142a Podstawowa im. Ksi\u0119cia J\u00f3zefa Poniatowskiego w Sulmierzycach","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"98-338","addr:city":"Sulmierzyce","addr:street":"ul. Szkolna","addr:housenumber":"4","addr:teryt:simc":21970,"addr:teryt:sym_ul":552892,"contact:phone":"+48 446846043","contact:email":"szkolasu@interia.pl","contact:website":"http:\/\/www.szkolasulmierzyce.pl","ref:regon":"000273353","ref:vatin":"PL7722172576","operator":"Gmina Sulmierzyce","operator:type":"government","amenity":"school"}},{"id":85858,"type":"Feature","geometry":{"type":"Point","coordinates":[19.13331,51.18912]},"properties":{"ref:rspo":85858,"official_name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w Bogumi\u0142owicach","name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w Bogumi\u0142owicach","addr:country":"PL","addr:postcode":"98-338","addr:place":"Bogumi\u0142owice","addr:housenumber":"85","addr:teryt:sym_ul":552604,"contact:phone":"+48 446846876","contact:email":"spbogumilowice85@gmail.com","contact:website":"http:\/\/spbogumilowice.pl\/","ref:regon":"100062950","ref:vatin":"PL5080067189","operator":"Gmina Sulmierzyce","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 87964;87965"}},{"id":87964,"type":"Feature","geometry":{"type":"Point","coordinates":[19.13331,51.18909]},"properties":{"isced:level":"1;2","ref:rspo":87964,"official_name":"Szko\u0142a Podstawowa im. Marii Konopnickiej w Bogumi\u0142owicach","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"98-338","addr:place":"Bogumi\u0142owice","addr:housenumber":"85","addr:teryt:sym_ul":552604,"contact:phone":"+48 446846876","contact:email":"spbogumilowice85@gmail.com","contact:website":"http:\/\/spbogumilowice.pl\/","ref:regon":"001160734","ref:vatin":"PL7722172613","operator":"Gmina Sulmierzyce","operator:type":"government","amenity":"school","note":"Parent RSPO: 85858"}},{"id":87965,"type":"Feature","geometry":{"type":"Point","coordinates":[19.13331,51.189060000000005]},"properties":{"ref:rspo":87965,"official_name":"Przedszkole w Bogumi\u0142owicach","name":"Przedszkole w Bogumi\u0142owicach","addr:country":"PL","addr:postcode":"98-338","addr:place":"Bogumi\u0142owice","addr:housenumber":"85","addr:teryt:sym_ul":552604,"contact:phone":"+48 446846876","contact:email":"spbogumilowice85@gmail.com","contact:website":"http:\/\/www.spbogumilowice.pl","ref:regon":"590020528","ref:vatin":"PL7722172636","operator":"Gmina Sulmierzyce","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 85858"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 85963,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.10073,
+                    51.16721
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 85963,
+                "official_name": "Szko\u0142a Podstawowa w Dworszowicach Pakoszowych",
+                "name": "Szko\u0142a Podstawowa w Dworszowicach Pakoszowych",
+                "addr:country": "PL",
+                "addr:postcode": "98-338",
+                "addr:city": "Dworszowice Pakoszowe",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "4",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 552656,
+                "contact:phone": "+48 446846925",
+                "contact:email": "sp.dworszowicepak@interia.pl",
+                "contact:website": "http:\/\/spdworszowicepakoszowe.pl",
+                "ref:regon": "001160740",
+                "ref:vatin": "PL7722172607",
+                "operator": "Gmina Sulmierzyce",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 86516,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.20802,
+                    51.18359
+                ]
+            },
+            "properties": {
+                "ref:rspo": 86516,
+                "official_name": "Publiczne Przedszkole w Sulmierzycach",
+                "name": "Publiczne Przedszkole w Sulmierzycach",
+                "addr:country": "PL",
+                "addr:postcode": "98-338",
+                "addr:city": "Sulmierzyce",
+                "addr:street": "ul. Polna",
+                "addr:housenumber": "1A",
+                "addr:teryt:simc": 17011,
+                "addr:teryt:sym_ul": 552892,
+                "contact:phone": "+48 343207080",
+                "contact:email": "przedszkole.sulmierzyce@wp.pl",
+                "ref:regon": "592132622",
+                "ref:vatin": "PL7722172582",
+                "operator": "Gmina Sulmierzyce",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 88231,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.2028,
+                    51.18451
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 88231,
+                "official_name": "Szko\u0142a Podstawowa im. Ksi\u0119cia J\u00f3zefa Poniatowskiego w Sulmierzycach",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "98-338",
+                "addr:city": "Sulmierzyce",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "4",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 552892,
+                "contact:phone": "+48 446846043",
+                "contact:email": "szkolasu@interia.pl",
+                "contact:website": "http:\/\/www.szkolasulmierzyce.pl",
+                "ref:regon": "000273353",
+                "ref:vatin": "PL7722172576",
+                "operator": "Gmina Sulmierzyce",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 85858,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.13331,
+                    51.18912
+                ]
+            },
+            "properties": {
+                "ref:rspo": 85858,
+                "official_name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w Bogumi\u0142owicach",
+                "name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w Bogumi\u0142owicach",
+                "addr:country": "PL",
+                "addr:postcode": "98-338",
+                "addr:place": "Bogumi\u0142owice",
+                "addr:housenumber": "85",
+                "addr:teryt:sym_ul": 552604,
+                "contact:phone": "+48 446846876",
+                "contact:email": "spbogumilowice85@gmail.com",
+                "contact:website": "http:\/\/spbogumilowice.pl\/",
+                "ref:regon": "100062950",
+                "ref:vatin": "PL5080067189",
+                "operator": "Gmina Sulmierzyce",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 87964;87965"
+            }
+        },
+        {
+            "id": 87964,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.13331,
+                    51.18909
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 87964,
+                "official_name": "Szko\u0142a Podstawowa im. Marii Konopnickiej w Bogumi\u0142owicach",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "98-338",
+                "addr:place": "Bogumi\u0142owice",
+                "addr:housenumber": "85",
+                "addr:teryt:sym_ul": 552604,
+                "contact:phone": "+48 446846876",
+                "contact:email": "spbogumilowice85@gmail.com",
+                "contact:website": "http:\/\/spbogumilowice.pl\/",
+                "ref:regon": "001160734",
+                "ref:vatin": "PL7722172613",
+                "operator": "Gmina Sulmierzyce",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 85858"
+            }
+        },
+        {
+            "id": 87965,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.13331,
+                    51.189060000000005
+                ]
+            },
+            "properties": {
+                "ref:rspo": 87965,
+                "official_name": "Przedszkole w Bogumi\u0142owicach",
+                "name": "Przedszkole w Bogumi\u0142owicach",
+                "addr:country": "PL",
+                "addr:postcode": "98-338",
+                "addr:place": "Bogumi\u0142owice",
+                "addr:housenumber": "85",
+                "addr:teryt:sym_ul": 552604,
+                "contact:phone": "+48 446846876",
+                "contact:email": "spbogumilowice85@gmail.com",
+                "contact:website": "http:\/\/www.spbogumilowice.pl",
+                "ref:regon": "590020528",
+                "ref:vatin": "PL7722172636",
+                "operator": "Gmina Sulmierzyce",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 85858"
+            }
+        }
+    ]
+}

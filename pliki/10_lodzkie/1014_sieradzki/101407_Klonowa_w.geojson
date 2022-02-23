@@ -1,1 +1,100 @@
-{"type":"FeatureCollection","features":[{"id":58259,"type":"Feature","geometry":{"type":"Point","coordinates":[18.41959,51.41883]},"properties":{"ref:rspo":58259,"official_name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 w Klonowej","name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 w Klonowej","addr:country":"PL","addr:postcode":"98-273","addr:city":"Klonowa","addr:street":"ul. Z\u0142oczewska","addr:housenumber":"4","addr:teryt:simc":26186,"addr:teryt:sym_ul":704391,"contact:phone":"+48 438208418","contact:email":"zespolszkol@klonowa.pl","contact:website":"http:\/\/www.zsklonowa.weebly.com","ref:regon":"731583731","ref:vatin":"PL8272064573","operator":"Gmina Klonowa","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 58190;69941"}},{"id":58190,"type":"Feature","geometry":{"type":"Point","coordinates":[18.41959,51.4188]},"properties":{"ref:rspo":58190,"official_name":"Przedszkole Publiczne im. Ksi\u0119dza J\u00f3zefa Dalaka w Klonowej","name":"Przedszkole Publiczne","addr:country":"PL","addr:postcode":"98-273","addr:city":"Klonowa","addr:street":"ul. Z\u0142oczewska","addr:housenumber":"4","addr:teryt:simc":26186,"addr:teryt:sym_ul":704391,"contact:phone":"+48 438208327","contact:email":"zespolszkol@klonowa.pl","ref:regon":"731028679","ref:vatin":"PL8272266986","operator":"Gmina Klonowa","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 58259"}},{"id":69941,"type":"Feature","geometry":{"type":"Point","coordinates":[18.41959,51.41877]},"properties":{"isced:level":"1;2","ref:rspo":69941,"official_name":"Szko\u0142a Podstawowa im. Ksi\u0119dza J\u00f3zefa Dalaka w Klonowej","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"98-273","addr:city":"Klonowa","addr:street":"ul. Z\u0142oczewska","addr:housenumber":"4","addr:teryt:simc":26186,"addr:teryt:sym_ul":704391,"contact:phone":"+48 438208418","contact:email":"zespolszkol@klonowa.pl","ref:regon":"000641727","operator":"Gmina Klonowa","operator:type":"government","amenity":"school","note":"Parent RSPO: 58259"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 58259,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.41959,
+                    51.41883
+                ]
+            },
+            "properties": {
+                "ref:rspo": 58259,
+                "official_name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 w Klonowej",
+                "name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 w Klonowej",
+                "addr:country": "PL",
+                "addr:postcode": "98-273",
+                "addr:city": "Klonowa",
+                "addr:street": "ul. Z\u0142oczewska",
+                "addr:housenumber": "4",
+                "addr:teryt:simc": 26186,
+                "addr:teryt:sym_ul": 704391,
+                "contact:phone": "+48 438208418",
+                "contact:email": "zespolszkol@klonowa.pl",
+                "contact:website": "http:\/\/www.zsklonowa.weebly.com",
+                "ref:regon": "731583731",
+                "ref:vatin": "PL8272064573",
+                "operator": "Gmina Klonowa",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 58190;69941"
+            }
+        },
+        {
+            "id": 58190,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.41959,
+                    51.4188
+                ]
+            },
+            "properties": {
+                "ref:rspo": 58190,
+                "official_name": "Przedszkole Publiczne im. Ksi\u0119dza J\u00f3zefa Dalaka w Klonowej",
+                "name": "Przedszkole Publiczne",
+                "addr:country": "PL",
+                "addr:postcode": "98-273",
+                "addr:city": "Klonowa",
+                "addr:street": "ul. Z\u0142oczewska",
+                "addr:housenumber": "4",
+                "addr:teryt:simc": 26186,
+                "addr:teryt:sym_ul": 704391,
+                "contact:phone": "+48 438208327",
+                "contact:email": "zespolszkol@klonowa.pl",
+                "ref:regon": "731028679",
+                "ref:vatin": "PL8272266986",
+                "operator": "Gmina Klonowa",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 58259"
+            }
+        },
+        {
+            "id": 69941,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.41959,
+                    51.41877
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 69941,
+                "official_name": "Szko\u0142a Podstawowa im. Ksi\u0119dza J\u00f3zefa Dalaka w Klonowej",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "98-273",
+                "addr:city": "Klonowa",
+                "addr:street": "ul. Z\u0142oczewska",
+                "addr:housenumber": "4",
+                "addr:teryt:simc": 26186,
+                "addr:teryt:sym_ul": 704391,
+                "contact:phone": "+48 438208418",
+                "contact:email": "zespolszkol@klonowa.pl",
+                "ref:regon": "000641727",
+                "operator": "Gmina Klonowa",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 58259"
+            }
+        }
+    ]
+}

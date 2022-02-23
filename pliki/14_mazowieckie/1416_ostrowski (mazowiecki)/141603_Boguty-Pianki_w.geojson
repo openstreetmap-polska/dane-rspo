@@ -1,1 +1,92 @@
-{"type":"FeatureCollection","features":[{"id":89283,"type":"Feature","geometry":{"type":"Point","coordinates":[22.41744,52.6811]},"properties":{"isced:level":"1;2","ref:rspo":89283,"official_name":"Szko\u0142a Podstawowa w Tymiankach-Buciach","name":"Szko\u0142a Podstawowa w Tymiankach-Buciach","addr:country":"PL","addr:postcode":"07-325","addr:place":"Tymianki-Bucie","addr:housenumber":"18","addr:teryt:sym_ul":395317,"contact:phone":"+48 862775054","contact:email":"sptymianki@wp.pl","ref:regon":"146436951","operator":"Spo\u0142eczno - O\u015bwiatowe Stowarzyszenie Pomocy Pokrzywdzonym I Niepe\u0142nosprawnym \"Edukator\"","operator:type":"ngo","amenity":"school"}},{"id":88341,"type":"Feature","geometry":{"type":"Point","coordinates":[22.40408,52.71703]},"properties":{"isced:level":"1;2","ref:rspo":88341,"official_name":"Szko\u0142a Podstawowa im. Ojca \u015awi\u0119tego Jana Paw\u0142a II w Bogutach-Piankach","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"07-325","addr:city":"Boguty-Pianki","addr:street":"ul. Aleja Papie\u017ca Jana Paw\u0142a II","addr:housenumber":"62","addr:teryt:simc":52181,"addr:teryt:sym_ul":395027,"contact:phone":"+48 862775045","contact:email":"spboguty@wp.pl","ref:regon":"000647240","ref:vatin":"PL7591579081","operator":"Gmina Boguty-Pianki","operator:type":"government","amenity":"school"}},{"id":89623,"type":"Feature","geometry":{"type":"Point","coordinates":[22.4200899,52.78164]},"properties":{"isced:level":"1;2","ref:rspo":89623,"official_name":"Szko\u0142a Podstawowa w Zawistach-Dworakach","name":"Szko\u0142a Podstawowa w Zawistach-Dworakach","addr:country":"PL","addr:postcode":"07-325","addr:place":"Zawisty-Dworaki","addr:housenumber":"58","addr:teryt:sym_ul":395441,"contact:phone":"+48 669996017","contact:email":"spzawisty@wp.pl","ref:regon":"146439524","operator":"Spo\u0142eczno - O\u015bwiatowe Stowarzyszenie Pomocy Pokrzywdzonym I Niepe\u0142nosprawnym \"Edukator\"","operator:type":"ngo","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 89283,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.41744,
+                    52.6811
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 89283,
+                "official_name": "Szko\u0142a Podstawowa w Tymiankach-Buciach",
+                "name": "Szko\u0142a Podstawowa w Tymiankach-Buciach",
+                "addr:country": "PL",
+                "addr:postcode": "07-325",
+                "addr:place": "Tymianki-Bucie",
+                "addr:housenumber": "18",
+                "addr:teryt:sym_ul": 395317,
+                "contact:phone": "+48 862775054",
+                "contact:email": "sptymianki@wp.pl",
+                "ref:regon": "146436951",
+                "operator": "Spo\u0142eczno - O\u015bwiatowe Stowarzyszenie Pomocy Pokrzywdzonym I Niepe\u0142nosprawnym \"Edukator\"",
+                "operator:type": "ngo",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 88341,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.40408,
+                    52.71703
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 88341,
+                "official_name": "Szko\u0142a Podstawowa im. Ojca \u015awi\u0119tego Jana Paw\u0142a II w Bogutach-Piankach",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "07-325",
+                "addr:city": "Boguty-Pianki",
+                "addr:street": "ul. Aleja Papie\u017ca Jana Paw\u0142a II",
+                "addr:housenumber": "62",
+                "addr:teryt:simc": 52181,
+                "addr:teryt:sym_ul": 395027,
+                "contact:phone": "+48 862775045",
+                "contact:email": "spboguty@wp.pl",
+                "ref:regon": "000647240",
+                "ref:vatin": "PL7591579081",
+                "operator": "Gmina Boguty-Pianki",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 89623,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.4200899,
+                    52.78164
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 89623,
+                "official_name": "Szko\u0142a Podstawowa w Zawistach-Dworakach",
+                "name": "Szko\u0142a Podstawowa w Zawistach-Dworakach",
+                "addr:country": "PL",
+                "addr:postcode": "07-325",
+                "addr:place": "Zawisty-Dworaki",
+                "addr:housenumber": "58",
+                "addr:teryt:sym_ul": 395441,
+                "contact:phone": "+48 669996017",
+                "contact:email": "spzawisty@wp.pl",
+                "ref:regon": "146439524",
+                "operator": "Spo\u0142eczno - O\u015bwiatowe Stowarzyszenie Pomocy Pokrzywdzonym I Niepe\u0142nosprawnym \"Edukator\"",
+                "operator:type": "ngo",
+                "amenity": "school"
+            }
+        }
+    ]
+}

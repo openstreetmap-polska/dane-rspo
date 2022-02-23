@@ -1,1 +1,34 @@
-{"type":"FeatureCollection","features":[{"id":57599,"type":"Feature","geometry":{"type":"Point","coordinates":[23.4227088,52.7754689]},"properties":{"isced:level":"1;2","ref:rspo":57599,"official_name":"Szko\u0142a Podstawowa w Czy\u017cach","name":"Szko\u0142a Podstawowa w Czy\u017cach","addr:country":"PL","addr:postcode":"17-207","addr:place":"Czy\u017ce","addr:housenumber":"64","addr:teryt:sym_ul":25951,"contact:phone":"+48 856813514","contact:email":"zsczyze@wp.pl","ref:regon":"000562991","ref:vatin":"PL5431226036","operator":"Gmina Czy\u017ce","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 57599,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.4227088,
+                    52.7754689
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 57599,
+                "official_name": "Szko\u0142a Podstawowa w Czy\u017cach",
+                "name": "Szko\u0142a Podstawowa w Czy\u017cach",
+                "addr:country": "PL",
+                "addr:postcode": "17-207",
+                "addr:place": "Czy\u017ce",
+                "addr:housenumber": "64",
+                "addr:teryt:sym_ul": 25951,
+                "contact:phone": "+48 856813514",
+                "contact:email": "zsczyze@wp.pl",
+                "ref:regon": "000562991",
+                "ref:vatin": "PL5431226036",
+                "operator": "Gmina Czy\u017ce",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

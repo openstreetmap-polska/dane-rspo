@@ -1,1 +1,66 @@
-{"type":"FeatureCollection","features":[{"id":31023,"type":"Feature","geometry":{"type":"Point","coordinates":[17.16157,52.67794]},"properties":{"isced:level":"1;2","ref:rspo":31023,"official_name":"Szko\u0142a Podstawowa im. Adama Mickiewicza w Wapnie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"62-120","addr:city":"Wapno","addr:street":"pl. Mickiewicza","addr:housenumber":"2","addr:teryt:simc":12733,"addr:teryt:sym_ul":531648,"contact:phone":"+48 672611011","contact:email":"sekretariat@wapno.edu.pl","contact:website":"http:\/\/www.wapno.edu.pl","ref:regon":"000767470","ref:vatin":"PL7661970845","operator":"Gmina Wapno","operator:type":"government","amenity":"school"}},{"id":26772,"type":"Feature","geometry":{"type":"Point","coordinates":[17.47137,52.91108]},"properties":{"ref:rspo":26772,"official_name":"Przedszkole Publiczne Prowadzone Przez Samorz\u0105d w Wapnie","name":"Przedszkole Publiczne Prowadzone Przez Samorz\u0105d w Wapnie","addr:country":"PL","addr:postcode":"62-120","addr:city":"Wapno","addr:street":"ul. Solna","addr:housenumber":"20","addr:teryt:simc":20541,"addr:teryt:sym_ul":531648,"contact:email":"przedszkolewapno@onet.pl","ref:regon":"570263459","ref:vatin":"PL7661970851","operator":"Gmina Wapno","operator:type":"government","amenity":"kindergarten"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 31023,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.16157,
+                    52.67794
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 31023,
+                "official_name": "Szko\u0142a Podstawowa im. Adama Mickiewicza w Wapnie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "62-120",
+                "addr:city": "Wapno",
+                "addr:street": "pl. Mickiewicza",
+                "addr:housenumber": "2",
+                "addr:teryt:simc": 12733,
+                "addr:teryt:sym_ul": 531648,
+                "contact:phone": "+48 672611011",
+                "contact:email": "sekretariat@wapno.edu.pl",
+                "contact:website": "http:\/\/www.wapno.edu.pl",
+                "ref:regon": "000767470",
+                "ref:vatin": "PL7661970845",
+                "operator": "Gmina Wapno",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 26772,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.47137,
+                    52.91108
+                ]
+            },
+            "properties": {
+                "ref:rspo": 26772,
+                "official_name": "Przedszkole Publiczne Prowadzone Przez Samorz\u0105d w Wapnie",
+                "name": "Przedszkole Publiczne Prowadzone Przez Samorz\u0105d w Wapnie",
+                "addr:country": "PL",
+                "addr:postcode": "62-120",
+                "addr:city": "Wapno",
+                "addr:street": "ul. Solna",
+                "addr:housenumber": "20",
+                "addr:teryt:simc": 20541,
+                "addr:teryt:sym_ul": 531648,
+                "contact:email": "przedszkolewapno@onet.pl",
+                "ref:regon": "570263459",
+                "ref:vatin": "PL7661970851",
+                "operator": "Gmina Wapno",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        }
+    ]
+}

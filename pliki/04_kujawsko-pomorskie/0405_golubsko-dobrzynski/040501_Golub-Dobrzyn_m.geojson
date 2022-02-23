@@ -1,1 +1,851 @@
-{"type":"FeatureCollection","features":[{"id":8799,"type":"Feature","geometry":{"type":"Point","coordinates":[19.0709,53.09961]},"properties":{"ref:rspo":8799,"official_name":"Niepubliczne Przedszkole im. Juliana Tuwima \"Julianek\"","name":"Niepubliczne Przedszkole","addr:country":"PL","addr:postcode":"87-400","addr:city":"Golub-Dobrzy\u0144","addr:street":"ul. Soko\u0142owska","addr:housenumber":"50","addr:teryt:simc":20500,"addr:teryt:sym_ul":983155,"contact:phone":"+48 733228039","contact:email":"mal.mirowska@wp.pl","ref:regon":"341322573","ref:vatin":"PL8781164082","operator":"Ma\u0142gorzata Mirowska","operator:type":"private","amenity":"kindergarten"}},{"id":8567,"type":"Feature","geometry":{"type":"Point","coordinates":[19.05483,53.10233]},"properties":{"ref:rspo":8567,"official_name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 Miejskich","name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 Miejskich","addr:country":"PL","addr:postcode":"87-400","addr:city":"Golub-Dobrzy\u0144","addr:street":"ul. Stefana \u017beromskiego","addr:housenumber":"11","addr:teryt:simc":26469,"addr:teryt:sym_ul":983155,"contact:phone":"+48 566832026","contact:email":"sp2_gd@o2.pl","contact:website":"http:\/\/www.zsmgd.pl","ref:regon":"341301016","ref:vatin":"PL5030076708","operator":"Gmina Miasto Golub-Dobrzy\u0144","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 10977;10978;273001"}},{"id":12238,"type":"Feature","geometry":{"type":"Point","coordinates":[19.05483,53.1023]},"properties":{"ref:rspo":12238,"official_name":"Poradnia Psychologiczno - Pedagogiczna w Golubiu-Dobrzyniu","name":"Poradnia Psychologiczno - Pedagogiczna w Golubiu-Dobrzyniu","addr:country":"PL","addr:postcode":"87-400","addr:city":"Golub-Dobrzy\u0144","addr:street":"ul. Stefana \u017beromskiego","addr:housenumber":"11","addr:teryt:simc":26469,"addr:teryt:sym_ul":983155,"contact:phone":"+48 566832663","contact:email":"ppp@golub-dobrzyn.com.pl","contact:website":"http:\/\/www.poradniagolub.pl","ref:regon":"001082299","ref:vatin":"PL8781565964","operator":"Powiat Golubsko-Dobrzy\u0144ski","operator:type":"government","healthcare":"councelling","counselling_type":"education","fixme":"w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. healthcare=councelling + counselling_type=education albo healthcare=psychotherapist)"}},{"id":75171,"type":"Feature","geometry":{"type":"Point","coordinates":[19.05483,53.102270000000004]},"properties":{"ref:rspo":75171,"official_name":"Szko\u0142a Muzyczna II St. Res Facta Musica w Golubiu-Dobrzyniu","name":"Szko\u0142a Muzyczna II St. Res Facta Musica w Golubiu-Dobrzyniu","addr:country":"PL","addr:postcode":"87-400","addr:city":"Golub-Dobrzy\u0144","addr:street":"ul. Stefana \u017beromskiego","addr:housenumber":"11","addr:teryt:simc":26469,"addr:teryt:sym_ul":983155,"contact:email":"resfacta@poczta.onet.pl","contact:website":"http:\/\/www.resfactamusica.republika.pl","ref:regon":"281444182","operator":"Mt Group Sp\u00f3\u0142ka Z Ograniczon\u0105 Odpowiedzialno\u015bci\u0105","operator:type":"private","amenity":"music_school"}},{"id":10977,"type":"Feature","geometry":{"type":"Point","coordinates":[19.05483,53.10224]},"properties":{"isced:level":"1;2","ref:rspo":10977,"official_name":"Szko\u0142a Podstawowa Nr 2 im. Or\u0142a Bia\u0142ego","name":"Szko\u0142a Podstawowa Nr 2","addr:country":"PL","addr:postcode":"87-400","addr:city":"Golub-Dobrzy\u0144","addr:street":"ul. Stefana \u017beromskiego","addr:housenumber":"11","addr:teryt:simc":26469,"addr:teryt:sym_ul":983155,"contact:phone":"+48 566832026","contact:email":"zsm@golub-dobrzyn.pl","contact:website":"http:\/\/www.zsmgd.pl","ref:regon":"000267594","ref:vatin":"PL8781625749","operator":"Gmina Miasto Golub-Dobrzy\u0144","operator:type":"government","amenity":"school","note":"Parent RSPO: 8567"}},{"id":10978,"type":"Feature","geometry":{"type":"Point","coordinates":[19.05483,53.10221]},"properties":{"ref:rspo":10978,"official_name":"Og\u00f3lnokszta\u0142c\u0105ca Szko\u0142a Sztuk Pi\u0119knych","name":"Og\u00f3lnokszta\u0142c\u0105ca Szko\u0142a Sztuk Pi\u0119knych","addr:country":"PL","addr:postcode":"87-400","addr:city":"Golub-Dobrzy\u0144","addr:street":"ul. Stefana \u017beromskiego","addr:housenumber":"11","addr:teryt:simc":26469,"addr:teryt:sym_ul":983155,"contact:phone":"+48 566832026","contact:email":"zsm@golub-dobrzyn.pl","contact:website":"http:\/\/www.zsmgd.pl","ref:regon":"341324974","operator":"Gmina Miasto Golub-Dobrzy\u0144","operator:type":"government","amenity":"school","note":"Parent RSPO: 8567"}},{"id":273001,"type":"Feature","geometry":{"type":"Point","coordinates":[19.05483,53.102180000000004]},"properties":{"isced:level":"3","ref:rspo":273001,"official_name":"Liceum Sztuk Plastycznych","name":"Liceum Sztuk Plastycznych","addr:country":"PL","addr:postcode":"87-400","addr:city":"Golub-Dobrzy\u0144","addr:street":"ul. Stefana \u017beromskiego","addr:housenumber":"11","addr:teryt:simc":26469,"addr:teryt:sym_ul":983155,"contact:phone":"+48 566832026","contact:email":"zsm@golub-dobrzyn.pl","contact:website":"http:\/\/www.zsmgd.pl","ref:regon":"384351680","operator":"Gmina Miasto Golub-Dobrzy\u0144","operator:type":"government","amenity":"school","note":"Parent RSPO: 8567"}},{"id":8701,"type":"Feature","geometry":{"type":"Point","coordinates":[19.05404,53.1037899]},"properties":{"ref:rspo":8701,"official_name":"Przedszkole Publiczne Nr 2 im. Marii Konopnickiej","name":"Przedszkole Publiczne Nr 2","addr:country":"PL","addr:postcode":"87-400","addr:city":"Golub-Dobrzy\u0144","addr:street":"ul. Henryka Sienkiewicza","addr:housenumber":"6","addr:teryt:simc":19834,"addr:teryt:sym_ul":983155,"contact:phone":"+48 566835880","contact:email":"margot_26@op.pl","ref:regon":"870002117","ref:vatin":"PL8781625761","operator":"Gmina Miasto Golub-Dobrzy\u0144","operator:type":"government","amenity":"kindergarten"}},{"id":132716,"type":"Feature","geometry":{"type":"Point","coordinates":[19.05204,53.10597]},"properties":{"isced:level":"3","ref:rspo":132716,"official_name":"Niepubliczne Liceum Og\u00f3lnokszta\u0142c\u0105ce dla Doros\u0142ych","name":"Niepubliczne Liceum Og\u00f3lnokszta\u0142c\u0105ce dla Doros\u0142ych","addr:country":"PL","addr:postcode":"87-400","addr:city":"Golub-Dobrzy\u0144","addr:street":"ul. Szkolna","addr:housenumber":"37","addr:teryt:simc":21970,"addr:teryt:sym_ul":983155,"contact:phone":"+48 566820301","contact:email":"ckd@gog.pl","ref:regon":"366104279","operator":"Ewa Jasieniecka","operator:type":"private","amenity":"school"}},{"id":12179,"type":"Feature","geometry":{"type":"Point","coordinates":[19.05434,53.10635]},"properties":{"ref:rspo":12179,"official_name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 Nr 3 w Golubiu-Dobrzyniu","name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 Nr 3 w Golubiu-Dobrzyniu","addr:country":"PL","addr:postcode":"87-400","addr:city":"Golub-Dobrzy\u0144","addr:street":"ul. Marii Konopnickiej","addr:housenumber":"15","addr:teryt:simc":9186,"addr:teryt:sym_ul":983155,"contact:phone":"+48 566832553","contact:email":"zs3@golub-dobrzyn.com.pl","contact:website":"http:\/\/www.zs3golub-dobrzyn.edu.pl","ref:regon":"870267873","ref:vatin":"PL8781066764","operator":"Powiat Golubsko-Dobrzy\u0144ski","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 104599;104674;104684;278166"}},{"id":104599,"type":"Feature","geometry":{"type":"Point","coordinates":[19.05434,53.10632]},"properties":{"isced:level":"1;2","ref:rspo":104599,"official_name":"Szko\u0142a Podstawowa Specjalna Nr 3","name":"Szko\u0142a Podstawowa Specjalna Nr 3","addr:country":"PL","addr:postcode":"87-400","addr:city":"Golub-Dobrzy\u0144","addr:street":"ul. Marii Konopnickiej","addr:housenumber":"15","addr:teryt:simc":9186,"addr:teryt:sym_ul":983155,"contact:phone":"+48 566382553","contact:email":"zs3@golub-dobrzyn.com.pl","contact:website":"http:\/\/www.zs3golub-dobrzyn.edu.pl","ref:regon":"001271698","operator":"Powiat Golubsko-Dobrzy\u0144ski","operator:type":"government","amenity":"school","note":"Parent RSPO: 12179"}},{"id":104674,"type":"Feature","geometry":{"type":"Point","coordinates":[19.05434,53.10629]},"properties":{"isced:level":"3","ref:rspo":104674,"official_name":"Bran\u017cowa Szko\u0142a I Stopnia Specjalna","name":"Bran\u017cowa Szko\u0142a I Stopnia Specjalna","addr:country":"PL","addr:postcode":"87-400","addr:city":"Golub-Dobrzy\u0144","addr:street":"ul. Marii Konopnickiej","addr:housenumber":"15","addr:teryt:simc":9186,"addr:teryt:sym_ul":983155,"contact:phone":"+48 566832553","contact:email":"zs3@golub-dobrzyn.com.pl","contact:website":"http:\/\/www.zs3golub-dobrzyn.edu.pl","ref:regon":"870267904","operator":"Powiat Golubsko-Dobrzy\u0144ski","operator:type":"government","amenity":"school","note":"Parent RSPO: 12179"}},{"id":104684,"type":"Feature","geometry":{"type":"Point","coordinates":[19.05434,53.10626]},"properties":{"ref:rspo":104684,"official_name":"Szko\u0142a Specjalna Przysposabiaj\u0105ca Do Pracy dla Uczni\u00f3w Z Upo\u015bledzeniem Umys\u0142owym w Stopniu Umiarkowanym Lub Znacznym Oraz dla Uczni\u00f3w Z Niepe\u0142nosprawno\u015bciami Spr\u0119\u017conymi","name":"Szko\u0142a Specjalna Przysposabiaj\u0105ca Do Pracy dla Uczni\u00f3w Z Upo\u015bledzeniem Umys\u0142owym w Stopniu Umiarkowanym Lub Znacznym Oraz dla Uczni\u00f3w Z Niepe\u0142nosprawno\u015bciami Spr\u0119\u017conymi","addr:country":"PL","addr:postcode":"87-400","addr:city":"Golub-Dobrzy\u0144","addr:street":"ul. Marii Konopnickiej","addr:housenumber":"15","addr:teryt:simc":9186,"addr:teryt:sym_ul":983155,"contact:phone":"+48 566832553","contact:email":"zs3@golub-dobrzyn.com.pl","contact:website":"http:\/\/www.zs3golub-dobrzyn.edu.pl","ref:regon":"340157534","operator":"Powiat Golubsko-Dobrzy\u0144ski","operator:type":"government","amenity":"school","note":"Parent RSPO: 12179"}},{"id":278166,"type":"Feature","geometry":{"type":"Point","coordinates":[19.05434,53.10623]},"properties":{"ref:rspo":278166,"official_name":"Przedszkole Specjalne Zesp\u00f3\u0142 Szk\u00f3\u0142 Nr 3 w Golubiu-Dobrzyniu","name":"Przedszkole Specjalne Zesp\u00f3\u0142 Szk\u00f3\u0142 Nr 3 w Golubiu-Dobrzyniu","addr:country":"PL","addr:postcode":"87-400","addr:city":"Golub-Dobrzy\u0144","addr:street":"ul. Marii Konopnickiej","addr:housenumber":"15","addr:teryt:simc":9186,"addr:teryt:sym_ul":983155,"contact:phone":"+48 566832553","contact:email":"zs3@golub-dobrzyn.com.pl","contact:website":"http:\/\/www.zs3.golub-dobrzyn.com.pl","ref:regon":"389849277","operator":"Powiat Golubsko-Dobrzy\u0144ski","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 12179"}},{"id":131906,"type":"Feature","geometry":{"type":"Point","coordinates":[19.04654,53.1078199]},"properties":{"ref:rspo":131906,"official_name":"Przedszkole Niepubliczne \"Wr\u00f3belek\"","name":"Przedszkole Niepubliczne \"Wr\u00f3belek\"","addr:country":"PL","addr:postcode":"87-400","addr:city":"Golub-Dobrzy\u0144","addr:street":"ul. M\u0142y\u0144ska","addr:housenumber":"23","addr:teryt:simc":13132,"addr:teryt:sym_ul":983155,"contact:phone":"+48 519844525","contact:email":"km.wrobelek@o2.pl","ref:regon":"365375020","operator":"Paulina D\u0105browska-Wr\u00f3bel","operator:type":"private","amenity":"kindergarten"}},{"id":132517,"type":"Feature","geometry":{"type":"Point","coordinates":[19.0728,53.10847]},"properties":{"ref:rspo":132517,"official_name":"Terapeutyczny Punkt Przedszkolny \"Bajkowa Kraina\"","name":"Terapeutyczny Punkt Przedszkolny \"Bajkowa Kraina\"","addr:country":"PL","addr:postcode":"87-400","addr:city":"Golub-Dobrzy\u0144","addr:street":"ul. Szosa Rypi\u0144ska","addr:housenumber":"40","addr:teryt:simc":44153,"addr:teryt:sym_ul":983155,"contact:phone":"+48 604756782","contact:email":"gurkowskamagdalena@wp.pl","ref:regon":"365705380","operator":"Magdalena Gurkowska","operator:type":"private","amenity":"kindergarten"}},{"id":278433,"type":"Feature","geometry":{"type":"Point","coordinates":[19.05236,53.10994]},"properties":{"ref:rspo":278433,"official_name":"Niepubliczne Przedszkole Chatka Puchatka","name":"Niepubliczne Przedszkole Chatka Puchatka","addr:country":"PL","addr:postcode":"87-400","addr:city":"Golub-Dobrzy\u0144","addr:street":"ul. Kili\u0144skiego","addr:housenumber":"5","addr:teryt:simc":8431,"addr:teryt:sym_ul":983155,"contact:email":"fundacjachatkapuchatkagd@op.pl","ref:regon":"389893835","operator":"Fundacja Chatka Puchatka","operator:type":"ngo","amenity":"kindergarten"}},{"id":12115,"type":"Feature","geometry":{"type":"Point","coordinates":[19.05139,53.11234]},"properties":{"ref:rspo":12115,"official_name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 Nr 2 w Golubiu-Dobrzyniu","name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 Nr 2 w Golubiu-Dobrzyniu","addr:country":"PL","addr:postcode":"87-400","addr:city":"Golub-Dobrzy\u0144","addr:street":"ul. Kili\u0144skiego","addr:housenumber":"31","addr:teryt:simc":8431,"addr:teryt:sym_ul":983155,"contact:phone":"+48 566832549","contact:email":"sekretariat@zs-2.pl","contact:website":"http:\/\/www.zs-2.pl","ref:regon":"005726523","ref:vatin":"PL8781066801","operator":"Powiat Golubsko-Dobrzy\u0144ski","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 106877;106878;106879;275522"}},{"id":106877,"type":"Feature","geometry":{"type":"Point","coordinates":[19.05139,53.11231]},"properties":{"isced:level":"3","ref:rspo":106877,"official_name":"Liceum Og\u00f3lnokszta\u0142c\u0105ce dla Doros\u0142ych","name":"Liceum Og\u00f3lnokszta\u0142c\u0105ce dla Doros\u0142ych","addr:country":"PL","addr:postcode":"84-400","addr:city":"Golub-Dobrzy\u0144","addr:street":"ul. Kili\u0144skiego","addr:housenumber":"31","addr:teryt:simc":8431,"addr:teryt:sym_ul":983155,"contact:phone":"+48 566832549","contact:email":"sekretariat@zs-2.pl","contact:website":"http:\/\/www.zs-2.pl","ref:regon":"341382180","operator":"Powiat Golubsko-Dobrzy\u0144ski","operator:type":"government","amenity":"school","note":"Parent RSPO: 12115"}},{"id":106878,"type":"Feature","geometry":{"type":"Point","coordinates":[19.05139,53.112280000000005]},"properties":{"isced:level":"3","ref:rspo":106878,"official_name":"Technikum","name":"Technikum","addr:country":"PL","addr:postcode":"87-400","addr:city":"Golub-Dobrzy\u0144","addr:street":"ul. Kili\u0144skiego","addr:housenumber":"31","addr:teryt:simc":8431,"addr:teryt:sym_ul":983155,"contact:phone":"+48 566832549","contact:email":"sekretariat@zs-2.pl","contact:website":"http:\/\/www.zs-2.pl","ref:regon":"871659368","operator":"Powiat Golubsko-Dobrzy\u0144ski","operator:type":"government","amenity":"school","note":"Parent RSPO: 12115"}},{"id":106879,"type":"Feature","geometry":{"type":"Point","coordinates":[19.05139,53.11225]},"properties":{"isced:level":"3","ref:rspo":106879,"official_name":"Bran\u017cowa Szko\u0142a I Stopnia","name":"Bran\u017cowa Szko\u0142a I Stopnia","addr:country":"PL","addr:postcode":"87-400","addr:city":"Golub-Dobrzy\u0144","addr:street":"ul. Kili\u0144skiego","addr:housenumber":"31","addr:teryt:simc":8431,"addr:teryt:sym_ul":983155,"contact:phone":"+48 566832549","contact:email":"sekretariat@zs-2.pl","contact:website":"http:\/\/www.zs-2.pl","ref:regon":"871659351","operator":"Powiat Golubsko-Dobrzy\u0144ski","operator:type":"government","amenity":"school","note":"Parent RSPO: 12115"}},{"id":275522,"type":"Feature","geometry":{"type":"Point","coordinates":[19.05139,53.11222]},"properties":{"isced:level":"3","ref:rspo":275522,"official_name":"Bran\u017cowa Szko\u0142a II Stopnia w Golubiu-Dobrzyniu","name":"Bran\u017cowa Szko\u0142a II Stopnia w Golubiu-Dobrzyniu","addr:country":"PL","addr:postcode":"87-400","addr:city":"Golub-Dobrzy\u0144","addr:street":"ul. Kili\u0144skiego","addr:housenumber":"31","addr:teryt:simc":8431,"addr:teryt:sym_ul":983155,"contact:phone":"+48 566832549","contact:email":"sekretariat@zs-2.pl","contact:website":"http:\/\/www.zs-2.pl","ref:regon":"386933936","operator":"Powiat Golubsko-Dobrzy\u0144ski","operator:type":"government","amenity":"school","note":"Parent RSPO: 12115"}},{"id":8633,"type":"Feature","geometry":{"type":"Point","coordinates":[19.05225,53.11468]},"properties":{"isced:level":"1;2","ref:rspo":8633,"official_name":"Szko\u0142a Podstawowa Nr 1 im. Konstytucji 3 Maja","name":"Szko\u0142a Podstawowa Nr 1","addr:country":"PL","addr:postcode":"87-400","addr:city":"Golub-Dobrzy\u0144","addr:street":"ul. Zamkowa","addr:housenumber":"19","addr:teryt:simc":25547,"addr:teryt:sym_ul":983155,"contact:phone":"+48 566832556","contact:email":"sp1golub@golub-dobrzyn.pl","contact:website":"http:\/\/sp1golub.szkolnastrona.pl","ref:regon":"000598316","ref:vatin":"PL8781625778","operator":"Gmina Miasto Golub-Dobrzy\u0144","operator:type":"government","amenity":"school"}},{"id":12171,"type":"Feature","geometry":{"type":"Point","coordinates":[19.05094,53.11722]},"properties":{"ref:rspo":12171,"official_name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 Nr 1 im.anny Waz\u00f3wny w Golubiu-Dobrzyniu","name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 Nr 1 im.anny Waz\u00f3wny w Golubiu-Dobrzyniu","addr:country":"PL","addr:postcode":"87-400","addr:city":"Golub-Dobrzy\u0144","addr:street":"ul. PTTK","addr:housenumber":"28","addr:teryt:simc":18065,"addr:teryt:sym_ul":983155,"contact:phone":"+48 566835450","contact:email":"sekretariat@wazowna.pl","contact:website":"http:\/\/www.wazowna.pl","ref:regon":"000228281","ref:vatin":"PL8781066882","operator":"Powiat Golubsko-Dobrzy\u0144ski","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 104506;266768"}},{"id":13588,"type":"Feature","geometry":{"type":"Point","coordinates":[19.05094,53.11719]},"properties":{"ref:rspo":13588,"official_name":"Publiczna Szko\u0142a Muzyczna I Stopnia w Golubiu-Dobrzyniu","name":"Publiczna Szko\u0142a Muzyczna I Stopnia w Golubiu-Dobrzyniu","addr:country":"PL","addr:postcode":"87-400","addr:city":"Golub-Dobrzy\u0144","addr:street":"ul. PTTK","addr:housenumber":"28","addr:teryt:simc":18065,"addr:teryt:sym_ul":983155,"contact:email":"muzyczna@golub-dobrzyn.com.pl","contact:website":"http:\/\/www.psmgd.pl","ref:regon":"341136959","ref:vatin":"PL5030075560","operator":"Powiat Golubsko-Dobrzy\u0144ski","operator:type":"government","amenity":"music_school"}},{"id":104506,"type":"Feature","geometry":{"type":"Point","coordinates":[19.05094,53.117160000000005]},"properties":{"isced:level":"3","ref:rspo":104506,"official_name":"Liceum Og\u00f3lnokszta\u0142c\u0105ce im. Anny Waz\u00f3wny w Golubiu-Dobrzyniu","name":"Liceum Og\u00f3lnokszta\u0142c\u0105ce","addr:country":"PL","addr:postcode":"87-400","addr:city":"Golub-Dobrzy\u0144","addr:street":"ul. PTTK","addr:housenumber":"28","addr:teryt:simc":18065,"addr:teryt:sym_ul":983155,"contact:phone":"+48 566835450","contact:email":"sekretariat@wazowna.pl","contact:website":"http:\/\/www.wazowna.pl","ref:regon":"870004027","operator":"Powiat Golubsko-Dobrzy\u0144ski","operator:type":"government","amenity":"school","note":"Parent RSPO: 12171"}},{"id":266768,"type":"Feature","geometry":{"type":"Point","coordinates":[19.05094,53.11713]},"properties":{"isced:level":"3","ref:rspo":266768,"official_name":"Technikum im. Anny Waz\u00f3wny","name":"Technikum","addr:country":"PL","addr:postcode":"87-400","addr:city":"Golub-Dobrzy\u0144","addr:street":"ul. PTTK","addr:housenumber":"28","addr:teryt:simc":18065,"addr:teryt:sym_ul":983155,"contact:phone":"+48 566835450","contact:email":"wazownasekretariat11@wp.pl","contact:website":"http:\/\/www.wazowna.pl","ref:regon":"369689406","operator":"Powiat Golubsko-Dobrzy\u0144ski","operator:type":"government","amenity":"school","note":"Parent RSPO: 12171"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 8799,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0709,
+                    53.09961
+                ]
+            },
+            "properties": {
+                "ref:rspo": 8799,
+                "official_name": "Niepubliczne Przedszkole im. Juliana Tuwima \"Julianek\"",
+                "name": "Niepubliczne Przedszkole",
+                "addr:country": "PL",
+                "addr:postcode": "87-400",
+                "addr:city": "Golub-Dobrzy\u0144",
+                "addr:street": "ul. Soko\u0142owska",
+                "addr:housenumber": "50",
+                "addr:teryt:simc": 20500,
+                "addr:teryt:sym_ul": 983155,
+                "contact:phone": "+48 733228039",
+                "contact:email": "mal.mirowska@wp.pl",
+                "ref:regon": "341322573",
+                "ref:vatin": "PL8781164082",
+                "operator": "Ma\u0142gorzata Mirowska",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 8567,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.05483,
+                    53.10233
+                ]
+            },
+            "properties": {
+                "ref:rspo": 8567,
+                "official_name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Miejskich",
+                "name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Miejskich",
+                "addr:country": "PL",
+                "addr:postcode": "87-400",
+                "addr:city": "Golub-Dobrzy\u0144",
+                "addr:street": "ul. Stefana \u017beromskiego",
+                "addr:housenumber": "11",
+                "addr:teryt:simc": 26469,
+                "addr:teryt:sym_ul": 983155,
+                "contact:phone": "+48 566832026",
+                "contact:email": "sp2_gd@o2.pl",
+                "contact:website": "http:\/\/www.zsmgd.pl",
+                "ref:regon": "341301016",
+                "ref:vatin": "PL5030076708",
+                "operator": "Gmina Miasto Golub-Dobrzy\u0144",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 10977;10978;273001"
+            }
+        },
+        {
+            "id": 12238,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.05483,
+                    53.1023
+                ]
+            },
+            "properties": {
+                "ref:rspo": 12238,
+                "official_name": "Poradnia Psychologiczno - Pedagogiczna w Golubiu-Dobrzyniu",
+                "name": "Poradnia Psychologiczno - Pedagogiczna w Golubiu-Dobrzyniu",
+                "addr:country": "PL",
+                "addr:postcode": "87-400",
+                "addr:city": "Golub-Dobrzy\u0144",
+                "addr:street": "ul. Stefana \u017beromskiego",
+                "addr:housenumber": "11",
+                "addr:teryt:simc": 26469,
+                "addr:teryt:sym_ul": 983155,
+                "contact:phone": "+48 566832663",
+                "contact:email": "ppp@golub-dobrzyn.com.pl",
+                "contact:website": "http:\/\/www.poradniagolub.pl",
+                "ref:regon": "001082299",
+                "ref:vatin": "PL8781565964",
+                "operator": "Powiat Golubsko-Dobrzy\u0144ski",
+                "operator:type": "government",
+                "healthcare": "counselling",
+                "counselling_type": "education",
+                "fixme": "w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. healthcare=counselling + counselling_type=education albo healthcare=psychotherapist)"
+            }
+        },
+        {
+            "id": 75171,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.05483,
+                    53.102270000000004
+                ]
+            },
+            "properties": {
+                "ref:rspo": 75171,
+                "official_name": "Szko\u0142a Muzyczna II St. Res Facta Musica w Golubiu-Dobrzyniu",
+                "name": "Szko\u0142a Muzyczna II St. Res Facta Musica w Golubiu-Dobrzyniu",
+                "addr:country": "PL",
+                "addr:postcode": "87-400",
+                "addr:city": "Golub-Dobrzy\u0144",
+                "addr:street": "ul. Stefana \u017beromskiego",
+                "addr:housenumber": "11",
+                "addr:teryt:simc": 26469,
+                "addr:teryt:sym_ul": 983155,
+                "contact:email": "resfacta@poczta.onet.pl",
+                "contact:website": "http:\/\/www.resfactamusica.republika.pl",
+                "ref:regon": "281444182",
+                "operator": "Mt Group Sp\u00f3\u0142ka Z Ograniczon\u0105 Odpowiedzialno\u015bci\u0105",
+                "operator:type": "private",
+                "amenity": "music_school"
+            }
+        },
+        {
+            "id": 10977,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.05483,
+                    53.10224
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 10977,
+                "official_name": "Szko\u0142a Podstawowa Nr 2 im. Or\u0142a Bia\u0142ego",
+                "name": "Szko\u0142a Podstawowa Nr 2",
+                "addr:country": "PL",
+                "addr:postcode": "87-400",
+                "addr:city": "Golub-Dobrzy\u0144",
+                "addr:street": "ul. Stefana \u017beromskiego",
+                "addr:housenumber": "11",
+                "addr:teryt:simc": 26469,
+                "addr:teryt:sym_ul": 983155,
+                "contact:phone": "+48 566832026",
+                "contact:email": "zsm@golub-dobrzyn.pl",
+                "contact:website": "http:\/\/www.zsmgd.pl",
+                "ref:regon": "000267594",
+                "ref:vatin": "PL8781625749",
+                "operator": "Gmina Miasto Golub-Dobrzy\u0144",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 8567"
+            }
+        },
+        {
+            "id": 10978,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.05483,
+                    53.10221
+                ]
+            },
+            "properties": {
+                "ref:rspo": 10978,
+                "official_name": "Og\u00f3lnokszta\u0142c\u0105ca Szko\u0142a Sztuk Pi\u0119knych",
+                "name": "Og\u00f3lnokszta\u0142c\u0105ca Szko\u0142a Sztuk Pi\u0119knych",
+                "addr:country": "PL",
+                "addr:postcode": "87-400",
+                "addr:city": "Golub-Dobrzy\u0144",
+                "addr:street": "ul. Stefana \u017beromskiego",
+                "addr:housenumber": "11",
+                "addr:teryt:simc": 26469,
+                "addr:teryt:sym_ul": 983155,
+                "contact:phone": "+48 566832026",
+                "contact:email": "zsm@golub-dobrzyn.pl",
+                "contact:website": "http:\/\/www.zsmgd.pl",
+                "ref:regon": "341324974",
+                "operator": "Gmina Miasto Golub-Dobrzy\u0144",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 8567"
+            }
+        },
+        {
+            "id": 273001,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.05483,
+                    53.102180000000004
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 273001,
+                "official_name": "Liceum Sztuk Plastycznych",
+                "name": "Liceum Sztuk Plastycznych",
+                "addr:country": "PL",
+                "addr:postcode": "87-400",
+                "addr:city": "Golub-Dobrzy\u0144",
+                "addr:street": "ul. Stefana \u017beromskiego",
+                "addr:housenumber": "11",
+                "addr:teryt:simc": 26469,
+                "addr:teryt:sym_ul": 983155,
+                "contact:phone": "+48 566832026",
+                "contact:email": "zsm@golub-dobrzyn.pl",
+                "contact:website": "http:\/\/www.zsmgd.pl",
+                "ref:regon": "384351680",
+                "operator": "Gmina Miasto Golub-Dobrzy\u0144",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 8567"
+            }
+        },
+        {
+            "id": 8701,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.05404,
+                    53.1037899
+                ]
+            },
+            "properties": {
+                "ref:rspo": 8701,
+                "official_name": "Przedszkole Publiczne Nr 2 im. Marii Konopnickiej",
+                "name": "Przedszkole Publiczne Nr 2",
+                "addr:country": "PL",
+                "addr:postcode": "87-400",
+                "addr:city": "Golub-Dobrzy\u0144",
+                "addr:street": "ul. Henryka Sienkiewicza",
+                "addr:housenumber": "6",
+                "addr:teryt:simc": 19834,
+                "addr:teryt:sym_ul": 983155,
+                "contact:phone": "+48 566835880",
+                "contact:email": "margot_26@op.pl",
+                "ref:regon": "870002117",
+                "ref:vatin": "PL8781625761",
+                "operator": "Gmina Miasto Golub-Dobrzy\u0144",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 132716,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.05204,
+                    53.10597
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 132716,
+                "official_name": "Niepubliczne Liceum Og\u00f3lnokszta\u0142c\u0105ce dla Doros\u0142ych",
+                "name": "Niepubliczne Liceum Og\u00f3lnokszta\u0142c\u0105ce dla Doros\u0142ych",
+                "addr:country": "PL",
+                "addr:postcode": "87-400",
+                "addr:city": "Golub-Dobrzy\u0144",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "37",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 983155,
+                "contact:phone": "+48 566820301",
+                "contact:email": "ckd@gog.pl",
+                "ref:regon": "366104279",
+                "operator": "Ewa Jasieniecka",
+                "operator:type": "private",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 12179,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.05434,
+                    53.10635
+                ]
+            },
+            "properties": {
+                "ref:rspo": 12179,
+                "official_name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Nr 3 w Golubiu-Dobrzyniu",
+                "name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Nr 3 w Golubiu-Dobrzyniu",
+                "addr:country": "PL",
+                "addr:postcode": "87-400",
+                "addr:city": "Golub-Dobrzy\u0144",
+                "addr:street": "ul. Marii Konopnickiej",
+                "addr:housenumber": "15",
+                "addr:teryt:simc": 9186,
+                "addr:teryt:sym_ul": 983155,
+                "contact:phone": "+48 566832553",
+                "contact:email": "zs3@golub-dobrzyn.com.pl",
+                "contact:website": "http:\/\/www.zs3golub-dobrzyn.edu.pl",
+                "ref:regon": "870267873",
+                "ref:vatin": "PL8781066764",
+                "operator": "Powiat Golubsko-Dobrzy\u0144ski",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 104599;104674;104684;278166"
+            }
+        },
+        {
+            "id": 104599,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.05434,
+                    53.10632
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 104599,
+                "official_name": "Szko\u0142a Podstawowa Specjalna Nr 3",
+                "name": "Szko\u0142a Podstawowa Specjalna Nr 3",
+                "addr:country": "PL",
+                "addr:postcode": "87-400",
+                "addr:city": "Golub-Dobrzy\u0144",
+                "addr:street": "ul. Marii Konopnickiej",
+                "addr:housenumber": "15",
+                "addr:teryt:simc": 9186,
+                "addr:teryt:sym_ul": 983155,
+                "contact:phone": "+48 566382553",
+                "contact:email": "zs3@golub-dobrzyn.com.pl",
+                "contact:website": "http:\/\/www.zs3golub-dobrzyn.edu.pl",
+                "ref:regon": "001271698",
+                "operator": "Powiat Golubsko-Dobrzy\u0144ski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 12179"
+            }
+        },
+        {
+            "id": 104674,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.05434,
+                    53.10629
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 104674,
+                "official_name": "Bran\u017cowa Szko\u0142a I Stopnia Specjalna",
+                "name": "Bran\u017cowa Szko\u0142a I Stopnia Specjalna",
+                "addr:country": "PL",
+                "addr:postcode": "87-400",
+                "addr:city": "Golub-Dobrzy\u0144",
+                "addr:street": "ul. Marii Konopnickiej",
+                "addr:housenumber": "15",
+                "addr:teryt:simc": 9186,
+                "addr:teryt:sym_ul": 983155,
+                "contact:phone": "+48 566832553",
+                "contact:email": "zs3@golub-dobrzyn.com.pl",
+                "contact:website": "http:\/\/www.zs3golub-dobrzyn.edu.pl",
+                "ref:regon": "870267904",
+                "operator": "Powiat Golubsko-Dobrzy\u0144ski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 12179"
+            }
+        },
+        {
+            "id": 104684,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.05434,
+                    53.10626
+                ]
+            },
+            "properties": {
+                "ref:rspo": 104684,
+                "official_name": "Szko\u0142a Specjalna Przysposabiaj\u0105ca Do Pracy dla Uczni\u00f3w Z Upo\u015bledzeniem Umys\u0142owym w Stopniu Umiarkowanym Lub Znacznym Oraz dla Uczni\u00f3w Z Niepe\u0142nosprawno\u015bciami Spr\u0119\u017conymi",
+                "name": "Szko\u0142a Specjalna Przysposabiaj\u0105ca Do Pracy dla Uczni\u00f3w Z Upo\u015bledzeniem Umys\u0142owym w Stopniu Umiarkowanym Lub Znacznym Oraz dla Uczni\u00f3w Z Niepe\u0142nosprawno\u015bciami Spr\u0119\u017conymi",
+                "addr:country": "PL",
+                "addr:postcode": "87-400",
+                "addr:city": "Golub-Dobrzy\u0144",
+                "addr:street": "ul. Marii Konopnickiej",
+                "addr:housenumber": "15",
+                "addr:teryt:simc": 9186,
+                "addr:teryt:sym_ul": 983155,
+                "contact:phone": "+48 566832553",
+                "contact:email": "zs3@golub-dobrzyn.com.pl",
+                "contact:website": "http:\/\/www.zs3golub-dobrzyn.edu.pl",
+                "ref:regon": "340157534",
+                "operator": "Powiat Golubsko-Dobrzy\u0144ski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 12179"
+            }
+        },
+        {
+            "id": 278166,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.05434,
+                    53.10623
+                ]
+            },
+            "properties": {
+                "ref:rspo": 278166,
+                "official_name": "Przedszkole Specjalne Zesp\u00f3\u0142 Szk\u00f3\u0142 Nr 3 w Golubiu-Dobrzyniu",
+                "name": "Przedszkole Specjalne Zesp\u00f3\u0142 Szk\u00f3\u0142 Nr 3 w Golubiu-Dobrzyniu",
+                "addr:country": "PL",
+                "addr:postcode": "87-400",
+                "addr:city": "Golub-Dobrzy\u0144",
+                "addr:street": "ul. Marii Konopnickiej",
+                "addr:housenumber": "15",
+                "addr:teryt:simc": 9186,
+                "addr:teryt:sym_ul": 983155,
+                "contact:phone": "+48 566832553",
+                "contact:email": "zs3@golub-dobrzyn.com.pl",
+                "contact:website": "http:\/\/www.zs3.golub-dobrzyn.com.pl",
+                "ref:regon": "389849277",
+                "operator": "Powiat Golubsko-Dobrzy\u0144ski",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 12179"
+            }
+        },
+        {
+            "id": 131906,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.04654,
+                    53.1078199
+                ]
+            },
+            "properties": {
+                "ref:rspo": 131906,
+                "official_name": "Przedszkole Niepubliczne \"Wr\u00f3belek\"",
+                "name": "Przedszkole Niepubliczne \"Wr\u00f3belek\"",
+                "addr:country": "PL",
+                "addr:postcode": "87-400",
+                "addr:city": "Golub-Dobrzy\u0144",
+                "addr:street": "ul. M\u0142y\u0144ska",
+                "addr:housenumber": "23",
+                "addr:teryt:simc": 13132,
+                "addr:teryt:sym_ul": 983155,
+                "contact:phone": "+48 519844525",
+                "contact:email": "km.wrobelek@o2.pl",
+                "ref:regon": "365375020",
+                "operator": "Paulina D\u0105browska-Wr\u00f3bel",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 132517,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0728,
+                    53.10847
+                ]
+            },
+            "properties": {
+                "ref:rspo": 132517,
+                "official_name": "Terapeutyczny Punkt Przedszkolny \"Bajkowa Kraina\"",
+                "name": "Terapeutyczny Punkt Przedszkolny \"Bajkowa Kraina\"",
+                "addr:country": "PL",
+                "addr:postcode": "87-400",
+                "addr:city": "Golub-Dobrzy\u0144",
+                "addr:street": "ul. Szosa Rypi\u0144ska",
+                "addr:housenumber": "40",
+                "addr:teryt:simc": 44153,
+                "addr:teryt:sym_ul": 983155,
+                "contact:phone": "+48 604756782",
+                "contact:email": "gurkowskamagdalena@wp.pl",
+                "ref:regon": "365705380",
+                "operator": "Magdalena Gurkowska",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 278433,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.05236,
+                    53.10994
+                ]
+            },
+            "properties": {
+                "ref:rspo": 278433,
+                "official_name": "Niepubliczne Przedszkole Chatka Puchatka",
+                "name": "Niepubliczne Przedszkole Chatka Puchatka",
+                "addr:country": "PL",
+                "addr:postcode": "87-400",
+                "addr:city": "Golub-Dobrzy\u0144",
+                "addr:street": "ul. Kili\u0144skiego",
+                "addr:housenumber": "5",
+                "addr:teryt:simc": 8431,
+                "addr:teryt:sym_ul": 983155,
+                "contact:email": "fundacjachatkapuchatkagd@op.pl",
+                "ref:regon": "389893835",
+                "operator": "Fundacja Chatka Puchatka",
+                "operator:type": "ngo",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 12115,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.05139,
+                    53.11234
+                ]
+            },
+            "properties": {
+                "ref:rspo": 12115,
+                "official_name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Nr 2 w Golubiu-Dobrzyniu",
+                "name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Nr 2 w Golubiu-Dobrzyniu",
+                "addr:country": "PL",
+                "addr:postcode": "87-400",
+                "addr:city": "Golub-Dobrzy\u0144",
+                "addr:street": "ul. Kili\u0144skiego",
+                "addr:housenumber": "31",
+                "addr:teryt:simc": 8431,
+                "addr:teryt:sym_ul": 983155,
+                "contact:phone": "+48 566832549",
+                "contact:email": "sekretariat@zs-2.pl",
+                "contact:website": "http:\/\/www.zs-2.pl",
+                "ref:regon": "005726523",
+                "ref:vatin": "PL8781066801",
+                "operator": "Powiat Golubsko-Dobrzy\u0144ski",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 106877;106878;106879;275522"
+            }
+        },
+        {
+            "id": 106877,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.05139,
+                    53.11231
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 106877,
+                "official_name": "Liceum Og\u00f3lnokszta\u0142c\u0105ce dla Doros\u0142ych",
+                "name": "Liceum Og\u00f3lnokszta\u0142c\u0105ce dla Doros\u0142ych",
+                "addr:country": "PL",
+                "addr:postcode": "84-400",
+                "addr:city": "Golub-Dobrzy\u0144",
+                "addr:street": "ul. Kili\u0144skiego",
+                "addr:housenumber": "31",
+                "addr:teryt:simc": 8431,
+                "addr:teryt:sym_ul": 983155,
+                "contact:phone": "+48 566832549",
+                "contact:email": "sekretariat@zs-2.pl",
+                "contact:website": "http:\/\/www.zs-2.pl",
+                "ref:regon": "341382180",
+                "operator": "Powiat Golubsko-Dobrzy\u0144ski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 12115"
+            }
+        },
+        {
+            "id": 106878,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.05139,
+                    53.112280000000005
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 106878,
+                "official_name": "Technikum",
+                "name": "Technikum",
+                "addr:country": "PL",
+                "addr:postcode": "87-400",
+                "addr:city": "Golub-Dobrzy\u0144",
+                "addr:street": "ul. Kili\u0144skiego",
+                "addr:housenumber": "31",
+                "addr:teryt:simc": 8431,
+                "addr:teryt:sym_ul": 983155,
+                "contact:phone": "+48 566832549",
+                "contact:email": "sekretariat@zs-2.pl",
+                "contact:website": "http:\/\/www.zs-2.pl",
+                "ref:regon": "871659368",
+                "operator": "Powiat Golubsko-Dobrzy\u0144ski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 12115"
+            }
+        },
+        {
+            "id": 106879,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.05139,
+                    53.11225
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 106879,
+                "official_name": "Bran\u017cowa Szko\u0142a I Stopnia",
+                "name": "Bran\u017cowa Szko\u0142a I Stopnia",
+                "addr:country": "PL",
+                "addr:postcode": "87-400",
+                "addr:city": "Golub-Dobrzy\u0144",
+                "addr:street": "ul. Kili\u0144skiego",
+                "addr:housenumber": "31",
+                "addr:teryt:simc": 8431,
+                "addr:teryt:sym_ul": 983155,
+                "contact:phone": "+48 566832549",
+                "contact:email": "sekretariat@zs-2.pl",
+                "contact:website": "http:\/\/www.zs-2.pl",
+                "ref:regon": "871659351",
+                "operator": "Powiat Golubsko-Dobrzy\u0144ski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 12115"
+            }
+        },
+        {
+            "id": 275522,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.05139,
+                    53.11222
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 275522,
+                "official_name": "Bran\u017cowa Szko\u0142a II Stopnia w Golubiu-Dobrzyniu",
+                "name": "Bran\u017cowa Szko\u0142a II Stopnia w Golubiu-Dobrzyniu",
+                "addr:country": "PL",
+                "addr:postcode": "87-400",
+                "addr:city": "Golub-Dobrzy\u0144",
+                "addr:street": "ul. Kili\u0144skiego",
+                "addr:housenumber": "31",
+                "addr:teryt:simc": 8431,
+                "addr:teryt:sym_ul": 983155,
+                "contact:phone": "+48 566832549",
+                "contact:email": "sekretariat@zs-2.pl",
+                "contact:website": "http:\/\/www.zs-2.pl",
+                "ref:regon": "386933936",
+                "operator": "Powiat Golubsko-Dobrzy\u0144ski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 12115"
+            }
+        },
+        {
+            "id": 8633,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.05225,
+                    53.11468
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 8633,
+                "official_name": "Szko\u0142a Podstawowa Nr 1 im. Konstytucji 3 Maja",
+                "name": "Szko\u0142a Podstawowa Nr 1",
+                "addr:country": "PL",
+                "addr:postcode": "87-400",
+                "addr:city": "Golub-Dobrzy\u0144",
+                "addr:street": "ul. Zamkowa",
+                "addr:housenumber": "19",
+                "addr:teryt:simc": 25547,
+                "addr:teryt:sym_ul": 983155,
+                "contact:phone": "+48 566832556",
+                "contact:email": "sp1golub@golub-dobrzyn.pl",
+                "contact:website": "http:\/\/sp1golub.szkolnastrona.pl",
+                "ref:regon": "000598316",
+                "ref:vatin": "PL8781625778",
+                "operator": "Gmina Miasto Golub-Dobrzy\u0144",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 12171,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.05094,
+                    53.11722
+                ]
+            },
+            "properties": {
+                "ref:rspo": 12171,
+                "official_name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Nr 1 im.anny Waz\u00f3wny w Golubiu-Dobrzyniu",
+                "name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Nr 1 im.anny Waz\u00f3wny w Golubiu-Dobrzyniu",
+                "addr:country": "PL",
+                "addr:postcode": "87-400",
+                "addr:city": "Golub-Dobrzy\u0144",
+                "addr:street": "ul. PTTK",
+                "addr:housenumber": "28",
+                "addr:teryt:simc": 18065,
+                "addr:teryt:sym_ul": 983155,
+                "contact:phone": "+48 566835450",
+                "contact:email": "sekretariat@wazowna.pl",
+                "contact:website": "http:\/\/www.wazowna.pl",
+                "ref:regon": "000228281",
+                "ref:vatin": "PL8781066882",
+                "operator": "Powiat Golubsko-Dobrzy\u0144ski",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 104506;266768"
+            }
+        },
+        {
+            "id": 13588,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.05094,
+                    53.11719
+                ]
+            },
+            "properties": {
+                "ref:rspo": 13588,
+                "official_name": "Publiczna Szko\u0142a Muzyczna I Stopnia w Golubiu-Dobrzyniu",
+                "name": "Publiczna Szko\u0142a Muzyczna I Stopnia w Golubiu-Dobrzyniu",
+                "addr:country": "PL",
+                "addr:postcode": "87-400",
+                "addr:city": "Golub-Dobrzy\u0144",
+                "addr:street": "ul. PTTK",
+                "addr:housenumber": "28",
+                "addr:teryt:simc": 18065,
+                "addr:teryt:sym_ul": 983155,
+                "contact:email": "muzyczna@golub-dobrzyn.com.pl",
+                "contact:website": "http:\/\/www.psmgd.pl",
+                "ref:regon": "341136959",
+                "ref:vatin": "PL5030075560",
+                "operator": "Powiat Golubsko-Dobrzy\u0144ski",
+                "operator:type": "government",
+                "amenity": "music_school"
+            }
+        },
+        {
+            "id": 104506,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.05094,
+                    53.117160000000005
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 104506,
+                "official_name": "Liceum Og\u00f3lnokszta\u0142c\u0105ce im. Anny Waz\u00f3wny w Golubiu-Dobrzyniu",
+                "name": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+                "addr:country": "PL",
+                "addr:postcode": "87-400",
+                "addr:city": "Golub-Dobrzy\u0144",
+                "addr:street": "ul. PTTK",
+                "addr:housenumber": "28",
+                "addr:teryt:simc": 18065,
+                "addr:teryt:sym_ul": 983155,
+                "contact:phone": "+48 566835450",
+                "contact:email": "sekretariat@wazowna.pl",
+                "contact:website": "http:\/\/www.wazowna.pl",
+                "ref:regon": "870004027",
+                "operator": "Powiat Golubsko-Dobrzy\u0144ski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 12171"
+            }
+        },
+        {
+            "id": 266768,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.05094,
+                    53.11713
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 266768,
+                "official_name": "Technikum im. Anny Waz\u00f3wny",
+                "name": "Technikum",
+                "addr:country": "PL",
+                "addr:postcode": "87-400",
+                "addr:city": "Golub-Dobrzy\u0144",
+                "addr:street": "ul. PTTK",
+                "addr:housenumber": "28",
+                "addr:teryt:simc": 18065,
+                "addr:teryt:sym_ul": 983155,
+                "contact:phone": "+48 566835450",
+                "contact:email": "wazownasekretariat11@wp.pl",
+                "contact:website": "http:\/\/www.wazowna.pl",
+                "ref:regon": "369689406",
+                "operator": "Powiat Golubsko-Dobrzy\u0144ski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 12171"
+            }
+        }
+    ]
+}

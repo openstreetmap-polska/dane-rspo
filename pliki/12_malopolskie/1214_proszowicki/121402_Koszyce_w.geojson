@@ -1,1 +1,225 @@
-{"type":"FeatureCollection","features":[{"id":5106,"type":"Feature","geometry":{"type":"Point","coordinates":[20.57604,50.16959]},"properties":{"ref:rspo":5106,"official_name":"Centrum O\u015bwiatowe im. Stanis\u0142awa Wyspia\u0144skiego w Koszycach","name":"Centrum O\u015bwiatowe","addr:country":"PL","addr:postcode":"32-130","addr:city":"Koszyce","addr:street":"ul. Marii Sk\u0142odowskiej-Curie","addr:housenumber":"4","addr:door":"a","addr:teryt:simc":20068,"addr:teryt:sym_ul":244630,"contact:phone":"+48 413514224","contact:email":"sp.koszyce@gmail.com","contact:website":"http:\/\/koszyce.szkolnastrona.pl","ref:regon":"120006082","ref:vatin":"PL6821668707","operator":"Gmina Koszyce","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 22015;34850"}},{"id":22015,"type":"Feature","geometry":{"type":"Point","coordinates":[20.57604,50.16956]},"properties":{"ref:rspo":22015,"official_name":"Przedszkole Samorz\u0105dowe","name":"Przedszkole Samorz\u0105dowe","addr:country":"PL","addr:postcode":"32-130","addr:city":"Koszyce","addr:street":"ul. Marii Sk\u0142odowskiej-Curie","addr:housenumber":"4","addr:door":"a","addr:teryt:simc":20068,"addr:teryt:sym_ul":244630,"contact:phone":"+48 413514224","contact:website":"http:\/\/koszyce.szkolnastrona.pl","ref:regon":"290013816","ref:vatin":"PL6821615326","operator":"Gmina Koszyce","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 5106"}},{"id":34850,"type":"Feature","geometry":{"type":"Point","coordinates":[20.57604,50.16953]},"properties":{"isced:level":"1;2","ref:rspo":34850,"official_name":"Szko\u0142a Podstawowa im. Kornela Makuszy\u0144skiego w Centrum O\u015bwiatowym im. Stanis\u0142awa Wyspia\u0144skiego w Koszycach","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"32-130","addr:city":"Koszyce","addr:street":"ul. Marii Sk\u0142odowskiej-Curie","addr:housenumber":"4","addr:door":"a","addr:teryt:simc":20068,"addr:teryt:sym_ul":244630,"contact:phone":"+48 413514224","contact:email":"sp.koszyce@gmail.com","contact:website":"http:\/\/koszyce.szkolnastrona.pl","ref:regon":"000270225","ref:vatin":"PL6821577927","operator":"Gmina Koszyce","operator:type":"government","amenity":"school","note":"Parent RSPO: 5106"}},{"id":123305,"type":"Feature","geometry":{"type":"Point","coordinates":[20.57529,50.16962]},"properties":{"ref:rspo":123305,"official_name":"Szko\u0142a Muzyczna I Stopnia w Koszycach","name":"Szko\u0142a Muzyczna I Stopnia w Koszycach","addr:country":"PL","addr:postcode":"32-130","addr:city":"Koszyce","addr:street":"ul. Marii Sk\u0142odowskiej-Curie","addr:housenumber":"5","addr:teryt:simc":20068,"addr:teryt:sym_ul":244630,"contact:phone":"+48 573034096","contact:email":"muzycznakoszyce@gmail.com","contact:website":"http:\/\/muzycznakoszyce.szkolnastrona.pl","ref:regon":"123142957","ref:vatin":"PL6821769437","operator":"Gmina Koszyce","operator:type":"government","amenity":"music_school"}},{"id":279187,"type":"Feature","geometry":{"type":"Point","coordinates":[20.5748,50.1699]},"properties":{"ref:rspo":279187,"official_name":"Przedszkole \" S\u0142oneczne Nutki\"","name":"Przedszkole \" S\u0142oneczne Nutki\"","addr:country":"PL","addr:postcode":"32-130","addr:city":"Koszyce","addr:street":"ul. Marii Sk\u0142odowskiej-Curie","addr:housenumber":"6","addr:teryt:simc":20068,"addr:teryt:sym_ul":244630,"contact:phone":"+48 781616661","contact:email":"przedszkole@slonecznenutki.pl","contact:website":"http:\/\/slonecznenutki.pl","ref:regon":"520830696","operator":"Fundacja Rozwoju O\u015bwiaty, Wychowania I Sportu Frowis","operator:type":"ngo","amenity":"kindergarten"}},{"id":5107,"type":"Feature","geometry":{"type":"Point","coordinates":[20.500466,50.169917]},"properties":{"isced:level":"1;2","ref:rspo":5107,"official_name":"Szko\u0142a Podstawowa im. Piotra Barylaka w Ksi\u0105\u017cnicach Wielkich","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"32-130","addr:place":"Ksi\u0105\u017cnice Wielkie","addr:housenumber":"37","addr:teryt:sym_ul":244660,"contact:phone":"+48 413514120","contact:email":"sp.ksiaznicewlk@interia.pl","contact:website":"http:\/\/spksiaznice.szkolnastrona.pl","ref:regon":"001215702","ref:vatin":"PL6821577910","operator":"Gmina Koszyce","operator:type":"government","amenity":"school"}},{"id":266039,"type":"Feature","geometry":{"type":"Point","coordinates":[20.500466,50.169886999999996]},"properties":{"ref:rspo":266039,"official_name":"Samorz\u0105dowy Punkt Przedszkolny","name":"Samorz\u0105dowy Punkt Przedszkolny","addr:country":"PL","addr:postcode":"32-130","addr:place":"Ksi\u0105\u017cnice Wielkie","addr:housenumber":"37","addr:teryt:sym_ul":244660,"contact:phone":"+48 413514120","contact:email":"sp.ksiaznicewlk@interia.pl","contact:website":"http:\/\/www.spksiaznice.szkolnastrona.pl","ref:regon":"369180387","ref:vatin":"PL6821776070","operator":"Gmina Koszyce","operator:type":"government","amenity":"kindergarten"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 5106,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.57604,
+                    50.16959
+                ]
+            },
+            "properties": {
+                "ref:rspo": 5106,
+                "official_name": "Centrum O\u015bwiatowe im. Stanis\u0142awa Wyspia\u0144skiego w Koszycach",
+                "name": "Centrum O\u015bwiatowe",
+                "addr:country": "PL",
+                "addr:postcode": "32-130",
+                "addr:city": "Koszyce",
+                "addr:street": "ul. Marii Sk\u0142odowskiej-Curie",
+                "addr:housenumber": "4",
+                "addr:door": "a",
+                "addr:teryt:simc": 20068,
+                "addr:teryt:sym_ul": 244630,
+                "contact:phone": "+48 413514224",
+                "contact:email": "sp.koszyce@gmail.com",
+                "contact:website": "http:\/\/koszyce.szkolnastrona.pl",
+                "ref:regon": "120006082",
+                "ref:vatin": "PL6821668707",
+                "operator": "Gmina Koszyce",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 22015;34850"
+            }
+        },
+        {
+            "id": 22015,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.57604,
+                    50.16956
+                ]
+            },
+            "properties": {
+                "ref:rspo": 22015,
+                "official_name": "Przedszkole Samorz\u0105dowe",
+                "name": "Przedszkole Samorz\u0105dowe",
+                "addr:country": "PL",
+                "addr:postcode": "32-130",
+                "addr:city": "Koszyce",
+                "addr:street": "ul. Marii Sk\u0142odowskiej-Curie",
+                "addr:housenumber": "4",
+                "addr:door": "a",
+                "addr:teryt:simc": 20068,
+                "addr:teryt:sym_ul": 244630,
+                "contact:phone": "+48 413514224",
+                "contact:website": "http:\/\/koszyce.szkolnastrona.pl",
+                "ref:regon": "290013816",
+                "ref:vatin": "PL6821615326",
+                "operator": "Gmina Koszyce",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 5106"
+            }
+        },
+        {
+            "id": 34850,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.57604,
+                    50.16953
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 34850,
+                "official_name": "Szko\u0142a Podstawowa im. Kornela Makuszy\u0144skiego w Centrum O\u015bwiatowym im. Stanis\u0142awa Wyspia\u0144skiego w Koszycach",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "32-130",
+                "addr:city": "Koszyce",
+                "addr:street": "ul. Marii Sk\u0142odowskiej-Curie",
+                "addr:housenumber": "4",
+                "addr:door": "a",
+                "addr:teryt:simc": 20068,
+                "addr:teryt:sym_ul": 244630,
+                "contact:phone": "+48 413514224",
+                "contact:email": "sp.koszyce@gmail.com",
+                "contact:website": "http:\/\/koszyce.szkolnastrona.pl",
+                "ref:regon": "000270225",
+                "ref:vatin": "PL6821577927",
+                "operator": "Gmina Koszyce",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 5106"
+            }
+        },
+        {
+            "id": 123305,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.57529,
+                    50.16962
+                ]
+            },
+            "properties": {
+                "ref:rspo": 123305,
+                "official_name": "Szko\u0142a Muzyczna I Stopnia w Koszycach",
+                "name": "Szko\u0142a Muzyczna I Stopnia w Koszycach",
+                "addr:country": "PL",
+                "addr:postcode": "32-130",
+                "addr:city": "Koszyce",
+                "addr:street": "ul. Marii Sk\u0142odowskiej-Curie",
+                "addr:housenumber": "5",
+                "addr:teryt:simc": 20068,
+                "addr:teryt:sym_ul": 244630,
+                "contact:phone": "+48 573034096",
+                "contact:email": "muzycznakoszyce@gmail.com",
+                "contact:website": "http:\/\/muzycznakoszyce.szkolnastrona.pl",
+                "ref:regon": "123142957",
+                "ref:vatin": "PL6821769437",
+                "operator": "Gmina Koszyce",
+                "operator:type": "government",
+                "amenity": "music_school"
+            }
+        },
+        {
+            "id": 279187,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.5748,
+                    50.1699
+                ]
+            },
+            "properties": {
+                "ref:rspo": 279187,
+                "official_name": "Przedszkole \" S\u0142oneczne Nutki\"",
+                "name": "Przedszkole \" S\u0142oneczne Nutki\"",
+                "addr:country": "PL",
+                "addr:postcode": "32-130",
+                "addr:city": "Koszyce",
+                "addr:street": "ul. Marii Sk\u0142odowskiej-Curie",
+                "addr:housenumber": "6",
+                "addr:teryt:simc": 20068,
+                "addr:teryt:sym_ul": 244630,
+                "contact:phone": "+48 781616661",
+                "contact:email": "przedszkole@slonecznenutki.pl",
+                "contact:website": "http:\/\/slonecznenutki.pl",
+                "ref:regon": "520830696",
+                "operator": "Fundacja Rozwoju O\u015bwiaty, Wychowania I Sportu Frowis",
+                "operator:type": "ngo",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 5107,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.500466,
+                    50.169917
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 5107,
+                "official_name": "Szko\u0142a Podstawowa im. Piotra Barylaka w Ksi\u0105\u017cnicach Wielkich",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "32-130",
+                "addr:place": "Ksi\u0105\u017cnice Wielkie",
+                "addr:housenumber": "37",
+                "addr:teryt:sym_ul": 244660,
+                "contact:phone": "+48 413514120",
+                "contact:email": "sp.ksiaznicewlk@interia.pl",
+                "contact:website": "http:\/\/spksiaznice.szkolnastrona.pl",
+                "ref:regon": "001215702",
+                "ref:vatin": "PL6821577910",
+                "operator": "Gmina Koszyce",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 266039,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.500466,
+                    50.169886999999996
+                ]
+            },
+            "properties": {
+                "ref:rspo": 266039,
+                "official_name": "Samorz\u0105dowy Punkt Przedszkolny",
+                "name": "Samorz\u0105dowy Punkt Przedszkolny",
+                "addr:country": "PL",
+                "addr:postcode": "32-130",
+                "addr:place": "Ksi\u0105\u017cnice Wielkie",
+                "addr:housenumber": "37",
+                "addr:teryt:sym_ul": 244660,
+                "contact:phone": "+48 413514120",
+                "contact:email": "sp.ksiaznicewlk@interia.pl",
+                "contact:website": "http:\/\/www.spksiaznice.szkolnastrona.pl",
+                "ref:regon": "369180387",
+                "ref:vatin": "PL6821776070",
+                "operator": "Gmina Koszyce",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        }
+    ]
+}

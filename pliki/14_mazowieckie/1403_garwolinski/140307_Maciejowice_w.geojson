@@ -1,1 +1,96 @@
-{"type":"FeatureCollection","features":[{"id":15727,"type":"Feature","geometry":{"type":"Point","coordinates":[21.5559,51.69398]},"properties":{"isced:level":"1;2","ref:rspo":15727,"official_name":"Publiczna Szko\u0142a Podstawowa im. Tadeusza Ko\u015bciuszki w Maciejowicach","name":"Publiczna Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"08-480","addr:city":"Maciejowice","addr:street":"ul. Tadeusza Ko\u015bciuszki","addr:housenumber":"19","addr:teryt:simc":9582,"addr:teryt:sym_ul":680503,"contact:phone":"+48 256825714","contact:email":"maciejowicesp@wp.pl","contact:website":"http:\/\/www.spmaciejowice.manifo.com","ref:regon":"000582143","ref:vatin":"PL8261884249","operator":"Gmina Maciejowice","operator:type":"government","amenity":"school"}},{"id":22672,"type":"Feature","geometry":{"type":"Point","coordinates":[21.55609,51.69569]},"properties":{"ref:rspo":22672,"official_name":"Publiczne Przedszkole w Maciejowicach","name":"Publiczne Przedszkole w Maciejowicach","addr:country":"PL","addr:postcode":"08-480","addr:city":"Maciejowice","addr:street":"ul. ks. Grzegorza Piramowicza","addr:housenumber":"3","addr:teryt:simc":16332,"addr:teryt:sym_ul":680503,"contact:phone":"+48 256825786","contact:email":"przedszkole_maciejowice@o2.pl","ref:regon":"712370898","ref:vatin":"PL8261082662","operator":"Gmina Maciejowice","operator:type":"government","amenity":"kindergarten"}},{"id":23093,"type":"Feature","geometry":{"type":"Point","coordinates":[21.47054,51.74898]},"properties":{"isced:level":"1;2","ref:rspo":23093,"official_name":"Publiczna Szko\u0142a Podstawowa w Samogoszczy im. Ks. Jana Twardowskiego","name":"Publiczna Szko\u0142a Podstawowa w Samogoszczy","addr:country":"PL","addr:postcode":"08-480","addr:place":"Samogoszcz","addr:housenumber":"2","addr:teryt:sym_ul":680756,"contact:phone":"+48 256832636","contact:email":"pspsamogoszcz@op.pl","ref:regon":"001124075","ref:vatin":"PL8261884309","operator":"Gmina Maciejowice","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 15727,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.5559,
+                    51.69398
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 15727,
+                "official_name": "Publiczna Szko\u0142a Podstawowa im. Tadeusza Ko\u015bciuszki w Maciejowicach",
+                "name": "Publiczna Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "08-480",
+                "addr:city": "Maciejowice",
+                "addr:street": "ul. Tadeusza Ko\u015bciuszki",
+                "addr:housenumber": "19",
+                "addr:teryt:simc": 9582,
+                "addr:teryt:sym_ul": 680503,
+                "contact:phone": "+48 256825714",
+                "contact:email": "maciejowicesp@wp.pl",
+                "contact:website": "http:\/\/www.spmaciejowice.manifo.com",
+                "ref:regon": "000582143",
+                "ref:vatin": "PL8261884249",
+                "operator": "Gmina Maciejowice",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 22672,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.55609,
+                    51.69569
+                ]
+            },
+            "properties": {
+                "ref:rspo": 22672,
+                "official_name": "Publiczne Przedszkole w Maciejowicach",
+                "name": "Publiczne Przedszkole w Maciejowicach",
+                "addr:country": "PL",
+                "addr:postcode": "08-480",
+                "addr:city": "Maciejowice",
+                "addr:street": "ul. ks. Grzegorza Piramowicza",
+                "addr:housenumber": "3",
+                "addr:teryt:simc": 16332,
+                "addr:teryt:sym_ul": 680503,
+                "contact:phone": "+48 256825786",
+                "contact:email": "przedszkole_maciejowice@o2.pl",
+                "ref:regon": "712370898",
+                "ref:vatin": "PL8261082662",
+                "operator": "Gmina Maciejowice",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 23093,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.47054,
+                    51.74898
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 23093,
+                "official_name": "Publiczna Szko\u0142a Podstawowa w Samogoszczy im. Ks. Jana Twardowskiego",
+                "name": "Publiczna Szko\u0142a Podstawowa w Samogoszczy",
+                "addr:country": "PL",
+                "addr:postcode": "08-480",
+                "addr:place": "Samogoszcz",
+                "addr:housenumber": "2",
+                "addr:teryt:sym_ul": 680756,
+                "contact:phone": "+48 256832636",
+                "contact:email": "pspsamogoszcz@op.pl",
+                "ref:regon": "001124075",
+                "ref:vatin": "PL8261884309",
+                "operator": "Gmina Maciejowice",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

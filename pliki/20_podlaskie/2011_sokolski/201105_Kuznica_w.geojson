@@ -1,1 +1,68 @@
-{"type":"FeatureCollection","features":[{"id":85973,"type":"Feature","geometry":{"type":"Point","coordinates":[23.64457,53.5121899]},"properties":{"ref:rspo":85973,"official_name":"Przedszkole w Ku\u017anicy","name":"Przedszkole w Ku\u017anicy","addr:country":"PL","addr:postcode":"16-123","addr:city":"Ku\u017anica","addr:street":"ul. Sok\u00f3lska","addr:housenumber":"16","addr:teryt:simc":20509,"addr:teryt:sym_ul":33293,"contact:phone":"+48 857224025","contact:email":"przedszkole@kuznica.ug.gov.pl","contact:website":"http:\/\/przedszkole.kuznica.ug.gov.pl\/","ref:regon":"200408083","ref:vatin":"PL5451805375","operator":"Gmina Ku\u017anica","operator:type":"government","amenity":"kindergarten"}},{"id":113899,"type":"Feature","geometry":{"type":"Point","coordinates":[23.64981,53.5144]},"properties":{"isced:level":"1;2","ref:rspo":113899,"official_name":"Szko\u0142a Podstawowa w Ku\u017anicy","name":"Szko\u0142a Podstawowa w Ku\u017anicy","addr:country":"PL","addr:postcode":"16-123","addr:city":"Ku\u017anica","addr:street":"ul. Jagiello\u0144ska","addr:housenumber":"1","addr:teryt:simc":7029,"addr:teryt:sym_ul":33293,"contact:phone":"+48 857224002","contact:email":"sekretariat@spwk.edu.pl","contact:website":"http:\/\/www.spkuznica.szkolnastrona.pl","ref:regon":"000270030","ref:vatin":"PL5451776478","operator":"Gmina Ku\u017anica","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 85973,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.64457,
+                    53.5121899
+                ]
+            },
+            "properties": {
+                "ref:rspo": 85973,
+                "official_name": "Przedszkole w Ku\u017anicy",
+                "name": "Przedszkole w Ku\u017anicy",
+                "addr:country": "PL",
+                "addr:postcode": "16-123",
+                "addr:city": "Ku\u017anica",
+                "addr:street": "ul. Sok\u00f3lska",
+                "addr:housenumber": "16",
+                "addr:teryt:simc": 20509,
+                "addr:teryt:sym_ul": 33293,
+                "contact:phone": "+48 857224025",
+                "contact:email": "przedszkole@kuznica.ug.gov.pl",
+                "contact:website": "http:\/\/przedszkole.kuznica.ug.gov.pl\/",
+                "ref:regon": "200408083",
+                "ref:vatin": "PL5451805375",
+                "operator": "Gmina Ku\u017anica",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 113899,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.64981,
+                    53.5144
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 113899,
+                "official_name": "Szko\u0142a Podstawowa w Ku\u017anicy",
+                "name": "Szko\u0142a Podstawowa w Ku\u017anicy",
+                "addr:country": "PL",
+                "addr:postcode": "16-123",
+                "addr:city": "Ku\u017anica",
+                "addr:street": "ul. Jagiello\u0144ska",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 7029,
+                "addr:teryt:sym_ul": 33293,
+                "contact:phone": "+48 857224002",
+                "contact:email": "sekretariat@spwk.edu.pl",
+                "contact:website": "http:\/\/www.spkuznica.szkolnastrona.pl",
+                "ref:regon": "000270030",
+                "ref:vatin": "PL5451776478",
+                "operator": "Gmina Ku\u017anica",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

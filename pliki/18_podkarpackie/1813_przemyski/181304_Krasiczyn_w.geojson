@@ -1,1 +1,146 @@
-{"type":"FeatureCollection","features":[{"id":75528,"type":"Feature","geometry":{"type":"Point","coordinates":[22.62856,49.74899]},"properties":{"isced:level":"1;2","ref:rspo":75528,"official_name":"Szko\u0142a Podstawowa im. Jana Paw\u0142a II w Olszanach","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"37-741","addr:place":"Olszany","addr:housenumber":"11","addr:teryt:sym_ul":604867,"contact:phone":"+48 166718340","contact:email":"spolszany@poczta.onet.pl","ref:regon":"001265918","operator":"Gmina Krasiczyn","operator:type":"government","amenity":"school"}},{"id":75530,"type":"Feature","geometry":{"type":"Point","coordinates":[22.73423,49.77299]},"properties":{"ref:rspo":75530,"official_name":"Niepubliczne Przedszkole Zgromadzenia Si\u00f3str S\u0142u\u017cebniczek Nmp Np Pod Wezwaniem B\u0142.edmunda Bojanowskiego w Pra\u0142kowcach","name":"Niepubliczne Przedszkole Zgromadzenia Si\u00f3str S\u0142u\u017cebniczek Nmp Np Pod Wezwaniem B\u0142.edmunda Bojanowskiego w Pra\u0142kowcach","addr:country":"PL","addr:postcode":"37-700","addr:place":"Pra\u0142kowce","addr:housenumber":"73","addr:teryt:sym_ul":604880,"contact:phone":"+48 166757044","contact:email":"ochronkaedmunda@interia.pl","ref:regon":"180909191","ref:vatin":"PL7952196089","operator":"Zg. Ss. S\u0142u\u017cebniczek Nmp Niepokalanie Pocz\u0119tej, Prowincja Przemyska","operator:type":"religious","amenity":"kindergarten"}},{"id":16595,"type":"Feature","geometry":{"type":"Point","coordinates":[22.66368,49.77424]},"properties":{"ref:rspo":16595,"official_name":"Prywatne \"T\u0119czowe Przedszkole\" Zofia Zwoli\u0144ska","name":"Prywatne \"T\u0119czowe Przedszkole\" Zofia Zwoli\u0144ska","addr:country":"PL","addr:postcode":"37-741","addr:place":"Krasiczyn","addr:housenumber":"133","addr:teryt:sym_ul":604784,"contact:phone":"+48 506039525","contact:email":"tereska.argasinska@tlen.pl","ref:regon":"180890184","ref:vatin":"PL7951207589","operator":"Zofia Zwoli\u0144ska","operator:type":"private","amenity":"kindergarten"}},{"id":75527,"type":"Feature","geometry":{"type":"Point","coordinates":[22.6528456,49.7771505]},"properties":{"ref:rspo":75527,"official_name":"Przedszkole Zgromadzenia Si\u00f3str S\u0142u\u017cebniczek Nmp Np Pod Wezwaniem \u015aw. J\u00f3zefa","name":"Przedszkole Zgromadzenia Si\u00f3str S\u0142u\u017cebniczek Nmp Np Pod Wezwaniem \u015aw. J\u00f3zefa","addr:country":"PL","addr:postcode":"37-741","addr:place":"Krasiczyn","addr:housenumber":"116","addr:teryt:sym_ul":604784,"contact:phone":"+48 166718062","contact:email":"przedszkole.krasiczyn@interia.pl","ref:regon":"180909185","ref:vatin":"PL7952162297","operator":"Zg. Ss. S\u0142u\u017cebniczek Nmp Niepokalanie Pocz\u0119tej, Prowincja Przemyska","operator:type":"religious","amenity":"kindergarten"}},{"id":32028,"type":"Feature","geometry":{"type":"Point","coordinates":[22.65406,49.77717]},"properties":{"isced:level":"1;2","ref:rspo":32028,"official_name":"Szko\u0142a Podstawowa im. \u015aw Jadwigi Kr\u00f3lowej w Krasiczynie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"37-741","addr:place":"Krasiczyn","addr:housenumber":"117","addr:teryt:sym_ul":604784,"contact:phone":"+48 166718322","contact:email":"szk_podst_krasiczyn@op.pl","contact:website":"http:\/\/www.spkrasiczyn.edupeage.org","ref:regon":"000663172","operator":"Gmina Krasiczyn","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 75528,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.62856,
+                    49.74899
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 75528,
+                "official_name": "Szko\u0142a Podstawowa im. Jana Paw\u0142a II w Olszanach",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "37-741",
+                "addr:place": "Olszany",
+                "addr:housenumber": "11",
+                "addr:teryt:sym_ul": 604867,
+                "contact:phone": "+48 166718340",
+                "contact:email": "spolszany@poczta.onet.pl",
+                "ref:regon": "001265918",
+                "operator": "Gmina Krasiczyn",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 75530,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.73423,
+                    49.77299
+                ]
+            },
+            "properties": {
+                "ref:rspo": 75530,
+                "official_name": "Niepubliczne Przedszkole Zgromadzenia Si\u00f3str S\u0142u\u017cebniczek Nmp Np Pod Wezwaniem B\u0142.edmunda Bojanowskiego w Pra\u0142kowcach",
+                "name": "Niepubliczne Przedszkole Zgromadzenia Si\u00f3str S\u0142u\u017cebniczek Nmp Np Pod Wezwaniem B\u0142.edmunda Bojanowskiego w Pra\u0142kowcach",
+                "addr:country": "PL",
+                "addr:postcode": "37-700",
+                "addr:place": "Pra\u0142kowce",
+                "addr:housenumber": "73",
+                "addr:teryt:sym_ul": 604880,
+                "contact:phone": "+48 166757044",
+                "contact:email": "ochronkaedmunda@interia.pl",
+                "ref:regon": "180909191",
+                "ref:vatin": "PL7952196089",
+                "operator": "Zg. Ss. S\u0142u\u017cebniczek Nmp Niepokalanie Pocz\u0119tej, Prowincja Przemyska",
+                "operator:type": "religious",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 16595,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.66368,
+                    49.77424
+                ]
+            },
+            "properties": {
+                "ref:rspo": 16595,
+                "official_name": "Prywatne \"T\u0119czowe Przedszkole\" Zofia Zwoli\u0144ska",
+                "name": "Prywatne \"T\u0119czowe Przedszkole\" Zofia Zwoli\u0144ska",
+                "addr:country": "PL",
+                "addr:postcode": "37-741",
+                "addr:place": "Krasiczyn",
+                "addr:housenumber": "133",
+                "addr:teryt:sym_ul": 604784,
+                "contact:phone": "+48 506039525",
+                "contact:email": "tereska.argasinska@tlen.pl",
+                "ref:regon": "180890184",
+                "ref:vatin": "PL7951207589",
+                "operator": "Zofia Zwoli\u0144ska",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 75527,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.6528456,
+                    49.7771505
+                ]
+            },
+            "properties": {
+                "ref:rspo": 75527,
+                "official_name": "Przedszkole Zgromadzenia Si\u00f3str S\u0142u\u017cebniczek Nmp Np Pod Wezwaniem \u015aw. J\u00f3zefa",
+                "name": "Przedszkole Zgromadzenia Si\u00f3str S\u0142u\u017cebniczek Nmp Np Pod Wezwaniem \u015aw. J\u00f3zefa",
+                "addr:country": "PL",
+                "addr:postcode": "37-741",
+                "addr:place": "Krasiczyn",
+                "addr:housenumber": "116",
+                "addr:teryt:sym_ul": 604784,
+                "contact:phone": "+48 166718062",
+                "contact:email": "przedszkole.krasiczyn@interia.pl",
+                "ref:regon": "180909185",
+                "ref:vatin": "PL7952162297",
+                "operator": "Zg. Ss. S\u0142u\u017cebniczek Nmp Niepokalanie Pocz\u0119tej, Prowincja Przemyska",
+                "operator:type": "religious",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 32028,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.65406,
+                    49.77717
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 32028,
+                "official_name": "Szko\u0142a Podstawowa im. \u015aw Jadwigi Kr\u00f3lowej w Krasiczynie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "37-741",
+                "addr:place": "Krasiczyn",
+                "addr:housenumber": "117",
+                "addr:teryt:sym_ul": 604784,
+                "contact:phone": "+48 166718322",
+                "contact:email": "szk_podst_krasiczyn@op.pl",
+                "contact:website": "http:\/\/www.spkrasiczyn.edupeage.org",
+                "ref:regon": "000663172",
+                "operator": "Gmina Krasiczyn",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

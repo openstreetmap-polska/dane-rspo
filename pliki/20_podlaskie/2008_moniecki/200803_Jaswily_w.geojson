@@ -1,1 +1,64 @@
-{"type":"FeatureCollection","features":[{"id":104914,"type":"Feature","geometry":{"type":"Point","coordinates":[22.943011,53.477615]},"properties":{"isced:level":"1;2","ref:rspo":104914,"official_name":"Szko\u0142a Podstawowa im. Konstytucji 3 Maja w Ja\u015bwi\u0142ach","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"19-124","addr:place":"Ja\u015bwi\u0142y","addr:housenumber":"71","addr:teryt:sym_ul":31041,"contact:phone":"+48 857278050","contact:email":"sekretariat@jaswily.pl","ref:regon":"000267743","ref:vatin":"PL5461227856","operator":"Gmina Ja\u015bwi\u0142y","operator:type":"government","amenity":"school"}},{"id":81432,"type":"Feature","geometry":{"type":"Point","coordinates":[22.9052009,53.547658]},"properties":{"isced:level":"1;2","ref:rspo":81432,"official_name":"Szko\u0142a Podstawowa im. Sybirak\u00f3w w Dolistowie Starym","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"19-124","addr:place":"Dolistowo Stare","addr:housenumber":"112","addr:teryt:sym_ul":31147,"contact:phone":"+48 857161504","contact:email":"spdolistowo@poczta.onet.pl","contact:website":"http:\/\/dolistowo.jaswily.pl","ref:regon":"001163299","ref:vatin":"PL5461227827","operator":"Gmina Ja\u015bwi\u0142y","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 104914,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.943011,
+                    53.477615
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 104914,
+                "official_name": "Szko\u0142a Podstawowa im. Konstytucji 3 Maja w Ja\u015bwi\u0142ach",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "19-124",
+                "addr:place": "Ja\u015bwi\u0142y",
+                "addr:housenumber": "71",
+                "addr:teryt:sym_ul": 31041,
+                "contact:phone": "+48 857278050",
+                "contact:email": "sekretariat@jaswily.pl",
+                "ref:regon": "000267743",
+                "ref:vatin": "PL5461227856",
+                "operator": "Gmina Ja\u015bwi\u0142y",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 81432,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.9052009,
+                    53.547658
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 81432,
+                "official_name": "Szko\u0142a Podstawowa im. Sybirak\u00f3w w Dolistowie Starym",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "19-124",
+                "addr:place": "Dolistowo Stare",
+                "addr:housenumber": "112",
+                "addr:teryt:sym_ul": 31147,
+                "contact:phone": "+48 857161504",
+                "contact:email": "spdolistowo@poczta.onet.pl",
+                "contact:website": "http:\/\/dolistowo.jaswily.pl",
+                "ref:regon": "001163299",
+                "ref:vatin": "PL5461227827",
+                "operator": "Gmina Ja\u015bwi\u0142y",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

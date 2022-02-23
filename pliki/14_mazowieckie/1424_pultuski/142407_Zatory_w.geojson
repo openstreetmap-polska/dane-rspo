@@ -1,1 +1,196 @@
-{"type":"FeatureCollection","features":[{"id":83485,"type":"Feature","geometry":{"type":"Point","coordinates":[21.18216,52.60505]},"properties":{"ref:rspo":83485,"official_name":"Zesp\u00f3\u0142 Plac\u00f3wek O\u015bwiatowych w Zatorach","name":"Zesp\u00f3\u0142 Plac\u00f3wek O\u015bwiatowych w Zatorach","addr:country":"PL","addr:postcode":"07-217","addr:city":"Zatory","addr:street":"ul. Jana Paw\u0142a II","addr:housenumber":"69","addr:teryt:simc":7123,"addr:teryt:sym_ul":524157,"contact:phone":"+48 297410310","contact:email":"szkolazatory@wp.pl","contact:website":"http:\/\/www.szkolazatory.edu.pl","ref:regon":"130442036","ref:vatin":"PL5681454749","operator":"Gmina Zatory","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 61011;92898"}},{"id":61011,"type":"Feature","geometry":{"type":"Point","coordinates":[21.18216,52.605019999999996]},"properties":{"isced:level":"1;2","ref:rspo":61011,"official_name":"Szko\u0142a Podstawowa w Zatorach","name":"Szko\u0142a Podstawowa w Zatorach","addr:country":"PL","addr:postcode":"07-217","addr:city":"Zatory","addr:street":"ul. Jana Paw\u0142a II","addr:housenumber":"69","addr:teryt:simc":7123,"addr:teryt:sym_ul":524157,"contact:phone":"+48 297410310","contact:email":"szkolazatory@wp.pl","contact:website":"http:\/\/www.szkolazatory.edu.pl","ref:regon":"000273123","ref:vatin":"PL5681454755","operator":"Gmina Zatory","operator:type":"government","amenity":"school","note":"Parent RSPO: 83485"}},{"id":92898,"type":"Feature","geometry":{"type":"Point","coordinates":[21.18216,52.60499]},"properties":{"ref:rspo":92898,"official_name":"Samorz\u0105dowe Przedszkole Nr 1 w Zatorach","name":"Samorz\u0105dowe Przedszkole Nr 1 w Zatorach","addr:country":"PL","addr:postcode":"07-217","addr:city":"Zatory","addr:street":"ul. Jana Paw\u0142a II","addr:housenumber":"69","addr:teryt:simc":7123,"addr:teryt:sym_ul":524157,"contact:phone":"+48 297410310","contact:email":"szkolazatory@wp.pl","contact:website":"http:\/\/www.szkolazatory.edu.pl","ref:regon":"000912600","ref:vatin":"PL5681454778","operator":"Gmina Zatory","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 83485"}},{"id":272685,"type":"Feature","geometry":{"type":"Point","coordinates":[21.25375,52.64786]},"properties":{"ref:rspo":272685,"official_name":"Zesp\u00f3\u0142 Szkolno - Przedszkolny w Pniewie","name":"Zesp\u00f3\u0142 Szkolno - Przedszkolny w Pniewie","addr:country":"PL","addr:postcode":"07-214","addr:city":"Pniewo","addr:street":"ul. 18 Maja","addr:housenumber":"6","addr:teryt:simc":39743,"addr:teryt:sym_ul":523991,"contact:phone":"+48 297422882","contact:email":"szkolapniewo@o2.pl","ref:regon":"384274843","operator":"Gmina Zatory","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 63322;272678"}},{"id":63322,"type":"Feature","geometry":{"type":"Point","coordinates":[21.25375,52.64783]},"properties":{"isced:level":"1;2","ref:rspo":63322,"official_name":"Szko\u0142a Podstawowa w Pniewie","name":"Szko\u0142a Podstawowa w Pniewie","addr:country":"PL","addr:postcode":"07-217","addr:city":"Pniewo","addr:street":"ul. 18 Maja","addr:housenumber":"6","addr:teryt:simc":39743,"addr:teryt:sym_ul":523991,"contact:phone":"+48 297422882","contact:email":"szkolapniewo@o2.pl","contact:website":"http:\/\/www.zspniewo.pl","ref:regon":"001106189","ref:vatin":"PL5681446081","operator":"Gmina Zatory","operator:type":"government","amenity":"school","note":"Parent RSPO: 272685"}},{"id":272678,"type":"Feature","geometry":{"type":"Point","coordinates":[21.25375,52.647800000000004]},"properties":{"ref:rspo":272678,"official_name":"Samorz\u0105dowe Przedszkole Nr 2 w Pniewie","name":"Samorz\u0105dowe Przedszkole Nr 2 w Pniewie","addr:country":"PL","addr:postcode":"07-214","addr:city":"Pniewo","addr:street":"ul. 18 Maja","addr:housenumber":"6","addr:teryt:simc":39743,"addr:teryt:sym_ul":523991,"contact:phone":"+48 297422882","ref:regon":"384273967","operator":"Gmina Zatory","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 272685"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 83485,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.18216,
+                    52.60505
+                ]
+            },
+            "properties": {
+                "ref:rspo": 83485,
+                "official_name": "Zesp\u00f3\u0142 Plac\u00f3wek O\u015bwiatowych w Zatorach",
+                "name": "Zesp\u00f3\u0142 Plac\u00f3wek O\u015bwiatowych w Zatorach",
+                "addr:country": "PL",
+                "addr:postcode": "07-217",
+                "addr:city": "Zatory",
+                "addr:street": "ul. Jana Paw\u0142a II",
+                "addr:housenumber": "69",
+                "addr:teryt:simc": 7123,
+                "addr:teryt:sym_ul": 524157,
+                "contact:phone": "+48 297410310",
+                "contact:email": "szkolazatory@wp.pl",
+                "contact:website": "http:\/\/www.szkolazatory.edu.pl",
+                "ref:regon": "130442036",
+                "ref:vatin": "PL5681454749",
+                "operator": "Gmina Zatory",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 61011;92898"
+            }
+        },
+        {
+            "id": 61011,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.18216,
+                    52.605019999999996
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 61011,
+                "official_name": "Szko\u0142a Podstawowa w Zatorach",
+                "name": "Szko\u0142a Podstawowa w Zatorach",
+                "addr:country": "PL",
+                "addr:postcode": "07-217",
+                "addr:city": "Zatory",
+                "addr:street": "ul. Jana Paw\u0142a II",
+                "addr:housenumber": "69",
+                "addr:teryt:simc": 7123,
+                "addr:teryt:sym_ul": 524157,
+                "contact:phone": "+48 297410310",
+                "contact:email": "szkolazatory@wp.pl",
+                "contact:website": "http:\/\/www.szkolazatory.edu.pl",
+                "ref:regon": "000273123",
+                "ref:vatin": "PL5681454755",
+                "operator": "Gmina Zatory",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 83485"
+            }
+        },
+        {
+            "id": 92898,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.18216,
+                    52.60499
+                ]
+            },
+            "properties": {
+                "ref:rspo": 92898,
+                "official_name": "Samorz\u0105dowe Przedszkole Nr 1 w Zatorach",
+                "name": "Samorz\u0105dowe Przedszkole Nr 1 w Zatorach",
+                "addr:country": "PL",
+                "addr:postcode": "07-217",
+                "addr:city": "Zatory",
+                "addr:street": "ul. Jana Paw\u0142a II",
+                "addr:housenumber": "69",
+                "addr:teryt:simc": 7123,
+                "addr:teryt:sym_ul": 524157,
+                "contact:phone": "+48 297410310",
+                "contact:email": "szkolazatory@wp.pl",
+                "contact:website": "http:\/\/www.szkolazatory.edu.pl",
+                "ref:regon": "000912600",
+                "ref:vatin": "PL5681454778",
+                "operator": "Gmina Zatory",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 83485"
+            }
+        },
+        {
+            "id": 272685,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.25375,
+                    52.64786
+                ]
+            },
+            "properties": {
+                "ref:rspo": 272685,
+                "official_name": "Zesp\u00f3\u0142 Szkolno - Przedszkolny w Pniewie",
+                "name": "Zesp\u00f3\u0142 Szkolno - Przedszkolny w Pniewie",
+                "addr:country": "PL",
+                "addr:postcode": "07-214",
+                "addr:city": "Pniewo",
+                "addr:street": "ul. 18 Maja",
+                "addr:housenumber": "6",
+                "addr:teryt:simc": 39743,
+                "addr:teryt:sym_ul": 523991,
+                "contact:phone": "+48 297422882",
+                "contact:email": "szkolapniewo@o2.pl",
+                "ref:regon": "384274843",
+                "operator": "Gmina Zatory",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 63322;272678"
+            }
+        },
+        {
+            "id": 63322,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.25375,
+                    52.64783
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 63322,
+                "official_name": "Szko\u0142a Podstawowa w Pniewie",
+                "name": "Szko\u0142a Podstawowa w Pniewie",
+                "addr:country": "PL",
+                "addr:postcode": "07-217",
+                "addr:city": "Pniewo",
+                "addr:street": "ul. 18 Maja",
+                "addr:housenumber": "6",
+                "addr:teryt:simc": 39743,
+                "addr:teryt:sym_ul": 523991,
+                "contact:phone": "+48 297422882",
+                "contact:email": "szkolapniewo@o2.pl",
+                "contact:website": "http:\/\/www.zspniewo.pl",
+                "ref:regon": "001106189",
+                "ref:vatin": "PL5681446081",
+                "operator": "Gmina Zatory",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 272685"
+            }
+        },
+        {
+            "id": 272678,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.25375,
+                    52.647800000000004
+                ]
+            },
+            "properties": {
+                "ref:rspo": 272678,
+                "official_name": "Samorz\u0105dowe Przedszkole Nr 2 w Pniewie",
+                "name": "Samorz\u0105dowe Przedszkole Nr 2 w Pniewie",
+                "addr:country": "PL",
+                "addr:postcode": "07-214",
+                "addr:city": "Pniewo",
+                "addr:street": "ul. 18 Maja",
+                "addr:housenumber": "6",
+                "addr:teryt:simc": 39743,
+                "addr:teryt:sym_ul": 523991,
+                "contact:phone": "+48 297422882",
+                "ref:regon": "384273967",
+                "operator": "Gmina Zatory",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 272685"
+            }
+        }
+    ]
+}

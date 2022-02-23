@@ -1,1 +1,215 @@
-{"type":"FeatureCollection","features":[{"id":22088,"type":"Feature","geometry":{"type":"Point","coordinates":[20.189508,50.633005]},"properties":{"ref:rspo":22088,"official_name":"Zesp\u00f3\u0142 Plac\u00f3wek O\u015bwiatowych w Warzynie Pierwszym","name":"Zesp\u00f3\u0142 Plac\u00f3wek O\u015bwiatowych w Warzynie Pierwszym","addr:country":"PL","addr:postcode":"28-362","addr:place":"Warzyn Pierwszy","addr:housenumber":"95","addr:teryt:sym_ul":255088,"contact:phone":"+48 413814642","contact:email":"zpowarzyn1@op.pl","ref:regon":"260433223","ref:vatin":"PL6562316237","operator":"Gmina Nag\u0142owice","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 83632;83963"}},{"id":83632,"type":"Feature","geometry":{"type":"Point","coordinates":[20.189508,50.632974999999995]},"properties":{"isced:level":"1;2","ref:rspo":83632,"official_name":"Szko\u0142a Podstawowa w Warzynie Pierwszym","name":"Szko\u0142a Podstawowa w Warzynie Pierwszym","addr:country":"PL","addr:postcode":"28-362","addr:place":"Warzyn Pierwszy","addr:housenumber":"95","addr:teryt:sym_ul":255088,"contact:phone":"+48 413814642","contact:email":"zpowarzyn1@op.pl","ref:regon":"001217500","operator":"Gmina Nag\u0142owice","operator:type":"government","amenity":"school","note":"Parent RSPO: 22088"}},{"id":83963,"type":"Feature","geometry":{"type":"Point","coordinates":[20.189508,50.632945]},"properties":{"ref:rspo":83963,"official_name":"Przedszkole Samorz\u0105dowe w Warzynie Pierwszym","name":"Przedszkole Samorz\u0105dowe w Warzynie Pierwszym","addr:country":"PL","addr:postcode":"28-362","addr:place":"Warzyn Pierwszy","addr:housenumber":"95","addr:teryt:sym_ul":255088,"contact:phone":"+48 413814642","contact:email":"zpowarzyn1@op.pl","ref:regon":"290013420","operator":"Gmina Nag\u0142owice","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 22088"}},{"id":22090,"type":"Feature","geometry":{"type":"Point","coordinates":[20.102100372314,50.677448272705]},"properties":{"ref:rspo":22090,"official_name":"Szkolne Schronisko M\u0142odzie\u017cowe w Nag\u0142owicach","name":"Szkolne Schronisko M\u0142odzie\u017cowe w Nag\u0142owicach","addr:country":"PL","addr:postcode":"28-362","addr:city":"Nag\u0142owice","addr:street":"ul. Miko\u0142aja Reja","addr:housenumber":"40","addr:teryt:simc":18565,"addr:teryt:sym_ul":254812,"contact:phone":"+48 413814382","contact:email":"nemsy1@o2.pl","ref:regon":"292371046","ref:vatin":"PL6562331691","operator":"Gmina Nag\u0142owice","operator:type":"government","tourism":"hostel"}},{"id":22411,"type":"Feature","geometry":{"type":"Point","coordinates":[20.102100372314,50.677418272705]},"properties":{"ref:rspo":22411,"official_name":"Zesp\u00f3\u0142 Plac\u00f3wek O\u015bwiatowych w Nag\u0142owicach","name":"Zesp\u00f3\u0142 Plac\u00f3wek O\u015bwiatowych w Nag\u0142owicach","addr:country":"PL","addr:postcode":"28-362","addr:city":"Nag\u0142owice","addr:street":"ul. Miko\u0142aja Reja","addr:housenumber":"40","addr:teryt:simc":18565,"addr:teryt:sym_ul":254812,"contact:phone":"+48 413814518","contact:email":"zponaglowice@gmail.com","ref:regon":"291184780","ref:vatin":"PL6561475726","operator":"Gmina Nag\u0142owice","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 83964;83966"}},{"id":83964,"type":"Feature","geometry":{"type":"Point","coordinates":[20.102100372314,50.677388272705]},"properties":{"isced:level":"1;2","ref:rspo":83964,"official_name":"Szko\u0142a Podstawowa im. Miko\u0142aja Reja w Nag\u0142owicach","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"28-362","addr:city":"Nag\u0142owice","addr:street":"ul. Miko\u0142aja Reja","addr:housenumber":"40","addr:teryt:simc":18565,"addr:teryt:sym_ul":254812,"contact:phone":"+48 413814518","contact:email":"zponaglowice@gmail.com","ref:regon":"000580457","operator":"Gmina Nag\u0142owice","operator:type":"government","amenity":"school","note":"Parent RSPO: 22411"}},{"id":83966,"type":"Feature","geometry":{"type":"Point","coordinates":[20.102100372314,50.677358272705]},"properties":{"ref:rspo":83966,"official_name":"Przedszkole Samorz\u0105dowe w Nag\u0142owicach","name":"Przedszkole Samorz\u0105dowe w Nag\u0142owicach","addr:country":"PL","addr:postcode":"28-362","addr:city":"Nag\u0142owice","addr:street":"ul. Miko\u0142aja Reja","addr:housenumber":"40","addr:teryt:simc":18565,"addr:teryt:sym_ul":254812,"contact:phone":"+48 413814518","contact:email":"zponaglowice@gmail.com","ref:regon":"290013414","operator":"Gmina Nag\u0142owice","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 22411"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 22088,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.189508,
+                    50.633005
+                ]
+            },
+            "properties": {
+                "ref:rspo": 22088,
+                "official_name": "Zesp\u00f3\u0142 Plac\u00f3wek O\u015bwiatowych w Warzynie Pierwszym",
+                "name": "Zesp\u00f3\u0142 Plac\u00f3wek O\u015bwiatowych w Warzynie Pierwszym",
+                "addr:country": "PL",
+                "addr:postcode": "28-362",
+                "addr:place": "Warzyn Pierwszy",
+                "addr:housenumber": "95",
+                "addr:teryt:sym_ul": 255088,
+                "contact:phone": "+48 413814642",
+                "contact:email": "zpowarzyn1@op.pl",
+                "ref:regon": "260433223",
+                "ref:vatin": "PL6562316237",
+                "operator": "Gmina Nag\u0142owice",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 83632;83963"
+            }
+        },
+        {
+            "id": 83632,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.189508,
+                    50.632974999999995
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 83632,
+                "official_name": "Szko\u0142a Podstawowa w Warzynie Pierwszym",
+                "name": "Szko\u0142a Podstawowa w Warzynie Pierwszym",
+                "addr:country": "PL",
+                "addr:postcode": "28-362",
+                "addr:place": "Warzyn Pierwszy",
+                "addr:housenumber": "95",
+                "addr:teryt:sym_ul": 255088,
+                "contact:phone": "+48 413814642",
+                "contact:email": "zpowarzyn1@op.pl",
+                "ref:regon": "001217500",
+                "operator": "Gmina Nag\u0142owice",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 22088"
+            }
+        },
+        {
+            "id": 83963,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.189508,
+                    50.632945
+                ]
+            },
+            "properties": {
+                "ref:rspo": 83963,
+                "official_name": "Przedszkole Samorz\u0105dowe w Warzynie Pierwszym",
+                "name": "Przedszkole Samorz\u0105dowe w Warzynie Pierwszym",
+                "addr:country": "PL",
+                "addr:postcode": "28-362",
+                "addr:place": "Warzyn Pierwszy",
+                "addr:housenumber": "95",
+                "addr:teryt:sym_ul": 255088,
+                "contact:phone": "+48 413814642",
+                "contact:email": "zpowarzyn1@op.pl",
+                "ref:regon": "290013420",
+                "operator": "Gmina Nag\u0142owice",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 22088"
+            }
+        },
+        {
+            "id": 22090,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.102100372314,
+                    50.677448272705
+                ]
+            },
+            "properties": {
+                "ref:rspo": 22090,
+                "official_name": "Szkolne Schronisko M\u0142odzie\u017cowe w Nag\u0142owicach",
+                "name": "Szkolne Schronisko M\u0142odzie\u017cowe w Nag\u0142owicach",
+                "addr:country": "PL",
+                "addr:postcode": "28-362",
+                "addr:city": "Nag\u0142owice",
+                "addr:street": "ul. Miko\u0142aja Reja",
+                "addr:housenumber": "40",
+                "addr:teryt:simc": 18565,
+                "addr:teryt:sym_ul": 254812,
+                "contact:phone": "+48 413814382",
+                "contact:email": "nemsy1@o2.pl",
+                "ref:regon": "292371046",
+                "ref:vatin": "PL6562331691",
+                "operator": "Gmina Nag\u0142owice",
+                "operator:type": "government",
+                "tourism": "hostel"
+            }
+        },
+        {
+            "id": 22411,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.102100372314,
+                    50.677418272705
+                ]
+            },
+            "properties": {
+                "ref:rspo": 22411,
+                "official_name": "Zesp\u00f3\u0142 Plac\u00f3wek O\u015bwiatowych w Nag\u0142owicach",
+                "name": "Zesp\u00f3\u0142 Plac\u00f3wek O\u015bwiatowych w Nag\u0142owicach",
+                "addr:country": "PL",
+                "addr:postcode": "28-362",
+                "addr:city": "Nag\u0142owice",
+                "addr:street": "ul. Miko\u0142aja Reja",
+                "addr:housenumber": "40",
+                "addr:teryt:simc": 18565,
+                "addr:teryt:sym_ul": 254812,
+                "contact:phone": "+48 413814518",
+                "contact:email": "zponaglowice@gmail.com",
+                "ref:regon": "291184780",
+                "ref:vatin": "PL6561475726",
+                "operator": "Gmina Nag\u0142owice",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 83964;83966"
+            }
+        },
+        {
+            "id": 83964,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.102100372314,
+                    50.677388272705
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 83964,
+                "official_name": "Szko\u0142a Podstawowa im. Miko\u0142aja Reja w Nag\u0142owicach",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "28-362",
+                "addr:city": "Nag\u0142owice",
+                "addr:street": "ul. Miko\u0142aja Reja",
+                "addr:housenumber": "40",
+                "addr:teryt:simc": 18565,
+                "addr:teryt:sym_ul": 254812,
+                "contact:phone": "+48 413814518",
+                "contact:email": "zponaglowice@gmail.com",
+                "ref:regon": "000580457",
+                "operator": "Gmina Nag\u0142owice",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 22411"
+            }
+        },
+        {
+            "id": 83966,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.102100372314,
+                    50.677358272705
+                ]
+            },
+            "properties": {
+                "ref:rspo": 83966,
+                "official_name": "Przedszkole Samorz\u0105dowe w Nag\u0142owicach",
+                "name": "Przedszkole Samorz\u0105dowe w Nag\u0142owicach",
+                "addr:country": "PL",
+                "addr:postcode": "28-362",
+                "addr:city": "Nag\u0142owice",
+                "addr:street": "ul. Miko\u0142aja Reja",
+                "addr:housenumber": "40",
+                "addr:teryt:simc": 18565,
+                "addr:teryt:sym_ul": 254812,
+                "contact:phone": "+48 413814518",
+                "contact:email": "zponaglowice@gmail.com",
+                "ref:regon": "290013414",
+                "operator": "Gmina Nag\u0142owice",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 22411"
+            }
+        }
+    ]
+}

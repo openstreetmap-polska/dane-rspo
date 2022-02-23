@@ -1,1 +1,127 @@
-{"type":"FeatureCollection","features":[{"id":31800,"type":"Feature","geometry":{"type":"Point","coordinates":[22.56434,53.78771]},"properties":{"isced:level":"1;2","ref:rspo":31800,"official_name":"Szko\u0142a Podstawowa w Sypitkach","name":"Szko\u0142a Podstawowa w Sypitkach","addr:country":"PL","addr:postcode":"19-314","addr:place":"Sypitki","addr:housenumber":"3","addr:teryt:sym_ul":760024,"contact:phone":"+48 876297001","contact:email":"sp_sypitki5@wp.pl","contact:website":"http:\/\/www.szkola.sypitki.pl","ref:regon":"001164821","ref:vatin":"PL8481613707","operator":"Gmina Kalinowo","operator:type":"government","amenity":"school"}},{"id":31401,"type":"Feature","geometry":{"type":"Point","coordinates":[22.68609,53.81853]},"properties":{"isced:level":"1;2","ref:rspo":31401,"official_name":"Szko\u0142a Podstawowa im. Ks. Jerzego Popie\u0142uszki w Borzymach","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"19-314","addr:place":"Borzymy","addr:housenumber":"22","addr:teryt:sym_ul":759535,"contact:phone":"+48 876298296","contact:email":"spborzymy@poczta.onet.pl","contact:website":"http:\/\/spborzymy.superszkolna.pl","ref:regon":"510887267","ref:vatin":"PL8481613653","operator":"Gmina Kalinowo","operator:type":"government","amenity":"school"}},{"id":41648,"type":"Feature","geometry":{"type":"Point","coordinates":[22.58004,53.8228]},"properties":{"isced:level":"1;2","ref:rspo":41648,"official_name":"Szko\u0142a Podstawowa im. Jana Paw\u0142a II w Pisanicy","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"19-314","addr:place":"Pisanica","addr:housenumber":"65","addr:teryt:sym_ul":759890,"contact:phone":"+48 876298392","contact:email":"zspisanica@interia.pl","contact:website":"http:\/\/www.zspisanica.netstrefa.eu","ref:regon":"001164844","ref:vatin":"PL8481870048","operator":"Gmina Kalinowo","operator:type":"government","amenity":"school"}},{"id":34909,"type":"Feature","geometry":{"type":"Point","coordinates":[22.67166,53.87352]},"properties":{"isced:level":"1;2","ref:rspo":34909,"official_name":"Szko\u0142a Podstawowa im. Marii Konopnickiej w Kalinowie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"19-314","addr:city":"Kalinowo","addr:street":"ul. Micha\u0142a Kajki","addr:housenumber":"1","addr:teryt:simc":7781,"addr:teryt:sym_ul":759660,"contact:phone":"+48 876298834","contact:email":"spkalinowo@poczta.onet.pl","contact:website":"http:\/\/spkalinowo.edupage.org","ref:regon":"000266347","ref:vatin":"PL8481188747","operator":"Gmina Kalinowo","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 31800,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.56434,
+                    53.78771
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 31800,
+                "official_name": "Szko\u0142a Podstawowa w Sypitkach",
+                "name": "Szko\u0142a Podstawowa w Sypitkach",
+                "addr:country": "PL",
+                "addr:postcode": "19-314",
+                "addr:place": "Sypitki",
+                "addr:housenumber": "3",
+                "addr:teryt:sym_ul": 760024,
+                "contact:phone": "+48 876297001",
+                "contact:email": "sp_sypitki5@wp.pl",
+                "contact:website": "http:\/\/www.szkola.sypitki.pl",
+                "ref:regon": "001164821",
+                "ref:vatin": "PL8481613707",
+                "operator": "Gmina Kalinowo",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 31401,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.68609,
+                    53.81853
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 31401,
+                "official_name": "Szko\u0142a Podstawowa im. Ks. Jerzego Popie\u0142uszki w Borzymach",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "19-314",
+                "addr:place": "Borzymy",
+                "addr:housenumber": "22",
+                "addr:teryt:sym_ul": 759535,
+                "contact:phone": "+48 876298296",
+                "contact:email": "spborzymy@poczta.onet.pl",
+                "contact:website": "http:\/\/spborzymy.superszkolna.pl",
+                "ref:regon": "510887267",
+                "ref:vatin": "PL8481613653",
+                "operator": "Gmina Kalinowo",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 41648,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.58004,
+                    53.8228
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 41648,
+                "official_name": "Szko\u0142a Podstawowa im. Jana Paw\u0142a II w Pisanicy",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "19-314",
+                "addr:place": "Pisanica",
+                "addr:housenumber": "65",
+                "addr:teryt:sym_ul": 759890,
+                "contact:phone": "+48 876298392",
+                "contact:email": "zspisanica@interia.pl",
+                "contact:website": "http:\/\/www.zspisanica.netstrefa.eu",
+                "ref:regon": "001164844",
+                "ref:vatin": "PL8481870048",
+                "operator": "Gmina Kalinowo",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 34909,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.67166,
+                    53.87352
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 34909,
+                "official_name": "Szko\u0142a Podstawowa im. Marii Konopnickiej w Kalinowie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "19-314",
+                "addr:city": "Kalinowo",
+                "addr:street": "ul. Micha\u0142a Kajki",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 7781,
+                "addr:teryt:sym_ul": 759660,
+                "contact:phone": "+48 876298834",
+                "contact:email": "spkalinowo@poczta.onet.pl",
+                "contact:website": "http:\/\/spkalinowo.edupage.org",
+                "ref:regon": "000266347",
+                "ref:vatin": "PL8481188747",
+                "operator": "Gmina Kalinowo",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

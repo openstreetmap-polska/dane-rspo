@@ -1,1 +1,914 @@
-{"type":"FeatureCollection","features":[{"id":268109,"type":"Feature","geometry":{"type":"Point","coordinates":[17.4741399,50.28129]},"properties":{"isced:level":"1;2","ref:rspo":268109,"official_name":"Publiczna Szko\u0142a Podstawowa Nr 3 im. Kawaler\u00f3w Orderu U\u015bmiechu w G\u0142ucho\u0142azach","name":"Publiczna Szko\u0142a Podstawowa Nr 3","addr:country":"PL","addr:postcode":"48-340","addr:city":"G\u0142ucho\u0142azy","addr:street":"ul. S\u0142owackiego","addr:housenumber":"1","addr:teryt:simc":20286,"addr:teryt:sym_ul":965341,"contact:phone":"+48 774391832","contact:email":"psp3glucholazy@gmail.com","contact:website":"http:\/\/psp3glucholazy.pl","ref:regon":"380942124","operator":"Gmina G\u0142ucho\u0142azy","operator:type":"government","amenity":"school"}},{"id":20953,"type":"Feature","geometry":{"type":"Point","coordinates":[17.42213,50.28314]},"properties":{"isced:level":"1;2","ref:rspo":20953,"official_name":"Publiczna Szko\u0142a Podstawowa Stowarzyszenia Rozwoju Wsi Jarno\u0142t\u00f3wek","name":"Publiczna Szko\u0142a Podstawowa Stowarzyszenia Rozwoju Wsi Jarno\u0142t\u00f3wek","addr:country":"PL","addr:postcode":"48-267","addr:place":"Jarno\u0142t\u00f3wek","addr:housenumber":"109","addr:teryt:sym_ul":494692,"contact:phone":"+48 774397526","contact:email":"kontakt@pspsrwj.pl","contact:website":"http:\/\/www.jarnoltowek.szkola.pl","ref:regon":"161483657","ref:vatin":"PL7532133461","operator":"Stowarzyszenie Rozwoju Wsi Jarno\u0142t\u00f3wek","operator:type":"ngo","amenity":"school"}},{"id":277445,"type":"Feature","geometry":{"type":"Point","coordinates":[17.44652,50.28907]},"properties":{"ref:rspo":277445,"official_name":"Dom Wczas\u00f3w Dzieci\u0119cych w Jarno\u0142t\u00f3wku","name":"Dom Wczas\u00f3w Dzieci\u0119cych w Jarno\u0142t\u00f3wku","addr:country":"PL","addr:postcode":"48-267","addr:place":"Jarno\u0142t\u00f3wek","addr:housenumber":"4","addr:teryt:sym_ul":494692,"contact:phone":"+48 774397665","contact:email":"biuro@dwd-jarnoltowek.pl","ref:regon":"388921989","operator":"Krzysztof Popielarz","operator:type":"private","leisure":"resort"}},{"id":278215,"type":"Feature","geometry":{"type":"Point","coordinates":[17.3827,50.30958]},"properties":{"isced:level":"3","ref:rspo":278215,"official_name":"Niepubliczne Liceum Og\u00f3lnokszta\u0142c\u0105ce Szko\u0142a Mistrzostwa Sportowego w Sportach Letnich w G\u0142ucho\u0142azach","name":"Niepubliczne Liceum Og\u00f3lnokszta\u0142c\u0105ce Szko\u0142a Mistrzostwa Sportowego w Sportach Letnich w G\u0142ucho\u0142azach","addr:country":"PL","addr:postcode":"48-340","addr:city":"G\u0142ucho\u0142azy","addr:street":"ul. Aleja Jana Paw\u0142a II","addr:housenumber":"19","addr:teryt:simc":33262,"addr:teryt:sym_ul":965341,"contact:email":"zs@goldenarrow.com.pl","ref:regon":"389883423","operator":"Ludowy Klub Sportowy \"\u0141ucznik\"","operator:type":"ngo","amenity":"school"}},{"id":86406,"type":"Feature","geometry":{"type":"Point","coordinates":[17.39107,50.31069]},"properties":{"ref:rspo":86406,"official_name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 w G\u0142ucho\u0142azach","name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 w G\u0142ucho\u0142azach","addr:country":"PL","addr:postcode":"48-340","addr:city":"G\u0142ucho\u0142azy","addr:street":"ul. Kolonia Kaszubska","addr:housenumber":"2","addr:teryt:simc":55078,"addr:teryt:sym_ul":965341,"contact:phone":"+48 774391462","contact:email":"zsglucholazy@wodip.opole.pl","contact:website":"http:\/\/www.zsglucholazy.pl","ref:regon":"000743095","ref:vatin":"PL7551031483","operator":"Powiat Nyski","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 20845;103500;104133;107590;114099;114137;271869"}},{"id":20845,"type":"Feature","geometry":{"type":"Point","coordinates":[17.39107,50.31066]},"properties":{"isced:level":"3","ref:rspo":20845,"official_name":"Liceum Og\u00f3lnokszta\u0142c\u0105ce im. Boles\u0142awa Chrobrego w G\u0142ucho\u0142azach","name":"Liceum Og\u00f3lnokszta\u0142c\u0105ce","addr:country":"PL","addr:postcode":"48-340","addr:city":"G\u0142ucho\u0142azy","addr:street":"ul. Kolonia Kaszubska","addr:housenumber":"2","addr:teryt:simc":55078,"addr:teryt:sym_ul":965341,"contact:phone":"+48 774391462","contact:email":"zsglucholazy@wodip.opole.pl","contact:website":"http:\/\/www.zsglucholazy.pl","ref:regon":"532383911","ref:vatin":"PL7532208331","operator":"Powiat Nyski","operator:type":"government","amenity":"school","note":"Parent RSPO: 86406"}},{"id":103500,"type":"Feature","geometry":{"type":"Point","coordinates":[17.39107,50.31063]},"properties":{"isced:level":"3","ref:rspo":103500,"official_name":"Bran\u017cowa Szko\u0142a I Stopnia w G\u0142ucho\u0142azach","name":"Bran\u017cowa Szko\u0142a I Stopnia w G\u0142ucho\u0142azach","addr:country":"PL","addr:postcode":"48-340","addr:city":"G\u0142ucho\u0142azy","addr:street":"ul. Kolonia Kaszubska","addr:housenumber":"2","addr:teryt:simc":55078,"addr:teryt:sym_ul":965341,"contact:phone":"+48 774391462","contact:email":"zsglucholazy@wodip.opole.pl","contact:website":"http:\/\/www.zsglucholazy.pl","ref:regon":"532383905","operator":"Powiat Nyski","operator:type":"government","amenity":"school","note":"Parent RSPO: 86406"}},{"id":104133,"type":"Feature","geometry":{"type":"Point","coordinates":[17.39107,50.3106]},"properties":{"isced:level":"3","ref:rspo":104133,"official_name":"Technikum w G\u0142ucho\u0142azach","name":"Technikum w G\u0142ucho\u0142azach","addr:country":"PL","addr:postcode":"48-340","addr:city":"G\u0142ucho\u0142azy","addr:street":"ul. Kolonia Kaszubska","addr:housenumber":"2","addr:teryt:simc":55078,"addr:teryt:sym_ul":965341,"contact:phone":"+48 774391462","contact:email":"zsglucholazy@wodip.opole.pl","contact:website":"http:\/\/www.zsglucholazy.pl","ref:regon":"161499888","operator":"Powiat Nyski","operator:type":"government","amenity":"school","note":"Parent RSPO: 86406"}},{"id":107590,"type":"Feature","geometry":{"type":"Point","coordinates":[17.39107,50.31057]},"properties":{"ref:rspo":107590,"official_name":"Szkolne Schronisko M\u0142odzie\u017cowe w G\u0142ucho\u0142azach","name":"Szkolne Schronisko M\u0142odzie\u017cowe w G\u0142ucho\u0142azach","addr:country":"PL","addr:postcode":"48-340","addr:city":"G\u0142ucho\u0142azy","addr:street":"ul. Kolonia Kaszubska","addr:housenumber":"2","addr:teryt:simc":55078,"addr:teryt:sym_ul":965341,"contact:phone":"+48 774397779","contact:email":"ssmglucholazy@wp.pl","contact:website":"http:\/\/schronisko.pokrzywna.prv.pl\/","ref:regon":"531188314","operator":"Powiat Nyski","operator:type":"government","tourism":"hostel","note":"Parent RSPO: 86406"}},{"id":114099,"type":"Feature","geometry":{"type":"Point","coordinates":[17.39107,50.31054]},"properties":{"isced:level":"3","ref:rspo":114099,"official_name":"Liceum Og\u00f3lnokszta\u0142c\u0105ce dla Doros\u0142ych w G\u0142ucho\u0142azach","name":"Liceum Og\u00f3lnokszta\u0142c\u0105ce dla Doros\u0142ych w G\u0142ucho\u0142azach","addr:country":"PL","addr:postcode":"48-340","addr:city":"G\u0142ucho\u0142azy","addr:street":"ul. Kolonia Kaszubska","addr:housenumber":"2","addr:teryt:simc":55078,"addr:teryt:sym_ul":965341,"contact:phone":"+48 774391462","contact:email":"zsglucholazy@wodip.opole.pl","contact:website":"http:\/\/www.zsglucholazy.pl","ref:regon":"532181975","operator":"Powiat Nyski","operator:type":"government","amenity":"school","note":"Parent RSPO: 86406"}},{"id":114137,"type":"Feature","geometry":{"type":"Point","coordinates":[17.39107,50.31051]},"properties":{"isced:level":"4","ref:rspo":114137,"official_name":"Szko\u0142a Policealna w G\u0142ucho\u0142azach Stacjonarna I Zaoczna","name":"Szko\u0142a Policealna w G\u0142ucho\u0142azach Stacjonarna I Zaoczna","addr:country":"PL","addr:postcode":"48-340","addr:city":"G\u0142ucho\u0142azy","addr:street":"ul. Kolonia Kaszubska","addr:housenumber":"2","addr:teryt:simc":55078,"addr:teryt:sym_ul":965341,"contact:phone":"+48 774391462","contact:email":"zsglucholazy@wodip.opole.pl","contact:website":"http:\/\/www.zsglucholazy.pl","ref:regon":"160093776","operator":"Powiat Nyski","operator:type":"government","amenity":"college","note":"Parent RSPO: 86406"}},{"id":271869,"type":"Feature","geometry":{"type":"Point","coordinates":[17.39107,50.31048]},"properties":{"isced:level":"4","ref:rspo":271869,"official_name":"Szko\u0142a Policealna w G\u0142ucho\u0142azach Dzienna","name":"Szko\u0142a Policealna w G\u0142ucho\u0142azach Dzienna","addr:country":"PL","addr:postcode":"48-340","addr:city":"G\u0142ucho\u0142azy","addr:street":"ul. Kolonia Kaszubska","addr:housenumber":"2","addr:teryt:simc":55078,"addr:teryt:sym_ul":965341,"contact:phone":"+48 774391462","contact:email":"zsglucholazy@wodip.opole.pl","contact:website":"http:\/\/www.zsglucholazy.pl","ref:regon":"383718137","operator":"Powiat Nyski","operator:type":"government","amenity":"college","note":"Parent RSPO: 86406"}},{"id":19641,"type":"Feature","geometry":{"type":"Point","coordinates":[17.38462,50.31359]},"properties":{"ref:rspo":19641,"official_name":"Publiczne Przedszkole Nr 2 im. Niezapominajka w G\u0142ucho\u0142azach","name":"Publiczne Przedszkole Nr 2","addr:country":"PL","addr:postcode":"48-340","addr:city":"G\u0142ucho\u0142azy","addr:street":"ul. Powsta\u0144c\u00f3w \u015al\u0105skich","addr:housenumber":"1","addr:teryt:simc":17366,"addr:teryt:sym_ul":965341,"contact:phone":"+48 774391674","contact:email":"biuro@pp2glucholazy.pl","contact:website":"http:\/\/www.pp2glucholazy.pl","ref:regon":"530579478","ref:vatin":"PL7532119521","operator":"Gmina G\u0142ucho\u0142azy","operator:type":"government","amenity":"kindergarten"}},{"id":271603,"type":"Feature","geometry":{"type":"Point","coordinates":[17.38285,50.31376]},"properties":{"isced:level":"3","ref:rspo":271603,"official_name":"Niepubliczne Liceum Og\u00f3lnokszta\u0142c\u0105ce w G\u0142ucho\u0142azach","name":"Niepubliczne Liceum Og\u00f3lnokszta\u0142c\u0105ce w G\u0142ucho\u0142azach","addr:country":"PL","addr:postcode":"48-340","addr:city":"G\u0142ucho\u0142azy","addr:street":"ul. Bohater\u00f3w Warszawy","addr:housenumber":"10","addr:teryt:simc":1679,"addr:teryt:sym_ul":965341,"contact:email":"liceumglucholazy@gmail.com","contact:website":"https:\/\/liceum-glucholazy.pl","ref:regon":"383444510","operator":"Stowarzyszenie Na Rzecz Szk\u00f3\u0142 \"Chrobry\" Przy Liceum Og\u00f3lnokszta\u0142c\u0105cym Im. Boles\u0142awa Chrobrego W G\u0142ucho\u0142azach","operator:type":"ngo","amenity":"school"}},{"id":25909,"type":"Feature","geometry":{"type":"Point","coordinates":[17.38355,50.31442]},"properties":{"ref:rspo":25909,"official_name":"Przedszkole Niepubliczne \"Puchatek\"","name":"Przedszkole Niepubliczne \"Puchatek\"","addr:country":"PL","addr:postcode":"48-340","addr:city":"G\u0142ucho\u0142azy","addr:street":"ul. Bohater\u00f3w Warszawy","addr:housenumber":"9","addr:teryt:simc":1679,"addr:teryt:sym_ul":965341,"contact:phone":"+48 774391339","contact:email":"pnpuchatek@interia.pl","ref:regon":"161485900","ref:vatin":"PL7531511369","operator":"Brygida Nowak","operator:type":"private","amenity":"kindergarten"}},{"id":75599,"type":"Feature","geometry":{"type":"Point","coordinates":[17.38304,50.31458]},"properties":{"ref:rspo":75599,"official_name":"Pa\u0144stwowa Szko\u0142a Muzyczna I St. im. Jerzego Hellera w G\u0142ucho\u0142azach","name":"Pa\u0144stwowa Szko\u0142a Muzyczna I St.","addr:country":"PL","addr:postcode":"48-340","addr:city":"G\u0142ucho\u0142azy","addr:street":"ul. Bohater\u00f3w Warszawy","addr:housenumber":"2","addr:teryt:simc":1679,"addr:teryt:sym_ul":965341,"contact:phone":"+48 774391478","contact:email":"psmglucholazy@jtr.pl","contact:website":"http:\/\/psm.glucholazy.info","ref:regon":"000629904","operator":"Ministerstwo Kultury I Dziedzictwa Narodowego","operator:type":"public","amenity":"music_school"}},{"id":19478,"type":"Feature","geometry":{"type":"Point","coordinates":[17.38463,50.31491]},"properties":{"ref:rspo":19478,"official_name":"Publiczne Przedszkole Nr 1 im.\"Bajka\" w G\u0142ucho\u0142azach","name":"Publiczne Przedszkole Nr 1 im.\"Bajka\" w G\u0142ucho\u0142azach","addr:country":"PL","addr:postcode":"48-340","addr:city":"G\u0142ucho\u0142azy","addr:street":"ul. Marii Curie-Sk\u0142odowskiej","addr:housenumber":"4","addr:teryt:simc":3148,"addr:teryt:sym_ul":965341,"contact:phone":"+48 774391566","contact:email":"przedszkole1glucholazy@o2.pl","contact:website":"http:\/\/www.przedszkolebajka.szkolnastrona.pl","ref:regon":"530579461","ref:vatin":"PL7532119633","operator":"Gmina G\u0142ucho\u0142azy","operator:type":"government","amenity":"kindergarten"}},{"id":18776,"type":"Feature","geometry":{"type":"Point","coordinates":[17.37463,50.31808]},"properties":{"isced:level":"1;2","ref:rspo":18776,"official_name":"Publiczna Szko\u0142a Podstawowa Nr 2 im. J\u00f3zefa Wybickiego w G\u0142ucho\u0142azach","name":"Publiczna Szko\u0142a Podstawowa Nr 2","addr:country":"PL","addr:postcode":"48-340","addr:city":"G\u0142ucho\u0142azy","addr:street":"ul. Kraszewskiego","addr:housenumber":"30","addr:teryt:simc":9869,"addr:teryt:sym_ul":965341,"contact:phone":"+48 774391741","contact:email":"szkolasp2a@op.pl","contact:website":"http:\/\/www.psp2glucholazy.pl","ref:regon":"000698495","ref:vatin":"PL7532119544","operator":"Gmina G\u0142ucho\u0142azy","operator:type":"government","amenity":"school"}},{"id":86842,"type":"Feature","geometry":{"type":"Point","coordinates":[17.38451,50.3185]},"properties":{"isced:level":"1;2","ref:rspo":86842,"official_name":"Publiczna Szko\u0142a Podstawowa Nr 1 im. Krzysztofa Kamila Baczy\u0144skiego w G\u0142ucho\u0142azach","name":"Publiczna Szko\u0142a Podstawowa Nr 1","addr:country":"PL","addr:postcode":"48-340","addr:city":"G\u0142ucho\u0142azy","addr:street":"ul. Marii Curie-Sk\u0142odowskiej","addr:housenumber":"9","addr:teryt:simc":3148,"addr:teryt:sym_ul":965341,"contact:phone":"+48 774391340","contact:email":"sp1glucholazy@gmail.com","contact:website":"http:\/\/www.szkola-nr1.pl","ref:regon":"000698489","ref:vatin":"PL7532119805","operator":"Gmina G\u0142ucho\u0142azy","operator:type":"government","amenity":"school"}},{"id":39015,"type":"Feature","geometry":{"type":"Point","coordinates":[17.26165,50.33361]},"properties":{"isced:level":"1;2","ref:rspo":39015,"official_name":"Publiczna Szko\u0142a Podstawowa Stowarzyszenia Rozwoju I Edukacji \"Nasza Szko\u0142a\" w S\u0142awniowicach","name":"Publiczna Szko\u0142a Podstawowa Stowarzyszenia Rozwoju I Edukacji \"Nasza Szko\u0142a\" w S\u0142awniowicach","addr:country":"PL","addr:postcode":"48-355","addr:place":"S\u0142awniowice","addr:housenumber":"56","addr:teryt:sym_ul":494841,"contact:phone":"+48 774398068","contact:email":"psp.slawniowice@wp.pl","ref:regon":"161488844","ref:vatin":"PL7532336017","operator":"Stowarzyszenie Rozwoju I Edukacji \"Nasza Szko\u0142a\"","operator:type":"ngo","amenity":"school"}},{"id":39057,"type":"Feature","geometry":{"type":"Point","coordinates":[17.43061,50.33364]},"properties":{"isced:level":"1;2","ref:rspo":39057,"official_name":"Publiczna Szko\u0142a Podstawowa Stowarzyszenia Edukacyjnego \"U\u015bmiech Dziecka\" w Charbielinie","name":"Publiczna Szko\u0142a Podstawowa Stowarzyszenia Edukacyjnego \"U\u015bmiech Dziecka\" w Charbielinie","addr:country":"PL","addr:postcode":"48-340","addr:place":"Charbielin","addr:housenumber":"26","addr:teryt:sym_ul":494670,"contact:phone":"+48 774391618","contact:email":"sp_charbielin@poczta.onet.pl","ref:regon":"161488904","ref:vatin":"PL7532416058","operator":"Stowarzyszenie Edukacyjne \"U\u015bmiech Dziecka\"","operator:type":"ngo","amenity":"school"}},{"id":270612,"type":"Feature","geometry":{"type":"Point","coordinates":[17.43061,50.33361]},"properties":{"isced:level":"4","ref:rspo":270612,"official_name":"Szko\u0142a Policealna Lider w Charbielinie","name":"Szko\u0142a Policealna Lider w Charbielinie","addr:country":"PL","addr:postcode":"48-340","addr:place":"Charbielin","addr:housenumber":"26","addr:teryt:sym_ul":494670,"contact:phone":"+48 774391618","contact:email":"biuro@cds-lider.com.pl","ref:regon":"382807962","operator":"Ma\u0142gorzata Szl\u0105zak","operator:type":"private","amenity":"college"}},{"id":278003,"type":"Feature","geometry":{"type":"Point","coordinates":[17.43061,50.333580000000005]},"properties":{"isced:level":"3","ref:rspo":278003,"official_name":"Bran\u017cowa Szko\u0142a II Stopnia Lider w Charbielinie","name":"Bran\u017cowa Szko\u0142a II Stopnia Lider w Charbielinie","addr:country":"PL","addr:postcode":"48-340","addr:place":"Charbielin","addr:housenumber":"26","addr:teryt:sym_ul":494670,"contact:email":"biuro@cds-lider.com.pl","ref:regon":"389738046","operator":"Ma\u0142gorzata Szl\u0105zak","operator:type":"private","amenity":"school"}},{"id":17347,"type":"Feature","geometry":{"type":"Point","coordinates":[17.3836,50.33673]},"properties":{"isced:level":"1;2","ref:rspo":17347,"official_name":"Publiczna Szko\u0142a Podstawowa im. Tadeusza Ko\u015bciuszki w Bodzanowie","name":"Publiczna Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"48-340","addr:place":"Bodzan\u00f3w","addr:housenumber":"83","addr:teryt:sym_ul":494634,"contact:phone":"+48 774391309","contact:email":"pspbsekretariat@op.pl","ref:regon":"000698578","ref:vatin":"PL7532119716","operator":"Gmina G\u0142ucho\u0142azy","operator:type":"government","amenity":"school"}},{"id":25910,"type":"Feature","geometry":{"type":"Point","coordinates":[17.3162999,50.34387]},"properties":{"isced:level":"1;2","ref:rspo":25910,"official_name":"Publiczna Szko\u0142a Podstawowa Stowarzyszenia Edukacyjnego \"Przyjazna Szko\u0142a\" w Giera\u0142cicach","name":"Publiczna Szko\u0142a Podstawowa Stowarzyszenia Edukacyjnego \"Przyjazna Szko\u0142a\" w Giera\u0142cicach","addr:country":"PL","addr:postcode":"48-340","addr:place":"Giera\u0142cice","addr:housenumber":"154","addr:teryt:sym_ul":494686,"contact:phone":"+48 774398033","contact:email":"gieralcice@poczta.onet.pl","contact:website":"http:\/\/www.pspgieralcice.pl","ref:regon":"161485366","ref:vatin":"PL7532430118","operator":"Stowarzyszenie Edukacyjne \"Przyjazna Szko\u0142a\"","operator:type":"ngo","amenity":"school"}},{"id":20905,"type":"Feature","geometry":{"type":"Point","coordinates":[17.27846,50.3547]},"properties":{"isced:level":"1;2","ref:rspo":20905,"official_name":"Publiczna Szko\u0142a Podstawowa Stowarzyszenia Rozwoju Wsi Burgrabice","name":"Publiczna Szko\u0142a Podstawowa Stowarzyszenia Rozwoju Wsi Burgrabice","addr:country":"PL","addr:postcode":"48-355","addr:place":"Burgrabice","addr:housenumber":"140","addr:teryt:sym_ul":494663,"contact:phone":"+48 774398090","contact:email":"burgrabice_szkola@wp.pl","ref:regon":"161483634","ref:vatin":"PL7532127437","operator":"Stowarzyszenie Rozwoju Wsi Burgrabice","operator:type":"ngo","amenity":"school"}},{"id":17373,"type":"Feature","geometry":{"type":"Point","coordinates":[17.36154,50.36675]},"properties":{"isced:level":"1;2","ref:rspo":17373,"official_name":"Publiczna Szko\u0142a Podstawowa im. Janusza Korczaka w Nowym \u015awi\u0119towie","name":"Publiczna Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"48-330","addr:place":"Nowy \u015awi\u0119t\u00f3w","addr:housenumber":"65","addr:teryt:sym_ul":494781,"contact:phone":"+48 774397021","contact:email":"pspnowyswietow@wp.pl","ref:regon":"000698561","ref:vatin":"PL7532119840","operator":"Gmina G\u0142ucho\u0142azy","operator:type":"government","amenity":"school"}},{"id":39046,"type":"Feature","geometry":{"type":"Point","coordinates":[17.29945,50.37403]},"properties":{"isced:level":"1;2","ref:rspo":39046,"official_name":"Publiczna Szko\u0142a Podstawowa Stowarzyszenia Przyjaci\u00f3\u0142 Szko\u0142y w Biskupowie","name":"Publiczna Szko\u0142a Podstawowa Stowarzyszenia Przyjaci\u00f3\u0142 Szko\u0142y w Biskupowie","addr:country":"PL","addr:postcode":"48-355","addr:place":"Biskup\u00f3w","addr:housenumber":"76","addr:teryt:sym_ul":494611,"contact:phone":"+48 774398093","contact:email":"pspbiskupow@poczta.onet.pl","ref:regon":"161488880","ref:vatin":"PL7532423058","operator":"Stowarzyszenie Przyjaci\u00f3\u0142 Szko\u0142y W Biskupowie","operator:type":"ngo","amenity":"school"}},{"id":21226,"type":"Feature","geometry":{"type":"Point","coordinates":[17.40805,50.38021]},"properties":{"isced:level":"1;2","ref:rspo":21226,"official_name":"Publiczna Szko\u0142a Podstawowa Stowarzyszenia Rozwoju Wsi Stary Las","name":"Publiczna Szko\u0142a Podstawowa Stowarzyszenia Rozwoju Wsi Stary Las","addr:country":"PL","addr:postcode":"48-340","addr:place":"Stary Las","addr:housenumber":"56a","addr:teryt:sym_ul":494858,"contact:phone":"+48 774397022","contact:email":"spstarylas@interia.pl","contact:website":"http:\/\/www.spstarylas.eu","ref:regon":"161483670","ref:vatin":"PL7532133538","operator":"Stowarzyszenie Rozwoju Wsi Stary Las","operator:type":"ngo","amenity":"school"}},{"id":21228,"type":"Feature","geometry":{"type":"Point","coordinates":[17.3521,50.38814]},"properties":{"isced:level":"1;2","ref:rspo":21228,"official_name":"Publiczna Szko\u0142a Podstawowa Stowarzyszenia Rozwoju Wsi Markowice, Polski \u015awi\u0119t\u00f3w, Sucha Kamienica","name":"Publiczna Szko\u0142a Podstawowa Stowarzyszenia Rozwoju Wsi Markowice, Polski \u015awi\u0119t\u00f3w, Sucha Kamienica","addr:country":"PL","addr:postcode":"48-330","addr:place":"Polski \u015awi\u0119t\u00f3w","addr:housenumber":"74a","addr:teryt:sym_ul":494870,"contact:phone":"+48 774397088","contact:email":"szkola_sw@poczta.onet.pl","contact:website":"http:\/\/www.szkolapolskiswietow.pl","ref:regon":"161483663","ref:vatin":"PL7532336543","operator":"Stowarzyszenie Rozwoju Wsi Markowice, Polski \u015awi\u0119t\u00f3w, Sucha Kamienica","operator:type":"ngo","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 268109,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.4741399,
+                    50.28129
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 268109,
+                "official_name": "Publiczna Szko\u0142a Podstawowa Nr 3 im. Kawaler\u00f3w Orderu U\u015bmiechu w G\u0142ucho\u0142azach",
+                "name": "Publiczna Szko\u0142a Podstawowa Nr 3",
+                "addr:country": "PL",
+                "addr:postcode": "48-340",
+                "addr:city": "G\u0142ucho\u0142azy",
+                "addr:street": "ul. S\u0142owackiego",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 20286,
+                "addr:teryt:sym_ul": 965341,
+                "contact:phone": "+48 774391832",
+                "contact:email": "psp3glucholazy@gmail.com",
+                "contact:website": "http:\/\/psp3glucholazy.pl",
+                "ref:regon": "380942124",
+                "operator": "Gmina G\u0142ucho\u0142azy",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 20953,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.42213,
+                    50.28314
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 20953,
+                "official_name": "Publiczna Szko\u0142a Podstawowa Stowarzyszenia Rozwoju Wsi Jarno\u0142t\u00f3wek",
+                "name": "Publiczna Szko\u0142a Podstawowa Stowarzyszenia Rozwoju Wsi Jarno\u0142t\u00f3wek",
+                "addr:country": "PL",
+                "addr:postcode": "48-267",
+                "addr:place": "Jarno\u0142t\u00f3wek",
+                "addr:housenumber": "109",
+                "addr:teryt:sym_ul": 494692,
+                "contact:phone": "+48 774397526",
+                "contact:email": "kontakt@pspsrwj.pl",
+                "contact:website": "http:\/\/www.jarnoltowek.szkola.pl",
+                "ref:regon": "161483657",
+                "ref:vatin": "PL7532133461",
+                "operator": "Stowarzyszenie Rozwoju Wsi Jarno\u0142t\u00f3wek",
+                "operator:type": "ngo",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 277445,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.44652,
+                    50.28907
+                ]
+            },
+            "properties": {
+                "ref:rspo": 277445,
+                "official_name": "Dom Wczas\u00f3w Dzieci\u0119cych w Jarno\u0142t\u00f3wku",
+                "name": "Dom Wczas\u00f3w Dzieci\u0119cych w Jarno\u0142t\u00f3wku",
+                "addr:country": "PL",
+                "addr:postcode": "48-267",
+                "addr:place": "Jarno\u0142t\u00f3wek",
+                "addr:housenumber": "4",
+                "addr:teryt:sym_ul": 494692,
+                "contact:phone": "+48 774397665",
+                "contact:email": "biuro@dwd-jarnoltowek.pl",
+                "ref:regon": "388921989",
+                "operator": "Krzysztof Popielarz",
+                "operator:type": "private",
+                "leisure": "resort"
+            }
+        },
+        {
+            "id": 278215,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.3827,
+                    50.30958
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 278215,
+                "official_name": "Niepubliczne Liceum Og\u00f3lnokszta\u0142c\u0105ce Szko\u0142a Mistrzostwa Sportowego w Sportach Letnich w G\u0142ucho\u0142azach",
+                "name": "Niepubliczne Liceum Og\u00f3lnokszta\u0142c\u0105ce Szko\u0142a Mistrzostwa Sportowego w Sportach Letnich w G\u0142ucho\u0142azach",
+                "addr:country": "PL",
+                "addr:postcode": "48-340",
+                "addr:city": "G\u0142ucho\u0142azy",
+                "addr:street": "ul. Aleja Jana Paw\u0142a II",
+                "addr:housenumber": "19",
+                "addr:teryt:simc": 33262,
+                "addr:teryt:sym_ul": 965341,
+                "contact:email": "zs@goldenarrow.com.pl",
+                "ref:regon": "389883423",
+                "operator": "Ludowy Klub Sportowy \"\u0141ucznik\"",
+                "operator:type": "ngo",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 86406,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.39107,
+                    50.31069
+                ]
+            },
+            "properties": {
+                "ref:rspo": 86406,
+                "official_name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 w G\u0142ucho\u0142azach",
+                "name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 w G\u0142ucho\u0142azach",
+                "addr:country": "PL",
+                "addr:postcode": "48-340",
+                "addr:city": "G\u0142ucho\u0142azy",
+                "addr:street": "ul. Kolonia Kaszubska",
+                "addr:housenumber": "2",
+                "addr:teryt:simc": 55078,
+                "addr:teryt:sym_ul": 965341,
+                "contact:phone": "+48 774391462",
+                "contact:email": "zsglucholazy@wodip.opole.pl",
+                "contact:website": "http:\/\/www.zsglucholazy.pl",
+                "ref:regon": "000743095",
+                "ref:vatin": "PL7551031483",
+                "operator": "Powiat Nyski",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 20845;103500;104133;107590;114099;114137;271869"
+            }
+        },
+        {
+            "id": 20845,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.39107,
+                    50.31066
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 20845,
+                "official_name": "Liceum Og\u00f3lnokszta\u0142c\u0105ce im. Boles\u0142awa Chrobrego w G\u0142ucho\u0142azach",
+                "name": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+                "addr:country": "PL",
+                "addr:postcode": "48-340",
+                "addr:city": "G\u0142ucho\u0142azy",
+                "addr:street": "ul. Kolonia Kaszubska",
+                "addr:housenumber": "2",
+                "addr:teryt:simc": 55078,
+                "addr:teryt:sym_ul": 965341,
+                "contact:phone": "+48 774391462",
+                "contact:email": "zsglucholazy@wodip.opole.pl",
+                "contact:website": "http:\/\/www.zsglucholazy.pl",
+                "ref:regon": "532383911",
+                "ref:vatin": "PL7532208331",
+                "operator": "Powiat Nyski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 86406"
+            }
+        },
+        {
+            "id": 103500,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.39107,
+                    50.31063
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 103500,
+                "official_name": "Bran\u017cowa Szko\u0142a I Stopnia w G\u0142ucho\u0142azach",
+                "name": "Bran\u017cowa Szko\u0142a I Stopnia w G\u0142ucho\u0142azach",
+                "addr:country": "PL",
+                "addr:postcode": "48-340",
+                "addr:city": "G\u0142ucho\u0142azy",
+                "addr:street": "ul. Kolonia Kaszubska",
+                "addr:housenumber": "2",
+                "addr:teryt:simc": 55078,
+                "addr:teryt:sym_ul": 965341,
+                "contact:phone": "+48 774391462",
+                "contact:email": "zsglucholazy@wodip.opole.pl",
+                "contact:website": "http:\/\/www.zsglucholazy.pl",
+                "ref:regon": "532383905",
+                "operator": "Powiat Nyski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 86406"
+            }
+        },
+        {
+            "id": 104133,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.39107,
+                    50.3106
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 104133,
+                "official_name": "Technikum w G\u0142ucho\u0142azach",
+                "name": "Technikum w G\u0142ucho\u0142azach",
+                "addr:country": "PL",
+                "addr:postcode": "48-340",
+                "addr:city": "G\u0142ucho\u0142azy",
+                "addr:street": "ul. Kolonia Kaszubska",
+                "addr:housenumber": "2",
+                "addr:teryt:simc": 55078,
+                "addr:teryt:sym_ul": 965341,
+                "contact:phone": "+48 774391462",
+                "contact:email": "zsglucholazy@wodip.opole.pl",
+                "contact:website": "http:\/\/www.zsglucholazy.pl",
+                "ref:regon": "161499888",
+                "operator": "Powiat Nyski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 86406"
+            }
+        },
+        {
+            "id": 107590,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.39107,
+                    50.31057
+                ]
+            },
+            "properties": {
+                "ref:rspo": 107590,
+                "official_name": "Szkolne Schronisko M\u0142odzie\u017cowe w G\u0142ucho\u0142azach",
+                "name": "Szkolne Schronisko M\u0142odzie\u017cowe w G\u0142ucho\u0142azach",
+                "addr:country": "PL",
+                "addr:postcode": "48-340",
+                "addr:city": "G\u0142ucho\u0142azy",
+                "addr:street": "ul. Kolonia Kaszubska",
+                "addr:housenumber": "2",
+                "addr:teryt:simc": 55078,
+                "addr:teryt:sym_ul": 965341,
+                "contact:phone": "+48 774397779",
+                "contact:email": "ssmglucholazy@wp.pl",
+                "contact:website": "http:\/\/schronisko.pokrzywna.prv.pl\/",
+                "ref:regon": "531188314",
+                "operator": "Powiat Nyski",
+                "operator:type": "government",
+                "tourism": "hostel",
+                "note": "Parent RSPO: 86406"
+            }
+        },
+        {
+            "id": 114099,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.39107,
+                    50.31054
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 114099,
+                "official_name": "Liceum Og\u00f3lnokszta\u0142c\u0105ce dla Doros\u0142ych w G\u0142ucho\u0142azach",
+                "name": "Liceum Og\u00f3lnokszta\u0142c\u0105ce dla Doros\u0142ych w G\u0142ucho\u0142azach",
+                "addr:country": "PL",
+                "addr:postcode": "48-340",
+                "addr:city": "G\u0142ucho\u0142azy",
+                "addr:street": "ul. Kolonia Kaszubska",
+                "addr:housenumber": "2",
+                "addr:teryt:simc": 55078,
+                "addr:teryt:sym_ul": 965341,
+                "contact:phone": "+48 774391462",
+                "contact:email": "zsglucholazy@wodip.opole.pl",
+                "contact:website": "http:\/\/www.zsglucholazy.pl",
+                "ref:regon": "532181975",
+                "operator": "Powiat Nyski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 86406"
+            }
+        },
+        {
+            "id": 114137,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.39107,
+                    50.31051
+                ]
+            },
+            "properties": {
+                "isced:level": "4",
+                "ref:rspo": 114137,
+                "official_name": "Szko\u0142a Policealna w G\u0142ucho\u0142azach Stacjonarna I Zaoczna",
+                "name": "Szko\u0142a Policealna w G\u0142ucho\u0142azach Stacjonarna I Zaoczna",
+                "addr:country": "PL",
+                "addr:postcode": "48-340",
+                "addr:city": "G\u0142ucho\u0142azy",
+                "addr:street": "ul. Kolonia Kaszubska",
+                "addr:housenumber": "2",
+                "addr:teryt:simc": 55078,
+                "addr:teryt:sym_ul": 965341,
+                "contact:phone": "+48 774391462",
+                "contact:email": "zsglucholazy@wodip.opole.pl",
+                "contact:website": "http:\/\/www.zsglucholazy.pl",
+                "ref:regon": "160093776",
+                "operator": "Powiat Nyski",
+                "operator:type": "government",
+                "amenity": "college",
+                "note": "Parent RSPO: 86406"
+            }
+        },
+        {
+            "id": 271869,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.39107,
+                    50.31048
+                ]
+            },
+            "properties": {
+                "isced:level": "4",
+                "ref:rspo": 271869,
+                "official_name": "Szko\u0142a Policealna w G\u0142ucho\u0142azach Dzienna",
+                "name": "Szko\u0142a Policealna w G\u0142ucho\u0142azach Dzienna",
+                "addr:country": "PL",
+                "addr:postcode": "48-340",
+                "addr:city": "G\u0142ucho\u0142azy",
+                "addr:street": "ul. Kolonia Kaszubska",
+                "addr:housenumber": "2",
+                "addr:teryt:simc": 55078,
+                "addr:teryt:sym_ul": 965341,
+                "contact:phone": "+48 774391462",
+                "contact:email": "zsglucholazy@wodip.opole.pl",
+                "contact:website": "http:\/\/www.zsglucholazy.pl",
+                "ref:regon": "383718137",
+                "operator": "Powiat Nyski",
+                "operator:type": "government",
+                "amenity": "college",
+                "note": "Parent RSPO: 86406"
+            }
+        },
+        {
+            "id": 19641,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.38462,
+                    50.31359
+                ]
+            },
+            "properties": {
+                "ref:rspo": 19641,
+                "official_name": "Publiczne Przedszkole Nr 2 im. Niezapominajka w G\u0142ucho\u0142azach",
+                "name": "Publiczne Przedszkole Nr 2",
+                "addr:country": "PL",
+                "addr:postcode": "48-340",
+                "addr:city": "G\u0142ucho\u0142azy",
+                "addr:street": "ul. Powsta\u0144c\u00f3w \u015al\u0105skich",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 17366,
+                "addr:teryt:sym_ul": 965341,
+                "contact:phone": "+48 774391674",
+                "contact:email": "biuro@pp2glucholazy.pl",
+                "contact:website": "http:\/\/www.pp2glucholazy.pl",
+                "ref:regon": "530579478",
+                "ref:vatin": "PL7532119521",
+                "operator": "Gmina G\u0142ucho\u0142azy",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 271603,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.38285,
+                    50.31376
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 271603,
+                "official_name": "Niepubliczne Liceum Og\u00f3lnokszta\u0142c\u0105ce w G\u0142ucho\u0142azach",
+                "name": "Niepubliczne Liceum Og\u00f3lnokszta\u0142c\u0105ce w G\u0142ucho\u0142azach",
+                "addr:country": "PL",
+                "addr:postcode": "48-340",
+                "addr:city": "G\u0142ucho\u0142azy",
+                "addr:street": "ul. Bohater\u00f3w Warszawy",
+                "addr:housenumber": "10",
+                "addr:teryt:simc": 1679,
+                "addr:teryt:sym_ul": 965341,
+                "contact:email": "liceumglucholazy@gmail.com",
+                "contact:website": "https:\/\/liceum-glucholazy.pl",
+                "ref:regon": "383444510",
+                "operator": "Stowarzyszenie Na Rzecz Szk\u00f3\u0142 \"Chrobry\" Przy Liceum Og\u00f3lnokszta\u0142c\u0105cym Im. Boles\u0142awa Chrobrego W G\u0142ucho\u0142azach",
+                "operator:type": "ngo",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 25909,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.38355,
+                    50.31442
+                ]
+            },
+            "properties": {
+                "ref:rspo": 25909,
+                "official_name": "Przedszkole Niepubliczne \"Puchatek\"",
+                "name": "Przedszkole Niepubliczne \"Puchatek\"",
+                "addr:country": "PL",
+                "addr:postcode": "48-340",
+                "addr:city": "G\u0142ucho\u0142azy",
+                "addr:street": "ul. Bohater\u00f3w Warszawy",
+                "addr:housenumber": "9",
+                "addr:teryt:simc": 1679,
+                "addr:teryt:sym_ul": 965341,
+                "contact:phone": "+48 774391339",
+                "contact:email": "pnpuchatek@interia.pl",
+                "ref:regon": "161485900",
+                "ref:vatin": "PL7531511369",
+                "operator": "Brygida Nowak",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 75599,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.38304,
+                    50.31458
+                ]
+            },
+            "properties": {
+                "ref:rspo": 75599,
+                "official_name": "Pa\u0144stwowa Szko\u0142a Muzyczna I St. im. Jerzego Hellera w G\u0142ucho\u0142azach",
+                "name": "Pa\u0144stwowa Szko\u0142a Muzyczna I St.",
+                "addr:country": "PL",
+                "addr:postcode": "48-340",
+                "addr:city": "G\u0142ucho\u0142azy",
+                "addr:street": "ul. Bohater\u00f3w Warszawy",
+                "addr:housenumber": "2",
+                "addr:teryt:simc": 1679,
+                "addr:teryt:sym_ul": 965341,
+                "contact:phone": "+48 774391478",
+                "contact:email": "psmglucholazy@jtr.pl",
+                "contact:website": "http:\/\/psm.glucholazy.info",
+                "ref:regon": "000629904",
+                "operator": "Ministerstwo Kultury I Dziedzictwa Narodowego",
+                "operator:type": "public",
+                "amenity": "music_school"
+            }
+        },
+        {
+            "id": 19478,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.38463,
+                    50.31491
+                ]
+            },
+            "properties": {
+                "ref:rspo": 19478,
+                "official_name": "Publiczne Przedszkole Nr 1 im.\"Bajka\" w G\u0142ucho\u0142azach",
+                "name": "Publiczne Przedszkole Nr 1 im.\"Bajka\" w G\u0142ucho\u0142azach",
+                "addr:country": "PL",
+                "addr:postcode": "48-340",
+                "addr:city": "G\u0142ucho\u0142azy",
+                "addr:street": "ul. Marii Curie-Sk\u0142odowskiej",
+                "addr:housenumber": "4",
+                "addr:teryt:simc": 3148,
+                "addr:teryt:sym_ul": 965341,
+                "contact:phone": "+48 774391566",
+                "contact:email": "przedszkole1glucholazy@o2.pl",
+                "contact:website": "http:\/\/www.przedszkolebajka.szkolnastrona.pl",
+                "ref:regon": "530579461",
+                "ref:vatin": "PL7532119633",
+                "operator": "Gmina G\u0142ucho\u0142azy",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 18776,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.37463,
+                    50.31808
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 18776,
+                "official_name": "Publiczna Szko\u0142a Podstawowa Nr 2 im. J\u00f3zefa Wybickiego w G\u0142ucho\u0142azach",
+                "name": "Publiczna Szko\u0142a Podstawowa Nr 2",
+                "addr:country": "PL",
+                "addr:postcode": "48-340",
+                "addr:city": "G\u0142ucho\u0142azy",
+                "addr:street": "ul. Kraszewskiego",
+                "addr:housenumber": "30",
+                "addr:teryt:simc": 9869,
+                "addr:teryt:sym_ul": 965341,
+                "contact:phone": "+48 774391741",
+                "contact:email": "szkolasp2a@op.pl",
+                "contact:website": "http:\/\/www.psp2glucholazy.pl",
+                "ref:regon": "000698495",
+                "ref:vatin": "PL7532119544",
+                "operator": "Gmina G\u0142ucho\u0142azy",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 86842,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.38451,
+                    50.3185
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 86842,
+                "official_name": "Publiczna Szko\u0142a Podstawowa Nr 1 im. Krzysztofa Kamila Baczy\u0144skiego w G\u0142ucho\u0142azach",
+                "name": "Publiczna Szko\u0142a Podstawowa Nr 1",
+                "addr:country": "PL",
+                "addr:postcode": "48-340",
+                "addr:city": "G\u0142ucho\u0142azy",
+                "addr:street": "ul. Marii Curie-Sk\u0142odowskiej",
+                "addr:housenumber": "9",
+                "addr:teryt:simc": 3148,
+                "addr:teryt:sym_ul": 965341,
+                "contact:phone": "+48 774391340",
+                "contact:email": "sp1glucholazy@gmail.com",
+                "contact:website": "http:\/\/www.szkola-nr1.pl",
+                "ref:regon": "000698489",
+                "ref:vatin": "PL7532119805",
+                "operator": "Gmina G\u0142ucho\u0142azy",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 39015,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.26165,
+                    50.33361
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 39015,
+                "official_name": "Publiczna Szko\u0142a Podstawowa Stowarzyszenia Rozwoju I Edukacji \"Nasza Szko\u0142a\" w S\u0142awniowicach",
+                "name": "Publiczna Szko\u0142a Podstawowa Stowarzyszenia Rozwoju I Edukacji \"Nasza Szko\u0142a\" w S\u0142awniowicach",
+                "addr:country": "PL",
+                "addr:postcode": "48-355",
+                "addr:place": "S\u0142awniowice",
+                "addr:housenumber": "56",
+                "addr:teryt:sym_ul": 494841,
+                "contact:phone": "+48 774398068",
+                "contact:email": "psp.slawniowice@wp.pl",
+                "ref:regon": "161488844",
+                "ref:vatin": "PL7532336017",
+                "operator": "Stowarzyszenie Rozwoju I Edukacji \"Nasza Szko\u0142a\"",
+                "operator:type": "ngo",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 39057,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.43061,
+                    50.33364
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 39057,
+                "official_name": "Publiczna Szko\u0142a Podstawowa Stowarzyszenia Edukacyjnego \"U\u015bmiech Dziecka\" w Charbielinie",
+                "name": "Publiczna Szko\u0142a Podstawowa Stowarzyszenia Edukacyjnego \"U\u015bmiech Dziecka\" w Charbielinie",
+                "addr:country": "PL",
+                "addr:postcode": "48-340",
+                "addr:place": "Charbielin",
+                "addr:housenumber": "26",
+                "addr:teryt:sym_ul": 494670,
+                "contact:phone": "+48 774391618",
+                "contact:email": "sp_charbielin@poczta.onet.pl",
+                "ref:regon": "161488904",
+                "ref:vatin": "PL7532416058",
+                "operator": "Stowarzyszenie Edukacyjne \"U\u015bmiech Dziecka\"",
+                "operator:type": "ngo",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 270612,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.43061,
+                    50.33361
+                ]
+            },
+            "properties": {
+                "isced:level": "4",
+                "ref:rspo": 270612,
+                "official_name": "Szko\u0142a Policealna Lider w Charbielinie",
+                "name": "Szko\u0142a Policealna Lider w Charbielinie",
+                "addr:country": "PL",
+                "addr:postcode": "48-340",
+                "addr:place": "Charbielin",
+                "addr:housenumber": "26",
+                "addr:teryt:sym_ul": 494670,
+                "contact:phone": "+48 774391618",
+                "contact:email": "biuro@cds-lider.com.pl",
+                "ref:regon": "382807962",
+                "operator": "Ma\u0142gorzata Szl\u0105zak",
+                "operator:type": "private",
+                "amenity": "college"
+            }
+        },
+        {
+            "id": 278003,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.43061,
+                    50.333580000000005
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 278003,
+                "official_name": "Bran\u017cowa Szko\u0142a II Stopnia Lider w Charbielinie",
+                "name": "Bran\u017cowa Szko\u0142a II Stopnia Lider w Charbielinie",
+                "addr:country": "PL",
+                "addr:postcode": "48-340",
+                "addr:place": "Charbielin",
+                "addr:housenumber": "26",
+                "addr:teryt:sym_ul": 494670,
+                "contact:email": "biuro@cds-lider.com.pl",
+                "ref:regon": "389738046",
+                "operator": "Ma\u0142gorzata Szl\u0105zak",
+                "operator:type": "private",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 17347,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.3836,
+                    50.33673
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 17347,
+                "official_name": "Publiczna Szko\u0142a Podstawowa im. Tadeusza Ko\u015bciuszki w Bodzanowie",
+                "name": "Publiczna Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "48-340",
+                "addr:place": "Bodzan\u00f3w",
+                "addr:housenumber": "83",
+                "addr:teryt:sym_ul": 494634,
+                "contact:phone": "+48 774391309",
+                "contact:email": "pspbsekretariat@op.pl",
+                "ref:regon": "000698578",
+                "ref:vatin": "PL7532119716",
+                "operator": "Gmina G\u0142ucho\u0142azy",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 25910,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.3162999,
+                    50.34387
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 25910,
+                "official_name": "Publiczna Szko\u0142a Podstawowa Stowarzyszenia Edukacyjnego \"Przyjazna Szko\u0142a\" w Giera\u0142cicach",
+                "name": "Publiczna Szko\u0142a Podstawowa Stowarzyszenia Edukacyjnego \"Przyjazna Szko\u0142a\" w Giera\u0142cicach",
+                "addr:country": "PL",
+                "addr:postcode": "48-340",
+                "addr:place": "Giera\u0142cice",
+                "addr:housenumber": "154",
+                "addr:teryt:sym_ul": 494686,
+                "contact:phone": "+48 774398033",
+                "contact:email": "gieralcice@poczta.onet.pl",
+                "contact:website": "http:\/\/www.pspgieralcice.pl",
+                "ref:regon": "161485366",
+                "ref:vatin": "PL7532430118",
+                "operator": "Stowarzyszenie Edukacyjne \"Przyjazna Szko\u0142a\"",
+                "operator:type": "ngo",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 20905,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.27846,
+                    50.3547
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 20905,
+                "official_name": "Publiczna Szko\u0142a Podstawowa Stowarzyszenia Rozwoju Wsi Burgrabice",
+                "name": "Publiczna Szko\u0142a Podstawowa Stowarzyszenia Rozwoju Wsi Burgrabice",
+                "addr:country": "PL",
+                "addr:postcode": "48-355",
+                "addr:place": "Burgrabice",
+                "addr:housenumber": "140",
+                "addr:teryt:sym_ul": 494663,
+                "contact:phone": "+48 774398090",
+                "contact:email": "burgrabice_szkola@wp.pl",
+                "ref:regon": "161483634",
+                "ref:vatin": "PL7532127437",
+                "operator": "Stowarzyszenie Rozwoju Wsi Burgrabice",
+                "operator:type": "ngo",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 17373,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.36154,
+                    50.36675
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 17373,
+                "official_name": "Publiczna Szko\u0142a Podstawowa im. Janusza Korczaka w Nowym \u015awi\u0119towie",
+                "name": "Publiczna Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "48-330",
+                "addr:place": "Nowy \u015awi\u0119t\u00f3w",
+                "addr:housenumber": "65",
+                "addr:teryt:sym_ul": 494781,
+                "contact:phone": "+48 774397021",
+                "contact:email": "pspnowyswietow@wp.pl",
+                "ref:regon": "000698561",
+                "ref:vatin": "PL7532119840",
+                "operator": "Gmina G\u0142ucho\u0142azy",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 39046,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.29945,
+                    50.37403
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 39046,
+                "official_name": "Publiczna Szko\u0142a Podstawowa Stowarzyszenia Przyjaci\u00f3\u0142 Szko\u0142y w Biskupowie",
+                "name": "Publiczna Szko\u0142a Podstawowa Stowarzyszenia Przyjaci\u00f3\u0142 Szko\u0142y w Biskupowie",
+                "addr:country": "PL",
+                "addr:postcode": "48-355",
+                "addr:place": "Biskup\u00f3w",
+                "addr:housenumber": "76",
+                "addr:teryt:sym_ul": 494611,
+                "contact:phone": "+48 774398093",
+                "contact:email": "pspbiskupow@poczta.onet.pl",
+                "ref:regon": "161488880",
+                "ref:vatin": "PL7532423058",
+                "operator": "Stowarzyszenie Przyjaci\u00f3\u0142 Szko\u0142y W Biskupowie",
+                "operator:type": "ngo",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 21226,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.40805,
+                    50.38021
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 21226,
+                "official_name": "Publiczna Szko\u0142a Podstawowa Stowarzyszenia Rozwoju Wsi Stary Las",
+                "name": "Publiczna Szko\u0142a Podstawowa Stowarzyszenia Rozwoju Wsi Stary Las",
+                "addr:country": "PL",
+                "addr:postcode": "48-340",
+                "addr:place": "Stary Las",
+                "addr:housenumber": "56a",
+                "addr:teryt:sym_ul": 494858,
+                "contact:phone": "+48 774397022",
+                "contact:email": "spstarylas@interia.pl",
+                "contact:website": "http:\/\/www.spstarylas.eu",
+                "ref:regon": "161483670",
+                "ref:vatin": "PL7532133538",
+                "operator": "Stowarzyszenie Rozwoju Wsi Stary Las",
+                "operator:type": "ngo",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 21228,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.3521,
+                    50.38814
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 21228,
+                "official_name": "Publiczna Szko\u0142a Podstawowa Stowarzyszenia Rozwoju Wsi Markowice, Polski \u015awi\u0119t\u00f3w, Sucha Kamienica",
+                "name": "Publiczna Szko\u0142a Podstawowa Stowarzyszenia Rozwoju Wsi Markowice, Polski \u015awi\u0119t\u00f3w, Sucha Kamienica",
+                "addr:country": "PL",
+                "addr:postcode": "48-330",
+                "addr:place": "Polski \u015awi\u0119t\u00f3w",
+                "addr:housenumber": "74a",
+                "addr:teryt:sym_ul": 494870,
+                "contact:phone": "+48 774397088",
+                "contact:email": "szkola_sw@poczta.onet.pl",
+                "contact:website": "http:\/\/www.szkolapolskiswietow.pl",
+                "ref:regon": "161483663",
+                "ref:vatin": "PL7532336543",
+                "operator": "Stowarzyszenie Rozwoju Wsi Markowice, Polski \u015awi\u0119t\u00f3w, Sucha Kamienica",
+                "operator:type": "ngo",
+                "amenity": "school"
+            }
+        }
+    ]
+}

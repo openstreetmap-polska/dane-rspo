@@ -1,1 +1,215 @@
-{"type":"FeatureCollection","features":[{"id":23283,"type":"Feature","geometry":{"type":"Point","coordinates":[18.9064799,51.96401]},"properties":{"ref:rspo":23283,"official_name":"Biblioteka Pedagogiczna w Sieradzu Filia w Bronowie","name":"Biblioteka Pedagogiczna w Sieradzu Filia w Bronowie","addr:country":"PL","addr:postcode":"99-200","addr:place":"Bron\u00f3w","addr:housenumber":"6","addr:teryt:sym_ul":716342,"contact:phone":"+48 436785929","contact:email":"organek.lilla@gmail.com","contact:website":"http:\/\/www.mariakonopnickawbronowie.pl","ref:regon":"734920000","operator":"Wojew\u00f3dztwo \u0141\u00f3dzkie","operator:type":"government","amenity":"library","note":"Parent RSPO: 12847"}},{"id":44060,"type":"Feature","geometry":{"type":"Point","coordinates":[18.95569,51.96951]},"properties":{"isced:level":"1;2","ref:rspo":44060,"official_name":"Szko\u0142a Podstawowa im. Marii Konopnickiej w K\u0142\u00f3dnej","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"99-220","addr:place":"Jadwisin","addr:housenumber":"3","addr:teryt:sym_ul":716477,"contact:phone":"+48 436785531","contact:email":"spklodno@interia.pl","contact:website":"http:\/\/www.spklodno.szkolnastrona.pl","ref:regon":"001150925","ref:vatin":"PL8281394560","operator":"Gmina Wartkowice","operator:type":"government","amenity":"school"}},{"id":119339,"type":"Feature","geometry":{"type":"Point","coordinates":[19.0725,51.9733]},"properties":{"ref:rspo":119339,"official_name":"Publiczne Przedszkole w Drwalewie","name":"Publiczne Przedszkole w Drwalewie","addr:country":"PL","addr:postcode":"99-220","addr:place":"Bia\u0142a G\u00f3ra","addr:housenumber":"39","addr:teryt:sym_ul":716260,"contact:phone":"+48 436785753","contact:email":"przedszkole.wartkowice@gmail.com","ref:regon":"101657029","ref:vatin":"PL8281413168","operator":"Gmina Wartkowice","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 275594"}},{"id":55546,"type":"Feature","geometry":{"type":"Point","coordinates":[19.00458,51.97601]},"properties":{"isced:level":"1;2","ref:rspo":55546,"official_name":"Szko\u0142a Podstawowa im. Marsza\u0142ka J\u00f3zefa Pi\u0142sudskiego w Wartkowicach","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"99-220","addr:city":"Wartkowice","addr:street":"ul. Legion\u00f3w Polskich","addr:housenumber":"5","addr:teryt:simc":10775,"addr:teryt:sym_ul":716980,"contact:phone":"+48 436785142","contact:email":"infowzespol@gmail.com","contact:website":"http:\/\/www.zswartkowice.szkolnastrona.pl","ref:regon":"000555956","ref:vatin":"PL8281402354","operator":"Gmina Wartkowice","operator:type":"government","amenity":"school"}},{"id":275594,"type":"Feature","geometry":{"type":"Point","coordinates":[19.00057,51.9785899]},"properties":{"ref:rspo":275594,"official_name":"Zesp\u00f3\u0142 Przedszkolny w Wartkowicach","name":"Zesp\u00f3\u0142 Przedszkolny w Wartkowicach","addr:country":"PL","addr:postcode":"99-220","addr:city":"Wartkowice","addr:street":"ul. Targowa","addr:housenumber":"11","addr:teryt:simc":22659,"addr:teryt:sym_ul":716980,"contact:phone":"+48 436785546","contact:email":"przedszkole.wartkowice@gmail.com","ref:regon":"386927545","ref:vatin":"PL8281418645","operator":"Gmina Wartkowice","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 44475;119339"}},{"id":44475,"type":"Feature","geometry":{"type":"Point","coordinates":[19.00057,51.9785599]},"properties":{"ref:rspo":44475,"official_name":"Publiczne Przedszkole w Wartkowicach","name":"Publiczne Przedszkole w Wartkowicach","addr:country":"PL","addr:postcode":"99-220","addr:city":"Wartkowice","addr:street":"ul. Targowa","addr:housenumber":"11","addr:teryt:simc":22659,"addr:teryt:sym_ul":716980,"contact:phone":"+48 436785546","contact:email":"przedszkole.wartkowice@gmail.com","ref:regon":"100059680","ref:vatin":"PL8281394749","operator":"Gmina Wartkowice","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 275594"}},{"id":119341,"type":"Feature","geometry":{"type":"Point","coordinates":[19.05882,52.00064]},"properties":{"ref:rspo":119341,"official_name":"Punkt Przedszkolny w Pe\u0142czyskach","name":"Punkt Przedszkolny w Pe\u0142czyskach","addr:country":"PL","addr:postcode":"99-220","addr:place":"Pe\u0142czyska","addr:housenumber":"4","addr:teryt:sym_ul":716678,"contact:phone":"+48 436785524","contact:email":"przedszkole.wartkowice@gmail.com","ref:regon":"101657064","operator":"Gmina Wartkowice","operator:type":"government","amenity":"kindergarten"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 23283,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.9064799,
+                    51.96401
+                ]
+            },
+            "properties": {
+                "ref:rspo": 23283,
+                "official_name": "Biblioteka Pedagogiczna w Sieradzu Filia w Bronowie",
+                "name": "Biblioteka Pedagogiczna w Sieradzu Filia w Bronowie",
+                "addr:country": "PL",
+                "addr:postcode": "99-200",
+                "addr:place": "Bron\u00f3w",
+                "addr:housenumber": "6",
+                "addr:teryt:sym_ul": 716342,
+                "contact:phone": "+48 436785929",
+                "contact:email": "organek.lilla@gmail.com",
+                "contact:website": "http:\/\/www.mariakonopnickawbronowie.pl",
+                "ref:regon": "734920000",
+                "operator": "Wojew\u00f3dztwo \u0141\u00f3dzkie",
+                "operator:type": "government",
+                "amenity": "library",
+                "note": "Parent RSPO: 12847"
+            }
+        },
+        {
+            "id": 44060,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.95569,
+                    51.96951
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 44060,
+                "official_name": "Szko\u0142a Podstawowa im. Marii Konopnickiej w K\u0142\u00f3dnej",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "99-220",
+                "addr:place": "Jadwisin",
+                "addr:housenumber": "3",
+                "addr:teryt:sym_ul": 716477,
+                "contact:phone": "+48 436785531",
+                "contact:email": "spklodno@interia.pl",
+                "contact:website": "http:\/\/www.spklodno.szkolnastrona.pl",
+                "ref:regon": "001150925",
+                "ref:vatin": "PL8281394560",
+                "operator": "Gmina Wartkowice",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 119339,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0725,
+                    51.9733
+                ]
+            },
+            "properties": {
+                "ref:rspo": 119339,
+                "official_name": "Publiczne Przedszkole w Drwalewie",
+                "name": "Publiczne Przedszkole w Drwalewie",
+                "addr:country": "PL",
+                "addr:postcode": "99-220",
+                "addr:place": "Bia\u0142a G\u00f3ra",
+                "addr:housenumber": "39",
+                "addr:teryt:sym_ul": 716260,
+                "contact:phone": "+48 436785753",
+                "contact:email": "przedszkole.wartkowice@gmail.com",
+                "ref:regon": "101657029",
+                "ref:vatin": "PL8281413168",
+                "operator": "Gmina Wartkowice",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 275594"
+            }
+        },
+        {
+            "id": 55546,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.00458,
+                    51.97601
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 55546,
+                "official_name": "Szko\u0142a Podstawowa im. Marsza\u0142ka J\u00f3zefa Pi\u0142sudskiego w Wartkowicach",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "99-220",
+                "addr:city": "Wartkowice",
+                "addr:street": "ul. Legion\u00f3w Polskich",
+                "addr:housenumber": "5",
+                "addr:teryt:simc": 10775,
+                "addr:teryt:sym_ul": 716980,
+                "contact:phone": "+48 436785142",
+                "contact:email": "infowzespol@gmail.com",
+                "contact:website": "http:\/\/www.zswartkowice.szkolnastrona.pl",
+                "ref:regon": "000555956",
+                "ref:vatin": "PL8281402354",
+                "operator": "Gmina Wartkowice",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 275594,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.00057,
+                    51.9785899
+                ]
+            },
+            "properties": {
+                "ref:rspo": 275594,
+                "official_name": "Zesp\u00f3\u0142 Przedszkolny w Wartkowicach",
+                "name": "Zesp\u00f3\u0142 Przedszkolny w Wartkowicach",
+                "addr:country": "PL",
+                "addr:postcode": "99-220",
+                "addr:city": "Wartkowice",
+                "addr:street": "ul. Targowa",
+                "addr:housenumber": "11",
+                "addr:teryt:simc": 22659,
+                "addr:teryt:sym_ul": 716980,
+                "contact:phone": "+48 436785546",
+                "contact:email": "przedszkole.wartkowice@gmail.com",
+                "ref:regon": "386927545",
+                "ref:vatin": "PL8281418645",
+                "operator": "Gmina Wartkowice",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 44475;119339"
+            }
+        },
+        {
+            "id": 44475,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.00057,
+                    51.9785599
+                ]
+            },
+            "properties": {
+                "ref:rspo": 44475,
+                "official_name": "Publiczne Przedszkole w Wartkowicach",
+                "name": "Publiczne Przedszkole w Wartkowicach",
+                "addr:country": "PL",
+                "addr:postcode": "99-220",
+                "addr:city": "Wartkowice",
+                "addr:street": "ul. Targowa",
+                "addr:housenumber": "11",
+                "addr:teryt:simc": 22659,
+                "addr:teryt:sym_ul": 716980,
+                "contact:phone": "+48 436785546",
+                "contact:email": "przedszkole.wartkowice@gmail.com",
+                "ref:regon": "100059680",
+                "ref:vatin": "PL8281394749",
+                "operator": "Gmina Wartkowice",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 275594"
+            }
+        },
+        {
+            "id": 119341,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.05882,
+                    52.00064
+                ]
+            },
+            "properties": {
+                "ref:rspo": 119341,
+                "official_name": "Punkt Przedszkolny w Pe\u0142czyskach",
+                "name": "Punkt Przedszkolny w Pe\u0142czyskach",
+                "addr:country": "PL",
+                "addr:postcode": "99-220",
+                "addr:place": "Pe\u0142czyska",
+                "addr:housenumber": "4",
+                "addr:teryt:sym_ul": 716678,
+                "contact:phone": "+48 436785524",
+                "contact:email": "przedszkole.wartkowice@gmail.com",
+                "ref:regon": "101657064",
+                "operator": "Gmina Wartkowice",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        }
+    ]
+}

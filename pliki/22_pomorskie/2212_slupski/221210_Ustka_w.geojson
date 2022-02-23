@@ -1,1 +1,119 @@
-{"type":"FeatureCollection","features":[{"id":77956,"type":"Feature","geometry":{"type":"Point","coordinates":[16.7635599,54.52108]},"properties":{"isced:level":"1;2","ref:rspo":77956,"official_name":"Szko\u0142a Podstawowa w Zaleskich","name":"Szko\u0142a Podstawowa w Zaleskich","addr:country":"PL","addr:postcode":"76-270","addr:place":"Zaleskie","addr:housenumber":"28","addr:teryt:sym_ul":752444,"contact:phone":"+48 598141267","contact:email":"sekretariat@spzaleskie.pl","ref:regon":"001174311","ref:vatin":"PL8392571479","operator":"Gmina Ustka","operator:type":"government","amenity":"school"}},{"id":80403,"type":"Feature","geometry":{"type":"Point","coordinates":[16.81992,54.53885]},"properties":{"ref:rspo":80403,"official_name":"Publiczne Szkolne Schronisko M\u0142odzie\u017cowe w Duninowie","name":"Publiczne Szkolne Schronisko M\u0142odzie\u017cowe w Duninowie","addr:country":"PL","addr:postcode":"76-270","addr:place":"Duninowo","addr:housenumber":"43","addr:teryt:sym_ul":752102,"contact:phone":"+48 598141366","contact:email":"caritasduninowo@poczta.onet.pl","contact:website":"http:\/\/www.duninowo.koszalin.opoka.org.pl\/","ref:regon":"221779133","ref:vatin":"PL8393174332","operator":"Parafia Rzym.-Kat. Pw. Matki Boskiej Cz\u0119stochowskiej","operator:type":"religious","tourism":"hostel"}},{"id":11611,"type":"Feature","geometry":{"type":"Point","coordinates":[16.92765,54.54119]},"properties":{"isced:level":"1;2","ref:rspo":11611,"official_name":"Szko\u0142a Podstawowa w Charnowie","name":"Szko\u0142a Podstawowa w Charnowie","addr:country":"PL","addr:postcode":"76-270","addr:place":"Charnowo","addr:housenumber":"55","addr:teryt:sym_ul":752071,"contact:phone":"+48 598461133","ref:regon":"001174305","ref:vatin":"PL8392571462","operator":"Gmina Ustka","operator:type":"government","amenity":"school"}},{"id":12336,"type":"Feature","geometry":{"type":"Point","coordinates":[17.04005,54.60406]},"properties":{"isced:level":"1;2","ref:rspo":12336,"official_name":"Szko\u0142a Podstawowa w Obje\u017adzie","name":"Szko\u0142a Podstawowa w Obje\u017adzie","addr:country":"PL","addr:postcode":"76-270","addr:place":"Objazda","addr:housenumber":"95","addr:teryt:sym_ul":752289,"contact:email":"spobjazda@wp.pl","ref:regon":"001174280","ref:vatin":"PL8393198019","operator":"Gmina Ustka","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 77956,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.7635599,
+                    54.52108
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 77956,
+                "official_name": "Szko\u0142a Podstawowa w Zaleskich",
+                "name": "Szko\u0142a Podstawowa w Zaleskich",
+                "addr:country": "PL",
+                "addr:postcode": "76-270",
+                "addr:place": "Zaleskie",
+                "addr:housenumber": "28",
+                "addr:teryt:sym_ul": 752444,
+                "contact:phone": "+48 598141267",
+                "contact:email": "sekretariat@spzaleskie.pl",
+                "ref:regon": "001174311",
+                "ref:vatin": "PL8392571479",
+                "operator": "Gmina Ustka",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 80403,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.81992,
+                    54.53885
+                ]
+            },
+            "properties": {
+                "ref:rspo": 80403,
+                "official_name": "Publiczne Szkolne Schronisko M\u0142odzie\u017cowe w Duninowie",
+                "name": "Publiczne Szkolne Schronisko M\u0142odzie\u017cowe w Duninowie",
+                "addr:country": "PL",
+                "addr:postcode": "76-270",
+                "addr:place": "Duninowo",
+                "addr:housenumber": "43",
+                "addr:teryt:sym_ul": 752102,
+                "contact:phone": "+48 598141366",
+                "contact:email": "caritasduninowo@poczta.onet.pl",
+                "contact:website": "http:\/\/www.duninowo.koszalin.opoka.org.pl\/",
+                "ref:regon": "221779133",
+                "ref:vatin": "PL8393174332",
+                "operator": "Parafia Rzym.-Kat. Pw. Matki Boskiej Cz\u0119stochowskiej",
+                "operator:type": "religious",
+                "tourism": "hostel"
+            }
+        },
+        {
+            "id": 11611,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.92765,
+                    54.54119
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 11611,
+                "official_name": "Szko\u0142a Podstawowa w Charnowie",
+                "name": "Szko\u0142a Podstawowa w Charnowie",
+                "addr:country": "PL",
+                "addr:postcode": "76-270",
+                "addr:place": "Charnowo",
+                "addr:housenumber": "55",
+                "addr:teryt:sym_ul": 752071,
+                "contact:phone": "+48 598461133",
+                "ref:regon": "001174305",
+                "ref:vatin": "PL8392571462",
+                "operator": "Gmina Ustka",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 12336,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.04005,
+                    54.60406
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 12336,
+                "official_name": "Szko\u0142a Podstawowa w Obje\u017adzie",
+                "name": "Szko\u0142a Podstawowa w Obje\u017adzie",
+                "addr:country": "PL",
+                "addr:postcode": "76-270",
+                "addr:place": "Objazda",
+                "addr:housenumber": "95",
+                "addr:teryt:sym_ul": 752289,
+                "contact:email": "spobjazda@wp.pl",
+                "ref:regon": "001174280",
+                "ref:vatin": "PL8393198019",
+                "operator": "Gmina Ustka",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

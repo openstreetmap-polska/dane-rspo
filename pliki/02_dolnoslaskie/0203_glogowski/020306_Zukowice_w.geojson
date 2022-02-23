@@ -1,1 +1,148 @@
-{"type":"FeatureCollection","features":[{"id":13777,"type":"Feature","geometry":{"type":"Point","coordinates":[15.99529,51.63786]},"properties":{"isced:level":"1;2","ref:rspo":13777,"official_name":"Szko\u0142a Podstawowa im. \u015aw. Jana Paw\u0142a II w Nielubi","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"67-231","addr:place":"Nielubia","addr:housenumber":"80","addr:teryt:sym_ul":368935,"contact:phone":"+48 768314210","contact:email":"spnielubia@gazeta.pl","contact:website":"http:\/\/spnielubia.szkolnastrona.pl","ref:regon":"000273152","ref:vatin":"PL6931299139","operator":"Gmina \u017bukowice","operator:type":"government","amenity":"school"}},{"id":264947,"type":"Feature","geometry":{"type":"Point","coordinates":[15.99585,51.64024]},"properties":{"ref:rspo":264947,"official_name":"Niepubliczny Punkt Przedszkolny w Nielubi","name":"Niepubliczny Punkt Przedszkolny w Nielubi","addr:country":"PL","addr:postcode":"67-231","addr:place":"Nielubia","addr:housenumber":"71","addr:teryt:sym_ul":368935,"contact:phone":"+48 683888431","contact:email":"lukasz@wzgorzadalkowskie.pl","ref:regon":"368522220","operator":"Fundacja \"Porozumienie Wzg\u00f3rz Dalkowskich\"","operator:type":"ngo","amenity":"kindergarten"}},{"id":120590,"type":"Feature","geometry":{"type":"Point","coordinates":[15.88469,51.68502]},"properties":{"ref:rspo":120590,"official_name":"Przedszkolandia Na Wzg\u00f3rzach Dalkowskich","name":"Przedszkolandia Na Wzg\u00f3rzach Dalkowskich","addr:country":"PL","addr:postcode":"67-231","addr:place":"Kromolin","addr:housenumber":"58","addr:teryt:sym_ul":368898,"contact:phone":"+48 683888431","contact:email":"lukasz@wzgorzadalkowskie.pl","ref:regon":"022272477","ref:vatin":"PL9252020159","operator":"Fundacja \"Porozumienie Wzg\u00f3rz Dalkowskich\"","operator:type":"ngo","amenity":"kindergarten"}},{"id":13153,"type":"Feature","geometry":{"type":"Point","coordinates":[15.91815,51.69417]},"properties":{"isced:level":"1;2","ref:rspo":13153,"official_name":"Szko\u0142a Podstawowa im. \u015aw.floriana w Brzegu G\u0142ogowskim","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"67-231","addr:place":"Brzeg G\u0142ogowski","addr:housenumber":"27","addr:teryt:sym_ul":368763,"contact:phone":"+48 768314127","contact:email":"brzegglogowskisp@vp.pl","contact:website":"http:\/\/www.spbrzegglog.szkolnastrona.pl","ref:regon":"001240203","ref:vatin":"PL6931973989","operator":"Gmina \u017bukowice","operator:type":"government","amenity":"school"}},{"id":120589,"type":"Feature","geometry":{"type":"Point","coordinates":[15.91815,51.69414]},"properties":{"ref:rspo":120589,"official_name":"Przedszkolandia Na Wzg\u00f3rzach Dalkowskich","name":"Przedszkolandia Na Wzg\u00f3rzach Dalkowskich","addr:country":"PL","addr:postcode":"67-231","addr:place":"Brzeg G\u0142ogowski","addr:housenumber":"27","addr:teryt:sym_ul":368763,"contact:phone":"+48 683888431","contact:email":"lukasz@wzgorzadalkowskie.pl","ref:regon":"022272460","ref:vatin":"PL9252020159","operator":"Fundacja \"Porozumienie Wzg\u00f3rz Dalkowskich\"","operator:type":"ngo","amenity":"kindergarten"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 13777,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.99529,
+                    51.63786
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 13777,
+                "official_name": "Szko\u0142a Podstawowa im. \u015aw. Jana Paw\u0142a II w Nielubi",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "67-231",
+                "addr:place": "Nielubia",
+                "addr:housenumber": "80",
+                "addr:teryt:sym_ul": 368935,
+                "contact:phone": "+48 768314210",
+                "contact:email": "spnielubia@gazeta.pl",
+                "contact:website": "http:\/\/spnielubia.szkolnastrona.pl",
+                "ref:regon": "000273152",
+                "ref:vatin": "PL6931299139",
+                "operator": "Gmina \u017bukowice",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 264947,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.99585,
+                    51.64024
+                ]
+            },
+            "properties": {
+                "ref:rspo": 264947,
+                "official_name": "Niepubliczny Punkt Przedszkolny w Nielubi",
+                "name": "Niepubliczny Punkt Przedszkolny w Nielubi",
+                "addr:country": "PL",
+                "addr:postcode": "67-231",
+                "addr:place": "Nielubia",
+                "addr:housenumber": "71",
+                "addr:teryt:sym_ul": 368935,
+                "contact:phone": "+48 683888431",
+                "contact:email": "lukasz@wzgorzadalkowskie.pl",
+                "ref:regon": "368522220",
+                "operator": "Fundacja \"Porozumienie Wzg\u00f3rz Dalkowskich\"",
+                "operator:type": "ngo",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 120590,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.88469,
+                    51.68502
+                ]
+            },
+            "properties": {
+                "ref:rspo": 120590,
+                "official_name": "Przedszkolandia Na Wzg\u00f3rzach Dalkowskich",
+                "name": "Przedszkolandia Na Wzg\u00f3rzach Dalkowskich",
+                "addr:country": "PL",
+                "addr:postcode": "67-231",
+                "addr:place": "Kromolin",
+                "addr:housenumber": "58",
+                "addr:teryt:sym_ul": 368898,
+                "contact:phone": "+48 683888431",
+                "contact:email": "lukasz@wzgorzadalkowskie.pl",
+                "ref:regon": "022272477",
+                "ref:vatin": "PL9252020159",
+                "operator": "Fundacja \"Porozumienie Wzg\u00f3rz Dalkowskich\"",
+                "operator:type": "ngo",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 13153,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.91815,
+                    51.69417
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 13153,
+                "official_name": "Szko\u0142a Podstawowa im. \u015aw.floriana w Brzegu G\u0142ogowskim",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "67-231",
+                "addr:place": "Brzeg G\u0142ogowski",
+                "addr:housenumber": "27",
+                "addr:teryt:sym_ul": 368763,
+                "contact:phone": "+48 768314127",
+                "contact:email": "brzegglogowskisp@vp.pl",
+                "contact:website": "http:\/\/www.spbrzegglog.szkolnastrona.pl",
+                "ref:regon": "001240203",
+                "ref:vatin": "PL6931973989",
+                "operator": "Gmina \u017bukowice",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 120589,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.91815,
+                    51.69414
+                ]
+            },
+            "properties": {
+                "ref:rspo": 120589,
+                "official_name": "Przedszkolandia Na Wzg\u00f3rzach Dalkowskich",
+                "name": "Przedszkolandia Na Wzg\u00f3rzach Dalkowskich",
+                "addr:country": "PL",
+                "addr:postcode": "67-231",
+                "addr:place": "Brzeg G\u0142ogowski",
+                "addr:housenumber": "27",
+                "addr:teryt:sym_ul": 368763,
+                "contact:phone": "+48 683888431",
+                "contact:email": "lukasz@wzgorzadalkowskie.pl",
+                "ref:regon": "022272460",
+                "ref:vatin": "PL9252020159",
+                "operator": "Fundacja \"Porozumienie Wzg\u00f3rz Dalkowskich\"",
+                "operator:type": "ngo",
+                "amenity": "kindergarten"
+            }
+        }
+    ]
+}

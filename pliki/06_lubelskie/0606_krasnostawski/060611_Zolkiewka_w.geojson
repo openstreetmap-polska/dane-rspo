@@ -1,1 +1,184 @@
-{"type":"FeatureCollection","features":[{"id":53279,"type":"Feature","geometry":{"type":"Point","coordinates":[22.87231,50.8387]},"properties":{"isced:level":"1;2","ref:rspo":53279,"official_name":"Szko\u0142a Podstawowa w Ch\u0142aniowie","name":"Szko\u0142a Podstawowa w Ch\u0142aniowie","addr:country":"PL","addr:postcode":"22-335","addr:place":"Ch\u0142ani\u00f3w","addr:housenumber":"38","addr:teryt:sym_ul":907243,"contact:phone":"+48 846832201","contact:email":"spchlaniow1@wp.pl","ref:regon":"001156939","ref:vatin":"PL5641575122","operator":"Gmina \u017b\u00f3\u0142kiewka","operator:type":"government","amenity":"school"}},{"id":109405,"type":"Feature","geometry":{"type":"Point","coordinates":[22.85088,50.90919]},"properties":{"isced:level":"3","ref:rspo":109405,"official_name":"Bran\u017cowa Szko\u0142a I Stopnia w \u017b\u00f3\u0142kiewce","name":"Bran\u017cowa Szko\u0142a I Stopnia w \u017b\u00f3\u0142kiewce","addr:country":"PL","addr:postcode":"22-355","addr:place":"Zaburze","addr:housenumber":"46","addr:teryt:sym_ul":907480,"contact:phone":"+48 846831681","ref:regon":"110598972","operator":"Powiat Krasnostawski","operator:type":"government","amenity":"school","note":"Parent RSPO: 14625"}},{"id":112235,"type":"Feature","geometry":{"type":"Point","coordinates":[22.85088,50.90916]},"properties":{"isced:level":"3","ref:rspo":112235,"official_name":"Technikum w \u017b\u00f3\u0142kiewce","name":"Technikum w \u017b\u00f3\u0142kiewce","addr:country":"PL","addr:postcode":"22-355","addr:place":"Zaburze","addr:housenumber":"46","addr:teryt:sym_ul":907480,"contact:phone":"+48 846831681","contact:email":"zspzolkiewka@op.pl","contact:website":"http:\/\/www.zspzolkiewka.pl","ref:regon":"110675572","operator":"Powiat Krasnostawski","operator:type":"government","amenity":"school","note":"Parent RSPO: 14625"}},{"id":126089,"type":"Feature","geometry":{"type":"Point","coordinates":[22.85088,50.909130000000005]},"properties":{"isced:level":"4","ref:rspo":126089,"official_name":"Szko\u0142a Policealna","name":"Szko\u0142a Policealna","addr:country":"PL","addr:postcode":"22-335","addr:place":"Zaburze","addr:housenumber":"46","addr:teryt:sym_ul":907480,"contact:phone":"+48 846831681","ref:regon":"110711670","ref:vatin":"PL9221302968","operator":"Powiat Krasnostawski","operator:type":"government","amenity":"college","note":"Parent RSPO: 14625"}},{"id":55758,"type":"Feature","geometry":{"type":"Point","coordinates":[22.83722,50.91527]},"properties":{"isced:level":"1;2","ref:rspo":55758,"official_name":"Szko\u0142a Podstawowa w \u017b\u00f3\u0142kiewce","name":"Szko\u0142a Podstawowa w \u017b\u00f3\u0142kiewce","addr:country":"PL","addr:postcode":"22-335","addr:city":"\u017b\u00f3\u0142kiewka-Osada","addr:street":"ul. Szkolna","addr:housenumber":"3","addr:teryt:simc":21970,"addr:teryt:sym_ul":907510,"contact:phone":"+48 846831630","contact:email":"spzolkiewka@op.pl","contact:website":"http:\/\/www.spzolkiewka.edupage.org.pl","ref:regon":"000678015","ref:vatin":"PL5641575139","operator":"Gmina \u017b\u00f3\u0142kiewka","operator:type":"government","amenity":"school"}},{"id":14625,"type":"Feature","geometry":{"type":"Point","coordinates":[23.166999816894,51]},"properties":{"ref:rspo":14625,"official_name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 w \u017b\u00f3\u0142kiewce","name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 w \u017b\u00f3\u0142kiewce","addr:country":"PL","addr:postcode":"22-335","addr:place":"\u017b\u00f3\u0142kiewka-Osada","addr:housenumber":"46","addr:teryt:sym_ul":907510,"contact:phone":"+48 846831681","contact:email":"zspzolkiewka@op.pl","contact:website":"http:\/\/zspzolkiewka.pl","ref:regon":"950273780","ref:vatin":"PL9221302968","operator":"Powiat Krasnostawski","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 109405;112235;126089"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 53279,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.87231,
+                    50.8387
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 53279,
+                "official_name": "Szko\u0142a Podstawowa w Ch\u0142aniowie",
+                "name": "Szko\u0142a Podstawowa w Ch\u0142aniowie",
+                "addr:country": "PL",
+                "addr:postcode": "22-335",
+                "addr:place": "Ch\u0142ani\u00f3w",
+                "addr:housenumber": "38",
+                "addr:teryt:sym_ul": 907243,
+                "contact:phone": "+48 846832201",
+                "contact:email": "spchlaniow1@wp.pl",
+                "ref:regon": "001156939",
+                "ref:vatin": "PL5641575122",
+                "operator": "Gmina \u017b\u00f3\u0142kiewka",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 109405,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.85088,
+                    50.90919
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 109405,
+                "official_name": "Bran\u017cowa Szko\u0142a I Stopnia w \u017b\u00f3\u0142kiewce",
+                "name": "Bran\u017cowa Szko\u0142a I Stopnia w \u017b\u00f3\u0142kiewce",
+                "addr:country": "PL",
+                "addr:postcode": "22-355",
+                "addr:place": "Zaburze",
+                "addr:housenumber": "46",
+                "addr:teryt:sym_ul": 907480,
+                "contact:phone": "+48 846831681",
+                "ref:regon": "110598972",
+                "operator": "Powiat Krasnostawski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 14625"
+            }
+        },
+        {
+            "id": 112235,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.85088,
+                    50.90916
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 112235,
+                "official_name": "Technikum w \u017b\u00f3\u0142kiewce",
+                "name": "Technikum w \u017b\u00f3\u0142kiewce",
+                "addr:country": "PL",
+                "addr:postcode": "22-355",
+                "addr:place": "Zaburze",
+                "addr:housenumber": "46",
+                "addr:teryt:sym_ul": 907480,
+                "contact:phone": "+48 846831681",
+                "contact:email": "zspzolkiewka@op.pl",
+                "contact:website": "http:\/\/www.zspzolkiewka.pl",
+                "ref:regon": "110675572",
+                "operator": "Powiat Krasnostawski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 14625"
+            }
+        },
+        {
+            "id": 126089,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.85088,
+                    50.909130000000005
+                ]
+            },
+            "properties": {
+                "isced:level": "4",
+                "ref:rspo": 126089,
+                "official_name": "Szko\u0142a Policealna",
+                "name": "Szko\u0142a Policealna",
+                "addr:country": "PL",
+                "addr:postcode": "22-335",
+                "addr:place": "Zaburze",
+                "addr:housenumber": "46",
+                "addr:teryt:sym_ul": 907480,
+                "contact:phone": "+48 846831681",
+                "ref:regon": "110711670",
+                "ref:vatin": "PL9221302968",
+                "operator": "Powiat Krasnostawski",
+                "operator:type": "government",
+                "amenity": "college",
+                "note": "Parent RSPO: 14625"
+            }
+        },
+        {
+            "id": 55758,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.83722,
+                    50.91527
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 55758,
+                "official_name": "Szko\u0142a Podstawowa w \u017b\u00f3\u0142kiewce",
+                "name": "Szko\u0142a Podstawowa w \u017b\u00f3\u0142kiewce",
+                "addr:country": "PL",
+                "addr:postcode": "22-335",
+                "addr:city": "\u017b\u00f3\u0142kiewka-Osada",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "3",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 907510,
+                "contact:phone": "+48 846831630",
+                "contact:email": "spzolkiewka@op.pl",
+                "contact:website": "http:\/\/www.spzolkiewka.edupage.org.pl",
+                "ref:regon": "000678015",
+                "ref:vatin": "PL5641575139",
+                "operator": "Gmina \u017b\u00f3\u0142kiewka",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 14625,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.166999816894,
+                    51
+                ]
+            },
+            "properties": {
+                "ref:rspo": 14625,
+                "official_name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 w \u017b\u00f3\u0142kiewce",
+                "name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 w \u017b\u00f3\u0142kiewce",
+                "addr:country": "PL",
+                "addr:postcode": "22-335",
+                "addr:place": "\u017b\u00f3\u0142kiewka-Osada",
+                "addr:housenumber": "46",
+                "addr:teryt:sym_ul": 907510,
+                "contact:phone": "+48 846831681",
+                "contact:email": "zspzolkiewka@op.pl",
+                "contact:website": "http:\/\/zspzolkiewka.pl",
+                "ref:regon": "950273780",
+                "ref:vatin": "PL9221302968",
+                "operator": "Powiat Krasnostawski",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 109405;112235;126089"
+            }
+        }
+    ]
+}

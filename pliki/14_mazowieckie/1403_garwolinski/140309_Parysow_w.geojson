@@ -1,1 +1,127 @@
-{"type":"FeatureCollection","features":[{"id":128133,"type":"Feature","geometry":{"type":"Point","coordinates":[21.68131,51.97689]},"properties":{"ref:rspo":128133,"official_name":"Zesp\u00f3\u0142 Plac\u00f3wek O\u015bwiatowych w Parysowie","name":"Zesp\u00f3\u0142 Plac\u00f3wek O\u015bwiatowych w Parysowie","addr:country":"PL","addr:postcode":"08-441","addr:city":"Parys\u00f3w","addr:street":"ul. Ksi\u0105\u017c\u0119ca","addr:housenumber":"11","addr:teryt:simc":10223,"addr:teryt:sym_ul":683743,"contact:phone":"+48 256855322","contact:email":"sp.parysow@gmail.com","ref:regon":"362146737","ref:vatin":"PL8262192654","operator":"Gmina Parys\u00f3w","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 4120;111011"}},{"id":4120,"type":"Feature","geometry":{"type":"Point","coordinates":[21.68131,51.976859999999995]},"properties":{"isced:level":"1;2","ref:rspo":4120,"official_name":"Publiczna Szko\u0142a Podstawowa","name":"Publiczna Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"08-441","addr:city":"Parys\u00f3w","addr:street":"ul. Ksi\u0105\u017c\u0119ca","addr:housenumber":"11","addr:teryt:simc":10223,"addr:teryt:sym_ul":683743,"contact:phone":"+48 256855322","contact:email":"sp.parysow@gmail.com","ref:regon":"000718039","operator":"Gmina Parys\u00f3w","operator:type":"government","amenity":"school","note":"Parent RSPO: 128133"}},{"id":111011,"type":"Feature","geometry":{"type":"Point","coordinates":[21.68234,51.97704]},"properties":{"ref:rspo":111011,"official_name":"Publiczne Przedszkole","name":"Publiczne Przedszkole","addr:country":"PL","addr:postcode":"08-441","addr:city":"Parys\u00f3w","addr:street":"ul. Ksi\u0105\u017c\u0119ca","addr:housenumber":"13 A","addr:teryt:simc":10223,"addr:teryt:sym_ul":683743,"contact:phone":"+48 256855328","contact:email":"sp.parysow@gmail.com","ref:regon":"005183703","operator":"Gmina Parys\u00f3w","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 128133"}},{"id":4121,"type":"Feature","geometry":{"type":"Point","coordinates":[21.61141,52.0049]},"properties":{"isced:level":"1;2","ref:rspo":4121,"official_name":"Publiczna Szko\u0142a Podstawowa","name":"Publiczna Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"08-441","addr:place":"Wola Starogrodzka","addr:housenumber":"102a","addr:teryt:sym_ul":683832,"contact:phone":"+48 256855546","contact:email":"sp.wolastarogrodzka@op.pl","ref:regon":"001124721","ref:vatin":"PL8261873240","operator":"Gmina Parys\u00f3w","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 128133,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.68131,
+                    51.97689
+                ]
+            },
+            "properties": {
+                "ref:rspo": 128133,
+                "official_name": "Zesp\u00f3\u0142 Plac\u00f3wek O\u015bwiatowych w Parysowie",
+                "name": "Zesp\u00f3\u0142 Plac\u00f3wek O\u015bwiatowych w Parysowie",
+                "addr:country": "PL",
+                "addr:postcode": "08-441",
+                "addr:city": "Parys\u00f3w",
+                "addr:street": "ul. Ksi\u0105\u017c\u0119ca",
+                "addr:housenumber": "11",
+                "addr:teryt:simc": 10223,
+                "addr:teryt:sym_ul": 683743,
+                "contact:phone": "+48 256855322",
+                "contact:email": "sp.parysow@gmail.com",
+                "ref:regon": "362146737",
+                "ref:vatin": "PL8262192654",
+                "operator": "Gmina Parys\u00f3w",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 4120;111011"
+            }
+        },
+        {
+            "id": 4120,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.68131,
+                    51.976859999999995
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 4120,
+                "official_name": "Publiczna Szko\u0142a Podstawowa",
+                "name": "Publiczna Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "08-441",
+                "addr:city": "Parys\u00f3w",
+                "addr:street": "ul. Ksi\u0105\u017c\u0119ca",
+                "addr:housenumber": "11",
+                "addr:teryt:simc": 10223,
+                "addr:teryt:sym_ul": 683743,
+                "contact:phone": "+48 256855322",
+                "contact:email": "sp.parysow@gmail.com",
+                "ref:regon": "000718039",
+                "operator": "Gmina Parys\u00f3w",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 128133"
+            }
+        },
+        {
+            "id": 111011,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.68234,
+                    51.97704
+                ]
+            },
+            "properties": {
+                "ref:rspo": 111011,
+                "official_name": "Publiczne Przedszkole",
+                "name": "Publiczne Przedszkole",
+                "addr:country": "PL",
+                "addr:postcode": "08-441",
+                "addr:city": "Parys\u00f3w",
+                "addr:street": "ul. Ksi\u0105\u017c\u0119ca",
+                "addr:housenumber": "13 A",
+                "addr:teryt:simc": 10223,
+                "addr:teryt:sym_ul": 683743,
+                "contact:phone": "+48 256855328",
+                "contact:email": "sp.parysow@gmail.com",
+                "ref:regon": "005183703",
+                "operator": "Gmina Parys\u00f3w",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 128133"
+            }
+        },
+        {
+            "id": 4121,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.61141,
+                    52.0049
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 4121,
+                "official_name": "Publiczna Szko\u0142a Podstawowa",
+                "name": "Publiczna Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "08-441",
+                "addr:place": "Wola Starogrodzka",
+                "addr:housenumber": "102a",
+                "addr:teryt:sym_ul": 683832,
+                "contact:phone": "+48 256855546",
+                "contact:email": "sp.wolastarogrodzka@op.pl",
+                "ref:regon": "001124721",
+                "ref:vatin": "PL8261873240",
+                "operator": "Gmina Parys\u00f3w",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

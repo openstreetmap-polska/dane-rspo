@@ -1,1 +1,153 @@
-{"type":"FeatureCollection","features":[{"id":278994,"type":"Feature","geometry":{"type":"Point","coordinates":[15.02357,51.43553]},"properties":{"ref:rspo":278994,"official_name":"417","name":"417","addr:country":"PL","addr:postcode":"68-132","addr:place":"Lipna","addr:housenumber":"51","addr:teryt:sym_ul":912907,"contact:phone":"+48 669194243","contact:email":"scat@scat.pl","contact:website":"http:\/\/scat.pl","ref:regon":"520362545","operator":"Mariusz Pakie\u0142a","operator:type":"private","fixme":"w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. amenity=training + training=*, amenity=dancing_school, amenity=language_school, amenity=music_school)"}},{"id":278995,"type":"Feature","geometry":{"type":"Point","coordinates":[15.02357,51.4355]},"properties":{"ref:rspo":278995,"official_name":"Scat","name":"Scat","addr:country":"PL","addr:postcode":"68-132","addr:place":"Lipna","addr:housenumber":"51","addr:teryt:sym_ul":912907,"contact:phone":"+48 601658417","contact:email":"biuro@marokat.pl","contact:website":"http:\/\/scat.pl","ref:regon":"520362657","operator":"Mariusz Pakie\u0142a","operator:type":"private","fixme":"w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. amenity=training + training=*, amenity=dancing_school, amenity=language_school, amenity=music_school)"}},{"id":47283,"type":"Feature","geometry":{"type":"Point","coordinates":[14.94907,51.47538]},"properties":{"ref:rspo":47283,"official_name":"Gminne Przedszkole w Przewozie","name":"Gminne Przedszkole w Przewozie","addr:country":"PL","addr:postcode":"68-132","addr:city":"Przew\u00f3z","addr:street":"ul. Wojska Polskiego","addr:housenumber":"2","addr:teryt:simc":24628,"addr:teryt:sym_ul":912959,"contact:phone":"+48 683623270","contact:email":"gpwprzewozie@wp.pl","ref:regon":"000907881","ref:vatin":"PL9282076199","operator":"Gmina Przew\u00f3z","operator:type":"government","amenity":"kindergarten"}},{"id":109966,"type":"Feature","geometry":{"type":"Point","coordinates":[14.949999809265,51.477779388428]},"properties":{"isced:level":"1;2","ref:rspo":109966,"official_name":"Szko\u0142a Podstawowa im. Kpt. Stanis\u0142awa Betleja","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"68-132","addr:city":"Przew\u00f3z","addr:street":"ul. Pocztowa","addr:housenumber":"5","addr:teryt:simc":16579,"addr:teryt:sym_ul":912959,"contact:phone":"+48 683623285","contact:email":"spprzewoz@przewoz.com.pl","contact:website":"http:\/\/www.spprzewoz.edu.pl","ref:regon":"970570953","ref:vatin":"PL9282002396","operator":"Gmina Przew\u00f3z","operator:type":"government","amenity":"school","note":"Children RSPO: 276564"}},{"id":276564,"type":"Feature","geometry":{"type":"Point","coordinates":[14.94709,51.54601]},"properties":{"isced:level":"1;2","ref:rspo":276564,"official_name":"Szko\u0142a Filialna w Piotrowie","name":"Szko\u0142a Filialna w Piotrowie","addr:country":"PL","addr:postcode":"68-132","addr:place":"Piotr\u00f3w","addr:housenumber":"13","addr:teryt:sym_ul":912936,"contact:phone":"+48 683751038","contact:email":"sppiotrow13@wp.pl","ref:regon":"970570953","operator":"Gmina Przew\u00f3z","operator:type":"government","amenity":"school","note":"Parent RSPO: 109966"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 278994,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.02357,
+                    51.43553
+                ]
+            },
+            "properties": {
+                "ref:rspo": 278994,
+                "official_name": "417",
+                "name": "417",
+                "addr:country": "PL",
+                "addr:postcode": "68-132",
+                "addr:place": "Lipna",
+                "addr:housenumber": "51",
+                "addr:teryt:sym_ul": 912907,
+                "contact:phone": "+48 669194243",
+                "contact:email": "scat@scat.pl",
+                "contact:website": "http:\/\/scat.pl",
+                "ref:regon": "520362545",
+                "operator": "Mariusz Pakie\u0142a",
+                "operator:type": "private",
+                "fixme": "w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. amenity=training + training=*, amenity=dancing_school, amenity=language_school, amenity=music_school)"
+            }
+        },
+        {
+            "id": 278995,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.02357,
+                    51.4355
+                ]
+            },
+            "properties": {
+                "ref:rspo": 278995,
+                "official_name": "Scat",
+                "name": "Scat",
+                "addr:country": "PL",
+                "addr:postcode": "68-132",
+                "addr:place": "Lipna",
+                "addr:housenumber": "51",
+                "addr:teryt:sym_ul": 912907,
+                "contact:phone": "+48 601658417",
+                "contact:email": "biuro@marokat.pl",
+                "contact:website": "http:\/\/scat.pl",
+                "ref:regon": "520362657",
+                "operator": "Mariusz Pakie\u0142a",
+                "operator:type": "private",
+                "fixme": "w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. amenity=training + training=*, amenity=dancing_school, amenity=language_school, amenity=music_school)"
+            }
+        },
+        {
+            "id": 47283,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.94907,
+                    51.47538
+                ]
+            },
+            "properties": {
+                "ref:rspo": 47283,
+                "official_name": "Gminne Przedszkole w Przewozie",
+                "name": "Gminne Przedszkole w Przewozie",
+                "addr:country": "PL",
+                "addr:postcode": "68-132",
+                "addr:city": "Przew\u00f3z",
+                "addr:street": "ul. Wojska Polskiego",
+                "addr:housenumber": "2",
+                "addr:teryt:simc": 24628,
+                "addr:teryt:sym_ul": 912959,
+                "contact:phone": "+48 683623270",
+                "contact:email": "gpwprzewozie@wp.pl",
+                "ref:regon": "000907881",
+                "ref:vatin": "PL9282076199",
+                "operator": "Gmina Przew\u00f3z",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 109966,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.949999809265,
+                    51.477779388428
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 109966,
+                "official_name": "Szko\u0142a Podstawowa im. Kpt. Stanis\u0142awa Betleja",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "68-132",
+                "addr:city": "Przew\u00f3z",
+                "addr:street": "ul. Pocztowa",
+                "addr:housenumber": "5",
+                "addr:teryt:simc": 16579,
+                "addr:teryt:sym_ul": 912959,
+                "contact:phone": "+48 683623285",
+                "contact:email": "spprzewoz@przewoz.com.pl",
+                "contact:website": "http:\/\/www.spprzewoz.edu.pl",
+                "ref:regon": "970570953",
+                "ref:vatin": "PL9282002396",
+                "operator": "Gmina Przew\u00f3z",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Children RSPO: 276564"
+            }
+        },
+        {
+            "id": 276564,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.94709,
+                    51.54601
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 276564,
+                "official_name": "Szko\u0142a Filialna w Piotrowie",
+                "name": "Szko\u0142a Filialna w Piotrowie",
+                "addr:country": "PL",
+                "addr:postcode": "68-132",
+                "addr:place": "Piotr\u00f3w",
+                "addr:housenumber": "13",
+                "addr:teryt:sym_ul": 912936,
+                "contact:phone": "+48 683751038",
+                "contact:email": "sppiotrow13@wp.pl",
+                "ref:regon": "970570953",
+                "operator": "Gmina Przew\u00f3z",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 109966"
+            }
+        }
+    ]
+}

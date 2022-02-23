@@ -1,1 +1,239 @@
-{"type":"FeatureCollection","features":[{"id":82636,"type":"Feature","geometry":{"type":"Point","coordinates":[21.8134799,52.28031]},"properties":{"ref:rspo":82636,"official_name":"M\u0142odzie\u017cowy O\u015brodek Wychowawczy im. Czes\u0142awa Czap\u00f3wa w Jaworku","name":"M\u0142odzie\u017cowy O\u015brodek Wychowawczy","addr:country":"PL","addr:postcode":"07-111","addr:place":"Jaworek","addr:housenumber":"32","addr:teryt:sym_ul":693523,"contact:phone":"+48 257934730","contact:email":"mow.jaworek.32@gmail.com","ref:regon":"140963738","ref:vatin":"PL8241747354","operator":"Powiat W\u0119growski","operator:type":"government","fixme":"amenity=social facility + social_facility=group_home + social_facility:for=juvenile","note":"Children RSPO: 126772;127764"}},{"id":126772,"type":"Feature","geometry":{"type":"Point","coordinates":[21.8134799,52.28028]},"properties":{"isced:level":"1;2","ref:rspo":126772,"official_name":"Szko\u0142a Podstawowa Specjalna w Jaworku","name":"Szko\u0142a Podstawowa Specjalna w Jaworku","addr:country":"PL","addr:postcode":"07-111","addr:place":"Jaworek","addr:housenumber":"32","addr:teryt:sym_ul":693523,"contact:phone":"+48 257934730","contact:email":"mow.jaworek.32@gmail.com","ref:regon":"141030842","ref:vatin":"PL8241747354","operator":"Powiat W\u0119growski","operator:type":"government","amenity":"school","note":"Parent RSPO: 82636"}},{"id":127764,"type":"Feature","geometry":{"type":"Point","coordinates":[21.8134799,52.28025]},"properties":{"isced:level":"3","ref:rspo":127764,"official_name":"Bran\u017cowa Szko\u0142a I Stopnia w Jaworku","name":"Bran\u017cowa Szko\u0142a I Stopnia w Jaworku","addr:country":"PL","addr:postcode":"07-111","addr:place":"Jaworek","addr:housenumber":"32","addr:teryt:sym_ul":693523,"contact:phone":"+48 257934730","contact:email":"mow.jaworek.32@gmail.com","contact:website":"http:\/\/www.mowjaworek.pl","ref:regon":"361837422","ref:vatin":"PL8241747354","operator":"Powiat W\u0119growski","operator:type":"government","amenity":"school","note":"Parent RSPO: 82636"}},{"id":93105,"type":"Feature","geometry":{"type":"Point","coordinates":[21.85833,52.3037]},"properties":{"isced:level":"1;2","ref:rspo":93105,"official_name":"Szko\u0142a Podstawowa w Wierzbnie","name":"Szko\u0142a Podstawowa w Wierzbnie","addr:country":"PL","addr:postcode":"07-111","addr:place":"Wierzbno","addr:housenumber":"48","addr:teryt:sym_ul":693760,"contact:phone":"+48 257934704","contact:email":"gimwierzbno@wp.pl","ref:regon":"000720148","ref:vatin":"PL8241602420","operator":"Gmina Wierzbno","operator:type":"government","amenity":"school"}},{"id":103975,"type":"Feature","geometry":{"type":"Point","coordinates":[21.85833,52.30367]},"properties":{"ref:rspo":103975,"official_name":"Punkt Przedszkolny","name":"Punkt Przedszkolny","addr:country":"PL","addr:postcode":"07-111","addr:place":"Wierzbno","addr:housenumber":"48","addr:teryt:sym_ul":693760,"contact:phone":"+48 257934704","contact:email":"gimwierzbno@wp.pl","ref:regon":"146457605","operator":"Gmina Wierzbno","operator:type":"government","amenity":"kindergarten"}},{"id":274554,"type":"Feature","geometry":{"type":"Point","coordinates":[21.96929,52.40665]},"properties":{"ref:rspo":274554,"official_name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w Krypach","name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w Krypach","addr:country":"PL","addr:postcode":"07-111","addr:place":"Krypy","addr:housenumber":"59","addr:teryt:sym_ul":693575,"contact:phone":"+48 256918915","contact:email":"szkolakrypy@o2.pl","ref:regon":"385954391","ref:vatin":"PL8241810785","operator":"Gmina Wierzbno","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 80487;93107"}},{"id":80487,"type":"Feature","geometry":{"type":"Point","coordinates":[21.96929,52.40662]},"properties":{"ref:rspo":80487,"official_name":"Publiczne Przedszkole w Krypach","name":"Publiczne Przedszkole w Krypach","addr:country":"PL","addr:postcode":"07-111","addr:place":"Krypy","addr:housenumber":"59","addr:teryt:sym_ul":693575,"contact:phone":"+48 256918914","ref:regon":"710007171","ref:vatin":"PL8241602590","operator":"Gmina Wierzbno","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 274554"}},{"id":93107,"type":"Feature","geometry":{"type":"Point","coordinates":[21.96929,52.40659]},"properties":{"isced:level":"1;2","ref:rspo":93107,"official_name":"Szko\u0142a Podstawowa w Krypach","name":"Szko\u0142a Podstawowa w Krypach","addr:country":"PL","addr:postcode":"07-111","addr:place":"Krypy","addr:housenumber":"59","addr:teryt:sym_ul":693575,"contact:phone":"+48 256918915","contact:email":"szkolakrypy@o2.pl","ref:regon":"001137149","ref:vatin":"PL8241602609","operator":"Gmina Wierzbno","operator:type":"government","amenity":"school","note":"Parent RSPO: 274554"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 82636,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.8134799,
+                    52.28031
+                ]
+            },
+            "properties": {
+                "ref:rspo": 82636,
+                "official_name": "M\u0142odzie\u017cowy O\u015brodek Wychowawczy im. Czes\u0142awa Czap\u00f3wa w Jaworku",
+                "name": "M\u0142odzie\u017cowy O\u015brodek Wychowawczy",
+                "addr:country": "PL",
+                "addr:postcode": "07-111",
+                "addr:place": "Jaworek",
+                "addr:housenumber": "32",
+                "addr:teryt:sym_ul": 693523,
+                "contact:phone": "+48 257934730",
+                "contact:email": "mow.jaworek.32@gmail.com",
+                "ref:regon": "140963738",
+                "ref:vatin": "PL8241747354",
+                "operator": "Powiat W\u0119growski",
+                "operator:type": "government",
+                "fixme": "amenity=social_facility + social_facility=group_home + social_facility:for=juvenile",
+                "note": "Children RSPO: 126772;127764"
+            }
+        },
+        {
+            "id": 126772,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.8134799,
+                    52.28028
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 126772,
+                "official_name": "Szko\u0142a Podstawowa Specjalna w Jaworku",
+                "name": "Szko\u0142a Podstawowa Specjalna w Jaworku",
+                "addr:country": "PL",
+                "addr:postcode": "07-111",
+                "addr:place": "Jaworek",
+                "addr:housenumber": "32",
+                "addr:teryt:sym_ul": 693523,
+                "contact:phone": "+48 257934730",
+                "contact:email": "mow.jaworek.32@gmail.com",
+                "ref:regon": "141030842",
+                "ref:vatin": "PL8241747354",
+                "operator": "Powiat W\u0119growski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 82636"
+            }
+        },
+        {
+            "id": 127764,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.8134799,
+                    52.28025
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 127764,
+                "official_name": "Bran\u017cowa Szko\u0142a I Stopnia w Jaworku",
+                "name": "Bran\u017cowa Szko\u0142a I Stopnia w Jaworku",
+                "addr:country": "PL",
+                "addr:postcode": "07-111",
+                "addr:place": "Jaworek",
+                "addr:housenumber": "32",
+                "addr:teryt:sym_ul": 693523,
+                "contact:phone": "+48 257934730",
+                "contact:email": "mow.jaworek.32@gmail.com",
+                "contact:website": "http:\/\/www.mowjaworek.pl",
+                "ref:regon": "361837422",
+                "ref:vatin": "PL8241747354",
+                "operator": "Powiat W\u0119growski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 82636"
+            }
+        },
+        {
+            "id": 93105,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.85833,
+                    52.3037
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 93105,
+                "official_name": "Szko\u0142a Podstawowa w Wierzbnie",
+                "name": "Szko\u0142a Podstawowa w Wierzbnie",
+                "addr:country": "PL",
+                "addr:postcode": "07-111",
+                "addr:place": "Wierzbno",
+                "addr:housenumber": "48",
+                "addr:teryt:sym_ul": 693760,
+                "contact:phone": "+48 257934704",
+                "contact:email": "gimwierzbno@wp.pl",
+                "ref:regon": "000720148",
+                "ref:vatin": "PL8241602420",
+                "operator": "Gmina Wierzbno",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 103975,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.85833,
+                    52.30367
+                ]
+            },
+            "properties": {
+                "ref:rspo": 103975,
+                "official_name": "Punkt Przedszkolny",
+                "name": "Punkt Przedszkolny",
+                "addr:country": "PL",
+                "addr:postcode": "07-111",
+                "addr:place": "Wierzbno",
+                "addr:housenumber": "48",
+                "addr:teryt:sym_ul": 693760,
+                "contact:phone": "+48 257934704",
+                "contact:email": "gimwierzbno@wp.pl",
+                "ref:regon": "146457605",
+                "operator": "Gmina Wierzbno",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 274554,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.96929,
+                    52.40665
+                ]
+            },
+            "properties": {
+                "ref:rspo": 274554,
+                "official_name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w Krypach",
+                "name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w Krypach",
+                "addr:country": "PL",
+                "addr:postcode": "07-111",
+                "addr:place": "Krypy",
+                "addr:housenumber": "59",
+                "addr:teryt:sym_ul": 693575,
+                "contact:phone": "+48 256918915",
+                "contact:email": "szkolakrypy@o2.pl",
+                "ref:regon": "385954391",
+                "ref:vatin": "PL8241810785",
+                "operator": "Gmina Wierzbno",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 80487;93107"
+            }
+        },
+        {
+            "id": 80487,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.96929,
+                    52.40662
+                ]
+            },
+            "properties": {
+                "ref:rspo": 80487,
+                "official_name": "Publiczne Przedszkole w Krypach",
+                "name": "Publiczne Przedszkole w Krypach",
+                "addr:country": "PL",
+                "addr:postcode": "07-111",
+                "addr:place": "Krypy",
+                "addr:housenumber": "59",
+                "addr:teryt:sym_ul": 693575,
+                "contact:phone": "+48 256918914",
+                "ref:regon": "710007171",
+                "ref:vatin": "PL8241602590",
+                "operator": "Gmina Wierzbno",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 274554"
+            }
+        },
+        {
+            "id": 93107,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.96929,
+                    52.40659
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 93107,
+                "official_name": "Szko\u0142a Podstawowa w Krypach",
+                "name": "Szko\u0142a Podstawowa w Krypach",
+                "addr:country": "PL",
+                "addr:postcode": "07-111",
+                "addr:place": "Krypy",
+                "addr:housenumber": "59",
+                "addr:teryt:sym_ul": 693575,
+                "contact:phone": "+48 256918915",
+                "contact:email": "szkolakrypy@o2.pl",
+                "ref:regon": "001137149",
+                "ref:vatin": "PL8241602609",
+                "operator": "Gmina Wierzbno",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 274554"
+            }
+        }
+    ]
+}

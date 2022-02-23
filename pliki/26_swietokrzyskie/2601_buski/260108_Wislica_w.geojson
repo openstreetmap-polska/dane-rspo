@@ -1,1 +1,131 @@
-{"type":"FeatureCollection","features":[{"id":63448,"type":"Feature","geometry":{"type":"Point","coordinates":[20.67457,50.34699]},"properties":{"ref:rspo":63448,"official_name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w Wi\u015blicy","name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w Wi\u015blicy","addr:country":"PL","addr:postcode":"28-160","addr:city":"Wi\u015blica","addr:street":"ul. Podwale","addr:housenumber":"1","addr:teryt:simc":16874,"addr:teryt:sym_ul":277470,"contact:phone":"+48 413690970","contact:email":"spwislica@poczta.fm","contact:website":"http:\/\/www.zspwislica.szkolnastrona.pl","ref:regon":"260525497","ref:vatin":"PL6551968539","operator":"Gmina Wi\u015blica","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 111494;111495"}},{"id":111494,"type":"Feature","geometry":{"type":"Point","coordinates":[20.67457,50.346959999999996]},"properties":{"isced:level":"1;2","ref:rspo":111494,"official_name":"Szko\u0142a Podstawowa w Wi\u015blicy","name":"Szko\u0142a Podstawowa w Wi\u015blicy","addr:country":"PL","addr:postcode":"28-160","addr:city":"Wi\u015blica","addr:street":"ul. Podwale","addr:housenumber":"1","addr:teryt:simc":16874,"addr:teryt:sym_ul":277470,"contact:phone":"+48 413690970","contact:email":"spwislica@poczta.fm","contact:website":"http:\/\/zspwislica.szkolnastrona.pl","ref:regon":"000273927","ref:vatin":"PL6551779488","operator":"Gmina Wi\u015blica","operator:type":"government","amenity":"school","note":"Parent RSPO: 63448"}},{"id":111495,"type":"Feature","geometry":{"type":"Point","coordinates":[20.67457,50.34693]},"properties":{"ref:rspo":111495,"official_name":"Samorz\u0105dowe Przedszkole w Wi\u015blicy","name":"Samorz\u0105dowe Przedszkole w Wi\u015blicy","addr:country":"PL","addr:postcode":"28-160","addr:city":"Wi\u015blica","addr:street":"ul. Podwale","addr:housenumber":"1","addr:teryt:simc":16874,"addr:teryt:sym_ul":277470,"contact:phone":"+48 413690974","contact:email":"spwislica@poczta.fm","ref:regon":"290012917","ref:vatin":"PL6551283706","operator":"Gmina Wi\u015blica","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 63448"}},{"id":63447,"type":"Feature","geometry":{"type":"Point","coordinates":[20.641334,50.411083]},"properties":{"isced:level":"1;2","ref:rspo":63447,"official_name":"Szko\u0142a Podstawowa w Skotnikach Dolnych","name":"Szko\u0142a Podstawowa w Skotnikach Dolnych","addr:country":"PL","addr:postcode":"28-160","addr:place":"Skotniki Dolne","addr:housenumber":"41","addr:teryt:sym_ul":277374,"contact:phone":"+48 413792615","contact:email":"sp.skotniki-dolne@wp.pl","ref:regon":"001218221","ref:vatin":"PL6551778856","operator":"Gmina Wi\u015blica","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 63448,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.67457,
+                    50.34699
+                ]
+            },
+            "properties": {
+                "ref:rspo": 63448,
+                "official_name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w Wi\u015blicy",
+                "name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w Wi\u015blicy",
+                "addr:country": "PL",
+                "addr:postcode": "28-160",
+                "addr:city": "Wi\u015blica",
+                "addr:street": "ul. Podwale",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 16874,
+                "addr:teryt:sym_ul": 277470,
+                "contact:phone": "+48 413690970",
+                "contact:email": "spwislica@poczta.fm",
+                "contact:website": "http:\/\/www.zspwislica.szkolnastrona.pl",
+                "ref:regon": "260525497",
+                "ref:vatin": "PL6551968539",
+                "operator": "Gmina Wi\u015blica",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 111494;111495"
+            }
+        },
+        {
+            "id": 111494,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.67457,
+                    50.346959999999996
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 111494,
+                "official_name": "Szko\u0142a Podstawowa w Wi\u015blicy",
+                "name": "Szko\u0142a Podstawowa w Wi\u015blicy",
+                "addr:country": "PL",
+                "addr:postcode": "28-160",
+                "addr:city": "Wi\u015blica",
+                "addr:street": "ul. Podwale",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 16874,
+                "addr:teryt:sym_ul": 277470,
+                "contact:phone": "+48 413690970",
+                "contact:email": "spwislica@poczta.fm",
+                "contact:website": "http:\/\/zspwislica.szkolnastrona.pl",
+                "ref:regon": "000273927",
+                "ref:vatin": "PL6551779488",
+                "operator": "Gmina Wi\u015blica",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 63448"
+            }
+        },
+        {
+            "id": 111495,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.67457,
+                    50.34693
+                ]
+            },
+            "properties": {
+                "ref:rspo": 111495,
+                "official_name": "Samorz\u0105dowe Przedszkole w Wi\u015blicy",
+                "name": "Samorz\u0105dowe Przedszkole w Wi\u015blicy",
+                "addr:country": "PL",
+                "addr:postcode": "28-160",
+                "addr:city": "Wi\u015blica",
+                "addr:street": "ul. Podwale",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 16874,
+                "addr:teryt:sym_ul": 277470,
+                "contact:phone": "+48 413690974",
+                "contact:email": "spwislica@poczta.fm",
+                "ref:regon": "290012917",
+                "ref:vatin": "PL6551283706",
+                "operator": "Gmina Wi\u015blica",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 63448"
+            }
+        },
+        {
+            "id": 63447,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.641334,
+                    50.411083
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 63447,
+                "official_name": "Szko\u0142a Podstawowa w Skotnikach Dolnych",
+                "name": "Szko\u0142a Podstawowa w Skotnikach Dolnych",
+                "addr:country": "PL",
+                "addr:postcode": "28-160",
+                "addr:place": "Skotniki Dolne",
+                "addr:housenumber": "41",
+                "addr:teryt:sym_ul": 277374,
+                "contact:phone": "+48 413792615",
+                "contact:email": "sp.skotniki-dolne@wp.pl",
+                "ref:regon": "001218221",
+                "ref:vatin": "PL6551778856",
+                "operator": "Gmina Wi\u015blica",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

@@ -1,1 +1,198 @@
-{"type":"FeatureCollection","features":[{"id":22850,"type":"Feature","geometry":{"type":"Point","coordinates":[22.16456,52.21799]},"properties":{"ref:rspo":22850,"official_name":"Gminne Przedszkole","name":"Gminne Przedszkole","addr:country":"PL","addr:postcode":"08-124","addr:city":"Niwiski","addr:street":"ul. Browarna","addr:housenumber":"1","addr:teryt:simc":2148,"addr:teryt:sym_ul":682198,"contact:phone":"+48 256314328","contact:email":"zsp@niwiski.edu.pl","contact:website":"http:\/\/www.niwiski.edu.pl","ref:regon":"142173963","operator":"Gmina Mokobody","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 15998"}},{"id":15998,"type":"Feature","geometry":{"type":"Point","coordinates":[22.17021,52.2206]},"properties":{"ref:rspo":15998,"official_name":"Zesp\u00f3\u0142 Szkolno Przedszkolny w Niwskach","name":"Zesp\u00f3\u0142 Szkolno Przedszkolny w Niwskach","addr:country":"PL","addr:postcode":"08-124","addr:city":"Niwiski","addr:street":"ul. Rynek","addr:housenumber":"21","addr:teryt:simc":19253,"addr:teryt:sym_ul":682198,"contact:phone":"+48 256314328","contact:email":"zsp@niwiski.edu.pl","contact:website":"http:\/\/www.niwiski.edu.pl","ref:regon":"142173911","ref:vatin":"PL8212587304","operator":"Gmina Mokobody","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 22683;22850"}},{"id":22683,"type":"Feature","geometry":{"type":"Point","coordinates":[22.17021,52.220569999999995]},"properties":{"isced:level":"1;2","ref:rspo":22683,"official_name":"Publiczna Szko\u0142a Podstawowa","name":"Publiczna Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"08-124","addr:city":"Niwiski","addr:street":"ul. Rynek","addr:housenumber":"21","addr:teryt:simc":19253,"addr:teryt:sym_ul":682198,"contact:phone":"+48 256314328","contact:email":"zsp@niwiski.edu.pl","contact:website":"http:\/\/www.niwiski.edu.pl","ref:regon":"001124833","operator":"Gmina Mokobody","operator:type":"government","amenity":"school","note":"Parent RSPO: 15998"}},{"id":196370,"type":"Feature","geometry":{"type":"Point","coordinates":[22.11164,52.2683899]},"properties":{"ref:rspo":196370,"official_name":"Zesp\u00f3\u0142 O\u015bwiatowy w Mokobodach","name":"Zesp\u00f3\u0142 O\u015bwiatowy w Mokobodach","addr:country":"PL","addr:postcode":"08-124","addr:city":"Mokobody","addr:street":"ul. Wiatraczna","addr:housenumber":"14","addr:teryt:simc":23972,"addr:teryt:sym_ul":682175,"contact:phone":"+48 256411327","contact:email":"zomok@pspmokobody.edu.pl","contact:website":"http:\/\/www.pspmokobody.edu.pl","ref:regon":"367997569","operator":"Gmina Mokobody","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 15810;15881"}},{"id":15810,"type":"Feature","geometry":{"type":"Point","coordinates":[22.11164,52.2683599]},"properties":{"isced:level":"1;2","ref:rspo":15810,"official_name":"Publiczna Szko\u0142a Podstawowa","name":"Publiczna Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"08-124","addr:city":"Mokobody","addr:street":"ul. Wiatraczna","addr:housenumber":"14","addr:teryt:simc":23972,"addr:teryt:sym_ul":682175,"contact:phone":"+48 256411327","contact:email":"zomok@pspmokobody.edu.pl","contact:website":"http:\/\/www.pspmokobody.edu.pl","ref:regon":"000559457","ref:vatin":"PL8212177078","operator":"Gmina Mokobody","operator:type":"government","amenity":"school","note":"Parent RSPO: 196370"}},{"id":15881,"type":"Feature","geometry":{"type":"Point","coordinates":[22.11164,52.268329900000005]},"properties":{"ref:rspo":15881,"official_name":"Gminne Przedszkole","name":"Gminne Przedszkole","addr:country":"PL","addr:postcode":"08-124","addr:city":"Mokobody","addr:street":"ul. Wiatraczna","addr:housenumber":"14","addr:teryt:simc":23972,"addr:teryt:sym_ul":682175,"contact:phone":"+48 256411327","contact:email":"zomok@pspmokobody.pl","contact:website":"http:\/\/www.pspmokobody.edu.pl","ref:regon":"710006786","ref:vatin":"PL8212179692","operator":"Gmina Mokobody","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 196370"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 22850,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.16456,
+                    52.21799
+                ]
+            },
+            "properties": {
+                "ref:rspo": 22850,
+                "official_name": "Gminne Przedszkole",
+                "name": "Gminne Przedszkole",
+                "addr:country": "PL",
+                "addr:postcode": "08-124",
+                "addr:city": "Niwiski",
+                "addr:street": "ul. Browarna",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 2148,
+                "addr:teryt:sym_ul": 682198,
+                "contact:phone": "+48 256314328",
+                "contact:email": "zsp@niwiski.edu.pl",
+                "contact:website": "http:\/\/www.niwiski.edu.pl",
+                "ref:regon": "142173963",
+                "operator": "Gmina Mokobody",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 15998"
+            }
+        },
+        {
+            "id": 15998,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.17021,
+                    52.2206
+                ]
+            },
+            "properties": {
+                "ref:rspo": 15998,
+                "official_name": "Zesp\u00f3\u0142 Szkolno Przedszkolny w Niwskach",
+                "name": "Zesp\u00f3\u0142 Szkolno Przedszkolny w Niwskach",
+                "addr:country": "PL",
+                "addr:postcode": "08-124",
+                "addr:city": "Niwiski",
+                "addr:street": "ul. Rynek",
+                "addr:housenumber": "21",
+                "addr:teryt:simc": 19253,
+                "addr:teryt:sym_ul": 682198,
+                "contact:phone": "+48 256314328",
+                "contact:email": "zsp@niwiski.edu.pl",
+                "contact:website": "http:\/\/www.niwiski.edu.pl",
+                "ref:regon": "142173911",
+                "ref:vatin": "PL8212587304",
+                "operator": "Gmina Mokobody",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 22683;22850"
+            }
+        },
+        {
+            "id": 22683,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.17021,
+                    52.220569999999995
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 22683,
+                "official_name": "Publiczna Szko\u0142a Podstawowa",
+                "name": "Publiczna Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "08-124",
+                "addr:city": "Niwiski",
+                "addr:street": "ul. Rynek",
+                "addr:housenumber": "21",
+                "addr:teryt:simc": 19253,
+                "addr:teryt:sym_ul": 682198,
+                "contact:phone": "+48 256314328",
+                "contact:email": "zsp@niwiski.edu.pl",
+                "contact:website": "http:\/\/www.niwiski.edu.pl",
+                "ref:regon": "001124833",
+                "operator": "Gmina Mokobody",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 15998"
+            }
+        },
+        {
+            "id": 196370,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.11164,
+                    52.2683899
+                ]
+            },
+            "properties": {
+                "ref:rspo": 196370,
+                "official_name": "Zesp\u00f3\u0142 O\u015bwiatowy w Mokobodach",
+                "name": "Zesp\u00f3\u0142 O\u015bwiatowy w Mokobodach",
+                "addr:country": "PL",
+                "addr:postcode": "08-124",
+                "addr:city": "Mokobody",
+                "addr:street": "ul. Wiatraczna",
+                "addr:housenumber": "14",
+                "addr:teryt:simc": 23972,
+                "addr:teryt:sym_ul": 682175,
+                "contact:phone": "+48 256411327",
+                "contact:email": "zomok@pspmokobody.edu.pl",
+                "contact:website": "http:\/\/www.pspmokobody.edu.pl",
+                "ref:regon": "367997569",
+                "operator": "Gmina Mokobody",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 15810;15881"
+            }
+        },
+        {
+            "id": 15810,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.11164,
+                    52.2683599
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 15810,
+                "official_name": "Publiczna Szko\u0142a Podstawowa",
+                "name": "Publiczna Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "08-124",
+                "addr:city": "Mokobody",
+                "addr:street": "ul. Wiatraczna",
+                "addr:housenumber": "14",
+                "addr:teryt:simc": 23972,
+                "addr:teryt:sym_ul": 682175,
+                "contact:phone": "+48 256411327",
+                "contact:email": "zomok@pspmokobody.edu.pl",
+                "contact:website": "http:\/\/www.pspmokobody.edu.pl",
+                "ref:regon": "000559457",
+                "ref:vatin": "PL8212177078",
+                "operator": "Gmina Mokobody",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 196370"
+            }
+        },
+        {
+            "id": 15881,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.11164,
+                    52.268329900000005
+                ]
+            },
+            "properties": {
+                "ref:rspo": 15881,
+                "official_name": "Gminne Przedszkole",
+                "name": "Gminne Przedszkole",
+                "addr:country": "PL",
+                "addr:postcode": "08-124",
+                "addr:city": "Mokobody",
+                "addr:street": "ul. Wiatraczna",
+                "addr:housenumber": "14",
+                "addr:teryt:simc": 23972,
+                "addr:teryt:sym_ul": 682175,
+                "contact:phone": "+48 256411327",
+                "contact:email": "zomok@pspmokobody.pl",
+                "contact:website": "http:\/\/www.pspmokobody.edu.pl",
+                "ref:regon": "710006786",
+                "ref:vatin": "PL8212179692",
+                "operator": "Gmina Mokobody",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 196370"
+            }
+        }
+    ]
+}

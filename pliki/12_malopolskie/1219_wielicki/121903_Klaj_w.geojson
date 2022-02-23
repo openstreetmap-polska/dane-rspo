@@ -1,1 +1,238 @@
-{"type":"FeatureCollection","features":[{"id":54281,"type":"Feature","geometry":{"type":"Point","coordinates":[20.2602234,49.9767215]},"properties":{"isced:level":"1;2","ref:rspo":54281,"official_name":"Szko\u0142a Podstawowa Z Oddzia\u0142ami Integracyjnymi w Grodkowicach","name":"Szko\u0142a Podstawowa Z Oddzia\u0142ami Integracyjnymi w Grodkowicach","addr:country":"PL","addr:postcode":"32-015","addr:place":"Grodkowice","addr:housenumber":"80","addr:teryt:sym_ul":321744,"contact:phone":"+48 122845464","contact:email":"sp_grodkowice@poczta.fm","contact:website":"http:\/\/www.spgrodkowice.edupage.org","ref:regon":"001234013","ref:vatin":"PL6831838453","operator":"Gmina K\u0142aj","operator:type":"government","amenity":"school"}},{"id":85185,"type":"Feature","geometry":{"type":"Point","coordinates":[20.291659,49.9815149]},"properties":{"isced:level":"1;2","ref:rspo":85185,"official_name":"Szko\u0142a Podstawowa w Targowisku","name":"Szko\u0142a Podstawowa w Targowisku","addr:country":"PL","addr:postcode":"32-015","addr:place":"Targowisko","addr:housenumber":"313","addr:teryt:sym_ul":322040,"contact:phone":"+48 122841469","contact:email":"sp.targowisko@oswiata.eu","contact:website":"http:\/\/zsotargowisko.pl","ref:regon":"001234020","ref:vatin":"PL6831838536","operator":"Gmina K\u0142aj","operator:type":"government","amenity":"school"}},{"id":85187,"type":"Feature","geometry":{"type":"Point","coordinates":[20.308607,49.990092]},"properties":{"isced:level":"1;2","ref:rspo":85187,"official_name":"Szko\u0142a Podstawowa w K\u0142aju","name":"Szko\u0142a Podstawowa w K\u0142aju","addr:country":"PL","addr:postcode":"32-015","addr:place":"K\u0142aj","addr:housenumber":"361","addr:teryt:sym_ul":321750,"contact:phone":"+48 122841176","contact:email":"dyrekcja@spklaj.pl","contact:website":"http:\/\/spklaj.pl","ref:regon":"000703569","ref:vatin":"PL6831836307","operator":"Gmina K\u0142aj","operator:type":"government","amenity":"school"}},{"id":125066,"type":"Feature","geometry":{"type":"Point","coordinates":[20.308514,49.990336]},"properties":{"ref:rspo":125066,"official_name":"Niepubliczne Przedszkole \"Ogr\u00f3d Montessori\"","name":"Niepubliczne Przedszkole \"Ogr\u00f3d Montessori\"","addr:country":"PL","addr:postcode":"32-015","addr:place":"K\u0142aj","addr:housenumber":"1053","addr:teryt:sym_ul":321750,"contact:phone":"+48 508637958","contact:email":"ogrodmontessori@gmail.com","contact:website":"http:\/\/ogrodmontessori.pl","ref:regon":"123209667","ref:vatin":"PL6831667968","operator":"Ewa \u015aleszy\u0144ska","operator:type":"private","amenity":"kindergarten"}},{"id":54282,"type":"Feature","geometry":{"type":"Point","coordinates":[20.2987597,49.9952736]},"properties":{"ref:rspo":54282,"official_name":"Przedszkole Samorz\u0105dowe w K\u0142aju","name":"Przedszkole Samorz\u0105dowe w K\u0142aju","addr:country":"PL","addr:postcode":"32-015","addr:place":"K\u0142aj","addr:housenumber":"651","addr:teryt:sym_ul":321750,"contact:phone":"+48 122841287","contact:email":"przedszkoleklaj@op.pl","ref:regon":"350018440","ref:vatin":"PL6831838571","operator":"Gmina K\u0142aj","operator:type":"government","amenity":"kindergarten"}},{"id":85183,"type":"Feature","geometry":{"type":"Point","coordinates":[20.2635457,49.9960747]},"properties":{"isced:level":"1;2","ref:rspo":85183,"official_name":"Szko\u0142a Podstawowa w Szarowie","name":"Szko\u0142a Podstawowa w Szarowie","addr:country":"PL","addr:postcode":"32-014","addr:place":"Szar\u00f3w","addr:housenumber":"302","addr:teryt:sym_ul":322005,"contact:phone":"+48 122841199","contact:email":"sp.szarow@oswiata.eu","ref:regon":"001234007","ref:vatin":"PL6831838536","operator":"Gmina K\u0142aj","operator:type":"government","amenity":"school"}},{"id":54283,"type":"Feature","geometry":{"type":"Point","coordinates":[20.2511707,50.0014221]},"properties":{"ref:rspo":54283,"official_name":"Przedszkole Samorz\u0105dowe w D\u0105browie","name":"Przedszkole Samorz\u0105dowe w D\u0105browie","addr:country":"PL","addr:postcode":"32-014","addr:place":"D\u0105browa","addr:housenumber":"1","addr:teryt:sym_ul":321709,"contact:phone":"+48 122841332","contact:email":"przedszkoledabrowa@o2.pl","ref:regon":"350018463","ref:vatin":"PL6831838588","operator":"Gmina K\u0142aj","operator:type":"government","amenity":"kindergarten"}},{"id":85181,"type":"Feature","geometry":{"type":"Point","coordinates":[20.1895734,50.0184944]},"properties":{"isced:level":"1;2","ref:rspo":85181,"official_name":"Szko\u0142a Podstawowa w Brzeziu","name":"Szko\u0142a Podstawowa w Brzeziu","addr:country":"PL","addr:postcode":"32-014","addr:place":"Brzezie","addr:housenumber":"434","addr:teryt:sym_ul":321626,"contact:phone":"+48 122845011","contact:email":"sp.brzezie@oswiata.eu","ref:regon":"001234036","ref:vatin":"PL6831837318","operator":"Gmina K\u0142aj","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 54281,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.2602234,
+                    49.9767215
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 54281,
+                "official_name": "Szko\u0142a Podstawowa Z Oddzia\u0142ami Integracyjnymi w Grodkowicach",
+                "name": "Szko\u0142a Podstawowa Z Oddzia\u0142ami Integracyjnymi w Grodkowicach",
+                "addr:country": "PL",
+                "addr:postcode": "32-015",
+                "addr:place": "Grodkowice",
+                "addr:housenumber": "80",
+                "addr:teryt:sym_ul": 321744,
+                "contact:phone": "+48 122845464",
+                "contact:email": "sp_grodkowice@poczta.fm",
+                "contact:website": "http:\/\/www.spgrodkowice.edupage.org",
+                "ref:regon": "001234013",
+                "ref:vatin": "PL6831838453",
+                "operator": "Gmina K\u0142aj",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 85185,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.291659,
+                    49.9815149
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 85185,
+                "official_name": "Szko\u0142a Podstawowa w Targowisku",
+                "name": "Szko\u0142a Podstawowa w Targowisku",
+                "addr:country": "PL",
+                "addr:postcode": "32-015",
+                "addr:place": "Targowisko",
+                "addr:housenumber": "313",
+                "addr:teryt:sym_ul": 322040,
+                "contact:phone": "+48 122841469",
+                "contact:email": "sp.targowisko@oswiata.eu",
+                "contact:website": "http:\/\/zsotargowisko.pl",
+                "ref:regon": "001234020",
+                "ref:vatin": "PL6831838536",
+                "operator": "Gmina K\u0142aj",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 85187,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.308607,
+                    49.990092
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 85187,
+                "official_name": "Szko\u0142a Podstawowa w K\u0142aju",
+                "name": "Szko\u0142a Podstawowa w K\u0142aju",
+                "addr:country": "PL",
+                "addr:postcode": "32-015",
+                "addr:place": "K\u0142aj",
+                "addr:housenumber": "361",
+                "addr:teryt:sym_ul": 321750,
+                "contact:phone": "+48 122841176",
+                "contact:email": "dyrekcja@spklaj.pl",
+                "contact:website": "http:\/\/spklaj.pl",
+                "ref:regon": "000703569",
+                "ref:vatin": "PL6831836307",
+                "operator": "Gmina K\u0142aj",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 125066,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.308514,
+                    49.990336
+                ]
+            },
+            "properties": {
+                "ref:rspo": 125066,
+                "official_name": "Niepubliczne Przedszkole \"Ogr\u00f3d Montessori\"",
+                "name": "Niepubliczne Przedszkole \"Ogr\u00f3d Montessori\"",
+                "addr:country": "PL",
+                "addr:postcode": "32-015",
+                "addr:place": "K\u0142aj",
+                "addr:housenumber": "1053",
+                "addr:teryt:sym_ul": 321750,
+                "contact:phone": "+48 508637958",
+                "contact:email": "ogrodmontessori@gmail.com",
+                "contact:website": "http:\/\/ogrodmontessori.pl",
+                "ref:regon": "123209667",
+                "ref:vatin": "PL6831667968",
+                "operator": "Ewa \u015aleszy\u0144ska",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 54282,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.2987597,
+                    49.9952736
+                ]
+            },
+            "properties": {
+                "ref:rspo": 54282,
+                "official_name": "Przedszkole Samorz\u0105dowe w K\u0142aju",
+                "name": "Przedszkole Samorz\u0105dowe w K\u0142aju",
+                "addr:country": "PL",
+                "addr:postcode": "32-015",
+                "addr:place": "K\u0142aj",
+                "addr:housenumber": "651",
+                "addr:teryt:sym_ul": 321750,
+                "contact:phone": "+48 122841287",
+                "contact:email": "przedszkoleklaj@op.pl",
+                "ref:regon": "350018440",
+                "ref:vatin": "PL6831838571",
+                "operator": "Gmina K\u0142aj",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 85183,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.2635457,
+                    49.9960747
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 85183,
+                "official_name": "Szko\u0142a Podstawowa w Szarowie",
+                "name": "Szko\u0142a Podstawowa w Szarowie",
+                "addr:country": "PL",
+                "addr:postcode": "32-014",
+                "addr:place": "Szar\u00f3w",
+                "addr:housenumber": "302",
+                "addr:teryt:sym_ul": 322005,
+                "contact:phone": "+48 122841199",
+                "contact:email": "sp.szarow@oswiata.eu",
+                "ref:regon": "001234007",
+                "ref:vatin": "PL6831838536",
+                "operator": "Gmina K\u0142aj",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 54283,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.2511707,
+                    50.0014221
+                ]
+            },
+            "properties": {
+                "ref:rspo": 54283,
+                "official_name": "Przedszkole Samorz\u0105dowe w D\u0105browie",
+                "name": "Przedszkole Samorz\u0105dowe w D\u0105browie",
+                "addr:country": "PL",
+                "addr:postcode": "32-014",
+                "addr:place": "D\u0105browa",
+                "addr:housenumber": "1",
+                "addr:teryt:sym_ul": 321709,
+                "contact:phone": "+48 122841332",
+                "contact:email": "przedszkoledabrowa@o2.pl",
+                "ref:regon": "350018463",
+                "ref:vatin": "PL6831838588",
+                "operator": "Gmina K\u0142aj",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 85181,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.1895734,
+                    50.0184944
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 85181,
+                "official_name": "Szko\u0142a Podstawowa w Brzeziu",
+                "name": "Szko\u0142a Podstawowa w Brzeziu",
+                "addr:country": "PL",
+                "addr:postcode": "32-014",
+                "addr:place": "Brzezie",
+                "addr:housenumber": "434",
+                "addr:teryt:sym_ul": 321626,
+                "contact:phone": "+48 122845011",
+                "contact:email": "sp.brzezie@oswiata.eu",
+                "ref:regon": "001234036",
+                "ref:vatin": "PL6831837318",
+                "operator": "Gmina K\u0142aj",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

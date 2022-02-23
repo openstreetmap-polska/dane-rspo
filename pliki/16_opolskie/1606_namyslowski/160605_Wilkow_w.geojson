@@ -1,1 +1,220 @@
-{"type":"FeatureCollection","features":[{"id":6106,"type":"Feature","geometry":{"type":"Point","coordinates":[17.64111,51.08431]},"properties":{"isced:level":"1;2","ref:rspo":6106,"official_name":"Publiczna Szko\u0142a Podstawowa Stowarzyszenia Przyjaci\u00f3\u0142 Szk\u00f3\u0142 Katolickich im. Powsta\u0144c\u00f3w \u015aL\u0105skich w D\u0119bniku","name":"Publiczna Szko\u0142a Podstawowa Stowarzyszenia Przyjaci\u00f3\u0142 Szk\u00f3\u0142 Katolickich","addr:country":"PL","addr:postcode":"46-113","addr:place":"D\u0119bnik","addr:housenumber":"14a","addr:teryt:sym_ul":504723,"contact:phone":"+48 774195242","contact:email":"spdebnik@go2.pl","contact:website":"https:\/\/debnik.spsk.info.pl","ref:regon":"161477964","ref:vatin":"PL7521340682","operator":"Stowarzyszenie Przyjaci\u00f3\u0142 Szk\u00f3\u0142 Katolickich","operator:type":"ngo","amenity":"school"}},{"id":6105,"type":"Feature","geometry":{"type":"Point","coordinates":[17.66053,51.0990899]},"properties":{"ref:rspo":6105,"official_name":"Publiczne Przedszkole w Wilkowie","name":"Publiczne Przedszkole w Wilkowie","addr:country":"PL","addr:postcode":"46-113","addr:city":"Wilk\u00f3w","addr:street":"ul. Kolejowa","addr:housenumber":"17","addr:teryt:simc":8828,"addr:teryt:sym_ul":504829,"contact:phone":"+48 774195506","contact:email":"przedszkole@wilkow.pl","ref:regon":"530583416","ref:vatin":"PL7521355991","operator":"Gmina Wilk\u00f3w","operator:type":"government","amenity":"kindergarten"}},{"id":196224,"type":"Feature","geometry":{"type":"Point","coordinates":[17.66953,51.10862]},"properties":{"isced:level":"1;2","ref:rspo":196224,"official_name":"Publiczna Szko\u0142a Podstawowa w Wilkowie","name":"Publiczna Szko\u0142a Podstawowa w Wilkowie","addr:country":"PL","addr:postcode":"46-113","addr:city":"Wilk\u00f3w","addr:street":"ul. D\u0142uga","addr:housenumber":"38","addr:teryt:simc":3839,"addr:teryt:sym_ul":504829,"contact:phone":"+48 774195192","contact:email":"sekretariat@wilkowszkola.pl","contact:website":"http:\/\/www.wilkowszkola.szkolnastrona.pl","ref:regon":"367988895","operator":"Gmina Wilk\u00f3w","operator:type":"government","amenity":"school"}},{"id":6101,"type":"Feature","geometry":{"type":"Point","coordinates":[17.58022,51.14305]},"properties":{"isced:level":"1;2","ref:rspo":6101,"official_name":"Publiczna Szko\u0142a Podstawowa w Bukowiu","name":"Publiczna Szko\u0142a Podstawowa w Bukowiu","addr:country":"PL","addr:postcode":"46-113","addr:city":"Bukowie","addr:street":"ul. Lipowa","addr:housenumber":"54","addr:teryt:simc":11139,"addr:teryt:sym_ul":504700,"contact:phone":"+48 774195222","contact:email":"spbukowie@o2.pl","contact:website":"http:\/\/pspbukowie.pl","ref:regon":"001195922","ref:vatin":"PL7521355732","operator":"Gmina Wilk\u00f3w","operator:type":"government","amenity":"school"}},{"id":6103,"type":"Feature","geometry":{"type":"Point","coordinates":[17.69901,51.14821]},"properties":{"ref:rspo":6103,"official_name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w Idzikowicach","name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w Idzikowicach","addr:country":"PL","addr:postcode":"46-113","addr:place":"Idzikowice","addr:housenumber":"24","addr:teryt:sym_ul":504730,"contact:phone":"+48 774195610","contact:email":"sekretariat@zspidzikowice.pl","contact:website":"http:\/\/zspidzikowice.szkolnastrona.pl","ref:regon":"161432884","ref:vatin":"PL7521450175","operator":"Gmina Wilk\u00f3w","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 6102;6104"}},{"id":6102,"type":"Feature","geometry":{"type":"Point","coordinates":[17.69901,51.148179999999996]},"properties":{"ref:rspo":6102,"official_name":"Publiczne Przedszkole w Idzikowicach","name":"Publiczne Przedszkole w Idzikowicach","addr:country":"PL","addr:postcode":"46-113","addr:place":"Idzikowice","addr:housenumber":"24F","addr:teryt:sym_ul":504730,"contact:phone":"+48 774195948","contact:email":"sekretariat@zspidzikowice.pl","contact:website":"http:\/\/spidzikowice.wodip.opole.pl","ref:regon":"530583422","ref:vatin":"PL7521450175","operator":"Gmina Wilk\u00f3w","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 6103"}},{"id":6104,"type":"Feature","geometry":{"type":"Point","coordinates":[17.69901,51.14815]},"properties":{"isced:level":"1;2","ref:rspo":6104,"official_name":"Publiczna Szko\u0142a Podstawowa w Idzikowicach","name":"Publiczna Szko\u0142a Podstawowa w Idzikowicach","addr:country":"PL","addr:postcode":"46-113","addr:place":"Idzikowice","addr:housenumber":"24","addr:teryt:sym_ul":504730,"contact:phone":"+48 774195610","contact:email":"sekretariat@zspidzikowice.pl","contact:website":"http:\/\/www.zspidzikowice.szkolnastrona.pl","ref:regon":"001196100","ref:vatin":"PL7521450175","operator":"Gmina Wilk\u00f3w","operator:type":"government","amenity":"school","note":"Parent RSPO: 6103"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 6106,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.64111,
+                    51.08431
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 6106,
+                "official_name": "Publiczna Szko\u0142a Podstawowa Stowarzyszenia Przyjaci\u00f3\u0142 Szk\u00f3\u0142 Katolickich im. Powsta\u0144c\u00f3w \u015aL\u0105skich w D\u0119bniku",
+                "name": "Publiczna Szko\u0142a Podstawowa Stowarzyszenia Przyjaci\u00f3\u0142 Szk\u00f3\u0142 Katolickich",
+                "addr:country": "PL",
+                "addr:postcode": "46-113",
+                "addr:place": "D\u0119bnik",
+                "addr:housenumber": "14a",
+                "addr:teryt:sym_ul": 504723,
+                "contact:phone": "+48 774195242",
+                "contact:email": "spdebnik@go2.pl",
+                "contact:website": "https:\/\/debnik.spsk.info.pl",
+                "ref:regon": "161477964",
+                "ref:vatin": "PL7521340682",
+                "operator": "Stowarzyszenie Przyjaci\u00f3\u0142 Szk\u00f3\u0142 Katolickich",
+                "operator:type": "ngo",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 6105,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.66053,
+                    51.0990899
+                ]
+            },
+            "properties": {
+                "ref:rspo": 6105,
+                "official_name": "Publiczne Przedszkole w Wilkowie",
+                "name": "Publiczne Przedszkole w Wilkowie",
+                "addr:country": "PL",
+                "addr:postcode": "46-113",
+                "addr:city": "Wilk\u00f3w",
+                "addr:street": "ul. Kolejowa",
+                "addr:housenumber": "17",
+                "addr:teryt:simc": 8828,
+                "addr:teryt:sym_ul": 504829,
+                "contact:phone": "+48 774195506",
+                "contact:email": "przedszkole@wilkow.pl",
+                "ref:regon": "530583416",
+                "ref:vatin": "PL7521355991",
+                "operator": "Gmina Wilk\u00f3w",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 196224,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.66953,
+                    51.10862
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 196224,
+                "official_name": "Publiczna Szko\u0142a Podstawowa w Wilkowie",
+                "name": "Publiczna Szko\u0142a Podstawowa w Wilkowie",
+                "addr:country": "PL",
+                "addr:postcode": "46-113",
+                "addr:city": "Wilk\u00f3w",
+                "addr:street": "ul. D\u0142uga",
+                "addr:housenumber": "38",
+                "addr:teryt:simc": 3839,
+                "addr:teryt:sym_ul": 504829,
+                "contact:phone": "+48 774195192",
+                "contact:email": "sekretariat@wilkowszkola.pl",
+                "contact:website": "http:\/\/www.wilkowszkola.szkolnastrona.pl",
+                "ref:regon": "367988895",
+                "operator": "Gmina Wilk\u00f3w",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 6101,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.58022,
+                    51.14305
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 6101,
+                "official_name": "Publiczna Szko\u0142a Podstawowa w Bukowiu",
+                "name": "Publiczna Szko\u0142a Podstawowa w Bukowiu",
+                "addr:country": "PL",
+                "addr:postcode": "46-113",
+                "addr:city": "Bukowie",
+                "addr:street": "ul. Lipowa",
+                "addr:housenumber": "54",
+                "addr:teryt:simc": 11139,
+                "addr:teryt:sym_ul": 504700,
+                "contact:phone": "+48 774195222",
+                "contact:email": "spbukowie@o2.pl",
+                "contact:website": "http:\/\/pspbukowie.pl",
+                "ref:regon": "001195922",
+                "ref:vatin": "PL7521355732",
+                "operator": "Gmina Wilk\u00f3w",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 6103,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.69901,
+                    51.14821
+                ]
+            },
+            "properties": {
+                "ref:rspo": 6103,
+                "official_name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w Idzikowicach",
+                "name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w Idzikowicach",
+                "addr:country": "PL",
+                "addr:postcode": "46-113",
+                "addr:place": "Idzikowice",
+                "addr:housenumber": "24",
+                "addr:teryt:sym_ul": 504730,
+                "contact:phone": "+48 774195610",
+                "contact:email": "sekretariat@zspidzikowice.pl",
+                "contact:website": "http:\/\/zspidzikowice.szkolnastrona.pl",
+                "ref:regon": "161432884",
+                "ref:vatin": "PL7521450175",
+                "operator": "Gmina Wilk\u00f3w",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 6102;6104"
+            }
+        },
+        {
+            "id": 6102,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.69901,
+                    51.148179999999996
+                ]
+            },
+            "properties": {
+                "ref:rspo": 6102,
+                "official_name": "Publiczne Przedszkole w Idzikowicach",
+                "name": "Publiczne Przedszkole w Idzikowicach",
+                "addr:country": "PL",
+                "addr:postcode": "46-113",
+                "addr:place": "Idzikowice",
+                "addr:housenumber": "24F",
+                "addr:teryt:sym_ul": 504730,
+                "contact:phone": "+48 774195948",
+                "contact:email": "sekretariat@zspidzikowice.pl",
+                "contact:website": "http:\/\/spidzikowice.wodip.opole.pl",
+                "ref:regon": "530583422",
+                "ref:vatin": "PL7521450175",
+                "operator": "Gmina Wilk\u00f3w",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 6103"
+            }
+        },
+        {
+            "id": 6104,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.69901,
+                    51.14815
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 6104,
+                "official_name": "Publiczna Szko\u0142a Podstawowa w Idzikowicach",
+                "name": "Publiczna Szko\u0142a Podstawowa w Idzikowicach",
+                "addr:country": "PL",
+                "addr:postcode": "46-113",
+                "addr:place": "Idzikowice",
+                "addr:housenumber": "24",
+                "addr:teryt:sym_ul": 504730,
+                "contact:phone": "+48 774195610",
+                "contact:email": "sekretariat@zspidzikowice.pl",
+                "contact:website": "http:\/\/www.zspidzikowice.szkolnastrona.pl",
+                "ref:regon": "001196100",
+                "ref:vatin": "PL7521450175",
+                "operator": "Gmina Wilk\u00f3w",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 6103"
+            }
+        }
+    ]
+}

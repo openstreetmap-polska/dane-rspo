@@ -1,1 +1,188 @@
-{"type":"FeatureCollection","features":[{"id":8158,"type":"Feature","geometry":{"type":"Point","coordinates":[16.36718,51.68997]},"properties":{"ref:rspo":8158,"official_name":"Zesp\u00f3\u0142: Szko\u0142a Podstawowa im. Armii Krajowej I Przedszkole w Niechlowie","name":"Zesp\u00f3\u0142: Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"56-215","addr:city":"Niechl\u00f3w","addr:street":"ul. Szkolna","addr:housenumber":"23","addr:teryt:simc":21970,"addr:teryt:sym_ul":373623,"contact:phone":"+48 655435623","contact:email":"spniechlow@interia.pl","contact:website":"http:\/\/www.zsniechlow.szkolnastrona.pl\/","ref:regon":"000636838","ref:vatin":"PL5010055904","operator":"Gmina Niechl\u00f3w","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 22675;22688"}},{"id":22675,"type":"Feature","geometry":{"type":"Point","coordinates":[16.36718,51.68994]},"properties":{"isced:level":"1;2","ref:rspo":22675,"official_name":"Szko\u0142a Podstawowa im. Armii Krajowej","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"56-215","addr:city":"Niechl\u00f3w","addr:street":"ul. Szkolna","addr:housenumber":"23","addr:teryt:simc":21970,"addr:teryt:sym_ul":373623,"contact:phone":"+48 655435623","contact:email":"spniechlow@interia.pl","contact:website":"http:\/\/www.zsniechlow.szkolnastrona.pl\/","ref:regon":"020760534","operator":"Gmina Niechl\u00f3w","operator:type":"government","amenity":"school","note":"Parent RSPO: 8158"}},{"id":22688,"type":"Feature","geometry":{"type":"Point","coordinates":[16.36718,51.689910000000005]},"properties":{"ref:rspo":22688,"official_name":"Przedszkole w Niechlowie","name":"Przedszkole w Niechlowie","addr:country":"PL","addr:postcode":"56-215","addr:city":"Niechl\u00f3w","addr:street":"ul. Szkolna","addr:housenumber":"23","addr:teryt:simc":21970,"addr:teryt:sym_ul":373623,"contact:phone":"+48 655435623","ref:regon":"020760505","operator":"Gmina Niechl\u00f3w","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 8158"}},{"id":34984,"type":"Feature","geometry":{"type":"Point","coordinates":[16.4269399,51.7257]},"properties":{"ref:rspo":34984,"official_name":"Zesp\u00f3\u0142: Szko\u0142a Podstawowa im. Henryka Sienkiewicza w Sicinach I Przedszkole w Sicinach","name":"Zesp\u00f3\u0142: Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"56-215","addr:place":"Siciny","addr:housenumber":"78","addr:teryt:sym_ul":373646,"contact:phone":"+48 655435194","contact:email":"zssiciny@o2.pl","contact:website":"http:\/\/www.sp.siciny.pl","ref:regon":"410253873","operator":"Gmina Niechl\u00f3w","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 44681;48981"}},{"id":44681,"type":"Feature","geometry":{"type":"Point","coordinates":[16.4269399,51.72567]},"properties":{"isced:level":"1;2","ref:rspo":44681,"official_name":"Szko\u0142a Podstawowa im. Henryka Sienkiewicza","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"56-215","addr:place":"Siciny","addr:housenumber":"78","addr:teryt:sym_ul":373646,"contact:phone":"+48 655435194","contact:email":"zssiciny@o2.pl","contact:website":"http:\/\/www.sp.siciny.pl","ref:regon":"020760600","operator":"Gmina Niechl\u00f3w","operator:type":"government","amenity":"school","note":"Parent RSPO: 34984"}},{"id":48981,"type":"Feature","geometry":{"type":"Point","coordinates":[16.4269399,51.725640000000006]},"properties":{"ref:rspo":48981,"official_name":"Przedszkole w Sicinach","name":"Przedszkole w Sicinach","addr:country":"PL","addr:postcode":"56-215","addr:place":"Siciny","addr:housenumber":"78","addr:teryt:sym_ul":373646,"contact:phone":"+48 655435194","contact:email":"zssiciny@o2.pl","contact:website":"http:\/\/www.sp.siciny.pl","ref:regon":"020760623","operator":"Gmina Niechl\u00f3w","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 34984"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 8158,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.36718,
+                    51.68997
+                ]
+            },
+            "properties": {
+                "ref:rspo": 8158,
+                "official_name": "Zesp\u00f3\u0142: Szko\u0142a Podstawowa im. Armii Krajowej I Przedszkole w Niechlowie",
+                "name": "Zesp\u00f3\u0142: Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "56-215",
+                "addr:city": "Niechl\u00f3w",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "23",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 373623,
+                "contact:phone": "+48 655435623",
+                "contact:email": "spniechlow@interia.pl",
+                "contact:website": "http:\/\/www.zsniechlow.szkolnastrona.pl\/",
+                "ref:regon": "000636838",
+                "ref:vatin": "PL5010055904",
+                "operator": "Gmina Niechl\u00f3w",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 22675;22688"
+            }
+        },
+        {
+            "id": 22675,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.36718,
+                    51.68994
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 22675,
+                "official_name": "Szko\u0142a Podstawowa im. Armii Krajowej",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "56-215",
+                "addr:city": "Niechl\u00f3w",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "23",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 373623,
+                "contact:phone": "+48 655435623",
+                "contact:email": "spniechlow@interia.pl",
+                "contact:website": "http:\/\/www.zsniechlow.szkolnastrona.pl\/",
+                "ref:regon": "020760534",
+                "operator": "Gmina Niechl\u00f3w",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 8158"
+            }
+        },
+        {
+            "id": 22688,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.36718,
+                    51.689910000000005
+                ]
+            },
+            "properties": {
+                "ref:rspo": 22688,
+                "official_name": "Przedszkole w Niechlowie",
+                "name": "Przedszkole w Niechlowie",
+                "addr:country": "PL",
+                "addr:postcode": "56-215",
+                "addr:city": "Niechl\u00f3w",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "23",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 373623,
+                "contact:phone": "+48 655435623",
+                "ref:regon": "020760505",
+                "operator": "Gmina Niechl\u00f3w",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 8158"
+            }
+        },
+        {
+            "id": 34984,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.4269399,
+                    51.7257
+                ]
+            },
+            "properties": {
+                "ref:rspo": 34984,
+                "official_name": "Zesp\u00f3\u0142: Szko\u0142a Podstawowa im. Henryka Sienkiewicza w Sicinach I Przedszkole w Sicinach",
+                "name": "Zesp\u00f3\u0142: Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "56-215",
+                "addr:place": "Siciny",
+                "addr:housenumber": "78",
+                "addr:teryt:sym_ul": 373646,
+                "contact:phone": "+48 655435194",
+                "contact:email": "zssiciny@o2.pl",
+                "contact:website": "http:\/\/www.sp.siciny.pl",
+                "ref:regon": "410253873",
+                "operator": "Gmina Niechl\u00f3w",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 44681;48981"
+            }
+        },
+        {
+            "id": 44681,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.4269399,
+                    51.72567
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 44681,
+                "official_name": "Szko\u0142a Podstawowa im. Henryka Sienkiewicza",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "56-215",
+                "addr:place": "Siciny",
+                "addr:housenumber": "78",
+                "addr:teryt:sym_ul": 373646,
+                "contact:phone": "+48 655435194",
+                "contact:email": "zssiciny@o2.pl",
+                "contact:website": "http:\/\/www.sp.siciny.pl",
+                "ref:regon": "020760600",
+                "operator": "Gmina Niechl\u00f3w",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 34984"
+            }
+        },
+        {
+            "id": 48981,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.4269399,
+                    51.725640000000006
+                ]
+            },
+            "properties": {
+                "ref:rspo": 48981,
+                "official_name": "Przedszkole w Sicinach",
+                "name": "Przedszkole w Sicinach",
+                "addr:country": "PL",
+                "addr:postcode": "56-215",
+                "addr:place": "Siciny",
+                "addr:housenumber": "78",
+                "addr:teryt:sym_ul": 373646,
+                "contact:phone": "+48 655435194",
+                "contact:email": "zssiciny@o2.pl",
+                "contact:website": "http:\/\/www.sp.siciny.pl",
+                "ref:regon": "020760623",
+                "operator": "Gmina Niechl\u00f3w",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 34984"
+            }
+        }
+    ]
+}

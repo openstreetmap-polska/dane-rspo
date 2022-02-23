@@ -1,1 +1,330 @@
-{"type":"FeatureCollection","features":[{"id":90509,"type":"Feature","geometry":{"type":"Point","coordinates":[21.79713,52.09621]},"properties":{"ref:rspo":90509,"official_name":"Ma\u0142e Przedszkole w Podcierniu","name":"Ma\u0142e Przedszkole w Podcierniu","addr:country":"PL","addr:postcode":"05-319","addr:place":"Podciernie","addr:housenumber":"182","addr:teryt:sym_ul":669163,"contact:phone":"+48 257578879","ref:regon":"146414754","operator":"Stowarzyszenie Rozwoju Wsi Podciernie I Okolice","operator:type":"ngo","amenity":"kindergarten"}},{"id":123773,"type":"Feature","geometry":{"type":"Point","coordinates":[21.79713,52.09618]},"properties":{"ref:rspo":123773,"official_name":"M\u0142odzie\u017cowy O\u015brodek Wychowawczy w Podcierniu","name":"M\u0142odzie\u017cowy O\u015brodek Wychowawczy w Podcierniu","addr:country":"PL","addr:postcode":"05-319","addr:place":"Podciernie","addr:housenumber":"182","addr:teryt:sym_ul":669163,"contact:phone":"+48 257585521","contact:email":"sekretariat@mowpodciernie.pl","contact:website":"http:\/\/mowpodciernie.pl","ref:regon":"147350772","operator":"Jacek Pac","operator:type":"private","fixme":"amenity=social facility + social_facility=group_home + social_facility:for=juvenile","note":"Children RSPO: 264028"}},{"id":264028,"type":"Feature","geometry":{"type":"Point","coordinates":[21.79713,52.09615]},"properties":{"isced:level":"1;2","ref:rspo":264028,"official_name":"Niepubliczna Specjalna Szko\u0142a Podstawowa Przy M\u0142odzie\u017cowym O\u015brodku Wychowawczym w Podcierniu","name":"Niepubliczna Specjalna Szko\u0142a Podstawowa Przy M\u0142odzie\u017cowym O\u015brodku Wychowawczym w Podcierniu","addr:country":"PL","addr:postcode":"05-319","addr:place":"Podciernie","addr:housenumber":"182","addr:teryt:sym_ul":669163,"contact:phone":"+48 257585521","contact:email":"sekretariat@mowpodciernie.pl","contact:website":"http:\/\/www.mowpodciernie.pl","ref:regon":"368252966","operator":"Jacek Pac","operator:type":"private","amenity":"school","note":"Parent RSPO: 123773"}},{"id":128544,"type":"Feature","geometry":{"type":"Point","coordinates":[21.75413,52.10155]},"properties":{"ref:rspo":128544,"official_name":"Publiczne Przedszkole w Ceg\u0142owie \u2013 Filia w Piasecznie","name":"Publiczne Przedszkole w Ceg\u0142owie \u2013 Filia w Piasecznie","addr:country":"PL","addr:postcode":"05-319","addr:place":"Piaseczno","addr:housenumber":"152","addr:teryt:sym_ul":669134,"contact:phone":"+48 257578181","ref:regon":"712545926","operator":"Gmina Ceg\u0142\u00f3w","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 8346"}},{"id":128643,"type":"Feature","geometry":{"type":"Point","coordinates":[21.75413,52.10152]},"properties":{"isced:level":"1;2","ref:rspo":128643,"official_name":"Publiczna Szko\u0142a Podstawowa w Ceg\u0142owie \u2013 Filia w Piasecznie","name":"Publiczna Szko\u0142a Podstawowa w Ceg\u0142owie \u2013 Filia w Piasecznie","addr:country":"PL","addr:postcode":"05-319","addr:place":"Piaseczno","addr:housenumber":"152","addr:teryt:sym_ul":669134,"contact:phone":"+48 257578181","contact:email":"sekretariat@zsceglow.pl","contact:website":"http:\/\/www.zsceglow.pl","ref:regon":"554023000","operator":"Gmina Ceg\u0142\u00f3w","operator:type":"government","amenity":"school","note":"Parent RSPO: 9717"}},{"id":124770,"type":"Feature","geometry":{"type":"Point","coordinates":[21.72881,52.1529]},"properties":{"ref:rspo":124770,"official_name":"Kraina Bajek Ilona Juszczak","name":"Kraina Bajek Ilona Juszczak","addr:country":"PL","addr:postcode":"05-319","addr:city":"Ceg\u0142\u00f3w","addr:street":"ul. Widok","addr:housenumber":"6","addr:teryt:simc":24011,"addr:teryt:sym_ul":668956,"contact:phone":"+48 692018746","contact:email":"i_juszczak@wp.pl","ref:regon":"147405059","operator":"Ilona Juszczak","operator:type":"private","amenity":"kindergarten"}},{"id":8346,"type":"Feature","geometry":{"type":"Point","coordinates":[21.73674,52.15314]},"properties":{"ref:rspo":8346,"official_name":"Zesp\u00f3\u0142 Szkolny w Ceg\u0142owie","name":"Zesp\u00f3\u0142 Szkolny w Ceg\u0142owie","addr:country":"PL","addr:postcode":"05-319","addr:city":"Ceg\u0142\u00f3w","addr:street":"ul. Poprzeczna","addr:housenumber":"27","addr:teryt:simc":17171,"addr:teryt:sym_ul":668956,"contact:phone":"+48 257570179","contact:email":"sekretariat@zsceglow.pl","contact:website":"http:\/\/zsceglow.pl","ref:regon":"140074228","ref:vatin":"PL8222237988","operator":"Gmina Ceg\u0142\u00f3w","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 9717;9764;128544"}},{"id":9717,"type":"Feature","geometry":{"type":"Point","coordinates":[21.73674,52.15311]},"properties":{"isced:level":"1;2","ref:rspo":9717,"official_name":"Publiczna Szko\u0142a Podstawowa w Ceg\u0142owie im. Bohaterskich Harcerzy Ceg\u0142owa","name":"Publiczna Szko\u0142a Podstawowa w Ceg\u0142owie","addr:country":"PL","addr:postcode":"05-319","addr:city":"Ceg\u0142\u00f3w","addr:street":"ul. Poprzeczna","addr:housenumber":"27","addr:teryt:simc":17171,"addr:teryt:sym_ul":668956,"contact:phone":"+48 257570179","contact:email":"sekretariat@zsceglow.pl","contact:website":"http:\/\/www.zsceglow.pl","ref:regon":"000554023","ref:vatin":"PL8221246554","operator":"Gmina Ceg\u0142\u00f3w","operator:type":"government","amenity":"school","note":"Children RSPO: 128643Parent RSPO: 8346"}},{"id":9764,"type":"Feature","geometry":{"type":"Point","coordinates":[21.7349,52.1541799]},"properties":{"ref:rspo":9764,"official_name":"Publiczne Przedszkole w Ceg\u0142owie im. Bohaterskich Harcerzy Ceg\u0142owa","name":"Publiczne Przedszkole w Ceg\u0142owie","addr:country":"PL","addr:postcode":"05-319","addr:city":"Ceg\u0142\u00f3w","addr:street":"ul. Stanis\u0142awa R\u017cysko","addr:housenumber":"6","addr:teryt:simc":32004,"addr:teryt:sym_ul":668956,"contact:phone":"+48 257570886","contact:email":"sekretariat@zsceglow.pl","contact:website":"http:\/\/www.zsceglow.pl","ref:regon":"712545926","ref:vatin":"PL8221264919","operator":"Gmina Ceg\u0142\u00f3w","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 8346"}},{"id":90510,"type":"Feature","geometry":{"type":"Point","coordinates":[21.67248,52.15464]},"properties":{"ref:rspo":90510,"official_name":"\"W Stumilowym Lesie\"","name":"\"W Stumilowym Lesie\"","addr:country":"PL","addr:postcode":"05-319","addr:place":"Wiciej\u00f3w","addr:housenumber":"21","addr:teryt:sym_ul":669335,"contact:phone":"+48 257570180","contact:email":"pspwiciejow@wp.pl","ref:regon":"146414270","operator":"Stowarzyszenie Rozwoju Wsi Wiciej\u00f3w I Okolic","operator:type":"ngo","amenity":"kindergarten"}},{"id":119554,"type":"Feature","geometry":{"type":"Point","coordinates":[21.67248,52.15461]},"properties":{"isced:level":"1;2","ref:rspo":119554,"official_name":"Publiczna Szko\u0142a Podstawowa w Wiciejowie","name":"Publiczna Szko\u0142a Podstawowa w Wiciejowie","addr:country":"PL","addr:postcode":"05-319","addr:place":"Wiciej\u00f3w","addr:housenumber":"21","addr:teryt:sym_ul":669335,"contact:phone":"+48 257570180","contact:email":"pspwiciejow@wp.pl","contact:website":"http:\/\/www.pspwiciejow.pl","ref:regon":"146851816","operator":"Stowarzyszenie Rozwoju Wsi Wiciej\u00f3w I Okolic","operator:type":"ngo","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 90509,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.79713,
+                    52.09621
+                ]
+            },
+            "properties": {
+                "ref:rspo": 90509,
+                "official_name": "Ma\u0142e Przedszkole w Podcierniu",
+                "name": "Ma\u0142e Przedszkole w Podcierniu",
+                "addr:country": "PL",
+                "addr:postcode": "05-319",
+                "addr:place": "Podciernie",
+                "addr:housenumber": "182",
+                "addr:teryt:sym_ul": 669163,
+                "contact:phone": "+48 257578879",
+                "ref:regon": "146414754",
+                "operator": "Stowarzyszenie Rozwoju Wsi Podciernie I Okolice",
+                "operator:type": "ngo",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 123773,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.79713,
+                    52.09618
+                ]
+            },
+            "properties": {
+                "ref:rspo": 123773,
+                "official_name": "M\u0142odzie\u017cowy O\u015brodek Wychowawczy w Podcierniu",
+                "name": "M\u0142odzie\u017cowy O\u015brodek Wychowawczy w Podcierniu",
+                "addr:country": "PL",
+                "addr:postcode": "05-319",
+                "addr:place": "Podciernie",
+                "addr:housenumber": "182",
+                "addr:teryt:sym_ul": 669163,
+                "contact:phone": "+48 257585521",
+                "contact:email": "sekretariat@mowpodciernie.pl",
+                "contact:website": "http:\/\/mowpodciernie.pl",
+                "ref:regon": "147350772",
+                "operator": "Jacek Pac",
+                "operator:type": "private",
+                "fixme": "amenity=social_facility + social_facility=group_home + social_facility:for=juvenile",
+                "note": "Children RSPO: 264028"
+            }
+        },
+        {
+            "id": 264028,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.79713,
+                    52.09615
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 264028,
+                "official_name": "Niepubliczna Specjalna Szko\u0142a Podstawowa Przy M\u0142odzie\u017cowym O\u015brodku Wychowawczym w Podcierniu",
+                "name": "Niepubliczna Specjalna Szko\u0142a Podstawowa Przy M\u0142odzie\u017cowym O\u015brodku Wychowawczym w Podcierniu",
+                "addr:country": "PL",
+                "addr:postcode": "05-319",
+                "addr:place": "Podciernie",
+                "addr:housenumber": "182",
+                "addr:teryt:sym_ul": 669163,
+                "contact:phone": "+48 257585521",
+                "contact:email": "sekretariat@mowpodciernie.pl",
+                "contact:website": "http:\/\/www.mowpodciernie.pl",
+                "ref:regon": "368252966",
+                "operator": "Jacek Pac",
+                "operator:type": "private",
+                "amenity": "school",
+                "note": "Parent RSPO: 123773"
+            }
+        },
+        {
+            "id": 128544,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.75413,
+                    52.10155
+                ]
+            },
+            "properties": {
+                "ref:rspo": 128544,
+                "official_name": "Publiczne Przedszkole w Ceg\u0142owie \u2013 Filia w Piasecznie",
+                "name": "Publiczne Przedszkole w Ceg\u0142owie \u2013 Filia w Piasecznie",
+                "addr:country": "PL",
+                "addr:postcode": "05-319",
+                "addr:place": "Piaseczno",
+                "addr:housenumber": "152",
+                "addr:teryt:sym_ul": 669134,
+                "contact:phone": "+48 257578181",
+                "ref:regon": "712545926",
+                "operator": "Gmina Ceg\u0142\u00f3w",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 8346"
+            }
+        },
+        {
+            "id": 128643,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.75413,
+                    52.10152
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 128643,
+                "official_name": "Publiczna Szko\u0142a Podstawowa w Ceg\u0142owie \u2013 Filia w Piasecznie",
+                "name": "Publiczna Szko\u0142a Podstawowa w Ceg\u0142owie \u2013 Filia w Piasecznie",
+                "addr:country": "PL",
+                "addr:postcode": "05-319",
+                "addr:place": "Piaseczno",
+                "addr:housenumber": "152",
+                "addr:teryt:sym_ul": 669134,
+                "contact:phone": "+48 257578181",
+                "contact:email": "sekretariat@zsceglow.pl",
+                "contact:website": "http:\/\/www.zsceglow.pl",
+                "ref:regon": "554023000",
+                "operator": "Gmina Ceg\u0142\u00f3w",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 9717"
+            }
+        },
+        {
+            "id": 124770,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.72881,
+                    52.1529
+                ]
+            },
+            "properties": {
+                "ref:rspo": 124770,
+                "official_name": "Kraina Bajek Ilona Juszczak",
+                "name": "Kraina Bajek Ilona Juszczak",
+                "addr:country": "PL",
+                "addr:postcode": "05-319",
+                "addr:city": "Ceg\u0142\u00f3w",
+                "addr:street": "ul. Widok",
+                "addr:housenumber": "6",
+                "addr:teryt:simc": 24011,
+                "addr:teryt:sym_ul": 668956,
+                "contact:phone": "+48 692018746",
+                "contact:email": "i_juszczak@wp.pl",
+                "ref:regon": "147405059",
+                "operator": "Ilona Juszczak",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 8346,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.73674,
+                    52.15314
+                ]
+            },
+            "properties": {
+                "ref:rspo": 8346,
+                "official_name": "Zesp\u00f3\u0142 Szkolny w Ceg\u0142owie",
+                "name": "Zesp\u00f3\u0142 Szkolny w Ceg\u0142owie",
+                "addr:country": "PL",
+                "addr:postcode": "05-319",
+                "addr:city": "Ceg\u0142\u00f3w",
+                "addr:street": "ul. Poprzeczna",
+                "addr:housenumber": "27",
+                "addr:teryt:simc": 17171,
+                "addr:teryt:sym_ul": 668956,
+                "contact:phone": "+48 257570179",
+                "contact:email": "sekretariat@zsceglow.pl",
+                "contact:website": "http:\/\/zsceglow.pl",
+                "ref:regon": "140074228",
+                "ref:vatin": "PL8222237988",
+                "operator": "Gmina Ceg\u0142\u00f3w",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 9717;9764;128544"
+            }
+        },
+        {
+            "id": 9717,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.73674,
+                    52.15311
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 9717,
+                "official_name": "Publiczna Szko\u0142a Podstawowa w Ceg\u0142owie im. Bohaterskich Harcerzy Ceg\u0142owa",
+                "name": "Publiczna Szko\u0142a Podstawowa w Ceg\u0142owie",
+                "addr:country": "PL",
+                "addr:postcode": "05-319",
+                "addr:city": "Ceg\u0142\u00f3w",
+                "addr:street": "ul. Poprzeczna",
+                "addr:housenumber": "27",
+                "addr:teryt:simc": 17171,
+                "addr:teryt:sym_ul": 668956,
+                "contact:phone": "+48 257570179",
+                "contact:email": "sekretariat@zsceglow.pl",
+                "contact:website": "http:\/\/www.zsceglow.pl",
+                "ref:regon": "000554023",
+                "ref:vatin": "PL8221246554",
+                "operator": "Gmina Ceg\u0142\u00f3w",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Children RSPO: 128643Parent RSPO: 8346"
+            }
+        },
+        {
+            "id": 9764,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.7349,
+                    52.1541799
+                ]
+            },
+            "properties": {
+                "ref:rspo": 9764,
+                "official_name": "Publiczne Przedszkole w Ceg\u0142owie im. Bohaterskich Harcerzy Ceg\u0142owa",
+                "name": "Publiczne Przedszkole w Ceg\u0142owie",
+                "addr:country": "PL",
+                "addr:postcode": "05-319",
+                "addr:city": "Ceg\u0142\u00f3w",
+                "addr:street": "ul. Stanis\u0142awa R\u017cysko",
+                "addr:housenumber": "6",
+                "addr:teryt:simc": 32004,
+                "addr:teryt:sym_ul": 668956,
+                "contact:phone": "+48 257570886",
+                "contact:email": "sekretariat@zsceglow.pl",
+                "contact:website": "http:\/\/www.zsceglow.pl",
+                "ref:regon": "712545926",
+                "ref:vatin": "PL8221264919",
+                "operator": "Gmina Ceg\u0142\u00f3w",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 8346"
+            }
+        },
+        {
+            "id": 90510,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.67248,
+                    52.15464
+                ]
+            },
+            "properties": {
+                "ref:rspo": 90510,
+                "official_name": "\"W Stumilowym Lesie\"",
+                "name": "\"W Stumilowym Lesie\"",
+                "addr:country": "PL",
+                "addr:postcode": "05-319",
+                "addr:place": "Wiciej\u00f3w",
+                "addr:housenumber": "21",
+                "addr:teryt:sym_ul": 669335,
+                "contact:phone": "+48 257570180",
+                "contact:email": "pspwiciejow@wp.pl",
+                "ref:regon": "146414270",
+                "operator": "Stowarzyszenie Rozwoju Wsi Wiciej\u00f3w I Okolic",
+                "operator:type": "ngo",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 119554,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.67248,
+                    52.15461
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 119554,
+                "official_name": "Publiczna Szko\u0142a Podstawowa w Wiciejowie",
+                "name": "Publiczna Szko\u0142a Podstawowa w Wiciejowie",
+                "addr:country": "PL",
+                "addr:postcode": "05-319",
+                "addr:place": "Wiciej\u00f3w",
+                "addr:housenumber": "21",
+                "addr:teryt:sym_ul": 669335,
+                "contact:phone": "+48 257570180",
+                "contact:email": "pspwiciejow@wp.pl",
+                "contact:website": "http:\/\/www.pspwiciejow.pl",
+                "ref:regon": "146851816",
+                "operator": "Stowarzyszenie Rozwoju Wsi Wiciej\u00f3w I Okolic",
+                "operator:type": "ngo",
+                "amenity": "school"
+            }
+        }
+    ]
+}

@@ -1,1 +1,195 @@
-{"type":"FeatureCollection","features":[{"id":272385,"type":"Feature","geometry":{"type":"Point","coordinates":[18.6097499,50.50805]},"properties":{"ref:rspo":272385,"official_name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w Wielowsi","name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w Wielowsi","addr:country":"PL","addr:postcode":"44-187","addr:city":"Wielowie\u015b","addr:street":"ul. Zamkowa","addr:housenumber":"24","addr:teryt:simc":25547,"addr:teryt:sym_ul":223585,"contact:phone":"+48 322336694","contact:email":"sekretariatzsp@zspw.wielowies.pl","contact:website":"http:\/\/www.spwielowies.edupage.org","ref:regon":"384161754","operator":"Gmina Wielowie\u015b","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 42375;196387"}},{"id":196387,"type":"Feature","geometry":{"type":"Point","coordinates":[18.6097499,50.508019999999995]},"properties":{"isced:level":"1;2","ref:rspo":196387,"official_name":"Szko\u0142a Podstawowa im. Jana Paw\u0142a II w Wielowsi","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"44-187","addr:city":"Wielowie\u015b","addr:street":"ul. Zamkowa","addr:housenumber":"24","addr:teryt:simc":25547,"addr:teryt:sym_ul":223585,"contact:phone":"+48 322336694","contact:email":"sekretariatzsp@zspw.wielowies.pl","contact:website":"http:\/\/spwielowies.edupage.org","ref:regon":"367993809","operator":"Gmina Wielowie\u015b","operator:type":"government","amenity":"school","note":"Parent RSPO: 272385"}},{"id":42378,"type":"Feature","geometry":{"type":"Point","coordinates":[18.5378,50.50985]},"properties":{"ref:rspo":42378,"official_name":"Publiczne Przedszkole w Swibiu","name":"Publiczne Przedszkole w Swibiu","addr:country":"PL","addr:postcode":"44-187","addr:city":"\u015awibie","addr:street":"ul. G\u0142\u00f3wna","addr:housenumber":"3","addr:teryt:simc":5635,"addr:teryt:sym_ul":223540,"contact:phone":"+48 322336573","contact:email":"przedszkole@zsps.wielowies.pl","ref:regon":"271512951","ref:vatin":"PL9691216338","operator":"Gmina Wielowie\u015b","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 42372"}},{"id":42372,"type":"Feature","geometry":{"type":"Point","coordinates":[18.53976,50.51109]},"properties":{"ref:rspo":42372,"official_name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w \u015awibiu","name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w \u015awibiu","addr:country":"PL","addr:postcode":"44-187","addr:city":"\u015awibie","addr:street":"ul. Szkolna","addr:housenumber":"2","addr:teryt:simc":21970,"addr:teryt:sym_ul":223540,"contact:phone":"+48 322336034","contact:email":"sekretariat@zsps.wielowies.pl","contact:website":"http:\/\/www.zspswibie.edupage.org","ref:regon":"277881299","ref:vatin":"PL9691351094","operator":"Gmina Wielowie\u015b","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 42374;42378"}},{"id":42374,"type":"Feature","geometry":{"type":"Point","coordinates":[18.53976,50.51106]},"properties":{"isced:level":"1;2","ref:rspo":42374,"official_name":"Szko\u0142a Podstawowa im. Literat\u00f3w Dzieci\u0119cych w \u015awibiu","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"44-187","addr:city":"\u015awibie","addr:street":"ul. Szkolna","addr:housenumber":"2","addr:teryt:simc":21970,"addr:teryt:sym_ul":223540,"contact:phone":"+48 322336034","contact:email":"sekretariat@zsps.wielowies.pl","contact:website":"http:\/\/www.zspswibie.edupage.org","ref:regon":"001199133","ref:vatin":"PL9691216350","operator":"Gmina Wielowie\u015b","operator:type":"government","amenity":"school","note":"Parent RSPO: 42372"}},{"id":42375,"type":"Feature","geometry":{"type":"Point","coordinates":[18.56689,50.52483]},"properties":{"ref:rspo":42375,"official_name":"Publiczne Przedszkole w Wielowsi","name":"Publiczne Przedszkole w Wielowsi","addr:country":"PL","addr:postcode":"44-187","addr:city":"Wielowie\u015b","addr:street":"ul. Szkolna","addr:housenumber":"12","addr:teryt:simc":21970,"addr:teryt:sym_ul":223585,"contact:phone":"+48 322336029","ref:regon":"271512968","operator":"Gmina Wielowie\u015b","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 272385"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 272385,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.6097499,
+                    50.50805
+                ]
+            },
+            "properties": {
+                "ref:rspo": 272385,
+                "official_name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w Wielowsi",
+                "name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w Wielowsi",
+                "addr:country": "PL",
+                "addr:postcode": "44-187",
+                "addr:city": "Wielowie\u015b",
+                "addr:street": "ul. Zamkowa",
+                "addr:housenumber": "24",
+                "addr:teryt:simc": 25547,
+                "addr:teryt:sym_ul": 223585,
+                "contact:phone": "+48 322336694",
+                "contact:email": "sekretariatzsp@zspw.wielowies.pl",
+                "contact:website": "http:\/\/www.spwielowies.edupage.org",
+                "ref:regon": "384161754",
+                "operator": "Gmina Wielowie\u015b",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 42375;196387"
+            }
+        },
+        {
+            "id": 196387,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.6097499,
+                    50.508019999999995
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 196387,
+                "official_name": "Szko\u0142a Podstawowa im. Jana Paw\u0142a II w Wielowsi",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "44-187",
+                "addr:city": "Wielowie\u015b",
+                "addr:street": "ul. Zamkowa",
+                "addr:housenumber": "24",
+                "addr:teryt:simc": 25547,
+                "addr:teryt:sym_ul": 223585,
+                "contact:phone": "+48 322336694",
+                "contact:email": "sekretariatzsp@zspw.wielowies.pl",
+                "contact:website": "http:\/\/spwielowies.edupage.org",
+                "ref:regon": "367993809",
+                "operator": "Gmina Wielowie\u015b",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 272385"
+            }
+        },
+        {
+            "id": 42378,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.5378,
+                    50.50985
+                ]
+            },
+            "properties": {
+                "ref:rspo": 42378,
+                "official_name": "Publiczne Przedszkole w Swibiu",
+                "name": "Publiczne Przedszkole w Swibiu",
+                "addr:country": "PL",
+                "addr:postcode": "44-187",
+                "addr:city": "\u015awibie",
+                "addr:street": "ul. G\u0142\u00f3wna",
+                "addr:housenumber": "3",
+                "addr:teryt:simc": 5635,
+                "addr:teryt:sym_ul": 223540,
+                "contact:phone": "+48 322336573",
+                "contact:email": "przedszkole@zsps.wielowies.pl",
+                "ref:regon": "271512951",
+                "ref:vatin": "PL9691216338",
+                "operator": "Gmina Wielowie\u015b",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 42372"
+            }
+        },
+        {
+            "id": 42372,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.53976,
+                    50.51109
+                ]
+            },
+            "properties": {
+                "ref:rspo": 42372,
+                "official_name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w \u015awibiu",
+                "name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w \u015awibiu",
+                "addr:country": "PL",
+                "addr:postcode": "44-187",
+                "addr:city": "\u015awibie",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "2",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 223540,
+                "contact:phone": "+48 322336034",
+                "contact:email": "sekretariat@zsps.wielowies.pl",
+                "contact:website": "http:\/\/www.zspswibie.edupage.org",
+                "ref:regon": "277881299",
+                "ref:vatin": "PL9691351094",
+                "operator": "Gmina Wielowie\u015b",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 42374;42378"
+            }
+        },
+        {
+            "id": 42374,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.53976,
+                    50.51106
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 42374,
+                "official_name": "Szko\u0142a Podstawowa im. Literat\u00f3w Dzieci\u0119cych w \u015awibiu",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "44-187",
+                "addr:city": "\u015awibie",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "2",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 223540,
+                "contact:phone": "+48 322336034",
+                "contact:email": "sekretariat@zsps.wielowies.pl",
+                "contact:website": "http:\/\/www.zspswibie.edupage.org",
+                "ref:regon": "001199133",
+                "ref:vatin": "PL9691216350",
+                "operator": "Gmina Wielowie\u015b",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 42372"
+            }
+        },
+        {
+            "id": 42375,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.56689,
+                    50.52483
+                ]
+            },
+            "properties": {
+                "ref:rspo": 42375,
+                "official_name": "Publiczne Przedszkole w Wielowsi",
+                "name": "Publiczne Przedszkole w Wielowsi",
+                "addr:country": "PL",
+                "addr:postcode": "44-187",
+                "addr:city": "Wielowie\u015b",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "12",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 223585,
+                "contact:phone": "+48 322336029",
+                "ref:regon": "271512968",
+                "operator": "Gmina Wielowie\u015b",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 272385"
+            }
+        }
+    ]
+}

@@ -1,1 +1,102 @@
-{"type":"FeatureCollection","features":[{"id":85319,"type":"Feature","geometry":{"type":"Point","coordinates":[14.81383,53.30057]},"properties":{"ref:rspo":85319,"official_name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 w Ko\u0142baczu","name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 w Ko\u0142baczu","addr:country":"PL","addr:postcode":"74-106","addr:city":"Ko\u0142bacz","addr:street":"ul. Cysters\u00f3w","addr:housenumber":"9","addr:teryt:simc":3206,"addr:teryt:sym_ul":783210,"contact:phone":"+48 913124221","contact:email":"szkola@zskolbacz.pl","contact:website":"http:\/\/www.zskolbacz.pl","ref:regon":"812631829","ref:vatin":"PL8581769001","operator":"Gmina Stare Czarnowo","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 113703;126125"}},{"id":113703,"type":"Feature","geometry":{"type":"Point","coordinates":[14.81383,53.30054]},"properties":{"isced:level":"1;2","ref:rspo":113703,"official_name":"Szko\u0142a Podstawowa w Ko\u0142baczu","name":"Szko\u0142a Podstawowa w Ko\u0142baczu","addr:country":"PL","addr:postcode":"74-106","addr:city":"Ko\u0142bacz","addr:street":"ul. Cysters\u00f3w","addr:housenumber":"9","addr:teryt:simc":3206,"addr:teryt:sym_ul":783210,"contact:phone":"+48 913124221","contact:email":"szkola@zskolbacz.pl","contact:website":"http:\/\/www.zskolbacz.pl","ref:regon":"001223274","operator":"Gmina Stare Czarnowo","operator:type":"government","amenity":"school","note":"Parent RSPO: 85319"}},{"id":126125,"type":"Feature","geometry":{"type":"Point","coordinates":[14.81383,53.30051]},"properties":{"ref:rspo":126125,"official_name":"Przedszkole \"Jarz\u0119binka\" w Ko\u0142baczu","name":"Przedszkole \"Jarz\u0119binka\" w Ko\u0142baczu","addr:country":"PL","addr:postcode":"74-106","addr:city":"Ko\u0142bacz","addr:street":"ul. Cysters\u00f3w","addr:housenumber":"9","addr:teryt:simc":3206,"addr:teryt:sym_ul":783210,"contact:phone":"+48 913124221","contact:email":"szkola@zskolbacz.pl","contact:website":"http:\/\/www.zskolbacz.pl","ref:regon":"360152751","ref:vatin":"PL8581733428","operator":"Gmina Stare Czarnowo","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 85319"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 85319,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.81383,
+                    53.30057
+                ]
+            },
+            "properties": {
+                "ref:rspo": 85319,
+                "official_name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 w Ko\u0142baczu",
+                "name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 w Ko\u0142baczu",
+                "addr:country": "PL",
+                "addr:postcode": "74-106",
+                "addr:city": "Ko\u0142bacz",
+                "addr:street": "ul. Cysters\u00f3w",
+                "addr:housenumber": "9",
+                "addr:teryt:simc": 3206,
+                "addr:teryt:sym_ul": 783210,
+                "contact:phone": "+48 913124221",
+                "contact:email": "szkola@zskolbacz.pl",
+                "contact:website": "http:\/\/www.zskolbacz.pl",
+                "ref:regon": "812631829",
+                "ref:vatin": "PL8581769001",
+                "operator": "Gmina Stare Czarnowo",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 113703;126125"
+            }
+        },
+        {
+            "id": 113703,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.81383,
+                    53.30054
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 113703,
+                "official_name": "Szko\u0142a Podstawowa w Ko\u0142baczu",
+                "name": "Szko\u0142a Podstawowa w Ko\u0142baczu",
+                "addr:country": "PL",
+                "addr:postcode": "74-106",
+                "addr:city": "Ko\u0142bacz",
+                "addr:street": "ul. Cysters\u00f3w",
+                "addr:housenumber": "9",
+                "addr:teryt:simc": 3206,
+                "addr:teryt:sym_ul": 783210,
+                "contact:phone": "+48 913124221",
+                "contact:email": "szkola@zskolbacz.pl",
+                "contact:website": "http:\/\/www.zskolbacz.pl",
+                "ref:regon": "001223274",
+                "operator": "Gmina Stare Czarnowo",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 85319"
+            }
+        },
+        {
+            "id": 126125,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.81383,
+                    53.30051
+                ]
+            },
+            "properties": {
+                "ref:rspo": 126125,
+                "official_name": "Przedszkole \"Jarz\u0119binka\" w Ko\u0142baczu",
+                "name": "Przedszkole \"Jarz\u0119binka\" w Ko\u0142baczu",
+                "addr:country": "PL",
+                "addr:postcode": "74-106",
+                "addr:city": "Ko\u0142bacz",
+                "addr:street": "ul. Cysters\u00f3w",
+                "addr:housenumber": "9",
+                "addr:teryt:simc": 3206,
+                "addr:teryt:sym_ul": 783210,
+                "contact:phone": "+48 913124221",
+                "contact:email": "szkola@zskolbacz.pl",
+                "contact:website": "http:\/\/www.zskolbacz.pl",
+                "ref:regon": "360152751",
+                "ref:vatin": "PL8581733428",
+                "operator": "Gmina Stare Czarnowo",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 85319"
+            }
+        }
+    ]
+}

@@ -1,1 +1,37 @@
-{"type":"FeatureCollection","features":[{"id":18871,"type":"Feature","geometry":{"type":"Point","coordinates":[23.42986,52.65485]},"properties":{"isced:level":"1;2","ref:rspo":18871,"official_name":"Szko\u0142a Podstawowa w Dubiczach Cerkiewnych","name":"Szko\u0142a Podstawowa w Dubiczach Cerkiewnych","addr:country":"PL","addr:postcode":"17-204","addr:city":"Dubicze Cerkiewne","addr:street":"ul. Parkowa","addr:housenumber":"30","addr:teryt:simc":15710,"addr:teryt:sym_ul":27915,"contact:phone":"+48 856852004","contact:email":"zsdubiczecerkiewne@wp.pl","contact:website":"http:\/\/szkolawp.dubicze-cerkiewne.pl\/","ref:regon":"000645441","ref:vatin":"PL5432010611","operator":"Gmina Dubicze Cerkiewne","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 18871,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.42986,
+                    52.65485
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 18871,
+                "official_name": "Szko\u0142a Podstawowa w Dubiczach Cerkiewnych",
+                "name": "Szko\u0142a Podstawowa w Dubiczach Cerkiewnych",
+                "addr:country": "PL",
+                "addr:postcode": "17-204",
+                "addr:city": "Dubicze Cerkiewne",
+                "addr:street": "ul. Parkowa",
+                "addr:housenumber": "30",
+                "addr:teryt:simc": 15710,
+                "addr:teryt:sym_ul": 27915,
+                "contact:phone": "+48 856852004",
+                "contact:email": "zsdubiczecerkiewne@wp.pl",
+                "contact:website": "http:\/\/szkolawp.dubicze-cerkiewne.pl\/",
+                "ref:regon": "000645441",
+                "ref:vatin": "PL5432010611",
+                "operator": "Gmina Dubicze Cerkiewne",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

@@ -1,1 +1,190 @@
-{"type":"FeatureCollection","features":[{"id":11880,"type":"Feature","geometry":{"type":"Point","coordinates":[19.02056,51.1825]},"properties":{"isced:level":"1;2","ref:rspo":11880,"official_name":"Szko\u0142a Podstawowa im. M. Bielskiego w Bia\u0142ej","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"98-332","addr:place":"Bia\u0142a","addr:housenumber":"63","addr:teryt:sym_ul":550901,"contact:phone":"+48 446317182","contact:email":"szkola.biala@interia.pl","contact:website":"http:\/\/www.szkolabiala.szkolnastrona.pl","ref:regon":"001160527","ref:vatin":"PL7722122259","operator":"Gmina Rz\u0105\u015bnia","operator:type":"government","amenity":"school"}},{"id":278977,"type":"Feature","geometry":{"type":"Point","coordinates":[19.04598,51.21667]},"properties":{"ref:rspo":278977,"official_name":"Centrum Szkoleniowe Firma Handlowo-Uslugowa P. Domas - Przemys\u0142aw Domas","name":"Centrum Szkoleniowe Firma Handlowo-Uslugowa P. Domas - Przemys\u0142aw Domas","addr:country":"PL","addr:postcode":"98-332","addr:city":"Rz\u0105\u015bnia","addr:street":"ul. Bielskiego","addr:housenumber":"4","addr:teryt:simc":38810,"addr:teryt:sym_ul":551183,"ref:regon":"520343329","operator":"Firma Handlowo Us\u0142ugowa P. Domas - Przemys\u0142aw Domas","operator:type":"consortium","fixme":"w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. amenity=training + training=*, amenity=dancing_school, amenity=language_school, amenity=music_school) albo amenity=school, amenity=college, albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education."}},{"id":12141,"type":"Feature","geometry":{"type":"Point","coordinates":[19.09198,51.21764]},"properties":{"isced:level":"1;2","ref:rspo":12141,"official_name":"Szko\u0142a Podstawowa w Ziel\u0119cinie","name":"Szko\u0142a Podstawowa w Ziel\u0119cinie","addr:country":"PL","addr:postcode":"98-332","addr:place":"Ziel\u0119cin","addr:housenumber":"28","addr:teryt:sym_ul":551326,"contact:phone":"+48 446317194","contact:email":"spzielecin@wp.pl","contact:website":"http:\/\/www.spzielecin.szkolnastrona.pl","ref:regon":"001160556","ref:vatin":"PL7722122288","operator":"Gmina Rz\u0105\u015bnia","operator:type":"government","amenity":"school"}},{"id":10871,"type":"Feature","geometry":{"type":"Point","coordinates":[19.04251,51.21791]},"properties":{"ref:rspo":10871,"official_name":"Zesp\u00f3\u0142 Szkolno- Przedszkolny im. Jana Paw\u0142a II w Rz\u0105\u015bni","name":"Zesp\u00f3\u0142 Szkolno- Przedszkolny","addr:country":"PL","addr:postcode":"98-332","addr:city":"Rz\u0105\u015bnia","addr:street":"ul. 1 Maja","addr:housenumber":"16","addr:teryt:simc":11926,"addr:teryt:sym_ul":551183,"contact:phone":"+48 446317197","contact:email":"szkolarzasnia@gmail.com","contact:website":"http:\/\/www.zsprzasnia.pl","ref:regon":"100560865","ref:vatin":"PL5080062973","operator":"Gmina Rz\u0105\u015bnia","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 42855;58849"}},{"id":42855,"type":"Feature","geometry":{"type":"Point","coordinates":[19.04251,51.21788]},"properties":{"isced:level":"1;2","ref:rspo":42855,"official_name":"Szko\u0142a Podstawowa w Rz\u0105\u015bni","name":"Szko\u0142a Podstawowa w Rz\u0105\u015bni","addr:country":"PL","addr:postcode":"98-332","addr:city":"Rz\u0105\u015bnia","addr:street":"ul. 1 Maja","addr:housenumber":"16","addr:teryt:simc":11926,"addr:teryt:sym_ul":551183,"contact:phone":"+48 446317197","contact:email":"szkolarzasnia@gmail.com","contact:website":"http:\/\/www.zsprzasnia.pl","ref:regon":"000582775","ref:vatin":"PL5080062973","operator":"Gmina Rz\u0105\u015bnia","operator:type":"government","amenity":"school","note":"Parent RSPO: 10871"}},{"id":58849,"type":"Feature","geometry":{"type":"Point","coordinates":[19.04251,51.217850000000006]},"properties":{"ref:rspo":58849,"official_name":"Przedszkole w Rz\u0105\u015bni","name":"Przedszkole w Rz\u0105\u015bni","addr:country":"PL","addr:postcode":"98-332","addr:city":"Rz\u0105\u015bnia","addr:street":"ul. 1 Maja","addr:housenumber":"16","addr:teryt:simc":11926,"addr:teryt:sym_ul":551183,"contact:phone":"+48 446317197","contact:email":"szkolarzasnia@gmail.com","contact:website":"http:\/\/www.zsprzasnia.pl","ref:regon":"100560836","ref:vatin":"PL5080062973","operator":"Gmina Rz\u0105\u015bnia","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 10871"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 11880,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.02056,
+                    51.1825
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 11880,
+                "official_name": "Szko\u0142a Podstawowa im. M. Bielskiego w Bia\u0142ej",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "98-332",
+                "addr:place": "Bia\u0142a",
+                "addr:housenumber": "63",
+                "addr:teryt:sym_ul": 550901,
+                "contact:phone": "+48 446317182",
+                "contact:email": "szkola.biala@interia.pl",
+                "contact:website": "http:\/\/www.szkolabiala.szkolnastrona.pl",
+                "ref:regon": "001160527",
+                "ref:vatin": "PL7722122259",
+                "operator": "Gmina Rz\u0105\u015bnia",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 278977,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.04598,
+                    51.21667
+                ]
+            },
+            "properties": {
+                "ref:rspo": 278977,
+                "official_name": "Centrum Szkoleniowe Firma Handlowo-Uslugowa P. Domas - Przemys\u0142aw Domas",
+                "name": "Centrum Szkoleniowe Firma Handlowo-Uslugowa P. Domas - Przemys\u0142aw Domas",
+                "addr:country": "PL",
+                "addr:postcode": "98-332",
+                "addr:city": "Rz\u0105\u015bnia",
+                "addr:street": "ul. Bielskiego",
+                "addr:housenumber": "4",
+                "addr:teryt:simc": 38810,
+                "addr:teryt:sym_ul": 551183,
+                "ref:regon": "520343329",
+                "operator": "Firma Handlowo Us\u0142ugowa P. Domas - Przemys\u0142aw Domas",
+                "operator:type": "consortium",
+                "fixme": "w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. amenity=training + training=*, amenity=dancing_school, amenity=language_school, amenity=music_school) albo amenity=school, amenity=college, albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education."
+            }
+        },
+        {
+            "id": 12141,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.09198,
+                    51.21764
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 12141,
+                "official_name": "Szko\u0142a Podstawowa w Ziel\u0119cinie",
+                "name": "Szko\u0142a Podstawowa w Ziel\u0119cinie",
+                "addr:country": "PL",
+                "addr:postcode": "98-332",
+                "addr:place": "Ziel\u0119cin",
+                "addr:housenumber": "28",
+                "addr:teryt:sym_ul": 551326,
+                "contact:phone": "+48 446317194",
+                "contact:email": "spzielecin@wp.pl",
+                "contact:website": "http:\/\/www.spzielecin.szkolnastrona.pl",
+                "ref:regon": "001160556",
+                "ref:vatin": "PL7722122288",
+                "operator": "Gmina Rz\u0105\u015bnia",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 10871,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.04251,
+                    51.21791
+                ]
+            },
+            "properties": {
+                "ref:rspo": 10871,
+                "official_name": "Zesp\u00f3\u0142 Szkolno- Przedszkolny im. Jana Paw\u0142a II w Rz\u0105\u015bni",
+                "name": "Zesp\u00f3\u0142 Szkolno- Przedszkolny",
+                "addr:country": "PL",
+                "addr:postcode": "98-332",
+                "addr:city": "Rz\u0105\u015bnia",
+                "addr:street": "ul. 1 Maja",
+                "addr:housenumber": "16",
+                "addr:teryt:simc": 11926,
+                "addr:teryt:sym_ul": 551183,
+                "contact:phone": "+48 446317197",
+                "contact:email": "szkolarzasnia@gmail.com",
+                "contact:website": "http:\/\/www.zsprzasnia.pl",
+                "ref:regon": "100560865",
+                "ref:vatin": "PL5080062973",
+                "operator": "Gmina Rz\u0105\u015bnia",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 42855;58849"
+            }
+        },
+        {
+            "id": 42855,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.04251,
+                    51.21788
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 42855,
+                "official_name": "Szko\u0142a Podstawowa w Rz\u0105\u015bni",
+                "name": "Szko\u0142a Podstawowa w Rz\u0105\u015bni",
+                "addr:country": "PL",
+                "addr:postcode": "98-332",
+                "addr:city": "Rz\u0105\u015bnia",
+                "addr:street": "ul. 1 Maja",
+                "addr:housenumber": "16",
+                "addr:teryt:simc": 11926,
+                "addr:teryt:sym_ul": 551183,
+                "contact:phone": "+48 446317197",
+                "contact:email": "szkolarzasnia@gmail.com",
+                "contact:website": "http:\/\/www.zsprzasnia.pl",
+                "ref:regon": "000582775",
+                "ref:vatin": "PL5080062973",
+                "operator": "Gmina Rz\u0105\u015bnia",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 10871"
+            }
+        },
+        {
+            "id": 58849,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.04251,
+                    51.217850000000006
+                ]
+            },
+            "properties": {
+                "ref:rspo": 58849,
+                "official_name": "Przedszkole w Rz\u0105\u015bni",
+                "name": "Przedszkole w Rz\u0105\u015bni",
+                "addr:country": "PL",
+                "addr:postcode": "98-332",
+                "addr:city": "Rz\u0105\u015bnia",
+                "addr:street": "ul. 1 Maja",
+                "addr:housenumber": "16",
+                "addr:teryt:simc": 11926,
+                "addr:teryt:sym_ul": 551183,
+                "contact:phone": "+48 446317197",
+                "contact:email": "szkolarzasnia@gmail.com",
+                "contact:website": "http:\/\/www.zsprzasnia.pl",
+                "ref:regon": "100560836",
+                "ref:vatin": "PL5080062973",
+                "operator": "Gmina Rz\u0105\u015bnia",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 10871"
+            }
+        }
+    ]
+}

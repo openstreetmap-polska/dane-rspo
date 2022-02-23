@@ -1,1 +1,181 @@
-{"type":"FeatureCollection","features":[{"id":40933,"type":"Feature","geometry":{"type":"Point","coordinates":[21.86634,54.00255]},"properties":{"isced:level":"1;2","ref:rspo":40933,"official_name":"Szko\u0142a Podstawowa im. Marii Konopnickiej w Upa\u0142tach","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"11-500","addr:place":"Upa\u0142ty","addr:housenumber":"11","addr:teryt:sym_ul":758228,"contact:phone":"+48 874283430","contact:email":"szkola_upalty@interia.pl","contact:website":"http:\/\/www.spupalty.szkolnastrona.pl","ref:regon":"001164910","ref:vatin":"PL8451752574","operator":"Gmina Gi\u017cycko","operator:type":"government","amenity":"school"}},{"id":39771,"type":"Feature","geometry":{"type":"Point","coordinates":[21.73404,54.01369]},"properties":{"isced:level":"1;2","ref:rspo":39771,"official_name":"Szko\u0142a Podstawowa im. Kazimierza Jagiello\u0144czyka w Wilkasach","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"11-500","addr:city":"Wilkasy","addr:street":"ul. Szkolna","addr:housenumber":"8","addr:teryt:simc":21970,"addr:teryt:sym_ul":758240,"contact:phone":"+48 874280117","contact:email":"sp.wilkasy@ugg.pl","contact:website":"http:\/\/spwilkasy.edupage.org","ref:regon":"000265508","ref:vatin":"PL8451752597","operator":"Gmina Gi\u017cycko","operator:type":"government","amenity":"school"}},{"id":31031,"type":"Feature","geometry":{"type":"Point","coordinates":[21.812,54.02088]},"properties":{"isced:level":"1;2","ref:rspo":31031,"official_name":"Szko\u0142a Podstawowa im. Ksi\u0119dza Kardyna\u0142a Stefana Wyszy\u0144skiego w Bystrym","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"11-500","addr:place":"Bystry","addr:housenumber":"9A","addr:teryt:sym_ul":758180,"contact:phone":"+48 874283301","contact:email":"sp.bystry@ugg.pl","contact:website":"http:\/\/spbystry.szkolnastrona.pl","ref:regon":"001164175","ref:vatin":"PL8451752545","operator":"Gmina Gi\u017cycko","operator:type":"government","amenity":"school"}},{"id":130384,"type":"Feature","geometry":{"type":"Point","coordinates":[21.7037,54.03137]},"properties":{"ref:rspo":130384,"official_name":"Szkolne Schronisko M\u0142odzie\u017cowe w Pi\u0119knej G\u00f3rze","name":"Szkolne Schronisko M\u0142odzie\u017cowe w Pi\u0119knej G\u00f3rze","addr:country":"PL","addr:postcode":"11-500","addr:place":"Pi\u0119kna G\u00f3ra","addr:housenumber":"7","addr:teryt:sym_ul":758300,"contact:phone":"+48 602296221","contact:email":"biuro@gwarek-mazury.pl","contact:website":"http:\/\/www.gwarek-mazury.pl","ref:regon":"363937079","operator":"Anna Haszczyn \"Gwarek Mazury\"","operator:type":"consortium","tourism":"hostel"}},{"id":119520,"type":"Feature","geometry":{"type":"Point","coordinates":[21.83243,54.0807]},"properties":{"isced:level":"1;2","ref:rspo":119520,"official_name":"Stowarzyszenie \"Edukator\" w \u0141om\u017cy, Szko\u0142a Podstawowa w Spytkowie","name":"Stowarzyszenie \"Edukator\" w \u0141om\u017cy, Szko\u0142a Podstawowa w Spytkowie","addr:country":"PL","addr:postcode":"11-500","addr:place":"Spytkowo","addr:housenumber":"41","addr:teryt:sym_ul":758122,"contact:phone":"+48 874291868","contact:email":"sp.spytkowo@edukator.lomza.pl","contact:website":"http:\/\/spspytkowo.pl","ref:regon":"281527867","operator":"Spo\u0142eczno - O\u015bwiatowe Stowarzyszenie Pomocy Pokrzywdzonym I Niepe\u0142nosprawnym \"Edukator\"","operator:type":"ngo","amenity":"school"}},{"id":128961,"type":"Feature","geometry":{"type":"Point","coordinates":[21.83243,54.08067]},"properties":{"ref:rspo":128961,"official_name":"Stowarzyszenie \"Edukator\"W \u0141om\u017cy, Przedszkole Smyk w Spytkowie","name":"Stowarzyszenie \"Edukator\"W \u0141om\u017cy, Przedszkole Smyk w Spytkowie","addr:country":"PL","addr:postcode":"11-500","addr:place":"Spytkowo","addr:housenumber":"41","addr:teryt:sym_ul":758122,"contact:phone":"+48 874291868","contact:email":"sp.spytkowo@edukator.lomza.pl","ref:regon":"362432733","operator":"Spo\u0142eczno - O\u015bwiatowe Stowarzyszenie Pomocy Pokrzywdzonym I Niepe\u0142nosprawnym \"Edukator\"","operator:type":"ngo","amenity":"kindergarten"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 40933,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.86634,
+                    54.00255
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 40933,
+                "official_name": "Szko\u0142a Podstawowa im. Marii Konopnickiej w Upa\u0142tach",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "11-500",
+                "addr:place": "Upa\u0142ty",
+                "addr:housenumber": "11",
+                "addr:teryt:sym_ul": 758228,
+                "contact:phone": "+48 874283430",
+                "contact:email": "szkola_upalty@interia.pl",
+                "contact:website": "http:\/\/www.spupalty.szkolnastrona.pl",
+                "ref:regon": "001164910",
+                "ref:vatin": "PL8451752574",
+                "operator": "Gmina Gi\u017cycko",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 39771,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.73404,
+                    54.01369
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 39771,
+                "official_name": "Szko\u0142a Podstawowa im. Kazimierza Jagiello\u0144czyka w Wilkasach",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "11-500",
+                "addr:city": "Wilkasy",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "8",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 758240,
+                "contact:phone": "+48 874280117",
+                "contact:email": "sp.wilkasy@ugg.pl",
+                "contact:website": "http:\/\/spwilkasy.edupage.org",
+                "ref:regon": "000265508",
+                "ref:vatin": "PL8451752597",
+                "operator": "Gmina Gi\u017cycko",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 31031,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.812,
+                    54.02088
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 31031,
+                "official_name": "Szko\u0142a Podstawowa im. Ksi\u0119dza Kardyna\u0142a Stefana Wyszy\u0144skiego w Bystrym",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "11-500",
+                "addr:place": "Bystry",
+                "addr:housenumber": "9A",
+                "addr:teryt:sym_ul": 758180,
+                "contact:phone": "+48 874283301",
+                "contact:email": "sp.bystry@ugg.pl",
+                "contact:website": "http:\/\/spbystry.szkolnastrona.pl",
+                "ref:regon": "001164175",
+                "ref:vatin": "PL8451752545",
+                "operator": "Gmina Gi\u017cycko",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 130384,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.7037,
+                    54.03137
+                ]
+            },
+            "properties": {
+                "ref:rspo": 130384,
+                "official_name": "Szkolne Schronisko M\u0142odzie\u017cowe w Pi\u0119knej G\u00f3rze",
+                "name": "Szkolne Schronisko M\u0142odzie\u017cowe w Pi\u0119knej G\u00f3rze",
+                "addr:country": "PL",
+                "addr:postcode": "11-500",
+                "addr:place": "Pi\u0119kna G\u00f3ra",
+                "addr:housenumber": "7",
+                "addr:teryt:sym_ul": 758300,
+                "contact:phone": "+48 602296221",
+                "contact:email": "biuro@gwarek-mazury.pl",
+                "contact:website": "http:\/\/www.gwarek-mazury.pl",
+                "ref:regon": "363937079",
+                "operator": "Anna Haszczyn \"Gwarek Mazury\"",
+                "operator:type": "consortium",
+                "tourism": "hostel"
+            }
+        },
+        {
+            "id": 119520,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.83243,
+                    54.0807
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 119520,
+                "official_name": "Stowarzyszenie \"Edukator\" w \u0141om\u017cy, Szko\u0142a Podstawowa w Spytkowie",
+                "name": "Stowarzyszenie \"Edukator\" w \u0141om\u017cy, Szko\u0142a Podstawowa w Spytkowie",
+                "addr:country": "PL",
+                "addr:postcode": "11-500",
+                "addr:place": "Spytkowo",
+                "addr:housenumber": "41",
+                "addr:teryt:sym_ul": 758122,
+                "contact:phone": "+48 874291868",
+                "contact:email": "sp.spytkowo@edukator.lomza.pl",
+                "contact:website": "http:\/\/spspytkowo.pl",
+                "ref:regon": "281527867",
+                "operator": "Spo\u0142eczno - O\u015bwiatowe Stowarzyszenie Pomocy Pokrzywdzonym I Niepe\u0142nosprawnym \"Edukator\"",
+                "operator:type": "ngo",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 128961,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.83243,
+                    54.08067
+                ]
+            },
+            "properties": {
+                "ref:rspo": 128961,
+                "official_name": "Stowarzyszenie \"Edukator\"W \u0141om\u017cy, Przedszkole Smyk w Spytkowie",
+                "name": "Stowarzyszenie \"Edukator\"W \u0141om\u017cy, Przedszkole Smyk w Spytkowie",
+                "addr:country": "PL",
+                "addr:postcode": "11-500",
+                "addr:place": "Spytkowo",
+                "addr:housenumber": "41",
+                "addr:teryt:sym_ul": 758122,
+                "contact:phone": "+48 874291868",
+                "contact:email": "sp.spytkowo@edukator.lomza.pl",
+                "ref:regon": "362432733",
+                "operator": "Spo\u0142eczno - O\u015bwiatowe Stowarzyszenie Pomocy Pokrzywdzonym I Niepe\u0142nosprawnym \"Edukator\"",
+                "operator:type": "ngo",
+                "amenity": "kindergarten"
+            }
+        }
+    ]
+}

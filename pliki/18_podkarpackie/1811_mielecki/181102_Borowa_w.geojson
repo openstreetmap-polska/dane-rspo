@@ -1,1 +1,122 @@
-{"type":"FeatureCollection","features":[{"id":276463,"type":"Feature","geometry":{"type":"Point","coordinates":[21.38441,50.34515]},"properties":{"ref:rspo":276463,"official_name":"Niepubliczne Przedszkole Terapeutyczne \"Weso\u0142y Balonik II\"","name":"Niepubliczne Przedszkole Terapeutyczne \"Weso\u0142y Balonik II\"","addr:country":"PL","addr:postcode":"39-305","addr:place":"Wola P\u0142awska","addr:housenumber":"36","addr:teryt:sym_ul":646050,"contact:phone":"+48 175843688","contact:email":"przedszkole.wola@psoni.org.pl","contact:website":"http:\/\/psoni.mielec.pl","ref:regon":"387154720","operator":"Polskie Stowarzyszenie Na Rzecz Os\u00f3b Z Niepe\u0142nosprawno\u015bci\u0105 Intelektualn\u0105 - Ko\u0142o W Mielcu","operator:type":"ngo","amenity":"kindergarten"}},{"id":5971,"type":"Feature","geometry":{"type":"Point","coordinates":[21.2739921,50.3645495]},"properties":{"isced:level":"1;2","ref:rspo":5971,"official_name":"Niepubliczna Szko\u0142a Podstawowa w G\u00f3rkach","name":"Niepubliczna Szko\u0142a Podstawowa w G\u00f3rkach","addr:country":"PL","addr:postcode":"39-306","addr:place":"G\u00f3rki","addr:housenumber":"29","addr:teryt:sym_ul":645731,"contact:phone":"+48 883993213","contact:email":"nzsgorki@gmail.com","ref:regon":"180881156","ref:vatin":"PL8172194394","operator":"G\u00f3reckie Stowarzyszenie O\u015bwiatowo-Kulturalne \"Pasjonat\"","operator:type":"ngo","amenity":"school"}},{"id":5701,"type":"Feature","geometry":{"type":"Point","coordinates":[21.35372,50.38662]},"properties":{"isced:level":"1;2","ref:rspo":5701,"official_name":"Szko\u0142a Podstawowa im. A. Mickiewicza w Borowej","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"39-305","addr:place":"Borowa","addr:housenumber":"248","addr:teryt:sym_ul":645458,"contact:phone":"+48 175815594","contact:email":"spborowa@gmail.com","contact:website":"http:\/\/spborowa.edupage.org","ref:regon":"000559820","ref:vatin":"PL8171797618","operator":"Gmina Borowa","operator:type":"government","amenity":"school"}},{"id":5948,"type":"Feature","geometry":{"type":"Point","coordinates":[21.31405,50.41109]},"properties":{"isced:level":"1;2","ref:rspo":5948,"official_name":"Spo\u0142eczna Szko\u0142a Podstawowa im. Tadeusza Ko\u015bciuszki w Glinach Ma\u0142ych","name":"Spo\u0142eczna Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"39-305","addr:place":"Gliny Ma\u0142e","addr:housenumber":"99","addr:teryt:sym_ul":645620,"contact:phone":"+48 177790063","contact:email":"gmszkola@gmail.com","contact:website":"http:\/\/zssglinymale.pl","ref:regon":"180881133","ref:vatin":"PL8172194307","operator":"Stowarzyszenie \"Powi\u015ble Gliny Ma\u0142e\"","operator:type":"ngo","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 276463,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.38441,
+                    50.34515
+                ]
+            },
+            "properties": {
+                "ref:rspo": 276463,
+                "official_name": "Niepubliczne Przedszkole Terapeutyczne \"Weso\u0142y Balonik II\"",
+                "name": "Niepubliczne Przedszkole Terapeutyczne \"Weso\u0142y Balonik II\"",
+                "addr:country": "PL",
+                "addr:postcode": "39-305",
+                "addr:place": "Wola P\u0142awska",
+                "addr:housenumber": "36",
+                "addr:teryt:sym_ul": 646050,
+                "contact:phone": "+48 175843688",
+                "contact:email": "przedszkole.wola@psoni.org.pl",
+                "contact:website": "http:\/\/psoni.mielec.pl",
+                "ref:regon": "387154720",
+                "operator": "Polskie Stowarzyszenie Na Rzecz Os\u00f3b Z Niepe\u0142nosprawno\u015bci\u0105 Intelektualn\u0105 - Ko\u0142o W Mielcu",
+                "operator:type": "ngo",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 5971,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.2739921,
+                    50.3645495
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 5971,
+                "official_name": "Niepubliczna Szko\u0142a Podstawowa w G\u00f3rkach",
+                "name": "Niepubliczna Szko\u0142a Podstawowa w G\u00f3rkach",
+                "addr:country": "PL",
+                "addr:postcode": "39-306",
+                "addr:place": "G\u00f3rki",
+                "addr:housenumber": "29",
+                "addr:teryt:sym_ul": 645731,
+                "contact:phone": "+48 883993213",
+                "contact:email": "nzsgorki@gmail.com",
+                "ref:regon": "180881156",
+                "ref:vatin": "PL8172194394",
+                "operator": "G\u00f3reckie Stowarzyszenie O\u015bwiatowo-Kulturalne \"Pasjonat\"",
+                "operator:type": "ngo",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 5701,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.35372,
+                    50.38662
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 5701,
+                "official_name": "Szko\u0142a Podstawowa im. A. Mickiewicza w Borowej",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "39-305",
+                "addr:place": "Borowa",
+                "addr:housenumber": "248",
+                "addr:teryt:sym_ul": 645458,
+                "contact:phone": "+48 175815594",
+                "contact:email": "spborowa@gmail.com",
+                "contact:website": "http:\/\/spborowa.edupage.org",
+                "ref:regon": "000559820",
+                "ref:vatin": "PL8171797618",
+                "operator": "Gmina Borowa",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 5948,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.31405,
+                    50.41109
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 5948,
+                "official_name": "Spo\u0142eczna Szko\u0142a Podstawowa im. Tadeusza Ko\u015bciuszki w Glinach Ma\u0142ych",
+                "name": "Spo\u0142eczna Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "39-305",
+                "addr:place": "Gliny Ma\u0142e",
+                "addr:housenumber": "99",
+                "addr:teryt:sym_ul": 645620,
+                "contact:phone": "+48 177790063",
+                "contact:email": "gmszkola@gmail.com",
+                "contact:website": "http:\/\/zssglinymale.pl",
+                "ref:regon": "180881133",
+                "ref:vatin": "PL8172194307",
+                "operator": "Stowarzyszenie \"Powi\u015ble Gliny Ma\u0142e\"",
+                "operator:type": "ngo",
+                "amenity": "school"
+            }
+        }
+    ]
+}

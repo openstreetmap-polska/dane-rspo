@@ -1,1 +1,187 @@
-{"type":"FeatureCollection","features":[{"id":55449,"type":"Feature","geometry":{"type":"Point","coordinates":[17.45342,52.24982]},"properties":{"isced:level":"1;2","ref:rspo":55449,"official_name":"Szko\u0142a Podstawowa Im Stanis\u0142awa Miko\u0142ajczyka w Murzynowie Ko\u015bcielnym","name":"Szko\u0142a Podstawowa Im Stanis\u0142awa Miko\u0142ajczyka w Murzynowie Ko\u015bcielnym","addr:country":"PL","addr:postcode":"63-014","addr:place":"Murzynowo Ko\u015bcielne","addr:housenumber":"30","addr:teryt:sym_ul":582670,"contact:phone":"+48 612851878","contact:email":"spmurzynowok@interia.pl","contact:website":"http:\/\/www.murzynowokoscielne.szkolna.net","ref:regon":"001225008","ref:vatin":"PL7861481364","operator":"Gmina Dominowo","operator:type":"government","amenity":"school"}},{"id":12343,"type":"Feature","geometry":{"type":"Point","coordinates":[17.3581499,52.29233]},"properties":{"isced:level":"3","ref:rspo":12343,"official_name":"Czteroletnie Liceum Og\u00f3lnokszta\u0142c\u0105ce dla Doros\u0142ych \"Szkoleniowiec\"","name":"Czteroletnie Liceum Og\u00f3lnokszta\u0142c\u0105ce dla Doros\u0142ych \"Szkoleniowiec\"","addr:country":"PL","addr:postcode":"63-012","addr:city":"Dominowo","addr:street":"ul. Centralna","addr:housenumber":"3","addr:teryt:simc":2614,"addr:teryt:sym_ul":582539,"contact:phone":"+48 612859223","contact:email":"sp-dominowo@wp.pl","ref:regon":"302219147","operator":"\"Szkoleniowiec\" Sp\u00f3\u0142ka Z Ograniczon\u0105 Odpowiedzialno\u015bci\u0105","operator:type":"private","amenity":"school"}},{"id":12345,"type":"Feature","geometry":{"type":"Point","coordinates":[17.3581499,52.2923]},"properties":{"isced:level":"4","ref:rspo":12345,"official_name":"Szko\u0142a Policealna \"Szkoleniowiec\"","name":"Szko\u0142a Policealna \"Szkoleniowiec\"","addr:country":"PL","addr:postcode":"63-012","addr:city":"Dominowo","addr:street":"ul. Centralna","addr:housenumber":"3","addr:teryt:simc":2614,"addr:teryt:sym_ul":582539,"contact:phone":"+48 612859223","contact:email":"sp-dominowo@wp.pl","ref:regon":"302219236","operator":"\"Szkoleniowiec\" Sp\u00f3\u0142ka Z Ograniczon\u0105 Odpowiedzialno\u015bci\u0105","operator:type":"private","amenity":"college"}},{"id":55928,"type":"Feature","geometry":{"type":"Point","coordinates":[17.3581499,52.29227]},"properties":{"isced:level":"1;2","ref:rspo":55928,"official_name":"Szko\u0142a Podstawowa Im Jana Paw\u0142a II w Dominowie","name":"Szko\u0142a Podstawowa Im Jana Paw\u0142a II w Dominowie","addr:country":"PL","addr:postcode":"63-012","addr:city":"Dominowo","addr:street":"ul. Centralna","addr:housenumber":"3","addr:teryt:simc":2614,"addr:teryt:sym_ul":582539,"contact:phone":"+48 612859223","contact:email":"sp-dominowo@wp.pl","contact:website":"http:\/\/www.spdominowo.szkolnastrona.pl","ref:regon":"000600533","ref:vatin":"PL7861481370","operator":"Gmina Dominowo","operator:type":"government","amenity":"school"}},{"id":123937,"type":"Feature","geometry":{"type":"Point","coordinates":[17.3581499,52.29224]},"properties":{"isced:level":"4","ref:rspo":123937,"official_name":"Szko\u0142a Policealna - Studium Medyczne Lider w Dominowie","name":"Szko\u0142a Policealna - Studium Medyczne Lider w Dominowie","addr:country":"PL","addr:postcode":"63-012","addr:city":"Dominowo","addr:street":"ul. Centralna","addr:housenumber":"3","addr:teryt:simc":2614,"addr:teryt:sym_ul":582539,"contact:phone":"+48 612859223","contact:email":"sp-dominowo@wp.pl","ref:regon":"302793633","operator":"Ma\u0142gorzata Szl\u0105zak","operator:type":"private","amenity":"college"}},{"id":133818,"type":"Feature","geometry":{"type":"Point","coordinates":[17.37616,52.32184]},"properties":{"isced:level":"1;2","ref:rspo":133818,"official_name":"Szko\u0142a Podstawowa im. Pierwszych Piast\u00f3w w Gieczu","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"63-012","addr:place":"Giecz","addr:housenumber":"25","addr:teryt:sym_ul":582580,"contact:phone":"+48 612859278","contact:email":"giecz3@wp.pl","contact:website":"https:\/\/spgiecz.edupage.org\/","ref:regon":"367672749","ref:vatin":"PL7861709123","operator":"Gmina Dominowo","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 55449,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.45342,
+                    52.24982
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 55449,
+                "official_name": "Szko\u0142a Podstawowa Im Stanis\u0142awa Miko\u0142ajczyka w Murzynowie Ko\u015bcielnym",
+                "name": "Szko\u0142a Podstawowa Im Stanis\u0142awa Miko\u0142ajczyka w Murzynowie Ko\u015bcielnym",
+                "addr:country": "PL",
+                "addr:postcode": "63-014",
+                "addr:place": "Murzynowo Ko\u015bcielne",
+                "addr:housenumber": "30",
+                "addr:teryt:sym_ul": 582670,
+                "contact:phone": "+48 612851878",
+                "contact:email": "spmurzynowok@interia.pl",
+                "contact:website": "http:\/\/www.murzynowokoscielne.szkolna.net",
+                "ref:regon": "001225008",
+                "ref:vatin": "PL7861481364",
+                "operator": "Gmina Dominowo",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 12343,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.3581499,
+                    52.29233
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 12343,
+                "official_name": "Czteroletnie Liceum Og\u00f3lnokszta\u0142c\u0105ce dla Doros\u0142ych \"Szkoleniowiec\"",
+                "name": "Czteroletnie Liceum Og\u00f3lnokszta\u0142c\u0105ce dla Doros\u0142ych \"Szkoleniowiec\"",
+                "addr:country": "PL",
+                "addr:postcode": "63-012",
+                "addr:city": "Dominowo",
+                "addr:street": "ul. Centralna",
+                "addr:housenumber": "3",
+                "addr:teryt:simc": 2614,
+                "addr:teryt:sym_ul": 582539,
+                "contact:phone": "+48 612859223",
+                "contact:email": "sp-dominowo@wp.pl",
+                "ref:regon": "302219147",
+                "operator": "\"Szkoleniowiec\" Sp\u00f3\u0142ka Z Ograniczon\u0105 Odpowiedzialno\u015bci\u0105",
+                "operator:type": "private",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 12345,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.3581499,
+                    52.2923
+                ]
+            },
+            "properties": {
+                "isced:level": "4",
+                "ref:rspo": 12345,
+                "official_name": "Szko\u0142a Policealna \"Szkoleniowiec\"",
+                "name": "Szko\u0142a Policealna \"Szkoleniowiec\"",
+                "addr:country": "PL",
+                "addr:postcode": "63-012",
+                "addr:city": "Dominowo",
+                "addr:street": "ul. Centralna",
+                "addr:housenumber": "3",
+                "addr:teryt:simc": 2614,
+                "addr:teryt:sym_ul": 582539,
+                "contact:phone": "+48 612859223",
+                "contact:email": "sp-dominowo@wp.pl",
+                "ref:regon": "302219236",
+                "operator": "\"Szkoleniowiec\" Sp\u00f3\u0142ka Z Ograniczon\u0105 Odpowiedzialno\u015bci\u0105",
+                "operator:type": "private",
+                "amenity": "college"
+            }
+        },
+        {
+            "id": 55928,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.3581499,
+                    52.29227
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 55928,
+                "official_name": "Szko\u0142a Podstawowa Im Jana Paw\u0142a II w Dominowie",
+                "name": "Szko\u0142a Podstawowa Im Jana Paw\u0142a II w Dominowie",
+                "addr:country": "PL",
+                "addr:postcode": "63-012",
+                "addr:city": "Dominowo",
+                "addr:street": "ul. Centralna",
+                "addr:housenumber": "3",
+                "addr:teryt:simc": 2614,
+                "addr:teryt:sym_ul": 582539,
+                "contact:phone": "+48 612859223",
+                "contact:email": "sp-dominowo@wp.pl",
+                "contact:website": "http:\/\/www.spdominowo.szkolnastrona.pl",
+                "ref:regon": "000600533",
+                "ref:vatin": "PL7861481370",
+                "operator": "Gmina Dominowo",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 123937,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.3581499,
+                    52.29224
+                ]
+            },
+            "properties": {
+                "isced:level": "4",
+                "ref:rspo": 123937,
+                "official_name": "Szko\u0142a Policealna - Studium Medyczne Lider w Dominowie",
+                "name": "Szko\u0142a Policealna - Studium Medyczne Lider w Dominowie",
+                "addr:country": "PL",
+                "addr:postcode": "63-012",
+                "addr:city": "Dominowo",
+                "addr:street": "ul. Centralna",
+                "addr:housenumber": "3",
+                "addr:teryt:simc": 2614,
+                "addr:teryt:sym_ul": 582539,
+                "contact:phone": "+48 612859223",
+                "contact:email": "sp-dominowo@wp.pl",
+                "ref:regon": "302793633",
+                "operator": "Ma\u0142gorzata Szl\u0105zak",
+                "operator:type": "private",
+                "amenity": "college"
+            }
+        },
+        {
+            "id": 133818,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.37616,
+                    52.32184
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 133818,
+                "official_name": "Szko\u0142a Podstawowa im. Pierwszych Piast\u00f3w w Gieczu",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "63-012",
+                "addr:place": "Giecz",
+                "addr:housenumber": "25",
+                "addr:teryt:sym_ul": 582580,
+                "contact:phone": "+48 612859278",
+                "contact:email": "giecz3@wp.pl",
+                "contact:website": "https:\/\/spgiecz.edupage.org\/",
+                "ref:regon": "367672749",
+                "ref:vatin": "PL7861709123",
+                "operator": "Gmina Dominowo",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

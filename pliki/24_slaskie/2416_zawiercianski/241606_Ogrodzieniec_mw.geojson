@@ -1,1 +1,196 @@
-{"type":"FeatureCollection","features":[{"id":22579,"type":"Feature","geometry":{"type":"Point","coordinates":[19.59284,50.42563]},"properties":{"isced:level":"1;2","ref:rspo":22579,"official_name":"Szko\u0142a Podstawowa w Ryczowie","name":"Szko\u0142a Podstawowa w Ryczowie","addr:country":"PL","addr:postcode":"42-440","addr:city":"Rycz\u00f3w","addr:street":"ul. Armii Krajowej","addr:housenumber":"26","addr:teryt:simc":432,"addr:teryt:sym_ul":217768,"contact:phone":"+48 326732016","contact:email":"sp.ryczow@ogrodzieniec.pl","contact:website":"http:\/\/www.spryczow.ogrodzieniec.pl\/","ref:regon":"001206146","ref:vatin":"PL6492010779","operator":"Gmina Ogrodzieniec","operator:type":"government","amenity":"school"}},{"id":13854,"type":"Feature","geometry":{"type":"Point","coordinates":[19.5172,50.45124]},"properties":{"ref:rspo":13854,"official_name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w Ogrodzie\u0144cu","name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w Ogrodzie\u0144cu","addr:country":"PL","addr:postcode":"42-440","addr:city":"Ogrodzieniec","addr:street":"ul. Ko\u015bciuszki","addr:housenumber":"67","addr:teryt:simc":9572,"addr:teryt:sym_ul":941748,"contact:phone":"+48 326732058","contact:email":"sp1@ogrodzieniec.pl","contact:website":"http:\/\/www.sp.ogrodzieniec.pl\/","ref:regon":"240997243","ref:vatin":"PL6492238034","operator":"Gmina Ogrodzieniec","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 22054;24194"}},{"id":24194,"type":"Feature","geometry":{"type":"Point","coordinates":[19.5172,50.451209999999996]},"properties":{"isced:level":"1;2","ref:rspo":24194,"official_name":"Szko\u0142a Podstawowa im. Stefana \u017beromskiego w Ogrodzie\u0144cu","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"42-440","addr:city":"Ogrodzieniec","addr:street":"ul. Ko\u015bciuszki","addr:housenumber":"67","addr:teryt:simc":9572,"addr:teryt:sym_ul":941748,"contact:phone":"+48 326732058","contact:email":"sp1@ogrodzieniec.pl","contact:website":"http:\/\/www.sp.ogrodzieniec.pl","ref:regon":"000263544","operator":"Gmina Ogrodzieniec","operator:type":"government","amenity":"school","note":"Parent RSPO: 13854"}},{"id":21957,"type":"Feature","geometry":{"type":"Point","coordinates":[19.54465,50.4530699]},"properties":{"isced:level":"1;2","ref:rspo":21957,"official_name":"Szko\u0142a Podstawowa Fundacji \"Elementarz\" w Podzamczu","name":"Szko\u0142a Podstawowa Fundacji \"Elementarz\" w Podzamczu","addr:country":"PL","addr:postcode":"42-440","addr:city":"Podzamcze","addr:street":"ul. Szkolna","addr:housenumber":"6","addr:teryt:simc":21970,"addr:teryt:sym_ul":217745,"contact:phone":"+48 326732041","contact:email":"sp.podzamcze@interia.pl","ref:regon":"243056765","ref:vatin":"PL6492267662","operator":"Fundacja Ekologiczna - Wychowanie I Sztuka \"Elementarz\"","operator:type":"ngo","amenity":"school"}},{"id":22054,"type":"Feature","geometry":{"type":"Point","coordinates":[19.4977,50.46386]},"properties":{"ref:rspo":22054,"official_name":"Przedszkole Publiczne w Ogrodzie\u0144cu","name":"Przedszkole Publiczne w Ogrodzie\u0144cu","addr:country":"PL","addr:postcode":"42-440","addr:city":"Ogrodzieniec","addr:street":"ul. Elizy Orzeszkowej","addr:housenumber":"13","addr:teryt:simc":15211,"addr:teryt:sym_ul":941748,"contact:phone":"+48 881600905","contact:email":"sp1@ogrodzieniec.pl","contact:website":"http:\/\/www.sp.ogrodzieniec.pl\/","ref:regon":"272001804","operator":"Gmina Ogrodzieniec","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 13854"}},{"id":21871,"type":"Feature","geometry":{"type":"Point","coordinates":[19.6024299,50.47934]},"properties":{"isced:level":"1;2","ref:rspo":21871,"official_name":"Szko\u0142a Podstawowa w Gieble","name":"Szko\u0142a Podstawowa w Gieble","addr:country":"PL","addr:postcode":"42-440","addr:city":"Gieb\u0142o","addr:street":"ul. Edukacyjna","addr:housenumber":"6","addr:teryt:simc":4733,"addr:teryt:sym_ul":217691,"contact:phone":"+48 326734003","contact:email":"sp.gieblo@ogrodzieniec.pl","contact:website":"http:\/\/www.spgieblo.ogrodzieniec.pl","ref:regon":"001206034","ref:vatin":"PL6492010650","operator":"Gmina Ogrodzieniec","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 22579,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.59284,
+                    50.42563
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 22579,
+                "official_name": "Szko\u0142a Podstawowa w Ryczowie",
+                "name": "Szko\u0142a Podstawowa w Ryczowie",
+                "addr:country": "PL",
+                "addr:postcode": "42-440",
+                "addr:city": "Rycz\u00f3w",
+                "addr:street": "ul. Armii Krajowej",
+                "addr:housenumber": "26",
+                "addr:teryt:simc": 432,
+                "addr:teryt:sym_ul": 217768,
+                "contact:phone": "+48 326732016",
+                "contact:email": "sp.ryczow@ogrodzieniec.pl",
+                "contact:website": "http:\/\/www.spryczow.ogrodzieniec.pl\/",
+                "ref:regon": "001206146",
+                "ref:vatin": "PL6492010779",
+                "operator": "Gmina Ogrodzieniec",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 13854,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5172,
+                    50.45124
+                ]
+            },
+            "properties": {
+                "ref:rspo": 13854,
+                "official_name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w Ogrodzie\u0144cu",
+                "name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w Ogrodzie\u0144cu",
+                "addr:country": "PL",
+                "addr:postcode": "42-440",
+                "addr:city": "Ogrodzieniec",
+                "addr:street": "ul. Ko\u015bciuszki",
+                "addr:housenumber": "67",
+                "addr:teryt:simc": 9572,
+                "addr:teryt:sym_ul": 941748,
+                "contact:phone": "+48 326732058",
+                "contact:email": "sp1@ogrodzieniec.pl",
+                "contact:website": "http:\/\/www.sp.ogrodzieniec.pl\/",
+                "ref:regon": "240997243",
+                "ref:vatin": "PL6492238034",
+                "operator": "Gmina Ogrodzieniec",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 22054;24194"
+            }
+        },
+        {
+            "id": 24194,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5172,
+                    50.451209999999996
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 24194,
+                "official_name": "Szko\u0142a Podstawowa im. Stefana \u017beromskiego w Ogrodzie\u0144cu",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "42-440",
+                "addr:city": "Ogrodzieniec",
+                "addr:street": "ul. Ko\u015bciuszki",
+                "addr:housenumber": "67",
+                "addr:teryt:simc": 9572,
+                "addr:teryt:sym_ul": 941748,
+                "contact:phone": "+48 326732058",
+                "contact:email": "sp1@ogrodzieniec.pl",
+                "contact:website": "http:\/\/www.sp.ogrodzieniec.pl",
+                "ref:regon": "000263544",
+                "operator": "Gmina Ogrodzieniec",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 13854"
+            }
+        },
+        {
+            "id": 21957,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.54465,
+                    50.4530699
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 21957,
+                "official_name": "Szko\u0142a Podstawowa Fundacji \"Elementarz\" w Podzamczu",
+                "name": "Szko\u0142a Podstawowa Fundacji \"Elementarz\" w Podzamczu",
+                "addr:country": "PL",
+                "addr:postcode": "42-440",
+                "addr:city": "Podzamcze",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "6",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 217745,
+                "contact:phone": "+48 326732041",
+                "contact:email": "sp.podzamcze@interia.pl",
+                "ref:regon": "243056765",
+                "ref:vatin": "PL6492267662",
+                "operator": "Fundacja Ekologiczna - Wychowanie I Sztuka \"Elementarz\"",
+                "operator:type": "ngo",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 22054,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.4977,
+                    50.46386
+                ]
+            },
+            "properties": {
+                "ref:rspo": 22054,
+                "official_name": "Przedszkole Publiczne w Ogrodzie\u0144cu",
+                "name": "Przedszkole Publiczne w Ogrodzie\u0144cu",
+                "addr:country": "PL",
+                "addr:postcode": "42-440",
+                "addr:city": "Ogrodzieniec",
+                "addr:street": "ul. Elizy Orzeszkowej",
+                "addr:housenumber": "13",
+                "addr:teryt:simc": 15211,
+                "addr:teryt:sym_ul": 941748,
+                "contact:phone": "+48 881600905",
+                "contact:email": "sp1@ogrodzieniec.pl",
+                "contact:website": "http:\/\/www.sp.ogrodzieniec.pl\/",
+                "ref:regon": "272001804",
+                "operator": "Gmina Ogrodzieniec",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 13854"
+            }
+        },
+        {
+            "id": 21871,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.6024299,
+                    50.47934
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 21871,
+                "official_name": "Szko\u0142a Podstawowa w Gieble",
+                "name": "Szko\u0142a Podstawowa w Gieble",
+                "addr:country": "PL",
+                "addr:postcode": "42-440",
+                "addr:city": "Gieb\u0142o",
+                "addr:street": "ul. Edukacyjna",
+                "addr:housenumber": "6",
+                "addr:teryt:simc": 4733,
+                "addr:teryt:sym_ul": 217691,
+                "contact:phone": "+48 326734003",
+                "contact:email": "sp.gieblo@ogrodzieniec.pl",
+                "contact:website": "http:\/\/www.spgieblo.ogrodzieniec.pl",
+                "ref:regon": "001206034",
+                "ref:vatin": "PL6492010650",
+                "operator": "Gmina Ogrodzieniec",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

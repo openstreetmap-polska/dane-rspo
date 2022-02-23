@@ -1,1 +1,132 @@
-{"type":"FeatureCollection","features":[{"id":11698,"type":"Feature","geometry":{"type":"Point","coordinates":[14.74579,54.02263]},"properties":{"isced:level":"1;2","ref:rspo":11698,"official_name":"Szko\u0142a Podstawowa im. 5-Go Ko\u0142obrzeskiego Pu\u0142ku Piechoty","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"72-420","addr:city":"Dziwn\u00f3w","addr:street":"ul. Adama Mickiewicza","addr:housenumber":"27","addr:teryt:simc":12740,"addr:teryt:sym_ul":774782,"contact:phone":"+48 913813579","contact:email":"sp@dziwnow.pl","contact:website":"http:\/\/www.sp.dziwnow.pl","ref:regon":"000266092","ref:vatin":"PL8571061223","operator":"Gmina Dziwn\u00f3w","operator:type":"government","amenity":"school"}},{"id":13085,"type":"Feature","geometry":{"type":"Point","coordinates":[14.74818,54.02433]},"properties":{"ref:rspo":13085,"official_name":"Publiczne Przedszkole\"Promyk S\u0142o\u0144ca\"","name":"Publiczne Przedszkole\"Promyk S\u0142o\u0144ca\"","addr:country":"PL","addr:postcode":"72-420","addr:city":"Dziwn\u00f3w","addr:street":"ul. Henryka Sienkiewicza","addr:housenumber":"27","addr:teryt:simc":19834,"addr:teryt:sym_ul":774782,"contact:phone":"+48 913813650","contact:email":"przedszkole@dziwnow.pl","contact:website":"http:\/\/www.przedszkole.dziwnow.pl","ref:regon":"810504570","ref:vatin":"PL9860008632","operator":"Gmina Dziwn\u00f3w","operator:type":"government","amenity":"kindergarten"}},{"id":120111,"type":"Feature","geometry":{"type":"Point","coordinates":[14.74531,54.02457]},"properties":{"ref:rspo":120111,"official_name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 Spo\u0142ecznych im. Prof. Piotra Zaremby w Dziwnowie","name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 Spo\u0142ecznych","addr:country":"PL","addr:postcode":"72-420","addr:city":"Dziwn\u00f3w","addr:street":"ul. W\u0142adys\u0142awa Reymonta","addr:housenumber":"8","addr:teryt:simc":18648,"addr:teryt:sym_ul":774782,"contact:phone":"+48 913813384","contact:email":"licspol@o2.pl","contact:website":"http:\/\/www.zarembiacy.pl","ref:regon":"321429252","operator":"Stowarzyszenie Na Rzecz Kultury I Edukacji","operator:type":"ngo","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 25296"}},{"id":25296,"type":"Feature","geometry":{"type":"Point","coordinates":[14.74531,54.024539999999995]},"properties":{"isced:level":"3","ref:rspo":25296,"official_name":"Liceum Spo\u0142eczne im. Prof. Piotra Zaremby w Dziwnowie","name":"Liceum Spo\u0142eczne","addr:country":"PL","addr:postcode":"72-420","addr:city":"Dziwn\u00f3w","addr:street":"ul. W\u0142adys\u0142awa Reymonta","addr:housenumber":"8","addr:teryt:simc":18648,"addr:teryt:sym_ul":774782,"contact:phone":"+48 913813384","contact:email":"stowdziwnow@stowdziwnow.pl","contact:website":"http:\/\/zarembiacy.pl","ref:regon":"321283676","operator":"Stowarzyszenie Na Rzecz Kultury I Edukacji","operator:type":"ngo","amenity":"school","note":"Parent RSPO: 120111"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 11698,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.74579,
+                    54.02263
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 11698,
+                "official_name": "Szko\u0142a Podstawowa im. 5-Go Ko\u0142obrzeskiego Pu\u0142ku Piechoty",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "72-420",
+                "addr:city": "Dziwn\u00f3w",
+                "addr:street": "ul. Adama Mickiewicza",
+                "addr:housenumber": "27",
+                "addr:teryt:simc": 12740,
+                "addr:teryt:sym_ul": 774782,
+                "contact:phone": "+48 913813579",
+                "contact:email": "sp@dziwnow.pl",
+                "contact:website": "http:\/\/www.sp.dziwnow.pl",
+                "ref:regon": "000266092",
+                "ref:vatin": "PL8571061223",
+                "operator": "Gmina Dziwn\u00f3w",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 13085,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.74818,
+                    54.02433
+                ]
+            },
+            "properties": {
+                "ref:rspo": 13085,
+                "official_name": "Publiczne Przedszkole\"Promyk S\u0142o\u0144ca\"",
+                "name": "Publiczne Przedszkole\"Promyk S\u0142o\u0144ca\"",
+                "addr:country": "PL",
+                "addr:postcode": "72-420",
+                "addr:city": "Dziwn\u00f3w",
+                "addr:street": "ul. Henryka Sienkiewicza",
+                "addr:housenumber": "27",
+                "addr:teryt:simc": 19834,
+                "addr:teryt:sym_ul": 774782,
+                "contact:phone": "+48 913813650",
+                "contact:email": "przedszkole@dziwnow.pl",
+                "contact:website": "http:\/\/www.przedszkole.dziwnow.pl",
+                "ref:regon": "810504570",
+                "ref:vatin": "PL9860008632",
+                "operator": "Gmina Dziwn\u00f3w",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 120111,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.74531,
+                    54.02457
+                ]
+            },
+            "properties": {
+                "ref:rspo": 120111,
+                "official_name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Spo\u0142ecznych im. Prof. Piotra Zaremby w Dziwnowie",
+                "name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Spo\u0142ecznych",
+                "addr:country": "PL",
+                "addr:postcode": "72-420",
+                "addr:city": "Dziwn\u00f3w",
+                "addr:street": "ul. W\u0142adys\u0142awa Reymonta",
+                "addr:housenumber": "8",
+                "addr:teryt:simc": 18648,
+                "addr:teryt:sym_ul": 774782,
+                "contact:phone": "+48 913813384",
+                "contact:email": "licspol@o2.pl",
+                "contact:website": "http:\/\/www.zarembiacy.pl",
+                "ref:regon": "321429252",
+                "operator": "Stowarzyszenie Na Rzecz Kultury I Edukacji",
+                "operator:type": "ngo",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 25296"
+            }
+        },
+        {
+            "id": 25296,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.74531,
+                    54.024539999999995
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 25296,
+                "official_name": "Liceum Spo\u0142eczne im. Prof. Piotra Zaremby w Dziwnowie",
+                "name": "Liceum Spo\u0142eczne",
+                "addr:country": "PL",
+                "addr:postcode": "72-420",
+                "addr:city": "Dziwn\u00f3w",
+                "addr:street": "ul. W\u0142adys\u0142awa Reymonta",
+                "addr:housenumber": "8",
+                "addr:teryt:simc": 18648,
+                "addr:teryt:sym_ul": 774782,
+                "contact:phone": "+48 913813384",
+                "contact:email": "stowdziwnow@stowdziwnow.pl",
+                "contact:website": "http:\/\/zarembiacy.pl",
+                "ref:regon": "321283676",
+                "operator": "Stowarzyszenie Na Rzecz Kultury I Edukacji",
+                "operator:type": "ngo",
+                "amenity": "school",
+                "note": "Parent RSPO: 120111"
+            }
+        }
+    ]
+}

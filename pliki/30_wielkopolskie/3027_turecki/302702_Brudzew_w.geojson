@@ -1,1 +1,126 @@
-{"type":"FeatureCollection","features":[{"id":56246,"type":"Feature","geometry":{"type":"Point","coordinates":[18.556672,52.067246]},"properties":{"isced:level":"1;2","ref:rspo":56246,"official_name":"Szko\u0142a Podstawowa w Galewie","name":"Szko\u0142a Podstawowa w Galewie","addr:country":"PL","addr:postcode":"62-720","addr:place":"Galew","addr:housenumber":"7","addr:teryt:sym_ul":281571,"contact:phone":"+48 632798826","contact:email":"sp.galew@brudzew.pl","contact:website":"http:\/\/www.spgalew.brudzew.pl","ref:regon":"001148182","ref:vatin":"PL6681667782","operator":"Gmina Brudzew","operator:type":"government","amenity":"school"}},{"id":56245,"type":"Feature","geometry":{"type":"Point","coordinates":[18.673958,52.07277]},"properties":{"isced:level":"1;2","ref:rspo":56245,"official_name":"Szko\u0142a Podstawowa w Ko\u017aminie","name":"Szko\u0142a Podstawowa w Ko\u017aminie","addr:country":"PL","addr:postcode":"62-720","addr:place":"Ko\u017amin","addr:housenumber":"2","addr:teryt:sym_ul":281654,"contact:phone":"+48 632798123","contact:email":"sp.kozmin@brudzew.pl","ref:regon":"001148800","ref:vatin":"PL6681746062","operator":"Gmina Brudzew","operator:type":"government","amenity":"school"}},{"id":75048,"type":"Feature","geometry":{"type":"Point","coordinates":[18.59849,52.09924]},"properties":{"isced:level":"1;2","ref:rspo":75048,"official_name":"Szko\u0142a Podstawowa im. Wojciecha Z Brudzewa w Brudzewie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"62-720","addr:city":"Brudzew","addr:street":"ul. Powsta\u0144c\u00f3w Wielkopolskich","addr:housenumber":"35","addr:teryt:simc":17377,"addr:teryt:sym_ul":281507,"contact:phone":"+48 632800050","contact:email":"zsg@brudzew.pl","contact:website":"http:\/\/sp.brudzew.pl","ref:regon":"000710581","ref:vatin":"PL6681809271","operator":"Gmina Brudzew","operator:type":"government","amenity":"school"}},{"id":56248,"type":"Feature","geometry":{"type":"Point","coordinates":[18.60583,52.10314]},"properties":{"ref:rspo":56248,"official_name":"Gminne Przedszkole w Brudzewie","name":"Gminne Przedszkole w Brudzewie","addr:country":"PL","addr:postcode":"62-720","addr:city":"Brudzew","addr:street":"ul. Kolska","addr:housenumber":"14a","addr:teryt:simc":8982,"addr:teryt:sym_ul":281507,"contact:phone":"+48 632797107","contact:email":"przedszkole@brudzew.pl","ref:regon":"000996028","ref:vatin":"PL6681749132","operator":"Gmina Brudzew","operator:type":"government","amenity":"kindergarten"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 56246,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.556672,
+                    52.067246
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 56246,
+                "official_name": "Szko\u0142a Podstawowa w Galewie",
+                "name": "Szko\u0142a Podstawowa w Galewie",
+                "addr:country": "PL",
+                "addr:postcode": "62-720",
+                "addr:place": "Galew",
+                "addr:housenumber": "7",
+                "addr:teryt:sym_ul": 281571,
+                "contact:phone": "+48 632798826",
+                "contact:email": "sp.galew@brudzew.pl",
+                "contact:website": "http:\/\/www.spgalew.brudzew.pl",
+                "ref:regon": "001148182",
+                "ref:vatin": "PL6681667782",
+                "operator": "Gmina Brudzew",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 56245,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.673958,
+                    52.07277
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 56245,
+                "official_name": "Szko\u0142a Podstawowa w Ko\u017aminie",
+                "name": "Szko\u0142a Podstawowa w Ko\u017aminie",
+                "addr:country": "PL",
+                "addr:postcode": "62-720",
+                "addr:place": "Ko\u017amin",
+                "addr:housenumber": "2",
+                "addr:teryt:sym_ul": 281654,
+                "contact:phone": "+48 632798123",
+                "contact:email": "sp.kozmin@brudzew.pl",
+                "ref:regon": "001148800",
+                "ref:vatin": "PL6681746062",
+                "operator": "Gmina Brudzew",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 75048,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.59849,
+                    52.09924
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 75048,
+                "official_name": "Szko\u0142a Podstawowa im. Wojciecha Z Brudzewa w Brudzewie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "62-720",
+                "addr:city": "Brudzew",
+                "addr:street": "ul. Powsta\u0144c\u00f3w Wielkopolskich",
+                "addr:housenumber": "35",
+                "addr:teryt:simc": 17377,
+                "addr:teryt:sym_ul": 281507,
+                "contact:phone": "+48 632800050",
+                "contact:email": "zsg@brudzew.pl",
+                "contact:website": "http:\/\/sp.brudzew.pl",
+                "ref:regon": "000710581",
+                "ref:vatin": "PL6681809271",
+                "operator": "Gmina Brudzew",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 56248,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.60583,
+                    52.10314
+                ]
+            },
+            "properties": {
+                "ref:rspo": 56248,
+                "official_name": "Gminne Przedszkole w Brudzewie",
+                "name": "Gminne Przedszkole w Brudzewie",
+                "addr:country": "PL",
+                "addr:postcode": "62-720",
+                "addr:city": "Brudzew",
+                "addr:street": "ul. Kolska",
+                "addr:housenumber": "14a",
+                "addr:teryt:simc": 8982,
+                "addr:teryt:sym_ul": 281507,
+                "contact:phone": "+48 632797107",
+                "contact:email": "przedszkole@brudzew.pl",
+                "ref:regon": "000996028",
+                "ref:vatin": "PL6681749132",
+                "operator": "Gmina Brudzew",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        }
+    ]
+}

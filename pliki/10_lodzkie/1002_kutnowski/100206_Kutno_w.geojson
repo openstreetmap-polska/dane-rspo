@@ -1,1 +1,211 @@
-{"type":"FeatureCollection","features":[{"id":73092,"type":"Feature","geometry":{"type":"Point","coordinates":[19.3496099,52.15854]},"properties":{"isced:level":"1;2","ref:rspo":73092,"official_name":"Szko\u0142a Podstawowa im. Kornela Makuszy\u0144skiego w Strzegocinie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"99-300","addr:place":"Strzegocin","addr:housenumber":"4","addr:teryt:sym_ul":569007,"contact:phone":"+48 243560300","contact:email":"spstrzegocin@o2.pl","ref:regon":"000692357","ref:vatin":"PL7752321331","operator":"Gmina Kutno","operator:type":"government","amenity":"school"}},{"id":74790,"type":"Feature","geometry":{"type":"Point","coordinates":[19.27312,52.17749]},"properties":{"isced:level":"1;2","ref:rspo":74790,"official_name":"Szko\u0142a Podstawowa im. Marii Konopnickiej w Byszewie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"99-300","addr:place":"Byszew","addr:housenumber":"31","addr:teryt:sym_ul":568568,"contact:phone":"+48 243560285","contact:email":"gimbyszew@wp.pl","contact:website":"http:\/\/zsbyszew.xaa.pl","ref:regon":"001127317","ref:vatin":"PL7752321414","operator":"Gmina Kutno","operator:type":"government","amenity":"school"}},{"id":72356,"type":"Feature","geometry":{"type":"Point","coordinates":[19.26742,52.21129]},"properties":{"isced:level":"1;2","ref:rspo":72356,"official_name":"Szko\u0142a Podstawowa im. Bohater\u00f3w Walk Nad Bzur\u0105 we Wroczynach","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"99-300","addr:place":"Wroczyny","addr:housenumber":"59a","addr:teryt:sym_ul":569088,"contact:phone":"+48 243560130","contact:email":"sp-wroczyny@o2.pl","contact:website":"http:\/\/www.spwroczyny.superszkolna.pl","ref:regon":"001127369","ref:vatin":"PL7752321354","operator":"Gmina Kutno","operator:type":"government","amenity":"school"}},{"id":124420,"type":"Feature","geometry":{"type":"Point","coordinates":[19.41852,52.22934]},"properties":{"ref:rspo":124420,"official_name":"Niepubliczne Przedszkole \"Kolorowy \u015awiat\"","name":"Niepubliczne Przedszkole \"Kolorowy \u015awiat\"","addr:country":"PL","addr:postcode":"99-300","addr:place":"Bielawki","addr:housenumber":"35a","addr:teryt:sym_ul":568539,"contact:phone":"+48 795131757","contact:email":"przedszkole@kolorowyswiatkutno.pl","contact:website":"http:\/\/www.kolorowyswiatkutno.pl","ref:regon":"101831013","ref:vatin":"PL5260251374","operator":"Zak\u0142ad Doskonalenia Zawodowego W Warszawie","operator:type":"ngo","amenity":"kindergarten"}},{"id":80633,"type":"Feature","geometry":{"type":"Point","coordinates":[19.31209,52.2535]},"properties":{"isced:level":"1;2","ref:rspo":80633,"official_name":"Szko\u0142a Podstawowa im. W\u0142. St. Reymonta w Go\u0142\u0119biewku","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"99-300","addr:place":"Go\u0142\u0119biewek Nowy","addr:housenumber":"54","addr:teryt:sym_ul":568870,"contact:phone":"+48 242534018","contact:email":"sp-golebiewek@wp.pl","contact:website":"http:\/\/www.zsgolebiewek.szkolnastrona.pl","ref:regon":"001127346","ref:vatin":"PL7752321383","operator":"Gmina Kutno","operator:type":"government","amenity":"school"}},{"id":89282,"type":"Feature","geometry":{"type":"Point","coordinates":[19.40215,52.25735]},"properties":{"isced:level":"1;2","ref:rspo":89282,"official_name":"Katolicka Szko\u0142a Podstawowa Spsk im. Gen. W\u0142adys\u0142awa Andersa","name":"Katolicka Szko\u0142a Podstawowa Spsk","addr:country":"PL","addr:postcode":"99-300","addr:place":"Wierzbie","addr:housenumber":"34","addr:teryt:sym_ul":569059,"contact:phone":"+48 242547686","contact:email":"szkola@wierzbiekutno.spsk.pl","ref:regon":"101503734","ref:vatin":"PL7752544953","operator":"Stowarzyszenie Przyjaci\u00f3\u0142 Szk\u00f3\u0142 Katolickich","operator:type":"ngo","amenity":"school"}},{"id":126015,"type":"Feature","geometry":{"type":"Point","coordinates":[19.35037,52.25889]},"properties":{"ref:rspo":126015,"official_name":"Niepubliczne Przedszkole \"Kraina M\u0142odych Odkrywc\u00f3w\"","name":"Niepubliczne Przedszkole \"Kraina M\u0142odych Odkrywc\u00f3w\"","addr:country":"PL","addr:postcode":"99-300","addr:place":"Go\u0142\u0119biew Stary","addr:housenumber":"1","addr:teryt:sym_ul":568864,"contact:phone":"+48 534100025","contact:email":"kraina.k5@interia.pl","contact:website":"http:\/\/www.krainamiodychodkrywcow.pl","ref:regon":"360136077","ref:vatin":"PL7752637761","operator":"Sp\u00f3\u0142dzielnia Socjalna K-5","operator:type":"cooperative","amenity":"kindergarten"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 73092,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.3496099,
+                    52.15854
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 73092,
+                "official_name": "Szko\u0142a Podstawowa im. Kornela Makuszy\u0144skiego w Strzegocinie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "99-300",
+                "addr:place": "Strzegocin",
+                "addr:housenumber": "4",
+                "addr:teryt:sym_ul": 569007,
+                "contact:phone": "+48 243560300",
+                "contact:email": "spstrzegocin@o2.pl",
+                "ref:regon": "000692357",
+                "ref:vatin": "PL7752321331",
+                "operator": "Gmina Kutno",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 74790,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.27312,
+                    52.17749
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 74790,
+                "official_name": "Szko\u0142a Podstawowa im. Marii Konopnickiej w Byszewie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "99-300",
+                "addr:place": "Byszew",
+                "addr:housenumber": "31",
+                "addr:teryt:sym_ul": 568568,
+                "contact:phone": "+48 243560285",
+                "contact:email": "gimbyszew@wp.pl",
+                "contact:website": "http:\/\/zsbyszew.xaa.pl",
+                "ref:regon": "001127317",
+                "ref:vatin": "PL7752321414",
+                "operator": "Gmina Kutno",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 72356,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.26742,
+                    52.21129
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 72356,
+                "official_name": "Szko\u0142a Podstawowa im. Bohater\u00f3w Walk Nad Bzur\u0105 we Wroczynach",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "99-300",
+                "addr:place": "Wroczyny",
+                "addr:housenumber": "59a",
+                "addr:teryt:sym_ul": 569088,
+                "contact:phone": "+48 243560130",
+                "contact:email": "sp-wroczyny@o2.pl",
+                "contact:website": "http:\/\/www.spwroczyny.superszkolna.pl",
+                "ref:regon": "001127369",
+                "ref:vatin": "PL7752321354",
+                "operator": "Gmina Kutno",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 124420,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.41852,
+                    52.22934
+                ]
+            },
+            "properties": {
+                "ref:rspo": 124420,
+                "official_name": "Niepubliczne Przedszkole \"Kolorowy \u015awiat\"",
+                "name": "Niepubliczne Przedszkole \"Kolorowy \u015awiat\"",
+                "addr:country": "PL",
+                "addr:postcode": "99-300",
+                "addr:place": "Bielawki",
+                "addr:housenumber": "35a",
+                "addr:teryt:sym_ul": 568539,
+                "contact:phone": "+48 795131757",
+                "contact:email": "przedszkole@kolorowyswiatkutno.pl",
+                "contact:website": "http:\/\/www.kolorowyswiatkutno.pl",
+                "ref:regon": "101831013",
+                "ref:vatin": "PL5260251374",
+                "operator": "Zak\u0142ad Doskonalenia Zawodowego W Warszawie",
+                "operator:type": "ngo",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 80633,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.31209,
+                    52.2535
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 80633,
+                "official_name": "Szko\u0142a Podstawowa im. W\u0142. St. Reymonta w Go\u0142\u0119biewku",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "99-300",
+                "addr:place": "Go\u0142\u0119biewek Nowy",
+                "addr:housenumber": "54",
+                "addr:teryt:sym_ul": 568870,
+                "contact:phone": "+48 242534018",
+                "contact:email": "sp-golebiewek@wp.pl",
+                "contact:website": "http:\/\/www.zsgolebiewek.szkolnastrona.pl",
+                "ref:regon": "001127346",
+                "ref:vatin": "PL7752321383",
+                "operator": "Gmina Kutno",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 89282,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.40215,
+                    52.25735
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 89282,
+                "official_name": "Katolicka Szko\u0142a Podstawowa Spsk im. Gen. W\u0142adys\u0142awa Andersa",
+                "name": "Katolicka Szko\u0142a Podstawowa Spsk",
+                "addr:country": "PL",
+                "addr:postcode": "99-300",
+                "addr:place": "Wierzbie",
+                "addr:housenumber": "34",
+                "addr:teryt:sym_ul": 569059,
+                "contact:phone": "+48 242547686",
+                "contact:email": "szkola@wierzbiekutno.spsk.pl",
+                "ref:regon": "101503734",
+                "ref:vatin": "PL7752544953",
+                "operator": "Stowarzyszenie Przyjaci\u00f3\u0142 Szk\u00f3\u0142 Katolickich",
+                "operator:type": "ngo",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 126015,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.35037,
+                    52.25889
+                ]
+            },
+            "properties": {
+                "ref:rspo": 126015,
+                "official_name": "Niepubliczne Przedszkole \"Kraina M\u0142odych Odkrywc\u00f3w\"",
+                "name": "Niepubliczne Przedszkole \"Kraina M\u0142odych Odkrywc\u00f3w\"",
+                "addr:country": "PL",
+                "addr:postcode": "99-300",
+                "addr:place": "Go\u0142\u0119biew Stary",
+                "addr:housenumber": "1",
+                "addr:teryt:sym_ul": 568864,
+                "contact:phone": "+48 534100025",
+                "contact:email": "kraina.k5@interia.pl",
+                "contact:website": "http:\/\/www.krainamiodychodkrywcow.pl",
+                "ref:regon": "360136077",
+                "ref:vatin": "PL7752637761",
+                "operator": "Sp\u00f3\u0142dzielnia Socjalna K-5",
+                "operator:type": "cooperative",
+                "amenity": "kindergarten"
+            }
+        }
+    ]
+}

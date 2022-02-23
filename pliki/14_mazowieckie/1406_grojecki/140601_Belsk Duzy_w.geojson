@@ -1,1 +1,183 @@
-{"type":"FeatureCollection","features":[{"id":103472,"type":"Feature","geometry":{"type":"Point","coordinates":[20.77013,51.77734]},"properties":{"isced:level":"1;2","ref:rspo":103472,"official_name":"Publiczna Szko\u0142a Podstawowa im. Romualda Traugutta w \u0141\u0119czeszycach","name":"Publiczna Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"05-622","addr:place":"\u0141\u0119czeszyce","addr:housenumber":"47","addr:teryt:sym_ul":614140,"contact:phone":"+48 486611522","contact:email":"leczpsp@tlen.pl","contact:website":"http:\/\/www.szkolaleczeszyce.pl","ref:regon":"001145841","ref:vatin":"PL7971800020","operator":"Gmina Belsk Du\u017cy","operator:type":"government","amenity":"school"}},{"id":83954,"type":"Feature","geometry":{"type":"Point","coordinates":[20.90018,51.77901]},"properties":{"isced:level":"1;2","ref:rspo":83954,"official_name":"Publiczna Szko\u0142a Podstawowa im. Ziemi Gr\u00f3jeckiej w Zaborowie","name":"Publiczna Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"05-622","addr:place":"Zabor\u00f3w","addr:housenumber":"40","addr:teryt:sym_ul":614446,"contact:phone":"+48 486611734","contact:email":"pspzaborow@o2.pl","contact:website":"http:\/\/www.pspzaborow.pl","ref:regon":"001145640","ref:vatin":"PL7971618982","operator":"Gmina Belsk Du\u017cy","operator:type":"government","amenity":"school"}},{"id":91956,"type":"Feature","geometry":{"type":"Point","coordinates":[20.8497,51.78401]},"properties":{"isced:level":"1;2","ref:rspo":91956,"official_name":"Publiczna Szko\u0142a Podstawowa im. Unicef w Lewiczynie","name":"Publiczna Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"05-622","addr:place":"Lewiczyn","addr:housenumber":"94","addr:teryt:sym_ul":614080,"contact:phone":"+48 486610173","contact:email":"unilew@tlen.pl","contact:website":"http:\/\/psplewiczyn.edupage.org","ref:regon":"001145120","ref:vatin":"PL7971864095","operator":"Gmina Belsk Du\u017cy","operator:type":"government","amenity":"school"}},{"id":106794,"type":"Feature","geometry":{"type":"Point","coordinates":[20.80007,51.81487]},"properties":{"ref:rspo":106794,"official_name":"Przedszkole Publiczne","name":"Przedszkole Publiczne","addr:country":"PL","addr:postcode":"05-622","addr:place":"Stara Wie\u015b","addr:housenumber":"42","addr:teryt:sym_ul":614357,"contact:phone":"+48 486611877","contact:email":"przedszkolestarwies@o2.pl","ref:regon":"670783434","operator":"Gmina Belsk Du\u017cy","operator:type":"government","amenity":"kindergarten"}},{"id":91955,"type":"Feature","geometry":{"type":"Point","coordinates":[20.8074,51.82335]},"properties":{"isced:level":"1;2","ref:rspo":91955,"official_name":"Publiczna Szko\u0142a Podstawowa im. Jana Paw\u0142a II w Belsku Du\u017cym","name":"Publiczna Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"05-622","addr:city":"Belsk Du\u017cy","addr:street":"ul. Szkolna","addr:housenumber":"3","addr:teryt:simc":21970,"addr:teryt:sym_ul":613990,"contact:phone":"+48 486640382","contact:email":"sekretariat@szkolabelskduzy.pl","contact:website":"http:\/\/pspbelskduzy.edupage.org","ref:regon":"000265684","ref:vatin":"PL7971801025","operator":"Gmina Belsk Du\u017cy","operator:type":"government","amenity":"school"}},{"id":107698,"type":"Feature","geometry":{"type":"Point","coordinates":[20.7509,51.84127]},"properties":{"ref:rspo":107698,"official_name":"Niepubliczne Przedszkole\"Kosza\u0142ek-Opa\u0142ek\"","name":"Niepubliczne Przedszkole\"Kosza\u0142ek-Opa\u0142ek\"","addr:country":"PL","addr:postcode":"05-622","addr:place":"Ro\u017cce","addr:housenumber":"9","addr:teryt:sym_ul":614280,"contact:phone":"+48 486611984","contact:email":"koszalekopalek@koszalekopalek.pl","contact:website":"http:\/\/www.koszalekopalek.pl","ref:regon":"146508403","ref:vatin":"PL7971943392","operator":"\"Megahandel, Export-Import\" Sp\u00f3\u0142ka Z Ograniczon\u0105 Odpowiedzialno\u015bci\u0105","operator:type":"private","amenity":"kindergarten"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 103472,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.77013,
+                    51.77734
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 103472,
+                "official_name": "Publiczna Szko\u0142a Podstawowa im. Romualda Traugutta w \u0141\u0119czeszycach",
+                "name": "Publiczna Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "05-622",
+                "addr:place": "\u0141\u0119czeszyce",
+                "addr:housenumber": "47",
+                "addr:teryt:sym_ul": 614140,
+                "contact:phone": "+48 486611522",
+                "contact:email": "leczpsp@tlen.pl",
+                "contact:website": "http:\/\/www.szkolaleczeszyce.pl",
+                "ref:regon": "001145841",
+                "ref:vatin": "PL7971800020",
+                "operator": "Gmina Belsk Du\u017cy",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 83954,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.90018,
+                    51.77901
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 83954,
+                "official_name": "Publiczna Szko\u0142a Podstawowa im. Ziemi Gr\u00f3jeckiej w Zaborowie",
+                "name": "Publiczna Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "05-622",
+                "addr:place": "Zabor\u00f3w",
+                "addr:housenumber": "40",
+                "addr:teryt:sym_ul": 614446,
+                "contact:phone": "+48 486611734",
+                "contact:email": "pspzaborow@o2.pl",
+                "contact:website": "http:\/\/www.pspzaborow.pl",
+                "ref:regon": "001145640",
+                "ref:vatin": "PL7971618982",
+                "operator": "Gmina Belsk Du\u017cy",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 91956,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.8497,
+                    51.78401
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 91956,
+                "official_name": "Publiczna Szko\u0142a Podstawowa im. Unicef w Lewiczynie",
+                "name": "Publiczna Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "05-622",
+                "addr:place": "Lewiczyn",
+                "addr:housenumber": "94",
+                "addr:teryt:sym_ul": 614080,
+                "contact:phone": "+48 486610173",
+                "contact:email": "unilew@tlen.pl",
+                "contact:website": "http:\/\/psplewiczyn.edupage.org",
+                "ref:regon": "001145120",
+                "ref:vatin": "PL7971864095",
+                "operator": "Gmina Belsk Du\u017cy",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 106794,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.80007,
+                    51.81487
+                ]
+            },
+            "properties": {
+                "ref:rspo": 106794,
+                "official_name": "Przedszkole Publiczne",
+                "name": "Przedszkole Publiczne",
+                "addr:country": "PL",
+                "addr:postcode": "05-622",
+                "addr:place": "Stara Wie\u015b",
+                "addr:housenumber": "42",
+                "addr:teryt:sym_ul": 614357,
+                "contact:phone": "+48 486611877",
+                "contact:email": "przedszkolestarwies@o2.pl",
+                "ref:regon": "670783434",
+                "operator": "Gmina Belsk Du\u017cy",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 91955,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.8074,
+                    51.82335
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 91955,
+                "official_name": "Publiczna Szko\u0142a Podstawowa im. Jana Paw\u0142a II w Belsku Du\u017cym",
+                "name": "Publiczna Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "05-622",
+                "addr:city": "Belsk Du\u017cy",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "3",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 613990,
+                "contact:phone": "+48 486640382",
+                "contact:email": "sekretariat@szkolabelskduzy.pl",
+                "contact:website": "http:\/\/pspbelskduzy.edupage.org",
+                "ref:regon": "000265684",
+                "ref:vatin": "PL7971801025",
+                "operator": "Gmina Belsk Du\u017cy",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 107698,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.7509,
+                    51.84127
+                ]
+            },
+            "properties": {
+                "ref:rspo": 107698,
+                "official_name": "Niepubliczne Przedszkole\"Kosza\u0142ek-Opa\u0142ek\"",
+                "name": "Niepubliczne Przedszkole\"Kosza\u0142ek-Opa\u0142ek\"",
+                "addr:country": "PL",
+                "addr:postcode": "05-622",
+                "addr:place": "Ro\u017cce",
+                "addr:housenumber": "9",
+                "addr:teryt:sym_ul": 614280,
+                "contact:phone": "+48 486611984",
+                "contact:email": "koszalekopalek@koszalekopalek.pl",
+                "contact:website": "http:\/\/www.koszalekopalek.pl",
+                "ref:regon": "146508403",
+                "ref:vatin": "PL7971943392",
+                "operator": "\"Megahandel, Export-Import\" Sp\u00f3\u0142ka Z Ograniczon\u0105 Odpowiedzialno\u015bci\u0105",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        }
+    ]
+}

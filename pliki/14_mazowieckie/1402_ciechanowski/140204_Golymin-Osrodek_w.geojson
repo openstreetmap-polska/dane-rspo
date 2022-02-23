@@ -1,1 +1,126 @@
-{"type":"FeatureCollection","features":[{"id":70479,"type":"Feature","geometry":{"type":"Point","coordinates":[20.8747915,52.8073765]},"properties":{"ref:rspo":70479,"official_name":"Zesp\u00f3\u0142 Plac\u00f3wek O\u015bwiatowych w Go\u0142yminie-O\u015brodku","name":"Zesp\u00f3\u0142 Plac\u00f3wek O\u015bwiatowych w Go\u0142yminie-O\u015brodku","addr:country":"PL","addr:postcode":"06-420","addr:city":"Go\u0142ymin-O\u015brodek","addr:street":"ul. ks. Michalaka","addr:housenumber":"10C","addr:teryt:simc":12684,"addr:teryt:sym_ul":115039,"contact:phone":"+48 236716019","contact:email":"zpogolymin@gmail.com","ref:regon":"130944507","ref:vatin":"PL5661935960","operator":"Gmina Go\u0142ymin-O\u015brodek","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 81251;87582"}},{"id":81251,"type":"Feature","geometry":{"type":"Point","coordinates":[20.8747915,52.807346499999994]},"properties":{"isced:level":"1;2","ref:rspo":81251,"official_name":"Szko\u0142a Podstawowa im. P. J. Go\u0142aszewskiego w Go\u0142yminie-O\u015brodku","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"06-420","addr:city":"Go\u0142ymin-O\u015brodek","addr:street":"ul. ks. Michalaka","addr:housenumber":"10C","addr:teryt:simc":12684,"addr:teryt:sym_ul":115039,"contact:phone":"+48 236716019","contact:email":"zpogolymin@gmail.com","ref:regon":"000820594","operator":"Gmina Go\u0142ymin-O\u015brodek","operator:type":"government","amenity":"school","note":"Children RSPO: 126964Parent RSPO: 70479"}},{"id":87582,"type":"Feature","geometry":{"type":"Point","coordinates":[20.8747915,52.8073165]},"properties":{"ref:rspo":87582,"official_name":"Gminne Przedszkole w Go\u0142yminie-O\u015brodku","name":"Gminne Przedszkole w Go\u0142yminie-O\u015brodku","addr:country":"PL","addr:postcode":"06-420","addr:city":"Go\u0142ymin-O\u015brodek","addr:street":"ul. ks. Michalaka","addr:housenumber":"10C","addr:teryt:simc":12684,"addr:teryt:sym_ul":115039,"contact:phone":"+48 236716019","ref:regon":"130003905","operator":"Gmina Go\u0142ymin-O\u015brodek","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 70479"}},{"id":126964,"type":"Feature","geometry":{"type":"Point","coordinates":[20.6189098,52.8823097]},"properties":{"isced:level":"1;2","ref:rspo":126964,"official_name":"Szko\u0142a Podstawowa im. P.j. Go\u0142aszewskiego w Go\u0142yminie-O\u015brodku Szko\u0142a Filialna w Gostkowie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"06-420","addr:place":"Gostkowo","addr:housenumber":"2","addr:teryt:sym_ul":115453,"contact:phone":"+48 236763797","contact:email":"szkolagostkowo@wp.pl","ref:regon":"820594000","operator":"Gmina Go\u0142ymin-O\u015brodek","operator:type":"government","amenity":"school","note":"Parent RSPO: 81251"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 70479,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.8747915,
+                    52.8073765
+                ]
+            },
+            "properties": {
+                "ref:rspo": 70479,
+                "official_name": "Zesp\u00f3\u0142 Plac\u00f3wek O\u015bwiatowych w Go\u0142yminie-O\u015brodku",
+                "name": "Zesp\u00f3\u0142 Plac\u00f3wek O\u015bwiatowych w Go\u0142yminie-O\u015brodku",
+                "addr:country": "PL",
+                "addr:postcode": "06-420",
+                "addr:city": "Go\u0142ymin-O\u015brodek",
+                "addr:street": "ul. ks. Michalaka",
+                "addr:housenumber": "10C",
+                "addr:teryt:simc": 12684,
+                "addr:teryt:sym_ul": 115039,
+                "contact:phone": "+48 236716019",
+                "contact:email": "zpogolymin@gmail.com",
+                "ref:regon": "130944507",
+                "ref:vatin": "PL5661935960",
+                "operator": "Gmina Go\u0142ymin-O\u015brodek",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 81251;87582"
+            }
+        },
+        {
+            "id": 81251,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.8747915,
+                    52.807346499999994
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 81251,
+                "official_name": "Szko\u0142a Podstawowa im. P. J. Go\u0142aszewskiego w Go\u0142yminie-O\u015brodku",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "06-420",
+                "addr:city": "Go\u0142ymin-O\u015brodek",
+                "addr:street": "ul. ks. Michalaka",
+                "addr:housenumber": "10C",
+                "addr:teryt:simc": 12684,
+                "addr:teryt:sym_ul": 115039,
+                "contact:phone": "+48 236716019",
+                "contact:email": "zpogolymin@gmail.com",
+                "ref:regon": "000820594",
+                "operator": "Gmina Go\u0142ymin-O\u015brodek",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Children RSPO: 126964Parent RSPO: 70479"
+            }
+        },
+        {
+            "id": 87582,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.8747915,
+                    52.8073165
+                ]
+            },
+            "properties": {
+                "ref:rspo": 87582,
+                "official_name": "Gminne Przedszkole w Go\u0142yminie-O\u015brodku",
+                "name": "Gminne Przedszkole w Go\u0142yminie-O\u015brodku",
+                "addr:country": "PL",
+                "addr:postcode": "06-420",
+                "addr:city": "Go\u0142ymin-O\u015brodek",
+                "addr:street": "ul. ks. Michalaka",
+                "addr:housenumber": "10C",
+                "addr:teryt:simc": 12684,
+                "addr:teryt:sym_ul": 115039,
+                "contact:phone": "+48 236716019",
+                "ref:regon": "130003905",
+                "operator": "Gmina Go\u0142ymin-O\u015brodek",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 70479"
+            }
+        },
+        {
+            "id": 126964,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.6189098,
+                    52.8823097
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 126964,
+                "official_name": "Szko\u0142a Podstawowa im. P.j. Go\u0142aszewskiego w Go\u0142yminie-O\u015brodku Szko\u0142a Filialna w Gostkowie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "06-420",
+                "addr:place": "Gostkowo",
+                "addr:housenumber": "2",
+                "addr:teryt:sym_ul": 115453,
+                "contact:phone": "+48 236763797",
+                "contact:email": "szkolagostkowo@wp.pl",
+                "ref:regon": "820594000",
+                "operator": "Gmina Go\u0142ymin-O\u015brodek",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 81251"
+            }
+        }
+    ]
+}

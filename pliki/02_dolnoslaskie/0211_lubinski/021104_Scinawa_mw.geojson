@@ -1,1 +1,131 @@
-{"type":"FeatureCollection","features":[{"id":131093,"type":"Feature","geometry":{"type":"Point","coordinates":[16.42849,51.4106]},"properties":{"ref:rspo":131093,"official_name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny","name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny","addr:country":"PL","addr:postcode":"59-330","addr:city":"\u015acinawa","addr:street":"ul. Kr\u00f3lowej Jadwigi","addr:housenumber":"9","addr:teryt:simc":10003,"addr:teryt:sym_ul":954202,"contact:phone":"+48 604599135","contact:email":"jszulc@poczta.onet.pl","contact:website":"https:\/\/zspscinawa.szkolna.net\/","ref:regon":"364939815","operator":"Gmina \u015acinawa","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 38811;85098"}},{"id":38811,"type":"Feature","geometry":{"type":"Point","coordinates":[16.42849,51.41057]},"properties":{"isced:level":"1;2","ref:rspo":38811,"official_name":"Szko\u0142a Podstawowa Nr 3 im. Bronis\u0142awa Malinowskiego w \u015acinawie","name":"Szko\u0142a Podstawowa Nr 3","addr:country":"PL","addr:postcode":"59-330","addr:city":"\u015acinawa","addr:street":"ul. Kr\u00f3lowej Jadwigi","addr:housenumber":"9","addr:teryt:simc":10003,"addr:teryt:sym_ul":954202,"contact:phone":"+48 768412646","contact:email":"sp3@scinawa.pl","contact:website":"https:\/\/zspscinawa.szkolna.net\/","ref:regon":"001240290","ref:vatin":"PL6921079270","operator":"Gmina \u015acinawa","operator:type":"government","amenity":"school","note":"Parent RSPO: 131093"}},{"id":85098,"type":"Feature","geometry":{"type":"Point","coordinates":[16.42849,51.410540000000005]},"properties":{"ref:rspo":85098,"official_name":"Przedszkole w \u015acinawie","name":"Przedszkole w \u015acinawie","addr:country":"PL","addr:postcode":"59-330","addr:city":"\u015acinawa","addr:street":"ul. Kr\u00f3lowej Jadwigi","addr:housenumber":"9A","addr:teryt:simc":10003,"addr:teryt:sym_ul":954202,"contact:phone":"+48 768412646","contact:email":"sp3@scinawa.pl","contact:website":"https:\/\/zspscinawa.szkolna.net\/","ref:regon":"021429511","ref:vatin":"PL6921747599","operator":"Gmina \u015acinawa","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 131093"}},{"id":85214,"type":"Feature","geometry":{"type":"Point","coordinates":[16.34846,51.45259]},"properties":{"isced:level":"1;2","ref:rspo":85214,"official_name":"Szko\u0142a Podstawowa im. Orl\u0105t Lwowskich w Tymowej","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"59-330","addr:place":"Tymowa","addr:housenumber":"71","addr:teryt:sym_ul":367769,"contact:phone":"+48 768412640","contact:email":"sp-tymowa@wp.pl","ref:regon":"001240077","ref:vatin":"PL6921747607","operator":"Gmina \u015acinawa","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 131093,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.42849,
+                    51.4106
+                ]
+            },
+            "properties": {
+                "ref:rspo": 131093,
+                "official_name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny",
+                "name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny",
+                "addr:country": "PL",
+                "addr:postcode": "59-330",
+                "addr:city": "\u015acinawa",
+                "addr:street": "ul. Kr\u00f3lowej Jadwigi",
+                "addr:housenumber": "9",
+                "addr:teryt:simc": 10003,
+                "addr:teryt:sym_ul": 954202,
+                "contact:phone": "+48 604599135",
+                "contact:email": "jszulc@poczta.onet.pl",
+                "contact:website": "https:\/\/zspscinawa.szkolna.net\/",
+                "ref:regon": "364939815",
+                "operator": "Gmina \u015acinawa",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 38811;85098"
+            }
+        },
+        {
+            "id": 38811,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.42849,
+                    51.41057
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 38811,
+                "official_name": "Szko\u0142a Podstawowa Nr 3 im. Bronis\u0142awa Malinowskiego w \u015acinawie",
+                "name": "Szko\u0142a Podstawowa Nr 3",
+                "addr:country": "PL",
+                "addr:postcode": "59-330",
+                "addr:city": "\u015acinawa",
+                "addr:street": "ul. Kr\u00f3lowej Jadwigi",
+                "addr:housenumber": "9",
+                "addr:teryt:simc": 10003,
+                "addr:teryt:sym_ul": 954202,
+                "contact:phone": "+48 768412646",
+                "contact:email": "sp3@scinawa.pl",
+                "contact:website": "https:\/\/zspscinawa.szkolna.net\/",
+                "ref:regon": "001240290",
+                "ref:vatin": "PL6921079270",
+                "operator": "Gmina \u015acinawa",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 131093"
+            }
+        },
+        {
+            "id": 85098,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.42849,
+                    51.410540000000005
+                ]
+            },
+            "properties": {
+                "ref:rspo": 85098,
+                "official_name": "Przedszkole w \u015acinawie",
+                "name": "Przedszkole w \u015acinawie",
+                "addr:country": "PL",
+                "addr:postcode": "59-330",
+                "addr:city": "\u015acinawa",
+                "addr:street": "ul. Kr\u00f3lowej Jadwigi",
+                "addr:housenumber": "9A",
+                "addr:teryt:simc": 10003,
+                "addr:teryt:sym_ul": 954202,
+                "contact:phone": "+48 768412646",
+                "contact:email": "sp3@scinawa.pl",
+                "contact:website": "https:\/\/zspscinawa.szkolna.net\/",
+                "ref:regon": "021429511",
+                "ref:vatin": "PL6921747599",
+                "operator": "Gmina \u015acinawa",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 131093"
+            }
+        },
+        {
+            "id": 85214,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.34846,
+                    51.45259
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 85214,
+                "official_name": "Szko\u0142a Podstawowa im. Orl\u0105t Lwowskich w Tymowej",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "59-330",
+                "addr:place": "Tymowa",
+                "addr:housenumber": "71",
+                "addr:teryt:sym_ul": 367769,
+                "contact:phone": "+48 768412640",
+                "contact:email": "sp-tymowa@wp.pl",
+                "ref:regon": "001240077",
+                "ref:vatin": "PL6921747607",
+                "operator": "Gmina \u015acinawa",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

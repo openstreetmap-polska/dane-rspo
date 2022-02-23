@@ -1,1 +1,68 @@
-{"type":"FeatureCollection","features":[{"id":29878,"type":"Feature","geometry":{"type":"Point","coordinates":[18.93611,50.06002]},"properties":{"ref:rspo":29878,"official_name":"Gminne Przedszkole","name":"Gminne Przedszkole","addr:country":"PL","addr:postcode":"43-210","addr:city":"Kobi\u00f3r","addr:street":"ul. Rodzinna","addr:housenumber":"1","addr:teryt:simc":18725,"addr:teryt:sym_ul":215321,"contact:phone":"+48 322188166","contact:email":"gpkobior@wp.pl","contact:website":"http:\/\/www.gpkobior.szkolnastrona.pl","ref:regon":"271512046","ref:vatin":"PL6381641034","operator":"Gmina Kobi\u00f3r","operator:type":"government","amenity":"kindergarten"}},{"id":30401,"type":"Feature","geometry":{"type":"Point","coordinates":[18.93029,50.06072]},"properties":{"isced:level":"1;2","ref:rspo":30401,"official_name":"Szko\u0142a Podstawowa im. Jana Brzechwy","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"43-210","addr:city":"Kobi\u00f3r","addr:street":"ul. Juliana Tuwima","addr:housenumber":"33","addr:teryt:simc":23196,"addr:teryt:sym_ul":215321,"contact:phone":"+48 322188200","contact:email":"szkola.kobior@wp.pl","contact:website":"http:\/\/spkobior.edupage.org","ref:regon":"000725909","ref:vatin":"PL6462330835","operator":"Gmina Kobi\u00f3r","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 29878,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.93611,
+                    50.06002
+                ]
+            },
+            "properties": {
+                "ref:rspo": 29878,
+                "official_name": "Gminne Przedszkole",
+                "name": "Gminne Przedszkole",
+                "addr:country": "PL",
+                "addr:postcode": "43-210",
+                "addr:city": "Kobi\u00f3r",
+                "addr:street": "ul. Rodzinna",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 18725,
+                "addr:teryt:sym_ul": 215321,
+                "contact:phone": "+48 322188166",
+                "contact:email": "gpkobior@wp.pl",
+                "contact:website": "http:\/\/www.gpkobior.szkolnastrona.pl",
+                "ref:regon": "271512046",
+                "ref:vatin": "PL6381641034",
+                "operator": "Gmina Kobi\u00f3r",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 30401,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.93029,
+                    50.06072
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 30401,
+                "official_name": "Szko\u0142a Podstawowa im. Jana Brzechwy",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "43-210",
+                "addr:city": "Kobi\u00f3r",
+                "addr:street": "ul. Juliana Tuwima",
+                "addr:housenumber": "33",
+                "addr:teryt:simc": 23196,
+                "addr:teryt:sym_ul": 215321,
+                "contact:phone": "+48 322188200",
+                "contact:email": "szkola.kobior@wp.pl",
+                "contact:website": "http:\/\/spkobior.edupage.org",
+                "ref:regon": "000725909",
+                "ref:vatin": "PL6462330835",
+                "operator": "Gmina Kobi\u00f3r",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

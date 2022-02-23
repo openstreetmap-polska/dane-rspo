@@ -1,1 +1,66 @@
-{"type":"FeatureCollection","features":[{"id":85984,"type":"Feature","geometry":{"type":"Point","coordinates":[23.89095,51.04702]},"properties":{"isced:level":"3","ref:rspo":85984,"official_name":"Liceum Og\u00f3lnokszta\u0142c\u0105ce im. 27 Wo\u0142y\u0144skiej Dywizji Armii Krajowej w Dubience","name":"Liceum Og\u00f3lnokszta\u0142c\u0105ce","addr:country":"PL","addr:postcode":"22-145","addr:city":"Dubienka","addr:street":"ul. 3 Maja","addr:housenumber":"4","addr:teryt:simc":11937,"addr:teryt:sym_ul":103131,"contact:phone":"+48 825668065","contact:email":"lo.dubienka@vp.pl","ref:regon":"110122809","ref:vatin":"PL5632446313","operator":"Powiat Che\u0142mski","operator:type":"government","amenity":"school"}},{"id":103505,"type":"Feature","geometry":{"type":"Point","coordinates":[23.89095,51.04699]},"properties":{"isced:level":"1;2","ref:rspo":103505,"official_name":"Szko\u0142a Podstawowa im. Bohater\u00f3w Artylerii I Armii Wojska Polskiego w Dubience","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"22-145","addr:city":"Dubienka","addr:street":"ul. 3 Maja","addr:housenumber":"4","addr:teryt:simc":11937,"addr:teryt:sym_ul":103131,"contact:phone":"+48 825668015","contact:email":"gzswd@xl.wp.pl","ref:regon":"110124205","operator":"Gmina Dubienka","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 85984,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.89095,
+                    51.04702
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 85984,
+                "official_name": "Liceum Og\u00f3lnokszta\u0142c\u0105ce im. 27 Wo\u0142y\u0144skiej Dywizji Armii Krajowej w Dubience",
+                "name": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+                "addr:country": "PL",
+                "addr:postcode": "22-145",
+                "addr:city": "Dubienka",
+                "addr:street": "ul. 3 Maja",
+                "addr:housenumber": "4",
+                "addr:teryt:simc": 11937,
+                "addr:teryt:sym_ul": 103131,
+                "contact:phone": "+48 825668065",
+                "contact:email": "lo.dubienka@vp.pl",
+                "ref:regon": "110122809",
+                "ref:vatin": "PL5632446313",
+                "operator": "Powiat Che\u0142mski",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 103505,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.89095,
+                    51.04699
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 103505,
+                "official_name": "Szko\u0142a Podstawowa im. Bohater\u00f3w Artylerii I Armii Wojska Polskiego w Dubience",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "22-145",
+                "addr:city": "Dubienka",
+                "addr:street": "ul. 3 Maja",
+                "addr:housenumber": "4",
+                "addr:teryt:simc": 11937,
+                "addr:teryt:sym_ul": 103131,
+                "contact:phone": "+48 825668015",
+                "contact:email": "gzswd@xl.wp.pl",
+                "ref:regon": "110124205",
+                "operator": "Gmina Dubienka",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

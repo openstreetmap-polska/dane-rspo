@@ -1,1 +1,65 @@
-{"type":"FeatureCollection","features":[{"id":12169,"type":"Feature","geometry":{"type":"Point","coordinates":[19.06347,50.66453]},"properties":{"isced:level":"1;2","ref:rspo":12169,"official_name":"Szko\u0142a Podstawowa im.j\u00f3zefa Lompy w Starczy","name":"Szko\u0142a Podstawowa im.j\u00f3zefa Lompy w Starczy","addr:country":"PL","addr:postcode":"42-261","addr:city":"Starcza","addr:street":"ul. Szkolna","addr:housenumber":"44","addr:teryt:simc":21970,"addr:teryt:sym_ul":145767,"contact:phone":"+48 343140305","contact:email":"oswiataug@wp.pl","ref:regon":"001204940","ref:vatin":"PL5731037888","operator":"Gmina Starcza","operator:type":"government","amenity":"school"}},{"id":12168,"type":"Feature","geometry":{"type":"Point","coordinates":[19.07039,50.66455]},"properties":{"ref:rspo":12168,"official_name":"Gminne Przedszkole w Starczy","name":"Gminne Przedszkole w Starczy","addr:country":"PL","addr:postcode":"42-261","addr:city":"Starcza","addr:street":"ul. Szkolna","addr:housenumber":"1","addr:teryt:simc":21970,"addr:teryt:sym_ul":145767,"contact:email":"oswiataug@wp.pl","ref:regon":"151475996","ref:vatin":"PL5732423429","operator":"Gmina Starcza","operator:type":"government","amenity":"kindergarten"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 12169,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.06347,
+                    50.66453
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 12169,
+                "official_name": "Szko\u0142a Podstawowa im.j\u00f3zefa Lompy w Starczy",
+                "name": "Szko\u0142a Podstawowa im.j\u00f3zefa Lompy w Starczy",
+                "addr:country": "PL",
+                "addr:postcode": "42-261",
+                "addr:city": "Starcza",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "44",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 145767,
+                "contact:phone": "+48 343140305",
+                "contact:email": "oswiataug@wp.pl",
+                "ref:regon": "001204940",
+                "ref:vatin": "PL5731037888",
+                "operator": "Gmina Starcza",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 12168,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.07039,
+                    50.66455
+                ]
+            },
+            "properties": {
+                "ref:rspo": 12168,
+                "official_name": "Gminne Przedszkole w Starczy",
+                "name": "Gminne Przedszkole w Starczy",
+                "addr:country": "PL",
+                "addr:postcode": "42-261",
+                "addr:city": "Starcza",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 145767,
+                "contact:email": "oswiataug@wp.pl",
+                "ref:regon": "151475996",
+                "ref:vatin": "PL5732423429",
+                "operator": "Gmina Starcza",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        }
+    ]
+}

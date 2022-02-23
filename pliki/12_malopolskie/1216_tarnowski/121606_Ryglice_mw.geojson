@@ -1,1 +1,614 @@
-{"type":"FeatureCollection","features":[{"id":85804,"type":"Feature","geometry":{"type":"Point","coordinates":[21.13659,49.8772]},"properties":{"ref:rspo":85804,"official_name":"Publiczne Przedszkole w Ryglicach","name":"Publiczne Przedszkole w Ryglicach","addr:country":"PL","addr:postcode":"33-160","addr:city":"Ryglice","addr:street":"ul. 11 Listopada","addr:housenumber":"8","addr:teryt:simc":11205,"addr:teryt:sym_ul":829098,"contact:phone":"+48 146541060","contact:email":"ppryglice@interia.pl","ref:regon":"850020480","ref:vatin":"PL8731877118","operator":"Gmina Ryglice","operator:type":"government","amenity":"kindergarten"}},{"id":38660,"type":"Feature","geometry":{"type":"Point","coordinates":[21.13576,49.88199]},"properties":{"ref:rspo":38660,"official_name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 Ponadpodstawowych im. Prof. Czes\u0142awa Majorka w Ryglicach","name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 Ponadpodstawowych","addr:country":"PL","addr:postcode":"33-160","addr:city":"Ryglice","addr:street":"ul. Tarnowska","addr:housenumber":"23","addr:teryt:simc":22681,"addr:teryt:sym_ul":829098,"contact:phone":"+48 146541008","contact:email":"szkola@zspryglice.pl","contact:website":"http:\/\/www.zspryglice.pl","ref:regon":"851743096","ref:vatin":"PL9930147587","operator":"Powiat Tarnowski","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 38662;38663;38665;38666;131470;272703"}},{"id":38662,"type":"Feature","geometry":{"type":"Point","coordinates":[21.13576,49.88196]},"properties":{"isced:level":"3","ref:rspo":38662,"official_name":"Bran\u017cowa Szko\u0142a I Stopnia w Ryglicach","name":"Bran\u017cowa Szko\u0142a I Stopnia w Ryglicach","addr:country":"PL","addr:postcode":"33-160","addr:city":"Ryglice","addr:street":"ul. Tarnowska","addr:housenumber":"23","addr:teryt:simc":22681,"addr:teryt:sym_ul":829098,"contact:phone":"+48 146541008","contact:email":"szkola@zspryglice.pl","contact:website":"http:\/\/www.zspryglice.pl","ref:regon":"852622354","operator":"Powiat Tarnowski","operator:type":"government","amenity":"school","note":"Parent RSPO: 38660"}},{"id":38663,"type":"Feature","geometry":{"type":"Point","coordinates":[21.13576,49.881930000000004]},"properties":{"isced:level":"3","ref:rspo":38663,"official_name":"Technikum w Ryglicach","name":"Technikum w Ryglicach","addr:country":"PL","addr:postcode":"33-160","addr:city":"Ryglice","addr:street":"ul. Tarnowska","addr:housenumber":"23","addr:teryt:simc":22681,"addr:teryt:sym_ul":829098,"contact:phone":"+48 146541008","contact:email":"szkola@zspryglice.pl","contact:website":"http:\/\/www.zspryglice.pl","ref:regon":"120086394","operator":"Powiat Tarnowski","operator:type":"government","amenity":"school","note":"Parent RSPO: 38660"}},{"id":38665,"type":"Feature","geometry":{"type":"Point","coordinates":[21.13576,49.8819]},"properties":{"isced:level":"4","ref:rspo":38665,"official_name":"Szkola Policealna w Ryglicach","name":"Szkola Policealna w Ryglicach","addr:country":"PL","addr:postcode":"33-160","addr:city":"Ryglice","addr:street":"ul. Tarnowska","addr:housenumber":"23","addr:teryt:simc":22681,"addr:teryt:sym_ul":829098,"contact:phone":"+48 146541008","contact:email":"szkola@zspryglice.pl","contact:website":"http:\/\/www.zspryglice.pl","ref:regon":"120086402","operator":"Powiat Tarnowski","operator:type":"government","amenity":"college","note":"Parent RSPO: 38660"}},{"id":38666,"type":"Feature","geometry":{"type":"Point","coordinates":[21.13576,49.88187]},"properties":{"isced:level":"4","ref:rspo":38666,"official_name":"Szko\u0142a Policealna w Ryglicach","name":"Szko\u0142a Policealna w Ryglicach","addr:country":"PL","addr:postcode":"33-160","addr:city":"Ryglice","addr:street":"ul. Tarnowska","addr:housenumber":"23","addr:teryt:simc":22681,"addr:teryt:sym_ul":829098,"contact:phone":"+48 146541008","contact:email":"szkola@zspryglice.pl","ref:regon":"852634587","operator":"Powiat Tarnowski","operator:type":"government","amenity":"college","note":"Parent RSPO: 38660"}},{"id":131470,"type":"Feature","geometry":{"type":"Point","coordinates":[21.13576,49.881840000000004]},"properties":{"isced:level":"3","ref:rspo":131470,"official_name":"Liceum Og\u00f3lnokszta\u0142c\u0105ce dla Doros\u0142ych w Ryglicach","name":"Liceum Og\u00f3lnokszta\u0142c\u0105ce dla Doros\u0142ych w Ryglicach","addr:country":"PL","addr:postcode":"33-160","addr:city":"Ryglice","addr:street":"ul. Tarnowska","addr:housenumber":"23","addr:teryt:simc":22681,"addr:teryt:sym_ul":829098,"contact:phone":"+48 146541008","ref:regon":"365189836","operator":"Powiat Tarnowski","operator:type":"government","amenity":"school","note":"Parent RSPO: 38660"}},{"id":272703,"type":"Feature","geometry":{"type":"Point","coordinates":[21.13576,49.88181]},"properties":{"isced:level":"3","ref:rspo":272703,"official_name":"Liceum Og\u00f3lnokszta\u0142c\u0105ce dla M\u0142odzie\u017cy w Ryglicach","name":"Liceum Og\u00f3lnokszta\u0142c\u0105ce dla M\u0142odzie\u017cy w Ryglicach","addr:country":"PL","addr:postcode":"33-160","addr:city":"Ryglice","addr:street":"ul. Tarnowska","addr:housenumber":"23","addr:teryt:simc":22681,"addr:teryt:sym_ul":829098,"contact:phone":"+48 146541008","ref:regon":"384277623","operator":"Powiat Tarnowski","operator:type":"government","amenity":"school","note":"Parent RSPO: 38660"}},{"id":72659,"type":"Feature","geometry":{"type":"Point","coordinates":[21.1357,49.88274]},"properties":{"isced:level":"1;2","ref:rspo":72659,"official_name":"Szko\u0142a Podstawowa im. Kardyna\u0142a Stefana Wyszy\u0144skiego w Ryglicach","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"33-160","addr:city":"Ryglice","addr:street":"ul. Tarnowska","addr:housenumber":"25","addr:teryt:simc":22681,"addr:teryt:sym_ul":829098,"contact:phone":"+48 146541018","contact:email":"szkola@spryglice.pl","contact:website":"http:\/\/www.spryglice.pl\/","ref:regon":"000718878","ref:vatin":"PL9930664087","operator":"Gmina Ryglice","operator:type":"government","amenity":"school"}},{"id":68646,"type":"Feature","geometry":{"type":"Point","coordinates":[21.1915849,49.8841542]},"properties":{"isced:level":"1;2","ref:rspo":68646,"official_name":"Szko\u0142a Podstawowa im. Janusza Korczaka w Kowalowej","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"33-161","addr:place":"Kowalowa","addr:housenumber":"10","addr:teryt:sym_ul":828880,"contact:phone":"+48 146541499","contact:email":"szkola@spkowalowa.pl","contact:website":"http:\/\/www.spkowalowa.pl","ref:regon":"001189040","ref:vatin":"PL8731791782","operator":"Gmina Ryglice","operator:type":"government","amenity":"school"}},{"id":272207,"type":"Feature","geometry":{"type":"Point","coordinates":[21.17468,49.88601]},"properties":{"isced:level":"1;2","ref:rspo":272207,"official_name":"Szko\u0142a Podstawowa im. Jana Paw\u0142a II w Joninach","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"33-160","addr:place":"Joniny","addr:housenumber":"3","addr:teryt:sym_ul":828816,"contact:phone":"+48 146541495","contact:email":"joniny@poczta.onet.pl","contact:website":"http:\/\/www.spjoniny.pl","ref:regon":"384031951","operator":"Gmina Ryglice","operator:type":"government","amenity":"school"}},{"id":78070,"type":"Feature","geometry":{"type":"Point","coordinates":[21.0968506,49.8958149]},"properties":{"isced:level":"1;2","ref:rspo":78070,"official_name":"Publiczna Szko\u0142a Podstawowa w Bistuszowej","name":"Publiczna Szko\u0142a Podstawowa w Bistuszowej","addr:country":"PL","addr:postcode":"33-160","addr:place":"Bistuszowa","addr:housenumber":"82","addr:teryt:sym_ul":828785,"contact:phone":"+48 146540077","contact:email":"spbistuszowa@interia.pl","contact:website":"http:\/\/www.sp.bistuszowa.info","ref:regon":"122709095","operator":"Stowarzyszenie Bistuszowian I Uniszowian","operator:type":"ngo","amenity":"school"}},{"id":123228,"type":"Feature","geometry":{"type":"Point","coordinates":[21.0968506,49.895784899999995]},"properties":{"ref:rspo":123228,"official_name":"Punkt Przedszkolny Przy Publicznej Szkole Podstawowej w Bistuszowej","name":"Punkt Przedszkolny Przy Publicznej Szkole Podstawowej w Bistuszowej","addr:country":"PL","addr:postcode":"33-160","addr:place":"Bistuszowa","addr:housenumber":"82","addr:teryt:sym_ul":828785,"contact:phone":"+48 146540077","contact:email":"spbistuszowa@interia.pl","contact:website":"http:\/\/www.sp.bistuszowa.info","ref:regon":"123134573","operator":"Stowarzyszenie Bistuszowian I Uniszowian","operator:type":"ngo","amenity":"kindergarten"}},{"id":70122,"type":"Feature","geometry":{"type":"Point","coordinates":[21.2581,49.9043]},"properties":{"ref:rspo":70122,"official_name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 w Lubczy","name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 w Lubczy","addr:country":"PL","addr:postcode":"33-162","addr:place":"Lubcza","addr:housenumber":"51","addr:teryt:sym_ul":828970,"contact:phone":"+48 146543693","contact:email":"sekretariat@szkolalubcza.pl","ref:regon":"120515903","ref:vatin":"PL9930526304","operator":"Gmina Ryglice","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 81533;81534"}},{"id":81533,"type":"Feature","geometry":{"type":"Point","coordinates":[21.2581,49.90427]},"properties":{"isced:level":"1;2","ref:rspo":81533,"official_name":"Szko\u0142a Podstawowa im.czes\u0142awa Wojewody w Lubczy","name":"Szko\u0142a Podstawowa im.czes\u0142awa Wojewody w Lubczy","addr:country":"PL","addr:postcode":"33-162","addr:place":"Lubcza","addr:housenumber":"51","addr:teryt:sym_ul":828970,"contact:phone":"+48 146543693","contact:email":"sekretariat@szkolalubcza.pl","contact:website":"http:\/\/www.szkolalubcza.pl\/","ref:regon":"001189057","operator":"Gmina Ryglice","operator:type":"government","amenity":"school","note":"Parent RSPO: 70122"}},{"id":81534,"type":"Feature","geometry":{"type":"Point","coordinates":[21.2581,49.90424]},"properties":{"ref:rspo":81534,"official_name":"Punkt Przedszkolny w Lubczy","name":"Punkt Przedszkolny w Lubczy","addr:country":"PL","addr:postcode":"33-162","addr:place":"Lubcza","addr:housenumber":"51","addr:teryt:sym_ul":828970,"contact:phone":"+48 146543693","ref:regon":"122709008","operator":"Gmina Ryglice","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 70122"}},{"id":272208,"type":"Feature","geometry":{"type":"Point","coordinates":[21.19605,49.91706]},"properties":{"isced:level":"1;2","ref:rspo":272208,"official_name":"Szko\u0142a Podstawowa w Woli Lubeckiej","name":"Szko\u0142a Podstawowa w Woli Lubeckiej","addr:country":"PL","addr:postcode":"33-162","addr:place":"Wola Lubecka","addr:housenumber":"164","addr:teryt:sym_ul":829230,"contact:phone":"+48 146542567","contact:email":"szkola@spwolalubecka.pl","contact:website":"https:\/\/spwolalubecka.pl","ref:regon":"384031610","operator":"Gmina Ryglice","operator:type":"government","amenity":"school"}},{"id":75084,"type":"Feature","geometry":{"type":"Point","coordinates":[21.12565,49.92634]},"properties":{"ref:rspo":75084,"official_name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w Zalasowej","name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w Zalasowej","addr:country":"PL","addr:postcode":"33-159","addr:city":"Zalasowa","addr:street":"ul. Karpacka","addr:housenumber":"21","addr:teryt:simc":8096,"addr:teryt:sym_ul":829276,"contact:phone":"+48 146543222","contact:email":"sekretariat@szkolazalasowa.pl","contact:website":"http:\/\/www.szkolazalasowa.pl","ref:regon":"120515843","ref:vatin":"PL9930526296","operator":"Gmina Ryglice","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 79274;79275"}},{"id":79274,"type":"Feature","geometry":{"type":"Point","coordinates":[21.12565,49.92631]},"properties":{"ref:rspo":79274,"official_name":"Publiczne Przedszkole","name":"Publiczne Przedszkole","addr:country":"PL","addr:postcode":"33-159","addr:city":"Zalasowa","addr:street":"ul. Karpacka","addr:housenumber":"21","addr:teryt:simc":8096,"addr:teryt:sym_ul":829276,"contact:phone":"+48 146543222","contact:email":"sekretariat@szkolazalasowa.pl","ref:regon":"120516021","operator":"Gmina Ryglice","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 75084"}},{"id":79275,"type":"Feature","geometry":{"type":"Point","coordinates":[21.12565,49.926280000000006]},"properties":{"isced:level":"1;2","ref:rspo":79275,"official_name":"Szko\u0142a Podstawowa im. \u015aw. Maksymiliana Marii Kolbego w Zalasowej","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"33-159","addr:city":"Zalasowa","addr:street":"ul. Karpacka","addr:housenumber":"21","addr:teryt:simc":8096,"addr:teryt:sym_ul":829276,"contact:phone":"+48 146543222","contact:email":"sekretariat@szkolazalasowa.pl","contact:website":"http:\/\/szkolazalasowa.pl","ref:regon":"001189070","operator":"Gmina Ryglice","operator:type":"government","amenity":"school","note":"Parent RSPO: 75084"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 85804,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.13659,
+                    49.8772
+                ]
+            },
+            "properties": {
+                "ref:rspo": 85804,
+                "official_name": "Publiczne Przedszkole w Ryglicach",
+                "name": "Publiczne Przedszkole w Ryglicach",
+                "addr:country": "PL",
+                "addr:postcode": "33-160",
+                "addr:city": "Ryglice",
+                "addr:street": "ul. 11 Listopada",
+                "addr:housenumber": "8",
+                "addr:teryt:simc": 11205,
+                "addr:teryt:sym_ul": 829098,
+                "contact:phone": "+48 146541060",
+                "contact:email": "ppryglice@interia.pl",
+                "ref:regon": "850020480",
+                "ref:vatin": "PL8731877118",
+                "operator": "Gmina Ryglice",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 38660,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.13576,
+                    49.88199
+                ]
+            },
+            "properties": {
+                "ref:rspo": 38660,
+                "official_name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Ponadpodstawowych im. Prof. Czes\u0142awa Majorka w Ryglicach",
+                "name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Ponadpodstawowych",
+                "addr:country": "PL",
+                "addr:postcode": "33-160",
+                "addr:city": "Ryglice",
+                "addr:street": "ul. Tarnowska",
+                "addr:housenumber": "23",
+                "addr:teryt:simc": 22681,
+                "addr:teryt:sym_ul": 829098,
+                "contact:phone": "+48 146541008",
+                "contact:email": "szkola@zspryglice.pl",
+                "contact:website": "http:\/\/www.zspryglice.pl",
+                "ref:regon": "851743096",
+                "ref:vatin": "PL9930147587",
+                "operator": "Powiat Tarnowski",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 38662;38663;38665;38666;131470;272703"
+            }
+        },
+        {
+            "id": 38662,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.13576,
+                    49.88196
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 38662,
+                "official_name": "Bran\u017cowa Szko\u0142a I Stopnia w Ryglicach",
+                "name": "Bran\u017cowa Szko\u0142a I Stopnia w Ryglicach",
+                "addr:country": "PL",
+                "addr:postcode": "33-160",
+                "addr:city": "Ryglice",
+                "addr:street": "ul. Tarnowska",
+                "addr:housenumber": "23",
+                "addr:teryt:simc": 22681,
+                "addr:teryt:sym_ul": 829098,
+                "contact:phone": "+48 146541008",
+                "contact:email": "szkola@zspryglice.pl",
+                "contact:website": "http:\/\/www.zspryglice.pl",
+                "ref:regon": "852622354",
+                "operator": "Powiat Tarnowski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 38660"
+            }
+        },
+        {
+            "id": 38663,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.13576,
+                    49.881930000000004
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 38663,
+                "official_name": "Technikum w Ryglicach",
+                "name": "Technikum w Ryglicach",
+                "addr:country": "PL",
+                "addr:postcode": "33-160",
+                "addr:city": "Ryglice",
+                "addr:street": "ul. Tarnowska",
+                "addr:housenumber": "23",
+                "addr:teryt:simc": 22681,
+                "addr:teryt:sym_ul": 829098,
+                "contact:phone": "+48 146541008",
+                "contact:email": "szkola@zspryglice.pl",
+                "contact:website": "http:\/\/www.zspryglice.pl",
+                "ref:regon": "120086394",
+                "operator": "Powiat Tarnowski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 38660"
+            }
+        },
+        {
+            "id": 38665,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.13576,
+                    49.8819
+                ]
+            },
+            "properties": {
+                "isced:level": "4",
+                "ref:rspo": 38665,
+                "official_name": "Szkola Policealna w Ryglicach",
+                "name": "Szkola Policealna w Ryglicach",
+                "addr:country": "PL",
+                "addr:postcode": "33-160",
+                "addr:city": "Ryglice",
+                "addr:street": "ul. Tarnowska",
+                "addr:housenumber": "23",
+                "addr:teryt:simc": 22681,
+                "addr:teryt:sym_ul": 829098,
+                "contact:phone": "+48 146541008",
+                "contact:email": "szkola@zspryglice.pl",
+                "contact:website": "http:\/\/www.zspryglice.pl",
+                "ref:regon": "120086402",
+                "operator": "Powiat Tarnowski",
+                "operator:type": "government",
+                "amenity": "college",
+                "note": "Parent RSPO: 38660"
+            }
+        },
+        {
+            "id": 38666,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.13576,
+                    49.88187
+                ]
+            },
+            "properties": {
+                "isced:level": "4",
+                "ref:rspo": 38666,
+                "official_name": "Szko\u0142a Policealna w Ryglicach",
+                "name": "Szko\u0142a Policealna w Ryglicach",
+                "addr:country": "PL",
+                "addr:postcode": "33-160",
+                "addr:city": "Ryglice",
+                "addr:street": "ul. Tarnowska",
+                "addr:housenumber": "23",
+                "addr:teryt:simc": 22681,
+                "addr:teryt:sym_ul": 829098,
+                "contact:phone": "+48 146541008",
+                "contact:email": "szkola@zspryglice.pl",
+                "ref:regon": "852634587",
+                "operator": "Powiat Tarnowski",
+                "operator:type": "government",
+                "amenity": "college",
+                "note": "Parent RSPO: 38660"
+            }
+        },
+        {
+            "id": 131470,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.13576,
+                    49.881840000000004
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 131470,
+                "official_name": "Liceum Og\u00f3lnokszta\u0142c\u0105ce dla Doros\u0142ych w Ryglicach",
+                "name": "Liceum Og\u00f3lnokszta\u0142c\u0105ce dla Doros\u0142ych w Ryglicach",
+                "addr:country": "PL",
+                "addr:postcode": "33-160",
+                "addr:city": "Ryglice",
+                "addr:street": "ul. Tarnowska",
+                "addr:housenumber": "23",
+                "addr:teryt:simc": 22681,
+                "addr:teryt:sym_ul": 829098,
+                "contact:phone": "+48 146541008",
+                "ref:regon": "365189836",
+                "operator": "Powiat Tarnowski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 38660"
+            }
+        },
+        {
+            "id": 272703,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.13576,
+                    49.88181
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 272703,
+                "official_name": "Liceum Og\u00f3lnokszta\u0142c\u0105ce dla M\u0142odzie\u017cy w Ryglicach",
+                "name": "Liceum Og\u00f3lnokszta\u0142c\u0105ce dla M\u0142odzie\u017cy w Ryglicach",
+                "addr:country": "PL",
+                "addr:postcode": "33-160",
+                "addr:city": "Ryglice",
+                "addr:street": "ul. Tarnowska",
+                "addr:housenumber": "23",
+                "addr:teryt:simc": 22681,
+                "addr:teryt:sym_ul": 829098,
+                "contact:phone": "+48 146541008",
+                "ref:regon": "384277623",
+                "operator": "Powiat Tarnowski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 38660"
+            }
+        },
+        {
+            "id": 72659,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.1357,
+                    49.88274
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 72659,
+                "official_name": "Szko\u0142a Podstawowa im. Kardyna\u0142a Stefana Wyszy\u0144skiego w Ryglicach",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "33-160",
+                "addr:city": "Ryglice",
+                "addr:street": "ul. Tarnowska",
+                "addr:housenumber": "25",
+                "addr:teryt:simc": 22681,
+                "addr:teryt:sym_ul": 829098,
+                "contact:phone": "+48 146541018",
+                "contact:email": "szkola@spryglice.pl",
+                "contact:website": "http:\/\/www.spryglice.pl\/",
+                "ref:regon": "000718878",
+                "ref:vatin": "PL9930664087",
+                "operator": "Gmina Ryglice",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 68646,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.1915849,
+                    49.8841542
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 68646,
+                "official_name": "Szko\u0142a Podstawowa im. Janusza Korczaka w Kowalowej",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "33-161",
+                "addr:place": "Kowalowa",
+                "addr:housenumber": "10",
+                "addr:teryt:sym_ul": 828880,
+                "contact:phone": "+48 146541499",
+                "contact:email": "szkola@spkowalowa.pl",
+                "contact:website": "http:\/\/www.spkowalowa.pl",
+                "ref:regon": "001189040",
+                "ref:vatin": "PL8731791782",
+                "operator": "Gmina Ryglice",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 272207,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.17468,
+                    49.88601
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 272207,
+                "official_name": "Szko\u0142a Podstawowa im. Jana Paw\u0142a II w Joninach",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "33-160",
+                "addr:place": "Joniny",
+                "addr:housenumber": "3",
+                "addr:teryt:sym_ul": 828816,
+                "contact:phone": "+48 146541495",
+                "contact:email": "joniny@poczta.onet.pl",
+                "contact:website": "http:\/\/www.spjoniny.pl",
+                "ref:regon": "384031951",
+                "operator": "Gmina Ryglice",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 78070,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0968506,
+                    49.8958149
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 78070,
+                "official_name": "Publiczna Szko\u0142a Podstawowa w Bistuszowej",
+                "name": "Publiczna Szko\u0142a Podstawowa w Bistuszowej",
+                "addr:country": "PL",
+                "addr:postcode": "33-160",
+                "addr:place": "Bistuszowa",
+                "addr:housenumber": "82",
+                "addr:teryt:sym_ul": 828785,
+                "contact:phone": "+48 146540077",
+                "contact:email": "spbistuszowa@interia.pl",
+                "contact:website": "http:\/\/www.sp.bistuszowa.info",
+                "ref:regon": "122709095",
+                "operator": "Stowarzyszenie Bistuszowian I Uniszowian",
+                "operator:type": "ngo",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 123228,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0968506,
+                    49.895784899999995
+                ]
+            },
+            "properties": {
+                "ref:rspo": 123228,
+                "official_name": "Punkt Przedszkolny Przy Publicznej Szkole Podstawowej w Bistuszowej",
+                "name": "Punkt Przedszkolny Przy Publicznej Szkole Podstawowej w Bistuszowej",
+                "addr:country": "PL",
+                "addr:postcode": "33-160",
+                "addr:place": "Bistuszowa",
+                "addr:housenumber": "82",
+                "addr:teryt:sym_ul": 828785,
+                "contact:phone": "+48 146540077",
+                "contact:email": "spbistuszowa@interia.pl",
+                "contact:website": "http:\/\/www.sp.bistuszowa.info",
+                "ref:regon": "123134573",
+                "operator": "Stowarzyszenie Bistuszowian I Uniszowian",
+                "operator:type": "ngo",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 70122,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.2581,
+                    49.9043
+                ]
+            },
+            "properties": {
+                "ref:rspo": 70122,
+                "official_name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 w Lubczy",
+                "name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 w Lubczy",
+                "addr:country": "PL",
+                "addr:postcode": "33-162",
+                "addr:place": "Lubcza",
+                "addr:housenumber": "51",
+                "addr:teryt:sym_ul": 828970,
+                "contact:phone": "+48 146543693",
+                "contact:email": "sekretariat@szkolalubcza.pl",
+                "ref:regon": "120515903",
+                "ref:vatin": "PL9930526304",
+                "operator": "Gmina Ryglice",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 81533;81534"
+            }
+        },
+        {
+            "id": 81533,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.2581,
+                    49.90427
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 81533,
+                "official_name": "Szko\u0142a Podstawowa im.czes\u0142awa Wojewody w Lubczy",
+                "name": "Szko\u0142a Podstawowa im.czes\u0142awa Wojewody w Lubczy",
+                "addr:country": "PL",
+                "addr:postcode": "33-162",
+                "addr:place": "Lubcza",
+                "addr:housenumber": "51",
+                "addr:teryt:sym_ul": 828970,
+                "contact:phone": "+48 146543693",
+                "contact:email": "sekretariat@szkolalubcza.pl",
+                "contact:website": "http:\/\/www.szkolalubcza.pl\/",
+                "ref:regon": "001189057",
+                "operator": "Gmina Ryglice",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 70122"
+            }
+        },
+        {
+            "id": 81534,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.2581,
+                    49.90424
+                ]
+            },
+            "properties": {
+                "ref:rspo": 81534,
+                "official_name": "Punkt Przedszkolny w Lubczy",
+                "name": "Punkt Przedszkolny w Lubczy",
+                "addr:country": "PL",
+                "addr:postcode": "33-162",
+                "addr:place": "Lubcza",
+                "addr:housenumber": "51",
+                "addr:teryt:sym_ul": 828970,
+                "contact:phone": "+48 146543693",
+                "ref:regon": "122709008",
+                "operator": "Gmina Ryglice",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 70122"
+            }
+        },
+        {
+            "id": 272208,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.19605,
+                    49.91706
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 272208,
+                "official_name": "Szko\u0142a Podstawowa w Woli Lubeckiej",
+                "name": "Szko\u0142a Podstawowa w Woli Lubeckiej",
+                "addr:country": "PL",
+                "addr:postcode": "33-162",
+                "addr:place": "Wola Lubecka",
+                "addr:housenumber": "164",
+                "addr:teryt:sym_ul": 829230,
+                "contact:phone": "+48 146542567",
+                "contact:email": "szkola@spwolalubecka.pl",
+                "contact:website": "https:\/\/spwolalubecka.pl",
+                "ref:regon": "384031610",
+                "operator": "Gmina Ryglice",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 75084,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.12565,
+                    49.92634
+                ]
+            },
+            "properties": {
+                "ref:rspo": 75084,
+                "official_name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w Zalasowej",
+                "name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w Zalasowej",
+                "addr:country": "PL",
+                "addr:postcode": "33-159",
+                "addr:city": "Zalasowa",
+                "addr:street": "ul. Karpacka",
+                "addr:housenumber": "21",
+                "addr:teryt:simc": 8096,
+                "addr:teryt:sym_ul": 829276,
+                "contact:phone": "+48 146543222",
+                "contact:email": "sekretariat@szkolazalasowa.pl",
+                "contact:website": "http:\/\/www.szkolazalasowa.pl",
+                "ref:regon": "120515843",
+                "ref:vatin": "PL9930526296",
+                "operator": "Gmina Ryglice",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 79274;79275"
+            }
+        },
+        {
+            "id": 79274,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.12565,
+                    49.92631
+                ]
+            },
+            "properties": {
+                "ref:rspo": 79274,
+                "official_name": "Publiczne Przedszkole",
+                "name": "Publiczne Przedszkole",
+                "addr:country": "PL",
+                "addr:postcode": "33-159",
+                "addr:city": "Zalasowa",
+                "addr:street": "ul. Karpacka",
+                "addr:housenumber": "21",
+                "addr:teryt:simc": 8096,
+                "addr:teryt:sym_ul": 829276,
+                "contact:phone": "+48 146543222",
+                "contact:email": "sekretariat@szkolazalasowa.pl",
+                "ref:regon": "120516021",
+                "operator": "Gmina Ryglice",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 75084"
+            }
+        },
+        {
+            "id": 79275,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.12565,
+                    49.926280000000006
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 79275,
+                "official_name": "Szko\u0142a Podstawowa im. \u015aw. Maksymiliana Marii Kolbego w Zalasowej",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "33-159",
+                "addr:city": "Zalasowa",
+                "addr:street": "ul. Karpacka",
+                "addr:housenumber": "21",
+                "addr:teryt:simc": 8096,
+                "addr:teryt:sym_ul": 829276,
+                "contact:phone": "+48 146543222",
+                "contact:email": "sekretariat@szkolazalasowa.pl",
+                "contact:website": "http:\/\/szkolazalasowa.pl",
+                "ref:regon": "001189070",
+                "operator": "Gmina Ryglice",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 75084"
+            }
+        }
+    ]
+}

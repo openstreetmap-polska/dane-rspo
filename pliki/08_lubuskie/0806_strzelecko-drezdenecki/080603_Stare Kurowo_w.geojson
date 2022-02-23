@@ -1,1 +1,99 @@
-{"type":"FeatureCollection","features":[{"id":12777,"type":"Feature","geometry":{"type":"Point","coordinates":[15.6977025,52.8522594]},"properties":{"isced:level":"1;2","ref:rspo":12777,"official_name":"Szko\u0142a Podstawowa w Nowym Kurowie","name":"Szko\u0142a Podstawowa w Nowym Kurowie","addr:country":"PL","addr:postcode":"66-540","addr:place":"Nowe Kurowo","addr:housenumber":"35","addr:teryt:sym_ul":187323,"contact:phone":"+48 957615015","contact:email":"spnkurowo@op.pl","contact:website":"http:\/\/spnkurowo.edupage.org","ref:regon":"210204987","ref:vatin":"PL5991172169","operator":"Gmina Stare Kurowo","operator:type":"government","amenity":"school"}},{"id":12612,"type":"Feature","geometry":{"type":"Point","coordinates":[15.66451,52.8556]},"properties":{"isced:level":"1;2","ref:rspo":12612,"official_name":"Szko\u0142a Podstawowa w Starym Kurowie im. Czes\u0142awa Wili\u0144skiego","name":"Szko\u0142a Podstawowa w Starym Kurowie","addr:country":"PL","addr:postcode":"66-540","addr:city":"Stare Kurowo","addr:street":"ul. Ko\u015bciuszki","addr:housenumber":"95","addr:teryt:simc":9572,"addr:teryt:sym_ul":187406,"contact:phone":"+48 957615011","contact:email":"sp_starekurowo@poczta.onet.pl","contact:website":"http:\/\/www.spstarekurowo.pl","ref:regon":"210204906","ref:vatin":"PL5991172175","operator":"Gmina Stare Kurowo","operator:type":"government","amenity":"school"}},{"id":22535,"type":"Feature","geometry":{"type":"Point","coordinates":[15.6716,52.85764]},"properties":{"ref:rspo":22535,"official_name":"Przedszkole Chatka Puchatka w Starym Kurowie","name":"Przedszkole Chatka Puchatka w Starym Kurowie","addr:country":"PL","addr:postcode":"66-540","addr:city":"Stare Kurowo","addr:street":"ul. Le\u015bna","addr:housenumber":"2a","addr:door":"2","addr:teryt:simc":10898,"addr:teryt:sym_ul":187406,"contact:phone":"+48 957615044","contact:email":"dyrekcja@chatkapuchatkask.pl","contact:website":"http:\/\/przedszkolestarekurowo.szkolnastrona.pl","ref:regon":"211270986","ref:vatin":"PL5991386717","operator":"Gmina Stare Kurowo","operator:type":"government","amenity":"kindergarten"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 12777,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6977025,
+                    52.8522594
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 12777,
+                "official_name": "Szko\u0142a Podstawowa w Nowym Kurowie",
+                "name": "Szko\u0142a Podstawowa w Nowym Kurowie",
+                "addr:country": "PL",
+                "addr:postcode": "66-540",
+                "addr:place": "Nowe Kurowo",
+                "addr:housenumber": "35",
+                "addr:teryt:sym_ul": 187323,
+                "contact:phone": "+48 957615015",
+                "contact:email": "spnkurowo@op.pl",
+                "contact:website": "http:\/\/spnkurowo.edupage.org",
+                "ref:regon": "210204987",
+                "ref:vatin": "PL5991172169",
+                "operator": "Gmina Stare Kurowo",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 12612,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.66451,
+                    52.8556
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 12612,
+                "official_name": "Szko\u0142a Podstawowa w Starym Kurowie im. Czes\u0142awa Wili\u0144skiego",
+                "name": "Szko\u0142a Podstawowa w Starym Kurowie",
+                "addr:country": "PL",
+                "addr:postcode": "66-540",
+                "addr:city": "Stare Kurowo",
+                "addr:street": "ul. Ko\u015bciuszki",
+                "addr:housenumber": "95",
+                "addr:teryt:simc": 9572,
+                "addr:teryt:sym_ul": 187406,
+                "contact:phone": "+48 957615011",
+                "contact:email": "sp_starekurowo@poczta.onet.pl",
+                "contact:website": "http:\/\/www.spstarekurowo.pl",
+                "ref:regon": "210204906",
+                "ref:vatin": "PL5991172175",
+                "operator": "Gmina Stare Kurowo",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 22535,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6716,
+                    52.85764
+                ]
+            },
+            "properties": {
+                "ref:rspo": 22535,
+                "official_name": "Przedszkole Chatka Puchatka w Starym Kurowie",
+                "name": "Przedszkole Chatka Puchatka w Starym Kurowie",
+                "addr:country": "PL",
+                "addr:postcode": "66-540",
+                "addr:city": "Stare Kurowo",
+                "addr:street": "ul. Le\u015bna",
+                "addr:housenumber": "2a",
+                "addr:door": "2",
+                "addr:teryt:simc": 10898,
+                "addr:teryt:sym_ul": 187406,
+                "contact:phone": "+48 957615044",
+                "contact:email": "dyrekcja@chatkapuchatkask.pl",
+                "contact:website": "http:\/\/przedszkolestarekurowo.szkolnastrona.pl",
+                "ref:regon": "211270986",
+                "ref:vatin": "PL5991386717",
+                "operator": "Gmina Stare Kurowo",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        }
+    ]
+}

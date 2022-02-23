@@ -1,1 +1,96 @@
-{"type":"FeatureCollection","features":[{"id":66423,"type":"Feature","geometry":{"type":"Point","coordinates":[22.9247799,54.17526]},"properties":{"isced:level":"1;2","ref:rspo":66423,"official_name":"Szko\u0142a Podstawowa w Prudziszkach","name":"Szko\u0142a Podstawowa w Prudziszkach","addr:country":"PL","addr:postcode":"16-404","addr:place":"Prudziszki","addr:housenumber":"10","addr:teryt:sym_ul":759363,"contact:phone":"+48 875623026","contact:email":"sp.prudziszki@edukator.lomza.pl","ref:regon":"200739845","ref:vatin":"PL7181729859","operator":"Spo\u0142eczno - O\u015bwiatowe Stowarzyszenie Pomocy Pokrzywdzonym I Niepe\u0142nosprawnym \"Edukator\"","operator:type":"ngo","amenity":"school"}},{"id":264351,"type":"Feature","geometry":{"type":"Point","coordinates":[22.91416,54.20608]},"properties":{"ref:rspo":264351,"official_name":"Przedszkole Niepubliczne \"Przyjaciele Tuptusia\" w Jeleniewie","name":"Przedszkole Niepubliczne \"Przyjaciele Tuptusia\" w Jeleniewie","addr:country":"PL","addr:postcode":"16-404","addr:city":"Jeleniewo","addr:street":"ul. Sportowa","addr:housenumber":"1A","addr:teryt:simc":20683,"addr:teryt:sym_ul":759280,"contact:phone":"+48 697312230","contact:email":"ankol1@op.pl","ref:regon":"368323650","ref:vatin":"PL8442355460","operator":"Fundacja Pro Sudovia","operator:type":"ngo","amenity":"kindergarten"}},{"id":63304,"type":"Feature","geometry":{"type":"Point","coordinates":[22.91153,54.20658]},"properties":{"isced:level":"1;2","ref:rspo":63304,"official_name":"Szko\u0142a Podstawowa im. Danuty Siedzik\u00f3wny \"Inki\" w Jeleniewie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"16-404","addr:city":"Jeleniewo","addr:street":"ul. Suwalska","addr:housenumber":"51","addr:teryt:simc":21614,"addr:teryt:sym_ul":759280,"contact:phone":"+48 875683033","contact:email":"spjeleniewo@onet.pl","contact:website":"http:\/\/www.spjeleniewo.edupage.org","ref:regon":"000649462","ref:vatin":"PL8442292067","operator":"Gmina Jeleniewo","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 66423,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.9247799,
+                    54.17526
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 66423,
+                "official_name": "Szko\u0142a Podstawowa w Prudziszkach",
+                "name": "Szko\u0142a Podstawowa w Prudziszkach",
+                "addr:country": "PL",
+                "addr:postcode": "16-404",
+                "addr:place": "Prudziszki",
+                "addr:housenumber": "10",
+                "addr:teryt:sym_ul": 759363,
+                "contact:phone": "+48 875623026",
+                "contact:email": "sp.prudziszki@edukator.lomza.pl",
+                "ref:regon": "200739845",
+                "ref:vatin": "PL7181729859",
+                "operator": "Spo\u0142eczno - O\u015bwiatowe Stowarzyszenie Pomocy Pokrzywdzonym I Niepe\u0142nosprawnym \"Edukator\"",
+                "operator:type": "ngo",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 264351,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.91416,
+                    54.20608
+                ]
+            },
+            "properties": {
+                "ref:rspo": 264351,
+                "official_name": "Przedszkole Niepubliczne \"Przyjaciele Tuptusia\" w Jeleniewie",
+                "name": "Przedszkole Niepubliczne \"Przyjaciele Tuptusia\" w Jeleniewie",
+                "addr:country": "PL",
+                "addr:postcode": "16-404",
+                "addr:city": "Jeleniewo",
+                "addr:street": "ul. Sportowa",
+                "addr:housenumber": "1A",
+                "addr:teryt:simc": 20683,
+                "addr:teryt:sym_ul": 759280,
+                "contact:phone": "+48 697312230",
+                "contact:email": "ankol1@op.pl",
+                "ref:regon": "368323650",
+                "ref:vatin": "PL8442355460",
+                "operator": "Fundacja Pro Sudovia",
+                "operator:type": "ngo",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 63304,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.91153,
+                    54.20658
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 63304,
+                "official_name": "Szko\u0142a Podstawowa im. Danuty Siedzik\u00f3wny \"Inki\" w Jeleniewie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "16-404",
+                "addr:city": "Jeleniewo",
+                "addr:street": "ul. Suwalska",
+                "addr:housenumber": "51",
+                "addr:teryt:simc": 21614,
+                "addr:teryt:sym_ul": 759280,
+                "contact:phone": "+48 875683033",
+                "contact:email": "spjeleniewo@onet.pl",
+                "contact:website": "http:\/\/www.spjeleniewo.edupage.org",
+                "ref:regon": "000649462",
+                "ref:vatin": "PL8442292067",
+                "operator": "Gmina Jeleniewo",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

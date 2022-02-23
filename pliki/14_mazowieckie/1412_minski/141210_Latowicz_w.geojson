@@ -1,1 +1,163 @@
-{"type":"FeatureCollection","features":[{"id":121498,"type":"Feature","geometry":{"type":"Point","coordinates":[21.75779,51.9955]},"properties":{"isced:level":"1;2","ref:rspo":121498,"official_name":"Szko\u0142a Filialna w D\u0119bem Ma\u0142ym Szko\u0142y Podstawowej im. Rodziny Wyle\u017cy\u0144skich w Wielgolesie","name":"Szko\u0142a Filialna w D\u0119bem Ma\u0142ym Szko\u0142y Podstawowej","addr:country":"PL","addr:postcode":"05-334","addr:place":"D\u0119be Ma\u0142e","addr:housenumber":"68","addr:teryt:sym_ul":677576,"contact:phone":"+48 257992188","contact:email":"zswielgolas@op.pl","contact:website":"http:\/\/zswielgolas.pl","ref:regon":"112435900","operator":"Gmina Latowicz","operator:type":"government","amenity":"school","note":"Parent RSPO: 59081"}},{"id":26223,"type":"Feature","geometry":{"type":"Point","coordinates":[21.80455,52.02586]},"properties":{"ref:rspo":26223,"official_name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 w Latowiczu","name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 w Latowiczu","addr:country":"PL","addr:postcode":"05-334","addr:city":"Latowicz","addr:street":"ul. Rynek","addr:housenumber":"24","addr:teryt:simc":19253,"addr:teryt:sym_ul":677636,"contact:phone":"+48 257521084","contact:email":"zs_latowicz@poczta.onet.pl","contact:website":"http:\/\/zslatowicz.pl","ref:regon":"712543755","ref:vatin":"PL8222099960","operator":"Gmina Latowicz","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 59078;59079"}},{"id":59078,"type":"Feature","geometry":{"type":"Point","coordinates":[21.80455,52.02583]},"properties":{"isced:level":"1;2","ref:rspo":59078,"official_name":"Szko\u0142a Podstawowa im. Kardyna\u0142a Stefana Wyszy\u0144skiego w Zespole Szk\u00f3\u0142 w Latowiczu","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"05-334","addr:city":"Latowicz","addr:street":"ul. Rynek","addr:housenumber":"24","addr:teryt:simc":19253,"addr:teryt:sym_ul":677636,"contact:phone":"+48 257521084","contact:email":"zs_latowicz@poczta.onet.pl","contact:website":"http:\/\/zslatowicz.pl","ref:regon":"000718016","operator":"Gmina Latowicz","operator:type":"government","amenity":"school","note":"Parent RSPO: 26223"}},{"id":59079,"type":"Feature","geometry":{"type":"Point","coordinates":[21.80455,52.025800000000004]},"properties":{"ref:rspo":59079,"official_name":"Przedszkole w Zespole Szk\u00f3\u0142 w Latowiczu","name":"Przedszkole w Zespole Szk\u00f3\u0142 w Latowiczu","addr:country":"PL","addr:postcode":"05-334","addr:city":"Latowicz","addr:street":"ul. Rynek","addr:housenumber":"24","addr:teryt:simc":19253,"addr:teryt:sym_ul":677636,"contact:phone":"+48 257521084","contact:email":"zs_latowicz@poczta.onet.pl","contact:website":"http:\/\/zslatowicz.pl","ref:regon":"146381635","operator":"Gmina Latowicz","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 26223"}},{"id":59081,"type":"Feature","geometry":{"type":"Point","coordinates":[21.72828,52.03728]},"properties":{"isced:level":"1;2","ref:rspo":59081,"official_name":"Szko\u0142a Podstawowa im. Rodziny Wyle\u017cy\u0144skich w Wielgolesie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"05-334","addr:city":"Wielgolas","addr:street":"ul. Szkolna","addr:housenumber":"11","addr:teryt:simc":21970,"addr:teryt:sym_ul":677790,"contact:phone":"+48 257992188","contact:email":"zswielgolas@op.pl","contact:website":"http:\/\/zswielgolas.pl","ref:regon":"001124359","operator":"Gmina Latowicz","operator:type":"government","amenity":"school","note":"Children RSPO: 121498"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 121498,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.75779,
+                    51.9955
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 121498,
+                "official_name": "Szko\u0142a Filialna w D\u0119bem Ma\u0142ym Szko\u0142y Podstawowej im. Rodziny Wyle\u017cy\u0144skich w Wielgolesie",
+                "name": "Szko\u0142a Filialna w D\u0119bem Ma\u0142ym Szko\u0142y Podstawowej",
+                "addr:country": "PL",
+                "addr:postcode": "05-334",
+                "addr:place": "D\u0119be Ma\u0142e",
+                "addr:housenumber": "68",
+                "addr:teryt:sym_ul": 677576,
+                "contact:phone": "+48 257992188",
+                "contact:email": "zswielgolas@op.pl",
+                "contact:website": "http:\/\/zswielgolas.pl",
+                "ref:regon": "112435900",
+                "operator": "Gmina Latowicz",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 59081"
+            }
+        },
+        {
+            "id": 26223,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.80455,
+                    52.02586
+                ]
+            },
+            "properties": {
+                "ref:rspo": 26223,
+                "official_name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 w Latowiczu",
+                "name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 w Latowiczu",
+                "addr:country": "PL",
+                "addr:postcode": "05-334",
+                "addr:city": "Latowicz",
+                "addr:street": "ul. Rynek",
+                "addr:housenumber": "24",
+                "addr:teryt:simc": 19253,
+                "addr:teryt:sym_ul": 677636,
+                "contact:phone": "+48 257521084",
+                "contact:email": "zs_latowicz@poczta.onet.pl",
+                "contact:website": "http:\/\/zslatowicz.pl",
+                "ref:regon": "712543755",
+                "ref:vatin": "PL8222099960",
+                "operator": "Gmina Latowicz",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 59078;59079"
+            }
+        },
+        {
+            "id": 59078,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.80455,
+                    52.02583
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 59078,
+                "official_name": "Szko\u0142a Podstawowa im. Kardyna\u0142a Stefana Wyszy\u0144skiego w Zespole Szk\u00f3\u0142 w Latowiczu",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "05-334",
+                "addr:city": "Latowicz",
+                "addr:street": "ul. Rynek",
+                "addr:housenumber": "24",
+                "addr:teryt:simc": 19253,
+                "addr:teryt:sym_ul": 677636,
+                "contact:phone": "+48 257521084",
+                "contact:email": "zs_latowicz@poczta.onet.pl",
+                "contact:website": "http:\/\/zslatowicz.pl",
+                "ref:regon": "000718016",
+                "operator": "Gmina Latowicz",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 26223"
+            }
+        },
+        {
+            "id": 59079,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.80455,
+                    52.025800000000004
+                ]
+            },
+            "properties": {
+                "ref:rspo": 59079,
+                "official_name": "Przedszkole w Zespole Szk\u00f3\u0142 w Latowiczu",
+                "name": "Przedszkole w Zespole Szk\u00f3\u0142 w Latowiczu",
+                "addr:country": "PL",
+                "addr:postcode": "05-334",
+                "addr:city": "Latowicz",
+                "addr:street": "ul. Rynek",
+                "addr:housenumber": "24",
+                "addr:teryt:simc": 19253,
+                "addr:teryt:sym_ul": 677636,
+                "contact:phone": "+48 257521084",
+                "contact:email": "zs_latowicz@poczta.onet.pl",
+                "contact:website": "http:\/\/zslatowicz.pl",
+                "ref:regon": "146381635",
+                "operator": "Gmina Latowicz",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 26223"
+            }
+        },
+        {
+            "id": 59081,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.72828,
+                    52.03728
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 59081,
+                "official_name": "Szko\u0142a Podstawowa im. Rodziny Wyle\u017cy\u0144skich w Wielgolesie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "05-334",
+                "addr:city": "Wielgolas",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "11",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 677790,
+                "contact:phone": "+48 257992188",
+                "contact:email": "zswielgolas@op.pl",
+                "contact:website": "http:\/\/zswielgolas.pl",
+                "ref:regon": "001124359",
+                "operator": "Gmina Latowicz",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Children RSPO: 121498"
+            }
+        }
+    ]
+}

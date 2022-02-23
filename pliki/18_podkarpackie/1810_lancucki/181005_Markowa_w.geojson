@@ -1,1 +1,204 @@
-{"type":"FeatureCollection","features":[{"id":278466,"type":"Feature","geometry":{"type":"Point","coordinates":[22.27875,49.95047]},"properties":{"ref:rspo":278466,"official_name":"Punkt Przedszkolny w Tarnawce","name":"Punkt Przedszkolny w Tarnawce","addr:country":"PL","addr:postcode":"37-121","addr:place":"Tarnawka","addr:housenumber":"126","addr:teryt:sym_ul":655511,"contact:phone":"+48 172472675","contact:email":"sp@szkolahusow.pl","ref:regon":"389905478","operator":"Gmina Markowa","operator:type":"government","amenity":"kindergarten"}},{"id":52541,"type":"Feature","geometry":{"type":"Point","coordinates":[22.28943,49.97763]},"properties":{"isced:level":"1;2","ref:rspo":52541,"official_name":"Szko\u0142a Podstawowa im. Jana Raka w Husowie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"37-121","addr:place":"Hus\u00f3w","addr:housenumber":"27","addr:teryt:sym_ul":655333,"contact:phone":"+48 172269207","contact:email":"sp@szkolahusow.pl","contact:website":"http:\/\/www.szkolahusow.pl","ref:regon":"691678221","ref:vatin":"PL8151769820","operator":"Gmina Markowa","operator:type":"government","amenity":"school"}},{"id":48746,"type":"Feature","geometry":{"type":"Point","coordinates":[22.26205,49.98686]},"properties":{"ref:rspo":48746,"official_name":"Przedszkole w Husowie","name":"Przedszkole w Husowie","addr:country":"PL","addr:postcode":"37-121","addr:place":"Hus\u00f3w","addr:housenumber":"451","addr:teryt:sym_ul":655333,"contact:phone":"+48 172269129","contact:email":"przedszkole1.husow@gmail.com","ref:regon":"180284130","ref:vatin":"PL8151806366","operator":"Gmina Markowa","operator:type":"government","amenity":"kindergarten"}},{"id":49559,"type":"Feature","geometry":{"type":"Point","coordinates":[22.30809,50.02257]},"properties":{"isced:level":"1;2","ref:rspo":49559,"official_name":"Szko\u0142a Podstawowa im. S\u0142ug Bo\u017cych Rodziny Ulm\u00f3w w Markowej","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"37-120","addr:place":"Markowa","addr:housenumber":"1351","addr:teryt:sym_ul":655391,"contact:phone":"+48 172265590","contact:email":"poczta@spmarkowa.pl","contact:website":"http:\/\/www.spmarkowa.pl","ref:regon":"000649976","ref:vatin":"PL8151802500","operator":"Gmina Markowa","operator:type":"government","amenity":"school"}},{"id":47955,"type":"Feature","geometry":{"type":"Point","coordinates":[22.28619,50.0228899]},"properties":{"ref:rspo":47955,"official_name":"Przedszkole Nr 2 w Markowej","name":"Przedszkole Nr 2 w Markowej","addr:country":"PL","addr:postcode":"37-120","addr:place":"Markowa","addr:housenumber":"1127","addr:teryt:sym_ul":655391,"contact:phone":"+48 172265578","contact:email":"przedszkole2.markowa@gmail.com","ref:regon":"180284093","ref:vatin":"PL8151806343","operator":"Gmina Markowa","operator:type":"government","amenity":"kindergarten"}},{"id":68008,"type":"Feature","geometry":{"type":"Point","coordinates":[22.31614,50.02384]},"properties":{"ref:rspo":68008,"official_name":"Ochronka Zgromadzenia Si\u00f3str S\u0142u\u017cebniczek Bdnp Niepubliczne Przedszkole w Markowej","name":"Ochronka Zgromadzenia Si\u00f3str S\u0142u\u017cebniczek Bdnp Niepubliczne Przedszkole w Markowej","addr:country":"PL","addr:postcode":"37-120","addr:place":"Markowa","addr:housenumber":"1478","addr:teryt:sym_ul":655391,"contact:phone":"+48 172265809","contact:email":"ochronka.markowa@siostry.net","ref:regon":"180901976","ref:vatin":"PL8151798193","operator":"Zgromadzenie Si\u00f3str S\u0142u\u017cebniczek Bdnp, Prowincja Tarnowska","operator:type":"religious","amenity":"kindergarten"}},{"id":48750,"type":"Feature","geometry":{"type":"Point","coordinates":[22.33318,50.02554]},"properties":{"ref:rspo":48750,"official_name":"Przedszkole Nr 1 w Markowej","name":"Przedszkole Nr 1 w Markowej","addr:country":"PL","addr:postcode":"37-120","addr:place":"Markowa","addr:housenumber":"1685","addr:teryt:sym_ul":655391,"contact:phone":"+48 172265919","contact:email":"przedszkole1.markowa@gmail.com","ref:regon":"180284101","ref:vatin":"PL8151806337","operator":"Gmina Markowa","operator:type":"government","amenity":"kindergarten"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 278466,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.27875,
+                    49.95047
+                ]
+            },
+            "properties": {
+                "ref:rspo": 278466,
+                "official_name": "Punkt Przedszkolny w Tarnawce",
+                "name": "Punkt Przedszkolny w Tarnawce",
+                "addr:country": "PL",
+                "addr:postcode": "37-121",
+                "addr:place": "Tarnawka",
+                "addr:housenumber": "126",
+                "addr:teryt:sym_ul": 655511,
+                "contact:phone": "+48 172472675",
+                "contact:email": "sp@szkolahusow.pl",
+                "ref:regon": "389905478",
+                "operator": "Gmina Markowa",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 52541,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.28943,
+                    49.97763
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 52541,
+                "official_name": "Szko\u0142a Podstawowa im. Jana Raka w Husowie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "37-121",
+                "addr:place": "Hus\u00f3w",
+                "addr:housenumber": "27",
+                "addr:teryt:sym_ul": 655333,
+                "contact:phone": "+48 172269207",
+                "contact:email": "sp@szkolahusow.pl",
+                "contact:website": "http:\/\/www.szkolahusow.pl",
+                "ref:regon": "691678221",
+                "ref:vatin": "PL8151769820",
+                "operator": "Gmina Markowa",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 48746,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.26205,
+                    49.98686
+                ]
+            },
+            "properties": {
+                "ref:rspo": 48746,
+                "official_name": "Przedszkole w Husowie",
+                "name": "Przedszkole w Husowie",
+                "addr:country": "PL",
+                "addr:postcode": "37-121",
+                "addr:place": "Hus\u00f3w",
+                "addr:housenumber": "451",
+                "addr:teryt:sym_ul": 655333,
+                "contact:phone": "+48 172269129",
+                "contact:email": "przedszkole1.husow@gmail.com",
+                "ref:regon": "180284130",
+                "ref:vatin": "PL8151806366",
+                "operator": "Gmina Markowa",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 49559,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.30809,
+                    50.02257
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 49559,
+                "official_name": "Szko\u0142a Podstawowa im. S\u0142ug Bo\u017cych Rodziny Ulm\u00f3w w Markowej",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "37-120",
+                "addr:place": "Markowa",
+                "addr:housenumber": "1351",
+                "addr:teryt:sym_ul": 655391,
+                "contact:phone": "+48 172265590",
+                "contact:email": "poczta@spmarkowa.pl",
+                "contact:website": "http:\/\/www.spmarkowa.pl",
+                "ref:regon": "000649976",
+                "ref:vatin": "PL8151802500",
+                "operator": "Gmina Markowa",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 47955,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.28619,
+                    50.0228899
+                ]
+            },
+            "properties": {
+                "ref:rspo": 47955,
+                "official_name": "Przedszkole Nr 2 w Markowej",
+                "name": "Przedszkole Nr 2 w Markowej",
+                "addr:country": "PL",
+                "addr:postcode": "37-120",
+                "addr:place": "Markowa",
+                "addr:housenumber": "1127",
+                "addr:teryt:sym_ul": 655391,
+                "contact:phone": "+48 172265578",
+                "contact:email": "przedszkole2.markowa@gmail.com",
+                "ref:regon": "180284093",
+                "ref:vatin": "PL8151806343",
+                "operator": "Gmina Markowa",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 68008,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.31614,
+                    50.02384
+                ]
+            },
+            "properties": {
+                "ref:rspo": 68008,
+                "official_name": "Ochronka Zgromadzenia Si\u00f3str S\u0142u\u017cebniczek Bdnp Niepubliczne Przedszkole w Markowej",
+                "name": "Ochronka Zgromadzenia Si\u00f3str S\u0142u\u017cebniczek Bdnp Niepubliczne Przedszkole w Markowej",
+                "addr:country": "PL",
+                "addr:postcode": "37-120",
+                "addr:place": "Markowa",
+                "addr:housenumber": "1478",
+                "addr:teryt:sym_ul": 655391,
+                "contact:phone": "+48 172265809",
+                "contact:email": "ochronka.markowa@siostry.net",
+                "ref:regon": "180901976",
+                "ref:vatin": "PL8151798193",
+                "operator": "Zgromadzenie Si\u00f3str S\u0142u\u017cebniczek Bdnp, Prowincja Tarnowska",
+                "operator:type": "religious",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 48750,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.33318,
+                    50.02554
+                ]
+            },
+            "properties": {
+                "ref:rspo": 48750,
+                "official_name": "Przedszkole Nr 1 w Markowej",
+                "name": "Przedszkole Nr 1 w Markowej",
+                "addr:country": "PL",
+                "addr:postcode": "37-120",
+                "addr:place": "Markowa",
+                "addr:housenumber": "1685",
+                "addr:teryt:sym_ul": 655391,
+                "contact:phone": "+48 172265919",
+                "contact:email": "przedszkole1.markowa@gmail.com",
+                "ref:regon": "180284101",
+                "ref:vatin": "PL8151806337",
+                "operator": "Gmina Markowa",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        }
+    ]
+}

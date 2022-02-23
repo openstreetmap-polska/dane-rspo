@@ -1,1 +1,96 @@
-{"type":"FeatureCollection","features":[{"id":71120,"type":"Feature","geometry":{"type":"Point","coordinates":[16.1549,53.1941599]},"properties":{"ref:rspo":71120,"official_name":"Publiczne Przedszkole w Tucznie Ul. Wolno\u015bci 3 78-640 Tuczno","name":"Publiczne Przedszkole w Tucznie Ul. Wolno\u015bci 3 78-640 Tuczno","addr:country":"PL","addr:postcode":"78-640","addr:city":"Tuczno","addr:street":"ul. Wolno\u015bci","addr:housenumber":"3","addr:teryt:simc":24687,"addr:teryt:sym_ul":967185,"contact:phone":"+48 672593056","contact:email":"przedszkoletuczno@wp.pl","contact:website":"http:\/\/przedszkolewtucznie.edupage.org\/","ref:regon":"320936283","ref:vatin":"PL7651676972","operator":"Gmina Tuczno","operator:type":"government","amenity":"kindergarten"}},{"id":109938,"type":"Feature","geometry":{"type":"Point","coordinates":[16.13545,53.24789]},"properties":{"isced:level":"1;2","ref:rspo":109938,"official_name":"Szko\u0142a Podstawowa im. Wedl\u00f3w- Tuczy\u0144skich w Tucznie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"78-640","addr:city":"Tuczno","addr:street":"ul. Szkolna","addr:housenumber":"41","addr:teryt:simc":21970,"addr:teryt:sym_ul":967185,"contact:phone":"+48 672593360","contact:email":"tuczno@wp.pl","ref:regon":"000807731","operator":"Gmina Tuczno","operator:type":"government","amenity":"school"}},{"id":71118,"type":"Feature","geometry":{"type":"Point","coordinates":[16.18683,53.26614]},"properties":{"isced:level":"1;2","ref:rspo":71118,"official_name":"Szko\u0142a Podstawowa im. Mieszka I w Marcinkowicach","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"78-641","addr:place":"Marcinkowice","addr:housenumber":"46A","addr:teryt:sym_ul":530703,"contact:phone":"+48 672590051","contact:email":"spmarcinkowice@wp.pl","contact:website":"http:\/\/www.szkolamarcinkowice.edupage.org","ref:regon":"001149224","ref:vatin":"PL7651676475","operator":"Gmina Tuczno","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 71120,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.1549,
+                    53.1941599
+                ]
+            },
+            "properties": {
+                "ref:rspo": 71120,
+                "official_name": "Publiczne Przedszkole w Tucznie Ul. Wolno\u015bci 3 78-640 Tuczno",
+                "name": "Publiczne Przedszkole w Tucznie Ul. Wolno\u015bci 3 78-640 Tuczno",
+                "addr:country": "PL",
+                "addr:postcode": "78-640",
+                "addr:city": "Tuczno",
+                "addr:street": "ul. Wolno\u015bci",
+                "addr:housenumber": "3",
+                "addr:teryt:simc": 24687,
+                "addr:teryt:sym_ul": 967185,
+                "contact:phone": "+48 672593056",
+                "contact:email": "przedszkoletuczno@wp.pl",
+                "contact:website": "http:\/\/przedszkolewtucznie.edupage.org\/",
+                "ref:regon": "320936283",
+                "ref:vatin": "PL7651676972",
+                "operator": "Gmina Tuczno",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 109938,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.13545,
+                    53.24789
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 109938,
+                "official_name": "Szko\u0142a Podstawowa im. Wedl\u00f3w- Tuczy\u0144skich w Tucznie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "78-640",
+                "addr:city": "Tuczno",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "41",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 967185,
+                "contact:phone": "+48 672593360",
+                "contact:email": "tuczno@wp.pl",
+                "ref:regon": "000807731",
+                "operator": "Gmina Tuczno",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 71118,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.18683,
+                    53.26614
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 71118,
+                "official_name": "Szko\u0142a Podstawowa im. Mieszka I w Marcinkowicach",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "78-641",
+                "addr:place": "Marcinkowice",
+                "addr:housenumber": "46A",
+                "addr:teryt:sym_ul": 530703,
+                "contact:phone": "+48 672590051",
+                "contact:email": "spmarcinkowice@wp.pl",
+                "contact:website": "http:\/\/www.szkolamarcinkowice.edupage.org",
+                "ref:regon": "001149224",
+                "ref:vatin": "PL7651676475",
+                "operator": "Gmina Tuczno",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

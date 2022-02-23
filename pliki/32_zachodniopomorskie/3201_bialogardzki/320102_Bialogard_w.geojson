@@ -1,1 +1,147 @@
-{"type":"FeatureCollection","features":[{"id":84553,"type":"Feature","geometry":{"type":"Point","coordinates":[15.896956,53.956789]},"properties":{"isced:level":"1;2","ref:rspo":84553,"official_name":"Szko\u0142a Podstawowa w Stanominie","name":"Szko\u0142a Podstawowa w Stanominie","addr:country":"PL","addr:postcode":"78-200","addr:place":"Stanomino","addr:housenumber":"30","addr:teryt:sym_ul":302907,"contact:phone":"+48 943112282","contact:email":"spstanomino@wp.pl","contact:website":"http:\/\/szkolastanomino.edupage.org","ref:regon":"330385591","operator":"Gmina Bia\u0142ogard","operator:type":"government","amenity":"school"}},{"id":84556,"type":"Feature","geometry":{"type":"Point","coordinates":[16.015863,53.971278]},"properties":{"isced:level":"1;2","ref:rspo":84556,"official_name":"Szko\u0142a Podstawowa Im Jana Brzechwy w Rogowie","name":"Szko\u0142a Podstawowa Im Jana Brzechwy w Rogowie","addr:country":"PL","addr:postcode":"78-200","addr:place":"Rogowo","addr:housenumber":"63","addr:teryt:sym_ul":303143,"contact:phone":"+48 943120015","contact:email":"szkolarogowo@wp.pl","contact:website":"http:\/\/www.szkolarogowo.edu.pl","ref:regon":"330386018","operator":"Gmina Bia\u0142ogard","operator:type":"government","amenity":"school"}},{"id":84555,"type":"Feature","geometry":{"type":"Point","coordinates":[16.0582878,54.0365597]},"properties":{"isced:level":"1;2","ref:rspo":84555,"official_name":"Szko\u0142a Podstawowa Im Ppor Ryszarda Kuleszy w Pomianowie","name":"Szko\u0142a Podstawowa Im Ppor Ryszarda Kuleszy w Pomianowie","addr:country":"PL","addr:postcode":"78-020","addr:place":"Pomianowo","addr:housenumber":"6","addr:teryt:sym_ul":303060,"contact:phone":"+48 943122399","contact:email":"kosciernica@wp.pl","contact:website":"http:\/\/www.spkosciernica@edupage.org","ref:regon":"330385616","ref:vatin":"PL6722082708","operator":"Gmina Bia\u0142ogard","operator:type":"government","amenity":"school"}},{"id":84557,"type":"Feature","geometry":{"type":"Point","coordinates":[16.0582878,54.036529699999996]},"properties":{"ref:rspo":84557,"official_name":"Gimnazjum Im Ignacego Krasickiego w Pomianowie","name":"Gimnazjum Im Ignacego Krasickiego w Pomianowie","addr:country":"PL","addr:postcode":"78-200","addr:place":"Pomianowo","addr:housenumber":"6","addr:teryt:sym_ul":303060,"contact:phone":"+48 943111325","contact:email":"pomgimn@wp.pl","ref:regon":"331008175","ref:vatin":"PL6722082720","operator":"Gmina Bia\u0142ogard","operator:type":"government","amenity":"school"}},{"id":84560,"type":"Feature","geometry":{"type":"Point","coordinates":[16.0582878,54.0364997]},"properties":{"ref:rspo":84560,"official_name":"Gimnazjum dla Doros\u0142ych w Pomianowie","name":"Gimnazjum dla Doros\u0142ych w Pomianowie","addr:country":"PL","addr:postcode":"78-200","addr:place":"Pomianowo","addr:housenumber":"6","addr:teryt:sym_ul":303060,"contact:phone":"+48 943111325","ref:regon":"331453952","operator":"Gmina Bia\u0142ogard","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 84553,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.896956,
+                    53.956789
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 84553,
+                "official_name": "Szko\u0142a Podstawowa w Stanominie",
+                "name": "Szko\u0142a Podstawowa w Stanominie",
+                "addr:country": "PL",
+                "addr:postcode": "78-200",
+                "addr:place": "Stanomino",
+                "addr:housenumber": "30",
+                "addr:teryt:sym_ul": 302907,
+                "contact:phone": "+48 943112282",
+                "contact:email": "spstanomino@wp.pl",
+                "contact:website": "http:\/\/szkolastanomino.edupage.org",
+                "ref:regon": "330385591",
+                "operator": "Gmina Bia\u0142ogard",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 84556,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.015863,
+                    53.971278
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 84556,
+                "official_name": "Szko\u0142a Podstawowa Im Jana Brzechwy w Rogowie",
+                "name": "Szko\u0142a Podstawowa Im Jana Brzechwy w Rogowie",
+                "addr:country": "PL",
+                "addr:postcode": "78-200",
+                "addr:place": "Rogowo",
+                "addr:housenumber": "63",
+                "addr:teryt:sym_ul": 303143,
+                "contact:phone": "+48 943120015",
+                "contact:email": "szkolarogowo@wp.pl",
+                "contact:website": "http:\/\/www.szkolarogowo.edu.pl",
+                "ref:regon": "330386018",
+                "operator": "Gmina Bia\u0142ogard",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 84555,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.0582878,
+                    54.0365597
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 84555,
+                "official_name": "Szko\u0142a Podstawowa Im Ppor Ryszarda Kuleszy w Pomianowie",
+                "name": "Szko\u0142a Podstawowa Im Ppor Ryszarda Kuleszy w Pomianowie",
+                "addr:country": "PL",
+                "addr:postcode": "78-020",
+                "addr:place": "Pomianowo",
+                "addr:housenumber": "6",
+                "addr:teryt:sym_ul": 303060,
+                "contact:phone": "+48 943122399",
+                "contact:email": "kosciernica@wp.pl",
+                "contact:website": "http:\/\/www.spkosciernica@edupage.org",
+                "ref:regon": "330385616",
+                "ref:vatin": "PL6722082708",
+                "operator": "Gmina Bia\u0142ogard",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 84557,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.0582878,
+                    54.036529699999996
+                ]
+            },
+            "properties": {
+                "ref:rspo": 84557,
+                "official_name": "Gimnazjum Im Ignacego Krasickiego w Pomianowie",
+                "name": "Gimnazjum Im Ignacego Krasickiego w Pomianowie",
+                "addr:country": "PL",
+                "addr:postcode": "78-200",
+                "addr:place": "Pomianowo",
+                "addr:housenumber": "6",
+                "addr:teryt:sym_ul": 303060,
+                "contact:phone": "+48 943111325",
+                "contact:email": "pomgimn@wp.pl",
+                "ref:regon": "331008175",
+                "ref:vatin": "PL6722082720",
+                "operator": "Gmina Bia\u0142ogard",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 84560,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.0582878,
+                    54.0364997
+                ]
+            },
+            "properties": {
+                "ref:rspo": 84560,
+                "official_name": "Gimnazjum dla Doros\u0142ych w Pomianowie",
+                "name": "Gimnazjum dla Doros\u0142ych w Pomianowie",
+                "addr:country": "PL",
+                "addr:postcode": "78-200",
+                "addr:place": "Pomianowo",
+                "addr:housenumber": "6",
+                "addr:teryt:sym_ul": 303060,
+                "contact:phone": "+48 943111325",
+                "ref:regon": "331453952",
+                "operator": "Gmina Bia\u0142ogard",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

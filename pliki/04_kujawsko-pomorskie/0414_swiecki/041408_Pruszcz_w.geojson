@@ -1,1 +1,227 @@
-{"type":"FeatureCollection","features":[{"id":30412,"type":"Feature","geometry":{"type":"Point","coordinates":[18.2286947,53.2907108]},"properties":{"isced:level":"1;2","ref:rspo":30412,"official_name":"Szko\u0142a Podstwowa im. Marii Konopnickiej w Niewie\u015bcinie","name":"Szko\u0142a Podstwowa","addr:country":"PL","addr:postcode":"86-120","addr:place":"Niewie\u015bcin","addr:housenumber":"45","addr:teryt:sym_ul":94001,"contact:phone":"+48 523320504","contact:email":"dyrektorspniewiescin@pruszcz.pl","contact:website":"http:\/\/www.spniewiescin.edu.pl","ref:regon":"091152897","ref:vatin":"PL5591242469","operator":"Gmina Pruszcz","operator:type":"government","amenity":"school"}},{"id":54355,"type":"Feature","geometry":{"type":"Point","coordinates":[18.1989899,53.32868]},"properties":{"isced:level":"1;2","ref:rspo":54355,"official_name":"Szko\u0142a Podstawowa w Pruszczu","name":"Szko\u0142a Podstawowa w Pruszczu","addr:country":"PL","addr:postcode":"86-120","addr:city":"Pruszcz","addr:street":"ul. Ko\u015bcielna","addr:housenumber":"4","addr:teryt:simc":9546,"addr:teryt:sym_ul":94024,"contact:phone":"+48 533153853","contact:email":"sekretariatsppruszcz@pruszcz.pl","contact:website":"http:\/\/szkolapruszcz.edupage.org","ref:regon":"091152911","ref:vatin":"PL5591244014","operator":"Gmina Pruszcz","operator:type":"government","amenity":"school"}},{"id":54353,"type":"Feature","geometry":{"type":"Point","coordinates":[18.1986199,53.32931]},"properties":{"ref:rspo":54353,"official_name":"Przedszkole Samorz\u0105dowe w Pruszczu","name":"Przedszkole Samorz\u0105dowe w Pruszczu","addr:country":"PL","addr:postcode":"86-120","addr:city":"Pruszcz","addr:street":"ul. Ko\u015bcielna","addr:housenumber":"2","addr:teryt:simc":9546,"addr:teryt:sym_ul":94024,"contact:email":"dyrektorprzedszkolepruszcz@pruszcz.pl","contact:website":"http:\/\/www.przedszkolepruszcz.szkolnastrona.pl","ref:regon":"000950954","ref:vatin":"PL5591789765","operator":"Gmina Pruszcz","operator:type":"government","amenity":"kindergarten"}},{"id":277903,"type":"Feature","geometry":{"type":"Point","coordinates":[18.0723999,53.35499]},"properties":{"ref:rspo":277903,"official_name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w Serocku","name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w Serocku","addr:country":"PL","addr:postcode":"86-120","addr:city":"Serock","addr:street":"ul. Wyzwolenia","addr:housenumber":"47","addr:teryt:simc":25133,"addr:teryt:sym_ul":94060,"contact:phone":"+48 523829526","contact:email":"dyrektorspserock@pruszcz.pl","contact:website":"http:\/\/www.szkola-serock.edupage.org","ref:regon":"389650564","ref:vatin":"PL5592056119","operator":"Gmina Pruszcz","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 30413;54354"}},{"id":30413,"type":"Feature","geometry":{"type":"Point","coordinates":[18.0723999,53.35496]},"properties":{"isced:level":"1;2","ref:rspo":30413,"official_name":"Szko\u0142a Podstawowa w Serocku","name":"Szko\u0142a Podstawowa w Serocku","addr:country":"PL","addr:postcode":"86-120","addr:city":"Serock","addr:street":"ul. Wyzwolenia","addr:housenumber":"47","addr:teryt:simc":25133,"addr:teryt:sym_ul":94060,"contact:phone":"+48 523829526","contact:email":"sekretariatspserock@pruszcz.pl","contact:website":"http:\/\/www.szkola-serock.edupage.org","ref:regon":"091152905","ref:vatin":"PL5591241122","operator":"Gmina Pruszcz","operator:type":"government","amenity":"school","note":"Parent RSPO: 277903"}},{"id":54354,"type":"Feature","geometry":{"type":"Point","coordinates":[18.08051,53.35682]},"properties":{"ref:rspo":54354,"official_name":"Przedszkole Samorz\u0105dowe w Serocku","name":"Przedszkole Samorz\u0105dowe w Serocku","addr:country":"PL","addr:postcode":"86-120","addr:city":"Serock","addr:street":"ul. Dworcowa","addr:housenumber":"1","addr:teryt:simc":4434,"addr:teryt:sym_ul":94060,"contact:phone":"+48 523829579","contact:email":"dyrektorprzedszkoleserock@pruszcz.pl","contact:website":"http:\/\/ps.serock.szkolnastrona.pl","ref:regon":"092531697","ref:vatin":"PL5591789653","operator":"Gmina Pruszcz","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 277903"}},{"id":30411,"type":"Feature","geometry":{"type":"Point","coordinates":[18.12857,53.35998]},"properties":{"isced:level":"1;2","ref:rspo":30411,"official_name":"Szko\u0142a Podstawowa im. Janusza Korczaka w \u0141owinku","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"86-120","addr:city":"\u0141owinek","addr:street":"ul. Szkolna","addr:housenumber":"1","addr:teryt:simc":21970,"addr:teryt:sym_ul":93958,"contact:phone":"+48 525629887","contact:email":"sekretariatsplowinek@pruszcz.pl","contact:website":"http:\/\/sp.lowinek.edupage.org","ref:regon":"091152880","ref:vatin":"PL5591240453","operator":"Gmina Pruszcz","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 30412,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.2286947,
+                    53.2907108
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 30412,
+                "official_name": "Szko\u0142a Podstwowa im. Marii Konopnickiej w Niewie\u015bcinie",
+                "name": "Szko\u0142a Podstwowa",
+                "addr:country": "PL",
+                "addr:postcode": "86-120",
+                "addr:place": "Niewie\u015bcin",
+                "addr:housenumber": "45",
+                "addr:teryt:sym_ul": 94001,
+                "contact:phone": "+48 523320504",
+                "contact:email": "dyrektorspniewiescin@pruszcz.pl",
+                "contact:website": "http:\/\/www.spniewiescin.edu.pl",
+                "ref:regon": "091152897",
+                "ref:vatin": "PL5591242469",
+                "operator": "Gmina Pruszcz",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 54355,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.1989899,
+                    53.32868
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 54355,
+                "official_name": "Szko\u0142a Podstawowa w Pruszczu",
+                "name": "Szko\u0142a Podstawowa w Pruszczu",
+                "addr:country": "PL",
+                "addr:postcode": "86-120",
+                "addr:city": "Pruszcz",
+                "addr:street": "ul. Ko\u015bcielna",
+                "addr:housenumber": "4",
+                "addr:teryt:simc": 9546,
+                "addr:teryt:sym_ul": 94024,
+                "contact:phone": "+48 533153853",
+                "contact:email": "sekretariatsppruszcz@pruszcz.pl",
+                "contact:website": "http:\/\/szkolapruszcz.edupage.org",
+                "ref:regon": "091152911",
+                "ref:vatin": "PL5591244014",
+                "operator": "Gmina Pruszcz",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 54353,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.1986199,
+                    53.32931
+                ]
+            },
+            "properties": {
+                "ref:rspo": 54353,
+                "official_name": "Przedszkole Samorz\u0105dowe w Pruszczu",
+                "name": "Przedszkole Samorz\u0105dowe w Pruszczu",
+                "addr:country": "PL",
+                "addr:postcode": "86-120",
+                "addr:city": "Pruszcz",
+                "addr:street": "ul. Ko\u015bcielna",
+                "addr:housenumber": "2",
+                "addr:teryt:simc": 9546,
+                "addr:teryt:sym_ul": 94024,
+                "contact:email": "dyrektorprzedszkolepruszcz@pruszcz.pl",
+                "contact:website": "http:\/\/www.przedszkolepruszcz.szkolnastrona.pl",
+                "ref:regon": "000950954",
+                "ref:vatin": "PL5591789765",
+                "operator": "Gmina Pruszcz",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 277903,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0723999,
+                    53.35499
+                ]
+            },
+            "properties": {
+                "ref:rspo": 277903,
+                "official_name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w Serocku",
+                "name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w Serocku",
+                "addr:country": "PL",
+                "addr:postcode": "86-120",
+                "addr:city": "Serock",
+                "addr:street": "ul. Wyzwolenia",
+                "addr:housenumber": "47",
+                "addr:teryt:simc": 25133,
+                "addr:teryt:sym_ul": 94060,
+                "contact:phone": "+48 523829526",
+                "contact:email": "dyrektorspserock@pruszcz.pl",
+                "contact:website": "http:\/\/www.szkola-serock.edupage.org",
+                "ref:regon": "389650564",
+                "ref:vatin": "PL5592056119",
+                "operator": "Gmina Pruszcz",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 30413;54354"
+            }
+        },
+        {
+            "id": 30413,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0723999,
+                    53.35496
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 30413,
+                "official_name": "Szko\u0142a Podstawowa w Serocku",
+                "name": "Szko\u0142a Podstawowa w Serocku",
+                "addr:country": "PL",
+                "addr:postcode": "86-120",
+                "addr:city": "Serock",
+                "addr:street": "ul. Wyzwolenia",
+                "addr:housenumber": "47",
+                "addr:teryt:simc": 25133,
+                "addr:teryt:sym_ul": 94060,
+                "contact:phone": "+48 523829526",
+                "contact:email": "sekretariatspserock@pruszcz.pl",
+                "contact:website": "http:\/\/www.szkola-serock.edupage.org",
+                "ref:regon": "091152905",
+                "ref:vatin": "PL5591241122",
+                "operator": "Gmina Pruszcz",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 277903"
+            }
+        },
+        {
+            "id": 54354,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.08051,
+                    53.35682
+                ]
+            },
+            "properties": {
+                "ref:rspo": 54354,
+                "official_name": "Przedszkole Samorz\u0105dowe w Serocku",
+                "name": "Przedszkole Samorz\u0105dowe w Serocku",
+                "addr:country": "PL",
+                "addr:postcode": "86-120",
+                "addr:city": "Serock",
+                "addr:street": "ul. Dworcowa",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 4434,
+                "addr:teryt:sym_ul": 94060,
+                "contact:phone": "+48 523829579",
+                "contact:email": "dyrektorprzedszkoleserock@pruszcz.pl",
+                "contact:website": "http:\/\/ps.serock.szkolnastrona.pl",
+                "ref:regon": "092531697",
+                "ref:vatin": "PL5591789653",
+                "operator": "Gmina Pruszcz",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 277903"
+            }
+        },
+        {
+            "id": 30411,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.12857,
+                    53.35998
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 30411,
+                "official_name": "Szko\u0142a Podstawowa im. Janusza Korczaka w \u0141owinku",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "86-120",
+                "addr:city": "\u0141owinek",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 93958,
+                "contact:phone": "+48 525629887",
+                "contact:email": "sekretariatsplowinek@pruszcz.pl",
+                "contact:website": "http:\/\/sp.lowinek.edupage.org",
+                "ref:regon": "091152880",
+                "ref:vatin": "PL5591240453",
+                "operator": "Gmina Pruszcz",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

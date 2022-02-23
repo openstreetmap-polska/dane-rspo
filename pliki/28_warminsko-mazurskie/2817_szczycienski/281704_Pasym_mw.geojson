@@ -1,1 +1,125 @@
-{"type":"FeatureCollection","features":[{"id":15661,"type":"Feature","geometry":{"type":"Point","coordinates":[20.86263,53.6126099]},"properties":{"isced:level":"1;2","ref:rspo":15661,"official_name":"Szko\u0142a Podstawowa w Gromie","name":"Szko\u0142a Podstawowa w Gromie","addr:country":"PL","addr:postcode":"12-130","addr:place":"Grom","addr:housenumber":"67","addr:teryt:sym_ul":485724,"contact:phone":"+48 896212297","contact:email":"sp_grom@wp.pl","ref:regon":"281429225","operator":"Andrzej Modzelewski","operator:type":"private","amenity":"school"}},{"id":15659,"type":"Feature","geometry":{"type":"Point","coordinates":[20.74572,53.63617]},"properties":{"isced:level":"1;2","ref:rspo":15659,"official_name":"Szko\u0142a Podstawowa w Tylkowie","name":"Szko\u0142a Podstawowa w Tylkowie","addr:country":"PL","addr:postcode":"12-130","addr:place":"Tylkowo","addr:housenumber":"1","addr:door":"1","addr:teryt:sym_ul":485919,"contact:phone":"+48 896212131","contact:email":"sptylkowo@wp.pl","ref:regon":"001209274","ref:vatin":"PL7451712491","operator":"Gmina Pasym","operator:type":"government","amenity":"school"}},{"id":112205,"type":"Feature","geometry":{"type":"Point","coordinates":[20.77776,53.63976]},"properties":{"isced:level":"1;2","ref:rspo":112205,"official_name":"Szko\u0142a Podstawowa w Pasymiu","name":"Szko\u0142a Podstawowa w Pasymiu","addr:country":"PL","addr:postcode":"12-130","addr:city":"Pasym","addr:street":"ul. Jana Paw\u0142a II","addr:housenumber":"4","addr:teryt:simc":7123,"addr:teryt:sym_ul":485813,"contact:phone":"+48 896212970","contact:email":"sppasym@poczta.onet.pl","contact:website":"http:\/\/www.sppasym.pl\/sppasym\/index.html","ref:regon":"000268079","ref:vatin":"PL7451712462","operator":"Gmina Pasym","operator:type":"government","amenity":"school"}},{"id":112204,"type":"Feature","geometry":{"type":"Point","coordinates":[20.79084,53.64828]},"properties":{"ref:rspo":112204,"official_name":"Przedszkole w Pasymiu","name":"Przedszkole w Pasymiu","addr:country":"PL","addr:postcode":"12-130","addr:city":"Pasym","addr:street":"ul. Dworcowa","addr:housenumber":"25","addr:teryt:simc":4434,"addr:teryt:sym_ul":485813,"contact:email":"przedszkolepasym@gmail.com","contact:website":"http:\/\/przedszkolepasym.cba.pl","ref:regon":"511391321","ref:vatin":"PL7450004421","operator":"Gmina Pasym","operator:type":"government","amenity":"kindergarten"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 15661,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.86263,
+                    53.6126099
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 15661,
+                "official_name": "Szko\u0142a Podstawowa w Gromie",
+                "name": "Szko\u0142a Podstawowa w Gromie",
+                "addr:country": "PL",
+                "addr:postcode": "12-130",
+                "addr:place": "Grom",
+                "addr:housenumber": "67",
+                "addr:teryt:sym_ul": 485724,
+                "contact:phone": "+48 896212297",
+                "contact:email": "sp_grom@wp.pl",
+                "ref:regon": "281429225",
+                "operator": "Andrzej Modzelewski",
+                "operator:type": "private",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 15659,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.74572,
+                    53.63617
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 15659,
+                "official_name": "Szko\u0142a Podstawowa w Tylkowie",
+                "name": "Szko\u0142a Podstawowa w Tylkowie",
+                "addr:country": "PL",
+                "addr:postcode": "12-130",
+                "addr:place": "Tylkowo",
+                "addr:housenumber": "1",
+                "addr:door": "1",
+                "addr:teryt:sym_ul": 485919,
+                "contact:phone": "+48 896212131",
+                "contact:email": "sptylkowo@wp.pl",
+                "ref:regon": "001209274",
+                "ref:vatin": "PL7451712491",
+                "operator": "Gmina Pasym",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 112205,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.77776,
+                    53.63976
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 112205,
+                "official_name": "Szko\u0142a Podstawowa w Pasymiu",
+                "name": "Szko\u0142a Podstawowa w Pasymiu",
+                "addr:country": "PL",
+                "addr:postcode": "12-130",
+                "addr:city": "Pasym",
+                "addr:street": "ul. Jana Paw\u0142a II",
+                "addr:housenumber": "4",
+                "addr:teryt:simc": 7123,
+                "addr:teryt:sym_ul": 485813,
+                "contact:phone": "+48 896212970",
+                "contact:email": "sppasym@poczta.onet.pl",
+                "contact:website": "http:\/\/www.sppasym.pl\/sppasym\/index.html",
+                "ref:regon": "000268079",
+                "ref:vatin": "PL7451712462",
+                "operator": "Gmina Pasym",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 112204,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.79084,
+                    53.64828
+                ]
+            },
+            "properties": {
+                "ref:rspo": 112204,
+                "official_name": "Przedszkole w Pasymiu",
+                "name": "Przedszkole w Pasymiu",
+                "addr:country": "PL",
+                "addr:postcode": "12-130",
+                "addr:city": "Pasym",
+                "addr:street": "ul. Dworcowa",
+                "addr:housenumber": "25",
+                "addr:teryt:simc": 4434,
+                "addr:teryt:sym_ul": 485813,
+                "contact:email": "przedszkolepasym@gmail.com",
+                "contact:website": "http:\/\/przedszkolepasym.cba.pl",
+                "ref:regon": "511391321",
+                "ref:vatin": "PL7450004421",
+                "operator": "Gmina Pasym",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        }
+    ]
+}

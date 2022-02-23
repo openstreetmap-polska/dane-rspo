@@ -1,1 +1,121 @@
-{"type":"FeatureCollection","features":[{"id":91134,"type":"Feature","geometry":{"type":"Point","coordinates":[19.0724346,52.1020488]},"properties":{"isced:level":"1;2","ref:rspo":91134,"official_name":"Szko\u0142a Podstawowa im.prof.wac\u0142awa Felczaka w Chorkach","name":"Szko\u0142a Podstawowa im.prof.wac\u0142awa Felczaka w Chorkach","addr:country":"PL","addr:postcode":"99-150","addr:place":"Chorki","addr:housenumber":"8","addr:teryt:sym_ul":283937,"contact:phone":"+48 632734120","contact:email":"spchorki@poczta.fm","ref:regon":"001168753","operator":"Gmina Grab\u00f3w","operator:type":"government","amenity":"school"}},{"id":91138,"type":"Feature","geometry":{"type":"Point","coordinates":[19.00312,52.12881]},"properties":{"isced:level":"1;2","ref:rspo":91138,"official_name":"Szko\u0142a Podstawowa im. Jana Kochanowskiego w Grabowie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"99-150","addr:city":"Grab\u00f3w","addr:street":"ul. Kochanowskiego","addr:housenumber":"2a","addr:teryt:simc":8725,"addr:teryt:sym_ul":284003,"contact:phone":"+48 632734242","contact:email":"spgrabow@wp.pl","contact:website":"http:\/\/www.szkolnastrona.spgrabow.pl","ref:regon":"000268004","operator":"Gmina Grab\u00f3w","operator:type":"government","amenity":"school"}},{"id":91136,"type":"Feature","geometry":{"type":"Point","coordinates":[19.03167,52.18455]},"properties":{"isced:level":"1;2","ref:rspo":91136,"official_name":"Szko\u0142a Podstawowa Im Marii Konopnickiej w Starej Sob\u00f3tce","name":"Szko\u0142a Podstawowa Im Marii Konopnickiej w Starej Sob\u00f3tce","addr:country":"PL","addr:postcode":"99-150","addr:place":"Stara Sob\u00f3tka","addr:housenumber":"31","addr:teryt:sym_ul":284530,"contact:phone":"+48 632634341","contact:email":"spsobotka@op.pl","contact:website":"http:\/\/www.spsobotka.edu.pl","ref:regon":"001168776","operator":"Gmina Grab\u00f3w","operator:type":"government","amenity":"school"}},{"id":91135,"type":"Feature","geometry":{"type":"Point","coordinates":[18.936558,52.186085]},"properties":{"isced:level":"1;2","ref:rspo":91135,"official_name":"Szko\u0142a Podstawowa w Kadzid\u0142owej","name":"Szko\u0142a Podstawowa w Kadzid\u0142owej","addr:country":"PL","addr:postcode":"99-150","addr:place":"Kadzid\u0142owa","addr:housenumber":"22","addr:teryt:sym_ul":284061,"contact:phone":"+48 632739555","contact:email":"spkadzidlowa@o2.pl","ref:regon":"001168760","operator":"Gmina Grab\u00f3w","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 91134,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0724346,
+                    52.1020488
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 91134,
+                "official_name": "Szko\u0142a Podstawowa im.prof.wac\u0142awa Felczaka w Chorkach",
+                "name": "Szko\u0142a Podstawowa im.prof.wac\u0142awa Felczaka w Chorkach",
+                "addr:country": "PL",
+                "addr:postcode": "99-150",
+                "addr:place": "Chorki",
+                "addr:housenumber": "8",
+                "addr:teryt:sym_ul": 283937,
+                "contact:phone": "+48 632734120",
+                "contact:email": "spchorki@poczta.fm",
+                "ref:regon": "001168753",
+                "operator": "Gmina Grab\u00f3w",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 91138,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.00312,
+                    52.12881
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 91138,
+                "official_name": "Szko\u0142a Podstawowa im. Jana Kochanowskiego w Grabowie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "99-150",
+                "addr:city": "Grab\u00f3w",
+                "addr:street": "ul. Kochanowskiego",
+                "addr:housenumber": "2a",
+                "addr:teryt:simc": 8725,
+                "addr:teryt:sym_ul": 284003,
+                "contact:phone": "+48 632734242",
+                "contact:email": "spgrabow@wp.pl",
+                "contact:website": "http:\/\/www.szkolnastrona.spgrabow.pl",
+                "ref:regon": "000268004",
+                "operator": "Gmina Grab\u00f3w",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 91136,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.03167,
+                    52.18455
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 91136,
+                "official_name": "Szko\u0142a Podstawowa Im Marii Konopnickiej w Starej Sob\u00f3tce",
+                "name": "Szko\u0142a Podstawowa Im Marii Konopnickiej w Starej Sob\u00f3tce",
+                "addr:country": "PL",
+                "addr:postcode": "99-150",
+                "addr:place": "Stara Sob\u00f3tka",
+                "addr:housenumber": "31",
+                "addr:teryt:sym_ul": 284530,
+                "contact:phone": "+48 632634341",
+                "contact:email": "spsobotka@op.pl",
+                "contact:website": "http:\/\/www.spsobotka.edu.pl",
+                "ref:regon": "001168776",
+                "operator": "Gmina Grab\u00f3w",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 91135,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.936558,
+                    52.186085
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 91135,
+                "official_name": "Szko\u0142a Podstawowa w Kadzid\u0142owej",
+                "name": "Szko\u0142a Podstawowa w Kadzid\u0142owej",
+                "addr:country": "PL",
+                "addr:postcode": "99-150",
+                "addr:place": "Kadzid\u0142owa",
+                "addr:housenumber": "22",
+                "addr:teryt:sym_ul": 284061,
+                "contact:phone": "+48 632739555",
+                "contact:email": "spkadzidlowa@o2.pl",
+                "ref:regon": "001168760",
+                "operator": "Gmina Grab\u00f3w",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

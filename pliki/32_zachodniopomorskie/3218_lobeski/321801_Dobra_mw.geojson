@@ -1,1 +1,93 @@
-{"type":"FeatureCollection","features":[{"id":90197,"type":"Feature","geometry":{"type":"Point","coordinates":[15.19309,53.56487]},"properties":{"isced:level":"1;2","ref:rspo":90197,"official_name":"Szko\u0142a Podstawowa w Wojtaszycach","name":"Szko\u0142a Podstawowa w Wojtaszycach","addr:country":"PL","addr:postcode":"72-210","addr:place":"Wojtaszyce","addr:housenumber":"39","addr:teryt:sym_ul":774121,"contact:phone":"+48 913910527","contact:email":"szkolawojtaszyce@op.pl","ref:regon":"321304697","ref:vatin":"PL6721353269","operator":"Katarzyna Kur\u0142owicz","operator:type":"private","amenity":"school"}},{"id":276947,"type":"Feature","geometry":{"type":"Point","coordinates":[15.19309,53.56484]},"properties":{"ref:rspo":276947,"official_name":"Przedszkole Integracyjne w Wojtaszycach","name":"Przedszkole Integracyjne w Wojtaszycach","addr:country":"PL","addr:postcode":"72-210","addr:place":"Wojtaszyce","addr:housenumber":"39","addr:teryt:sym_ul":774121,"contact:phone":"+48 913973190","contact:email":"uslugiedukacyjne@wp.pl","contact:website":"http:\/\/www.lobez-edukacja.pl","ref:regon":"387865585","operator":"Zygmunt Heland","operator:type":"private","amenity":"kindergarten"}},{"id":11969,"type":"Feature","geometry":{"type":"Point","coordinates":[15.30869,53.58278]},"properties":{"isced:level":"1;2","ref:rspo":11969,"official_name":"Szko\u0142a Podstawowa w Dobrej im. Polskich Olimpijczyk\u00f3w","name":"Szko\u0142a Podstawowa w Dobrej","addr:country":"PL","addr:postcode":"72-210","addr:city":"Dobra","addr:street":"ul. Mieszcza\u0144ska","addr:housenumber":"2","addr:teryt:simc":12825,"addr:teryt:sym_ul":978852,"contact:phone":"+48 913914410","contact:email":"sekretariat.sp@dobragmina.pl","ref:regon":"000261798","ref:vatin":"PL2530335347","operator":"Gmina Dobra","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 90197,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.19309,
+                    53.56487
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 90197,
+                "official_name": "Szko\u0142a Podstawowa w Wojtaszycach",
+                "name": "Szko\u0142a Podstawowa w Wojtaszycach",
+                "addr:country": "PL",
+                "addr:postcode": "72-210",
+                "addr:place": "Wojtaszyce",
+                "addr:housenumber": "39",
+                "addr:teryt:sym_ul": 774121,
+                "contact:phone": "+48 913910527",
+                "contact:email": "szkolawojtaszyce@op.pl",
+                "ref:regon": "321304697",
+                "ref:vatin": "PL6721353269",
+                "operator": "Katarzyna Kur\u0142owicz",
+                "operator:type": "private",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 276947,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.19309,
+                    53.56484
+                ]
+            },
+            "properties": {
+                "ref:rspo": 276947,
+                "official_name": "Przedszkole Integracyjne w Wojtaszycach",
+                "name": "Przedszkole Integracyjne w Wojtaszycach",
+                "addr:country": "PL",
+                "addr:postcode": "72-210",
+                "addr:place": "Wojtaszyce",
+                "addr:housenumber": "39",
+                "addr:teryt:sym_ul": 774121,
+                "contact:phone": "+48 913973190",
+                "contact:email": "uslugiedukacyjne@wp.pl",
+                "contact:website": "http:\/\/www.lobez-edukacja.pl",
+                "ref:regon": "387865585",
+                "operator": "Zygmunt Heland",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 11969,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.30869,
+                    53.58278
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 11969,
+                "official_name": "Szko\u0142a Podstawowa w Dobrej im. Polskich Olimpijczyk\u00f3w",
+                "name": "Szko\u0142a Podstawowa w Dobrej",
+                "addr:country": "PL",
+                "addr:postcode": "72-210",
+                "addr:city": "Dobra",
+                "addr:street": "ul. Mieszcza\u0144ska",
+                "addr:housenumber": "2",
+                "addr:teryt:simc": 12825,
+                "addr:teryt:sym_ul": 978852,
+                "contact:phone": "+48 913914410",
+                "contact:email": "sekretariat.sp@dobragmina.pl",
+                "ref:regon": "000261798",
+                "ref:vatin": "PL2530335347",
+                "operator": "Gmina Dobra",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

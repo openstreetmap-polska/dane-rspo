@@ -1,1 +1,92 @@
-{"type":"FeatureCollection","features":[{"id":104841,"type":"Feature","geometry":{"type":"Point","coordinates":[16.8803899,50.44766]},"properties":{"ref:rspo":104841,"official_name":"Plac\u00f3wka Opieki Przedszkolnej \"Bajka\"","name":"Plac\u00f3wka Opieki Przedszkolnej \"Bajka\"","addr:country":"PL","addr:postcode":"57-250","addr:city":"Z\u0142oty Stok","addr:street":"ul. 3 Maja","addr:housenumber":"29","addr:teryt:simc":11937,"addr:teryt:sym_ul":984723,"contact:phone":"+48 748175219","contact:email":"luk381@gazeta.pl","ref:regon":"022035470","ref:vatin":"PL8871148922","operator":"Lucyna Kowalska","operator:type":"private","amenity":"kindergarten"}},{"id":106133,"type":"Feature","geometry":{"type":"Point","coordinates":[16.87695,50.44797]},"properties":{"isced:level":"1;2","ref:rspo":106133,"official_name":"Szko\u0142a Podstawowa","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"57-250","addr:city":"Z\u0142oty Stok","addr:street":"ul. Chemik\u00f3w","addr:housenumber":"8","addr:teryt:simc":2714,"addr:teryt:sym_ul":984723,"contact:phone":"+48 748175123","contact:email":"szszlotystok@wp.pl","ref:regon":"890043158","operator":"Gmina Z\u0142oty Stok","operator:type":"government","amenity":"school"}},{"id":104840,"type":"Feature","geometry":{"type":"Point","coordinates":[16.84788,50.45685]},"properties":{"ref:rspo":104840,"official_name":"Przedszkole Zielona Dolina","name":"Przedszkole Zielona Dolina","addr:country":"PL","addr:postcode":"57-250","addr:place":"M\u0105kolno","addr:housenumber":"56","addr:teryt:sym_ul":857025,"contact:phone":"+48 748177619","contact:email":"zielonadolina@adres.pl","ref:regon":"890543435","operator":"Gmina Z\u0142oty Stok","operator:type":"government","amenity":"kindergarten"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 104841,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.8803899,
+                    50.44766
+                ]
+            },
+            "properties": {
+                "ref:rspo": 104841,
+                "official_name": "Plac\u00f3wka Opieki Przedszkolnej \"Bajka\"",
+                "name": "Plac\u00f3wka Opieki Przedszkolnej \"Bajka\"",
+                "addr:country": "PL",
+                "addr:postcode": "57-250",
+                "addr:city": "Z\u0142oty Stok",
+                "addr:street": "ul. 3 Maja",
+                "addr:housenumber": "29",
+                "addr:teryt:simc": 11937,
+                "addr:teryt:sym_ul": 984723,
+                "contact:phone": "+48 748175219",
+                "contact:email": "luk381@gazeta.pl",
+                "ref:regon": "022035470",
+                "ref:vatin": "PL8871148922",
+                "operator": "Lucyna Kowalska",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 106133,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.87695,
+                    50.44797
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 106133,
+                "official_name": "Szko\u0142a Podstawowa",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "57-250",
+                "addr:city": "Z\u0142oty Stok",
+                "addr:street": "ul. Chemik\u00f3w",
+                "addr:housenumber": "8",
+                "addr:teryt:simc": 2714,
+                "addr:teryt:sym_ul": 984723,
+                "contact:phone": "+48 748175123",
+                "contact:email": "szszlotystok@wp.pl",
+                "ref:regon": "890043158",
+                "operator": "Gmina Z\u0142oty Stok",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 104840,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.84788,
+                    50.45685
+                ]
+            },
+            "properties": {
+                "ref:rspo": 104840,
+                "official_name": "Przedszkole Zielona Dolina",
+                "name": "Przedszkole Zielona Dolina",
+                "addr:country": "PL",
+                "addr:postcode": "57-250",
+                "addr:place": "M\u0105kolno",
+                "addr:housenumber": "56",
+                "addr:teryt:sym_ul": 857025,
+                "contact:phone": "+48 748177619",
+                "contact:email": "zielonadolina@adres.pl",
+                "ref:regon": "890543435",
+                "operator": "Gmina Z\u0142oty Stok",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        }
+    ]
+}

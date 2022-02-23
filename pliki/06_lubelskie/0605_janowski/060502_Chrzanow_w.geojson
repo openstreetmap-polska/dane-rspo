@@ -1,1 +1,93 @@
-{"type":"FeatureCollection","features":[{"id":21050,"type":"Feature","geometry":{"type":"Point","coordinates":[22.6334899,50.74245]},"properties":{"isced:level":"1;2","ref:rspo":21050,"official_name":"Publiczna Szko\u0142a Podstawowa w \u0141adzie","name":"Publiczna Szko\u0142a Podstawowa w \u0141adzie","addr:country":"PL","addr:postcode":"23-305","addr:place":"\u0141ada","addr:housenumber":"118a","addr:teryt:sym_ul":789275,"contact:phone":"+48 158755101","contact:email":"splada@o2.pl","ref:regon":"001184663","ref:vatin":"PL8621510925","operator":"Gmina Chrzan\u00f3w","operator:type":"government","amenity":"school"}},{"id":51429,"type":"Feature","geometry":{"type":"Point","coordinates":[22.60936,50.7671]},"properties":{"isced:level":"1;2","ref:rspo":51429,"official_name":"Publiczna Szko\u0142a Podstawowa w Chrzanowie im. Marsza\u0142ka J\u00f3zefa Pi\u0142sudskiego","name":"Publiczna Szko\u0142a Podstawowa w Chrzanowie","addr:country":"PL","addr:postcode":"23-305","addr:place":"Chrzan\u00f3w Pierwszy","addr:housenumber":"81","addr:teryt:sym_ul":789223,"contact:phone":"+48 158755106","contact:email":"pgchrzan@poczta.onet.pl","contact:website":"http:\/\/spchrzanow.edu.pl","ref:regon":"001016262","ref:vatin":"PL8621620565","operator":"Gmina Chrzan\u00f3w","operator:type":"government","amenity":"school"}},{"id":19285,"type":"Feature","geometry":{"type":"Point","coordinates":[22.57995,50.81789]},"properties":{"isced:level":"1;2","ref:rspo":19285,"official_name":"Publiczna Szko\u0142a Podstawowa w Otroczu","name":"Publiczna Szko\u0142a Podstawowa w Otroczu","addr:country":"PL","addr:postcode":"23-305","addr:place":"Otrocz","addr:housenumber":"34","addr:teryt:sym_ul":789306,"contact:phone":"+48 158755015","contact:email":"spotrocz@interia.pl","ref:regon":"001184670","ref:vatin":"PL8621502618","operator":"Gmina Chrzan\u00f3w","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 21050,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.6334899,
+                    50.74245
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 21050,
+                "official_name": "Publiczna Szko\u0142a Podstawowa w \u0141adzie",
+                "name": "Publiczna Szko\u0142a Podstawowa w \u0141adzie",
+                "addr:country": "PL",
+                "addr:postcode": "23-305",
+                "addr:place": "\u0141ada",
+                "addr:housenumber": "118a",
+                "addr:teryt:sym_ul": 789275,
+                "contact:phone": "+48 158755101",
+                "contact:email": "splada@o2.pl",
+                "ref:regon": "001184663",
+                "ref:vatin": "PL8621510925",
+                "operator": "Gmina Chrzan\u00f3w",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 51429,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.60936,
+                    50.7671
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 51429,
+                "official_name": "Publiczna Szko\u0142a Podstawowa w Chrzanowie im. Marsza\u0142ka J\u00f3zefa Pi\u0142sudskiego",
+                "name": "Publiczna Szko\u0142a Podstawowa w Chrzanowie",
+                "addr:country": "PL",
+                "addr:postcode": "23-305",
+                "addr:place": "Chrzan\u00f3w Pierwszy",
+                "addr:housenumber": "81",
+                "addr:teryt:sym_ul": 789223,
+                "contact:phone": "+48 158755106",
+                "contact:email": "pgchrzan@poczta.onet.pl",
+                "contact:website": "http:\/\/spchrzanow.edu.pl",
+                "ref:regon": "001016262",
+                "ref:vatin": "PL8621620565",
+                "operator": "Gmina Chrzan\u00f3w",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 19285,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.57995,
+                    50.81789
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 19285,
+                "official_name": "Publiczna Szko\u0142a Podstawowa w Otroczu",
+                "name": "Publiczna Szko\u0142a Podstawowa w Otroczu",
+                "addr:country": "PL",
+                "addr:postcode": "23-305",
+                "addr:place": "Otrocz",
+                "addr:housenumber": "34",
+                "addr:teryt:sym_ul": 789306,
+                "contact:phone": "+48 158755015",
+                "contact:email": "spotrocz@interia.pl",
+                "ref:regon": "001184670",
+                "ref:vatin": "PL8621502618",
+                "operator": "Gmina Chrzan\u00f3w",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

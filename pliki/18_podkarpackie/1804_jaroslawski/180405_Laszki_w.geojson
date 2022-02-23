@@ -1,1 +1,235 @@
-{"type":"FeatureCollection","features":[{"id":35215,"type":"Feature","geometry":{"type":"Point","coordinates":[22.81049,50.00401]},"properties":{"isced:level":"1;2","ref:rspo":35215,"official_name":"Szko\u0142a Podstawowa im. Marii Konopnickiej w Wietlinie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"37-543","addr:place":"Wietlin","addr:housenumber":"18a","addr:teryt:sym_ul":605766,"contact:phone":"+48 166285324","contact:email":"spwietlin@op.pl","contact:website":"http:\/\/www.wietlin.edu.pl","ref:regon":"001207660","ref:vatin":"PL7921997523","operator":"Gmina Laszki","operator:type":"government","amenity":"school"}},{"id":105994,"type":"Feature","geometry":{"type":"Point","coordinates":[22.81049,50.00398]},"properties":{"ref:rspo":105994,"official_name":"Punkt Przedszkolny Kubusiowe Przedszkole","name":"Punkt Przedszkolny Kubusiowe Przedszkole","addr:country":"PL","addr:postcode":"37-543","addr:place":"Wietlin","addr:housenumber":"18a","addr:teryt:sym_ul":605766,"contact:phone":"+48 166285324","contact:email":"spwietlin@op.pl","ref:regon":"180930570","operator":"Gmina Laszki","operator:type":"government","amenity":"kindergarten"}},{"id":39733,"type":"Feature","geometry":{"type":"Point","coordinates":[22.90656,50.0226]},"properties":{"isced:level":"1;2","ref:rspo":39733,"official_name":"Szko\u0142a Podstawowa im. Jana III Sobieskiego w Laszkach","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"37-543","addr:place":"Laszki","addr:housenumber":"280","addr:teryt:sym_ul":605536,"contact:phone":"+48 166285000","contact:email":"zslaszki@gmail.com","contact:website":"http:\/\/splaszki.szkolna.net","ref:regon":"000663255","ref:vatin":"PL7922284481","operator":"Gmina Laszki","operator:type":"government","amenity":"school"}},{"id":120647,"type":"Feature","geometry":{"type":"Point","coordinates":[22.90656,50.022569999999995]},"properties":{"ref:rspo":120647,"official_name":"Kolorowe Przedszkole w Laszkach","name":"Kolorowe Przedszkole w Laszkach","addr:country":"PL","addr:postcode":"37-543","addr:place":"Laszki","addr:housenumber":"280a","addr:teryt:sym_ul":605536,"contact:phone":"+48 783048783","contact:email":"edukacja.szkolapodstawowa@gmail.com","ref:regon":"181034286","ref:vatin":"PL7952103337","operator":"Kornelia Szejnar","operator:type":"private","amenity":"kindergarten"}},{"id":35054,"type":"Feature","geometry":{"type":"Point","coordinates":[22.95483,50.02357]},"properties":{"isced:level":"1;2","ref:rspo":35054,"official_name":"Szko\u0142a Podstawowa im. Jana Paw\u0142a II w Mi\u0119kiszu Starym","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"37-543","addr:place":"Mi\u0119kisz Stary","addr:housenumber":"19a","addr:teryt:sym_ul":605677,"contact:phone":"+48 166285093","contact:email":"spmiekiszstary@gmail.com","ref:regon":"650201502","ref:vatin":"PL7922007729","operator":"Gmina Laszki","operator:type":"government","amenity":"school"}},{"id":34989,"type":"Feature","geometry":{"type":"Point","coordinates":[22.99024,50.0387]},"properties":{"isced:level":"1;2","ref:rspo":34989,"official_name":"Szko\u0142a Podstawowa im.marii Konopnickiej w Mi\u0119kiszu Nowym","name":"Szko\u0142a Podstawowa im.marii Konopnickiej w Mi\u0119kiszu Nowym","addr:country":"PL","addr:postcode":"37-543","addr:place":"Mi\u0119kisz Nowy","addr:housenumber":"100","addr:teryt:sym_ul":605631,"contact:phone":"+48 166285091","contact:email":"spmiekisznowy@gmail.com","contact:website":"http:\/\/www.spmiekisznowy.pl","ref:regon":"001207654","ref:vatin":"PL7922004180","operator":"Gmina Laszki","operator:type":"government","amenity":"school"}},{"id":34434,"type":"Feature","geometry":{"type":"Point","coordinates":[22.92378,50.03994]},"properties":{"isced:level":"1;2","ref:rspo":34434,"official_name":"Szko\u0142a Podstawowa w Korzenicy","name":"Szko\u0142a Podstawowa w Korzenicy","addr:country":"PL","addr:postcode":"37-543","addr:place":"Korzenica","addr:housenumber":"1","addr:teryt:sym_ul":605482,"contact:phone":"+48 166285009","contact:email":"spkorzenica@poczta.onet.pl","ref:regon":"001207648","ref:vatin":"PL7921998014","operator":"Gmina Laszki","operator:type":"government","amenity":"school"}},{"id":106004,"type":"Feature","geometry":{"type":"Point","coordinates":[22.92378,50.03991]},"properties":{"ref:rspo":106004,"official_name":"Punkt Przedszkolny Le\u015bne Ludki","name":"Punkt Przedszkolny Le\u015bne Ludki","addr:country":"PL","addr:postcode":"37-543","addr:place":"Korzenica","addr:housenumber":"1","addr:teryt:sym_ul":605482,"contact:phone":"+48 166285009","contact:email":"spkorzenica@poczta.onet.pl","ref:regon":"180930587","operator":"Gmina Laszki","operator:type":"government","amenity":"kindergarten"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 35215,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.81049,
+                    50.00401
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 35215,
+                "official_name": "Szko\u0142a Podstawowa im. Marii Konopnickiej w Wietlinie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "37-543",
+                "addr:place": "Wietlin",
+                "addr:housenumber": "18a",
+                "addr:teryt:sym_ul": 605766,
+                "contact:phone": "+48 166285324",
+                "contact:email": "spwietlin@op.pl",
+                "contact:website": "http:\/\/www.wietlin.edu.pl",
+                "ref:regon": "001207660",
+                "ref:vatin": "PL7921997523",
+                "operator": "Gmina Laszki",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 105994,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.81049,
+                    50.00398
+                ]
+            },
+            "properties": {
+                "ref:rspo": 105994,
+                "official_name": "Punkt Przedszkolny Kubusiowe Przedszkole",
+                "name": "Punkt Przedszkolny Kubusiowe Przedszkole",
+                "addr:country": "PL",
+                "addr:postcode": "37-543",
+                "addr:place": "Wietlin",
+                "addr:housenumber": "18a",
+                "addr:teryt:sym_ul": 605766,
+                "contact:phone": "+48 166285324",
+                "contact:email": "spwietlin@op.pl",
+                "ref:regon": "180930570",
+                "operator": "Gmina Laszki",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 39733,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.90656,
+                    50.0226
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 39733,
+                "official_name": "Szko\u0142a Podstawowa im. Jana III Sobieskiego w Laszkach",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "37-543",
+                "addr:place": "Laszki",
+                "addr:housenumber": "280",
+                "addr:teryt:sym_ul": 605536,
+                "contact:phone": "+48 166285000",
+                "contact:email": "zslaszki@gmail.com",
+                "contact:website": "http:\/\/splaszki.szkolna.net",
+                "ref:regon": "000663255",
+                "ref:vatin": "PL7922284481",
+                "operator": "Gmina Laszki",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 120647,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.90656,
+                    50.022569999999995
+                ]
+            },
+            "properties": {
+                "ref:rspo": 120647,
+                "official_name": "Kolorowe Przedszkole w Laszkach",
+                "name": "Kolorowe Przedszkole w Laszkach",
+                "addr:country": "PL",
+                "addr:postcode": "37-543",
+                "addr:place": "Laszki",
+                "addr:housenumber": "280a",
+                "addr:teryt:sym_ul": 605536,
+                "contact:phone": "+48 783048783",
+                "contact:email": "edukacja.szkolapodstawowa@gmail.com",
+                "ref:regon": "181034286",
+                "ref:vatin": "PL7952103337",
+                "operator": "Kornelia Szejnar",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 35054,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.95483,
+                    50.02357
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 35054,
+                "official_name": "Szko\u0142a Podstawowa im. Jana Paw\u0142a II w Mi\u0119kiszu Starym",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "37-543",
+                "addr:place": "Mi\u0119kisz Stary",
+                "addr:housenumber": "19a",
+                "addr:teryt:sym_ul": 605677,
+                "contact:phone": "+48 166285093",
+                "contact:email": "spmiekiszstary@gmail.com",
+                "ref:regon": "650201502",
+                "ref:vatin": "PL7922007729",
+                "operator": "Gmina Laszki",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 34989,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.99024,
+                    50.0387
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 34989,
+                "official_name": "Szko\u0142a Podstawowa im.marii Konopnickiej w Mi\u0119kiszu Nowym",
+                "name": "Szko\u0142a Podstawowa im.marii Konopnickiej w Mi\u0119kiszu Nowym",
+                "addr:country": "PL",
+                "addr:postcode": "37-543",
+                "addr:place": "Mi\u0119kisz Nowy",
+                "addr:housenumber": "100",
+                "addr:teryt:sym_ul": 605631,
+                "contact:phone": "+48 166285091",
+                "contact:email": "spmiekisznowy@gmail.com",
+                "contact:website": "http:\/\/www.spmiekisznowy.pl",
+                "ref:regon": "001207654",
+                "ref:vatin": "PL7922004180",
+                "operator": "Gmina Laszki",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 34434,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.92378,
+                    50.03994
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 34434,
+                "official_name": "Szko\u0142a Podstawowa w Korzenicy",
+                "name": "Szko\u0142a Podstawowa w Korzenicy",
+                "addr:country": "PL",
+                "addr:postcode": "37-543",
+                "addr:place": "Korzenica",
+                "addr:housenumber": "1",
+                "addr:teryt:sym_ul": 605482,
+                "contact:phone": "+48 166285009",
+                "contact:email": "spkorzenica@poczta.onet.pl",
+                "ref:regon": "001207648",
+                "ref:vatin": "PL7921998014",
+                "operator": "Gmina Laszki",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 106004,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.92378,
+                    50.03991
+                ]
+            },
+            "properties": {
+                "ref:rspo": 106004,
+                "official_name": "Punkt Przedszkolny Le\u015bne Ludki",
+                "name": "Punkt Przedszkolny Le\u015bne Ludki",
+                "addr:country": "PL",
+                "addr:postcode": "37-543",
+                "addr:place": "Korzenica",
+                "addr:housenumber": "1",
+                "addr:teryt:sym_ul": 605482,
+                "contact:phone": "+48 166285009",
+                "contact:email": "spkorzenica@poczta.onet.pl",
+                "ref:regon": "180930587",
+                "operator": "Gmina Laszki",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        }
+    ]
+}

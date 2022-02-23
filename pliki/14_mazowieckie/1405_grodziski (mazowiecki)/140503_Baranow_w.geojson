@@ -1,1 +1,215 @@
-{"type":"FeatureCollection","features":[{"id":121810,"type":"Feature","geometry":{"type":"Point","coordinates":[20.47085,52.12202]},"properties":{"isced:level":"1;2","ref:rspo":121810,"official_name":"Szko\u0142a Podstawowa im. Jana Paw\u0142a II w Baranowie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"96-314","addr:city":"Baran\u00f3w","addr:street":"ul. Armii Krajowej","addr:housenumber":"49","addr:teryt:simc":432,"addr:teryt:sym_ul":722822,"contact:phone":"+48 468560379","contact:email":"zsbaranow@interia.pl","ref:regon":"000739290","ref:vatin":"PL5291647363","operator":"Gmina Baran\u00f3w","operator:type":"government","amenity":"school"}},{"id":121853,"type":"Feature","geometry":{"type":"Point","coordinates":[20.51164,52.16397]},"properties":{"ref:rspo":121853,"official_name":"Gminne Przedszkole w Ceg\u0142owie","name":"Gminne Przedszkole w Ceg\u0142owie","addr:country":"PL","addr:postcode":"96-314","addr:place":"Ceg\u0142\u00f3w","addr:housenumber":"22B","addr:teryt:sym_ul":722897,"contact:phone":"+48 468560902","contact:email":"sekretariatgole@interia.pl","ref:regon":"142518965","operator":"Gmina Baran\u00f3w","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 57699"}},{"id":57699,"type":"Feature","geometry":{"type":"Point","coordinates":[20.49623,52.16559]},"properties":{"ref:rspo":57699,"official_name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny im. Marii Konopnickiej w Golach","name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny","addr:country":"PL","addr:postcode":"96-314","addr:place":"Gole","addr:housenumber":"51","addr:teryt:sym_ul":722940,"contact:phone":"+48 468560776","contact:email":"szkolagole@interia.pl","ref:regon":"142518936","ref:vatin":"PL5291785243","operator":"Gmina Baran\u00f3w","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 121853;121867"}},{"id":121867,"type":"Feature","geometry":{"type":"Point","coordinates":[20.49623,52.16556]},"properties":{"isced:level":"1;2","ref:rspo":121867,"official_name":"Szko\u0142a Podstawowa im. Marii Konopnickiej w Golach","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"96-314","addr:place":"Gole","addr:housenumber":"51","addr:teryt:sym_ul":722940,"contact:phone":"+48 468560776","contact:email":"szkolagole@interia.pl","ref:regon":"001111517","operator":"Gmina Baran\u00f3w","operator:type":"government","amenity":"school","note":"Parent RSPO: 57699"}},{"id":122140,"type":"Feature","geometry":{"type":"Point","coordinates":[20.43889,52.17098]},"properties":{"isced:level":"1;2","ref:rspo":122140,"official_name":"Szko\u0142a Podstawowa im. Or\u0142a Bia\u0142ego w Kaskach","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"96-314","addr:city":"Kaski","addr:street":"ul. Kr\u00f3lewska","addr:housenumber":"23","addr:teryt:simc":9987,"addr:teryt:sym_ul":723046,"contact:phone":"+48 468560723","contact:email":"sekretariat@kaski.edu.pl","ref:regon":"001112132","ref:vatin":"PL5291645654","operator":"Gmina Baran\u00f3w","operator:type":"government","amenity":"school"}},{"id":273962,"type":"Feature","geometry":{"type":"Point","coordinates":[20.43464,52.1718]},"properties":{"ref:rspo":273962,"official_name":"Pa\u0144stwowa Szko\u0142a Muzyczna I St. w \u017byrardowie Filia w Kaskach","name":"Pa\u0144stwowa Szko\u0142a Muzyczna I St. w \u017byrardowie Filia w Kaskach","addr:country":"PL","addr:postcode":"96-341","addr:city":"Kaski","addr:street":"ul. Kr\u00f3lewska","addr:housenumber":"56","addr:teryt:simc":9987,"addr:teryt:sym_ul":723046,"contact:phone":"+48 468553685","ref:regon":"146465540","operator":"Ministerstwo Kultury I Dziedzictwa Narodowego","operator:type":"public","amenity":"music_school","note":"Parent RSPO: 103772"}},{"id":121799,"type":"Feature","geometry":{"type":"Point","coordinates":[20.52462,52.18812]},"properties":{"isced:level":"1;2","ref:rspo":121799,"official_name":"Szko\u0142a Podstawowa im. Ks. Jana Twardowskiego w Bo\u017cej Woli","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"96-314","addr:city":"Bo\u017ca Wola","addr:street":"ul. 1 Maja","addr:housenumber":"13","addr:teryt:simc":11926,"addr:teryt:sym_ul":722851,"contact:phone":"+48 227253268","contact:email":"szkolabozawola@wp.pl","contact:website":"http:\/\/www.spbozawola.szkolnastrona.pl","ref:regon":"001112126","ref:vatin":"PL5291645683","operator":"Gmina Baran\u00f3w","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 121810,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.47085,
+                    52.12202
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 121810,
+                "official_name": "Szko\u0142a Podstawowa im. Jana Paw\u0142a II w Baranowie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "96-314",
+                "addr:city": "Baran\u00f3w",
+                "addr:street": "ul. Armii Krajowej",
+                "addr:housenumber": "49",
+                "addr:teryt:simc": 432,
+                "addr:teryt:sym_ul": 722822,
+                "contact:phone": "+48 468560379",
+                "contact:email": "zsbaranow@interia.pl",
+                "ref:regon": "000739290",
+                "ref:vatin": "PL5291647363",
+                "operator": "Gmina Baran\u00f3w",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 121853,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.51164,
+                    52.16397
+                ]
+            },
+            "properties": {
+                "ref:rspo": 121853,
+                "official_name": "Gminne Przedszkole w Ceg\u0142owie",
+                "name": "Gminne Przedszkole w Ceg\u0142owie",
+                "addr:country": "PL",
+                "addr:postcode": "96-314",
+                "addr:place": "Ceg\u0142\u00f3w",
+                "addr:housenumber": "22B",
+                "addr:teryt:sym_ul": 722897,
+                "contact:phone": "+48 468560902",
+                "contact:email": "sekretariatgole@interia.pl",
+                "ref:regon": "142518965",
+                "operator": "Gmina Baran\u00f3w",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 57699"
+            }
+        },
+        {
+            "id": 57699,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.49623,
+                    52.16559
+                ]
+            },
+            "properties": {
+                "ref:rspo": 57699,
+                "official_name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny im. Marii Konopnickiej w Golach",
+                "name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny",
+                "addr:country": "PL",
+                "addr:postcode": "96-314",
+                "addr:place": "Gole",
+                "addr:housenumber": "51",
+                "addr:teryt:sym_ul": 722940,
+                "contact:phone": "+48 468560776",
+                "contact:email": "szkolagole@interia.pl",
+                "ref:regon": "142518936",
+                "ref:vatin": "PL5291785243",
+                "operator": "Gmina Baran\u00f3w",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 121853;121867"
+            }
+        },
+        {
+            "id": 121867,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.49623,
+                    52.16556
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 121867,
+                "official_name": "Szko\u0142a Podstawowa im. Marii Konopnickiej w Golach",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "96-314",
+                "addr:place": "Gole",
+                "addr:housenumber": "51",
+                "addr:teryt:sym_ul": 722940,
+                "contact:phone": "+48 468560776",
+                "contact:email": "szkolagole@interia.pl",
+                "ref:regon": "001111517",
+                "operator": "Gmina Baran\u00f3w",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 57699"
+            }
+        },
+        {
+            "id": 122140,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.43889,
+                    52.17098
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 122140,
+                "official_name": "Szko\u0142a Podstawowa im. Or\u0142a Bia\u0142ego w Kaskach",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "96-314",
+                "addr:city": "Kaski",
+                "addr:street": "ul. Kr\u00f3lewska",
+                "addr:housenumber": "23",
+                "addr:teryt:simc": 9987,
+                "addr:teryt:sym_ul": 723046,
+                "contact:phone": "+48 468560723",
+                "contact:email": "sekretariat@kaski.edu.pl",
+                "ref:regon": "001112132",
+                "ref:vatin": "PL5291645654",
+                "operator": "Gmina Baran\u00f3w",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 273962,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.43464,
+                    52.1718
+                ]
+            },
+            "properties": {
+                "ref:rspo": 273962,
+                "official_name": "Pa\u0144stwowa Szko\u0142a Muzyczna I St. w \u017byrardowie Filia w Kaskach",
+                "name": "Pa\u0144stwowa Szko\u0142a Muzyczna I St. w \u017byrardowie Filia w Kaskach",
+                "addr:country": "PL",
+                "addr:postcode": "96-341",
+                "addr:city": "Kaski",
+                "addr:street": "ul. Kr\u00f3lewska",
+                "addr:housenumber": "56",
+                "addr:teryt:simc": 9987,
+                "addr:teryt:sym_ul": 723046,
+                "contact:phone": "+48 468553685",
+                "ref:regon": "146465540",
+                "operator": "Ministerstwo Kultury I Dziedzictwa Narodowego",
+                "operator:type": "public",
+                "amenity": "music_school",
+                "note": "Parent RSPO: 103772"
+            }
+        },
+        {
+            "id": 121799,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.52462,
+                    52.18812
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 121799,
+                "official_name": "Szko\u0142a Podstawowa im. Ks. Jana Twardowskiego w Bo\u017cej Woli",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "96-314",
+                "addr:city": "Bo\u017ca Wola",
+                "addr:street": "ul. 1 Maja",
+                "addr:housenumber": "13",
+                "addr:teryt:simc": 11926,
+                "addr:teryt:sym_ul": 722851,
+                "contact:phone": "+48 227253268",
+                "contact:email": "szkolabozawola@wp.pl",
+                "contact:website": "http:\/\/www.spbozawola.szkolnastrona.pl",
+                "ref:regon": "001112126",
+                "ref:vatin": "PL5291645683",
+                "operator": "Gmina Baran\u00f3w",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

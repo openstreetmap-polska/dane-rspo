@@ -1,1 +1,98 @@
-{"type":"FeatureCollection","features":[{"id":87424,"type":"Feature","geometry":{"type":"Point","coordinates":[17.92061,52.41255]},"properties":{"ref:rspo":87424,"official_name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w Powidzu","name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w Powidzu","addr:country":"PL","addr:postcode":"62-430","addr:city":"Powidz","addr:street":"ul. Park Powsta\u0144c\u00f3w Wielkopolskich","addr:housenumber":"1","addr:teryt:simc":15704,"addr:teryt:sym_ul":300742,"contact:phone":"+48 632776123","contact:email":"szkola@zsppowidz.pl","contact:website":"http:\/\/www.zsppowidz.pl","ref:regon":"300127381","operator":"Gmina Powidz","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 89346;89394"}},{"id":89346,"type":"Feature","geometry":{"type":"Point","coordinates":[17.92061,52.41252]},"properties":{"ref:rspo":89346,"official_name":"Przedszkole Gminne w Powidzu","name":"Przedszkole Gminne w Powidzu","addr:country":"PL","addr:postcode":"62-430","addr:city":"Powidz","addr:street":"ul. Park Powsta\u0144c\u00f3w Wielkopolskich","addr:housenumber":"1","addr:teryt:simc":15704,"addr:teryt:sym_ul":300742,"contact:phone":"+48 632776123","ref:regon":"310501200","operator":"Gmina Powidz","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 87424"}},{"id":89394,"type":"Feature","geometry":{"type":"Point","coordinates":[17.92061,52.412490000000005]},"properties":{"isced:level":"1;2","ref:rspo":89394,"official_name":"Szko\u0142a Podstawowa w Powidzu","name":"Szko\u0142a Podstawowa w Powidzu","addr:country":"PL","addr:postcode":"62-430","addr:city":"Powidz","addr:street":"ul. Park Powsta\u0144c\u00f3w Wielkopolskich","addr:housenumber":"1","addr:teryt:simc":15704,"addr:teryt:sym_ul":300742,"contact:phone":"+48 632776123","contact:email":"szkola@zsppowidz.pl","contact:website":"http:\/\/www.zsppowidz.pl","ref:regon":"001194868","operator":"Gmina Powidz","operator:type":"government","amenity":"school","note":"Parent RSPO: 87424"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 87424,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.92061,
+                    52.41255
+                ]
+            },
+            "properties": {
+                "ref:rspo": 87424,
+                "official_name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w Powidzu",
+                "name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w Powidzu",
+                "addr:country": "PL",
+                "addr:postcode": "62-430",
+                "addr:city": "Powidz",
+                "addr:street": "ul. Park Powsta\u0144c\u00f3w Wielkopolskich",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 15704,
+                "addr:teryt:sym_ul": 300742,
+                "contact:phone": "+48 632776123",
+                "contact:email": "szkola@zsppowidz.pl",
+                "contact:website": "http:\/\/www.zsppowidz.pl",
+                "ref:regon": "300127381",
+                "operator": "Gmina Powidz",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 89346;89394"
+            }
+        },
+        {
+            "id": 89346,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.92061,
+                    52.41252
+                ]
+            },
+            "properties": {
+                "ref:rspo": 89346,
+                "official_name": "Przedszkole Gminne w Powidzu",
+                "name": "Przedszkole Gminne w Powidzu",
+                "addr:country": "PL",
+                "addr:postcode": "62-430",
+                "addr:city": "Powidz",
+                "addr:street": "ul. Park Powsta\u0144c\u00f3w Wielkopolskich",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 15704,
+                "addr:teryt:sym_ul": 300742,
+                "contact:phone": "+48 632776123",
+                "ref:regon": "310501200",
+                "operator": "Gmina Powidz",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 87424"
+            }
+        },
+        {
+            "id": 89394,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.92061,
+                    52.412490000000005
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 89394,
+                "official_name": "Szko\u0142a Podstawowa w Powidzu",
+                "name": "Szko\u0142a Podstawowa w Powidzu",
+                "addr:country": "PL",
+                "addr:postcode": "62-430",
+                "addr:city": "Powidz",
+                "addr:street": "ul. Park Powsta\u0144c\u00f3w Wielkopolskich",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 15704,
+                "addr:teryt:sym_ul": 300742,
+                "contact:phone": "+48 632776123",
+                "contact:email": "szkola@zsppowidz.pl",
+                "contact:website": "http:\/\/www.zsppowidz.pl",
+                "ref:regon": "001194868",
+                "operator": "Gmina Powidz",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 87424"
+            }
+        }
+    ]
+}

@@ -1,1 +1,125 @@
-{"type":"FeatureCollection","features":[{"id":269047,"type":"Feature","geometry":{"type":"Point","coordinates":[16.30751,51.0315]},"properties":{"ref:rspo":269047,"official_name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w Targoszynie","name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w Targoszynie","addr:country":"PL","addr:postcode":"59-407","addr:place":"Targoszyn","addr:housenumber":"51","addr:teryt:sym_ul":366020,"contact:phone":"+48 768728560","contact:email":"sptargoszyn@onet.eu","contact:website":"http:\/\/sptargoszy.szkolnastrona.pl","ref:regon":"381340829","ref:vatin":"PL6951530114","operator":"Gmina M\u015bciwoj\u00f3w","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 91786;269045"}},{"id":91786,"type":"Feature","geometry":{"type":"Point","coordinates":[16.30751,51.03147]},"properties":{"isced:level":"1;2","ref:rspo":91786,"official_name":"Szko\u0142a Podstawowa w Targoszynie","name":"Szko\u0142a Podstawowa w Targoszynie","addr:country":"PL","addr:postcode":"59-407","addr:place":"Targoszyn","addr:housenumber":"51","addr:teryt:sym_ul":366020,"contact:phone":"+48 768728560","contact:email":"sptargoszyn@onet.eu","contact:website":"http:\/\/sptargoszyn.szkolnastrona.pl","ref:regon":"001239660","operator":"Gmina M\u015bciwoj\u00f3w","operator:type":"government","amenity":"school","note":"Parent RSPO: 269047"}},{"id":269045,"type":"Feature","geometry":{"type":"Point","coordinates":[16.30751,51.03144]},"properties":{"ref:rspo":269045,"official_name":"Publiczne Przedszkole w Targoszynie","name":"Publiczne Przedszkole w Targoszynie","addr:country":"PL","addr:postcode":"59-407","addr:place":"Targoszyn","addr:housenumber":"51","addr:teryt:sym_ul":366020,"contact:phone":"+48 768728560","contact:email":"sptargoszyn@onet.eu","contact:website":"http:\/\/sptargoszyn.szkolnastrona.pl","ref:regon":"381340640","operator":"Gmina M\u015bciwoj\u00f3w","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 269047"}},{"id":91785,"type":"Feature","geometry":{"type":"Point","coordinates":[16.2499499,51.08529]},"properties":{"isced:level":"1;2","ref:rspo":91785,"official_name":"Szko\u0142a Podstawowa\nW Snowidzy","name":"Szko\u0142a Podstawowa\nW Snowidzy","addr:country":"PL","addr:postcode":"59-407","addr:place":"Snowidza","addr:housenumber":"91a","addr:teryt:sym_ul":366014,"contact:phone":"+48 768718398","contact:email":"spsnowidza@msciwojow.pl","contact:website":"http:\/\/spsnowidza.szkolnastrona.pl","ref:regon":"001239430","ref:vatin":"PL6951011503","operator":"Gmina M\u015bciwoj\u00f3w","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 269047,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.30751,
+                    51.0315
+                ]
+            },
+            "properties": {
+                "ref:rspo": 269047,
+                "official_name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w Targoszynie",
+                "name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w Targoszynie",
+                "addr:country": "PL",
+                "addr:postcode": "59-407",
+                "addr:place": "Targoszyn",
+                "addr:housenumber": "51",
+                "addr:teryt:sym_ul": 366020,
+                "contact:phone": "+48 768728560",
+                "contact:email": "sptargoszyn@onet.eu",
+                "contact:website": "http:\/\/sptargoszy.szkolnastrona.pl",
+                "ref:regon": "381340829",
+                "ref:vatin": "PL6951530114",
+                "operator": "Gmina M\u015bciwoj\u00f3w",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 91786;269045"
+            }
+        },
+        {
+            "id": 91786,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.30751,
+                    51.03147
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 91786,
+                "official_name": "Szko\u0142a Podstawowa w Targoszynie",
+                "name": "Szko\u0142a Podstawowa w Targoszynie",
+                "addr:country": "PL",
+                "addr:postcode": "59-407",
+                "addr:place": "Targoszyn",
+                "addr:housenumber": "51",
+                "addr:teryt:sym_ul": 366020,
+                "contact:phone": "+48 768728560",
+                "contact:email": "sptargoszyn@onet.eu",
+                "contact:website": "http:\/\/sptargoszyn.szkolnastrona.pl",
+                "ref:regon": "001239660",
+                "operator": "Gmina M\u015bciwoj\u00f3w",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 269047"
+            }
+        },
+        {
+            "id": 269045,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.30751,
+                    51.03144
+                ]
+            },
+            "properties": {
+                "ref:rspo": 269045,
+                "official_name": "Publiczne Przedszkole w Targoszynie",
+                "name": "Publiczne Przedszkole w Targoszynie",
+                "addr:country": "PL",
+                "addr:postcode": "59-407",
+                "addr:place": "Targoszyn",
+                "addr:housenumber": "51",
+                "addr:teryt:sym_ul": 366020,
+                "contact:phone": "+48 768728560",
+                "contact:email": "sptargoszyn@onet.eu",
+                "contact:website": "http:\/\/sptargoszyn.szkolnastrona.pl",
+                "ref:regon": "381340640",
+                "operator": "Gmina M\u015bciwoj\u00f3w",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 269047"
+            }
+        },
+        {
+            "id": 91785,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.2499499,
+                    51.08529
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 91785,
+                "official_name": "Szko\u0142a Podstawowa\nW Snowidzy",
+                "name": "Szko\u0142a Podstawowa\nW Snowidzy",
+                "addr:country": "PL",
+                "addr:postcode": "59-407",
+                "addr:place": "Snowidza",
+                "addr:housenumber": "91a",
+                "addr:teryt:sym_ul": 366014,
+                "contact:phone": "+48 768718398",
+                "contact:email": "spsnowidza@msciwojow.pl",
+                "contact:website": "http:\/\/spsnowidza.szkolnastrona.pl",
+                "ref:regon": "001239430",
+                "ref:vatin": "PL6951011503",
+                "operator": "Gmina M\u015bciwoj\u00f3w",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

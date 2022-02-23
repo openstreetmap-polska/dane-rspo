@@ -1,1 +1,131 @@
-{"type":"FeatureCollection","features":[{"id":12349,"type":"Feature","geometry":{"type":"Point","coordinates":[22.24321,51.66484]},"properties":{"isced:level":"1;2","ref:rspo":12349,"official_name":"Szko\u0142a Podstawowa w Krz\u00f3wce","name":"Szko\u0142a Podstawowa w Krz\u00f3wce","addr:country":"PL","addr:postcode":"21-413","addr:place":"Krz\u00f3wka","addr:housenumber":"37","addr:teryt:sym_ul":686339,"contact:phone":"+48 257555836","contact:email":"szkolakrzowka@vp.pl","contact:website":"http:\/\/spkrzowka.pl.","ref:regon":"001127850","ref:vatin":"PL8251785451","operator":"Gmina Serokomla","operator:type":"government","amenity":"school"}},{"id":11144,"type":"Feature","geometry":{"type":"Point","coordinates":[22.3389795,51.7007422]},"properties":{"ref:rspo":11144,"official_name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 w Serokomli","name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 w Serokomli","addr:country":"PL","addr:postcode":"21-413","addr:city":"Serokomla","addr:street":"ul. Warszawska","addr:housenumber":"28","addr:teryt:simc":23682,"addr:teryt:sym_ul":686440,"contact:phone":"+48 257554509","contact:email":"zsserokomla@zsserokomla.pl","contact:website":"http:\/\/www.zsserokomla.pl","ref:regon":"061346113","ref:vatin":"PL8251785474","operator":"Gmina Serokomla","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 24684;24759"}},{"id":24684,"type":"Feature","geometry":{"type":"Point","coordinates":[22.3389795,51.7007122]},"properties":{"isced:level":"1;2","ref:rspo":24684,"official_name":"Szko\u0142a Podstawowa im. Marii Konopnickiej w Serokomli","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"21-413","addr:city":"Serokomla","addr:street":"ul. Warszawska","addr:housenumber":"28","addr:teryt:simc":23682,"addr:teryt:sym_ul":686440,"contact:phone":"+48 257554509","contact:email":"zsserokomla@zsserokomla.pl","contact:website":"http:\/\/www.zsserokomla.pl","ref:regon":"000269110","operator":"Gmina Serokomla","operator:type":"government","amenity":"school","note":"Parent RSPO: 11144"}},{"id":24759,"type":"Feature","geometry":{"type":"Point","coordinates":[22.3389795,51.7006822]},"properties":{"ref:rspo":24759,"official_name":"Przedszkole Publiczne w Serokomli","name":"Przedszkole Publiczne w Serokomli","addr:country":"PL","addr:postcode":"21-413","addr:city":"Serokomla","addr:street":"ul. Warszawska","addr:housenumber":"28","addr:teryt:simc":23682,"addr:teryt:sym_ul":686440,"contact:phone":"+48 257554510","contact:email":"zsserokomla@zsserokomla.pl","contact:website":"http:\/\/www.zsserokomla.pl","ref:regon":"030804519","operator":"Gmina Serokomla","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 11144"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 12349,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.24321,
+                    51.66484
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 12349,
+                "official_name": "Szko\u0142a Podstawowa w Krz\u00f3wce",
+                "name": "Szko\u0142a Podstawowa w Krz\u00f3wce",
+                "addr:country": "PL",
+                "addr:postcode": "21-413",
+                "addr:place": "Krz\u00f3wka",
+                "addr:housenumber": "37",
+                "addr:teryt:sym_ul": 686339,
+                "contact:phone": "+48 257555836",
+                "contact:email": "szkolakrzowka@vp.pl",
+                "contact:website": "http:\/\/spkrzowka.pl.",
+                "ref:regon": "001127850",
+                "ref:vatin": "PL8251785451",
+                "operator": "Gmina Serokomla",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 11144,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.3389795,
+                    51.7007422
+                ]
+            },
+            "properties": {
+                "ref:rspo": 11144,
+                "official_name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 w Serokomli",
+                "name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 w Serokomli",
+                "addr:country": "PL",
+                "addr:postcode": "21-413",
+                "addr:city": "Serokomla",
+                "addr:street": "ul. Warszawska",
+                "addr:housenumber": "28",
+                "addr:teryt:simc": 23682,
+                "addr:teryt:sym_ul": 686440,
+                "contact:phone": "+48 257554509",
+                "contact:email": "zsserokomla@zsserokomla.pl",
+                "contact:website": "http:\/\/www.zsserokomla.pl",
+                "ref:regon": "061346113",
+                "ref:vatin": "PL8251785474",
+                "operator": "Gmina Serokomla",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 24684;24759"
+            }
+        },
+        {
+            "id": 24684,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.3389795,
+                    51.7007122
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 24684,
+                "official_name": "Szko\u0142a Podstawowa im. Marii Konopnickiej w Serokomli",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "21-413",
+                "addr:city": "Serokomla",
+                "addr:street": "ul. Warszawska",
+                "addr:housenumber": "28",
+                "addr:teryt:simc": 23682,
+                "addr:teryt:sym_ul": 686440,
+                "contact:phone": "+48 257554509",
+                "contact:email": "zsserokomla@zsserokomla.pl",
+                "contact:website": "http:\/\/www.zsserokomla.pl",
+                "ref:regon": "000269110",
+                "operator": "Gmina Serokomla",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 11144"
+            }
+        },
+        {
+            "id": 24759,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.3389795,
+                    51.7006822
+                ]
+            },
+            "properties": {
+                "ref:rspo": 24759,
+                "official_name": "Przedszkole Publiczne w Serokomli",
+                "name": "Przedszkole Publiczne w Serokomli",
+                "addr:country": "PL",
+                "addr:postcode": "21-413",
+                "addr:city": "Serokomla",
+                "addr:street": "ul. Warszawska",
+                "addr:housenumber": "28",
+                "addr:teryt:simc": 23682,
+                "addr:teryt:sym_ul": 686440,
+                "contact:phone": "+48 257554510",
+                "contact:email": "zsserokomla@zsserokomla.pl",
+                "contact:website": "http:\/\/www.zsserokomla.pl",
+                "ref:regon": "030804519",
+                "operator": "Gmina Serokomla",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 11144"
+            }
+        }
+    ]
+}

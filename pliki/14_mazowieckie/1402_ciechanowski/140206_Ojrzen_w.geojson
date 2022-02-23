@@ -1,1 +1,96 @@
-{"type":"FeatureCollection","features":[{"id":86846,"type":"Feature","geometry":{"type":"Point","coordinates":[20.54557,52.76761]},"properties":{"isced:level":"1;2","ref:rspo":86846,"official_name":"Szko\u0142a Podstawowa w Ojrzeniu","name":"Szko\u0142a Podstawowa w Ojrzeniu","addr:country":"PL","addr:postcode":"06-456","addr:city":"Ojrze\u0144","addr:street":"ul. Przedszkolna","addr:housenumber":"7","addr:teryt:simc":17683,"addr:teryt:sym_ul":121258,"contact:phone":"+48 236718367","contact:email":"sp1ojrzen@wp.pl","contact:website":"http:\/\/www.sp1ojrzen.edupage.org","ref:regon":"130181334","operator":"Gmina Ojrze\u0144","operator:type":"government","amenity":"school"}},{"id":3886,"type":"Feature","geometry":{"type":"Point","coordinates":[20.471367,52.7895789]},"properties":{"isced:level":"1;2","ref:rspo":3886,"official_name":"Szko\u0142a Podstawowa im. Marii Konopnickiej w M\u0142ocku","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"06-456","addr:place":"M\u0142ock","addr:housenumber":"72","addr:teryt:sym_ul":121212,"contact:phone":"+48 236712601","contact:email":"zsmlock@o2.pl","contact:website":"http:\/\/www.spmlock.pl\/","ref:regon":"001157991","ref:vatin":"PL5661755608","operator":"Gmina Ojrze\u0144","operator:type":"government","amenity":"school"}},{"id":3888,"type":"Feature","geometry":{"type":"Point","coordinates":[20.5723099,52.7919414]},"properties":{"isced:level":"1;2","ref:rspo":3888,"official_name":"Szko\u0142a Podstawowa im. Wac\u0142awa Kozi\u0144skiego w Kraszewie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"06-456","addr:place":"Kraszewo","addr:housenumber":"57A","addr:teryt:sym_ul":121152,"contact:phone":"+48 236718319","contact:email":"spkraszewo@onet.pl","contact:website":"https:\/\/sites.google.com\/view\/szkolakraszewo","ref:regon":"000784444","ref:vatin":"PL5662018823","operator":"Gmina Ojrze\u0144","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 86846,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.54557,
+                    52.76761
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 86846,
+                "official_name": "Szko\u0142a Podstawowa w Ojrzeniu",
+                "name": "Szko\u0142a Podstawowa w Ojrzeniu",
+                "addr:country": "PL",
+                "addr:postcode": "06-456",
+                "addr:city": "Ojrze\u0144",
+                "addr:street": "ul. Przedszkolna",
+                "addr:housenumber": "7",
+                "addr:teryt:simc": 17683,
+                "addr:teryt:sym_ul": 121258,
+                "contact:phone": "+48 236718367",
+                "contact:email": "sp1ojrzen@wp.pl",
+                "contact:website": "http:\/\/www.sp1ojrzen.edupage.org",
+                "ref:regon": "130181334",
+                "operator": "Gmina Ojrze\u0144",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 3886,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.471367,
+                    52.7895789
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 3886,
+                "official_name": "Szko\u0142a Podstawowa im. Marii Konopnickiej w M\u0142ocku",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "06-456",
+                "addr:place": "M\u0142ock",
+                "addr:housenumber": "72",
+                "addr:teryt:sym_ul": 121212,
+                "contact:phone": "+48 236712601",
+                "contact:email": "zsmlock@o2.pl",
+                "contact:website": "http:\/\/www.spmlock.pl\/",
+                "ref:regon": "001157991",
+                "ref:vatin": "PL5661755608",
+                "operator": "Gmina Ojrze\u0144",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 3888,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.5723099,
+                    52.7919414
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 3888,
+                "official_name": "Szko\u0142a Podstawowa im. Wac\u0142awa Kozi\u0144skiego w Kraszewie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "06-456",
+                "addr:place": "Kraszewo",
+                "addr:housenumber": "57A",
+                "addr:teryt:sym_ul": 121152,
+                "contact:phone": "+48 236718319",
+                "contact:email": "spkraszewo@onet.pl",
+                "contact:website": "https:\/\/sites.google.com\/view\/szkolakraszewo",
+                "ref:regon": "000784444",
+                "ref:vatin": "PL5662018823",
+                "operator": "Gmina Ojrze\u0144",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

@@ -1,1 +1,153 @@
-{"type":"FeatureCollection","features":[{"id":6142,"type":"Feature","geometry":{"type":"Point","coordinates":[21.51796,50.88911]},"properties":{"ref:rspo":6142,"official_name":"Samorz\u0105dowe Przedszkole w \u0106mielowie","name":"Samorz\u0105dowe Przedszkole w \u0106mielowie","addr:country":"PL","addr:postcode":"27-440","addr:city":"\u0106miel\u00f3w","addr:street":"ul. D\u0142uga","addr:housenumber":"164A","addr:teryt:simc":3839,"addr:teryt:sym_ul":980435,"contact:phone":"+48 158612015","contact:email":"przedszkolecmielow@wp.pl","contact:website":"http:\/\/przedszkolecmielow.cba.pl","ref:regon":"260016264","ref:vatin":"PL6612373741","operator":"Gmina \u0106miel\u00f3w","operator:type":"government","amenity":"kindergarten"}},{"id":25105,"type":"Feature","geometry":{"type":"Point","coordinates":[21.51796,50.88908]},"properties":{"isced:level":"1;2","ref:rspo":25105,"official_name":"Szko\u0142a Podstawowa Nr 1 im. Krzysztofa Szyd\u0142owieckiego w \u0106mielowie","name":"Szko\u0142a Podstawowa Nr 1","addr:country":"PL","addr:postcode":"27-440","addr:city":"\u0106miel\u00f3w","addr:street":"ul. D\u0142uga","addr:housenumber":"164","addr:teryt:simc":3839,"addr:teryt:sym_ul":980435,"contact:phone":"+48 158616020","contact:email":"sp1cmielow@op.pl","contact:website":"http:\/\/sp1cmielow.edupage.org","ref:regon":"000261539","ref:vatin":"PL6612373764","operator":"Gmina \u0106miel\u00f3w","operator:type":"government","amenity":"school"}},{"id":6143,"type":"Feature","geometry":{"type":"Point","coordinates":[21.48201,50.8901899]},"properties":{"isced:level":"1;2","ref:rspo":6143,"official_name":"Publiczna Szko\u0142a Podstawowa im. Prof. Mariana Raciborskiego w Brz\u00f3stowej","name":"Publiczna Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"27-440","addr:place":"Brz\u00f3stowa","addr:housenumber":"200A","addr:teryt:sym_ul":789370,"contact:phone":"+48 158616024","contact:email":"pspbrzostowa@o2.pl","contact:website":"http:\/\/pspbrzostowa.cba.pl","ref:regon":"001177500","ref:vatin":"PL6612373735","operator":"Gmina \u0106miel\u00f3w","operator:type":"government","amenity":"school"}},{"id":75715,"type":"Feature","geometry":{"type":"Point","coordinates":[21.56771,50.97491]},"properties":{"ref:rspo":75715,"official_name":"Niepubliczne Przedszkole w Podg\u00f3rzu","name":"Niepubliczne Przedszkole w Podg\u00f3rzu","addr:country":"PL","addr:postcode":"27-440","addr:place":"Podg\u00f3rze","addr:housenumber":"55","addr:teryt:sym_ul":789683,"contact:phone":"+48 158615131","contact:email":"maleprzedszkole@poczta.onet.pl","ref:regon":"260649874","operator":"Stowarzyszenie Rozwoju Wsi Boria - Lemierze - Podg\u00f3rze - Wiktoryn - Wycinka - Ul\u00f3w","operator:type":"ngo","amenity":"kindergarten"}},{"id":89821,"type":"Feature","geometry":{"type":"Point","coordinates":[21.56771,50.97488]},"properties":{"isced:level":"1;2","ref:rspo":89821,"official_name":"Szko\u0142a Podstawowa w Podg\u00f3rzu","name":"Szko\u0142a Podstawowa w Podg\u00f3rzu","addr:country":"PL","addr:postcode":"27-440","addr:place":"Podg\u00f3rze","addr:housenumber":"55","addr:teryt:sym_ul":789683,"contact:phone":"+48 158615131","contact:email":"szkolapodgorze@poczta.onet.pl","ref:regon":"260652818","operator":"Stowarzyszenie Rozwoju Wsi Boria - Lemierze - Podg\u00f3rze - Wiktoryn - Wycinka - Ul\u00f3w","operator:type":"ngo","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 6142,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.51796,
+                    50.88911
+                ]
+            },
+            "properties": {
+                "ref:rspo": 6142,
+                "official_name": "Samorz\u0105dowe Przedszkole w \u0106mielowie",
+                "name": "Samorz\u0105dowe Przedszkole w \u0106mielowie",
+                "addr:country": "PL",
+                "addr:postcode": "27-440",
+                "addr:city": "\u0106miel\u00f3w",
+                "addr:street": "ul. D\u0142uga",
+                "addr:housenumber": "164A",
+                "addr:teryt:simc": 3839,
+                "addr:teryt:sym_ul": 980435,
+                "contact:phone": "+48 158612015",
+                "contact:email": "przedszkolecmielow@wp.pl",
+                "contact:website": "http:\/\/przedszkolecmielow.cba.pl",
+                "ref:regon": "260016264",
+                "ref:vatin": "PL6612373741",
+                "operator": "Gmina \u0106miel\u00f3w",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 25105,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.51796,
+                    50.88908
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 25105,
+                "official_name": "Szko\u0142a Podstawowa Nr 1 im. Krzysztofa Szyd\u0142owieckiego w \u0106mielowie",
+                "name": "Szko\u0142a Podstawowa Nr 1",
+                "addr:country": "PL",
+                "addr:postcode": "27-440",
+                "addr:city": "\u0106miel\u00f3w",
+                "addr:street": "ul. D\u0142uga",
+                "addr:housenumber": "164",
+                "addr:teryt:simc": 3839,
+                "addr:teryt:sym_ul": 980435,
+                "contact:phone": "+48 158616020",
+                "contact:email": "sp1cmielow@op.pl",
+                "contact:website": "http:\/\/sp1cmielow.edupage.org",
+                "ref:regon": "000261539",
+                "ref:vatin": "PL6612373764",
+                "operator": "Gmina \u0106miel\u00f3w",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 6143,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.48201,
+                    50.8901899
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 6143,
+                "official_name": "Publiczna Szko\u0142a Podstawowa im. Prof. Mariana Raciborskiego w Brz\u00f3stowej",
+                "name": "Publiczna Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "27-440",
+                "addr:place": "Brz\u00f3stowa",
+                "addr:housenumber": "200A",
+                "addr:teryt:sym_ul": 789370,
+                "contact:phone": "+48 158616024",
+                "contact:email": "pspbrzostowa@o2.pl",
+                "contact:website": "http:\/\/pspbrzostowa.cba.pl",
+                "ref:regon": "001177500",
+                "ref:vatin": "PL6612373735",
+                "operator": "Gmina \u0106miel\u00f3w",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 75715,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.56771,
+                    50.97491
+                ]
+            },
+            "properties": {
+                "ref:rspo": 75715,
+                "official_name": "Niepubliczne Przedszkole w Podg\u00f3rzu",
+                "name": "Niepubliczne Przedszkole w Podg\u00f3rzu",
+                "addr:country": "PL",
+                "addr:postcode": "27-440",
+                "addr:place": "Podg\u00f3rze",
+                "addr:housenumber": "55",
+                "addr:teryt:sym_ul": 789683,
+                "contact:phone": "+48 158615131",
+                "contact:email": "maleprzedszkole@poczta.onet.pl",
+                "ref:regon": "260649874",
+                "operator": "Stowarzyszenie Rozwoju Wsi Boria - Lemierze - Podg\u00f3rze - Wiktoryn - Wycinka - Ul\u00f3w",
+                "operator:type": "ngo",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 89821,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.56771,
+                    50.97488
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 89821,
+                "official_name": "Szko\u0142a Podstawowa w Podg\u00f3rzu",
+                "name": "Szko\u0142a Podstawowa w Podg\u00f3rzu",
+                "addr:country": "PL",
+                "addr:postcode": "27-440",
+                "addr:place": "Podg\u00f3rze",
+                "addr:housenumber": "55",
+                "addr:teryt:sym_ul": 789683,
+                "contact:phone": "+48 158615131",
+                "contact:email": "szkolapodgorze@poczta.onet.pl",
+                "ref:regon": "260652818",
+                "operator": "Stowarzyszenie Rozwoju Wsi Boria - Lemierze - Podg\u00f3rze - Wiktoryn - Wycinka - Ul\u00f3w",
+                "operator:type": "ngo",
+                "amenity": "school"
+            }
+        }
+    ]
+}

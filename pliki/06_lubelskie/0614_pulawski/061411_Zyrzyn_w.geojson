@@ -1,1 +1,130 @@
-{"type":"FeatureCollection","features":[{"id":109766,"type":"Feature","geometry":{"type":"Point","coordinates":[22.06726,51.46466]},"properties":{"isced:level":"1;2","ref:rspo":109766,"official_name":"Szko\u0142a Podstawowa im. Ks. Jana Twardowskiego w Osinach","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"24-103","addr:city":"Osiny","addr:street":"ul. Szkolna","addr:housenumber":"64","addr:teryt:simc":21970,"addr:teryt:sym_ul":394418,"contact:phone":"+48 818817295","contact:email":"szkola@sp-osiny.pl","contact:website":"http:\/\/www.sp-osiny.pl","ref:regon":"001152002","ref:vatin":"PL7161536123","operator":"Gmina \u017byrzyn","operator:type":"government","amenity":"school"}},{"id":109773,"type":"Feature","geometry":{"type":"Point","coordinates":[22.097949981689,51.49787902832]},"properties":{"isced:level":"1;2","ref:rspo":109773,"official_name":"Szko\u0142a Podstawowa im. Adama Mickiewicza w \u017byrzynie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"24-103","addr:city":"\u017byrzyn","addr:street":"ul. Tysi\u0105clecia","addr:housenumber":"143","addr:teryt:simc":23270,"addr:teryt:sym_ul":394499,"contact:phone":"+48 818809003","contact:email":"szkola@spzyrzyn.pl","ref:regon":"000273590","ref:vatin":"PL7161540426","operator":"Gmina \u017byrzyn","operator:type":"government","amenity":"school"}},{"id":109783,"type":"Feature","geometry":{"type":"Point","coordinates":[22.097949981689,51.49784902832]},"properties":{"ref:rspo":109783,"official_name":"Przedszkole im. Misia Uszatka w \u017byrzynie","name":"Przedszkole","addr:country":"PL","addr:postcode":"24-103","addr:city":"\u017byrzyn","addr:street":"ul. Tysi\u0105clecia","addr:housenumber":"143","addr:door":"2","addr:teryt:simc":23270,"addr:teryt:sym_ul":394499,"contact:phone":"+48 818809053","contact:email":"przedszkole.mis.uszatek@o2.pl","contact:website":"http:\/\/www.misuszatek.przedszkolna.net","ref:regon":"432252230","ref:vatin":"PL7161565188","operator":"Gmina \u017byrzyn","operator:type":"government","amenity":"kindergarten"}},{"id":109774,"type":"Feature","geometry":{"type":"Point","coordinates":[22.03406,51.55244]},"properties":{"isced:level":"1;2","ref:rspo":109774,"official_name":"Szko\u0142a Podstawowa im.henryka Sienkiewicza w Skrudkach","name":"Szko\u0142a Podstawowa im.henryka Sienkiewicza w Skrudkach","addr:country":"PL","addr:postcode":"24-103","addr:place":"Skrudki","addr:housenumber":"5a","addr:teryt:sym_ul":394430,"contact:phone":"+48 818803070","contact:email":"szkola_skrudki@poczta.onet.pl","contact:website":"http:\/\/www.spskrudki.edupage.org","ref:regon":"430330902","ref:vatin":"PL7161500272","operator":"Gmina \u017byrzyn","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 109766,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.06726,
+                    51.46466
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 109766,
+                "official_name": "Szko\u0142a Podstawowa im. Ks. Jana Twardowskiego w Osinach",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "24-103",
+                "addr:city": "Osiny",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "64",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 394418,
+                "contact:phone": "+48 818817295",
+                "contact:email": "szkola@sp-osiny.pl",
+                "contact:website": "http:\/\/www.sp-osiny.pl",
+                "ref:regon": "001152002",
+                "ref:vatin": "PL7161536123",
+                "operator": "Gmina \u017byrzyn",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 109773,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.097949981689,
+                    51.49787902832
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 109773,
+                "official_name": "Szko\u0142a Podstawowa im. Adama Mickiewicza w \u017byrzynie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "24-103",
+                "addr:city": "\u017byrzyn",
+                "addr:street": "ul. Tysi\u0105clecia",
+                "addr:housenumber": "143",
+                "addr:teryt:simc": 23270,
+                "addr:teryt:sym_ul": 394499,
+                "contact:phone": "+48 818809003",
+                "contact:email": "szkola@spzyrzyn.pl",
+                "ref:regon": "000273590",
+                "ref:vatin": "PL7161540426",
+                "operator": "Gmina \u017byrzyn",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 109783,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.097949981689,
+                    51.49784902832
+                ]
+            },
+            "properties": {
+                "ref:rspo": 109783,
+                "official_name": "Przedszkole im. Misia Uszatka w \u017byrzynie",
+                "name": "Przedszkole",
+                "addr:country": "PL",
+                "addr:postcode": "24-103",
+                "addr:city": "\u017byrzyn",
+                "addr:street": "ul. Tysi\u0105clecia",
+                "addr:housenumber": "143",
+                "addr:door": "2",
+                "addr:teryt:simc": 23270,
+                "addr:teryt:sym_ul": 394499,
+                "contact:phone": "+48 818809053",
+                "contact:email": "przedszkole.mis.uszatek@o2.pl",
+                "contact:website": "http:\/\/www.misuszatek.przedszkolna.net",
+                "ref:regon": "432252230",
+                "ref:vatin": "PL7161565188",
+                "operator": "Gmina \u017byrzyn",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 109774,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.03406,
+                    51.55244
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 109774,
+                "official_name": "Szko\u0142a Podstawowa im.henryka Sienkiewicza w Skrudkach",
+                "name": "Szko\u0142a Podstawowa im.henryka Sienkiewicza w Skrudkach",
+                "addr:country": "PL",
+                "addr:postcode": "24-103",
+                "addr:place": "Skrudki",
+                "addr:housenumber": "5a",
+                "addr:teryt:sym_ul": 394430,
+                "contact:phone": "+48 818803070",
+                "contact:email": "szkola_skrudki@poczta.onet.pl",
+                "contact:website": "http:\/\/www.spskrudki.edupage.org",
+                "ref:regon": "430330902",
+                "ref:vatin": "PL7161500272",
+                "operator": "Gmina \u017byrzyn",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

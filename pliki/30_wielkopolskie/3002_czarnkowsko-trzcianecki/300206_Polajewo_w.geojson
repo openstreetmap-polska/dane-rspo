@@ -1,1 +1,128 @@
-{"type":"FeatureCollection","features":[{"id":61840,"type":"Feature","geometry":{"type":"Point","coordinates":[16.64157,52.77385]},"properties":{"isced:level":"1;2","ref:rspo":61840,"official_name":"Szko\u0142a Podstawowa im. Kornela Makuszy\u0144skiego","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"64-710","addr:place":"Boruszyn","addr:housenumber":"25","addr:teryt:sym_ul":528675,"contact:phone":"+48 672551521","contact:email":"spboruszyn@poczta.onet.pl","contact:website":"http:\/\/www.spboruszyn.edupage.org","ref:regon":"001142216","ref:vatin":"PL7631884992","operator":"Gmina Po\u0142ajewo","operator:type":"government","amenity":"school"}},{"id":46558,"type":"Feature","geometry":{"type":"Point","coordinates":[16.73208,52.79701]},"properties":{"isced:level":"1;2","ref:rspo":46558,"official_name":"Szko\u0142a Podstawowa im. Arkadego Fiedlera","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"64-710","addr:city":"Po\u0142ajewo","addr:street":"ul. Le\u015bna","addr:housenumber":"1","addr:teryt:simc":10898,"addr:teryt:sym_ul":528764,"contact:phone":"+48 672567147","contact:email":"szkola_p@interia.pl","contact:website":"http:\/\/www.sppolajewo.eu","ref:regon":"000269297","ref:vatin":"PL7631884963","operator":"Gmina Po\u0142ajewo","operator:type":"government","amenity":"school"}},{"id":61841,"type":"Feature","geometry":{"type":"Point","coordinates":[16.73208,52.79698]},"properties":{"ref:rspo":61841,"official_name":"Publiczne Przedszkole \"Ba\u015bniowa Kraina\" w Po\u0142ajewie","name":"Publiczne Przedszkole \"Ba\u015bniowa Kraina\" w Po\u0142ajewie","addr:country":"PL","addr:postcode":"64-710","addr:city":"Po\u0142ajewo","addr:street":"ul. Le\u015bna","addr:housenumber":"1","addr:teryt:simc":10898,"addr:teryt:sym_ul":528764,"contact:phone":"+48 672567084","contact:email":"publiczne.przedszkole1@gmail.com","contact:website":"http:\/\/www.przedszkole-polajewo.pl","ref:regon":"570309552","ref:vatin":"PL7631885000","operator":"Gmina Po\u0142ajewo","operator:type":"government","amenity":"kindergarten"}},{"id":263331,"type":"Feature","geometry":{"type":"Point","coordinates":[16.63162,52.80757]},"properties":{"isced:level":"1;2","ref:rspo":263331,"official_name":"Szko\u0142a Podstawowa im. Jana Paw\u0142a II w M\u0142ynkowie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"64-710","addr:place":"M\u0142ynkowo","addr:housenumber":"109","addr:teryt:sym_ul":528758,"contact:phone":"+48 672551722","contact:email":"szkola@spmlynkowo.pl","contact:website":"http:\/\/www.spmlynkowo.pl","ref:regon":"368180340","ref:vatin":"PL7632136660","operator":"Gmina Po\u0142ajewo","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 61840,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.64157,
+                    52.77385
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 61840,
+                "official_name": "Szko\u0142a Podstawowa im. Kornela Makuszy\u0144skiego",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "64-710",
+                "addr:place": "Boruszyn",
+                "addr:housenumber": "25",
+                "addr:teryt:sym_ul": 528675,
+                "contact:phone": "+48 672551521",
+                "contact:email": "spboruszyn@poczta.onet.pl",
+                "contact:website": "http:\/\/www.spboruszyn.edupage.org",
+                "ref:regon": "001142216",
+                "ref:vatin": "PL7631884992",
+                "operator": "Gmina Po\u0142ajewo",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 46558,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.73208,
+                    52.79701
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 46558,
+                "official_name": "Szko\u0142a Podstawowa im. Arkadego Fiedlera",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "64-710",
+                "addr:city": "Po\u0142ajewo",
+                "addr:street": "ul. Le\u015bna",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 10898,
+                "addr:teryt:sym_ul": 528764,
+                "contact:phone": "+48 672567147",
+                "contact:email": "szkola_p@interia.pl",
+                "contact:website": "http:\/\/www.sppolajewo.eu",
+                "ref:regon": "000269297",
+                "ref:vatin": "PL7631884963",
+                "operator": "Gmina Po\u0142ajewo",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 61841,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.73208,
+                    52.79698
+                ]
+            },
+            "properties": {
+                "ref:rspo": 61841,
+                "official_name": "Publiczne Przedszkole \"Ba\u015bniowa Kraina\" w Po\u0142ajewie",
+                "name": "Publiczne Przedszkole \"Ba\u015bniowa Kraina\" w Po\u0142ajewie",
+                "addr:country": "PL",
+                "addr:postcode": "64-710",
+                "addr:city": "Po\u0142ajewo",
+                "addr:street": "ul. Le\u015bna",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 10898,
+                "addr:teryt:sym_ul": 528764,
+                "contact:phone": "+48 672567084",
+                "contact:email": "publiczne.przedszkole1@gmail.com",
+                "contact:website": "http:\/\/www.przedszkole-polajewo.pl",
+                "ref:regon": "570309552",
+                "ref:vatin": "PL7631885000",
+                "operator": "Gmina Po\u0142ajewo",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 263331,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.63162,
+                    52.80757
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 263331,
+                "official_name": "Szko\u0142a Podstawowa im. Jana Paw\u0142a II w M\u0142ynkowie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "64-710",
+                "addr:place": "M\u0142ynkowo",
+                "addr:housenumber": "109",
+                "addr:teryt:sym_ul": 528758,
+                "contact:phone": "+48 672551722",
+                "contact:email": "szkola@spmlynkowo.pl",
+                "contact:website": "http:\/\/www.spmlynkowo.pl",
+                "ref:regon": "368180340",
+                "ref:vatin": "PL7632136660",
+                "operator": "Gmina Po\u0142ajewo",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

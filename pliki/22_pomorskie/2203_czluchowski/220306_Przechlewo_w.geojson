@@ -1,1 +1,126 @@
-{"type":"FeatureCollection","features":[{"id":10593,"type":"Feature","geometry":{"type":"Point","coordinates":[17.2519,53.79651]},"properties":{"ref:rspo":10593,"official_name":"Przedszkole im. Kubusia Puchatka","name":"Przedszkole","addr:country":"PL","addr:postcode":"77-320","addr:city":"Przechlewo","addr:street":"os. Ju\u017akowa","addr:housenumber":"14","addr:teryt:simc":7705,"addr:teryt:sym_ul":749844,"contact:phone":"+48 598334451","contact:email":"dyrektor@przedszkole.przechlewo.pl","contact:website":"http:\/\/przedszkole.przechlewo.pl\/","ref:regon":"770531882","ref:vatin":"PL8431601820","operator":"Gmina Przechlewo","operator:type":"government","amenity":"kindergarten"}},{"id":46582,"type":"Feature","geometry":{"type":"Point","coordinates":[17.2519,53.796479999999995]},"properties":{"ref:rspo":46582,"official_name":"Centrum Edukacji Atut P\u00f3\u0142noc w Przechlewie","name":"Centrum Edukacji Atut P\u00f3\u0142noc w Przechlewie","addr:country":"PL","addr:postcode":"77-320","addr:city":"Przechlewo","addr:street":"os. Ju\u017akowa","addr:housenumber":"14","addr:teryt:simc":7705,"addr:teryt:sym_ul":749844,"contact:phone":"+48 655119738","ref:regon":"221769904","ref:vatin":"PL5422689529","operator":"Ireneusz Tracz","operator:type":"private","fixme":"w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. amenity=training + training=*, amenity=dancing_school, amenity=language_school, amenity=music_school)"}},{"id":12360,"type":"Feature","geometry":{"type":"Point","coordinates":[17.26342,53.79848]},"properties":{"isced:level":"1;2","ref:rspo":12360,"official_name":"Szko\u0142a Podstawowa im. Janusza Korczaka w Przechlewie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"77-320","addr:city":"Przechlewo","addr:street":"ul. Szkolna","addr:housenumber":"4E","addr:teryt:simc":21970,"addr:teryt:sym_ul":749844,"contact:phone":"+48 598334325","contact:email":"przechlewo.szkola@wp.pl","contact:website":"http:\/\/www.szkolaprzechlewo.pl","ref:regon":"000270337","ref:vatin":"PL8431617212","operator":"Gmina Przechlewo","operator:type":"government","amenity":"school"}},{"id":10425,"type":"Feature","geometry":{"type":"Point","coordinates":[17.33575,53.80633]},"properties":{"isced:level":"1;2","ref:rspo":10425,"official_name":"Szko\u0142a Podstawowa w S\u0105polnie","name":"Szko\u0142a Podstawowa w S\u0105polnie","addr:country":"PL","addr:postcode":"77-320","addr:place":"S\u0105polno","addr:housenumber":"45","addr:teryt:sym_ul":749867,"contact:phone":"+48 598334870","contact:email":"spsapolno@op.pl","contact:website":"http:\/\/spsapolno.szkolnastrona.pl","ref:regon":"001141228","operator":"Gmina Przechlewo","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 10593,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.2519,
+                    53.79651
+                ]
+            },
+            "properties": {
+                "ref:rspo": 10593,
+                "official_name": "Przedszkole im. Kubusia Puchatka",
+                "name": "Przedszkole",
+                "addr:country": "PL",
+                "addr:postcode": "77-320",
+                "addr:city": "Przechlewo",
+                "addr:street": "os. Ju\u017akowa",
+                "addr:housenumber": "14",
+                "addr:teryt:simc": 7705,
+                "addr:teryt:sym_ul": 749844,
+                "contact:phone": "+48 598334451",
+                "contact:email": "dyrektor@przedszkole.przechlewo.pl",
+                "contact:website": "http:\/\/przedszkole.przechlewo.pl\/",
+                "ref:regon": "770531882",
+                "ref:vatin": "PL8431601820",
+                "operator": "Gmina Przechlewo",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 46582,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.2519,
+                    53.796479999999995
+                ]
+            },
+            "properties": {
+                "ref:rspo": 46582,
+                "official_name": "Centrum Edukacji Atut P\u00f3\u0142noc w Przechlewie",
+                "name": "Centrum Edukacji Atut P\u00f3\u0142noc w Przechlewie",
+                "addr:country": "PL",
+                "addr:postcode": "77-320",
+                "addr:city": "Przechlewo",
+                "addr:street": "os. Ju\u017akowa",
+                "addr:housenumber": "14",
+                "addr:teryt:simc": 7705,
+                "addr:teryt:sym_ul": 749844,
+                "contact:phone": "+48 655119738",
+                "ref:regon": "221769904",
+                "ref:vatin": "PL5422689529",
+                "operator": "Ireneusz Tracz",
+                "operator:type": "private",
+                "fixme": "w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. amenity=training + training=*, amenity=dancing_school, amenity=language_school, amenity=music_school)"
+            }
+        },
+        {
+            "id": 12360,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.26342,
+                    53.79848
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 12360,
+                "official_name": "Szko\u0142a Podstawowa im. Janusza Korczaka w Przechlewie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "77-320",
+                "addr:city": "Przechlewo",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "4E",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 749844,
+                "contact:phone": "+48 598334325",
+                "contact:email": "przechlewo.szkola@wp.pl",
+                "contact:website": "http:\/\/www.szkolaprzechlewo.pl",
+                "ref:regon": "000270337",
+                "ref:vatin": "PL8431617212",
+                "operator": "Gmina Przechlewo",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 10425,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.33575,
+                    53.80633
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 10425,
+                "official_name": "Szko\u0142a Podstawowa w S\u0105polnie",
+                "name": "Szko\u0142a Podstawowa w S\u0105polnie",
+                "addr:country": "PL",
+                "addr:postcode": "77-320",
+                "addr:place": "S\u0105polno",
+                "addr:housenumber": "45",
+                "addr:teryt:sym_ul": 749867,
+                "contact:phone": "+48 598334870",
+                "contact:email": "spsapolno@op.pl",
+                "contact:website": "http:\/\/spsapolno.szkolnastrona.pl",
+                "ref:regon": "001141228",
+                "operator": "Gmina Przechlewo",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

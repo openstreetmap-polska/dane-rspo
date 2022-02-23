@@ -1,1 +1,68 @@
-{"type":"FeatureCollection","features":[{"id":7008,"type":"Feature","geometry":{"type":"Point","coordinates":[16.48494,51.15374]},"properties":{"isced:level":"1;2","ref:rspo":7008,"official_name":"Szko\u0142a Podstawowa im. Skarb\u00f3w Dolnego \u015aL\u0105ska w Malczycach","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"55-320","addr:city":"Malczyce","addr:street":"ul. Szkolna","addr:housenumber":"6","addr:teryt:simc":21970,"addr:teryt:sym_ul":876940,"contact:phone":"+48 713179174","contact:email":"sp.malczyce@wp.pl","contact:website":"https:\/\/szkola-malczyce.edupage.org\/","ref:regon":"000592383","ref:vatin":"PL9131500185","operator":"Gmina Malczyce","operator:type":"government","amenity":"school"}},{"id":13151,"type":"Feature","geometry":{"type":"Point","coordinates":[16.48935,51.21744]},"properties":{"ref:rspo":13151,"official_name":"Publiczne Przedszkole w Malczycach","name":"Publiczne Przedszkole w Malczycach","addr:country":"PL","addr:postcode":"55-320","addr:city":"Malczyce","addr:street":"ul. Klonowa","addr:housenumber":"1","addr:teryt:simc":8574,"addr:teryt:sym_ul":876940,"contact:phone":"+48 713179511","contact:email":"przedmal@wp.pl","contact:website":"http:\/\/www.publiczneprzedszkole.malczyce.edu.pl","ref:regon":"001012324","ref:vatin":"PL9131500222","operator":"Gmina Malczyce","operator:type":"government","amenity":"kindergarten"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 7008,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.48494,
+                    51.15374
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 7008,
+                "official_name": "Szko\u0142a Podstawowa im. Skarb\u00f3w Dolnego \u015aL\u0105ska w Malczycach",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "55-320",
+                "addr:city": "Malczyce",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "6",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 876940,
+                "contact:phone": "+48 713179174",
+                "contact:email": "sp.malczyce@wp.pl",
+                "contact:website": "https:\/\/szkola-malczyce.edupage.org\/",
+                "ref:regon": "000592383",
+                "ref:vatin": "PL9131500185",
+                "operator": "Gmina Malczyce",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 13151,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.48935,
+                    51.21744
+                ]
+            },
+            "properties": {
+                "ref:rspo": 13151,
+                "official_name": "Publiczne Przedszkole w Malczycach",
+                "name": "Publiczne Przedszkole w Malczycach",
+                "addr:country": "PL",
+                "addr:postcode": "55-320",
+                "addr:city": "Malczyce",
+                "addr:street": "ul. Klonowa",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 8574,
+                "addr:teryt:sym_ul": 876940,
+                "contact:phone": "+48 713179511",
+                "contact:email": "przedmal@wp.pl",
+                "contact:website": "http:\/\/www.publiczneprzedszkole.malczyce.edu.pl",
+                "ref:regon": "001012324",
+                "ref:vatin": "PL9131500222",
+                "operator": "Gmina Malczyce",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        }
+    ]
+}

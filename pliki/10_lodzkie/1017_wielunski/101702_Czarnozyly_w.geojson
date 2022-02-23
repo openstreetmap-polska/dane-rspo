@@ -1,1 +1,181 @@
-{"type":"FeatureCollection","features":[{"id":61594,"type":"Feature","geometry":{"type":"Point","coordinates":[18.56128,51.27332]},"properties":{"isced:level":"1;2","ref:rspo":61594,"official_name":"Publiczna Szko\u0142a Podstawowa w Wydrzynie","name":"Publiczna Szko\u0142a Podstawowa w Wydrzynie","addr:country":"PL","addr:postcode":"98-310","addr:place":"Wydrzyn","addr:housenumber":"107","addr:teryt:sym_ul":701777,"contact:phone":"+48 438416221","contact:email":"wydrzyn@o2.pl","contact:website":"http:\/\/www.pspwydrzyn.pl","ref:regon":"730016757","operator":"Gmina Czarno\u017cy\u0142y","operator:type":"government","amenity":"school"}},{"id":61593,"type":"Feature","geometry":{"type":"Point","coordinates":[18.51319,51.27587]},"properties":{"isced:level":"1;2","ref:rspo":61593,"official_name":"Publiczna Szko\u0142a Podstawowa im. B\u0142. Ks. Ludwika Gietyngiera w \u0141agiewnikach","name":"Publiczna Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"98-310","addr:place":"\u0141agiewniki","addr:housenumber":"89","addr:teryt:sym_ul":701613,"contact:phone":"+48 438416390","contact:email":"sp.lagiewniki@wp.pl","contact:website":"http:\/\/www.psplagiewniki.com.pl","ref:regon":"730016734","operator":"Gmina Czarno\u017cy\u0142y","operator:type":"government","amenity":"school"}},{"id":61591,"type":"Feature","geometry":{"type":"Point","coordinates":[18.55685,51.2855599]},"properties":{"isced:level":"1;2","ref:rspo":61591,"official_name":"Publiczna Szko\u0142a Podstawowa im. Miko\u0142aja Kopernika w Czarno\u017cy\u0142ach","name":"Publiczna Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"98-310","addr:place":"Czarno\u017cy\u0142y","addr:housenumber":"17 a","addr:teryt:sym_ul":701412,"contact:phone":"+48 438416279","contact:email":"pspczarnozyly@vp.pl","contact:website":"http:\/\/www.psp.czarnozyly.pl","ref:regon":"730016728","operator":"Gmina Czarno\u017cy\u0142y","operator:type":"government","amenity":"school"}},{"id":10712,"type":"Feature","geometry":{"type":"Point","coordinates":[18.61718,51.28845]},"properties":{"ref:rspo":10712,"official_name":"Specjalny O\u015brodek Szkolno Wychowawczy w Gromadzicach","name":"Specjalny O\u015brodek Szkolno Wychowawczy w Gromadzicach","addr:country":"PL","addr:postcode":"98-310","addr:place":"Gromadzice","addr:housenumber":"49","addr:teryt:sym_ul":701553,"contact:phone":"+48 438416292","contact:email":"sekretariat@gromadzice.pl","contact:website":"http:\/\/www.soszwgromadzice.edupage.org","ref:regon":"000563246","ref:vatin":"PL8321846839","operator":"Powiat Wielu\u0144ski","operator:type":"government","amenity":"school","note":"Children RSPO: 112101;112102"}},{"id":112101,"type":"Feature","geometry":{"type":"Point","coordinates":[18.61718,51.288419999999995]},"properties":{"isced:level":"1;2","ref:rspo":112101,"official_name":"Szko\u0142a Podstawowa Specjalna","name":"Szko\u0142a Podstawowa Specjalna","addr:country":"PL","addr:postcode":"98-310","addr:place":"Gromadzice","addr:housenumber":"49","addr:teryt:sym_ul":701553,"contact:phone":"+48 438416292","contact:email":"sekretariat@gromadzice.pl","contact:website":"http:\/\/www.soszwgromadzice.edupage.org","ref:regon":"100090260","operator":"Powiat Wielu\u0144ski","operator:type":"government","amenity":"school","note":"Parent RSPO: 10712"}},{"id":112102,"type":"Feature","geometry":{"type":"Point","coordinates":[18.61718,51.28839]},"properties":{"ref:rspo":112102,"official_name":"Szko\u0142a Przysposabiaj\u0105ca Do Pracy","name":"Szko\u0142a Przysposabiaj\u0105ca Do Pracy","addr:country":"PL","addr:postcode":"98-310","addr:place":"Gromadzice","addr:housenumber":"49","addr:teryt:sym_ul":701553,"contact:phone":"+48 438426292","contact:email":"sekretariat@gromadzice.pl","contact:website":"http:\/\/www.soszw-gromadzice.pl\/","ref:regon":"100090299","operator":"Powiat Wielu\u0144ski","operator:type":"government","amenity":"school","note":"Parent RSPO: 10712"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 61594,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.56128,
+                    51.27332
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 61594,
+                "official_name": "Publiczna Szko\u0142a Podstawowa w Wydrzynie",
+                "name": "Publiczna Szko\u0142a Podstawowa w Wydrzynie",
+                "addr:country": "PL",
+                "addr:postcode": "98-310",
+                "addr:place": "Wydrzyn",
+                "addr:housenumber": "107",
+                "addr:teryt:sym_ul": 701777,
+                "contact:phone": "+48 438416221",
+                "contact:email": "wydrzyn@o2.pl",
+                "contact:website": "http:\/\/www.pspwydrzyn.pl",
+                "ref:regon": "730016757",
+                "operator": "Gmina Czarno\u017cy\u0142y",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 61593,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.51319,
+                    51.27587
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 61593,
+                "official_name": "Publiczna Szko\u0142a Podstawowa im. B\u0142. Ks. Ludwika Gietyngiera w \u0141agiewnikach",
+                "name": "Publiczna Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "98-310",
+                "addr:place": "\u0141agiewniki",
+                "addr:housenumber": "89",
+                "addr:teryt:sym_ul": 701613,
+                "contact:phone": "+48 438416390",
+                "contact:email": "sp.lagiewniki@wp.pl",
+                "contact:website": "http:\/\/www.psplagiewniki.com.pl",
+                "ref:regon": "730016734",
+                "operator": "Gmina Czarno\u017cy\u0142y",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 61591,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.55685,
+                    51.2855599
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 61591,
+                "official_name": "Publiczna Szko\u0142a Podstawowa im. Miko\u0142aja Kopernika w Czarno\u017cy\u0142ach",
+                "name": "Publiczna Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "98-310",
+                "addr:place": "Czarno\u017cy\u0142y",
+                "addr:housenumber": "17 a",
+                "addr:teryt:sym_ul": 701412,
+                "contact:phone": "+48 438416279",
+                "contact:email": "pspczarnozyly@vp.pl",
+                "contact:website": "http:\/\/www.psp.czarnozyly.pl",
+                "ref:regon": "730016728",
+                "operator": "Gmina Czarno\u017cy\u0142y",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 10712,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.61718,
+                    51.28845
+                ]
+            },
+            "properties": {
+                "ref:rspo": 10712,
+                "official_name": "Specjalny O\u015brodek Szkolno Wychowawczy w Gromadzicach",
+                "name": "Specjalny O\u015brodek Szkolno Wychowawczy w Gromadzicach",
+                "addr:country": "PL",
+                "addr:postcode": "98-310",
+                "addr:place": "Gromadzice",
+                "addr:housenumber": "49",
+                "addr:teryt:sym_ul": 701553,
+                "contact:phone": "+48 438416292",
+                "contact:email": "sekretariat@gromadzice.pl",
+                "contact:website": "http:\/\/www.soszwgromadzice.edupage.org",
+                "ref:regon": "000563246",
+                "ref:vatin": "PL8321846839",
+                "operator": "Powiat Wielu\u0144ski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Children RSPO: 112101;112102"
+            }
+        },
+        {
+            "id": 112101,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.61718,
+                    51.288419999999995
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 112101,
+                "official_name": "Szko\u0142a Podstawowa Specjalna",
+                "name": "Szko\u0142a Podstawowa Specjalna",
+                "addr:country": "PL",
+                "addr:postcode": "98-310",
+                "addr:place": "Gromadzice",
+                "addr:housenumber": "49",
+                "addr:teryt:sym_ul": 701553,
+                "contact:phone": "+48 438416292",
+                "contact:email": "sekretariat@gromadzice.pl",
+                "contact:website": "http:\/\/www.soszwgromadzice.edupage.org",
+                "ref:regon": "100090260",
+                "operator": "Powiat Wielu\u0144ski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 10712"
+            }
+        },
+        {
+            "id": 112102,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.61718,
+                    51.28839
+                ]
+            },
+            "properties": {
+                "ref:rspo": 112102,
+                "official_name": "Szko\u0142a Przysposabiaj\u0105ca Do Pracy",
+                "name": "Szko\u0142a Przysposabiaj\u0105ca Do Pracy",
+                "addr:country": "PL",
+                "addr:postcode": "98-310",
+                "addr:place": "Gromadzice",
+                "addr:housenumber": "49",
+                "addr:teryt:sym_ul": 701553,
+                "contact:phone": "+48 438426292",
+                "contact:email": "sekretariat@gromadzice.pl",
+                "contact:website": "http:\/\/www.soszw-gromadzice.pl\/",
+                "ref:regon": "100090299",
+                "operator": "Powiat Wielu\u0144ski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 10712"
+            }
+        }
+    ]
+}

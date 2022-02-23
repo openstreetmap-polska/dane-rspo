@@ -1,1 +1,207 @@
-{"type":"FeatureCollection","features":[{"id":14954,"type":"Feature","geometry":{"type":"Point","coordinates":[19.59932,52.14408]},"properties":{"isced:level":"1;2","ref:rspo":14954,"official_name":"Szko\u0142a Podstawowa im. Marii Konopnickiej w \u017beronicach","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"99-311","addr:place":"\u017beronice","addr:housenumber":"37A","addr:teryt:sym_ul":559546,"contact:phone":"+48 242855291","contact:email":"sp.zeronice@ugbedlno.pl","ref:regon":"001111569","ref:vatin":"PL7752304019","operator":"Gmina Bedlno","operator:type":"government","amenity":"school"}},{"id":14934,"type":"Feature","geometry":{"type":"Point","coordinates":[19.52725,52.17787]},"properties":{"isced:level":"1;2","ref:rspo":14934,"official_name":"Szko\u0142a Podstawowa w Szewcach Nadolnych im. Bohater\u00f3w Walk Nad Bzur\u0105","name":"Szko\u0142a Podstawowa w Szewcach Nadolnych","addr:country":"PL","addr:postcode":"99-311","addr:place":"Szewce Nadolne","addr:housenumber":"14","addr:teryt:sym_ul":559322,"contact:phone":"+48 243830044","contact:email":"spszewcenad@op.pl","contact:website":"https:\/\/spszewcenadolne.edupage.org\/","ref:regon":"001111546","ref:vatin":"PL7752300323","operator":"Gmina Bedlno","operator:type":"government","amenity":"school"}},{"id":14973,"type":"Feature","geometry":{"type":"Point","coordinates":[19.6474,52.18585]},"properties":{"isced:level":"1;2","ref:rspo":14973,"official_name":"Szko\u0142a Podstawowa im. 37 \u0141\u0119czyckiego Pu\u0142ku Piechoty im. Ks. J. Poniatowskiego w Pleckiej D\u0105browie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"99-311","addr:place":"Plecka D\u0105browa","addr:housenumber":"56","addr:teryt:sym_ul":559180,"contact:phone":"+48 242822166","contact:email":"spplecka.dabrowa@ugbedlno.pl","ref:regon":"001111575","ref:vatin":"PL7752300671","operator":"Gmina Bedlno","operator:type":"government","amenity":"school"}},{"id":17315,"type":"Feature","geometry":{"type":"Point","coordinates":[19.6474,52.18582]},"properties":{"ref:rspo":17315,"official_name":"Punkt Przedszkolny Przy Szkole Podstawowej w Pleckiej D\u0105browie","name":"Punkt Przedszkolny Przy Szkole Podstawowej w Pleckiej D\u0105browie","addr:country":"PL","addr:postcode":"99-311","addr:place":"Plecka D\u0105browa","addr:housenumber":"56","addr:teryt:sym_ul":559180,"contact:phone":"+48 242822166","contact:email":"plecka@op.pl","ref:regon":"101473016","operator":"Gmina Bedlno","operator:type":"government","amenity":"kindergarten"}},{"id":133647,"type":"Feature","geometry":{"type":"Point","coordinates":[19.5764299,52.20956]},"properties":{"isced:level":"1;2","ref:rspo":133647,"official_name":"Szko\u0142a Podstawowa im. \u015aw. Jana Paw\u0142a II w Bedlnie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"99-311","addr:place":"Bedlno","addr:housenumber":"31A","addr:teryt:sym_ul":558736,"contact:phone":"+48 242821348","contact:email":"spbedlno@onet.pl","contact:website":"http:\/\/spbedlno.d2.pl","ref:regon":"367514111","ref:vatin":"PL7752655196","operator":"Gmina Bedlno","operator:type":"government","amenity":"school"}},{"id":133648,"type":"Feature","geometry":{"type":"Point","coordinates":[19.5764299,52.20953]},"properties":{"ref:rspo":133648,"official_name":"Punkt Przedszkolny Przy Szkole Podstawowej w Bedlnie","name":"Punkt Przedszkolny Przy Szkole Podstawowej w Bedlnie","addr:country":"PL","addr:postcode":"99-311","addr:place":"Bedlno","addr:housenumber":"31A","addr:teryt:sym_ul":558736,"contact:phone":"+48 242821348","contact:email":"spbedlno@onet.pl","contact:website":"http:\/\/spbedlno.d2.pl","ref:regon":"367514909","operator":"Gmina Bedlno","operator:type":"government","amenity":"kindergarten"}},{"id":14997,"type":"Feature","geometry":{"type":"Point","coordinates":[19.61911,52.21216]},"properties":{"isced:level":"1;2","ref:rspo":14997,"official_name":"Szko\u0142a Podstawowa im. Kornela Makuszy\u0144skiego w Pniewie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"99-311","addr:place":"Pniewo Ma\u0142e","addr:housenumber":"21A","addr:teryt:sym_ul":559210,"contact:phone":"+48 242821717","contact:email":"sppniewo@op.pl","ref:regon":"001111581","ref:vatin":"PL7752300286","operator":"Gmina Bedlno","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 14954,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.59932,
+                    52.14408
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 14954,
+                "official_name": "Szko\u0142a Podstawowa im. Marii Konopnickiej w \u017beronicach",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "99-311",
+                "addr:place": "\u017beronice",
+                "addr:housenumber": "37A",
+                "addr:teryt:sym_ul": 559546,
+                "contact:phone": "+48 242855291",
+                "contact:email": "sp.zeronice@ugbedlno.pl",
+                "ref:regon": "001111569",
+                "ref:vatin": "PL7752304019",
+                "operator": "Gmina Bedlno",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 14934,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.52725,
+                    52.17787
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 14934,
+                "official_name": "Szko\u0142a Podstawowa w Szewcach Nadolnych im. Bohater\u00f3w Walk Nad Bzur\u0105",
+                "name": "Szko\u0142a Podstawowa w Szewcach Nadolnych",
+                "addr:country": "PL",
+                "addr:postcode": "99-311",
+                "addr:place": "Szewce Nadolne",
+                "addr:housenumber": "14",
+                "addr:teryt:sym_ul": 559322,
+                "contact:phone": "+48 243830044",
+                "contact:email": "spszewcenad@op.pl",
+                "contact:website": "https:\/\/spszewcenadolne.edupage.org\/",
+                "ref:regon": "001111546",
+                "ref:vatin": "PL7752300323",
+                "operator": "Gmina Bedlno",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 14973,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.6474,
+                    52.18585
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 14973,
+                "official_name": "Szko\u0142a Podstawowa im. 37 \u0141\u0119czyckiego Pu\u0142ku Piechoty im. Ks. J. Poniatowskiego w Pleckiej D\u0105browie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "99-311",
+                "addr:place": "Plecka D\u0105browa",
+                "addr:housenumber": "56",
+                "addr:teryt:sym_ul": 559180,
+                "contact:phone": "+48 242822166",
+                "contact:email": "spplecka.dabrowa@ugbedlno.pl",
+                "ref:regon": "001111575",
+                "ref:vatin": "PL7752300671",
+                "operator": "Gmina Bedlno",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 17315,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.6474,
+                    52.18582
+                ]
+            },
+            "properties": {
+                "ref:rspo": 17315,
+                "official_name": "Punkt Przedszkolny Przy Szkole Podstawowej w Pleckiej D\u0105browie",
+                "name": "Punkt Przedszkolny Przy Szkole Podstawowej w Pleckiej D\u0105browie",
+                "addr:country": "PL",
+                "addr:postcode": "99-311",
+                "addr:place": "Plecka D\u0105browa",
+                "addr:housenumber": "56",
+                "addr:teryt:sym_ul": 559180,
+                "contact:phone": "+48 242822166",
+                "contact:email": "plecka@op.pl",
+                "ref:regon": "101473016",
+                "operator": "Gmina Bedlno",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 133647,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5764299,
+                    52.20956
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 133647,
+                "official_name": "Szko\u0142a Podstawowa im. \u015aw. Jana Paw\u0142a II w Bedlnie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "99-311",
+                "addr:place": "Bedlno",
+                "addr:housenumber": "31A",
+                "addr:teryt:sym_ul": 558736,
+                "contact:phone": "+48 242821348",
+                "contact:email": "spbedlno@onet.pl",
+                "contact:website": "http:\/\/spbedlno.d2.pl",
+                "ref:regon": "367514111",
+                "ref:vatin": "PL7752655196",
+                "operator": "Gmina Bedlno",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 133648,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5764299,
+                    52.20953
+                ]
+            },
+            "properties": {
+                "ref:rspo": 133648,
+                "official_name": "Punkt Przedszkolny Przy Szkole Podstawowej w Bedlnie",
+                "name": "Punkt Przedszkolny Przy Szkole Podstawowej w Bedlnie",
+                "addr:country": "PL",
+                "addr:postcode": "99-311",
+                "addr:place": "Bedlno",
+                "addr:housenumber": "31A",
+                "addr:teryt:sym_ul": 558736,
+                "contact:phone": "+48 242821348",
+                "contact:email": "spbedlno@onet.pl",
+                "contact:website": "http:\/\/spbedlno.d2.pl",
+                "ref:regon": "367514909",
+                "operator": "Gmina Bedlno",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 14997,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.61911,
+                    52.21216
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 14997,
+                "official_name": "Szko\u0142a Podstawowa im. Kornela Makuszy\u0144skiego w Pniewie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "99-311",
+                "addr:place": "Pniewo Ma\u0142e",
+                "addr:housenumber": "21A",
+                "addr:teryt:sym_ul": 559210,
+                "contact:phone": "+48 242821717",
+                "contact:email": "sppniewo@op.pl",
+                "ref:regon": "001111581",
+                "ref:vatin": "PL7752300286",
+                "operator": "Gmina Bedlno",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

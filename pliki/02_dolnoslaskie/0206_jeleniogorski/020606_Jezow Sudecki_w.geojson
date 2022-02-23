@@ -1,1 +1,162 @@
-{"type":"FeatureCollection","features":[{"id":267938,"type":"Feature","geometry":{"type":"Point","coordinates":[15.74475,50.93367]},"properties":{"ref:rspo":267938,"official_name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny","name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny","addr:country":"PL","addr:postcode":"58-521","addr:city":"Je\u017c\u00f3w Sudecki","addr:street":"ul. Kr\u0119ta","addr:housenumber":"27A","addr:teryt:simc":9925,"addr:teryt:sym_ul":189782,"contact:phone":"+48 757132161","contact:email":"sekretariat@zsjs.edu.pl","contact:website":"http:\/\/zsp.jezowsudecki.pl\/","ref:regon":"380802305","operator":"Gmina Je\u017c\u00f3w Sudecki","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 122029;267937"}},{"id":122029,"type":"Feature","geometry":{"type":"Point","coordinates":[15.74475,50.93364]},"properties":{"isced:level":"1;2","ref:rspo":122029,"official_name":"Szko\u0142a Podstawowa w Je\u017cowie Sudeckim","name":"Szko\u0142a Podstawowa w Je\u017cowie Sudeckim","addr:country":"PL","addr:postcode":"58-521","addr:city":"Je\u017c\u00f3w Sudecki","addr:street":"ul. Kr\u0119ta","addr:housenumber":"27","addr:door":"a","addr:teryt:simc":9925,"addr:teryt:sym_ul":189782,"contact:phone":"+48 757132161","contact:email":"dyrekcja@zsjs.edu.pl","contact:website":"http:\/\/www.zsjs.edu.pl","ref:regon":"000635106","operator":"Gmina Je\u017c\u00f3w Sudecki","operator:type":"government","amenity":"school","note":"Parent RSPO: 267938"}},{"id":267937,"type":"Feature","geometry":{"type":"Point","coordinates":[15.74475,50.93361]},"properties":{"ref:rspo":267937,"official_name":"Przedszkole w Je\u017cowie Sudeckim","name":"Przedszkole w Je\u017cowie Sudeckim","addr:country":"PL","addr:postcode":"58-521","addr:city":"Je\u017c\u00f3w Sudecki","addr:street":"ul. Kr\u0119ta","addr:housenumber":"27A","addr:teryt:simc":9925,"addr:teryt:sym_ul":189782,"contact:phone":"+48 757132641","contact:email":"sekretariat@zsjs.edu.pl","contact:website":"http:\/\/zsjs.edu.pl","ref:regon":"380802297","operator":"Gmina Je\u017c\u00f3w Sudecki","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 267938"}},{"id":121872,"type":"Feature","geometry":{"type":"Point","coordinates":[15.68657,50.93781]},"properties":{"isced:level":"1;2","ref:rspo":121872,"official_name":"Szko\u0142a Podstawowa im. Polskich Nauczycieli Tajnego Nauczania w Siedl\u0119cinie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"58-508","addr:city":"Siedl\u0119cin","addr:street":"ul. Ko\u015bcielna","addr:housenumber":"5","addr:teryt:simc":9546,"addr:teryt:sym_ul":189813,"contact:phone":"+48 757137322","contact:email":"sp-siedlecin@o2.pl","ref:regon":"000711178","ref:vatin":"PL6112683958","operator":"Gmina Je\u017c\u00f3w Sudecki","operator:type":"government","amenity":"school"}},{"id":121903,"type":"Feature","geometry":{"type":"Point","coordinates":[15.7275839,50.981277]},"properties":{"isced:level":"1;2","ref:rspo":121903,"official_name":"Szko\u0142a Podstawowa w Czernicy","name":"Szko\u0142a Podstawowa w Czernicy","addr:country":"PL","addr:postcode":"58-521","addr:place":"Czernica","addr:housenumber":"125","addr:teryt:sym_ul":189753,"contact:phone":"+48 757132129","contact:email":"sekretariat@czernica.nauczanie.eu","contact:website":"http:\/\/www.czernica.nauczanie.eu","ref:regon":"001180116","ref:vatin":"PL6112683332","operator":"Gmina Je\u017c\u00f3w Sudecki","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 267938,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.74475,
+                    50.93367
+                ]
+            },
+            "properties": {
+                "ref:rspo": 267938,
+                "official_name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny",
+                "name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny",
+                "addr:country": "PL",
+                "addr:postcode": "58-521",
+                "addr:city": "Je\u017c\u00f3w Sudecki",
+                "addr:street": "ul. Kr\u0119ta",
+                "addr:housenumber": "27A",
+                "addr:teryt:simc": 9925,
+                "addr:teryt:sym_ul": 189782,
+                "contact:phone": "+48 757132161",
+                "contact:email": "sekretariat@zsjs.edu.pl",
+                "contact:website": "http:\/\/zsp.jezowsudecki.pl\/",
+                "ref:regon": "380802305",
+                "operator": "Gmina Je\u017c\u00f3w Sudecki",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 122029;267937"
+            }
+        },
+        {
+            "id": 122029,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.74475,
+                    50.93364
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 122029,
+                "official_name": "Szko\u0142a Podstawowa w Je\u017cowie Sudeckim",
+                "name": "Szko\u0142a Podstawowa w Je\u017cowie Sudeckim",
+                "addr:country": "PL",
+                "addr:postcode": "58-521",
+                "addr:city": "Je\u017c\u00f3w Sudecki",
+                "addr:street": "ul. Kr\u0119ta",
+                "addr:housenumber": "27",
+                "addr:door": "a",
+                "addr:teryt:simc": 9925,
+                "addr:teryt:sym_ul": 189782,
+                "contact:phone": "+48 757132161",
+                "contact:email": "dyrekcja@zsjs.edu.pl",
+                "contact:website": "http:\/\/www.zsjs.edu.pl",
+                "ref:regon": "000635106",
+                "operator": "Gmina Je\u017c\u00f3w Sudecki",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 267938"
+            }
+        },
+        {
+            "id": 267937,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.74475,
+                    50.93361
+                ]
+            },
+            "properties": {
+                "ref:rspo": 267937,
+                "official_name": "Przedszkole w Je\u017cowie Sudeckim",
+                "name": "Przedszkole w Je\u017cowie Sudeckim",
+                "addr:country": "PL",
+                "addr:postcode": "58-521",
+                "addr:city": "Je\u017c\u00f3w Sudecki",
+                "addr:street": "ul. Kr\u0119ta",
+                "addr:housenumber": "27A",
+                "addr:teryt:simc": 9925,
+                "addr:teryt:sym_ul": 189782,
+                "contact:phone": "+48 757132641",
+                "contact:email": "sekretariat@zsjs.edu.pl",
+                "contact:website": "http:\/\/zsjs.edu.pl",
+                "ref:regon": "380802297",
+                "operator": "Gmina Je\u017c\u00f3w Sudecki",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 267938"
+            }
+        },
+        {
+            "id": 121872,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.68657,
+                    50.93781
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 121872,
+                "official_name": "Szko\u0142a Podstawowa im. Polskich Nauczycieli Tajnego Nauczania w Siedl\u0119cinie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "58-508",
+                "addr:city": "Siedl\u0119cin",
+                "addr:street": "ul. Ko\u015bcielna",
+                "addr:housenumber": "5",
+                "addr:teryt:simc": 9546,
+                "addr:teryt:sym_ul": 189813,
+                "contact:phone": "+48 757137322",
+                "contact:email": "sp-siedlecin@o2.pl",
+                "ref:regon": "000711178",
+                "ref:vatin": "PL6112683958",
+                "operator": "Gmina Je\u017c\u00f3w Sudecki",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 121903,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.7275839,
+                    50.981277
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 121903,
+                "official_name": "Szko\u0142a Podstawowa w Czernicy",
+                "name": "Szko\u0142a Podstawowa w Czernicy",
+                "addr:country": "PL",
+                "addr:postcode": "58-521",
+                "addr:place": "Czernica",
+                "addr:housenumber": "125",
+                "addr:teryt:sym_ul": 189753,
+                "contact:phone": "+48 757132129",
+                "contact:email": "sekretariat@czernica.nauczanie.eu",
+                "contact:website": "http:\/\/www.czernica.nauczanie.eu",
+                "ref:regon": "001180116",
+                "ref:vatin": "PL6112683332",
+                "operator": "Gmina Je\u017c\u00f3w Sudecki",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

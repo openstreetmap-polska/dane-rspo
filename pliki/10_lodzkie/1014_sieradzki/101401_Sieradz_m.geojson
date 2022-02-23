@@ -1,1 +1,2488 @@
-{"type":"FeatureCollection","features":[{"id":131635,"type":"Feature","geometry":{"type":"Point","coordinates":[18.71774,51.57287]},"properties":{"ref:rspo":131635,"official_name":"Niepubliczna Poradnia Psychologiczno-Pedagogiczna Dary Losu w Sieradzu","name":"Niepubliczna Poradnia Psychologiczno-Pedagogiczna Dary Losu w Sieradzu","addr:country":"PL","addr:postcode":"98-200","addr:city":"Sieradz","addr:street":"ul. W\u0142adys\u0142awa Warne\u0144czyka","addr:housenumber":"1","addr:teryt:simc":23668,"addr:teryt:sym_ul":976050,"contact:phone":"+48 502240354","contact:email":"stowarzyszenie@darylosu.org","contact:website":"http:\/\/darylosu.org","ref:regon":"365323720","operator":"Stowarzyszenie Na Rzecz Dzieci Niepe\u0142nosprawnych Dary Losu W Sieradzu","operator:type":"ngo","healthcare":"councelling","counselling_type":"education","fixme":"w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. healthcare=councelling + counselling_type=education albo healthcare=psychotherapist)"}},{"id":262500,"type":"Feature","geometry":{"type":"Point","coordinates":[18.74414,51.57548]},"properties":{"ref:rspo":262500,"official_name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 I Plac\u00f3wek O\u015bwiatowych Wojew\u00f3dztwa \u0141\u00f3dzkiego w Sieradzu","name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 I Plac\u00f3wek O\u015bwiatowych Wojew\u00f3dztwa \u0141\u00f3dzkiego w Sieradzu","addr:country":"PL","addr:postcode":"98-200","addr:city":"Sieradz","addr:street":"ul. 3 Maja","addr:housenumber":"7","addr:teryt:simc":11937,"addr:teryt:sym_ul":976050,"contact:phone":"+48 438224412","contact:email":"kontakt@edukacja.sieradz.pl","ref:regon":"368025087","operator":"Wojew\u00f3dztwo \u0141\u00f3dzkie","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 13468;115375"}},{"id":278072,"type":"Feature","geometry":{"type":"Point","coordinates":[18.74414,51.57545]},"properties":{"ref:rspo":278072,"official_name":"Centrum Rozwoju Edukacji Wojew\u00f3dztwa \u0141\u00f3dzkiego w Sieradzu","name":"Centrum Rozwoju Edukacji Wojew\u00f3dztwa \u0141\u00f3dzkiego w Sieradzu","addr:country":"PL","addr:postcode":"98-200","addr:city":"Sieradz","addr:street":"ul. 3 Maja","addr:housenumber":"7","addr:teryt:simc":11937,"addr:teryt:sym_ul":976050,"contact:phone":"+48 438223691","contact:email":"wodn@wodnsieradz.edu.pl","ref:regon":"389757799","ref:vatin":"PL8272327877","operator":"Wojew\u00f3dztwo \u0141\u00f3dzkie","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 12847;14632"}},{"id":13011,"type":"Feature","geometry":{"type":"Point","coordinates":[18.74414,51.57542]},"properties":{"isced:level":"4","ref:rspo":13011,"official_name":"Szko\u0142a Policealna Samorz\u0105du Wojew\u00f3dztwa \u0141\u00f3dzkiego w Sieradzu","name":"Szko\u0142a Policealna Samorz\u0105du Wojew\u00f3dztwa \u0141\u00f3dzkiego w Sieradzu","addr:country":"PL","addr:postcode":"98-200","addr:city":"Sieradz","addr:street":"ul. 3 Maja","addr:housenumber":"7","addr:teryt:simc":11937,"addr:teryt:sym_ul":976050,"contact:phone":"+48 438224412","contact:email":"kontakt@edukacja.sieradz.pl","contact:website":"http:\/\/www.edukacja.sieradz.pl","ref:regon":"731624513","ref:vatin":"PL8272089892","operator":"Wojew\u00f3dztwo \u0141\u00f3dzkie","operator:type":"government","amenity":"college","note":"Parent RSPO: 115375"}},{"id":118965,"type":"Feature","geometry":{"type":"Point","coordinates":[18.74414,51.57539]},"properties":{"isced:level":"4","ref:rspo":118965,"official_name":"Sieradzka Szko\u0142a Policealna Wojew\u00f3dztwa \u0141\u00f3dzkiego w Sieradzu","name":"Sieradzka Szko\u0142a Policealna Wojew\u00f3dztwa \u0141\u00f3dzkiego w Sieradzu","addr:country":"PL","addr:postcode":"98-200","addr:city":"Sieradz","addr:street":"ul. 3 Maja","addr:housenumber":"7","addr:teryt:simc":11937,"addr:teryt:sym_ul":976050,"contact:phone":"+48 438224412","contact:email":"kontakt@edukacja.sieradz.pl","contact:website":"http:\/\/www.edukacja.sieradz.pl","ref:regon":"101652144","operator":"Wojew\u00f3dztwo \u0141\u00f3dzkie","operator:type":"government","amenity":"college","note":"Parent RSPO: 115375"}},{"id":13468,"type":"Feature","geometry":{"type":"Point","coordinates":[18.74414,51.575359999999996]},"properties":{"ref:rspo":13468,"official_name":"Bursa Samorz\u0105du Wojew\u00f3dztwa \u0141\u00f3dzkiego w Sieradzu","name":"Bursa Samorz\u0105du Wojew\u00f3dztwa \u0141\u00f3dzkiego w Sieradzu","addr:country":"PL","addr:postcode":"98-200","addr:city":"Sieradz","addr:street":"ul. 3 Maja","addr:housenumber":"7","addr:teryt:simc":11937,"addr:teryt:sym_ul":976050,"contact:phone":"+48 438225076","contact:email":"kontakt@bursa.sieradz.pl","contact:website":"http:\/\/www.edukacja.sieradz.pl","ref:regon":"100722670","ref:vatin":"PL8272257817","operator":"Wojew\u00f3dztwo \u0141\u00f3dzkie","operator:type":"government","building":"dormitory","note":"Parent RSPO: 262500"}},{"id":115375,"type":"Feature","geometry":{"type":"Point","coordinates":[18.74414,51.57533]},"properties":{"ref:rspo":115375,"official_name":"Sieradzkie Centrum Kszta\u0142cenia Ustawicznego\nWojew\u00f3dztwa \u0141\u00f3dzkiego w Sieradzu","name":"Sieradzkie Centrum Kszta\u0142cenia Ustawicznego\nWojew\u00f3dztwa \u0141\u00f3dzkiego w Sieradzu","addr:country":"PL","addr:postcode":"98-200","addr:city":"Sieradz","addr:street":"ul. 3 Maja","addr:housenumber":"7","addr:teryt:simc":11937,"addr:teryt:sym_ul":976050,"contact:phone":"+48 438224412","contact:email":"kontakt@edukacja.sieradz.pl","contact:website":"http:\/\/www.edukacja.sieradz.pl","ref:regon":"101628648","operator":"Wojew\u00f3dztwo \u0141\u00f3dzkie","operator:type":"government","amenity":"school","fixme":"amenity=school lub amenity=college","note":"Children RSPO: 13011;118965Parent RSPO: 262500"}},{"id":14632,"type":"Feature","geometry":{"type":"Point","coordinates":[18.74414,51.5753]},"properties":{"ref:rspo":14632,"official_name":"Wojew\u00f3dzki O\u015brodek Doskonalenia Nauczycieli w Sieradzu","name":"Wojew\u00f3dzki O\u015brodek Doskonalenia Nauczycieli w Sieradzu","addr:country":"PL","addr:postcode":"98-200","addr:city":"Sieradz","addr:street":"ul. 3 Maja","addr:housenumber":"7","addr:teryt:simc":11937,"addr:teryt:sym_ul":976050,"contact:phone":"+48 438223691","contact:email":"wodn@wodnsieradz.edu.pl","contact:website":"http:\/\/www.wodnsieradz.edu.pl","ref:regon":"001392203","ref:vatin":"PL8271295218","operator":"Wojew\u00f3dztwo \u0141\u00f3dzkie","operator:type":"government","amenity":"training","note":"Parent RSPO: 278072"}},{"id":70953,"type":"Feature","geometry":{"type":"Point","coordinates":[18.74578,51.57786]},"properties":{"ref:rspo":70953,"official_name":"Przedszkole Niepubliczne\nZgromadzenia Si\u00f3str Urszulanek Sjk \nIm.\u015bw. Urszuli Led\u00f3chowskiej w Sieradzu","name":"Przedszkole Niepubliczne\nZgromadzenia Si\u00f3str Urszulanek Sjk \nIm.\u015bw. Urszuli Led\u00f3chowskiej w Sieradzu","addr:country":"PL","addr:postcode":"98-200","addr:city":"Sieradz","addr:street":"ul. Krakowskie Przedmie\u015bcie","addr:housenumber":"123","addr:teryt:simc":9803,"addr:teryt:sym_ul":976050,"contact:phone":"+48 438225724","ref:regon":"101493645","ref:vatin":"PL8271921696","operator":"Centrum \u0141\u00f3dzko-Sieradzkie Zgromadzenie Si\u00f3str Urszulanek Serca Jezusa Konaj\u0105cego","operator:type":"religious","amenity":"kindergarten"}},{"id":81287,"type":"Feature","geometry":{"type":"Point","coordinates":[18.74688,51.57823]},"properties":{"ref:rspo":81287,"official_name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 Katolickich Przy Parafii Rzymskokatolickiej \u015aw. Urszuli Led\u00f3chowskiej w Sieradzu","name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 Katolickich Przy Parafii Rzymskokatolickiej \u015aw. Urszuli Led\u00f3chowskiej w Sieradzu","addr:country":"PL","addr:postcode":"98-200","addr:city":"Sieradz","addr:street":"ul. Krakowskie Przedmie\u015bcie","addr:housenumber":"123a","addr:teryt:simc":9803,"addr:teryt:sym_ul":976050,"contact:phone":"+48 438274821","contact:email":"sekretariat@zsksieradz.com","contact:website":"http:\/\/www.zsksieradz.com","ref:regon":"101500300","operator":"Parafia Rzymskokatolicka \u015aw.urszuli Led\u00f3chowskiej","operator:type":"religious","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 88947;92713;92737"}},{"id":132397,"type":"Feature","geometry":{"type":"Point","coordinates":[18.74688,51.578199999999995]},"properties":{"ref:rspo":132397,"official_name":"Niepubliczne Przedszkole \"Radosne Maluchy\"","name":"Niepubliczne Przedszkole \"Radosne Maluchy\"","addr:country":"PL","addr:postcode":"98-200","addr:city":"Sieradz","addr:street":"ul. Krakowskie Przedmie\u015bcie","addr:housenumber":"123A","addr:teryt:simc":9803,"addr:teryt:sym_ul":976050,"contact:phone":"+48 504870969","contact:email":"edyta4@vp.pl","contact:website":"http:\/\/www.radosnemaluchy.com.pl","ref:regon":"365595648","ref:vatin":"PL7691265867","operator":"Piotr Walenczak","operator:type":"private","amenity":"kindergarten"}},{"id":88947,"type":"Feature","geometry":{"type":"Point","coordinates":[18.74688,51.57817]},"properties":{"isced:level":"1;2","ref:rspo":88947,"official_name":"Katolicka Szko\u0142a Podstawowa Przy Parafii Rzymskokatolickiej \u015aw. Urszuli Led\u00f3chowskiej w Sieradzu","name":"Katolicka Szko\u0142a Podstawowa Przy Parafii Rzymskokatolickiej \u015aw. Urszuli Led\u00f3chowskiej w Sieradzu","addr:country":"PL","addr:postcode":"98-200","addr:city":"Sieradz","addr:street":"ul. Krakowskie Przedmie\u015bcie","addr:housenumber":"123a","addr:teryt:simc":9803,"addr:teryt:sym_ul":976050,"contact:phone":"+48 438274821","contact:email":"sekretariat@zsksieradz.com","contact:website":"http:\/\/www.zsksieradz.com","ref:regon":"101503800","ref:vatin":"PL8272064975","operator":"Parafia Rzymskokatolicka \u015aw.urszuli Led\u00f3chowskiej","operator:type":"religious","amenity":"school","note":"Parent RSPO: 81287"}},{"id":92713,"type":"Feature","geometry":{"type":"Point","coordinates":[18.74688,51.57814]},"properties":{"isced:level":"3","ref:rspo":92713,"official_name":"Og\u00f3lnokszta\u0142c\u0105ce Liceum Katolickie Przy Parafii Rzymskokatolickiej \u015aw. Urszuli Led\u00f3chowskiej w Sieradzu","name":"Og\u00f3lnokszta\u0142c\u0105ce Liceum Katolickie Przy Parafii Rzymskokatolickiej \u015aw. Urszuli Led\u00f3chowskiej w Sieradzu","addr:country":"PL","addr:postcode":"98-200","addr:city":"Sieradz","addr:street":"ul. Krakowskie Przedmie\u015bcie","addr:housenumber":"123a","addr:teryt:simc":9803,"addr:teryt:sym_ul":976050,"contact:phone":"+48 793236846","contact:email":"sekretariat@zsksieradz.com","contact:website":"http:\/\/www.zsksieradz.com","ref:regon":"101515387","operator":"Parafia Rzymskokatolicka \u015aw.urszuli Led\u00f3chowskiej","operator:type":"religious","amenity":"school","note":"Parent RSPO: 81287"}},{"id":92737,"type":"Feature","geometry":{"type":"Point","coordinates":[18.74688,51.578109999999995]},"properties":{"isced:level":"3","ref:rspo":92737,"official_name":"Og\u00f3lnokszta\u0142c\u0105ce Liceum Katolickie dla Doros\u0142ych Przy Parafii Rzymskokatolickiej \u015aw. Urszuli Led\u00f3chowskiej w Sieradzu","name":"Og\u00f3lnokszta\u0142c\u0105ce Liceum Katolickie dla Doros\u0142ych Przy Parafii Rzymskokatolickiej \u015aw. Urszuli Led\u00f3chowskiej w Sieradzu","addr:country":"PL","addr:postcode":"98-200","addr:city":"Sieradz","addr:street":"ul. Krakowskie Przedmie\u015bcie","addr:housenumber":"123a","addr:teryt:simc":9803,"addr:teryt:sym_ul":976050,"contact:phone":"+48 793236846","contact:email":"sekretariat@zsksieradz.com","contact:website":"http:\/\/www.zsksieradz.com","ref:regon":"101515418","operator":"Parafia Rzymskokatolicka \u015aw.urszuli Led\u00f3chowskiej","operator:type":"religious","amenity":"school","note":"Parent RSPO: 81287"}},{"id":119410,"type":"Feature","geometry":{"type":"Point","coordinates":[18.71158,51.57832]},"properties":{"ref:rspo":119410,"official_name":"Niepubliczne Przedszkole \"Reksio\"","name":"Niepubliczne Przedszkole \"Reksio\"","addr:country":"PL","addr:postcode":"98-200","addr:city":"Sieradz","addr:street":"ul. Organizacji Katy\u0144","addr:housenumber":"15","addr:teryt:simc":34316,"addr:teryt:sym_ul":976050,"contact:phone":"+48 438226117","contact:email":"biuro@reksio.edu.pl","contact:website":"http:\/\/www.reksio.edu.pl","ref:regon":"101658030","operator":"Katarzyna Polanowska","operator:type":"private","amenity":"kindergarten"}},{"id":131756,"type":"Feature","geometry":{"type":"Point","coordinates":[18.74031,51.57913]},"properties":{"ref:rspo":131756,"official_name":"Niepubliczny Punkt Przedszkolny \"Semafor\"","name":"Niepubliczny Punkt Przedszkolny \"Semafor\"","addr:country":"PL","addr:postcode":"98-200","addr:city":"Sieradz","addr:street":"ul. Pod Skarp\u0105","addr:housenumber":"27","addr:teryt:simc":16662,"addr:teryt:sym_ul":976050,"contact:phone":"+48 511010322","contact:email":"biuro.fundacja.semafor@gmail.com","contact:website":"http:\/\/www.fundacjasemafor.pl","ref:regon":"365340210","ref:vatin":"PL8272309460","operator":"Fundacja Centrum Wspierania Rozwoju \"Semafor\"","operator:type":"ngo","amenity":"kindergarten"}},{"id":81223,"type":"Feature","geometry":{"type":"Point","coordinates":[18.72257,51.58482]},"properties":{"ref:rspo":81223,"official_name":"O\u015brodek Szkolenia Stowarzyszenia Elektryk\u00f3w Polskich O\/Sieradz","name":"O\u015brodek Szkolenia Stowarzyszenia Elektryk\u00f3w Polskich O\/Sieradz","addr:country":"PL","addr:postcode":"98-200","addr:city":"Sieradz","addr:street":"ul. Sp\u00f3\u0142dzielcza","addr:housenumber":"4","addr:teryt:simc":20696,"addr:teryt:sym_ul":976050,"contact:phone":"+48 438221228","contact:email":"sep_sieradz@op.pl","contact:website":"http:\/\/www.sep-sieradz.pl","ref:regon":"101498230","operator":"Stowarzyszenie Elektryk\u00f3w Polskich","operator:type":"ngo","fixme":"w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. amenity=training + training=*, amenity=dancing_school, amenity=language_school, amenity=music_school) albo amenity=school, amenity=college, albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education."}},{"id":196393,"type":"Feature","geometry":{"type":"Point","coordinates":[18.71384,51.58626]},"properties":{"isced:level":"1;2","ref:rspo":196393,"official_name":"Szko\u0142a Podstawowa Gminy Sieradz im. Jana Paw\u0142a II w Sieradzu","name":"Szko\u0142a Podstawowa Gminy Sieradz","addr:country":"PL","addr:postcode":"98-200","addr:city":"Sieradz","addr:street":"ul. Armii Krajowej","addr:housenumber":"5","addr:teryt:simc":432,"addr:teryt:sym_ul":976050,"contact:phone":"+48 438275344","contact:email":"spgsieradz@wp.pl","contact:website":"http:\/\/www.spgs.pl","ref:regon":"367992715","ref:vatin":"PL8272315087","operator":"Gmina Sieradz","operator:type":"government","amenity":"school"}},{"id":70951,"type":"Feature","geometry":{"type":"Point","coordinates":[18.71756,51.58661]},"properties":{"ref:rspo":70951,"official_name":"Przedszkole Nr 15 w Sieradzu","name":"Przedszkole Nr 15 w Sieradzu","addr:country":"PL","addr:postcode":"98-200","addr:city":"Sieradz","addr:street":"ul. Marcina Stacheckiego-Koliby","addr:housenumber":"3","addr:teryt:simc":31051,"addr:teryt:sym_ul":976050,"contact:phone":"+48 438275939","contact:email":"dyrektor@p15.sieradz.eu","ref:regon":"731018540","ref:vatin":"PL8271983467","operator":"Gmina Miasto Sieradz","operator:type":"government","amenity":"kindergarten"}},{"id":81192,"type":"Feature","geometry":{"type":"Point","coordinates":[18.73903,51.58678]},"properties":{"ref:rspo":81192,"official_name":"Specjalny O\u015brodek Szkolno-Wychowawczy im. Janusza Korczaka w Sieradzu","name":"Specjalny O\u015brodek Szkolno-Wychowawczy","addr:country":"PL","addr:postcode":"98-200","addr:city":"Sieradz","addr:street":"ul. Krakowskie Przedmie\u015bcie","addr:housenumber":"58","addr:teryt:simc":9803,"addr:teryt:sym_ul":976050,"contact:phone":"+48 438224563","contact:email":"specsier@pro.onet.pl","contact:website":"http:\/\/www.sosw-sieradz.webd.pl","ref:regon":"001007406","operator":"Powiat Sieradzki","operator:type":"government","amenity":"school","note":"Children RSPO: 113906;113907;113908;113909"}},{"id":113906,"type":"Feature","geometry":{"type":"Point","coordinates":[18.73903,51.586749999999995]},"properties":{"ref:rspo":113906,"official_name":"Szko\u0142a Specjalna Przysposabiaj\u0105ca Do Pracy w Sieradzu","name":"Szko\u0142a Specjalna Przysposabiaj\u0105ca Do Pracy w Sieradzu","addr:country":"PL","addr:postcode":"98-200","addr:city":"Sieradz","addr:street":"ul. Krakowskie Przedmie\u015bcie","addr:housenumber":"58","addr:teryt:simc":9803,"addr:teryt:sym_ul":976050,"contact:phone":"+48 438224563","contact:email":"specsier@pro.onet.pl","contact:website":"http:\/\/www.sosw-sieradz.webd.pl","ref:regon":"100025385","operator":"Powiat Sieradzki","operator:type":"government","amenity":"school","note":"Parent RSPO: 81192"}},{"id":113907,"type":"Feature","geometry":{"type":"Point","coordinates":[18.73903,51.58672]},"properties":{"isced:level":"1;2","ref:rspo":113907,"official_name":"Szko\u0142a Podstawowa Nr 5 w Sieradzu","name":"Szko\u0142a Podstawowa Nr 5 w Sieradzu","addr:country":"PL","addr:postcode":"98-200","addr:city":"Sieradz","addr:street":"ul. Krakowskie Przedmie\u015bcie","addr:housenumber":"58","addr:teryt:simc":9803,"addr:teryt:sym_ul":976050,"contact:phone":"+48 438224563","contact:email":"specsier@pro.onet.pl","contact:website":"http:\/\/www.sosw-sieradz.webd.pl","ref:regon":"000733487","operator":"Powiat Sieradzki","operator:type":"government","amenity":"school","note":"Parent RSPO: 81192"}},{"id":113908,"type":"Feature","geometry":{"type":"Point","coordinates":[18.73903,51.58669]},"properties":{"ref:rspo":113908,"official_name":"Przedszkole Specjalne w Sieradzu","name":"Przedszkole Specjalne w Sieradzu","addr:country":"PL","addr:postcode":"98-200","addr:city":"Sieradz","addr:street":"ul. Krakowskie Przedmie\u015bcie","addr:housenumber":"58","addr:teryt:simc":9803,"addr:teryt:sym_ul":976050,"contact:phone":"+48 435884563","contact:email":"specsier@pro.onet.pl","contact:website":"http:\/\/www.sosw-sieradz.webd.pl","ref:regon":"100948530","operator":"Powiat Sieradzki","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 81192"}},{"id":113909,"type":"Feature","geometry":{"type":"Point","coordinates":[18.73903,51.586659999999995]},"properties":{"isced:level":"3","ref:rspo":113909,"official_name":"Bran\u017cowa Szko\u0142a I Stopnia Nr 3 w Sieradzu","name":"Bran\u017cowa Szko\u0142a I Stopnia Nr 3 w Sieradzu","addr:country":"PL","addr:postcode":"98-200","addr:city":"Sieradz","addr:street":"ul. Krakowskie Przedmie\u015bcie","addr:housenumber":"58","addr:teryt:simc":9803,"addr:teryt:sym_ul":976050,"contact:phone":"+48 438224563","contact:email":"specsier@pro.onet.pl","contact:website":"http:\/\/www.sosw-sieradz.webd.pl","ref:regon":"001010160","operator":"Powiat Sieradzki","operator:type":"government","amenity":"school","note":"Parent RSPO: 81192"}},{"id":40698,"type":"Feature","geometry":{"type":"Point","coordinates":[18.7316499,51.58762]},"properties":{"isced:level":"3","ref:rspo":40698,"official_name":"Ii Liceum Og\u00f3lnokszta\u0142c\u0105ce Z Oddzia\u0142ami Dwuj\u0119zycznymi im. Stefana \u017beromskiego w Sieradzu","name":"Ii Liceum Og\u00f3lnokszta\u0142c\u0105ce Z Oddzia\u0142ami Dwuj\u0119zycznymi","addr:country":"PL","addr:postcode":"98-200","addr:city":"Sieradz","addr:street":"ul. Stefana \u017beromskiego","addr:housenumber":"8","addr:teryt:simc":26469,"addr:teryt:sym_ul":976050,"contact:phone":"+48 438224287","contact:email":"sieradzlo2@poczta.onet.pl","contact:website":"http:\/\/www.zeromski.edu.pl","ref:regon":"730223380","operator":"Powiat Sieradzki","operator:type":"government","amenity":"school"}},{"id":274480,"type":"Feature","geometry":{"type":"Point","coordinates":[18.69471,51.58847]},"properties":{"ref:rspo":274480,"official_name":"Centrum Rozwoju Edukacji Lignum","name":"Centrum Rozwoju Edukacji Lignum","addr:country":"PL","addr:postcode":"98-200","addr:city":"Sieradz","addr:street":"ul. W\u0142adys\u0142awa Reymonta","addr:housenumber":"78c","addr:teryt:simc":18648,"addr:teryt:sym_ul":976050,"contact:email":"cre.lignum@gmail.com","ref:regon":"385833210","operator":"Bartosz \u015awiniarski","operator:type":"private","amenity":"training"}},{"id":70950,"type":"Feature","geometry":{"type":"Point","coordinates":[18.72878,51.5886]},"properties":{"ref:rspo":70950,"official_name":"Przedszkole Nr 6 Z Oddzia\u0142ami Integracyjnymi im. \"Jasia I Ma\u0142gosi\" w Sieradzu","name":"Przedszkole Nr 6 Z Oddzia\u0142ami Integracyjnymi","addr:country":"PL","addr:postcode":"98-200","addr:city":"Sieradz","addr:street":"ul. Zaj\u0119cza","addr:housenumber":"1","addr:teryt:simc":25427,"addr:teryt:sym_ul":976050,"contact:phone":"+48 438225341","contact:email":"dyrektor@p6.sieradz.eu","contact:website":"http:\/\/www.p6sieradz.hostit.pl","ref:regon":"731018617","ref:vatin":"PL8271983450","operator":"Gmina Miasto Sieradz","operator:type":"government","amenity":"kindergarten"}},{"id":50406,"type":"Feature","geometry":{"type":"Point","coordinates":[18.71009,51.58873]},"properties":{"ref:rspo":50406,"official_name":"Sieradzki Zesp\u00f3\u0142 Szk\u00f3\u0142 Spo\u0142ecznego Towarzystwa O\u015bwiatowego w Sieradzu","name":"Sieradzki Zesp\u00f3\u0142 Szk\u00f3\u0142 Spo\u0142ecznego Towarzystwa O\u015bwiatowego w Sieradzu","addr:country":"PL","addr:postcode":"98-200","addr:city":"Sieradz","addr:street":"ul. Bohater\u00f3w Wrze\u015bnia","addr:housenumber":"61","addr:teryt:simc":1688,"addr:teryt:sym_ul":976050,"contact:phone":"+48 438273746","contact:email":"liceum@spoleczne.com.pl","contact:website":"http:\/\/www.spoleczne.com.pl","ref:regon":"101486993","operator":"Spo\u0142eczne Towarzystwo O\u015bwiatowe W Sieradzu","operator:type":"ngo","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 91800"}},{"id":131805,"type":"Feature","geometry":{"type":"Point","coordinates":[18.71009,51.588699999999996]},"properties":{"ref:rspo":131805,"official_name":"Niepubliczne Przedszkole Fun&Play Ii","name":"Niepubliczne Przedszkole Fun&Play Ii","addr:country":"PL","addr:postcode":"98-200","addr:city":"Sieradz","addr:street":"ul. Bohater\u00f3w Wrze\u015bnia","addr:housenumber":"61","addr:teryt:simc":1688,"addr:teryt:sym_ul":976050,"contact:phone":"+48 515564715","contact:email":"funandplaysieradz@gmail.com","ref:regon":"365350941","operator":"Marcin Florek","operator:type":"private","amenity":"kindergarten"}},{"id":91800,"type":"Feature","geometry":{"type":"Point","coordinates":[18.71009,51.58867]},"properties":{"isced:level":"3","ref:rspo":91800,"official_name":"Liceum Og\u00f3lnokszta\u0142c\u0105ce Spo\u0142ecznego Towarzystwa O\u015bwiatowego w Sieradzu","name":"Liceum Og\u00f3lnokszta\u0142c\u0105ce Spo\u0142ecznego Towarzystwa O\u015bwiatowego w Sieradzu","addr:country":"PL","addr:postcode":"98-200","addr:city":"Sieradz","addr:street":"ul. Bohater\u00f3w Wrze\u015bnia","addr:housenumber":"61","addr:teryt:simc":1688,"addr:teryt:sym_ul":976050,"contact:phone":"+48 438273746","contact:email":"liceum@spoleczne.com.pl","ref:regon":"101509234","operator":"Spo\u0142eczne Towarzystwo O\u015bwiatowe W Sieradzu","operator:type":"ngo","amenity":"school","note":"Parent RSPO: 50406"}},{"id":75600,"type":"Feature","geometry":{"type":"Point","coordinates":[18.72426,51.59015]},"properties":{"ref:rspo":75600,"official_name":"Pa\u0144stwowa Szko\u0142a Muzyczna I St. w Sieradzu","name":"Pa\u0144stwowa Szko\u0142a Muzyczna I St. w Sieradzu","addr:country":"PL","addr:postcode":"98-200","addr:city":"Sieradz","addr:street":"ul. Jana Paw\u0142a II","addr:housenumber":"48","addr:teryt:simc":7123,"addr:teryt:sym_ul":976050,"contact:phone":"+48 438271797","contact:email":"sekretariat@psmsieradz.pl","contact:website":"http:\/\/psmsieradz.pl","ref:regon":"001097295","operator":"Ministerstwo Kultury I Dziedzictwa Narodowego","operator:type":"public","amenity":"music_school"}},{"id":274068,"type":"Feature","geometry":{"type":"Point","coordinates":[18.73238,51.59022]},"properties":{"ref:rspo":274068,"official_name":"Centrum Dokszta\u0142cania Nauczycieli I Kadr Janusz Ka\u0142u\u017cewski","name":"Centrum Dokszta\u0142cania Nauczycieli I Kadr Janusz Ka\u0142u\u017cewski","addr:country":"PL","addr:postcode":"98-200","addr:city":"Sieradz","addr:street":"ul. Polna","addr:housenumber":"26","addr:teryt:simc":17011,"addr:teryt:sym_ul":976050,"contact:phone":"+48 438225685","contact:email":"cdnik@op.pl","contact:website":"http:\/\/www.cdnik.edu.pl","ref:regon":"385206080","ref:vatin":"PL8291138019","operator":"Janusz Ka\u0142u\u017cewski","operator:type":"private","amenity":"training"}},{"id":70949,"type":"Feature","geometry":{"type":"Point","coordinates":[18.72607,51.59029]},"properties":{"ref:rspo":70949,"official_name":"Przedszkole Nr 5\nIm. Misia Uszatka\nW Sieradzu","name":"Przedszkole Nr 5\nIm. Misia Uszatka\nW Sieradzu","addr:country":"PL","addr:postcode":"98-200","addr:city":"Sieradz","addr:street":"ul. Jana Paw\u0142a II","addr:housenumber":"41","addr:teryt:simc":7123,"addr:teryt:sym_ul":976050,"contact:phone":"+48 436777211","contact:email":"dyrektor@p5.sieradz.eu","contact:website":"http:\/\/p5.sieradz.eu","ref:regon":"731018497","ref:vatin":"PL8271983409","operator":"Gmina Miasto Sieradz","operator:type":"government","amenity":"kindergarten"}},{"id":81205,"type":"Feature","geometry":{"type":"Point","coordinates":[18.73318,51.59087]},"properties":{"ref:rspo":81205,"official_name":"Centrum Edukacji Zawodowej w Sieradzu","name":"Centrum Edukacji Zawodowej w Sieradzu","addr:country":"PL","addr:postcode":"98-200","addr:city":"Sieradz","addr:street":"ul. Leszka Czarnego","addr:housenumber":"2","addr:teryt:simc":10885,"addr:teryt:sym_ul":976050,"contact:phone":"+48 438224024","contact:email":"cezsieradz@op.pl","ref:regon":"100561669","operator":"Powiat Sieradzki","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 40790;113911;113918;121493"}},{"id":113918,"type":"Feature","geometry":{"type":"Point","coordinates":[18.73318,51.59084]},"properties":{"ref:rspo":113918,"official_name":"Centrum Kszta\u0142cenia Zawodowego w Sieradzu","name":"Centrum Kszta\u0142cenia Zawodowego w Sieradzu","addr:country":"PL","addr:postcode":"98-200","addr:city":"Sieradz","addr:street":"ul. Leszka Czarnego","addr:housenumber":"2","addr:teryt:simc":10885,"addr:teryt:sym_ul":976050,"contact:phone":"+48 438224024","contact:email":"cezsieradz@op.pl","ref:regon":"100564538","operator":"Powiat Sieradzki","operator:type":"government","fixme":"w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. amenity=training + training=*, amenity=dancing_school, amenity=language_school, amenity=music_school) albo amenity=school, amenity=college, albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Parent RSPO: 81205"}},{"id":70937,"type":"Feature","geometry":{"type":"Point","coordinates":[18.71605,51.59144]},"properties":{"isced:level":"1;2","ref:rspo":70937,"official_name":"Szko\u0142a Podstawowa \nNr 10 im. Boles\u0142awa Zwoli\u0144skiego \nW Sieradzu","name":"Szko\u0142a Podstawowa \nNr 10","addr:country":"PL","addr:postcode":"98-200","addr:city":"Sieradz","addr:street":"ul. Aleja Grunwaldzka","addr:housenumber":"10","addr:teryt:simc":30777,"addr:teryt:sym_ul":976050,"contact:phone":"+48 436777234","contact:email":"dyrektor@sp10.sieradz.eu","contact:website":"http:\/\/www.sp10.sieradz.eu","ref:regon":"001098509","ref:vatin":"PL8271493409","operator":"Gmina Miasto Sieradz","operator:type":"government","amenity":"school"}},{"id":81122,"type":"Feature","geometry":{"type":"Point","coordinates":[18.72932434082,51.591548919678]},"properties":{"ref:rspo":81122,"official_name":"Powiatowy Zesp\u00f3\u0142 Szk\u00f3\u0142 Nr 1 w Sieradzu","name":"Powiatowy Zesp\u00f3\u0142 Szk\u00f3\u0142 Nr 1 w Sieradzu","addr:country":"PL","addr:postcode":"98-200","addr:city":"Sieradz","addr:street":"ul. Marsza\u0142ka J\u00f3zefa Pi\u0142sudskiego","addr:housenumber":"5","addr:teryt:simc":36029,"addr:teryt:sym_ul":976050,"contact:phone":"+48 438271785","contact:email":"zspnr@vp.pl","contact:website":"http:\/\/www.zspnr1sieradz.edu.pl","ref:regon":"000188564","operator":"Powiat Sieradzki","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 87379;87451"}},{"id":70948,"type":"Feature","geometry":{"type":"Point","coordinates":[18.73044,51.59174]},"properties":{"ref:rspo":70948,"official_name":"Przedszkole Nr 4 \"S\u0142oneczne Przedszkole w Sieradzu","name":"Przedszkole Nr 4 \"S\u0142oneczne Przedszkole w Sieradzu","addr:country":"PL","addr:postcode":"98-200","addr:city":"Sieradz","addr:street":"ul. marsz. J\u00f3zefa Pi\u0142sudskiego","addr:housenumber":"5a","addr:teryt:simc":16274,"addr:teryt:sym_ul":976050,"contact:phone":"+48 436777242","contact:email":"dyrektor@p4.sieradz.eu","ref:regon":"731018557","ref:vatin":"PL8271983438","operator":"Gmina Miasto Sieradz","operator:type":"government","amenity":"kindergarten"}},{"id":87379,"type":"Feature","geometry":{"type":"Point","coordinates":[18.7313699,51.5920599]},"properties":{"isced:level":"3","ref:rspo":87379,"official_name":"Bran\u017cowa Szko\u0142a I Stopnia Nr 1 w Sieradzu","name":"Bran\u017cowa Szko\u0142a I Stopnia Nr 1 w Sieradzu","addr:country":"PL","addr:postcode":"98-200","addr:city":"Sieradz","addr:street":"ul. marsz. J\u00f3zefa Pi\u0142sudskiego","addr:housenumber":"5","addr:teryt:simc":16274,"addr:teryt:sym_ul":976050,"contact:phone":"+48 438271785","contact:email":"zspnr1@vp.pl","contact:website":"http:\/\/www.zspnr1sieradz.edu.pl","ref:regon":"731501124","operator":"Powiat Sieradzki","operator:type":"government","amenity":"school","note":"Parent RSPO: 81122"}},{"id":87451,"type":"Feature","geometry":{"type":"Point","coordinates":[18.7313699,51.5920299]},"properties":{"isced:level":"3","ref:rspo":87451,"official_name":"Technikum Nr 1 w Sieradzu","name":"Technikum Nr 1 w Sieradzu","addr:country":"PL","addr:postcode":"98-200","addr:city":"Sieradz","addr:street":"ul. marsz. J\u00f3zefa Pi\u0142sudskiego","addr:housenumber":"5","addr:teryt:simc":16274,"addr:teryt:sym_ul":976050,"contact:phone":"+48 438271785","contact:email":"zspnr1@vp.pl","contact:website":"http:\/\/www.zspnr1sieradz.edu.pl","ref:regon":"731501087","operator":"Powiat Sieradzki","operator:type":"government","amenity":"school","note":"Parent RSPO: 81122"}},{"id":12847,"type":"Feature","geometry":{"type":"Point","coordinates":[18.72331,51.59213]},"properties":{"ref:rspo":12847,"official_name":"Biblioteka Pedagogiczna w Sieradzu","name":"Biblioteka Pedagogiczna w Sieradzu","addr:country":"PL","addr:postcode":"98-200","addr:city":"Sieradz","addr:street":"ul. Jagiello\u0144ska","addr:housenumber":"2","addr:teryt:simc":7029,"addr:teryt:sym_ul":976050,"contact:phone":"+48 438223164","contact:email":"administracja@bpsieradz.pl","contact:website":"http:\/\/www.bpsieradz.pl","ref:regon":"000734920","ref:vatin":"PL8271307890","operator":"Wojew\u00f3dztwo \u0141\u00f3dzkie","operator:type":"government","amenity":"library","note":"Children RSPO: 18962;19524;19570;19595;19637;19711;23283Parent RSPO: 278072"}},{"id":70947,"type":"Feature","geometry":{"type":"Point","coordinates":[18.71975,51.59241]},"properties":{"ref:rspo":70947,"official_name":"Przedszkole Nr 3 im. Jana Brzechwy w Sieradzu","name":"Przedszkole Nr 3","addr:country":"PL","addr:postcode":"98-200","addr:city":"Sieradz","addr:street":"ul. W\u0142adys\u0142awa \u0141okietka","addr:housenumber":"27A","addr:teryt:simc":11653,"addr:teryt:sym_ul":976050,"contact:phone":"+48 436777232","contact:email":"dyrektor@p3.sieradz.eu","contact:website":"http:\/\/www.sieradz.schoolpage.pl","ref:regon":"731018698","ref:vatin":"PL8271983473","operator":"Gmina Miasto Sieradz","operator:type":"government","amenity":"kindergarten"}},{"id":278429,"type":"Feature","geometry":{"type":"Point","coordinates":[18.73332,51.59323]},"properties":{"isced:level":"1;2","ref:rspo":278429,"official_name":"Niepubliczna Szko\u0142a Podstawowa Fun & Play","name":"Niepubliczna Szko\u0142a Podstawowa Fun & Play","addr:country":"PL","addr:postcode":"98-200","addr:city":"Sieradz","addr:street":"pl. Plac Wojew\u00f3dzki","addr:housenumber":"6","addr:teryt:simc":40846,"addr:teryt:sym_ul":976050,"contact:email":"funandplaysieradz@gmail.com","contact:website":"http:\/\/funandplaysieradz.pl","ref:regon":"389888099","operator":"Ewa Florek","operator:type":"private","amenity":"school"}},{"id":70944,"type":"Feature","geometry":{"type":"Point","coordinates":[18.7343699,51.59337]},"properties":{"ref:rspo":70944,"official_name":"Przedszkole Nr 1 im. Kubusia Puchatka w Sieradzu","name":"Przedszkole Nr 1","addr:country":"PL","addr:postcode":"98-200","addr:city":"Sieradz","addr:street":"pl. Plac Wojew\u00f3dzki","addr:housenumber":"2","addr:teryt:simc":40846,"addr:teryt:sym_ul":976050,"contact:phone":"+48 436777212","contact:email":"dyrektor@p1.sieradz.eu","ref:regon":"731018793","ref:vatin":"PL8271983527","operator":"Gmina Miasto Sieradz","operator:type":"government","amenity":"kindergarten"}},{"id":81203,"type":"Feature","geometry":{"type":"Point","coordinates":[18.73264,51.59341]},"properties":{"ref:rspo":81203,"official_name":"Poradnia Psychologiczno-Pedagogiczna w Sieradzu","name":"Poradnia Psychologiczno-Pedagogiczna w Sieradzu","addr:country":"PL","addr:postcode":"98-200","addr:city":"Sieradz","addr:street":"pl. Plac Wojew\u00f3dzki","addr:housenumber":"3","addr:teryt:simc":40846,"addr:teryt:sym_ul":976050,"contact:phone":"+48 438224270","contact:email":"porped@poczta.onet.pl","ref:regon":"000734937","operator":"Powiat Sieradzki","operator:type":"government","healthcare":"councelling","counselling_type":"education","fixme":"w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. healthcare=councelling + counselling_type=education albo healthcare=psychotherapist)"}},{"id":263756,"type":"Feature","geometry":{"type":"Point","coordinates":[18.73264,51.593379999999996]},"properties":{"isced:level":"3","ref:rspo":263756,"official_name":"Szko\u0142y Parva - Liceum Og\u00f3lnokszta\u0142c\u0105ce dla Doros\u0142ych","name":"Szko\u0142y Parva - Liceum Og\u00f3lnokszta\u0142c\u0105ce dla Doros\u0142ych","addr:country":"PL","addr:postcode":"98-200","addr:city":"Sieradz","addr:street":"pl. Plac Wojew\u00f3dzki","addr:housenumber":"3","addr:teryt:simc":40846,"addr:teryt:sym_ul":976050,"contact:phone":"+48 515115656","contact:email":"szkolyparva@wp.pl","contact:website":"http:\/\/szkolyparva.com.pl","ref:regon":"368219963","operator":"Martyna Myszkowska","operator:type":"private","amenity":"school"}},{"id":263758,"type":"Feature","geometry":{"type":"Point","coordinates":[18.73264,51.59335]},"properties":{"isced:level":"4","ref:rspo":263758,"official_name":"Szko\u0142y Parva - Szko\u0142a Policealna","name":"Szko\u0142y Parva - Szko\u0142a Policealna","addr:country":"PL","addr:postcode":"98-200","addr:city":"Sieradz","addr:street":"pl. Plac Wojew\u00f3dzki","addr:housenumber":"3","addr:teryt:simc":40846,"addr:teryt:sym_ul":976050,"contact:phone":"+48 515115656","contact:email":"szkolyparva@wp.pl","contact:website":"http:\/\/szkolyparva.com.pl","ref:regon":"368219609","operator":"Martyna Myszkowska","operator:type":"private","amenity":"college"}},{"id":83450,"type":"Feature","geometry":{"type":"Point","coordinates":[18.6759,51.5935]},"properties":{"isced:level":"1;2","ref:rspo":83450,"official_name":"Szko\u0142a Podstawowa Integracyjna Nr 8","name":"Szko\u0142a Podstawowa Integracyjna Nr 8","addr:country":"PL","addr:postcode":"98-200","addr:city":"Sieradz","addr:street":"ul. Szlachecka","addr:housenumber":"11","addr:teryt:simc":21985,"addr:teryt:sym_ul":976050,"contact:phone":"+48 438223719","contact:email":"dyrektor@sp8.sieradz.eu","contact:website":"http:\/\/www.spi8.sieradz.eu","ref:regon":"000861334","ref:vatin":"PL8271307803","operator":"Gmina Miasto Sieradz","operator:type":"government","amenity":"school"}},{"id":83449,"type":"Feature","geometry":{"type":"Point","coordinates":[18.71674,51.5936]},"properties":{"isced:level":"1;2","ref:rspo":83449,"official_name":"Szko\u0142a Podstawowa Nr 9 im. W\u0142adys\u0142awa \u0141okietka w Sieradzu","name":"Szko\u0142a Podstawowa Nr 9","addr:country":"PL","addr:postcode":"98-200","addr:city":"Sieradz","addr:street":"ul. W\u0142adys\u0142awa \u0141okietka","addr:housenumber":"55","addr:teryt:simc":11653,"addr:teryt:sym_ul":976050,"contact:phone":"+48 438272659","contact:email":"sekretariat@sp9.sieradz.eu","contact:website":"http:\/\/www.sp9sieradz.pl","ref:regon":"730987716","ref:vatin":"PL8271875619","operator":"Gmina Miasto Sieradz","operator:type":"government","amenity":"school"}},{"id":81212,"type":"Feature","geometry":{"type":"Point","coordinates":[18.72502,51.59397]},"properties":{"ref:rspo":81212,"official_name":"Goma Kszta\u0142cenie Kadr","name":"Goma Kszta\u0142cenie Kadr","addr:country":"PL","addr:postcode":"98-200","addr:city":"Sieradz","addr:street":"ul. Sara\u0144ska","addr:housenumber":"5","addr:teryt:simc":19519,"addr:teryt:sym_ul":976050,"contact:phone":"+48 438267708","contact:email":"biuro@goma-szkolenia.pl","contact:website":"http:\/\/www.goma-szkolenia.pl","ref:regon":"101498200","operator":"Ma\u0142gorzata Macuga","operator:type":"private","fixme":"w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. amenity=training + training=*, amenity=dancing_school, amenity=language_school, amenity=music_school)"}},{"id":131247,"type":"Feature","geometry":{"type":"Point","coordinates":[18.72595,51.59413]},"properties":{"ref:rspo":131247,"official_name":"Niepubliczna Poradnia Psychologiczno-Pedagogiczna \"Semafor\"","name":"Niepubliczna Poradnia Psychologiczno-Pedagogiczna \"Semafor\"","addr:country":"PL","addr:postcode":"98-200","addr:city":"Sieradz","addr:street":"ul. Sara\u0144ska","addr:housenumber":"6","addr:door":"J\/K","addr:teryt:simc":19519,"addr:teryt:sym_ul":976050,"contact:phone":"+48 511010322","contact:email":"biuro.fundacja.semafor@gmail.com","ref:regon":"365063199","operator":"Fundacja Centrum Wspierania Rozwoju \"Semafor\"","operator:type":"ngo","healthcare":"councelling","counselling_type":"education","fixme":"w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. healthcare=councelling + counselling_type=education albo healthcare=psychotherapist)"}},{"id":119393,"type":"Feature","geometry":{"type":"Point","coordinates":[18.72075,51.59422]},"properties":{"ref:rspo":119393,"official_name":"Niepubliczne Przedszkole \"Fun & Play\"","name":"Niepubliczne Przedszkole \"Fun & Play\"","addr:country":"PL","addr:postcode":"98-200","addr:city":"Sieradz","addr:street":"ul. W\u0142adys\u0142awa \u0141okietka","addr:housenumber":"4","addr:teryt:simc":11653,"addr:teryt:sym_ul":976050,"contact:phone":"+48 515564715","contact:email":"fundandplaysieradz@gmail.com","ref:regon":"101657816","operator":"Marcin Florek","operator:type":"private","amenity":"kindergarten"}},{"id":55763,"type":"Feature","geometry":{"type":"Point","coordinates":[18.73756,51.59443]},"properties":{"isced:level":"3","ref:rspo":55763,"official_name":"Liceum Og\u00f3lnokszta\u0142c\u0105ce dla Doros\u0142ych \"\u017bak\"","name":"Liceum Og\u00f3lnokszta\u0142c\u0105ce dla Doros\u0142ych \"\u017bak\"","addr:country":"PL","addr:postcode":"98-200","addr:city":"Sieradz","addr:street":"rynek Rynek","addr:housenumber":"15","addr:teryt:simc":19252,"addr:teryt:sym_ul":976050,"contact:phone":"+48 438225289","contact:email":"sieradz@zak.edu.pl","contact:website":"http:\/\/www.zak.edu.pl","ref:regon":"101489922","operator":"Centrum Nauki I Biznesu \"\u017bak\" Sp\u00f3\u0142ka Z Ograniczon\u0105 Odpowiedzialno\u015bci\u0105","operator:type":"private","amenity":"school"}},{"id":56353,"type":"Feature","geometry":{"type":"Point","coordinates":[18.73756,51.5944]},"properties":{"isced:level":"4","ref:rspo":56353,"official_name":"Szko\u0142a Policealna Centrum Nauki I Biznesu \"\u017bak\"","name":"Szko\u0142a Policealna Centrum Nauki I Biznesu \"\u017bak\"","addr:country":"PL","addr:postcode":"98-200","addr:city":"Sieradz","addr:street":"rynek Rynek","addr:housenumber":"15","addr:teryt:simc":19252,"addr:teryt:sym_ul":976050,"contact:phone":"+48 438225289","contact:email":"sieradz@zak.edu.pl","contact:website":"http:\/\/www.zak.edu.pl","ref:regon":"101493332","operator":"Centrum Nauki I Biznesu \"\u017bak\" Sp\u00f3\u0142ka Z Ograniczon\u0105 Odpowiedzialno\u015bci\u0105","operator:type":"private","amenity":"college"}},{"id":56551,"type":"Feature","geometry":{"type":"Point","coordinates":[18.73756,51.594370000000005]},"properties":{"ref:rspo":56551,"official_name":"O\u015brodek Szkoleniowy Centrum Nauki I Biznesu \"\u017bak\" w Sieradzu","name":"O\u015brodek Szkoleniowy Centrum Nauki I Biznesu \"\u017bak\" w Sieradzu","addr:country":"PL","addr:postcode":"98-200","addr:city":"Sieradz","addr:street":"rynek Rynek","addr:housenumber":"15","addr:teryt:simc":19252,"addr:teryt:sym_ul":976050,"contact:phone":"+48 438225289","contact:email":"sieradz@zak.edu.pl","contact:website":"http:\/\/www.zak.edu.pl","ref:regon":"101493349","operator":"Centrum Nauki I Biznesu \"\u017bak\" Sp\u00f3\u0142ka Z Ograniczon\u0105 Odpowiedzialno\u015bci\u0105","operator:type":"private","fixme":"w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. amenity=training + training=*, amenity=dancing_school, amenity=language_school, amenity=music_school)"}},{"id":133140,"type":"Feature","geometry":{"type":"Point","coordinates":[18.73756,51.59434]},"properties":{"isced:level":"4","ref:rspo":133140,"official_name":"Szko\u0142a Policealna Opieki Medycznej \"\u017bak\" w Sieradzu","name":"Szko\u0142a Policealna Opieki Medycznej \"\u017bak\" w Sieradzu","addr:country":"PL","addr:postcode":"98-200","addr:city":"Sieradz","addr:street":"rynek Rynek","addr:housenumber":"15","addr:teryt:simc":19252,"addr:teryt:sym_ul":976050,"contact:phone":"+48 438225289","contact:email":"sieradz@zak.edu.pl","contact:website":"http:\/\/www.sieradz.zak.edu.pl","ref:regon":"366703940","operator":"Centrum Nauki I Biznesu \"\u017bak\" Sp\u00f3\u0142ka Z Ograniczon\u0105 Odpowiedzialno\u015bci\u0105","operator:type":"private","amenity":"college"}},{"id":264035,"type":"Feature","geometry":{"type":"Point","coordinates":[18.73756,51.59431]},"properties":{"isced:level":"4","ref:rspo":264035,"official_name":"Szko\u0142a Policealna Medyczna \"\u017bak\" w Sieradzu","name":"Szko\u0142a Policealna Medyczna \"\u017bak\" w Sieradzu","addr:country":"PL","addr:postcode":"98-200","addr:city":"Sieradz","addr:street":"rynek Rynek","addr:housenumber":"15","addr:teryt:simc":19252,"addr:teryt:sym_ul":976050,"contact:phone":"+48 438225289","contact:email":"sieradz@zak.edu.pl","contact:website":"http:\/\/www.sieradz.zak.edu.pl","ref:regon":"368254008","operator":"Centrum Nauki I Biznesu \"\u017bak\" Sp\u00f3\u0142ka Z Ograniczon\u0105 Odpowiedzialno\u015bci\u0105","operator:type":"private","amenity":"college"}},{"id":70943,"type":"Feature","geometry":{"type":"Point","coordinates":[18.729970932007,51.594570159912]},"properties":{"isced:level":"1;2","ref:rspo":70943,"official_name":"Szko\u0142a Podstawowa Nr 4 im. Marii Konopnickiej w Sieradzu","name":"Szko\u0142a Podstawowa Nr 4","addr:country":"PL","addr:postcode":"98-200","addr:city":"Sieradz","addr:street":"ul. Ks. Apolinarego Le\u015bniewskiego","addr:housenumber":"18","addr:teryt:simc":51710,"addr:teryt:sym_ul":976050,"contact:phone":"+48 438225652","contact:email":"sekretariat@sp4.sieradz.eu","contact:website":"http:\/\/www.sp4sieradz.pl","ref:regon":"000735003","ref:vatin":"PL8271493450","operator":"Gmina Miasto Sieradz","operator:type":"government","amenity":"school"}},{"id":113911,"type":"Feature","geometry":{"type":"Point","coordinates":[18.729970932007,51.594540159912]},"properties":{"ref:rspo":113911,"official_name":"Mi\u0119dzyszkolny O\u015brodek Sportowy w Sieradzu","name":"Mi\u0119dzyszkolny O\u015brodek Sportowy w Sieradzu","addr:country":"PL","addr:postcode":"98-200","addr:city":"Sieradz","addr:street":"ul. Tysi\u0105clecia","addr:housenumber":"3","addr:teryt:simc":23270,"addr:teryt:sym_ul":976050,"contact:phone":"+48 438227942","contact:email":"cezsieradz@op.pl","ref:regon":"730182326","operator":"Powiat Sieradzki","operator:type":"government","leisure":"sports_centre","note":"Parent RSPO: 81205"}},{"id":121493,"type":"Feature","geometry":{"type":"Point","coordinates":[18.729970932007,51.594510159912005]},"properties":{"ref:rspo":121493,"official_name":"M\u0142odzie\u017cowy Dom Kultury im. Tadeusza Sygiety\u0144skiego w Sieradzu","name":"M\u0142odzie\u017cowy Dom Kultury","addr:country":"PL","addr:postcode":"98-200","addr:city":"Sieradz","addr:street":"ul. Tysi\u0105clecia","addr:housenumber":"3","addr:teryt:simc":23270,"addr:teryt:sym_ul":976050,"contact:phone":"+48 438277942","contact:email":"mdk@cezsieradz.com.pl","ref:regon":"000899035","operator":"Powiat Sieradzki","operator:type":"government","amenity":"community_centre","community_centre:for":"juvenile","note":"Parent RSPO: 81205"}},{"id":81190,"type":"Feature","geometry":{"type":"Point","coordinates":[18.74127,51.59467]},"properties":{"ref:rspo":81190,"official_name":"Powiatowy Zesp\u00f3\u0142 Szk\u00f3\u0142 Nr 2 im. Marii D\u0105browskiej w Sieradzu","name":"Powiatowy Zesp\u00f3\u0142 Szk\u00f3\u0142 Nr 2","addr:country":"PL","addr:postcode":"98-200","addr:city":"Sieradz","addr:street":"ul. Zamkowa","addr:housenumber":"15","addr:teryt:simc":25547,"addr:teryt:sym_ul":976050,"contact:phone":"+48 438271536","contact:email":"zsznr2sieradz@poczta.onet.pl","contact:website":"http:\/\/www.zamkowa15.neostrada.pl","ref:regon":"000659348","operator":"Powiat Sieradzki","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 87323;87345"}},{"id":279309,"type":"Feature","geometry":{"type":"Point","coordinates":[18.74127,51.59464]},"properties":{"isced:level":"3","ref:rspo":279309,"official_name":"Iii Liceum Og\u00f3lnokszta\u0142c\u0105ce w Sieradzu","name":"Iii Liceum Og\u00f3lnokszta\u0142c\u0105ce w Sieradzu","addr:country":"PL","addr:postcode":"98-200","addr:city":"Sieradz","addr:street":"ul. Zamkowa","addr:housenumber":"15","addr:teryt:simc":25547,"addr:teryt:sym_ul":976050,"contact:phone":"+48 438271536","contact:email":"zsznr2sieradz@poczta.onet.pl","contact:website":"http:\/\/www.zamkowa15.edu.pl","ref:regon":"521192803","operator":"Powiat Sieradzki","operator:type":"government","amenity":"school"}},{"id":87323,"type":"Feature","geometry":{"type":"Point","coordinates":[18.74127,51.59461]},"properties":{"isced:level":"3","ref:rspo":87323,"official_name":"Bran\u017cowa Szko\u0142a I Stopnia Nr 2 w Sieradzu","name":"Bran\u017cowa Szko\u0142a I Stopnia Nr 2 w Sieradzu","addr:country":"PL","addr:postcode":"98-200","addr:city":"Sieradz","addr:street":"ul. Zamkowa","addr:housenumber":"15","addr:teryt:simc":25547,"addr:teryt:sym_ul":976050,"contact:phone":"+48 438271536","contact:email":"zsznr2sieradz@poczta.onet.pl","contact:website":"http:\/\/www.zamkowa15.edu.pl","ref:regon":"731500892","operator":"Powiat Sieradzki","operator:type":"government","amenity":"school","note":"Parent RSPO: 81190"}},{"id":87345,"type":"Feature","geometry":{"type":"Point","coordinates":[18.74127,51.59458]},"properties":{"isced:level":"3","ref:rspo":87345,"official_name":"Technikum Nr 2 w Sieradzu","name":"Technikum Nr 2 w Sieradzu","addr:country":"PL","addr:postcode":"98-200","addr:city":"Sieradz","addr:street":"ul. Zamkowa","addr:housenumber":"15","addr:teryt:simc":25547,"addr:teryt:sym_ul":976050,"contact:phone":"+48 438271536","contact:email":"zsznr2sieradz@poczta.onet.pl","contact:website":"http:\/\/www.zamkowa15.edu.pl","ref:regon":"731583949","operator":"Powiat Sieradzki","operator:type":"government","amenity":"school","note":"Parent RSPO: 81190"}},{"id":125133,"type":"Feature","geometry":{"type":"Point","coordinates":[18.735,51.5949]},"properties":{"ref:rspo":125133,"official_name":"Niepubliczne Przedszkole \"\u017byrafka\"","name":"Niepubliczne Przedszkole \"\u017byrafka\"","addr:country":"PL","addr:postcode":"98-200","addr:city":"Sieradz","addr:street":"ul. \u017bwirki i Wigury","addr:housenumber":"2","addr:teryt:simc":26608,"addr:teryt:sym_ul":976050,"contact:phone":"+48 602774981","contact:email":"zyrafka.sieradz@gmail.com","ref:regon":"101842229","operator":"Katarzyna Lipka-Deka","operator:type":"private","amenity":"kindergarten"}},{"id":83451,"type":"Feature","geometry":{"type":"Point","coordinates":[18.73327,51.59511]},"properties":{"isced:level":"1;2","ref:rspo":83451,"official_name":"Szko\u0142a Podstawowa Nr 1 im. W\u0142adys\u0142awa Reymonta w Sieradzu","name":"Szko\u0142a Podstawowa Nr 1","addr:country":"PL","addr:postcode":"98-200","addr:city":"Sieradz","addr:street":"ul. Tadeusza Ko\u015bciuszki","addr:housenumber":"14","addr:teryt:simc":9582,"addr:teryt:sym_ul":976050,"contact:phone":"+48 438271421","contact:email":"sekretariat@sp1.sieradz.eu","ref:regon":"000734989","ref:vatin":"PL8271469486","operator":"Gmina Miasto Sieradz","operator:type":"government","amenity":"school"}},{"id":70946,"type":"Feature","geometry":{"type":"Point","coordinates":[18.73605,51.59516]},"properties":{"ref:rspo":70946,"official_name":"Przedszkole Nr 2 im. Krasnala Ha\u0142aba\u0142y w Sieradzu","name":"Przedszkole Nr 2","addr:country":"PL","addr:postcode":"98-200","addr:city":"Sieradz","addr:street":"ul. Rycerska","addr:housenumber":"1","addr:teryt:simc":19186,"addr:teryt:sym_ul":976050,"contact:phone":"+48 436777210","contact:email":"dyrektor@p2.sieradz.eu","contact:website":"http:\/\/www.facebook.com\/przedszkole2sieradz","ref:regon":"731018400","ref:vatin":"PL8271983415","operator":"Gmina Miasto Sieradz","operator:type":"government","amenity":"kindergarten"}},{"id":124095,"type":"Feature","geometry":{"type":"Point","coordinates":[18.73691,51.59564]},"properties":{"isced:level":"4","ref:rspo":124095,"official_name":"Szko\u0142a Policealna S\u0142u\u017cb Ochrony Os\u00f3b I Mienia \"Guard\"","name":"Szko\u0142a Policealna S\u0142u\u017cb Ochrony Os\u00f3b I Mienia \"Guard\"","addr:country":"PL","addr:postcode":"98-200","addr:city":"Sieradz","addr:street":"ul. Rycerska","addr:housenumber":"4","addr:teryt:simc":19186,"addr:teryt:sym_ul":976050,"contact:phone":"+48 438271470","contact:email":"ckuipguard@gmail.com","ref:regon":"101824786","operator":"Piotr Wojciechowski","operator:type":"private","amenity":"college"}},{"id":262252,"type":"Feature","geometry":{"type":"Point","coordinates":[18.73691,51.59561]},"properties":{"ref:rspo":262252,"official_name":"Centrum Kszta\u0142cenia Ustawicznego \"Guard\" w Sieradzu","name":"Centrum Kszta\u0142cenia Ustawicznego \"Guard\" w Sieradzu","addr:country":"PL","addr:postcode":"98-200","addr:city":"Sieradz","addr:street":"ul. Rycerska","addr:housenumber":"4","addr:teryt:simc":19186,"addr:teryt:sym_ul":976050,"contact:phone":"+48 438271470","contact:email":"ckuipguard@gmail.com","ref:regon":"367994832","operator":"Piotr Wojciechowski","operator:type":"private","fixme":"w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. amenity=training + training=*, amenity=dancing_school, amenity=language_school, amenity=music_school)"}},{"id":40627,"type":"Feature","geometry":{"type":"Point","coordinates":[18.73485,51.59567]},"properties":{"isced:level":"3","ref:rspo":40627,"official_name":"I Liceum Og\u00f3lnokszta\u0142c\u0105ce im. Kazimierza Jagiello\u0144czyka w Sieradzu","name":"I Liceum Og\u00f3lnokszta\u0142c\u0105ce","addr:country":"PL","addr:postcode":"98-200","addr:city":"Sieradz","addr:street":"ul. \u017bwirki i Wigury","addr:housenumber":"3","addr:teryt:simc":26608,"addr:teryt:sym_ul":976050,"contact:phone":"+48 438271425","contact:email":"lojagiellonczyk@gmail.com","contact:website":"http:\/\/www.lojagiellonczyk.pl","ref:regon":"000204524","operator":"Powiat Sieradzki","operator:type":"government","amenity":"school"}},{"id":125186,"type":"Feature","geometry":{"type":"Point","coordinates":[18.73762,51.59672]},"properties":{"ref:rspo":125186,"official_name":"O\u015brodek Rehabilitacyjno-Edukacyjny Ami Nr 2 - Niepubliczna Poradnia Psychologiczno-Pedagogiczna","name":"O\u015brodek Rehabilitacyjno-Edukacyjny Ami Nr 2 - Niepubliczna Poradnia Psychologiczno-Pedagogiczna","addr:country":"PL","addr:postcode":"98-200","addr:city":"Sieradz","addr:street":"ul. Warcka","addr:housenumber":"3","addr:teryt:simc":23644,"addr:teryt:sym_ul":976050,"contact:phone":"+48 436569563","contact:email":"fundacja.ami@ami.org.pl","ref:regon":"101843080","operator":"Fundacja Pomocy Osobom Niepe\u0142nosprawnym \"Ami\"","operator:type":"ngo","healthcare":"councelling","counselling_type":"education","fixme":"w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. healthcare=councelling + counselling_type=education albo healthcare=psychotherapist)"}},{"id":269902,"type":"Feature","geometry":{"type":"Point","coordinates":[18.73861,51.59675]},"properties":{"ref:rspo":269902,"official_name":"Niepubliczny Punkt Przedszkolny \"Ami\u015b\"","name":"Niepubliczny Punkt Przedszkolny \"Ami\u015b\"","addr:country":"PL","addr:postcode":"98-200","addr:city":"Sieradz","addr:street":"ul. Warszawska","addr:housenumber":"11","addr:teryt:simc":23682,"addr:teryt:sym_ul":976050,"contact:email":"akd.sieradz@ami.org.pl","contact:website":"http:\/\/www.ami.org.pl","ref:regon":"381841649","operator":"Fundacja Pomocy Osobom Niepe\u0142nosprawnym \"Ami\"","operator:type":"ngo","amenity":"kindergarten"}},{"id":272676,"type":"Feature","geometry":{"type":"Point","coordinates":[18.71763,51.6031]},"properties":{"ref:rspo":272676,"official_name":"Niepublicze Przedszkole Frajda","name":"Niepublicze Przedszkole Frajda","addr:country":"PL","addr:postcode":"98-200","addr:city":"Sieradz","addr:street":"ul. Wojska Polskiego","addr:housenumber":"63","addr:teryt:simc":24628,"addr:teryt:sym_ul":976050,"contact:email":"info@frajda-przedszkole.pl","contact:website":"http:\/\/www.frajda-przedszkole.pl","ref:regon":"384274033","operator":"Fundacja Sagrada Familia","operator:type":"ngo","amenity":"kindergarten"}},{"id":127357,"type":"Feature","geometry":{"type":"Point","coordinates":[18.72368,51.60334]},"properties":{"isced:level":"3","ref:rspo":127357,"official_name":"Liceum Og\u00f3lnokszta\u0142c\u0105ce dla Doros\u0142ych w Sieradzu","name":"Liceum Og\u00f3lnokszta\u0142c\u0105ce dla Doros\u0142ych w Sieradzu","addr:country":"PL","addr:postcode":"98-200","addr:city":"Sieradz","addr:street":"ul. Adama Mickiewicza","addr:housenumber":"4","addr:teryt:simc":12740,"addr:teryt:sym_ul":976050,"contact:phone":"+48 438221012","contact:email":"sekretariat@ckusieradz.pl","contact:website":"http:\/\/www.ckusieradz.pl","ref:regon":"731650290","operator":"Powiat Sieradzki","operator:type":"government","amenity":"school","note":"Parent RSPO: 40790"}},{"id":127358,"type":"Feature","geometry":{"type":"Point","coordinates":[18.72368,51.60331]},"properties":{"isced:level":"4","ref:rspo":127358,"official_name":"Szko\u0142a Policealna w Sieradzu","name":"Szko\u0142a Policealna w Sieradzu","addr:country":"PL","addr:postcode":"98-200","addr:city":"Sieradz","addr:street":"ul. Adama Mickiewicza","addr:housenumber":"4","addr:teryt:simc":12740,"addr:teryt:sym_ul":976050,"contact:phone":"+48 438221012","contact:email":"sekretariat@ckusieradz.pl","contact:website":"http:\/\/www.ckusieradz.pl","ref:regon":"731650309","operator":"Powiat Sieradzki","operator:type":"government","amenity":"college","note":"Parent RSPO: 40790"}},{"id":275498,"type":"Feature","geometry":{"type":"Point","coordinates":[18.72368,51.603280000000005]},"properties":{"isced:level":"3","ref:rspo":275498,"official_name":"Bran\u017cowa Szko\u0142a II Stopnia w Sieradzu","name":"Bran\u017cowa Szko\u0142a II Stopnia w Sieradzu","addr:country":"PL","addr:postcode":"98-200","addr:city":"Sieradz","addr:street":"ul. Adama Mickiewicza","addr:housenumber":"4","addr:teryt:simc":12740,"addr:teryt:sym_ul":976050,"contact:phone":"+48 438221012","contact:email":"sekretariat@ckusieradz.pl","contact:website":"http:\/\/www.ckusieradz.pl","ref:regon":"386923435","operator":"Powiat Sieradzki","operator:type":"government","amenity":"school","note":"Parent RSPO: 40790"}},{"id":40790,"type":"Feature","geometry":{"type":"Point","coordinates":[18.72368,51.60325]},"properties":{"ref:rspo":40790,"official_name":"Centrum Kszta\u0142cenia Ustawicznego w Sieradzu","name":"Centrum Kszta\u0142cenia Ustawicznego w Sieradzu","addr:country":"PL","addr:postcode":"98-200","addr:city":"Sieradz","addr:street":"ul. Adama Mickiewicza","addr:housenumber":"4","addr:teryt:simc":12740,"addr:teryt:sym_ul":976050,"contact:phone":"+48 438221012","contact:email":"sekretariat@ckusieradz.pl","contact:website":"http:\/\/www.ckusieradz.pl","ref:regon":"730019626","operator":"Powiat Sieradzki","operator:type":"government","amenity":"school","fixme":"amenity=school lub amenity=college","note":"Children RSPO: 127357;127358;275498Parent RSPO: 81205"}},{"id":276845,"type":"Feature","geometry":{"type":"Point","coordinates":[18.72472,51.6043]},"properties":{"isced:level":"3","ref:rspo":276845,"official_name":"Technikum Informatyki Edukacji Innowacyjnej w Sieradzu","name":"Technikum Informatyki Edukacji Innowacyjnej w Sieradzu","addr:country":"PL","addr:postcode":"98-200","addr:city":"Sieradz","addr:street":"ul. Adama Mickiewicza","addr:housenumber":"6","addr:teryt:simc":12740,"addr:teryt:sym_ul":976050,"contact:phone":"+48 603095991","contact:email":"ksadowska@ahe.lodz.pl","ref:regon":"387692541","operator":"Instytut Post\u0119powania Tw\u00f3rczego Sp\u00f3\u0142ka Z Ograniczon\u0105 Odpowiedzialno\u015bci\u0105","operator:type":"private","amenity":"school"}},{"id":276846,"type":"Feature","geometry":{"type":"Point","coordinates":[18.72472,51.60427]},"properties":{"isced:level":"4","ref:rspo":276846,"official_name":"Szko\u0142a Policealna Edukacji Innowacyjnej w Sieradzu","name":"Szko\u0142a Policealna Edukacji Innowacyjnej w Sieradzu","addr:country":"PL","addr:postcode":"98-200","addr:city":"Sieradz","addr:street":"ul. Adama Mickiewicza","addr:housenumber":"6","addr:teryt:simc":12740,"addr:teryt:sym_ul":976050,"contact:phone":"+48 603095991","contact:email":"ksadowska@ahe.lodz.pl","ref:regon":"387692660","operator":"Instytut Post\u0119powania Tw\u00f3rczego Sp\u00f3\u0142ka Z Ograniczon\u0105 Odpowiedzialno\u015bci\u0105","operator:type":"private","amenity":"college"}},{"id":70938,"type":"Feature","geometry":{"type":"Point","coordinates":[18.78215,51.61968]},"properties":{"isced:level":"1;2","ref:rspo":70938,"official_name":"Szko\u0142a Podstawowa Nr 6 im. Janiny Majkowskiej w Sieradzu","name":"Szko\u0142a Podstawowa Nr 6","addr:country":"PL","addr:postcode":"98-200","addr:city":"Sieradz","addr:street":"ul. Uniejowska","addr:housenumber":"199","addr:teryt:simc":23359,"addr:teryt:sym_ul":976050,"contact:phone":"+48 438271923","contact:email":"dyrektor@sp6.sieradz.eu","contact:website":"http:\/\/sp6sieradz.pl","ref:regon":"000861311","ref:vatin":"PL8271307944","operator":"Gmina Miasto Sieradz","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 131635,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.71774,
+                    51.57287
+                ]
+            },
+            "properties": {
+                "ref:rspo": 131635,
+                "official_name": "Niepubliczna Poradnia Psychologiczno-Pedagogiczna Dary Losu w Sieradzu",
+                "name": "Niepubliczna Poradnia Psychologiczno-Pedagogiczna Dary Losu w Sieradzu",
+                "addr:country": "PL",
+                "addr:postcode": "98-200",
+                "addr:city": "Sieradz",
+                "addr:street": "ul. W\u0142adys\u0142awa Warne\u0144czyka",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 23668,
+                "addr:teryt:sym_ul": 976050,
+                "contact:phone": "+48 502240354",
+                "contact:email": "stowarzyszenie@darylosu.org",
+                "contact:website": "http:\/\/darylosu.org",
+                "ref:regon": "365323720",
+                "operator": "Stowarzyszenie Na Rzecz Dzieci Niepe\u0142nosprawnych Dary Losu W Sieradzu",
+                "operator:type": "ngo",
+                "healthcare": "counselling",
+                "counselling_type": "education",
+                "fixme": "w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. healthcare=counselling + counselling_type=education albo healthcare=psychotherapist)"
+            }
+        },
+        {
+            "id": 262500,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.74414,
+                    51.57548
+                ]
+            },
+            "properties": {
+                "ref:rspo": 262500,
+                "official_name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 I Plac\u00f3wek O\u015bwiatowych Wojew\u00f3dztwa \u0141\u00f3dzkiego w Sieradzu",
+                "name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 I Plac\u00f3wek O\u015bwiatowych Wojew\u00f3dztwa \u0141\u00f3dzkiego w Sieradzu",
+                "addr:country": "PL",
+                "addr:postcode": "98-200",
+                "addr:city": "Sieradz",
+                "addr:street": "ul. 3 Maja",
+                "addr:housenumber": "7",
+                "addr:teryt:simc": 11937,
+                "addr:teryt:sym_ul": 976050,
+                "contact:phone": "+48 438224412",
+                "contact:email": "kontakt@edukacja.sieradz.pl",
+                "ref:regon": "368025087",
+                "operator": "Wojew\u00f3dztwo \u0141\u00f3dzkie",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 13468;115375"
+            }
+        },
+        {
+            "id": 278072,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.74414,
+                    51.57545
+                ]
+            },
+            "properties": {
+                "ref:rspo": 278072,
+                "official_name": "Centrum Rozwoju Edukacji Wojew\u00f3dztwa \u0141\u00f3dzkiego w Sieradzu",
+                "name": "Centrum Rozwoju Edukacji Wojew\u00f3dztwa \u0141\u00f3dzkiego w Sieradzu",
+                "addr:country": "PL",
+                "addr:postcode": "98-200",
+                "addr:city": "Sieradz",
+                "addr:street": "ul. 3 Maja",
+                "addr:housenumber": "7",
+                "addr:teryt:simc": 11937,
+                "addr:teryt:sym_ul": 976050,
+                "contact:phone": "+48 438223691",
+                "contact:email": "wodn@wodnsieradz.edu.pl",
+                "ref:regon": "389757799",
+                "ref:vatin": "PL8272327877",
+                "operator": "Wojew\u00f3dztwo \u0141\u00f3dzkie",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 12847;14632"
+            }
+        },
+        {
+            "id": 13011,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.74414,
+                    51.57542
+                ]
+            },
+            "properties": {
+                "isced:level": "4",
+                "ref:rspo": 13011,
+                "official_name": "Szko\u0142a Policealna Samorz\u0105du Wojew\u00f3dztwa \u0141\u00f3dzkiego w Sieradzu",
+                "name": "Szko\u0142a Policealna Samorz\u0105du Wojew\u00f3dztwa \u0141\u00f3dzkiego w Sieradzu",
+                "addr:country": "PL",
+                "addr:postcode": "98-200",
+                "addr:city": "Sieradz",
+                "addr:street": "ul. 3 Maja",
+                "addr:housenumber": "7",
+                "addr:teryt:simc": 11937,
+                "addr:teryt:sym_ul": 976050,
+                "contact:phone": "+48 438224412",
+                "contact:email": "kontakt@edukacja.sieradz.pl",
+                "contact:website": "http:\/\/www.edukacja.sieradz.pl",
+                "ref:regon": "731624513",
+                "ref:vatin": "PL8272089892",
+                "operator": "Wojew\u00f3dztwo \u0141\u00f3dzkie",
+                "operator:type": "government",
+                "amenity": "college",
+                "note": "Parent RSPO: 115375"
+            }
+        },
+        {
+            "id": 118965,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.74414,
+                    51.57539
+                ]
+            },
+            "properties": {
+                "isced:level": "4",
+                "ref:rspo": 118965,
+                "official_name": "Sieradzka Szko\u0142a Policealna Wojew\u00f3dztwa \u0141\u00f3dzkiego w Sieradzu",
+                "name": "Sieradzka Szko\u0142a Policealna Wojew\u00f3dztwa \u0141\u00f3dzkiego w Sieradzu",
+                "addr:country": "PL",
+                "addr:postcode": "98-200",
+                "addr:city": "Sieradz",
+                "addr:street": "ul. 3 Maja",
+                "addr:housenumber": "7",
+                "addr:teryt:simc": 11937,
+                "addr:teryt:sym_ul": 976050,
+                "contact:phone": "+48 438224412",
+                "contact:email": "kontakt@edukacja.sieradz.pl",
+                "contact:website": "http:\/\/www.edukacja.sieradz.pl",
+                "ref:regon": "101652144",
+                "operator": "Wojew\u00f3dztwo \u0141\u00f3dzkie",
+                "operator:type": "government",
+                "amenity": "college",
+                "note": "Parent RSPO: 115375"
+            }
+        },
+        {
+            "id": 13468,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.74414,
+                    51.575359999999996
+                ]
+            },
+            "properties": {
+                "ref:rspo": 13468,
+                "official_name": "Bursa Samorz\u0105du Wojew\u00f3dztwa \u0141\u00f3dzkiego w Sieradzu",
+                "name": "Bursa Samorz\u0105du Wojew\u00f3dztwa \u0141\u00f3dzkiego w Sieradzu",
+                "addr:country": "PL",
+                "addr:postcode": "98-200",
+                "addr:city": "Sieradz",
+                "addr:street": "ul. 3 Maja",
+                "addr:housenumber": "7",
+                "addr:teryt:simc": 11937,
+                "addr:teryt:sym_ul": 976050,
+                "contact:phone": "+48 438225076",
+                "contact:email": "kontakt@bursa.sieradz.pl",
+                "contact:website": "http:\/\/www.edukacja.sieradz.pl",
+                "ref:regon": "100722670",
+                "ref:vatin": "PL8272257817",
+                "operator": "Wojew\u00f3dztwo \u0141\u00f3dzkie",
+                "operator:type": "government",
+                "building": "dormitory",
+                "note": "Parent RSPO: 262500"
+            }
+        },
+        {
+            "id": 115375,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.74414,
+                    51.57533
+                ]
+            },
+            "properties": {
+                "ref:rspo": 115375,
+                "official_name": "Sieradzkie Centrum Kszta\u0142cenia Ustawicznego\nWojew\u00f3dztwa \u0141\u00f3dzkiego w Sieradzu",
+                "name": "Sieradzkie Centrum Kszta\u0142cenia Ustawicznego\nWojew\u00f3dztwa \u0141\u00f3dzkiego w Sieradzu",
+                "addr:country": "PL",
+                "addr:postcode": "98-200",
+                "addr:city": "Sieradz",
+                "addr:street": "ul. 3 Maja",
+                "addr:housenumber": "7",
+                "addr:teryt:simc": 11937,
+                "addr:teryt:sym_ul": 976050,
+                "contact:phone": "+48 438224412",
+                "contact:email": "kontakt@edukacja.sieradz.pl",
+                "contact:website": "http:\/\/www.edukacja.sieradz.pl",
+                "ref:regon": "101628648",
+                "operator": "Wojew\u00f3dztwo \u0141\u00f3dzkie",
+                "operator:type": "government",
+                "amenity": "school",
+                "fixme": "amenity=school lub amenity=college",
+                "note": "Children RSPO: 13011;118965Parent RSPO: 262500"
+            }
+        },
+        {
+            "id": 14632,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.74414,
+                    51.5753
+                ]
+            },
+            "properties": {
+                "ref:rspo": 14632,
+                "official_name": "Wojew\u00f3dzki O\u015brodek Doskonalenia Nauczycieli w Sieradzu",
+                "name": "Wojew\u00f3dzki O\u015brodek Doskonalenia Nauczycieli w Sieradzu",
+                "addr:country": "PL",
+                "addr:postcode": "98-200",
+                "addr:city": "Sieradz",
+                "addr:street": "ul. 3 Maja",
+                "addr:housenumber": "7",
+                "addr:teryt:simc": 11937,
+                "addr:teryt:sym_ul": 976050,
+                "contact:phone": "+48 438223691",
+                "contact:email": "wodn@wodnsieradz.edu.pl",
+                "contact:website": "http:\/\/www.wodnsieradz.edu.pl",
+                "ref:regon": "001392203",
+                "ref:vatin": "PL8271295218",
+                "operator": "Wojew\u00f3dztwo \u0141\u00f3dzkie",
+                "operator:type": "government",
+                "amenity": "training",
+                "note": "Parent RSPO: 278072"
+            }
+        },
+        {
+            "id": 70953,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.74578,
+                    51.57786
+                ]
+            },
+            "properties": {
+                "ref:rspo": 70953,
+                "official_name": "Przedszkole Niepubliczne\nZgromadzenia Si\u00f3str Urszulanek Sjk \nIm.\u015bw. Urszuli Led\u00f3chowskiej w Sieradzu",
+                "name": "Przedszkole Niepubliczne\nZgromadzenia Si\u00f3str Urszulanek Sjk \nIm.\u015bw. Urszuli Led\u00f3chowskiej w Sieradzu",
+                "addr:country": "PL",
+                "addr:postcode": "98-200",
+                "addr:city": "Sieradz",
+                "addr:street": "ul. Krakowskie Przedmie\u015bcie",
+                "addr:housenumber": "123",
+                "addr:teryt:simc": 9803,
+                "addr:teryt:sym_ul": 976050,
+                "contact:phone": "+48 438225724",
+                "ref:regon": "101493645",
+                "ref:vatin": "PL8271921696",
+                "operator": "Centrum \u0141\u00f3dzko-Sieradzkie Zgromadzenie Si\u00f3str Urszulanek Serca Jezusa Konaj\u0105cego",
+                "operator:type": "religious",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 81287,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.74688,
+                    51.57823
+                ]
+            },
+            "properties": {
+                "ref:rspo": 81287,
+                "official_name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Katolickich Przy Parafii Rzymskokatolickiej \u015aw. Urszuli Led\u00f3chowskiej w Sieradzu",
+                "name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Katolickich Przy Parafii Rzymskokatolickiej \u015aw. Urszuli Led\u00f3chowskiej w Sieradzu",
+                "addr:country": "PL",
+                "addr:postcode": "98-200",
+                "addr:city": "Sieradz",
+                "addr:street": "ul. Krakowskie Przedmie\u015bcie",
+                "addr:housenumber": "123a",
+                "addr:teryt:simc": 9803,
+                "addr:teryt:sym_ul": 976050,
+                "contact:phone": "+48 438274821",
+                "contact:email": "sekretariat@zsksieradz.com",
+                "contact:website": "http:\/\/www.zsksieradz.com",
+                "ref:regon": "101500300",
+                "operator": "Parafia Rzymskokatolicka \u015aw.urszuli Led\u00f3chowskiej",
+                "operator:type": "religious",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 88947;92713;92737"
+            }
+        },
+        {
+            "id": 132397,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.74688,
+                    51.578199999999995
+                ]
+            },
+            "properties": {
+                "ref:rspo": 132397,
+                "official_name": "Niepubliczne Przedszkole \"Radosne Maluchy\"",
+                "name": "Niepubliczne Przedszkole \"Radosne Maluchy\"",
+                "addr:country": "PL",
+                "addr:postcode": "98-200",
+                "addr:city": "Sieradz",
+                "addr:street": "ul. Krakowskie Przedmie\u015bcie",
+                "addr:housenumber": "123A",
+                "addr:teryt:simc": 9803,
+                "addr:teryt:sym_ul": 976050,
+                "contact:phone": "+48 504870969",
+                "contact:email": "edyta4@vp.pl",
+                "contact:website": "http:\/\/www.radosnemaluchy.com.pl",
+                "ref:regon": "365595648",
+                "ref:vatin": "PL7691265867",
+                "operator": "Piotr Walenczak",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 88947,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.74688,
+                    51.57817
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 88947,
+                "official_name": "Katolicka Szko\u0142a Podstawowa Przy Parafii Rzymskokatolickiej \u015aw. Urszuli Led\u00f3chowskiej w Sieradzu",
+                "name": "Katolicka Szko\u0142a Podstawowa Przy Parafii Rzymskokatolickiej \u015aw. Urszuli Led\u00f3chowskiej w Sieradzu",
+                "addr:country": "PL",
+                "addr:postcode": "98-200",
+                "addr:city": "Sieradz",
+                "addr:street": "ul. Krakowskie Przedmie\u015bcie",
+                "addr:housenumber": "123a",
+                "addr:teryt:simc": 9803,
+                "addr:teryt:sym_ul": 976050,
+                "contact:phone": "+48 438274821",
+                "contact:email": "sekretariat@zsksieradz.com",
+                "contact:website": "http:\/\/www.zsksieradz.com",
+                "ref:regon": "101503800",
+                "ref:vatin": "PL8272064975",
+                "operator": "Parafia Rzymskokatolicka \u015aw.urszuli Led\u00f3chowskiej",
+                "operator:type": "religious",
+                "amenity": "school",
+                "note": "Parent RSPO: 81287"
+            }
+        },
+        {
+            "id": 92713,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.74688,
+                    51.57814
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 92713,
+                "official_name": "Og\u00f3lnokszta\u0142c\u0105ce Liceum Katolickie Przy Parafii Rzymskokatolickiej \u015aw. Urszuli Led\u00f3chowskiej w Sieradzu",
+                "name": "Og\u00f3lnokszta\u0142c\u0105ce Liceum Katolickie Przy Parafii Rzymskokatolickiej \u015aw. Urszuli Led\u00f3chowskiej w Sieradzu",
+                "addr:country": "PL",
+                "addr:postcode": "98-200",
+                "addr:city": "Sieradz",
+                "addr:street": "ul. Krakowskie Przedmie\u015bcie",
+                "addr:housenumber": "123a",
+                "addr:teryt:simc": 9803,
+                "addr:teryt:sym_ul": 976050,
+                "contact:phone": "+48 793236846",
+                "contact:email": "sekretariat@zsksieradz.com",
+                "contact:website": "http:\/\/www.zsksieradz.com",
+                "ref:regon": "101515387",
+                "operator": "Parafia Rzymskokatolicka \u015aw.urszuli Led\u00f3chowskiej",
+                "operator:type": "religious",
+                "amenity": "school",
+                "note": "Parent RSPO: 81287"
+            }
+        },
+        {
+            "id": 92737,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.74688,
+                    51.578109999999995
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 92737,
+                "official_name": "Og\u00f3lnokszta\u0142c\u0105ce Liceum Katolickie dla Doros\u0142ych Przy Parafii Rzymskokatolickiej \u015aw. Urszuli Led\u00f3chowskiej w Sieradzu",
+                "name": "Og\u00f3lnokszta\u0142c\u0105ce Liceum Katolickie dla Doros\u0142ych Przy Parafii Rzymskokatolickiej \u015aw. Urszuli Led\u00f3chowskiej w Sieradzu",
+                "addr:country": "PL",
+                "addr:postcode": "98-200",
+                "addr:city": "Sieradz",
+                "addr:street": "ul. Krakowskie Przedmie\u015bcie",
+                "addr:housenumber": "123a",
+                "addr:teryt:simc": 9803,
+                "addr:teryt:sym_ul": 976050,
+                "contact:phone": "+48 793236846",
+                "contact:email": "sekretariat@zsksieradz.com",
+                "contact:website": "http:\/\/www.zsksieradz.com",
+                "ref:regon": "101515418",
+                "operator": "Parafia Rzymskokatolicka \u015aw.urszuli Led\u00f3chowskiej",
+                "operator:type": "religious",
+                "amenity": "school",
+                "note": "Parent RSPO: 81287"
+            }
+        },
+        {
+            "id": 119410,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.71158,
+                    51.57832
+                ]
+            },
+            "properties": {
+                "ref:rspo": 119410,
+                "official_name": "Niepubliczne Przedszkole \"Reksio\"",
+                "name": "Niepubliczne Przedszkole \"Reksio\"",
+                "addr:country": "PL",
+                "addr:postcode": "98-200",
+                "addr:city": "Sieradz",
+                "addr:street": "ul. Organizacji Katy\u0144",
+                "addr:housenumber": "15",
+                "addr:teryt:simc": 34316,
+                "addr:teryt:sym_ul": 976050,
+                "contact:phone": "+48 438226117",
+                "contact:email": "biuro@reksio.edu.pl",
+                "contact:website": "http:\/\/www.reksio.edu.pl",
+                "ref:regon": "101658030",
+                "operator": "Katarzyna Polanowska",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 131756,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.74031,
+                    51.57913
+                ]
+            },
+            "properties": {
+                "ref:rspo": 131756,
+                "official_name": "Niepubliczny Punkt Przedszkolny \"Semafor\"",
+                "name": "Niepubliczny Punkt Przedszkolny \"Semafor\"",
+                "addr:country": "PL",
+                "addr:postcode": "98-200",
+                "addr:city": "Sieradz",
+                "addr:street": "ul. Pod Skarp\u0105",
+                "addr:housenumber": "27",
+                "addr:teryt:simc": 16662,
+                "addr:teryt:sym_ul": 976050,
+                "contact:phone": "+48 511010322",
+                "contact:email": "biuro.fundacja.semafor@gmail.com",
+                "contact:website": "http:\/\/www.fundacjasemafor.pl",
+                "ref:regon": "365340210",
+                "ref:vatin": "PL8272309460",
+                "operator": "Fundacja Centrum Wspierania Rozwoju \"Semafor\"",
+                "operator:type": "ngo",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 81223,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.72257,
+                    51.58482
+                ]
+            },
+            "properties": {
+                "ref:rspo": 81223,
+                "official_name": "O\u015brodek Szkolenia Stowarzyszenia Elektryk\u00f3w Polskich O\/Sieradz",
+                "name": "O\u015brodek Szkolenia Stowarzyszenia Elektryk\u00f3w Polskich O\/Sieradz",
+                "addr:country": "PL",
+                "addr:postcode": "98-200",
+                "addr:city": "Sieradz",
+                "addr:street": "ul. Sp\u00f3\u0142dzielcza",
+                "addr:housenumber": "4",
+                "addr:teryt:simc": 20696,
+                "addr:teryt:sym_ul": 976050,
+                "contact:phone": "+48 438221228",
+                "contact:email": "sep_sieradz@op.pl",
+                "contact:website": "http:\/\/www.sep-sieradz.pl",
+                "ref:regon": "101498230",
+                "operator": "Stowarzyszenie Elektryk\u00f3w Polskich",
+                "operator:type": "ngo",
+                "fixme": "w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. amenity=training + training=*, amenity=dancing_school, amenity=language_school, amenity=music_school) albo amenity=school, amenity=college, albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education."
+            }
+        },
+        {
+            "id": 196393,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.71384,
+                    51.58626
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 196393,
+                "official_name": "Szko\u0142a Podstawowa Gminy Sieradz im. Jana Paw\u0142a II w Sieradzu",
+                "name": "Szko\u0142a Podstawowa Gminy Sieradz",
+                "addr:country": "PL",
+                "addr:postcode": "98-200",
+                "addr:city": "Sieradz",
+                "addr:street": "ul. Armii Krajowej",
+                "addr:housenumber": "5",
+                "addr:teryt:simc": 432,
+                "addr:teryt:sym_ul": 976050,
+                "contact:phone": "+48 438275344",
+                "contact:email": "spgsieradz@wp.pl",
+                "contact:website": "http:\/\/www.spgs.pl",
+                "ref:regon": "367992715",
+                "ref:vatin": "PL8272315087",
+                "operator": "Gmina Sieradz",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 70951,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.71756,
+                    51.58661
+                ]
+            },
+            "properties": {
+                "ref:rspo": 70951,
+                "official_name": "Przedszkole Nr 15 w Sieradzu",
+                "name": "Przedszkole Nr 15 w Sieradzu",
+                "addr:country": "PL",
+                "addr:postcode": "98-200",
+                "addr:city": "Sieradz",
+                "addr:street": "ul. Marcina Stacheckiego-Koliby",
+                "addr:housenumber": "3",
+                "addr:teryt:simc": 31051,
+                "addr:teryt:sym_ul": 976050,
+                "contact:phone": "+48 438275939",
+                "contact:email": "dyrektor@p15.sieradz.eu",
+                "ref:regon": "731018540",
+                "ref:vatin": "PL8271983467",
+                "operator": "Gmina Miasto Sieradz",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 81192,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.73903,
+                    51.58678
+                ]
+            },
+            "properties": {
+                "ref:rspo": 81192,
+                "official_name": "Specjalny O\u015brodek Szkolno-Wychowawczy im. Janusza Korczaka w Sieradzu",
+                "name": "Specjalny O\u015brodek Szkolno-Wychowawczy",
+                "addr:country": "PL",
+                "addr:postcode": "98-200",
+                "addr:city": "Sieradz",
+                "addr:street": "ul. Krakowskie Przedmie\u015bcie",
+                "addr:housenumber": "58",
+                "addr:teryt:simc": 9803,
+                "addr:teryt:sym_ul": 976050,
+                "contact:phone": "+48 438224563",
+                "contact:email": "specsier@pro.onet.pl",
+                "contact:website": "http:\/\/www.sosw-sieradz.webd.pl",
+                "ref:regon": "001007406",
+                "operator": "Powiat Sieradzki",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Children RSPO: 113906;113907;113908;113909"
+            }
+        },
+        {
+            "id": 113906,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.73903,
+                    51.586749999999995
+                ]
+            },
+            "properties": {
+                "ref:rspo": 113906,
+                "official_name": "Szko\u0142a Specjalna Przysposabiaj\u0105ca Do Pracy w Sieradzu",
+                "name": "Szko\u0142a Specjalna Przysposabiaj\u0105ca Do Pracy w Sieradzu",
+                "addr:country": "PL",
+                "addr:postcode": "98-200",
+                "addr:city": "Sieradz",
+                "addr:street": "ul. Krakowskie Przedmie\u015bcie",
+                "addr:housenumber": "58",
+                "addr:teryt:simc": 9803,
+                "addr:teryt:sym_ul": 976050,
+                "contact:phone": "+48 438224563",
+                "contact:email": "specsier@pro.onet.pl",
+                "contact:website": "http:\/\/www.sosw-sieradz.webd.pl",
+                "ref:regon": "100025385",
+                "operator": "Powiat Sieradzki",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 81192"
+            }
+        },
+        {
+            "id": 113907,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.73903,
+                    51.58672
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 113907,
+                "official_name": "Szko\u0142a Podstawowa Nr 5 w Sieradzu",
+                "name": "Szko\u0142a Podstawowa Nr 5 w Sieradzu",
+                "addr:country": "PL",
+                "addr:postcode": "98-200",
+                "addr:city": "Sieradz",
+                "addr:street": "ul. Krakowskie Przedmie\u015bcie",
+                "addr:housenumber": "58",
+                "addr:teryt:simc": 9803,
+                "addr:teryt:sym_ul": 976050,
+                "contact:phone": "+48 438224563",
+                "contact:email": "specsier@pro.onet.pl",
+                "contact:website": "http:\/\/www.sosw-sieradz.webd.pl",
+                "ref:regon": "000733487",
+                "operator": "Powiat Sieradzki",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 81192"
+            }
+        },
+        {
+            "id": 113908,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.73903,
+                    51.58669
+                ]
+            },
+            "properties": {
+                "ref:rspo": 113908,
+                "official_name": "Przedszkole Specjalne w Sieradzu",
+                "name": "Przedszkole Specjalne w Sieradzu",
+                "addr:country": "PL",
+                "addr:postcode": "98-200",
+                "addr:city": "Sieradz",
+                "addr:street": "ul. Krakowskie Przedmie\u015bcie",
+                "addr:housenumber": "58",
+                "addr:teryt:simc": 9803,
+                "addr:teryt:sym_ul": 976050,
+                "contact:phone": "+48 435884563",
+                "contact:email": "specsier@pro.onet.pl",
+                "contact:website": "http:\/\/www.sosw-sieradz.webd.pl",
+                "ref:regon": "100948530",
+                "operator": "Powiat Sieradzki",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 81192"
+            }
+        },
+        {
+            "id": 113909,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.73903,
+                    51.586659999999995
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 113909,
+                "official_name": "Bran\u017cowa Szko\u0142a I Stopnia Nr 3 w Sieradzu",
+                "name": "Bran\u017cowa Szko\u0142a I Stopnia Nr 3 w Sieradzu",
+                "addr:country": "PL",
+                "addr:postcode": "98-200",
+                "addr:city": "Sieradz",
+                "addr:street": "ul. Krakowskie Przedmie\u015bcie",
+                "addr:housenumber": "58",
+                "addr:teryt:simc": 9803,
+                "addr:teryt:sym_ul": 976050,
+                "contact:phone": "+48 438224563",
+                "contact:email": "specsier@pro.onet.pl",
+                "contact:website": "http:\/\/www.sosw-sieradz.webd.pl",
+                "ref:regon": "001010160",
+                "operator": "Powiat Sieradzki",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 81192"
+            }
+        },
+        {
+            "id": 40698,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.7316499,
+                    51.58762
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 40698,
+                "official_name": "Ii Liceum Og\u00f3lnokszta\u0142c\u0105ce Z Oddzia\u0142ami Dwuj\u0119zycznymi im. Stefana \u017beromskiego w Sieradzu",
+                "name": "Ii Liceum Og\u00f3lnokszta\u0142c\u0105ce Z Oddzia\u0142ami Dwuj\u0119zycznymi",
+                "addr:country": "PL",
+                "addr:postcode": "98-200",
+                "addr:city": "Sieradz",
+                "addr:street": "ul. Stefana \u017beromskiego",
+                "addr:housenumber": "8",
+                "addr:teryt:simc": 26469,
+                "addr:teryt:sym_ul": 976050,
+                "contact:phone": "+48 438224287",
+                "contact:email": "sieradzlo2@poczta.onet.pl",
+                "contact:website": "http:\/\/www.zeromski.edu.pl",
+                "ref:regon": "730223380",
+                "operator": "Powiat Sieradzki",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 274480,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.69471,
+                    51.58847
+                ]
+            },
+            "properties": {
+                "ref:rspo": 274480,
+                "official_name": "Centrum Rozwoju Edukacji Lignum",
+                "name": "Centrum Rozwoju Edukacji Lignum",
+                "addr:country": "PL",
+                "addr:postcode": "98-200",
+                "addr:city": "Sieradz",
+                "addr:street": "ul. W\u0142adys\u0142awa Reymonta",
+                "addr:housenumber": "78c",
+                "addr:teryt:simc": 18648,
+                "addr:teryt:sym_ul": 976050,
+                "contact:email": "cre.lignum@gmail.com",
+                "ref:regon": "385833210",
+                "operator": "Bartosz \u015awiniarski",
+                "operator:type": "private",
+                "amenity": "training"
+            }
+        },
+        {
+            "id": 70950,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.72878,
+                    51.5886
+                ]
+            },
+            "properties": {
+                "ref:rspo": 70950,
+                "official_name": "Przedszkole Nr 6 Z Oddzia\u0142ami Integracyjnymi im. \"Jasia I Ma\u0142gosi\" w Sieradzu",
+                "name": "Przedszkole Nr 6 Z Oddzia\u0142ami Integracyjnymi",
+                "addr:country": "PL",
+                "addr:postcode": "98-200",
+                "addr:city": "Sieradz",
+                "addr:street": "ul. Zaj\u0119cza",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 25427,
+                "addr:teryt:sym_ul": 976050,
+                "contact:phone": "+48 438225341",
+                "contact:email": "dyrektor@p6.sieradz.eu",
+                "contact:website": "http:\/\/www.p6sieradz.hostit.pl",
+                "ref:regon": "731018617",
+                "ref:vatin": "PL8271983450",
+                "operator": "Gmina Miasto Sieradz",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 50406,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.71009,
+                    51.58873
+                ]
+            },
+            "properties": {
+                "ref:rspo": 50406,
+                "official_name": "Sieradzki Zesp\u00f3\u0142 Szk\u00f3\u0142 Spo\u0142ecznego Towarzystwa O\u015bwiatowego w Sieradzu",
+                "name": "Sieradzki Zesp\u00f3\u0142 Szk\u00f3\u0142 Spo\u0142ecznego Towarzystwa O\u015bwiatowego w Sieradzu",
+                "addr:country": "PL",
+                "addr:postcode": "98-200",
+                "addr:city": "Sieradz",
+                "addr:street": "ul. Bohater\u00f3w Wrze\u015bnia",
+                "addr:housenumber": "61",
+                "addr:teryt:simc": 1688,
+                "addr:teryt:sym_ul": 976050,
+                "contact:phone": "+48 438273746",
+                "contact:email": "liceum@spoleczne.com.pl",
+                "contact:website": "http:\/\/www.spoleczne.com.pl",
+                "ref:regon": "101486993",
+                "operator": "Spo\u0142eczne Towarzystwo O\u015bwiatowe W Sieradzu",
+                "operator:type": "ngo",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 91800"
+            }
+        },
+        {
+            "id": 131805,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.71009,
+                    51.588699999999996
+                ]
+            },
+            "properties": {
+                "ref:rspo": 131805,
+                "official_name": "Niepubliczne Przedszkole Fun&Play Ii",
+                "name": "Niepubliczne Przedszkole Fun&Play Ii",
+                "addr:country": "PL",
+                "addr:postcode": "98-200",
+                "addr:city": "Sieradz",
+                "addr:street": "ul. Bohater\u00f3w Wrze\u015bnia",
+                "addr:housenumber": "61",
+                "addr:teryt:simc": 1688,
+                "addr:teryt:sym_ul": 976050,
+                "contact:phone": "+48 515564715",
+                "contact:email": "funandplaysieradz@gmail.com",
+                "ref:regon": "365350941",
+                "operator": "Marcin Florek",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 91800,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.71009,
+                    51.58867
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 91800,
+                "official_name": "Liceum Og\u00f3lnokszta\u0142c\u0105ce Spo\u0142ecznego Towarzystwa O\u015bwiatowego w Sieradzu",
+                "name": "Liceum Og\u00f3lnokszta\u0142c\u0105ce Spo\u0142ecznego Towarzystwa O\u015bwiatowego w Sieradzu",
+                "addr:country": "PL",
+                "addr:postcode": "98-200",
+                "addr:city": "Sieradz",
+                "addr:street": "ul. Bohater\u00f3w Wrze\u015bnia",
+                "addr:housenumber": "61",
+                "addr:teryt:simc": 1688,
+                "addr:teryt:sym_ul": 976050,
+                "contact:phone": "+48 438273746",
+                "contact:email": "liceum@spoleczne.com.pl",
+                "ref:regon": "101509234",
+                "operator": "Spo\u0142eczne Towarzystwo O\u015bwiatowe W Sieradzu",
+                "operator:type": "ngo",
+                "amenity": "school",
+                "note": "Parent RSPO: 50406"
+            }
+        },
+        {
+            "id": 75600,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.72426,
+                    51.59015
+                ]
+            },
+            "properties": {
+                "ref:rspo": 75600,
+                "official_name": "Pa\u0144stwowa Szko\u0142a Muzyczna I St. w Sieradzu",
+                "name": "Pa\u0144stwowa Szko\u0142a Muzyczna I St. w Sieradzu",
+                "addr:country": "PL",
+                "addr:postcode": "98-200",
+                "addr:city": "Sieradz",
+                "addr:street": "ul. Jana Paw\u0142a II",
+                "addr:housenumber": "48",
+                "addr:teryt:simc": 7123,
+                "addr:teryt:sym_ul": 976050,
+                "contact:phone": "+48 438271797",
+                "contact:email": "sekretariat@psmsieradz.pl",
+                "contact:website": "http:\/\/psmsieradz.pl",
+                "ref:regon": "001097295",
+                "operator": "Ministerstwo Kultury I Dziedzictwa Narodowego",
+                "operator:type": "public",
+                "amenity": "music_school"
+            }
+        },
+        {
+            "id": 274068,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.73238,
+                    51.59022
+                ]
+            },
+            "properties": {
+                "ref:rspo": 274068,
+                "official_name": "Centrum Dokszta\u0142cania Nauczycieli I Kadr Janusz Ka\u0142u\u017cewski",
+                "name": "Centrum Dokszta\u0142cania Nauczycieli I Kadr Janusz Ka\u0142u\u017cewski",
+                "addr:country": "PL",
+                "addr:postcode": "98-200",
+                "addr:city": "Sieradz",
+                "addr:street": "ul. Polna",
+                "addr:housenumber": "26",
+                "addr:teryt:simc": 17011,
+                "addr:teryt:sym_ul": 976050,
+                "contact:phone": "+48 438225685",
+                "contact:email": "cdnik@op.pl",
+                "contact:website": "http:\/\/www.cdnik.edu.pl",
+                "ref:regon": "385206080",
+                "ref:vatin": "PL8291138019",
+                "operator": "Janusz Ka\u0142u\u017cewski",
+                "operator:type": "private",
+                "amenity": "training"
+            }
+        },
+        {
+            "id": 70949,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.72607,
+                    51.59029
+                ]
+            },
+            "properties": {
+                "ref:rspo": 70949,
+                "official_name": "Przedszkole Nr 5\nIm. Misia Uszatka\nW Sieradzu",
+                "name": "Przedszkole Nr 5\nIm. Misia Uszatka\nW Sieradzu",
+                "addr:country": "PL",
+                "addr:postcode": "98-200",
+                "addr:city": "Sieradz",
+                "addr:street": "ul. Jana Paw\u0142a II",
+                "addr:housenumber": "41",
+                "addr:teryt:simc": 7123,
+                "addr:teryt:sym_ul": 976050,
+                "contact:phone": "+48 436777211",
+                "contact:email": "dyrektor@p5.sieradz.eu",
+                "contact:website": "http:\/\/p5.sieradz.eu",
+                "ref:regon": "731018497",
+                "ref:vatin": "PL8271983409",
+                "operator": "Gmina Miasto Sieradz",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 81205,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.73318,
+                    51.59087
+                ]
+            },
+            "properties": {
+                "ref:rspo": 81205,
+                "official_name": "Centrum Edukacji Zawodowej w Sieradzu",
+                "name": "Centrum Edukacji Zawodowej w Sieradzu",
+                "addr:country": "PL",
+                "addr:postcode": "98-200",
+                "addr:city": "Sieradz",
+                "addr:street": "ul. Leszka Czarnego",
+                "addr:housenumber": "2",
+                "addr:teryt:simc": 10885,
+                "addr:teryt:sym_ul": 976050,
+                "contact:phone": "+48 438224024",
+                "contact:email": "cezsieradz@op.pl",
+                "ref:regon": "100561669",
+                "operator": "Powiat Sieradzki",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 40790;113911;113918;121493"
+            }
+        },
+        {
+            "id": 113918,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.73318,
+                    51.59084
+                ]
+            },
+            "properties": {
+                "ref:rspo": 113918,
+                "official_name": "Centrum Kszta\u0142cenia Zawodowego w Sieradzu",
+                "name": "Centrum Kszta\u0142cenia Zawodowego w Sieradzu",
+                "addr:country": "PL",
+                "addr:postcode": "98-200",
+                "addr:city": "Sieradz",
+                "addr:street": "ul. Leszka Czarnego",
+                "addr:housenumber": "2",
+                "addr:teryt:simc": 10885,
+                "addr:teryt:sym_ul": 976050,
+                "contact:phone": "+48 438224024",
+                "contact:email": "cezsieradz@op.pl",
+                "ref:regon": "100564538",
+                "operator": "Powiat Sieradzki",
+                "operator:type": "government",
+                "fixme": "w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. amenity=training + training=*, amenity=dancing_school, amenity=language_school, amenity=music_school) albo amenity=school, amenity=college, albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Parent RSPO: 81205"
+            }
+        },
+        {
+            "id": 70937,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.71605,
+                    51.59144
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 70937,
+                "official_name": "Szko\u0142a Podstawowa \nNr 10 im. Boles\u0142awa Zwoli\u0144skiego \nW Sieradzu",
+                "name": "Szko\u0142a Podstawowa \nNr 10",
+                "addr:country": "PL",
+                "addr:postcode": "98-200",
+                "addr:city": "Sieradz",
+                "addr:street": "ul. Aleja Grunwaldzka",
+                "addr:housenumber": "10",
+                "addr:teryt:simc": 30777,
+                "addr:teryt:sym_ul": 976050,
+                "contact:phone": "+48 436777234",
+                "contact:email": "dyrektor@sp10.sieradz.eu",
+                "contact:website": "http:\/\/www.sp10.sieradz.eu",
+                "ref:regon": "001098509",
+                "ref:vatin": "PL8271493409",
+                "operator": "Gmina Miasto Sieradz",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 81122,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.72932434082,
+                    51.591548919678
+                ]
+            },
+            "properties": {
+                "ref:rspo": 81122,
+                "official_name": "Powiatowy Zesp\u00f3\u0142 Szk\u00f3\u0142 Nr 1 w Sieradzu",
+                "name": "Powiatowy Zesp\u00f3\u0142 Szk\u00f3\u0142 Nr 1 w Sieradzu",
+                "addr:country": "PL",
+                "addr:postcode": "98-200",
+                "addr:city": "Sieradz",
+                "addr:street": "ul. Marsza\u0142ka J\u00f3zefa Pi\u0142sudskiego",
+                "addr:housenumber": "5",
+                "addr:teryt:simc": 36029,
+                "addr:teryt:sym_ul": 976050,
+                "contact:phone": "+48 438271785",
+                "contact:email": "zspnr@vp.pl",
+                "contact:website": "http:\/\/www.zspnr1sieradz.edu.pl",
+                "ref:regon": "000188564",
+                "operator": "Powiat Sieradzki",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 87379;87451"
+            }
+        },
+        {
+            "id": 70948,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.73044,
+                    51.59174
+                ]
+            },
+            "properties": {
+                "ref:rspo": 70948,
+                "official_name": "Przedszkole Nr 4 \"S\u0142oneczne Przedszkole w Sieradzu",
+                "name": "Przedszkole Nr 4 \"S\u0142oneczne Przedszkole w Sieradzu",
+                "addr:country": "PL",
+                "addr:postcode": "98-200",
+                "addr:city": "Sieradz",
+                "addr:street": "ul. marsz. J\u00f3zefa Pi\u0142sudskiego",
+                "addr:housenumber": "5a",
+                "addr:teryt:simc": 16274,
+                "addr:teryt:sym_ul": 976050,
+                "contact:phone": "+48 436777242",
+                "contact:email": "dyrektor@p4.sieradz.eu",
+                "ref:regon": "731018557",
+                "ref:vatin": "PL8271983438",
+                "operator": "Gmina Miasto Sieradz",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 87379,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.7313699,
+                    51.5920599
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 87379,
+                "official_name": "Bran\u017cowa Szko\u0142a I Stopnia Nr 1 w Sieradzu",
+                "name": "Bran\u017cowa Szko\u0142a I Stopnia Nr 1 w Sieradzu",
+                "addr:country": "PL",
+                "addr:postcode": "98-200",
+                "addr:city": "Sieradz",
+                "addr:street": "ul. marsz. J\u00f3zefa Pi\u0142sudskiego",
+                "addr:housenumber": "5",
+                "addr:teryt:simc": 16274,
+                "addr:teryt:sym_ul": 976050,
+                "contact:phone": "+48 438271785",
+                "contact:email": "zspnr1@vp.pl",
+                "contact:website": "http:\/\/www.zspnr1sieradz.edu.pl",
+                "ref:regon": "731501124",
+                "operator": "Powiat Sieradzki",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 81122"
+            }
+        },
+        {
+            "id": 87451,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.7313699,
+                    51.5920299
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 87451,
+                "official_name": "Technikum Nr 1 w Sieradzu",
+                "name": "Technikum Nr 1 w Sieradzu",
+                "addr:country": "PL",
+                "addr:postcode": "98-200",
+                "addr:city": "Sieradz",
+                "addr:street": "ul. marsz. J\u00f3zefa Pi\u0142sudskiego",
+                "addr:housenumber": "5",
+                "addr:teryt:simc": 16274,
+                "addr:teryt:sym_ul": 976050,
+                "contact:phone": "+48 438271785",
+                "contact:email": "zspnr1@vp.pl",
+                "contact:website": "http:\/\/www.zspnr1sieradz.edu.pl",
+                "ref:regon": "731501087",
+                "operator": "Powiat Sieradzki",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 81122"
+            }
+        },
+        {
+            "id": 12847,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.72331,
+                    51.59213
+                ]
+            },
+            "properties": {
+                "ref:rspo": 12847,
+                "official_name": "Biblioteka Pedagogiczna w Sieradzu",
+                "name": "Biblioteka Pedagogiczna w Sieradzu",
+                "addr:country": "PL",
+                "addr:postcode": "98-200",
+                "addr:city": "Sieradz",
+                "addr:street": "ul. Jagiello\u0144ska",
+                "addr:housenumber": "2",
+                "addr:teryt:simc": 7029,
+                "addr:teryt:sym_ul": 976050,
+                "contact:phone": "+48 438223164",
+                "contact:email": "administracja@bpsieradz.pl",
+                "contact:website": "http:\/\/www.bpsieradz.pl",
+                "ref:regon": "000734920",
+                "ref:vatin": "PL8271307890",
+                "operator": "Wojew\u00f3dztwo \u0141\u00f3dzkie",
+                "operator:type": "government",
+                "amenity": "library",
+                "note": "Children RSPO: 18962;19524;19570;19595;19637;19711;23283Parent RSPO: 278072"
+            }
+        },
+        {
+            "id": 70947,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.71975,
+                    51.59241
+                ]
+            },
+            "properties": {
+                "ref:rspo": 70947,
+                "official_name": "Przedszkole Nr 3 im. Jana Brzechwy w Sieradzu",
+                "name": "Przedszkole Nr 3",
+                "addr:country": "PL",
+                "addr:postcode": "98-200",
+                "addr:city": "Sieradz",
+                "addr:street": "ul. W\u0142adys\u0142awa \u0141okietka",
+                "addr:housenumber": "27A",
+                "addr:teryt:simc": 11653,
+                "addr:teryt:sym_ul": 976050,
+                "contact:phone": "+48 436777232",
+                "contact:email": "dyrektor@p3.sieradz.eu",
+                "contact:website": "http:\/\/www.sieradz.schoolpage.pl",
+                "ref:regon": "731018698",
+                "ref:vatin": "PL8271983473",
+                "operator": "Gmina Miasto Sieradz",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 278429,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.73332,
+                    51.59323
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 278429,
+                "official_name": "Niepubliczna Szko\u0142a Podstawowa Fun & Play",
+                "name": "Niepubliczna Szko\u0142a Podstawowa Fun & Play",
+                "addr:country": "PL",
+                "addr:postcode": "98-200",
+                "addr:city": "Sieradz",
+                "addr:street": "pl. Plac Wojew\u00f3dzki",
+                "addr:housenumber": "6",
+                "addr:teryt:simc": 40846,
+                "addr:teryt:sym_ul": 976050,
+                "contact:email": "funandplaysieradz@gmail.com",
+                "contact:website": "http:\/\/funandplaysieradz.pl",
+                "ref:regon": "389888099",
+                "operator": "Ewa Florek",
+                "operator:type": "private",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 70944,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.7343699,
+                    51.59337
+                ]
+            },
+            "properties": {
+                "ref:rspo": 70944,
+                "official_name": "Przedszkole Nr 1 im. Kubusia Puchatka w Sieradzu",
+                "name": "Przedszkole Nr 1",
+                "addr:country": "PL",
+                "addr:postcode": "98-200",
+                "addr:city": "Sieradz",
+                "addr:street": "pl. Plac Wojew\u00f3dzki",
+                "addr:housenumber": "2",
+                "addr:teryt:simc": 40846,
+                "addr:teryt:sym_ul": 976050,
+                "contact:phone": "+48 436777212",
+                "contact:email": "dyrektor@p1.sieradz.eu",
+                "ref:regon": "731018793",
+                "ref:vatin": "PL8271983527",
+                "operator": "Gmina Miasto Sieradz",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 81203,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.73264,
+                    51.59341
+                ]
+            },
+            "properties": {
+                "ref:rspo": 81203,
+                "official_name": "Poradnia Psychologiczno-Pedagogiczna w Sieradzu",
+                "name": "Poradnia Psychologiczno-Pedagogiczna w Sieradzu",
+                "addr:country": "PL",
+                "addr:postcode": "98-200",
+                "addr:city": "Sieradz",
+                "addr:street": "pl. Plac Wojew\u00f3dzki",
+                "addr:housenumber": "3",
+                "addr:teryt:simc": 40846,
+                "addr:teryt:sym_ul": 976050,
+                "contact:phone": "+48 438224270",
+                "contact:email": "porped@poczta.onet.pl",
+                "ref:regon": "000734937",
+                "operator": "Powiat Sieradzki",
+                "operator:type": "government",
+                "healthcare": "counselling",
+                "counselling_type": "education",
+                "fixme": "w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. healthcare=counselling + counselling_type=education albo healthcare=psychotherapist)"
+            }
+        },
+        {
+            "id": 263756,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.73264,
+                    51.593379999999996
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 263756,
+                "official_name": "Szko\u0142y Parva - Liceum Og\u00f3lnokszta\u0142c\u0105ce dla Doros\u0142ych",
+                "name": "Szko\u0142y Parva - Liceum Og\u00f3lnokszta\u0142c\u0105ce dla Doros\u0142ych",
+                "addr:country": "PL",
+                "addr:postcode": "98-200",
+                "addr:city": "Sieradz",
+                "addr:street": "pl. Plac Wojew\u00f3dzki",
+                "addr:housenumber": "3",
+                "addr:teryt:simc": 40846,
+                "addr:teryt:sym_ul": 976050,
+                "contact:phone": "+48 515115656",
+                "contact:email": "szkolyparva@wp.pl",
+                "contact:website": "http:\/\/szkolyparva.com.pl",
+                "ref:regon": "368219963",
+                "operator": "Martyna Myszkowska",
+                "operator:type": "private",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 263758,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.73264,
+                    51.59335
+                ]
+            },
+            "properties": {
+                "isced:level": "4",
+                "ref:rspo": 263758,
+                "official_name": "Szko\u0142y Parva - Szko\u0142a Policealna",
+                "name": "Szko\u0142y Parva - Szko\u0142a Policealna",
+                "addr:country": "PL",
+                "addr:postcode": "98-200",
+                "addr:city": "Sieradz",
+                "addr:street": "pl. Plac Wojew\u00f3dzki",
+                "addr:housenumber": "3",
+                "addr:teryt:simc": 40846,
+                "addr:teryt:sym_ul": 976050,
+                "contact:phone": "+48 515115656",
+                "contact:email": "szkolyparva@wp.pl",
+                "contact:website": "http:\/\/szkolyparva.com.pl",
+                "ref:regon": "368219609",
+                "operator": "Martyna Myszkowska",
+                "operator:type": "private",
+                "amenity": "college"
+            }
+        },
+        {
+            "id": 83450,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.6759,
+                    51.5935
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 83450,
+                "official_name": "Szko\u0142a Podstawowa Integracyjna Nr 8",
+                "name": "Szko\u0142a Podstawowa Integracyjna Nr 8",
+                "addr:country": "PL",
+                "addr:postcode": "98-200",
+                "addr:city": "Sieradz",
+                "addr:street": "ul. Szlachecka",
+                "addr:housenumber": "11",
+                "addr:teryt:simc": 21985,
+                "addr:teryt:sym_ul": 976050,
+                "contact:phone": "+48 438223719",
+                "contact:email": "dyrektor@sp8.sieradz.eu",
+                "contact:website": "http:\/\/www.spi8.sieradz.eu",
+                "ref:regon": "000861334",
+                "ref:vatin": "PL8271307803",
+                "operator": "Gmina Miasto Sieradz",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 83449,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.71674,
+                    51.5936
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 83449,
+                "official_name": "Szko\u0142a Podstawowa Nr 9 im. W\u0142adys\u0142awa \u0141okietka w Sieradzu",
+                "name": "Szko\u0142a Podstawowa Nr 9",
+                "addr:country": "PL",
+                "addr:postcode": "98-200",
+                "addr:city": "Sieradz",
+                "addr:street": "ul. W\u0142adys\u0142awa \u0141okietka",
+                "addr:housenumber": "55",
+                "addr:teryt:simc": 11653,
+                "addr:teryt:sym_ul": 976050,
+                "contact:phone": "+48 438272659",
+                "contact:email": "sekretariat@sp9.sieradz.eu",
+                "contact:website": "http:\/\/www.sp9sieradz.pl",
+                "ref:regon": "730987716",
+                "ref:vatin": "PL8271875619",
+                "operator": "Gmina Miasto Sieradz",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 81212,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.72502,
+                    51.59397
+                ]
+            },
+            "properties": {
+                "ref:rspo": 81212,
+                "official_name": "Goma Kszta\u0142cenie Kadr",
+                "name": "Goma Kszta\u0142cenie Kadr",
+                "addr:country": "PL",
+                "addr:postcode": "98-200",
+                "addr:city": "Sieradz",
+                "addr:street": "ul. Sara\u0144ska",
+                "addr:housenumber": "5",
+                "addr:teryt:simc": 19519,
+                "addr:teryt:sym_ul": 976050,
+                "contact:phone": "+48 438267708",
+                "contact:email": "biuro@goma-szkolenia.pl",
+                "contact:website": "http:\/\/www.goma-szkolenia.pl",
+                "ref:regon": "101498200",
+                "operator": "Ma\u0142gorzata Macuga",
+                "operator:type": "private",
+                "fixme": "w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. amenity=training + training=*, amenity=dancing_school, amenity=language_school, amenity=music_school)"
+            }
+        },
+        {
+            "id": 131247,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.72595,
+                    51.59413
+                ]
+            },
+            "properties": {
+                "ref:rspo": 131247,
+                "official_name": "Niepubliczna Poradnia Psychologiczno-Pedagogiczna \"Semafor\"",
+                "name": "Niepubliczna Poradnia Psychologiczno-Pedagogiczna \"Semafor\"",
+                "addr:country": "PL",
+                "addr:postcode": "98-200",
+                "addr:city": "Sieradz",
+                "addr:street": "ul. Sara\u0144ska",
+                "addr:housenumber": "6",
+                "addr:door": "J\/K",
+                "addr:teryt:simc": 19519,
+                "addr:teryt:sym_ul": 976050,
+                "contact:phone": "+48 511010322",
+                "contact:email": "biuro.fundacja.semafor@gmail.com",
+                "ref:regon": "365063199",
+                "operator": "Fundacja Centrum Wspierania Rozwoju \"Semafor\"",
+                "operator:type": "ngo",
+                "healthcare": "counselling",
+                "counselling_type": "education",
+                "fixme": "w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. healthcare=counselling + counselling_type=education albo healthcare=psychotherapist)"
+            }
+        },
+        {
+            "id": 119393,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.72075,
+                    51.59422
+                ]
+            },
+            "properties": {
+                "ref:rspo": 119393,
+                "official_name": "Niepubliczne Przedszkole \"Fun & Play\"",
+                "name": "Niepubliczne Przedszkole \"Fun & Play\"",
+                "addr:country": "PL",
+                "addr:postcode": "98-200",
+                "addr:city": "Sieradz",
+                "addr:street": "ul. W\u0142adys\u0142awa \u0141okietka",
+                "addr:housenumber": "4",
+                "addr:teryt:simc": 11653,
+                "addr:teryt:sym_ul": 976050,
+                "contact:phone": "+48 515564715",
+                "contact:email": "fundandplaysieradz@gmail.com",
+                "ref:regon": "101657816",
+                "operator": "Marcin Florek",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 55763,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.73756,
+                    51.59443
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 55763,
+                "official_name": "Liceum Og\u00f3lnokszta\u0142c\u0105ce dla Doros\u0142ych \"\u017bak\"",
+                "name": "Liceum Og\u00f3lnokszta\u0142c\u0105ce dla Doros\u0142ych \"\u017bak\"",
+                "addr:country": "PL",
+                "addr:postcode": "98-200",
+                "addr:city": "Sieradz",
+                "addr:street": "rynek Rynek",
+                "addr:housenumber": "15",
+                "addr:teryt:simc": 19252,
+                "addr:teryt:sym_ul": 976050,
+                "contact:phone": "+48 438225289",
+                "contact:email": "sieradz@zak.edu.pl",
+                "contact:website": "http:\/\/www.zak.edu.pl",
+                "ref:regon": "101489922",
+                "operator": "Centrum Nauki I Biznesu \"\u017bak\" Sp\u00f3\u0142ka Z Ograniczon\u0105 Odpowiedzialno\u015bci\u0105",
+                "operator:type": "private",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 56353,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.73756,
+                    51.5944
+                ]
+            },
+            "properties": {
+                "isced:level": "4",
+                "ref:rspo": 56353,
+                "official_name": "Szko\u0142a Policealna Centrum Nauki I Biznesu \"\u017bak\"",
+                "name": "Szko\u0142a Policealna Centrum Nauki I Biznesu \"\u017bak\"",
+                "addr:country": "PL",
+                "addr:postcode": "98-200",
+                "addr:city": "Sieradz",
+                "addr:street": "rynek Rynek",
+                "addr:housenumber": "15",
+                "addr:teryt:simc": 19252,
+                "addr:teryt:sym_ul": 976050,
+                "contact:phone": "+48 438225289",
+                "contact:email": "sieradz@zak.edu.pl",
+                "contact:website": "http:\/\/www.zak.edu.pl",
+                "ref:regon": "101493332",
+                "operator": "Centrum Nauki I Biznesu \"\u017bak\" Sp\u00f3\u0142ka Z Ograniczon\u0105 Odpowiedzialno\u015bci\u0105",
+                "operator:type": "private",
+                "amenity": "college"
+            }
+        },
+        {
+            "id": 56551,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.73756,
+                    51.594370000000005
+                ]
+            },
+            "properties": {
+                "ref:rspo": 56551,
+                "official_name": "O\u015brodek Szkoleniowy Centrum Nauki I Biznesu \"\u017bak\" w Sieradzu",
+                "name": "O\u015brodek Szkoleniowy Centrum Nauki I Biznesu \"\u017bak\" w Sieradzu",
+                "addr:country": "PL",
+                "addr:postcode": "98-200",
+                "addr:city": "Sieradz",
+                "addr:street": "rynek Rynek",
+                "addr:housenumber": "15",
+                "addr:teryt:simc": 19252,
+                "addr:teryt:sym_ul": 976050,
+                "contact:phone": "+48 438225289",
+                "contact:email": "sieradz@zak.edu.pl",
+                "contact:website": "http:\/\/www.zak.edu.pl",
+                "ref:regon": "101493349",
+                "operator": "Centrum Nauki I Biznesu \"\u017bak\" Sp\u00f3\u0142ka Z Ograniczon\u0105 Odpowiedzialno\u015bci\u0105",
+                "operator:type": "private",
+                "fixme": "w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. amenity=training + training=*, amenity=dancing_school, amenity=language_school, amenity=music_school)"
+            }
+        },
+        {
+            "id": 133140,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.73756,
+                    51.59434
+                ]
+            },
+            "properties": {
+                "isced:level": "4",
+                "ref:rspo": 133140,
+                "official_name": "Szko\u0142a Policealna Opieki Medycznej \"\u017bak\" w Sieradzu",
+                "name": "Szko\u0142a Policealna Opieki Medycznej \"\u017bak\" w Sieradzu",
+                "addr:country": "PL",
+                "addr:postcode": "98-200",
+                "addr:city": "Sieradz",
+                "addr:street": "rynek Rynek",
+                "addr:housenumber": "15",
+                "addr:teryt:simc": 19252,
+                "addr:teryt:sym_ul": 976050,
+                "contact:phone": "+48 438225289",
+                "contact:email": "sieradz@zak.edu.pl",
+                "contact:website": "http:\/\/www.sieradz.zak.edu.pl",
+                "ref:regon": "366703940",
+                "operator": "Centrum Nauki I Biznesu \"\u017bak\" Sp\u00f3\u0142ka Z Ograniczon\u0105 Odpowiedzialno\u015bci\u0105",
+                "operator:type": "private",
+                "amenity": "college"
+            }
+        },
+        {
+            "id": 264035,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.73756,
+                    51.59431
+                ]
+            },
+            "properties": {
+                "isced:level": "4",
+                "ref:rspo": 264035,
+                "official_name": "Szko\u0142a Policealna Medyczna \"\u017bak\" w Sieradzu",
+                "name": "Szko\u0142a Policealna Medyczna \"\u017bak\" w Sieradzu",
+                "addr:country": "PL",
+                "addr:postcode": "98-200",
+                "addr:city": "Sieradz",
+                "addr:street": "rynek Rynek",
+                "addr:housenumber": "15",
+                "addr:teryt:simc": 19252,
+                "addr:teryt:sym_ul": 976050,
+                "contact:phone": "+48 438225289",
+                "contact:email": "sieradz@zak.edu.pl",
+                "contact:website": "http:\/\/www.sieradz.zak.edu.pl",
+                "ref:regon": "368254008",
+                "operator": "Centrum Nauki I Biznesu \"\u017bak\" Sp\u00f3\u0142ka Z Ograniczon\u0105 Odpowiedzialno\u015bci\u0105",
+                "operator:type": "private",
+                "amenity": "college"
+            }
+        },
+        {
+            "id": 70943,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.729970932007,
+                    51.594570159912
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 70943,
+                "official_name": "Szko\u0142a Podstawowa Nr 4 im. Marii Konopnickiej w Sieradzu",
+                "name": "Szko\u0142a Podstawowa Nr 4",
+                "addr:country": "PL",
+                "addr:postcode": "98-200",
+                "addr:city": "Sieradz",
+                "addr:street": "ul. Ks. Apolinarego Le\u015bniewskiego",
+                "addr:housenumber": "18",
+                "addr:teryt:simc": 51710,
+                "addr:teryt:sym_ul": 976050,
+                "contact:phone": "+48 438225652",
+                "contact:email": "sekretariat@sp4.sieradz.eu",
+                "contact:website": "http:\/\/www.sp4sieradz.pl",
+                "ref:regon": "000735003",
+                "ref:vatin": "PL8271493450",
+                "operator": "Gmina Miasto Sieradz",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 113911,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.729970932007,
+                    51.594540159912
+                ]
+            },
+            "properties": {
+                "ref:rspo": 113911,
+                "official_name": "Mi\u0119dzyszkolny O\u015brodek Sportowy w Sieradzu",
+                "name": "Mi\u0119dzyszkolny O\u015brodek Sportowy w Sieradzu",
+                "addr:country": "PL",
+                "addr:postcode": "98-200",
+                "addr:city": "Sieradz",
+                "addr:street": "ul. Tysi\u0105clecia",
+                "addr:housenumber": "3",
+                "addr:teryt:simc": 23270,
+                "addr:teryt:sym_ul": 976050,
+                "contact:phone": "+48 438227942",
+                "contact:email": "cezsieradz@op.pl",
+                "ref:regon": "730182326",
+                "operator": "Powiat Sieradzki",
+                "operator:type": "government",
+                "leisure": "sports_centre",
+                "note": "Parent RSPO: 81205"
+            }
+        },
+        {
+            "id": 121493,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.729970932007,
+                    51.594510159912005
+                ]
+            },
+            "properties": {
+                "ref:rspo": 121493,
+                "official_name": "M\u0142odzie\u017cowy Dom Kultury im. Tadeusza Sygiety\u0144skiego w Sieradzu",
+                "name": "M\u0142odzie\u017cowy Dom Kultury",
+                "addr:country": "PL",
+                "addr:postcode": "98-200",
+                "addr:city": "Sieradz",
+                "addr:street": "ul. Tysi\u0105clecia",
+                "addr:housenumber": "3",
+                "addr:teryt:simc": 23270,
+                "addr:teryt:sym_ul": 976050,
+                "contact:phone": "+48 438277942",
+                "contact:email": "mdk@cezsieradz.com.pl",
+                "ref:regon": "000899035",
+                "operator": "Powiat Sieradzki",
+                "operator:type": "government",
+                "amenity": "community_centre",
+                "community_centre:for": "juvenile",
+                "note": "Parent RSPO: 81205"
+            }
+        },
+        {
+            "id": 81190,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.74127,
+                    51.59467
+                ]
+            },
+            "properties": {
+                "ref:rspo": 81190,
+                "official_name": "Powiatowy Zesp\u00f3\u0142 Szk\u00f3\u0142 Nr 2 im. Marii D\u0105browskiej w Sieradzu",
+                "name": "Powiatowy Zesp\u00f3\u0142 Szk\u00f3\u0142 Nr 2",
+                "addr:country": "PL",
+                "addr:postcode": "98-200",
+                "addr:city": "Sieradz",
+                "addr:street": "ul. Zamkowa",
+                "addr:housenumber": "15",
+                "addr:teryt:simc": 25547,
+                "addr:teryt:sym_ul": 976050,
+                "contact:phone": "+48 438271536",
+                "contact:email": "zsznr2sieradz@poczta.onet.pl",
+                "contact:website": "http:\/\/www.zamkowa15.neostrada.pl",
+                "ref:regon": "000659348",
+                "operator": "Powiat Sieradzki",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 87323;87345"
+            }
+        },
+        {
+            "id": 279309,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.74127,
+                    51.59464
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 279309,
+                "official_name": "Iii Liceum Og\u00f3lnokszta\u0142c\u0105ce w Sieradzu",
+                "name": "Iii Liceum Og\u00f3lnokszta\u0142c\u0105ce w Sieradzu",
+                "addr:country": "PL",
+                "addr:postcode": "98-200",
+                "addr:city": "Sieradz",
+                "addr:street": "ul. Zamkowa",
+                "addr:housenumber": "15",
+                "addr:teryt:simc": 25547,
+                "addr:teryt:sym_ul": 976050,
+                "contact:phone": "+48 438271536",
+                "contact:email": "zsznr2sieradz@poczta.onet.pl",
+                "contact:website": "http:\/\/www.zamkowa15.edu.pl",
+                "ref:regon": "521192803",
+                "operator": "Powiat Sieradzki",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 87323,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.74127,
+                    51.59461
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 87323,
+                "official_name": "Bran\u017cowa Szko\u0142a I Stopnia Nr 2 w Sieradzu",
+                "name": "Bran\u017cowa Szko\u0142a I Stopnia Nr 2 w Sieradzu",
+                "addr:country": "PL",
+                "addr:postcode": "98-200",
+                "addr:city": "Sieradz",
+                "addr:street": "ul. Zamkowa",
+                "addr:housenumber": "15",
+                "addr:teryt:simc": 25547,
+                "addr:teryt:sym_ul": 976050,
+                "contact:phone": "+48 438271536",
+                "contact:email": "zsznr2sieradz@poczta.onet.pl",
+                "contact:website": "http:\/\/www.zamkowa15.edu.pl",
+                "ref:regon": "731500892",
+                "operator": "Powiat Sieradzki",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 81190"
+            }
+        },
+        {
+            "id": 87345,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.74127,
+                    51.59458
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 87345,
+                "official_name": "Technikum Nr 2 w Sieradzu",
+                "name": "Technikum Nr 2 w Sieradzu",
+                "addr:country": "PL",
+                "addr:postcode": "98-200",
+                "addr:city": "Sieradz",
+                "addr:street": "ul. Zamkowa",
+                "addr:housenumber": "15",
+                "addr:teryt:simc": 25547,
+                "addr:teryt:sym_ul": 976050,
+                "contact:phone": "+48 438271536",
+                "contact:email": "zsznr2sieradz@poczta.onet.pl",
+                "contact:website": "http:\/\/www.zamkowa15.edu.pl",
+                "ref:regon": "731583949",
+                "operator": "Powiat Sieradzki",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 81190"
+            }
+        },
+        {
+            "id": 125133,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.735,
+                    51.5949
+                ]
+            },
+            "properties": {
+                "ref:rspo": 125133,
+                "official_name": "Niepubliczne Przedszkole \"\u017byrafka\"",
+                "name": "Niepubliczne Przedszkole \"\u017byrafka\"",
+                "addr:country": "PL",
+                "addr:postcode": "98-200",
+                "addr:city": "Sieradz",
+                "addr:street": "ul. \u017bwirki i Wigury",
+                "addr:housenumber": "2",
+                "addr:teryt:simc": 26608,
+                "addr:teryt:sym_ul": 976050,
+                "contact:phone": "+48 602774981",
+                "contact:email": "zyrafka.sieradz@gmail.com",
+                "ref:regon": "101842229",
+                "operator": "Katarzyna Lipka-Deka",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 83451,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.73327,
+                    51.59511
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 83451,
+                "official_name": "Szko\u0142a Podstawowa Nr 1 im. W\u0142adys\u0142awa Reymonta w Sieradzu",
+                "name": "Szko\u0142a Podstawowa Nr 1",
+                "addr:country": "PL",
+                "addr:postcode": "98-200",
+                "addr:city": "Sieradz",
+                "addr:street": "ul. Tadeusza Ko\u015bciuszki",
+                "addr:housenumber": "14",
+                "addr:teryt:simc": 9582,
+                "addr:teryt:sym_ul": 976050,
+                "contact:phone": "+48 438271421",
+                "contact:email": "sekretariat@sp1.sieradz.eu",
+                "ref:regon": "000734989",
+                "ref:vatin": "PL8271469486",
+                "operator": "Gmina Miasto Sieradz",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 70946,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.73605,
+                    51.59516
+                ]
+            },
+            "properties": {
+                "ref:rspo": 70946,
+                "official_name": "Przedszkole Nr 2 im. Krasnala Ha\u0142aba\u0142y w Sieradzu",
+                "name": "Przedszkole Nr 2",
+                "addr:country": "PL",
+                "addr:postcode": "98-200",
+                "addr:city": "Sieradz",
+                "addr:street": "ul. Rycerska",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 19186,
+                "addr:teryt:sym_ul": 976050,
+                "contact:phone": "+48 436777210",
+                "contact:email": "dyrektor@p2.sieradz.eu",
+                "contact:website": "http:\/\/www.facebook.com\/przedszkole2sieradz",
+                "ref:regon": "731018400",
+                "ref:vatin": "PL8271983415",
+                "operator": "Gmina Miasto Sieradz",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 124095,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.73691,
+                    51.59564
+                ]
+            },
+            "properties": {
+                "isced:level": "4",
+                "ref:rspo": 124095,
+                "official_name": "Szko\u0142a Policealna S\u0142u\u017cb Ochrony Os\u00f3b I Mienia \"Guard\"",
+                "name": "Szko\u0142a Policealna S\u0142u\u017cb Ochrony Os\u00f3b I Mienia \"Guard\"",
+                "addr:country": "PL",
+                "addr:postcode": "98-200",
+                "addr:city": "Sieradz",
+                "addr:street": "ul. Rycerska",
+                "addr:housenumber": "4",
+                "addr:teryt:simc": 19186,
+                "addr:teryt:sym_ul": 976050,
+                "contact:phone": "+48 438271470",
+                "contact:email": "ckuipguard@gmail.com",
+                "ref:regon": "101824786",
+                "operator": "Piotr Wojciechowski",
+                "operator:type": "private",
+                "amenity": "college"
+            }
+        },
+        {
+            "id": 262252,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.73691,
+                    51.59561
+                ]
+            },
+            "properties": {
+                "ref:rspo": 262252,
+                "official_name": "Centrum Kszta\u0142cenia Ustawicznego \"Guard\" w Sieradzu",
+                "name": "Centrum Kszta\u0142cenia Ustawicznego \"Guard\" w Sieradzu",
+                "addr:country": "PL",
+                "addr:postcode": "98-200",
+                "addr:city": "Sieradz",
+                "addr:street": "ul. Rycerska",
+                "addr:housenumber": "4",
+                "addr:teryt:simc": 19186,
+                "addr:teryt:sym_ul": 976050,
+                "contact:phone": "+48 438271470",
+                "contact:email": "ckuipguard@gmail.com",
+                "ref:regon": "367994832",
+                "operator": "Piotr Wojciechowski",
+                "operator:type": "private",
+                "fixme": "w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. amenity=training + training=*, amenity=dancing_school, amenity=language_school, amenity=music_school)"
+            }
+        },
+        {
+            "id": 40627,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.73485,
+                    51.59567
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 40627,
+                "official_name": "I Liceum Og\u00f3lnokszta\u0142c\u0105ce im. Kazimierza Jagiello\u0144czyka w Sieradzu",
+                "name": "I Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+                "addr:country": "PL",
+                "addr:postcode": "98-200",
+                "addr:city": "Sieradz",
+                "addr:street": "ul. \u017bwirki i Wigury",
+                "addr:housenumber": "3",
+                "addr:teryt:simc": 26608,
+                "addr:teryt:sym_ul": 976050,
+                "contact:phone": "+48 438271425",
+                "contact:email": "lojagiellonczyk@gmail.com",
+                "contact:website": "http:\/\/www.lojagiellonczyk.pl",
+                "ref:regon": "000204524",
+                "operator": "Powiat Sieradzki",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 125186,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.73762,
+                    51.59672
+                ]
+            },
+            "properties": {
+                "ref:rspo": 125186,
+                "official_name": "O\u015brodek Rehabilitacyjno-Edukacyjny Ami Nr 2 - Niepubliczna Poradnia Psychologiczno-Pedagogiczna",
+                "name": "O\u015brodek Rehabilitacyjno-Edukacyjny Ami Nr 2 - Niepubliczna Poradnia Psychologiczno-Pedagogiczna",
+                "addr:country": "PL",
+                "addr:postcode": "98-200",
+                "addr:city": "Sieradz",
+                "addr:street": "ul. Warcka",
+                "addr:housenumber": "3",
+                "addr:teryt:simc": 23644,
+                "addr:teryt:sym_ul": 976050,
+                "contact:phone": "+48 436569563",
+                "contact:email": "fundacja.ami@ami.org.pl",
+                "ref:regon": "101843080",
+                "operator": "Fundacja Pomocy Osobom Niepe\u0142nosprawnym \"Ami\"",
+                "operator:type": "ngo",
+                "healthcare": "counselling",
+                "counselling_type": "education",
+                "fixme": "w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. healthcare=counselling + counselling_type=education albo healthcare=psychotherapist)"
+            }
+        },
+        {
+            "id": 269902,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.73861,
+                    51.59675
+                ]
+            },
+            "properties": {
+                "ref:rspo": 269902,
+                "official_name": "Niepubliczny Punkt Przedszkolny \"Ami\u015b\"",
+                "name": "Niepubliczny Punkt Przedszkolny \"Ami\u015b\"",
+                "addr:country": "PL",
+                "addr:postcode": "98-200",
+                "addr:city": "Sieradz",
+                "addr:street": "ul. Warszawska",
+                "addr:housenumber": "11",
+                "addr:teryt:simc": 23682,
+                "addr:teryt:sym_ul": 976050,
+                "contact:email": "akd.sieradz@ami.org.pl",
+                "contact:website": "http:\/\/www.ami.org.pl",
+                "ref:regon": "381841649",
+                "operator": "Fundacja Pomocy Osobom Niepe\u0142nosprawnym \"Ami\"",
+                "operator:type": "ngo",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 272676,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.71763,
+                    51.6031
+                ]
+            },
+            "properties": {
+                "ref:rspo": 272676,
+                "official_name": "Niepublicze Przedszkole Frajda",
+                "name": "Niepublicze Przedszkole Frajda",
+                "addr:country": "PL",
+                "addr:postcode": "98-200",
+                "addr:city": "Sieradz",
+                "addr:street": "ul. Wojska Polskiego",
+                "addr:housenumber": "63",
+                "addr:teryt:simc": 24628,
+                "addr:teryt:sym_ul": 976050,
+                "contact:email": "info@frajda-przedszkole.pl",
+                "contact:website": "http:\/\/www.frajda-przedszkole.pl",
+                "ref:regon": "384274033",
+                "operator": "Fundacja Sagrada Familia",
+                "operator:type": "ngo",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 127357,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.72368,
+                    51.60334
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 127357,
+                "official_name": "Liceum Og\u00f3lnokszta\u0142c\u0105ce dla Doros\u0142ych w Sieradzu",
+                "name": "Liceum Og\u00f3lnokszta\u0142c\u0105ce dla Doros\u0142ych w Sieradzu",
+                "addr:country": "PL",
+                "addr:postcode": "98-200",
+                "addr:city": "Sieradz",
+                "addr:street": "ul. Adama Mickiewicza",
+                "addr:housenumber": "4",
+                "addr:teryt:simc": 12740,
+                "addr:teryt:sym_ul": 976050,
+                "contact:phone": "+48 438221012",
+                "contact:email": "sekretariat@ckusieradz.pl",
+                "contact:website": "http:\/\/www.ckusieradz.pl",
+                "ref:regon": "731650290",
+                "operator": "Powiat Sieradzki",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 40790"
+            }
+        },
+        {
+            "id": 127358,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.72368,
+                    51.60331
+                ]
+            },
+            "properties": {
+                "isced:level": "4",
+                "ref:rspo": 127358,
+                "official_name": "Szko\u0142a Policealna w Sieradzu",
+                "name": "Szko\u0142a Policealna w Sieradzu",
+                "addr:country": "PL",
+                "addr:postcode": "98-200",
+                "addr:city": "Sieradz",
+                "addr:street": "ul. Adama Mickiewicza",
+                "addr:housenumber": "4",
+                "addr:teryt:simc": 12740,
+                "addr:teryt:sym_ul": 976050,
+                "contact:phone": "+48 438221012",
+                "contact:email": "sekretariat@ckusieradz.pl",
+                "contact:website": "http:\/\/www.ckusieradz.pl",
+                "ref:regon": "731650309",
+                "operator": "Powiat Sieradzki",
+                "operator:type": "government",
+                "amenity": "college",
+                "note": "Parent RSPO: 40790"
+            }
+        },
+        {
+            "id": 275498,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.72368,
+                    51.603280000000005
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 275498,
+                "official_name": "Bran\u017cowa Szko\u0142a II Stopnia w Sieradzu",
+                "name": "Bran\u017cowa Szko\u0142a II Stopnia w Sieradzu",
+                "addr:country": "PL",
+                "addr:postcode": "98-200",
+                "addr:city": "Sieradz",
+                "addr:street": "ul. Adama Mickiewicza",
+                "addr:housenumber": "4",
+                "addr:teryt:simc": 12740,
+                "addr:teryt:sym_ul": 976050,
+                "contact:phone": "+48 438221012",
+                "contact:email": "sekretariat@ckusieradz.pl",
+                "contact:website": "http:\/\/www.ckusieradz.pl",
+                "ref:regon": "386923435",
+                "operator": "Powiat Sieradzki",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 40790"
+            }
+        },
+        {
+            "id": 40790,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.72368,
+                    51.60325
+                ]
+            },
+            "properties": {
+                "ref:rspo": 40790,
+                "official_name": "Centrum Kszta\u0142cenia Ustawicznego w Sieradzu",
+                "name": "Centrum Kszta\u0142cenia Ustawicznego w Sieradzu",
+                "addr:country": "PL",
+                "addr:postcode": "98-200",
+                "addr:city": "Sieradz",
+                "addr:street": "ul. Adama Mickiewicza",
+                "addr:housenumber": "4",
+                "addr:teryt:simc": 12740,
+                "addr:teryt:sym_ul": 976050,
+                "contact:phone": "+48 438221012",
+                "contact:email": "sekretariat@ckusieradz.pl",
+                "contact:website": "http:\/\/www.ckusieradz.pl",
+                "ref:regon": "730019626",
+                "operator": "Powiat Sieradzki",
+                "operator:type": "government",
+                "amenity": "school",
+                "fixme": "amenity=school lub amenity=college",
+                "note": "Children RSPO: 127357;127358;275498Parent RSPO: 81205"
+            }
+        },
+        {
+            "id": 276845,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.72472,
+                    51.6043
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 276845,
+                "official_name": "Technikum Informatyki Edukacji Innowacyjnej w Sieradzu",
+                "name": "Technikum Informatyki Edukacji Innowacyjnej w Sieradzu",
+                "addr:country": "PL",
+                "addr:postcode": "98-200",
+                "addr:city": "Sieradz",
+                "addr:street": "ul. Adama Mickiewicza",
+                "addr:housenumber": "6",
+                "addr:teryt:simc": 12740,
+                "addr:teryt:sym_ul": 976050,
+                "contact:phone": "+48 603095991",
+                "contact:email": "ksadowska@ahe.lodz.pl",
+                "ref:regon": "387692541",
+                "operator": "Instytut Post\u0119powania Tw\u00f3rczego Sp\u00f3\u0142ka Z Ograniczon\u0105 Odpowiedzialno\u015bci\u0105",
+                "operator:type": "private",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 276846,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.72472,
+                    51.60427
+                ]
+            },
+            "properties": {
+                "isced:level": "4",
+                "ref:rspo": 276846,
+                "official_name": "Szko\u0142a Policealna Edukacji Innowacyjnej w Sieradzu",
+                "name": "Szko\u0142a Policealna Edukacji Innowacyjnej w Sieradzu",
+                "addr:country": "PL",
+                "addr:postcode": "98-200",
+                "addr:city": "Sieradz",
+                "addr:street": "ul. Adama Mickiewicza",
+                "addr:housenumber": "6",
+                "addr:teryt:simc": 12740,
+                "addr:teryt:sym_ul": 976050,
+                "contact:phone": "+48 603095991",
+                "contact:email": "ksadowska@ahe.lodz.pl",
+                "ref:regon": "387692660",
+                "operator": "Instytut Post\u0119powania Tw\u00f3rczego Sp\u00f3\u0142ka Z Ograniczon\u0105 Odpowiedzialno\u015bci\u0105",
+                "operator:type": "private",
+                "amenity": "college"
+            }
+        },
+        {
+            "id": 70938,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.78215,
+                    51.61968
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 70938,
+                "official_name": "Szko\u0142a Podstawowa Nr 6 im. Janiny Majkowskiej w Sieradzu",
+                "name": "Szko\u0142a Podstawowa Nr 6",
+                "addr:country": "PL",
+                "addr:postcode": "98-200",
+                "addr:city": "Sieradz",
+                "addr:street": "ul. Uniejowska",
+                "addr:housenumber": "199",
+                "addr:teryt:simc": 23359,
+                "addr:teryt:sym_ul": 976050,
+                "contact:phone": "+48 438271923",
+                "contact:email": "dyrektor@sp6.sieradz.eu",
+                "contact:website": "http:\/\/sp6sieradz.pl",
+                "ref:regon": "000861311",
+                "ref:vatin": "PL8271307944",
+                "operator": "Gmina Miasto Sieradz",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

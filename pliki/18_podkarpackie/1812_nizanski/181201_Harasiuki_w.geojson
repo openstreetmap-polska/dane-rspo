@@ -1,1 +1,158 @@
-{"type":"FeatureCollection","features":[{"id":118850,"type":"Feature","geometry":{"type":"Point","coordinates":[22.38414,50.41919]},"properties":{"isced:level":"1;2","ref:rspo":118850,"official_name":"Publiczna Szko\u0142a Podstawowa w Krzeszowie G\u00f3rnym","name":"Publiczna Szko\u0142a Podstawowa w Krzeszowie G\u00f3rnym","addr:country":"PL","addr:postcode":"37-413","addr:place":"Krzesz\u00f3w G\u00f3rny","addr:housenumber":"109","addr:teryt:sym_ul":793259,"contact:phone":"+48 158793106","contact:email":"kgszkola@op.pl","contact:website":"http:\/\/pspkrzeszowgorny.pl","ref:regon":"181010104","ref:vatin":"PL8652243359","operator":"Stowarzyszenie Naszym Dzieciom","operator:type":"ngo","amenity":"school"}},{"id":118848,"type":"Feature","geometry":{"type":"Point","coordinates":[22.3962499,50.44812]},"properties":{"isced:level":"1;2","ref:rspo":118848,"official_name":"Publiczna Szko\u0142a Podstawowa w Hucisku","name":"Publiczna Szko\u0142a Podstawowa w Hucisku","addr:country":"PL","addr:postcode":"37-413","addr:place":"Hucisko","addr:housenumber":"76a","addr:teryt:sym_ul":793182,"contact:phone":"+48 158793107","contact:email":"dyrektorhucisko@op.pl","contact:website":"http:\/\/sphucisko.pl","ref:regon":"181009992","ref:vatin":"PL8652243336","operator":"Stowarzyszenie Naszym Dzieciom","operator:type":"ngo","amenity":"school"}},{"id":89399,"type":"Feature","geometry":{"type":"Point","coordinates":[22.50293,50.47065]},"properties":{"isced:level":"1;2","ref:rspo":89399,"official_name":"Publiczna Szko\u0142a Podstawowa w Harasiukach","name":"Publiczna Szko\u0142a Podstawowa w Harasiukach","addr:country":"PL","addr:postcode":"37-413","addr:city":"Harasiuki","addr:street":"ul. D\u0142uga","addr:housenumber":"21","addr:teryt:simc":3839,"addr:teryt:sym_ul":793147,"contact:phone":"+48 158791191","contact:email":"zsharasiuki@wp.pl","contact:website":"http:\/\/pspharasiuki.superszkolna.pl","ref:regon":"000561626","ref:vatin":"PL6020131889","operator":"Gmina Harasiuki","operator:type":"government","amenity":"school"}},{"id":118849,"type":"Feature","geometry":{"type":"Point","coordinates":[22.42089,50.51661]},"properties":{"isced:level":"1;2","ref:rspo":118849,"official_name":"Publiczna Szko\u0142a Podstawowa w Go\u017adzie","name":"Publiczna Szko\u0142a Podstawowa w Go\u017adzie","addr:country":"PL","addr:postcode":"37-413","addr:place":"G\u00f3zd","addr:housenumber":"46a","addr:teryt:sym_ul":793118,"contact:phone":"+48 158792112","contact:email":"pspgozd112@wp.pl","ref:regon":"181010021","ref:vatin":"PL8652243299","operator":"Stowarzyszenie Naszym Dzieciom","operator:type":"ngo","amenity":"school"}},{"id":89401,"type":"Feature","geometry":{"type":"Point","coordinates":[22.4525599,50.52207]},"properties":{"isced:level":"1;2","ref:rspo":89401,"official_name":"Publiczna Szko\u0142a Podstawowa w Hucie Krzeszowskiej","name":"Publiczna Szko\u0142a Podstawowa w Hucie Krzeszowskiej","addr:country":"PL","addr:postcode":"37-413","addr:city":"Huta Krzeszowska","addr:street":"ul. D\u0142uga","addr:housenumber":"6","addr:teryt:simc":3839,"addr:teryt:sym_ul":793207,"contact:phone":"+48 158792122","contact:email":"zshutakrzeszowska@wp.pl","contact:website":"http:\/\/psphutakrzeszowska.szkolnastrona.pl","ref:regon":"001187510","ref:vatin":"PL6020131872","operator":"Gmina Harasiuki","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 118850,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.38414,
+                    50.41919
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 118850,
+                "official_name": "Publiczna Szko\u0142a Podstawowa w Krzeszowie G\u00f3rnym",
+                "name": "Publiczna Szko\u0142a Podstawowa w Krzeszowie G\u00f3rnym",
+                "addr:country": "PL",
+                "addr:postcode": "37-413",
+                "addr:place": "Krzesz\u00f3w G\u00f3rny",
+                "addr:housenumber": "109",
+                "addr:teryt:sym_ul": 793259,
+                "contact:phone": "+48 158793106",
+                "contact:email": "kgszkola@op.pl",
+                "contact:website": "http:\/\/pspkrzeszowgorny.pl",
+                "ref:regon": "181010104",
+                "ref:vatin": "PL8652243359",
+                "operator": "Stowarzyszenie Naszym Dzieciom",
+                "operator:type": "ngo",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 118848,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.3962499,
+                    50.44812
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 118848,
+                "official_name": "Publiczna Szko\u0142a Podstawowa w Hucisku",
+                "name": "Publiczna Szko\u0142a Podstawowa w Hucisku",
+                "addr:country": "PL",
+                "addr:postcode": "37-413",
+                "addr:place": "Hucisko",
+                "addr:housenumber": "76a",
+                "addr:teryt:sym_ul": 793182,
+                "contact:phone": "+48 158793107",
+                "contact:email": "dyrektorhucisko@op.pl",
+                "contact:website": "http:\/\/sphucisko.pl",
+                "ref:regon": "181009992",
+                "ref:vatin": "PL8652243336",
+                "operator": "Stowarzyszenie Naszym Dzieciom",
+                "operator:type": "ngo",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 89399,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.50293,
+                    50.47065
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 89399,
+                "official_name": "Publiczna Szko\u0142a Podstawowa w Harasiukach",
+                "name": "Publiczna Szko\u0142a Podstawowa w Harasiukach",
+                "addr:country": "PL",
+                "addr:postcode": "37-413",
+                "addr:city": "Harasiuki",
+                "addr:street": "ul. D\u0142uga",
+                "addr:housenumber": "21",
+                "addr:teryt:simc": 3839,
+                "addr:teryt:sym_ul": 793147,
+                "contact:phone": "+48 158791191",
+                "contact:email": "zsharasiuki@wp.pl",
+                "contact:website": "http:\/\/pspharasiuki.superszkolna.pl",
+                "ref:regon": "000561626",
+                "ref:vatin": "PL6020131889",
+                "operator": "Gmina Harasiuki",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 118849,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.42089,
+                    50.51661
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 118849,
+                "official_name": "Publiczna Szko\u0142a Podstawowa w Go\u017adzie",
+                "name": "Publiczna Szko\u0142a Podstawowa w Go\u017adzie",
+                "addr:country": "PL",
+                "addr:postcode": "37-413",
+                "addr:place": "G\u00f3zd",
+                "addr:housenumber": "46a",
+                "addr:teryt:sym_ul": 793118,
+                "contact:phone": "+48 158792112",
+                "contact:email": "pspgozd112@wp.pl",
+                "ref:regon": "181010021",
+                "ref:vatin": "PL8652243299",
+                "operator": "Stowarzyszenie Naszym Dzieciom",
+                "operator:type": "ngo",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 89401,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.4525599,
+                    50.52207
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 89401,
+                "official_name": "Publiczna Szko\u0142a Podstawowa w Hucie Krzeszowskiej",
+                "name": "Publiczna Szko\u0142a Podstawowa w Hucie Krzeszowskiej",
+                "addr:country": "PL",
+                "addr:postcode": "37-413",
+                "addr:city": "Huta Krzeszowska",
+                "addr:street": "ul. D\u0142uga",
+                "addr:housenumber": "6",
+                "addr:teryt:simc": 3839,
+                "addr:teryt:sym_ul": 793207,
+                "contact:phone": "+48 158792122",
+                "contact:email": "zshutakrzeszowska@wp.pl",
+                "contact:website": "http:\/\/psphutakrzeszowska.szkolnastrona.pl",
+                "ref:regon": "001187510",
+                "ref:vatin": "PL6020131872",
+                "operator": "Gmina Harasiuki",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

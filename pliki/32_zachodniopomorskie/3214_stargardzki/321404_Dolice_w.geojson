@@ -1,1 +1,151 @@
-{"type":"FeatureCollection","features":[{"id":87810,"type":"Feature","geometry":{"type":"Point","coordinates":[15.23704,53.1498]},"properties":{"isced:level":"1;2","ref:rspo":87810,"official_name":"Szko\u0142a Podstawowa w Dobropolu","name":"Szko\u0142a Podstawowa w Dobropolu","addr:country":"PL","addr:postcode":"73-115","addr:place":"Dobropole Pyrzyckie","addr:housenumber":"7","addr:teryt:sym_ul":774517,"contact:phone":"+48 915636723","contact:email":"sp.dobropole@op.pl","contact:website":"http:\/\/www.sp-dobropole.neostrada.pl","ref:regon":"001223564","operator":"Gmina Dolice","operator:type":"government","amenity":"school"}},{"id":70546,"type":"Feature","geometry":{"type":"Point","coordinates":[15.28257,53.1593]},"properties":{"isced:level":"1;2","ref:rspo":70546,"official_name":"Szko\u0142a Podstawowa w S\u0105dowie","name":"Szko\u0142a Podstawowa w S\u0105dowie","addr:country":"PL","addr:postcode":"73-115","addr:place":"S\u0105d\u00f3w","addr:housenumber":"30","addr:teryt:sym_ul":774641,"contact:phone":"+48 915640038","contact:email":"spsadow@o2.pl","ref:regon":"001248848","operator":"Gmina Dolice","operator:type":"government","amenity":"school"}},{"id":69826,"type":"Feature","geometry":{"type":"Point","coordinates":[15.2028,53.18855]},"properties":{"isced:level":"1;2","ref:rspo":69826,"official_name":"Szko\u0142a Podstawowa w Dolicach","name":"Szko\u0142a Podstawowa w Dolicach","addr:country":"PL","addr:postcode":"73-115","addr:city":"Dolice","addr:street":"ul. Ogrodowa","addr:housenumber":"46","addr:teryt:simc":14834,"addr:teryt:sym_ul":774530,"contact:phone":"+48 915640027","contact:email":"sekretariat@spdolice.dlaedu.pl","contact:website":"https:\/\/spdolice.edupage.org","ref:regon":"810951553","operator":"Gmina Dolice","operator:type":"government","amenity":"school"}},{"id":121729,"type":"Feature","geometry":{"type":"Point","coordinates":[15.20289,53.19059]},"properties":{"ref:rspo":121729,"official_name":"Przedszkole Bajkowy \u015awiat","name":"Przedszkole Bajkowy \u015awiat","addr:country":"PL","addr:postcode":"73-115","addr:city":"Dolice","addr:street":"ul. Wiejska","addr:housenumber":"1","addr:teryt:simc":24048,"addr:teryt:sym_ul":774530,"contact:phone":"+48 602374344","contact:email":"asiazawadzinska@o2.pl","ref:regon":"321477989","operator":"Dane Do Uzupe\u0142nienia","operator:type":"private","amenity":"kindergarten"}},{"id":69877,"type":"Feature","geometry":{"type":"Point","coordinates":[15.19043,53.25663]},"properties":{"isced:level":"1;2","ref:rspo":69877,"official_name":"Szko\u0142a Podstawowa im. Olimpijczyk\u00f3w Polskich w Rzeplinie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"73-115","addr:place":"Rzeplino","addr:housenumber":"62","addr:teryt:sym_ul":774635,"contact:phone":"+48 915640030","contact:email":"sekretariat@sprzeplino.pl","contact:website":"http:\/\/sprzeplino.pl","ref:regon":"001223541","operator":"Gmina Dolice","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 87810,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.23704,
+                    53.1498
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 87810,
+                "official_name": "Szko\u0142a Podstawowa w Dobropolu",
+                "name": "Szko\u0142a Podstawowa w Dobropolu",
+                "addr:country": "PL",
+                "addr:postcode": "73-115",
+                "addr:place": "Dobropole Pyrzyckie",
+                "addr:housenumber": "7",
+                "addr:teryt:sym_ul": 774517,
+                "contact:phone": "+48 915636723",
+                "contact:email": "sp.dobropole@op.pl",
+                "contact:website": "http:\/\/www.sp-dobropole.neostrada.pl",
+                "ref:regon": "001223564",
+                "operator": "Gmina Dolice",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 70546,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.28257,
+                    53.1593
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 70546,
+                "official_name": "Szko\u0142a Podstawowa w S\u0105dowie",
+                "name": "Szko\u0142a Podstawowa w S\u0105dowie",
+                "addr:country": "PL",
+                "addr:postcode": "73-115",
+                "addr:place": "S\u0105d\u00f3w",
+                "addr:housenumber": "30",
+                "addr:teryt:sym_ul": 774641,
+                "contact:phone": "+48 915640038",
+                "contact:email": "spsadow@o2.pl",
+                "ref:regon": "001248848",
+                "operator": "Gmina Dolice",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 69826,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.2028,
+                    53.18855
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 69826,
+                "official_name": "Szko\u0142a Podstawowa w Dolicach",
+                "name": "Szko\u0142a Podstawowa w Dolicach",
+                "addr:country": "PL",
+                "addr:postcode": "73-115",
+                "addr:city": "Dolice",
+                "addr:street": "ul. Ogrodowa",
+                "addr:housenumber": "46",
+                "addr:teryt:simc": 14834,
+                "addr:teryt:sym_ul": 774530,
+                "contact:phone": "+48 915640027",
+                "contact:email": "sekretariat@spdolice.dlaedu.pl",
+                "contact:website": "https:\/\/spdolice.edupage.org",
+                "ref:regon": "810951553",
+                "operator": "Gmina Dolice",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 121729,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.20289,
+                    53.19059
+                ]
+            },
+            "properties": {
+                "ref:rspo": 121729,
+                "official_name": "Przedszkole Bajkowy \u015awiat",
+                "name": "Przedszkole Bajkowy \u015awiat",
+                "addr:country": "PL",
+                "addr:postcode": "73-115",
+                "addr:city": "Dolice",
+                "addr:street": "ul. Wiejska",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 24048,
+                "addr:teryt:sym_ul": 774530,
+                "contact:phone": "+48 602374344",
+                "contact:email": "asiazawadzinska@o2.pl",
+                "ref:regon": "321477989",
+                "operator": "Dane Do Uzupe\u0142nienia",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 69877,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.19043,
+                    53.25663
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 69877,
+                "official_name": "Szko\u0142a Podstawowa im. Olimpijczyk\u00f3w Polskich w Rzeplinie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "73-115",
+                "addr:place": "Rzeplino",
+                "addr:housenumber": "62",
+                "addr:teryt:sym_ul": 774635,
+                "contact:phone": "+48 915640030",
+                "contact:email": "sekretariat@sprzeplino.pl",
+                "contact:website": "http:\/\/sprzeplino.pl",
+                "ref:regon": "001223541",
+                "operator": "Gmina Dolice",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

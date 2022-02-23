@@ -1,1 +1,217 @@
-{"type":"FeatureCollection","features":[{"id":122561,"type":"Feature","geometry":{"type":"Point","coordinates":[18.70846,54.15655]},"properties":{"ref:rspo":122561,"official_name":"Przedszkole Niepubliczne \"Dzieciolandia\"","name":"Przedszkole Niepubliczne \"Dzieciolandia\"","addr:country":"PL","addr:postcode":"83-032","addr:city":"Kolnik","addr:street":"ul. D\u0119bowa","addr:housenumber":"19","addr:teryt:simc":3811,"addr:teryt:sym_ul":170216,"contact:phone":"+48 604066321","ref:regon":"222054337","ref:vatin":"PL5931782987","operator":"Kamila Chabowska","operator:type":"private","amenity":"kindergarten"}},{"id":277181,"type":"Feature","geometry":{"type":"Point","coordinates":[18.70065,54.16982]},"properties":{"ref:rspo":277181,"official_name":"\"Morskie Opowie\u015bci 2\" Niepubliczne Przedszkole Aleksandra Ko\u015bci\u0144ska","name":"\"Morskie Opowie\u015bci 2\" Niepubliczne Przedszkole Aleksandra Ko\u015bci\u0144ska","addr:country":"PL","addr:postcode":"83-032","addr:city":"Pszcz\u00f3\u0142ki","addr:street":"ul. Tczewska","addr:housenumber":"10","addr:door":"A","addr:teryt:simc":22722,"addr:teryt:sym_ul":170222,"contact:email":"morskieopowiesci.edu@gmail.com","ref:regon":"388255067","ref:vatin":"PL5932369031","operator":"Aleksandra Ko\u015bci\u0144ska","operator:type":"private","amenity":"kindergarten"}},{"id":71668,"type":"Feature","geometry":{"type":"Point","coordinates":[18.68627,54.17124]},"properties":{"ref:rspo":71668,"official_name":"Przedszkole Gminne \"Pszcz\u00f3\u0142ka Maja\" w Pszcz\u00f3\u0142kach","name":"Przedszkole Gminne \"Pszcz\u00f3\u0142ka Maja\" w Pszcz\u00f3\u0142kach","addr:country":"PL","addr:postcode":"83-032","addr:city":"Pszcz\u00f3\u0142ki","addr:street":"ul. Szkolna","addr:housenumber":"6","addr:teryt:simc":21970,"addr:teryt:sym_ul":170222,"contact:phone":"+48 586829146","contact:email":"przedszkolepszczolka@interia.pl","ref:regon":"190581699","ref:vatin":"PL6040018558","operator":"Gmina Pszcz\u00f3\u0142ki","operator:type":"government","amenity":"kindergarten"}},{"id":56309,"type":"Feature","geometry":{"type":"Point","coordinates":[18.68547,54.17164]},"properties":{"isced:level":"1;2","ref:rspo":56309,"official_name":"Szko\u0142a Podstawowa im. Bohater\u00f3w Ziemi Gda\u0144skiej","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"83-032","addr:city":"Pszcz\u00f3\u0142ki","addr:street":"ul. Szkolna","addr:housenumber":"4","addr:teryt:simc":21970,"addr:teryt:sym_ul":170222,"contact:phone":"+48 586829450","contact:email":"szkolapszczolki@wp.pl","contact:website":"http:\/\/www.sppszczolki.intertczew.pl","ref:regon":"191076390","ref:vatin":"PL6040018541","operator":"Gmina Pszcz\u00f3\u0142ki","operator:type":"government","amenity":"school"}},{"id":71666,"type":"Feature","geometry":{"type":"Point","coordinates":[18.67859,54.18421]},"properties":{"isced:level":"1;2","ref:rspo":71666,"official_name":"Szko\u0142a Podstawowa w Skowarczu","name":"Szko\u0142a Podstawowa w Skowarczu","addr:country":"PL","addr:postcode":"83-032","addr:city":"Skowarcz","addr:street":"ul. Gda\u0144ska","addr:housenumber":"9","addr:teryt:simc":5431,"addr:teryt:sym_ul":170274,"contact:phone":"+48 586829140","contact:email":"spskowarcz@wp.pl","contact:website":"http:\/\/www.szkolaskowarcz.pl","ref:regon":"001173091","ref:vatin":"PL6040018601","operator":"Gmina Pszcz\u00f3\u0142ki","operator:type":"government","amenity":"school"}},{"id":68307,"type":"Feature","geometry":{"type":"Point","coordinates":[18.66539,54.20228]},"properties":{"isced:level":"1;2","ref:rspo":68307,"official_name":"Szko\u0142a Podstawowa w R\u00f3\u017cynach","name":"Szko\u0142a Podstawowa w R\u00f3\u017cynach","addr:country":"PL","addr:postcode":"83-031","addr:city":"R\u00f3\u017cyny","addr:street":"ul. Ko\u015bcielna","addr:housenumber":"2","addr:teryt:simc":9546,"addr:teryt:sym_ul":170268,"contact:email":"s.p.rozyny@wp.pl","ref:regon":"001173085","ref:vatin":"PL6040018593","operator":"Gmina Pszcz\u00f3\u0142ki","operator:type":"government","amenity":"school"}},{"id":264799,"type":"Feature","geometry":{"type":"Point","coordinates":[18.65853,54.21153]},"properties":{"ref:rspo":264799,"official_name":"Niepubliczne Przedszkole Bajkowy \u015awiat","name":"Niepubliczne Przedszkole Bajkowy \u015awiat","addr:country":"PL","addr:postcode":"83-031","addr:city":"R\u00f3\u017cyny","addr:street":"ul. Gda\u0144ska","addr:housenumber":"72A","addr:teryt:simc":5431,"addr:teryt:sym_ul":170268,"contact:phone":"+48 509037994","contact:email":"elzbietastreciwilk@wp.pl","ref:regon":"368464852","operator":"Arleta Soko\u0142owska","operator:type":"private","amenity":"kindergarten"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 122561,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.70846,
+                    54.15655
+                ]
+            },
+            "properties": {
+                "ref:rspo": 122561,
+                "official_name": "Przedszkole Niepubliczne \"Dzieciolandia\"",
+                "name": "Przedszkole Niepubliczne \"Dzieciolandia\"",
+                "addr:country": "PL",
+                "addr:postcode": "83-032",
+                "addr:city": "Kolnik",
+                "addr:street": "ul. D\u0119bowa",
+                "addr:housenumber": "19",
+                "addr:teryt:simc": 3811,
+                "addr:teryt:sym_ul": 170216,
+                "contact:phone": "+48 604066321",
+                "ref:regon": "222054337",
+                "ref:vatin": "PL5931782987",
+                "operator": "Kamila Chabowska",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 277181,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.70065,
+                    54.16982
+                ]
+            },
+            "properties": {
+                "ref:rspo": 277181,
+                "official_name": "\"Morskie Opowie\u015bci 2\" Niepubliczne Przedszkole Aleksandra Ko\u015bci\u0144ska",
+                "name": "\"Morskie Opowie\u015bci 2\" Niepubliczne Przedszkole Aleksandra Ko\u015bci\u0144ska",
+                "addr:country": "PL",
+                "addr:postcode": "83-032",
+                "addr:city": "Pszcz\u00f3\u0142ki",
+                "addr:street": "ul. Tczewska",
+                "addr:housenumber": "10",
+                "addr:door": "A",
+                "addr:teryt:simc": 22722,
+                "addr:teryt:sym_ul": 170222,
+                "contact:email": "morskieopowiesci.edu@gmail.com",
+                "ref:regon": "388255067",
+                "ref:vatin": "PL5932369031",
+                "operator": "Aleksandra Ko\u015bci\u0144ska",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 71668,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.68627,
+                    54.17124
+                ]
+            },
+            "properties": {
+                "ref:rspo": 71668,
+                "official_name": "Przedszkole Gminne \"Pszcz\u00f3\u0142ka Maja\" w Pszcz\u00f3\u0142kach",
+                "name": "Przedszkole Gminne \"Pszcz\u00f3\u0142ka Maja\" w Pszcz\u00f3\u0142kach",
+                "addr:country": "PL",
+                "addr:postcode": "83-032",
+                "addr:city": "Pszcz\u00f3\u0142ki",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "6",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 170222,
+                "contact:phone": "+48 586829146",
+                "contact:email": "przedszkolepszczolka@interia.pl",
+                "ref:regon": "190581699",
+                "ref:vatin": "PL6040018558",
+                "operator": "Gmina Pszcz\u00f3\u0142ki",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 56309,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.68547,
+                    54.17164
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 56309,
+                "official_name": "Szko\u0142a Podstawowa im. Bohater\u00f3w Ziemi Gda\u0144skiej",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "83-032",
+                "addr:city": "Pszcz\u00f3\u0142ki",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "4",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 170222,
+                "contact:phone": "+48 586829450",
+                "contact:email": "szkolapszczolki@wp.pl",
+                "contact:website": "http:\/\/www.sppszczolki.intertczew.pl",
+                "ref:regon": "191076390",
+                "ref:vatin": "PL6040018541",
+                "operator": "Gmina Pszcz\u00f3\u0142ki",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 71666,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.67859,
+                    54.18421
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 71666,
+                "official_name": "Szko\u0142a Podstawowa w Skowarczu",
+                "name": "Szko\u0142a Podstawowa w Skowarczu",
+                "addr:country": "PL",
+                "addr:postcode": "83-032",
+                "addr:city": "Skowarcz",
+                "addr:street": "ul. Gda\u0144ska",
+                "addr:housenumber": "9",
+                "addr:teryt:simc": 5431,
+                "addr:teryt:sym_ul": 170274,
+                "contact:phone": "+48 586829140",
+                "contact:email": "spskowarcz@wp.pl",
+                "contact:website": "http:\/\/www.szkolaskowarcz.pl",
+                "ref:regon": "001173091",
+                "ref:vatin": "PL6040018601",
+                "operator": "Gmina Pszcz\u00f3\u0142ki",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 68307,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.66539,
+                    54.20228
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 68307,
+                "official_name": "Szko\u0142a Podstawowa w R\u00f3\u017cynach",
+                "name": "Szko\u0142a Podstawowa w R\u00f3\u017cynach",
+                "addr:country": "PL",
+                "addr:postcode": "83-031",
+                "addr:city": "R\u00f3\u017cyny",
+                "addr:street": "ul. Ko\u015bcielna",
+                "addr:housenumber": "2",
+                "addr:teryt:simc": 9546,
+                "addr:teryt:sym_ul": 170268,
+                "contact:email": "s.p.rozyny@wp.pl",
+                "ref:regon": "001173085",
+                "ref:vatin": "PL6040018593",
+                "operator": "Gmina Pszcz\u00f3\u0142ki",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 264799,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.65853,
+                    54.21153
+                ]
+            },
+            "properties": {
+                "ref:rspo": 264799,
+                "official_name": "Niepubliczne Przedszkole Bajkowy \u015awiat",
+                "name": "Niepubliczne Przedszkole Bajkowy \u015awiat",
+                "addr:country": "PL",
+                "addr:postcode": "83-031",
+                "addr:city": "R\u00f3\u017cyny",
+                "addr:street": "ul. Gda\u0144ska",
+                "addr:housenumber": "72A",
+                "addr:teryt:simc": 5431,
+                "addr:teryt:sym_ul": 170268,
+                "contact:phone": "+48 509037994",
+                "contact:email": "elzbietastreciwilk@wp.pl",
+                "ref:regon": "368464852",
+                "operator": "Arleta Soko\u0142owska",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        }
+    ]
+}

@@ -1,1 +1,93 @@
-{"type":"FeatureCollection","features":[{"id":3892,"type":"Feature","geometry":{"type":"Point","coordinates":[19.9818399,52.15336]},"properties":{"isced:level":"1;2","ref:rspo":3892,"official_name":"Publiczna Szko\u0142a Podstawowa w \u0141aguszewie","name":"Publiczna Szko\u0142a Podstawowa w \u0141aguszewie","addr:country":"PL","addr:postcode":"99-414","addr:place":"\u0141aguszew","addr:housenumber":"27A","addr:teryt:sym_ul":729215,"contact:phone":"+48 468384393","contact:email":"gimnazjumlaguszew@wp.pl","ref:regon":"101454384","ref:vatin":"PL8341881796","operator":"Stowarzyszenie Na Rzecz Rozwoju O\u015bwiaty W Gminie Kocierzew Po\u0142udniowy","operator:type":"ngo","amenity":"school"}},{"id":104827,"type":"Feature","geometry":{"type":"Point","coordinates":[20.05811,52.15838]},"properties":{"isced:level":"1;2","ref:rspo":104827,"official_name":"Szko\u0142a Podstawowa w G\u0105golinie Po\u0142udniowym","name":"Szko\u0142a Podstawowa w G\u0105golinie Po\u0142udniowym","addr:country":"PL","addr:postcode":"99-414","addr:place":"G\u0105golin Po\u0142udniowy","addr:housenumber":"82","addr:teryt:sym_ul":728954,"contact:phone":"+48 468384524","contact:email":"spgagolin@poczta.onet.pl","contact:website":"http:\/\/www.spgagolin.szkolnastrona.pl","ref:regon":"101574326","ref:vatin":"PL8341530217","operator":"Stowarzyszenie Na Rzecz Rozwoju O\u015bwiaty W Gminie Kocierzew Po\u0142udniowy","operator:type":"ngo","amenity":"school"}},{"id":59021,"type":"Feature","geometry":{"type":"Point","coordinates":[20.01775,52.22775]},"properties":{"isced:level":"1;2","ref:rspo":59021,"official_name":"Szko\u0142a Podstawowa im. Bohater\u00f3w Walk Nad Bzur\u0105 1939 Roku w Kocierzewie Po\u0142udniowym","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"99-414","addr:place":"Kocierzew Po\u0142udniowy","addr:housenumber":"103","addr:teryt:sym_ul":729043,"contact:phone":"+48 468384826","contact:email":"spkocierzew@op.pl","ref:regon":"000272419","ref:vatin":"PL8341746650","operator":"Gmina Kocierzew Po\u0142udniowy","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 3892,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.9818399,
+                    52.15336
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 3892,
+                "official_name": "Publiczna Szko\u0142a Podstawowa w \u0141aguszewie",
+                "name": "Publiczna Szko\u0142a Podstawowa w \u0141aguszewie",
+                "addr:country": "PL",
+                "addr:postcode": "99-414",
+                "addr:place": "\u0141aguszew",
+                "addr:housenumber": "27A",
+                "addr:teryt:sym_ul": 729215,
+                "contact:phone": "+48 468384393",
+                "contact:email": "gimnazjumlaguszew@wp.pl",
+                "ref:regon": "101454384",
+                "ref:vatin": "PL8341881796",
+                "operator": "Stowarzyszenie Na Rzecz Rozwoju O\u015bwiaty W Gminie Kocierzew Po\u0142udniowy",
+                "operator:type": "ngo",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 104827,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.05811,
+                    52.15838
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 104827,
+                "official_name": "Szko\u0142a Podstawowa w G\u0105golinie Po\u0142udniowym",
+                "name": "Szko\u0142a Podstawowa w G\u0105golinie Po\u0142udniowym",
+                "addr:country": "PL",
+                "addr:postcode": "99-414",
+                "addr:place": "G\u0105golin Po\u0142udniowy",
+                "addr:housenumber": "82",
+                "addr:teryt:sym_ul": 728954,
+                "contact:phone": "+48 468384524",
+                "contact:email": "spgagolin@poczta.onet.pl",
+                "contact:website": "http:\/\/www.spgagolin.szkolnastrona.pl",
+                "ref:regon": "101574326",
+                "ref:vatin": "PL8341530217",
+                "operator": "Stowarzyszenie Na Rzecz Rozwoju O\u015bwiaty W Gminie Kocierzew Po\u0142udniowy",
+                "operator:type": "ngo",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 59021,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.01775,
+                    52.22775
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 59021,
+                "official_name": "Szko\u0142a Podstawowa im. Bohater\u00f3w Walk Nad Bzur\u0105 1939 Roku w Kocierzewie Po\u0142udniowym",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "99-414",
+                "addr:place": "Kocierzew Po\u0142udniowy",
+                "addr:housenumber": "103",
+                "addr:teryt:sym_ul": 729043,
+                "contact:phone": "+48 468384826",
+                "contact:email": "spkocierzew@op.pl",
+                "ref:regon": "000272419",
+                "ref:vatin": "PL8341746650",
+                "operator": "Gmina Kocierzew Po\u0142udniowy",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

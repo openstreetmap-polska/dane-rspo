@@ -1,1 +1,154 @@
-{"type":"FeatureCollection","features":[{"id":3641,"type":"Feature","geometry":{"type":"Point","coordinates":[20.24327,52.13589]},"properties":{"isced:level":"1;2","ref:rspo":3641,"official_name":"Szko\u0142a Podstawowa im. Ks. Jana Twardowskiego w Kurdwanowie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"96-513","addr:place":"Kurdwan\u00f3w","addr:housenumber":"35","addr:teryt:sym_ul":733754,"contact:phone":"+48 468612316","contact:email":"dwanow@op.pl","contact:website":"http:\/\/www.spk.nowasucha.pl","ref:regon":"001115774","ref:vatin":"PL8371603866","operator":"Gmina Nowa Sucha","operator:type":"government","amenity":"school"}},{"id":3688,"type":"Feature","geometry":{"type":"Point","coordinates":[20.18969,52.1523899]},"properties":{"isced:level":"1;2","ref:rspo":3688,"official_name":"Szko\u0142a Podstawowa im. Jakuba Kopacza w Nowej Suchej","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"96-513","addr:place":"Nowa Sucha","addr:housenumber":"16","addr:teryt:sym_ul":733837,"contact:phone":"+48 468612350","contact:email":"nowasucha@poczta.onet.pl","ref:regon":"000664480","ref:vatin":"PL8371603872","operator":"Gmina Nowa Sucha","operator:type":"government","amenity":"school"}},{"id":3660,"type":"Feature","geometry":{"type":"Point","coordinates":[20.13448,52.17296]},"properties":{"isced:level":"1;2","ref:rspo":3660,"official_name":"Szko\u0142a Podstawowa im. Bohater\u00f3w Bitwy Nad Bzur\u0105 w Koz\u0142owie Szlacheckim","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"96-513","addr:place":"Koz\u0142\u00f3w Szlachecki","addr:housenumber":"54","addr:teryt:sym_ul":734050,"contact:phone":"+48 468612312","contact:email":"spkozlowszlachecki@poczta.onet.pl","contact:website":"http:\/\/www.spks.nowasucha.pl","ref:regon":"001115780","ref:vatin":"PL8371603464","operator":"Gmina Nowa Sucha","operator:type":"government","amenity":"school"}},{"id":7317,"type":"Feature","geometry":{"type":"Point","coordinates":[20.19952,52.19152]},"properties":{"isced:level":"1;2","ref:rspo":7317,"official_name":"Szko\u0142a Podstawowa im. Kornela Makuszy\u0144skiego w Koz\u0142owie Biskupim","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"96-513","addr:city":"Koz\u0142\u00f3w Biskupi","addr:street":"ul. Olimpijska","addr:housenumber":"1","addr:teryt:simc":14989,"addr:teryt:sym_ul":733725,"contact:phone":"+48 468630290","contact:email":"sp_kozlow_biskupi@vp.pl","contact:website":"http:\/\/www.kbk.cba.pl","ref:regon":"001115797","ref:vatin":"PL8371827531","operator":"Gmina Nowa Sucha","operator:type":"government","amenity":"school"}},{"id":5096,"type":"Feature","geometry":{"type":"Point","coordinates":[20.1984,52.1948]},"properties":{"ref:rspo":5096,"official_name":"Publiczne Przedszkole w Nowej Suchej","name":"Publiczne Przedszkole w Nowej Suchej","addr:country":"PL","addr:postcode":"96-513","addr:place":"Nowa Sucha","addr:housenumber":"50 A","addr:teryt:sym_ul":733837,"contact:phone":"+48 468807050","contact:email":"przedszkole.nowasucha@onet.pl","ref:regon":"146263746","ref:vatin":"PL8371814876","operator":"Gmina Nowa Sucha","operator:type":"government","amenity":"kindergarten"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 3641,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.24327,
+                    52.13589
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 3641,
+                "official_name": "Szko\u0142a Podstawowa im. Ks. Jana Twardowskiego w Kurdwanowie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "96-513",
+                "addr:place": "Kurdwan\u00f3w",
+                "addr:housenumber": "35",
+                "addr:teryt:sym_ul": 733754,
+                "contact:phone": "+48 468612316",
+                "contact:email": "dwanow@op.pl",
+                "contact:website": "http:\/\/www.spk.nowasucha.pl",
+                "ref:regon": "001115774",
+                "ref:vatin": "PL8371603866",
+                "operator": "Gmina Nowa Sucha",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 3688,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.18969,
+                    52.1523899
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 3688,
+                "official_name": "Szko\u0142a Podstawowa im. Jakuba Kopacza w Nowej Suchej",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "96-513",
+                "addr:place": "Nowa Sucha",
+                "addr:housenumber": "16",
+                "addr:teryt:sym_ul": 733837,
+                "contact:phone": "+48 468612350",
+                "contact:email": "nowasucha@poczta.onet.pl",
+                "ref:regon": "000664480",
+                "ref:vatin": "PL8371603872",
+                "operator": "Gmina Nowa Sucha",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 3660,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.13448,
+                    52.17296
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 3660,
+                "official_name": "Szko\u0142a Podstawowa im. Bohater\u00f3w Bitwy Nad Bzur\u0105 w Koz\u0142owie Szlacheckim",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "96-513",
+                "addr:place": "Koz\u0142\u00f3w Szlachecki",
+                "addr:housenumber": "54",
+                "addr:teryt:sym_ul": 734050,
+                "contact:phone": "+48 468612312",
+                "contact:email": "spkozlowszlachecki@poczta.onet.pl",
+                "contact:website": "http:\/\/www.spks.nowasucha.pl",
+                "ref:regon": "001115780",
+                "ref:vatin": "PL8371603464",
+                "operator": "Gmina Nowa Sucha",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 7317,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.19952,
+                    52.19152
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 7317,
+                "official_name": "Szko\u0142a Podstawowa im. Kornela Makuszy\u0144skiego w Koz\u0142owie Biskupim",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "96-513",
+                "addr:city": "Koz\u0142\u00f3w Biskupi",
+                "addr:street": "ul. Olimpijska",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 14989,
+                "addr:teryt:sym_ul": 733725,
+                "contact:phone": "+48 468630290",
+                "contact:email": "sp_kozlow_biskupi@vp.pl",
+                "contact:website": "http:\/\/www.kbk.cba.pl",
+                "ref:regon": "001115797",
+                "ref:vatin": "PL8371827531",
+                "operator": "Gmina Nowa Sucha",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 5096,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.1984,
+                    52.1948
+                ]
+            },
+            "properties": {
+                "ref:rspo": 5096,
+                "official_name": "Publiczne Przedszkole w Nowej Suchej",
+                "name": "Publiczne Przedszkole w Nowej Suchej",
+                "addr:country": "PL",
+                "addr:postcode": "96-513",
+                "addr:place": "Nowa Sucha",
+                "addr:housenumber": "50 A",
+                "addr:teryt:sym_ul": 733837,
+                "contact:phone": "+48 468807050",
+                "contact:email": "przedszkole.nowasucha@onet.pl",
+                "ref:regon": "146263746",
+                "ref:vatin": "PL8371814876",
+                "operator": "Gmina Nowa Sucha",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        }
+    ]
+}

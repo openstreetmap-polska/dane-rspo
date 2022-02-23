@@ -1,1 +1,187 @@
-{"type":"FeatureCollection","features":[{"id":104477,"type":"Feature","geometry":{"type":"Point","coordinates":[19.1914989,51.0261882]},"properties":{"isced:level":"1;2","ref:rspo":104477,"official_name":"Filia Publicznej Szko\u0142y Podstawowej im. Jana D\u0142ugosza w Nowej Brze\u017anicy","name":"Filia Publicznej Szko\u0142y Podstawowej","addr:country":"PL","addr:postcode":"98-331","addr:place":"Prusicko","addr:housenumber":"73","addr:teryt:sym_ul":139666,"contact:phone":"+48 343119662","contact:email":"sp@nowabrzeznica.pl","ref:regon":"268010000","operator":"Gmina Nowa Brze\u017anica","operator:type":"government","amenity":"school","note":"Parent RSPO: 9670"}},{"id":277973,"type":"Feature","geometry":{"type":"Point","coordinates":[19.1719,51.07684]},"properties":{"ref:rspo":277973,"official_name":"Zesp\u00f3\u0142 Szkolno - Przedszkolny w Nowej Brze\u017anicy","name":"Zesp\u00f3\u0142 Szkolno - Przedszkolny w Nowej Brze\u017anicy","addr:country":"PL","addr:postcode":"98-331","addr:city":"Nowa Brze\u017anica","addr:street":"ul. Ko\u015bciuszki","addr:housenumber":"100","addr:teryt:simc":9572,"addr:teryt:sym_ul":139643,"contact:phone":"+48 343119662","contact:email":"sp@nowabrzeznica.pl","contact:website":"https:\/\/spnowabrzeznica.pl\/","ref:regon":"389715714","operator":"Gmina Nowa Brze\u017anica","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 9670;58472"}},{"id":9670,"type":"Feature","geometry":{"type":"Point","coordinates":[19.1719,51.076809999999995]},"properties":{"isced:level":"1;2","ref:rspo":9670,"official_name":"Publiczna Szko\u0142a Podstawowa im. Jana D\u0142ugosza w Nowej Brze\u017anicy","name":"Publiczna Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"98-331","addr:city":"Nowa Brze\u017anica","addr:street":"ul. Ko\u015bciuszki","addr:housenumber":"100","addr:teryt:simc":9572,"addr:teryt:sym_ul":139643,"contact:phone":"+48 343119662","contact:email":"sp@nowabrzeznica.pl","ref:regon":"000268010","ref:vatin":"PL7722025214","operator":"Gmina Nowa Brze\u017anica","operator:type":"government","amenity":"school","note":"Children RSPO: 104477;104478;104479Parent RSPO: 277973"}},{"id":58472,"type":"Feature","geometry":{"type":"Point","coordinates":[19.1736,51.07739]},"properties":{"ref:rspo":58472,"official_name":"Publiczne Przedszkole w Nowej Brze\u017anicy","name":"Publiczne Przedszkole w Nowej Brze\u017anicy","addr:country":"PL","addr:postcode":"98-331","addr:city":"Nowa Brze\u017anica","addr:street":"ul. Ko\u015bciuszki","addr:housenumber":"98","addr:teryt:simc":9572,"addr:teryt:sym_ul":139643,"contact:phone":"+48 343119653","ref:regon":"592132705","operator":"Gmina Nowa Brze\u017anica","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 277973"}},{"id":104478,"type":"Feature","geometry":{"type":"Point","coordinates":[19.1207062,51.0829411]},"properties":{"isced:level":"1;2","ref:rspo":104478,"official_name":"Filia Publicznej Szko\u0142y Podstawowej im. Jana D\u0142ugosza w Nowej Brze\u017anicy","name":"Filia Publicznej Szko\u0142y Podstawowej","addr:country":"PL","addr:postcode":"98-331","addr:place":"Dworszowice Ko\u015bcielne-Kolonia","addr:housenumber":"74","addr:teryt:sym_ul":139459,"contact:phone":"+48 343119662","contact:email":"sp@nowabrzeznica.pl","ref:regon":"268010000","operator":"Gmina Nowa Brze\u017anica","operator:type":"government","amenity":"school","note":"Parent RSPO: 9670"}},{"id":104479,"type":"Feature","geometry":{"type":"Point","coordinates":[19.15192,51.1054699]},"properties":{"isced:level":"1;2","ref:rspo":104479,"official_name":"Filia Publicznej Szko\u0142y Podstawowej im. Jana D\u0142ugosza w Nowej Brze\u017anicy","name":"Filia Publicznej Szko\u0142y Podstawowej","addr:country":"PL","addr:postcode":"98-331","addr:city":"Dubidze","addr:street":"ul. Szkolna","addr:housenumber":"16","addr:teryt:simc":21970,"addr:teryt:sym_ul":139407,"contact:phone":"+48 343119662","contact:email":"sp@nowabrzeznica.pl","ref:regon":"268010000","operator":"Gmina Nowa Brze\u017anica","operator:type":"government","amenity":"school","note":"Parent RSPO: 9670"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 104477,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.1914989,
+                    51.0261882
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 104477,
+                "official_name": "Filia Publicznej Szko\u0142y Podstawowej im. Jana D\u0142ugosza w Nowej Brze\u017anicy",
+                "name": "Filia Publicznej Szko\u0142y Podstawowej",
+                "addr:country": "PL",
+                "addr:postcode": "98-331",
+                "addr:place": "Prusicko",
+                "addr:housenumber": "73",
+                "addr:teryt:sym_ul": 139666,
+                "contact:phone": "+48 343119662",
+                "contact:email": "sp@nowabrzeznica.pl",
+                "ref:regon": "268010000",
+                "operator": "Gmina Nowa Brze\u017anica",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 9670"
+            }
+        },
+        {
+            "id": 277973,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.1719,
+                    51.07684
+                ]
+            },
+            "properties": {
+                "ref:rspo": 277973,
+                "official_name": "Zesp\u00f3\u0142 Szkolno - Przedszkolny w Nowej Brze\u017anicy",
+                "name": "Zesp\u00f3\u0142 Szkolno - Przedszkolny w Nowej Brze\u017anicy",
+                "addr:country": "PL",
+                "addr:postcode": "98-331",
+                "addr:city": "Nowa Brze\u017anica",
+                "addr:street": "ul. Ko\u015bciuszki",
+                "addr:housenumber": "100",
+                "addr:teryt:simc": 9572,
+                "addr:teryt:sym_ul": 139643,
+                "contact:phone": "+48 343119662",
+                "contact:email": "sp@nowabrzeznica.pl",
+                "contact:website": "https:\/\/spnowabrzeznica.pl\/",
+                "ref:regon": "389715714",
+                "operator": "Gmina Nowa Brze\u017anica",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 9670;58472"
+            }
+        },
+        {
+            "id": 9670,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.1719,
+                    51.076809999999995
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 9670,
+                "official_name": "Publiczna Szko\u0142a Podstawowa im. Jana D\u0142ugosza w Nowej Brze\u017anicy",
+                "name": "Publiczna Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "98-331",
+                "addr:city": "Nowa Brze\u017anica",
+                "addr:street": "ul. Ko\u015bciuszki",
+                "addr:housenumber": "100",
+                "addr:teryt:simc": 9572,
+                "addr:teryt:sym_ul": 139643,
+                "contact:phone": "+48 343119662",
+                "contact:email": "sp@nowabrzeznica.pl",
+                "ref:regon": "000268010",
+                "ref:vatin": "PL7722025214",
+                "operator": "Gmina Nowa Brze\u017anica",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Children RSPO: 104477;104478;104479Parent RSPO: 277973"
+            }
+        },
+        {
+            "id": 58472,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.1736,
+                    51.07739
+                ]
+            },
+            "properties": {
+                "ref:rspo": 58472,
+                "official_name": "Publiczne Przedszkole w Nowej Brze\u017anicy",
+                "name": "Publiczne Przedszkole w Nowej Brze\u017anicy",
+                "addr:country": "PL",
+                "addr:postcode": "98-331",
+                "addr:city": "Nowa Brze\u017anica",
+                "addr:street": "ul. Ko\u015bciuszki",
+                "addr:housenumber": "98",
+                "addr:teryt:simc": 9572,
+                "addr:teryt:sym_ul": 139643,
+                "contact:phone": "+48 343119653",
+                "ref:regon": "592132705",
+                "operator": "Gmina Nowa Brze\u017anica",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 277973"
+            }
+        },
+        {
+            "id": 104478,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.1207062,
+                    51.0829411
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 104478,
+                "official_name": "Filia Publicznej Szko\u0142y Podstawowej im. Jana D\u0142ugosza w Nowej Brze\u017anicy",
+                "name": "Filia Publicznej Szko\u0142y Podstawowej",
+                "addr:country": "PL",
+                "addr:postcode": "98-331",
+                "addr:place": "Dworszowice Ko\u015bcielne-Kolonia",
+                "addr:housenumber": "74",
+                "addr:teryt:sym_ul": 139459,
+                "contact:phone": "+48 343119662",
+                "contact:email": "sp@nowabrzeznica.pl",
+                "ref:regon": "268010000",
+                "operator": "Gmina Nowa Brze\u017anica",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 9670"
+            }
+        },
+        {
+            "id": 104479,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.15192,
+                    51.1054699
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 104479,
+                "official_name": "Filia Publicznej Szko\u0142y Podstawowej im. Jana D\u0142ugosza w Nowej Brze\u017anicy",
+                "name": "Filia Publicznej Szko\u0142y Podstawowej",
+                "addr:country": "PL",
+                "addr:postcode": "98-331",
+                "addr:city": "Dubidze",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "16",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 139407,
+                "contact:phone": "+48 343119662",
+                "contact:email": "sp@nowabrzeznica.pl",
+                "ref:regon": "268010000",
+                "operator": "Gmina Nowa Brze\u017anica",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 9670"
+            }
+        }
+    ]
+}

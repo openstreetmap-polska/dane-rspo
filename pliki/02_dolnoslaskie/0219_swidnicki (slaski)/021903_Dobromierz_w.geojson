@@ -1,1 +1,216 @@
-{"type":"FeatureCollection","features":[{"id":86784,"type":"Feature","geometry":{"type":"Point","coordinates":[16.2256704,50.9101643]},"properties":{"isced:level":"1;2","ref:rspo":86784,"official_name":"Szko\u0142a Podstawowa im. Jana Brzechwy w Dobromierzu","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"58-170","addr:city":"Dobromierz","addr:street":"ul. Podg\u00f3rna","addr:housenumber":"2","addr:teryt:simc":16742,"addr:teryt:sym_ul":852022,"contact:phone":"+48 748586239","contact:email":"spdobromierz@interia.pl","contact:website":"http:\/\/www.spdobromierz.szkolnastrona.pl","ref:regon":"000266991","ref:vatin":"PL8842335969","operator":"Gmina Dobromierz","operator:type":"government","amenity":"school"}},{"id":132427,"type":"Feature","geometry":{"type":"Point","coordinates":[16.2256704,50.910134299999996]},"properties":{"ref:rspo":132427,"official_name":"Punkt Przedszkolny Dobromierz","name":"Punkt Przedszkolny Dobromierz","addr:country":"PL","addr:postcode":"58-170","addr:city":"Dobromierz","addr:street":"ul. Podg\u00f3rna","addr:housenumber":"2","addr:teryt:simc":16742,"addr:teryt:sym_ul":852022,"contact:phone":"+48 725429666","contact:email":"kontakt@fundacjadobregostartu.pl","ref:regon":"365629880","ref:vatin":"PL8842763079","operator":"Fundacja Dobrego Startu","operator:type":"ngo","amenity":"kindergarten"}},{"id":132424,"type":"Feature","geometry":{"type":"Point","coordinates":[16.22841,50.95926]},"properties":{"ref:rspo":132424,"official_name":"Punkt Przedszkolny Roztoka I","name":"Punkt Przedszkolny Roztoka I","addr:country":"PL","addr:postcode":"58-173","addr:city":"Roztoka","addr:street":"ul. 3 Maja","addr:housenumber":"61","addr:teryt:simc":11937,"addr:teryt:sym_ul":852128,"contact:phone":"+48 660928007","contact:email":"j.nitarska.fds@gmail.com","ref:regon":"365629703","ref:vatin":"PL8842763079","operator":"Fundacja Dobrego Startu","operator:type":"ngo","amenity":"kindergarten"}},{"id":132426,"type":"Feature","geometry":{"type":"Point","coordinates":[16.22841,50.95923]},"properties":{"ref:rspo":132426,"official_name":"Punkt Przedszkolny Roztoka Ii","name":"Punkt Przedszkolny Roztoka Ii","addr:country":"PL","addr:postcode":"58-173","addr:city":"Roztoka","addr:street":"ul. 3 Maja","addr:housenumber":"61","addr:teryt:simc":11937,"addr:teryt:sym_ul":852128,"contact:phone":"+48 725429666","contact:email":"kontakt@fundacjadobregostartu.pl","ref:regon":"365629749","ref:vatin":"PL8842763079","operator":"Fundacja Dobrego Startu","operator:type":"ngo","amenity":"kindergarten"}},{"id":88513,"type":"Feature","geometry":{"type":"Point","coordinates":[16.22772,50.95956]},"properties":{"isced:level":"1;2","ref:rspo":88513,"official_name":"Szko\u0142a Podstawowa im. Henryka Sienkiewicza w Roztoce","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"58-173","addr:city":"Roztoka","addr:street":"ul. Jana Paw\u0142a II","addr:housenumber":"7\/9","addr:teryt:simc":7123,"addr:teryt:sym_ul":852128,"contact:phone":"+48 748509193","contact:email":"zsroztoka@dobromierz.pl","contact:website":"http:\/\/zsroztoka.szkolnastrona.pl","ref:regon":"001192792","ref:vatin":"PL8842642140","operator":"Gmina Dobromierz","operator:type":"government","amenity":"school"}},{"id":86786,"type":"Feature","geometry":{"type":"Point","coordinates":[16.22373,50.9945]},"properties":{"isced:level":"1;2","ref:rspo":86786,"official_name":"Szko\u0142a Podstawowa im.janusza Korczaka w Gniewkowie","name":"Szko\u0142a Podstawowa im.janusza Korczaka w Gniewkowie","addr:country":"PL","addr:postcode":"58-173","addr:place":"Gniewk\u00f3w","addr:housenumber":"3","addr:teryt:sym_ul":852068,"contact:phone":"+48 748506293","contact:email":"spgniewkow@wp.pl","ref:regon":"001192786","ref:vatin":"PL8842331813","operator":"Gmina Dobromierz","operator:type":"government","amenity":"school"}},{"id":276212,"type":"Feature","geometry":{"type":"Point","coordinates":[16.21334,51.00995]},"properties":{"ref:rspo":276212,"official_name":"Punkt Przedszkolny Czernica","name":"Punkt Przedszkolny Czernica","addr:country":"PL","addr:postcode":"58-173","addr:place":"Czernica","addr:housenumber":"8","addr:teryt:sym_ul":852016,"contact:phone":"+48 660928007","contact:email":"kontakt@fundacjadobregostartu.pl","contact:website":"http:\/\/www.fundacjadobregostartu.pl","ref:regon":"387031012","operator":"Fundacja Dobrego Startu","operator:type":"ngo","amenity":"kindergarten"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 86784,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.2256704,
+                    50.9101643
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 86784,
+                "official_name": "Szko\u0142a Podstawowa im. Jana Brzechwy w Dobromierzu",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "58-170",
+                "addr:city": "Dobromierz",
+                "addr:street": "ul. Podg\u00f3rna",
+                "addr:housenumber": "2",
+                "addr:teryt:simc": 16742,
+                "addr:teryt:sym_ul": 852022,
+                "contact:phone": "+48 748586239",
+                "contact:email": "spdobromierz@interia.pl",
+                "contact:website": "http:\/\/www.spdobromierz.szkolnastrona.pl",
+                "ref:regon": "000266991",
+                "ref:vatin": "PL8842335969",
+                "operator": "Gmina Dobromierz",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 132427,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.2256704,
+                    50.910134299999996
+                ]
+            },
+            "properties": {
+                "ref:rspo": 132427,
+                "official_name": "Punkt Przedszkolny Dobromierz",
+                "name": "Punkt Przedszkolny Dobromierz",
+                "addr:country": "PL",
+                "addr:postcode": "58-170",
+                "addr:city": "Dobromierz",
+                "addr:street": "ul. Podg\u00f3rna",
+                "addr:housenumber": "2",
+                "addr:teryt:simc": 16742,
+                "addr:teryt:sym_ul": 852022,
+                "contact:phone": "+48 725429666",
+                "contact:email": "kontakt@fundacjadobregostartu.pl",
+                "ref:regon": "365629880",
+                "ref:vatin": "PL8842763079",
+                "operator": "Fundacja Dobrego Startu",
+                "operator:type": "ngo",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 132424,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.22841,
+                    50.95926
+                ]
+            },
+            "properties": {
+                "ref:rspo": 132424,
+                "official_name": "Punkt Przedszkolny Roztoka I",
+                "name": "Punkt Przedszkolny Roztoka I",
+                "addr:country": "PL",
+                "addr:postcode": "58-173",
+                "addr:city": "Roztoka",
+                "addr:street": "ul. 3 Maja",
+                "addr:housenumber": "61",
+                "addr:teryt:simc": 11937,
+                "addr:teryt:sym_ul": 852128,
+                "contact:phone": "+48 660928007",
+                "contact:email": "j.nitarska.fds@gmail.com",
+                "ref:regon": "365629703",
+                "ref:vatin": "PL8842763079",
+                "operator": "Fundacja Dobrego Startu",
+                "operator:type": "ngo",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 132426,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.22841,
+                    50.95923
+                ]
+            },
+            "properties": {
+                "ref:rspo": 132426,
+                "official_name": "Punkt Przedszkolny Roztoka Ii",
+                "name": "Punkt Przedszkolny Roztoka Ii",
+                "addr:country": "PL",
+                "addr:postcode": "58-173",
+                "addr:city": "Roztoka",
+                "addr:street": "ul. 3 Maja",
+                "addr:housenumber": "61",
+                "addr:teryt:simc": 11937,
+                "addr:teryt:sym_ul": 852128,
+                "contact:phone": "+48 725429666",
+                "contact:email": "kontakt@fundacjadobregostartu.pl",
+                "ref:regon": "365629749",
+                "ref:vatin": "PL8842763079",
+                "operator": "Fundacja Dobrego Startu",
+                "operator:type": "ngo",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 88513,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.22772,
+                    50.95956
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 88513,
+                "official_name": "Szko\u0142a Podstawowa im. Henryka Sienkiewicza w Roztoce",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "58-173",
+                "addr:city": "Roztoka",
+                "addr:street": "ul. Jana Paw\u0142a II",
+                "addr:housenumber": "7\/9",
+                "addr:teryt:simc": 7123,
+                "addr:teryt:sym_ul": 852128,
+                "contact:phone": "+48 748509193",
+                "contact:email": "zsroztoka@dobromierz.pl",
+                "contact:website": "http:\/\/zsroztoka.szkolnastrona.pl",
+                "ref:regon": "001192792",
+                "ref:vatin": "PL8842642140",
+                "operator": "Gmina Dobromierz",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 86786,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.22373,
+                    50.9945
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 86786,
+                "official_name": "Szko\u0142a Podstawowa im.janusza Korczaka w Gniewkowie",
+                "name": "Szko\u0142a Podstawowa im.janusza Korczaka w Gniewkowie",
+                "addr:country": "PL",
+                "addr:postcode": "58-173",
+                "addr:place": "Gniewk\u00f3w",
+                "addr:housenumber": "3",
+                "addr:teryt:sym_ul": 852068,
+                "contact:phone": "+48 748506293",
+                "contact:email": "spgniewkow@wp.pl",
+                "ref:regon": "001192786",
+                "ref:vatin": "PL8842331813",
+                "operator": "Gmina Dobromierz",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 276212,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.21334,
+                    51.00995
+                ]
+            },
+            "properties": {
+                "ref:rspo": 276212,
+                "official_name": "Punkt Przedszkolny Czernica",
+                "name": "Punkt Przedszkolny Czernica",
+                "addr:country": "PL",
+                "addr:postcode": "58-173",
+                "addr:place": "Czernica",
+                "addr:housenumber": "8",
+                "addr:teryt:sym_ul": 852016,
+                "contact:phone": "+48 660928007",
+                "contact:email": "kontakt@fundacjadobregostartu.pl",
+                "contact:website": "http:\/\/www.fundacjadobregostartu.pl",
+                "ref:regon": "387031012",
+                "operator": "Fundacja Dobrego Startu",
+                "operator:type": "ngo",
+                "amenity": "kindergarten"
+            }
+        }
+    ]
+}

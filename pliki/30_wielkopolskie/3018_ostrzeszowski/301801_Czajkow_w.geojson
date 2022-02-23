@@ -1,1 +1,172 @@
-{"type":"FeatureCollection","features":[{"id":91817,"type":"Feature","geometry":{"type":"Point","coordinates":[18.326904,51.487029]},"properties":{"ref:rspo":91817,"official_name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 w Czajkowie","name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 w Czajkowie","addr:country":"PL","addr:postcode":"63-524","addr:place":"Czajk\u00f3w","addr:housenumber":"55","addr:teryt:sym_ul":195676,"contact:phone":"+48 627311007","contact:email":"spczajkow@wp.pl","ref:regon":"001008386","ref:vatin":"PL5140199599","operator":"Gmina Czajk\u00f3w","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 92126;92127"}},{"id":92126,"type":"Feature","geometry":{"type":"Point","coordinates":[18.326904,51.486999]},"properties":{"isced:level":"1;2","ref:rspo":92126,"official_name":"Szko\u0142a Podstawowa w Czajkowie","name":"Szko\u0142a Podstawowa w Czajkowie","addr:country":"PL","addr:postcode":"63-524","addr:place":"Czajk\u00f3w","addr:housenumber":"55","addr:teryt:sym_ul":195676,"contact:phone":"+48 627311007","contact:email":"spczajkow@wp.pl","ref:regon":"251026255","operator":"Gmina Czajk\u00f3w","operator:type":"government","amenity":"school","note":"Parent RSPO: 91817"}},{"id":91995,"type":"Feature","geometry":{"type":"Point","coordinates":[18.324091,51.4871859]},"properties":{"ref:rspo":91995,"official_name":"Punkt Przedszkolny w Mielcuchach","name":"Punkt Przedszkolny w Mielcuchach","addr:country":"PL","addr:postcode":"63-524","addr:place":"Czajk\u00f3w","addr:housenumber":"39","addr:teryt:sym_ul":195676,"contact:phone":"+48 782464215","ref:regon":"302284707","ref:vatin":"PL5140295713","operator":"Dane Do Uzupe\u0142nienia","operator:type":"private","amenity":"kindergarten"}},{"id":126037,"type":"Feature","geometry":{"type":"Point","coordinates":[18.326144,51.490127]},"properties":{"ref:rspo":126037,"official_name":"Punkt Przedszkolny Przy Publicznym Przedszkolu w Czajkowie","name":"Punkt Przedszkolny Przy Publicznym Przedszkolu w Czajkowie","addr:country":"PL","addr:postcode":"63-524","addr:place":"Czajk\u00f3w","addr:housenumber":"16","addr:teryt:sym_ul":195676,"contact:phone":"+48 627311049","ref:regon":"360139905","ref:vatin":"PL5140334761","operator":"Stowarzyszenie \"Razem Dla Czajkowa\"","operator:type":"ngo","amenity":"kindergarten"}},{"id":92127,"type":"Feature","geometry":{"type":"Point","coordinates":[18.326144,51.490097]},"properties":{"ref:rspo":92127,"official_name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 - Publiczne Przedszkole w Czajkowie","name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 - Publiczne Przedszkole w Czajkowie","addr:country":"PL","addr:postcode":"63-524","addr:place":"Czajk\u00f3w","addr:housenumber":"16","addr:teryt:sym_ul":195676,"contact:phone":"+48 627311079","ref:regon":"251026210","operator":"Gmina Czajk\u00f3w","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 91817"}},{"id":91819,"type":"Feature","geometry":{"type":"Point","coordinates":[18.351461,51.512414]},"properties":{"ref:rspo":91819,"official_name":"Punkt Przedszkolny w Salamonach","name":"Punkt Przedszkolny w Salamonach","addr:country":"PL","addr:postcode":"63-524","addr:place":"Salamony","addr:housenumber":"1","addr:teryt:sym_ul":196010,"contact:phone":"+48 627311028","ref:regon":"302283725","ref:vatin":"PL5140295713","operator":"Dane Do Uzupe\u0142nienia","operator:type":"private","amenity":"kindergarten"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 91817,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.326904,
+                    51.487029
+                ]
+            },
+            "properties": {
+                "ref:rspo": 91817,
+                "official_name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 w Czajkowie",
+                "name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 w Czajkowie",
+                "addr:country": "PL",
+                "addr:postcode": "63-524",
+                "addr:place": "Czajk\u00f3w",
+                "addr:housenumber": "55",
+                "addr:teryt:sym_ul": 195676,
+                "contact:phone": "+48 627311007",
+                "contact:email": "spczajkow@wp.pl",
+                "ref:regon": "001008386",
+                "ref:vatin": "PL5140199599",
+                "operator": "Gmina Czajk\u00f3w",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 92126;92127"
+            }
+        },
+        {
+            "id": 92126,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.326904,
+                    51.486999
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 92126,
+                "official_name": "Szko\u0142a Podstawowa w Czajkowie",
+                "name": "Szko\u0142a Podstawowa w Czajkowie",
+                "addr:country": "PL",
+                "addr:postcode": "63-524",
+                "addr:place": "Czajk\u00f3w",
+                "addr:housenumber": "55",
+                "addr:teryt:sym_ul": 195676,
+                "contact:phone": "+48 627311007",
+                "contact:email": "spczajkow@wp.pl",
+                "ref:regon": "251026255",
+                "operator": "Gmina Czajk\u00f3w",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 91817"
+            }
+        },
+        {
+            "id": 91995,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.324091,
+                    51.4871859
+                ]
+            },
+            "properties": {
+                "ref:rspo": 91995,
+                "official_name": "Punkt Przedszkolny w Mielcuchach",
+                "name": "Punkt Przedszkolny w Mielcuchach",
+                "addr:country": "PL",
+                "addr:postcode": "63-524",
+                "addr:place": "Czajk\u00f3w",
+                "addr:housenumber": "39",
+                "addr:teryt:sym_ul": 195676,
+                "contact:phone": "+48 782464215",
+                "ref:regon": "302284707",
+                "ref:vatin": "PL5140295713",
+                "operator": "Dane Do Uzupe\u0142nienia",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 126037,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.326144,
+                    51.490127
+                ]
+            },
+            "properties": {
+                "ref:rspo": 126037,
+                "official_name": "Punkt Przedszkolny Przy Publicznym Przedszkolu w Czajkowie",
+                "name": "Punkt Przedszkolny Przy Publicznym Przedszkolu w Czajkowie",
+                "addr:country": "PL",
+                "addr:postcode": "63-524",
+                "addr:place": "Czajk\u00f3w",
+                "addr:housenumber": "16",
+                "addr:teryt:sym_ul": 195676,
+                "contact:phone": "+48 627311049",
+                "ref:regon": "360139905",
+                "ref:vatin": "PL5140334761",
+                "operator": "Stowarzyszenie \"Razem Dla Czajkowa\"",
+                "operator:type": "ngo",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 92127,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.326144,
+                    51.490097
+                ]
+            },
+            "properties": {
+                "ref:rspo": 92127,
+                "official_name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 - Publiczne Przedszkole w Czajkowie",
+                "name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 - Publiczne Przedszkole w Czajkowie",
+                "addr:country": "PL",
+                "addr:postcode": "63-524",
+                "addr:place": "Czajk\u00f3w",
+                "addr:housenumber": "16",
+                "addr:teryt:sym_ul": 195676,
+                "contact:phone": "+48 627311079",
+                "ref:regon": "251026210",
+                "operator": "Gmina Czajk\u00f3w",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 91817"
+            }
+        },
+        {
+            "id": 91819,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.351461,
+                    51.512414
+                ]
+            },
+            "properties": {
+                "ref:rspo": 91819,
+                "official_name": "Punkt Przedszkolny w Salamonach",
+                "name": "Punkt Przedszkolny w Salamonach",
+                "addr:country": "PL",
+                "addr:postcode": "63-524",
+                "addr:place": "Salamony",
+                "addr:housenumber": "1",
+                "addr:teryt:sym_ul": 196010,
+                "contact:phone": "+48 627311028",
+                "ref:regon": "302283725",
+                "ref:vatin": "PL5140295713",
+                "operator": "Dane Do Uzupe\u0142nienia",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        }
+    ]
+}

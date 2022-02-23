@@ -1,1 +1,129 @@
-{"type":"FeatureCollection","features":[{"id":109915,"type":"Feature","geometry":{"type":"Point","coordinates":[16.48455,51.82474]},"properties":{"isced:level":"1;2","ref:rspo":109915,"official_name":"Szko\u0142a Podstawowa w Lasocicach","name":"Szko\u0142a Podstawowa w Lasocicach","addr:country":"PL","addr:postcode":"64-100","addr:city":"Lasocice","addr:street":"ul. Szkolna","addr:housenumber":"13","addr:teryt:simc":21970,"addr:teryt:sym_ul":376946,"contact:phone":"+48 655338119","contact:email":"zslasocice@interia.pl","contact:website":"http:\/\/www.zslasocice.pl","ref:regon":"001202378","operator":"Gmina \u015awi\u0119ciechowa","operator:type":"government","amenity":"school"}},{"id":92889,"type":"Feature","geometry":{"type":"Point","coordinates":[16.48415,51.8248]},"properties":{"isced:level":"1;2","ref:rspo":92889,"official_name":"Szko\u0142a Podstawowa im. Marii Sk\u0142odowskiej-Curie w \u015awi\u0119ciechowie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"64-115","addr:city":"\u015awi\u0119ciechowa","addr:street":"ul. Szkolna","addr:housenumber":"15","addr:teryt:simc":21970,"addr:teryt:sym_ul":377029,"contact:phone":"+48 655330441","contact:email":"szkola@spswieciechowa.pl","contact:website":"http:\/\/www.zsswieciechowa.cba.pl","ref:regon":"000270604","operator":"Gmina \u015awi\u0119ciechowa","operator:type":"government","amenity":"school"}},{"id":84910,"type":"Feature","geometry":{"type":"Point","coordinates":[16.44307,51.82502]},"properties":{"isced:level":"1;2","ref:rspo":84910,"official_name":"Szko\u0142a Podstawowa w D\u0142ugiem Starem","name":"Szko\u0142a Podstawowa w D\u0142ugiem Starem","addr:country":"PL","addr:postcode":"64-100","addr:city":"D\u0142ugie Stare","addr:street":"ul. Leszczy\u0144ska","addr:housenumber":"1","addr:teryt:simc":10873,"addr:teryt:sym_ul":377006,"contact:phone":"+48 655338193","contact:email":"zsspigdlugiestare@poczta.fm","contact:website":"http:\/\/www.zsds.halpress.eu","ref:regon":"411129626","operator":"Gmina \u015awi\u0119ciechowa","operator:type":"government","amenity":"school"}},{"id":104698,"type":"Feature","geometry":{"type":"Point","coordinates":[16.53623,51.8321]},"properties":{"ref:rspo":104698,"official_name":"Przedszkole Samorz\u0105dowe \"Kraina Rado\u015bci\" w \u015awi\u0119ciechowie","name":"Przedszkole Samorz\u0105dowe \"Kraina Rado\u015bci\" w \u015awi\u0119ciechowie","addr:country":"PL","addr:postcode":"64-115","addr:city":"\u015awi\u0119ciechowa","addr:street":"ul. Strzelecka","addr:housenumber":"12","addr:teryt:simc":21381,"addr:teryt:sym_ul":377029,"contact:phone":"+48 653002069","contact:email":"sekretariat@przedszkole.swieciechowa.pl","contact:website":"http:\/\/www.przedszkole.swieciechowa.pl","ref:regon":"411487923","ref:vatin":"PL6971995589","operator":"Gmina \u015awi\u0119ciechowa","operator:type":"government","amenity":"kindergarten"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 109915,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.48455,
+                    51.82474
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 109915,
+                "official_name": "Szko\u0142a Podstawowa w Lasocicach",
+                "name": "Szko\u0142a Podstawowa w Lasocicach",
+                "addr:country": "PL",
+                "addr:postcode": "64-100",
+                "addr:city": "Lasocice",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "13",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 376946,
+                "contact:phone": "+48 655338119",
+                "contact:email": "zslasocice@interia.pl",
+                "contact:website": "http:\/\/www.zslasocice.pl",
+                "ref:regon": "001202378",
+                "operator": "Gmina \u015awi\u0119ciechowa",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 92889,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.48415,
+                    51.8248
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 92889,
+                "official_name": "Szko\u0142a Podstawowa im. Marii Sk\u0142odowskiej-Curie w \u015awi\u0119ciechowie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "64-115",
+                "addr:city": "\u015awi\u0119ciechowa",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "15",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 377029,
+                "contact:phone": "+48 655330441",
+                "contact:email": "szkola@spswieciechowa.pl",
+                "contact:website": "http:\/\/www.zsswieciechowa.cba.pl",
+                "ref:regon": "000270604",
+                "operator": "Gmina \u015awi\u0119ciechowa",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 84910,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.44307,
+                    51.82502
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 84910,
+                "official_name": "Szko\u0142a Podstawowa w D\u0142ugiem Starem",
+                "name": "Szko\u0142a Podstawowa w D\u0142ugiem Starem",
+                "addr:country": "PL",
+                "addr:postcode": "64-100",
+                "addr:city": "D\u0142ugie Stare",
+                "addr:street": "ul. Leszczy\u0144ska",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 10873,
+                "addr:teryt:sym_ul": 377006,
+                "contact:phone": "+48 655338193",
+                "contact:email": "zsspigdlugiestare@poczta.fm",
+                "contact:website": "http:\/\/www.zsds.halpress.eu",
+                "ref:regon": "411129626",
+                "operator": "Gmina \u015awi\u0119ciechowa",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 104698,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.53623,
+                    51.8321
+                ]
+            },
+            "properties": {
+                "ref:rspo": 104698,
+                "official_name": "Przedszkole Samorz\u0105dowe \"Kraina Rado\u015bci\" w \u015awi\u0119ciechowie",
+                "name": "Przedszkole Samorz\u0105dowe \"Kraina Rado\u015bci\" w \u015awi\u0119ciechowie",
+                "addr:country": "PL",
+                "addr:postcode": "64-115",
+                "addr:city": "\u015awi\u0119ciechowa",
+                "addr:street": "ul. Strzelecka",
+                "addr:housenumber": "12",
+                "addr:teryt:simc": 21381,
+                "addr:teryt:sym_ul": 377029,
+                "contact:phone": "+48 653002069",
+                "contact:email": "sekretariat@przedszkole.swieciechowa.pl",
+                "contact:website": "http:\/\/www.przedszkole.swieciechowa.pl",
+                "ref:regon": "411487923",
+                "ref:vatin": "PL6971995589",
+                "operator": "Gmina \u015awi\u0119ciechowa",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        }
+    ]
+}

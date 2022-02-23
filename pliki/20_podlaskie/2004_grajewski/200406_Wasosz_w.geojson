@@ -1,1 +1,205 @@
-{"type":"FeatureCollection","features":[{"id":6691,"type":"Feature","geometry":{"type":"Point","coordinates":[22.26679,53.45793]},"properties":{"isced:level":"1;2","ref:rspo":6691,"official_name":"Szko\u0142a Podstawowa w Niecikach","name":"Szko\u0142a Podstawowa w Niecikach","addr:country":"PL","addr:postcode":"19-222","addr:place":"Nieciki","addr:housenumber":"41","addr:teryt:sym_ul":409628,"contact:phone":"+48 692037030","contact:email":"spnieciki@o2.pl","ref:regon":"200720627","ref:vatin":"PL7181729859","operator":"Spo\u0142eczno - O\u015bwiatowe Stowarzyszenie Pomocy Pokrzywdzonym I Niepe\u0142nosprawnym \"Edukator\"","operator:type":"ngo","amenity":"school"}},{"id":6975,"type":"Feature","geometry":{"type":"Point","coordinates":[22.2861,53.4787899]},"properties":{"isced:level":"1;2","ref:rspo":6975,"official_name":"Szko\u0142a Podstawowa w \u0141awsku","name":"Szko\u0142a Podstawowa w \u0141awsku","addr:country":"PL","addr:postcode":"19-222","addr:place":"\u0141awsk","addr:housenumber":"107","addr:teryt:sym_ul":409574,"contact:phone":"+48 862731166","contact:email":"splawsk1@o2.pl","ref:regon":"001129204","ref:vatin":"PL7191397152","operator":"Gmina W\u0105sosz","operator:type":"government","amenity":"school"}},{"id":130376,"type":"Feature","geometry":{"type":"Point","coordinates":[22.2861,53.4787599]},"properties":{"ref:rspo":130376,"official_name":"Punkt Przedszkolny Nr 3 w Szkole Podstawowej w \u0141awsku","name":"Punkt Przedszkolny Nr 3 w Szkole Podstawowej w \u0141awsku","addr:country":"PL","addr:postcode":"19-222","addr:place":"\u0141awsk","addr:housenumber":"107","addr:teryt:sym_ul":409574,"contact:phone":"+48 862731166","ref:regon":"363923663","operator":"Gmina W\u0105sosz","operator:type":"government","amenity":"kindergarten"}},{"id":6973,"type":"Feature","geometry":{"type":"Point","coordinates":[22.42033,53.51308]},"properties":{"isced:level":"1;2","ref:rspo":6973,"official_name":"Szko\u0142a Podstawowa w Sulewie-Kownaty","name":"Szko\u0142a Podstawowa w Sulewie-Kownaty","addr:country":"PL","addr:postcode":"19-222","addr:place":"Sulewo-Kownaty","addr:housenumber":"18","addr:teryt:sym_ul":409634,"contact:phone":"+48 862731056","contact:email":"spsulewo@wp.pl","contact:website":"http:\/\/www.sulewo.pl","ref:regon":"001129210","ref:vatin":"PL7191397146","operator":"Gmina W\u0105sosz","operator:type":"government","amenity":"school"}},{"id":130375,"type":"Feature","geometry":{"type":"Point","coordinates":[22.42033,53.51305]},"properties":{"ref:rspo":130375,"official_name":"Punkt Przedszkolny Nr 2 w Szkole Podstawowej w Sulewie - Kownatach","name":"Punkt Przedszkolny Nr 2 w Szkole Podstawowej w Sulewie - Kownatach","addr:country":"PL","addr:postcode":"19-222","addr:place":"Sulewo-Kownaty","addr:housenumber":"18","addr:teryt:sym_ul":409634,"contact:phone":"+48 862731056","contact:email":"spsulewo@wp.pl","ref:regon":"363923485","operator":"Gmina W\u0105sosz","operator:type":"government","amenity":"kindergarten"}},{"id":6976,"type":"Feature","geometry":{"type":"Point","coordinates":[22.31462,53.51776]},"properties":{"isced:level":"1;2","ref:rspo":6976,"official_name":"Szko\u0142a Podstawowa im. Henryka Sienkiewicza w W\u0105soszu","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"19-222","addr:city":"W\u0105sosz","addr:street":"ul. Piaskowa","addr:housenumber":"31","addr:teryt:simc":16033,"addr:teryt:sym_ul":991137,"contact:phone":"+48 862731154","contact:email":"sp.wasosz@tlen.pl","ref:regon":"000586684","ref:vatin":"PL7191397198","operator":"Gmina W\u0105sosz","operator:type":"government","amenity":"school"}},{"id":130374,"type":"Feature","geometry":{"type":"Point","coordinates":[22.31462,53.51773]},"properties":{"ref:rspo":130374,"official_name":"Punkt Przedszkolny Nr 1 w Szkole Podstawowej w W\u0105soszu","name":"Punkt Przedszkolny Nr 1 w Szkole Podstawowej w W\u0105soszu","addr:country":"PL","addr:postcode":"19-222","addr:city":"W\u0105sosz","addr:street":"ul. Piaskowa","addr:housenumber":"31","addr:teryt:simc":16033,"addr:teryt:sym_ul":991137,"contact:phone":"+48 862731154","ref:regon":"363923433","operator":"Gmina W\u0105sosz","operator:type":"government","amenity":"kindergarten"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 6691,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.26679,
+                    53.45793
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 6691,
+                "official_name": "Szko\u0142a Podstawowa w Niecikach",
+                "name": "Szko\u0142a Podstawowa w Niecikach",
+                "addr:country": "PL",
+                "addr:postcode": "19-222",
+                "addr:place": "Nieciki",
+                "addr:housenumber": "41",
+                "addr:teryt:sym_ul": 409628,
+                "contact:phone": "+48 692037030",
+                "contact:email": "spnieciki@o2.pl",
+                "ref:regon": "200720627",
+                "ref:vatin": "PL7181729859",
+                "operator": "Spo\u0142eczno - O\u015bwiatowe Stowarzyszenie Pomocy Pokrzywdzonym I Niepe\u0142nosprawnym \"Edukator\"",
+                "operator:type": "ngo",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 6975,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.2861,
+                    53.4787899
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 6975,
+                "official_name": "Szko\u0142a Podstawowa w \u0141awsku",
+                "name": "Szko\u0142a Podstawowa w \u0141awsku",
+                "addr:country": "PL",
+                "addr:postcode": "19-222",
+                "addr:place": "\u0141awsk",
+                "addr:housenumber": "107",
+                "addr:teryt:sym_ul": 409574,
+                "contact:phone": "+48 862731166",
+                "contact:email": "splawsk1@o2.pl",
+                "ref:regon": "001129204",
+                "ref:vatin": "PL7191397152",
+                "operator": "Gmina W\u0105sosz",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 130376,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.2861,
+                    53.4787599
+                ]
+            },
+            "properties": {
+                "ref:rspo": 130376,
+                "official_name": "Punkt Przedszkolny Nr 3 w Szkole Podstawowej w \u0141awsku",
+                "name": "Punkt Przedszkolny Nr 3 w Szkole Podstawowej w \u0141awsku",
+                "addr:country": "PL",
+                "addr:postcode": "19-222",
+                "addr:place": "\u0141awsk",
+                "addr:housenumber": "107",
+                "addr:teryt:sym_ul": 409574,
+                "contact:phone": "+48 862731166",
+                "ref:regon": "363923663",
+                "operator": "Gmina W\u0105sosz",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 6973,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.42033,
+                    53.51308
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 6973,
+                "official_name": "Szko\u0142a Podstawowa w Sulewie-Kownaty",
+                "name": "Szko\u0142a Podstawowa w Sulewie-Kownaty",
+                "addr:country": "PL",
+                "addr:postcode": "19-222",
+                "addr:place": "Sulewo-Kownaty",
+                "addr:housenumber": "18",
+                "addr:teryt:sym_ul": 409634,
+                "contact:phone": "+48 862731056",
+                "contact:email": "spsulewo@wp.pl",
+                "contact:website": "http:\/\/www.sulewo.pl",
+                "ref:regon": "001129210",
+                "ref:vatin": "PL7191397146",
+                "operator": "Gmina W\u0105sosz",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 130375,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.42033,
+                    53.51305
+                ]
+            },
+            "properties": {
+                "ref:rspo": 130375,
+                "official_name": "Punkt Przedszkolny Nr 2 w Szkole Podstawowej w Sulewie - Kownatach",
+                "name": "Punkt Przedszkolny Nr 2 w Szkole Podstawowej w Sulewie - Kownatach",
+                "addr:country": "PL",
+                "addr:postcode": "19-222",
+                "addr:place": "Sulewo-Kownaty",
+                "addr:housenumber": "18",
+                "addr:teryt:sym_ul": 409634,
+                "contact:phone": "+48 862731056",
+                "contact:email": "spsulewo@wp.pl",
+                "ref:regon": "363923485",
+                "operator": "Gmina W\u0105sosz",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 6976,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.31462,
+                    53.51776
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 6976,
+                "official_name": "Szko\u0142a Podstawowa im. Henryka Sienkiewicza w W\u0105soszu",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "19-222",
+                "addr:city": "W\u0105sosz",
+                "addr:street": "ul. Piaskowa",
+                "addr:housenumber": "31",
+                "addr:teryt:simc": 16033,
+                "addr:teryt:sym_ul": 991137,
+                "contact:phone": "+48 862731154",
+                "contact:email": "sp.wasosz@tlen.pl",
+                "ref:regon": "000586684",
+                "ref:vatin": "PL7191397198",
+                "operator": "Gmina W\u0105sosz",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 130374,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.31462,
+                    53.51773
+                ]
+            },
+            "properties": {
+                "ref:rspo": 130374,
+                "official_name": "Punkt Przedszkolny Nr 1 w Szkole Podstawowej w W\u0105soszu",
+                "name": "Punkt Przedszkolny Nr 1 w Szkole Podstawowej w W\u0105soszu",
+                "addr:country": "PL",
+                "addr:postcode": "19-222",
+                "addr:city": "W\u0105sosz",
+                "addr:street": "ul. Piaskowa",
+                "addr:housenumber": "31",
+                "addr:teryt:simc": 16033,
+                "addr:teryt:sym_ul": 991137,
+                "contact:phone": "+48 862731154",
+                "ref:regon": "363923433",
+                "operator": "Gmina W\u0105sosz",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        }
+    ]
+}

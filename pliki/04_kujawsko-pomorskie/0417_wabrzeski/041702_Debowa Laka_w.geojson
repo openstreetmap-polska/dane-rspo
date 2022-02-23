@@ -1,1 +1,93 @@
-{"type":"FeatureCollection","features":[{"id":106680,"type":"Feature","geometry":{"type":"Point","coordinates":[19.11846,53.2173]},"properties":{"isced:level":"1;2","ref:rspo":106680,"official_name":"Szko\u0142a Podstawowa w \u0141obdowie","name":"Szko\u0142a Podstawowa w \u0141obdowie","addr:country":"PL","addr:postcode":"87-207","addr:place":"\u0141obdowo","addr:housenumber":"6","addr:teryt:sym_ul":842638,"contact:phone":"+48 566889935","contact:email":"wiezas@poczta.onet.pl","ref:regon":"001210923","ref:vatin":"PL8781631359","operator":"Gmina D\u0119bowa \u0141\u0105ka","operator:type":"government","amenity":"school"}},{"id":107583,"type":"Feature","geometry":{"type":"Point","coordinates":[19.01954,53.2227]},"properties":{"isced:level":"1;2","ref:rspo":107583,"official_name":"Szko\u0142a Podstawowa w Wielkich Radowiskach","name":"Szko\u0142a Podstawowa w Wielkich Radowiskach","addr:country":"PL","addr:postcode":"87-207","addr:place":"Wielkie Radowiska","addr:housenumber":"2","addr:teryt:sym_ul":842762,"contact:phone":"+48 566889378","contact:email":"spwrad@wp.pl","contact:website":"http:\/\/radowiska.pl","ref:regon":"001210917","ref:vatin":"PL8781631388","operator":"Gmina D\u0119bowa \u0141\u0105ka","operator:type":"government","amenity":"school"}},{"id":110229,"type":"Feature","geometry":{"type":"Point","coordinates":[19.09645,53.25801]},"properties":{"isced:level":"1;2","ref:rspo":110229,"official_name":"Szko\u0142a Podstawowa w D\u0119bowej \u0141\u0105ce","name":"Szko\u0142a Podstawowa w D\u0119bowej \u0141\u0105ce","addr:country":"PL","addr:postcode":"87-207","addr:place":"D\u0119bowa \u0141\u0105ka","addr:housenumber":"127","addr:teryt:sym_ul":842549,"contact:phone":"+48 566889242","contact:email":"spdebowalaka@wp.pl","ref:regon":"000266235","ref:vatin":"PL8781802387","operator":"Gmina D\u0119bowa \u0141\u0105ka","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 106680,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.11846,
+                    53.2173
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 106680,
+                "official_name": "Szko\u0142a Podstawowa w \u0141obdowie",
+                "name": "Szko\u0142a Podstawowa w \u0141obdowie",
+                "addr:country": "PL",
+                "addr:postcode": "87-207",
+                "addr:place": "\u0141obdowo",
+                "addr:housenumber": "6",
+                "addr:teryt:sym_ul": 842638,
+                "contact:phone": "+48 566889935",
+                "contact:email": "wiezas@poczta.onet.pl",
+                "ref:regon": "001210923",
+                "ref:vatin": "PL8781631359",
+                "operator": "Gmina D\u0119bowa \u0141\u0105ka",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 107583,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.01954,
+                    53.2227
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 107583,
+                "official_name": "Szko\u0142a Podstawowa w Wielkich Radowiskach",
+                "name": "Szko\u0142a Podstawowa w Wielkich Radowiskach",
+                "addr:country": "PL",
+                "addr:postcode": "87-207",
+                "addr:place": "Wielkie Radowiska",
+                "addr:housenumber": "2",
+                "addr:teryt:sym_ul": 842762,
+                "contact:phone": "+48 566889378",
+                "contact:email": "spwrad@wp.pl",
+                "contact:website": "http:\/\/radowiska.pl",
+                "ref:regon": "001210917",
+                "ref:vatin": "PL8781631388",
+                "operator": "Gmina D\u0119bowa \u0141\u0105ka",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 110229,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.09645,
+                    53.25801
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 110229,
+                "official_name": "Szko\u0142a Podstawowa w D\u0119bowej \u0141\u0105ce",
+                "name": "Szko\u0142a Podstawowa w D\u0119bowej \u0141\u0105ce",
+                "addr:country": "PL",
+                "addr:postcode": "87-207",
+                "addr:place": "D\u0119bowa \u0141\u0105ka",
+                "addr:housenumber": "127",
+                "addr:teryt:sym_ul": 842549,
+                "contact:phone": "+48 566889242",
+                "contact:email": "spdebowalaka@wp.pl",
+                "ref:regon": "000266235",
+                "ref:vatin": "PL8781802387",
+                "operator": "Gmina D\u0119bowa \u0141\u0105ka",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

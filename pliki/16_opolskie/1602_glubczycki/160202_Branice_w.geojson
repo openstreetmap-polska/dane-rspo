@@ -1,1 +1,182 @@
-{"type":"FeatureCollection","features":[{"id":130223,"type":"Feature","geometry":{"type":"Point","coordinates":[17.8776699,50.00561]},"properties":{"ref:rspo":130223,"official_name":"Gimnazjum w Uciechowicach","name":"Gimnazjum w Uciechowicach","addr:country":"PL","addr:postcode":"48-140","addr:place":"Uciechowice","addr:housenumber":"46","addr:teryt:sym_ul":491914,"contact:phone":"+48 774868722","contact:email":"sp.uciech@pocztz.fm","ref:regon":"161602808","ref:vatin":"PL7481580918","operator":"Stowarzyszenie Przyjaci\u00f3\u0142 Szko\u0142y W Uciechowicach","operator:type":"ngo","amenity":"school"}},{"id":49527,"type":"Feature","geometry":{"type":"Point","coordinates":[17.7935899,50.05228]},"properties":{"ref:rspo":49527,"official_name":"Publiczne Przedszkole w Branicach Z Oddzia\u0142ami Zamiejscowymi w Bliszczycach I Wysokiej","name":"Publiczne Przedszkole w Branicach Z Oddzia\u0142ami Zamiejscowymi w Bliszczycach I Wysokiej","addr:country":"PL","addr:postcode":"48-140","addr:city":"Branice","addr:street":"ul. 1 Maja","addr:housenumber":"8","addr:teryt:simc":11926,"addr:teryt:sym_ul":491742,"contact:phone":"+48 774868370","contact:email":"majka29@poczta.onet.eu","ref:regon":"530585154","ref:vatin":"PL7481557339","operator":"Gmina Branice","operator:type":"government","amenity":"kindergarten"}},{"id":72178,"type":"Feature","geometry":{"type":"Point","coordinates":[17.79929,50.05318]},"properties":{"isced:level":"1;2","ref:rspo":72178,"official_name":"Szko\u0142a Podstawowa im. Marii D\u0105browskiej w Branicach","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"48-140","addr:city":"Branice","addr:street":"ul. Szkolna","addr:housenumber":"8","addr:teryt:simc":21970,"addr:teryt:sym_ul":491742,"contact:phone":"+48 774860910","contact:email":"sekretariat@spbranice.pl","ref:regon":"000266815","ref:vatin":"PL7481556038","operator":"Gmina Branice","operator:type":"government","amenity":"school"}},{"id":58965,"type":"Feature","geometry":{"type":"Point","coordinates":[17.79726,50.05326]},"properties":{"ref:rspo":58965,"official_name":"Katolickie Przedszkole Si\u00f3str Maryi Niepokalanej\nIm. Jana Paw\u0142a II w Branicach","name":"Katolickie Przedszkole Si\u00f3str Maryi Niepokalanej\nIm. Jana Paw\u0142a II w Branicach","addr:country":"PL","addr:postcode":"48-140","addr:city":"Branice","addr:street":"ul. Szpitalna","addr:housenumber":"6","addr:teryt:simc":22073,"addr:teryt:sym_ul":491742,"contact:phone":"+48 774860988","contact:email":"biuro@przedszkolebranice.pl","ref:regon":"161491378","ref:vatin":"PL7481017554","operator":"Gmina Branice","operator:type":"government","amenity":"kindergarten"}},{"id":49529,"type":"Feature","geometry":{"type":"Point","coordinates":[17.83712,50.1201999]},"properties":{"ref:rspo":49529,"official_name":"Publiczne Przedszkole we W\u0142odzieninie Z Oddzia\u0142ami Zamiejscowymi w Lewicach I Dzba\u0144cach","name":"Publiczne Przedszkole we W\u0142odzieninie Z Oddzia\u0142ami Zamiejscowymi w Lewicach I Dzba\u0144cach","addr:country":"PL","addr:postcode":"48-140","addr:place":"W\u0142odzienin","addr:housenumber":"50","addr:teryt:sym_ul":491937,"contact:phone":"+48 774857053","contact:email":"dmkrupa@wp.pl","ref:regon":"530585190","ref:vatin":"PL7481557345","operator":"Gmina Branice","operator:type":"government","amenity":"kindergarten"}},{"id":54410,"type":"Feature","geometry":{"type":"Point","coordinates":[17.83712,50.1201699]},"properties":{"isced:level":"1;2","ref:rspo":54410,"official_name":"Szko\u0142a Podstawowa im. Marii Sk\u0142odowskiej - Curie we W\u0142odzieninie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"48-140","addr:place":"W\u0142odzienin","addr:housenumber":"50","addr:teryt:sym_ul":491937,"contact:phone":"+48 774857216","contact:email":"sp.wlodzienin@interia.pl","contact:website":"http:\/\/www.spwlodzienin.szkolna.net","ref:regon":"001166010","ref:vatin":"PL7481556446","operator":"Gmina Branice","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 130223,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.8776699,
+                    50.00561
+                ]
+            },
+            "properties": {
+                "ref:rspo": 130223,
+                "official_name": "Gimnazjum w Uciechowicach",
+                "name": "Gimnazjum w Uciechowicach",
+                "addr:country": "PL",
+                "addr:postcode": "48-140",
+                "addr:place": "Uciechowice",
+                "addr:housenumber": "46",
+                "addr:teryt:sym_ul": 491914,
+                "contact:phone": "+48 774868722",
+                "contact:email": "sp.uciech@pocztz.fm",
+                "ref:regon": "161602808",
+                "ref:vatin": "PL7481580918",
+                "operator": "Stowarzyszenie Przyjaci\u00f3\u0142 Szko\u0142y W Uciechowicach",
+                "operator:type": "ngo",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 49527,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.7935899,
+                    50.05228
+                ]
+            },
+            "properties": {
+                "ref:rspo": 49527,
+                "official_name": "Publiczne Przedszkole w Branicach Z Oddzia\u0142ami Zamiejscowymi w Bliszczycach I Wysokiej",
+                "name": "Publiczne Przedszkole w Branicach Z Oddzia\u0142ami Zamiejscowymi w Bliszczycach I Wysokiej",
+                "addr:country": "PL",
+                "addr:postcode": "48-140",
+                "addr:city": "Branice",
+                "addr:street": "ul. 1 Maja",
+                "addr:housenumber": "8",
+                "addr:teryt:simc": 11926,
+                "addr:teryt:sym_ul": 491742,
+                "contact:phone": "+48 774868370",
+                "contact:email": "majka29@poczta.onet.eu",
+                "ref:regon": "530585154",
+                "ref:vatin": "PL7481557339",
+                "operator": "Gmina Branice",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 72178,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.79929,
+                    50.05318
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 72178,
+                "official_name": "Szko\u0142a Podstawowa im. Marii D\u0105browskiej w Branicach",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "48-140",
+                "addr:city": "Branice",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "8",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 491742,
+                "contact:phone": "+48 774860910",
+                "contact:email": "sekretariat@spbranice.pl",
+                "ref:regon": "000266815",
+                "ref:vatin": "PL7481556038",
+                "operator": "Gmina Branice",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 58965,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.79726,
+                    50.05326
+                ]
+            },
+            "properties": {
+                "ref:rspo": 58965,
+                "official_name": "Katolickie Przedszkole Si\u00f3str Maryi Niepokalanej\nIm. Jana Paw\u0142a II w Branicach",
+                "name": "Katolickie Przedszkole Si\u00f3str Maryi Niepokalanej\nIm. Jana Paw\u0142a II w Branicach",
+                "addr:country": "PL",
+                "addr:postcode": "48-140",
+                "addr:city": "Branice",
+                "addr:street": "ul. Szpitalna",
+                "addr:housenumber": "6",
+                "addr:teryt:simc": 22073,
+                "addr:teryt:sym_ul": 491742,
+                "contact:phone": "+48 774860988",
+                "contact:email": "biuro@przedszkolebranice.pl",
+                "ref:regon": "161491378",
+                "ref:vatin": "PL7481017554",
+                "operator": "Gmina Branice",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 49529,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.83712,
+                    50.1201999
+                ]
+            },
+            "properties": {
+                "ref:rspo": 49529,
+                "official_name": "Publiczne Przedszkole we W\u0142odzieninie Z Oddzia\u0142ami Zamiejscowymi w Lewicach I Dzba\u0144cach",
+                "name": "Publiczne Przedszkole we W\u0142odzieninie Z Oddzia\u0142ami Zamiejscowymi w Lewicach I Dzba\u0144cach",
+                "addr:country": "PL",
+                "addr:postcode": "48-140",
+                "addr:place": "W\u0142odzienin",
+                "addr:housenumber": "50",
+                "addr:teryt:sym_ul": 491937,
+                "contact:phone": "+48 774857053",
+                "contact:email": "dmkrupa@wp.pl",
+                "ref:regon": "530585190",
+                "ref:vatin": "PL7481557345",
+                "operator": "Gmina Branice",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 54410,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.83712,
+                    50.1201699
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 54410,
+                "official_name": "Szko\u0142a Podstawowa im. Marii Sk\u0142odowskiej - Curie we W\u0142odzieninie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "48-140",
+                "addr:place": "W\u0142odzienin",
+                "addr:housenumber": "50",
+                "addr:teryt:sym_ul": 491937,
+                "contact:phone": "+48 774857216",
+                "contact:email": "sp.wlodzienin@interia.pl",
+                "contact:website": "http:\/\/www.spwlodzienin.szkolna.net",
+                "ref:regon": "001166010",
+                "ref:vatin": "PL7481556446",
+                "operator": "Gmina Branice",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

@@ -1,1 +1,215 @@
-{"type":"FeatureCollection","features":[{"id":42391,"type":"Feature","geometry":{"type":"Point","coordinates":[21.7261099,49.98445]},"properties":{"isced:level":"1;2","ref:rspo":42391,"official_name":"Szko\u0142a Podstawowa w Bystrzycy im. Marii Konopnickiej","name":"Szko\u0142a Podstawowa w Bystrzycy","addr:country":"PL","addr:postcode":"39-124","addr:place":"Bystrzyca","addr:housenumber":"52a","addr:teryt:sym_ul":651559,"contact:phone":"+48 178642890","contact:email":"szkolabystrzyca@autograf.pl","contact:website":"http:\/\/spbystrzyca.c0.pl","ref:regon":"691678416","ref:vatin":"PL8181621631","operator":"Gmina Iwierzyce","operator:type":"government","amenity":"school"}},{"id":42393,"type":"Feature","geometry":{"type":"Point","coordinates":[21.75132,50.01232]},"properties":{"isced:level":"1;2","ref:rspo":42393,"official_name":"Szko\u0142a Podstawowa w Wiercanach im. Boles\u0142awa Prusa","name":"Szko\u0142a Podstawowa w Wiercanach","addr:country":"PL","addr:postcode":"39-124","addr:place":"Wiercany","addr:housenumber":"73","addr:teryt:sym_ul":651861,"contact:phone":"+48 172221007","contact:email":"spwiercany@o2.pl","ref:regon":"691678439","ref:vatin":"PL8181621625","operator":"Gmina Iwierzyce","operator:type":"government","amenity":"school"}},{"id":42394,"type":"Feature","geometry":{"type":"Point","coordinates":[21.7861699,50.0179]},"properties":{"isced:level":"1;2","ref:rspo":42394,"official_name":"Szko\u0142a Podstawowa w Nockowej im. Bohater\u00f3w Walk Ch\u0142opskich","name":"Szko\u0142a Podstawowa w Nockowej","addr:country":"PL","addr:postcode":"39-124","addr:place":"Nockowa","addr:housenumber":"1","addr:teryt:sym_ul":651683,"contact:phone":"+48 172221019","contact:email":"nockowa1@op.pl","contact:website":"http:\/\/www.spnockowa.pl","ref:regon":"691678451","ref:vatin":"PL8181621654","operator":"Gmina Iwierzyce","operator:type":"government","amenity":"school"}},{"id":42399,"type":"Feature","geometry":{"type":"Point","coordinates":[21.75303,50.02897]},"properties":{"ref:rspo":42399,"official_name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 w Iwierzycach","name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 w Iwierzycach","addr:country":"PL","addr:postcode":"39-124","addr:place":"Iwierzyce","addr:housenumber":"186","addr:teryt:sym_ul":651648,"contact:phone":"+48 172221525","contact:email":"sp_iwierzyce@op.pl","contact:website":"http:\/\/www.spiwierzyce.pl","ref:regon":"180339227","ref:vatin":"PL8181671014","operator":"Gmina Iwierzyce","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 50360;50362"}},{"id":50360,"type":"Feature","geometry":{"type":"Point","coordinates":[21.75303,50.02894]},"properties":{"isced:level":"1;2","ref:rspo":50360,"official_name":"Szko\u0142a Podstawowa w Iwierzycach im. Mjr Henryka Sucharskiego","name":"Szko\u0142a Podstawowa w Iwierzycach","addr:country":"PL","addr:postcode":"39-124","addr:place":"Iwierzyce","addr:housenumber":"186","addr:teryt:sym_ul":651648,"contact:phone":"+48 172221525","contact:email":"sp_iwierzyce@op.pl","contact:website":"http:\/\/www.spiwierzyce.pl","ref:regon":"691678391","ref:vatin":"PL8181621602","operator":"Gmina Iwierzyce","operator:type":"government","amenity":"school","note":"Parent RSPO: 42399"}},{"id":50362,"type":"Feature","geometry":{"type":"Point","coordinates":[21.75303,50.02891]},"properties":{"ref:rspo":50362,"official_name":"Publiczne Przedszkole w Iwierzycach","name":"Publiczne Przedszkole w Iwierzycach","addr:country":"PL","addr:postcode":"39-124","addr:place":"Iwierzyce","addr:housenumber":"186","addr:teryt:sym_ul":651648,"contact:phone":"+48 177455943","contact:email":"ppiwierzyce@op.pl","ref:regon":"690010538","ref:vatin":"PL8181621677","operator":"Gmina Iwierzyce","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 42399"}},{"id":42398,"type":"Feature","geometry":{"type":"Point","coordinates":[21.76096,50.05473]},"properties":{"isced:level":"1;2","ref:rspo":42398,"official_name":"Szko\u0142a Podstawowa w Olchowej im. Marii Konopnickiej","name":"Szko\u0142a Podstawowa w Olchowej","addr:country":"PL","addr:postcode":"39-127","addr:place":"Olchowa","addr:housenumber":"3","addr:teryt:sym_ul":651737,"contact:phone":"+48 177452037","contact:email":"spolchowa@o2.pl","contact:website":"http:\/\/www.spolchowa.pl","ref:regon":"691678474","ref:vatin":"PL8181621648","operator":"Gmina Iwierzyce","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 42391,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.7261099,
+                    49.98445
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 42391,
+                "official_name": "Szko\u0142a Podstawowa w Bystrzycy im. Marii Konopnickiej",
+                "name": "Szko\u0142a Podstawowa w Bystrzycy",
+                "addr:country": "PL",
+                "addr:postcode": "39-124",
+                "addr:place": "Bystrzyca",
+                "addr:housenumber": "52a",
+                "addr:teryt:sym_ul": 651559,
+                "contact:phone": "+48 178642890",
+                "contact:email": "szkolabystrzyca@autograf.pl",
+                "contact:website": "http:\/\/spbystrzyca.c0.pl",
+                "ref:regon": "691678416",
+                "ref:vatin": "PL8181621631",
+                "operator": "Gmina Iwierzyce",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 42393,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.75132,
+                    50.01232
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 42393,
+                "official_name": "Szko\u0142a Podstawowa w Wiercanach im. Boles\u0142awa Prusa",
+                "name": "Szko\u0142a Podstawowa w Wiercanach",
+                "addr:country": "PL",
+                "addr:postcode": "39-124",
+                "addr:place": "Wiercany",
+                "addr:housenumber": "73",
+                "addr:teryt:sym_ul": 651861,
+                "contact:phone": "+48 172221007",
+                "contact:email": "spwiercany@o2.pl",
+                "ref:regon": "691678439",
+                "ref:vatin": "PL8181621625",
+                "operator": "Gmina Iwierzyce",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 42394,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.7861699,
+                    50.0179
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 42394,
+                "official_name": "Szko\u0142a Podstawowa w Nockowej im. Bohater\u00f3w Walk Ch\u0142opskich",
+                "name": "Szko\u0142a Podstawowa w Nockowej",
+                "addr:country": "PL",
+                "addr:postcode": "39-124",
+                "addr:place": "Nockowa",
+                "addr:housenumber": "1",
+                "addr:teryt:sym_ul": 651683,
+                "contact:phone": "+48 172221019",
+                "contact:email": "nockowa1@op.pl",
+                "contact:website": "http:\/\/www.spnockowa.pl",
+                "ref:regon": "691678451",
+                "ref:vatin": "PL8181621654",
+                "operator": "Gmina Iwierzyce",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 42399,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.75303,
+                    50.02897
+                ]
+            },
+            "properties": {
+                "ref:rspo": 42399,
+                "official_name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 w Iwierzycach",
+                "name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 w Iwierzycach",
+                "addr:country": "PL",
+                "addr:postcode": "39-124",
+                "addr:place": "Iwierzyce",
+                "addr:housenumber": "186",
+                "addr:teryt:sym_ul": 651648,
+                "contact:phone": "+48 172221525",
+                "contact:email": "sp_iwierzyce@op.pl",
+                "contact:website": "http:\/\/www.spiwierzyce.pl",
+                "ref:regon": "180339227",
+                "ref:vatin": "PL8181671014",
+                "operator": "Gmina Iwierzyce",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 50360;50362"
+            }
+        },
+        {
+            "id": 50360,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.75303,
+                    50.02894
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 50360,
+                "official_name": "Szko\u0142a Podstawowa w Iwierzycach im. Mjr Henryka Sucharskiego",
+                "name": "Szko\u0142a Podstawowa w Iwierzycach",
+                "addr:country": "PL",
+                "addr:postcode": "39-124",
+                "addr:place": "Iwierzyce",
+                "addr:housenumber": "186",
+                "addr:teryt:sym_ul": 651648,
+                "contact:phone": "+48 172221525",
+                "contact:email": "sp_iwierzyce@op.pl",
+                "contact:website": "http:\/\/www.spiwierzyce.pl",
+                "ref:regon": "691678391",
+                "ref:vatin": "PL8181621602",
+                "operator": "Gmina Iwierzyce",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 42399"
+            }
+        },
+        {
+            "id": 50362,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.75303,
+                    50.02891
+                ]
+            },
+            "properties": {
+                "ref:rspo": 50362,
+                "official_name": "Publiczne Przedszkole w Iwierzycach",
+                "name": "Publiczne Przedszkole w Iwierzycach",
+                "addr:country": "PL",
+                "addr:postcode": "39-124",
+                "addr:place": "Iwierzyce",
+                "addr:housenumber": "186",
+                "addr:teryt:sym_ul": 651648,
+                "contact:phone": "+48 177455943",
+                "contact:email": "ppiwierzyce@op.pl",
+                "ref:regon": "690010538",
+                "ref:vatin": "PL8181621677",
+                "operator": "Gmina Iwierzyce",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 42399"
+            }
+        },
+        {
+            "id": 42398,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.76096,
+                    50.05473
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 42398,
+                "official_name": "Szko\u0142a Podstawowa w Olchowej im. Marii Konopnickiej",
+                "name": "Szko\u0142a Podstawowa w Olchowej",
+                "addr:country": "PL",
+                "addr:postcode": "39-127",
+                "addr:place": "Olchowa",
+                "addr:housenumber": "3",
+                "addr:teryt:sym_ul": 651737,
+                "contact:phone": "+48 177452037",
+                "contact:email": "spolchowa@o2.pl",
+                "contact:website": "http:\/\/www.spolchowa.pl",
+                "ref:regon": "691678474",
+                "ref:vatin": "PL8181621648",
+                "operator": "Gmina Iwierzyce",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

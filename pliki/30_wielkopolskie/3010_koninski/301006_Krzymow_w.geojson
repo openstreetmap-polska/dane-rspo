@@ -1,1 +1,216 @@
-{"type":"FeatureCollection","features":[{"id":3704,"type":"Feature","geometry":{"type":"Point","coordinates":[18.378764,52.15392]},"properties":{"isced:level":"1;2","ref:rspo":3704,"official_name":"Niepubliczna Szko\u0142a Podstawowa w Sm\u00f3lniku","name":"Niepubliczna Szko\u0142a Podstawowa w Sm\u00f3lniku","addr:country":"PL","addr:postcode":"62-513","addr:place":"Sm\u00f3lnik","addr:housenumber":"20a","addr:teryt:sym_ul":289414,"contact:phone":"+48 632413171","contact:email":"spsmolnik@poczta.onet.pl","contact:website":"http:\/\/www.spsmolnik.szkolnastrona.pl","ref:regon":"302185081","operator":"Stowarzyszenie Przyjaci\u00f3\u0142 Szk\u00f3\u0142 Podstawowych W Borowie I W Sm\u00f3lniku \"U\u015bmiechni\u0119ta Szko\u0142a\"","operator:type":"ngo","amenity":"school"}},{"id":11200,"type":"Feature","geometry":{"type":"Point","coordinates":[18.4197099,52.17265]},"properties":{"isced:level":"1;2","ref:rspo":11200,"official_name":"Szko\u0142a Podstawowa im. Jana Brzechwy w Paprotni","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"62-513","addr:city":"Paprotnia","addr:street":"ul. Zielona","addr:housenumber":"12","addr:teryt:simc":26081,"addr:teryt:sym_ul":289348,"contact:phone":"+48 632493668","contact:email":"zielona@sppaprotnia.konin.pl","contact:website":"http:\/\/www.sppaprotnia.konin.pl","ref:regon":"001190110","operator":"Gmina Krzym\u00f3w","operator:type":"government","amenity":"school"}},{"id":3605,"type":"Feature","geometry":{"type":"Point","coordinates":[18.3675159,52.1848169]},"properties":{"isced:level":"1;2","ref:rspo":3605,"official_name":"Niepubliczna Szko\u0142a Podstawowa w G\u0142odnie","name":"Niepubliczna Szko\u0142a Podstawowa w G\u0142odnie","addr:country":"PL","addr:postcode":"62-513","addr:place":"G\u0142odno","addr:housenumber":"20","addr:teryt:sym_ul":289176,"contact:phone":"+48 603293601","contact:email":"szkolaglodno@onet.pl","contact:website":"http:\/\/www.spglodno.pl","ref:regon":"302184800","operator":"Stowarzyszenie Edukacyjne \"Aktywni Rodzice\"","operator:type":"ngo","amenity":"school"}},{"id":24724,"type":"Feature","geometry":{"type":"Point","coordinates":[18.3037,52.19452]},"properties":{"isced:level":"1;2","ref:rspo":24724,"official_name":"Szko\u0142a Podstawowa im. Marii Konopnickiej w Brze\u017anie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"62-513","addr:city":"Brze\u017ano","addr:street":"ul. Kwiatowa","addr:housenumber":"20a","addr:teryt:simc":10562,"addr:teryt:sym_ul":289058,"contact:phone":"+48 632414706","contact:email":"zsbrzezno@poczta.onet.pl","contact:website":"http:\/\/zsbrzezno.szkolnastrona.pl","ref:regon":"001190296","operator":"Gmina Krzym\u00f3w","operator:type":"government","amenity":"school"}},{"id":24716,"type":"Feature","geometry":{"type":"Point","coordinates":[18.44027,52.19628]},"properties":{"isced:level":"1;2","ref:rspo":24716,"official_name":"Szko\u0142a Podstawowa Im . Miko\u0142aja Kopernika","name":"Szko\u0142a Podstawowa Im . Miko\u0142aja Kopernika","addr:country":"PL","addr:postcode":"62-513","addr:city":"Krzym\u00f3w","addr:street":"ul. G\u0142\u00f3wna","addr:housenumber":"1","addr:teryt:simc":5635,"addr:teryt:sym_ul":289288,"contact:phone":"+48 632413047","contact:email":"zskrzymow@wp.pl","contact:website":"http:\/\/www.spkrzymow.pl","ref:regon":"000272508","operator":"Gmina Krzym\u00f3w","operator:type":"government","amenity":"school"}},{"id":11199,"type":"Feature","geometry":{"type":"Point","coordinates":[18.32238,52.21162]},"properties":{"isced:level":"1;2","ref:rspo":11199,"official_name":"Szko\u0142a Podstawowa w Szczepidle","name":"Szko\u0142a Podstawowa w Szczepidle","addr:country":"PL","addr:postcode":"62-513","addr:city":"Szczepid\u0142o","addr:street":"ul. Macierzanki","addr:housenumber":"3","addr:teryt:simc":11849,"addr:teryt:sym_ul":289450,"contact:phone":"+48 632414630","contact:email":"spszczepidlo@op.pl","contact:website":"http:\/\/spszczepidlo.edupage.org","ref:regon":"001190103","operator":"Gmina Krzym\u00f3w","operator:type":"government","amenity":"school"}},{"id":3728,"type":"Feature","geometry":{"type":"Point","coordinates":[18.3076411,52.2526177]},"properties":{"isced:level":"1;2","ref:rspo":3728,"official_name":"Niepubliczna Szko\u0142a Podstawowa w Borowie","name":"Niepubliczna Szko\u0142a Podstawowa w Borowie","addr:country":"PL","addr:postcode":"62-513","addr:place":"Borowo","addr:housenumber":"12","addr:teryt:sym_ul":288952,"contact:phone":"+48 632413101","contact:email":"sp.borowo@wp.pl","contact:website":"http:\/\/www.nspborowo.szkolnastrona.pl","ref:regon":"302185164","operator":"Stowarzyszenie Przyjaci\u00f3\u0142 Szk\u00f3\u0142 Podstawowych W Borowie I W Sm\u00f3lniku \"U\u015bmiechni\u0119ta Szko\u0142a\"","operator:type":"ngo","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 3704,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.378764,
+                    52.15392
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 3704,
+                "official_name": "Niepubliczna Szko\u0142a Podstawowa w Sm\u00f3lniku",
+                "name": "Niepubliczna Szko\u0142a Podstawowa w Sm\u00f3lniku",
+                "addr:country": "PL",
+                "addr:postcode": "62-513",
+                "addr:place": "Sm\u00f3lnik",
+                "addr:housenumber": "20a",
+                "addr:teryt:sym_ul": 289414,
+                "contact:phone": "+48 632413171",
+                "contact:email": "spsmolnik@poczta.onet.pl",
+                "contact:website": "http:\/\/www.spsmolnik.szkolnastrona.pl",
+                "ref:regon": "302185081",
+                "operator": "Stowarzyszenie Przyjaci\u00f3\u0142 Szk\u00f3\u0142 Podstawowych W Borowie I W Sm\u00f3lniku \"U\u015bmiechni\u0119ta Szko\u0142a\"",
+                "operator:type": "ngo",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 11200,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.4197099,
+                    52.17265
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 11200,
+                "official_name": "Szko\u0142a Podstawowa im. Jana Brzechwy w Paprotni",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "62-513",
+                "addr:city": "Paprotnia",
+                "addr:street": "ul. Zielona",
+                "addr:housenumber": "12",
+                "addr:teryt:simc": 26081,
+                "addr:teryt:sym_ul": 289348,
+                "contact:phone": "+48 632493668",
+                "contact:email": "zielona@sppaprotnia.konin.pl",
+                "contact:website": "http:\/\/www.sppaprotnia.konin.pl",
+                "ref:regon": "001190110",
+                "operator": "Gmina Krzym\u00f3w",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 3605,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.3675159,
+                    52.1848169
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 3605,
+                "official_name": "Niepubliczna Szko\u0142a Podstawowa w G\u0142odnie",
+                "name": "Niepubliczna Szko\u0142a Podstawowa w G\u0142odnie",
+                "addr:country": "PL",
+                "addr:postcode": "62-513",
+                "addr:place": "G\u0142odno",
+                "addr:housenumber": "20",
+                "addr:teryt:sym_ul": 289176,
+                "contact:phone": "+48 603293601",
+                "contact:email": "szkolaglodno@onet.pl",
+                "contact:website": "http:\/\/www.spglodno.pl",
+                "ref:regon": "302184800",
+                "operator": "Stowarzyszenie Edukacyjne \"Aktywni Rodzice\"",
+                "operator:type": "ngo",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 24724,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.3037,
+                    52.19452
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 24724,
+                "official_name": "Szko\u0142a Podstawowa im. Marii Konopnickiej w Brze\u017anie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "62-513",
+                "addr:city": "Brze\u017ano",
+                "addr:street": "ul. Kwiatowa",
+                "addr:housenumber": "20a",
+                "addr:teryt:simc": 10562,
+                "addr:teryt:sym_ul": 289058,
+                "contact:phone": "+48 632414706",
+                "contact:email": "zsbrzezno@poczta.onet.pl",
+                "contact:website": "http:\/\/zsbrzezno.szkolnastrona.pl",
+                "ref:regon": "001190296",
+                "operator": "Gmina Krzym\u00f3w",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 24716,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.44027,
+                    52.19628
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 24716,
+                "official_name": "Szko\u0142a Podstawowa Im . Miko\u0142aja Kopernika",
+                "name": "Szko\u0142a Podstawowa Im . Miko\u0142aja Kopernika",
+                "addr:country": "PL",
+                "addr:postcode": "62-513",
+                "addr:city": "Krzym\u00f3w",
+                "addr:street": "ul. G\u0142\u00f3wna",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 5635,
+                "addr:teryt:sym_ul": 289288,
+                "contact:phone": "+48 632413047",
+                "contact:email": "zskrzymow@wp.pl",
+                "contact:website": "http:\/\/www.spkrzymow.pl",
+                "ref:regon": "000272508",
+                "operator": "Gmina Krzym\u00f3w",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 11199,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.32238,
+                    52.21162
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 11199,
+                "official_name": "Szko\u0142a Podstawowa w Szczepidle",
+                "name": "Szko\u0142a Podstawowa w Szczepidle",
+                "addr:country": "PL",
+                "addr:postcode": "62-513",
+                "addr:city": "Szczepid\u0142o",
+                "addr:street": "ul. Macierzanki",
+                "addr:housenumber": "3",
+                "addr:teryt:simc": 11849,
+                "addr:teryt:sym_ul": 289450,
+                "contact:phone": "+48 632414630",
+                "contact:email": "spszczepidlo@op.pl",
+                "contact:website": "http:\/\/spszczepidlo.edupage.org",
+                "ref:regon": "001190103",
+                "operator": "Gmina Krzym\u00f3w",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 3728,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.3076411,
+                    52.2526177
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 3728,
+                "official_name": "Niepubliczna Szko\u0142a Podstawowa w Borowie",
+                "name": "Niepubliczna Szko\u0142a Podstawowa w Borowie",
+                "addr:country": "PL",
+                "addr:postcode": "62-513",
+                "addr:place": "Borowo",
+                "addr:housenumber": "12",
+                "addr:teryt:sym_ul": 288952,
+                "contact:phone": "+48 632413101",
+                "contact:email": "sp.borowo@wp.pl",
+                "contact:website": "http:\/\/www.nspborowo.szkolnastrona.pl",
+                "ref:regon": "302185164",
+                "operator": "Stowarzyszenie Przyjaci\u00f3\u0142 Szk\u00f3\u0142 Podstawowych W Borowie I W Sm\u00f3lniku \"U\u015bmiechni\u0119ta Szko\u0142a\"",
+                "operator:type": "ngo",
+                "amenity": "school"
+            }
+        }
+    ]
+}

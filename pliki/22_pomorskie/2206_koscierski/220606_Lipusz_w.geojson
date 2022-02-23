@@ -1,1 +1,183 @@
-{"type":"FeatureCollection","features":[{"id":24412,"type":"Feature","geometry":{"type":"Point","coordinates":[17.7306191,54.071623]},"properties":{"isced:level":"1;2","ref:rspo":24412,"official_name":"Szko\u0142a Podstawowa w Tuszkowach","name":"Szko\u0142a Podstawowa w Tuszkowach","addr:country":"PL","addr:postcode":"83-424","addr:place":"Tuszkowy","addr:housenumber":"2","addr:teryt:sym_ul":166410,"contact:phone":"+48 586874884","contact:email":"tuszkowy@poczta.onet.pl","ref:regon":"190962409","ref:vatin":"PL5911576888","operator":"Gmina Lipusz","operator:type":"government","amenity":"school"}},{"id":264714,"type":"Feature","geometry":{"type":"Point","coordinates":[17.7306191,54.071593]},"properties":{"ref:rspo":264714,"official_name":"Przedszkole Niepubliczne \"Kaszubskie Skrzaty\"","name":"Przedszkole Niepubliczne \"Kaszubskie Skrzaty\"","addr:country":"PL","addr:postcode":"83-424","addr:place":"Tuszkowy","addr:housenumber":"2","addr:teryt:sym_ul":166410,"contact:email":"kaszubskieskrzaty@gmail.com","ref:regon":"368431031","operator":"Stowarzyszenie \"Tuszk\u00f3wsk\u00f4 Matka\"","operator:type":"ngo","amenity":"kindergarten"}},{"id":24201,"type":"Feature","geometry":{"type":"Point","coordinates":[17.7799799,54.10308]},"properties":{"ref:rspo":24201,"official_name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 w Lipuszu","name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 w Lipuszu","addr:country":"PL","addr:postcode":"83-424","addr:city":"Lipusz","addr:street":"ul. Derdowskiego","addr:housenumber":"7A","addr:teryt:simc":3767,"addr:teryt:sym_ul":166120,"contact:phone":"+48 586874632","contact:email":"zslipusz@wp.pl","ref:regon":"192909550","ref:vatin":"PL5911576871","operator":"Gmina Lipusz","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 52888;52891"}},{"id":69061,"type":"Feature","geometry":{"type":"Point","coordinates":[17.7799799,54.103049999999996]},"properties":{"isced:level":"3","ref:rspo":69061,"official_name":"Zaoczne Liceum Og\u00f3lnokszta\u0142c\u0105ce w Lipuszu","name":"Zaoczne Liceum Og\u00f3lnokszta\u0142c\u0105ce w Lipuszu","addr:country":"PL","addr:postcode":"83-424","addr:city":"Lipusz","addr:street":"ul. Derdowskiego","addr:housenumber":"7A","addr:teryt:simc":3767,"addr:teryt:sym_ul":166120,"contact:phone":"+48 586874632","ref:regon":"221772042","ref:vatin":"PL9581367177","operator":"Interucze\u0144 Bo\u017cena Bednarowicz","operator:type":"private","amenity":"school"}},{"id":52888,"type":"Feature","geometry":{"type":"Point","coordinates":[17.7799799,54.10302]},"properties":{"ref:rspo":52888,"official_name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 w Lipuszu - Przedszkole","name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 w Lipuszu - Przedszkole","addr:country":"PL","addr:postcode":"83-424","addr:city":"Lipusz","addr:street":"ul. Derdowskiego","addr:housenumber":"7A","addr:teryt:simc":3767,"addr:teryt:sym_ul":166120,"contact:phone":"+48 586874632","contact:email":"zslipusz@wp.pl","ref:regon":"190582517","operator":"Gmina Lipusz","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 24201"}},{"id":52891,"type":"Feature","geometry":{"type":"Point","coordinates":[17.7799799,54.10299]},"properties":{"isced:level":"1;2","ref:rspo":52891,"official_name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 w Lipuszu - Szko\u0142a Podstawowa","name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 w Lipuszu - Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"83-424","addr:city":"Lipusz","addr:street":"ul. Derdowskiego","addr:housenumber":"7A","addr:teryt:simc":3767,"addr:teryt:sym_ul":166120,"contact:phone":"+48 586874632","contact:email":"zslipusz@wp.pl","ref:regon":"190962415","operator":"Gmina Lipusz","operator:type":"government","amenity":"school","note":"Parent RSPO: 24201"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 24412,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.7306191,
+                    54.071623
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 24412,
+                "official_name": "Szko\u0142a Podstawowa w Tuszkowach",
+                "name": "Szko\u0142a Podstawowa w Tuszkowach",
+                "addr:country": "PL",
+                "addr:postcode": "83-424",
+                "addr:place": "Tuszkowy",
+                "addr:housenumber": "2",
+                "addr:teryt:sym_ul": 166410,
+                "contact:phone": "+48 586874884",
+                "contact:email": "tuszkowy@poczta.onet.pl",
+                "ref:regon": "190962409",
+                "ref:vatin": "PL5911576888",
+                "operator": "Gmina Lipusz",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 264714,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.7306191,
+                    54.071593
+                ]
+            },
+            "properties": {
+                "ref:rspo": 264714,
+                "official_name": "Przedszkole Niepubliczne \"Kaszubskie Skrzaty\"",
+                "name": "Przedszkole Niepubliczne \"Kaszubskie Skrzaty\"",
+                "addr:country": "PL",
+                "addr:postcode": "83-424",
+                "addr:place": "Tuszkowy",
+                "addr:housenumber": "2",
+                "addr:teryt:sym_ul": 166410,
+                "contact:email": "kaszubskieskrzaty@gmail.com",
+                "ref:regon": "368431031",
+                "operator": "Stowarzyszenie \"Tuszk\u00f3wsk\u00f4 Matka\"",
+                "operator:type": "ngo",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 24201,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.7799799,
+                    54.10308
+                ]
+            },
+            "properties": {
+                "ref:rspo": 24201,
+                "official_name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 w Lipuszu",
+                "name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 w Lipuszu",
+                "addr:country": "PL",
+                "addr:postcode": "83-424",
+                "addr:city": "Lipusz",
+                "addr:street": "ul. Derdowskiego",
+                "addr:housenumber": "7A",
+                "addr:teryt:simc": 3767,
+                "addr:teryt:sym_ul": 166120,
+                "contact:phone": "+48 586874632",
+                "contact:email": "zslipusz@wp.pl",
+                "ref:regon": "192909550",
+                "ref:vatin": "PL5911576871",
+                "operator": "Gmina Lipusz",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 52888;52891"
+            }
+        },
+        {
+            "id": 69061,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.7799799,
+                    54.103049999999996
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 69061,
+                "official_name": "Zaoczne Liceum Og\u00f3lnokszta\u0142c\u0105ce w Lipuszu",
+                "name": "Zaoczne Liceum Og\u00f3lnokszta\u0142c\u0105ce w Lipuszu",
+                "addr:country": "PL",
+                "addr:postcode": "83-424",
+                "addr:city": "Lipusz",
+                "addr:street": "ul. Derdowskiego",
+                "addr:housenumber": "7A",
+                "addr:teryt:simc": 3767,
+                "addr:teryt:sym_ul": 166120,
+                "contact:phone": "+48 586874632",
+                "ref:regon": "221772042",
+                "ref:vatin": "PL9581367177",
+                "operator": "Interucze\u0144 Bo\u017cena Bednarowicz",
+                "operator:type": "private",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 52888,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.7799799,
+                    54.10302
+                ]
+            },
+            "properties": {
+                "ref:rspo": 52888,
+                "official_name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 w Lipuszu - Przedszkole",
+                "name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 w Lipuszu - Przedszkole",
+                "addr:country": "PL",
+                "addr:postcode": "83-424",
+                "addr:city": "Lipusz",
+                "addr:street": "ul. Derdowskiego",
+                "addr:housenumber": "7A",
+                "addr:teryt:simc": 3767,
+                "addr:teryt:sym_ul": 166120,
+                "contact:phone": "+48 586874632",
+                "contact:email": "zslipusz@wp.pl",
+                "ref:regon": "190582517",
+                "operator": "Gmina Lipusz",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 24201"
+            }
+        },
+        {
+            "id": 52891,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.7799799,
+                    54.10299
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 52891,
+                "official_name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 w Lipuszu - Szko\u0142a Podstawowa",
+                "name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 w Lipuszu - Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "83-424",
+                "addr:city": "Lipusz",
+                "addr:street": "ul. Derdowskiego",
+                "addr:housenumber": "7A",
+                "addr:teryt:simc": 3767,
+                "addr:teryt:sym_ul": 166120,
+                "contact:phone": "+48 586874632",
+                "contact:email": "zslipusz@wp.pl",
+                "ref:regon": "190962415",
+                "operator": "Gmina Lipusz",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 24201"
+            }
+        }
+    ]
+}

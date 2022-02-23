@@ -1,1 +1,66 @@
-{"type":"FeatureCollection","features":[{"id":84009,"type":"Feature","geometry":{"type":"Point","coordinates":[16.86551,50.86475]},"properties":{"isced:level":"1;2","ref:rspo":84009,"official_name":"Publiczna Szko\u0142a Podstawowa Imienia Marii Konopnickiej w Jordanowie \u015aL\u0105skim","name":"Publiczna Szko\u0142a Podstawowa Imienia Marii Konopnickiej w Jordanowie \u015aL\u0105skim","addr:country":"PL","addr:postcode":"55-065","addr:city":"Jordan\u00f3w \u015al\u0105ski","addr:street":"ul. Wroc\u0142awska","addr:housenumber":"55","addr:teryt:simc":24806,"addr:teryt:sym_ul":874779,"contact:phone":"+48 713161615","contact:email":"dyrektor.spjordanow@onet.pl","contact:website":"http:\/\/pspjordanowslaski.szkolnastrona.pl","ref:regon":"001031422","ref:vatin":"PL9141196027","operator":"Gmina Jordan\u00f3w \u015al\u0105ski","operator:type":"government","amenity":"school"}},{"id":84195,"type":"Feature","geometry":{"type":"Point","coordinates":[16.86551,50.86472]},"properties":{"ref:rspo":84195,"official_name":"Zesp\u00f3\u0142 Wychowania Przedszkolnego \"Weso\u0142e Przedszkole\"","name":"Zesp\u00f3\u0142 Wychowania Przedszkolnego \"Weso\u0142e Przedszkole\"","addr:country":"PL","addr:postcode":"55-065","addr:city":"Jordan\u00f3w \u015al\u0105ski","addr:street":"ul. Wroc\u0142awska","addr:housenumber":"55","addr:teryt:simc":24806,"addr:teryt:sym_ul":874779,"contact:phone":"+48 791584262","contact:email":"ug@jordanowslaski.pl","ref:regon":"022008250","operator":"Stowarzyszenie \"Wszystko Dla Gminy\"","operator:type":"ngo","amenity":"kindergarten"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 84009,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.86551,
+                    50.86475
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 84009,
+                "official_name": "Publiczna Szko\u0142a Podstawowa Imienia Marii Konopnickiej w Jordanowie \u015aL\u0105skim",
+                "name": "Publiczna Szko\u0142a Podstawowa Imienia Marii Konopnickiej w Jordanowie \u015aL\u0105skim",
+                "addr:country": "PL",
+                "addr:postcode": "55-065",
+                "addr:city": "Jordan\u00f3w \u015al\u0105ski",
+                "addr:street": "ul. Wroc\u0142awska",
+                "addr:housenumber": "55",
+                "addr:teryt:simc": 24806,
+                "addr:teryt:sym_ul": 874779,
+                "contact:phone": "+48 713161615",
+                "contact:email": "dyrektor.spjordanow@onet.pl",
+                "contact:website": "http:\/\/pspjordanowslaski.szkolnastrona.pl",
+                "ref:regon": "001031422",
+                "ref:vatin": "PL9141196027",
+                "operator": "Gmina Jordan\u00f3w \u015al\u0105ski",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 84195,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.86551,
+                    50.86472
+                ]
+            },
+            "properties": {
+                "ref:rspo": 84195,
+                "official_name": "Zesp\u00f3\u0142 Wychowania Przedszkolnego \"Weso\u0142e Przedszkole\"",
+                "name": "Zesp\u00f3\u0142 Wychowania Przedszkolnego \"Weso\u0142e Przedszkole\"",
+                "addr:country": "PL",
+                "addr:postcode": "55-065",
+                "addr:city": "Jordan\u00f3w \u015al\u0105ski",
+                "addr:street": "ul. Wroc\u0142awska",
+                "addr:housenumber": "55",
+                "addr:teryt:simc": 24806,
+                "addr:teryt:sym_ul": 874779,
+                "contact:phone": "+48 791584262",
+                "contact:email": "ug@jordanowslaski.pl",
+                "ref:regon": "022008250",
+                "operator": "Stowarzyszenie \"Wszystko Dla Gminy\"",
+                "operator:type": "ngo",
+                "amenity": "kindergarten"
+            }
+        }
+    ]
+}

@@ -1,1 +1,128 @@
-{"type":"FeatureCollection","features":[{"id":107156,"type":"Feature","geometry":{"type":"Point","coordinates":[20.23142,54.0006]},"properties":{"isced:level":"1;2","ref:rspo":107156,"official_name":"Szko\u0142a Podstawowa w Wilczkowie","name":"Szko\u0142a Podstawowa w Wilczkowie","addr:country":"PL","addr:postcode":"11-135","addr:place":"Wilczkowo","addr:housenumber":"73","addr:teryt:sym_ul":480721,"contact:phone":"+48 896165524","contact:email":"sp.wilczkowo@wp.pl","contact:website":"http:\/\/spwilczkowo.idsl.pl","ref:regon":"001206502","operator":"Gmina Lubomino","operator:type":"government","amenity":"school"}},{"id":107157,"type":"Feature","geometry":{"type":"Point","coordinates":[20.23424,54.06658]},"properties":{"ref:rspo":107157,"official_name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 w Lubominie","name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 w Lubominie","addr:country":"PL","addr:postcode":"11-135","addr:city":"Lubomino","addr:street":"ul. Kopernika","addr:housenumber":"4","addr:teryt:simc":9276,"addr:teryt:sym_ul":480626,"contact:phone":"+48 896160786","contact:email":"zswl1@wp.pl","ref:regon":"510623769","ref:vatin":"PL7392783353","operator":"Gmina Lubomino","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 112157;112164"}},{"id":112157,"type":"Feature","geometry":{"type":"Point","coordinates":[20.23424,54.06655]},"properties":{"isced:level":"1;2","ref:rspo":112157,"official_name":"Szko\u0142a Podstawowa im. Or\u0142a Bia\u0142ego w Lubominie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"11-135","addr:city":"Lubomino","addr:street":"ul. Kopernika","addr:housenumber":"4","addr:teryt:simc":9276,"addr:teryt:sym_ul":480626,"contact:phone":"+48 896160786","contact:email":"zswl1@wp.pl","ref:regon":"170989708","ref:vatin":"PL7392783353","operator":"Gmina Lubomino","operator:type":"government","amenity":"school","note":"Parent RSPO: 107157"}},{"id":112164,"type":"Feature","geometry":{"type":"Point","coordinates":[20.23424,54.066520000000004]},"properties":{"ref:rspo":112164,"official_name":"Samorz\u0105dowe Przedszkole w Lubominie","name":"Samorz\u0105dowe Przedszkole w Lubominie","addr:country":"PL","addr:postcode":"11-135","addr:city":"Lubomino","addr:street":"ul. Kopernika","addr:housenumber":"4","addr:teryt:simc":9276,"addr:teryt:sym_ul":480626,"contact:phone":"+48 896160786","contact:email":"zswl1@wp.pl","ref:regon":"170989714","operator":"Gmina Lubomino","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 107157"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 107156,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.23142,
+                    54.0006
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 107156,
+                "official_name": "Szko\u0142a Podstawowa w Wilczkowie",
+                "name": "Szko\u0142a Podstawowa w Wilczkowie",
+                "addr:country": "PL",
+                "addr:postcode": "11-135",
+                "addr:place": "Wilczkowo",
+                "addr:housenumber": "73",
+                "addr:teryt:sym_ul": 480721,
+                "contact:phone": "+48 896165524",
+                "contact:email": "sp.wilczkowo@wp.pl",
+                "contact:website": "http:\/\/spwilczkowo.idsl.pl",
+                "ref:regon": "001206502",
+                "operator": "Gmina Lubomino",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 107157,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.23424,
+                    54.06658
+                ]
+            },
+            "properties": {
+                "ref:rspo": 107157,
+                "official_name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 w Lubominie",
+                "name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 w Lubominie",
+                "addr:country": "PL",
+                "addr:postcode": "11-135",
+                "addr:city": "Lubomino",
+                "addr:street": "ul. Kopernika",
+                "addr:housenumber": "4",
+                "addr:teryt:simc": 9276,
+                "addr:teryt:sym_ul": 480626,
+                "contact:phone": "+48 896160786",
+                "contact:email": "zswl1@wp.pl",
+                "ref:regon": "510623769",
+                "ref:vatin": "PL7392783353",
+                "operator": "Gmina Lubomino",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 112157;112164"
+            }
+        },
+        {
+            "id": 112157,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.23424,
+                    54.06655
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 112157,
+                "official_name": "Szko\u0142a Podstawowa im. Or\u0142a Bia\u0142ego w Lubominie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "11-135",
+                "addr:city": "Lubomino",
+                "addr:street": "ul. Kopernika",
+                "addr:housenumber": "4",
+                "addr:teryt:simc": 9276,
+                "addr:teryt:sym_ul": 480626,
+                "contact:phone": "+48 896160786",
+                "contact:email": "zswl1@wp.pl",
+                "ref:regon": "170989708",
+                "ref:vatin": "PL7392783353",
+                "operator": "Gmina Lubomino",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 107157"
+            }
+        },
+        {
+            "id": 112164,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.23424,
+                    54.066520000000004
+                ]
+            },
+            "properties": {
+                "ref:rspo": 112164,
+                "official_name": "Samorz\u0105dowe Przedszkole w Lubominie",
+                "name": "Samorz\u0105dowe Przedszkole w Lubominie",
+                "addr:country": "PL",
+                "addr:postcode": "11-135",
+                "addr:city": "Lubomino",
+                "addr:street": "ul. Kopernika",
+                "addr:housenumber": "4",
+                "addr:teryt:simc": 9276,
+                "addr:teryt:sym_ul": 480626,
+                "contact:phone": "+48 896160786",
+                "contact:email": "zswl1@wp.pl",
+                "ref:regon": "170989714",
+                "operator": "Gmina Lubomino",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 107157"
+            }
+        }
+    ]
+}

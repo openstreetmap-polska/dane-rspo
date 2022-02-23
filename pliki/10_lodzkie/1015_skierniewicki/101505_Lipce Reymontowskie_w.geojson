@@ -1,1 +1,153 @@
-{"type":"FeatureCollection","features":[{"id":103758,"type":"Feature","geometry":{"type":"Point","coordinates":[19.99155,51.88761]},"properties":{"isced:level":"1;2","ref:rspo":103758,"official_name":"Szko\u0142a Podstawowa im. Janusza Korczaka w Drzewcach","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"96-127","addr:place":"Drzewce","addr:housenumber":"165","addr:teryt:sym_ul":729830,"contact:phone":"+48 468316191","contact:email":"spdrzewce@poczta.onet.pl","contact:website":"http:\/\/spdrzewce.szkolnastrona.pl","ref:regon":"101491385","ref:vatin":"PL8361681876","operator":"Stowarzyszenie Mieszka\u0144c\u00f3w Wsi Drzewce","operator:type":"ngo","amenity":"school"}},{"id":279105,"type":"Feature","geometry":{"type":"Point","coordinates":[19.93774,51.89735]},"properties":{"ref:rspo":279105,"official_name":"Gminne Przedszkole w Lipcach Reymontowskich","name":"Gminne Przedszkole w Lipcach Reymontowskich","addr:country":"PL","addr:postcode":"96-127","addr:city":"Lipce Reymontowskie","addr:street":"ul. Nowickiej","addr:housenumber":"5","addr:teryt:simc":27403,"addr:teryt:sym_ul":729882,"ref:regon":"520671654","ref:vatin":"PL8361878679","operator":"Gmina Lipce Reymontowskie","operator:type":"government","amenity":"kindergarten"}},{"id":49790,"type":"Feature","geometry":{"type":"Point","coordinates":[19.94133,51.89837]},"properties":{"isced:level":"1;2","ref:rspo":49790,"official_name":"Szko\u0142a Podstawowa im. W\u0142. St. Reymonta w Lipcach Reymontowskich","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"96-127","addr:city":"Lipce Reymontowskie","addr:street":"ul. Reymonta","addr:housenumber":"15","addr:teryt:simc":18645,"addr:teryt:sym_ul":729882,"contact:phone":"+48 468316182","contact:email":"sp_lipcereymontowskie@o2.pl","ref:regon":"000552337","ref:vatin":"PL8361681882","operator":"Gmina Lipce Reymontowskie","operator:type":"government","amenity":"school"}},{"id":56669,"type":"Feature","geometry":{"type":"Point","coordinates":[19.90032,51.89894]},"properties":{"isced:level":"1;2","ref:rspo":56669,"official_name":"Szko\u0142a Podstawowa w Mszadli","name":"Szko\u0142a Podstawowa w Mszadli","addr:country":"PL","addr:postcode":"96-127","addr:place":"Mszadla","addr:housenumber":"98","addr:teryt:sym_ul":729959,"contact:phone":"+48 468316895","contact:email":"spmszadla@op.pl","ref:regon":"101491416","ref:vatin":"PL8361681824","operator":"Stowarzyszenie Mieszka\u0144c\u00f3w Wsi Mszadla I Okolic","operator:type":"ngo","amenity":"school"}},{"id":56503,"type":"Feature","geometry":{"type":"Point","coordinates":[19.94248,51.9015]},"properties":{"ref:rspo":56503,"official_name":"Przedszkole w Lipcach Reymontowskich","name":"Przedszkole w Lipcach Reymontowskich","addr:country":"PL","addr:postcode":"96-127","addr:city":"Lipce Reymontowskie","addr:street":"ul. Reymonta","addr:housenumber":"17","addr:teryt:simc":18645,"addr:teryt:sym_ul":729882,"contact:phone":"+48 468316125","contact:email":"przedszkolelipce@wp.pl","ref:regon":"100161533","ref:vatin":"PL8361776387","operator":"Gmina Lipce Reymontowskie","operator:type":"government","amenity":"kindergarten"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 103758,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.99155,
+                    51.88761
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 103758,
+                "official_name": "Szko\u0142a Podstawowa im. Janusza Korczaka w Drzewcach",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "96-127",
+                "addr:place": "Drzewce",
+                "addr:housenumber": "165",
+                "addr:teryt:sym_ul": 729830,
+                "contact:phone": "+48 468316191",
+                "contact:email": "spdrzewce@poczta.onet.pl",
+                "contact:website": "http:\/\/spdrzewce.szkolnastrona.pl",
+                "ref:regon": "101491385",
+                "ref:vatin": "PL8361681876",
+                "operator": "Stowarzyszenie Mieszka\u0144c\u00f3w Wsi Drzewce",
+                "operator:type": "ngo",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 279105,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.93774,
+                    51.89735
+                ]
+            },
+            "properties": {
+                "ref:rspo": 279105,
+                "official_name": "Gminne Przedszkole w Lipcach Reymontowskich",
+                "name": "Gminne Przedszkole w Lipcach Reymontowskich",
+                "addr:country": "PL",
+                "addr:postcode": "96-127",
+                "addr:city": "Lipce Reymontowskie",
+                "addr:street": "ul. Nowickiej",
+                "addr:housenumber": "5",
+                "addr:teryt:simc": 27403,
+                "addr:teryt:sym_ul": 729882,
+                "ref:regon": "520671654",
+                "ref:vatin": "PL8361878679",
+                "operator": "Gmina Lipce Reymontowskie",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 49790,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.94133,
+                    51.89837
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 49790,
+                "official_name": "Szko\u0142a Podstawowa im. W\u0142. St. Reymonta w Lipcach Reymontowskich",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "96-127",
+                "addr:city": "Lipce Reymontowskie",
+                "addr:street": "ul. Reymonta",
+                "addr:housenumber": "15",
+                "addr:teryt:simc": 18645,
+                "addr:teryt:sym_ul": 729882,
+                "contact:phone": "+48 468316182",
+                "contact:email": "sp_lipcereymontowskie@o2.pl",
+                "ref:regon": "000552337",
+                "ref:vatin": "PL8361681882",
+                "operator": "Gmina Lipce Reymontowskie",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 56669,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.90032,
+                    51.89894
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 56669,
+                "official_name": "Szko\u0142a Podstawowa w Mszadli",
+                "name": "Szko\u0142a Podstawowa w Mszadli",
+                "addr:country": "PL",
+                "addr:postcode": "96-127",
+                "addr:place": "Mszadla",
+                "addr:housenumber": "98",
+                "addr:teryt:sym_ul": 729959,
+                "contact:phone": "+48 468316895",
+                "contact:email": "spmszadla@op.pl",
+                "ref:regon": "101491416",
+                "ref:vatin": "PL8361681824",
+                "operator": "Stowarzyszenie Mieszka\u0144c\u00f3w Wsi Mszadla I Okolic",
+                "operator:type": "ngo",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 56503,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.94248,
+                    51.9015
+                ]
+            },
+            "properties": {
+                "ref:rspo": 56503,
+                "official_name": "Przedszkole w Lipcach Reymontowskich",
+                "name": "Przedszkole w Lipcach Reymontowskich",
+                "addr:country": "PL",
+                "addr:postcode": "96-127",
+                "addr:city": "Lipce Reymontowskie",
+                "addr:street": "ul. Reymonta",
+                "addr:housenumber": "17",
+                "addr:teryt:simc": 18645,
+                "addr:teryt:sym_ul": 729882,
+                "contact:phone": "+48 468316125",
+                "contact:email": "przedszkolelipce@wp.pl",
+                "ref:regon": "100161533",
+                "ref:vatin": "PL8361776387",
+                "operator": "Gmina Lipce Reymontowskie",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        }
+    ]
+}

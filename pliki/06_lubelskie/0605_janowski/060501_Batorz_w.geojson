@@ -1,1 +1,120 @@
-{"type":"FeatureCollection","features":[{"id":29846,"type":"Feature","geometry":{"type":"Point","coordinates":[22.42276,50.84569]},"properties":{"isced:level":"1;2","ref:rspo":29846,"official_name":"Publiczna Szko\u0142a Podstawowa w B\u0142a\u017cku","name":"Publiczna Szko\u0142a Podstawowa w B\u0142a\u017cku","addr:country":"PL","addr:postcode":"23-320","addr:place":"B\u0142a\u017cek","addr:housenumber":"196","addr:teryt:sym_ul":787968,"contact:phone":"+48 158745189","contact:email":"szkolablazek@op.pl","ref:regon":"001188023","operator":"Gmina Batorz","operator:type":"government","amenity":"school"}},{"id":272576,"type":"Feature","geometry":{"type":"Point","coordinates":[22.49487,50.84687]},"properties":{"ref:rspo":272576,"official_name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w Batorzu","name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w Batorzu","addr:country":"PL","addr:postcode":"23-320","addr:place":"Batorz Pierwszy","addr:housenumber":"80","addr:teryt:sym_ul":787951,"contact:phone":"+48 158745147","contact:email":"zsbatorz1@wp.pl","ref:regon":"384265940","ref:vatin":"PL8621646576","operator":"Gmina Batorz","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 29779;272581"}},{"id":29779,"type":"Feature","geometry":{"type":"Point","coordinates":[22.49487,50.84684]},"properties":{"isced:level":"1;2","ref:rspo":29779,"official_name":"Publiczna Szko\u0142a Podstawowa w Batorzu im. Marcina Borelowskiego-Lelewela","name":"Publiczna Szko\u0142a Podstawowa w Batorzu","addr:country":"PL","addr:postcode":"23-320","addr:place":"Batorz Pierwszy","addr:housenumber":"80","addr:teryt:sym_ul":787951,"contact:phone":"+48 158745147","contact:email":"zsbatorz1@wp.pl","ref:regon":"000557458","operator":"Gmina Batorz","operator:type":"government","amenity":"school","note":"Parent RSPO: 272576"}},{"id":272581,"type":"Feature","geometry":{"type":"Point","coordinates":[22.49487,50.846810000000005]},"properties":{"ref:rspo":272581,"official_name":"Przedszkole Samorz\u0105dowe w Batorzu","name":"Przedszkole Samorz\u0105dowe w Batorzu","addr:country":"PL","addr:postcode":"23-320","addr:place":"Batorz Pierwszy","addr:housenumber":"80","addr:teryt:sym_ul":787951,"contact:phone":"+48 158745260","contact:email":"zsbatorz1@wp.pl","ref:regon":"384265991","operator":"Gmina Batorz","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 272576"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 29846,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.42276,
+                    50.84569
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 29846,
+                "official_name": "Publiczna Szko\u0142a Podstawowa w B\u0142a\u017cku",
+                "name": "Publiczna Szko\u0142a Podstawowa w B\u0142a\u017cku",
+                "addr:country": "PL",
+                "addr:postcode": "23-320",
+                "addr:place": "B\u0142a\u017cek",
+                "addr:housenumber": "196",
+                "addr:teryt:sym_ul": 787968,
+                "contact:phone": "+48 158745189",
+                "contact:email": "szkolablazek@op.pl",
+                "ref:regon": "001188023",
+                "operator": "Gmina Batorz",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 272576,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.49487,
+                    50.84687
+                ]
+            },
+            "properties": {
+                "ref:rspo": 272576,
+                "official_name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w Batorzu",
+                "name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w Batorzu",
+                "addr:country": "PL",
+                "addr:postcode": "23-320",
+                "addr:place": "Batorz Pierwszy",
+                "addr:housenumber": "80",
+                "addr:teryt:sym_ul": 787951,
+                "contact:phone": "+48 158745147",
+                "contact:email": "zsbatorz1@wp.pl",
+                "ref:regon": "384265940",
+                "ref:vatin": "PL8621646576",
+                "operator": "Gmina Batorz",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 29779;272581"
+            }
+        },
+        {
+            "id": 29779,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.49487,
+                    50.84684
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 29779,
+                "official_name": "Publiczna Szko\u0142a Podstawowa w Batorzu im. Marcina Borelowskiego-Lelewela",
+                "name": "Publiczna Szko\u0142a Podstawowa w Batorzu",
+                "addr:country": "PL",
+                "addr:postcode": "23-320",
+                "addr:place": "Batorz Pierwszy",
+                "addr:housenumber": "80",
+                "addr:teryt:sym_ul": 787951,
+                "contact:phone": "+48 158745147",
+                "contact:email": "zsbatorz1@wp.pl",
+                "ref:regon": "000557458",
+                "operator": "Gmina Batorz",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 272576"
+            }
+        },
+        {
+            "id": 272581,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.49487,
+                    50.846810000000005
+                ]
+            },
+            "properties": {
+                "ref:rspo": 272581,
+                "official_name": "Przedszkole Samorz\u0105dowe w Batorzu",
+                "name": "Przedszkole Samorz\u0105dowe w Batorzu",
+                "addr:country": "PL",
+                "addr:postcode": "23-320",
+                "addr:place": "Batorz Pierwszy",
+                "addr:housenumber": "80",
+                "addr:teryt:sym_ul": 787951,
+                "contact:phone": "+48 158745260",
+                "contact:email": "zsbatorz1@wp.pl",
+                "ref:regon": "384265991",
+                "operator": "Gmina Batorz",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 272576"
+            }
+        }
+    ]
+}

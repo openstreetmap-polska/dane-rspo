@@ -1,1 +1,181 @@
-{"type":"FeatureCollection","features":[{"id":110327,"type":"Feature","geometry":{"type":"Point","coordinates":[20.5850519,52.404244]},"properties":{"isced:level":"1;2","ref:rspo":110327,"official_name":"Szko\u0142a Podstawowa w G\u0142usku Z Siedzib\u0105 w Nowych Grochalach im. Ks. Kardyna\u0142a Stefana Wyszy\u0144skiego","name":"Szko\u0142a Podstawowa w G\u0142usku Z Siedzib\u0105 w Nowych Grochalach","addr:country":"PL","addr:postcode":"05-155","addr:place":"Nowe Grochale","addr:housenumber":"40","addr:teryt:sym_ul":4162,"contact:phone":"+48 227856516","contact:email":"zs-glusk@wp.pl","contact:website":"http:\/\/www.zsglusk.edu.pl","ref:regon":"015771823","ref:vatin":"PL5311627643","operator":"Gmina Leoncin","operator:type":"government","amenity":"school"}},{"id":128655,"type":"Feature","geometry":{"type":"Point","coordinates":[20.5850519,52.404213999999996]},"properties":{"ref:rspo":128655,"official_name":"\"Ada\u015b I Ola Id\u0105 Do Przedszkola\"- Punkt Przedszkolny w Gminie Leoncin\"","name":"\"Ada\u015b I Ola Id\u0105 Do Przedszkola\"- Punkt Przedszkolny w Gminie Leoncin\"","addr:country":"PL","addr:postcode":"05-155","addr:place":"Nowe Grochale","addr:housenumber":"40","addr:teryt:sym_ul":4162,"contact:phone":"+48 501052392","contact:email":"dankadominiak@op.pl","ref:regon":"362387984","operator":"Gmina Leoncin","operator:type":"government","amenity":"kindergarten"}},{"id":105194,"type":"Feature","geometry":{"type":"Point","coordinates":[20.676774,52.458383]},"properties":{"ref:rspo":105194,"official_name":"Punkt Przedszkolny Anulka w Leoncinie","name":"Punkt Przedszkolny Anulka w Leoncinie","addr:country":"PL","addr:postcode":"05-155","addr:city":"Leoncin","addr:street":"ul. Isaaca Bashevisa Singera","addr:housenumber":"3","addr:teryt:simc":36993,"addr:teryt:sym_ul":4096,"contact:phone":"+48 517821611","contact:email":"pp.anulka@wp.pl","ref:regon":"146454216","operator":"Gmina Leoncin","operator:type":"government","amenity":"kindergarten"}},{"id":110336,"type":"Feature","geometry":{"type":"Point","coordinates":[20.676774,52.458352999999995]},"properties":{"isced:level":"1;2","ref:rspo":110336,"official_name":"Szko\u0142a Podstawowa im. Jana Paw\u0142a II w Leoncinie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"05-155","addr:city":"Leoncin","addr:street":"ul. Isaaca Bashevisa Singera","addr:housenumber":"3","addr:teryt:simc":36993,"addr:teryt:sym_ul":4096,"contact:phone":"+48 227856528","contact:email":"sp.wleoncinie@wp.pl","contact:website":"http:\/\/www.spleoncin.pl","ref:regon":"015786227","ref:vatin":"PL5311627666","operator":"Gmina Leoncin","operator:type":"government","amenity":"school"}},{"id":128654,"type":"Feature","geometry":{"type":"Point","coordinates":[20.676774,52.458323]},"properties":{"ref:rspo":128654,"official_name":"\"Jacek I Agatka - Weso\u0142a I Tw\u00f3rcza Gromadka\" - Punkt Przedszkolny w Gminie Leoncin","name":"\"Jacek I Agatka - Weso\u0142a I Tw\u00f3rcza Gromadka\" - Punkt Przedszkolny w Gminie Leoncin","addr:country":"PL","addr:postcode":"05-155","addr:city":"Leoncin","addr:street":"ul. Isaaca Bashevisa Singera","addr:housenumber":"3","addr:teryt:simc":36993,"addr:teryt:sym_ul":4096,"contact:phone":"+48 517821611","contact:email":"pp.jacekiagatka@onet.eu","ref:regon":"362387949","operator":"Gmina Leoncin","operator:type":"government","amenity":"kindergarten"}},{"id":265937,"type":"Feature","geometry":{"type":"Point","coordinates":[20.676774,52.458293]},"properties":{"ref:rspo":265937,"official_name":"Przedszkole Niepubliczne Elemelek","name":"Przedszkole Niepubliczne Elemelek","addr:country":"PL","addr:postcode":"05-155","addr:city":"Leoncin","addr:street":"ul. Podle\u015bna","addr:housenumber":"33","addr:teryt:simc":16799,"addr:teryt:sym_ul":4096,"contact:phone":"+48 600247156","contact:email":"elemelek@przedszkole-elemelek.pl","ref:regon":"369033746","operator":"Karol Prarat","operator:type":"private","amenity":"kindergarten"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 110327,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.5850519,
+                    52.404244
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 110327,
+                "official_name": "Szko\u0142a Podstawowa w G\u0142usku Z Siedzib\u0105 w Nowych Grochalach im. Ks. Kardyna\u0142a Stefana Wyszy\u0144skiego",
+                "name": "Szko\u0142a Podstawowa w G\u0142usku Z Siedzib\u0105 w Nowych Grochalach",
+                "addr:country": "PL",
+                "addr:postcode": "05-155",
+                "addr:place": "Nowe Grochale",
+                "addr:housenumber": "40",
+                "addr:teryt:sym_ul": 4162,
+                "contact:phone": "+48 227856516",
+                "contact:email": "zs-glusk@wp.pl",
+                "contact:website": "http:\/\/www.zsglusk.edu.pl",
+                "ref:regon": "015771823",
+                "ref:vatin": "PL5311627643",
+                "operator": "Gmina Leoncin",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 128655,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.5850519,
+                    52.404213999999996
+                ]
+            },
+            "properties": {
+                "ref:rspo": 128655,
+                "official_name": "\"Ada\u015b I Ola Id\u0105 Do Przedszkola\"- Punkt Przedszkolny w Gminie Leoncin\"",
+                "name": "\"Ada\u015b I Ola Id\u0105 Do Przedszkola\"- Punkt Przedszkolny w Gminie Leoncin\"",
+                "addr:country": "PL",
+                "addr:postcode": "05-155",
+                "addr:place": "Nowe Grochale",
+                "addr:housenumber": "40",
+                "addr:teryt:sym_ul": 4162,
+                "contact:phone": "+48 501052392",
+                "contact:email": "dankadominiak@op.pl",
+                "ref:regon": "362387984",
+                "operator": "Gmina Leoncin",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 105194,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.676774,
+                    52.458383
+                ]
+            },
+            "properties": {
+                "ref:rspo": 105194,
+                "official_name": "Punkt Przedszkolny Anulka w Leoncinie",
+                "name": "Punkt Przedszkolny Anulka w Leoncinie",
+                "addr:country": "PL",
+                "addr:postcode": "05-155",
+                "addr:city": "Leoncin",
+                "addr:street": "ul. Isaaca Bashevisa Singera",
+                "addr:housenumber": "3",
+                "addr:teryt:simc": 36993,
+                "addr:teryt:sym_ul": 4096,
+                "contact:phone": "+48 517821611",
+                "contact:email": "pp.anulka@wp.pl",
+                "ref:regon": "146454216",
+                "operator": "Gmina Leoncin",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 110336,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.676774,
+                    52.458352999999995
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 110336,
+                "official_name": "Szko\u0142a Podstawowa im. Jana Paw\u0142a II w Leoncinie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "05-155",
+                "addr:city": "Leoncin",
+                "addr:street": "ul. Isaaca Bashevisa Singera",
+                "addr:housenumber": "3",
+                "addr:teryt:simc": 36993,
+                "addr:teryt:sym_ul": 4096,
+                "contact:phone": "+48 227856528",
+                "contact:email": "sp.wleoncinie@wp.pl",
+                "contact:website": "http:\/\/www.spleoncin.pl",
+                "ref:regon": "015786227",
+                "ref:vatin": "PL5311627666",
+                "operator": "Gmina Leoncin",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 128654,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.676774,
+                    52.458323
+                ]
+            },
+            "properties": {
+                "ref:rspo": 128654,
+                "official_name": "\"Jacek I Agatka - Weso\u0142a I Tw\u00f3rcza Gromadka\" - Punkt Przedszkolny w Gminie Leoncin",
+                "name": "\"Jacek I Agatka - Weso\u0142a I Tw\u00f3rcza Gromadka\" - Punkt Przedszkolny w Gminie Leoncin",
+                "addr:country": "PL",
+                "addr:postcode": "05-155",
+                "addr:city": "Leoncin",
+                "addr:street": "ul. Isaaca Bashevisa Singera",
+                "addr:housenumber": "3",
+                "addr:teryt:simc": 36993,
+                "addr:teryt:sym_ul": 4096,
+                "contact:phone": "+48 517821611",
+                "contact:email": "pp.jacekiagatka@onet.eu",
+                "ref:regon": "362387949",
+                "operator": "Gmina Leoncin",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 265937,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.676774,
+                    52.458293
+                ]
+            },
+            "properties": {
+                "ref:rspo": 265937,
+                "official_name": "Przedszkole Niepubliczne Elemelek",
+                "name": "Przedszkole Niepubliczne Elemelek",
+                "addr:country": "PL",
+                "addr:postcode": "05-155",
+                "addr:city": "Leoncin",
+                "addr:street": "ul. Podle\u015bna",
+                "addr:housenumber": "33",
+                "addr:teryt:simc": 16799,
+                "addr:teryt:sym_ul": 4096,
+                "contact:phone": "+48 600247156",
+                "contact:email": "elemelek@przedszkole-elemelek.pl",
+                "ref:regon": "369033746",
+                "operator": "Karol Prarat",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        }
+    ]
+}

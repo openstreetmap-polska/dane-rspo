@@ -1,1 +1,35 @@
-{"type":"FeatureCollection","features":[{"id":9118,"type":"Feature","geometry":{"type":"Point","coordinates":[22.82377,52.927392]},"properties":{"isced:level":"1;2","ref:rspo":9118,"official_name":"Szko\u0142a Podstawowa im. \"Boles\u0142awa Prusa\" w Po\u015bwi\u0119tnem","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"18-112","addr:place":"Go\u0142\u0119bie","addr:housenumber":"11","addr:teryt:sym_ul":38534,"contact:phone":"+48 856501360","contact:email":"sp_poswietne@optinex.pl","contact:website":"http:\/\/www.gimpos.neostrada.pl","ref:regon":"000266376","ref:vatin":"PL9661683526","operator":"Gmina Po\u015bwi\u0119tne","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 9118,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.82377,
+                    52.927392
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 9118,
+                "official_name": "Szko\u0142a Podstawowa im. \"Boles\u0142awa Prusa\" w Po\u015bwi\u0119tnem",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "18-112",
+                "addr:place": "Go\u0142\u0119bie",
+                "addr:housenumber": "11",
+                "addr:teryt:sym_ul": 38534,
+                "contact:phone": "+48 856501360",
+                "contact:email": "sp_poswietne@optinex.pl",
+                "contact:website": "http:\/\/www.gimpos.neostrada.pl",
+                "ref:regon": "000266376",
+                "ref:vatin": "PL9661683526",
+                "operator": "Gmina Po\u015bwi\u0119tne",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

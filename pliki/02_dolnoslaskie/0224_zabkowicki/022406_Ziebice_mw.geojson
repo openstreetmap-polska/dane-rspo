@@ -1,1 +1,601 @@
-{"type":"FeatureCollection","features":[{"id":68472,"type":"Feature","geometry":{"type":"Point","coordinates":[17.01659,50.51253]},"properties":{"isced:level":"1;2","ref:rspo":68472,"official_name":"Niepubliczna Szko\u0142a Podstawowa Stowarzyszenia Na Rzecz Rozwoju I Promocji Wsi Lubn\u00f3w I Okolic","name":"Niepubliczna Szko\u0142a Podstawowa Stowarzyszenia Na Rzecz Rozwoju I Promocji Wsi Lubn\u00f3w I Okolic","addr:country":"PL","addr:postcode":"57-220","addr:place":"Lubn\u00f3w","addr:housenumber":"42","addr:teryt:sym_ul":856818,"contact:phone":"+48 748199025","contact:email":"nsp.lubnow@interia.pl","contact:website":"http:\/\/www.nsplubnow.szkolnastrona.pl","ref:regon":"021998539","ref:vatin":"PL8871652371","operator":"Stowarzyszenie Na Rzecz Rozwoju - Promocji Wsi Lubn\u00f3w I Okolic","operator:type":"ngo","amenity":"school"}},{"id":64403,"type":"Feature","geometry":{"type":"Point","coordinates":[16.99545,50.53595]},"properties":{"ref:rspo":64403,"official_name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 I Przedszkoli w Nied\u017awiedziu","name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 I Przedszkoli w Nied\u017awiedziu","addr:country":"PL","addr:postcode":"57-220","addr:place":"Nied\u017awied\u017a","addr:housenumber":"93","addr:teryt:sym_ul":856830,"contact:phone":"+48 748194084","contact:email":"zsip@oswiata-ziebice.pl","contact:website":"http:\/\/www.zsipniedzwiedz.szkolnastrona.pl","ref:regon":"020591824","ref:vatin":"PL8871759117","operator":"Gmina Zi\u0119bice","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 73494;131914"}},{"id":73494,"type":"Feature","geometry":{"type":"Point","coordinates":[16.99545,50.53592]},"properties":{"isced:level":"1;2","ref:rspo":73494,"official_name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 I Przedszkoli Szko\u0142a Podstawowa w Nied\u017awiedziu","name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 I Przedszkoli Szko\u0142a Podstawowa w Nied\u017awiedziu","addr:country":"PL","addr:postcode":"57-220","addr:place":"Nied\u017awied\u017a","addr:housenumber":"93","addr:teryt:sym_ul":856830,"contact:phone":"+48 748194084","contact:email":"zsip@oswiata-ziebice.pl","contact:website":"http:\/\/www.zsipniedzwiedz.szkolnastrona.pl","ref:regon":"000833875","ref:vatin":"PL8871759117","operator":"Gmina Zi\u0119bice","operator:type":"government","amenity":"school","note":"Parent RSPO: 64403"}},{"id":131914,"type":"Feature","geometry":{"type":"Point","coordinates":[16.99545,50.53589]},"properties":{"ref:rspo":131914,"official_name":"Przedszkole Publiczne w Nied\u017awiedziu","name":"Przedszkole Publiczne w Nied\u017awiedziu","addr:country":"PL","addr:postcode":"57-220","addr:place":"Nied\u017awied\u017a","addr:housenumber":"93","addr:teryt:sym_ul":856830,"contact:phone":"+48 748194084","contact:email":"zsip@oswiata-ziebice.pl","contact:website":"http:\/\/www.zsipniedzwiedz.szkolnastrona.pl","ref:regon":"365376834","operator":"Gmina Zi\u0119bice","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 64403"}},{"id":73742,"type":"Feature","geometry":{"type":"Point","coordinates":[17.0459299,50.5966]},"properties":{"ref:rspo":73742,"official_name":"Przedszkole Na Orlej Polanie","name":"Przedszkole Na Orlej Polanie","addr:country":"PL","addr:postcode":"57-220","addr:city":"Zi\u0119bice","addr:street":"ul. Adama Mickiewicza","addr:housenumber":"18","addr:teryt:simc":12740,"addr:teryt:sym_ul":984700,"contact:phone":"+48 748191365","contact:email":"pnop@oswiata-ziebice.pl","contact:website":"http:\/\/www.orlapolana.szkolnastrona.pl\/","ref:regon":"890543932","ref:vatin":"PL8871765187","operator":"Gmina Zi\u0119bice","operator:type":"government","amenity":"kindergarten"}},{"id":64420,"type":"Feature","geometry":{"type":"Point","coordinates":[17.0468699,50.60091]},"properties":{"isced:level":"1;2","ref:rspo":64420,"official_name":"Szko\u0142a Podstawowa Nr 2 im. Henryka Sienkiewicza w Zi\u0119bicach","name":"Szko\u0142a Podstawowa Nr 2","addr:country":"PL","addr:postcode":"57-220","addr:city":"Zi\u0119bice","addr:street":"ul. Spacerowa","addr:housenumber":"2","addr:teryt:simc":20641,"addr:teryt:sym_ul":984700,"contact:phone":"+48 748191576","contact:email":"sp2@oswiata-ziebice.pl","contact:website":"http:\/\/www.sp2ziebice.szkolnastrona.pl","ref:regon":"000691837","ref:vatin":"PL8871613661","operator":"Gmina Zi\u0119bice","operator:type":"government","amenity":"school"}},{"id":130045,"type":"Feature","geometry":{"type":"Point","coordinates":[17.04006,50.6026]},"properties":{"ref:rspo":130045,"official_name":"Przedszkole Miejskie Nr 1 w Zi\u0119bicach","name":"Przedszkole Miejskie Nr 1 w Zi\u0119bicach","addr:country":"PL","addr:postcode":"57-220","addr:city":"Zi\u0119bice","addr:street":"ul. Klasztorna","addr:housenumber":"6","addr:door":"1","addr:teryt:simc":8485,"addr:teryt:sym_ul":984700,"contact:phone":"+48 748191317","contact:email":"zow@oswiata-ziebice.pl","contact:website":"http:\/\/www.zowziebice.szkolnastrona.pl","ref:regon":"363339378","ref:vatin":"PL8871812834","operator":"Gmina Zi\u0119bice","operator:type":"government","amenity":"kindergarten"}},{"id":64411,"type":"Feature","geometry":{"type":"Point","coordinates":[17.0433999,50.60272]},"properties":{"isced:level":"1;2","ref:rspo":64411,"official_name":"Szko\u0142a Podstawowa Nr 4 w Zi\u0119bicach","name":"Szko\u0142a Podstawowa Nr 4 w Zi\u0119bicach","addr:country":"PL","addr:postcode":"57-220","addr:city":"Zi\u0119bice","addr:street":"ul. Zamkowa","addr:housenumber":"31","addr:teryt:simc":25547,"addr:teryt:sym_ul":984700,"contact:phone":"+48 748191577","contact:email":"sp4@oswiata-ziebice.pl","contact:website":"http:\/\/www.sp4ziebice.szkolnastrona.pl\/","ref:regon":"000691843","ref:vatin":"PL8871613655","operator":"Gmina Zi\u0119bice","operator:type":"government","amenity":"school"}},{"id":18893,"type":"Feature","geometry":{"type":"Point","coordinates":[17.04582,50.60358]},"properties":{"ref:rspo":18893,"official_name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 Ponadpodstawowych im. Hipolita Cegielskiego w Zi\u0119bicach","name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 Ponadpodstawowych","addr:country":"PL","addr:postcode":"57-220","addr:city":"Zi\u0119bice","addr:street":"ul. Wojska Polskiego","addr:housenumber":"3","addr:teryt:simc":24628,"addr:teryt:sym_ul":984700,"contact:phone":"+48 748191522","contact:email":"zspziebice@interia.pl","contact:website":"http:\/\/zspziebice.pl","ref:regon":"000195647","ref:vatin":"PL8871018869","operator":"Powiat Z\u0105bkowicki","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 73703;73721;73733;73778;85130;85136;276031"}},{"id":73703,"type":"Feature","geometry":{"type":"Point","coordinates":[17.04582,50.60355]},"properties":{"isced:level":"3","ref:rspo":73703,"official_name":"Liceum Og\u00f3lnokszta\u0142c\u0105ce dla Doros\u0142ych w Zespole Szk\u00f3\u0142 Ponadpodstawowych im. Hipolita Cegielskiego w Zi\u0119bicach","name":"Liceum Og\u00f3lnokszta\u0142c\u0105ce dla Doros\u0142ych w Zespole Szk\u00f3\u0142 Ponadpodstawowych","addr:country":"PL","addr:postcode":"57-220","addr:city":"Zi\u0119bice","addr:street":"ul. Wojska Polskiego","addr:housenumber":"3","addr:teryt:simc":24628,"addr:teryt:sym_ul":984700,"contact:phone":"+48 748191522","contact:email":"zspziebice@interia.pl","contact:website":"http:\/\/zspziebice.pl","ref:regon":"891540485","operator":"Powiat Z\u0105bkowicki","operator:type":"government","amenity":"school","note":"Parent RSPO: 18893"}},{"id":73721,"type":"Feature","geometry":{"type":"Point","coordinates":[17.04582,50.60352]},"properties":{"isced:level":"3","ref:rspo":73721,"official_name":"Bran\u017cowa Szko\u0142a I Stopnia w Zespole Szk\u00f3\u0142 Ponadpodstawowych im. Hipolita Cegielskiego w Zi\u0119bicach","name":"Bran\u017cowa Szko\u0142a I Stopnia w Zespole Szk\u00f3\u0142 Ponadpodstawowych","addr:country":"PL","addr:postcode":"57-220","addr:city":"Zi\u0119bice","addr:street":"ul. Wojska Polskiego","addr:housenumber":"3","addr:teryt:simc":24628,"addr:teryt:sym_ul":984700,"contact:phone":"+48 748191522","contact:email":"zspziebice@interia.pl","contact:website":"http:\/\/zspziebice.pl","ref:regon":"891421250","operator":"Powiat Z\u0105bkowicki","operator:type":"government","amenity":"school","note":"Parent RSPO: 18893"}},{"id":73733,"type":"Feature","geometry":{"type":"Point","coordinates":[17.04582,50.60349]},"properties":{"isced:level":"3","ref:rspo":73733,"official_name":"Technikum w Zespole Szk\u00f3\u0142 Ponadpodstawowych im. Hipolita Cegielskiego w Zi\u0119bicach","name":"Technikum w Zespole Szk\u00f3\u0142 Ponadpodstawowych","addr:country":"PL","addr:postcode":"57-220","addr:city":"Zi\u0119bice","addr:street":"ul. Wojska Polskiego","addr:housenumber":"3","addr:teryt:simc":24628,"addr:teryt:sym_ul":984700,"contact:phone":"+48 748191522","contact:email":"zspziebice@interia.pl","contact:website":"http:\/\/zspziebice.pl","ref:regon":"891421243","operator":"Powiat Z\u0105bkowicki","operator:type":"government","amenity":"school","note":"Parent RSPO: 18893"}},{"id":73778,"type":"Feature","geometry":{"type":"Point","coordinates":[17.04582,50.60346]},"properties":{"ref:rspo":73778,"official_name":"Centrum Kszta\u0142cenia Zawodowego w Zespole Szk\u00f3\u0142 Ponadpodstawowych im. Hipolita Cegielskiego w Zi\u0119bicach","name":"Centrum Kszta\u0142cenia Zawodowego w Zespole Szk\u00f3\u0142 Ponadpodstawowych","addr:country":"PL","addr:postcode":"57-220","addr:city":"Zi\u0119bice","addr:street":"ul. Wojska Polskiego","addr:housenumber":"3","addr:teryt:simc":24628,"addr:teryt:sym_ul":984700,"contact:phone":"+48 748191522","contact:email":"zspziebice@interia.pl","contact:website":"http:\/\/zspziebice.pl","ref:regon":"020733827","operator":"Powiat Z\u0105bkowicki","operator:type":"government","fixme":"w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. amenity=training + training=*, amenity=dancing_school, amenity=language_school, amenity=music_school) albo amenity=school, amenity=college, albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Parent RSPO: 18893"}},{"id":85130,"type":"Feature","geometry":{"type":"Point","coordinates":[17.04582,50.60343]},"properties":{"isced:level":"3","ref:rspo":85130,"official_name":"Liceum Og\u00f3lnokszta\u0142c\u0105ce w Zespole Szk\u00f3\u0142 Ponadpodstawowych im. Hipolita Cegielskiego w Zi\u0119bicach","name":"Liceum Og\u00f3lnokszta\u0142c\u0105ce w Zespole Szk\u00f3\u0142 Ponadpodstawowych","addr:country":"PL","addr:postcode":"57-220","addr:city":"Zi\u0119bice","addr:street":"ul. Wojska Polskiego","addr:housenumber":"3","addr:teryt:simc":24628,"addr:teryt:sym_ul":984700,"contact:phone":"+48 748191522","contact:email":"zspziebice@interia.pl","contact:website":"http:\/\/zspziebice.pl","ref:regon":"007005756","operator":"Powiat Z\u0105bkowicki","operator:type":"government","amenity":"school","note":"Parent RSPO: 18893"}},{"id":85136,"type":"Feature","geometry":{"type":"Point","coordinates":[17.04582,50.6034]},"properties":{"isced:level":"4","ref:rspo":85136,"official_name":"Szko\u0142a Policealna w Zespole Szk\u00f3\u0142 Ponadpodstawowych im. Hipolita Cegielskiego w Zi\u0119bicach","name":"Szko\u0142a Policealna w Zespole Szk\u00f3\u0142 Ponadpodstawowych","addr:country":"PL","addr:postcode":"57-220","addr:city":"Zi\u0119bice","addr:street":"ul. Wojska Polskiego","addr:housenumber":"3","addr:teryt:simc":24628,"addr:teryt:sym_ul":984700,"contact:phone":"+48 748191522","contact:email":"zspziebice@interia.pl","contact:website":"http:\/\/zspziebice.pl","ref:regon":"020127216","operator":"Powiat Z\u0105bkowicki","operator:type":"government","amenity":"college","note":"Parent RSPO: 18893"}},{"id":276031,"type":"Feature","geometry":{"type":"Point","coordinates":[17.04582,50.60337]},"properties":{"isced:level":"3","ref:rspo":276031,"official_name":"Bran\u017cowa Szko\u0142a II Stopnia w Zespole Szk\u00f3\u0142 Ponadpodstawowych im. Hipolita Cegielskiego w Zi\u0119bicach","name":"Bran\u017cowa Szko\u0142a II Stopnia w Zespole Szk\u00f3\u0142 Ponadpodstawowych","addr:country":"PL","addr:postcode":"57-220","addr:city":"Zi\u0119bice","addr:street":"ul. Wojska Polskiego","addr:housenumber":"3","addr:teryt:simc":24628,"addr:teryt:sym_ul":984700,"contact:phone":"+48 748191522","contact:email":"zspziebice@interia.pl","contact:website":"http:\/\/www.zspziebice.pl","ref:regon":"386972511","operator":"Powiat Z\u0105bkowicki","operator:type":"government","amenity":"school","note":"Parent RSPO: 18893"}},{"id":65282,"type":"Feature","geometry":{"type":"Point","coordinates":[17.00914,50.65006]},"properties":{"ref:rspo":65282,"official_name":"Przedszkole Publiczne w Henrykowie","name":"Przedszkole Publiczne w Henrykowie","addr:country":"PL","addr:postcode":"57-210","addr:city":"Henryk\u00f3w","addr:street":"ul. S\u0142oneczna","addr:housenumber":"20","addr:teryt:simc":20254,"addr:teryt:sym_ul":856741,"contact:phone":"+48 748105059","contact:email":"pph@oswiata-ziebice.pl","ref:regon":"890543903","ref:vatin":"PL8871765193","operator":"Gmina Zi\u0119bice","operator:type":"government","amenity":"kindergarten"}},{"id":16863,"type":"Feature","geometry":{"type":"Point","coordinates":[17.01401,50.65313]},"properties":{"isced:level":"3","ref:rspo":16863,"official_name":"Katolickie Liceum Og\u00f3lnokszta\u0142c\u0105ce im. B\u0142ogos\u0142awionego Edmunda Bojanowskiego","name":"Katolickie Liceum Og\u00f3lnokszta\u0142c\u0105ce","addr:country":"PL","addr:postcode":"57-210","addr:city":"Henryk\u00f3w","addr:street":"pl. Cysters\u00f3w","addr:housenumber":"1","addr:teryt:simc":28158,"addr:teryt:sym_ul":856741,"contact:phone":"+48 748105050","contact:email":"henrykow@archidiecezja.wroc.pl","contact:website":"http:\/\/henrykow.archidiecezja.wroc.pl","ref:regon":"021972095","operator":"Archidiecezja Wroc\u0142awska","operator:type":"religious","amenity":"school"}},{"id":70754,"type":"Feature","geometry":{"type":"Point","coordinates":[17.00646,50.65323]},"properties":{"isced:level":"1;2","ref:rspo":70754,"official_name":"Szko\u0142a Podstawowa w Henrykowie","name":"Szko\u0142a Podstawowa w Henrykowie","addr:country":"PL","addr:postcode":"57-210","addr:city":"Henryk\u00f3w","addr:street":"ul. Polna","addr:housenumber":"9","addr:teryt:simc":17011,"addr:teryt:sym_ul":856741,"contact:phone":"+48 748105020","contact:email":"sph@oswiata-ziebice.pl","ref:regon":"000833958","ref:vatin":"PL8871680539","operator":"Gmina Zi\u0119bice","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 68472,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.01659,
+                    50.51253
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 68472,
+                "official_name": "Niepubliczna Szko\u0142a Podstawowa Stowarzyszenia Na Rzecz Rozwoju I Promocji Wsi Lubn\u00f3w I Okolic",
+                "name": "Niepubliczna Szko\u0142a Podstawowa Stowarzyszenia Na Rzecz Rozwoju I Promocji Wsi Lubn\u00f3w I Okolic",
+                "addr:country": "PL",
+                "addr:postcode": "57-220",
+                "addr:place": "Lubn\u00f3w",
+                "addr:housenumber": "42",
+                "addr:teryt:sym_ul": 856818,
+                "contact:phone": "+48 748199025",
+                "contact:email": "nsp.lubnow@interia.pl",
+                "contact:website": "http:\/\/www.nsplubnow.szkolnastrona.pl",
+                "ref:regon": "021998539",
+                "ref:vatin": "PL8871652371",
+                "operator": "Stowarzyszenie Na Rzecz Rozwoju - Promocji Wsi Lubn\u00f3w I Okolic",
+                "operator:type": "ngo",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 64403,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.99545,
+                    50.53595
+                ]
+            },
+            "properties": {
+                "ref:rspo": 64403,
+                "official_name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 I Przedszkoli w Nied\u017awiedziu",
+                "name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 I Przedszkoli w Nied\u017awiedziu",
+                "addr:country": "PL",
+                "addr:postcode": "57-220",
+                "addr:place": "Nied\u017awied\u017a",
+                "addr:housenumber": "93",
+                "addr:teryt:sym_ul": 856830,
+                "contact:phone": "+48 748194084",
+                "contact:email": "zsip@oswiata-ziebice.pl",
+                "contact:website": "http:\/\/www.zsipniedzwiedz.szkolnastrona.pl",
+                "ref:regon": "020591824",
+                "ref:vatin": "PL8871759117",
+                "operator": "Gmina Zi\u0119bice",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 73494;131914"
+            }
+        },
+        {
+            "id": 73494,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.99545,
+                    50.53592
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 73494,
+                "official_name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 I Przedszkoli Szko\u0142a Podstawowa w Nied\u017awiedziu",
+                "name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 I Przedszkoli Szko\u0142a Podstawowa w Nied\u017awiedziu",
+                "addr:country": "PL",
+                "addr:postcode": "57-220",
+                "addr:place": "Nied\u017awied\u017a",
+                "addr:housenumber": "93",
+                "addr:teryt:sym_ul": 856830,
+                "contact:phone": "+48 748194084",
+                "contact:email": "zsip@oswiata-ziebice.pl",
+                "contact:website": "http:\/\/www.zsipniedzwiedz.szkolnastrona.pl",
+                "ref:regon": "000833875",
+                "ref:vatin": "PL8871759117",
+                "operator": "Gmina Zi\u0119bice",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 64403"
+            }
+        },
+        {
+            "id": 131914,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.99545,
+                    50.53589
+                ]
+            },
+            "properties": {
+                "ref:rspo": 131914,
+                "official_name": "Przedszkole Publiczne w Nied\u017awiedziu",
+                "name": "Przedszkole Publiczne w Nied\u017awiedziu",
+                "addr:country": "PL",
+                "addr:postcode": "57-220",
+                "addr:place": "Nied\u017awied\u017a",
+                "addr:housenumber": "93",
+                "addr:teryt:sym_ul": 856830,
+                "contact:phone": "+48 748194084",
+                "contact:email": "zsip@oswiata-ziebice.pl",
+                "contact:website": "http:\/\/www.zsipniedzwiedz.szkolnastrona.pl",
+                "ref:regon": "365376834",
+                "operator": "Gmina Zi\u0119bice",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 64403"
+            }
+        },
+        {
+            "id": 73742,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.0459299,
+                    50.5966
+                ]
+            },
+            "properties": {
+                "ref:rspo": 73742,
+                "official_name": "Przedszkole Na Orlej Polanie",
+                "name": "Przedszkole Na Orlej Polanie",
+                "addr:country": "PL",
+                "addr:postcode": "57-220",
+                "addr:city": "Zi\u0119bice",
+                "addr:street": "ul. Adama Mickiewicza",
+                "addr:housenumber": "18",
+                "addr:teryt:simc": 12740,
+                "addr:teryt:sym_ul": 984700,
+                "contact:phone": "+48 748191365",
+                "contact:email": "pnop@oswiata-ziebice.pl",
+                "contact:website": "http:\/\/www.orlapolana.szkolnastrona.pl\/",
+                "ref:regon": "890543932",
+                "ref:vatin": "PL8871765187",
+                "operator": "Gmina Zi\u0119bice",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 64420,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.0468699,
+                    50.60091
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 64420,
+                "official_name": "Szko\u0142a Podstawowa Nr 2 im. Henryka Sienkiewicza w Zi\u0119bicach",
+                "name": "Szko\u0142a Podstawowa Nr 2",
+                "addr:country": "PL",
+                "addr:postcode": "57-220",
+                "addr:city": "Zi\u0119bice",
+                "addr:street": "ul. Spacerowa",
+                "addr:housenumber": "2",
+                "addr:teryt:simc": 20641,
+                "addr:teryt:sym_ul": 984700,
+                "contact:phone": "+48 748191576",
+                "contact:email": "sp2@oswiata-ziebice.pl",
+                "contact:website": "http:\/\/www.sp2ziebice.szkolnastrona.pl",
+                "ref:regon": "000691837",
+                "ref:vatin": "PL8871613661",
+                "operator": "Gmina Zi\u0119bice",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 130045,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.04006,
+                    50.6026
+                ]
+            },
+            "properties": {
+                "ref:rspo": 130045,
+                "official_name": "Przedszkole Miejskie Nr 1 w Zi\u0119bicach",
+                "name": "Przedszkole Miejskie Nr 1 w Zi\u0119bicach",
+                "addr:country": "PL",
+                "addr:postcode": "57-220",
+                "addr:city": "Zi\u0119bice",
+                "addr:street": "ul. Klasztorna",
+                "addr:housenumber": "6",
+                "addr:door": "1",
+                "addr:teryt:simc": 8485,
+                "addr:teryt:sym_ul": 984700,
+                "contact:phone": "+48 748191317",
+                "contact:email": "zow@oswiata-ziebice.pl",
+                "contact:website": "http:\/\/www.zowziebice.szkolnastrona.pl",
+                "ref:regon": "363339378",
+                "ref:vatin": "PL8871812834",
+                "operator": "Gmina Zi\u0119bice",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 64411,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.0433999,
+                    50.60272
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 64411,
+                "official_name": "Szko\u0142a Podstawowa Nr 4 w Zi\u0119bicach",
+                "name": "Szko\u0142a Podstawowa Nr 4 w Zi\u0119bicach",
+                "addr:country": "PL",
+                "addr:postcode": "57-220",
+                "addr:city": "Zi\u0119bice",
+                "addr:street": "ul. Zamkowa",
+                "addr:housenumber": "31",
+                "addr:teryt:simc": 25547,
+                "addr:teryt:sym_ul": 984700,
+                "contact:phone": "+48 748191577",
+                "contact:email": "sp4@oswiata-ziebice.pl",
+                "contact:website": "http:\/\/www.sp4ziebice.szkolnastrona.pl\/",
+                "ref:regon": "000691843",
+                "ref:vatin": "PL8871613655",
+                "operator": "Gmina Zi\u0119bice",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 18893,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.04582,
+                    50.60358
+                ]
+            },
+            "properties": {
+                "ref:rspo": 18893,
+                "official_name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Ponadpodstawowych im. Hipolita Cegielskiego w Zi\u0119bicach",
+                "name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Ponadpodstawowych",
+                "addr:country": "PL",
+                "addr:postcode": "57-220",
+                "addr:city": "Zi\u0119bice",
+                "addr:street": "ul. Wojska Polskiego",
+                "addr:housenumber": "3",
+                "addr:teryt:simc": 24628,
+                "addr:teryt:sym_ul": 984700,
+                "contact:phone": "+48 748191522",
+                "contact:email": "zspziebice@interia.pl",
+                "contact:website": "http:\/\/zspziebice.pl",
+                "ref:regon": "000195647",
+                "ref:vatin": "PL8871018869",
+                "operator": "Powiat Z\u0105bkowicki",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 73703;73721;73733;73778;85130;85136;276031"
+            }
+        },
+        {
+            "id": 73703,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.04582,
+                    50.60355
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 73703,
+                "official_name": "Liceum Og\u00f3lnokszta\u0142c\u0105ce dla Doros\u0142ych w Zespole Szk\u00f3\u0142 Ponadpodstawowych im. Hipolita Cegielskiego w Zi\u0119bicach",
+                "name": "Liceum Og\u00f3lnokszta\u0142c\u0105ce dla Doros\u0142ych w Zespole Szk\u00f3\u0142 Ponadpodstawowych",
+                "addr:country": "PL",
+                "addr:postcode": "57-220",
+                "addr:city": "Zi\u0119bice",
+                "addr:street": "ul. Wojska Polskiego",
+                "addr:housenumber": "3",
+                "addr:teryt:simc": 24628,
+                "addr:teryt:sym_ul": 984700,
+                "contact:phone": "+48 748191522",
+                "contact:email": "zspziebice@interia.pl",
+                "contact:website": "http:\/\/zspziebice.pl",
+                "ref:regon": "891540485",
+                "operator": "Powiat Z\u0105bkowicki",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 18893"
+            }
+        },
+        {
+            "id": 73721,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.04582,
+                    50.60352
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 73721,
+                "official_name": "Bran\u017cowa Szko\u0142a I Stopnia w Zespole Szk\u00f3\u0142 Ponadpodstawowych im. Hipolita Cegielskiego w Zi\u0119bicach",
+                "name": "Bran\u017cowa Szko\u0142a I Stopnia w Zespole Szk\u00f3\u0142 Ponadpodstawowych",
+                "addr:country": "PL",
+                "addr:postcode": "57-220",
+                "addr:city": "Zi\u0119bice",
+                "addr:street": "ul. Wojska Polskiego",
+                "addr:housenumber": "3",
+                "addr:teryt:simc": 24628,
+                "addr:teryt:sym_ul": 984700,
+                "contact:phone": "+48 748191522",
+                "contact:email": "zspziebice@interia.pl",
+                "contact:website": "http:\/\/zspziebice.pl",
+                "ref:regon": "891421250",
+                "operator": "Powiat Z\u0105bkowicki",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 18893"
+            }
+        },
+        {
+            "id": 73733,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.04582,
+                    50.60349
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 73733,
+                "official_name": "Technikum w Zespole Szk\u00f3\u0142 Ponadpodstawowych im. Hipolita Cegielskiego w Zi\u0119bicach",
+                "name": "Technikum w Zespole Szk\u00f3\u0142 Ponadpodstawowych",
+                "addr:country": "PL",
+                "addr:postcode": "57-220",
+                "addr:city": "Zi\u0119bice",
+                "addr:street": "ul. Wojska Polskiego",
+                "addr:housenumber": "3",
+                "addr:teryt:simc": 24628,
+                "addr:teryt:sym_ul": 984700,
+                "contact:phone": "+48 748191522",
+                "contact:email": "zspziebice@interia.pl",
+                "contact:website": "http:\/\/zspziebice.pl",
+                "ref:regon": "891421243",
+                "operator": "Powiat Z\u0105bkowicki",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 18893"
+            }
+        },
+        {
+            "id": 73778,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.04582,
+                    50.60346
+                ]
+            },
+            "properties": {
+                "ref:rspo": 73778,
+                "official_name": "Centrum Kszta\u0142cenia Zawodowego w Zespole Szk\u00f3\u0142 Ponadpodstawowych im. Hipolita Cegielskiego w Zi\u0119bicach",
+                "name": "Centrum Kszta\u0142cenia Zawodowego w Zespole Szk\u00f3\u0142 Ponadpodstawowych",
+                "addr:country": "PL",
+                "addr:postcode": "57-220",
+                "addr:city": "Zi\u0119bice",
+                "addr:street": "ul. Wojska Polskiego",
+                "addr:housenumber": "3",
+                "addr:teryt:simc": 24628,
+                "addr:teryt:sym_ul": 984700,
+                "contact:phone": "+48 748191522",
+                "contact:email": "zspziebice@interia.pl",
+                "contact:website": "http:\/\/zspziebice.pl",
+                "ref:regon": "020733827",
+                "operator": "Powiat Z\u0105bkowicki",
+                "operator:type": "government",
+                "fixme": "w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. amenity=training + training=*, amenity=dancing_school, amenity=language_school, amenity=music_school) albo amenity=school, amenity=college, albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Parent RSPO: 18893"
+            }
+        },
+        {
+            "id": 85130,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.04582,
+                    50.60343
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 85130,
+                "official_name": "Liceum Og\u00f3lnokszta\u0142c\u0105ce w Zespole Szk\u00f3\u0142 Ponadpodstawowych im. Hipolita Cegielskiego w Zi\u0119bicach",
+                "name": "Liceum Og\u00f3lnokszta\u0142c\u0105ce w Zespole Szk\u00f3\u0142 Ponadpodstawowych",
+                "addr:country": "PL",
+                "addr:postcode": "57-220",
+                "addr:city": "Zi\u0119bice",
+                "addr:street": "ul. Wojska Polskiego",
+                "addr:housenumber": "3",
+                "addr:teryt:simc": 24628,
+                "addr:teryt:sym_ul": 984700,
+                "contact:phone": "+48 748191522",
+                "contact:email": "zspziebice@interia.pl",
+                "contact:website": "http:\/\/zspziebice.pl",
+                "ref:regon": "007005756",
+                "operator": "Powiat Z\u0105bkowicki",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 18893"
+            }
+        },
+        {
+            "id": 85136,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.04582,
+                    50.6034
+                ]
+            },
+            "properties": {
+                "isced:level": "4",
+                "ref:rspo": 85136,
+                "official_name": "Szko\u0142a Policealna w Zespole Szk\u00f3\u0142 Ponadpodstawowych im. Hipolita Cegielskiego w Zi\u0119bicach",
+                "name": "Szko\u0142a Policealna w Zespole Szk\u00f3\u0142 Ponadpodstawowych",
+                "addr:country": "PL",
+                "addr:postcode": "57-220",
+                "addr:city": "Zi\u0119bice",
+                "addr:street": "ul. Wojska Polskiego",
+                "addr:housenumber": "3",
+                "addr:teryt:simc": 24628,
+                "addr:teryt:sym_ul": 984700,
+                "contact:phone": "+48 748191522",
+                "contact:email": "zspziebice@interia.pl",
+                "contact:website": "http:\/\/zspziebice.pl",
+                "ref:regon": "020127216",
+                "operator": "Powiat Z\u0105bkowicki",
+                "operator:type": "government",
+                "amenity": "college",
+                "note": "Parent RSPO: 18893"
+            }
+        },
+        {
+            "id": 276031,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.04582,
+                    50.60337
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 276031,
+                "official_name": "Bran\u017cowa Szko\u0142a II Stopnia w Zespole Szk\u00f3\u0142 Ponadpodstawowych im. Hipolita Cegielskiego w Zi\u0119bicach",
+                "name": "Bran\u017cowa Szko\u0142a II Stopnia w Zespole Szk\u00f3\u0142 Ponadpodstawowych",
+                "addr:country": "PL",
+                "addr:postcode": "57-220",
+                "addr:city": "Zi\u0119bice",
+                "addr:street": "ul. Wojska Polskiego",
+                "addr:housenumber": "3",
+                "addr:teryt:simc": 24628,
+                "addr:teryt:sym_ul": 984700,
+                "contact:phone": "+48 748191522",
+                "contact:email": "zspziebice@interia.pl",
+                "contact:website": "http:\/\/www.zspziebice.pl",
+                "ref:regon": "386972511",
+                "operator": "Powiat Z\u0105bkowicki",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 18893"
+            }
+        },
+        {
+            "id": 65282,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.00914,
+                    50.65006
+                ]
+            },
+            "properties": {
+                "ref:rspo": 65282,
+                "official_name": "Przedszkole Publiczne w Henrykowie",
+                "name": "Przedszkole Publiczne w Henrykowie",
+                "addr:country": "PL",
+                "addr:postcode": "57-210",
+                "addr:city": "Henryk\u00f3w",
+                "addr:street": "ul. S\u0142oneczna",
+                "addr:housenumber": "20",
+                "addr:teryt:simc": 20254,
+                "addr:teryt:sym_ul": 856741,
+                "contact:phone": "+48 748105059",
+                "contact:email": "pph@oswiata-ziebice.pl",
+                "ref:regon": "890543903",
+                "ref:vatin": "PL8871765193",
+                "operator": "Gmina Zi\u0119bice",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 16863,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.01401,
+                    50.65313
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 16863,
+                "official_name": "Katolickie Liceum Og\u00f3lnokszta\u0142c\u0105ce im. B\u0142ogos\u0142awionego Edmunda Bojanowskiego",
+                "name": "Katolickie Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+                "addr:country": "PL",
+                "addr:postcode": "57-210",
+                "addr:city": "Henryk\u00f3w",
+                "addr:street": "pl. Cysters\u00f3w",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 28158,
+                "addr:teryt:sym_ul": 856741,
+                "contact:phone": "+48 748105050",
+                "contact:email": "henrykow@archidiecezja.wroc.pl",
+                "contact:website": "http:\/\/henrykow.archidiecezja.wroc.pl",
+                "ref:regon": "021972095",
+                "operator": "Archidiecezja Wroc\u0142awska",
+                "operator:type": "religious",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 70754,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.00646,
+                    50.65323
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 70754,
+                "official_name": "Szko\u0142a Podstawowa w Henrykowie",
+                "name": "Szko\u0142a Podstawowa w Henrykowie",
+                "addr:country": "PL",
+                "addr:postcode": "57-210",
+                "addr:city": "Henryk\u00f3w",
+                "addr:street": "ul. Polna",
+                "addr:housenumber": "9",
+                "addr:teryt:simc": 17011,
+                "addr:teryt:sym_ul": 856741,
+                "contact:phone": "+48 748105020",
+                "contact:email": "sph@oswiata-ziebice.pl",
+                "ref:regon": "000833958",
+                "ref:vatin": "PL8871680539",
+                "operator": "Gmina Zi\u0119bice",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

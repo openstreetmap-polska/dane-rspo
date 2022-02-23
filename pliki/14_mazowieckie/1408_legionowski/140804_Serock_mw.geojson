@@ -1,1 +1,535 @@
-{"type":"FeatureCollection","features":[{"id":20566,"type":"Feature","geometry":{"type":"Point","coordinates":[21.0253,52.4613]},"properties":{"ref:rspo":20566,"official_name":"Samorz\u0105dowe Przedszkole w Zegrzu","name":"Samorz\u0105dowe Przedszkole w Zegrzu","addr:country":"PL","addr:postcode":"05-131","addr:city":"Zegrze","addr:street":"ul. Oficerska","addr:housenumber":"2","addr:teryt:simc":14806,"addr:teryt:sym_ul":8467,"contact:email":"przedszkole.zegrze@gmail.com","contact:website":"http:\/\/pzegrze.przedszkola.net.pl","ref:regon":"142540829","ref:vatin":"PL5361891135","operator":"Miasto I Gmina Serock","operator:type":"government","amenity":"kindergarten"}},{"id":48867,"type":"Feature","geometry":{"type":"Point","coordinates":[21.0223799,52.46319]},"properties":{"isced:level":"1;2","ref:rspo":48867,"official_name":"Szko\u0142a Podstawowa im.wojska Polskiego w Zegrzu","name":"Szko\u0142a Podstawowa im.wojska Polskiego w Zegrzu","addr:country":"PL","addr:postcode":"05-131","addr:city":"Zegrze","addr:street":"ul. Oficerska","addr:housenumber":"3","addr:teryt:simc":14806,"addr:teryt:sym_ul":8467,"contact:phone":"+48 227654080","contact:email":"sekretariat@spzegrze.pl","contact:website":"http:\/\/www.spzegrze.pl","ref:regon":"001146823","ref:vatin":"PL5361664913","operator":"Miasto I Gmina Serock","operator:type":"government","amenity":"school"}},{"id":20563,"type":"Feature","geometry":{"type":"Point","coordinates":[21.04389,52.47735]},"properties":{"isced:level":"1;2","ref:rspo":20563,"official_name":"Szko\u0142a Podstawowa im.jerzego Szaniawskiego w Jadwisinie","name":"Szko\u0142a Podstawowa im.jerzego Szaniawskiego w Jadwisinie","addr:country":"PL","addr:postcode":"05-140","addr:city":"Jadwisin","addr:street":"ul. Szkolna","addr:housenumber":"46","addr:teryt:simc":21970,"addr:teryt:sym_ul":8237,"contact:phone":"+48 227827548","contact:email":"spjadwisin@post.pl","contact:website":"http:\/\/www.spjadwisin.szkolnastrona.pl\/index.php","ref:regon":"001146830","ref:vatin":"PL5361664907","operator":"Miasto I Gmina Serock","operator:type":"government","amenity":"school"}},{"id":268417,"type":"Feature","geometry":{"type":"Point","coordinates":[21.03687,52.48595]},"properties":{"ref:rspo":268417,"official_name":"Niepubliczne Przedszkole \"Magiczny Las\"","name":"Niepubliczne Przedszkole \"Magiczny Las\"","addr:country":"PL","addr:postcode":"05-140","addr:city":"Stasi Las","addr:street":"ul. Jutrzenki","addr:housenumber":"7","addr:teryt:simc":7699,"addr:teryt:sym_ul":8361,"contact:phone":"+48 575755441","contact:email":"info@magicznylas.edu.pl","contact:website":"http:\/\/www.magicznylas.edu.pl","ref:regon":"381151413","ref:vatin":"PL5361935246","operator":"Magiczny Las Sp\u00f3\u0142ka Z Ograniczon\u0105 Odpowiedzialno\u015bci\u0105","operator:type":"private","amenity":"kindergarten"}},{"id":273067,"type":"Feature","geometry":{"type":"Point","coordinates":[21.04266,52.48606]},"properties":{"ref:rspo":273067,"official_name":"Niepubliczna Poradnia Psychologiczno - Pedagogiczna \"Motyl\"","name":"Niepubliczna Poradnia Psychologiczno - Pedagogiczna \"Motyl\"","addr:country":"PL","addr:postcode":"05-140","addr:city":"Serock","addr:street":"ul. Warszawska","addr:housenumber":"24","addr:teryt:simc":23682,"addr:teryt:sym_ul":921645,"contact:email":"marzena.skrzypkowska@terapiamotyl.pl","ref:regon":"384366114","operator":"Marzena Skrzypkowska","operator:type":"private","healthcare":"councelling","counselling_type":"education","fixme":"w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. healthcare=councelling + counselling_type=education albo healthcare=psychotherapist)"}},{"id":18442,"type":"Feature","geometry":{"type":"Point","coordinates":[20.984844,52.5054079]},"properties":{"ref:rspo":18442,"official_name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w Woli Kie\u0142pi\u0144skiej","name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w Woli Kie\u0142pi\u0144skiej","addr:country":"PL","addr:postcode":"05-140","addr:place":"Wola Kie\u0142pi\u0144ska","addr:housenumber":"1","addr:teryt:sym_ul":8390,"contact:phone":"+48 227827550","contact:email":"szkola@zsp-wola-kielpinska.edu.pl","contact:website":"http:\/\/www.zsp-wola-kielpinska.pl","ref:regon":"001146817","ref:vatin":"PL5361664959","operator":"Miasto I Gmina Serock","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 48870;48871"}},{"id":48870,"type":"Feature","geometry":{"type":"Point","coordinates":[20.984844,52.5053779]},"properties":{"ref:rspo":48870,"official_name":"Przedszkole w Woli Kie\u0142pi\u0144skiej","name":"Przedszkole w Woli Kie\u0142pi\u0144skiej","addr:country":"PL","addr:postcode":"05-140","addr:place":"Wola Kie\u0142pi\u0144ska","addr:housenumber":"1","addr:teryt:sym_ul":8415,"contact:phone":"+48 227827550","contact:email":"szkola@zsp-wola-kielpinska.edu.pl","contact:website":"http:\/\/www.zsp-wola-kielpinska.pl","ref:regon":"015791257","ref:vatin":"PL5361664971","operator":"Miasto I Gmina Serock","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 18442"}},{"id":48871,"type":"Feature","geometry":{"type":"Point","coordinates":[20.984844,52.505347900000004]},"properties":{"isced:level":"1;2","ref:rspo":48871,"official_name":"Szko\u0142a Podstawowa im.witolda Zglenickiego w Woli Kie\u0142pi\u0144skiej","name":"Szko\u0142a Podstawowa im.witolda Zglenickiego w Woli Kie\u0142pi\u0144skiej","addr:country":"PL","addr:postcode":"05-140","addr:place":"Wola Kie\u0142pi\u0144ska","addr:housenumber":"1","addr:teryt:sym_ul":8415,"contact:phone":"+48 227827550","contact:email":"szkola@zsp-wola-kielpinska.edu.pl","contact:website":"http:\/\/www.zsp-wola-kielpinska.pl","ref:regon":"015791234","ref:vatin":"PL5361664971","operator":"Miasto I Gmina Serock","operator:type":"government","amenity":"school","note":"Parent RSPO: 18442"}},{"id":27728,"type":"Feature","geometry":{"type":"Point","coordinates":[21.06973,52.50878]},"properties":{"ref:rspo":27728,"official_name":"Dom Wczas\u00f3w Dzieci\u0119cych","name":"Dom Wczas\u00f3w Dzieci\u0119cych","addr:country":"PL","addr:postcode":"05-140","addr:city":"Serock","addr:street":"ul. Wyzwolenia","addr:housenumber":"31","addr:teryt:simc":25133,"addr:teryt:sym_ul":921645,"contact:phone":"+48 227826843","contact:email":"sekretariat@integracjaserock.pl","contact:website":"http:\/\/www.integracjaserock.pl","ref:regon":"146348856","operator":"Krajowy Komitet Wychowania Resocjalizuj\u0105cego","operator:type":"ngo","leisure":"resort"}},{"id":29717,"type":"Feature","geometry":{"type":"Point","coordinates":[21.06973,52.50875]},"properties":{"ref:rspo":29717,"official_name":"Szkolne Schronisko M\u0142odzie\u017cowe Krajowego Komitetu Wychowania Resocjalizuj\u0105cego","name":"Szkolne Schronisko M\u0142odzie\u017cowe Krajowego Komitetu Wychowania Resocjalizuj\u0105cego","addr:country":"PL","addr:postcode":"05-140","addr:city":"Serock","addr:street":"ul. Wyzwolenia","addr:housenumber":"31","addr:teryt:simc":25133,"addr:teryt:sym_ul":921645,"contact:phone":"+48 227826843","contact:email":"sekretariat@integracjaserock.pl","contact:website":"http:\/\/integracjaserock.pl","ref:regon":"146348900","operator":"Krajowy Komitet Wychowania Resocjalizuj\u0105cego","operator:type":"ngo","tourism":"hostel"}},{"id":20565,"type":"Feature","geometry":{"type":"Point","coordinates":[21.067670822144,52.511680603027]},"properties":{"ref:rspo":20565,"official_name":"Samorz\u0105dowe Przedszkole im.krasnala Ha\u0142aba\u0142y w Serocku","name":"Samorz\u0105dowe Przedszkole im.krasnala Ha\u0142aba\u0142y w Serocku","addr:country":"PL","addr:postcode":"05-140","addr:city":"Serock","addr:street":"ul. W\u0142odzimierza Wolskiego","addr:housenumber":"15","addr:teryt:simc":24699,"addr:teryt:sym_ul":921645,"contact:phone":"+48 227827312","contact:email":"przedszkole.serock@neostrada.pl","contact:website":"http:\/\/przedszkole-serock.edupage.org","ref:regon":"013003563","ref:vatin":"PL5361575931","operator":"Miasto I Gmina Serock","operator:type":"government","amenity":"kindergarten"}},{"id":24329,"type":"Feature","geometry":{"type":"Point","coordinates":[21.067670822144,52.511650603027]},"properties":{"ref:rspo":24329,"official_name":"Powiatowy Zesp\u00f3\u0142 Szk\u00f3\u0142 Ponadpodstawowych im. W\u0142odzimierza Wolskiego w Serocku","name":"Powiatowy Zesp\u00f3\u0142 Szk\u00f3\u0142 Ponadpodstawowych","addr:country":"PL","addr:postcode":"05-140","addr:city":"Serock","addr:street":"ul. W\u0142odzimierza Wolskiego","addr:housenumber":"8","addr:teryt:simc":24699,"addr:teryt:sym_ul":921645,"contact:phone":"+48 227827101","contact:email":"sekretariat@pzspserock.pl","contact:website":"http:\/\/www.pzspserock.pl","ref:regon":"000860174","ref:vatin":"PL5361295812","operator":"Powiat Legionowski","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 34598;34599;34601"}},{"id":34598,"type":"Feature","geometry":{"type":"Point","coordinates":[21.067670822144,52.511620603027005]},"properties":{"isced:level":"3","ref:rspo":34598,"official_name":"Liceum Og\u00f3lnokszta\u0142c\u0105ce","name":"Liceum Og\u00f3lnokszta\u0142c\u0105ce","addr:country":"PL","addr:postcode":"05-140","addr:city":"Serock","addr:street":"ul. W\u0142odzimierza Wolskiego","addr:housenumber":"8","addr:teryt:simc":24699,"addr:teryt:sym_ul":921645,"contact:phone":"+48 227827101","contact:email":"sekretariat@pzspserock.pl","contact:website":"http:\/\/www.pzspserock.pl","ref:regon":"015547362","operator":"Powiat Legionowski","operator:type":"government","amenity":"school","note":"Parent RSPO: 24329"}},{"id":34599,"type":"Feature","geometry":{"type":"Point","coordinates":[21.067670822144,52.511590603027]},"properties":{"isced:level":"3","ref:rspo":34599,"official_name":"Bran\u017cowa Szko\u0142a I Stopnia","name":"Bran\u017cowa Szko\u0142a I Stopnia","addr:country":"PL","addr:postcode":"05-140","addr:city":"Serock","addr:street":"ul. W\u0142odzimierza Wolskiego","addr:housenumber":"8","addr:teryt:simc":24699,"addr:teryt:sym_ul":921645,"contact:phone":"+48 227827101","contact:email":"sekretariat@pzspserock.pl","contact:website":"http:\/\/www.pzspserock.pl","ref:regon":"015547379","operator":"Powiat Legionowski","operator:type":"government","amenity":"school","note":"Parent RSPO: 24329"}},{"id":34601,"type":"Feature","geometry":{"type":"Point","coordinates":[21.067670822144,52.511560603027]},"properties":{"isced:level":"3","ref:rspo":34601,"official_name":"Technikum","name":"Technikum","addr:country":"PL","addr:postcode":"05-140","addr:city":"Serock","addr:street":"ul. W\u0142odzimierza Wolskiego","addr:housenumber":"8","addr:teryt:simc":24699,"addr:teryt:sym_ul":921645,"contact:phone":"+48 227827101","contact:email":"sekretariat@pzspserock.pl","contact:website":"http:\/\/www.pzspserock.pl","ref:regon":"015509373","operator":"Powiat Legionowski","operator:type":"government","amenity":"school","note":"Parent RSPO: 24329"}},{"id":20562,"type":"Feature","geometry":{"type":"Point","coordinates":[21.0709899,52.51626]},"properties":{"isced:level":"1;2","ref:rspo":20562,"official_name":"Szko\u0142a Podstawowa im.miko\u0142aja Kopernika w Serocku","name":"Szko\u0142a Podstawowa im.miko\u0142aja Kopernika w Serocku","addr:country":"PL","addr:postcode":"05-140","addr:city":"Serock","addr:street":"ul. Pu\u0142tuska","addr:housenumber":"68","addr:teryt:simc":18168,"addr:teryt:sym_ul":921645,"contact:phone":"+48 227827311","contact:email":"szkola@spserock.pl","contact:website":"http:\/\/www.spserock.edupage.org","ref:regon":"000799931","ref:vatin":"PL5361664942","operator":"Miasto I Gmina Serock","operator:type":"government","amenity":"school"}},{"id":23051,"type":"Feature","geometry":{"type":"Point","coordinates":[21.06932,52.5197999]},"properties":{"ref:rspo":23051,"official_name":"Niepubliczne Przedszkole \"Weso\u0142e Skrzaty\"","name":"Niepubliczne Przedszkole \"Weso\u0142e Skrzaty\"","addr:country":"PL","addr:postcode":"05-140","addr:city":"Serock","addr:street":"ul. Pu\u0142tuska","addr:housenumber":"53D","addr:teryt:simc":18168,"addr:teryt:sym_ul":921645,"contact:phone":"+48 665794495","contact:email":"dzulia2@op.pl","contact:website":"http:\/\/www.wesoleskrzaty.edu.pl","ref:regon":"146328256","ref:vatin":"PL5681434988","operator":"Marzena Kisiel - Gryc","operator:type":"private","amenity":"kindergarten"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 20566,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0253,
+                    52.4613
+                ]
+            },
+            "properties": {
+                "ref:rspo": 20566,
+                "official_name": "Samorz\u0105dowe Przedszkole w Zegrzu",
+                "name": "Samorz\u0105dowe Przedszkole w Zegrzu",
+                "addr:country": "PL",
+                "addr:postcode": "05-131",
+                "addr:city": "Zegrze",
+                "addr:street": "ul. Oficerska",
+                "addr:housenumber": "2",
+                "addr:teryt:simc": 14806,
+                "addr:teryt:sym_ul": 8467,
+                "contact:email": "przedszkole.zegrze@gmail.com",
+                "contact:website": "http:\/\/pzegrze.przedszkola.net.pl",
+                "ref:regon": "142540829",
+                "ref:vatin": "PL5361891135",
+                "operator": "Miasto I Gmina Serock",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 48867,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0223799,
+                    52.46319
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 48867,
+                "official_name": "Szko\u0142a Podstawowa im.wojska Polskiego w Zegrzu",
+                "name": "Szko\u0142a Podstawowa im.wojska Polskiego w Zegrzu",
+                "addr:country": "PL",
+                "addr:postcode": "05-131",
+                "addr:city": "Zegrze",
+                "addr:street": "ul. Oficerska",
+                "addr:housenumber": "3",
+                "addr:teryt:simc": 14806,
+                "addr:teryt:sym_ul": 8467,
+                "contact:phone": "+48 227654080",
+                "contact:email": "sekretariat@spzegrze.pl",
+                "contact:website": "http:\/\/www.spzegrze.pl",
+                "ref:regon": "001146823",
+                "ref:vatin": "PL5361664913",
+                "operator": "Miasto I Gmina Serock",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 20563,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.04389,
+                    52.47735
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 20563,
+                "official_name": "Szko\u0142a Podstawowa im.jerzego Szaniawskiego w Jadwisinie",
+                "name": "Szko\u0142a Podstawowa im.jerzego Szaniawskiego w Jadwisinie",
+                "addr:country": "PL",
+                "addr:postcode": "05-140",
+                "addr:city": "Jadwisin",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "46",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 8237,
+                "contact:phone": "+48 227827548",
+                "contact:email": "spjadwisin@post.pl",
+                "contact:website": "http:\/\/www.spjadwisin.szkolnastrona.pl\/index.php",
+                "ref:regon": "001146830",
+                "ref:vatin": "PL5361664907",
+                "operator": "Miasto I Gmina Serock",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 268417,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.03687,
+                    52.48595
+                ]
+            },
+            "properties": {
+                "ref:rspo": 268417,
+                "official_name": "Niepubliczne Przedszkole \"Magiczny Las\"",
+                "name": "Niepubliczne Przedszkole \"Magiczny Las\"",
+                "addr:country": "PL",
+                "addr:postcode": "05-140",
+                "addr:city": "Stasi Las",
+                "addr:street": "ul. Jutrzenki",
+                "addr:housenumber": "7",
+                "addr:teryt:simc": 7699,
+                "addr:teryt:sym_ul": 8361,
+                "contact:phone": "+48 575755441",
+                "contact:email": "info@magicznylas.edu.pl",
+                "contact:website": "http:\/\/www.magicznylas.edu.pl",
+                "ref:regon": "381151413",
+                "ref:vatin": "PL5361935246",
+                "operator": "Magiczny Las Sp\u00f3\u0142ka Z Ograniczon\u0105 Odpowiedzialno\u015bci\u0105",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 273067,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.04266,
+                    52.48606
+                ]
+            },
+            "properties": {
+                "ref:rspo": 273067,
+                "official_name": "Niepubliczna Poradnia Psychologiczno - Pedagogiczna \"Motyl\"",
+                "name": "Niepubliczna Poradnia Psychologiczno - Pedagogiczna \"Motyl\"",
+                "addr:country": "PL",
+                "addr:postcode": "05-140",
+                "addr:city": "Serock",
+                "addr:street": "ul. Warszawska",
+                "addr:housenumber": "24",
+                "addr:teryt:simc": 23682,
+                "addr:teryt:sym_ul": 921645,
+                "contact:email": "marzena.skrzypkowska@terapiamotyl.pl",
+                "ref:regon": "384366114",
+                "operator": "Marzena Skrzypkowska",
+                "operator:type": "private",
+                "healthcare": "counselling",
+                "counselling_type": "education",
+                "fixme": "w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. healthcare=counselling + counselling_type=education albo healthcare=psychotherapist)"
+            }
+        },
+        {
+            "id": 18442,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.984844,
+                    52.5054079
+                ]
+            },
+            "properties": {
+                "ref:rspo": 18442,
+                "official_name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w Woli Kie\u0142pi\u0144skiej",
+                "name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w Woli Kie\u0142pi\u0144skiej",
+                "addr:country": "PL",
+                "addr:postcode": "05-140",
+                "addr:place": "Wola Kie\u0142pi\u0144ska",
+                "addr:housenumber": "1",
+                "addr:teryt:sym_ul": 8390,
+                "contact:phone": "+48 227827550",
+                "contact:email": "szkola@zsp-wola-kielpinska.edu.pl",
+                "contact:website": "http:\/\/www.zsp-wola-kielpinska.pl",
+                "ref:regon": "001146817",
+                "ref:vatin": "PL5361664959",
+                "operator": "Miasto I Gmina Serock",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 48870;48871"
+            }
+        },
+        {
+            "id": 48870,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.984844,
+                    52.5053779
+                ]
+            },
+            "properties": {
+                "ref:rspo": 48870,
+                "official_name": "Przedszkole w Woli Kie\u0142pi\u0144skiej",
+                "name": "Przedszkole w Woli Kie\u0142pi\u0144skiej",
+                "addr:country": "PL",
+                "addr:postcode": "05-140",
+                "addr:place": "Wola Kie\u0142pi\u0144ska",
+                "addr:housenumber": "1",
+                "addr:teryt:sym_ul": 8415,
+                "contact:phone": "+48 227827550",
+                "contact:email": "szkola@zsp-wola-kielpinska.edu.pl",
+                "contact:website": "http:\/\/www.zsp-wola-kielpinska.pl",
+                "ref:regon": "015791257",
+                "ref:vatin": "PL5361664971",
+                "operator": "Miasto I Gmina Serock",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 18442"
+            }
+        },
+        {
+            "id": 48871,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.984844,
+                    52.505347900000004
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 48871,
+                "official_name": "Szko\u0142a Podstawowa im.witolda Zglenickiego w Woli Kie\u0142pi\u0144skiej",
+                "name": "Szko\u0142a Podstawowa im.witolda Zglenickiego w Woli Kie\u0142pi\u0144skiej",
+                "addr:country": "PL",
+                "addr:postcode": "05-140",
+                "addr:place": "Wola Kie\u0142pi\u0144ska",
+                "addr:housenumber": "1",
+                "addr:teryt:sym_ul": 8415,
+                "contact:phone": "+48 227827550",
+                "contact:email": "szkola@zsp-wola-kielpinska.edu.pl",
+                "contact:website": "http:\/\/www.zsp-wola-kielpinska.pl",
+                "ref:regon": "015791234",
+                "ref:vatin": "PL5361664971",
+                "operator": "Miasto I Gmina Serock",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 18442"
+            }
+        },
+        {
+            "id": 27728,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.06973,
+                    52.50878
+                ]
+            },
+            "properties": {
+                "ref:rspo": 27728,
+                "official_name": "Dom Wczas\u00f3w Dzieci\u0119cych",
+                "name": "Dom Wczas\u00f3w Dzieci\u0119cych",
+                "addr:country": "PL",
+                "addr:postcode": "05-140",
+                "addr:city": "Serock",
+                "addr:street": "ul. Wyzwolenia",
+                "addr:housenumber": "31",
+                "addr:teryt:simc": 25133,
+                "addr:teryt:sym_ul": 921645,
+                "contact:phone": "+48 227826843",
+                "contact:email": "sekretariat@integracjaserock.pl",
+                "contact:website": "http:\/\/www.integracjaserock.pl",
+                "ref:regon": "146348856",
+                "operator": "Krajowy Komitet Wychowania Resocjalizuj\u0105cego",
+                "operator:type": "ngo",
+                "leisure": "resort"
+            }
+        },
+        {
+            "id": 29717,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.06973,
+                    52.50875
+                ]
+            },
+            "properties": {
+                "ref:rspo": 29717,
+                "official_name": "Szkolne Schronisko M\u0142odzie\u017cowe Krajowego Komitetu Wychowania Resocjalizuj\u0105cego",
+                "name": "Szkolne Schronisko M\u0142odzie\u017cowe Krajowego Komitetu Wychowania Resocjalizuj\u0105cego",
+                "addr:country": "PL",
+                "addr:postcode": "05-140",
+                "addr:city": "Serock",
+                "addr:street": "ul. Wyzwolenia",
+                "addr:housenumber": "31",
+                "addr:teryt:simc": 25133,
+                "addr:teryt:sym_ul": 921645,
+                "contact:phone": "+48 227826843",
+                "contact:email": "sekretariat@integracjaserock.pl",
+                "contact:website": "http:\/\/integracjaserock.pl",
+                "ref:regon": "146348900",
+                "operator": "Krajowy Komitet Wychowania Resocjalizuj\u0105cego",
+                "operator:type": "ngo",
+                "tourism": "hostel"
+            }
+        },
+        {
+            "id": 20565,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.067670822144,
+                    52.511680603027
+                ]
+            },
+            "properties": {
+                "ref:rspo": 20565,
+                "official_name": "Samorz\u0105dowe Przedszkole im.krasnala Ha\u0142aba\u0142y w Serocku",
+                "name": "Samorz\u0105dowe Przedszkole im.krasnala Ha\u0142aba\u0142y w Serocku",
+                "addr:country": "PL",
+                "addr:postcode": "05-140",
+                "addr:city": "Serock",
+                "addr:street": "ul. W\u0142odzimierza Wolskiego",
+                "addr:housenumber": "15",
+                "addr:teryt:simc": 24699,
+                "addr:teryt:sym_ul": 921645,
+                "contact:phone": "+48 227827312",
+                "contact:email": "przedszkole.serock@neostrada.pl",
+                "contact:website": "http:\/\/przedszkole-serock.edupage.org",
+                "ref:regon": "013003563",
+                "ref:vatin": "PL5361575931",
+                "operator": "Miasto I Gmina Serock",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 24329,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.067670822144,
+                    52.511650603027
+                ]
+            },
+            "properties": {
+                "ref:rspo": 24329,
+                "official_name": "Powiatowy Zesp\u00f3\u0142 Szk\u00f3\u0142 Ponadpodstawowych im. W\u0142odzimierza Wolskiego w Serocku",
+                "name": "Powiatowy Zesp\u00f3\u0142 Szk\u00f3\u0142 Ponadpodstawowych",
+                "addr:country": "PL",
+                "addr:postcode": "05-140",
+                "addr:city": "Serock",
+                "addr:street": "ul. W\u0142odzimierza Wolskiego",
+                "addr:housenumber": "8",
+                "addr:teryt:simc": 24699,
+                "addr:teryt:sym_ul": 921645,
+                "contact:phone": "+48 227827101",
+                "contact:email": "sekretariat@pzspserock.pl",
+                "contact:website": "http:\/\/www.pzspserock.pl",
+                "ref:regon": "000860174",
+                "ref:vatin": "PL5361295812",
+                "operator": "Powiat Legionowski",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 34598;34599;34601"
+            }
+        },
+        {
+            "id": 34598,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.067670822144,
+                    52.511620603027005
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 34598,
+                "official_name": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+                "name": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+                "addr:country": "PL",
+                "addr:postcode": "05-140",
+                "addr:city": "Serock",
+                "addr:street": "ul. W\u0142odzimierza Wolskiego",
+                "addr:housenumber": "8",
+                "addr:teryt:simc": 24699,
+                "addr:teryt:sym_ul": 921645,
+                "contact:phone": "+48 227827101",
+                "contact:email": "sekretariat@pzspserock.pl",
+                "contact:website": "http:\/\/www.pzspserock.pl",
+                "ref:regon": "015547362",
+                "operator": "Powiat Legionowski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 24329"
+            }
+        },
+        {
+            "id": 34599,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.067670822144,
+                    52.511590603027
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 34599,
+                "official_name": "Bran\u017cowa Szko\u0142a I Stopnia",
+                "name": "Bran\u017cowa Szko\u0142a I Stopnia",
+                "addr:country": "PL",
+                "addr:postcode": "05-140",
+                "addr:city": "Serock",
+                "addr:street": "ul. W\u0142odzimierza Wolskiego",
+                "addr:housenumber": "8",
+                "addr:teryt:simc": 24699,
+                "addr:teryt:sym_ul": 921645,
+                "contact:phone": "+48 227827101",
+                "contact:email": "sekretariat@pzspserock.pl",
+                "contact:website": "http:\/\/www.pzspserock.pl",
+                "ref:regon": "015547379",
+                "operator": "Powiat Legionowski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 24329"
+            }
+        },
+        {
+            "id": 34601,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.067670822144,
+                    52.511560603027
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 34601,
+                "official_name": "Technikum",
+                "name": "Technikum",
+                "addr:country": "PL",
+                "addr:postcode": "05-140",
+                "addr:city": "Serock",
+                "addr:street": "ul. W\u0142odzimierza Wolskiego",
+                "addr:housenumber": "8",
+                "addr:teryt:simc": 24699,
+                "addr:teryt:sym_ul": 921645,
+                "contact:phone": "+48 227827101",
+                "contact:email": "sekretariat@pzspserock.pl",
+                "contact:website": "http:\/\/www.pzspserock.pl",
+                "ref:regon": "015509373",
+                "operator": "Powiat Legionowski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 24329"
+            }
+        },
+        {
+            "id": 20562,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0709899,
+                    52.51626
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 20562,
+                "official_name": "Szko\u0142a Podstawowa im.miko\u0142aja Kopernika w Serocku",
+                "name": "Szko\u0142a Podstawowa im.miko\u0142aja Kopernika w Serocku",
+                "addr:country": "PL",
+                "addr:postcode": "05-140",
+                "addr:city": "Serock",
+                "addr:street": "ul. Pu\u0142tuska",
+                "addr:housenumber": "68",
+                "addr:teryt:simc": 18168,
+                "addr:teryt:sym_ul": 921645,
+                "contact:phone": "+48 227827311",
+                "contact:email": "szkola@spserock.pl",
+                "contact:website": "http:\/\/www.spserock.edupage.org",
+                "ref:regon": "000799931",
+                "ref:vatin": "PL5361664942",
+                "operator": "Miasto I Gmina Serock",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 23051,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.06932,
+                    52.5197999
+                ]
+            },
+            "properties": {
+                "ref:rspo": 23051,
+                "official_name": "Niepubliczne Przedszkole \"Weso\u0142e Skrzaty\"",
+                "name": "Niepubliczne Przedszkole \"Weso\u0142e Skrzaty\"",
+                "addr:country": "PL",
+                "addr:postcode": "05-140",
+                "addr:city": "Serock",
+                "addr:street": "ul. Pu\u0142tuska",
+                "addr:housenumber": "53D",
+                "addr:teryt:simc": 18168,
+                "addr:teryt:sym_ul": 921645,
+                "contact:phone": "+48 665794495",
+                "contact:email": "dzulia2@op.pl",
+                "contact:website": "http:\/\/www.wesoleskrzaty.edu.pl",
+                "ref:regon": "146328256",
+                "ref:vatin": "PL5681434988",
+                "operator": "Marzena Kisiel - Gryc",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        }
+    ]
+}

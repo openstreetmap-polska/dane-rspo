@@ -1,1 +1,155 @@
-{"type":"FeatureCollection","features":[{"id":16894,"type":"Feature","geometry":{"type":"Point","coordinates":[19.89068,51.95942]},"properties":{"isced:level":"1;2","ref:rspo":16894,"official_name":"Szko\u0142a Podstawowa w Kalenicach","name":"Szko\u0142a Podstawowa w Kalenicach","addr:country":"PL","addr:postcode":"99-420","addr:place":"Kalenice","addr:housenumber":"119","addr:teryt:sym_ul":730767,"contact:phone":"+48 468388792","contact:email":"spkalenice@list.pl","ref:regon":"001112623","ref:vatin":"PL8341732949","operator":"Gmina \u0141yszkowice","operator:type":"government","amenity":"school"}},{"id":26736,"type":"Feature","geometry":{"type":"Point","coordinates":[19.91301,51.98268]},"properties":{"isced:level":"1;2","ref:rspo":26736,"official_name":"Szko\u0142a Podstawowa im.j\u00f3zefa Che\u0142mo\u0144skiego w \u0141yszkowicach","name":"Szko\u0142a Podstawowa im.j\u00f3zefa Che\u0142mo\u0144skiego w \u0141yszkowicach","addr:country":"PL","addr:postcode":"99-420","addr:city":"\u0141yszkowice","addr:street":"ul. Ksi\u0119stwa \u0141owickiego","addr:housenumber":"11","addr:teryt:simc":10238,"addr:teryt:sym_ul":730862,"contact:phone":"+48 468388965","contact:email":"szkola_lyszkowice@autograf.pl","ref:regon":"000563565","ref:vatin":"PL8341766078","operator":"Gmina \u0141yszkowice","operator:type":"government","amenity":"school"}},{"id":16998,"type":"Feature","geometry":{"type":"Point","coordinates":[19.90957,51.98328]},"properties":{"ref:rspo":16998,"official_name":"Przedszkole w \u0141yszkowicach","name":"Przedszkole w \u0141yszkowicach","addr:country":"PL","addr:postcode":"99-420","addr:city":"\u0141yszkowice","addr:street":"ul. Gminna","addr:housenumber":"5a","addr:teryt:simc":5654,"addr:teryt:sym_ul":730862,"contact:phone":"+48 468388710","contact:email":"przedszkolek11@tlen.pl","ref:regon":"750021033","ref:vatin":"PL8341732961","operator":"Gmina \u0141yszkowice","operator:type":"government","amenity":"kindergarten"}},{"id":16889,"type":"Feature","geometry":{"type":"Point","coordinates":[20.03143,52.00169]},"properties":{"isced:level":"1;2","ref:rspo":16889,"official_name":"Szko\u0142a Podstawowa w Stachlewie","name":"Szko\u0142a Podstawowa w Stachlewie","addr:country":"PL","addr:postcode":"99-418","addr:place":"Stachlew","addr:housenumber":"76","addr:teryt:sym_ul":731057,"contact:phone":"+48 468386729","contact:email":"spstachlew@wp.pl","contact:website":"https:\/\/szkolastachlew.stronyzklasa.pl\/","ref:regon":"001112630","ref:vatin":"PL8341732895","operator":"Gmina \u0141yszkowice","operator:type":"government","amenity":"school"}},{"id":16881,"type":"Feature","geometry":{"type":"Point","coordinates":[19.96452,52.00699]},"properties":{"isced:level":"1;2","ref:rspo":16881,"official_name":"Szko\u0142a Podstawowa w Seligowie","name":"Szko\u0142a Podstawowa w Seligowie","addr:country":"PL","addr:postcode":"99-420","addr:place":"Selig\u00f3w","addr:housenumber":"41","addr:teryt:sym_ul":730997,"contact:phone":"+48 468388788","contact:email":"szkolaseligow@interia.pl","contact:website":"http:\/\/spseligow.szkolnastrona.pl","ref:regon":"750002343","ref:vatin":"PL8341732955","operator":"Gmina \u0141yszkowice","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 16894,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.89068,
+                    51.95942
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 16894,
+                "official_name": "Szko\u0142a Podstawowa w Kalenicach",
+                "name": "Szko\u0142a Podstawowa w Kalenicach",
+                "addr:country": "PL",
+                "addr:postcode": "99-420",
+                "addr:place": "Kalenice",
+                "addr:housenumber": "119",
+                "addr:teryt:sym_ul": 730767,
+                "contact:phone": "+48 468388792",
+                "contact:email": "spkalenice@list.pl",
+                "ref:regon": "001112623",
+                "ref:vatin": "PL8341732949",
+                "operator": "Gmina \u0141yszkowice",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 26736,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.91301,
+                    51.98268
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 26736,
+                "official_name": "Szko\u0142a Podstawowa im.j\u00f3zefa Che\u0142mo\u0144skiego w \u0141yszkowicach",
+                "name": "Szko\u0142a Podstawowa im.j\u00f3zefa Che\u0142mo\u0144skiego w \u0141yszkowicach",
+                "addr:country": "PL",
+                "addr:postcode": "99-420",
+                "addr:city": "\u0141yszkowice",
+                "addr:street": "ul. Ksi\u0119stwa \u0141owickiego",
+                "addr:housenumber": "11",
+                "addr:teryt:simc": 10238,
+                "addr:teryt:sym_ul": 730862,
+                "contact:phone": "+48 468388965",
+                "contact:email": "szkola_lyszkowice@autograf.pl",
+                "ref:regon": "000563565",
+                "ref:vatin": "PL8341766078",
+                "operator": "Gmina \u0141yszkowice",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 16998,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.90957,
+                    51.98328
+                ]
+            },
+            "properties": {
+                "ref:rspo": 16998,
+                "official_name": "Przedszkole w \u0141yszkowicach",
+                "name": "Przedszkole w \u0141yszkowicach",
+                "addr:country": "PL",
+                "addr:postcode": "99-420",
+                "addr:city": "\u0141yszkowice",
+                "addr:street": "ul. Gminna",
+                "addr:housenumber": "5a",
+                "addr:teryt:simc": 5654,
+                "addr:teryt:sym_ul": 730862,
+                "contact:phone": "+48 468388710",
+                "contact:email": "przedszkolek11@tlen.pl",
+                "ref:regon": "750021033",
+                "ref:vatin": "PL8341732961",
+                "operator": "Gmina \u0141yszkowice",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 16889,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.03143,
+                    52.00169
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 16889,
+                "official_name": "Szko\u0142a Podstawowa w Stachlewie",
+                "name": "Szko\u0142a Podstawowa w Stachlewie",
+                "addr:country": "PL",
+                "addr:postcode": "99-418",
+                "addr:place": "Stachlew",
+                "addr:housenumber": "76",
+                "addr:teryt:sym_ul": 731057,
+                "contact:phone": "+48 468386729",
+                "contact:email": "spstachlew@wp.pl",
+                "contact:website": "https:\/\/szkolastachlew.stronyzklasa.pl\/",
+                "ref:regon": "001112630",
+                "ref:vatin": "PL8341732895",
+                "operator": "Gmina \u0141yszkowice",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 16881,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.96452,
+                    52.00699
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 16881,
+                "official_name": "Szko\u0142a Podstawowa w Seligowie",
+                "name": "Szko\u0142a Podstawowa w Seligowie",
+                "addr:country": "PL",
+                "addr:postcode": "99-420",
+                "addr:place": "Selig\u00f3w",
+                "addr:housenumber": "41",
+                "addr:teryt:sym_ul": 730997,
+                "contact:phone": "+48 468388788",
+                "contact:email": "szkolaseligow@interia.pl",
+                "contact:website": "http:\/\/spseligow.szkolnastrona.pl",
+                "ref:regon": "750002343",
+                "ref:vatin": "PL8341732955",
+                "operator": "Gmina \u0141yszkowice",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

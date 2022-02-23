@@ -1,1 +1,795 @@
-{"type":"FeatureCollection","features":[{"id":111183,"type":"Feature","geometry":{"type":"Point","coordinates":[18.82574,51.09054]},"properties":{"isced:level":"1;2","ref:rspo":111183,"official_name":"Szko\u0142a Filialna w Kolonii Lisowice","name":"Szko\u0142a Filialna w Kolonii Lisowice","addr:country":"PL","addr:postcode":"98-355","addr:place":"Kolonia Lisowice","addr:housenumber":"70","addr:teryt:sym_ul":703227,"contact:phone":"+48 438413514","contact:email":"zspraciszyn@dzialoszyn.pl","ref:regon":"114990000","operator":"\"Miasto I Gmina Dzia\u0142oszyn\"","operator:type":"government","amenity":"school","note":"Parent RSPO: 25918"}},{"id":127748,"type":"Feature","geometry":{"type":"Point","coordinates":[18.86185,51.10143]},"properties":{"ref:rspo":127748,"official_name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w Raciszynie Ze Szko\u0142\u0105 Filialn\u0105 w Kolonii Lisowice","name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w Raciszynie Ze Szko\u0142\u0105 Filialn\u0105 w Kolonii Lisowice","addr:country":"PL","addr:postcode":"98-355","addr:city":"Raciszyn","addr:street":"ul. Dzia\u0142oszy\u0144ska","addr:housenumber":"65","addr:teryt:simc":4580,"addr:teryt:sym_ul":703291,"contact:phone":"+48 438413211","contact:email":"zspraciszyn@dzialoszyn.pl","ref:regon":"361821964","operator":"\"Miasto I Gmina Dzia\u0142oszyn\"","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 25918;40062"}},{"id":25918,"type":"Feature","geometry":{"type":"Point","coordinates":[18.86185,51.1014]},"properties":{"isced:level":"1;2","ref:rspo":25918,"official_name":"Szko\u0142a Podstawowa im. Marii Konopnickiej w Raciszynie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"98-355","addr:city":"Raciszyn","addr:street":"ul. Dzia\u0142oszy\u0144ska","addr:housenumber":"65","addr:teryt:simc":4580,"addr:teryt:sym_ul":703291,"contact:phone":"+48 438413211","contact:email":"zspraciszyn@dzialoszyn.pl","contact:website":"http:\/\/www.spraciszyn.edupage.org","ref:regon":"001149900","ref:vatin":"PL7722108880","operator":"\"Miasto I Gmina Dzia\u0142oszyn\"","operator:type":"government","amenity":"school","note":"Children RSPO: 111183Parent RSPO: 127748"}},{"id":40062,"type":"Feature","geometry":{"type":"Point","coordinates":[18.86506,51.10467]},"properties":{"ref:rspo":40062,"official_name":"Publiczne Przedszkole w Raciszynie","name":"Publiczne Przedszkole w Raciszynie","addr:country":"PL","addr:postcode":"98-355","addr:city":"Raciszyn","addr:street":"ul. \u015ar\u00f3dwiejska","addr:housenumber":"4","addr:teryt:simc":22434,"addr:teryt:sym_ul":703291,"contact:phone":"+48 438413211","contact:email":"zspraciszyn@dzialoszyn.pl","ref:regon":"592154664","ref:vatin":"PL7722112887","operator":"\"Miasto I Gmina Dzia\u0142oszyn\"","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 127748"}},{"id":9201,"type":"Feature","geometry":{"type":"Point","coordinates":[18.87641,51.11474]},"properties":{"ref:rspo":9201,"official_name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 im.marii Sk\u0142odowskiej-Curie w Dzia\u0142oszynie","name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 im.marii Sk\u0142odowskiej-Curie w Dzia\u0142oszynie","addr:country":"PL","addr:postcode":"98-355","addr:city":"Dzia\u0142oszyn","addr:street":"ul. Grota-Roweckiego","addr:housenumber":"5","addr:teryt:simc":6188,"addr:teryt:sym_ul":703026,"contact:phone":"+48 438413712","contact:email":"szkola@curie.pl","contact:website":"http:\/\/www.curie.pl","ref:regon":"000755690","ref:vatin":"PL8321014257","operator":"Powiat Paj\u0119cza\u0144ski","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 14796;14797;14798;14799;14999"}},{"id":14796,"type":"Feature","geometry":{"type":"Point","coordinates":[18.87641,51.114709999999995]},"properties":{"isced:level":"3","ref:rspo":14796,"official_name":"Liceum Og\u00f3lnokszta\u0142c\u0105ce w Dzia\u0142oszynie","name":"Liceum Og\u00f3lnokszta\u0142c\u0105ce w Dzia\u0142oszynie","addr:country":"PL","addr:postcode":"98-355","addr:city":"Dzia\u0142oszyn","addr:street":"ul. Grota-Roweckiego","addr:housenumber":"5","addr:teryt:simc":6188,"addr:teryt:sym_ul":703026,"contact:phone":"+48 438413712","contact:email":"szkola@curie.pl","contact:website":"http:\/\/www.curie.pl","ref:regon":"730223396","ref:vatin":"PL8321014257","operator":"Powiat Paj\u0119cza\u0144ski","operator:type":"government","amenity":"school","note":"Parent RSPO: 9201"}},{"id":14797,"type":"Feature","geometry":{"type":"Point","coordinates":[18.87641,51.11468]},"properties":{"isced:level":"3","ref:rspo":14797,"official_name":"Technikum w Dzia\u0142oszynie","name":"Technikum w Dzia\u0142oszynie","addr:country":"PL","addr:postcode":"98-355","addr:city":"Dzia\u0142oszyn","addr:street":"ul. Grota-Roweckiego","addr:housenumber":"5","addr:teryt:simc":6188,"addr:teryt:sym_ul":703026,"contact:phone":"+48 438413712","contact:email":"szkola@curie.pl","contact:website":"http:\/\/www.curie.pl","ref:regon":"592147954","ref:vatin":"PL8321014257","operator":"Powiat Paj\u0119cza\u0144ski","operator:type":"government","amenity":"school","note":"Parent RSPO: 9201"}},{"id":14798,"type":"Feature","geometry":{"type":"Point","coordinates":[18.87641,51.11465]},"properties":{"isced:level":"3","ref:rspo":14798,"official_name":"Bran\u017cowa Szko\u0142a I Stopnia w Dzia\u0142oszynie","name":"Bran\u017cowa Szko\u0142a I Stopnia w Dzia\u0142oszynie","addr:country":"PL","addr:postcode":"98-355","addr:city":"Dzia\u0142oszyn","addr:street":"ul. Grota-Roweckiego","addr:housenumber":"5","addr:teryt:simc":6188,"addr:teryt:sym_ul":703026,"contact:phone":"+48 438413712","contact:email":"szkola@curie.pl","contact:website":"http:\/\/www.curie.pl","ref:regon":"592147925","ref:vatin":"PL8321014257","operator":"Powiat Paj\u0119cza\u0144ski","operator:type":"government","amenity":"school","note":"Parent RSPO: 9201"}},{"id":14799,"type":"Feature","geometry":{"type":"Point","coordinates":[18.87641,51.114619999999995]},"properties":{"isced:level":"4","ref:rspo":14799,"official_name":"Szko\u0142a Policalna w Dzia\u0142oszynie","name":"Szko\u0142a Policalna w Dzia\u0142oszynie","addr:country":"PL","addr:postcode":"98-355","addr:city":"Dzia\u0142oszyn","addr:street":"ul. Grota-Roweckiego","addr:housenumber":"5","addr:teryt:simc":6188,"addr:teryt:sym_ul":703026,"contact:phone":"+48 438413712","contact:email":"szkola@curie.pl","contact:website":"http:\/\/www.curie.pl","ref:regon":"592297263","ref:vatin":"PL8321014257","operator":"Powiat Paj\u0119cza\u0144ski","operator:type":"government","amenity":"college","note":"Parent RSPO: 9201"}},{"id":14999,"type":"Feature","geometry":{"type":"Point","coordinates":[18.87641,51.11459]},"properties":{"isced:level":"3","ref:rspo":14999,"official_name":"Liceum Og\u00f3lnokszta\u0142c\u0105ce dla Doros\u0142ych w Dzia\u0142oszynie","name":"Liceum Og\u00f3lnokszta\u0142c\u0105ce dla Doros\u0142ych w Dzia\u0142oszynie","addr:country":"PL","addr:postcode":"98-355","addr:city":"Dzia\u0142oszyn","addr:street":"ul. Grota-Roweckiego","addr:housenumber":"5","addr:teryt:simc":6188,"addr:teryt:sym_ul":703026,"contact:phone":"+48 438413712","contact:email":"szkola@curie.pl","contact:website":"http:\/\/www.curie.pl","ref:regon":"101468021","ref:vatin":"PL8321014257","operator":"Powiat Paj\u0119cza\u0144ski","operator:type":"government","amenity":"school","note":"Parent RSPO: 9201"}},{"id":15378,"type":"Feature","geometry":{"type":"Point","coordinates":[18.8803899,51.11478]},"properties":{"ref:rspo":15378,"official_name":"Powiatowa Poradnia Psychologiczno - Pedagogiczna w Paj\u0119cznie Filia w Dzia\u0142oszynie","name":"Powiatowa Poradnia Psychologiczno - Pedagogiczna w Paj\u0119cznie Filia w Dzia\u0142oszynie","addr:country":"PL","addr:postcode":"98-355","addr:city":"Dzia\u0142oszyn","addr:street":"ul. Grota-Roweckiego","addr:housenumber":"7","addr:teryt:simc":6188,"addr:teryt:sym_ul":703026,"contact:phone":"+48 438413753","contact:email":"poradniapsychped@poczta.onet.pl","contact:website":"http:\/\/www.pppp.pajeczno.pl","ref:regon":"716017000","ref:vatin":"PL7722195152","operator":"Powiat Paj\u0119cza\u0144ski","operator:type":"government","healthcare":"councelling","counselling_type":"education","fixme":"w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. healthcare=councelling + counselling_type=education albo healthcare=psychotherapist)","note":"Parent RSPO: 9751"}},{"id":9602,"type":"Feature","geometry":{"type":"Point","coordinates":[18.8786999,51.11542]},"properties":{"ref:rspo":9602,"official_name":"Specjalny O\u015brodek Szkolno - Wychowawczy w Dzia\u0142oszynie","name":"Specjalny O\u015brodek Szkolno - Wychowawczy w Dzia\u0142oszynie","addr:country":"PL","addr:postcode":"98-355","addr:city":"Dzia\u0142oszyn","addr:street":"ul. Grota-Roweckiego","addr:housenumber":"2","addr:teryt:simc":6188,"addr:teryt:sym_ul":703026,"contact:phone":"+48 438414350","contact:email":"soszw@onet.eu","contact:website":"http:\/\/sosw-dzialoszyn.cba.pl","ref:regon":"000232696","ref:vatin":"PL8321589673","operator":"Powiat Paj\u0119cza\u0144ski","operator:type":"government","amenity":"school","note":"Children RSPO: 16268;16270;16271"}},{"id":16268,"type":"Feature","geometry":{"type":"Point","coordinates":[18.8786999,51.11539]},"properties":{"isced:level":"1;2","ref:rspo":16268,"official_name":"Szko\u0142a Podstawowa Nr 3 w Dzia\u0142oszynie","name":"Szko\u0142a Podstawowa Nr 3 w Dzia\u0142oszynie","addr:country":"PL","addr:postcode":"98-355","addr:city":"Dzia\u0142oszyn","addr:street":"ul. Grota-Roweckiego","addr:housenumber":"2","addr:teryt:simc":6188,"addr:teryt:sym_ul":703026,"contact:phone":"+48 438414350","contact:email":"soszw@onet.eu","ref:regon":"592147865","ref:vatin":"PL8321589673","operator":"Powiat Paj\u0119cza\u0144ski","operator:type":"government","amenity":"school","note":"Parent RSPO: 9602"}},{"id":16270,"type":"Feature","geometry":{"type":"Point","coordinates":[18.8786999,51.11536]},"properties":{"ref:rspo":16270,"official_name":"Szko\u0142a Przysposabiaj\u0105ca Do Pracy w Dzia\u0142oszynie","name":"Szko\u0142a Przysposabiaj\u0105ca Do Pracy w Dzia\u0142oszynie","addr:country":"PL","addr:postcode":"98-355","addr:city":"Dzia\u0142oszyn","addr:street":"ul. Grota-Roweckiego","addr:housenumber":"2","addr:teryt:simc":6188,"addr:teryt:sym_ul":703026,"contact:phone":"+48 438414350","contact:email":"soszw@onet.eu","ref:regon":"100406319","ref:vatin":"PL8321589673","operator":"Powiat Paj\u0119cza\u0144ski","operator:type":"government","amenity":"school","note":"Parent RSPO: 9602"}},{"id":16271,"type":"Feature","geometry":{"type":"Point","coordinates":[18.8786999,51.11533]},"properties":{"ref:rspo":16271,"official_name":"Przedszkole Specjalne w Dzia\u0142oszynie","name":"Przedszkole Specjalne w Dzia\u0142oszynie","addr:country":"PL","addr:postcode":"98-355","addr:city":"Dzia\u0142oszyn","addr:street":"ul. Grota-Roweckiego","addr:housenumber":"2","addr:teryt:simc":6188,"addr:teryt:sym_ul":703026,"contact:phone":"+48 438414350","contact:email":"soszw@onet.eu","ref:regon":"101470012","ref:vatin":"PL8321589673","operator":"Powiat Paj\u0119cza\u0144ski","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 9602"}},{"id":39894,"type":"Feature","geometry":{"type":"Point","coordinates":[18.85974,51.11604]},"properties":{"isced:level":"1;2","ref:rspo":39894,"official_name":"Szko\u0142a Podstawowa Nr 1 im. Janusza Korczaka w Dzia\u0142oszynie","name":"Szko\u0142a Podstawowa Nr 1","addr:country":"PL","addr:postcode":"98-355","addr:city":"Dzia\u0142oszyn","addr:street":"ul. Zamkowa","addr:housenumber":"1","addr:teryt:simc":25547,"addr:teryt:sym_ul":703026,"contact:phone":"+48 438413033","contact:email":"sp1dzialoszyn@dzialoszyn.pl","ref:regon":"000265477","ref:vatin":"PL7722112870","operator":"\"Miasto I Gmina Dzia\u0142oszyn\"","operator:type":"government","amenity":"school","note":"Children RSPO: 129430"}},{"id":125586,"type":"Feature","geometry":{"type":"Point","coordinates":[18.8796,51.1186999]},"properties":{"ref:rspo":125586,"official_name":"Niepubliczne Przedszkole \"Cyrk Malucha\"","name":"Niepubliczne Przedszkole \"Cyrk Malucha\"","addr:country":"PL","addr:postcode":"98-355","addr:city":"Dzia\u0142oszyn","addr:street":"ul. J\u00f3zefa Pi\u0142sudskiego","addr:housenumber":"43 a","addr:teryt:simc":16264,"addr:teryt:sym_ul":703026,"contact:phone":"+48 796066066","contact:email":"cyrkmalucha@gmail.com","ref:regon":"101851910","ref:vatin":"PL5741545847","operator":"Barbara Kotynia","operator:type":"private","amenity":"kindergarten"}},{"id":28888,"type":"Feature","geometry":{"type":"Point","coordinates":[18.87113,51.1195]},"properties":{"isced:level":"1;2","ref:rspo":28888,"official_name":"Szko\u0142a Podstawowa Nr 2 im. Miko\u0142aja Kopernika","name":"Szko\u0142a Podstawowa Nr 2","addr:country":"PL","addr:postcode":"98-355","addr:city":"Dzia\u0142oszyn","addr:street":"ul. Ogrodowa","addr:housenumber":"3a","addr:teryt:simc":14834,"addr:teryt:sym_ul":703026,"contact:phone":"+48 438413197","contact:email":"sp2dzialoszyn@dzialoszyn.pl","contact:website":"http:\/\/www.kopernikdzialoszyn.edupage.org","ref:regon":"001149885","ref:vatin":"PL7722112864","operator":"\"Miasto I Gmina Dzia\u0142oszyn\"","operator:type":"government","amenity":"school"}},{"id":40059,"type":"Feature","geometry":{"type":"Point","coordinates":[18.9181199,51.13062]},"properties":{"ref:rspo":40059,"official_name":"Publiczne Przedszkole im. Jasia I Ma\u0142gosi w Tr\u0119baczewie","name":"Publiczne Przedszkole","addr:country":"PL","addr:postcode":"98-355","addr:city":"Tr\u0119baczew","addr:street":"ul. Zagrodowa","addr:housenumber":"26","addr:teryt:simc":25392,"addr:teryt:sym_ul":703411,"contact:phone":"+48 438414941","contact:email":"zstrebaczew@dzialoszyn.pl","contact:website":"http:\/\/zstrebaczew.szkolnastrona.pl","ref:regon":"592154670","ref:vatin":"PL7722112893","operator":"\"Miasto I Gmina Dzia\u0142oszyn\"","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 127749"}},{"id":127749,"type":"Feature","geometry":{"type":"Point","coordinates":[18.9191499,51.13069]},"properties":{"ref:rspo":127749,"official_name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 w Tr\u0119baczewie","name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 w Tr\u0119baczewie","addr:country":"PL","addr:postcode":"98-355","addr:city":"Tr\u0119baczew","addr:street":"ul. Szkolna","addr:housenumber":"5","addr:teryt:simc":21970,"addr:teryt:sym_ul":703411,"contact:phone":"+48 438414941","contact:email":"zstrebaczew@dzialoszyn.pl","ref:regon":"361821007","operator":"\"Miasto I Gmina Dzia\u0142oszyn\"","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 28893;40059"}},{"id":28893,"type":"Feature","geometry":{"type":"Point","coordinates":[18.9191499,51.13066]},"properties":{"isced:level":"1;2","ref:rspo":28893,"official_name":"Szko\u0142a Podstawowa im. Ks. Jana Twardowskiego w Tr\u0119baczewie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"98-355","addr:city":"Tr\u0119baczew","addr:street":"ul. Szkolna","addr:housenumber":"5","addr:teryt:simc":21970,"addr:teryt:sym_ul":703411,"contact:phone":"+48 438414941","contact:email":"zstrebaczew@dzialoszyn.pl","contact:website":"http:\/\/zstrebaczew.szkolnastrona.pl","ref:regon":"001149891","ref:vatin":"PL7722112858","operator":"\"Miasto I Gmina Dzia\u0142oszyn\"","operator:type":"government","amenity":"school","note":"Parent RSPO: 127749"}},{"id":126427,"type":"Feature","geometry":{"type":"Point","coordinates":[18.89829,51.13284]},"properties":{"ref:rspo":126427,"official_name":"O\u015brodek Szkolenia Ochrony Pracy Doradztwa w Zakresie Bph \"Mim\" Sp\u00f3\u0142ka Cywilna Mariusz I Miros\u0142aw Kubiccy","name":"O\u015brodek Szkolenia Ochrony Pracy Doradztwa w Zakresie Bph \"Mim\" Sp\u00f3\u0142ka Cywilna Mariusz I Miros\u0142aw Kubiccy","addr:country":"PL","addr:postcode":"98-355","addr:place":"Sadowiec-Wrzosy","addr:housenumber":"26","addr:teryt:sym_ul":703368,"contact:phone":"+48 606352296","contact:email":"kubicki5@op.pl","ref:regon":"360312440","ref:vatin":"PL5080052064","operator":"O\u015brodek Szkolenia, Ochrony Pracy, Doradztwa W Zakresie Bhp \"Mim\" Mariusz I Miros\u0142aw Kubiccy Sp\u00f3\u0142ka Cywilna","operator:type":"consortium","fixme":"w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. amenity=training + training=*, amenity=dancing_school, amenity=language_school, amenity=music_school) albo amenity=school, amenity=college, albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education."}},{"id":39942,"type":"Feature","geometry":{"type":"Point","coordinates":[18.91939,51.1348399]},"properties":{"ref:rspo":39942,"official_name":"Miejskie Przedszkole w Dzia\u0142oszynie","name":"Miejskie Przedszkole w Dzia\u0142oszynie","addr:country":"PL","addr:postcode":"98-355","addr:city":"Dzia\u0142oszyn","addr:street":"ul. Szkolna","addr:housenumber":"4","addr:teryt:simc":21970,"addr:teryt:sym_ul":703026,"contact:phone":"+48 438413200","contact:email":"pp2dzialoszyn@dzialoszyn.pl","ref:regon":"592154693","ref:vatin":"PL7722112924","operator":"\"Miasto I Gmina Dzia\u0142oszyn\"","operator:type":"government","amenity":"kindergarten"}},{"id":274837,"type":"Feature","geometry":{"type":"Point","coordinates":[18.85255,51.1428299]},"properties":{"isced:level":"1;2","ref:rspo":274837,"official_name":"Szko\u0142a Podstawowa w Szczytach","name":"Szko\u0142a Podstawowa w Szczytach","addr:country":"PL","addr:postcode":"98-355","addr:city":"Szczyty","addr:street":"ul. Szkolna","addr:housenumber":"2","addr:teryt:simc":21970,"addr:teryt:sym_ul":703374,"contact:phone":"+48 438413028","contact:email":"spszczyty@dzialoszyn.pl","ref:regon":"386325042","operator":"\"Miasto I Gmina Dzia\u0142oszyn\"","operator:type":"government","amenity":"school"}},{"id":129430,"type":"Feature","geometry":{"type":"Point","coordinates":[18.85255,51.1427999]},"properties":{"isced:level":"1;2","ref:rspo":129430,"official_name":"Szko\u0142a Filialna w Szczytach","name":"Szko\u0142a Filialna w Szczytach","addr:country":"PL","addr:postcode":"98-355","addr:city":"Szczyty","addr:street":"ul. Szkolna","addr:housenumber":"2","addr:teryt:simc":21970,"addr:teryt:sym_ul":703374,"contact:phone":"+48 438413033","ref:regon":"265477000","operator":"\"Miasto I Gmina Dzia\u0142oszyn\"","operator:type":"government","amenity":"school","note":"Parent RSPO: 39894"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 111183,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.82574,
+                    51.09054
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 111183,
+                "official_name": "Szko\u0142a Filialna w Kolonii Lisowice",
+                "name": "Szko\u0142a Filialna w Kolonii Lisowice",
+                "addr:country": "PL",
+                "addr:postcode": "98-355",
+                "addr:place": "Kolonia Lisowice",
+                "addr:housenumber": "70",
+                "addr:teryt:sym_ul": 703227,
+                "contact:phone": "+48 438413514",
+                "contact:email": "zspraciszyn@dzialoszyn.pl",
+                "ref:regon": "114990000",
+                "operator": "\"Miasto I Gmina Dzia\u0142oszyn\"",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 25918"
+            }
+        },
+        {
+            "id": 127748,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.86185,
+                    51.10143
+                ]
+            },
+            "properties": {
+                "ref:rspo": 127748,
+                "official_name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w Raciszynie Ze Szko\u0142\u0105 Filialn\u0105 w Kolonii Lisowice",
+                "name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w Raciszynie Ze Szko\u0142\u0105 Filialn\u0105 w Kolonii Lisowice",
+                "addr:country": "PL",
+                "addr:postcode": "98-355",
+                "addr:city": "Raciszyn",
+                "addr:street": "ul. Dzia\u0142oszy\u0144ska",
+                "addr:housenumber": "65",
+                "addr:teryt:simc": 4580,
+                "addr:teryt:sym_ul": 703291,
+                "contact:phone": "+48 438413211",
+                "contact:email": "zspraciszyn@dzialoszyn.pl",
+                "ref:regon": "361821964",
+                "operator": "\"Miasto I Gmina Dzia\u0142oszyn\"",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 25918;40062"
+            }
+        },
+        {
+            "id": 25918,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.86185,
+                    51.1014
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 25918,
+                "official_name": "Szko\u0142a Podstawowa im. Marii Konopnickiej w Raciszynie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "98-355",
+                "addr:city": "Raciszyn",
+                "addr:street": "ul. Dzia\u0142oszy\u0144ska",
+                "addr:housenumber": "65",
+                "addr:teryt:simc": 4580,
+                "addr:teryt:sym_ul": 703291,
+                "contact:phone": "+48 438413211",
+                "contact:email": "zspraciszyn@dzialoszyn.pl",
+                "contact:website": "http:\/\/www.spraciszyn.edupage.org",
+                "ref:regon": "001149900",
+                "ref:vatin": "PL7722108880",
+                "operator": "\"Miasto I Gmina Dzia\u0142oszyn\"",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Children RSPO: 111183Parent RSPO: 127748"
+            }
+        },
+        {
+            "id": 40062,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.86506,
+                    51.10467
+                ]
+            },
+            "properties": {
+                "ref:rspo": 40062,
+                "official_name": "Publiczne Przedszkole w Raciszynie",
+                "name": "Publiczne Przedszkole w Raciszynie",
+                "addr:country": "PL",
+                "addr:postcode": "98-355",
+                "addr:city": "Raciszyn",
+                "addr:street": "ul. \u015ar\u00f3dwiejska",
+                "addr:housenumber": "4",
+                "addr:teryt:simc": 22434,
+                "addr:teryt:sym_ul": 703291,
+                "contact:phone": "+48 438413211",
+                "contact:email": "zspraciszyn@dzialoszyn.pl",
+                "ref:regon": "592154664",
+                "ref:vatin": "PL7722112887",
+                "operator": "\"Miasto I Gmina Dzia\u0142oszyn\"",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 127748"
+            }
+        },
+        {
+            "id": 9201,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.87641,
+                    51.11474
+                ]
+            },
+            "properties": {
+                "ref:rspo": 9201,
+                "official_name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 im.marii Sk\u0142odowskiej-Curie w Dzia\u0142oszynie",
+                "name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 im.marii Sk\u0142odowskiej-Curie w Dzia\u0142oszynie",
+                "addr:country": "PL",
+                "addr:postcode": "98-355",
+                "addr:city": "Dzia\u0142oszyn",
+                "addr:street": "ul. Grota-Roweckiego",
+                "addr:housenumber": "5",
+                "addr:teryt:simc": 6188,
+                "addr:teryt:sym_ul": 703026,
+                "contact:phone": "+48 438413712",
+                "contact:email": "szkola@curie.pl",
+                "contact:website": "http:\/\/www.curie.pl",
+                "ref:regon": "000755690",
+                "ref:vatin": "PL8321014257",
+                "operator": "Powiat Paj\u0119cza\u0144ski",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 14796;14797;14798;14799;14999"
+            }
+        },
+        {
+            "id": 14796,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.87641,
+                    51.114709999999995
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 14796,
+                "official_name": "Liceum Og\u00f3lnokszta\u0142c\u0105ce w Dzia\u0142oszynie",
+                "name": "Liceum Og\u00f3lnokszta\u0142c\u0105ce w Dzia\u0142oszynie",
+                "addr:country": "PL",
+                "addr:postcode": "98-355",
+                "addr:city": "Dzia\u0142oszyn",
+                "addr:street": "ul. Grota-Roweckiego",
+                "addr:housenumber": "5",
+                "addr:teryt:simc": 6188,
+                "addr:teryt:sym_ul": 703026,
+                "contact:phone": "+48 438413712",
+                "contact:email": "szkola@curie.pl",
+                "contact:website": "http:\/\/www.curie.pl",
+                "ref:regon": "730223396",
+                "ref:vatin": "PL8321014257",
+                "operator": "Powiat Paj\u0119cza\u0144ski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 9201"
+            }
+        },
+        {
+            "id": 14797,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.87641,
+                    51.11468
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 14797,
+                "official_name": "Technikum w Dzia\u0142oszynie",
+                "name": "Technikum w Dzia\u0142oszynie",
+                "addr:country": "PL",
+                "addr:postcode": "98-355",
+                "addr:city": "Dzia\u0142oszyn",
+                "addr:street": "ul. Grota-Roweckiego",
+                "addr:housenumber": "5",
+                "addr:teryt:simc": 6188,
+                "addr:teryt:sym_ul": 703026,
+                "contact:phone": "+48 438413712",
+                "contact:email": "szkola@curie.pl",
+                "contact:website": "http:\/\/www.curie.pl",
+                "ref:regon": "592147954",
+                "ref:vatin": "PL8321014257",
+                "operator": "Powiat Paj\u0119cza\u0144ski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 9201"
+            }
+        },
+        {
+            "id": 14798,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.87641,
+                    51.11465
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 14798,
+                "official_name": "Bran\u017cowa Szko\u0142a I Stopnia w Dzia\u0142oszynie",
+                "name": "Bran\u017cowa Szko\u0142a I Stopnia w Dzia\u0142oszynie",
+                "addr:country": "PL",
+                "addr:postcode": "98-355",
+                "addr:city": "Dzia\u0142oszyn",
+                "addr:street": "ul. Grota-Roweckiego",
+                "addr:housenumber": "5",
+                "addr:teryt:simc": 6188,
+                "addr:teryt:sym_ul": 703026,
+                "contact:phone": "+48 438413712",
+                "contact:email": "szkola@curie.pl",
+                "contact:website": "http:\/\/www.curie.pl",
+                "ref:regon": "592147925",
+                "ref:vatin": "PL8321014257",
+                "operator": "Powiat Paj\u0119cza\u0144ski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 9201"
+            }
+        },
+        {
+            "id": 14799,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.87641,
+                    51.114619999999995
+                ]
+            },
+            "properties": {
+                "isced:level": "4",
+                "ref:rspo": 14799,
+                "official_name": "Szko\u0142a Policalna w Dzia\u0142oszynie",
+                "name": "Szko\u0142a Policalna w Dzia\u0142oszynie",
+                "addr:country": "PL",
+                "addr:postcode": "98-355",
+                "addr:city": "Dzia\u0142oszyn",
+                "addr:street": "ul. Grota-Roweckiego",
+                "addr:housenumber": "5",
+                "addr:teryt:simc": 6188,
+                "addr:teryt:sym_ul": 703026,
+                "contact:phone": "+48 438413712",
+                "contact:email": "szkola@curie.pl",
+                "contact:website": "http:\/\/www.curie.pl",
+                "ref:regon": "592297263",
+                "ref:vatin": "PL8321014257",
+                "operator": "Powiat Paj\u0119cza\u0144ski",
+                "operator:type": "government",
+                "amenity": "college",
+                "note": "Parent RSPO: 9201"
+            }
+        },
+        {
+            "id": 14999,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.87641,
+                    51.11459
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 14999,
+                "official_name": "Liceum Og\u00f3lnokszta\u0142c\u0105ce dla Doros\u0142ych w Dzia\u0142oszynie",
+                "name": "Liceum Og\u00f3lnokszta\u0142c\u0105ce dla Doros\u0142ych w Dzia\u0142oszynie",
+                "addr:country": "PL",
+                "addr:postcode": "98-355",
+                "addr:city": "Dzia\u0142oszyn",
+                "addr:street": "ul. Grota-Roweckiego",
+                "addr:housenumber": "5",
+                "addr:teryt:simc": 6188,
+                "addr:teryt:sym_ul": 703026,
+                "contact:phone": "+48 438413712",
+                "contact:email": "szkola@curie.pl",
+                "contact:website": "http:\/\/www.curie.pl",
+                "ref:regon": "101468021",
+                "ref:vatin": "PL8321014257",
+                "operator": "Powiat Paj\u0119cza\u0144ski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 9201"
+            }
+        },
+        {
+            "id": 15378,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.8803899,
+                    51.11478
+                ]
+            },
+            "properties": {
+                "ref:rspo": 15378,
+                "official_name": "Powiatowa Poradnia Psychologiczno - Pedagogiczna w Paj\u0119cznie Filia w Dzia\u0142oszynie",
+                "name": "Powiatowa Poradnia Psychologiczno - Pedagogiczna w Paj\u0119cznie Filia w Dzia\u0142oszynie",
+                "addr:country": "PL",
+                "addr:postcode": "98-355",
+                "addr:city": "Dzia\u0142oszyn",
+                "addr:street": "ul. Grota-Roweckiego",
+                "addr:housenumber": "7",
+                "addr:teryt:simc": 6188,
+                "addr:teryt:sym_ul": 703026,
+                "contact:phone": "+48 438413753",
+                "contact:email": "poradniapsychped@poczta.onet.pl",
+                "contact:website": "http:\/\/www.pppp.pajeczno.pl",
+                "ref:regon": "716017000",
+                "ref:vatin": "PL7722195152",
+                "operator": "Powiat Paj\u0119cza\u0144ski",
+                "operator:type": "government",
+                "healthcare": "counselling",
+                "counselling_type": "education",
+                "fixme": "w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. healthcare=counselling + counselling_type=education albo healthcare=psychotherapist)",
+                "note": "Parent RSPO: 9751"
+            }
+        },
+        {
+            "id": 9602,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.8786999,
+                    51.11542
+                ]
+            },
+            "properties": {
+                "ref:rspo": 9602,
+                "official_name": "Specjalny O\u015brodek Szkolno - Wychowawczy w Dzia\u0142oszynie",
+                "name": "Specjalny O\u015brodek Szkolno - Wychowawczy w Dzia\u0142oszynie",
+                "addr:country": "PL",
+                "addr:postcode": "98-355",
+                "addr:city": "Dzia\u0142oszyn",
+                "addr:street": "ul. Grota-Roweckiego",
+                "addr:housenumber": "2",
+                "addr:teryt:simc": 6188,
+                "addr:teryt:sym_ul": 703026,
+                "contact:phone": "+48 438414350",
+                "contact:email": "soszw@onet.eu",
+                "contact:website": "http:\/\/sosw-dzialoszyn.cba.pl",
+                "ref:regon": "000232696",
+                "ref:vatin": "PL8321589673",
+                "operator": "Powiat Paj\u0119cza\u0144ski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Children RSPO: 16268;16270;16271"
+            }
+        },
+        {
+            "id": 16268,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.8786999,
+                    51.11539
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 16268,
+                "official_name": "Szko\u0142a Podstawowa Nr 3 w Dzia\u0142oszynie",
+                "name": "Szko\u0142a Podstawowa Nr 3 w Dzia\u0142oszynie",
+                "addr:country": "PL",
+                "addr:postcode": "98-355",
+                "addr:city": "Dzia\u0142oszyn",
+                "addr:street": "ul. Grota-Roweckiego",
+                "addr:housenumber": "2",
+                "addr:teryt:simc": 6188,
+                "addr:teryt:sym_ul": 703026,
+                "contact:phone": "+48 438414350",
+                "contact:email": "soszw@onet.eu",
+                "ref:regon": "592147865",
+                "ref:vatin": "PL8321589673",
+                "operator": "Powiat Paj\u0119cza\u0144ski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 9602"
+            }
+        },
+        {
+            "id": 16270,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.8786999,
+                    51.11536
+                ]
+            },
+            "properties": {
+                "ref:rspo": 16270,
+                "official_name": "Szko\u0142a Przysposabiaj\u0105ca Do Pracy w Dzia\u0142oszynie",
+                "name": "Szko\u0142a Przysposabiaj\u0105ca Do Pracy w Dzia\u0142oszynie",
+                "addr:country": "PL",
+                "addr:postcode": "98-355",
+                "addr:city": "Dzia\u0142oszyn",
+                "addr:street": "ul. Grota-Roweckiego",
+                "addr:housenumber": "2",
+                "addr:teryt:simc": 6188,
+                "addr:teryt:sym_ul": 703026,
+                "contact:phone": "+48 438414350",
+                "contact:email": "soszw@onet.eu",
+                "ref:regon": "100406319",
+                "ref:vatin": "PL8321589673",
+                "operator": "Powiat Paj\u0119cza\u0144ski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 9602"
+            }
+        },
+        {
+            "id": 16271,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.8786999,
+                    51.11533
+                ]
+            },
+            "properties": {
+                "ref:rspo": 16271,
+                "official_name": "Przedszkole Specjalne w Dzia\u0142oszynie",
+                "name": "Przedszkole Specjalne w Dzia\u0142oszynie",
+                "addr:country": "PL",
+                "addr:postcode": "98-355",
+                "addr:city": "Dzia\u0142oszyn",
+                "addr:street": "ul. Grota-Roweckiego",
+                "addr:housenumber": "2",
+                "addr:teryt:simc": 6188,
+                "addr:teryt:sym_ul": 703026,
+                "contact:phone": "+48 438414350",
+                "contact:email": "soszw@onet.eu",
+                "ref:regon": "101470012",
+                "ref:vatin": "PL8321589673",
+                "operator": "Powiat Paj\u0119cza\u0144ski",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 9602"
+            }
+        },
+        {
+            "id": 39894,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.85974,
+                    51.11604
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 39894,
+                "official_name": "Szko\u0142a Podstawowa Nr 1 im. Janusza Korczaka w Dzia\u0142oszynie",
+                "name": "Szko\u0142a Podstawowa Nr 1",
+                "addr:country": "PL",
+                "addr:postcode": "98-355",
+                "addr:city": "Dzia\u0142oszyn",
+                "addr:street": "ul. Zamkowa",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 25547,
+                "addr:teryt:sym_ul": 703026,
+                "contact:phone": "+48 438413033",
+                "contact:email": "sp1dzialoszyn@dzialoszyn.pl",
+                "ref:regon": "000265477",
+                "ref:vatin": "PL7722112870",
+                "operator": "\"Miasto I Gmina Dzia\u0142oszyn\"",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Children RSPO: 129430"
+            }
+        },
+        {
+            "id": 125586,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.8796,
+                    51.1186999
+                ]
+            },
+            "properties": {
+                "ref:rspo": 125586,
+                "official_name": "Niepubliczne Przedszkole \"Cyrk Malucha\"",
+                "name": "Niepubliczne Przedszkole \"Cyrk Malucha\"",
+                "addr:country": "PL",
+                "addr:postcode": "98-355",
+                "addr:city": "Dzia\u0142oszyn",
+                "addr:street": "ul. J\u00f3zefa Pi\u0142sudskiego",
+                "addr:housenumber": "43 a",
+                "addr:teryt:simc": 16264,
+                "addr:teryt:sym_ul": 703026,
+                "contact:phone": "+48 796066066",
+                "contact:email": "cyrkmalucha@gmail.com",
+                "ref:regon": "101851910",
+                "ref:vatin": "PL5741545847",
+                "operator": "Barbara Kotynia",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 28888,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.87113,
+                    51.1195
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 28888,
+                "official_name": "Szko\u0142a Podstawowa Nr 2 im. Miko\u0142aja Kopernika",
+                "name": "Szko\u0142a Podstawowa Nr 2",
+                "addr:country": "PL",
+                "addr:postcode": "98-355",
+                "addr:city": "Dzia\u0142oszyn",
+                "addr:street": "ul. Ogrodowa",
+                "addr:housenumber": "3a",
+                "addr:teryt:simc": 14834,
+                "addr:teryt:sym_ul": 703026,
+                "contact:phone": "+48 438413197",
+                "contact:email": "sp2dzialoszyn@dzialoszyn.pl",
+                "contact:website": "http:\/\/www.kopernikdzialoszyn.edupage.org",
+                "ref:regon": "001149885",
+                "ref:vatin": "PL7722112864",
+                "operator": "\"Miasto I Gmina Dzia\u0142oszyn\"",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 40059,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.9181199,
+                    51.13062
+                ]
+            },
+            "properties": {
+                "ref:rspo": 40059,
+                "official_name": "Publiczne Przedszkole im. Jasia I Ma\u0142gosi w Tr\u0119baczewie",
+                "name": "Publiczne Przedszkole",
+                "addr:country": "PL",
+                "addr:postcode": "98-355",
+                "addr:city": "Tr\u0119baczew",
+                "addr:street": "ul. Zagrodowa",
+                "addr:housenumber": "26",
+                "addr:teryt:simc": 25392,
+                "addr:teryt:sym_ul": 703411,
+                "contact:phone": "+48 438414941",
+                "contact:email": "zstrebaczew@dzialoszyn.pl",
+                "contact:website": "http:\/\/zstrebaczew.szkolnastrona.pl",
+                "ref:regon": "592154670",
+                "ref:vatin": "PL7722112893",
+                "operator": "\"Miasto I Gmina Dzia\u0142oszyn\"",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 127749"
+            }
+        },
+        {
+            "id": 127749,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.9191499,
+                    51.13069
+                ]
+            },
+            "properties": {
+                "ref:rspo": 127749,
+                "official_name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 w Tr\u0119baczewie",
+                "name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 w Tr\u0119baczewie",
+                "addr:country": "PL",
+                "addr:postcode": "98-355",
+                "addr:city": "Tr\u0119baczew",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "5",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 703411,
+                "contact:phone": "+48 438414941",
+                "contact:email": "zstrebaczew@dzialoszyn.pl",
+                "ref:regon": "361821007",
+                "operator": "\"Miasto I Gmina Dzia\u0142oszyn\"",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 28893;40059"
+            }
+        },
+        {
+            "id": 28893,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.9191499,
+                    51.13066
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 28893,
+                "official_name": "Szko\u0142a Podstawowa im. Ks. Jana Twardowskiego w Tr\u0119baczewie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "98-355",
+                "addr:city": "Tr\u0119baczew",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "5",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 703411,
+                "contact:phone": "+48 438414941",
+                "contact:email": "zstrebaczew@dzialoszyn.pl",
+                "contact:website": "http:\/\/zstrebaczew.szkolnastrona.pl",
+                "ref:regon": "001149891",
+                "ref:vatin": "PL7722112858",
+                "operator": "\"Miasto I Gmina Dzia\u0142oszyn\"",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 127749"
+            }
+        },
+        {
+            "id": 126427,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.89829,
+                    51.13284
+                ]
+            },
+            "properties": {
+                "ref:rspo": 126427,
+                "official_name": "O\u015brodek Szkolenia Ochrony Pracy Doradztwa w Zakresie Bph \"Mim\" Sp\u00f3\u0142ka Cywilna Mariusz I Miros\u0142aw Kubiccy",
+                "name": "O\u015brodek Szkolenia Ochrony Pracy Doradztwa w Zakresie Bph \"Mim\" Sp\u00f3\u0142ka Cywilna Mariusz I Miros\u0142aw Kubiccy",
+                "addr:country": "PL",
+                "addr:postcode": "98-355",
+                "addr:place": "Sadowiec-Wrzosy",
+                "addr:housenumber": "26",
+                "addr:teryt:sym_ul": 703368,
+                "contact:phone": "+48 606352296",
+                "contact:email": "kubicki5@op.pl",
+                "ref:regon": "360312440",
+                "ref:vatin": "PL5080052064",
+                "operator": "O\u015brodek Szkolenia, Ochrony Pracy, Doradztwa W Zakresie Bhp \"Mim\" Mariusz I Miros\u0142aw Kubiccy Sp\u00f3\u0142ka Cywilna",
+                "operator:type": "consortium",
+                "fixme": "w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. amenity=training + training=*, amenity=dancing_school, amenity=language_school, amenity=music_school) albo amenity=school, amenity=college, albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education."
+            }
+        },
+        {
+            "id": 39942,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.91939,
+                    51.1348399
+                ]
+            },
+            "properties": {
+                "ref:rspo": 39942,
+                "official_name": "Miejskie Przedszkole w Dzia\u0142oszynie",
+                "name": "Miejskie Przedszkole w Dzia\u0142oszynie",
+                "addr:country": "PL",
+                "addr:postcode": "98-355",
+                "addr:city": "Dzia\u0142oszyn",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "4",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 703026,
+                "contact:phone": "+48 438413200",
+                "contact:email": "pp2dzialoszyn@dzialoszyn.pl",
+                "ref:regon": "592154693",
+                "ref:vatin": "PL7722112924",
+                "operator": "\"Miasto I Gmina Dzia\u0142oszyn\"",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 274837,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.85255,
+                    51.1428299
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 274837,
+                "official_name": "Szko\u0142a Podstawowa w Szczytach",
+                "name": "Szko\u0142a Podstawowa w Szczytach",
+                "addr:country": "PL",
+                "addr:postcode": "98-355",
+                "addr:city": "Szczyty",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "2",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 703374,
+                "contact:phone": "+48 438413028",
+                "contact:email": "spszczyty@dzialoszyn.pl",
+                "ref:regon": "386325042",
+                "operator": "\"Miasto I Gmina Dzia\u0142oszyn\"",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 129430,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.85255,
+                    51.1427999
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 129430,
+                "official_name": "Szko\u0142a Filialna w Szczytach",
+                "name": "Szko\u0142a Filialna w Szczytach",
+                "addr:country": "PL",
+                "addr:postcode": "98-355",
+                "addr:city": "Szczyty",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "2",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 703374,
+                "contact:phone": "+48 438413033",
+                "ref:regon": "265477000",
+                "operator": "\"Miasto I Gmina Dzia\u0142oszyn\"",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 39894"
+            }
+        }
+    ]
+}

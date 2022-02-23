@@ -1,1 +1,1443 @@
-{"type":"FeatureCollection","features":[{"id":49518,"type":"Feature","geometry":{"type":"Point","coordinates":[15.54977,53.14446]},"properties":{"isced:level":"1;2","ref:rspo":49518,"official_name":"Szko\u0142a Podstawowa im. Jana Paw\u0142a II w Korytowie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"73-200","addr:city":"Korytowo","addr:street":"ul. Szkolna","addr:housenumber":"4","addr:teryt:simc":21970,"addr:teryt:sym_ul":179105,"contact:phone":"+48 957681102","contact:email":"sp.korytowo@wp.pl","contact:website":"http:\/\/www.spkorytowo.choszczno.edu.pl","ref:regon":"210310011","ref:vatin":"PL5941450502","operator":"Gmina Choszczno","operator:type":"government","amenity":"school"}},{"id":55661,"type":"Feature","geometry":{"type":"Point","coordinates":[15.54977,53.14443]},"properties":{"ref:rspo":55661,"official_name":"Punkt Przedszkolny w Szkole Podstawowej w Korytowie","name":"Punkt Przedszkolny w Szkole Podstawowej w Korytowie","addr:country":"PL","addr:postcode":"73-200","addr:city":"Korytowo","addr:street":"ul. Szkolna","addr:housenumber":"4","addr:teryt:simc":21970,"addr:teryt:sym_ul":179105,"contact:phone":"+48 957681102","contact:email":"sp.korytowo@wp.pl","ref:regon":"321289673","ref:vatin":"PL5941450502","operator":"Gmina Choszczno","operator:type":"government","amenity":"kindergarten"}},{"id":11993,"type":"Feature","geometry":{"type":"Point","coordinates":[15.43412,53.15229]},"properties":{"ref:rspo":11993,"official_name":"Mi\u0119dzyszkolny O\u015brodek Sport\u00f3w Wodnych","name":"Mi\u0119dzyszkolny O\u015brodek Sport\u00f3w Wodnych","addr:country":"PL","addr:postcode":"73-200","addr:city":"Choszczno","addr:street":"ul. Promenada","addr:housenumber":"2","addr:teryt:simc":17527,"addr:teryt:sym_ul":935280,"contact:phone":"+48 957651517","contact:email":"moswchoszczno@op.pl","contact:website":"http:\/\/zschoszczno.edupage.org","ref:regon":"001020619","operator":"Powiat Choszcze\u0144ski","operator:type":"government","leisure":"sports_centre","note":"Parent RSPO: 9983"}},{"id":9983,"type":"Feature","geometry":{"type":"Point","coordinates":[15.4261,53.16179]},"properties":{"ref:rspo":9983,"official_name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 Nr 1 im. Boles\u0142awa Krzywoustego w Choszcznie","name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 Nr 1","addr:country":"PL","addr:postcode":"73-200","addr:city":"Choszczno","addr:street":"ul. Boles\u0142awa Chrobrego","addr:housenumber":"31","addr:door":"A","addr:teryt:simc":1742,"addr:teryt:sym_ul":935280,"contact:phone":"+48 957652496","contact:email":"lo_choszczno@post.pl","contact:website":"http:\/\/zschoszczno.edupage.org","ref:regon":"000789335","ref:vatin":"PL5941128982","operator":"Powiat Choszcze\u0144ski","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 11985;11986;11990;11991;11993"}},{"id":11985,"type":"Feature","geometry":{"type":"Point","coordinates":[15.4261,53.16176]},"properties":{"isced:level":"3","ref:rspo":11985,"official_name":"I Liceum Og\u00f3lnokszta\u0142c\u0105ce","name":"I Liceum Og\u00f3lnokszta\u0142c\u0105ce","addr:country":"PL","addr:postcode":"73-200","addr:city":"Choszczno","addr:street":"ul. Boles\u0142awa Chrobrego","addr:housenumber":"31","addr:door":"A","addr:teryt:simc":1742,"addr:teryt:sym_ul":935280,"contact:phone":"+48 957652496","contact:email":"lo_choszczno@post.pl","contact:website":"http:\/\/zschoszczno.edupage.org","ref:regon":"812075742","operator":"Powiat Choszcze\u0144ski","operator:type":"government","amenity":"school","note":"Parent RSPO: 9983"}},{"id":11986,"type":"Feature","geometry":{"type":"Point","coordinates":[15.4261,53.161730000000006]},"properties":{"isced:level":"3","ref:rspo":11986,"official_name":"Technikum Nr 1 w Zespole Szk\u00f3\u0142 Nr 1 im. Boles\u0142awa Krzywoustego w Choszcznie","name":"Technikum Nr 1 w Zespole Szk\u00f3\u0142 Nr 1","addr:country":"PL","addr:postcode":"73-200","addr:city":"Choszczno","addr:street":"ul. Boles\u0142awa Chrobrego","addr:housenumber":"31","addr:door":"A","addr:teryt:simc":1742,"addr:teryt:sym_ul":935280,"contact:phone":"+48 957652496","contact:email":"lo_choszczno@post.pl","contact:website":"http:\/\/zschoszczno.edupage.org","ref:regon":"812075771","operator":"Powiat Choszcze\u0144ski","operator:type":"government","amenity":"school","note":"Parent RSPO: 9983"}},{"id":11990,"type":"Feature","geometry":{"type":"Point","coordinates":[15.4261,53.1617]},"properties":{"isced:level":"3","ref:rspo":11990,"official_name":"Bran\u017cowa Szko\u0142a I Stopnia","name":"Bran\u017cowa Szko\u0142a I Stopnia","addr:country":"PL","addr:postcode":"73-200","addr:city":"Choszczno","addr:street":"ul. Boles\u0142awa Chrobrego","addr:housenumber":"31","addr:teryt:simc":1742,"addr:teryt:sym_ul":935280,"contact:phone":"+48 957652496","contact:email":"lo_choszczno@post.pl","contact:website":"http:\/\/zschoszczno.edupage.org","ref:regon":"321272276","operator":"Powiat Choszcze\u0144ski","operator:type":"government","amenity":"school","note":"Parent RSPO: 9983"}},{"id":11991,"type":"Feature","geometry":{"type":"Point","coordinates":[15.4261,53.16167]},"properties":{"isced:level":"3","ref:rspo":11991,"official_name":"Liceum Og\u00f3lnokszta\u0142c\u0105ce dla Doros\u0142ych","name":"Liceum Og\u00f3lnokszta\u0142c\u0105ce dla Doros\u0142ych","addr:country":"PL","addr:postcode":"73-200","addr:city":"Choszczno","addr:street":"ul. Boles\u0142awa Chrobrego","addr:housenumber":"31","addr:door":"A","addr:teryt:simc":1742,"addr:teryt:sym_ul":935280,"contact:phone":"+48 957652496","contact:email":"lo_choszczno@post.pl","contact:website":"http:\/\/zschoszczno.edupage.org","ref:regon":"812720869","operator":"Powiat Choszcze\u0144ski","operator:type":"government","amenity":"school","note":"Parent RSPO: 9983"}},{"id":4243,"type":"Feature","geometry":{"type":"Point","coordinates":[15.42321,53.16323]},"properties":{"ref:rspo":4243,"official_name":"Poradnia Psychologiczno-Pedagogiczna w Choszcznie","name":"Poradnia Psychologiczno-Pedagogiczna w Choszcznie","addr:country":"PL","addr:postcode":"73-200","addr:city":"Choszczno","addr:street":"ul. Boles\u0142awa Chrobrego","addr:housenumber":"27","addr:teryt:simc":1742,"addr:teryt:sym_ul":935280,"contact:phone":"+48 957652205","contact:email":"poradniachoszczno@wp.pl","contact:website":"http:\/\/ppp.choszczno.ibip.pl","ref:regon":"000711876","ref:vatin":"PL5941248539","operator":"Powiat Choszcze\u0144ski","operator:type":"government","healthcare":"councelling","counselling_type":"education","fixme":"w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. healthcare=councelling + counselling_type=education albo healthcare=psychotherapist)"}},{"id":263194,"type":"Feature","geometry":{"type":"Point","coordinates":[15.42875,53.16485]},"properties":{"ref:rspo":263194,"official_name":"Niepubliczne Przedszkole Nr 1 Ancymonek","name":"Niepubliczne Przedszkole Nr 1 Ancymonek","addr:country":"PL","addr:postcode":"73-200","addr:city":"Choszczno","addr:street":"ul. W\u0142adys\u0142awa Jagie\u0142\u0142y","addr:housenumber":"21A","addr:teryt:simc":24494,"addr:teryt:sym_ul":935280,"contact:phone":"+48 663976318","contact:email":"biuro@ancymonek.edu.pl","contact:website":"http:\/\/www.ancymonek.edu.pl","ref:regon":"368120466","operator":"Agnieszka B\u0142och","operator:type":"private","amenity":"kindergarten"}},{"id":31572,"type":"Feature","geometry":{"type":"Point","coordinates":[15.41472,53.165]},"properties":{"ref:rspo":31572,"official_name":"Przedszkole Nr 1 Z Oddzia\u0142ami Integracyjnymi w Choszcznie","name":"Przedszkole Nr 1 Z Oddzia\u0142ami Integracyjnymi w Choszcznie","addr:country":"PL","addr:postcode":"73-200","addr:city":"Choszczno","addr:street":"ul. Niedzia\u0142kowskiego","addr:housenumber":"9","addr:teryt:simc":14139,"addr:teryt:sym_ul":935280,"contact:phone":"+48 957652460","contact:email":"przedszkole1choszczno@wp.pl","contact:website":"http:\/\/www.pp1.choszczno.pl","ref:regon":"210521682","ref:vatin":"PL5941450525","operator":"Gmina Choszczno","operator:type":"government","amenity":"kindergarten"}},{"id":31573,"type":"Feature","geometry":{"type":"Point","coordinates":[15.42454,53.16519]},"properties":{"ref:rspo":31573,"official_name":"Publiczne Przedszkole Nr 2 Z Grup\u0105 \u017b\u0142obkow\u0105 w Choszcznie","name":"Publiczne Przedszkole Nr 2 Z Grup\u0105 \u017b\u0142obkow\u0105 w Choszcznie","addr:country":"PL","addr:postcode":"73-200","addr:city":"Choszczno","addr:street":"ul. Sucharskiego","addr:housenumber":"9","addr:teryt:simc":21495,"addr:teryt:sym_ul":935280,"contact:phone":"+48 957657334","contact:email":"przedszkole2choszczno@wp.pl","contact:website":"http:\/\/www.przedszkole2.choszczno.com","ref:regon":"210521699","ref:vatin":"PL5941450531","operator":"Gmina Choszczno","operator:type":"government","amenity":"kindergarten"}},{"id":43813,"type":"Feature","geometry":{"type":"Point","coordinates":[15.41782,53.16554]},"properties":{"isced:level":"1;2","ref:rspo":43813,"official_name":"Szko\u0142a Podstawowa Nr 1 im. Wojska Polskiego w Choszcznie","name":"Szko\u0142a Podstawowa Nr 1","addr:country":"PL","addr:postcode":"73-200","addr:city":"Choszczno","addr:street":"ul. Obro\u0144c\u00f3w Westerplatte","addr:housenumber":"1a","addr:teryt:simc":14655,"addr:teryt:sym_ul":935280,"contact:phone":"+48 957652218","contact:email":"sp1@choszczno.edu.pl","contact:website":"http:\/\/www.sp1.choszczno.edu.pl","ref:regon":"210309953","ref:vatin":"PL5941450442","operator":"Gmina Choszczno","operator:type":"government","amenity":"school"}},{"id":49521,"type":"Feature","geometry":{"type":"Point","coordinates":[15.419277,53.1655849]},"properties":{"isced:level":"1;2","ref:rspo":49521,"official_name":"Szko\u0142a Podstawowa im. Janusza Korczaka w Zam\u0119cinie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"73-200","addr:place":"Zam\u0119cin","addr:housenumber":"2","addr:teryt:sym_ul":179447,"contact:phone":"+48 957656522","contact:email":"spzamecin@op.pl","contact:website":"http:\/\/www.spzamecin.edupage.org","ref:regon":"210309982","ref:vatin":"PL5941450465","operator":"Gmina Choszczno","operator:type":"government","amenity":"school"}},{"id":55664,"type":"Feature","geometry":{"type":"Point","coordinates":[15.419277,53.1655549]},"properties":{"ref:rspo":55664,"official_name":"Punkt Przedszkolny w Szkole Podstawowej w Zam\u0119cinie","name":"Punkt Przedszkolny w Szkole Podstawowej w Zam\u0119cinie","addr:country":"PL","addr:postcode":"73-200","addr:place":"Zam\u0119cin","addr:housenumber":"2","addr:teryt:sym_ul":179447,"contact:phone":"+48 957656522","contact:email":"spzamecin@op.pl","contact:website":"http:\/\/www.spzamecin.choszczno.pl","ref:regon":"321289970","ref:vatin":"PL5941450465","operator":"Gmina Choszczno","operator:type":"government","amenity":"kindergarten"}},{"id":9758,"type":"Feature","geometry":{"type":"Point","coordinates":[15.41914,53.1663]},"properties":{"ref:rspo":9758,"official_name":"Centrum Kszta\u0142cenia Kursowego \"Omnibus\"","name":"Centrum Kszta\u0142cenia Kursowego \"Omnibus\"","addr:country":"PL","addr:postcode":"73-200","addr:city":"Choszczno","addr:street":"ul. Obro\u0144c\u00f3w Westerplatte","addr:housenumber":"1","addr:teryt:simc":14655,"addr:teryt:sym_ul":935280,"contact:email":"szkolenia@szkolyomnibus.pl","contact:website":"http:\/\/szkolyomnibus.pl","ref:regon":"321273407","operator":"Krzysztof Wojciechowski","operator:type":"private","fixme":"w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. amenity=training + training=*, amenity=dancing_school, amenity=language_school, amenity=music_school)"}},{"id":9759,"type":"Feature","geometry":{"type":"Point","coordinates":[15.41914,53.16627]},"properties":{"isced:level":"3","ref:rspo":9759,"official_name":"Prywatne Liceum Og\u00f3lnokszta\u0142c\u0105ce Przy Centrum Edukacyjnym \"Omnibus\"","name":"Prywatne Liceum Og\u00f3lnokszta\u0142c\u0105ce Przy Centrum Edukacyjnym \"Omnibus\"","addr:country":"PL","addr:postcode":"73-200","addr:city":"Choszczno","addr:street":"ul. Obro\u0144c\u00f3w Westerplatte","addr:housenumber":"1","addr:teryt:simc":14655,"addr:teryt:sym_ul":935280,"contact:phone":"+48 957659076","contact:email":"choszczno@szkolyomnibus.pl","contact:website":"http:\/\/szkolyomnibus.pl","ref:regon":"321273436","operator":"Krzysztof Wojciechowski","operator:type":"private","amenity":"school"}},{"id":9761,"type":"Feature","geometry":{"type":"Point","coordinates":[15.41914,53.16624]},"properties":{"isced:level":"4","ref:rspo":9761,"official_name":"Szko\u0142a Policealna Zaoczna Przy Centrum Edukacyjnym \"Omnibus\"","name":"Szko\u0142a Policealna Zaoczna Przy Centrum Edukacyjnym \"Omnibus\"","addr:country":"PL","addr:postcode":"73-200","addr:city":"Choszczno","addr:street":"ul. Obro\u0144c\u00f3w Westerplatte","addr:housenumber":"1","addr:teryt:simc":14655,"addr:teryt:sym_ul":935280,"contact:phone":"+48 957659076","contact:email":"choszczno@szkolyomnibus.pl","contact:website":"http:\/\/szkolyomnibus.pl","ref:regon":"321270001","operator":"Krzysztof Wojciechowski","operator:type":"private","amenity":"college"}},{"id":124271,"type":"Feature","geometry":{"type":"Point","coordinates":[15.41914,53.16621]},"properties":{"isced:level":"4","ref:rspo":124271,"official_name":"Szko\u0142a Policealna - Izabela Krzemi\u0144ska","name":"Szko\u0142a Policealna - Izabela Krzemi\u0144ska","addr:country":"PL","addr:postcode":"73-200","addr:city":"Choszczno","addr:street":"ul. Obro\u0144c\u00f3w Westerplatte","addr:housenumber":"1","addr:teryt:simc":14655,"addr:teryt:sym_ul":935280,"contact:email":"szkoly.izak@gmail.com","contact:website":"http:\/\/ik.edu.pl","ref:regon":"321563453","operator":"Izabela Krzemi\u0144ska","operator:type":"private","amenity":"college"}},{"id":124600,"type":"Feature","geometry":{"type":"Point","coordinates":[15.41914,53.16618]},"properties":{"isced:level":"3","ref:rspo":124600,"official_name":"Prywatne Liceum Og\u00f3lnokszta\u0142c\u0105ce","name":"Prywatne Liceum Og\u00f3lnokszta\u0142c\u0105ce","addr:country":"PL","addr:postcode":"73-200","addr:city":"Choszczno","addr:street":"ul. Obro\u0144c\u00f3w Westerplatte","addr:housenumber":"1","addr:teryt:simc":14655,"addr:teryt:sym_ul":935280,"contact:email":"szkoly.izak@gmail.com","contact:website":"http:\/\/www.szkolykrzeminska.org.pl","ref:regon":"321567617","operator":"Izabela Krzemi\u0144ska","operator:type":"private","amenity":"school"}},{"id":129939,"type":"Feature","geometry":{"type":"Point","coordinates":[15.41914,53.16615]},"properties":{"ref:rspo":129939,"official_name":"Centrum Kszta\u0142cenia Ustawicznego - Izabela Krzemi\u0144ska","name":"Centrum Kszta\u0142cenia Ustawicznego - Izabela Krzemi\u0144ska","addr:country":"PL","addr:postcode":"73-200","addr:city":"Choszczno","addr:street":"ul. Obro\u0144c\u00f3w Westerplatte","addr:housenumber":"1","addr:teryt:simc":14655,"addr:teryt:sym_ul":935280,"contact:phone":"+48 957650195","contact:email":"szkoly.izak@gmail.com","contact:website":"http:\/\/www.szkolykrzeminska.org.pl","ref:regon":"363141251","operator":"Izabela Krzemi\u0144ska","operator:type":"private","fixme":"w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. amenity=training + training=*, amenity=dancing_school, amenity=language_school, amenity=music_school)"}},{"id":131331,"type":"Feature","geometry":{"type":"Point","coordinates":[15.41914,53.16612]},"properties":{"isced:level":"4","ref:rspo":131331,"official_name":"Szko\u0142a Policealna Przy Centrum Edukacyjnym \"Omnibus\"","name":"Szko\u0142a Policealna Przy Centrum Edukacyjnym \"Omnibus\"","addr:country":"PL","addr:postcode":"73-200","addr:city":"Choszczno","addr:street":"ul. Obro\u0144c\u00f3w Westerplatte","addr:housenumber":"1","addr:teryt:simc":14655,"addr:teryt:sym_ul":935280,"contact:phone":"+48 957659076","contact:email":"choszczno@szkolyomnibus.pl","contact:website":"http:\/\/szkolyomnibus.pl","ref:regon":"365117630","operator":"Krzysztof Wojciechowski","operator:type":"private","amenity":"college"}},{"id":43816,"type":"Feature","geometry":{"type":"Point","coordinates":[15.40249,53.1666]},"properties":{"isced:level":"1;2","ref:rspo":43816,"official_name":"Szko\u0142a Podstawowa Nr 3 w Choszcznie","name":"Szko\u0142a Podstawowa Nr 3 w Choszcznie","addr:country":"PL","addr:postcode":"73-200","addr:city":"Choszczno","addr:street":"ul. Wolno\u015bci","addr:housenumber":"62a","addr:teryt:simc":24687,"addr:teryt:sym_ul":935280,"contact:phone":"+48 957652313","contact:email":"sp3choszczno@choszczno.pl","contact:website":"http:\/\/www.sp3.choszczno.pl","ref:regon":"210309976","ref:vatin":"PL5941450459","operator":"Gmina Choszczno","operator:type":"government","amenity":"school"}},{"id":109706,"type":"Feature","geometry":{"type":"Point","coordinates":[15.42174,53.16691]},"properties":{"ref:rspo":109706,"official_name":"Pa\u0144stwowa Szko\u0142a Muzyczna I St. im. Ignacego Jana Paderewskiego w Choszcznie","name":"Pa\u0144stwowa Szko\u0142a Muzyczna I St.","addr:country":"PL","addr:postcode":"73-200","addr:city":"Choszczno","addr:street":"ul. Mur Po\u0142udniowy","addr:housenumber":"7","addr:teryt:simc":13484,"addr:teryt:sym_ul":935280,"contact:phone":"+48 957667015","contact:email":"psmchoszczno@op.pl","contact:website":"http:\/\/www.psm.choszczno.pl","ref:regon":"210528247","operator":"Ministerstwo Kultury I Dziedzictwa Narodowego","operator:type":"public","amenity":"music_school"}},{"id":31576,"type":"Feature","geometry":{"type":"Point","coordinates":[15.42122,53.16769]},"properties":{"ref:rspo":31576,"official_name":"Publiczne Przedszkole Nr 4 w Choszcznie","name":"Publiczne Przedszkole Nr 4 w Choszcznie","addr:country":"PL","addr:postcode":"73-200","addr:city":"Choszczno","addr:street":"ul. Mur Po\u0142udniowy","addr:housenumber":"4","addr:teryt:simc":13484,"addr:teryt:sym_ul":935280,"contact:phone":"+48 957657454","contact:email":"pp4choszczno@interia.eu","contact:website":"http:\/\/www.przedszkolenr4.edupage.org","ref:regon":"210521713","ref:vatin":"PL5941450548","operator":"Gmina Choszczno","operator:type":"government","amenity":"kindergarten"}},{"id":9673,"type":"Feature","geometry":{"type":"Point","coordinates":[15.42832,53.16867]},"properties":{"ref:rspo":9673,"official_name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 Nr 3 w Choszcznie","name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 Nr 3 w Choszcznie","addr:country":"PL","addr:postcode":"73-200","addr:city":"Choszczno","addr:street":"ul. Grunwaldzka","addr:housenumber":"30","addr:teryt:simc":6260,"addr:teryt:sym_ul":935280,"contact:phone":"+48 957657973","contact:email":"choszczno.zs3@wp.pl","contact:website":"http:\/\/choszczno-zs3.pl","ref:regon":"321269908","operator":"Wojew\u00f3dzki Zak\u0142ad Doskonalenia Zawodowego W Gorzowie Wlkp.","operator:type":"ngo","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 10651;10659;279071"}},{"id":10651,"type":"Feature","geometry":{"type":"Point","coordinates":[15.42832,53.168639999999996]},"properties":{"isced:level":"3","ref:rspo":10651,"official_name":"Bran\u017cowa Szko\u0142a I Stopnia Nr 3 w Choszcznie","name":"Bran\u017cowa Szko\u0142a I Stopnia Nr 3 w Choszcznie","addr:country":"PL","addr:postcode":"73-200","addr:city":"Choszczno","addr:street":"ul. Grunwaldzka","addr:housenumber":"30","addr:teryt:simc":6260,"addr:teryt:sym_ul":935280,"contact:phone":"+48 957657973","contact:email":"choszczno.zs3@wp.pl","contact:website":"http:\/\/choszczno-zs3.pl","ref:regon":"321273494","ref:vatin":"PL5941469631","operator":"Wojew\u00f3dzki Zak\u0142ad Doskonalenia Zawodowego W Gorzowie Wlkp.","operator:type":"ngo","amenity":"school","note":"Parent RSPO: 9673"}},{"id":10659,"type":"Feature","geometry":{"type":"Point","coordinates":[15.42832,53.16861]},"properties":{"isced:level":"3","ref:rspo":10659,"official_name":"Liceum Og\u00f3lnokszta\u0142c\u0105ce dla Doros\u0142ych w Choszcznie","name":"Liceum Og\u00f3lnokszta\u0142c\u0105ce dla Doros\u0142ych w Choszcznie","addr:country":"PL","addr:postcode":"73-200","addr:city":"Choszczno","addr:street":"ul. Grunwaldzka","addr:housenumber":"30","addr:teryt:simc":6260,"addr:teryt:sym_ul":935280,"contact:phone":"+48 957657973","contact:email":"choszczno.zs3@wp.pl","contact:website":"http:\/\/choszczno-zs3.pl","ref:regon":"321270254","operator":"Wojew\u00f3dzki Zak\u0142ad Doskonalenia Zawodowego W Gorzowie Wlkp.","operator:type":"ngo","amenity":"school","note":"Parent RSPO: 9673"}},{"id":279071,"type":"Feature","geometry":{"type":"Point","coordinates":[15.42832,53.16858]},"properties":{"isced:level":"3","ref:rspo":279071,"official_name":"Bran\u017cowa Szko\u0142a II Stopnia Nr 3 w Choszcznie Z Siedzib\u0105 Przy Ul. Grunwaldzkiej 30, w Zespole Szk\u00f3\u0142 Nr 3 w Choszcznie","name":"Bran\u017cowa Szko\u0142a II Stopnia Nr 3 w Choszcznie Z Siedzib\u0105 Przy Ul. Grunwaldzkiej 30, w Zespole Szk\u00f3\u0142 Nr 3 w Choszcznie","addr:country":"PL","addr:postcode":"73-200","addr:city":"Choszczno","addr:street":"ul. Grunwaldzka","addr:housenumber":"30","addr:teryt:simc":6260,"addr:teryt:sym_ul":935280,"contact:phone":"+48 957657973","contact:email":"choszczno.zs3@wp.pl","contact:website":"http:\/\/choszczno-zs3.pl","ref:regon":"520549568","operator":"Wojew\u00f3dzki Zak\u0142ad Doskonalenia Zawodowego W Gorzowie Wlkp.","operator:type":"ngo","amenity":"school","note":"Parent RSPO: 9673"}},{"id":119938,"type":"Feature","geometry":{"type":"Point","coordinates":[15.4193,53.16908]},"properties":{"ref:rspo":119938,"official_name":"Niepubliczne Przedszkole Polsko-Angielskie \"Oxford House\"","name":"Niepubliczne Przedszkole Polsko-Angielskie \"Oxford House\"","addr:country":"PL","addr:postcode":"73-200","addr:city":"Choszczno","addr:street":"ul. Rynek","addr:housenumber":"6","addr:teryt:simc":19253,"addr:teryt:sym_ul":935280,"contact:phone":"+48 725973947","contact:email":"oxfordhouse@op.pl","ref:regon":"321426437","ref:vatin":"PL5532462063","operator":"Malwina Kaszak","operator:type":"private","amenity":"kindergarten"}},{"id":4156,"type":"Feature","geometry":{"type":"Point","coordinates":[15.40569,53.17531]},"properties":{"ref:rspo":4156,"official_name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 Nr 2 im. Noblist\u00f3w Polskich w Choszcznie","name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 Nr 2","addr:country":"PL","addr:postcode":"73-200","addr:city":"Choszczno","addr:street":"ul. Polna","addr:housenumber":"5","addr:teryt:simc":17011,"addr:teryt:sym_ul":935280,"contact:phone":"+48 957652539","contact:email":"sekretariatch@vp.pl","contact:website":"http:\/\/zs2choszczno.pl","ref:regon":"000179482","ref:vatin":"PL5941071101","operator":"Powiat Choszcze\u0144ski","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 8579;8584;8586;8588;8589"}},{"id":8579,"type":"Feature","geometry":{"type":"Point","coordinates":[15.40569,53.17528]},"properties":{"isced:level":"3","ref:rspo":8579,"official_name":"Ii Liceum Og\u00f3lnokszta\u0142c\u0105ce","name":"Ii Liceum Og\u00f3lnokszta\u0142c\u0105ce","addr:country":"PL","addr:postcode":"73-200","addr:city":"Choszczno","addr:street":"ul. Polna","addr:housenumber":"5","addr:teryt:simc":17011,"addr:teryt:sym_ul":935280,"contact:phone":"+48 957652539","contact:email":"sekretariatch@vp.pl","contact:website":"http:\/\/zs2choszczno.pl","ref:regon":"812527641","operator":"Powiat Choszcze\u0144ski","operator:type":"government","amenity":"school","note":"Parent RSPO: 4156"}},{"id":8584,"type":"Feature","geometry":{"type":"Point","coordinates":[15.40569,53.175250000000005]},"properties":{"isced:level":"3","ref:rspo":8584,"official_name":"Technikum Nr 2 w Zespole Szk\u00f3\u0142 Nr 2 im. Noblist\u00f3w Polskich w Choszcznie","name":"Technikum Nr 2 w Zespole Szk\u00f3\u0142 Nr 2","addr:country":"PL","addr:postcode":"73-200","addr:city":"Choszczno","addr:street":"ul. Polna","addr:housenumber":"5","addr:teryt:simc":17011,"addr:teryt:sym_ul":935280,"contact:phone":"+48 957652539","contact:email":"sekretariatch@vp.pl","contact:website":"http:\/\/zs2choszczno.edupage.org","ref:regon":"320554392","operator":"Powiat Choszcze\u0144ski","operator:type":"government","amenity":"school","note":"Parent RSPO: 4156"}},{"id":8586,"type":"Feature","geometry":{"type":"Point","coordinates":[15.40569,53.17522]},"properties":{"isced:level":"3","ref:rspo":8586,"official_name":"Ii Liceum Og\u00f3lnokszta\u0142c\u0105ce dla Doros\u0142ych","name":"Ii Liceum Og\u00f3lnokszta\u0142c\u0105ce dla Doros\u0142ych","addr:country":"PL","addr:postcode":"73-200","addr:city":"Choszczno","addr:street":"ul. Polna","addr:housenumber":"5","addr:teryt:simc":17011,"addr:teryt:sym_ul":935280,"contact:phone":"+48 957652539","contact:email":"sekretariatch@vp.pl","contact:website":"http:\/\/zs2choszczno.edupage.org","ref:regon":"320075705","operator":"Powiat Choszcze\u0144ski","operator:type":"government","amenity":"school","note":"Parent RSPO: 4156"}},{"id":8588,"type":"Feature","geometry":{"type":"Point","coordinates":[15.40569,53.17519]},"properties":{"isced:level":"4","ref:rspo":8588,"official_name":"Szko\u0142a Policealna","name":"Szko\u0142a Policealna","addr:country":"PL","addr:postcode":"73-200","addr:city":"Choszczno","addr:street":"ul. Polna","addr:housenumber":"5","addr:teryt:simc":17011,"addr:teryt:sym_ul":935280,"contact:phone":"+48 957652539","contact:email":"sekretariatch@vp.pl","contact:website":"http:\/\/zs2choszczno.edupage.org","ref:regon":"321269618","operator":"Powiat Choszcze\u0144ski","operator:type":"government","amenity":"college","note":"Parent RSPO: 4156"}},{"id":8589,"type":"Feature","geometry":{"type":"Point","coordinates":[15.40569,53.175160000000005]},"properties":{"isced:level":"3","ref:rspo":8589,"official_name":"Bran\u017cowa Szko\u0142a I Stopnia Nr 2","name":"Bran\u017cowa Szko\u0142a I Stopnia Nr 2","addr:country":"PL","addr:postcode":"73-200","addr:city":"Choszczno","addr:street":"ul. Polna","addr:housenumber":"5","addr:teryt:simc":17011,"addr:teryt:sym_ul":935280,"contact:phone":"+48 957652539","contact:email":"sekretariatch@vp.pl","contact:website":"http:\/\/zs2choszczno.pl","ref:regon":"812075890","operator":"Powiat Choszcze\u0144ski","operator:type":"government","amenity":"school","note":"Parent RSPO: 4156"}},{"id":31574,"type":"Feature","geometry":{"type":"Point","coordinates":[15.41479,53.17676]},"properties":{"ref:rspo":31574,"official_name":"Publiczne Przedszkole Nr 5 Z Grup\u0105 \u017b\u0142obkow\u0105 w Choszcznie","name":"Publiczne Przedszkole Nr 5 Z Grup\u0105 \u017b\u0142obkow\u0105 w Choszcznie","addr:country":"PL","addr:postcode":"73-200","addr:city":"Choszczno","addr:street":"ul. Energetyk\u00f3w","addr:housenumber":"7","addr:teryt:simc":4805,"addr:teryt:sym_ul":935280,"contact:phone":"+48 957657496","contact:email":"pp5choszczno@wp.pl","contact:website":"https:\/\/pp5.choszczno.pl","ref:regon":"210521720","ref:vatin":"PL5941450554","operator":"Gmina Choszczno","operator:type":"government","amenity":"kindergarten"}},{"id":49520,"type":"Feature","geometry":{"type":"Point","coordinates":[15.58327,53.18588]},"properties":{"isced:level":"1;2","ref:rspo":49520,"official_name":"Szko\u0142a Podstawowa Nr 1 im. Jana Brzechwy w Suliszewie","name":"Szko\u0142a Podstawowa Nr 1","addr:country":"PL","addr:postcode":"73-222","addr:city":"Suliszewo","addr:street":"ul. Zwyci\u0119stwa","addr:housenumber":"26","addr:teryt:simc":26326,"addr:teryt:sym_ul":179393,"contact:phone":"+48 957656411","contact:email":"spsuliszewo@post.pl","contact:website":"http:\/\/www.spsuliszewo.choszczno.pl","ref:regon":"210309999","ref:vatin":"PL5941450488","operator":"Gmina Choszczno","operator:type":"government","amenity":"school"}},{"id":55663,"type":"Feature","geometry":{"type":"Point","coordinates":[15.58327,53.185849999999995]},"properties":{"ref:rspo":55663,"official_name":"Punkt Przedszkolny w Szkole Podstawowej Nr 1 w Suliszewie","name":"Punkt Przedszkolny w Szkole Podstawowej Nr 1 w Suliszewie","addr:country":"PL","addr:postcode":"73-222","addr:city":"Suliszewo","addr:street":"ul. Zwyci\u0119stwa","addr:housenumber":"26","addr:teryt:simc":26326,"addr:teryt:sym_ul":179393,"contact:phone":"+48 957656411","contact:email":"spsuliszewo@post.pl","contact:website":"http:\/\/www.spsuliszewo.choszczno.pl","ref:regon":"321289986","ref:vatin":"PL5941450488","operator":"Gmina Choszczno","operator:type":"government","amenity":"kindergarten"}},{"id":26641,"type":"Feature","geometry":{"type":"Point","coordinates":[15.583,53.1860799]},"properties":{"ref:rspo":26641,"official_name":"Specjalny O\u015brodek Szkolno-Wychowawczy im. Kawaler\u00f3w Orderu U\u015bmiechu w Suliszewie","name":"Specjalny O\u015brodek Szkolno-Wychowawczy","addr:country":"PL","addr:postcode":"73-222","addr:city":"Suliszewo","addr:street":"ul. Zwyci\u0119stwa","addr:housenumber":"28","addr:teryt:simc":26326,"addr:teryt:sym_ul":179393,"contact:phone":"+48 957656418","contact:email":"osw-suliszewo@wp.pl","contact:website":"http:\/\/osw.suliszewo.szkolnastrona.pl","ref:regon":"000798558","ref:vatin":"PL5941266402","operator":"Powiat Choszcze\u0144ski","operator:type":"government","amenity":"school","note":"Children RSPO: 31208;31211;31212;272307"}},{"id":31208,"type":"Feature","geometry":{"type":"Point","coordinates":[15.583,53.1860499]},"properties":{"isced:level":"1;2","ref:rspo":31208,"official_name":"Szko\u0142a Podstawowa Specjalna Nr 2","name":"Szko\u0142a Podstawowa Specjalna Nr 2","addr:country":"PL","addr:postcode":"73-222","addr:city":"Suliszewo","addr:street":"ul. Zwyci\u0119stwa","addr:housenumber":"28","addr:teryt:simc":26326,"addr:teryt:sym_ul":179393,"contact:phone":"+48 957656418","contact:email":"osw-suliszewo@wp.pl","contact:website":"http:\/\/osw.suliszewo.szkolnastrona.pl","ref:regon":"001122076","operator":"Powiat Choszcze\u0144ski","operator:type":"government","amenity":"school","note":"Parent RSPO: 26641"}},{"id":31211,"type":"Feature","geometry":{"type":"Point","coordinates":[15.583,53.186019900000005]},"properties":{"isced:level":"3","ref:rspo":31211,"official_name":"Bran\u017cowa Szko\u0142a I Stopnia Specjalna","name":"Bran\u017cowa Szko\u0142a I Stopnia Specjalna","addr:country":"PL","addr:postcode":"73-222","addr:city":"Suliszewo","addr:street":"ul. Zwyci\u0119stwa","addr:housenumber":"28","addr:teryt:simc":26326,"addr:teryt:sym_ul":179393,"contact:phone":"+48 957656418","contact:email":"osw-suliszewo@wp.pl","contact:website":"http:\/\/osw.suliszewo.szkolnastrona.pl","ref:regon":"812634466","operator":"Powiat Choszcze\u0144ski","operator:type":"government","amenity":"school","note":"Parent RSPO: 26641"}},{"id":31212,"type":"Feature","geometry":{"type":"Point","coordinates":[15.583,53.1859899]},"properties":{"ref:rspo":31212,"official_name":"Szko\u0142a Specjalna Przysposabiaj\u0105ca Do Pracy","name":"Szko\u0142a Specjalna Przysposabiaj\u0105ca Do Pracy","addr:country":"PL","addr:postcode":"73-222","addr:city":"Suliszewo","addr:street":"ul. Zwyci\u0119stwa","addr:housenumber":"28","addr:teryt:simc":26326,"addr:teryt:sym_ul":179393,"contact:phone":"+48 957656418","contact:email":"osw-suliszewo@wp.pl","contact:website":"http:\/\/osw.suliszewo.szkolnastrona.pl","ref:regon":"320252515","operator":"Powiat Choszcze\u0144ski","operator:type":"government","amenity":"school","note":"Parent RSPO: 26641"}},{"id":272307,"type":"Feature","geometry":{"type":"Point","coordinates":[15.58235,53.19019]},"properties":{"ref:rspo":272307,"official_name":"Przedszkole Specjalne Specjalny O\u015brodek Szkolno - Wychowawczy im. Kawaler\u00f3w Orderu U\u015bmiechu w Suliszewie","name":"Przedszkole Specjalne Specjalny O\u015brodek Szkolno - Wychowawczy","addr:country":"PL","addr:postcode":"73-222","addr:place":"Suliszewo","addr:housenumber":"28","addr:teryt:sym_ul":179393,"contact:phone":"+48 957656418","contact:email":"osw-suliszewo@wp.pl","contact:website":"http:\/\/osw.suliszewo.szkolnastrona.pl\/","ref:regon":"384111302","operator":"Powiat Choszcze\u0144ski","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 26641"}},{"id":49519,"type":"Feature","geometry":{"type":"Point","coordinates":[15.380416,53.226375]},"properties":{"isced:level":"1;2","ref:rspo":49519,"official_name":"Szko\u0142a Podstawowa im. Marii Konopnickiej w S\u0142aw\u0119cinie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"73-200","addr:place":"S\u0142aw\u0119cin","addr:housenumber":"60","addr:teryt:sym_ul":179306,"contact:phone":"+48 957657537","contact:email":"sp.slawecin@wp.pl","ref:regon":"210310005","ref:vatin":"PL5941450471","operator":"Gmina Choszczno","operator:type":"government","amenity":"school"}},{"id":55662,"type":"Feature","geometry":{"type":"Point","coordinates":[15.380416,53.226344999999995]},"properties":{"ref:rspo":55662,"official_name":"Punkt Przedszkolny w Szkole Podstawowej w S\u0142aw\u0119cinie","name":"Punkt Przedszkolny w Szkole Podstawowej w S\u0142aw\u0119cinie","addr:country":"PL","addr:postcode":"73-200","addr:place":"S\u0142aw\u0119cin","addr:housenumber":"60","addr:teryt:sym_ul":179306,"contact:phone":"+48 957657537","contact:email":"sp.slawecin@wp.pl","ref:regon":"321290009","ref:vatin":"PL5941450471","operator":"Gmina Choszczno","operator:type":"government","amenity":"kindergarten"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 49518,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.54977,
+                    53.14446
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 49518,
+                "official_name": "Szko\u0142a Podstawowa im. Jana Paw\u0142a II w Korytowie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "73-200",
+                "addr:city": "Korytowo",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "4",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 179105,
+                "contact:phone": "+48 957681102",
+                "contact:email": "sp.korytowo@wp.pl",
+                "contact:website": "http:\/\/www.spkorytowo.choszczno.edu.pl",
+                "ref:regon": "210310011",
+                "ref:vatin": "PL5941450502",
+                "operator": "Gmina Choszczno",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 55661,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.54977,
+                    53.14443
+                ]
+            },
+            "properties": {
+                "ref:rspo": 55661,
+                "official_name": "Punkt Przedszkolny w Szkole Podstawowej w Korytowie",
+                "name": "Punkt Przedszkolny w Szkole Podstawowej w Korytowie",
+                "addr:country": "PL",
+                "addr:postcode": "73-200",
+                "addr:city": "Korytowo",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "4",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 179105,
+                "contact:phone": "+48 957681102",
+                "contact:email": "sp.korytowo@wp.pl",
+                "ref:regon": "321289673",
+                "ref:vatin": "PL5941450502",
+                "operator": "Gmina Choszczno",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 11993,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.43412,
+                    53.15229
+                ]
+            },
+            "properties": {
+                "ref:rspo": 11993,
+                "official_name": "Mi\u0119dzyszkolny O\u015brodek Sport\u00f3w Wodnych",
+                "name": "Mi\u0119dzyszkolny O\u015brodek Sport\u00f3w Wodnych",
+                "addr:country": "PL",
+                "addr:postcode": "73-200",
+                "addr:city": "Choszczno",
+                "addr:street": "ul. Promenada",
+                "addr:housenumber": "2",
+                "addr:teryt:simc": 17527,
+                "addr:teryt:sym_ul": 935280,
+                "contact:phone": "+48 957651517",
+                "contact:email": "moswchoszczno@op.pl",
+                "contact:website": "http:\/\/zschoszczno.edupage.org",
+                "ref:regon": "001020619",
+                "operator": "Powiat Choszcze\u0144ski",
+                "operator:type": "government",
+                "leisure": "sports_centre",
+                "note": "Parent RSPO: 9983"
+            }
+        },
+        {
+            "id": 9983,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4261,
+                    53.16179
+                ]
+            },
+            "properties": {
+                "ref:rspo": 9983,
+                "official_name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Nr 1 im. Boles\u0142awa Krzywoustego w Choszcznie",
+                "name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Nr 1",
+                "addr:country": "PL",
+                "addr:postcode": "73-200",
+                "addr:city": "Choszczno",
+                "addr:street": "ul. Boles\u0142awa Chrobrego",
+                "addr:housenumber": "31",
+                "addr:door": "A",
+                "addr:teryt:simc": 1742,
+                "addr:teryt:sym_ul": 935280,
+                "contact:phone": "+48 957652496",
+                "contact:email": "lo_choszczno@post.pl",
+                "contact:website": "http:\/\/zschoszczno.edupage.org",
+                "ref:regon": "000789335",
+                "ref:vatin": "PL5941128982",
+                "operator": "Powiat Choszcze\u0144ski",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 11985;11986;11990;11991;11993"
+            }
+        },
+        {
+            "id": 11985,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4261,
+                    53.16176
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 11985,
+                "official_name": "I Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+                "name": "I Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+                "addr:country": "PL",
+                "addr:postcode": "73-200",
+                "addr:city": "Choszczno",
+                "addr:street": "ul. Boles\u0142awa Chrobrego",
+                "addr:housenumber": "31",
+                "addr:door": "A",
+                "addr:teryt:simc": 1742,
+                "addr:teryt:sym_ul": 935280,
+                "contact:phone": "+48 957652496",
+                "contact:email": "lo_choszczno@post.pl",
+                "contact:website": "http:\/\/zschoszczno.edupage.org",
+                "ref:regon": "812075742",
+                "operator": "Powiat Choszcze\u0144ski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 9983"
+            }
+        },
+        {
+            "id": 11986,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4261,
+                    53.161730000000006
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 11986,
+                "official_name": "Technikum Nr 1 w Zespole Szk\u00f3\u0142 Nr 1 im. Boles\u0142awa Krzywoustego w Choszcznie",
+                "name": "Technikum Nr 1 w Zespole Szk\u00f3\u0142 Nr 1",
+                "addr:country": "PL",
+                "addr:postcode": "73-200",
+                "addr:city": "Choszczno",
+                "addr:street": "ul. Boles\u0142awa Chrobrego",
+                "addr:housenumber": "31",
+                "addr:door": "A",
+                "addr:teryt:simc": 1742,
+                "addr:teryt:sym_ul": 935280,
+                "contact:phone": "+48 957652496",
+                "contact:email": "lo_choszczno@post.pl",
+                "contact:website": "http:\/\/zschoszczno.edupage.org",
+                "ref:regon": "812075771",
+                "operator": "Powiat Choszcze\u0144ski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 9983"
+            }
+        },
+        {
+            "id": 11990,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4261,
+                    53.1617
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 11990,
+                "official_name": "Bran\u017cowa Szko\u0142a I Stopnia",
+                "name": "Bran\u017cowa Szko\u0142a I Stopnia",
+                "addr:country": "PL",
+                "addr:postcode": "73-200",
+                "addr:city": "Choszczno",
+                "addr:street": "ul. Boles\u0142awa Chrobrego",
+                "addr:housenumber": "31",
+                "addr:teryt:simc": 1742,
+                "addr:teryt:sym_ul": 935280,
+                "contact:phone": "+48 957652496",
+                "contact:email": "lo_choszczno@post.pl",
+                "contact:website": "http:\/\/zschoszczno.edupage.org",
+                "ref:regon": "321272276",
+                "operator": "Powiat Choszcze\u0144ski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 9983"
+            }
+        },
+        {
+            "id": 11991,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4261,
+                    53.16167
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 11991,
+                "official_name": "Liceum Og\u00f3lnokszta\u0142c\u0105ce dla Doros\u0142ych",
+                "name": "Liceum Og\u00f3lnokszta\u0142c\u0105ce dla Doros\u0142ych",
+                "addr:country": "PL",
+                "addr:postcode": "73-200",
+                "addr:city": "Choszczno",
+                "addr:street": "ul. Boles\u0142awa Chrobrego",
+                "addr:housenumber": "31",
+                "addr:door": "A",
+                "addr:teryt:simc": 1742,
+                "addr:teryt:sym_ul": 935280,
+                "contact:phone": "+48 957652496",
+                "contact:email": "lo_choszczno@post.pl",
+                "contact:website": "http:\/\/zschoszczno.edupage.org",
+                "ref:regon": "812720869",
+                "operator": "Powiat Choszcze\u0144ski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 9983"
+            }
+        },
+        {
+            "id": 4243,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.42321,
+                    53.16323
+                ]
+            },
+            "properties": {
+                "ref:rspo": 4243,
+                "official_name": "Poradnia Psychologiczno-Pedagogiczna w Choszcznie",
+                "name": "Poradnia Psychologiczno-Pedagogiczna w Choszcznie",
+                "addr:country": "PL",
+                "addr:postcode": "73-200",
+                "addr:city": "Choszczno",
+                "addr:street": "ul. Boles\u0142awa Chrobrego",
+                "addr:housenumber": "27",
+                "addr:teryt:simc": 1742,
+                "addr:teryt:sym_ul": 935280,
+                "contact:phone": "+48 957652205",
+                "contact:email": "poradniachoszczno@wp.pl",
+                "contact:website": "http:\/\/ppp.choszczno.ibip.pl",
+                "ref:regon": "000711876",
+                "ref:vatin": "PL5941248539",
+                "operator": "Powiat Choszcze\u0144ski",
+                "operator:type": "government",
+                "healthcare": "counselling",
+                "counselling_type": "education",
+                "fixme": "w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. healthcare=counselling + counselling_type=education albo healthcare=psychotherapist)"
+            }
+        },
+        {
+            "id": 263194,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.42875,
+                    53.16485
+                ]
+            },
+            "properties": {
+                "ref:rspo": 263194,
+                "official_name": "Niepubliczne Przedszkole Nr 1 Ancymonek",
+                "name": "Niepubliczne Przedszkole Nr 1 Ancymonek",
+                "addr:country": "PL",
+                "addr:postcode": "73-200",
+                "addr:city": "Choszczno",
+                "addr:street": "ul. W\u0142adys\u0142awa Jagie\u0142\u0142y",
+                "addr:housenumber": "21A",
+                "addr:teryt:simc": 24494,
+                "addr:teryt:sym_ul": 935280,
+                "contact:phone": "+48 663976318",
+                "contact:email": "biuro@ancymonek.edu.pl",
+                "contact:website": "http:\/\/www.ancymonek.edu.pl",
+                "ref:regon": "368120466",
+                "operator": "Agnieszka B\u0142och",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 31572,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.41472,
+                    53.165
+                ]
+            },
+            "properties": {
+                "ref:rspo": 31572,
+                "official_name": "Przedszkole Nr 1 Z Oddzia\u0142ami Integracyjnymi w Choszcznie",
+                "name": "Przedszkole Nr 1 Z Oddzia\u0142ami Integracyjnymi w Choszcznie",
+                "addr:country": "PL",
+                "addr:postcode": "73-200",
+                "addr:city": "Choszczno",
+                "addr:street": "ul. Niedzia\u0142kowskiego",
+                "addr:housenumber": "9",
+                "addr:teryt:simc": 14139,
+                "addr:teryt:sym_ul": 935280,
+                "contact:phone": "+48 957652460",
+                "contact:email": "przedszkole1choszczno@wp.pl",
+                "contact:website": "http:\/\/www.pp1.choszczno.pl",
+                "ref:regon": "210521682",
+                "ref:vatin": "PL5941450525",
+                "operator": "Gmina Choszczno",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 31573,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.42454,
+                    53.16519
+                ]
+            },
+            "properties": {
+                "ref:rspo": 31573,
+                "official_name": "Publiczne Przedszkole Nr 2 Z Grup\u0105 \u017b\u0142obkow\u0105 w Choszcznie",
+                "name": "Publiczne Przedszkole Nr 2 Z Grup\u0105 \u017b\u0142obkow\u0105 w Choszcznie",
+                "addr:country": "PL",
+                "addr:postcode": "73-200",
+                "addr:city": "Choszczno",
+                "addr:street": "ul. Sucharskiego",
+                "addr:housenumber": "9",
+                "addr:teryt:simc": 21495,
+                "addr:teryt:sym_ul": 935280,
+                "contact:phone": "+48 957657334",
+                "contact:email": "przedszkole2choszczno@wp.pl",
+                "contact:website": "http:\/\/www.przedszkole2.choszczno.com",
+                "ref:regon": "210521699",
+                "ref:vatin": "PL5941450531",
+                "operator": "Gmina Choszczno",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 43813,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.41782,
+                    53.16554
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 43813,
+                "official_name": "Szko\u0142a Podstawowa Nr 1 im. Wojska Polskiego w Choszcznie",
+                "name": "Szko\u0142a Podstawowa Nr 1",
+                "addr:country": "PL",
+                "addr:postcode": "73-200",
+                "addr:city": "Choszczno",
+                "addr:street": "ul. Obro\u0144c\u00f3w Westerplatte",
+                "addr:housenumber": "1a",
+                "addr:teryt:simc": 14655,
+                "addr:teryt:sym_ul": 935280,
+                "contact:phone": "+48 957652218",
+                "contact:email": "sp1@choszczno.edu.pl",
+                "contact:website": "http:\/\/www.sp1.choszczno.edu.pl",
+                "ref:regon": "210309953",
+                "ref:vatin": "PL5941450442",
+                "operator": "Gmina Choszczno",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 49521,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.419277,
+                    53.1655849
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 49521,
+                "official_name": "Szko\u0142a Podstawowa im. Janusza Korczaka w Zam\u0119cinie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "73-200",
+                "addr:place": "Zam\u0119cin",
+                "addr:housenumber": "2",
+                "addr:teryt:sym_ul": 179447,
+                "contact:phone": "+48 957656522",
+                "contact:email": "spzamecin@op.pl",
+                "contact:website": "http:\/\/www.spzamecin.edupage.org",
+                "ref:regon": "210309982",
+                "ref:vatin": "PL5941450465",
+                "operator": "Gmina Choszczno",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 55664,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.419277,
+                    53.1655549
+                ]
+            },
+            "properties": {
+                "ref:rspo": 55664,
+                "official_name": "Punkt Przedszkolny w Szkole Podstawowej w Zam\u0119cinie",
+                "name": "Punkt Przedszkolny w Szkole Podstawowej w Zam\u0119cinie",
+                "addr:country": "PL",
+                "addr:postcode": "73-200",
+                "addr:place": "Zam\u0119cin",
+                "addr:housenumber": "2",
+                "addr:teryt:sym_ul": 179447,
+                "contact:phone": "+48 957656522",
+                "contact:email": "spzamecin@op.pl",
+                "contact:website": "http:\/\/www.spzamecin.choszczno.pl",
+                "ref:regon": "321289970",
+                "ref:vatin": "PL5941450465",
+                "operator": "Gmina Choszczno",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 9758,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.41914,
+                    53.1663
+                ]
+            },
+            "properties": {
+                "ref:rspo": 9758,
+                "official_name": "Centrum Kszta\u0142cenia Kursowego \"Omnibus\"",
+                "name": "Centrum Kszta\u0142cenia Kursowego \"Omnibus\"",
+                "addr:country": "PL",
+                "addr:postcode": "73-200",
+                "addr:city": "Choszczno",
+                "addr:street": "ul. Obro\u0144c\u00f3w Westerplatte",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 14655,
+                "addr:teryt:sym_ul": 935280,
+                "contact:email": "szkolenia@szkolyomnibus.pl",
+                "contact:website": "http:\/\/szkolyomnibus.pl",
+                "ref:regon": "321273407",
+                "operator": "Krzysztof Wojciechowski",
+                "operator:type": "private",
+                "fixme": "w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. amenity=training + training=*, amenity=dancing_school, amenity=language_school, amenity=music_school)"
+            }
+        },
+        {
+            "id": 9759,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.41914,
+                    53.16627
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 9759,
+                "official_name": "Prywatne Liceum Og\u00f3lnokszta\u0142c\u0105ce Przy Centrum Edukacyjnym \"Omnibus\"",
+                "name": "Prywatne Liceum Og\u00f3lnokszta\u0142c\u0105ce Przy Centrum Edukacyjnym \"Omnibus\"",
+                "addr:country": "PL",
+                "addr:postcode": "73-200",
+                "addr:city": "Choszczno",
+                "addr:street": "ul. Obro\u0144c\u00f3w Westerplatte",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 14655,
+                "addr:teryt:sym_ul": 935280,
+                "contact:phone": "+48 957659076",
+                "contact:email": "choszczno@szkolyomnibus.pl",
+                "contact:website": "http:\/\/szkolyomnibus.pl",
+                "ref:regon": "321273436",
+                "operator": "Krzysztof Wojciechowski",
+                "operator:type": "private",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 9761,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.41914,
+                    53.16624
+                ]
+            },
+            "properties": {
+                "isced:level": "4",
+                "ref:rspo": 9761,
+                "official_name": "Szko\u0142a Policealna Zaoczna Przy Centrum Edukacyjnym \"Omnibus\"",
+                "name": "Szko\u0142a Policealna Zaoczna Przy Centrum Edukacyjnym \"Omnibus\"",
+                "addr:country": "PL",
+                "addr:postcode": "73-200",
+                "addr:city": "Choszczno",
+                "addr:street": "ul. Obro\u0144c\u00f3w Westerplatte",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 14655,
+                "addr:teryt:sym_ul": 935280,
+                "contact:phone": "+48 957659076",
+                "contact:email": "choszczno@szkolyomnibus.pl",
+                "contact:website": "http:\/\/szkolyomnibus.pl",
+                "ref:regon": "321270001",
+                "operator": "Krzysztof Wojciechowski",
+                "operator:type": "private",
+                "amenity": "college"
+            }
+        },
+        {
+            "id": 124271,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.41914,
+                    53.16621
+                ]
+            },
+            "properties": {
+                "isced:level": "4",
+                "ref:rspo": 124271,
+                "official_name": "Szko\u0142a Policealna - Izabela Krzemi\u0144ska",
+                "name": "Szko\u0142a Policealna - Izabela Krzemi\u0144ska",
+                "addr:country": "PL",
+                "addr:postcode": "73-200",
+                "addr:city": "Choszczno",
+                "addr:street": "ul. Obro\u0144c\u00f3w Westerplatte",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 14655,
+                "addr:teryt:sym_ul": 935280,
+                "contact:email": "szkoly.izak@gmail.com",
+                "contact:website": "http:\/\/ik.edu.pl",
+                "ref:regon": "321563453",
+                "operator": "Izabela Krzemi\u0144ska",
+                "operator:type": "private",
+                "amenity": "college"
+            }
+        },
+        {
+            "id": 124600,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.41914,
+                    53.16618
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 124600,
+                "official_name": "Prywatne Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+                "name": "Prywatne Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+                "addr:country": "PL",
+                "addr:postcode": "73-200",
+                "addr:city": "Choszczno",
+                "addr:street": "ul. Obro\u0144c\u00f3w Westerplatte",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 14655,
+                "addr:teryt:sym_ul": 935280,
+                "contact:email": "szkoly.izak@gmail.com",
+                "contact:website": "http:\/\/www.szkolykrzeminska.org.pl",
+                "ref:regon": "321567617",
+                "operator": "Izabela Krzemi\u0144ska",
+                "operator:type": "private",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 129939,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.41914,
+                    53.16615
+                ]
+            },
+            "properties": {
+                "ref:rspo": 129939,
+                "official_name": "Centrum Kszta\u0142cenia Ustawicznego - Izabela Krzemi\u0144ska",
+                "name": "Centrum Kszta\u0142cenia Ustawicznego - Izabela Krzemi\u0144ska",
+                "addr:country": "PL",
+                "addr:postcode": "73-200",
+                "addr:city": "Choszczno",
+                "addr:street": "ul. Obro\u0144c\u00f3w Westerplatte",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 14655,
+                "addr:teryt:sym_ul": 935280,
+                "contact:phone": "+48 957650195",
+                "contact:email": "szkoly.izak@gmail.com",
+                "contact:website": "http:\/\/www.szkolykrzeminska.org.pl",
+                "ref:regon": "363141251",
+                "operator": "Izabela Krzemi\u0144ska",
+                "operator:type": "private",
+                "fixme": "w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. amenity=training + training=*, amenity=dancing_school, amenity=language_school, amenity=music_school)"
+            }
+        },
+        {
+            "id": 131331,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.41914,
+                    53.16612
+                ]
+            },
+            "properties": {
+                "isced:level": "4",
+                "ref:rspo": 131331,
+                "official_name": "Szko\u0142a Policealna Przy Centrum Edukacyjnym \"Omnibus\"",
+                "name": "Szko\u0142a Policealna Przy Centrum Edukacyjnym \"Omnibus\"",
+                "addr:country": "PL",
+                "addr:postcode": "73-200",
+                "addr:city": "Choszczno",
+                "addr:street": "ul. Obro\u0144c\u00f3w Westerplatte",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 14655,
+                "addr:teryt:sym_ul": 935280,
+                "contact:phone": "+48 957659076",
+                "contact:email": "choszczno@szkolyomnibus.pl",
+                "contact:website": "http:\/\/szkolyomnibus.pl",
+                "ref:regon": "365117630",
+                "operator": "Krzysztof Wojciechowski",
+                "operator:type": "private",
+                "amenity": "college"
+            }
+        },
+        {
+            "id": 43816,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.40249,
+                    53.1666
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 43816,
+                "official_name": "Szko\u0142a Podstawowa Nr 3 w Choszcznie",
+                "name": "Szko\u0142a Podstawowa Nr 3 w Choszcznie",
+                "addr:country": "PL",
+                "addr:postcode": "73-200",
+                "addr:city": "Choszczno",
+                "addr:street": "ul. Wolno\u015bci",
+                "addr:housenumber": "62a",
+                "addr:teryt:simc": 24687,
+                "addr:teryt:sym_ul": 935280,
+                "contact:phone": "+48 957652313",
+                "contact:email": "sp3choszczno@choszczno.pl",
+                "contact:website": "http:\/\/www.sp3.choszczno.pl",
+                "ref:regon": "210309976",
+                "ref:vatin": "PL5941450459",
+                "operator": "Gmina Choszczno",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 109706,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.42174,
+                    53.16691
+                ]
+            },
+            "properties": {
+                "ref:rspo": 109706,
+                "official_name": "Pa\u0144stwowa Szko\u0142a Muzyczna I St. im. Ignacego Jana Paderewskiego w Choszcznie",
+                "name": "Pa\u0144stwowa Szko\u0142a Muzyczna I St.",
+                "addr:country": "PL",
+                "addr:postcode": "73-200",
+                "addr:city": "Choszczno",
+                "addr:street": "ul. Mur Po\u0142udniowy",
+                "addr:housenumber": "7",
+                "addr:teryt:simc": 13484,
+                "addr:teryt:sym_ul": 935280,
+                "contact:phone": "+48 957667015",
+                "contact:email": "psmchoszczno@op.pl",
+                "contact:website": "http:\/\/www.psm.choszczno.pl",
+                "ref:regon": "210528247",
+                "operator": "Ministerstwo Kultury I Dziedzictwa Narodowego",
+                "operator:type": "public",
+                "amenity": "music_school"
+            }
+        },
+        {
+            "id": 31576,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.42122,
+                    53.16769
+                ]
+            },
+            "properties": {
+                "ref:rspo": 31576,
+                "official_name": "Publiczne Przedszkole Nr 4 w Choszcznie",
+                "name": "Publiczne Przedszkole Nr 4 w Choszcznie",
+                "addr:country": "PL",
+                "addr:postcode": "73-200",
+                "addr:city": "Choszczno",
+                "addr:street": "ul. Mur Po\u0142udniowy",
+                "addr:housenumber": "4",
+                "addr:teryt:simc": 13484,
+                "addr:teryt:sym_ul": 935280,
+                "contact:phone": "+48 957657454",
+                "contact:email": "pp4choszczno@interia.eu",
+                "contact:website": "http:\/\/www.przedszkolenr4.edupage.org",
+                "ref:regon": "210521713",
+                "ref:vatin": "PL5941450548",
+                "operator": "Gmina Choszczno",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 9673,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.42832,
+                    53.16867
+                ]
+            },
+            "properties": {
+                "ref:rspo": 9673,
+                "official_name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Nr 3 w Choszcznie",
+                "name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Nr 3 w Choszcznie",
+                "addr:country": "PL",
+                "addr:postcode": "73-200",
+                "addr:city": "Choszczno",
+                "addr:street": "ul. Grunwaldzka",
+                "addr:housenumber": "30",
+                "addr:teryt:simc": 6260,
+                "addr:teryt:sym_ul": 935280,
+                "contact:phone": "+48 957657973",
+                "contact:email": "choszczno.zs3@wp.pl",
+                "contact:website": "http:\/\/choszczno-zs3.pl",
+                "ref:regon": "321269908",
+                "operator": "Wojew\u00f3dzki Zak\u0142ad Doskonalenia Zawodowego W Gorzowie Wlkp.",
+                "operator:type": "ngo",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 10651;10659;279071"
+            }
+        },
+        {
+            "id": 10651,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.42832,
+                    53.168639999999996
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 10651,
+                "official_name": "Bran\u017cowa Szko\u0142a I Stopnia Nr 3 w Choszcznie",
+                "name": "Bran\u017cowa Szko\u0142a I Stopnia Nr 3 w Choszcznie",
+                "addr:country": "PL",
+                "addr:postcode": "73-200",
+                "addr:city": "Choszczno",
+                "addr:street": "ul. Grunwaldzka",
+                "addr:housenumber": "30",
+                "addr:teryt:simc": 6260,
+                "addr:teryt:sym_ul": 935280,
+                "contact:phone": "+48 957657973",
+                "contact:email": "choszczno.zs3@wp.pl",
+                "contact:website": "http:\/\/choszczno-zs3.pl",
+                "ref:regon": "321273494",
+                "ref:vatin": "PL5941469631",
+                "operator": "Wojew\u00f3dzki Zak\u0142ad Doskonalenia Zawodowego W Gorzowie Wlkp.",
+                "operator:type": "ngo",
+                "amenity": "school",
+                "note": "Parent RSPO: 9673"
+            }
+        },
+        {
+            "id": 10659,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.42832,
+                    53.16861
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 10659,
+                "official_name": "Liceum Og\u00f3lnokszta\u0142c\u0105ce dla Doros\u0142ych w Choszcznie",
+                "name": "Liceum Og\u00f3lnokszta\u0142c\u0105ce dla Doros\u0142ych w Choszcznie",
+                "addr:country": "PL",
+                "addr:postcode": "73-200",
+                "addr:city": "Choszczno",
+                "addr:street": "ul. Grunwaldzka",
+                "addr:housenumber": "30",
+                "addr:teryt:simc": 6260,
+                "addr:teryt:sym_ul": 935280,
+                "contact:phone": "+48 957657973",
+                "contact:email": "choszczno.zs3@wp.pl",
+                "contact:website": "http:\/\/choszczno-zs3.pl",
+                "ref:regon": "321270254",
+                "operator": "Wojew\u00f3dzki Zak\u0142ad Doskonalenia Zawodowego W Gorzowie Wlkp.",
+                "operator:type": "ngo",
+                "amenity": "school",
+                "note": "Parent RSPO: 9673"
+            }
+        },
+        {
+            "id": 279071,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.42832,
+                    53.16858
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 279071,
+                "official_name": "Bran\u017cowa Szko\u0142a II Stopnia Nr 3 w Choszcznie Z Siedzib\u0105 Przy Ul. Grunwaldzkiej 30, w Zespole Szk\u00f3\u0142 Nr 3 w Choszcznie",
+                "name": "Bran\u017cowa Szko\u0142a II Stopnia Nr 3 w Choszcznie Z Siedzib\u0105 Przy Ul. Grunwaldzkiej 30, w Zespole Szk\u00f3\u0142 Nr 3 w Choszcznie",
+                "addr:country": "PL",
+                "addr:postcode": "73-200",
+                "addr:city": "Choszczno",
+                "addr:street": "ul. Grunwaldzka",
+                "addr:housenumber": "30",
+                "addr:teryt:simc": 6260,
+                "addr:teryt:sym_ul": 935280,
+                "contact:phone": "+48 957657973",
+                "contact:email": "choszczno.zs3@wp.pl",
+                "contact:website": "http:\/\/choszczno-zs3.pl",
+                "ref:regon": "520549568",
+                "operator": "Wojew\u00f3dzki Zak\u0142ad Doskonalenia Zawodowego W Gorzowie Wlkp.",
+                "operator:type": "ngo",
+                "amenity": "school",
+                "note": "Parent RSPO: 9673"
+            }
+        },
+        {
+            "id": 119938,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4193,
+                    53.16908
+                ]
+            },
+            "properties": {
+                "ref:rspo": 119938,
+                "official_name": "Niepubliczne Przedszkole Polsko-Angielskie \"Oxford House\"",
+                "name": "Niepubliczne Przedszkole Polsko-Angielskie \"Oxford House\"",
+                "addr:country": "PL",
+                "addr:postcode": "73-200",
+                "addr:city": "Choszczno",
+                "addr:street": "ul. Rynek",
+                "addr:housenumber": "6",
+                "addr:teryt:simc": 19253,
+                "addr:teryt:sym_ul": 935280,
+                "contact:phone": "+48 725973947",
+                "contact:email": "oxfordhouse@op.pl",
+                "ref:regon": "321426437",
+                "ref:vatin": "PL5532462063",
+                "operator": "Malwina Kaszak",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 4156,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.40569,
+                    53.17531
+                ]
+            },
+            "properties": {
+                "ref:rspo": 4156,
+                "official_name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Nr 2 im. Noblist\u00f3w Polskich w Choszcznie",
+                "name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Nr 2",
+                "addr:country": "PL",
+                "addr:postcode": "73-200",
+                "addr:city": "Choszczno",
+                "addr:street": "ul. Polna",
+                "addr:housenumber": "5",
+                "addr:teryt:simc": 17011,
+                "addr:teryt:sym_ul": 935280,
+                "contact:phone": "+48 957652539",
+                "contact:email": "sekretariatch@vp.pl",
+                "contact:website": "http:\/\/zs2choszczno.pl",
+                "ref:regon": "000179482",
+                "ref:vatin": "PL5941071101",
+                "operator": "Powiat Choszcze\u0144ski",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 8579;8584;8586;8588;8589"
+            }
+        },
+        {
+            "id": 8579,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.40569,
+                    53.17528
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 8579,
+                "official_name": "Ii Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+                "name": "Ii Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+                "addr:country": "PL",
+                "addr:postcode": "73-200",
+                "addr:city": "Choszczno",
+                "addr:street": "ul. Polna",
+                "addr:housenumber": "5",
+                "addr:teryt:simc": 17011,
+                "addr:teryt:sym_ul": 935280,
+                "contact:phone": "+48 957652539",
+                "contact:email": "sekretariatch@vp.pl",
+                "contact:website": "http:\/\/zs2choszczno.pl",
+                "ref:regon": "812527641",
+                "operator": "Powiat Choszcze\u0144ski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 4156"
+            }
+        },
+        {
+            "id": 8584,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.40569,
+                    53.175250000000005
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 8584,
+                "official_name": "Technikum Nr 2 w Zespole Szk\u00f3\u0142 Nr 2 im. Noblist\u00f3w Polskich w Choszcznie",
+                "name": "Technikum Nr 2 w Zespole Szk\u00f3\u0142 Nr 2",
+                "addr:country": "PL",
+                "addr:postcode": "73-200",
+                "addr:city": "Choszczno",
+                "addr:street": "ul. Polna",
+                "addr:housenumber": "5",
+                "addr:teryt:simc": 17011,
+                "addr:teryt:sym_ul": 935280,
+                "contact:phone": "+48 957652539",
+                "contact:email": "sekretariatch@vp.pl",
+                "contact:website": "http:\/\/zs2choszczno.edupage.org",
+                "ref:regon": "320554392",
+                "operator": "Powiat Choszcze\u0144ski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 4156"
+            }
+        },
+        {
+            "id": 8586,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.40569,
+                    53.17522
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 8586,
+                "official_name": "Ii Liceum Og\u00f3lnokszta\u0142c\u0105ce dla Doros\u0142ych",
+                "name": "Ii Liceum Og\u00f3lnokszta\u0142c\u0105ce dla Doros\u0142ych",
+                "addr:country": "PL",
+                "addr:postcode": "73-200",
+                "addr:city": "Choszczno",
+                "addr:street": "ul. Polna",
+                "addr:housenumber": "5",
+                "addr:teryt:simc": 17011,
+                "addr:teryt:sym_ul": 935280,
+                "contact:phone": "+48 957652539",
+                "contact:email": "sekretariatch@vp.pl",
+                "contact:website": "http:\/\/zs2choszczno.edupage.org",
+                "ref:regon": "320075705",
+                "operator": "Powiat Choszcze\u0144ski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 4156"
+            }
+        },
+        {
+            "id": 8588,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.40569,
+                    53.17519
+                ]
+            },
+            "properties": {
+                "isced:level": "4",
+                "ref:rspo": 8588,
+                "official_name": "Szko\u0142a Policealna",
+                "name": "Szko\u0142a Policealna",
+                "addr:country": "PL",
+                "addr:postcode": "73-200",
+                "addr:city": "Choszczno",
+                "addr:street": "ul. Polna",
+                "addr:housenumber": "5",
+                "addr:teryt:simc": 17011,
+                "addr:teryt:sym_ul": 935280,
+                "contact:phone": "+48 957652539",
+                "contact:email": "sekretariatch@vp.pl",
+                "contact:website": "http:\/\/zs2choszczno.edupage.org",
+                "ref:regon": "321269618",
+                "operator": "Powiat Choszcze\u0144ski",
+                "operator:type": "government",
+                "amenity": "college",
+                "note": "Parent RSPO: 4156"
+            }
+        },
+        {
+            "id": 8589,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.40569,
+                    53.175160000000005
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 8589,
+                "official_name": "Bran\u017cowa Szko\u0142a I Stopnia Nr 2",
+                "name": "Bran\u017cowa Szko\u0142a I Stopnia Nr 2",
+                "addr:country": "PL",
+                "addr:postcode": "73-200",
+                "addr:city": "Choszczno",
+                "addr:street": "ul. Polna",
+                "addr:housenumber": "5",
+                "addr:teryt:simc": 17011,
+                "addr:teryt:sym_ul": 935280,
+                "contact:phone": "+48 957652539",
+                "contact:email": "sekretariatch@vp.pl",
+                "contact:website": "http:\/\/zs2choszczno.pl",
+                "ref:regon": "812075890",
+                "operator": "Powiat Choszcze\u0144ski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 4156"
+            }
+        },
+        {
+            "id": 31574,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.41479,
+                    53.17676
+                ]
+            },
+            "properties": {
+                "ref:rspo": 31574,
+                "official_name": "Publiczne Przedszkole Nr 5 Z Grup\u0105 \u017b\u0142obkow\u0105 w Choszcznie",
+                "name": "Publiczne Przedszkole Nr 5 Z Grup\u0105 \u017b\u0142obkow\u0105 w Choszcznie",
+                "addr:country": "PL",
+                "addr:postcode": "73-200",
+                "addr:city": "Choszczno",
+                "addr:street": "ul. Energetyk\u00f3w",
+                "addr:housenumber": "7",
+                "addr:teryt:simc": 4805,
+                "addr:teryt:sym_ul": 935280,
+                "contact:phone": "+48 957657496",
+                "contact:email": "pp5choszczno@wp.pl",
+                "contact:website": "https:\/\/pp5.choszczno.pl",
+                "ref:regon": "210521720",
+                "ref:vatin": "PL5941450554",
+                "operator": "Gmina Choszczno",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 49520,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.58327,
+                    53.18588
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 49520,
+                "official_name": "Szko\u0142a Podstawowa Nr 1 im. Jana Brzechwy w Suliszewie",
+                "name": "Szko\u0142a Podstawowa Nr 1",
+                "addr:country": "PL",
+                "addr:postcode": "73-222",
+                "addr:city": "Suliszewo",
+                "addr:street": "ul. Zwyci\u0119stwa",
+                "addr:housenumber": "26",
+                "addr:teryt:simc": 26326,
+                "addr:teryt:sym_ul": 179393,
+                "contact:phone": "+48 957656411",
+                "contact:email": "spsuliszewo@post.pl",
+                "contact:website": "http:\/\/www.spsuliszewo.choszczno.pl",
+                "ref:regon": "210309999",
+                "ref:vatin": "PL5941450488",
+                "operator": "Gmina Choszczno",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 55663,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.58327,
+                    53.185849999999995
+                ]
+            },
+            "properties": {
+                "ref:rspo": 55663,
+                "official_name": "Punkt Przedszkolny w Szkole Podstawowej Nr 1 w Suliszewie",
+                "name": "Punkt Przedszkolny w Szkole Podstawowej Nr 1 w Suliszewie",
+                "addr:country": "PL",
+                "addr:postcode": "73-222",
+                "addr:city": "Suliszewo",
+                "addr:street": "ul. Zwyci\u0119stwa",
+                "addr:housenumber": "26",
+                "addr:teryt:simc": 26326,
+                "addr:teryt:sym_ul": 179393,
+                "contact:phone": "+48 957656411",
+                "contact:email": "spsuliszewo@post.pl",
+                "contact:website": "http:\/\/www.spsuliszewo.choszczno.pl",
+                "ref:regon": "321289986",
+                "ref:vatin": "PL5941450488",
+                "operator": "Gmina Choszczno",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 26641,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.583,
+                    53.1860799
+                ]
+            },
+            "properties": {
+                "ref:rspo": 26641,
+                "official_name": "Specjalny O\u015brodek Szkolno-Wychowawczy im. Kawaler\u00f3w Orderu U\u015bmiechu w Suliszewie",
+                "name": "Specjalny O\u015brodek Szkolno-Wychowawczy",
+                "addr:country": "PL",
+                "addr:postcode": "73-222",
+                "addr:city": "Suliszewo",
+                "addr:street": "ul. Zwyci\u0119stwa",
+                "addr:housenumber": "28",
+                "addr:teryt:simc": 26326,
+                "addr:teryt:sym_ul": 179393,
+                "contact:phone": "+48 957656418",
+                "contact:email": "osw-suliszewo@wp.pl",
+                "contact:website": "http:\/\/osw.suliszewo.szkolnastrona.pl",
+                "ref:regon": "000798558",
+                "ref:vatin": "PL5941266402",
+                "operator": "Powiat Choszcze\u0144ski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Children RSPO: 31208;31211;31212;272307"
+            }
+        },
+        {
+            "id": 31208,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.583,
+                    53.1860499
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 31208,
+                "official_name": "Szko\u0142a Podstawowa Specjalna Nr 2",
+                "name": "Szko\u0142a Podstawowa Specjalna Nr 2",
+                "addr:country": "PL",
+                "addr:postcode": "73-222",
+                "addr:city": "Suliszewo",
+                "addr:street": "ul. Zwyci\u0119stwa",
+                "addr:housenumber": "28",
+                "addr:teryt:simc": 26326,
+                "addr:teryt:sym_ul": 179393,
+                "contact:phone": "+48 957656418",
+                "contact:email": "osw-suliszewo@wp.pl",
+                "contact:website": "http:\/\/osw.suliszewo.szkolnastrona.pl",
+                "ref:regon": "001122076",
+                "operator": "Powiat Choszcze\u0144ski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 26641"
+            }
+        },
+        {
+            "id": 31211,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.583,
+                    53.186019900000005
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 31211,
+                "official_name": "Bran\u017cowa Szko\u0142a I Stopnia Specjalna",
+                "name": "Bran\u017cowa Szko\u0142a I Stopnia Specjalna",
+                "addr:country": "PL",
+                "addr:postcode": "73-222",
+                "addr:city": "Suliszewo",
+                "addr:street": "ul. Zwyci\u0119stwa",
+                "addr:housenumber": "28",
+                "addr:teryt:simc": 26326,
+                "addr:teryt:sym_ul": 179393,
+                "contact:phone": "+48 957656418",
+                "contact:email": "osw-suliszewo@wp.pl",
+                "contact:website": "http:\/\/osw.suliszewo.szkolnastrona.pl",
+                "ref:regon": "812634466",
+                "operator": "Powiat Choszcze\u0144ski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 26641"
+            }
+        },
+        {
+            "id": 31212,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.583,
+                    53.1859899
+                ]
+            },
+            "properties": {
+                "ref:rspo": 31212,
+                "official_name": "Szko\u0142a Specjalna Przysposabiaj\u0105ca Do Pracy",
+                "name": "Szko\u0142a Specjalna Przysposabiaj\u0105ca Do Pracy",
+                "addr:country": "PL",
+                "addr:postcode": "73-222",
+                "addr:city": "Suliszewo",
+                "addr:street": "ul. Zwyci\u0119stwa",
+                "addr:housenumber": "28",
+                "addr:teryt:simc": 26326,
+                "addr:teryt:sym_ul": 179393,
+                "contact:phone": "+48 957656418",
+                "contact:email": "osw-suliszewo@wp.pl",
+                "contact:website": "http:\/\/osw.suliszewo.szkolnastrona.pl",
+                "ref:regon": "320252515",
+                "operator": "Powiat Choszcze\u0144ski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 26641"
+            }
+        },
+        {
+            "id": 272307,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.58235,
+                    53.19019
+                ]
+            },
+            "properties": {
+                "ref:rspo": 272307,
+                "official_name": "Przedszkole Specjalne Specjalny O\u015brodek Szkolno - Wychowawczy im. Kawaler\u00f3w Orderu U\u015bmiechu w Suliszewie",
+                "name": "Przedszkole Specjalne Specjalny O\u015brodek Szkolno - Wychowawczy",
+                "addr:country": "PL",
+                "addr:postcode": "73-222",
+                "addr:place": "Suliszewo",
+                "addr:housenumber": "28",
+                "addr:teryt:sym_ul": 179393,
+                "contact:phone": "+48 957656418",
+                "contact:email": "osw-suliszewo@wp.pl",
+                "contact:website": "http:\/\/osw.suliszewo.szkolnastrona.pl\/",
+                "ref:regon": "384111302",
+                "operator": "Powiat Choszcze\u0144ski",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 26641"
+            }
+        },
+        {
+            "id": 49519,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.380416,
+                    53.226375
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 49519,
+                "official_name": "Szko\u0142a Podstawowa im. Marii Konopnickiej w S\u0142aw\u0119cinie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "73-200",
+                "addr:place": "S\u0142aw\u0119cin",
+                "addr:housenumber": "60",
+                "addr:teryt:sym_ul": 179306,
+                "contact:phone": "+48 957657537",
+                "contact:email": "sp.slawecin@wp.pl",
+                "ref:regon": "210310005",
+                "ref:vatin": "PL5941450471",
+                "operator": "Gmina Choszczno",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 55662,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.380416,
+                    53.226344999999995
+                ]
+            },
+            "properties": {
+                "ref:rspo": 55662,
+                "official_name": "Punkt Przedszkolny w Szkole Podstawowej w S\u0142aw\u0119cinie",
+                "name": "Punkt Przedszkolny w Szkole Podstawowej w S\u0142aw\u0119cinie",
+                "addr:country": "PL",
+                "addr:postcode": "73-200",
+                "addr:place": "S\u0142aw\u0119cin",
+                "addr:housenumber": "60",
+                "addr:teryt:sym_ul": 179306,
+                "contact:phone": "+48 957657537",
+                "contact:email": "sp.slawecin@wp.pl",
+                "ref:regon": "321290009",
+                "ref:vatin": "PL5941450471",
+                "operator": "Gmina Choszczno",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        }
+    ]
+}

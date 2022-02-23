@@ -1,1 +1,132 @@
-{"type":"FeatureCollection","features":[{"id":111193,"type":"Feature","geometry":{"type":"Point","coordinates":[17.19236,51.31102]},"properties":{"isced:level":"1;2","ref:rspo":111193,"official_name":"Szko\u0142a Podstawowa w Zawoni","name":"Szko\u0142a Podstawowa w Zawoni","addr:country":"PL","addr:postcode":"55-106","addr:city":"Zawonia","addr:street":"ul. Szkolna","addr:housenumber":"26","addr:teryt:simc":21970,"addr:teryt:sym_ul":883880,"contact:phone":"+48 713128129","contact:email":"sekretariat@zawonia.edu.pl","contact:website":"http:\/\/www.zszawonia.szkolna.net","ref:regon":"001031445","ref:vatin":"PL9151166329","operator":"Gmina Zawonia","operator:type":"government","amenity":"school","note":"Parent RSPO: 66126"}},{"id":120349,"type":"Feature","geometry":{"type":"Point","coordinates":[17.19236,51.31099]},"properties":{"ref:rspo":120349,"official_name":"Przedszkole w Zawoni","name":"Przedszkole w Zawoni","addr:country":"PL","addr:postcode":"55-106","addr:city":"Zawonia","addr:street":"ul. Szkolna","addr:housenumber":"26","addr:teryt:simc":21970,"addr:teryt:sym_ul":883880,"contact:phone":"+48 713128129","contact:email":"sekretariat@zawonia.edu.pl","contact:website":"http:\/\/www.zszawonia.szkolna.net","ref:regon":"022259790","operator":"Gmina Zawonia","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 66126"}},{"id":66126,"type":"Feature","geometry":{"type":"Point","coordinates":[16.999074935913,51.372608184814]},"properties":{"ref:rspo":66126,"official_name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w Zawoni","name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w Zawoni","addr:country":"PL","addr:postcode":"55-106","addr:place":"Zawonia","addr:housenumber":"26","addr:teryt:sym_ul":883880,"contact:phone":"+48 713128129","contact:email":"sekretariat@zawonia.edu.pl","contact:website":"http:\/\/www.zszawonia.szkolna.net","ref:regon":"932225683","ref:vatin":"PL9151596159","operator":"Gmina Zawonia","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 111193;120349"}},{"id":111195,"type":"Feature","geometry":{"type":"Point","coordinates":[17.24927,51.38133]},"properties":{"isced:level":"1;2","ref:rspo":111195,"official_name":"Szko\u0142a Podstawowa w Czeszowie","name":"Szko\u0142a Podstawowa w Czeszowie","addr:country":"PL","addr:postcode":"55-106","addr:city":"Czesz\u00f3w","addr:street":"ul. Marii Konopnickiej","addr:housenumber":"18","addr:teryt:simc":9186,"addr:teryt:sym_ul":883672,"contact:phone":"+48 713127193","contact:email":"sekretariat@zsczeszow.pl","contact:website":"http:\/\/www.zsczeszow.pl","ref:regon":"001040875","ref:vatin":"PL9151166275","operator":"Gmina Zawonia","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 111193,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.19236,
+                    51.31102
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 111193,
+                "official_name": "Szko\u0142a Podstawowa w Zawoni",
+                "name": "Szko\u0142a Podstawowa w Zawoni",
+                "addr:country": "PL",
+                "addr:postcode": "55-106",
+                "addr:city": "Zawonia",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "26",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 883880,
+                "contact:phone": "+48 713128129",
+                "contact:email": "sekretariat@zawonia.edu.pl",
+                "contact:website": "http:\/\/www.zszawonia.szkolna.net",
+                "ref:regon": "001031445",
+                "ref:vatin": "PL9151166329",
+                "operator": "Gmina Zawonia",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 66126"
+            }
+        },
+        {
+            "id": 120349,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.19236,
+                    51.31099
+                ]
+            },
+            "properties": {
+                "ref:rspo": 120349,
+                "official_name": "Przedszkole w Zawoni",
+                "name": "Przedszkole w Zawoni",
+                "addr:country": "PL",
+                "addr:postcode": "55-106",
+                "addr:city": "Zawonia",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "26",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 883880,
+                "contact:phone": "+48 713128129",
+                "contact:email": "sekretariat@zawonia.edu.pl",
+                "contact:website": "http:\/\/www.zszawonia.szkolna.net",
+                "ref:regon": "022259790",
+                "operator": "Gmina Zawonia",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 66126"
+            }
+        },
+        {
+            "id": 66126,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.999074935913,
+                    51.372608184814
+                ]
+            },
+            "properties": {
+                "ref:rspo": 66126,
+                "official_name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w Zawoni",
+                "name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w Zawoni",
+                "addr:country": "PL",
+                "addr:postcode": "55-106",
+                "addr:place": "Zawonia",
+                "addr:housenumber": "26",
+                "addr:teryt:sym_ul": 883880,
+                "contact:phone": "+48 713128129",
+                "contact:email": "sekretariat@zawonia.edu.pl",
+                "contact:website": "http:\/\/www.zszawonia.szkolna.net",
+                "ref:regon": "932225683",
+                "ref:vatin": "PL9151596159",
+                "operator": "Gmina Zawonia",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 111193;120349"
+            }
+        },
+        {
+            "id": 111195,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.24927,
+                    51.38133
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 111195,
+                "official_name": "Szko\u0142a Podstawowa w Czeszowie",
+                "name": "Szko\u0142a Podstawowa w Czeszowie",
+                "addr:country": "PL",
+                "addr:postcode": "55-106",
+                "addr:city": "Czesz\u00f3w",
+                "addr:street": "ul. Marii Konopnickiej",
+                "addr:housenumber": "18",
+                "addr:teryt:simc": 9186,
+                "addr:teryt:sym_ul": 883672,
+                "contact:phone": "+48 713127193",
+                "contact:email": "sekretariat@zsczeszow.pl",
+                "contact:website": "http:\/\/www.zsczeszow.pl",
+                "ref:regon": "001040875",
+                "ref:vatin": "PL9151166275",
+                "operator": "Gmina Zawonia",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

@@ -1,1 +1,160 @@
-{"type":"FeatureCollection","features":[{"id":58636,"type":"Feature","geometry":{"type":"Point","coordinates":[17.862294,51.2370029]},"properties":{"ref:rspo":58636,"official_name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 im. Ks. Micha\u0142a Przywary I Rodziny Salomon\u00f3w w Nowej Wsi Ksi\u0105\u017c\u0119cej","name":"Zesp\u00f3\u0142 Szk\u00f3\u0142","addr:country":"PL","addr:postcode":"63-640","addr:place":"Nowa Wie\u015b Ksi\u0105\u017c\u0119ca","addr:housenumber":"32","addr:teryt:sym_ul":194754,"contact:phone":"+48 627811214","contact:email":"zespolszkolnowawiesks@vp.pl","contact:website":"http:\/\/www.zsnwks.pl","ref:regon":"300369032","ref:vatin":"PL6191962427","operator":"Gmina Bralin","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 85004;85086"}},{"id":85004,"type":"Feature","geometry":{"type":"Point","coordinates":[17.862294,51.2369729]},"properties":{"ref:rspo":85004,"official_name":"Publiczne Przedszkole Samorz\u0105dowe w Nowej Wsi Ksi\u0105\u017c\u0119cej","name":"Publiczne Przedszkole Samorz\u0105dowe w Nowej Wsi Ksi\u0105\u017c\u0119cej","addr:country":"PL","addr:postcode":"63-640","addr:place":"Nowa Wie\u015b Ksi\u0105\u017c\u0119ca","addr:housenumber":"32","addr:teryt:sym_ul":194754,"contact:phone":"+48 627811214","contact:email":"zespolszkolnowawiesks@vp.pl","contact:website":"http:\/\/www.zsnwks.pl","ref:regon":"300369084","ref:vatin":"PL6191962433","operator":"Gmina Bralin","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 58636"}},{"id":85086,"type":"Feature","geometry":{"type":"Point","coordinates":[17.862294,51.2369429]},"properties":{"isced:level":"1;2","ref:rspo":85086,"official_name":"Szko\u0142a Podstawowa w Nowej Wsi Ksi\u0105\u017c\u0119cej","name":"Szko\u0142a Podstawowa w Nowej Wsi Ksi\u0105\u017c\u0119cej","addr:country":"PL","addr:postcode":"63-640","addr:place":"Nowa Wie\u015b Ksi\u0105\u017c\u0119ca","addr:housenumber":"32","addr:teryt:sym_ul":194754,"contact:phone":"+48 627811214","contact:email":"zespolszkolnowawiesks@vp.pl","contact:website":"http:\/\/www.zsnwks.pl","ref:regon":"001165648","ref:vatin":"PL6191122673","operator":"Gmina Bralin","operator:type":"government","amenity":"school","note":"Parent RSPO: 58636"}},{"id":56049,"type":"Feature","geometry":{"type":"Point","coordinates":[17.90219,51.28559]},"properties":{"isced:level":"1;2","ref:rspo":56049,"official_name":"Szko\u0142a Podstawowa im. Miko\u0142aja Kopernika w Bralinie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"63-640","addr:city":"Bralin","addr:street":"rynek Rynek","addr:housenumber":"1","addr:teryt:simc":19252,"addr:teryt:sym_ul":194636,"contact:phone":"+48 627811212","contact:email":"szkolabralin@wp.pl","contact:website":"http:\/\/www.spbralin.pl","ref:regon":"000631427","ref:vatin":"PL6191123342","operator":"Gmina Bralin","operator:type":"government","amenity":"school"}},{"id":57593,"type":"Feature","geometry":{"type":"Point","coordinates":[17.90113,51.28814]},"properties":{"ref:rspo":57593,"official_name":"Przedszkole \"Kwiaty Polskie\" w Bralinie","name":"Przedszkole \"Kwiaty Polskie\" w Bralinie","addr:country":"PL","addr:postcode":"63-640","addr:city":"Bralin","addr:street":"ul. Wiosenna","addr:housenumber":"4","addr:teryt:simc":24364,"addr:teryt:sym_ul":194636,"contact:phone":"+48 623322026","contact:email":"kwiatypolskie.bralin@gmail.com","contact:website":"http:\/\/www.przedszkolebralin.pl","ref:regon":"251590843","ref:vatin":"PL6191123394","operator":"Gmina Bralin","operator:type":"government","amenity":"kindergarten"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 58636,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.862294,
+                    51.2370029
+                ]
+            },
+            "properties": {
+                "ref:rspo": 58636,
+                "official_name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 im. Ks. Micha\u0142a Przywary I Rodziny Salomon\u00f3w w Nowej Wsi Ksi\u0105\u017c\u0119cej",
+                "name": "Zesp\u00f3\u0142 Szk\u00f3\u0142",
+                "addr:country": "PL",
+                "addr:postcode": "63-640",
+                "addr:place": "Nowa Wie\u015b Ksi\u0105\u017c\u0119ca",
+                "addr:housenumber": "32",
+                "addr:teryt:sym_ul": 194754,
+                "contact:phone": "+48 627811214",
+                "contact:email": "zespolszkolnowawiesks@vp.pl",
+                "contact:website": "http:\/\/www.zsnwks.pl",
+                "ref:regon": "300369032",
+                "ref:vatin": "PL6191962427",
+                "operator": "Gmina Bralin",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 85004;85086"
+            }
+        },
+        {
+            "id": 85004,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.862294,
+                    51.2369729
+                ]
+            },
+            "properties": {
+                "ref:rspo": 85004,
+                "official_name": "Publiczne Przedszkole Samorz\u0105dowe w Nowej Wsi Ksi\u0105\u017c\u0119cej",
+                "name": "Publiczne Przedszkole Samorz\u0105dowe w Nowej Wsi Ksi\u0105\u017c\u0119cej",
+                "addr:country": "PL",
+                "addr:postcode": "63-640",
+                "addr:place": "Nowa Wie\u015b Ksi\u0105\u017c\u0119ca",
+                "addr:housenumber": "32",
+                "addr:teryt:sym_ul": 194754,
+                "contact:phone": "+48 627811214",
+                "contact:email": "zespolszkolnowawiesks@vp.pl",
+                "contact:website": "http:\/\/www.zsnwks.pl",
+                "ref:regon": "300369084",
+                "ref:vatin": "PL6191962433",
+                "operator": "Gmina Bralin",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 58636"
+            }
+        },
+        {
+            "id": 85086,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.862294,
+                    51.2369429
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 85086,
+                "official_name": "Szko\u0142a Podstawowa w Nowej Wsi Ksi\u0105\u017c\u0119cej",
+                "name": "Szko\u0142a Podstawowa w Nowej Wsi Ksi\u0105\u017c\u0119cej",
+                "addr:country": "PL",
+                "addr:postcode": "63-640",
+                "addr:place": "Nowa Wie\u015b Ksi\u0105\u017c\u0119ca",
+                "addr:housenumber": "32",
+                "addr:teryt:sym_ul": 194754,
+                "contact:phone": "+48 627811214",
+                "contact:email": "zespolszkolnowawiesks@vp.pl",
+                "contact:website": "http:\/\/www.zsnwks.pl",
+                "ref:regon": "001165648",
+                "ref:vatin": "PL6191122673",
+                "operator": "Gmina Bralin",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 58636"
+            }
+        },
+        {
+            "id": 56049,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.90219,
+                    51.28559
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 56049,
+                "official_name": "Szko\u0142a Podstawowa im. Miko\u0142aja Kopernika w Bralinie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "63-640",
+                "addr:city": "Bralin",
+                "addr:street": "rynek Rynek",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 19252,
+                "addr:teryt:sym_ul": 194636,
+                "contact:phone": "+48 627811212",
+                "contact:email": "szkolabralin@wp.pl",
+                "contact:website": "http:\/\/www.spbralin.pl",
+                "ref:regon": "000631427",
+                "ref:vatin": "PL6191123342",
+                "operator": "Gmina Bralin",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 57593,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.90113,
+                    51.28814
+                ]
+            },
+            "properties": {
+                "ref:rspo": 57593,
+                "official_name": "Przedszkole \"Kwiaty Polskie\" w Bralinie",
+                "name": "Przedszkole \"Kwiaty Polskie\" w Bralinie",
+                "addr:country": "PL",
+                "addr:postcode": "63-640",
+                "addr:city": "Bralin",
+                "addr:street": "ul. Wiosenna",
+                "addr:housenumber": "4",
+                "addr:teryt:simc": 24364,
+                "addr:teryt:sym_ul": 194636,
+                "contact:phone": "+48 623322026",
+                "contact:email": "kwiatypolskie.bralin@gmail.com",
+                "contact:website": "http:\/\/www.przedszkolebralin.pl",
+                "ref:regon": "251590843",
+                "ref:vatin": "PL6191123394",
+                "operator": "Gmina Bralin",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        }
+    ]
+}

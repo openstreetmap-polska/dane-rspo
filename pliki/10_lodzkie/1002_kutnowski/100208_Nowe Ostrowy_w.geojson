@@ -1,1 +1,94 @@
-{"type":"FeatureCollection","features":[{"id":41790,"type":"Feature","geometry":{"type":"Point","coordinates":[19.16403,52.30858]},"properties":{"isced:level":"1;2","ref:rspo":41790,"official_name":"Szko\u0142a Podstawowa im. Mieczys\u0142awy Butler w Ostrowach","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"99-350","addr:place":"Ostrowy","addr:housenumber":"8","addr:teryt:sym_ul":571949,"contact:phone":"+48 243561618","contact:email":"spostrowy@noweostrowy.pl","contact:website":"http:\/\/spostrowy8nazwa.pl","ref:regon":"000273330","ref:vatin":"PL7752384165","operator":"Gmina Nowe Ostrowy","operator:type":"government","amenity":"school"}},{"id":41792,"type":"Feature","geometry":{"type":"Point","coordinates":[19.16391,52.30882]},"properties":{"ref:rspo":41792,"official_name":"Gminne Przedszkole w Ostrowach","name":"Gminne Przedszkole w Ostrowach","addr:country":"PL","addr:postcode":"99-350","addr:place":"Ostrowy","addr:housenumber":"8a","addr:teryt:sym_ul":571949,"contact:phone":"+48 243561408","contact:email":"przedszkole@noweostrowy.pl","contact:website":"http:\/\/www.przedszkoleostrowy.szkolnastrona.pl","ref:regon":"000903943","ref:vatin":"PL7752387962","operator":"Gmina Nowe Ostrowy","operator:type":"government","amenity":"kindergarten"}},{"id":41791,"type":"Feature","geometry":{"type":"Point","coordinates":[19.2264,52.32825]},"properties":{"isced:level":"1;2","ref:rspo":41791,"official_name":"Szko\u0142a Podstawowa im. Bohater\u00f3w Bitwy Nad Bzur\u0105 w Imielnie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"99-350","addr:place":"Imielno","addr:housenumber":"41B","addr:teryt:sym_ul":571814,"contact:phone":"+48 243561494","contact:email":"spimielno@noweostrowy.pl","contact:website":"http:\/\/www.spimielno.szkolnastrona.pl","ref:regon":"001127027","ref:vatin":"PL7752381066","operator":"Gmina Nowe Ostrowy","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 41790,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.16403,
+                    52.30858
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 41790,
+                "official_name": "Szko\u0142a Podstawowa im. Mieczys\u0142awy Butler w Ostrowach",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "99-350",
+                "addr:place": "Ostrowy",
+                "addr:housenumber": "8",
+                "addr:teryt:sym_ul": 571949,
+                "contact:phone": "+48 243561618",
+                "contact:email": "spostrowy@noweostrowy.pl",
+                "contact:website": "http:\/\/spostrowy8nazwa.pl",
+                "ref:regon": "000273330",
+                "ref:vatin": "PL7752384165",
+                "operator": "Gmina Nowe Ostrowy",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 41792,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.16391,
+                    52.30882
+                ]
+            },
+            "properties": {
+                "ref:rspo": 41792,
+                "official_name": "Gminne Przedszkole w Ostrowach",
+                "name": "Gminne Przedszkole w Ostrowach",
+                "addr:country": "PL",
+                "addr:postcode": "99-350",
+                "addr:place": "Ostrowy",
+                "addr:housenumber": "8a",
+                "addr:teryt:sym_ul": 571949,
+                "contact:phone": "+48 243561408",
+                "contact:email": "przedszkole@noweostrowy.pl",
+                "contact:website": "http:\/\/www.przedszkoleostrowy.szkolnastrona.pl",
+                "ref:regon": "000903943",
+                "ref:vatin": "PL7752387962",
+                "operator": "Gmina Nowe Ostrowy",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 41791,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.2264,
+                    52.32825
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 41791,
+                "official_name": "Szko\u0142a Podstawowa im. Bohater\u00f3w Bitwy Nad Bzur\u0105 w Imielnie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "99-350",
+                "addr:place": "Imielno",
+                "addr:housenumber": "41B",
+                "addr:teryt:sym_ul": 571814,
+                "contact:phone": "+48 243561494",
+                "contact:email": "spimielno@noweostrowy.pl",
+                "contact:website": "http:\/\/www.spimielno.szkolnastrona.pl",
+                "ref:regon": "001127027",
+                "ref:vatin": "PL7752381066",
+                "operator": "Gmina Nowe Ostrowy",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

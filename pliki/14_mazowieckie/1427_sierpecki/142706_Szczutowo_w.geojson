@@ -1,1 +1,129 @@
-{"type":"FeatureCollection","features":[{"id":92016,"type":"Feature","geometry":{"type":"Point","coordinates":[19.5328,52.89642]},"properties":{"isced:level":"1;2","ref:rspo":92016,"official_name":"Szko\u0142a Podstawowa im. W\u0142adys\u0142awa St. Reymonta w Szczutowie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"09-227","addr:city":"Szczutowo","addr:street":"ul. Lipowa","addr:housenumber":"2","addr:teryt:simc":11139,"addr:teryt:sym_ul":578584,"contact:phone":"+48 242767170","contact:email":"spszczutowo@wp.pl","contact:website":"http:\/\/spszczutowo.szkolnastrona.pl","ref:regon":"000631781","ref:vatin":"PL7761548790","operator":"Gmina Szczutowo","operator:type":"government","amenity":"school"}},{"id":107481,"type":"Feature","geometry":{"type":"Point","coordinates":[19.5328,52.89639]},"properties":{"ref:rspo":107481,"official_name":"Punkt Przedszkolny","name":"Punkt Przedszkolny","addr:country":"PL","addr:postcode":"09-227","addr:city":"Szczutowo","addr:street":"ul. Lipowa","addr:housenumber":"2","addr:teryt:simc":11139,"addr:teryt:sym_ul":578584,"contact:phone":"+48 242767170","contact:email":"spszczutowo@wp.pl","contact:website":"http:\/\/spszczutowo.szkolnastrona.pl","ref:regon":"146500821","operator":"Gmina Szczutowo","operator:type":"government","amenity":"kindergarten"}},{"id":107429,"type":"Feature","geometry":{"type":"Point","coordinates":[19.52525,52.90107]},"properties":{"isced:level":"1;2","ref:rspo":107429,"official_name":"Szko\u0142a Podstawowa im. Tadeusza Ko\u015bciuszki","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"09-227","addr:city":"G\u00f3jsk","addr:street":"ul. Lipnowska","addr:housenumber":"3B","addr:teryt:simc":11136,"addr:teryt:sym_ul":578331,"contact:phone":"+48 242768195","contact:email":"szkolagojsk@wp.pl","contact:website":"http:\/\/www.spgojsk.szkolnastrona.pl","ref:regon":"001114941","ref:vatin":"PL7761549051","operator":"Gmina Szczutowo","operator:type":"government","amenity":"school"}},{"id":107432,"type":"Feature","geometry":{"type":"Point","coordinates":[19.52525,52.901039999999995]},"properties":{"ref:rspo":107432,"official_name":"Punkt Przedszkolny","name":"Punkt Przedszkolny","addr:country":"PL","addr:postcode":"09-227","addr:city":"G\u00f3jsk","addr:street":"ul. Lipnowska","addr:housenumber":"3B","addr:teryt:simc":11136,"addr:teryt:sym_ul":578331,"contact:phone":"+48 242768195","contact:email":"szkolagojsk@wp.pl","contact:website":"http:\/\/www.spgojsk.szkolnastrona.pl","ref:regon":"146500583","operator":"Gmina Szczutowo","operator:type":"government","amenity":"kindergarten"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 92016,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5328,
+                    52.89642
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 92016,
+                "official_name": "Szko\u0142a Podstawowa im. W\u0142adys\u0142awa St. Reymonta w Szczutowie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "09-227",
+                "addr:city": "Szczutowo",
+                "addr:street": "ul. Lipowa",
+                "addr:housenumber": "2",
+                "addr:teryt:simc": 11139,
+                "addr:teryt:sym_ul": 578584,
+                "contact:phone": "+48 242767170",
+                "contact:email": "spszczutowo@wp.pl",
+                "contact:website": "http:\/\/spszczutowo.szkolnastrona.pl",
+                "ref:regon": "000631781",
+                "ref:vatin": "PL7761548790",
+                "operator": "Gmina Szczutowo",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 107481,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5328,
+                    52.89639
+                ]
+            },
+            "properties": {
+                "ref:rspo": 107481,
+                "official_name": "Punkt Przedszkolny",
+                "name": "Punkt Przedszkolny",
+                "addr:country": "PL",
+                "addr:postcode": "09-227",
+                "addr:city": "Szczutowo",
+                "addr:street": "ul. Lipowa",
+                "addr:housenumber": "2",
+                "addr:teryt:simc": 11139,
+                "addr:teryt:sym_ul": 578584,
+                "contact:phone": "+48 242767170",
+                "contact:email": "spszczutowo@wp.pl",
+                "contact:website": "http:\/\/spszczutowo.szkolnastrona.pl",
+                "ref:regon": "146500821",
+                "operator": "Gmina Szczutowo",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 107429,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.52525,
+                    52.90107
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 107429,
+                "official_name": "Szko\u0142a Podstawowa im. Tadeusza Ko\u015bciuszki",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "09-227",
+                "addr:city": "G\u00f3jsk",
+                "addr:street": "ul. Lipnowska",
+                "addr:housenumber": "3B",
+                "addr:teryt:simc": 11136,
+                "addr:teryt:sym_ul": 578331,
+                "contact:phone": "+48 242768195",
+                "contact:email": "szkolagojsk@wp.pl",
+                "contact:website": "http:\/\/www.spgojsk.szkolnastrona.pl",
+                "ref:regon": "001114941",
+                "ref:vatin": "PL7761549051",
+                "operator": "Gmina Szczutowo",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 107432,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.52525,
+                    52.901039999999995
+                ]
+            },
+            "properties": {
+                "ref:rspo": 107432,
+                "official_name": "Punkt Przedszkolny",
+                "name": "Punkt Przedszkolny",
+                "addr:country": "PL",
+                "addr:postcode": "09-227",
+                "addr:city": "G\u00f3jsk",
+                "addr:street": "ul. Lipnowska",
+                "addr:housenumber": "3B",
+                "addr:teryt:simc": 11136,
+                "addr:teryt:sym_ul": 578331,
+                "contact:phone": "+48 242768195",
+                "contact:email": "szkolagojsk@wp.pl",
+                "contact:website": "http:\/\/www.spgojsk.szkolnastrona.pl",
+                "ref:regon": "146500583",
+                "operator": "Gmina Szczutowo",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        }
+    ]
+}

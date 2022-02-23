@@ -1,1 +1,943 @@
-{"type":"FeatureCollection","features":[{"id":103617,"type":"Feature","geometry":{"type":"Point","coordinates":[20.7041269,52.0951279]},"properties":{"ref:rspo":103617,"official_name":"Frani\u00f3wka","name":"Frani\u00f3wka","addr:country":"PL","addr:postcode":"05-807","addr:city":"Owczarnia","addr:street":"ul. Ksi\u0105\u017cenicka","addr:housenumber":"96d","addr:teryt:simc":10222,"addr:teryt:sym_ul":738,"contact:phone":"+48 501672612","contact:email":"franiowka@gmail.com","ref:regon":"146460398","operator":"Anna Biedro\u0144","operator:type":"private","amenity":"kindergarten"}},{"id":277238,"type":"Feature","geometry":{"type":"Point","coordinates":[20.7241392,52.0999606]},"properties":{"ref:rspo":277238,"official_name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w \u017b\u00f3\u0142winie","name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w \u017b\u00f3\u0142winie","addr:country":"PL","addr:postcode":"05-807","addr:city":"\u017b\u00f3\u0142win","addr:street":"ul. Szkolna","addr:housenumber":"39","addr:teryt:simc":21970,"addr:teryt:sym_ul":773,"contact:phone":"+48 227589397","contact:email":"sp_zolwin@wp.pl","ref:regon":"388420299","operator":"Gmina Brwin\u00f3w","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 103625;277236"}},{"id":103625,"type":"Feature","geometry":{"type":"Point","coordinates":[20.7241392,52.0999306]},"properties":{"isced:level":"1;2","ref:rspo":103625,"official_name":"Szko\u0142a Podstawowa im. 11 Listopada w \u017b\u00f3\u0142winie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"05-807","addr:city":"\u017b\u00f3\u0142win","addr:street":"ul. Szkolna","addr:housenumber":"39","addr:teryt:simc":21970,"addr:teryt:sym_ul":773,"contact:phone":"+48 227589397","contact:email":"zs.zolwin@brwinow.pl","contact:website":"http:\/\/www.zs-zolwin.edupage.org","ref:regon":"012042443","operator":"Gmina Brwin\u00f3w","operator:type":"government","amenity":"school","note":"Parent RSPO: 277238"}},{"id":29242,"type":"Feature","geometry":{"type":"Point","coordinates":[20.73416,52.10617]},"properties":{"ref:rspo":29242,"official_name":"Przedszkole Nr 3 w Brwinowie","name":"Przedszkole Nr 3 w Brwinowie","addr:country":"PL","addr:postcode":"05-840","addr:city":"Brwin\u00f3w","addr:street":"ul. S\u0142oneczna","addr:housenumber":"6","addr:teryt:simc":20254,"addr:teryt:sym_ul":920284,"contact:phone":"+48 227296381","contact:email":"sloneczne-przedszkole@idsl.pl","ref:regon":"013000263","ref:vatin":"PL5341815154","operator":"Gmina Brwin\u00f3w","operator:type":"government","amenity":"kindergarten"}},{"id":128653,"type":"Feature","geometry":{"type":"Point","coordinates":[20.73394,52.107282]},"properties":{"ref:rspo":128653,"official_name":"Niepubliczne Przedszkole \u017b\u00f3\u0142wiki","name":"Niepubliczne Przedszkole \u017b\u00f3\u0142wiki","addr:country":"PL","addr:postcode":"05-807","addr:city":"\u017b\u00f3\u0142win","addr:street":"ul. Nadarzy\u0144ska","addr:housenumber":"63B","addr:teryt:simc":13849,"addr:teryt:sym_ul":773,"contact:phone":"+48 605076639","contact:email":"jolanta.nagraba@gmail.com","ref:regon":"362387843","operator":"Nowoczesne Mazowsze Mazowiecka Fundacja Spo\u0142eczna","operator:type":"ngo","amenity":"kindergarten"}},{"id":277236,"type":"Feature","geometry":{"type":"Point","coordinates":[20.72679,52.1074]},"properties":{"ref:rspo":277236,"official_name":"Przedszkole w \u017b\u00f3\u0142winie","name":"Przedszkole w \u017b\u00f3\u0142winie","addr:country":"PL","addr:postcode":"05-807","addr:city":"\u017b\u00f3\u0142win","addr:street":"ul. Nadarzy\u0144ska","addr:housenumber":"42","addr:teryt:simc":13849,"addr:teryt:sym_ul":773,"contact:phone":"+48 227589397","contact:email":"sp_zolwin@wp.pl","ref:regon":"388420247","operator":"Gmina Brwin\u00f3w","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 277238"}},{"id":277237,"type":"Feature","geometry":{"type":"Point","coordinates":[20.75955,52.12203]},"properties":{"ref:rspo":277237,"official_name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w Otr\u0119busach","name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w Otr\u0119busach","addr:country":"PL","addr:postcode":"05-805","addr:city":"Otr\u0119busy","addr:street":"ul. dr. Mariana Piaseckiego","addr:housenumber":"2","addr:teryt:simc":45298,"addr:teryt:sym_ul":715,"contact:phone":"+48 227585810","contact:email":"szkola@otrebusy.edu.pl","ref:regon":"388420260","operator":"Gmina Brwin\u00f3w","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 29267;103627"}},{"id":29267,"type":"Feature","geometry":{"type":"Point","coordinates":[20.75955,52.122]},"properties":{"ref:rspo":29267,"official_name":"Przedszkole w Otr\u0119busach","name":"Przedszkole w Otr\u0119busach","addr:country":"PL","addr:postcode":"05-805","addr:city":"Otr\u0119busy","addr:street":"ul. dr. Mariana Piaseckiego","addr:housenumber":"2a","addr:teryt:simc":45298,"addr:teryt:sym_ul":715,"contact:phone":"+48 227585556","contact:email":"przedszkolewotrebusach@gmail.com","contact:website":"http:\/\/www.przedszkole.otrebusy..pl","ref:regon":"013000270","ref:vatin":"PL5341815042","operator":"Gmina Brwin\u00f3w","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 277237"}},{"id":103627,"type":"Feature","geometry":{"type":"Point","coordinates":[20.75955,52.121970000000005]},"properties":{"isced:level":"1;2","ref:rspo":103627,"official_name":"Szko\u0142a Podstawowa im. W\u0142odzimierza Puchalskiego w Otr\u0119busach","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"05-805","addr:city":"Otr\u0119busy","addr:street":"ul. dr. Mariana Piaseckiego","addr:housenumber":"2","addr:teryt:simc":45298,"addr:teryt:sym_ul":715,"contact:phone":"+48 227585810","contact:email":"szkola@otrebusy.edu.pl","contact:website":"http:\/\/www.sp.otrebusy.edu.pl","ref:regon":"011099406","operator":"Gmina Brwin\u00f3w","operator:type":"government","amenity":"school","note":"Parent RSPO: 277237"}},{"id":105997,"type":"Feature","geometry":{"type":"Point","coordinates":[20.7699716,52.1240347]},"properties":{"ref:rspo":105997,"official_name":"Przedszkole Niepubliczne Zgromadzenia Si\u00f3str S\u0142u\u017cebniczek N.m.p.","name":"Przedszkole Niepubliczne Zgromadzenia Si\u00f3str S\u0142u\u017cebniczek N.m.p.","addr:country":"PL","addr:postcode":"05-805","addr:city":"Otr\u0119busy","addr:street":"ul. Juliusza S\u0142owackiego","addr:housenumber":"5","addr:teryt:simc":20291,"addr:teryt:sym_ul":715,"contact:phone":"+48 227585550","contact:email":"ochronka.otrebusy@neostrada.pl","ref:regon":"146463729","operator":"Zgromadzenie Si\u00f3str S\u0142u\u017cebniczek Naj\u015bwi\u0119tszej Maryi Panny Niepokalanie Pocz\u0119tej-\u015al\u0105skie","operator:type":"religious","amenity":"kindergarten"}},{"id":268983,"type":"Feature","geometry":{"type":"Point","coordinates":[20.805843353271,52.124370574951]},"properties":{"ref:rspo":268983,"official_name":"Dwuj\u0119zyczny Punkt Przedszkolny \"Sonlight\"","name":"Dwuj\u0119zyczny Punkt Przedszkolny \"Sonlight\"","addr:country":"PL","addr:postcode":"05-807","addr:city":"\u017b\u00f3\u0142win","addr:street":"ul. Jana Paw\u0142a II","addr:housenumber":"39","addr:teryt:simc":7123,"addr:teryt:sym_ul":773,"contact:phone":"+48 227589214","contact:email":"jpkompas@gmail.com","ref:regon":"381324492","operator":"Wy\u017csza Szko\u0142a Teologiczno-Humanistyczna Im.micha\u0142a Beliny-Czechowskiego","operator:type":"private","amenity":"kindergarten"}},{"id":103622,"type":"Feature","geometry":{"type":"Point","coordinates":[20.7114,52.13211]},"properties":{"ref:rspo":103622,"official_name":"Mi\u0119dzynarodowe Przedszkole Montessori w Brwinowie","name":"Mi\u0119dzynarodowe Przedszkole Montessori w Brwinowie","addr:country":"PL","addr:postcode":"05-840","addr:city":"Brwin\u00f3w","addr:street":"ul. \u017bwirowa","addr:housenumber":"17","addr:teryt:simc":26611,"addr:teryt:sym_ul":920284,"contact:phone":"+48 227296001","contact:email":"chatkapuchatka17@onet.eu","ref:regon":"146464539","operator":"Katarzyna Zwierzchowska","operator:type":"private","amenity":"kindergarten"}},{"id":103621,"type":"Feature","geometry":{"type":"Point","coordinates":[20.73586,52.13256]},"properties":{"ref:rspo":103621,"official_name":"Kids Montessori Magdalena Witkowska","name":"Kids Montessori Magdalena Witkowska","addr:country":"PL","addr:postcode":"05-840","addr:city":"Brwin\u00f3w","addr:street":"ul. Magnolii","addr:housenumber":"1","addr:teryt:simc":11907,"addr:teryt:sym_ul":920284,"contact:phone":"+48 604974474","contact:email":"kontakt@kids-montessori.pl","contact:website":"http:\/\/www.kids-montessori.pl","ref:regon":"146461682","operator":"Magdalena Witkowska","operator:type":"private","amenity":"kindergarten"}},{"id":25967,"type":"Feature","geometry":{"type":"Point","coordinates":[20.7116599,52.1327]},"properties":{"ref:rspo":25967,"official_name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 Og\u00f3lnokszta\u0142c\u0105cych w Brwinowie","name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 Og\u00f3lnokszta\u0142c\u0105cych w Brwinowie","addr:country":"PL","addr:postcode":"05-840","addr:city":"Brwin\u00f3w","addr:street":"ul. \u017bwirowa","addr:housenumber":"16","addr:teryt:simc":26611,"addr:teryt:sym_ul":920284,"contact:phone":"+48 227295771","contact:email":"szkola@zsobrwinow.pl","contact:website":"http:\/\/www.zsobrwinow.pl","ref:regon":"015240066","ref:vatin":"PL5342204375","operator":"Gmina Brwin\u00f3w","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 30050;104543"}},{"id":30050,"type":"Feature","geometry":{"type":"Point","coordinates":[20.7116599,52.13267]},"properties":{"isced:level":"3","ref:rspo":30050,"official_name":"Liceum Og\u00f3lnokszta\u0142c\u0105ce im. Jaros\u0142awa Iwaszkiewicza w Zespole Szk\u00f3\u0142 Og\u00f3lnokszta\u0142c\u0105cych w Brwinowie","name":"Liceum Og\u00f3lnokszta\u0142c\u0105ce","addr:country":"PL","addr:postcode":"05-840","addr:city":"Brwin\u00f3w","addr:street":"ul. \u017bwirowa","addr:housenumber":"16","addr:teryt:simc":26611,"addr:teryt:sym_ul":920284,"contact:phone":"+48 227296347","contact:email":"iwaszkiewiczlo@wp.pl","contact:website":"http:\/\/www.loiwaszkiewicz.pl","ref:regon":"000799405","operator":"Gmina Brwin\u00f3w","operator:type":"government","amenity":"school","note":"Parent RSPO: 25967"}},{"id":104543,"type":"Feature","geometry":{"type":"Point","coordinates":[20.7116599,52.13264]},"properties":{"isced:level":"1;2","ref:rspo":104543,"official_name":"Szko\u0142a Podstawowa Nr 2 im. Jaros\u0142awa Iwaszkiewicza w Zespole Szk\u00f3\u0142 Og\u00f3lnokszta\u0142c\u0105cych w Brwinowie","name":"Szko\u0142a Podstawowa Nr 2","addr:country":"PL","addr:postcode":"05-840","addr:city":"Brwin\u00f3w","addr:street":"ul. \u017bwirowa","addr:housenumber":"16","addr:teryt:simc":26611,"addr:teryt:sym_ul":920284,"contact:phone":"+48 227295771","contact:email":"szkola@zsobrwinow.pl","contact:website":"http:\/\/www.zsobrwinow.pl","ref:regon":"001213838","operator":"Gmina Brwin\u00f3w","operator:type":"government","amenity":"school","note":"Parent RSPO: 25967"}},{"id":29224,"type":"Feature","geometry":{"type":"Point","coordinates":[20.7207,52.13341]},"properties":{"ref:rspo":29224,"official_name":"Przedszkole Nr 1 w Brwinowie","name":"Przedszkole Nr 1 w Brwinowie","addr:country":"PL","addr:postcode":"05-840","addr:city":"Brwin\u00f3w","addr:street":"ul. Stanis\u0142awa Lilpopa","addr:housenumber":"4","addr:teryt:simc":45291,"addr:teryt:sym_ul":920284,"contact:phone":"+48 227295947","contact:email":"lesneprzedszkole@wp.pl","ref:regon":"013000257","ref:vatin":"PL5341815160","operator":"Gmina Brwin\u00f3w","operator:type":"government","amenity":"kindergarten"}},{"id":272418,"type":"Feature","geometry":{"type":"Point","coordinates":[20.77246,52.13488]},"properties":{"isced:level":"1;2","ref:rspo":272418,"official_name":"Niepubliczna Szko\u0142a Podstawowa Pitagoras Nr 2","name":"Niepubliczna Szko\u0142a Podstawowa Pitagoras Nr 2","addr:country":"PL","addr:postcode":"05-840","addr:city":"Kanie","addr:street":"ul. Marsza\u0142ka J\u00f3zefa Pi\u0142sudskiego","addr:housenumber":"28","addr:teryt:simc":36029,"addr:teryt:sym_ul":572,"contact:email":"leszek.ossowski@szkolapitagoras.pl","contact:website":"http:\/\/nsppitagoras.pl","ref:regon":"384177985","operator":"Nsp Pitagoras Sp\u00f3\u0142ka Z Ograniczon\u0105 Odpowiedzialno\u015bci\u0105","operator:type":"private","amenity":"school"}},{"id":115368,"type":"Feature","geometry":{"type":"Point","coordinates":[20.7724461,52.1349258]},"properties":{"ref:rspo":115368,"official_name":"Niepubliczne Przedszkole Kozio\u0142ki","name":"Niepubliczne Przedszkole Kozio\u0142ki","addr:country":"PL","addr:postcode":"05-805","addr:city":"Kanie","addr:street":"ul. J\u00f3zefa Pi\u0142sudskiego","addr:housenumber":"28","addr:teryt:simc":16264,"addr:teryt:sym_ul":572,"contact:phone":"+48 515275420","contact:email":"kbrzeska@przedszkolekoziolki.pl","ref:regon":"146756319","operator":"Katarzyna Brzeska","operator:type":"private","amenity":"kindergarten"}},{"id":132356,"type":"Feature","geometry":{"type":"Point","coordinates":[20.73195,52.13565]},"properties":{"ref:rspo":132356,"official_name":"S\u0142oneczko Na Le\u015bnej Polanie","name":"S\u0142oneczko Na Le\u015bnej Polanie","addr:country":"PL","addr:postcode":"05-840","addr:city":"Brwin\u00f3w","addr:street":"ul. Le\u015bnej Polany","addr:housenumber":"7","addr:teryt:simc":35989,"addr:teryt:sym_ul":920284,"contact:phone":"+48 603213333","contact:email":"katarzynaziumecka@onet.pl","ref:regon":"365563750","operator":"Katarzyna Ziumecka","operator:type":"private","amenity":"kindergarten"}},{"id":103624,"type":"Feature","geometry":{"type":"Point","coordinates":[20.7611,52.13585]},"properties":{"ref:rspo":103624,"official_name":"Niepubliczne Przedszkole Integracyjne Si\u00f3str Rodziny Maryi","name":"Niepubliczne Przedszkole Integracyjne Si\u00f3str Rodziny Maryi","addr:country":"PL","addr:postcode":"05-840","addr:city":"Brwin\u00f3w","addr:street":"ul. Szkolna","addr:housenumber":"18","addr:teryt:simc":21970,"addr:teryt:sym_ul":920284,"contact:phone":"+48 227295821","contact:email":"szkola@szkola-brwinow.pl","contact:website":"http:\/\/www.szkola-brwinow.edu.pl","ref:regon":"146451488","operator":"Zgromadzenie Si\u00f3str Franciszkanek Rodziny Maryi Prowincja Niepokalanej-Warszawska","operator:type":"religious","amenity":"kindergarten"}},{"id":121603,"type":"Feature","geometry":{"type":"Point","coordinates":[20.7611,52.135819999999995]},"properties":{"ref:rspo":121603,"official_name":"Specjalny Niepubliczny O\u015brodek Szkolno-Wychowawczy","name":"Specjalny Niepubliczny O\u015brodek Szkolno-Wychowawczy","addr:country":"PL","addr:postcode":"05-840","addr:city":"Brwin\u00f3w","addr:street":"ul. Szkolna","addr:housenumber":"18","addr:teryt:simc":21970,"addr:teryt:sym_ul":920284,"contact:phone":"+48 227295821","contact:email":"szkola@szkola-brwinow.edu.pl","contact:website":"http:\/\/www.szkola-brwinow.edu.pl","ref:regon":"147067540","operator":"Zgromadzenie Si\u00f3str Franciszkanek Rodziny Maryi Prowincja Niepokalanej-Warszawska","operator:type":"religious","amenity":"school","note":"Children RSPO: 121643"}},{"id":123856,"type":"Feature","geometry":{"type":"Point","coordinates":[20.7611,52.13579]},"properties":{"isced:level":"1;2","ref:rspo":123856,"official_name":"Niepubliczna Szko\u0142a Podstawowa Familia","name":"Niepubliczna Szko\u0142a Podstawowa Familia","addr:country":"PL","addr:postcode":"05-840","addr:city":"Brwin\u00f3w","addr:street":"ul. Szkolna","addr:housenumber":"18","addr:teryt:simc":21970,"addr:teryt:sym_ul":920284,"contact:phone":"+48 227295821","contact:email":"szkola@szkola-brwinow.edu.pl","ref:regon":"147383205","operator":"Zgromadzenie Si\u00f3str Franciszkanek Rodziny Maryi Prowincja Niepokalanej-Warszawska","operator:type":"religious","amenity":"school"}},{"id":121643,"type":"Feature","geometry":{"type":"Point","coordinates":[20.7611,52.13576]},"properties":{"isced:level":"1;2","ref:rspo":121643,"official_name":"Niepubliczna Szko\u0142a Podstawowa Specjalna im. Ks. Arcybiskupa Zygmunta Szcz\u0119snego Feli\u0144skiego","name":"Niepubliczna Szko\u0142a Podstawowa Specjalna","addr:country":"PL","addr:postcode":"05-840","addr:city":"Brwin\u00f3w","addr:street":"ul. Szkolna","addr:housenumber":"18","addr:teryt:simc":21970,"addr:teryt:sym_ul":920284,"contact:phone":"+48 227295821","contact:email":"szkola@szkola-brwinow.edu.pl","contact:website":"http:\/\/www.szkola-brwinow.edu.pl","ref:regon":"147073344","operator":"Zgromadzenie Si\u00f3str Franciszkanek Rodziny Maryi Prowincja Niepokalanej-Warszawska","operator:type":"religious","amenity":"school","note":"Parent RSPO: 121603"}},{"id":44643,"type":"Feature","geometry":{"type":"Point","coordinates":[20.74086,52.13715]},"properties":{"ref:rspo":44643,"official_name":"Krajowe Centrum Edukacji Rolniczej w Brwinowie","name":"Krajowe Centrum Edukacji Rolniczej w Brwinowie","addr:country":"PL","addr:postcode":"05-840","addr:city":"Brwin\u00f3w","addr:street":"ul. Pszczeli\u0144ska","addr:housenumber":"99","addr:teryt:simc":18038,"addr:teryt:sym_ul":920284,"contact:phone":"+48 227295905","contact:email":"kcer@kcer.pl","contact:website":"http:\/\/www.kcer.pl","ref:regon":"141132577","ref:vatin":"PL5342369656","operator":"Ministerstwo Rolnictwa I Rozwoju Wsi","operator:type":"public","amenity":"training"}},{"id":106192,"type":"Feature","geometry":{"type":"Point","coordinates":[20.7256399,52.13833]},"properties":{"ref:rspo":106192,"official_name":"Magiczna Kraina","name":"Magiczna Kraina","addr:country":"PL","addr:postcode":"05-840","addr:city":"Brwin\u00f3w","addr:street":"ul. Borkowa","addr:housenumber":"27","addr:teryt:simc":1834,"addr:teryt:sym_ul":920284,"contact:phone":"+48 227297111","contact:website":"http:\/\/www.magiczna-kraina.com","ref:regon":"146471769","operator":"Monika S\u0142ojewska","operator:type":"private","amenity":"kindergarten"}},{"id":123452,"type":"Feature","geometry":{"type":"Point","coordinates":[20.72138,52.13889]},"properties":{"ref:rspo":123452,"official_name":"Niepubliczny Punkt Przedszkolno-Terapeutyczny S\u0142oneczko","name":"Niepubliczny Punkt Przedszkolno-Terapeutyczny S\u0142oneczko","addr:country":"PL","addr:postcode":"05-840","addr:city":"Brwin\u00f3w","addr:street":"ul. Tadeusza Ko\u015bciuszki","addr:housenumber":"8","addr:teryt:simc":9582,"addr:teryt:sym_ul":920284,"contact:phone":"+48 603213333","ref:regon":"147315149","operator":"Katarzyna Ziumecka","operator:type":"private","amenity":"kindergarten"}},{"id":111100,"type":"Feature","geometry":{"type":"Point","coordinates":[20.70623,52.1394499]},"properties":{"ref:rspo":111100,"official_name":"Krasnalkowo Punkt Przedszkolny","name":"Krasnalkowo Punkt Przedszkolny","addr:country":"PL","addr:postcode":"05-840","addr:city":"Brwin\u00f3w","addr:street":"ul. Grudowska","addr:housenumber":"9a","addr:teryt:simc":6233,"addr:teryt:sym_ul":920284,"contact:phone":"+48 505415607","contact:email":"info@krasnalkowo.com.pl","ref:regon":"146468550","operator":"Katarzyna Gildner","operator:type":"private","amenity":"kindergarten"}},{"id":103620,"type":"Feature","geometry":{"type":"Point","coordinates":[20.7122,52.1434799]},"properties":{"ref:rspo":103620,"official_name":"Tuptu\u015b","name":"Tuptu\u015b","addr:country":"PL","addr:postcode":"05-840","addr:city":"Brwin\u00f3w","addr:street":"ul. Dworska","addr:housenumber":"5","addr:teryt:simc":4446,"addr:teryt:sym_ul":920284,"contact:email":"biuro@tuptus.net.pl","contact:website":"http:\/\/www.tuptus.net.pl","ref:regon":"146461819","operator":"Justyna Mazurczak","operator:type":"private","amenity":"kindergarten"}},{"id":29783,"type":"Feature","geometry":{"type":"Point","coordinates":[20.70902,52.14462]},"properties":{"isced:level":"1;2","ref:rspo":29783,"official_name":"Szko\u0142a Podstawowa Nr 1 im. Tadeusza Ko\u015bciuszki w Brwinowie","name":"Szko\u0142a Podstawowa Nr 1","addr:country":"PL","addr:postcode":"05-840","addr:city":"Brwin\u00f3w","addr:street":"ul. marsz. J\u00f3zefa Pi\u0142sudskiego","addr:housenumber":"11","addr:teryt:simc":16274,"addr:teryt:sym_ul":920284,"contact:phone":"+48 227295960","contact:email":"sekretariat@sp1brwinow.pl","contact:website":"http:\/\/www.sp1brwinow.edupage.org","ref:regon":"000263610","operator":"Gmina Brwin\u00f3w","operator:type":"government","amenity":"school"}},{"id":74254,"type":"Feature","geometry":{"type":"Point","coordinates":[20.76592,52.15151]},"properties":{"isced:level":"1;2","ref:rspo":74254,"official_name":"Niepubliczna Szko\u0142a Podstawowa dla Dzieci Z Zaburzeniami Ze Spektrum Autyzmu \"Przyl\u0105dek\"","name":"Niepubliczna Szko\u0142a Podstawowa dla Dzieci Z Zaburzeniami Ze Spektrum Autyzmu \"Przyl\u0105dek\"","addr:country":"PL","addr:postcode":"05-808","addr:city":"Parzniew","addr:street":"ul. Rado\u015bci","addr:housenumber":"2","addr:teryt:simc":18331,"addr:teryt:sym_ul":744,"contact:phone":"+48 227201124","contact:email":"joanna.wodarska@przyladek.org.pl","ref:regon":"146400580","operator":"Lepszy Start Sp\u00f3\u0142ka Z Ograniczon\u0105 Odpowiedzialno\u015bci\u0105 Sp\u00f3\u0142ka Komandytowa","operator:type":"private","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 103617,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.7041269,
+                    52.0951279
+                ]
+            },
+            "properties": {
+                "ref:rspo": 103617,
+                "official_name": "Frani\u00f3wka",
+                "name": "Frani\u00f3wka",
+                "addr:country": "PL",
+                "addr:postcode": "05-807",
+                "addr:city": "Owczarnia",
+                "addr:street": "ul. Ksi\u0105\u017cenicka",
+                "addr:housenumber": "96d",
+                "addr:teryt:simc": 10222,
+                "addr:teryt:sym_ul": 738,
+                "contact:phone": "+48 501672612",
+                "contact:email": "franiowka@gmail.com",
+                "ref:regon": "146460398",
+                "operator": "Anna Biedro\u0144",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 277238,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.7241392,
+                    52.0999606
+                ]
+            },
+            "properties": {
+                "ref:rspo": 277238,
+                "official_name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w \u017b\u00f3\u0142winie",
+                "name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w \u017b\u00f3\u0142winie",
+                "addr:country": "PL",
+                "addr:postcode": "05-807",
+                "addr:city": "\u017b\u00f3\u0142win",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "39",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 773,
+                "contact:phone": "+48 227589397",
+                "contact:email": "sp_zolwin@wp.pl",
+                "ref:regon": "388420299",
+                "operator": "Gmina Brwin\u00f3w",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 103625;277236"
+            }
+        },
+        {
+            "id": 103625,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.7241392,
+                    52.0999306
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 103625,
+                "official_name": "Szko\u0142a Podstawowa im. 11 Listopada w \u017b\u00f3\u0142winie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "05-807",
+                "addr:city": "\u017b\u00f3\u0142win",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "39",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 773,
+                "contact:phone": "+48 227589397",
+                "contact:email": "zs.zolwin@brwinow.pl",
+                "contact:website": "http:\/\/www.zs-zolwin.edupage.org",
+                "ref:regon": "012042443",
+                "operator": "Gmina Brwin\u00f3w",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 277238"
+            }
+        },
+        {
+            "id": 29242,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.73416,
+                    52.10617
+                ]
+            },
+            "properties": {
+                "ref:rspo": 29242,
+                "official_name": "Przedszkole Nr 3 w Brwinowie",
+                "name": "Przedszkole Nr 3 w Brwinowie",
+                "addr:country": "PL",
+                "addr:postcode": "05-840",
+                "addr:city": "Brwin\u00f3w",
+                "addr:street": "ul. S\u0142oneczna",
+                "addr:housenumber": "6",
+                "addr:teryt:simc": 20254,
+                "addr:teryt:sym_ul": 920284,
+                "contact:phone": "+48 227296381",
+                "contact:email": "sloneczne-przedszkole@idsl.pl",
+                "ref:regon": "013000263",
+                "ref:vatin": "PL5341815154",
+                "operator": "Gmina Brwin\u00f3w",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 128653,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.73394,
+                    52.107282
+                ]
+            },
+            "properties": {
+                "ref:rspo": 128653,
+                "official_name": "Niepubliczne Przedszkole \u017b\u00f3\u0142wiki",
+                "name": "Niepubliczne Przedszkole \u017b\u00f3\u0142wiki",
+                "addr:country": "PL",
+                "addr:postcode": "05-807",
+                "addr:city": "\u017b\u00f3\u0142win",
+                "addr:street": "ul. Nadarzy\u0144ska",
+                "addr:housenumber": "63B",
+                "addr:teryt:simc": 13849,
+                "addr:teryt:sym_ul": 773,
+                "contact:phone": "+48 605076639",
+                "contact:email": "jolanta.nagraba@gmail.com",
+                "ref:regon": "362387843",
+                "operator": "Nowoczesne Mazowsze Mazowiecka Fundacja Spo\u0142eczna",
+                "operator:type": "ngo",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 277236,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.72679,
+                    52.1074
+                ]
+            },
+            "properties": {
+                "ref:rspo": 277236,
+                "official_name": "Przedszkole w \u017b\u00f3\u0142winie",
+                "name": "Przedszkole w \u017b\u00f3\u0142winie",
+                "addr:country": "PL",
+                "addr:postcode": "05-807",
+                "addr:city": "\u017b\u00f3\u0142win",
+                "addr:street": "ul. Nadarzy\u0144ska",
+                "addr:housenumber": "42",
+                "addr:teryt:simc": 13849,
+                "addr:teryt:sym_ul": 773,
+                "contact:phone": "+48 227589397",
+                "contact:email": "sp_zolwin@wp.pl",
+                "ref:regon": "388420247",
+                "operator": "Gmina Brwin\u00f3w",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 277238"
+            }
+        },
+        {
+            "id": 277237,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.75955,
+                    52.12203
+                ]
+            },
+            "properties": {
+                "ref:rspo": 277237,
+                "official_name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w Otr\u0119busach",
+                "name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w Otr\u0119busach",
+                "addr:country": "PL",
+                "addr:postcode": "05-805",
+                "addr:city": "Otr\u0119busy",
+                "addr:street": "ul. dr. Mariana Piaseckiego",
+                "addr:housenumber": "2",
+                "addr:teryt:simc": 45298,
+                "addr:teryt:sym_ul": 715,
+                "contact:phone": "+48 227585810",
+                "contact:email": "szkola@otrebusy.edu.pl",
+                "ref:regon": "388420260",
+                "operator": "Gmina Brwin\u00f3w",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 29267;103627"
+            }
+        },
+        {
+            "id": 29267,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.75955,
+                    52.122
+                ]
+            },
+            "properties": {
+                "ref:rspo": 29267,
+                "official_name": "Przedszkole w Otr\u0119busach",
+                "name": "Przedszkole w Otr\u0119busach",
+                "addr:country": "PL",
+                "addr:postcode": "05-805",
+                "addr:city": "Otr\u0119busy",
+                "addr:street": "ul. dr. Mariana Piaseckiego",
+                "addr:housenumber": "2a",
+                "addr:teryt:simc": 45298,
+                "addr:teryt:sym_ul": 715,
+                "contact:phone": "+48 227585556",
+                "contact:email": "przedszkolewotrebusach@gmail.com",
+                "contact:website": "http:\/\/www.przedszkole.otrebusy..pl",
+                "ref:regon": "013000270",
+                "ref:vatin": "PL5341815042",
+                "operator": "Gmina Brwin\u00f3w",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 277237"
+            }
+        },
+        {
+            "id": 103627,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.75955,
+                    52.121970000000005
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 103627,
+                "official_name": "Szko\u0142a Podstawowa im. W\u0142odzimierza Puchalskiego w Otr\u0119busach",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "05-805",
+                "addr:city": "Otr\u0119busy",
+                "addr:street": "ul. dr. Mariana Piaseckiego",
+                "addr:housenumber": "2",
+                "addr:teryt:simc": 45298,
+                "addr:teryt:sym_ul": 715,
+                "contact:phone": "+48 227585810",
+                "contact:email": "szkola@otrebusy.edu.pl",
+                "contact:website": "http:\/\/www.sp.otrebusy.edu.pl",
+                "ref:regon": "011099406",
+                "operator": "Gmina Brwin\u00f3w",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 277237"
+            }
+        },
+        {
+            "id": 105997,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.7699716,
+                    52.1240347
+                ]
+            },
+            "properties": {
+                "ref:rspo": 105997,
+                "official_name": "Przedszkole Niepubliczne Zgromadzenia Si\u00f3str S\u0142u\u017cebniczek N.m.p.",
+                "name": "Przedszkole Niepubliczne Zgromadzenia Si\u00f3str S\u0142u\u017cebniczek N.m.p.",
+                "addr:country": "PL",
+                "addr:postcode": "05-805",
+                "addr:city": "Otr\u0119busy",
+                "addr:street": "ul. Juliusza S\u0142owackiego",
+                "addr:housenumber": "5",
+                "addr:teryt:simc": 20291,
+                "addr:teryt:sym_ul": 715,
+                "contact:phone": "+48 227585550",
+                "contact:email": "ochronka.otrebusy@neostrada.pl",
+                "ref:regon": "146463729",
+                "operator": "Zgromadzenie Si\u00f3str S\u0142u\u017cebniczek Naj\u015bwi\u0119tszej Maryi Panny Niepokalanie Pocz\u0119tej-\u015al\u0105skie",
+                "operator:type": "religious",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 268983,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.805843353271,
+                    52.124370574951
+                ]
+            },
+            "properties": {
+                "ref:rspo": 268983,
+                "official_name": "Dwuj\u0119zyczny Punkt Przedszkolny \"Sonlight\"",
+                "name": "Dwuj\u0119zyczny Punkt Przedszkolny \"Sonlight\"",
+                "addr:country": "PL",
+                "addr:postcode": "05-807",
+                "addr:city": "\u017b\u00f3\u0142win",
+                "addr:street": "ul. Jana Paw\u0142a II",
+                "addr:housenumber": "39",
+                "addr:teryt:simc": 7123,
+                "addr:teryt:sym_ul": 773,
+                "contact:phone": "+48 227589214",
+                "contact:email": "jpkompas@gmail.com",
+                "ref:regon": "381324492",
+                "operator": "Wy\u017csza Szko\u0142a Teologiczno-Humanistyczna Im.micha\u0142a Beliny-Czechowskiego",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 103622,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.7114,
+                    52.13211
+                ]
+            },
+            "properties": {
+                "ref:rspo": 103622,
+                "official_name": "Mi\u0119dzynarodowe Przedszkole Montessori w Brwinowie",
+                "name": "Mi\u0119dzynarodowe Przedszkole Montessori w Brwinowie",
+                "addr:country": "PL",
+                "addr:postcode": "05-840",
+                "addr:city": "Brwin\u00f3w",
+                "addr:street": "ul. \u017bwirowa",
+                "addr:housenumber": "17",
+                "addr:teryt:simc": 26611,
+                "addr:teryt:sym_ul": 920284,
+                "contact:phone": "+48 227296001",
+                "contact:email": "chatkapuchatka17@onet.eu",
+                "ref:regon": "146464539",
+                "operator": "Katarzyna Zwierzchowska",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 103621,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.73586,
+                    52.13256
+                ]
+            },
+            "properties": {
+                "ref:rspo": 103621,
+                "official_name": "Kids Montessori Magdalena Witkowska",
+                "name": "Kids Montessori Magdalena Witkowska",
+                "addr:country": "PL",
+                "addr:postcode": "05-840",
+                "addr:city": "Brwin\u00f3w",
+                "addr:street": "ul. Magnolii",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 11907,
+                "addr:teryt:sym_ul": 920284,
+                "contact:phone": "+48 604974474",
+                "contact:email": "kontakt@kids-montessori.pl",
+                "contact:website": "http:\/\/www.kids-montessori.pl",
+                "ref:regon": "146461682",
+                "operator": "Magdalena Witkowska",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 25967,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.7116599,
+                    52.1327
+                ]
+            },
+            "properties": {
+                "ref:rspo": 25967,
+                "official_name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Og\u00f3lnokszta\u0142c\u0105cych w Brwinowie",
+                "name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Og\u00f3lnokszta\u0142c\u0105cych w Brwinowie",
+                "addr:country": "PL",
+                "addr:postcode": "05-840",
+                "addr:city": "Brwin\u00f3w",
+                "addr:street": "ul. \u017bwirowa",
+                "addr:housenumber": "16",
+                "addr:teryt:simc": 26611,
+                "addr:teryt:sym_ul": 920284,
+                "contact:phone": "+48 227295771",
+                "contact:email": "szkola@zsobrwinow.pl",
+                "contact:website": "http:\/\/www.zsobrwinow.pl",
+                "ref:regon": "015240066",
+                "ref:vatin": "PL5342204375",
+                "operator": "Gmina Brwin\u00f3w",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 30050;104543"
+            }
+        },
+        {
+            "id": 30050,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.7116599,
+                    52.13267
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 30050,
+                "official_name": "Liceum Og\u00f3lnokszta\u0142c\u0105ce im. Jaros\u0142awa Iwaszkiewicza w Zespole Szk\u00f3\u0142 Og\u00f3lnokszta\u0142c\u0105cych w Brwinowie",
+                "name": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+                "addr:country": "PL",
+                "addr:postcode": "05-840",
+                "addr:city": "Brwin\u00f3w",
+                "addr:street": "ul. \u017bwirowa",
+                "addr:housenumber": "16",
+                "addr:teryt:simc": 26611,
+                "addr:teryt:sym_ul": 920284,
+                "contact:phone": "+48 227296347",
+                "contact:email": "iwaszkiewiczlo@wp.pl",
+                "contact:website": "http:\/\/www.loiwaszkiewicz.pl",
+                "ref:regon": "000799405",
+                "operator": "Gmina Brwin\u00f3w",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 25967"
+            }
+        },
+        {
+            "id": 104543,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.7116599,
+                    52.13264
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 104543,
+                "official_name": "Szko\u0142a Podstawowa Nr 2 im. Jaros\u0142awa Iwaszkiewicza w Zespole Szk\u00f3\u0142 Og\u00f3lnokszta\u0142c\u0105cych w Brwinowie",
+                "name": "Szko\u0142a Podstawowa Nr 2",
+                "addr:country": "PL",
+                "addr:postcode": "05-840",
+                "addr:city": "Brwin\u00f3w",
+                "addr:street": "ul. \u017bwirowa",
+                "addr:housenumber": "16",
+                "addr:teryt:simc": 26611,
+                "addr:teryt:sym_ul": 920284,
+                "contact:phone": "+48 227295771",
+                "contact:email": "szkola@zsobrwinow.pl",
+                "contact:website": "http:\/\/www.zsobrwinow.pl",
+                "ref:regon": "001213838",
+                "operator": "Gmina Brwin\u00f3w",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 25967"
+            }
+        },
+        {
+            "id": 29224,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.7207,
+                    52.13341
+                ]
+            },
+            "properties": {
+                "ref:rspo": 29224,
+                "official_name": "Przedszkole Nr 1 w Brwinowie",
+                "name": "Przedszkole Nr 1 w Brwinowie",
+                "addr:country": "PL",
+                "addr:postcode": "05-840",
+                "addr:city": "Brwin\u00f3w",
+                "addr:street": "ul. Stanis\u0142awa Lilpopa",
+                "addr:housenumber": "4",
+                "addr:teryt:simc": 45291,
+                "addr:teryt:sym_ul": 920284,
+                "contact:phone": "+48 227295947",
+                "contact:email": "lesneprzedszkole@wp.pl",
+                "ref:regon": "013000257",
+                "ref:vatin": "PL5341815160",
+                "operator": "Gmina Brwin\u00f3w",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 272418,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.77246,
+                    52.13488
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 272418,
+                "official_name": "Niepubliczna Szko\u0142a Podstawowa Pitagoras Nr 2",
+                "name": "Niepubliczna Szko\u0142a Podstawowa Pitagoras Nr 2",
+                "addr:country": "PL",
+                "addr:postcode": "05-840",
+                "addr:city": "Kanie",
+                "addr:street": "ul. Marsza\u0142ka J\u00f3zefa Pi\u0142sudskiego",
+                "addr:housenumber": "28",
+                "addr:teryt:simc": 36029,
+                "addr:teryt:sym_ul": 572,
+                "contact:email": "leszek.ossowski@szkolapitagoras.pl",
+                "contact:website": "http:\/\/nsppitagoras.pl",
+                "ref:regon": "384177985",
+                "operator": "Nsp Pitagoras Sp\u00f3\u0142ka Z Ograniczon\u0105 Odpowiedzialno\u015bci\u0105",
+                "operator:type": "private",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 115368,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.7724461,
+                    52.1349258
+                ]
+            },
+            "properties": {
+                "ref:rspo": 115368,
+                "official_name": "Niepubliczne Przedszkole Kozio\u0142ki",
+                "name": "Niepubliczne Przedszkole Kozio\u0142ki",
+                "addr:country": "PL",
+                "addr:postcode": "05-805",
+                "addr:city": "Kanie",
+                "addr:street": "ul. J\u00f3zefa Pi\u0142sudskiego",
+                "addr:housenumber": "28",
+                "addr:teryt:simc": 16264,
+                "addr:teryt:sym_ul": 572,
+                "contact:phone": "+48 515275420",
+                "contact:email": "kbrzeska@przedszkolekoziolki.pl",
+                "ref:regon": "146756319",
+                "operator": "Katarzyna Brzeska",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 132356,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.73195,
+                    52.13565
+                ]
+            },
+            "properties": {
+                "ref:rspo": 132356,
+                "official_name": "S\u0142oneczko Na Le\u015bnej Polanie",
+                "name": "S\u0142oneczko Na Le\u015bnej Polanie",
+                "addr:country": "PL",
+                "addr:postcode": "05-840",
+                "addr:city": "Brwin\u00f3w",
+                "addr:street": "ul. Le\u015bnej Polany",
+                "addr:housenumber": "7",
+                "addr:teryt:simc": 35989,
+                "addr:teryt:sym_ul": 920284,
+                "contact:phone": "+48 603213333",
+                "contact:email": "katarzynaziumecka@onet.pl",
+                "ref:regon": "365563750",
+                "operator": "Katarzyna Ziumecka",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 103624,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.7611,
+                    52.13585
+                ]
+            },
+            "properties": {
+                "ref:rspo": 103624,
+                "official_name": "Niepubliczne Przedszkole Integracyjne Si\u00f3str Rodziny Maryi",
+                "name": "Niepubliczne Przedszkole Integracyjne Si\u00f3str Rodziny Maryi",
+                "addr:country": "PL",
+                "addr:postcode": "05-840",
+                "addr:city": "Brwin\u00f3w",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "18",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 920284,
+                "contact:phone": "+48 227295821",
+                "contact:email": "szkola@szkola-brwinow.pl",
+                "contact:website": "http:\/\/www.szkola-brwinow.edu.pl",
+                "ref:regon": "146451488",
+                "operator": "Zgromadzenie Si\u00f3str Franciszkanek Rodziny Maryi Prowincja Niepokalanej-Warszawska",
+                "operator:type": "religious",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 121603,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.7611,
+                    52.135819999999995
+                ]
+            },
+            "properties": {
+                "ref:rspo": 121603,
+                "official_name": "Specjalny Niepubliczny O\u015brodek Szkolno-Wychowawczy",
+                "name": "Specjalny Niepubliczny O\u015brodek Szkolno-Wychowawczy",
+                "addr:country": "PL",
+                "addr:postcode": "05-840",
+                "addr:city": "Brwin\u00f3w",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "18",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 920284,
+                "contact:phone": "+48 227295821",
+                "contact:email": "szkola@szkola-brwinow.edu.pl",
+                "contact:website": "http:\/\/www.szkola-brwinow.edu.pl",
+                "ref:regon": "147067540",
+                "operator": "Zgromadzenie Si\u00f3str Franciszkanek Rodziny Maryi Prowincja Niepokalanej-Warszawska",
+                "operator:type": "religious",
+                "amenity": "school",
+                "note": "Children RSPO: 121643"
+            }
+        },
+        {
+            "id": 123856,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.7611,
+                    52.13579
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 123856,
+                "official_name": "Niepubliczna Szko\u0142a Podstawowa Familia",
+                "name": "Niepubliczna Szko\u0142a Podstawowa Familia",
+                "addr:country": "PL",
+                "addr:postcode": "05-840",
+                "addr:city": "Brwin\u00f3w",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "18",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 920284,
+                "contact:phone": "+48 227295821",
+                "contact:email": "szkola@szkola-brwinow.edu.pl",
+                "ref:regon": "147383205",
+                "operator": "Zgromadzenie Si\u00f3str Franciszkanek Rodziny Maryi Prowincja Niepokalanej-Warszawska",
+                "operator:type": "religious",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 121643,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.7611,
+                    52.13576
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 121643,
+                "official_name": "Niepubliczna Szko\u0142a Podstawowa Specjalna im. Ks. Arcybiskupa Zygmunta Szcz\u0119snego Feli\u0144skiego",
+                "name": "Niepubliczna Szko\u0142a Podstawowa Specjalna",
+                "addr:country": "PL",
+                "addr:postcode": "05-840",
+                "addr:city": "Brwin\u00f3w",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "18",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 920284,
+                "contact:phone": "+48 227295821",
+                "contact:email": "szkola@szkola-brwinow.edu.pl",
+                "contact:website": "http:\/\/www.szkola-brwinow.edu.pl",
+                "ref:regon": "147073344",
+                "operator": "Zgromadzenie Si\u00f3str Franciszkanek Rodziny Maryi Prowincja Niepokalanej-Warszawska",
+                "operator:type": "religious",
+                "amenity": "school",
+                "note": "Parent RSPO: 121603"
+            }
+        },
+        {
+            "id": 44643,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.74086,
+                    52.13715
+                ]
+            },
+            "properties": {
+                "ref:rspo": 44643,
+                "official_name": "Krajowe Centrum Edukacji Rolniczej w Brwinowie",
+                "name": "Krajowe Centrum Edukacji Rolniczej w Brwinowie",
+                "addr:country": "PL",
+                "addr:postcode": "05-840",
+                "addr:city": "Brwin\u00f3w",
+                "addr:street": "ul. Pszczeli\u0144ska",
+                "addr:housenumber": "99",
+                "addr:teryt:simc": 18038,
+                "addr:teryt:sym_ul": 920284,
+                "contact:phone": "+48 227295905",
+                "contact:email": "kcer@kcer.pl",
+                "contact:website": "http:\/\/www.kcer.pl",
+                "ref:regon": "141132577",
+                "ref:vatin": "PL5342369656",
+                "operator": "Ministerstwo Rolnictwa I Rozwoju Wsi",
+                "operator:type": "public",
+                "amenity": "training"
+            }
+        },
+        {
+            "id": 106192,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.7256399,
+                    52.13833
+                ]
+            },
+            "properties": {
+                "ref:rspo": 106192,
+                "official_name": "Magiczna Kraina",
+                "name": "Magiczna Kraina",
+                "addr:country": "PL",
+                "addr:postcode": "05-840",
+                "addr:city": "Brwin\u00f3w",
+                "addr:street": "ul. Borkowa",
+                "addr:housenumber": "27",
+                "addr:teryt:simc": 1834,
+                "addr:teryt:sym_ul": 920284,
+                "contact:phone": "+48 227297111",
+                "contact:website": "http:\/\/www.magiczna-kraina.com",
+                "ref:regon": "146471769",
+                "operator": "Monika S\u0142ojewska",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 123452,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.72138,
+                    52.13889
+                ]
+            },
+            "properties": {
+                "ref:rspo": 123452,
+                "official_name": "Niepubliczny Punkt Przedszkolno-Terapeutyczny S\u0142oneczko",
+                "name": "Niepubliczny Punkt Przedszkolno-Terapeutyczny S\u0142oneczko",
+                "addr:country": "PL",
+                "addr:postcode": "05-840",
+                "addr:city": "Brwin\u00f3w",
+                "addr:street": "ul. Tadeusza Ko\u015bciuszki",
+                "addr:housenumber": "8",
+                "addr:teryt:simc": 9582,
+                "addr:teryt:sym_ul": 920284,
+                "contact:phone": "+48 603213333",
+                "ref:regon": "147315149",
+                "operator": "Katarzyna Ziumecka",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 111100,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.70623,
+                    52.1394499
+                ]
+            },
+            "properties": {
+                "ref:rspo": 111100,
+                "official_name": "Krasnalkowo Punkt Przedszkolny",
+                "name": "Krasnalkowo Punkt Przedszkolny",
+                "addr:country": "PL",
+                "addr:postcode": "05-840",
+                "addr:city": "Brwin\u00f3w",
+                "addr:street": "ul. Grudowska",
+                "addr:housenumber": "9a",
+                "addr:teryt:simc": 6233,
+                "addr:teryt:sym_ul": 920284,
+                "contact:phone": "+48 505415607",
+                "contact:email": "info@krasnalkowo.com.pl",
+                "ref:regon": "146468550",
+                "operator": "Katarzyna Gildner",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 103620,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.7122,
+                    52.1434799
+                ]
+            },
+            "properties": {
+                "ref:rspo": 103620,
+                "official_name": "Tuptu\u015b",
+                "name": "Tuptu\u015b",
+                "addr:country": "PL",
+                "addr:postcode": "05-840",
+                "addr:city": "Brwin\u00f3w",
+                "addr:street": "ul. Dworska",
+                "addr:housenumber": "5",
+                "addr:teryt:simc": 4446,
+                "addr:teryt:sym_ul": 920284,
+                "contact:email": "biuro@tuptus.net.pl",
+                "contact:website": "http:\/\/www.tuptus.net.pl",
+                "ref:regon": "146461819",
+                "operator": "Justyna Mazurczak",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 29783,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.70902,
+                    52.14462
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 29783,
+                "official_name": "Szko\u0142a Podstawowa Nr 1 im. Tadeusza Ko\u015bciuszki w Brwinowie",
+                "name": "Szko\u0142a Podstawowa Nr 1",
+                "addr:country": "PL",
+                "addr:postcode": "05-840",
+                "addr:city": "Brwin\u00f3w",
+                "addr:street": "ul. marsz. J\u00f3zefa Pi\u0142sudskiego",
+                "addr:housenumber": "11",
+                "addr:teryt:simc": 16274,
+                "addr:teryt:sym_ul": 920284,
+                "contact:phone": "+48 227295960",
+                "contact:email": "sekretariat@sp1brwinow.pl",
+                "contact:website": "http:\/\/www.sp1brwinow.edupage.org",
+                "ref:regon": "000263610",
+                "operator": "Gmina Brwin\u00f3w",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 74254,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.76592,
+                    52.15151
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 74254,
+                "official_name": "Niepubliczna Szko\u0142a Podstawowa dla Dzieci Z Zaburzeniami Ze Spektrum Autyzmu \"Przyl\u0105dek\"",
+                "name": "Niepubliczna Szko\u0142a Podstawowa dla Dzieci Z Zaburzeniami Ze Spektrum Autyzmu \"Przyl\u0105dek\"",
+                "addr:country": "PL",
+                "addr:postcode": "05-808",
+                "addr:city": "Parzniew",
+                "addr:street": "ul. Rado\u015bci",
+                "addr:housenumber": "2",
+                "addr:teryt:simc": 18331,
+                "addr:teryt:sym_ul": 744,
+                "contact:phone": "+48 227201124",
+                "contact:email": "joanna.wodarska@przyladek.org.pl",
+                "ref:regon": "146400580",
+                "operator": "Lepszy Start Sp\u00f3\u0142ka Z Ograniczon\u0105 Odpowiedzialno\u015bci\u0105 Sp\u00f3\u0142ka Komandytowa",
+                "operator:type": "private",
+                "amenity": "school"
+            }
+        }
+    ]
+}

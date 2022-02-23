@@ -1,1 +1,65 @@
-{"type":"FeatureCollection","features":[{"id":71792,"type":"Feature","geometry":{"type":"Point","coordinates":[20.32284,51.66795]},"properties":{"isced:level":"1;2","ref:rspo":71792,"official_name":"Szko\u0142a Podstawowa im. Jana Paw\u0142a II w Sierzchowach","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"96-214","addr:place":"Sierzchowy","addr:housenumber":"59","addr:teryt:sym_ul":726576,"contact:phone":"+48 468152488","contact:email":"sekretariat@spsierzchowy.pl","contact:website":"http:\/\/spsierzchowy.szkolnastrona.pl\/","ref:regon":"001111954","ref:vatin":"PL8351579633","operator":"Gmina Ciel\u0105dz","operator:type":"government","amenity":"school"}},{"id":71791,"type":"Feature","geometry":{"type":"Point","coordinates":[20.34482,51.71732]},"properties":{"isced:level":"1;2","ref:rspo":71791,"official_name":"Szko\u0142a Podstawowa Im O. Pp\u0142k. Franciszka Mientkiego w Ciel\u0105dzu","name":"Szko\u0142a Podstawowa Im O. Pp\u0142k. Franciszka Mientkiego w Ciel\u0105dzu","addr:country":"PL","addr:postcode":"96-214","addr:place":"Ciel\u0105dz","addr:housenumber":"38","addr:teryt:sym_ul":726286,"contact:phone":"+48 468152416","contact:email":"zscieladz@gmail.com","contact:website":"http:\/\/www.zscieladz.pl","ref:regon":"000639340","ref:vatin":"PL8351605684","operator":"Gmina Ciel\u0105dz","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 71792,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.32284,
+                    51.66795
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 71792,
+                "official_name": "Szko\u0142a Podstawowa im. Jana Paw\u0142a II w Sierzchowach",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "96-214",
+                "addr:place": "Sierzchowy",
+                "addr:housenumber": "59",
+                "addr:teryt:sym_ul": 726576,
+                "contact:phone": "+48 468152488",
+                "contact:email": "sekretariat@spsierzchowy.pl",
+                "contact:website": "http:\/\/spsierzchowy.szkolnastrona.pl\/",
+                "ref:regon": "001111954",
+                "ref:vatin": "PL8351579633",
+                "operator": "Gmina Ciel\u0105dz",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 71791,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.34482,
+                    51.71732
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 71791,
+                "official_name": "Szko\u0142a Podstawowa Im O. Pp\u0142k. Franciszka Mientkiego w Ciel\u0105dzu",
+                "name": "Szko\u0142a Podstawowa Im O. Pp\u0142k. Franciszka Mientkiego w Ciel\u0105dzu",
+                "addr:country": "PL",
+                "addr:postcode": "96-214",
+                "addr:place": "Ciel\u0105dz",
+                "addr:housenumber": "38",
+                "addr:teryt:sym_ul": 726286,
+                "contact:phone": "+48 468152416",
+                "contact:email": "zscieladz@gmail.com",
+                "contact:website": "http:\/\/www.zscieladz.pl",
+                "ref:regon": "000639340",
+                "ref:vatin": "PL8351605684",
+                "operator": "Gmina Ciel\u0105dz",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

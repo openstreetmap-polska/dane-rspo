@@ -1,1 +1,159 @@
-{"type":"FeatureCollection","features":[{"id":90293,"type":"Feature","geometry":{"type":"Point","coordinates":[23.31399,54.20508]},"properties":{"isced:level":"1;2","ref:rspo":90293,"official_name":"Szko\u0142a Podstawowa Z Litewskim J\u0119zykiem Nauczania w Widugierach","name":"Szko\u0142a Podstawowa Z Litewskim J\u0119zykiem Nauczania w Widugierach","addr:country":"PL","addr:postcode":"16-515","addr:place":"Widugiery","addr:housenumber":"19A","addr:teryt:sym_ul":766370,"contact:phone":"+48 875171006","contact:email":"spwidugiery@interia.pl","contact:website":"http:\/\/spwidugiery.pl","ref:regon":"001417096","ref:vatin":"PL8441175773","operator":"Gmina Pu\u0144sk","operator:type":"government","amenity":"school"}},{"id":61633,"type":"Feature","geometry":{"type":"Point","coordinates":[23.1796599,54.24848]},"properties":{"isced:level":"1;2","ref:rspo":61633,"official_name":"Szko\u0142a Podstawowa Z Polskim I Litewskim J\u0119zykiem Nauczania im.dariusa I Girenasa w Pu\u0144sku","name":"Szko\u0142a Podstawowa Z Polskim I Litewskim J\u0119zykiem Nauczania im.dariusa I Girenasa w Pu\u0144sku","addr:country":"PL","addr:postcode":"16-515","addr:city":"Pu\u0144sk","addr:street":"ul. 11 Marca","addr:housenumber":"16","addr:teryt:simc":12249,"addr:teryt:sym_ul":766251,"contact:phone":"+48 875161013","contact:email":"sppunsk@o2.pl","contact:website":"http:\/\/www.sppunsk.pl","ref:regon":"000230935","ref:vatin":"PL8441913722","operator":"Gmina Pu\u0144sk","operator:type":"government","amenity":"school"}},{"id":268058,"type":"Feature","geometry":{"type":"Point","coordinates":[23.1796599,54.24845]},"properties":{"ref:rspo":268058,"official_name":"Samorz\u0105dowa Szko\u0142a Muzyczna I Stopnia Z Polskim I Litewskim J\u0119zykiem Nauczania w Pu\u0144sku","name":"Samorz\u0105dowa Szko\u0142a Muzyczna I Stopnia Z Polskim I Litewskim J\u0119zykiem Nauczania w Pu\u0144sku","addr:country":"PL","addr:postcode":"16-515","addr:city":"Pu\u0144sk","addr:street":"ul. 11 Marca","addr:housenumber":"16","addr:teryt:simc":12249,"addr:teryt:sym_ul":766251,"contact:phone":"+48 875161013","contact:email":"ssmpunsk@gmail.com","ref:regon":"380905057","ref:vatin":"PL8442363206","operator":"Gmina Pu\u0144sk","operator:type":"government","amenity":"music_school"}},{"id":13779,"type":"Feature","geometry":{"type":"Point","coordinates":[23.18011,54.24926]},"properties":{"isced:level":"3","ref:rspo":13779,"official_name":"Liceum Og\u00f3lnokszta\u0142c\u0105ce Z Litewskim J\u0119zykiem Nauczania im. 11 Marca w Pu\u0144sku","name":"Liceum Og\u00f3lnokszta\u0142c\u0105ce Z Litewskim J\u0119zykiem Nauczania","addr:country":"PL","addr:postcode":"16-515","addr:city":"Pu\u0144sk","addr:street":"ul. 11 Marca","addr:housenumber":"16A","addr:teryt:simc":12249,"addr:teryt:sym_ul":766251,"contact:phone":"+48 875655736","contact:email":"licpunsk@gmail.com","contact:website":"http:\/\/licejus.eu","ref:regon":"791057272","operator":"Powiat Sejne\u0144ski","operator:type":"government","amenity":"school"}},{"id":90292,"type":"Feature","geometry":{"type":"Point","coordinates":[23.18166,54.25024]},"properties":{"ref:rspo":90292,"official_name":"Przedszkole Samorz\u0105dowe Z Polskim I Litewskim J\u0119zykiem Nauczania w Pu\u0144sku","name":"Przedszkole Samorz\u0105dowe Z Polskim I Litewskim J\u0119zykiem Nauczania w Pu\u0144sku","addr:country":"PL","addr:postcode":"16-515","addr:city":"Pu\u0144sk","addr:street":"ul. Szkolna","addr:housenumber":"8","addr:teryt:simc":21970,"addr:teryt:sym_ul":766251,"contact:phone":"+48 875161065","contact:email":"vaikudarzelis@wp.pl","contact:website":"http:\/\/www.przedszkole-punsk.com","ref:regon":"001010940","ref:vatin":"PL8441175483","operator":"Gmina Pu\u0144sk","operator:type":"government","amenity":"kindergarten"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 90293,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.31399,
+                    54.20508
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 90293,
+                "official_name": "Szko\u0142a Podstawowa Z Litewskim J\u0119zykiem Nauczania w Widugierach",
+                "name": "Szko\u0142a Podstawowa Z Litewskim J\u0119zykiem Nauczania w Widugierach",
+                "addr:country": "PL",
+                "addr:postcode": "16-515",
+                "addr:place": "Widugiery",
+                "addr:housenumber": "19A",
+                "addr:teryt:sym_ul": 766370,
+                "contact:phone": "+48 875171006",
+                "contact:email": "spwidugiery@interia.pl",
+                "contact:website": "http:\/\/spwidugiery.pl",
+                "ref:regon": "001417096",
+                "ref:vatin": "PL8441175773",
+                "operator": "Gmina Pu\u0144sk",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 61633,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.1796599,
+                    54.24848
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 61633,
+                "official_name": "Szko\u0142a Podstawowa Z Polskim I Litewskim J\u0119zykiem Nauczania im.dariusa I Girenasa w Pu\u0144sku",
+                "name": "Szko\u0142a Podstawowa Z Polskim I Litewskim J\u0119zykiem Nauczania im.dariusa I Girenasa w Pu\u0144sku",
+                "addr:country": "PL",
+                "addr:postcode": "16-515",
+                "addr:city": "Pu\u0144sk",
+                "addr:street": "ul. 11 Marca",
+                "addr:housenumber": "16",
+                "addr:teryt:simc": 12249,
+                "addr:teryt:sym_ul": 766251,
+                "contact:phone": "+48 875161013",
+                "contact:email": "sppunsk@o2.pl",
+                "contact:website": "http:\/\/www.sppunsk.pl",
+                "ref:regon": "000230935",
+                "ref:vatin": "PL8441913722",
+                "operator": "Gmina Pu\u0144sk",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 268058,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.1796599,
+                    54.24845
+                ]
+            },
+            "properties": {
+                "ref:rspo": 268058,
+                "official_name": "Samorz\u0105dowa Szko\u0142a Muzyczna I Stopnia Z Polskim I Litewskim J\u0119zykiem Nauczania w Pu\u0144sku",
+                "name": "Samorz\u0105dowa Szko\u0142a Muzyczna I Stopnia Z Polskim I Litewskim J\u0119zykiem Nauczania w Pu\u0144sku",
+                "addr:country": "PL",
+                "addr:postcode": "16-515",
+                "addr:city": "Pu\u0144sk",
+                "addr:street": "ul. 11 Marca",
+                "addr:housenumber": "16",
+                "addr:teryt:simc": 12249,
+                "addr:teryt:sym_ul": 766251,
+                "contact:phone": "+48 875161013",
+                "contact:email": "ssmpunsk@gmail.com",
+                "ref:regon": "380905057",
+                "ref:vatin": "PL8442363206",
+                "operator": "Gmina Pu\u0144sk",
+                "operator:type": "government",
+                "amenity": "music_school"
+            }
+        },
+        {
+            "id": 13779,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.18011,
+                    54.24926
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 13779,
+                "official_name": "Liceum Og\u00f3lnokszta\u0142c\u0105ce Z Litewskim J\u0119zykiem Nauczania im. 11 Marca w Pu\u0144sku",
+                "name": "Liceum Og\u00f3lnokszta\u0142c\u0105ce Z Litewskim J\u0119zykiem Nauczania",
+                "addr:country": "PL",
+                "addr:postcode": "16-515",
+                "addr:city": "Pu\u0144sk",
+                "addr:street": "ul. 11 Marca",
+                "addr:housenumber": "16A",
+                "addr:teryt:simc": 12249,
+                "addr:teryt:sym_ul": 766251,
+                "contact:phone": "+48 875655736",
+                "contact:email": "licpunsk@gmail.com",
+                "contact:website": "http:\/\/licejus.eu",
+                "ref:regon": "791057272",
+                "operator": "Powiat Sejne\u0144ski",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 90292,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.18166,
+                    54.25024
+                ]
+            },
+            "properties": {
+                "ref:rspo": 90292,
+                "official_name": "Przedszkole Samorz\u0105dowe Z Polskim I Litewskim J\u0119zykiem Nauczania w Pu\u0144sku",
+                "name": "Przedszkole Samorz\u0105dowe Z Polskim I Litewskim J\u0119zykiem Nauczania w Pu\u0144sku",
+                "addr:country": "PL",
+                "addr:postcode": "16-515",
+                "addr:city": "Pu\u0144sk",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "8",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 766251,
+                "contact:phone": "+48 875161065",
+                "contact:email": "vaikudarzelis@wp.pl",
+                "contact:website": "http:\/\/www.przedszkole-punsk.com",
+                "ref:regon": "001010940",
+                "ref:vatin": "PL8441175483",
+                "operator": "Gmina Pu\u0144sk",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        }
+    ]
+}

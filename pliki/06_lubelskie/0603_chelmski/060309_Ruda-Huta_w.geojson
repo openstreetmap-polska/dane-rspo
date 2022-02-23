@@ -1,1 +1,92 @@
-{"type":"FeatureCollection","features":[{"id":107701,"type":"Feature","geometry":{"type":"Point","coordinates":[23.5947,51.23768]},"properties":{"isced:level":"1;2","ref:rspo":107701,"official_name":"Szko\u0142a Podstawowa \nW Rudzie-Hucie im. Por. Zbigniewa Twardego Ps. \"Trzask\"","name":"Szko\u0142a Podstawowa \nW Rudzie-Hucie","addr:country":"PL","addr:postcode":"22-110","addr:city":"Ruda-Huta","addr:street":"ul. Stanis\u0142awa W\u00f3jtowicza","addr:housenumber":"9","addr:teryt:simc":24792,"addr:teryt:sym_ul":106388,"contact:phone":"+48 825686036","contact:email":"sp@ruda-huta.pl","contact:website":"http:\/\/www.sp.ruda-huta.pl","ref:regon":"000561678","ref:vatin":"PL5632292442","operator":"Gmina Ruda-Huta","operator:type":"government","amenity":"school"}},{"id":265705,"type":"Feature","geometry":{"type":"Point","coordinates":[23.5947,51.237649999999995]},"properties":{"ref:rspo":265705,"official_name":"Przedszkole Pod Zielon\u0105 Koniczynk\u0105","name":"Przedszkole Pod Zielon\u0105 Koniczynk\u0105","addr:country":"PL","addr:postcode":"22-110","addr:city":"Ruda-Huta","addr:street":"ul. Stanis\u0142awa W\u00f3jtowicza","addr:housenumber":"9","addr:teryt:simc":24792,"addr:teryt:sym_ul":106388,"contact:email":"sto.pzk@o2.pl","ref:regon":"368857793","operator":"Stowarzyszenie \"Pod Zielon\u0105 Koniczynk\u0105\"","operator:type":"ngo","amenity":"kindergarten"}},{"id":109617,"type":"Feature","geometry":{"type":"Point","coordinates":[23.5829129,51.257796]},"properties":{"isced:level":"1;2","ref:rspo":109617,"official_name":"Filia w Rudzie \nSzko\u0142y Podstawowej \nW Rudzie-Hucie im. Por Zbigniewa Twardego Ps \"Trzask\"","name":"Filia w Rudzie \nSzko\u0142y Podstawowej \nW Rudzie-Hucie","addr:country":"PL","addr:postcode":"22-110","addr:place":"Ruda","addr:housenumber":"75","addr:teryt:sym_ul":106342,"contact:phone":"+48 825686054","ref:regon":"561678000","operator":"Gmina Ruda-Huta","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 107701,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.5947,
+                    51.23768
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 107701,
+                "official_name": "Szko\u0142a Podstawowa \nW Rudzie-Hucie im. Por. Zbigniewa Twardego Ps. \"Trzask\"",
+                "name": "Szko\u0142a Podstawowa \nW Rudzie-Hucie",
+                "addr:country": "PL",
+                "addr:postcode": "22-110",
+                "addr:city": "Ruda-Huta",
+                "addr:street": "ul. Stanis\u0142awa W\u00f3jtowicza",
+                "addr:housenumber": "9",
+                "addr:teryt:simc": 24792,
+                "addr:teryt:sym_ul": 106388,
+                "contact:phone": "+48 825686036",
+                "contact:email": "sp@ruda-huta.pl",
+                "contact:website": "http:\/\/www.sp.ruda-huta.pl",
+                "ref:regon": "000561678",
+                "ref:vatin": "PL5632292442",
+                "operator": "Gmina Ruda-Huta",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 265705,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.5947,
+                    51.237649999999995
+                ]
+            },
+            "properties": {
+                "ref:rspo": 265705,
+                "official_name": "Przedszkole Pod Zielon\u0105 Koniczynk\u0105",
+                "name": "Przedszkole Pod Zielon\u0105 Koniczynk\u0105",
+                "addr:country": "PL",
+                "addr:postcode": "22-110",
+                "addr:city": "Ruda-Huta",
+                "addr:street": "ul. Stanis\u0142awa W\u00f3jtowicza",
+                "addr:housenumber": "9",
+                "addr:teryt:simc": 24792,
+                "addr:teryt:sym_ul": 106388,
+                "contact:email": "sto.pzk@o2.pl",
+                "ref:regon": "368857793",
+                "operator": "Stowarzyszenie \"Pod Zielon\u0105 Koniczynk\u0105\"",
+                "operator:type": "ngo",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 109617,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.5829129,
+                    51.257796
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 109617,
+                "official_name": "Filia w Rudzie \nSzko\u0142y Podstawowej \nW Rudzie-Hucie im. Por Zbigniewa Twardego Ps \"Trzask\"",
+                "name": "Filia w Rudzie \nSzko\u0142y Podstawowej \nW Rudzie-Hucie",
+                "addr:country": "PL",
+                "addr:postcode": "22-110",
+                "addr:place": "Ruda",
+                "addr:housenumber": "75",
+                "addr:teryt:sym_ul": 106342,
+                "contact:phone": "+48 825686054",
+                "ref:regon": "561678000",
+                "operator": "Gmina Ruda-Huta",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

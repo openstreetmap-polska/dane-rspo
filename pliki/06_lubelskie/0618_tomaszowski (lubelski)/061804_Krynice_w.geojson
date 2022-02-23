@@ -1,1 +1,180 @@
-{"type":"FeatureCollection","features":[{"id":268348,"type":"Feature","geometry":{"type":"Point","coordinates":[23.50268,50.56443]},"properties":{"isced:level":"1;2","ref:rspo":268348,"official_name":"Niepubliczna Szko\u0142a Podstawowa w Zwiartowie","name":"Niepubliczna Szko\u0142a Podstawowa w Zwiartowie","addr:country":"PL","addr:postcode":"22-610","addr:place":"Zwiart\u00f3w","addr:housenumber":"40","addr:teryt:sym_ul":892091,"contact:phone":"+48 846634295","contact:email":"szkolazwiartow@onet.pl","ref:regon":"381108067","operator":"Stowarzyszenie Zielona Dolina \u0179wiartowa","operator:type":"ngo","amenity":"school"}},{"id":60844,"type":"Feature","geometry":{"type":"Point","coordinates":[23.4089199,50.5675]},"properties":{"isced:level":"1;2","ref:rspo":60844,"official_name":"Niepubliczna Szko\u0142a Podstawowa w Hucie Dzier\u0105\u017cy\u0144skiej","name":"Niepubliczna Szko\u0142a Podstawowa w Hucie Dzier\u0105\u017cy\u0144skiej","addr:country":"PL","addr:postcode":"22-610","addr:place":"Huta Dzier\u0105\u017cy\u0144ska","addr:housenumber":"17","addr:teryt:sym_ul":891795,"contact:phone":"+48 846641298","contact:email":"nsphuta@interia.pl","contact:website":"http:\/\/nsphuta.edupage.org","ref:regon":"061487055","operator":"Stowarzyszenie  Na Rzecz Rozwoju Gminy Krynice","operator:type":"ngo","amenity":"school"}},{"id":277685,"type":"Feature","geometry":{"type":"Point","coordinates":[23.3795,50.58656]},"properties":{"ref:rspo":277685,"official_name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w Krynicach","name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w Krynicach","addr:country":"PL","addr:postcode":"22-610","addr:place":"Krynice","addr:housenumber":"9","addr:teryt:sym_ul":891803,"contact:phone":"+48 846630215","contact:email":"zskrynice@wp.pl","contact:website":"http:\/\/spkrynice.pl","ref:regon":"389331630","operator":"Gmina Krynice","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 92483;133806;277686"}},{"id":92483,"type":"Feature","geometry":{"type":"Point","coordinates":[23.3795,50.586529999999996]},"properties":{"isced:level":"1;2","ref:rspo":92483,"official_name":"Szko\u0142a Podstawowa w Krynicach im. Batalion\u00f3w Ch\u0142opskich","name":"Szko\u0142a Podstawowa w Krynicach","addr:country":"PL","addr:postcode":"22-610","addr:place":"Krynice","addr:housenumber":"9","addr:teryt:sym_ul":891803,"contact:phone":"+48 846630215","contact:email":"zskrynice@wp.pl","contact:website":"http:\/\/spkrynice.pl","ref:regon":"000267973","ref:vatin":"PL9211706463","operator":"Gmina Krynice","operator:type":"government","amenity":"school","note":"Parent RSPO: 277685"}},{"id":133806,"type":"Feature","geometry":{"type":"Point","coordinates":[23.3795,50.5865]},"properties":{"ref:rspo":133806,"official_name":"Szkolne Schronisko M\u0142odzie\u017cowe w Krynicach","name":"Szkolne Schronisko M\u0142odzie\u017cowe w Krynicach","addr:country":"PL","addr:postcode":"22-610","addr:place":"Krynice","addr:housenumber":"9","addr:teryt:sym_ul":891803,"contact:phone":"+48 846630215","contact:email":"zskrynice@wp.pl","ref:regon":"367658301","operator":"Gmina Krynice","operator:type":"government","tourism":"hostel","note":"Parent RSPO: 277685"}},{"id":277686,"type":"Feature","geometry":{"type":"Point","coordinates":[23.3795,50.58647]},"properties":{"ref:rspo":277686,"official_name":"Przedszkole Publiczne im. Marii Kaczy\u0144skiej w Krynicach","name":"Przedszkole Publiczne","addr:country":"PL","addr:postcode":"22-610","addr:place":"Krynice","addr:housenumber":"9","addr:teryt:sym_ul":891803,"contact:phone":"+48 846630215","contact:email":"zskrynice@wp.pl","contact:website":"http:\/\/spkrynice.pl","ref:regon":"389331675","operator":"Gmina Krynice","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 277685"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 268348,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.50268,
+                    50.56443
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 268348,
+                "official_name": "Niepubliczna Szko\u0142a Podstawowa w Zwiartowie",
+                "name": "Niepubliczna Szko\u0142a Podstawowa w Zwiartowie",
+                "addr:country": "PL",
+                "addr:postcode": "22-610",
+                "addr:place": "Zwiart\u00f3w",
+                "addr:housenumber": "40",
+                "addr:teryt:sym_ul": 892091,
+                "contact:phone": "+48 846634295",
+                "contact:email": "szkolazwiartow@onet.pl",
+                "ref:regon": "381108067",
+                "operator": "Stowarzyszenie Zielona Dolina \u0179wiartowa",
+                "operator:type": "ngo",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 60844,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.4089199,
+                    50.5675
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 60844,
+                "official_name": "Niepubliczna Szko\u0142a Podstawowa w Hucie Dzier\u0105\u017cy\u0144skiej",
+                "name": "Niepubliczna Szko\u0142a Podstawowa w Hucie Dzier\u0105\u017cy\u0144skiej",
+                "addr:country": "PL",
+                "addr:postcode": "22-610",
+                "addr:place": "Huta Dzier\u0105\u017cy\u0144ska",
+                "addr:housenumber": "17",
+                "addr:teryt:sym_ul": 891795,
+                "contact:phone": "+48 846641298",
+                "contact:email": "nsphuta@interia.pl",
+                "contact:website": "http:\/\/nsphuta.edupage.org",
+                "ref:regon": "061487055",
+                "operator": "Stowarzyszenie  Na Rzecz Rozwoju Gminy Krynice",
+                "operator:type": "ngo",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 277685,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.3795,
+                    50.58656
+                ]
+            },
+            "properties": {
+                "ref:rspo": 277685,
+                "official_name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w Krynicach",
+                "name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w Krynicach",
+                "addr:country": "PL",
+                "addr:postcode": "22-610",
+                "addr:place": "Krynice",
+                "addr:housenumber": "9",
+                "addr:teryt:sym_ul": 891803,
+                "contact:phone": "+48 846630215",
+                "contact:email": "zskrynice@wp.pl",
+                "contact:website": "http:\/\/spkrynice.pl",
+                "ref:regon": "389331630",
+                "operator": "Gmina Krynice",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 92483;133806;277686"
+            }
+        },
+        {
+            "id": 92483,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.3795,
+                    50.586529999999996
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 92483,
+                "official_name": "Szko\u0142a Podstawowa w Krynicach im. Batalion\u00f3w Ch\u0142opskich",
+                "name": "Szko\u0142a Podstawowa w Krynicach",
+                "addr:country": "PL",
+                "addr:postcode": "22-610",
+                "addr:place": "Krynice",
+                "addr:housenumber": "9",
+                "addr:teryt:sym_ul": 891803,
+                "contact:phone": "+48 846630215",
+                "contact:email": "zskrynice@wp.pl",
+                "contact:website": "http:\/\/spkrynice.pl",
+                "ref:regon": "000267973",
+                "ref:vatin": "PL9211706463",
+                "operator": "Gmina Krynice",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 277685"
+            }
+        },
+        {
+            "id": 133806,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.3795,
+                    50.5865
+                ]
+            },
+            "properties": {
+                "ref:rspo": 133806,
+                "official_name": "Szkolne Schronisko M\u0142odzie\u017cowe w Krynicach",
+                "name": "Szkolne Schronisko M\u0142odzie\u017cowe w Krynicach",
+                "addr:country": "PL",
+                "addr:postcode": "22-610",
+                "addr:place": "Krynice",
+                "addr:housenumber": "9",
+                "addr:teryt:sym_ul": 891803,
+                "contact:phone": "+48 846630215",
+                "contact:email": "zskrynice@wp.pl",
+                "ref:regon": "367658301",
+                "operator": "Gmina Krynice",
+                "operator:type": "government",
+                "tourism": "hostel",
+                "note": "Parent RSPO: 277685"
+            }
+        },
+        {
+            "id": 277686,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.3795,
+                    50.58647
+                ]
+            },
+            "properties": {
+                "ref:rspo": 277686,
+                "official_name": "Przedszkole Publiczne im. Marii Kaczy\u0144skiej w Krynicach",
+                "name": "Przedszkole Publiczne",
+                "addr:country": "PL",
+                "addr:postcode": "22-610",
+                "addr:place": "Krynice",
+                "addr:housenumber": "9",
+                "addr:teryt:sym_ul": 891803,
+                "contact:phone": "+48 846630215",
+                "contact:email": "zskrynice@wp.pl",
+                "contact:website": "http:\/\/spkrynice.pl",
+                "ref:regon": "389331675",
+                "operator": "Gmina Krynice",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 277685"
+            }
+        }
+    ]
+}

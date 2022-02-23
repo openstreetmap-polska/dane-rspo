@@ -1,1 +1,64 @@
-{"type":"FeatureCollection","features":[{"id":72360,"type":"Feature","geometry":{"type":"Point","coordinates":[21.5418795,51.0177556]},"properties":{"isced:level":"1;2","ref:rspo":72360,"official_name":"Szko\u0142a Podstawowa w Ba\u0142towie","name":"Szko\u0142a Podstawowa w Ba\u0142towie","addr:country":"PL","addr:postcode":"27-423","addr:place":"Ba\u0142t\u00f3w","addr:housenumber":"81","addr:teryt:sym_ul":226299,"contact:phone":"+48 412641013","contact:email":"sp_baltow@gminabaltow.pl","ref:regon":"000580948","ref:vatin":"PL6612160608","operator":"Gmina Ba\u0142t\u00f3w","operator:type":"government","amenity":"school"}},{"id":48614,"type":"Feature","geometry":{"type":"Point","coordinates":[21.6340529,51.0272269]},"properties":{"isced:level":"1;2","ref:rspo":48614,"official_name":"Publiczna Szko\u0142a Podstawowa im. Legion\u00f3w Polskich w Okole","name":"Publiczna Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"27-423","addr:place":"Ok\u00f3\u0142","addr:housenumber":"82","addr:teryt:sym_ul":226431,"contact:phone":"+48 412641045","contact:email":"psp_okol@gminabaltow.pl","contact:website":"http:\/\/www.pspokol.szkolna.net","ref:regon":"001167423","ref:vatin":"PL6612320348","operator":"Gmina Ba\u0142t\u00f3w","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 72360,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.5418795,
+                    51.0177556
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 72360,
+                "official_name": "Szko\u0142a Podstawowa w Ba\u0142towie",
+                "name": "Szko\u0142a Podstawowa w Ba\u0142towie",
+                "addr:country": "PL",
+                "addr:postcode": "27-423",
+                "addr:place": "Ba\u0142t\u00f3w",
+                "addr:housenumber": "81",
+                "addr:teryt:sym_ul": 226299,
+                "contact:phone": "+48 412641013",
+                "contact:email": "sp_baltow@gminabaltow.pl",
+                "ref:regon": "000580948",
+                "ref:vatin": "PL6612160608",
+                "operator": "Gmina Ba\u0142t\u00f3w",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 48614,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.6340529,
+                    51.0272269
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 48614,
+                "official_name": "Publiczna Szko\u0142a Podstawowa im. Legion\u00f3w Polskich w Okole",
+                "name": "Publiczna Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "27-423",
+                "addr:place": "Ok\u00f3\u0142",
+                "addr:housenumber": "82",
+                "addr:teryt:sym_ul": 226431,
+                "contact:phone": "+48 412641045",
+                "contact:email": "psp_okol@gminabaltow.pl",
+                "contact:website": "http:\/\/www.pspokol.szkolna.net",
+                "ref:regon": "001167423",
+                "ref:vatin": "PL6612320348",
+                "operator": "Gmina Ba\u0142t\u00f3w",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

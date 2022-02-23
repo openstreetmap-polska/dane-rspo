@@ -1,1 +1,330 @@
-{"type":"FeatureCollection","features":[{"id":60708,"type":"Feature","geometry":{"type":"Point","coordinates":[21.52743,51.78917]},"properties":{"isced:level":"1;2","ref:rspo":60708,"official_name":"Publiczna Szko\u0142a Podstawowa im. Pami\u0119ci Wanat w D\u0105browie Z Siedzib\u0105 w Woli \u0141askarzewskiej","name":"Publiczna Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"08-450","addr:place":"Wola \u0141askarzewska","addr:housenumber":"88","addr:teryt:sym_ul":678601,"contact:phone":"+48 256845255","contact:email":"szkoladab@poczta.onet.pl","ref:regon":"001135110","ref:vatin":"PL8261116935","operator":"Gmina \u0141askarzew","operator:type":"government","amenity":"school"}},{"id":60706,"type":"Feature","geometry":{"type":"Point","coordinates":[21.63076,51.79774]},"properties":{"ref:rspo":60706,"official_name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 w Starym Pilczynie","name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 w Starym Pilczynie","addr:country":"PL","addr:postcode":"08-450","addr:place":"Stary Pilczyn","addr:housenumber":"36","addr:teryt:sym_ul":678570,"contact:phone":"+48 256845248","contact:email":"zs.pilczyn@neostrada.pl","ref:regon":"712354592","ref:vatin":"PL8261937589","operator":"Gmina \u0141askarzew","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 104604;104605"}},{"id":104604,"type":"Feature","geometry":{"type":"Point","coordinates":[21.63076,51.797709999999995]},"properties":{"isced:level":"1;2","ref:rspo":104604,"official_name":"Szko\u0142a Podstawowa im. Ks. Jerzego Popie\u0142uszki w Starym Pilczynie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"08-450","addr:place":"Stary Pilczyn","addr:housenumber":"36","addr:teryt:sym_ul":678570,"contact:phone":"+48 256845248","contact:email":"zs.pilczyn@gmail.com","contact:website":"http:\/\/www.pilczyn.pl","ref:regon":"001135140","ref:vatin":"PL8261116912","operator":"Gmina \u0141askarzew","operator:type":"government","amenity":"school","note":"Parent RSPO: 60706"}},{"id":104605,"type":"Feature","geometry":{"type":"Point","coordinates":[21.63076,51.79768]},"properties":{"ref:rspo":104605,"official_name":"Publiczne Przedszkole w Starym Pilczynie - Zesp\u00f3\u0142 Szk\u00f3\u0142 w Starym Pilczynie","name":"Publiczne Przedszkole w Starym Pilczynie - Zesp\u00f3\u0142 Szk\u00f3\u0142 w Starym Pilczynie","addr:country":"PL","addr:postcode":"08-450","addr:place":"Stary Pilczyn","addr:housenumber":"36","addr:teryt:sym_ul":678570,"contact:phone":"+48 256845248","contact:email":"zs.pilczyn@gmail.com","contact:website":"http:\/\/www.pilczyn.pl","ref:regon":"712369263","ref:vatin":"PL8261945169","operator":"Gmina \u0141askarzew","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 60706"}},{"id":60705,"type":"Feature","geometry":{"type":"Point","coordinates":[21.5245,51.8194]},"properties":{"isced:level":"1;2","ref:rspo":60705,"official_name":"Publiczna Szko\u0142a Podstawowa w Krzywdzie im.or\u0142a Bia\u0142ego","name":"Publiczna Szko\u0142a Podstawowa w Krzywdzie im.or\u0142a Bia\u0142ego","addr:country":"PL","addr:postcode":"08-450","addr:place":"Krzywda","addr:housenumber":"27A","addr:teryt:sym_ul":678417,"contact:phone":"+48 256829182","contact:email":"szkpodstkrzywda@interia.pl","ref:regon":"001135133","ref:vatin":"PL8261116929","operator":"Gmina \u0141askarzew","operator:type":"government","amenity":"school"}},{"id":74440,"type":"Feature","geometry":{"type":"Point","coordinates":[21.61227,51.82408]},"properties":{"ref:rspo":74440,"official_name":"M\u0142odzie\u017cowy O\u015brodek Wychowawczy w Woli Rowskiej","name":"M\u0142odzie\u017cowy O\u015brodek Wychowawczy w Woli Rowskiej","addr:country":"PL","addr:postcode":"08-450","addr:place":"Wola Rowska","addr:housenumber":"59","addr:teryt:sym_ul":678624,"contact:phone":"+48 256250925","contact:email":"zbyszek-17@o2.pl","ref:regon":"146371097","ref:vatin":"PL8261340199","operator":"Zdzis\u0142aw Karwowski","operator:type":"private","fixme":"amenity=social facility + social_facility=group_home + social_facility:for=juvenile","note":"Children RSPO: 264272;272938"}},{"id":264272,"type":"Feature","geometry":{"type":"Point","coordinates":[21.61227,51.82405]},"properties":{"isced:level":"1;2","ref:rspo":264272,"official_name":"Szko\u0142a Podstawowa Specjalna w Woli Rowskiej","name":"Szko\u0142a Podstawowa Specjalna w Woli Rowskiej","addr:country":"PL","addr:postcode":"08-450","addr:place":"Wola Rowska","addr:housenumber":"59","addr:teryt:sym_ul":678624,"contact:phone":"+48 256250925","contact:email":"zbyszek-17@o2.pl","contact:website":"http:\/\/www.mowwolarowska.pl","ref:regon":"368299063","operator":"Zdzis\u0142aw Karwowski","operator:type":"private","amenity":"school","note":"Parent RSPO: 74440"}},{"id":272938,"type":"Feature","geometry":{"type":"Point","coordinates":[21.61227,51.824020000000004]},"properties":{"isced:level":"3","ref:rspo":272938,"official_name":"Bran\u017cowa Szko\u0142a I Stopnia Specjalna w Woli Rowskiej","name":"Bran\u017cowa Szko\u0142a I Stopnia Specjalna w Woli Rowskiej","addr:country":"PL","addr:postcode":"08-450","addr:place":"Wola Rowska","addr:housenumber":"59","addr:teryt:sym_ul":678624,"contact:phone":"+48 256820338","contact:email":"zbyszek-17@o2.pl","ref:regon":"384327114","operator":"Zdzis\u0142aw Karwowski","operator:type":"private","amenity":"school","note":"Parent RSPO: 74440"}},{"id":81717,"type":"Feature","geometry":{"type":"Point","coordinates":[21.56593,51.82514]},"properties":{"ref:rspo":81717,"official_name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 w Izdebnie","name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 w Izdebnie","addr:country":"PL","addr:postcode":"08-450","addr:place":"Izdebno","addr:housenumber":"1","addr:teryt:sym_ul":678357,"contact:phone":"+48 256829296","contact:email":"szkola@zsizdebno.pl","ref:regon":"146372895","ref:vatin":"PL8262189385","operator":"Gmina \u0141askarzew","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 104602;104603"}},{"id":104602,"type":"Feature","geometry":{"type":"Point","coordinates":[21.56593,51.825109999999995]},"properties":{"isced:level":"1;2","ref:rspo":104602,"official_name":"Publiczna Szko\u0142a Podstawowa w Izdebnie \n- Zesp\u00f3\u0142 Szk\u00f3\u0142 w Izdebnie","name":"Publiczna Szko\u0142a Podstawowa w Izdebnie \n- Zesp\u00f3\u0142 Szk\u00f3\u0142 w Izdebnie","addr:country":"PL","addr:postcode":"08-450","addr:place":"Izdebno","addr:housenumber":"1","addr:teryt:sym_ul":678357,"contact:phone":"+48 256829296","contact:email":"szkola@zsizdebno.pl","ref:regon":"001135127","ref:vatin":"PL8261116941","operator":"Gmina \u0141askarzew","operator:type":"government","amenity":"school","note":"Parent RSPO: 81717"}},{"id":104603,"type":"Feature","geometry":{"type":"Point","coordinates":[21.56593,51.82508]},"properties":{"ref:rspo":104603,"official_name":"Publiczne Przedszkole w Izdebnie - Zesp\u00f3\u0142 Szk\u00f3\u0142 w Izdebnie","name":"Publiczne Przedszkole w Izdebnie - Zesp\u00f3\u0142 Szk\u00f3\u0142 w Izdebnie","addr:country":"PL","addr:postcode":"08-450","addr:place":"Izdebno","addr:housenumber":"1","addr:teryt:sym_ul":678357,"contact:phone":"+48 256829296","contact:email":"szkola@zsizdebno.pl","ref:regon":"712371194","operator":"Gmina \u0141askarzew","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 81717"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 60708,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.52743,
+                    51.78917
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 60708,
+                "official_name": "Publiczna Szko\u0142a Podstawowa im. Pami\u0119ci Wanat w D\u0105browie Z Siedzib\u0105 w Woli \u0141askarzewskiej",
+                "name": "Publiczna Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "08-450",
+                "addr:place": "Wola \u0141askarzewska",
+                "addr:housenumber": "88",
+                "addr:teryt:sym_ul": 678601,
+                "contact:phone": "+48 256845255",
+                "contact:email": "szkoladab@poczta.onet.pl",
+                "ref:regon": "001135110",
+                "ref:vatin": "PL8261116935",
+                "operator": "Gmina \u0141askarzew",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 60706,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.63076,
+                    51.79774
+                ]
+            },
+            "properties": {
+                "ref:rspo": 60706,
+                "official_name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 w Starym Pilczynie",
+                "name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 w Starym Pilczynie",
+                "addr:country": "PL",
+                "addr:postcode": "08-450",
+                "addr:place": "Stary Pilczyn",
+                "addr:housenumber": "36",
+                "addr:teryt:sym_ul": 678570,
+                "contact:phone": "+48 256845248",
+                "contact:email": "zs.pilczyn@neostrada.pl",
+                "ref:regon": "712354592",
+                "ref:vatin": "PL8261937589",
+                "operator": "Gmina \u0141askarzew",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 104604;104605"
+            }
+        },
+        {
+            "id": 104604,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.63076,
+                    51.797709999999995
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 104604,
+                "official_name": "Szko\u0142a Podstawowa im. Ks. Jerzego Popie\u0142uszki w Starym Pilczynie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "08-450",
+                "addr:place": "Stary Pilczyn",
+                "addr:housenumber": "36",
+                "addr:teryt:sym_ul": 678570,
+                "contact:phone": "+48 256845248",
+                "contact:email": "zs.pilczyn@gmail.com",
+                "contact:website": "http:\/\/www.pilczyn.pl",
+                "ref:regon": "001135140",
+                "ref:vatin": "PL8261116912",
+                "operator": "Gmina \u0141askarzew",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 60706"
+            }
+        },
+        {
+            "id": 104605,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.63076,
+                    51.79768
+                ]
+            },
+            "properties": {
+                "ref:rspo": 104605,
+                "official_name": "Publiczne Przedszkole w Starym Pilczynie - Zesp\u00f3\u0142 Szk\u00f3\u0142 w Starym Pilczynie",
+                "name": "Publiczne Przedszkole w Starym Pilczynie - Zesp\u00f3\u0142 Szk\u00f3\u0142 w Starym Pilczynie",
+                "addr:country": "PL",
+                "addr:postcode": "08-450",
+                "addr:place": "Stary Pilczyn",
+                "addr:housenumber": "36",
+                "addr:teryt:sym_ul": 678570,
+                "contact:phone": "+48 256845248",
+                "contact:email": "zs.pilczyn@gmail.com",
+                "contact:website": "http:\/\/www.pilczyn.pl",
+                "ref:regon": "712369263",
+                "ref:vatin": "PL8261945169",
+                "operator": "Gmina \u0141askarzew",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 60706"
+            }
+        },
+        {
+            "id": 60705,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.5245,
+                    51.8194
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 60705,
+                "official_name": "Publiczna Szko\u0142a Podstawowa w Krzywdzie im.or\u0142a Bia\u0142ego",
+                "name": "Publiczna Szko\u0142a Podstawowa w Krzywdzie im.or\u0142a Bia\u0142ego",
+                "addr:country": "PL",
+                "addr:postcode": "08-450",
+                "addr:place": "Krzywda",
+                "addr:housenumber": "27A",
+                "addr:teryt:sym_ul": 678417,
+                "contact:phone": "+48 256829182",
+                "contact:email": "szkpodstkrzywda@interia.pl",
+                "ref:regon": "001135133",
+                "ref:vatin": "PL8261116929",
+                "operator": "Gmina \u0141askarzew",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 74440,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.61227,
+                    51.82408
+                ]
+            },
+            "properties": {
+                "ref:rspo": 74440,
+                "official_name": "M\u0142odzie\u017cowy O\u015brodek Wychowawczy w Woli Rowskiej",
+                "name": "M\u0142odzie\u017cowy O\u015brodek Wychowawczy w Woli Rowskiej",
+                "addr:country": "PL",
+                "addr:postcode": "08-450",
+                "addr:place": "Wola Rowska",
+                "addr:housenumber": "59",
+                "addr:teryt:sym_ul": 678624,
+                "contact:phone": "+48 256250925",
+                "contact:email": "zbyszek-17@o2.pl",
+                "ref:regon": "146371097",
+                "ref:vatin": "PL8261340199",
+                "operator": "Zdzis\u0142aw Karwowski",
+                "operator:type": "private",
+                "fixme": "amenity=social_facility + social_facility=group_home + social_facility:for=juvenile",
+                "note": "Children RSPO: 264272;272938"
+            }
+        },
+        {
+            "id": 264272,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.61227,
+                    51.82405
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 264272,
+                "official_name": "Szko\u0142a Podstawowa Specjalna w Woli Rowskiej",
+                "name": "Szko\u0142a Podstawowa Specjalna w Woli Rowskiej",
+                "addr:country": "PL",
+                "addr:postcode": "08-450",
+                "addr:place": "Wola Rowska",
+                "addr:housenumber": "59",
+                "addr:teryt:sym_ul": 678624,
+                "contact:phone": "+48 256250925",
+                "contact:email": "zbyszek-17@o2.pl",
+                "contact:website": "http:\/\/www.mowwolarowska.pl",
+                "ref:regon": "368299063",
+                "operator": "Zdzis\u0142aw Karwowski",
+                "operator:type": "private",
+                "amenity": "school",
+                "note": "Parent RSPO: 74440"
+            }
+        },
+        {
+            "id": 272938,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.61227,
+                    51.824020000000004
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 272938,
+                "official_name": "Bran\u017cowa Szko\u0142a I Stopnia Specjalna w Woli Rowskiej",
+                "name": "Bran\u017cowa Szko\u0142a I Stopnia Specjalna w Woli Rowskiej",
+                "addr:country": "PL",
+                "addr:postcode": "08-450",
+                "addr:place": "Wola Rowska",
+                "addr:housenumber": "59",
+                "addr:teryt:sym_ul": 678624,
+                "contact:phone": "+48 256820338",
+                "contact:email": "zbyszek-17@o2.pl",
+                "ref:regon": "384327114",
+                "operator": "Zdzis\u0142aw Karwowski",
+                "operator:type": "private",
+                "amenity": "school",
+                "note": "Parent RSPO: 74440"
+            }
+        },
+        {
+            "id": 81717,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.56593,
+                    51.82514
+                ]
+            },
+            "properties": {
+                "ref:rspo": 81717,
+                "official_name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 w Izdebnie",
+                "name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 w Izdebnie",
+                "addr:country": "PL",
+                "addr:postcode": "08-450",
+                "addr:place": "Izdebno",
+                "addr:housenumber": "1",
+                "addr:teryt:sym_ul": 678357,
+                "contact:phone": "+48 256829296",
+                "contact:email": "szkola@zsizdebno.pl",
+                "ref:regon": "146372895",
+                "ref:vatin": "PL8262189385",
+                "operator": "Gmina \u0141askarzew",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 104602;104603"
+            }
+        },
+        {
+            "id": 104602,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.56593,
+                    51.825109999999995
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 104602,
+                "official_name": "Publiczna Szko\u0142a Podstawowa w Izdebnie \n- Zesp\u00f3\u0142 Szk\u00f3\u0142 w Izdebnie",
+                "name": "Publiczna Szko\u0142a Podstawowa w Izdebnie \n- Zesp\u00f3\u0142 Szk\u00f3\u0142 w Izdebnie",
+                "addr:country": "PL",
+                "addr:postcode": "08-450",
+                "addr:place": "Izdebno",
+                "addr:housenumber": "1",
+                "addr:teryt:sym_ul": 678357,
+                "contact:phone": "+48 256829296",
+                "contact:email": "szkola@zsizdebno.pl",
+                "ref:regon": "001135127",
+                "ref:vatin": "PL8261116941",
+                "operator": "Gmina \u0141askarzew",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 81717"
+            }
+        },
+        {
+            "id": 104603,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.56593,
+                    51.82508
+                ]
+            },
+            "properties": {
+                "ref:rspo": 104603,
+                "official_name": "Publiczne Przedszkole w Izdebnie - Zesp\u00f3\u0142 Szk\u00f3\u0142 w Izdebnie",
+                "name": "Publiczne Przedszkole w Izdebnie - Zesp\u00f3\u0142 Szk\u00f3\u0142 w Izdebnie",
+                "addr:country": "PL",
+                "addr:postcode": "08-450",
+                "addr:place": "Izdebno",
+                "addr:housenumber": "1",
+                "addr:teryt:sym_ul": 678357,
+                "contact:phone": "+48 256829296",
+                "contact:email": "szkola@zsizdebno.pl",
+                "ref:regon": "712371194",
+                "operator": "Gmina \u0141askarzew",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 81717"
+            }
+        }
+    ]
+}

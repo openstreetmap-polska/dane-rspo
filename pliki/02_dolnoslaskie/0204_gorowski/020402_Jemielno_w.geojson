@@ -1,1 +1,121 @@
-{"type":"FeatureCollection","features":[{"id":23547,"type":"Feature","geometry":{"type":"Point","coordinates":[16.54039,51.52412]},"properties":{"isced:level":"1;2","ref:rspo":23547,"official_name":"Szko\u0142a Podstawowa w Jemielnie","name":"Szko\u0142a Podstawowa w Jemielnie","addr:country":"PL","addr:postcode":"56-209","addr:place":"Jemielno","addr:housenumber":"41A","addr:teryt:sym_ul":370642,"contact:phone":"+48 655447412","contact:email":"zsjemielno@wp.pl","contact:website":"https:\/\/spjemielno.pcdn.edu.pl\/","ref:regon":"000600585","ref:vatin":"PL6932021558","operator":"Gmina Jemielno","operator:type":"government","amenity":"school"}},{"id":113825,"type":"Feature","geometry":{"type":"Point","coordinates":[16.54039,51.52409]},"properties":{"ref:rspo":113825,"official_name":"Punkt Przedszkolny","name":"Punkt Przedszkolny","addr:country":"PL","addr:postcode":"56-209","addr:place":"Jemielno","addr:housenumber":"41A","addr:teryt:sym_ul":370642,"contact:phone":"+48 655447412","contact:email":"zsjemielno@wp.pl","contact:website":"http:\/\/www.zsjemielno.pcdn.edu.pl","ref:regon":"022119008","operator":"Gmina Jemielno","operator:type":"government","amenity":"kindergarten"}},{"id":113824,"type":"Feature","geometry":{"type":"Point","coordinates":[16.42556,51.59143]},"properties":{"ref:rspo":113824,"official_name":"Punkt Przedszkolny","name":"Punkt Przedszkolny","addr:country":"PL","addr:postcode":"56-209","addr:place":"Irz\u0105dze","addr:housenumber":"17d","addr:teryt:sym_ul":370636,"contact:phone":"+48 655446287","contact:email":"szkola@zsirzadze.pcdn.edu.pl","contact:website":"http:\/\/www.zsirzadze.szkolnastrona.pl\/","ref:regon":"022118954","operator":"Gmina Jemielno","operator:type":"government","amenity":"kindergarten"}},{"id":23548,"type":"Feature","geometry":{"type":"Point","coordinates":[16.42941,51.59317]},"properties":{"isced:level":"1;2","ref:rspo":23548,"official_name":"Szko\u0142a Podstawowa w Irz\u0105dzach","name":"Szko\u0142a Podstawowa w Irz\u0105dzach","addr:country":"PL","addr:postcode":"56-209","addr:place":"Irz\u0105dze","addr:housenumber":"27","addr:teryt:sym_ul":370636,"contact:phone":"+48 655446287","contact:email":"szkola@zsirzadze.pcdn.edu.pl","contact:website":"http:\/\/www.zsirzadze.szkolnastrona.pl","ref:regon":"001118212","ref:vatin":"PL6932018728","operator":"Gmina Jemielno","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 23547,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.54039,
+                    51.52412
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 23547,
+                "official_name": "Szko\u0142a Podstawowa w Jemielnie",
+                "name": "Szko\u0142a Podstawowa w Jemielnie",
+                "addr:country": "PL",
+                "addr:postcode": "56-209",
+                "addr:place": "Jemielno",
+                "addr:housenumber": "41A",
+                "addr:teryt:sym_ul": 370642,
+                "contact:phone": "+48 655447412",
+                "contact:email": "zsjemielno@wp.pl",
+                "contact:website": "https:\/\/spjemielno.pcdn.edu.pl\/",
+                "ref:regon": "000600585",
+                "ref:vatin": "PL6932021558",
+                "operator": "Gmina Jemielno",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 113825,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.54039,
+                    51.52409
+                ]
+            },
+            "properties": {
+                "ref:rspo": 113825,
+                "official_name": "Punkt Przedszkolny",
+                "name": "Punkt Przedszkolny",
+                "addr:country": "PL",
+                "addr:postcode": "56-209",
+                "addr:place": "Jemielno",
+                "addr:housenumber": "41A",
+                "addr:teryt:sym_ul": 370642,
+                "contact:phone": "+48 655447412",
+                "contact:email": "zsjemielno@wp.pl",
+                "contact:website": "http:\/\/www.zsjemielno.pcdn.edu.pl",
+                "ref:regon": "022119008",
+                "operator": "Gmina Jemielno",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 113824,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.42556,
+                    51.59143
+                ]
+            },
+            "properties": {
+                "ref:rspo": 113824,
+                "official_name": "Punkt Przedszkolny",
+                "name": "Punkt Przedszkolny",
+                "addr:country": "PL",
+                "addr:postcode": "56-209",
+                "addr:place": "Irz\u0105dze",
+                "addr:housenumber": "17d",
+                "addr:teryt:sym_ul": 370636,
+                "contact:phone": "+48 655446287",
+                "contact:email": "szkola@zsirzadze.pcdn.edu.pl",
+                "contact:website": "http:\/\/www.zsirzadze.szkolnastrona.pl\/",
+                "ref:regon": "022118954",
+                "operator": "Gmina Jemielno",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 23548,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.42941,
+                    51.59317
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 23548,
+                "official_name": "Szko\u0142a Podstawowa w Irz\u0105dzach",
+                "name": "Szko\u0142a Podstawowa w Irz\u0105dzach",
+                "addr:country": "PL",
+                "addr:postcode": "56-209",
+                "addr:place": "Irz\u0105dze",
+                "addr:housenumber": "27",
+                "addr:teryt:sym_ul": 370636,
+                "contact:phone": "+48 655446287",
+                "contact:email": "szkola@zsirzadze.pcdn.edu.pl",
+                "contact:website": "http:\/\/www.zsirzadze.szkolnastrona.pl",
+                "ref:regon": "001118212",
+                "ref:vatin": "PL6932018728",
+                "operator": "Gmina Jemielno",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

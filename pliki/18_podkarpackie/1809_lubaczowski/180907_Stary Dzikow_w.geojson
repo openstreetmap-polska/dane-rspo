@@ -1,1 +1,97 @@
-{"type":"FeatureCollection","features":[{"id":54249,"type":"Feature","geometry":{"type":"Point","coordinates":[22.93176,50.2445]},"properties":{"isced:level":"1;2","ref:rspo":54249,"official_name":"Szko\u0142a Podstawowa w Starym Dzikowie","name":"Szko\u0142a Podstawowa w Starym Dzikowie","addr:country":"PL","addr:postcode":"37-632","addr:city":"Stary Dzik\u00f3w","addr:street":"ul. Ko\u015bciuszki","addr:housenumber":"83","addr:teryt:simc":9572,"addr:teryt:sym_ul":611554,"contact:phone":"+48 166318130","contact:email":"zsstarydzikow@op.pl","contact:website":"http:\/\/www.spstarydzikow.szkolnastrona.pl","ref:regon":"000663321","ref:vatin":"PL7931513320","operator":"Gmina Stary Dzik\u00f3w","operator:type":"government","amenity":"school","note":"Children RSPO: 113704"}},{"id":54253,"type":"Feature","geometry":{"type":"Point","coordinates":[22.84547,50.2468]},"properties":{"isced:level":"1;2","ref:rspo":54253,"official_name":"Szko\u0142a Podstawowa w Cewkowie","name":"Szko\u0142a Podstawowa w Cewkowie","addr:country":"PL","addr:postcode":"37-632","addr:place":"Cewk\u00f3w","addr:housenumber":"81","addr:teryt:sym_ul":611494,"contact:phone":"+48 166318201","contact:email":"spcewkow@poczta.onet.pl","contact:website":"http:\/\/www.spcewkow.szkolnastrona.pl","ref:regon":"001208205","ref:vatin":"PL7931513314","operator":"Gmina Stary Dzik\u00f3w","operator:type":"government","amenity":"school"}},{"id":113704,"type":"Feature","geometry":{"type":"Point","coordinates":[22.99147,50.27433]},"properties":{"isced:level":"1;2","ref:rspo":113704,"official_name":"Szko\u0142a Podstawowa w Starym Dzikowie Szko\u0142a Filialna w U\u0142azowie","name":"Szko\u0142a Podstawowa w Starym Dzikowie Szko\u0142a Filialna w U\u0142azowie","addr:country":"PL","addr:postcode":"37-632","addr:place":"U\u0142az\u00f3w","addr:housenumber":"109","addr:teryt:sym_ul":611577,"contact:email":"zsstarydzikow@op.pl","contact:website":"http:\/\/spstarydzikow.szkolnastrona.pl","ref:regon":"663321000","operator":"Gmina Stary Dzik\u00f3w","operator:type":"government","amenity":"school","note":"Parent RSPO: 54249"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 54249,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.93176,
+                    50.2445
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 54249,
+                "official_name": "Szko\u0142a Podstawowa w Starym Dzikowie",
+                "name": "Szko\u0142a Podstawowa w Starym Dzikowie",
+                "addr:country": "PL",
+                "addr:postcode": "37-632",
+                "addr:city": "Stary Dzik\u00f3w",
+                "addr:street": "ul. Ko\u015bciuszki",
+                "addr:housenumber": "83",
+                "addr:teryt:simc": 9572,
+                "addr:teryt:sym_ul": 611554,
+                "contact:phone": "+48 166318130",
+                "contact:email": "zsstarydzikow@op.pl",
+                "contact:website": "http:\/\/www.spstarydzikow.szkolnastrona.pl",
+                "ref:regon": "000663321",
+                "ref:vatin": "PL7931513320",
+                "operator": "Gmina Stary Dzik\u00f3w",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Children RSPO: 113704"
+            }
+        },
+        {
+            "id": 54253,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.84547,
+                    50.2468
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 54253,
+                "official_name": "Szko\u0142a Podstawowa w Cewkowie",
+                "name": "Szko\u0142a Podstawowa w Cewkowie",
+                "addr:country": "PL",
+                "addr:postcode": "37-632",
+                "addr:place": "Cewk\u00f3w",
+                "addr:housenumber": "81",
+                "addr:teryt:sym_ul": 611494,
+                "contact:phone": "+48 166318201",
+                "contact:email": "spcewkow@poczta.onet.pl",
+                "contact:website": "http:\/\/www.spcewkow.szkolnastrona.pl",
+                "ref:regon": "001208205",
+                "ref:vatin": "PL7931513314",
+                "operator": "Gmina Stary Dzik\u00f3w",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 113704,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.99147,
+                    50.27433
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 113704,
+                "official_name": "Szko\u0142a Podstawowa w Starym Dzikowie Szko\u0142a Filialna w U\u0142azowie",
+                "name": "Szko\u0142a Podstawowa w Starym Dzikowie Szko\u0142a Filialna w U\u0142azowie",
+                "addr:country": "PL",
+                "addr:postcode": "37-632",
+                "addr:place": "U\u0142az\u00f3w",
+                "addr:housenumber": "109",
+                "addr:teryt:sym_ul": 611577,
+                "contact:email": "zsstarydzikow@op.pl",
+                "contact:website": "http:\/\/spstarydzikow.szkolnastrona.pl",
+                "ref:regon": "663321000",
+                "operator": "Gmina Stary Dzik\u00f3w",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 54249"
+            }
+        }
+    ]
+}

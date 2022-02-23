@@ -1,1 +1,221 @@
-{"type":"FeatureCollection","features":[{"id":83925,"type":"Feature","geometry":{"type":"Point","coordinates":[18.6155,53.07081]},"properties":{"ref:rspo":83925,"official_name":"Poradnia Psychologiczno-Pedagogiczna w \u0141ysomicach","name":"Poradnia Psychologiczno-Pedagogiczna w \u0141ysomicach","addr:country":"PL","addr:postcode":"87-148","addr:city":"\u0141ysomice","addr:street":"ul. Toru\u0144ska","addr:housenumber":"10","addr:teryt:simc":22902,"addr:teryt:sym_ul":846926,"contact:phone":"+48 566783609","contact:email":"pp-p-lysomice@wp.pl","contact:website":"http:\/\/www.lysomice.pl","ref:regon":"871569642","ref:vatin":"PL8792294569","operator":"Gmina \u0141ysomice","operator:type":"government","healthcare":"councelling","counselling_type":"education","fixme":"w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. healthcare=councelling + counselling_type=education albo healthcare=psychotherapist)"}},{"id":119083,"type":"Feature","geometry":{"type":"Point","coordinates":[18.6561999,53.07965]},"properties":{"ref:rspo":119083,"official_name":"Przedszkole Publiczne Jelonek w Papowie Toru\u0144skim","name":"Przedszkole Publiczne Jelonek w Papowie Toru\u0144skim","addr:country":"PL","addr:postcode":"87-148","addr:city":"Papowo Toru\u0144skie","addr:street":"ul. Warszawska","addr:housenumber":"24","addr:teryt:simc":23682,"addr:teryt:sym_ul":846949,"contact:phone":"+48 566783283","contact:email":"przedszkole@przedszkole-jelonek.pl","ref:regon":"341471356","operator":"Gmina \u0141ysomice","operator:type":"government","amenity":"kindergarten"}},{"id":106637,"type":"Feature","geometry":{"type":"Point","coordinates":[18.6500999,53.08243]},"properties":{"isced:level":"1;2","ref:rspo":106637,"official_name":"Szko\u0142a Podstawowa w \u0141ysomicach Z Fili\u0105 w Papowie Toru\u0144skim","name":"Szko\u0142a Podstawowa w \u0141ysomicach Z Fili\u0105 w Papowie Toru\u0144skim","addr:country":"PL","addr:postcode":"87-148","addr:city":"\u0141ysomice","addr:street":"ul. Warszawska","addr:housenumber":"5","addr:teryt:simc":23682,"addr:teryt:sym_ul":846926,"contact:phone":"+48 566783223","contact:email":"sekretariat@splysomice.pl","contact:website":"http:\/\/splysomice.pl","ref:regon":"000270099","ref:vatin":"PL8792369764","operator":"Gmina \u0141ysomice","operator:type":"government","amenity":"school"}},{"id":128739,"type":"Feature","geometry":{"type":"Point","coordinates":[18.61021,53.08922]},"properties":{"ref:rspo":128739,"official_name":"Dwuj\u0119zyczne Przedszkole Pod Klonowym Listkiem","name":"Dwuj\u0119zyczne Przedszkole Pod Klonowym Listkiem","addr:country":"PL","addr:postcode":"87-148","addr:city":"\u0141ysomice","addr:street":"ul. \u0141\u0105kowa","addr:housenumber":"15","addr:teryt:simc":11596,"addr:teryt:sym_ul":846926,"contact:phone":"+48 566783720","contact:email":"poczta@klonowy.pl","contact:website":"http:\/\/www.klonowy.pl\/przedszkole","ref:regon":"362375389","operator":"Zoila Gaulin-Dembek","operator:type":"private","amenity":"kindergarten"}},{"id":83924,"type":"Feature","geometry":{"type":"Point","coordinates":[18.52914,53.09793]},"properties":{"isced:level":"1;2","ref:rspo":83924,"official_name":"Szko\u0142a Podstawowa im. Leona Filcka w \u015awierczynkach","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"87-148","addr:place":"\u015awierczynki","addr:housenumber":"7","addr:teryt:sym_ul":846990,"contact:phone":"+48 566740906","contact:email":"sp_swierczynki@wp.pl","contact:website":"http:\/\/www.spswierczynki.edupage.org","ref:regon":"001212922","ref:vatin":"PL8792201148","operator":"Gmina \u0141ysomice","operator:type":"government","amenity":"school"}},{"id":107120,"type":"Feature","geometry":{"type":"Point","coordinates":[18.7234,53.1072]},"properties":{"isced:level":"1;2","ref:rspo":107120,"official_name":"Szko\u0142a Podstawowa w Turznie","name":"Szko\u0142a Podstawowa w Turznie","addr:country":"PL","addr:postcode":"87-148","addr:city":"Turzno","addr:street":"ul. Parkowa","addr:housenumber":"4","addr:teryt:simc":15710,"addr:teryt:sym_ul":847015,"contact:phone":"+48 566459842","contact:email":"zsturzno@wp.pl","contact:website":"http:\/\/www.zsturzno.pl","ref:regon":"001212891","ref:vatin":"PL8792370141","operator":"Gmina \u0141ysomice","operator:type":"government","amenity":"school"}},{"id":83923,"type":"Feature","geometry":{"type":"Point","coordinates":[18.63082,53.1166399]},"properties":{"isced:level":"1;2","ref:rspo":83923,"official_name":"Szko\u0142a Podstawowa w Ostaszewie","name":"Szko\u0142a Podstawowa w Ostaszewie","addr:country":"PL","addr:postcode":"87-148","addr:place":"Ostaszewo","addr:housenumber":"42","addr:teryt:sym_ul":846932,"contact:phone":"+48 566740031","contact:email":"spostaszewo@wp.pl","contact:website":"http:\/\/www.spostaszewo.pl","ref:regon":"001212916","ref:vatin":"PL8792213045","operator":"Gmina \u0141ysomice","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 83925,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.6155,
+                    53.07081
+                ]
+            },
+            "properties": {
+                "ref:rspo": 83925,
+                "official_name": "Poradnia Psychologiczno-Pedagogiczna w \u0141ysomicach",
+                "name": "Poradnia Psychologiczno-Pedagogiczna w \u0141ysomicach",
+                "addr:country": "PL",
+                "addr:postcode": "87-148",
+                "addr:city": "\u0141ysomice",
+                "addr:street": "ul. Toru\u0144ska",
+                "addr:housenumber": "10",
+                "addr:teryt:simc": 22902,
+                "addr:teryt:sym_ul": 846926,
+                "contact:phone": "+48 566783609",
+                "contact:email": "pp-p-lysomice@wp.pl",
+                "contact:website": "http:\/\/www.lysomice.pl",
+                "ref:regon": "871569642",
+                "ref:vatin": "PL8792294569",
+                "operator": "Gmina \u0141ysomice",
+                "operator:type": "government",
+                "healthcare": "counselling",
+                "counselling_type": "education",
+                "fixme": "w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. healthcare=counselling + counselling_type=education albo healthcare=psychotherapist)"
+            }
+        },
+        {
+            "id": 119083,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.6561999,
+                    53.07965
+                ]
+            },
+            "properties": {
+                "ref:rspo": 119083,
+                "official_name": "Przedszkole Publiczne Jelonek w Papowie Toru\u0144skim",
+                "name": "Przedszkole Publiczne Jelonek w Papowie Toru\u0144skim",
+                "addr:country": "PL",
+                "addr:postcode": "87-148",
+                "addr:city": "Papowo Toru\u0144skie",
+                "addr:street": "ul. Warszawska",
+                "addr:housenumber": "24",
+                "addr:teryt:simc": 23682,
+                "addr:teryt:sym_ul": 846949,
+                "contact:phone": "+48 566783283",
+                "contact:email": "przedszkole@przedszkole-jelonek.pl",
+                "ref:regon": "341471356",
+                "operator": "Gmina \u0141ysomice",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 106637,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.6500999,
+                    53.08243
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 106637,
+                "official_name": "Szko\u0142a Podstawowa w \u0141ysomicach Z Fili\u0105 w Papowie Toru\u0144skim",
+                "name": "Szko\u0142a Podstawowa w \u0141ysomicach Z Fili\u0105 w Papowie Toru\u0144skim",
+                "addr:country": "PL",
+                "addr:postcode": "87-148",
+                "addr:city": "\u0141ysomice",
+                "addr:street": "ul. Warszawska",
+                "addr:housenumber": "5",
+                "addr:teryt:simc": 23682,
+                "addr:teryt:sym_ul": 846926,
+                "contact:phone": "+48 566783223",
+                "contact:email": "sekretariat@splysomice.pl",
+                "contact:website": "http:\/\/splysomice.pl",
+                "ref:regon": "000270099",
+                "ref:vatin": "PL8792369764",
+                "operator": "Gmina \u0141ysomice",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 128739,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.61021,
+                    53.08922
+                ]
+            },
+            "properties": {
+                "ref:rspo": 128739,
+                "official_name": "Dwuj\u0119zyczne Przedszkole Pod Klonowym Listkiem",
+                "name": "Dwuj\u0119zyczne Przedszkole Pod Klonowym Listkiem",
+                "addr:country": "PL",
+                "addr:postcode": "87-148",
+                "addr:city": "\u0141ysomice",
+                "addr:street": "ul. \u0141\u0105kowa",
+                "addr:housenumber": "15",
+                "addr:teryt:simc": 11596,
+                "addr:teryt:sym_ul": 846926,
+                "contact:phone": "+48 566783720",
+                "contact:email": "poczta@klonowy.pl",
+                "contact:website": "http:\/\/www.klonowy.pl\/przedszkole",
+                "ref:regon": "362375389",
+                "operator": "Zoila Gaulin-Dembek",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 83924,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.52914,
+                    53.09793
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 83924,
+                "official_name": "Szko\u0142a Podstawowa im. Leona Filcka w \u015awierczynkach",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "87-148",
+                "addr:place": "\u015awierczynki",
+                "addr:housenumber": "7",
+                "addr:teryt:sym_ul": 846990,
+                "contact:phone": "+48 566740906",
+                "contact:email": "sp_swierczynki@wp.pl",
+                "contact:website": "http:\/\/www.spswierczynki.edupage.org",
+                "ref:regon": "001212922",
+                "ref:vatin": "PL8792201148",
+                "operator": "Gmina \u0141ysomice",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 107120,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.7234,
+                    53.1072
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 107120,
+                "official_name": "Szko\u0142a Podstawowa w Turznie",
+                "name": "Szko\u0142a Podstawowa w Turznie",
+                "addr:country": "PL",
+                "addr:postcode": "87-148",
+                "addr:city": "Turzno",
+                "addr:street": "ul. Parkowa",
+                "addr:housenumber": "4",
+                "addr:teryt:simc": 15710,
+                "addr:teryt:sym_ul": 847015,
+                "contact:phone": "+48 566459842",
+                "contact:email": "zsturzno@wp.pl",
+                "contact:website": "http:\/\/www.zsturzno.pl",
+                "ref:regon": "001212891",
+                "ref:vatin": "PL8792370141",
+                "operator": "Gmina \u0141ysomice",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 83923,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.63082,
+                    53.1166399
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 83923,
+                "official_name": "Szko\u0142a Podstawowa w Ostaszewie",
+                "name": "Szko\u0142a Podstawowa w Ostaszewie",
+                "addr:country": "PL",
+                "addr:postcode": "87-148",
+                "addr:place": "Ostaszewo",
+                "addr:housenumber": "42",
+                "addr:teryt:sym_ul": 846932,
+                "contact:phone": "+48 566740031",
+                "contact:email": "spostaszewo@wp.pl",
+                "contact:website": "http:\/\/www.spostaszewo.pl",
+                "ref:regon": "001212916",
+                "ref:vatin": "PL8792213045",
+                "operator": "Gmina \u0141ysomice",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

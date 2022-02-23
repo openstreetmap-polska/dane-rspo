@@ -1,1 +1,186 @@
-{"type":"FeatureCollection","features":[{"id":275213,"type":"Feature","geometry":{"type":"Point","coordinates":[18.71954,52.62577]},"properties":{"ref:rspo":275213,"official_name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w Osi\u0119cinach","name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w Osi\u0119cinach","addr:country":"PL","addr:postcode":"88-220","addr:city":"Osi\u0119ciny","addr:street":"ul. Traugutta","addr:housenumber":"1","addr:teryt:simc":22961,"addr:teryt:sym_ul":867087,"contact:phone":"+48 542650018","contact:website":"http:\/\/www.sp.osieciny.pl","ref:regon":"386699877","operator":"Gmina Osi\u0119ciny","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 5526;5527"}},{"id":5526,"type":"Feature","geometry":{"type":"Point","coordinates":[18.71954,52.62574]},"properties":{"ref:rspo":5526,"official_name":"Przedszkole Komunalne w Osi\u0119cinach","name":"Przedszkole Komunalne w Osi\u0119cinach","addr:country":"PL","addr:postcode":"88-220","addr:city":"Osi\u0119ciny","addr:street":"ul. Traugutta","addr:housenumber":"1","addr:teryt:simc":22961,"addr:teryt:sym_ul":867087,"contact:phone":"+48 542650095","contact:website":"http:\/\/www.pk.osieciny.pl","ref:regon":"910004700","ref:vatin":"PL8891488526","operator":"Gmina Osi\u0119ciny","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 275213"}},{"id":5527,"type":"Feature","geometry":{"type":"Point","coordinates":[18.71954,52.625710000000005]},"properties":{"isced:level":"1;2","ref:rspo":5527,"official_name":"Szko\u0142a Podstawowa w Osi\u0119cinach","name":"Szko\u0142a Podstawowa w Osi\u0119cinach","addr:country":"PL","addr:postcode":"88-220","addr:city":"Osi\u0119ciny","addr:street":"ul. Traugutta","addr:housenumber":"1","addr:teryt:simc":22961,"addr:teryt:sym_ul":867087,"contact:phone":"+48 542650018","contact:email":"apolaszek@wp.pl","contact:website":"http:\/\/www.sp.osieciny.pl","ref:regon":"000268613","ref:vatin":"PL8891488414","operator":"Gmina Osi\u0119ciny","operator:type":"government","amenity":"school","note":"Parent RSPO: 275213"}},{"id":272218,"type":"Feature","geometry":{"type":"Point","coordinates":[18.72047,52.63114]},"properties":{"ref:rspo":272218,"official_name":"Niepubliczne Przedszkole \"Mali Odkrywcy\"","name":"Niepubliczne Przedszkole \"Mali Odkrywcy\"","addr:country":"PL","addr:postcode":"88-220","addr:city":"Osi\u0119ciny","addr:street":"ul. Wojska Polskiego","addr:housenumber":"2A","addr:teryt:simc":24628,"addr:teryt:sym_ul":867087,"contact:email":"mali.odkrywcy@interia.pl","contact:website":"http:\/\/przedszkoleosieciny.pl","ref:regon":"384042587","operator":"Magdalena Ilecka","operator:type":"private","amenity":"kindergarten"}},{"id":5529,"type":"Feature","geometry":{"type":"Point","coordinates":[18.6919485,52.6908884]},"properties":{"isced:level":"1;2","ref:rspo":5529,"official_name":"Niepubliczna Szko\u0142a Podstawowa im. \u015aw. Jana Paw\u0142a II w Pocierzynie I w Ko\u015bcielnej Wsi","name":"Niepubliczna Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"88-220","addr:place":"Pocierzyn","addr:housenumber":"35","addr:teryt:sym_ul":867160,"contact:phone":"+48 542650407","contact:email":"szkolaseremwsi@o2.pl","contact:website":"http:\/\/szkolasercemwsi.szkolnastrona.pl","ref:regon":"341319016","operator":"Stowarzyszenie \"Szko\u0142a Sercem Wsi\" W Pocierzynie","operator:type":"ngo","amenity":"school"}},{"id":268067,"type":"Feature","geometry":{"type":"Point","coordinates":[18.6919485,52.690858399999996]},"properties":{"ref:rspo":268067,"official_name":"Przedszkole Niepubliczne","name":"Przedszkole Niepubliczne","addr:country":"PL","addr:postcode":"88-220","addr:place":"Pocierzyn","addr:housenumber":"35","addr:teryt:sym_ul":867160,"contact:phone":"+48 542650407","contact:email":"szkolasercemwsi@o2.pl","contact:website":"http:\/\/szkolasercemwsi.szkolnastrona.pl","ref:regon":"380901510","operator":"Stowarzyszenie \"Szko\u0142a Sercem Wsi\" W Pocierzynie","operator:type":"ngo","amenity":"kindergarten"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 275213,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.71954,
+                    52.62577
+                ]
+            },
+            "properties": {
+                "ref:rspo": 275213,
+                "official_name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w Osi\u0119cinach",
+                "name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w Osi\u0119cinach",
+                "addr:country": "PL",
+                "addr:postcode": "88-220",
+                "addr:city": "Osi\u0119ciny",
+                "addr:street": "ul. Traugutta",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 22961,
+                "addr:teryt:sym_ul": 867087,
+                "contact:phone": "+48 542650018",
+                "contact:website": "http:\/\/www.sp.osieciny.pl",
+                "ref:regon": "386699877",
+                "operator": "Gmina Osi\u0119ciny",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 5526;5527"
+            }
+        },
+        {
+            "id": 5526,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.71954,
+                    52.62574
+                ]
+            },
+            "properties": {
+                "ref:rspo": 5526,
+                "official_name": "Przedszkole Komunalne w Osi\u0119cinach",
+                "name": "Przedszkole Komunalne w Osi\u0119cinach",
+                "addr:country": "PL",
+                "addr:postcode": "88-220",
+                "addr:city": "Osi\u0119ciny",
+                "addr:street": "ul. Traugutta",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 22961,
+                "addr:teryt:sym_ul": 867087,
+                "contact:phone": "+48 542650095",
+                "contact:website": "http:\/\/www.pk.osieciny.pl",
+                "ref:regon": "910004700",
+                "ref:vatin": "PL8891488526",
+                "operator": "Gmina Osi\u0119ciny",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 275213"
+            }
+        },
+        {
+            "id": 5527,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.71954,
+                    52.625710000000005
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 5527,
+                "official_name": "Szko\u0142a Podstawowa w Osi\u0119cinach",
+                "name": "Szko\u0142a Podstawowa w Osi\u0119cinach",
+                "addr:country": "PL",
+                "addr:postcode": "88-220",
+                "addr:city": "Osi\u0119ciny",
+                "addr:street": "ul. Traugutta",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 22961,
+                "addr:teryt:sym_ul": 867087,
+                "contact:phone": "+48 542650018",
+                "contact:email": "apolaszek@wp.pl",
+                "contact:website": "http:\/\/www.sp.osieciny.pl",
+                "ref:regon": "000268613",
+                "ref:vatin": "PL8891488414",
+                "operator": "Gmina Osi\u0119ciny",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 275213"
+            }
+        },
+        {
+            "id": 272218,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.72047,
+                    52.63114
+                ]
+            },
+            "properties": {
+                "ref:rspo": 272218,
+                "official_name": "Niepubliczne Przedszkole \"Mali Odkrywcy\"",
+                "name": "Niepubliczne Przedszkole \"Mali Odkrywcy\"",
+                "addr:country": "PL",
+                "addr:postcode": "88-220",
+                "addr:city": "Osi\u0119ciny",
+                "addr:street": "ul. Wojska Polskiego",
+                "addr:housenumber": "2A",
+                "addr:teryt:simc": 24628,
+                "addr:teryt:sym_ul": 867087,
+                "contact:email": "mali.odkrywcy@interia.pl",
+                "contact:website": "http:\/\/przedszkoleosieciny.pl",
+                "ref:regon": "384042587",
+                "operator": "Magdalena Ilecka",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 5529,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.6919485,
+                    52.6908884
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 5529,
+                "official_name": "Niepubliczna Szko\u0142a Podstawowa im. \u015aw. Jana Paw\u0142a II w Pocierzynie I w Ko\u015bcielnej Wsi",
+                "name": "Niepubliczna Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "88-220",
+                "addr:place": "Pocierzyn",
+                "addr:housenumber": "35",
+                "addr:teryt:sym_ul": 867160,
+                "contact:phone": "+48 542650407",
+                "contact:email": "szkolaseremwsi@o2.pl",
+                "contact:website": "http:\/\/szkolasercemwsi.szkolnastrona.pl",
+                "ref:regon": "341319016",
+                "operator": "Stowarzyszenie \"Szko\u0142a Sercem Wsi\" W Pocierzynie",
+                "operator:type": "ngo",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 268067,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.6919485,
+                    52.690858399999996
+                ]
+            },
+            "properties": {
+                "ref:rspo": 268067,
+                "official_name": "Przedszkole Niepubliczne",
+                "name": "Przedszkole Niepubliczne",
+                "addr:country": "PL",
+                "addr:postcode": "88-220",
+                "addr:place": "Pocierzyn",
+                "addr:housenumber": "35",
+                "addr:teryt:sym_ul": 867160,
+                "contact:phone": "+48 542650407",
+                "contact:email": "szkolasercemwsi@o2.pl",
+                "contact:website": "http:\/\/szkolasercemwsi.szkolnastrona.pl",
+                "ref:regon": "380901510",
+                "operator": "Stowarzyszenie \"Szko\u0142a Sercem Wsi\" W Pocierzynie",
+                "operator:type": "ngo",
+                "amenity": "kindergarten"
+            }
+        }
+    ]
+}

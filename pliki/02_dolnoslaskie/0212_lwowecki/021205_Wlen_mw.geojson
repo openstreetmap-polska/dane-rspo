@@ -1,1 +1,102 @@
-{"type":"FeatureCollection","features":[{"id":4001,"type":"Feature","geometry":{"type":"Point","coordinates":[15.67247,51.01664]},"properties":{"ref:rspo":4001,"official_name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 im. \u015aw. Jadwigi \u015aL\u0105skiej","name":"Zesp\u00f3\u0142 Szk\u00f3\u0142","addr:country":"PL","addr:postcode":"59-610","addr:city":"Wle\u0144","addr:street":"ul. Dworcowa","addr:housenumber":"10","addr:teryt:simc":4434,"addr:teryt:sym_ul":936500,"contact:phone":"+48 757136369","contact:email":"sekretariat@szkolawlen.pl","contact:website":"http:\/\/zs.wlen.pl","ref:regon":"000265081","ref:vatin":"PL6161223895","operator":"Gmina Wle\u0144","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 7949;7988"}},{"id":7949,"type":"Feature","geometry":{"type":"Point","coordinates":[15.67247,51.01661]},"properties":{"isced:level":"1;2","ref:rspo":7949,"official_name":"Szko\u0142a Podstawowa w Zespole Szk\u00f3\u0142 im. \u015aw. Jawdigi \u015aL\u0105skiej","name":"Szko\u0142a Podstawowa w Zespole Szk\u00f3\u0142","addr:country":"PL","addr:postcode":"59-610","addr:city":"Wle\u0144","addr:street":"ul. Dworcowa","addr:housenumber":"10","addr:teryt:simc":4434,"addr:teryt:sym_ul":936500,"contact:phone":"+48 757136369","contact:email":"sekretariat@szkolawlen.pl","contact:website":"http:\/\/www.zs.wlen.pl","ref:regon":"231183817","ref:vatin":"PL6161223895","operator":"Gmina Wle\u0144","operator:type":"government","amenity":"school","note":"Parent RSPO: 4001"}},{"id":7988,"type":"Feature","geometry":{"type":"Point","coordinates":[15.67247,51.016580000000005]},"properties":{"ref:rspo":7988,"official_name":"Przedszkole w Zespole Szk\u00f3\u0142 im. Sw. Jadwigi \u015aL\u0105skiej","name":"Przedszkole w Zespole Szk\u00f3\u0142","addr:country":"PL","addr:postcode":"59-610","addr:city":"Wle\u0144","addr:street":"ul. Dworcowa","addr:housenumber":"10","addr:teryt:simc":4434,"addr:teryt:sym_ul":936500,"contact:email":"kierownik46@tlen.pl","contact:website":"http:\/\/www.zs.wlen.pl","ref:regon":"230070270","ref:vatin":"PL6161223895","operator":"Gmina Wle\u0144","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 4001"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 4001,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.67247,
+                    51.01664
+                ]
+            },
+            "properties": {
+                "ref:rspo": 4001,
+                "official_name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 im. \u015aw. Jadwigi \u015aL\u0105skiej",
+                "name": "Zesp\u00f3\u0142 Szk\u00f3\u0142",
+                "addr:country": "PL",
+                "addr:postcode": "59-610",
+                "addr:city": "Wle\u0144",
+                "addr:street": "ul. Dworcowa",
+                "addr:housenumber": "10",
+                "addr:teryt:simc": 4434,
+                "addr:teryt:sym_ul": 936500,
+                "contact:phone": "+48 757136369",
+                "contact:email": "sekretariat@szkolawlen.pl",
+                "contact:website": "http:\/\/zs.wlen.pl",
+                "ref:regon": "000265081",
+                "ref:vatin": "PL6161223895",
+                "operator": "Gmina Wle\u0144",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 7949;7988"
+            }
+        },
+        {
+            "id": 7949,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.67247,
+                    51.01661
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 7949,
+                "official_name": "Szko\u0142a Podstawowa w Zespole Szk\u00f3\u0142 im. \u015aw. Jawdigi \u015aL\u0105skiej",
+                "name": "Szko\u0142a Podstawowa w Zespole Szk\u00f3\u0142",
+                "addr:country": "PL",
+                "addr:postcode": "59-610",
+                "addr:city": "Wle\u0144",
+                "addr:street": "ul. Dworcowa",
+                "addr:housenumber": "10",
+                "addr:teryt:simc": 4434,
+                "addr:teryt:sym_ul": 936500,
+                "contact:phone": "+48 757136369",
+                "contact:email": "sekretariat@szkolawlen.pl",
+                "contact:website": "http:\/\/www.zs.wlen.pl",
+                "ref:regon": "231183817",
+                "ref:vatin": "PL6161223895",
+                "operator": "Gmina Wle\u0144",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 4001"
+            }
+        },
+        {
+            "id": 7988,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.67247,
+                    51.016580000000005
+                ]
+            },
+            "properties": {
+                "ref:rspo": 7988,
+                "official_name": "Przedszkole w Zespole Szk\u00f3\u0142 im. Sw. Jadwigi \u015aL\u0105skiej",
+                "name": "Przedszkole w Zespole Szk\u00f3\u0142",
+                "addr:country": "PL",
+                "addr:postcode": "59-610",
+                "addr:city": "Wle\u0144",
+                "addr:street": "ul. Dworcowa",
+                "addr:housenumber": "10",
+                "addr:teryt:simc": 4434,
+                "addr:teryt:sym_ul": 936500,
+                "contact:email": "kierownik46@tlen.pl",
+                "contact:website": "http:\/\/www.zs.wlen.pl",
+                "ref:regon": "230070270",
+                "ref:vatin": "PL6161223895",
+                "operator": "Gmina Wle\u0144",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 4001"
+            }
+        }
+    ]
+}

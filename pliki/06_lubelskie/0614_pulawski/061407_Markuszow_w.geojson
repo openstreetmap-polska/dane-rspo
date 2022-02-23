@@ -1,1 +1,66 @@
-{"type":"FeatureCollection","features":[{"id":83826,"type":"Feature","geometry":{"type":"Point","coordinates":[22.25711,51.37479]},"properties":{"ref:rspo":83826,"official_name":"Przedszkole Publiczne","name":"Przedszkole Publiczne","addr:country":"PL","addr:postcode":"24-173","addr:city":"Markusz\u00f3w","addr:street":"ul. Lubelska","addr:housenumber":"78","addr:teryt:simc":11307,"addr:teryt:sym_ul":385715,"contact:phone":"+48 818818009","contact:email":"przedszkole_marku@op.pl","ref:regon":"060704450","operator":"Gmina Markusz\u00f3w","operator:type":"government","amenity":"kindergarten"}},{"id":80321,"type":"Feature","geometry":{"type":"Point","coordinates":[22.25557,51.37532]},"properties":{"isced:level":"1;2","ref:rspo":80321,"official_name":"Szko\u0142a Podstawowa im. Jana Pocka w Markuszowie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"24-173","addr:city":"Markusz\u00f3w","addr:street":"ul. Lubelska","addr:housenumber":"80","addr:teryt:simc":11307,"addr:teryt:sym_ul":385715,"contact:phone":"+48 818818006","contact:email":"zsmarkuszow@op.pl","contact:website":"http:\/\/spmarkuszow.edupage.org","ref:regon":"001090755","ref:vatin":"PL7162727256","operator":"Gmina Markusz\u00f3w","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 83826,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.25711,
+                    51.37479
+                ]
+            },
+            "properties": {
+                "ref:rspo": 83826,
+                "official_name": "Przedszkole Publiczne",
+                "name": "Przedszkole Publiczne",
+                "addr:country": "PL",
+                "addr:postcode": "24-173",
+                "addr:city": "Markusz\u00f3w",
+                "addr:street": "ul. Lubelska",
+                "addr:housenumber": "78",
+                "addr:teryt:simc": 11307,
+                "addr:teryt:sym_ul": 385715,
+                "contact:phone": "+48 818818009",
+                "contact:email": "przedszkole_marku@op.pl",
+                "ref:regon": "060704450",
+                "operator": "Gmina Markusz\u00f3w",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 80321,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.25557,
+                    51.37532
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 80321,
+                "official_name": "Szko\u0142a Podstawowa im. Jana Pocka w Markuszowie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "24-173",
+                "addr:city": "Markusz\u00f3w",
+                "addr:street": "ul. Lubelska",
+                "addr:housenumber": "80",
+                "addr:teryt:simc": 11307,
+                "addr:teryt:sym_ul": 385715,
+                "contact:phone": "+48 818818006",
+                "contact:email": "zsmarkuszow@op.pl",
+                "contact:website": "http:\/\/spmarkuszow.edupage.org",
+                "ref:regon": "001090755",
+                "ref:vatin": "PL7162727256",
+                "operator": "Gmina Markusz\u00f3w",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

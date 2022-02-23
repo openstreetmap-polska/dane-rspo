@@ -1,1 +1,181 @@
-{"type":"FeatureCollection","features":[{"id":39621,"type":"Feature","geometry":{"type":"Point","coordinates":[19.3505499,51.60554]},"properties":{"isced:level":"1;2","ref:rspo":39621,"official_name":"Szko\u0142a Podstawowa im.marii Sk\u0142odowskiej-Curie w Pawlikowicach","name":"Szko\u0142a Podstawowa im.marii Sk\u0142odowskiej-Curie w Pawlikowicach","addr:country":"PL","addr:postcode":"95-200","addr:place":"Pawlikowice","addr:housenumber":"103","addr:teryt:sym_ul":414813,"contact:phone":"+48 422140529","contact:email":"pawlikowice103@wp.pl","ref:regon":"001103015","ref:vatin":"PL7311026867","operator":"Gmina Pabianice","operator:type":"government","amenity":"school"}},{"id":30720,"type":"Feature","geometry":{"type":"Point","coordinates":[19.36013,51.64075]},"properties":{"isced:level":"1;2","ref:rspo":30720,"official_name":"Szko\u0142a Podstawowa im.kornela Makuszy\u0144skiego w Bychlewie","name":"Szko\u0142a Podstawowa im.kornela Makuszy\u0144skiego w Bychlewie","addr:country":"PL","addr:postcode":"95-200","addr:place":"Bychlew","addr:housenumber":"13","addr:teryt:sym_ul":414629,"contact:phone":"+48 422140691","contact:email":"sekretariat@spbychlew.edu.pl","contact:website":"https:\/\/spbychlew.edupage.org","ref:regon":"001103038","ref:vatin":"PL7311383082","operator":"Gmina Pabianice","operator:type":"government","amenity":"school"}},{"id":30736,"type":"Feature","geometry":{"type":"Point","coordinates":[19.27978515625,51.67183303833]},"properties":{"isced:level":"1;2","ref:rspo":30736,"official_name":"Szko\u0142a Podstawowa im. H.christiana Andersena w Petrykozach","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"95-200","addr:place":"Petrykozy","addr:housenumber":"52","addr:teryt:sym_ul":414842,"contact:phone":"+48 422157027","contact:email":"olesko@poczta.wp.pl","ref:regon":"001103021","ref:vatin":"PL7311055633","operator":"Gmina Pabianice","operator:type":"government","amenity":"school"}},{"id":40219,"type":"Feature","geometry":{"type":"Point","coordinates":[19.27978515625,51.67180303833]},"properties":{"ref:rspo":40219,"official_name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w Piatkowisku","name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w Piatkowisku","addr:country":"PL","addr:postcode":"95-200","addr:place":"Pi\u0105tkowisko","addr:housenumber":"107","addr:teryt:sym_ul":414865,"contact:phone":"+48 422157487","contact:email":"sekretariat@zsp-piatkowisko.pl","contact:website":"http:\/\/zsp-piatkowisko.pl","ref:regon":"471602027","ref:vatin":"PL7311109530","operator":"Gmina Pabianice","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 55399;57671"}},{"id":57671,"type":"Feature","geometry":{"type":"Point","coordinates":[19.27978515625,51.67177303833]},"properties":{"isced:level":"1;2","ref:rspo":57671,"official_name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny Szko\u0142a Podstawowa w Piatkowisku","name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny Szko\u0142a Podstawowa w Piatkowisku","addr:country":"PL","addr:postcode":"95-200","addr:place":"Pi\u0105tkowisko","addr:housenumber":"107","addr:teryt:sym_ul":414865,"contact:phone":"+48 422157487","contact:email":"sekretariat@zsp-piatkowisko.pl","ref:regon":"001103009","operator":"Gmina Pabianice","operator:type":"government","amenity":"school","note":"Parent RSPO: 40219"}},{"id":55399,"type":"Feature","geometry":{"type":"Point","coordinates":[19.2408,51.69916]},"properties":{"ref:rspo":55399,"official_name":"Zesp\u00f3\u0142 Szkono-Przedszkolny w Pi\u0105tkowisku Przedszkole w \u017bytowicach","name":"Zesp\u00f3\u0142 Szkono-Przedszkolny w Pi\u0105tkowisku Przedszkole w \u017bytowicach","addr:country":"PL","addr:postcode":"95-200","addr:place":"\u017bytowice","addr:housenumber":"34","addr:teryt:sym_ul":414990,"contact:phone":"+48 422263090","contact:email":"sekretariat@zsp-piatkowisko.pl","ref:regon":"470010595","operator":"Gmina Pabianice","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 40219"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 39621,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.3505499,
+                    51.60554
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 39621,
+                "official_name": "Szko\u0142a Podstawowa im.marii Sk\u0142odowskiej-Curie w Pawlikowicach",
+                "name": "Szko\u0142a Podstawowa im.marii Sk\u0142odowskiej-Curie w Pawlikowicach",
+                "addr:country": "PL",
+                "addr:postcode": "95-200",
+                "addr:place": "Pawlikowice",
+                "addr:housenumber": "103",
+                "addr:teryt:sym_ul": 414813,
+                "contact:phone": "+48 422140529",
+                "contact:email": "pawlikowice103@wp.pl",
+                "ref:regon": "001103015",
+                "ref:vatin": "PL7311026867",
+                "operator": "Gmina Pabianice",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 30720,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.36013,
+                    51.64075
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 30720,
+                "official_name": "Szko\u0142a Podstawowa im.kornela Makuszy\u0144skiego w Bychlewie",
+                "name": "Szko\u0142a Podstawowa im.kornela Makuszy\u0144skiego w Bychlewie",
+                "addr:country": "PL",
+                "addr:postcode": "95-200",
+                "addr:place": "Bychlew",
+                "addr:housenumber": "13",
+                "addr:teryt:sym_ul": 414629,
+                "contact:phone": "+48 422140691",
+                "contact:email": "sekretariat@spbychlew.edu.pl",
+                "contact:website": "https:\/\/spbychlew.edupage.org",
+                "ref:regon": "001103038",
+                "ref:vatin": "PL7311383082",
+                "operator": "Gmina Pabianice",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 30736,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.27978515625,
+                    51.67183303833
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 30736,
+                "official_name": "Szko\u0142a Podstawowa im. H.christiana Andersena w Petrykozach",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "95-200",
+                "addr:place": "Petrykozy",
+                "addr:housenumber": "52",
+                "addr:teryt:sym_ul": 414842,
+                "contact:phone": "+48 422157027",
+                "contact:email": "olesko@poczta.wp.pl",
+                "ref:regon": "001103021",
+                "ref:vatin": "PL7311055633",
+                "operator": "Gmina Pabianice",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 40219,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.27978515625,
+                    51.67180303833
+                ]
+            },
+            "properties": {
+                "ref:rspo": 40219,
+                "official_name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w Piatkowisku",
+                "name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w Piatkowisku",
+                "addr:country": "PL",
+                "addr:postcode": "95-200",
+                "addr:place": "Pi\u0105tkowisko",
+                "addr:housenumber": "107",
+                "addr:teryt:sym_ul": 414865,
+                "contact:phone": "+48 422157487",
+                "contact:email": "sekretariat@zsp-piatkowisko.pl",
+                "contact:website": "http:\/\/zsp-piatkowisko.pl",
+                "ref:regon": "471602027",
+                "ref:vatin": "PL7311109530",
+                "operator": "Gmina Pabianice",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 55399;57671"
+            }
+        },
+        {
+            "id": 57671,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.27978515625,
+                    51.67177303833
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 57671,
+                "official_name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny Szko\u0142a Podstawowa w Piatkowisku",
+                "name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny Szko\u0142a Podstawowa w Piatkowisku",
+                "addr:country": "PL",
+                "addr:postcode": "95-200",
+                "addr:place": "Pi\u0105tkowisko",
+                "addr:housenumber": "107",
+                "addr:teryt:sym_ul": 414865,
+                "contact:phone": "+48 422157487",
+                "contact:email": "sekretariat@zsp-piatkowisko.pl",
+                "ref:regon": "001103009",
+                "operator": "Gmina Pabianice",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 40219"
+            }
+        },
+        {
+            "id": 55399,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.2408,
+                    51.69916
+                ]
+            },
+            "properties": {
+                "ref:rspo": 55399,
+                "official_name": "Zesp\u00f3\u0142 Szkono-Przedszkolny w Pi\u0105tkowisku Przedszkole w \u017bytowicach",
+                "name": "Zesp\u00f3\u0142 Szkono-Przedszkolny w Pi\u0105tkowisku Przedszkole w \u017bytowicach",
+                "addr:country": "PL",
+                "addr:postcode": "95-200",
+                "addr:place": "\u017bytowice",
+                "addr:housenumber": "34",
+                "addr:teryt:sym_ul": 414990,
+                "contact:phone": "+48 422263090",
+                "contact:email": "sekretariat@zsp-piatkowisko.pl",
+                "ref:regon": "470010595",
+                "operator": "Gmina Pabianice",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 40219"
+            }
+        }
+    ]
+}

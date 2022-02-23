@@ -1,1 +1,172 @@
-{"type":"FeatureCollection","features":[{"id":92597,"type":"Feature","geometry":{"type":"Point","coordinates":[20.472582,53.1480449]},"properties":{"isced:level":"1;2","ref:rspo":92597,"official_name":"Szko\u0142a Podstawowa w Windykach","name":"Szko\u0142a Podstawowa w Windykach","addr:country":"PL","addr:postcode":"06-513","addr:place":"Windyki","addr:housenumber":"20","addr:teryt:sym_ul":129076,"contact:phone":"+48 236540197","contact:email":"szpodwindyki@wp.pl","contact:website":"http:\/\/www.spwindyki.szkolnastrona.pl","ref:regon":"001157028","ref:vatin":"PL5691618394","operator":"Gmina Wieczfnia Ko\u015bcielna","operator:type":"government","amenity":"school"}},{"id":127744,"type":"Feature","geometry":{"type":"Point","coordinates":[20.472582,53.1480149]},"properties":{"ref:rspo":127744,"official_name":"Punkt Przedszkolny Przy Szkole Podstawowej w Windykach","name":"Punkt Przedszkolny Przy Szkole Podstawowej w Windykach","addr:country":"PL","addr:postcode":"06-513","addr:place":"Windyki","addr:housenumber":"20","addr:teryt:sym_ul":129076,"contact:phone":"+48 236540197","ref:regon":"361819559","operator":"Gmina Wieczfnia Ko\u015bcielna","operator:type":"government","amenity":"kindergarten"}},{"id":92611,"type":"Feature","geometry":{"type":"Point","coordinates":[20.4177851,53.1647679]},"properties":{"isced:level":"1;2","ref:rspo":92611,"official_name":"Szko\u0142a Podstawowa im. Kr\u00f3la W\u0142adys\u0142awa \u0141okietka w Uniszkach Zawadzkich","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"06-513","addr:place":"Uniszki Zawadzkie","addr:housenumber":"24","addr:teryt:sym_ul":129030,"contact:phone":"+48 236549971","contact:email":"szpoduniszki@wp.pl","ref:regon":"001157011","ref:vatin":"PL5691618307","operator":"Gmina Wieczfnia Ko\u015bcielna","operator:type":"government","amenity":"school"}},{"id":127742,"type":"Feature","geometry":{"type":"Point","coordinates":[20.4177851,53.1647379]},"properties":{"ref:rspo":127742,"official_name":"Punkt Przedszkolny Przy Szkole Podstawowej w Uniszkach Zawadzkich","name":"Punkt Przedszkolny Przy Szkole Podstawowej w Uniszkach Zawadzkich","addr:country":"PL","addr:postcode":"06-513","addr:place":"Uniszki Zawadzkie","addr:housenumber":"24","addr:teryt:sym_ul":129030,"contact:phone":"+48 236549971","contact:email":"szpoduniszki@wp.pl","ref:regon":"361819520","operator":"Gmina Wieczfnia Ko\u015bcielna","operator:type":"government","amenity":"kindergarten"}},{"id":93146,"type":"Feature","geometry":{"type":"Point","coordinates":[20.479957,53.1957309]},"properties":{"isced:level":"1;2","ref:rspo":93146,"official_name":"Szko\u0142a Podstawowa im. Marsza\u0142ka J\u00f3zefa Pi\u0142sudskiego w Wieczfni Ko\u015bcielnej","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"06-513","addr:place":"Wieczfnia Ko\u015bcielna","addr:housenumber":"56c","addr:teryt:sym_ul":129060,"contact:phone":"+48 236540013","contact:email":"spwieczfnia@wp.pl","contact:website":"http:\/\/zswieczfnia.koscielna.szkolnastrona.pl","ref:regon":"000820602","operator":"Gmina Wieczfnia Ko\u015bcielna","operator:type":"government","amenity":"school"}},{"id":127745,"type":"Feature","geometry":{"type":"Point","coordinates":[20.479957,53.1957009]},"properties":{"ref:rspo":127745,"official_name":"Punkt Przedszkolny Przy Szkole Podstawowej im. Marsza\u0142ka J\u00f3zefa Pi\u0142sudskiego w Wieczfni Ko\u015bcielnej","name":"Punkt Przedszkolny Przy Szkole Podstawowej","addr:country":"PL","addr:postcode":"06-513","addr:place":"Wieczfnia Ko\u015bcielna","addr:housenumber":"56C","addr:teryt:sym_ul":129060,"contact:phone":"+48 236540013","ref:regon":"361819565","operator":"Gmina Wieczfnia Ko\u015bcielna","operator:type":"government","amenity":"kindergarten"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 92597,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.472582,
+                    53.1480449
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 92597,
+                "official_name": "Szko\u0142a Podstawowa w Windykach",
+                "name": "Szko\u0142a Podstawowa w Windykach",
+                "addr:country": "PL",
+                "addr:postcode": "06-513",
+                "addr:place": "Windyki",
+                "addr:housenumber": "20",
+                "addr:teryt:sym_ul": 129076,
+                "contact:phone": "+48 236540197",
+                "contact:email": "szpodwindyki@wp.pl",
+                "contact:website": "http:\/\/www.spwindyki.szkolnastrona.pl",
+                "ref:regon": "001157028",
+                "ref:vatin": "PL5691618394",
+                "operator": "Gmina Wieczfnia Ko\u015bcielna",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 127744,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.472582,
+                    53.1480149
+                ]
+            },
+            "properties": {
+                "ref:rspo": 127744,
+                "official_name": "Punkt Przedszkolny Przy Szkole Podstawowej w Windykach",
+                "name": "Punkt Przedszkolny Przy Szkole Podstawowej w Windykach",
+                "addr:country": "PL",
+                "addr:postcode": "06-513",
+                "addr:place": "Windyki",
+                "addr:housenumber": "20",
+                "addr:teryt:sym_ul": 129076,
+                "contact:phone": "+48 236540197",
+                "ref:regon": "361819559",
+                "operator": "Gmina Wieczfnia Ko\u015bcielna",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 92611,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.4177851,
+                    53.1647679
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 92611,
+                "official_name": "Szko\u0142a Podstawowa im. Kr\u00f3la W\u0142adys\u0142awa \u0141okietka w Uniszkach Zawadzkich",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "06-513",
+                "addr:place": "Uniszki Zawadzkie",
+                "addr:housenumber": "24",
+                "addr:teryt:sym_ul": 129030,
+                "contact:phone": "+48 236549971",
+                "contact:email": "szpoduniszki@wp.pl",
+                "ref:regon": "001157011",
+                "ref:vatin": "PL5691618307",
+                "operator": "Gmina Wieczfnia Ko\u015bcielna",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 127742,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.4177851,
+                    53.1647379
+                ]
+            },
+            "properties": {
+                "ref:rspo": 127742,
+                "official_name": "Punkt Przedszkolny Przy Szkole Podstawowej w Uniszkach Zawadzkich",
+                "name": "Punkt Przedszkolny Przy Szkole Podstawowej w Uniszkach Zawadzkich",
+                "addr:country": "PL",
+                "addr:postcode": "06-513",
+                "addr:place": "Uniszki Zawadzkie",
+                "addr:housenumber": "24",
+                "addr:teryt:sym_ul": 129030,
+                "contact:phone": "+48 236549971",
+                "contact:email": "szpoduniszki@wp.pl",
+                "ref:regon": "361819520",
+                "operator": "Gmina Wieczfnia Ko\u015bcielna",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 93146,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.479957,
+                    53.1957309
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 93146,
+                "official_name": "Szko\u0142a Podstawowa im. Marsza\u0142ka J\u00f3zefa Pi\u0142sudskiego w Wieczfni Ko\u015bcielnej",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "06-513",
+                "addr:place": "Wieczfnia Ko\u015bcielna",
+                "addr:housenumber": "56c",
+                "addr:teryt:sym_ul": 129060,
+                "contact:phone": "+48 236540013",
+                "contact:email": "spwieczfnia@wp.pl",
+                "contact:website": "http:\/\/zswieczfnia.koscielna.szkolnastrona.pl",
+                "ref:regon": "000820602",
+                "operator": "Gmina Wieczfnia Ko\u015bcielna",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 127745,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.479957,
+                    53.1957009
+                ]
+            },
+            "properties": {
+                "ref:rspo": 127745,
+                "official_name": "Punkt Przedszkolny Przy Szkole Podstawowej im. Marsza\u0142ka J\u00f3zefa Pi\u0142sudskiego w Wieczfni Ko\u015bcielnej",
+                "name": "Punkt Przedszkolny Przy Szkole Podstawowej",
+                "addr:country": "PL",
+                "addr:postcode": "06-513",
+                "addr:place": "Wieczfnia Ko\u015bcielna",
+                "addr:housenumber": "56C",
+                "addr:teryt:sym_ul": 129060,
+                "contact:phone": "+48 236540013",
+                "ref:regon": "361819565",
+                "operator": "Gmina Wieczfnia Ko\u015bcielna",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        }
+    ]
+}

@@ -1,1 +1,68 @@
-{"type":"FeatureCollection","features":[{"id":84700,"type":"Feature","geometry":{"type":"Point","coordinates":[16.65321,50.9800899]},"properties":{"ref:rspo":84700,"official_name":"Publiczne Przedszkole w Mietkowie","name":"Publiczne Przedszkole w Mietkowie","addr:country":"PL","addr:postcode":"55-081","addr:city":"Mietk\u00f3w","addr:street":"ul. Kolejowa","addr:housenumber":"28B","addr:teryt:simc":8828,"addr:teryt:sym_ul":877080,"contact:phone":"+48 713168272","contact:email":"przedszkole.mietkow@wp.pl","contact:website":"http:\/\/www.pmietkow.edupage.org","ref:regon":"001040823","ref:vatin":"PL9131028535","operator":"Gmina Mietk\u00f3w","operator:type":"government","amenity":"kindergarten"}},{"id":84698,"type":"Feature","geometry":{"type":"Point","coordinates":[16.65241,50.9802]},"properties":{"isced:level":"1;2","ref:rspo":84698,"official_name":"Szko\u0142a Podstawowa im. Ojca \u015awi\u0119tego Jana Pawa\u0142a II w Mietkowie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"55-081","addr:city":"Mietk\u00f3w","addr:street":"ul. Kolejowa","addr:housenumber":"28C","addr:teryt:simc":8828,"addr:teryt:sym_ul":877080,"contact:phone":"+48 713168263","contact:email":"spmietkow@interia.pl","contact:website":"http:\/\/www.spmietkow.szkolnastrona.pl","ref:regon":"001038536","ref:vatin":"PL9131028529","operator":"Gmina Mietk\u00f3w","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 84700,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.65321,
+                    50.9800899
+                ]
+            },
+            "properties": {
+                "ref:rspo": 84700,
+                "official_name": "Publiczne Przedszkole w Mietkowie",
+                "name": "Publiczne Przedszkole w Mietkowie",
+                "addr:country": "PL",
+                "addr:postcode": "55-081",
+                "addr:city": "Mietk\u00f3w",
+                "addr:street": "ul. Kolejowa",
+                "addr:housenumber": "28B",
+                "addr:teryt:simc": 8828,
+                "addr:teryt:sym_ul": 877080,
+                "contact:phone": "+48 713168272",
+                "contact:email": "przedszkole.mietkow@wp.pl",
+                "contact:website": "http:\/\/www.pmietkow.edupage.org",
+                "ref:regon": "001040823",
+                "ref:vatin": "PL9131028535",
+                "operator": "Gmina Mietk\u00f3w",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 84698,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.65241,
+                    50.9802
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 84698,
+                "official_name": "Szko\u0142a Podstawowa im. Ojca \u015awi\u0119tego Jana Pawa\u0142a II w Mietkowie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "55-081",
+                "addr:city": "Mietk\u00f3w",
+                "addr:street": "ul. Kolejowa",
+                "addr:housenumber": "28C",
+                "addr:teryt:simc": 8828,
+                "addr:teryt:sym_ul": 877080,
+                "contact:phone": "+48 713168263",
+                "contact:email": "spmietkow@interia.pl",
+                "contact:website": "http:\/\/www.spmietkow.szkolnastrona.pl",
+                "ref:regon": "001038536",
+                "ref:vatin": "PL9131028529",
+                "operator": "Gmina Mietk\u00f3w",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

@@ -1,1 +1,161 @@
-{"type":"FeatureCollection","features":[{"id":28577,"type":"Feature","geometry":{"type":"Point","coordinates":[18.8024509,54.162131]},"properties":{"isced:level":"1;2","ref:rspo":28577,"official_name":"Szko\u0142a Podstawowa im. Ksi\u0119dza Pra\u0142ata J\u00f3zefa Wal\u0105ga w Ko\u017alinach","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"83-022","addr:place":"Ko\u017aliny","addr:housenumber":"50","addr:teryt:sym_ul":174480,"contact:phone":"+48 586927088","contact:email":"spkozliny@op.pl","contact:website":"http:\/\/www.spkozliny.pl","ref:regon":"190964710","ref:vatin":"PL6040062660","operator":"Gmina Suchy D\u0105b","operator:type":"government","amenity":"school"}},{"id":49533,"type":"Feature","geometry":{"type":"Point","coordinates":[18.7638,54.20693]},"properties":{"isced:level":"1;2","ref:rspo":49533,"official_name":"Szko\u0142a Podstawowa im. Obro\u0144c\u00f3w Westerplatte w Suchym D\u0119bie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"83-022","addr:city":"Suchy D\u0105b","addr:street":"ul. Sportowa","addr:housenumber":"11","addr:teryt:simc":20683,"addr:teryt:sym_ul":174540,"contact:phone":"+48 586828626","contact:email":"sekretariat.sp.sd@outlook.com","contact:website":"http:\/\/www.suchydab.edu.pl","ref:regon":"190964733","ref:vatin":"PL6040062683","operator":"Gmina Suchy D\u0105b","operator:type":"government","amenity":"school"}},{"id":119097,"type":"Feature","geometry":{"type":"Point","coordinates":[18.75308,54.23943]},"properties":{"ref:rspo":119097,"official_name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w Grabinach-Zameczku","name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w Grabinach-Zameczku","addr:country":"PL","addr:postcode":"83-022","addr:city":"Grabiny-Zameczek","addr:street":"ul. Gda\u0144ska","addr:housenumber":"88","addr:teryt:simc":5431,"addr:teryt:sym_ul":174467,"contact:phone":"+48 586828689","ref:regon":"221942998","ref:vatin":"PL6040160552","operator":"Gmina Suchy D\u0105b","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 28518;28576"}},{"id":28518,"type":"Feature","geometry":{"type":"Point","coordinates":[18.75308,54.239399999999996]},"properties":{"isced:level":"1;2","ref:rspo":28518,"official_name":"Szko\u0142a Podstawowa w Grabinach-Zameczku","name":"Szko\u0142a Podstawowa w Grabinach-Zameczku","addr:country":"PL","addr:postcode":"83-022","addr:city":"Grabiny-Zameczek","addr:street":"ul. Gda\u0144ska","addr:housenumber":"88","addr:teryt:simc":5431,"addr:teryt:sym_ul":174467,"contact:phone":"+48 586828689","contact:email":"zspg-z@wp.pl","ref:regon":"190964740","ref:vatin":"PL6040062677","operator":"Gmina Suchy D\u0105b","operator:type":"government","amenity":"school","note":"Parent RSPO: 119097"}},{"id":28576,"type":"Feature","geometry":{"type":"Point","coordinates":[18.75308,54.23937]},"properties":{"ref:rspo":28576,"official_name":"Gminne Przedszkole w Grabinach-Zameczku","name":"Gminne Przedszkole w Grabinach-Zameczku","addr:country":"PL","addr:postcode":"83-022","addr:city":"Grabiny-Zameczek","addr:street":"ul. Gda\u0144ska","addr:housenumber":"88","addr:teryt:simc":5431,"addr:teryt:sym_ul":174467,"contact:phone":"+48 586828689","contact:email":"zspg-z@wp.pl","ref:regon":"221712092","ref:vatin":"PL6040157685","operator":"Gmina Suchy D\u0105b","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 119097"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 28577,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.8024509,
+                    54.162131
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 28577,
+                "official_name": "Szko\u0142a Podstawowa im. Ksi\u0119dza Pra\u0142ata J\u00f3zefa Wal\u0105ga w Ko\u017alinach",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "83-022",
+                "addr:place": "Ko\u017aliny",
+                "addr:housenumber": "50",
+                "addr:teryt:sym_ul": 174480,
+                "contact:phone": "+48 586927088",
+                "contact:email": "spkozliny@op.pl",
+                "contact:website": "http:\/\/www.spkozliny.pl",
+                "ref:regon": "190964710",
+                "ref:vatin": "PL6040062660",
+                "operator": "Gmina Suchy D\u0105b",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 49533,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.7638,
+                    54.20693
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 49533,
+                "official_name": "Szko\u0142a Podstawowa im. Obro\u0144c\u00f3w Westerplatte w Suchym D\u0119bie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "83-022",
+                "addr:city": "Suchy D\u0105b",
+                "addr:street": "ul. Sportowa",
+                "addr:housenumber": "11",
+                "addr:teryt:simc": 20683,
+                "addr:teryt:sym_ul": 174540,
+                "contact:phone": "+48 586828626",
+                "contact:email": "sekretariat.sp.sd@outlook.com",
+                "contact:website": "http:\/\/www.suchydab.edu.pl",
+                "ref:regon": "190964733",
+                "ref:vatin": "PL6040062683",
+                "operator": "Gmina Suchy D\u0105b",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 119097,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.75308,
+                    54.23943
+                ]
+            },
+            "properties": {
+                "ref:rspo": 119097,
+                "official_name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w Grabinach-Zameczku",
+                "name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w Grabinach-Zameczku",
+                "addr:country": "PL",
+                "addr:postcode": "83-022",
+                "addr:city": "Grabiny-Zameczek",
+                "addr:street": "ul. Gda\u0144ska",
+                "addr:housenumber": "88",
+                "addr:teryt:simc": 5431,
+                "addr:teryt:sym_ul": 174467,
+                "contact:phone": "+48 586828689",
+                "ref:regon": "221942998",
+                "ref:vatin": "PL6040160552",
+                "operator": "Gmina Suchy D\u0105b",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 28518;28576"
+            }
+        },
+        {
+            "id": 28518,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.75308,
+                    54.239399999999996
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 28518,
+                "official_name": "Szko\u0142a Podstawowa w Grabinach-Zameczku",
+                "name": "Szko\u0142a Podstawowa w Grabinach-Zameczku",
+                "addr:country": "PL",
+                "addr:postcode": "83-022",
+                "addr:city": "Grabiny-Zameczek",
+                "addr:street": "ul. Gda\u0144ska",
+                "addr:housenumber": "88",
+                "addr:teryt:simc": 5431,
+                "addr:teryt:sym_ul": 174467,
+                "contact:phone": "+48 586828689",
+                "contact:email": "zspg-z@wp.pl",
+                "ref:regon": "190964740",
+                "ref:vatin": "PL6040062677",
+                "operator": "Gmina Suchy D\u0105b",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 119097"
+            }
+        },
+        {
+            "id": 28576,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.75308,
+                    54.23937
+                ]
+            },
+            "properties": {
+                "ref:rspo": 28576,
+                "official_name": "Gminne Przedszkole w Grabinach-Zameczku",
+                "name": "Gminne Przedszkole w Grabinach-Zameczku",
+                "addr:country": "PL",
+                "addr:postcode": "83-022",
+                "addr:city": "Grabiny-Zameczek",
+                "addr:street": "ul. Gda\u0144ska",
+                "addr:housenumber": "88",
+                "addr:teryt:simc": 5431,
+                "addr:teryt:sym_ul": 174467,
+                "contact:phone": "+48 586828689",
+                "contact:email": "zspg-z@wp.pl",
+                "ref:regon": "221712092",
+                "ref:vatin": "PL6040157685",
+                "operator": "Gmina Suchy D\u0105b",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 119097"
+            }
+        }
+    ]
+}

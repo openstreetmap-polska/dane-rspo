@@ -1,1 +1,97 @@
-{"type":"FeatureCollection","features":[{"id":28264,"type":"Feature","geometry":{"type":"Point","coordinates":[20.2737342,51.0734589]},"properties":{"ref:rspo":28264,"official_name":"Zesp\u00f3\u0142 Publicznych Plac\u00f3wek O\u015bwiatowych w Rudzie Malenieckiej","name":"Zesp\u00f3\u0142 Publicznych Plac\u00f3wek O\u015bwiatowych w Rudzie Malenieckiej","addr:country":"PL","addr:postcode":"26-242","addr:place":"Ruda Maleniecka","addr:housenumber":"105","addr:teryt:sym_ul":266608,"contact:phone":"+48 413731519","contact:email":"gimrudamal@wp.pl","contact:website":"https:\/\/zpporudamaleniecka.szkolna.net\/","ref:regon":"260243787","ref:vatin":"PL6581936107","operator":"Gmina Ruda Maleniecka","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 28168;42920"}},{"id":42920,"type":"Feature","geometry":{"type":"Point","coordinates":[20.2737342,51.073428899999996]},"properties":{"isced:level":"1;2","ref:rspo":42920,"official_name":"Publiczna Szko\u0142a Podstawowa im. Stefana \u017beromskiego w Rudzie Malenieckiej","name":"Publiczna Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"26-242","addr:place":"Ruda Maleniecka","addr:housenumber":"105","addr:teryt:sym_ul":266608,"contact:phone":"+48 413731519","contact:email":"gimrudamal@wp.pl","contact:website":"http:\/\/zpporudamaleniecka.szkolna.net","ref:regon":"001217747","ref:vatin":"PL6581936107","operator":"Gmina Ruda Maleniecka","operator:type":"government","amenity":"school","note":"Parent RSPO: 28264"}},{"id":28168,"type":"Feature","geometry":{"type":"Point","coordinates":[20.2174051,51.146913]},"properties":{"ref:rspo":28168,"official_name":"Publiczne Przedszkole w Rudzie Malenieckiej","name":"Publiczne Przedszkole w Rudzie Malenieckiej","addr:country":"PL","addr:postcode":"26-242","addr:place":"Ruda Maleniecka","addr:housenumber":"99","addr:teryt:sym_ul":266608,"contact:phone":"+48 413731519","contact:email":"zpporudamaleniecka@wp.pl","contact:website":"http:\/\/zpporudamaleniecka.szkolna.net\/","ref:regon":"290015353","ref:vatin":"PL6581936107","operator":"Gmina Ruda Maleniecka","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 28264"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 28264,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.2737342,
+                    51.0734589
+                ]
+            },
+            "properties": {
+                "ref:rspo": 28264,
+                "official_name": "Zesp\u00f3\u0142 Publicznych Plac\u00f3wek O\u015bwiatowych w Rudzie Malenieckiej",
+                "name": "Zesp\u00f3\u0142 Publicznych Plac\u00f3wek O\u015bwiatowych w Rudzie Malenieckiej",
+                "addr:country": "PL",
+                "addr:postcode": "26-242",
+                "addr:place": "Ruda Maleniecka",
+                "addr:housenumber": "105",
+                "addr:teryt:sym_ul": 266608,
+                "contact:phone": "+48 413731519",
+                "contact:email": "gimrudamal@wp.pl",
+                "contact:website": "https:\/\/zpporudamaleniecka.szkolna.net\/",
+                "ref:regon": "260243787",
+                "ref:vatin": "PL6581936107",
+                "operator": "Gmina Ruda Maleniecka",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 28168;42920"
+            }
+        },
+        {
+            "id": 42920,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.2737342,
+                    51.073428899999996
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 42920,
+                "official_name": "Publiczna Szko\u0142a Podstawowa im. Stefana \u017beromskiego w Rudzie Malenieckiej",
+                "name": "Publiczna Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "26-242",
+                "addr:place": "Ruda Maleniecka",
+                "addr:housenumber": "105",
+                "addr:teryt:sym_ul": 266608,
+                "contact:phone": "+48 413731519",
+                "contact:email": "gimrudamal@wp.pl",
+                "contact:website": "http:\/\/zpporudamaleniecka.szkolna.net",
+                "ref:regon": "001217747",
+                "ref:vatin": "PL6581936107",
+                "operator": "Gmina Ruda Maleniecka",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 28264"
+            }
+        },
+        {
+            "id": 28168,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.2174051,
+                    51.146913
+                ]
+            },
+            "properties": {
+                "ref:rspo": 28168,
+                "official_name": "Publiczne Przedszkole w Rudzie Malenieckiej",
+                "name": "Publiczne Przedszkole w Rudzie Malenieckiej",
+                "addr:country": "PL",
+                "addr:postcode": "26-242",
+                "addr:place": "Ruda Maleniecka",
+                "addr:housenumber": "99",
+                "addr:teryt:sym_ul": 266608,
+                "contact:phone": "+48 413731519",
+                "contact:email": "zpporudamaleniecka@wp.pl",
+                "contact:website": "http:\/\/zpporudamaleniecka.szkolna.net\/",
+                "ref:regon": "290015353",
+                "ref:vatin": "PL6581936107",
+                "operator": "Gmina Ruda Maleniecka",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 28264"
+            }
+        }
+    ]
+}

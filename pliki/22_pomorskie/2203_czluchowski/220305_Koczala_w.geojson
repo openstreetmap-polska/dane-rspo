@@ -1,1 +1,99 @@
-{"type":"FeatureCollection","features":[{"id":26395,"type":"Feature","geometry":{"type":"Point","coordinates":[17.06224,53.9053]},"properties":{"ref:rspo":26395,"official_name":"Zesp\u00f3\u0142 Kszta\u0142cenia I Wychowania","name":"Zesp\u00f3\u0142 Kszta\u0142cenia I Wychowania","addr:country":"PL","addr:postcode":"77-220","addr:city":"Kocza\u0142a","addr:street":"ul. Szkolna","addr:housenumber":"16","addr:teryt:simc":21970,"addr:teryt:sym_ul":745674,"contact:phone":"+48 598574275","contact:email":"zkiwkoczala@szkola-koczala.pl","ref:regon":"771270337","ref:vatin":"PL8431200073","operator":"Gmina Kocza\u0142a","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 30307;30394"}},{"id":30307,"type":"Feature","geometry":{"type":"Point","coordinates":[17.06224,53.905269999999994]},"properties":{"isced:level":"1;2","ref:rspo":30307,"official_name":"Szko\u0142a Podstawowa im. \u017bo\u0142nierzy I Armii Wojska Polskiego w Koczale","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"77-220","addr:city":"Kocza\u0142a","addr:street":"ul. Szkolna","addr:housenumber":"16","addr:teryt:simc":21970,"addr:teryt:sym_ul":745674,"contact:phone":"+48 598574275","contact:email":"zkiwkoczala@szkola-koczala.pl","contact:website":"https:\/\/szkola-koczala.edupage.org","ref:regon":"771598339","operator":"Gmina Kocza\u0142a","operator:type":"government","amenity":"school","note":"Parent RSPO: 26395"}},{"id":30394,"type":"Feature","geometry":{"type":"Point","coordinates":[17.06314,53.90696]},"properties":{"ref:rspo":30394,"official_name":"Przedszkole Publiczne w Koczale","name":"Przedszkole Publiczne w Koczale","addr:country":"PL","addr:postcode":"77-220","addr:city":"Kocza\u0142a","addr:street":"ul. M\u0142odzie\u017cowa","addr:housenumber":"8","addr:teryt:simc":13096,"addr:teryt:sym_ul":745674,"contact:phone":"+48 598574206","contact:email":"przedszkolekoczala@szkola-koczala.pl","ref:regon":"771598316","operator":"Gmina Kocza\u0142a","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 26395"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 26395,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.06224,
+                    53.9053
+                ]
+            },
+            "properties": {
+                "ref:rspo": 26395,
+                "official_name": "Zesp\u00f3\u0142 Kszta\u0142cenia I Wychowania",
+                "name": "Zesp\u00f3\u0142 Kszta\u0142cenia I Wychowania",
+                "addr:country": "PL",
+                "addr:postcode": "77-220",
+                "addr:city": "Kocza\u0142a",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "16",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 745674,
+                "contact:phone": "+48 598574275",
+                "contact:email": "zkiwkoczala@szkola-koczala.pl",
+                "ref:regon": "771270337",
+                "ref:vatin": "PL8431200073",
+                "operator": "Gmina Kocza\u0142a",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 30307;30394"
+            }
+        },
+        {
+            "id": 30307,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.06224,
+                    53.905269999999994
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 30307,
+                "official_name": "Szko\u0142a Podstawowa im. \u017bo\u0142nierzy I Armii Wojska Polskiego w Koczale",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "77-220",
+                "addr:city": "Kocza\u0142a",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "16",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 745674,
+                "contact:phone": "+48 598574275",
+                "contact:email": "zkiwkoczala@szkola-koczala.pl",
+                "contact:website": "https:\/\/szkola-koczala.edupage.org",
+                "ref:regon": "771598339",
+                "operator": "Gmina Kocza\u0142a",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 26395"
+            }
+        },
+        {
+            "id": 30394,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.06314,
+                    53.90696
+                ]
+            },
+            "properties": {
+                "ref:rspo": 30394,
+                "official_name": "Przedszkole Publiczne w Koczale",
+                "name": "Przedszkole Publiczne w Koczale",
+                "addr:country": "PL",
+                "addr:postcode": "77-220",
+                "addr:city": "Kocza\u0142a",
+                "addr:street": "ul. M\u0142odzie\u017cowa",
+                "addr:housenumber": "8",
+                "addr:teryt:simc": 13096,
+                "addr:teryt:sym_ul": 745674,
+                "contact:phone": "+48 598574206",
+                "contact:email": "przedszkolekoczala@szkola-koczala.pl",
+                "ref:regon": "771598316",
+                "operator": "Gmina Kocza\u0142a",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 26395"
+            }
+        }
+    ]
+}

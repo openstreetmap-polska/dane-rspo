@@ -1,1 +1,204 @@
-{"type":"FeatureCollection","features":[{"id":24036,"type":"Feature","geometry":{"type":"Point","coordinates":[23.462424,51.6676069]},"properties":{"isced:level":"1;2","ref:rspo":24036,"official_name":"Szko\u0142a Podstawowa im. J.I.kraszewskiego","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"22-220","addr:place":"Za\u015bwiatycze","addr:housenumber":"46","addr:teryt:sym_ul":12434,"contact:phone":"+48 833799010","contact:email":"spzaswiatycze@poczta.onet.pl","contact:website":"http:\/\/www.zaswiatycze.pl","ref:regon":"061467288","ref:vatin":"PL5651405775","operator":"Spo\u0142eczno O\u015bwiatowe Stowarzyszenie Pomocy Pokrzywdzonym I Niepe\u0142nosprawnym \"Edukator\" W \u0141om\u017cy O\/Za\u015bwiatycze","operator:type":"ngo","amenity":"school"}},{"id":126565,"type":"Feature","geometry":{"type":"Point","coordinates":[23.462424,51.6675769]},"properties":{"ref:rspo":126565,"official_name":"Punkt Przedszkolny w Za\u015bwiatyczach","name":"Punkt Przedszkolny w Za\u015bwiatyczach","addr:country":"PL","addr:postcode":"22-220","addr:place":"Za\u015bwiatycze","addr:housenumber":"46","addr:teryt:sym_ul":12434,"contact:phone":"+48 833799010","contact:email":"spzaswiatycze@poczta.onet.pl","ref:regon":"360507912","operator":"Spo\u0142eczno O\u015bwiatowe Stowarzyszenie Pomocy Pokrzywdzonym I Niepe\u0142nosprawnym \"Edukator\" W \u0141om\u017cy O\/Za\u015bwiatycze","operator:type":"ngo","amenity":"kindergarten"}},{"id":22134,"type":"Feature","geometry":{"type":"Point","coordinates":[23.361632,51.6752059]},"properties":{"isced:level":"1;2","ref:rspo":22134,"official_name":"Katolicka Szko\u0142a Podstawowa im.\u015bw.teresy w Holeszowie","name":"Katolicka Szko\u0142a Podstawowa im.\u015bw.teresy w Holeszowie","addr:country":"PL","addr:postcode":"22-220","addr:place":"Holesz\u00f3w","addr:housenumber":"119","addr:door":"14","addr:teryt:sym_ul":12256,"contact:phone":"+48 833792919","contact:email":"holeszow@wp.pl","ref:regon":"061466484","ref:vatin":"PL5651508334","operator":"Fundacja Teresianum","operator:type":"ngo","amenity":"school"}},{"id":127650,"type":"Feature","geometry":{"type":"Point","coordinates":[23.361632,51.6751759]},"properties":{"ref:rspo":127650,"official_name":"Niepubliczmny Punkt Przedszkolny w Holeszowie","name":"Niepubliczmny Punkt Przedszkolny w Holeszowie","addr:country":"PL","addr:postcode":"22-220","addr:place":"Holesz\u00f3w","addr:housenumber":"119","addr:door":"14","addr:teryt:sym_ul":12256,"contact:phone":"+48 833798919","ref:regon":"361793363","operator":"Fundacja Teresianum","operator:type":"ngo","amenity":"kindergarten"}},{"id":22385,"type":"Feature","geometry":{"type":"Point","coordinates":[23.5060839,51.6831559]},"properties":{"isced:level":"1;2","ref:rspo":22385,"official_name":"Niepubliczna Szko\u0142a Podstawowa w Do\u0142hobrodach","name":"Niepubliczna Szko\u0142a Podstawowa w Do\u0142hobrodach","addr:country":"PL","addr:postcode":"22-220","addr:place":"Do\u0142hobrody","addr:housenumber":"58","addr:teryt:sym_ul":12090,"contact:phone":"+48 833799007","contact:email":"sp-dolhobrody@o2.pl","ref:regon":"061469258","ref:vatin":"PL5651524072","operator":"Stowarzyszenie \"Iskierka Nadziei\"","operator:type":"ngo","amenity":"school"}},{"id":126530,"type":"Feature","geometry":{"type":"Point","coordinates":[23.5060839,51.6831259]},"properties":{"ref:rspo":126530,"official_name":"Niepubliczny Punkt Przedszkolny w Do\u0142hobrodach","name":"Niepubliczny Punkt Przedszkolny w Do\u0142hobrodach","addr:country":"PL","addr:postcode":"22-220","addr:place":"Do\u0142hobrody","addr:housenumber":"58","addr:teryt:sym_ul":12090,"contact:phone":"+48 833799007","ref:regon":"360438714","operator":"Stowarzyszenie \"Iskierka Nadziei\"","operator:type":"ngo","amenity":"kindergarten"}},{"id":110320,"type":"Feature","geometry":{"type":"Point","coordinates":[23.50284,51.72188]},"properties":{"isced:level":"1;2","ref:rspo":110320,"official_name":"Szko\u0142a Podstawowa Hanna","name":"Szko\u0142a Podstawowa Hanna","addr:country":"PL","addr:postcode":"22-220","addr:city":"Hanna","addr:street":"ul. Szkolna","addr:housenumber":"1","addr:teryt:simc":21970,"addr:teryt:sym_ul":12180,"contact:phone":"+48 833798009","contact:email":"zshanna@op.pl","ref:regon":"061525726","operator":"Fundacja Akademia Umiej\u0119tno\u015bci","operator:type":"ngo","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 24036,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.462424,
+                    51.6676069
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 24036,
+                "official_name": "Szko\u0142a Podstawowa im. J.I.kraszewskiego",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "22-220",
+                "addr:place": "Za\u015bwiatycze",
+                "addr:housenumber": "46",
+                "addr:teryt:sym_ul": 12434,
+                "contact:phone": "+48 833799010",
+                "contact:email": "spzaswiatycze@poczta.onet.pl",
+                "contact:website": "http:\/\/www.zaswiatycze.pl",
+                "ref:regon": "061467288",
+                "ref:vatin": "PL5651405775",
+                "operator": "Spo\u0142eczno O\u015bwiatowe Stowarzyszenie Pomocy Pokrzywdzonym I Niepe\u0142nosprawnym \"Edukator\" W \u0141om\u017cy O\/Za\u015bwiatycze",
+                "operator:type": "ngo",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 126565,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.462424,
+                    51.6675769
+                ]
+            },
+            "properties": {
+                "ref:rspo": 126565,
+                "official_name": "Punkt Przedszkolny w Za\u015bwiatyczach",
+                "name": "Punkt Przedszkolny w Za\u015bwiatyczach",
+                "addr:country": "PL",
+                "addr:postcode": "22-220",
+                "addr:place": "Za\u015bwiatycze",
+                "addr:housenumber": "46",
+                "addr:teryt:sym_ul": 12434,
+                "contact:phone": "+48 833799010",
+                "contact:email": "spzaswiatycze@poczta.onet.pl",
+                "ref:regon": "360507912",
+                "operator": "Spo\u0142eczno O\u015bwiatowe Stowarzyszenie Pomocy Pokrzywdzonym I Niepe\u0142nosprawnym \"Edukator\" W \u0141om\u017cy O\/Za\u015bwiatycze",
+                "operator:type": "ngo",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 22134,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.361632,
+                    51.6752059
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 22134,
+                "official_name": "Katolicka Szko\u0142a Podstawowa im.\u015bw.teresy w Holeszowie",
+                "name": "Katolicka Szko\u0142a Podstawowa im.\u015bw.teresy w Holeszowie",
+                "addr:country": "PL",
+                "addr:postcode": "22-220",
+                "addr:place": "Holesz\u00f3w",
+                "addr:housenumber": "119",
+                "addr:door": "14",
+                "addr:teryt:sym_ul": 12256,
+                "contact:phone": "+48 833792919",
+                "contact:email": "holeszow@wp.pl",
+                "ref:regon": "061466484",
+                "ref:vatin": "PL5651508334",
+                "operator": "Fundacja Teresianum",
+                "operator:type": "ngo",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 127650,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.361632,
+                    51.6751759
+                ]
+            },
+            "properties": {
+                "ref:rspo": 127650,
+                "official_name": "Niepubliczmny Punkt Przedszkolny w Holeszowie",
+                "name": "Niepubliczmny Punkt Przedszkolny w Holeszowie",
+                "addr:country": "PL",
+                "addr:postcode": "22-220",
+                "addr:place": "Holesz\u00f3w",
+                "addr:housenumber": "119",
+                "addr:door": "14",
+                "addr:teryt:sym_ul": 12256,
+                "contact:phone": "+48 833798919",
+                "ref:regon": "361793363",
+                "operator": "Fundacja Teresianum",
+                "operator:type": "ngo",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 22385,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.5060839,
+                    51.6831559
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 22385,
+                "official_name": "Niepubliczna Szko\u0142a Podstawowa w Do\u0142hobrodach",
+                "name": "Niepubliczna Szko\u0142a Podstawowa w Do\u0142hobrodach",
+                "addr:country": "PL",
+                "addr:postcode": "22-220",
+                "addr:place": "Do\u0142hobrody",
+                "addr:housenumber": "58",
+                "addr:teryt:sym_ul": 12090,
+                "contact:phone": "+48 833799007",
+                "contact:email": "sp-dolhobrody@o2.pl",
+                "ref:regon": "061469258",
+                "ref:vatin": "PL5651524072",
+                "operator": "Stowarzyszenie \"Iskierka Nadziei\"",
+                "operator:type": "ngo",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 126530,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.5060839,
+                    51.6831259
+                ]
+            },
+            "properties": {
+                "ref:rspo": 126530,
+                "official_name": "Niepubliczny Punkt Przedszkolny w Do\u0142hobrodach",
+                "name": "Niepubliczny Punkt Przedszkolny w Do\u0142hobrodach",
+                "addr:country": "PL",
+                "addr:postcode": "22-220",
+                "addr:place": "Do\u0142hobrody",
+                "addr:housenumber": "58",
+                "addr:teryt:sym_ul": 12090,
+                "contact:phone": "+48 833799007",
+                "ref:regon": "360438714",
+                "operator": "Stowarzyszenie \"Iskierka Nadziei\"",
+                "operator:type": "ngo",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 110320,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.50284,
+                    51.72188
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 110320,
+                "official_name": "Szko\u0142a Podstawowa Hanna",
+                "name": "Szko\u0142a Podstawowa Hanna",
+                "addr:country": "PL",
+                "addr:postcode": "22-220",
+                "addr:city": "Hanna",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 12180,
+                "contact:phone": "+48 833798009",
+                "contact:email": "zshanna@op.pl",
+                "ref:regon": "061525726",
+                "operator": "Fundacja Akademia Umiej\u0119tno\u015bci",
+                "operator:type": "ngo",
+                "amenity": "school"
+            }
+        }
+    ]
+}

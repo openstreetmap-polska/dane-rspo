@@ -1,1 +1,192 @@
-{"type":"FeatureCollection","features":[{"id":262831,"type":"Feature","geometry":{"type":"Point","coordinates":[18.827119827271,51.205699920654]},"properties":{"ref:rspo":262831,"official_name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w Zalesiu Z Siedzib\u0105 w Marianowie","name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w Zalesiu Z Siedzib\u0105 w Marianowie","addr:country":"PL","addr:postcode":"98-105","addr:place":"Marian\u00f3w","addr:housenumber":"12A","addr:teryt:sym_ul":719228,"contact:phone":"+48 436773346","contact:email":"spzalesie@wp.pl","contact:website":"http:\/\/spzalesie.wodzierady.pl","ref:regon":"368063283","operator":"Gmina Wodzierady","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 69059;115435"}},{"id":115435,"type":"Feature","geometry":{"type":"Point","coordinates":[18.827119827271,51.205669920653996]},"properties":{"ref:rspo":115435,"official_name":"Przedszkole Samorz\u0105dowe w Zalesiu Z Siedzib\u0105 w Marianowie","name":"Przedszkole Samorz\u0105dowe w Zalesiu Z Siedzib\u0105 w Marianowie","addr:country":"PL","addr:postcode":"98-105","addr:place":"Marian\u00f3w","addr:housenumber":"12A","addr:teryt:sym_ul":719228,"contact:phone":"+48 436773346","contact:email":"spzalesie@wp.pl","contact:website":"http:\/\/spzalesie.wodzierady.pl","ref:regon":"101630183","operator":"Gmina Wodzierady","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 262831"}},{"id":69059,"type":"Feature","geometry":{"type":"Point","coordinates":[19.17608,51.66344]},"properties":{"isced:level":"1;2","ref:rspo":69059,"official_name":"Szko\u0142a Podstawowa w Zalesiu","name":"Szko\u0142a Podstawowa w Zalesiu","addr:country":"PL","addr:postcode":"98-105","addr:place":"Marian\u00f3w","addr:housenumber":"12 A","addr:teryt:sym_ul":719228,"contact:phone":"+48 436773346","contact:email":"spzalesie@wp.pl","contact:website":"http:\/\/spzalesie.wodzierady.pl","ref:regon":"001150492","ref:vatin":"PL8311576657","operator":"Gmina Wodzierady","operator:type":"government","amenity":"school","note":"Parent RSPO: 262831"}},{"id":73868,"type":"Feature","geometry":{"type":"Point","coordinates":[19.12045,51.7445]},"properties":{"ref:rspo":73868,"official_name":"Przedszkole Samorz\u0105dowe w Kwiatkowicach","name":"Przedszkole Samorz\u0105dowe w Kwiatkowicach","addr:country":"PL","addr:postcode":"98-105","addr:city":"Kwiatkowice","addr:street":"ul. \u0141\u00f3dzka","addr:housenumber":"11","addr:teryt:simc":11710,"addr:teryt:sym_ul":719079,"contact:phone":"+48 436773073","contact:email":"zskwiatkowice@wodzierady.pl","ref:regon":"100967319","ref:vatin":"PL8311624652","operator":"Gmina Wodzierady","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 69057"}},{"id":69057,"type":"Feature","geometry":{"type":"Point","coordinates":[19.11729,51.7477]},"properties":{"ref:rspo":69057,"official_name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 w Kwiatkowicach","name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 w Kwiatkowicach","addr:country":"PL","addr:postcode":"98-105","addr:city":"Kwiatkowice","addr:street":"ul. Szkolna","addr:housenumber":"17","addr:teryt:simc":21970,"addr:teryt:sym_ul":719079,"contact:phone":"+48 436773073","contact:email":"zskwiatkowice@wodzierady.pl","contact:website":"http:\/\/zskwiatkowice.wodzierady.pl\/","ref:regon":"100075101","ref:vatin":"PL8311586153","operator":"Gmina Wodzierady","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 73865;73868"}},{"id":73865,"type":"Feature","geometry":{"type":"Point","coordinates":[19.11729,51.74767]},"properties":{"isced:level":"1;2","ref:rspo":73865,"official_name":"Szko\u0142a Podstawowa w Kwiatkowicach","name":"Szko\u0142a Podstawowa w Kwiatkowicach","addr:country":"PL","addr:postcode":"98-105","addr:city":"Kwiatkowice","addr:street":"ul. Szkolna","addr:housenumber":"17","addr:teryt:simc":21970,"addr:teryt:sym_ul":719079,"contact:phone":"+48 436773073","contact:email":"zskwiatkowice@wodzierady.pl","contact:website":"http:\/\/zskwiatkowice.wodzierady.pl\/","ref:regon":"000733949","ref:vatin":"PL8311585805","operator":"Gmina Wodzierady","operator:type":"government","amenity":"school","note":"Parent RSPO: 69057"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 262831,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.827119827271,
+                    51.205699920654
+                ]
+            },
+            "properties": {
+                "ref:rspo": 262831,
+                "official_name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w Zalesiu Z Siedzib\u0105 w Marianowie",
+                "name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w Zalesiu Z Siedzib\u0105 w Marianowie",
+                "addr:country": "PL",
+                "addr:postcode": "98-105",
+                "addr:place": "Marian\u00f3w",
+                "addr:housenumber": "12A",
+                "addr:teryt:sym_ul": 719228,
+                "contact:phone": "+48 436773346",
+                "contact:email": "spzalesie@wp.pl",
+                "contact:website": "http:\/\/spzalesie.wodzierady.pl",
+                "ref:regon": "368063283",
+                "operator": "Gmina Wodzierady",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 69059;115435"
+            }
+        },
+        {
+            "id": 115435,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.827119827271,
+                    51.205669920653996
+                ]
+            },
+            "properties": {
+                "ref:rspo": 115435,
+                "official_name": "Przedszkole Samorz\u0105dowe w Zalesiu Z Siedzib\u0105 w Marianowie",
+                "name": "Przedszkole Samorz\u0105dowe w Zalesiu Z Siedzib\u0105 w Marianowie",
+                "addr:country": "PL",
+                "addr:postcode": "98-105",
+                "addr:place": "Marian\u00f3w",
+                "addr:housenumber": "12A",
+                "addr:teryt:sym_ul": 719228,
+                "contact:phone": "+48 436773346",
+                "contact:email": "spzalesie@wp.pl",
+                "contact:website": "http:\/\/spzalesie.wodzierady.pl",
+                "ref:regon": "101630183",
+                "operator": "Gmina Wodzierady",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 262831"
+            }
+        },
+        {
+            "id": 69059,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.17608,
+                    51.66344
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 69059,
+                "official_name": "Szko\u0142a Podstawowa w Zalesiu",
+                "name": "Szko\u0142a Podstawowa w Zalesiu",
+                "addr:country": "PL",
+                "addr:postcode": "98-105",
+                "addr:place": "Marian\u00f3w",
+                "addr:housenumber": "12 A",
+                "addr:teryt:sym_ul": 719228,
+                "contact:phone": "+48 436773346",
+                "contact:email": "spzalesie@wp.pl",
+                "contact:website": "http:\/\/spzalesie.wodzierady.pl",
+                "ref:regon": "001150492",
+                "ref:vatin": "PL8311576657",
+                "operator": "Gmina Wodzierady",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 262831"
+            }
+        },
+        {
+            "id": 73868,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.12045,
+                    51.7445
+                ]
+            },
+            "properties": {
+                "ref:rspo": 73868,
+                "official_name": "Przedszkole Samorz\u0105dowe w Kwiatkowicach",
+                "name": "Przedszkole Samorz\u0105dowe w Kwiatkowicach",
+                "addr:country": "PL",
+                "addr:postcode": "98-105",
+                "addr:city": "Kwiatkowice",
+                "addr:street": "ul. \u0141\u00f3dzka",
+                "addr:housenumber": "11",
+                "addr:teryt:simc": 11710,
+                "addr:teryt:sym_ul": 719079,
+                "contact:phone": "+48 436773073",
+                "contact:email": "zskwiatkowice@wodzierady.pl",
+                "ref:regon": "100967319",
+                "ref:vatin": "PL8311624652",
+                "operator": "Gmina Wodzierady",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 69057"
+            }
+        },
+        {
+            "id": 69057,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.11729,
+                    51.7477
+                ]
+            },
+            "properties": {
+                "ref:rspo": 69057,
+                "official_name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 w Kwiatkowicach",
+                "name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 w Kwiatkowicach",
+                "addr:country": "PL",
+                "addr:postcode": "98-105",
+                "addr:city": "Kwiatkowice",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "17",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 719079,
+                "contact:phone": "+48 436773073",
+                "contact:email": "zskwiatkowice@wodzierady.pl",
+                "contact:website": "http:\/\/zskwiatkowice.wodzierady.pl\/",
+                "ref:regon": "100075101",
+                "ref:vatin": "PL8311586153",
+                "operator": "Gmina Wodzierady",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 73865;73868"
+            }
+        },
+        {
+            "id": 73865,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.11729,
+                    51.74767
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 73865,
+                "official_name": "Szko\u0142a Podstawowa w Kwiatkowicach",
+                "name": "Szko\u0142a Podstawowa w Kwiatkowicach",
+                "addr:country": "PL",
+                "addr:postcode": "98-105",
+                "addr:city": "Kwiatkowice",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "17",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 719079,
+                "contact:phone": "+48 436773073",
+                "contact:email": "zskwiatkowice@wodzierady.pl",
+                "contact:website": "http:\/\/zskwiatkowice.wodzierady.pl\/",
+                "ref:regon": "000733949",
+                "ref:vatin": "PL8311585805",
+                "operator": "Gmina Wodzierady",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 69057"
+            }
+        }
+    ]
+}

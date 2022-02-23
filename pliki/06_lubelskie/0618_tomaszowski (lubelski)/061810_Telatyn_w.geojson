@@ -1,1 +1,37 @@
-{"type":"FeatureCollection","features":[{"id":86690,"type":"Feature","geometry":{"type":"Point","coordinates":[23.73404,50.52914]},"properties":{"isced:level":"1;2","ref:rspo":86690,"official_name":"Szko\u0142a Podstawowa im.kardyna\u0142a Stefana Wyszy\u0144skiego w Telatynie","name":"Szko\u0142a Podstawowa im.kardyna\u0142a Stefana Wyszy\u0144skiego w Telatynie","addr:country":"PL","addr:postcode":"22-652","addr:city":"Telatyn","addr:street":"ul. Kardyna\u0142a Stefana Wyszy\u0144skiego","addr:housenumber":"20","addr:teryt:simc":35421,"addr:teryt:sym_ul":901849,"contact:phone":"+48 846613116","contact:email":"dyrtelatyn@wp.pl","contact:website":"http:\/\/www.sp.telatyn.pl","ref:regon":"000677990","ref:vatin":"PL9211809619","operator":"Gmina Telatyn","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 86690,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.73404,
+                    50.52914
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 86690,
+                "official_name": "Szko\u0142a Podstawowa im.kardyna\u0142a Stefana Wyszy\u0144skiego w Telatynie",
+                "name": "Szko\u0142a Podstawowa im.kardyna\u0142a Stefana Wyszy\u0144skiego w Telatynie",
+                "addr:country": "PL",
+                "addr:postcode": "22-652",
+                "addr:city": "Telatyn",
+                "addr:street": "ul. Kardyna\u0142a Stefana Wyszy\u0144skiego",
+                "addr:housenumber": "20",
+                "addr:teryt:simc": 35421,
+                "addr:teryt:sym_ul": 901849,
+                "contact:phone": "+48 846613116",
+                "contact:email": "dyrtelatyn@wp.pl",
+                "contact:website": "http:\/\/www.sp.telatyn.pl",
+                "ref:regon": "000677990",
+                "ref:vatin": "PL9211809619",
+                "operator": "Gmina Telatyn",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

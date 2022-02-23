@@ -1,1 +1,162 @@
-{"type":"FeatureCollection","features":[{"id":26551,"type":"Feature","geometry":{"type":"Point","coordinates":[20.37005,50.12835]},"properties":{"ref:rspo":26551,"official_name":"Przedszkole Samorz\u0105dowe w Nowym Brzesku","name":"Przedszkole Samorz\u0105dowe w Nowym Brzesku","addr:country":"PL","addr:postcode":"32-120","addr:city":"Nowe Brzesko","addr:street":"ul. Krakowska","addr:housenumber":"78","addr:teryt:simc":9796,"addr:teryt:sym_ul":329705,"contact:phone":"+48 123852107","contact:email":"przedszkolenb@poczta.onet.pl","contact:website":"http:\/\/przedszkolenowebrzesko.przedszkolowo.pl","ref:regon":"350141749","ref:vatin":"PL6821210434","operator":"Gmina Nowe Brzesko","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 8904"}},{"id":8904,"type":"Feature","geometry":{"type":"Point","coordinates":[20.37384,50.1304299]},"properties":{"ref:rspo":8904,"official_name":"Zesp\u00f3\u0142 Przedszkolno-Szkolny w Nowym Brzesku","name":"Zesp\u00f3\u0142 Przedszkolno-Szkolny w Nowym Brzesku","addr:country":"PL","addr:postcode":"32-120","addr:city":"Nowe Brzesko","addr:street":"ul. Krakowska","addr:housenumber":"29","addr:teryt:simc":9796,"addr:teryt:sym_ul":329705,"contact:phone":"+48 123850366","contact:email":"zpsgnowebrzesko@interia.pl","ref:regon":"121309258","ref:vatin":"PL6821749297","operator":"Gmina Nowe Brzesko","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 23728;26551"}},{"id":23728,"type":"Feature","geometry":{"type":"Point","coordinates":[20.37384,50.1303999]},"properties":{"isced:level":"1;2","ref:rspo":23728,"official_name":"Szko\u0142a Podstawowa im. Marii Konopnickiej w Nowym Brzesku","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"32-120","addr:city":"Nowe Brzesko","addr:street":"ul. Krakowska","addr:housenumber":"29","addr:teryt:simc":9796,"addr:teryt:sym_ul":329705,"contact:phone":"+48 123850366","contact:email":"zpsgnowebrzesko@interia.pl","contact:website":"http:\/\/spnb.pl\/index.php","ref:regon":"000703434","ref:vatin":"PL6821210380","operator":"Gmina Nowe Brzesko","operator:type":"government","amenity":"school","note":"Parent RSPO: 8904"}},{"id":23353,"type":"Feature","geometry":{"type":"Point","coordinates":[20.464806,50.1438464]},"properties":{"isced:level":"1;2","ref:rspo":23353,"official_name":"Szko\u0142a Podstawowa im.kawaler\u00f3w Orderu U\u015bmiechu w Sieros\u0142awicach","name":"Szko\u0142a Podstawowa im.kawaler\u00f3w Orderu U\u015bmiechu w Sieros\u0142awicach","addr:country":"PL","addr:postcode":"32-120","addr:place":"Sieros\u0142awice","addr:housenumber":"53","addr:teryt:sym_ul":329817,"contact:phone":"+48 123852309","contact:email":"szkola@sieroslawice.pl","contact:website":"http:\/\/www.sieroslawice.pl","ref:regon":"001234792","ref:vatin":"PL6821210428","operator":"Gmina Nowe Brzesko","operator:type":"government","amenity":"school"}},{"id":9815,"type":"Feature","geometry":{"type":"Point","coordinates":[20.3706469,50.1558599]},"properties":{"isced:level":"1;2","ref:rspo":9815,"official_name":"Szko\u0142a Podstawowa im. Henryka Sienkiewicza w Mniszowie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"32-120","addr:place":"Mnisz\u00f3w","addr:housenumber":"4","addr:teryt:sym_ul":329674,"contact:phone":"+48 123861086","contact:email":"sp.mniszow@wp.pl","contact:website":"http:\/\/spmniszow.szkolnastrona.pl","ref:regon":"001234906","ref:vatin":"PL6821210374","operator":"Gmina Nowe Brzesko","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 26551,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.37005,
+                    50.12835
+                ]
+            },
+            "properties": {
+                "ref:rspo": 26551,
+                "official_name": "Przedszkole Samorz\u0105dowe w Nowym Brzesku",
+                "name": "Przedszkole Samorz\u0105dowe w Nowym Brzesku",
+                "addr:country": "PL",
+                "addr:postcode": "32-120",
+                "addr:city": "Nowe Brzesko",
+                "addr:street": "ul. Krakowska",
+                "addr:housenumber": "78",
+                "addr:teryt:simc": 9796,
+                "addr:teryt:sym_ul": 329705,
+                "contact:phone": "+48 123852107",
+                "contact:email": "przedszkolenb@poczta.onet.pl",
+                "contact:website": "http:\/\/przedszkolenowebrzesko.przedszkolowo.pl",
+                "ref:regon": "350141749",
+                "ref:vatin": "PL6821210434",
+                "operator": "Gmina Nowe Brzesko",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 8904"
+            }
+        },
+        {
+            "id": 8904,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.37384,
+                    50.1304299
+                ]
+            },
+            "properties": {
+                "ref:rspo": 8904,
+                "official_name": "Zesp\u00f3\u0142 Przedszkolno-Szkolny w Nowym Brzesku",
+                "name": "Zesp\u00f3\u0142 Przedszkolno-Szkolny w Nowym Brzesku",
+                "addr:country": "PL",
+                "addr:postcode": "32-120",
+                "addr:city": "Nowe Brzesko",
+                "addr:street": "ul. Krakowska",
+                "addr:housenumber": "29",
+                "addr:teryt:simc": 9796,
+                "addr:teryt:sym_ul": 329705,
+                "contact:phone": "+48 123850366",
+                "contact:email": "zpsgnowebrzesko@interia.pl",
+                "ref:regon": "121309258",
+                "ref:vatin": "PL6821749297",
+                "operator": "Gmina Nowe Brzesko",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 23728;26551"
+            }
+        },
+        {
+            "id": 23728,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.37384,
+                    50.1303999
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 23728,
+                "official_name": "Szko\u0142a Podstawowa im. Marii Konopnickiej w Nowym Brzesku",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "32-120",
+                "addr:city": "Nowe Brzesko",
+                "addr:street": "ul. Krakowska",
+                "addr:housenumber": "29",
+                "addr:teryt:simc": 9796,
+                "addr:teryt:sym_ul": 329705,
+                "contact:phone": "+48 123850366",
+                "contact:email": "zpsgnowebrzesko@interia.pl",
+                "contact:website": "http:\/\/spnb.pl\/index.php",
+                "ref:regon": "000703434",
+                "ref:vatin": "PL6821210380",
+                "operator": "Gmina Nowe Brzesko",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 8904"
+            }
+        },
+        {
+            "id": 23353,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.464806,
+                    50.1438464
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 23353,
+                "official_name": "Szko\u0142a Podstawowa im.kawaler\u00f3w Orderu U\u015bmiechu w Sieros\u0142awicach",
+                "name": "Szko\u0142a Podstawowa im.kawaler\u00f3w Orderu U\u015bmiechu w Sieros\u0142awicach",
+                "addr:country": "PL",
+                "addr:postcode": "32-120",
+                "addr:place": "Sieros\u0142awice",
+                "addr:housenumber": "53",
+                "addr:teryt:sym_ul": 329817,
+                "contact:phone": "+48 123852309",
+                "contact:email": "szkola@sieroslawice.pl",
+                "contact:website": "http:\/\/www.sieroslawice.pl",
+                "ref:regon": "001234792",
+                "ref:vatin": "PL6821210428",
+                "operator": "Gmina Nowe Brzesko",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 9815,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.3706469,
+                    50.1558599
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 9815,
+                "official_name": "Szko\u0142a Podstawowa im. Henryka Sienkiewicza w Mniszowie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "32-120",
+                "addr:place": "Mnisz\u00f3w",
+                "addr:housenumber": "4",
+                "addr:teryt:sym_ul": 329674,
+                "contact:phone": "+48 123861086",
+                "contact:email": "sp.mniszow@wp.pl",
+                "contact:website": "http:\/\/spmniszow.szkolnastrona.pl",
+                "ref:regon": "001234906",
+                "ref:vatin": "PL6821210374",
+                "operator": "Gmina Nowe Brzesko",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

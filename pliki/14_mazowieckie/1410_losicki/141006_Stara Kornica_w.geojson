@@ -1,1 +1,155 @@
-{"type":"FeatureCollection","features":[{"id":22762,"type":"Feature","geometry":{"type":"Point","coordinates":[22.8859634,52.1607459]},"properties":{"isced:level":"1;2","ref:rspo":22762,"official_name":"Szko\u0142a Podstawowa im. Marii Konopnickiej w Kobylanach","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"08-205","addr:place":"Kobylany","addr:housenumber":"114","addr:teryt:sym_ul":20310,"contact:phone":"+48 833589264","contact:email":"kobylany@kornica.org","contact:website":"https:\/\/spkobylany114.edupage.org","ref:regon":"001119690","ref:vatin":"PL4960141339","operator":"Gmina Stara Kornica","operator:type":"government","amenity":"school"}},{"id":11469,"type":"Feature","geometry":{"type":"Point","coordinates":[22.9347161,52.1845293]},"properties":{"ref:rspo":11469,"official_name":"Zesp\u00f3\u0142 Publicznych Plac\u00f3wek O\u015bwiatowych im. Odzyskania Niepodleg\u0142o\u015bci w Starej Kornicy","name":"Zesp\u00f3\u0142 Publicznych Plac\u00f3wek O\u015bwiatowych","addr:country":"PL","addr:postcode":"08-205","addr:place":"Stara Kornica","addr:housenumber":"172","addr:teryt:sym_ul":20451,"contact:phone":"+48 833587827","contact:email":"szkola@kornica.org","contact:website":"http:\/\/www.zppokornica.szkolnastrona.pl","ref:regon":"712487330","ref:vatin":"PL4960174422","operator":"Gmina Stara Kornica","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 28481;28483"}},{"id":28481,"type":"Feature","geometry":{"type":"Point","coordinates":[22.9347161,52.1844993]},"properties":{"isced:level":"1;2","ref:rspo":28481,"official_name":"Szko\u0142a Podstawowa w Starej Kornicy","name":"Szko\u0142a Podstawowa w Starej Kornicy","addr:country":"PL","addr:postcode":"08-205","addr:place":"Stara Kornica","addr:housenumber":"172","addr:teryt:sym_ul":20451,"contact:phone":"+48 833587827","contact:email":"szkola@kornica.org","contact:website":"http:\/\/www.zppokornica.szkolnastrona.pl\/","ref:regon":"000662876","ref:vatin":"PL4960141351","operator":"Gmina Stara Kornica","operator:type":"government","amenity":"school","note":"Parent RSPO: 11469"}},{"id":28483,"type":"Feature","geometry":{"type":"Point","coordinates":[22.9347161,52.1844693]},"properties":{"ref:rspo":28483,"official_name":"Samorz\u0105dowe Przedszkole w Starej Kornicy","name":"Samorz\u0105dowe Przedszkole w Starej Kornicy","addr:country":"PL","addr:postcode":"08-205","addr:place":"Stara Kornica","addr:housenumber":"172","addr:teryt:sym_ul":20451,"contact:phone":"+48 833587827","contact:email":"szkola@kornica.org","ref:regon":"000966748","operator":"Gmina Stara Kornica","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 11469"}},{"id":22674,"type":"Feature","geometry":{"type":"Point","coordinates":[22.8935526,52.2351052]},"properties":{"isced:level":"1;2","ref:rspo":22674,"official_name":"Szko\u0142a Podstawowa im. B\u0142ogos\u0142awionej Karoliny K\u00f3zk\u00f3wny w Starych Szpakach","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"08-205","addr:place":"Stare Szpaki","addr:housenumber":"36","addr:teryt:sym_ul":20480,"contact:phone":"+48 833587538","contact:email":"szpaki@kornica.org","contact:website":"http:\/\/www.szpaki.szkolnastrona.pl","ref:regon":"001121705","ref:vatin":"PL4960141374","operator":"Gmina Stara Kornica","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 22762,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.8859634,
+                    52.1607459
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 22762,
+                "official_name": "Szko\u0142a Podstawowa im. Marii Konopnickiej w Kobylanach",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "08-205",
+                "addr:place": "Kobylany",
+                "addr:housenumber": "114",
+                "addr:teryt:sym_ul": 20310,
+                "contact:phone": "+48 833589264",
+                "contact:email": "kobylany@kornica.org",
+                "contact:website": "https:\/\/spkobylany114.edupage.org",
+                "ref:regon": "001119690",
+                "ref:vatin": "PL4960141339",
+                "operator": "Gmina Stara Kornica",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 11469,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.9347161,
+                    52.1845293
+                ]
+            },
+            "properties": {
+                "ref:rspo": 11469,
+                "official_name": "Zesp\u00f3\u0142 Publicznych Plac\u00f3wek O\u015bwiatowych im. Odzyskania Niepodleg\u0142o\u015bci w Starej Kornicy",
+                "name": "Zesp\u00f3\u0142 Publicznych Plac\u00f3wek O\u015bwiatowych",
+                "addr:country": "PL",
+                "addr:postcode": "08-205",
+                "addr:place": "Stara Kornica",
+                "addr:housenumber": "172",
+                "addr:teryt:sym_ul": 20451,
+                "contact:phone": "+48 833587827",
+                "contact:email": "szkola@kornica.org",
+                "contact:website": "http:\/\/www.zppokornica.szkolnastrona.pl",
+                "ref:regon": "712487330",
+                "ref:vatin": "PL4960174422",
+                "operator": "Gmina Stara Kornica",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 28481;28483"
+            }
+        },
+        {
+            "id": 28481,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.9347161,
+                    52.1844993
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 28481,
+                "official_name": "Szko\u0142a Podstawowa w Starej Kornicy",
+                "name": "Szko\u0142a Podstawowa w Starej Kornicy",
+                "addr:country": "PL",
+                "addr:postcode": "08-205",
+                "addr:place": "Stara Kornica",
+                "addr:housenumber": "172",
+                "addr:teryt:sym_ul": 20451,
+                "contact:phone": "+48 833587827",
+                "contact:email": "szkola@kornica.org",
+                "contact:website": "http:\/\/www.zppokornica.szkolnastrona.pl\/",
+                "ref:regon": "000662876",
+                "ref:vatin": "PL4960141351",
+                "operator": "Gmina Stara Kornica",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 11469"
+            }
+        },
+        {
+            "id": 28483,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.9347161,
+                    52.1844693
+                ]
+            },
+            "properties": {
+                "ref:rspo": 28483,
+                "official_name": "Samorz\u0105dowe Przedszkole w Starej Kornicy",
+                "name": "Samorz\u0105dowe Przedszkole w Starej Kornicy",
+                "addr:country": "PL",
+                "addr:postcode": "08-205",
+                "addr:place": "Stara Kornica",
+                "addr:housenumber": "172",
+                "addr:teryt:sym_ul": 20451,
+                "contact:phone": "+48 833587827",
+                "contact:email": "szkola@kornica.org",
+                "ref:regon": "000966748",
+                "operator": "Gmina Stara Kornica",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 11469"
+            }
+        },
+        {
+            "id": 22674,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.8935526,
+                    52.2351052
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 22674,
+                "official_name": "Szko\u0142a Podstawowa im. B\u0142ogos\u0142awionej Karoliny K\u00f3zk\u00f3wny w Starych Szpakach",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "08-205",
+                "addr:place": "Stare Szpaki",
+                "addr:housenumber": "36",
+                "addr:teryt:sym_ul": 20480,
+                "contact:phone": "+48 833587538",
+                "contact:email": "szpaki@kornica.org",
+                "contact:website": "http:\/\/www.szpaki.szkolnastrona.pl",
+                "ref:regon": "001121705",
+                "ref:vatin": "PL4960141374",
+                "operator": "Gmina Stara Kornica",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

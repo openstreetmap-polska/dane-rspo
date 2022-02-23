@@ -1,1 +1,127 @@
-{"type":"FeatureCollection","features":[{"id":69464,"type":"Feature","geometry":{"type":"Point","coordinates":[21.151013,50.8537279]},"properties":{"isced:level":"1;2","ref:rspo":69464,"official_name":"Publiczna Szko\u0142a Podstawowa w Nowym Skoszynie","name":"Publiczna Szko\u0142a Podstawowa w Nowym Skoszynie","addr:country":"PL","addr:postcode":"27-425","addr:place":"Nowy Skoszyn","addr:housenumber":"130","addr:teryt:sym_ul":276162,"contact:phone":"+48 413342845","contact:email":"szkola_nowy_skoszyn@onet.eu","contact:website":"http:\/\/pspnowyskoszyn.pl","ref:regon":"260649035","ref:vatin":"PL6611654923","operator":"Beata Wi\u0105cek","operator:type":"private","amenity":"school"}},{"id":73690,"type":"Feature","geometry":{"type":"Point","coordinates":[21.274944,50.87938]},"properties":{"isced:level":"1;2","ref:rspo":73690,"official_name":"Publiczna Szko\u0142a Podstawowa im. Mjr Jana Piwnika \u201ePonurego\u201d w Mominie","name":"Publiczna Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"27-425","addr:place":"Momina","addr:housenumber":"20","addr:teryt:sym_ul":276104,"contact:phone":"+48 413342425","contact:email":"zsmomina@op.pl","contact:website":"http:\/\/zsmomina.szkolna.net","ref:regon":"001174430","ref:vatin":"PL6612368881","operator":"Gmina Wa\u015bni\u00f3w","operator:type":"government","amenity":"school"}},{"id":69461,"type":"Feature","geometry":{"type":"Point","coordinates":[21.22314,50.9011]},"properties":{"isced:level":"1;2","ref:rspo":69461,"official_name":"Publiczna Szko\u0142a Podstawowa w Wa\u015bniowie","name":"Publiczna Szko\u0142a Podstawowa w Wa\u015bniowie","addr:country":"PL","addr:postcode":"27-425","addr:city":"Wa\u015bni\u00f3w","addr:street":"ul. Kunowska","addr:housenumber":"2","addr:teryt:simc":10408,"addr:teryt:sym_ul":276469,"contact:phone":"+48 412646025","contact:email":"pspwasniow@op.pl","contact:website":"http:\/\/pspwasniow.szkolnastrona.pl","ref:regon":"000580405","ref:vatin":"PL6611654892","operator":"Gmina Wa\u015bni\u00f3w","operator:type":"government","amenity":"school"}},{"id":69465,"type":"Feature","geometry":{"type":"Point","coordinates":[21.177349,50.92819]},"properties":{"isced:level":"1;2","ref:rspo":69465,"official_name":"Publiczna Szko\u0142a Podstawowa w Boleszynie","name":"Publiczna Szko\u0142a Podstawowa w Boleszynie","addr:country":"PL","addr:postcode":"27-425","addr:place":"Boleszyn","addr:housenumber":"74","addr:teryt:sym_ul":275725,"contact:phone":"+48 412646015","contact:email":"pspboleszyn@onet.eu","contact:website":"http:\/\/pspboleszyn.szkolnastrona.pl","ref:regon":"260649029","ref:vatin":"PL6611654260","operator":"Miros\u0142awa Nowicka","operator:type":"private","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 69464,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.151013,
+                    50.8537279
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 69464,
+                "official_name": "Publiczna Szko\u0142a Podstawowa w Nowym Skoszynie",
+                "name": "Publiczna Szko\u0142a Podstawowa w Nowym Skoszynie",
+                "addr:country": "PL",
+                "addr:postcode": "27-425",
+                "addr:place": "Nowy Skoszyn",
+                "addr:housenumber": "130",
+                "addr:teryt:sym_ul": 276162,
+                "contact:phone": "+48 413342845",
+                "contact:email": "szkola_nowy_skoszyn@onet.eu",
+                "contact:website": "http:\/\/pspnowyskoszyn.pl",
+                "ref:regon": "260649035",
+                "ref:vatin": "PL6611654923",
+                "operator": "Beata Wi\u0105cek",
+                "operator:type": "private",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 73690,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.274944,
+                    50.87938
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 73690,
+                "official_name": "Publiczna Szko\u0142a Podstawowa im. Mjr Jana Piwnika \u201ePonurego\u201d w Mominie",
+                "name": "Publiczna Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "27-425",
+                "addr:place": "Momina",
+                "addr:housenumber": "20",
+                "addr:teryt:sym_ul": 276104,
+                "contact:phone": "+48 413342425",
+                "contact:email": "zsmomina@op.pl",
+                "contact:website": "http:\/\/zsmomina.szkolna.net",
+                "ref:regon": "001174430",
+                "ref:vatin": "PL6612368881",
+                "operator": "Gmina Wa\u015bni\u00f3w",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 69461,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.22314,
+                    50.9011
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 69461,
+                "official_name": "Publiczna Szko\u0142a Podstawowa w Wa\u015bniowie",
+                "name": "Publiczna Szko\u0142a Podstawowa w Wa\u015bniowie",
+                "addr:country": "PL",
+                "addr:postcode": "27-425",
+                "addr:city": "Wa\u015bni\u00f3w",
+                "addr:street": "ul. Kunowska",
+                "addr:housenumber": "2",
+                "addr:teryt:simc": 10408,
+                "addr:teryt:sym_ul": 276469,
+                "contact:phone": "+48 412646025",
+                "contact:email": "pspwasniow@op.pl",
+                "contact:website": "http:\/\/pspwasniow.szkolnastrona.pl",
+                "ref:regon": "000580405",
+                "ref:vatin": "PL6611654892",
+                "operator": "Gmina Wa\u015bni\u00f3w",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 69465,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.177349,
+                    50.92819
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 69465,
+                "official_name": "Publiczna Szko\u0142a Podstawowa w Boleszynie",
+                "name": "Publiczna Szko\u0142a Podstawowa w Boleszynie",
+                "addr:country": "PL",
+                "addr:postcode": "27-425",
+                "addr:place": "Boleszyn",
+                "addr:housenumber": "74",
+                "addr:teryt:sym_ul": 275725,
+                "contact:phone": "+48 412646015",
+                "contact:email": "pspboleszyn@onet.eu",
+                "contact:website": "http:\/\/pspboleszyn.szkolnastrona.pl",
+                "ref:regon": "260649029",
+                "ref:vatin": "PL6611654260",
+                "operator": "Miros\u0142awa Nowicka",
+                "operator:type": "private",
+                "amenity": "school"
+            }
+        }
+    ]
+}

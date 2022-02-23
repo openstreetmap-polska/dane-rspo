@@ -1,1 +1,185 @@
-{"type":"FeatureCollection","features":[{"id":15133,"type":"Feature","geometry":{"type":"Point","coordinates":[19.0385978,53.8210232]},"properties":{"isced:level":"1;2","ref:rspo":15133,"official_name":"Szko\u0142a Podstawowa im. Ks. W\u0142adys\u0142awa Demskiego","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"82-420","addr:place":"Straszewo","addr:housenumber":"55","addr:teryt:sym_ul":156363,"contact:phone":"+48 556211682","contact:email":"sekretariat@szkolastraszewo.pl","contact:website":"http:\/\/www.szkolastraszewo.szkolna.net","ref:regon":"001219373","ref:vatin":"PL5811763444","operator":"Gmina Ryjewo","operator:type":"government","amenity":"school"}},{"id":18411,"type":"Feature","geometry":{"type":"Point","coordinates":[18.9589,53.8412]},"properties":{"isced:level":"1;2","ref:rspo":18411,"official_name":"Szko\u0142a Podstawowa im. Miko\u0142aja Kopernika","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"82-420","addr:city":"Ryjewo","addr:street":"ul. Grunwaldzka","addr:housenumber":"63","addr:teryt:simc":6260,"addr:teryt:sym_ul":156357,"contact:phone":"+48 552774263","contact:email":"sekretariat@szkolaryjewo.pl","contact:website":"http:\/\/www.spryjewo.edupage.org","ref:regon":"000268837","ref:vatin":"PL5811763467","operator":"Gmina Ryjewo","operator:type":"government","amenity":"school"}},{"id":131625,"type":"Feature","geometry":{"type":"Point","coordinates":[18.9605,53.8425]},"properties":{"ref:rspo":131625,"official_name":"Niepubliczne Przedszkole I \u017b\u0142obek ,,Pod D\u0119busiem\"","name":"Niepubliczne Przedszkole I \u017b\u0142obek ,,Pod D\u0119busiem\"","addr:country":"PL","addr:postcode":"82-420","addr:city":"Ryjewo","addr:street":"ul. Grunwaldzka","addr:housenumber":"56","addr:teryt:simc":6260,"addr:teryt:sym_ul":156357,"contact:phone":"+48 664174430","contact:email":"przedszkole.ryjewo@gmail.com","ref:regon":"365323312","ref:vatin":"PL5811961291","operator":"\"Przyjaciele Przedszkola Pod D\u0119busiem\"","operator:type":"ngo","amenity":"kindergarten"}},{"id":52694,"type":"Feature","geometry":{"type":"Point","coordinates":[18.9386858,53.880978]},"properties":{"ref:rspo":52694,"official_name":"Specjalny O\u015brodek Szkolno - Wychowawczy w Barcicach","name":"Specjalny O\u015brodek Szkolno - Wychowawczy w Barcicach","addr:country":"PL","addr:postcode":"82-420","addr:place":"Barcice","addr:housenumber":"66","addr:teryt:sym_ul":156200,"contact:phone":"+48 552670170","contact:email":"soswbarcice@post.pl","ref:regon":"000208640","ref:vatin":"PL5811487754","operator":"Powiat Kwidzy\u0144ski","operator:type":"government","amenity":"school","note":"Children RSPO: 70534;70535"}},{"id":70534,"type":"Feature","geometry":{"type":"Point","coordinates":[18.9386858,53.880948]},"properties":{"isced:level":"1;2","ref:rspo":70534,"official_name":"Szko\u0142a Podstawowa Specjalna w Barcicach Specjalny O\u015brodek Szkolno - Wychowawczy w Barcicach","name":"Szko\u0142a Podstawowa Specjalna w Barcicach Specjalny O\u015brodek Szkolno - Wychowawczy w Barcicach","addr:country":"PL","addr:postcode":"82-420","addr:place":"Barcice","addr:housenumber":"66","addr:teryt:sym_ul":156200,"contact:phone":"+48 552771695","contact:email":"soswbarcice@post.pl","ref:regon":"193011940","ref:vatin":"PL5811487754","operator":"Powiat Kwidzy\u0144ski","operator:type":"government","amenity":"school","note":"Parent RSPO: 52694"}},{"id":70535,"type":"Feature","geometry":{"type":"Point","coordinates":[18.9386858,53.880918]},"properties":{"ref:rspo":70535,"official_name":"Przedszkole Specjalne w Barcicach Specjalny O\u015brodek Szkolno - Wychowawczy w Barcicach","name":"Przedszkole Specjalne w Barcicach Specjalny O\u015brodek Szkolno - Wychowawczy w Barcicach","addr:country":"PL","addr:postcode":"82-420","addr:place":"Barcice","addr:housenumber":"66","addr:teryt:sym_ul":156200,"contact:phone":"+48 552771695","contact:email":"soswbarcice@post.pl","ref:regon":"193011985","ref:vatin":"PL5811487754","operator":"Powiat Kwidzy\u0144ski","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 52694"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 15133,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0385978,
+                    53.8210232
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 15133,
+                "official_name": "Szko\u0142a Podstawowa im. Ks. W\u0142adys\u0142awa Demskiego",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "82-420",
+                "addr:place": "Straszewo",
+                "addr:housenumber": "55",
+                "addr:teryt:sym_ul": 156363,
+                "contact:phone": "+48 556211682",
+                "contact:email": "sekretariat@szkolastraszewo.pl",
+                "contact:website": "http:\/\/www.szkolastraszewo.szkolna.net",
+                "ref:regon": "001219373",
+                "ref:vatin": "PL5811763444",
+                "operator": "Gmina Ryjewo",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 18411,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.9589,
+                    53.8412
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 18411,
+                "official_name": "Szko\u0142a Podstawowa im. Miko\u0142aja Kopernika",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "82-420",
+                "addr:city": "Ryjewo",
+                "addr:street": "ul. Grunwaldzka",
+                "addr:housenumber": "63",
+                "addr:teryt:simc": 6260,
+                "addr:teryt:sym_ul": 156357,
+                "contact:phone": "+48 552774263",
+                "contact:email": "sekretariat@szkolaryjewo.pl",
+                "contact:website": "http:\/\/www.spryjewo.edupage.org",
+                "ref:regon": "000268837",
+                "ref:vatin": "PL5811763467",
+                "operator": "Gmina Ryjewo",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 131625,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.9605,
+                    53.8425
+                ]
+            },
+            "properties": {
+                "ref:rspo": 131625,
+                "official_name": "Niepubliczne Przedszkole I \u017b\u0142obek ,,Pod D\u0119busiem\"",
+                "name": "Niepubliczne Przedszkole I \u017b\u0142obek ,,Pod D\u0119busiem\"",
+                "addr:country": "PL",
+                "addr:postcode": "82-420",
+                "addr:city": "Ryjewo",
+                "addr:street": "ul. Grunwaldzka",
+                "addr:housenumber": "56",
+                "addr:teryt:simc": 6260,
+                "addr:teryt:sym_ul": 156357,
+                "contact:phone": "+48 664174430",
+                "contact:email": "przedszkole.ryjewo@gmail.com",
+                "ref:regon": "365323312",
+                "ref:vatin": "PL5811961291",
+                "operator": "\"Przyjaciele Przedszkola Pod D\u0119busiem\"",
+                "operator:type": "ngo",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 52694,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.9386858,
+                    53.880978
+                ]
+            },
+            "properties": {
+                "ref:rspo": 52694,
+                "official_name": "Specjalny O\u015brodek Szkolno - Wychowawczy w Barcicach",
+                "name": "Specjalny O\u015brodek Szkolno - Wychowawczy w Barcicach",
+                "addr:country": "PL",
+                "addr:postcode": "82-420",
+                "addr:place": "Barcice",
+                "addr:housenumber": "66",
+                "addr:teryt:sym_ul": 156200,
+                "contact:phone": "+48 552670170",
+                "contact:email": "soswbarcice@post.pl",
+                "ref:regon": "000208640",
+                "ref:vatin": "PL5811487754",
+                "operator": "Powiat Kwidzy\u0144ski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Children RSPO: 70534;70535"
+            }
+        },
+        {
+            "id": 70534,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.9386858,
+                    53.880948
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 70534,
+                "official_name": "Szko\u0142a Podstawowa Specjalna w Barcicach Specjalny O\u015brodek Szkolno - Wychowawczy w Barcicach",
+                "name": "Szko\u0142a Podstawowa Specjalna w Barcicach Specjalny O\u015brodek Szkolno - Wychowawczy w Barcicach",
+                "addr:country": "PL",
+                "addr:postcode": "82-420",
+                "addr:place": "Barcice",
+                "addr:housenumber": "66",
+                "addr:teryt:sym_ul": 156200,
+                "contact:phone": "+48 552771695",
+                "contact:email": "soswbarcice@post.pl",
+                "ref:regon": "193011940",
+                "ref:vatin": "PL5811487754",
+                "operator": "Powiat Kwidzy\u0144ski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 52694"
+            }
+        },
+        {
+            "id": 70535,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.9386858,
+                    53.880918
+                ]
+            },
+            "properties": {
+                "ref:rspo": 70535,
+                "official_name": "Przedszkole Specjalne w Barcicach Specjalny O\u015brodek Szkolno - Wychowawczy w Barcicach",
+                "name": "Przedszkole Specjalne w Barcicach Specjalny O\u015brodek Szkolno - Wychowawczy w Barcicach",
+                "addr:country": "PL",
+                "addr:postcode": "82-420",
+                "addr:place": "Barcice",
+                "addr:housenumber": "66",
+                "addr:teryt:sym_ul": 156200,
+                "contact:phone": "+48 552771695",
+                "contact:email": "soswbarcice@post.pl",
+                "ref:regon": "193011985",
+                "ref:vatin": "PL5811487754",
+                "operator": "Powiat Kwidzy\u0144ski",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 52694"
+            }
+        }
+    ]
+}

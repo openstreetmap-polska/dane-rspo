@@ -1,1 +1,122 @@
-{"type":"FeatureCollection","features":[{"id":109233,"type":"Feature","geometry":{"type":"Point","coordinates":[14.9072,52.0656]},"properties":{"ref:rspo":109233,"official_name":"Przedszkole Publiczne Maszewo","name":"Przedszkole Publiczne Maszewo","addr:country":"PL","addr:postcode":"66-614","addr:place":"Maszewo","addr:housenumber":"101","addr:teryt:sym_ul":911747,"contact:phone":"+48 683831389","contact:email":"malemaszewo@wp.pl","contact:website":"http:\/\/www.maszewo.przedszkolowo.pl","ref:regon":"080094177","ref:vatin":"PL9261649075","operator":"Gmina Maszewo","operator:type":"government","amenity":"kindergarten"}},{"id":109653,"type":"Feature","geometry":{"type":"Point","coordinates":[14.90483,52.06752]},"properties":{"isced:level":"1;2","ref:rspo":109653,"official_name":"Szko\u0142a Podstawowa im. Ignacego \u0141ukasiewicza w Maszewie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"66-614","addr:place":"Maszewo","addr:housenumber":"114","addr:teryt:sym_ul":911747,"contact:phone":"+48 683831310","contact:email":"sekretariat@spmaszewo.pl","contact:website":"http:\/\/www.zsmaszewo.szkolnastrona.pl","ref:regon":"971271856","ref:vatin":"PL9261558148","operator":"Gmina Maszewo","operator:type":"government","amenity":"school","note":"Children RSPO: 264913"}},{"id":264913,"type":"Feature","geometry":{"type":"Point","coordinates":[14.87334,52.0791899]},"properties":{"isced:level":"1;2","ref:rspo":264913,"official_name":"Filia w Rybakach Szko\u0142y Podstawowej w Maszewie","name":"Filia w Rybakach Szko\u0142y Podstawowej w Maszewie","addr:country":"PL","addr:postcode":"66-614","addr:place":"Rybaki","addr:housenumber":"75","addr:teryt:sym_ul":911807,"contact:phone":"+48 683831393","contact:email":"sekretariat@spmaszewo.pl","ref:regon":"971271856","operator":"Gmina Maszewo","operator:type":"government","amenity":"school","note":"Parent RSPO: 109653"}},{"id":74513,"type":"Feature","geometry":{"type":"Point","coordinates":[14.90409,52.1486]},"properties":{"isced:level":"1;2","ref:rspo":74513,"official_name":"Szko\u0142a Podstawowa w G\u0119stowicach","name":"Szko\u0142a Podstawowa w G\u0119stowicach","addr:country":"PL","addr:postcode":"66-614","addr:place":"G\u0119stowice","addr:housenumber":"32","addr:teryt:sym_ul":911670,"contact:phone":"+48 683831670","contact:email":"sp.gestowice@op.pl","ref:regon":"971271804","operator":"Gmina Maszewo","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 109233,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.9072,
+                    52.0656
+                ]
+            },
+            "properties": {
+                "ref:rspo": 109233,
+                "official_name": "Przedszkole Publiczne Maszewo",
+                "name": "Przedszkole Publiczne Maszewo",
+                "addr:country": "PL",
+                "addr:postcode": "66-614",
+                "addr:place": "Maszewo",
+                "addr:housenumber": "101",
+                "addr:teryt:sym_ul": 911747,
+                "contact:phone": "+48 683831389",
+                "contact:email": "malemaszewo@wp.pl",
+                "contact:website": "http:\/\/www.maszewo.przedszkolowo.pl",
+                "ref:regon": "080094177",
+                "ref:vatin": "PL9261649075",
+                "operator": "Gmina Maszewo",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 109653,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.90483,
+                    52.06752
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 109653,
+                "official_name": "Szko\u0142a Podstawowa im. Ignacego \u0141ukasiewicza w Maszewie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "66-614",
+                "addr:place": "Maszewo",
+                "addr:housenumber": "114",
+                "addr:teryt:sym_ul": 911747,
+                "contact:phone": "+48 683831310",
+                "contact:email": "sekretariat@spmaszewo.pl",
+                "contact:website": "http:\/\/www.zsmaszewo.szkolnastrona.pl",
+                "ref:regon": "971271856",
+                "ref:vatin": "PL9261558148",
+                "operator": "Gmina Maszewo",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Children RSPO: 264913"
+            }
+        },
+        {
+            "id": 264913,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.87334,
+                    52.0791899
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 264913,
+                "official_name": "Filia w Rybakach Szko\u0142y Podstawowej w Maszewie",
+                "name": "Filia w Rybakach Szko\u0142y Podstawowej w Maszewie",
+                "addr:country": "PL",
+                "addr:postcode": "66-614",
+                "addr:place": "Rybaki",
+                "addr:housenumber": "75",
+                "addr:teryt:sym_ul": 911807,
+                "contact:phone": "+48 683831393",
+                "contact:email": "sekretariat@spmaszewo.pl",
+                "ref:regon": "971271856",
+                "operator": "Gmina Maszewo",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 109653"
+            }
+        },
+        {
+            "id": 74513,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.90409,
+                    52.1486
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 74513,
+                "official_name": "Szko\u0142a Podstawowa w G\u0119stowicach",
+                "name": "Szko\u0142a Podstawowa w G\u0119stowicach",
+                "addr:country": "PL",
+                "addr:postcode": "66-614",
+                "addr:place": "G\u0119stowice",
+                "addr:housenumber": "32",
+                "addr:teryt:sym_ul": 911670,
+                "contact:phone": "+48 683831670",
+                "contact:email": "sp.gestowice@op.pl",
+                "ref:regon": "971271804",
+                "operator": "Gmina Maszewo",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

@@ -1,1 +1,67 @@
-{"type":"FeatureCollection","features":[{"id":48399,"type":"Feature","geometry":{"type":"Point","coordinates":[15.0632,51.02578]},"properties":{"isced:level":"1;2","ref:rspo":48399,"official_name":"Szko\u0142a Podstawowa im. Boles\u0142awa Chrobrego w Zawidowie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"59-970","addr:city":"Zawid\u00f3w","addr:street":"ul. Szkolna","addr:housenumber":"4","addr:teryt:simc":21970,"addr:teryt:sym_ul":936523,"contact:phone":"+48 757788222","contact:email":"sekretariat@szkola.zawidow.eu","ref:regon":"000711385","ref:vatin":"PL6151929027","operator":"Gmina Zawid\u00f3w","operator:type":"government","amenity":"school"}},{"id":49123,"type":"Feature","geometry":{"type":"Point","coordinates":[15.05836,51.02751]},"properties":{"ref:rspo":49123,"official_name":"Przedszkole Publiczna w Zawidowie","name":"Przedszkole Publiczna w Zawidowie","addr:country":"PL","addr:postcode":"59-970","addr:city":"Zawid\u00f3w","addr:street":"ul. Parkowa","addr:housenumber":"2","addr:teryt:simc":15710,"addr:teryt:sym_ul":936523,"contact:phone":"+48 757788219","contact:email":"biuro@przedszkole.zawidow.eu","contact:website":"http:\/\/www.ppzawidow.szkolnastrona.pl","ref:regon":"020866907","ref:vatin":"PL6151754065","operator":"Gmina Zawid\u00f3w","operator:type":"government","amenity":"kindergarten"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 48399,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.0632,
+                    51.02578
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 48399,
+                "official_name": "Szko\u0142a Podstawowa im. Boles\u0142awa Chrobrego w Zawidowie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "59-970",
+                "addr:city": "Zawid\u00f3w",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "4",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 936523,
+                "contact:phone": "+48 757788222",
+                "contact:email": "sekretariat@szkola.zawidow.eu",
+                "ref:regon": "000711385",
+                "ref:vatin": "PL6151929027",
+                "operator": "Gmina Zawid\u00f3w",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 49123,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.05836,
+                    51.02751
+                ]
+            },
+            "properties": {
+                "ref:rspo": 49123,
+                "official_name": "Przedszkole Publiczna w Zawidowie",
+                "name": "Przedszkole Publiczna w Zawidowie",
+                "addr:country": "PL",
+                "addr:postcode": "59-970",
+                "addr:city": "Zawid\u00f3w",
+                "addr:street": "ul. Parkowa",
+                "addr:housenumber": "2",
+                "addr:teryt:simc": 15710,
+                "addr:teryt:sym_ul": 936523,
+                "contact:phone": "+48 757788219",
+                "contact:email": "biuro@przedszkole.zawidow.eu",
+                "contact:website": "http:\/\/www.ppzawidow.szkolnastrona.pl",
+                "ref:regon": "020866907",
+                "ref:vatin": "PL6151754065",
+                "operator": "Gmina Zawid\u00f3w",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        }
+    ]
+}

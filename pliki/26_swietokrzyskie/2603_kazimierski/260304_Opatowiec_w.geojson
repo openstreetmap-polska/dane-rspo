@@ -1,1 +1,191 @@
-{"type":"FeatureCollection","features":[{"id":272189,"type":"Feature","geometry":{"type":"Point","coordinates":[20.7212,50.24344]},"properties":{"ref:rspo":272189,"official_name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w Opatowcu","name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w Opatowcu","addr:country":"PL","addr:postcode":"28-520","addr:city":"Opatowiec","addr:street":"ul. Nowokorczy\u0144ska","addr:housenumber":"4","addr:teryt:simc":14435,"addr:teryt:sym_ul":257963,"contact:phone":"+48 413518010","contact:email":"zsopatowiec@op.pl","contact:website":"http:\/\/spopat.webd.pl","ref:regon":"384011569","operator":"Gmina Opatowiec","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 8618;81327"}},{"id":8618,"type":"Feature","geometry":{"type":"Point","coordinates":[20.7212,50.24341]},"properties":{"isced:level":"1;2","ref:rspo":8618,"official_name":"Szko\u0142a Podstawowa im. Marsza\u0142ka J\u00f3zefa Pi\u0142sudskiego w Opatowcu","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"28-520","addr:city":"Opatowiec","addr:street":"ul. Nowokorczy\u0144ska","addr:housenumber":"4","addr:teryt:simc":14435,"addr:teryt:sym_ul":257963,"contact:phone":"+48 413518010","contact:email":"zsopatowiec@op.pl","contact:website":"http:\/\/www.spopat.webd.pl","ref:regon":"000563045","ref:vatin":"PL6050068687","operator":"Gmina Opatowiec","operator:type":"government","amenity":"school","note":"Parent RSPO: 272189"}},{"id":81327,"type":"Feature","geometry":{"type":"Point","coordinates":[20.7212,50.24338]},"properties":{"ref:rspo":81327,"official_name":"Przedszkole w Opatowcu","name":"Przedszkole w Opatowcu","addr:country":"PL","addr:postcode":"28-520","addr:city":"Opatowiec","addr:street":"ul. Nowokorczy\u0144ska","addr:housenumber":"4","addr:teryt:simc":14435,"addr:teryt:sym_ul":257963,"contact:phone":"+48 413518010","contact:email":"zsopatowiec@op.pl","contact:website":"http:\/\/spopat.webd.pl\/","ref:regon":"260648544","operator":"Gmina Opatowiec","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 272189"}},{"id":272190,"type":"Feature","geometry":{"type":"Point","coordinates":[20.6476599,50.2885599]},"properties":{"ref:rspo":272190,"official_name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w Krzczonowie","name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w Krzczonowie","addr:country":"PL","addr:postcode":"28-520","addr:place":"Krzczon\u00f3w","addr:housenumber":"41","addr:teryt:sym_ul":257816,"contact:phone":"+48 413517008","contact:email":"spkrzczonow@wp.pl","contact:website":"http:\/\/www.spkrzczonow.eu","ref:regon":"384011776","operator":"Gmina Opatowiec","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 6772;114371"}},{"id":6772,"type":"Feature","geometry":{"type":"Point","coordinates":[20.6476599,50.2885299]},"properties":{"isced:level":"1;2","ref:rspo":6772,"official_name":"Szko\u0142a Podstawowa im. Jana Pszczo\u0142y \u201eWojnara\u201d w Krzczonowie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"28-520","addr:place":"Krzczon\u00f3w","addr:housenumber":"41","addr:teryt:sym_ul":257816,"contact:phone":"+48 413517008","contact:email":"spkrzczonow@wp.pl","contact:website":"http:\/\/spkrzczonow.eu\/","ref:regon":"001216920","ref:vatin":"PL6621686327","operator":"Gmina Opatowiec","operator:type":"government","amenity":"school","note":"Parent RSPO: 272190"}},{"id":114371,"type":"Feature","geometry":{"type":"Point","coordinates":[20.6476599,50.288499900000005]},"properties":{"ref:rspo":114371,"official_name":"Przedszkole w Krzczonowie","name":"Przedszkole w Krzczonowie","addr:country":"PL","addr:postcode":"28-520","addr:place":"Krzczon\u00f3w","addr:housenumber":"41","addr:teryt:sym_ul":257816,"contact:phone":"+48 413517008","contact:email":"spkrzczonow@wp.pl","contact:website":"http:\/\/www.spkrzczonow.eu","ref:regon":"260691706","operator":"Gmina Opatowiec","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 272190"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 272189,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.7212,
+                    50.24344
+                ]
+            },
+            "properties": {
+                "ref:rspo": 272189,
+                "official_name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w Opatowcu",
+                "name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w Opatowcu",
+                "addr:country": "PL",
+                "addr:postcode": "28-520",
+                "addr:city": "Opatowiec",
+                "addr:street": "ul. Nowokorczy\u0144ska",
+                "addr:housenumber": "4",
+                "addr:teryt:simc": 14435,
+                "addr:teryt:sym_ul": 257963,
+                "contact:phone": "+48 413518010",
+                "contact:email": "zsopatowiec@op.pl",
+                "contact:website": "http:\/\/spopat.webd.pl",
+                "ref:regon": "384011569",
+                "operator": "Gmina Opatowiec",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 8618;81327"
+            }
+        },
+        {
+            "id": 8618,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.7212,
+                    50.24341
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 8618,
+                "official_name": "Szko\u0142a Podstawowa im. Marsza\u0142ka J\u00f3zefa Pi\u0142sudskiego w Opatowcu",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "28-520",
+                "addr:city": "Opatowiec",
+                "addr:street": "ul. Nowokorczy\u0144ska",
+                "addr:housenumber": "4",
+                "addr:teryt:simc": 14435,
+                "addr:teryt:sym_ul": 257963,
+                "contact:phone": "+48 413518010",
+                "contact:email": "zsopatowiec@op.pl",
+                "contact:website": "http:\/\/www.spopat.webd.pl",
+                "ref:regon": "000563045",
+                "ref:vatin": "PL6050068687",
+                "operator": "Gmina Opatowiec",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 272189"
+            }
+        },
+        {
+            "id": 81327,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.7212,
+                    50.24338
+                ]
+            },
+            "properties": {
+                "ref:rspo": 81327,
+                "official_name": "Przedszkole w Opatowcu",
+                "name": "Przedszkole w Opatowcu",
+                "addr:country": "PL",
+                "addr:postcode": "28-520",
+                "addr:city": "Opatowiec",
+                "addr:street": "ul. Nowokorczy\u0144ska",
+                "addr:housenumber": "4",
+                "addr:teryt:simc": 14435,
+                "addr:teryt:sym_ul": 257963,
+                "contact:phone": "+48 413518010",
+                "contact:email": "zsopatowiec@op.pl",
+                "contact:website": "http:\/\/spopat.webd.pl\/",
+                "ref:regon": "260648544",
+                "operator": "Gmina Opatowiec",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 272189"
+            }
+        },
+        {
+            "id": 272190,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.6476599,
+                    50.2885599
+                ]
+            },
+            "properties": {
+                "ref:rspo": 272190,
+                "official_name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w Krzczonowie",
+                "name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w Krzczonowie",
+                "addr:country": "PL",
+                "addr:postcode": "28-520",
+                "addr:place": "Krzczon\u00f3w",
+                "addr:housenumber": "41",
+                "addr:teryt:sym_ul": 257816,
+                "contact:phone": "+48 413517008",
+                "contact:email": "spkrzczonow@wp.pl",
+                "contact:website": "http:\/\/www.spkrzczonow.eu",
+                "ref:regon": "384011776",
+                "operator": "Gmina Opatowiec",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 6772;114371"
+            }
+        },
+        {
+            "id": 6772,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.6476599,
+                    50.2885299
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 6772,
+                "official_name": "Szko\u0142a Podstawowa im. Jana Pszczo\u0142y \u201eWojnara\u201d w Krzczonowie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "28-520",
+                "addr:place": "Krzczon\u00f3w",
+                "addr:housenumber": "41",
+                "addr:teryt:sym_ul": 257816,
+                "contact:phone": "+48 413517008",
+                "contact:email": "spkrzczonow@wp.pl",
+                "contact:website": "http:\/\/spkrzczonow.eu\/",
+                "ref:regon": "001216920",
+                "ref:vatin": "PL6621686327",
+                "operator": "Gmina Opatowiec",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 272190"
+            }
+        },
+        {
+            "id": 114371,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.6476599,
+                    50.288499900000005
+                ]
+            },
+            "properties": {
+                "ref:rspo": 114371,
+                "official_name": "Przedszkole w Krzczonowie",
+                "name": "Przedszkole w Krzczonowie",
+                "addr:country": "PL",
+                "addr:postcode": "28-520",
+                "addr:place": "Krzczon\u00f3w",
+                "addr:housenumber": "41",
+                "addr:teryt:sym_ul": 257816,
+                "contact:phone": "+48 413517008",
+                "contact:email": "spkrzczonow@wp.pl",
+                "contact:website": "http:\/\/www.spkrzczonow.eu",
+                "ref:regon": "260691706",
+                "operator": "Gmina Opatowiec",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 272190"
+            }
+        }
+    ]
+}

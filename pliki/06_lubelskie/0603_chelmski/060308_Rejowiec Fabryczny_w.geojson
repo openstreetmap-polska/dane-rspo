@@ -1,1 +1,208 @@
-{"type":"FeatureCollection","features":[{"id":88451,"type":"Feature","geometry":{"type":"Point","coordinates":[23.109378,51.1115919]},"properties":{"isced:level":"1;2","ref:rspo":88451,"official_name":"Szko\u0142a Podstawowa im.prymasa Tysi\u0105clecia Kardyna\u0142a Stefana Wyszy\u0144skiego w Lisznie","name":"Szko\u0142a Podstawowa im.prymasa Tysi\u0105clecia Kardyna\u0142a Stefana Wyszy\u0144skiego w Lisznie","addr:country":"PL","addr:postcode":"22-171","addr:place":"Liszno","addr:housenumber":"52","addr:teryt:sym_ul":105934,"contact:phone":"+48 825662406","contact:email":"gimliszno@wp.pl","ref:regon":"001176385","ref:vatin":"PL5632186869","operator":"Gmina Rejowiec Fabryczny","operator:type":"government","amenity":"school"}},{"id":264300,"type":"Feature","geometry":{"type":"Point","coordinates":[23.109378,51.1115619]},"properties":{"ref:rspo":264300,"official_name":"Punkt Przedszkolny w Lisznie","name":"Punkt Przedszkolny w Lisznie","addr:country":"PL","addr:postcode":"22-171","addr:place":"Liszno","addr:housenumber":"52","addr:teryt:sym_ul":105934,"contact:phone":"+48 825662406","contact:email":"gimliszno@wp.pl","contact:website":"http:\/\/zsliszno.szkolnastrona.pl","ref:regon":"368305384","operator":"Gmina Rejowiec Fabryczny","operator:type":"government","amenity":"kindergarten"}},{"id":87908,"type":"Feature","geometry":{"type":"Point","coordinates":[23.0686919,51.1292319]},"properties":{"isced:level":"1;2","ref:rspo":87908,"official_name":"Niepubliczna Szko\u0142a Podstawowa w W\u00f3lce Ka\u0144skiej","name":"Niepubliczna Szko\u0142a Podstawowa w W\u00f3lce Ka\u0144skiej","addr:country":"PL","addr:postcode":"22-171","addr:place":"W\u00f3lka Ka\u0144ska","addr:housenumber":"1D","addr:teryt:sym_ul":106030,"contact:phone":"+48 825643453","contact:email":"nsp1d@o2.pl","ref:regon":"061488528","ref:vatin":"PL5632422152","operator":"Stowarzyszenie Lepsze Jutro W W\u00f3lce Ka\u0144skiej","operator:type":"cooperative","amenity":"school"}},{"id":264306,"type":"Feature","geometry":{"type":"Point","coordinates":[23.1863959,51.1321049]},"properties":{"ref:rspo":264306,"official_name":"Punkt Przedszkolny w Krasnem","name":"Punkt Przedszkolny w Krasnem","addr:country":"PL","addr:postcode":"22-172","addr:place":"Krasne","addr:housenumber":"31","addr:teryt:sym_ul":105874,"contact:phone":"+48 825664716","contact:email":"spkrasne1@wp.pl","ref:regon":"368306099","operator":"Gmina Rejowiec Fabryczny","operator:type":"government","amenity":"kindergarten"}},{"id":121811,"type":"Feature","geometry":{"type":"Point","coordinates":[23.1863959,51.1320749]},"properties":{"isced:level":"1;2","ref:rspo":121811,"official_name":"Szko\u0142a Filialna w Krasnem","name":"Szko\u0142a Filialna w Krasnem","addr:country":"PL","addr:postcode":"22-172","addr:place":"Krasne","addr:housenumber":"31","addr:teryt:sym_ul":105874,"contact:phone":"+48 825664716","contact:email":"spkrasne1@wp.pl","ref:regon":"117637900","operator":"Gmina Rejowiec Fabryczny","operator:type":"government","amenity":"school","note":"Parent RSPO: 103853"}},{"id":92808,"type":"Feature","geometry":{"type":"Point","coordinates":[23.112357,51.1365289]},"properties":{"isced:level":"1;2","ref:rspo":92808,"official_name":"Niepubliczna Szko\u0142a Podstawowa im.s\u0142ugi Bo\u017cego O.jacka Woronieckiego Op","name":"Niepubliczna Szko\u0142a Podstawowa im.s\u0142ugi Bo\u017cego O.jacka Woronieckiego Op","addr:country":"PL","addr:postcode":"22-171","addr:place":"Kanie","addr:housenumber":"33","addr:teryt:sym_ul":105851,"contact:phone":"+48 825662412","contact:email":"sp-kanie@o2.pl","ref:regon":"061496887","operator":"Stowarzyszenie Na Rzecz Ekorozwoju Wsi Kanie Gmina Rejowiec Fabryczny","operator:type":"cooperative","amenity":"school"}},{"id":103853,"type":"Feature","geometry":{"type":"Point","coordinates":[23.21453,51.14636]},"properties":{"isced:level":"1;2","ref:rspo":103853,"official_name":"Szko\u0142a Podstawowa im. Jana Kochanowskiego w Paw\u0142owie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"22-172","addr:city":"Paw\u0142\u00f3w","addr:street":"ul. Szkolna","addr:housenumber":"4","addr:teryt:simc":21970,"addr:teryt:sym_ul":105986,"contact:phone":"+48 825664110","contact:email":"zspawlow@wp.pl","contact:website":"http:\/\/sppawlow.edupage.org","ref:regon":"001176379","ref:vatin":"PL5632146189","operator":"Gmina Rejowiec Fabryczny","operator:type":"government","amenity":"school","note":"Children RSPO: 121811"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 88451,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.109378,
+                    51.1115919
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 88451,
+                "official_name": "Szko\u0142a Podstawowa im.prymasa Tysi\u0105clecia Kardyna\u0142a Stefana Wyszy\u0144skiego w Lisznie",
+                "name": "Szko\u0142a Podstawowa im.prymasa Tysi\u0105clecia Kardyna\u0142a Stefana Wyszy\u0144skiego w Lisznie",
+                "addr:country": "PL",
+                "addr:postcode": "22-171",
+                "addr:place": "Liszno",
+                "addr:housenumber": "52",
+                "addr:teryt:sym_ul": 105934,
+                "contact:phone": "+48 825662406",
+                "contact:email": "gimliszno@wp.pl",
+                "ref:regon": "001176385",
+                "ref:vatin": "PL5632186869",
+                "operator": "Gmina Rejowiec Fabryczny",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 264300,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.109378,
+                    51.1115619
+                ]
+            },
+            "properties": {
+                "ref:rspo": 264300,
+                "official_name": "Punkt Przedszkolny w Lisznie",
+                "name": "Punkt Przedszkolny w Lisznie",
+                "addr:country": "PL",
+                "addr:postcode": "22-171",
+                "addr:place": "Liszno",
+                "addr:housenumber": "52",
+                "addr:teryt:sym_ul": 105934,
+                "contact:phone": "+48 825662406",
+                "contact:email": "gimliszno@wp.pl",
+                "contact:website": "http:\/\/zsliszno.szkolnastrona.pl",
+                "ref:regon": "368305384",
+                "operator": "Gmina Rejowiec Fabryczny",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 87908,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.0686919,
+                    51.1292319
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 87908,
+                "official_name": "Niepubliczna Szko\u0142a Podstawowa w W\u00f3lce Ka\u0144skiej",
+                "name": "Niepubliczna Szko\u0142a Podstawowa w W\u00f3lce Ka\u0144skiej",
+                "addr:country": "PL",
+                "addr:postcode": "22-171",
+                "addr:place": "W\u00f3lka Ka\u0144ska",
+                "addr:housenumber": "1D",
+                "addr:teryt:sym_ul": 106030,
+                "contact:phone": "+48 825643453",
+                "contact:email": "nsp1d@o2.pl",
+                "ref:regon": "061488528",
+                "ref:vatin": "PL5632422152",
+                "operator": "Stowarzyszenie Lepsze Jutro W W\u00f3lce Ka\u0144skiej",
+                "operator:type": "cooperative",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 264306,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.1863959,
+                    51.1321049
+                ]
+            },
+            "properties": {
+                "ref:rspo": 264306,
+                "official_name": "Punkt Przedszkolny w Krasnem",
+                "name": "Punkt Przedszkolny w Krasnem",
+                "addr:country": "PL",
+                "addr:postcode": "22-172",
+                "addr:place": "Krasne",
+                "addr:housenumber": "31",
+                "addr:teryt:sym_ul": 105874,
+                "contact:phone": "+48 825664716",
+                "contact:email": "spkrasne1@wp.pl",
+                "ref:regon": "368306099",
+                "operator": "Gmina Rejowiec Fabryczny",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 121811,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.1863959,
+                    51.1320749
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 121811,
+                "official_name": "Szko\u0142a Filialna w Krasnem",
+                "name": "Szko\u0142a Filialna w Krasnem",
+                "addr:country": "PL",
+                "addr:postcode": "22-172",
+                "addr:place": "Krasne",
+                "addr:housenumber": "31",
+                "addr:teryt:sym_ul": 105874,
+                "contact:phone": "+48 825664716",
+                "contact:email": "spkrasne1@wp.pl",
+                "ref:regon": "117637900",
+                "operator": "Gmina Rejowiec Fabryczny",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 103853"
+            }
+        },
+        {
+            "id": 92808,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.112357,
+                    51.1365289
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 92808,
+                "official_name": "Niepubliczna Szko\u0142a Podstawowa im.s\u0142ugi Bo\u017cego O.jacka Woronieckiego Op",
+                "name": "Niepubliczna Szko\u0142a Podstawowa im.s\u0142ugi Bo\u017cego O.jacka Woronieckiego Op",
+                "addr:country": "PL",
+                "addr:postcode": "22-171",
+                "addr:place": "Kanie",
+                "addr:housenumber": "33",
+                "addr:teryt:sym_ul": 105851,
+                "contact:phone": "+48 825662412",
+                "contact:email": "sp-kanie@o2.pl",
+                "ref:regon": "061496887",
+                "operator": "Stowarzyszenie Na Rzecz Ekorozwoju Wsi Kanie Gmina Rejowiec Fabryczny",
+                "operator:type": "cooperative",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 103853,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.21453,
+                    51.14636
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 103853,
+                "official_name": "Szko\u0142a Podstawowa im. Jana Kochanowskiego w Paw\u0142owie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "22-172",
+                "addr:city": "Paw\u0142\u00f3w",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "4",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 105986,
+                "contact:phone": "+48 825664110",
+                "contact:email": "zspawlow@wp.pl",
+                "contact:website": "http:\/\/sppawlow.edupage.org",
+                "ref:regon": "001176379",
+                "ref:vatin": "PL5632146189",
+                "operator": "Gmina Rejowiec Fabryczny",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Children RSPO: 121811"
+            }
+        }
+    ]
+}

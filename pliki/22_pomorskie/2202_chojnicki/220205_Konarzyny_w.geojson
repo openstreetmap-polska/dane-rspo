@@ -1,1 +1,99 @@
-{"type":"FeatureCollection","features":[{"id":29177,"type":"Feature","geometry":{"type":"Point","coordinates":[17.38116,53.82185]},"properties":{"ref:rspo":29177,"official_name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 Publicznych w Konarzynach","name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 Publicznych w Konarzynach","addr:country":"PL","addr:postcode":"89-607","addr:city":"Konarzyny","addr:street":"ul. Szkolna","addr:housenumber":"12","addr:teryt:simc":21970,"addr:teryt:sym_ul":746389,"contact:phone":"+48 598331079","contact:email":"dyr@konarzyny.edu.pl","contact:website":"http:\/\/www.konarzyny.edu.pl","ref:regon":"771268501","ref:vatin":"PL5551808568","operator":"Gmina Konarzyny","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 106309;106312"}},{"id":106309,"type":"Feature","geometry":{"type":"Point","coordinates":[17.38116,53.821819999999995]},"properties":{"ref:rspo":106309,"official_name":"Przedszkole Promyczek w Zespole Szk\u00f3\u0142 Publicznych w Konarzynach","name":"Przedszkole Promyczek w Zespole Szk\u00f3\u0142 Publicznych w Konarzynach","addr:country":"PL","addr:postcode":"89-607","addr:city":"Konarzyny","addr:street":"ul. Szkolna","addr:housenumber":"12","addr:teryt:simc":21970,"addr:teryt:sym_ul":746389,"contact:phone":"+48 598331079","contact:email":"dyr@konarzyny.edu.pl","ref:regon":"221049854","operator":"Gmina Konarzyny","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 29177"}},{"id":106312,"type":"Feature","geometry":{"type":"Point","coordinates":[17.38116,53.82179]},"properties":{"isced:level":"1;2","ref:rspo":106312,"official_name":"Szko\u0142a Podstawowa im. Marsza\u0142ka J\u00f3zefa Pi\u0142sudskiego","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"89-607","addr:city":"Konarzyny","addr:street":"ul. Szkolna","addr:housenumber":"12","addr:teryt:simc":21970,"addr:teryt:sym_ul":746389,"contact:phone":"+48 598331079","contact:email":"sp@konarzyny.edu.pl","ref:regon":"771601596","operator":"Gmina Konarzyny","operator:type":"government","amenity":"school","note":"Parent RSPO: 29177"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 29177,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.38116,
+                    53.82185
+                ]
+            },
+            "properties": {
+                "ref:rspo": 29177,
+                "official_name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Publicznych w Konarzynach",
+                "name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Publicznych w Konarzynach",
+                "addr:country": "PL",
+                "addr:postcode": "89-607",
+                "addr:city": "Konarzyny",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "12",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 746389,
+                "contact:phone": "+48 598331079",
+                "contact:email": "dyr@konarzyny.edu.pl",
+                "contact:website": "http:\/\/www.konarzyny.edu.pl",
+                "ref:regon": "771268501",
+                "ref:vatin": "PL5551808568",
+                "operator": "Gmina Konarzyny",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 106309;106312"
+            }
+        },
+        {
+            "id": 106309,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.38116,
+                    53.821819999999995
+                ]
+            },
+            "properties": {
+                "ref:rspo": 106309,
+                "official_name": "Przedszkole Promyczek w Zespole Szk\u00f3\u0142 Publicznych w Konarzynach",
+                "name": "Przedszkole Promyczek w Zespole Szk\u00f3\u0142 Publicznych w Konarzynach",
+                "addr:country": "PL",
+                "addr:postcode": "89-607",
+                "addr:city": "Konarzyny",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "12",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 746389,
+                "contact:phone": "+48 598331079",
+                "contact:email": "dyr@konarzyny.edu.pl",
+                "ref:regon": "221049854",
+                "operator": "Gmina Konarzyny",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 29177"
+            }
+        },
+        {
+            "id": 106312,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.38116,
+                    53.82179
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 106312,
+                "official_name": "Szko\u0142a Podstawowa im. Marsza\u0142ka J\u00f3zefa Pi\u0142sudskiego",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "89-607",
+                "addr:city": "Konarzyny",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "12",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 746389,
+                "contact:phone": "+48 598331079",
+                "contact:email": "sp@konarzyny.edu.pl",
+                "ref:regon": "771601596",
+                "operator": "Gmina Konarzyny",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 29177"
+            }
+        }
+    ]
+}

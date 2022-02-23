@@ -1,1 +1,61 @@
-{"type":"FeatureCollection","features":[{"id":86168,"type":"Feature","geometry":{"type":"Point","coordinates":[16.21122,51.64828]},"properties":{"isced:level":"1;2","ref:rspo":86168,"official_name":"Szko\u0142a Podstawowa w Bia\u0142o\u0142\u0119ce","name":"Szko\u0142a Podstawowa w Bia\u0142o\u0142\u0119ce","addr:country":"PL","addr:postcode":"67-221","addr:place":"Bia\u0142o\u0142\u0119ka","addr:housenumber":"20","addr:teryt:sym_ul":366209,"contact:phone":"+48 768317169","contact:email":"sekretariat.sp@peclaw.eu","contact:website":"http:\/\/www.spbialoleka.pl","ref:regon":"000580865","operator":"Gmina P\u0119c\u0142aw","operator:type":"government","amenity":"school"}},{"id":113537,"type":"Feature","geometry":{"type":"Point","coordinates":[16.21122,51.64825]},"properties":{"ref:rspo":113537,"official_name":"Oddzia\u0142 \"0\"","name":"Oddzia\u0142 \"0\"","addr:country":"PL","addr:postcode":"67-221","addr:place":"Bia\u0142o\u0142\u0119ka","addr:housenumber":"20","addr:teryt:sym_ul":366209,"contact:phone":"+48 768317172","contact:email":"sekretariat.sp@peclaw.eu","ref:regon":"022114063","operator":"Gmina P\u0119c\u0142aw","operator:type":"government","amenity":"kindergarten"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 86168,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.21122,
+                    51.64828
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 86168,
+                "official_name": "Szko\u0142a Podstawowa w Bia\u0142o\u0142\u0119ce",
+                "name": "Szko\u0142a Podstawowa w Bia\u0142o\u0142\u0119ce",
+                "addr:country": "PL",
+                "addr:postcode": "67-221",
+                "addr:place": "Bia\u0142o\u0142\u0119ka",
+                "addr:housenumber": "20",
+                "addr:teryt:sym_ul": 366209,
+                "contact:phone": "+48 768317169",
+                "contact:email": "sekretariat.sp@peclaw.eu",
+                "contact:website": "http:\/\/www.spbialoleka.pl",
+                "ref:regon": "000580865",
+                "operator": "Gmina P\u0119c\u0142aw",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 113537,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.21122,
+                    51.64825
+                ]
+            },
+            "properties": {
+                "ref:rspo": 113537,
+                "official_name": "Oddzia\u0142 \"0\"",
+                "name": "Oddzia\u0142 \"0\"",
+                "addr:country": "PL",
+                "addr:postcode": "67-221",
+                "addr:place": "Bia\u0142o\u0142\u0119ka",
+                "addr:housenumber": "20",
+                "addr:teryt:sym_ul": 366209,
+                "contact:phone": "+48 768317172",
+                "contact:email": "sekretariat.sp@peclaw.eu",
+                "ref:regon": "022114063",
+                "operator": "Gmina P\u0119c\u0142aw",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        }
+    ]
+}

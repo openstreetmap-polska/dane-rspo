@@ -1,1 +1,156 @@
-{"type":"FeatureCollection","features":[{"id":44526,"type":"Feature","geometry":{"type":"Point","coordinates":[17.62047,52.40742]},"properties":{"isced:level":"1;2","ref:rspo":44526,"official_name":"Szko\u0142a Podstawowa im.jana Paw\u0142a II w Jarz\u0105bkowie","name":"Szko\u0142a Podstawowa im.jana Paw\u0142a II w Jarz\u0105bkowie","addr:country":"PL","addr:postcode":"62-220","addr:place":"Jarz\u0105bkowo","addr:housenumber":"4","addr:teryt:sym_ul":590504,"contact:phone":"+48 614274160","contact:email":"dyrektor_jarzabkowo@o2.pl","contact:website":"http:\/\/www.sp-jarzabkowo.edupage.org","ref:regon":"001227250","ref:vatin":"PL7842472654","operator":"Gmina Niechanowo","operator:type":"government","amenity":"school"}},{"id":264128,"type":"Feature","geometry":{"type":"Point","coordinates":[17.67988,52.46326]},"properties":{"isced:level":"1;2","ref:rspo":264128,"official_name":"Niepubliczna Szko\u0142a Podstawowa w Niechanowie","name":"Niepubliczna Szko\u0142a Podstawowa w Niechanowie","addr:country":"PL","addr:postcode":"62-220","addr:city":"Niechanowo","addr:street":"ul. Parkowa","addr:housenumber":"6","addr:teryt:simc":15710,"addr:teryt:sym_ul":590591,"contact:email":"nsp_niechanowo@wp.pl","ref:regon":"368268921","operator":"Kosicka Agnieszka","operator:type":"private","amenity":"school"}},{"id":273147,"type":"Feature","geometry":{"type":"Point","coordinates":[17.67988,52.463229999999996]},"properties":{"isced:level":"3","ref:rspo":273147,"official_name":"Bran\u017cowa Szko\u0142a I Stopnia w Niechanowie","name":"Bran\u017cowa Szko\u0142a I Stopnia w Niechanowie","addr:country":"PL","addr:postcode":"62-220","addr:city":"Niechanowo","addr:street":"ul. Parkowa","addr:housenumber":"6","addr:teryt:simc":15710,"addr:teryt:sym_ul":590591,"contact:email":"edukacja.edu@wp.pl","ref:regon":"384385130","ref:vatin":"PL7632126093","operator":"Kosicka Agnieszka","operator:type":"private","amenity":"school"}},{"id":109971,"type":"Feature","geometry":{"type":"Point","coordinates":[17.68253,52.46555]},"properties":{"isced:level":"1;2","ref:rspo":109971,"official_name":"Szko\u0142a Podstawowa im.miko\u0142aja Kopernika w Niechanowie","name":"Szko\u0142a Podstawowa im.miko\u0142aja Kopernika w Niechanowie","addr:country":"PL","addr:postcode":"62-220","addr:city":"Niechanowo","addr:street":"ul. R\u00f3\u017cana","addr:housenumber":"33","addr:teryt:simc":19000,"addr:teryt:sym_ul":590591,"contact:phone":"+48 614272114","contact:email":"spniechanowo@wp.pl","contact:website":"http:\/\/www.spniechanowo.home.pl","ref:regon":"000601538","ref:vatin":"PL7841672865","operator":"Gmina Niechanowo","operator:type":"government","amenity":"school"}},{"id":2875,"type":"Feature","geometry":{"type":"Point","coordinates":[17.68491,52.46559]},"properties":{"ref:rspo":2875,"official_name":"Przedszkole Samorz\u0105dowe \"Kajtek\" w Niechanowie","name":"Przedszkole Samorz\u0105dowe \"Kajtek\" w Niechanowie","addr:country":"PL","addr:postcode":"62-220","addr:city":"Niechanowo","addr:street":"ul. Ogrodowa","addr:housenumber":"4","addr:teryt:simc":14834,"addr:teryt:sym_ul":590591,"contact:phone":"+48 614272026","contact:email":"kajtek.niechanowo@wp.pl","ref:regon":"634171297","ref:vatin":"PL7842473145","operator":"Gmina Niechanowo","operator:type":"government","amenity":"kindergarten"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 44526,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.62047,
+                    52.40742
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 44526,
+                "official_name": "Szko\u0142a Podstawowa im.jana Paw\u0142a II w Jarz\u0105bkowie",
+                "name": "Szko\u0142a Podstawowa im.jana Paw\u0142a II w Jarz\u0105bkowie",
+                "addr:country": "PL",
+                "addr:postcode": "62-220",
+                "addr:place": "Jarz\u0105bkowo",
+                "addr:housenumber": "4",
+                "addr:teryt:sym_ul": 590504,
+                "contact:phone": "+48 614274160",
+                "contact:email": "dyrektor_jarzabkowo@o2.pl",
+                "contact:website": "http:\/\/www.sp-jarzabkowo.edupage.org",
+                "ref:regon": "001227250",
+                "ref:vatin": "PL7842472654",
+                "operator": "Gmina Niechanowo",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 264128,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.67988,
+                    52.46326
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 264128,
+                "official_name": "Niepubliczna Szko\u0142a Podstawowa w Niechanowie",
+                "name": "Niepubliczna Szko\u0142a Podstawowa w Niechanowie",
+                "addr:country": "PL",
+                "addr:postcode": "62-220",
+                "addr:city": "Niechanowo",
+                "addr:street": "ul. Parkowa",
+                "addr:housenumber": "6",
+                "addr:teryt:simc": 15710,
+                "addr:teryt:sym_ul": 590591,
+                "contact:email": "nsp_niechanowo@wp.pl",
+                "ref:regon": "368268921",
+                "operator": "Kosicka Agnieszka",
+                "operator:type": "private",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 273147,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.67988,
+                    52.463229999999996
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 273147,
+                "official_name": "Bran\u017cowa Szko\u0142a I Stopnia w Niechanowie",
+                "name": "Bran\u017cowa Szko\u0142a I Stopnia w Niechanowie",
+                "addr:country": "PL",
+                "addr:postcode": "62-220",
+                "addr:city": "Niechanowo",
+                "addr:street": "ul. Parkowa",
+                "addr:housenumber": "6",
+                "addr:teryt:simc": 15710,
+                "addr:teryt:sym_ul": 590591,
+                "contact:email": "edukacja.edu@wp.pl",
+                "ref:regon": "384385130",
+                "ref:vatin": "PL7632126093",
+                "operator": "Kosicka Agnieszka",
+                "operator:type": "private",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 109971,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.68253,
+                    52.46555
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 109971,
+                "official_name": "Szko\u0142a Podstawowa im.miko\u0142aja Kopernika w Niechanowie",
+                "name": "Szko\u0142a Podstawowa im.miko\u0142aja Kopernika w Niechanowie",
+                "addr:country": "PL",
+                "addr:postcode": "62-220",
+                "addr:city": "Niechanowo",
+                "addr:street": "ul. R\u00f3\u017cana",
+                "addr:housenumber": "33",
+                "addr:teryt:simc": 19000,
+                "addr:teryt:sym_ul": 590591,
+                "contact:phone": "+48 614272114",
+                "contact:email": "spniechanowo@wp.pl",
+                "contact:website": "http:\/\/www.spniechanowo.home.pl",
+                "ref:regon": "000601538",
+                "ref:vatin": "PL7841672865",
+                "operator": "Gmina Niechanowo",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 2875,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.68491,
+                    52.46559
+                ]
+            },
+            "properties": {
+                "ref:rspo": 2875,
+                "official_name": "Przedszkole Samorz\u0105dowe \"Kajtek\" w Niechanowie",
+                "name": "Przedszkole Samorz\u0105dowe \"Kajtek\" w Niechanowie",
+                "addr:country": "PL",
+                "addr:postcode": "62-220",
+                "addr:city": "Niechanowo",
+                "addr:street": "ul. Ogrodowa",
+                "addr:housenumber": "4",
+                "addr:teryt:simc": 14834,
+                "addr:teryt:sym_ul": 590591,
+                "contact:phone": "+48 614272026",
+                "contact:email": "kajtek.niechanowo@wp.pl",
+                "ref:regon": "634171297",
+                "ref:vatin": "PL7842473145",
+                "operator": "Gmina Niechanowo",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        }
+    ]
+}

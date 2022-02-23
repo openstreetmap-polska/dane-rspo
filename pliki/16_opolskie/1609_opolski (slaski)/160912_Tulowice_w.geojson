@@ -1,1 +1,165 @@
-{"type":"FeatureCollection","features":[{"id":5005,"type":"Feature","geometry":{"type":"Point","coordinates":[17.65698,50.59149]},"properties":{"ref:rspo":5005,"official_name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 w Tu\u0142owicach","name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 w Tu\u0142owicach","addr:country":"PL","addr:postcode":"49-130","addr:city":"Tu\u0142owice","addr:street":"ul. Zamkowa","addr:housenumber":"1","addr:teryt:simc":25547,"addr:teryt:sym_ul":504090,"contact:phone":"+48 774277036","contact:email":"sekretariat@tltulowice.pl","contact:website":"http:\/\/www.tltulowice.pl","ref:regon":"532320141","ref:vatin":"PL9910248351","operator":"Powiat Opolski","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 16553;92500"}},{"id":16553,"type":"Feature","geometry":{"type":"Point","coordinates":[17.65698,50.59146]},"properties":{"isced:level":"3","ref:rspo":16553,"official_name":"Publiczne Technikum Le\u015bne Zespo\u0142u Szk\u00f3\u0142 w Tu\u0142owicach","name":"Publiczne Technikum Le\u015bne Zespo\u0142u Szk\u00f3\u0142 w Tu\u0142owicach","addr:country":"PL","addr:postcode":"49-130","addr:city":"Tu\u0142owice","addr:street":"ul. Zamkowa","addr:housenumber":"1","addr:teryt:simc":25547,"addr:teryt:sym_ul":504090,"contact:phone":"+48 774277036","contact:email":"sekretariat@tltulowice.pl","contact:website":"http:\/\/www.tltulowice.pl","ref:regon":"000124357","ref:vatin":"PL9910248351","operator":"Powiat Opolski","operator:type":"government","amenity":"school","note":"Parent RSPO: 5005"}},{"id":92500,"type":"Feature","geometry":{"type":"Point","coordinates":[17.65698,50.59143]},"properties":{"isced:level":"3","ref:rspo":92500,"official_name":"Publiczne Liceum Og\u00f3lnokszta\u0142c\u0105ce Zespo\u0142u Szk\u00f3\u0142 w Tu\u0142owicach","name":"Publiczne Liceum Og\u00f3lnokszta\u0142c\u0105ce Zespo\u0142u Szk\u00f3\u0142 w Tu\u0142owicach","addr:country":"PL","addr:postcode":"49-130","addr:city":"Tu\u0142owice","addr:street":"ul. Zamkowa","addr:housenumber":"1","addr:teryt:simc":25547,"addr:teryt:sym_ul":504090,"contact:phone":"+48 774277036","contact:email":"sekretariat@tltulowice.pl","contact:website":"http:\/\/www.tltulowice.pl","ref:regon":"532320164","ref:vatin":"PL9910248351","operator":"Powiat Opolski","operator:type":"government","amenity":"school","note":"Parent RSPO: 5005"}},{"id":89316,"type":"Feature","geometry":{"type":"Point","coordinates":[17.65055,50.59539]},"properties":{"ref:rspo":89316,"official_name":"Przedszkole Publiczne w Tu\u0142owicach","name":"Przedszkole Publiczne w Tu\u0142owicach","addr:country":"PL","addr:postcode":"49-130","addr:city":"Tu\u0142owice","addr:street":"ul. Przedszkolna","addr:housenumber":"11","addr:teryt:simc":17683,"addr:teryt:sym_ul":504090,"contact:phone":"+48 774600165","contact:email":"pptulowice@o2.pl","ref:regon":"530570885","ref:vatin":"PL7542368987","operator":"Gmina Tu\u0142owice","operator:type":"government","amenity":"kindergarten"}},{"id":92310,"type":"Feature","geometry":{"type":"Point","coordinates":[17.65275,50.59635]},"properties":{"isced:level":"1;2","ref:rspo":92310,"official_name":"Publiczna Szko\u0142a Podstawowa im. Jana Paw\u0142a II w Tu\u0142owicach","name":"Publiczna Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"49-130","addr:city":"Tu\u0142owice","addr:street":"ul. Porcelanowa","addr:housenumber":"21","addr:teryt:simc":17197,"addr:teryt:sym_ul":504090,"contact:phone":"+48 774600133","contact:email":"sekretariat@psptulowice.szkolnastrona.pl","contact:website":"http:\/\/psptulowice.szkolnastrona.pl","ref:regon":"001182210","operator":"Gmina Tu\u0142owice","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 5005,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.65698,
+                    50.59149
+                ]
+            },
+            "properties": {
+                "ref:rspo": 5005,
+                "official_name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 w Tu\u0142owicach",
+                "name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 w Tu\u0142owicach",
+                "addr:country": "PL",
+                "addr:postcode": "49-130",
+                "addr:city": "Tu\u0142owice",
+                "addr:street": "ul. Zamkowa",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 25547,
+                "addr:teryt:sym_ul": 504090,
+                "contact:phone": "+48 774277036",
+                "contact:email": "sekretariat@tltulowice.pl",
+                "contact:website": "http:\/\/www.tltulowice.pl",
+                "ref:regon": "532320141",
+                "ref:vatin": "PL9910248351",
+                "operator": "Powiat Opolski",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 16553;92500"
+            }
+        },
+        {
+            "id": 16553,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.65698,
+                    50.59146
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 16553,
+                "official_name": "Publiczne Technikum Le\u015bne Zespo\u0142u Szk\u00f3\u0142 w Tu\u0142owicach",
+                "name": "Publiczne Technikum Le\u015bne Zespo\u0142u Szk\u00f3\u0142 w Tu\u0142owicach",
+                "addr:country": "PL",
+                "addr:postcode": "49-130",
+                "addr:city": "Tu\u0142owice",
+                "addr:street": "ul. Zamkowa",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 25547,
+                "addr:teryt:sym_ul": 504090,
+                "contact:phone": "+48 774277036",
+                "contact:email": "sekretariat@tltulowice.pl",
+                "contact:website": "http:\/\/www.tltulowice.pl",
+                "ref:regon": "000124357",
+                "ref:vatin": "PL9910248351",
+                "operator": "Powiat Opolski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 5005"
+            }
+        },
+        {
+            "id": 92500,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.65698,
+                    50.59143
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 92500,
+                "official_name": "Publiczne Liceum Og\u00f3lnokszta\u0142c\u0105ce Zespo\u0142u Szk\u00f3\u0142 w Tu\u0142owicach",
+                "name": "Publiczne Liceum Og\u00f3lnokszta\u0142c\u0105ce Zespo\u0142u Szk\u00f3\u0142 w Tu\u0142owicach",
+                "addr:country": "PL",
+                "addr:postcode": "49-130",
+                "addr:city": "Tu\u0142owice",
+                "addr:street": "ul. Zamkowa",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 25547,
+                "addr:teryt:sym_ul": 504090,
+                "contact:phone": "+48 774277036",
+                "contact:email": "sekretariat@tltulowice.pl",
+                "contact:website": "http:\/\/www.tltulowice.pl",
+                "ref:regon": "532320164",
+                "ref:vatin": "PL9910248351",
+                "operator": "Powiat Opolski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 5005"
+            }
+        },
+        {
+            "id": 89316,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.65055,
+                    50.59539
+                ]
+            },
+            "properties": {
+                "ref:rspo": 89316,
+                "official_name": "Przedszkole Publiczne w Tu\u0142owicach",
+                "name": "Przedszkole Publiczne w Tu\u0142owicach",
+                "addr:country": "PL",
+                "addr:postcode": "49-130",
+                "addr:city": "Tu\u0142owice",
+                "addr:street": "ul. Przedszkolna",
+                "addr:housenumber": "11",
+                "addr:teryt:simc": 17683,
+                "addr:teryt:sym_ul": 504090,
+                "contact:phone": "+48 774600165",
+                "contact:email": "pptulowice@o2.pl",
+                "ref:regon": "530570885",
+                "ref:vatin": "PL7542368987",
+                "operator": "Gmina Tu\u0142owice",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 92310,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.65275,
+                    50.59635
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 92310,
+                "official_name": "Publiczna Szko\u0142a Podstawowa im. Jana Paw\u0142a II w Tu\u0142owicach",
+                "name": "Publiczna Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "49-130",
+                "addr:city": "Tu\u0142owice",
+                "addr:street": "ul. Porcelanowa",
+                "addr:housenumber": "21",
+                "addr:teryt:simc": 17197,
+                "addr:teryt:sym_ul": 504090,
+                "contact:phone": "+48 774600133",
+                "contact:email": "sekretariat@psptulowice.szkolnastrona.pl",
+                "contact:website": "http:\/\/psptulowice.szkolnastrona.pl",
+                "ref:regon": "001182210",
+                "operator": "Gmina Tu\u0142owice",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

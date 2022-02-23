@@ -1,1 +1,184 @@
-{"type":"FeatureCollection","features":[{"id":3315,"type":"Feature","geometry":{"type":"Point","coordinates":[20.6007779,50.3061859]},"properties":{"isced:level":"1;2","ref:rspo":3315,"official_name":"Szko\u0142a Podstawowa im. Leona W\u00f3jcickiego w Sokolinie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"28-506","addr:place":"Sokolina","addr:housenumber":"19","addr:teryt:sym_ul":236116,"contact:phone":"+48 413513002","contact:email":"szkolasokolina@poczta.onet.pl","contact:website":"http:\/\/spsokolina.edupage.org","ref:regon":"001174216","ref:vatin":"PL6050059429","operator":"Gmina Czarnocin","operator:type":"government","amenity":"school"}},{"id":196318,"type":"Feature","geometry":{"type":"Point","coordinates":[20.5317079,50.330585]},"properties":{"isced:level":"1;2","ref:rspo":196318,"official_name":"Szko\u0142a Podstawowa im. Armii Krajowej","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"28-506","addr:place":"Cieszkowy","addr:housenumber":"30","addr:teryt:sym_ul":235737,"contact:phone":"+48 413512025","contact:email":"gimciesz@interia.pl","ref:regon":"367991779","operator":"Gmina Czarnocin","operator:type":"government","amenity":"school"}},{"id":3332,"type":"Feature","geometry":{"type":"Point","coordinates":[20.523084,50.3391329]},"properties":{"ref:rspo":3332,"official_name":"Centrum Edukacji Przedszkolnej Anna Nowak","name":"Centrum Edukacji Przedszkolnej Anna Nowak","addr:country":"PL","addr:postcode":"28-506","addr:place":"Czarnocin","addr:housenumber":"67","addr:teryt:sym_ul":235795,"contact:phone":"+48 413512015","contact:email":"annanowakcep@op.pl","ref:regon":"260623917","ref:vatin":"PL6621157089","operator":"Anna Nowak","operator:type":"private","amenity":"kindergarten"}},{"id":131092,"type":"Feature","geometry":{"type":"Point","coordinates":[20.5177129,50.3412119]},"properties":{"ref:rspo":131092,"official_name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w Czarnocinie","name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w Czarnocinie","addr:country":"PL","addr:postcode":"28-506","addr:place":"Czarnocin","addr:housenumber":"1","addr:door":"-","addr:teryt:sym_ul":235795,"contact:phone":"+48 413512124","contact:email":"spczarnocin@op.pl","contact:website":"http:\/\/spczarnocin.edupage.org","ref:regon":"364936030","ref:vatin":"PL6050071689","operator":"Gmina Czarnocin","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 3323;3344"}},{"id":3323,"type":"Feature","geometry":{"type":"Point","coordinates":[20.5177129,50.341181899999995]},"properties":{"ref:rspo":3323,"official_name":"Publiczne Przedszkole Samorz\u0105dowe w Czarnocinie","name":"Publiczne Przedszkole Samorz\u0105dowe w Czarnocinie","addr:country":"PL","addr:postcode":"28-506","addr:place":"Czarnocin","addr:housenumber":"1","addr:teryt:sym_ul":235795,"contact:phone":"+48 413512124","contact:email":"ppsczarnocin@op.pl","contact:website":"http:\/\/spczarnocin.edupage.org","ref:regon":"290013868","ref:vatin":"PL6050059458","operator":"Gmina Czarnocin","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 131092"}},{"id":3344,"type":"Feature","geometry":{"type":"Point","coordinates":[20.5177129,50.3411519]},"properties":{"isced:level":"1;2","ref:rspo":3344,"official_name":"Szko\u0142a Podstawowa im. Batalion\u00f3w Ch\u0142opskich w Czarnocinie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"28-506","addr:place":"Czarnocin","addr:housenumber":"1","addr:teryt:sym_ul":235795,"contact:phone":"+48 413512124","contact:email":"spczarnocin@op.pl","contact:website":"http:\/\/spczarnocin.edupage.org","ref:regon":"000266577","ref:vatin":"PL6050059435","operator":"Gmina Czarnocin","operator:type":"government","amenity":"school","note":"Parent RSPO: 131092"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 3315,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.6007779,
+                    50.3061859
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 3315,
+                "official_name": "Szko\u0142a Podstawowa im. Leona W\u00f3jcickiego w Sokolinie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "28-506",
+                "addr:place": "Sokolina",
+                "addr:housenumber": "19",
+                "addr:teryt:sym_ul": 236116,
+                "contact:phone": "+48 413513002",
+                "contact:email": "szkolasokolina@poczta.onet.pl",
+                "contact:website": "http:\/\/spsokolina.edupage.org",
+                "ref:regon": "001174216",
+                "ref:vatin": "PL6050059429",
+                "operator": "Gmina Czarnocin",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 196318,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.5317079,
+                    50.330585
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 196318,
+                "official_name": "Szko\u0142a Podstawowa im. Armii Krajowej",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "28-506",
+                "addr:place": "Cieszkowy",
+                "addr:housenumber": "30",
+                "addr:teryt:sym_ul": 235737,
+                "contact:phone": "+48 413512025",
+                "contact:email": "gimciesz@interia.pl",
+                "ref:regon": "367991779",
+                "operator": "Gmina Czarnocin",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 3332,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.523084,
+                    50.3391329
+                ]
+            },
+            "properties": {
+                "ref:rspo": 3332,
+                "official_name": "Centrum Edukacji Przedszkolnej Anna Nowak",
+                "name": "Centrum Edukacji Przedszkolnej Anna Nowak",
+                "addr:country": "PL",
+                "addr:postcode": "28-506",
+                "addr:place": "Czarnocin",
+                "addr:housenumber": "67",
+                "addr:teryt:sym_ul": 235795,
+                "contact:phone": "+48 413512015",
+                "contact:email": "annanowakcep@op.pl",
+                "ref:regon": "260623917",
+                "ref:vatin": "PL6621157089",
+                "operator": "Anna Nowak",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 131092,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.5177129,
+                    50.3412119
+                ]
+            },
+            "properties": {
+                "ref:rspo": 131092,
+                "official_name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w Czarnocinie",
+                "name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w Czarnocinie",
+                "addr:country": "PL",
+                "addr:postcode": "28-506",
+                "addr:place": "Czarnocin",
+                "addr:housenumber": "1",
+                "addr:door": "-",
+                "addr:teryt:sym_ul": 235795,
+                "contact:phone": "+48 413512124",
+                "contact:email": "spczarnocin@op.pl",
+                "contact:website": "http:\/\/spczarnocin.edupage.org",
+                "ref:regon": "364936030",
+                "ref:vatin": "PL6050071689",
+                "operator": "Gmina Czarnocin",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 3323;3344"
+            }
+        },
+        {
+            "id": 3323,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.5177129,
+                    50.341181899999995
+                ]
+            },
+            "properties": {
+                "ref:rspo": 3323,
+                "official_name": "Publiczne Przedszkole Samorz\u0105dowe w Czarnocinie",
+                "name": "Publiczne Przedszkole Samorz\u0105dowe w Czarnocinie",
+                "addr:country": "PL",
+                "addr:postcode": "28-506",
+                "addr:place": "Czarnocin",
+                "addr:housenumber": "1",
+                "addr:teryt:sym_ul": 235795,
+                "contact:phone": "+48 413512124",
+                "contact:email": "ppsczarnocin@op.pl",
+                "contact:website": "http:\/\/spczarnocin.edupage.org",
+                "ref:regon": "290013868",
+                "ref:vatin": "PL6050059458",
+                "operator": "Gmina Czarnocin",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 131092"
+            }
+        },
+        {
+            "id": 3344,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.5177129,
+                    50.3411519
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 3344,
+                "official_name": "Szko\u0142a Podstawowa im. Batalion\u00f3w Ch\u0142opskich w Czarnocinie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "28-506",
+                "addr:place": "Czarnocin",
+                "addr:housenumber": "1",
+                "addr:teryt:sym_ul": 235795,
+                "contact:phone": "+48 413512124",
+                "contact:email": "spczarnocin@op.pl",
+                "contact:website": "http:\/\/spczarnocin.edupage.org",
+                "ref:regon": "000266577",
+                "ref:vatin": "PL6050059435",
+                "operator": "Gmina Czarnocin",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 131092"
+            }
+        }
+    ]
+}

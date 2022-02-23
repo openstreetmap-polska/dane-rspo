@@ -1,1 +1,187 @@
-{"type":"FeatureCollection","features":[{"id":42816,"type":"Feature","geometry":{"type":"Point","coordinates":[14.97966,53.48166]},"properties":{"isced:level":"1;2","ref:rspo":42816,"official_name":"Szko\u0142a Podstawowa","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"72-130","addr:place":"Ro\u017cnowo Nowogardzkie","addr:housenumber":"60","addr:teryt:sym_ul":779064,"contact:phone":"+48 914071125","contact:email":"szkolaroznowo@wp.pl","ref:regon":"001223162","ref:vatin":"PL8561406206","operator":"Gmina Maszewo","operator:type":"government","amenity":"school"}},{"id":119965,"type":"Feature","geometry":{"type":"Point","coordinates":[15.05869,53.49791]},"properties":{"isced:level":"3","ref:rspo":119965,"official_name":"Bran\u017cowa Szko\u0142a I Stopnia w Maszewie","name":"Bran\u017cowa Szko\u0142a I Stopnia w Maszewie","addr:country":"PL","addr:postcode":"72-130","addr:city":"Maszewo","addr:street":"ul. Jedno\u015bci Narodowej","addr:housenumber":"6","addr:teryt:simc":7435,"addr:teryt:sym_ul":979188,"contact:phone":"+48 914187654","contact:email":"sekretariatma@gmail.com","ref:regon":"321426822","ref:vatin":"PL8521010235","operator":"Izba Rzemie\u015blnicza Ma\u0142ej I \u015aredniej Przedsi\u0119biorczo\u015bci","operator:type":"cooperative","amenity":"school"}},{"id":42814,"type":"Feature","geometry":{"type":"Point","coordinates":[15.05803,53.49828]},"properties":{"isced:level":"1;2","ref:rspo":42814,"official_name":"Szko\u0142a Podstawowa im. Adama Mickiewicza","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"72-130","addr:city":"Maszewo","addr:street":"ul. Jedno\u015bci Narodowej","addr:housenumber":"7","addr:teryt:simc":7435,"addr:teryt:sym_ul":979188,"contact:phone":"+48 914187610","contact:email":"sekretariatspmaszewo@maszewo.pl","contact:website":"http:\/\/www.spmaszewo.szkolnastrona.pl","ref:regon":"000263604","ref:vatin":"PL8561410024","operator":"Gmina Maszewo","operator:type":"government","amenity":"school"}},{"id":131655,"type":"Feature","geometry":{"type":"Point","coordinates":[15.05991,53.49963]},"properties":{"ref:rspo":131655,"official_name":"Niepubliczne Przedszkole \"Iskierka\"","name":"Niepubliczne Przedszkole \"Iskierka\"","addr:country":"PL","addr:postcode":"72-130","addr:city":"Maszewo","addr:street":"ul. Okrzei","addr:housenumber":"7a","addr:teryt:simc":14909,"addr:teryt:sym_ul":979188,"contact:phone":"+48 507403525","contact:email":"iskierka.maszewo@interia.pl","ref:regon":"365322287","operator":"Iwona \u0141akatosz","operator:type":"private","amenity":"kindergarten"}},{"id":38848,"type":"Feature","geometry":{"type":"Point","coordinates":[15.0595,53.5027199]},"properties":{"ref:rspo":38848,"official_name":"Przedszkole Miejskie","name":"Przedszkole Miejskie","addr:country":"PL","addr:postcode":"72-130","addr:city":"Maszewo","addr:street":"ul. Jedno\u015bci Narodowej","addr:housenumber":"25","addr:teryt:simc":7435,"addr:teryt:sym_ul":979188,"contact:phone":"+48 914187608","contact:email":"przedszkolemaszewo@maszewo.pl","contact:website":"http:\/\/przedszkolemaszewo.pl","ref:regon":"001004193","ref:vatin":"PL8561410030","operator":"Gmina Maszewo","operator:type":"government","amenity":"kindergarten"}},{"id":42815,"type":"Feature","geometry":{"type":"Point","coordinates":[15.12045,53.53683]},"properties":{"isced:level":"1;2","ref:rspo":42815,"official_name":"Szko\u0142a Podstawowa im. Janusza Kusoci\u0144skiego","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"72-130","addr:place":"D\u0119bice","addr:housenumber":"29","addr:teryt:sym_ul":778917,"contact:phone":"+48 914191195","contact:email":"dyrektorspdebice@maszewo.pl","contact:website":"http:\/\/spdebice.pl","ref:regon":"001223156","ref:vatin":"PL8561406229","operator":"Gmina Maszewo","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 42816,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.97966,
+                    53.48166
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 42816,
+                "official_name": "Szko\u0142a Podstawowa",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "72-130",
+                "addr:place": "Ro\u017cnowo Nowogardzkie",
+                "addr:housenumber": "60",
+                "addr:teryt:sym_ul": 779064,
+                "contact:phone": "+48 914071125",
+                "contact:email": "szkolaroznowo@wp.pl",
+                "ref:regon": "001223162",
+                "ref:vatin": "PL8561406206",
+                "operator": "Gmina Maszewo",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 119965,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.05869,
+                    53.49791
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 119965,
+                "official_name": "Bran\u017cowa Szko\u0142a I Stopnia w Maszewie",
+                "name": "Bran\u017cowa Szko\u0142a I Stopnia w Maszewie",
+                "addr:country": "PL",
+                "addr:postcode": "72-130",
+                "addr:city": "Maszewo",
+                "addr:street": "ul. Jedno\u015bci Narodowej",
+                "addr:housenumber": "6",
+                "addr:teryt:simc": 7435,
+                "addr:teryt:sym_ul": 979188,
+                "contact:phone": "+48 914187654",
+                "contact:email": "sekretariatma@gmail.com",
+                "ref:regon": "321426822",
+                "ref:vatin": "PL8521010235",
+                "operator": "Izba Rzemie\u015blnicza Ma\u0142ej I \u015aredniej Przedsi\u0119biorczo\u015bci",
+                "operator:type": "cooperative",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 42814,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.05803,
+                    53.49828
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 42814,
+                "official_name": "Szko\u0142a Podstawowa im. Adama Mickiewicza",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "72-130",
+                "addr:city": "Maszewo",
+                "addr:street": "ul. Jedno\u015bci Narodowej",
+                "addr:housenumber": "7",
+                "addr:teryt:simc": 7435,
+                "addr:teryt:sym_ul": 979188,
+                "contact:phone": "+48 914187610",
+                "contact:email": "sekretariatspmaszewo@maszewo.pl",
+                "contact:website": "http:\/\/www.spmaszewo.szkolnastrona.pl",
+                "ref:regon": "000263604",
+                "ref:vatin": "PL8561410024",
+                "operator": "Gmina Maszewo",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 131655,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.05991,
+                    53.49963
+                ]
+            },
+            "properties": {
+                "ref:rspo": 131655,
+                "official_name": "Niepubliczne Przedszkole \"Iskierka\"",
+                "name": "Niepubliczne Przedszkole \"Iskierka\"",
+                "addr:country": "PL",
+                "addr:postcode": "72-130",
+                "addr:city": "Maszewo",
+                "addr:street": "ul. Okrzei",
+                "addr:housenumber": "7a",
+                "addr:teryt:simc": 14909,
+                "addr:teryt:sym_ul": 979188,
+                "contact:phone": "+48 507403525",
+                "contact:email": "iskierka.maszewo@interia.pl",
+                "ref:regon": "365322287",
+                "operator": "Iwona \u0141akatosz",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 38848,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.0595,
+                    53.5027199
+                ]
+            },
+            "properties": {
+                "ref:rspo": 38848,
+                "official_name": "Przedszkole Miejskie",
+                "name": "Przedszkole Miejskie",
+                "addr:country": "PL",
+                "addr:postcode": "72-130",
+                "addr:city": "Maszewo",
+                "addr:street": "ul. Jedno\u015bci Narodowej",
+                "addr:housenumber": "25",
+                "addr:teryt:simc": 7435,
+                "addr:teryt:sym_ul": 979188,
+                "contact:phone": "+48 914187608",
+                "contact:email": "przedszkolemaszewo@maszewo.pl",
+                "contact:website": "http:\/\/przedszkolemaszewo.pl",
+                "ref:regon": "001004193",
+                "ref:vatin": "PL8561410030",
+                "operator": "Gmina Maszewo",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 42815,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.12045,
+                    53.53683
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 42815,
+                "official_name": "Szko\u0142a Podstawowa im. Janusza Kusoci\u0144skiego",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "72-130",
+                "addr:place": "D\u0119bice",
+                "addr:housenumber": "29",
+                "addr:teryt:sym_ul": 778917,
+                "contact:phone": "+48 914191195",
+                "contact:email": "dyrektorspdebice@maszewo.pl",
+                "contact:website": "http:\/\/spdebice.pl",
+                "ref:regon": "001223156",
+                "ref:vatin": "PL8561406229",
+                "operator": "Gmina Maszewo",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

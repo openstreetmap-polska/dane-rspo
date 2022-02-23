@@ -1,1 +1,281 @@
-{"type":"FeatureCollection","features":[{"id":92418,"type":"Feature","geometry":{"type":"Point","coordinates":[20.954413,52.576969]},"properties":{"isced:level":"1;2","ref:rspo":92418,"official_name":"Publiczna Szko\u0142a Podstawowa im. Ks. Kan. Jana Sieka w B\u0142\u0119dostowie","name":"Publiczna Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"06-120","addr:place":"B\u0142\u0119dostowo","addr:housenumber":"23","addr:teryt:sym_ul":129159,"contact:phone":"+48 236914213","contact:email":"pspbledostowo@gminawinnica.pl","contact:website":"http:\/\/www.pspbledostowo.gminawinnica.pl","ref:regon":"001156537","ref:vatin":"PL5681475533","operator":"Gmina Winnica","operator:type":"government","amenity":"school"}},{"id":34346,"type":"Feature","geometry":{"type":"Point","coordinates":[20.946234,52.6439809]},"properties":{"ref:rspo":34346,"official_name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 Centrum Kszta\u0142cenia Rolniczego im. Jadwigi Dziubi\u0144skiej w Gol\u0105dkowie","name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 Centrum Kszta\u0142cenia Rolniczego","addr:country":"PL","addr:postcode":"06-120","addr:place":"Gol\u0105dkowo","addr:housenumber":"41G","addr:teryt:sym_ul":129260,"contact:phone":"+48 236914073","contact:email":"sekretariat@zsgoladkowo.eu","contact:website":"http:\/\/www.zsgoladkowo.eu","ref:regon":"000861860","ref:vatin":"PL5681377233","operator":"Ministerstwo Rolnictwa I Rozwoju Wsi","operator:type":"public","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 87737;87738;87739;87740"}},{"id":87737,"type":"Feature","geometry":{"type":"Point","coordinates":[20.946234,52.6439509]},"properties":{"isced:level":"3","ref:rspo":87737,"official_name":"Technikum w Gol\u0105dkowie","name":"Technikum w Gol\u0105dkowie","addr:country":"PL","addr:postcode":"06-120","addr:place":"Gol\u0105dkowo","addr:housenumber":"41G","addr:teryt:sym_ul":129260,"contact:phone":"+48 236914073","contact:email":"sekretariat@zsgoladkowo.eu","contact:website":"http:\/\/www.zsgoladkowo.eu","ref:regon":"130948735","operator":"Ministerstwo Rolnictwa I Rozwoju Wsi","operator:type":"public","amenity":"school","note":"Parent RSPO: 34346"}},{"id":87738,"type":"Feature","geometry":{"type":"Point","coordinates":[20.946234,52.643920900000005]},"properties":{"isced:level":"3","ref:rspo":87738,"official_name":"Bran\u017cowa Szko\u0142a I Stopnia w Gol\u0105dkowie","name":"Bran\u017cowa Szko\u0142a I Stopnia w Gol\u0105dkowie","addr:country":"PL","addr:postcode":"06-120","addr:place":"Gol\u0105dkowo","addr:housenumber":"41G","addr:teryt:sym_ul":129260,"contact:phone":"+48 236914073","contact:email":"sekretariat@zsgoladkowo.eu","contact:website":"http:\/\/www.zsgoladkowo.eu","ref:regon":"130948712","operator":"Ministerstwo Rolnictwa I Rozwoju Wsi","operator:type":"public","amenity":"school","note":"Parent RSPO: 34346"}},{"id":87739,"type":"Feature","geometry":{"type":"Point","coordinates":[20.946234,52.6438909]},"properties":{"isced:level":"4","ref:rspo":87739,"official_name":"Szko\u0142a Policealna w Goladkowie","name":"Szko\u0142a Policealna w Goladkowie","addr:country":"PL","addr:postcode":"06-120","addr:place":"Gol\u0105dkowo","addr:housenumber":"41G","addr:teryt:sym_ul":129260,"contact:phone":"+48 236914073","contact:email":"sekretariat@zsgoladkowo.eu","contact:website":"http:\/\/www.zsgoladkowo.eu","ref:regon":"140236949","operator":"Ministerstwo Rolnictwa I Rozwoju Wsi","operator:type":"public","amenity":"college","note":"Parent RSPO: 34346"}},{"id":87740,"type":"Feature","geometry":{"type":"Point","coordinates":[20.946234,52.6438609]},"properties":{"ref:rspo":87740,"official_name":"Centrum Kszta\u0142cenia Ustawicznego w Goladkowie","name":"Centrum Kszta\u0142cenia Ustawicznego w Goladkowie","addr:country":"PL","addr:postcode":"06-120","addr:place":"Gol\u0105dkowo","addr:housenumber":"41G","addr:teryt:sym_ul":129260,"contact:phone":"+48 236914073","contact:email":"sekretariat@zsgoladkowo.eu","contact:website":"http:\/\/www.zsgoladkowo.eu","ref:regon":"146429098","operator":"Ministerstwo Rolnictwa I Rozwoju Wsi","operator:type":"public","fixme":"w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. amenity=training + training=*, amenity=dancing_school, amenity=language_school, amenity=music_school)","note":"Parent RSPO: 34346"}},{"id":92420,"type":"Feature","geometry":{"type":"Point","coordinates":[20.9525,52.6444]},"properties":{"ref:rspo":92420,"official_name":"Bajkowe Samorz\u0105dowe Przedszkole w Winnicy","name":"Bajkowe Samorz\u0105dowe Przedszkole w Winnicy","addr:country":"PL","addr:postcode":"06-120","addr:city":"Winnica","addr:street":"ul. Wsp\u00f3lna","addr:housenumber":"10","addr:teryt:simc":24885,"addr:teryt:sym_ul":129484,"contact:phone":"+48 236914082","contact:email":"przedszkole_winnica@wp.pl","contact:website":"http:\/\/przedszkole.gminawinnica.pl","ref:regon":"130005175","ref:vatin":"PL5681475527","operator":"Gmina Winnica","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 128378"}},{"id":128378,"type":"Feature","geometry":{"type":"Point","coordinates":[20.95061,52.64469]},"properties":{"ref:rspo":128378,"official_name":"Zesp\u00f3\u0142 Plac\u00f3wek O\u015bwiatowych w Winnicy","name":"Zesp\u00f3\u0142 Plac\u00f3wek O\u015bwiatowych w Winnicy","addr:country":"PL","addr:postcode":"06-120","addr:city":"Winnica","addr:street":"ul. Pu\u0142tuska","addr:housenumber":"19","addr:teryt:simc":18168,"addr:teryt:sym_ul":129484,"contact:phone":"+48 236914079","contact:email":"sekretariat_psp_w@vp.pl","ref:regon":"362256673","operator":"Gmina Winnica","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 92416;92420"}},{"id":92416,"type":"Feature","geometry":{"type":"Point","coordinates":[20.95061,52.644659999999995]},"properties":{"isced:level":"1;2","ref:rspo":92416,"official_name":"Publiczna Szko\u0142a Podstawowa im. Prof. Ignacego Mo\u015bcickiego w Winnicy","name":"Publiczna Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"06-120","addr:city":"Winnica","addr:street":"ul. Pu\u0142tuska","addr:housenumber":"19","addr:teryt:simc":18168,"addr:teryt:sym_ul":129484,"contact:phone":"+48 236914079","contact:email":"sekretariat_psp_w@vp.pl","contact:website":"http:\/\/pspwinnica.edupage.org\/","ref:regon":"000272589","ref:vatin":"PL5681475504","operator":"Gmina Winnica","operator:type":"government","amenity":"school","note":"Parent RSPO: 128378"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 92418,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.954413,
+                    52.576969
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 92418,
+                "official_name": "Publiczna Szko\u0142a Podstawowa im. Ks. Kan. Jana Sieka w B\u0142\u0119dostowie",
+                "name": "Publiczna Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "06-120",
+                "addr:place": "B\u0142\u0119dostowo",
+                "addr:housenumber": "23",
+                "addr:teryt:sym_ul": 129159,
+                "contact:phone": "+48 236914213",
+                "contact:email": "pspbledostowo@gminawinnica.pl",
+                "contact:website": "http:\/\/www.pspbledostowo.gminawinnica.pl",
+                "ref:regon": "001156537",
+                "ref:vatin": "PL5681475533",
+                "operator": "Gmina Winnica",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 34346,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.946234,
+                    52.6439809
+                ]
+            },
+            "properties": {
+                "ref:rspo": 34346,
+                "official_name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Centrum Kszta\u0142cenia Rolniczego im. Jadwigi Dziubi\u0144skiej w Gol\u0105dkowie",
+                "name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Centrum Kszta\u0142cenia Rolniczego",
+                "addr:country": "PL",
+                "addr:postcode": "06-120",
+                "addr:place": "Gol\u0105dkowo",
+                "addr:housenumber": "41G",
+                "addr:teryt:sym_ul": 129260,
+                "contact:phone": "+48 236914073",
+                "contact:email": "sekretariat@zsgoladkowo.eu",
+                "contact:website": "http:\/\/www.zsgoladkowo.eu",
+                "ref:regon": "000861860",
+                "ref:vatin": "PL5681377233",
+                "operator": "Ministerstwo Rolnictwa I Rozwoju Wsi",
+                "operator:type": "public",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 87737;87738;87739;87740"
+            }
+        },
+        {
+            "id": 87737,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.946234,
+                    52.6439509
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 87737,
+                "official_name": "Technikum w Gol\u0105dkowie",
+                "name": "Technikum w Gol\u0105dkowie",
+                "addr:country": "PL",
+                "addr:postcode": "06-120",
+                "addr:place": "Gol\u0105dkowo",
+                "addr:housenumber": "41G",
+                "addr:teryt:sym_ul": 129260,
+                "contact:phone": "+48 236914073",
+                "contact:email": "sekretariat@zsgoladkowo.eu",
+                "contact:website": "http:\/\/www.zsgoladkowo.eu",
+                "ref:regon": "130948735",
+                "operator": "Ministerstwo Rolnictwa I Rozwoju Wsi",
+                "operator:type": "public",
+                "amenity": "school",
+                "note": "Parent RSPO: 34346"
+            }
+        },
+        {
+            "id": 87738,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.946234,
+                    52.643920900000005
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 87738,
+                "official_name": "Bran\u017cowa Szko\u0142a I Stopnia w Gol\u0105dkowie",
+                "name": "Bran\u017cowa Szko\u0142a I Stopnia w Gol\u0105dkowie",
+                "addr:country": "PL",
+                "addr:postcode": "06-120",
+                "addr:place": "Gol\u0105dkowo",
+                "addr:housenumber": "41G",
+                "addr:teryt:sym_ul": 129260,
+                "contact:phone": "+48 236914073",
+                "contact:email": "sekretariat@zsgoladkowo.eu",
+                "contact:website": "http:\/\/www.zsgoladkowo.eu",
+                "ref:regon": "130948712",
+                "operator": "Ministerstwo Rolnictwa I Rozwoju Wsi",
+                "operator:type": "public",
+                "amenity": "school",
+                "note": "Parent RSPO: 34346"
+            }
+        },
+        {
+            "id": 87739,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.946234,
+                    52.6438909
+                ]
+            },
+            "properties": {
+                "isced:level": "4",
+                "ref:rspo": 87739,
+                "official_name": "Szko\u0142a Policealna w Goladkowie",
+                "name": "Szko\u0142a Policealna w Goladkowie",
+                "addr:country": "PL",
+                "addr:postcode": "06-120",
+                "addr:place": "Gol\u0105dkowo",
+                "addr:housenumber": "41G",
+                "addr:teryt:sym_ul": 129260,
+                "contact:phone": "+48 236914073",
+                "contact:email": "sekretariat@zsgoladkowo.eu",
+                "contact:website": "http:\/\/www.zsgoladkowo.eu",
+                "ref:regon": "140236949",
+                "operator": "Ministerstwo Rolnictwa I Rozwoju Wsi",
+                "operator:type": "public",
+                "amenity": "college",
+                "note": "Parent RSPO: 34346"
+            }
+        },
+        {
+            "id": 87740,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.946234,
+                    52.6438609
+                ]
+            },
+            "properties": {
+                "ref:rspo": 87740,
+                "official_name": "Centrum Kszta\u0142cenia Ustawicznego w Goladkowie",
+                "name": "Centrum Kszta\u0142cenia Ustawicznego w Goladkowie",
+                "addr:country": "PL",
+                "addr:postcode": "06-120",
+                "addr:place": "Gol\u0105dkowo",
+                "addr:housenumber": "41G",
+                "addr:teryt:sym_ul": 129260,
+                "contact:phone": "+48 236914073",
+                "contact:email": "sekretariat@zsgoladkowo.eu",
+                "contact:website": "http:\/\/www.zsgoladkowo.eu",
+                "ref:regon": "146429098",
+                "operator": "Ministerstwo Rolnictwa I Rozwoju Wsi",
+                "operator:type": "public",
+                "fixme": "w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. amenity=training + training=*, amenity=dancing_school, amenity=language_school, amenity=music_school)",
+                "note": "Parent RSPO: 34346"
+            }
+        },
+        {
+            "id": 92420,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.9525,
+                    52.6444
+                ]
+            },
+            "properties": {
+                "ref:rspo": 92420,
+                "official_name": "Bajkowe Samorz\u0105dowe Przedszkole w Winnicy",
+                "name": "Bajkowe Samorz\u0105dowe Przedszkole w Winnicy",
+                "addr:country": "PL",
+                "addr:postcode": "06-120",
+                "addr:city": "Winnica",
+                "addr:street": "ul. Wsp\u00f3lna",
+                "addr:housenumber": "10",
+                "addr:teryt:simc": 24885,
+                "addr:teryt:sym_ul": 129484,
+                "contact:phone": "+48 236914082",
+                "contact:email": "przedszkole_winnica@wp.pl",
+                "contact:website": "http:\/\/przedszkole.gminawinnica.pl",
+                "ref:regon": "130005175",
+                "ref:vatin": "PL5681475527",
+                "operator": "Gmina Winnica",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 128378"
+            }
+        },
+        {
+            "id": 128378,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.95061,
+                    52.64469
+                ]
+            },
+            "properties": {
+                "ref:rspo": 128378,
+                "official_name": "Zesp\u00f3\u0142 Plac\u00f3wek O\u015bwiatowych w Winnicy",
+                "name": "Zesp\u00f3\u0142 Plac\u00f3wek O\u015bwiatowych w Winnicy",
+                "addr:country": "PL",
+                "addr:postcode": "06-120",
+                "addr:city": "Winnica",
+                "addr:street": "ul. Pu\u0142tuska",
+                "addr:housenumber": "19",
+                "addr:teryt:simc": 18168,
+                "addr:teryt:sym_ul": 129484,
+                "contact:phone": "+48 236914079",
+                "contact:email": "sekretariat_psp_w@vp.pl",
+                "ref:regon": "362256673",
+                "operator": "Gmina Winnica",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 92416;92420"
+            }
+        },
+        {
+            "id": 92416,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.95061,
+                    52.644659999999995
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 92416,
+                "official_name": "Publiczna Szko\u0142a Podstawowa im. Prof. Ignacego Mo\u015bcickiego w Winnicy",
+                "name": "Publiczna Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "06-120",
+                "addr:city": "Winnica",
+                "addr:street": "ul. Pu\u0142tuska",
+                "addr:housenumber": "19",
+                "addr:teryt:simc": 18168,
+                "addr:teryt:sym_ul": 129484,
+                "contact:phone": "+48 236914079",
+                "contact:email": "sekretariat_psp_w@vp.pl",
+                "contact:website": "http:\/\/pspwinnica.edupage.org\/",
+                "ref:regon": "000272589",
+                "ref:vatin": "PL5681475504",
+                "operator": "Gmina Winnica",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 128378"
+            }
+        }
+    ]
+}

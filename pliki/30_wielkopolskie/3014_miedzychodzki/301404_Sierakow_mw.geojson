@@ -1,1 +1,225 @@
-{"type":"FeatureCollection","features":[{"id":8062,"type":"Feature","geometry":{"type":"Point","coordinates":[16.14577,52.62712]},"properties":{"isced:level":"1;2","ref:rspo":8062,"official_name":"Szko\u0142a Podstawowa im. Kornela Makuszy\u0144skiego w Lutomiu","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"64-410","addr:place":"Lutom","addr:housenumber":"38","addr:teryt:sym_ul":594318,"contact:phone":"+48 612953336","contact:email":"splutom@o2.pl","ref:regon":"001225534","ref:vatin":"PL5951461312","operator":"Gmina Sierak\u00f3w","operator:type":"government","amenity":"school"}},{"id":8063,"type":"Feature","geometry":{"type":"Point","coordinates":[16.10084,52.62833]},"properties":{"isced:level":"1;2","ref:rspo":8063,"official_name":"Szko\u0142a Podstawowa im. Mjr Henryka Sucharskiego w Sierakowie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"64-410","addr:city":"Sierak\u00f3w","addr:street":"ul. Pozna\u0144ska","addr:housenumber":"25","addr:teryt:simc":17394,"addr:teryt:sym_ul":971436,"contact:phone":"+48 612952040","contact:email":"szk.podst.sierakow@interia.pl","contact:website":"http:\/\/spsierakow.szkolnastrona.pl","ref:regon":"000601544","ref:vatin":"PL5951461335","operator":"Gmina Sierak\u00f3w","operator:type":"government","amenity":"school"}},{"id":9155,"type":"Feature","geometry":{"type":"Point","coordinates":[16.09121,52.64913]},"properties":{"ref:rspo":9155,"official_name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 w Sierakowie im. Prof.maksymiliana Si\u0142y-Nowickiego","name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 w Sierakowie","addr:country":"PL","addr:postcode":"64-410","addr:city":"Sierak\u00f3w","addr:street":"ul. Wroniecka","addr:housenumber":"25","addr:teryt:simc":24813,"addr:teryt:sym_ul":971436,"contact:phone":"+48 612952024","contact:email":"zssierak@poczta.onet.pl","contact:website":"http:\/\/zs.sierakow.pl","ref:regon":"000098849","ref:vatin":"PL7871007173","operator":"Gmina Sierak\u00f3w","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 13000;13001;13002"}},{"id":13000,"type":"Feature","geometry":{"type":"Point","coordinates":[16.09121,52.6491]},"properties":{"isced:level":"3","ref:rspo":13000,"official_name":"Liceum Og\u00f3lnokszta\u0142c\u0105ce w Sierakowie","name":"Liceum Og\u00f3lnokszta\u0142c\u0105ce w Sierakowie","addr:country":"PL","addr:postcode":"64-410","addr:city":"Sierak\u00f3w","addr:street":"ul. Wroniecka","addr:housenumber":"25","addr:teryt:simc":24813,"addr:teryt:sym_ul":971436,"contact:phone":"+48 612952024","contact:email":"zssierak@poczta.onet.pl","contact:website":"http:\/\/zs.sierakow.pl","ref:regon":"634522957","operator":"Gmina Sierak\u00f3w","operator:type":"government","amenity":"school","note":"Parent RSPO: 9155"}},{"id":13001,"type":"Feature","geometry":{"type":"Point","coordinates":[16.09121,52.64907]},"properties":{"isced:level":"3","ref:rspo":13001,"official_name":"Technikum w Sierakowie","name":"Technikum w Sierakowie","addr:country":"PL","addr:postcode":"64-410","addr:city":"Sierak\u00f3w","addr:street":"ul. Wroniecka","addr:housenumber":"25","addr:teryt:simc":24813,"addr:teryt:sym_ul":971436,"contact:phone":"+48 612952024","contact:email":"zssierak@poczta.onet.pl","contact:website":"http:\/\/zs.sierakow.pl","ref:regon":"634522963","operator":"Gmina Sierak\u00f3w","operator:type":"government","amenity":"school","note":"Parent RSPO: 9155"}},{"id":13002,"type":"Feature","geometry":{"type":"Point","coordinates":[16.09121,52.64904]},"properties":{"isced:level":"4","ref:rspo":13002,"official_name":"Szko\u0142a Policealna w Sierakowie","name":"Szko\u0142a Policealna w Sierakowie","addr:country":"PL","addr:postcode":"64-410","addr:city":"Sierak\u00f3w","addr:street":"ul. Wroniecka","addr:housenumber":"25","addr:teryt:simc":24813,"addr:teryt:sym_ul":971436,"contact:phone":"+48 612952024","contact:email":"zssierak@poczta.onet.pl","contact:website":"http:\/\/zs.sierakow.pl","ref:regon":"302210650","operator":"Gmina Sierak\u00f3w","operator:type":"government","amenity":"college","note":"Parent RSPO: 9155"}},{"id":8064,"type":"Feature","geometry":{"type":"Point","coordinates":[16.08514,52.6501]},"properties":{"ref:rspo":8064,"official_name":"Przedszkole \"Przyjaci\u00f3\u0142 Ksi\u0105\u017cki\"","name":"Przedszkole \"Przyjaci\u00f3\u0142 Ksi\u0105\u017cki\"","addr:country":"PL","addr:postcode":"64-410","addr:city":"Sierak\u00f3w","addr:street":"ul. Przedszkolna","addr:housenumber":"3","addr:teryt:simc":17683,"addr:teryt:sym_ul":971436,"contact:phone":"+48 612952152","contact:email":"przedszkole@sierakow.pl","ref:regon":"301625900","ref:vatin":"PL5951461329","operator":"Gmina Sierak\u00f3w","operator:type":"government","amenity":"kindergarten"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 8062,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.14577,
+                    52.62712
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 8062,
+                "official_name": "Szko\u0142a Podstawowa im. Kornela Makuszy\u0144skiego w Lutomiu",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "64-410",
+                "addr:place": "Lutom",
+                "addr:housenumber": "38",
+                "addr:teryt:sym_ul": 594318,
+                "contact:phone": "+48 612953336",
+                "contact:email": "splutom@o2.pl",
+                "ref:regon": "001225534",
+                "ref:vatin": "PL5951461312",
+                "operator": "Gmina Sierak\u00f3w",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 8063,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.10084,
+                    52.62833
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 8063,
+                "official_name": "Szko\u0142a Podstawowa im. Mjr Henryka Sucharskiego w Sierakowie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "64-410",
+                "addr:city": "Sierak\u00f3w",
+                "addr:street": "ul. Pozna\u0144ska",
+                "addr:housenumber": "25",
+                "addr:teryt:simc": 17394,
+                "addr:teryt:sym_ul": 971436,
+                "contact:phone": "+48 612952040",
+                "contact:email": "szk.podst.sierakow@interia.pl",
+                "contact:website": "http:\/\/spsierakow.szkolnastrona.pl",
+                "ref:regon": "000601544",
+                "ref:vatin": "PL5951461335",
+                "operator": "Gmina Sierak\u00f3w",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 9155,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.09121,
+                    52.64913
+                ]
+            },
+            "properties": {
+                "ref:rspo": 9155,
+                "official_name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 w Sierakowie im. Prof.maksymiliana Si\u0142y-Nowickiego",
+                "name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 w Sierakowie",
+                "addr:country": "PL",
+                "addr:postcode": "64-410",
+                "addr:city": "Sierak\u00f3w",
+                "addr:street": "ul. Wroniecka",
+                "addr:housenumber": "25",
+                "addr:teryt:simc": 24813,
+                "addr:teryt:sym_ul": 971436,
+                "contact:phone": "+48 612952024",
+                "contact:email": "zssierak@poczta.onet.pl",
+                "contact:website": "http:\/\/zs.sierakow.pl",
+                "ref:regon": "000098849",
+                "ref:vatin": "PL7871007173",
+                "operator": "Gmina Sierak\u00f3w",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 13000;13001;13002"
+            }
+        },
+        {
+            "id": 13000,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.09121,
+                    52.6491
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 13000,
+                "official_name": "Liceum Og\u00f3lnokszta\u0142c\u0105ce w Sierakowie",
+                "name": "Liceum Og\u00f3lnokszta\u0142c\u0105ce w Sierakowie",
+                "addr:country": "PL",
+                "addr:postcode": "64-410",
+                "addr:city": "Sierak\u00f3w",
+                "addr:street": "ul. Wroniecka",
+                "addr:housenumber": "25",
+                "addr:teryt:simc": 24813,
+                "addr:teryt:sym_ul": 971436,
+                "contact:phone": "+48 612952024",
+                "contact:email": "zssierak@poczta.onet.pl",
+                "contact:website": "http:\/\/zs.sierakow.pl",
+                "ref:regon": "634522957",
+                "operator": "Gmina Sierak\u00f3w",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 9155"
+            }
+        },
+        {
+            "id": 13001,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.09121,
+                    52.64907
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 13001,
+                "official_name": "Technikum w Sierakowie",
+                "name": "Technikum w Sierakowie",
+                "addr:country": "PL",
+                "addr:postcode": "64-410",
+                "addr:city": "Sierak\u00f3w",
+                "addr:street": "ul. Wroniecka",
+                "addr:housenumber": "25",
+                "addr:teryt:simc": 24813,
+                "addr:teryt:sym_ul": 971436,
+                "contact:phone": "+48 612952024",
+                "contact:email": "zssierak@poczta.onet.pl",
+                "contact:website": "http:\/\/zs.sierakow.pl",
+                "ref:regon": "634522963",
+                "operator": "Gmina Sierak\u00f3w",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 9155"
+            }
+        },
+        {
+            "id": 13002,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.09121,
+                    52.64904
+                ]
+            },
+            "properties": {
+                "isced:level": "4",
+                "ref:rspo": 13002,
+                "official_name": "Szko\u0142a Policealna w Sierakowie",
+                "name": "Szko\u0142a Policealna w Sierakowie",
+                "addr:country": "PL",
+                "addr:postcode": "64-410",
+                "addr:city": "Sierak\u00f3w",
+                "addr:street": "ul. Wroniecka",
+                "addr:housenumber": "25",
+                "addr:teryt:simc": 24813,
+                "addr:teryt:sym_ul": 971436,
+                "contact:phone": "+48 612952024",
+                "contact:email": "zssierak@poczta.onet.pl",
+                "contact:website": "http:\/\/zs.sierakow.pl",
+                "ref:regon": "302210650",
+                "operator": "Gmina Sierak\u00f3w",
+                "operator:type": "government",
+                "amenity": "college",
+                "note": "Parent RSPO: 9155"
+            }
+        },
+        {
+            "id": 8064,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.08514,
+                    52.6501
+                ]
+            },
+            "properties": {
+                "ref:rspo": 8064,
+                "official_name": "Przedszkole \"Przyjaci\u00f3\u0142 Ksi\u0105\u017cki\"",
+                "name": "Przedszkole \"Przyjaci\u00f3\u0142 Ksi\u0105\u017cki\"",
+                "addr:country": "PL",
+                "addr:postcode": "64-410",
+                "addr:city": "Sierak\u00f3w",
+                "addr:street": "ul. Przedszkolna",
+                "addr:housenumber": "3",
+                "addr:teryt:simc": 17683,
+                "addr:teryt:sym_ul": 971436,
+                "contact:phone": "+48 612952152",
+                "contact:email": "przedszkole@sierakow.pl",
+                "ref:regon": "301625900",
+                "ref:vatin": "PL5951461329",
+                "operator": "Gmina Sierak\u00f3w",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        }
+    ]
+}

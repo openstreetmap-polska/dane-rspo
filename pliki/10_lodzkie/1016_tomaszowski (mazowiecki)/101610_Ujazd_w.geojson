@@ -1,1 +1,126 @@
-{"type":"FeatureCollection","features":[{"id":68456,"type":"Feature","geometry":{"type":"Point","coordinates":[20.049844741821,51.601596832275]},"properties":{"ref:rspo":68456,"official_name":"Przedszkole Samorz\u0105dowe w Uje\u017adzie","name":"Przedszkole Samorz\u0105dowe w Uje\u017adzie","addr:country":"PL","addr:postcode":"97-225","addr:city":"Ujazd","addr:street":"ul. Przedszkolna","addr:housenumber":"5","addr:teryt:simc":17683,"addr:teryt:sym_ul":554721,"contact:phone":"+48 447192165","contact:email":"psu@ujazd.com.pl","contact:website":"http:\/\/www.przedszkoleujazd.przedszkolowo.pl","ref:regon":"590020600","ref:vatin":"PL7732234706","operator":"Gmina Ujazd","operator:type":"government","amenity":"kindergarten"}},{"id":90158,"type":"Feature","geometry":{"type":"Point","coordinates":[19.9164,51.60175]},"properties":{"isced:level":"1;2","ref:rspo":90158,"official_name":"Szko\u0142a Podstawowa im. Obro\u0144c\u00f3w Westerplatte w Uje\u017adzie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"97-225","addr:city":"Ujazd","addr:street":"ul. Rokici\u0144ska","addr:housenumber":"6","addr:teryt:simc":18792,"addr:teryt:sym_ul":554721,"contact:phone":"+48 447192230","contact:email":"spu@ujazd.com.pl","contact:website":"http:\/\/spu.ujazd.com.pl","ref:regon":"000558989","ref:vatin":"PL7732395220","operator":"Gmina Ujazd","operator:type":"government","amenity":"school"}},{"id":68555,"type":"Feature","geometry":{"type":"Point","coordinates":[19.92446,51.61201]},"properties":{"ref:rspo":68555,"official_name":"Przedszkole Samorz\u0105dowe w Osiedlu Niewiad\u00f3w","name":"Przedszkole Samorz\u0105dowe w Osiedlu Niewiad\u00f3w","addr:country":"PL","addr:postcode":"97-225","addr:place":"Osiedle Niewiad\u00f3w","addr:housenumber":"27","addr:teryt:sym_ul":554626,"contact:phone":"+48 447192384","contact:email":"psn@ujazd.com.pl","contact:website":"http:\/\/www.przedszkoleniewiadow.przedszkolowo.pl","ref:regon":"592132668","ref:vatin":"PL7732234712","operator":"Gmina Ujazd","operator:type":"government","amenity":"kindergarten"}},{"id":90125,"type":"Feature","geometry":{"type":"Point","coordinates":[19.92446,51.611979999999996]},"properties":{"isced:level":"1;2","ref:rspo":90125,"official_name":"Szko\u0142a Podstawowa w Osiedlu Niewiad\u00f3w im. Polskich Olimpijczyk\u00f3w","name":"Szko\u0142a Podstawowa w Osiedlu Niewiad\u00f3w","addr:country":"PL","addr:postcode":"97-225","addr:place":"Osiedle Niewiad\u00f3w","addr:housenumber":"27","addr:teryt:sym_ul":554626,"contact:phone":"+48 447192231","contact:email":"spn@ujazd.com.pl","ref:regon":"001160823","ref:vatin":"PL7732395237","operator":"Gmina Ujazd","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 68456,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.049844741821,
+                    51.601596832275
+                ]
+            },
+            "properties": {
+                "ref:rspo": 68456,
+                "official_name": "Przedszkole Samorz\u0105dowe w Uje\u017adzie",
+                "name": "Przedszkole Samorz\u0105dowe w Uje\u017adzie",
+                "addr:country": "PL",
+                "addr:postcode": "97-225",
+                "addr:city": "Ujazd",
+                "addr:street": "ul. Przedszkolna",
+                "addr:housenumber": "5",
+                "addr:teryt:simc": 17683,
+                "addr:teryt:sym_ul": 554721,
+                "contact:phone": "+48 447192165",
+                "contact:email": "psu@ujazd.com.pl",
+                "contact:website": "http:\/\/www.przedszkoleujazd.przedszkolowo.pl",
+                "ref:regon": "590020600",
+                "ref:vatin": "PL7732234706",
+                "operator": "Gmina Ujazd",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 90158,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.9164,
+                    51.60175
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 90158,
+                "official_name": "Szko\u0142a Podstawowa im. Obro\u0144c\u00f3w Westerplatte w Uje\u017adzie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "97-225",
+                "addr:city": "Ujazd",
+                "addr:street": "ul. Rokici\u0144ska",
+                "addr:housenumber": "6",
+                "addr:teryt:simc": 18792,
+                "addr:teryt:sym_ul": 554721,
+                "contact:phone": "+48 447192230",
+                "contact:email": "spu@ujazd.com.pl",
+                "contact:website": "http:\/\/spu.ujazd.com.pl",
+                "ref:regon": "000558989",
+                "ref:vatin": "PL7732395220",
+                "operator": "Gmina Ujazd",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 68555,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.92446,
+                    51.61201
+                ]
+            },
+            "properties": {
+                "ref:rspo": 68555,
+                "official_name": "Przedszkole Samorz\u0105dowe w Osiedlu Niewiad\u00f3w",
+                "name": "Przedszkole Samorz\u0105dowe w Osiedlu Niewiad\u00f3w",
+                "addr:country": "PL",
+                "addr:postcode": "97-225",
+                "addr:place": "Osiedle Niewiad\u00f3w",
+                "addr:housenumber": "27",
+                "addr:teryt:sym_ul": 554626,
+                "contact:phone": "+48 447192384",
+                "contact:email": "psn@ujazd.com.pl",
+                "contact:website": "http:\/\/www.przedszkoleniewiadow.przedszkolowo.pl",
+                "ref:regon": "592132668",
+                "ref:vatin": "PL7732234712",
+                "operator": "Gmina Ujazd",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 90125,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.92446,
+                    51.611979999999996
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 90125,
+                "official_name": "Szko\u0142a Podstawowa w Osiedlu Niewiad\u00f3w im. Polskich Olimpijczyk\u00f3w",
+                "name": "Szko\u0142a Podstawowa w Osiedlu Niewiad\u00f3w",
+                "addr:country": "PL",
+                "addr:postcode": "97-225",
+                "addr:place": "Osiedle Niewiad\u00f3w",
+                "addr:housenumber": "27",
+                "addr:teryt:sym_ul": 554626,
+                "contact:phone": "+48 447192231",
+                "contact:email": "spn@ujazd.com.pl",
+                "ref:regon": "001160823",
+                "ref:vatin": "PL7732395237",
+                "operator": "Gmina Ujazd",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

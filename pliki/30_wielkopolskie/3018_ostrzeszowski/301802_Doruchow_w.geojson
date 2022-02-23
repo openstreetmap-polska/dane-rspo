@@ -1,1 +1,157 @@
-{"type":"FeatureCollection","features":[{"id":118748,"type":"Feature","geometry":{"type":"Point","coordinates":[18.118775,51.3873879]},"properties":{"isced:level":"1;2","ref:rspo":118748,"official_name":"Publiczna Szko\u0142a Podstawowastowarzyszenia Przyjaci\u00f3\u0142 Szk\u00f3\u0142 Katolickich","name":"Publiczna Szko\u0142a Podstawowastowarzyszenia Przyjaci\u00f3\u0142 Szk\u00f3\u0142 Katolickich","addr:country":"PL","addr:postcode":"63-505","addr:place":"Torzeniec","addr:housenumber":"54","addr:teryt:sym_ul":196888,"contact:phone":"+48 627314618","contact:email":"torzeniec@spsk.info.pl","contact:website":"http:\/\/psptorzeniec.szkolnastrona.pl\/","ref:regon":"302500499","ref:vatin":"PL5140335631","operator":"Stowarzyszenie Przyjaci\u00f3\u0142 Szk\u00f3\u0142 Katolickich","operator:type":"ngo","amenity":"school"}},{"id":25087,"type":"Feature","geometry":{"type":"Point","coordinates":[18.07817,51.41899]},"properties":{"isced:level":"1;2","ref:rspo":25087,"official_name":"Szko\u0142a Podstawowa w Doruchowie","name":"Szko\u0142a Podstawowa w Doruchowie","addr:country":"PL","addr:postcode":"63-505","addr:city":"Doruch\u00f3w","addr:street":"ul. Kaliska","addr:housenumber":"5","addr:teryt:simc":7823,"addr:teryt:sym_ul":196635,"contact:phone":"+48 627315880","contact:email":"podstawowka@doruchow.pl","contact:website":"http:\/\/www.spdoruchow.pl","ref:regon":"000265595","ref:vatin":"PL5140223754","operator":"Gmina Doruch\u00f3w","operator:type":"government","amenity":"school"}},{"id":25179,"type":"Feature","geometry":{"type":"Point","coordinates":[18.07731,51.41968]},"properties":{"ref:rspo":25179,"official_name":"Publiczne Przedszkole w Doruchowie","name":"Publiczne Przedszkole w Doruchowie","addr:country":"PL","addr:postcode":"63-505","addr:city":"Doruch\u00f3w","addr:street":"ul. Szkolna","addr:housenumber":"1","addr:teryt:simc":21970,"addr:teryt:sym_ul":196635,"contact:phone":"+48 627315652","contact:email":"przedszkole@doruchow.pl","contact:website":"http:\/\/przedszkole.doruchow.pl","ref:regon":"250022924","ref:vatin":"PL5140223748","operator":"Gmina Doruch\u00f3w","operator:type":"government","amenity":"kindergarten"}},{"id":118397,"type":"Feature","geometry":{"type":"Point","coordinates":[18.1523009,51.4261709]},"properties":{"isced:level":"1;2","ref:rspo":118397,"official_name":"Szko\u0142a Podstawowa w Morawinie","name":"Szko\u0142a Podstawowa w Morawinie","addr:country":"PL","addr:postcode":"63-505","addr:place":"Morawin","addr:housenumber":"18","addr:teryt:sym_ul":196807,"contact:phone":"+48 627314138","contact:email":"sp.morawin@interia.pl","contact:website":"http:\/\/spmorawin.pl","ref:regon":"302491731","operator":"Stowarzyszenie Przyjaci\u00f3\u0142 Szko\u0142y Podstawowej Im. Marii Konopnickiej W Morawinie","operator:type":"ngo","amenity":"school"}},{"id":118750,"type":"Feature","geometry":{"type":"Point","coordinates":[18.037814,51.42993]},"properties":{"isced:level":"1;2","ref:rspo":118750,"official_name":"Publiczna Szko\u0142a Podstawowa Stowarzyszenia Przyjaci\u00f3\u0142 Szk\u00f3\u0142 Katolickich im.\u015bw. Stanis\u0142awa Kostki","name":"Publiczna Szko\u0142a Podstawowa Stowarzyszenia Przyjaci\u00f3\u0142 Szk\u00f3\u0142 Katolickich im.\u015bw. Stanis\u0142awa Kostki","addr:country":"PL","addr:postcode":"63-505","addr:place":"Przytocznica","addr:housenumber":"34","addr:teryt:sym_ul":196753,"contact:phone":"+48 627315111","contact:email":"przytocznica@spsk.info.pl","contact:website":"http:\/\/przytocznica.spsk.pl","ref:regon":"302500507","ref:vatin":"PL5140335625","operator":"Stowarzyszenie Przyjaci\u00f3\u0142 Szk\u00f3\u0142 Katolickich","operator:type":"ngo","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 118748,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.118775,
+                    51.3873879
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 118748,
+                "official_name": "Publiczna Szko\u0142a Podstawowastowarzyszenia Przyjaci\u00f3\u0142 Szk\u00f3\u0142 Katolickich",
+                "name": "Publiczna Szko\u0142a Podstawowastowarzyszenia Przyjaci\u00f3\u0142 Szk\u00f3\u0142 Katolickich",
+                "addr:country": "PL",
+                "addr:postcode": "63-505",
+                "addr:place": "Torzeniec",
+                "addr:housenumber": "54",
+                "addr:teryt:sym_ul": 196888,
+                "contact:phone": "+48 627314618",
+                "contact:email": "torzeniec@spsk.info.pl",
+                "contact:website": "http:\/\/psptorzeniec.szkolnastrona.pl\/",
+                "ref:regon": "302500499",
+                "ref:vatin": "PL5140335631",
+                "operator": "Stowarzyszenie Przyjaci\u00f3\u0142 Szk\u00f3\u0142 Katolickich",
+                "operator:type": "ngo",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 25087,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.07817,
+                    51.41899
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 25087,
+                "official_name": "Szko\u0142a Podstawowa w Doruchowie",
+                "name": "Szko\u0142a Podstawowa w Doruchowie",
+                "addr:country": "PL",
+                "addr:postcode": "63-505",
+                "addr:city": "Doruch\u00f3w",
+                "addr:street": "ul. Kaliska",
+                "addr:housenumber": "5",
+                "addr:teryt:simc": 7823,
+                "addr:teryt:sym_ul": 196635,
+                "contact:phone": "+48 627315880",
+                "contact:email": "podstawowka@doruchow.pl",
+                "contact:website": "http:\/\/www.spdoruchow.pl",
+                "ref:regon": "000265595",
+                "ref:vatin": "PL5140223754",
+                "operator": "Gmina Doruch\u00f3w",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 25179,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.07731,
+                    51.41968
+                ]
+            },
+            "properties": {
+                "ref:rspo": 25179,
+                "official_name": "Publiczne Przedszkole w Doruchowie",
+                "name": "Publiczne Przedszkole w Doruchowie",
+                "addr:country": "PL",
+                "addr:postcode": "63-505",
+                "addr:city": "Doruch\u00f3w",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 196635,
+                "contact:phone": "+48 627315652",
+                "contact:email": "przedszkole@doruchow.pl",
+                "contact:website": "http:\/\/przedszkole.doruchow.pl",
+                "ref:regon": "250022924",
+                "ref:vatin": "PL5140223748",
+                "operator": "Gmina Doruch\u00f3w",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 118397,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.1523009,
+                    51.4261709
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 118397,
+                "official_name": "Szko\u0142a Podstawowa w Morawinie",
+                "name": "Szko\u0142a Podstawowa w Morawinie",
+                "addr:country": "PL",
+                "addr:postcode": "63-505",
+                "addr:place": "Morawin",
+                "addr:housenumber": "18",
+                "addr:teryt:sym_ul": 196807,
+                "contact:phone": "+48 627314138",
+                "contact:email": "sp.morawin@interia.pl",
+                "contact:website": "http:\/\/spmorawin.pl",
+                "ref:regon": "302491731",
+                "operator": "Stowarzyszenie Przyjaci\u00f3\u0142 Szko\u0142y Podstawowej Im. Marii Konopnickiej W Morawinie",
+                "operator:type": "ngo",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 118750,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.037814,
+                    51.42993
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 118750,
+                "official_name": "Publiczna Szko\u0142a Podstawowa Stowarzyszenia Przyjaci\u00f3\u0142 Szk\u00f3\u0142 Katolickich im.\u015bw. Stanis\u0142awa Kostki",
+                "name": "Publiczna Szko\u0142a Podstawowa Stowarzyszenia Przyjaci\u00f3\u0142 Szk\u00f3\u0142 Katolickich im.\u015bw. Stanis\u0142awa Kostki",
+                "addr:country": "PL",
+                "addr:postcode": "63-505",
+                "addr:place": "Przytocznica",
+                "addr:housenumber": "34",
+                "addr:teryt:sym_ul": 196753,
+                "contact:phone": "+48 627315111",
+                "contact:email": "przytocznica@spsk.info.pl",
+                "contact:website": "http:\/\/przytocznica.spsk.pl",
+                "ref:regon": "302500507",
+                "ref:vatin": "PL5140335625",
+                "operator": "Stowarzyszenie Przyjaci\u00f3\u0142 Szk\u00f3\u0142 Katolickich",
+                "operator:type": "ngo",
+                "amenity": "school"
+            }
+        }
+    ]
+}

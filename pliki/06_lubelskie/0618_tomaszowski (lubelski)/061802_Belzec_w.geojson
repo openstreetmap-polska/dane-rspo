@@ -1,1 +1,102 @@
-{"type":"FeatureCollection","features":[{"id":124141,"type":"Feature","geometry":{"type":"Point","coordinates":[23.43816947937,50.384601593018]},"properties":{"ref:rspo":124141,"official_name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w Be\u0142\u017ccu","name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w Be\u0142\u017ccu","addr:country":"PL","addr:postcode":"22-670","addr:city":"Be\u0142\u017cec","addr:street":"ul. Rzeszowska","addr:housenumber":"75","addr:teryt:simc":19351,"addr:teryt:sym_ul":885599,"contact:phone":"+48 846652424","contact:email":"sp.belzec@wp.pl","contact:website":"http:\/\/www.szkolapodstawowa.belzec.pl","ref:regon":"061718069","ref:vatin":"PL9212030358","operator":"Gmina Be\u0142\u017cec","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 7139;7140"}},{"id":7139,"type":"Feature","geometry":{"type":"Point","coordinates":[23.43816947937,50.384571593017995]},"properties":{"isced:level":"1;2","ref:rspo":7139,"official_name":"Szko\u0142a Podstawowa im. Papie\u017ca Jana Paw\u0142a Ii","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"22-670","addr:city":"Be\u0142\u017cec","addr:street":"ul. Rzeszowska","addr:housenumber":"75","addr:teryt:simc":19351,"addr:teryt:sym_ul":885599,"contact:phone":"+48 846652424","contact:email":"sp.belzec@wp.pl","ref:regon":"001138278","ref:vatin":"PL9211860715","operator":"Gmina Be\u0142\u017cec","operator:type":"government","amenity":"school","note":"Parent RSPO: 124141"}},{"id":7140,"type":"Feature","geometry":{"type":"Point","coordinates":[23.43816947937,50.384541593018]},"properties":{"ref:rspo":7140,"official_name":"Przedszkole Samorz\u0105dowe w Be\u0142\u017ccu","name":"Przedszkole Samorz\u0105dowe w Be\u0142\u017ccu","addr:country":"PL","addr:postcode":"22-670","addr:city":"Be\u0142\u017cec","addr:street":"ul. Rzeszowska","addr:housenumber":"75","addr:teryt:simc":19351,"addr:teryt:sym_ul":885599,"contact:phone":"+48 846652431","contact:email":"przedszkole.belzec@neostrada.pl","contact:website":"http:\/\/www.przedszkolebe3lzec.edupage.org","ref:regon":"950183829","ref:vatin":"PL9211756030","operator":"Gmina Be\u0142\u017cec","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 124141"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 124141,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.43816947937,
+                    50.384601593018
+                ]
+            },
+            "properties": {
+                "ref:rspo": 124141,
+                "official_name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w Be\u0142\u017ccu",
+                "name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w Be\u0142\u017ccu",
+                "addr:country": "PL",
+                "addr:postcode": "22-670",
+                "addr:city": "Be\u0142\u017cec",
+                "addr:street": "ul. Rzeszowska",
+                "addr:housenumber": "75",
+                "addr:teryt:simc": 19351,
+                "addr:teryt:sym_ul": 885599,
+                "contact:phone": "+48 846652424",
+                "contact:email": "sp.belzec@wp.pl",
+                "contact:website": "http:\/\/www.szkolapodstawowa.belzec.pl",
+                "ref:regon": "061718069",
+                "ref:vatin": "PL9212030358",
+                "operator": "Gmina Be\u0142\u017cec",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 7139;7140"
+            }
+        },
+        {
+            "id": 7139,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.43816947937,
+                    50.384571593017995
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 7139,
+                "official_name": "Szko\u0142a Podstawowa im. Papie\u017ca Jana Paw\u0142a Ii",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "22-670",
+                "addr:city": "Be\u0142\u017cec",
+                "addr:street": "ul. Rzeszowska",
+                "addr:housenumber": "75",
+                "addr:teryt:simc": 19351,
+                "addr:teryt:sym_ul": 885599,
+                "contact:phone": "+48 846652424",
+                "contact:email": "sp.belzec@wp.pl",
+                "ref:regon": "001138278",
+                "ref:vatin": "PL9211860715",
+                "operator": "Gmina Be\u0142\u017cec",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 124141"
+            }
+        },
+        {
+            "id": 7140,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.43816947937,
+                    50.384541593018
+                ]
+            },
+            "properties": {
+                "ref:rspo": 7140,
+                "official_name": "Przedszkole Samorz\u0105dowe w Be\u0142\u017ccu",
+                "name": "Przedszkole Samorz\u0105dowe w Be\u0142\u017ccu",
+                "addr:country": "PL",
+                "addr:postcode": "22-670",
+                "addr:city": "Be\u0142\u017cec",
+                "addr:street": "ul. Rzeszowska",
+                "addr:housenumber": "75",
+                "addr:teryt:simc": 19351,
+                "addr:teryt:sym_ul": 885599,
+                "contact:phone": "+48 846652431",
+                "contact:email": "przedszkole.belzec@neostrada.pl",
+                "contact:website": "http:\/\/www.przedszkolebe3lzec.edupage.org",
+                "ref:regon": "950183829",
+                "ref:vatin": "PL9211756030",
+                "operator": "Gmina Be\u0142\u017cec",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 124141"
+            }
+        }
+    ]
+}

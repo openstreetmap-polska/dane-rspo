@@ -1,1 +1,153 @@
-{"type":"FeatureCollection","features":[{"id":85480,"type":"Feature","geometry":{"type":"Point","coordinates":[22.2953,50.88915]},"properties":{"isced:level":"1;2","ref:rspo":85480,"official_name":"Szko\u0142a Podstawowa im. Marii Konopnickiej w S\u0142odkowie Trzecim","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"23-206","addr:place":"S\u0142odk\u00f3w Trzeci","addr:housenumber":"7","addr:teryt:sym_ul":383952,"contact:phone":"+48 818211383","contact:email":"szkst@poczta.onet.pl","contact:website":"http:\/\/www.spslodkow.gminakrasnik.pl","ref:regon":"001180560","ref:vatin":"PL7151645193","operator":"Gmina Kra\u015bnik","operator:type":"government","amenity":"school"}},{"id":276650,"type":"Feature","geometry":{"type":"Point","coordinates":[22.2953,50.88912]},"properties":{"ref:rspo":276650,"official_name":"Spice Gears Academy Niepubliczna Szko\u0142a Robotyki","name":"Spice Gears Academy Niepubliczna Szko\u0142a Robotyki","addr:country":"PL","addr:postcode":"23-206","addr:place":"S\u0142odk\u00f3w Trzeci","addr:housenumber":"7","addr:teryt:sym_ul":383952,"contact:email":"biuro@sgpoland.pl","ref:regon":"387335315","operator":"Spice Gears Poland Sp\u00f3\u0142ka Z Ograniczon\u0105 Odpowiedzialno\u015bci\u0105","operator:type":"private","fixme":"w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. amenity=training + training=*, amenity=dancing_school, amenity=language_school, amenity=music_school)"}},{"id":85481,"type":"Feature","geometry":{"type":"Point","coordinates":[22.288709640503,50.902351379395]},"properties":{"isced:level":"1;2","ref:rspo":85481,"official_name":"Szko\u0142a Podstawowa im. Ks. Stanis\u0142awa Zieli\u0144skiego w Str\u00f3\u017cy","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"23-206","addr:city":"Str\u00f3\u017ca-Kolonia","addr:street":"ul. Akacjowa","addr:housenumber":"2A","addr:teryt:simc":157,"addr:teryt:sym_ul":384035,"contact:phone":"+48 818211325","contact:email":"szkoalastroza@poczta.fm","contact:website":"http:\/\/www.szkolastroza.pl","ref:regon":"000593158","ref:vatin":"PL7151020501","operator":"Gmina Kra\u015bnik","operator:type":"government","amenity":"school"}},{"id":85482,"type":"Feature","geometry":{"type":"Point","coordinates":[22.288709640503,50.902321379395]},"properties":{"ref:rspo":85482,"official_name":"Przedszkole w Str\u00f3\u017cy","name":"Przedszkole w Str\u00f3\u017cy","addr:country":"PL","addr:postcode":"23-206","addr:city":"Str\u00f3\u017ca-Kolonia","addr:street":"ul. Akacjowa","addr:housenumber":"4A","addr:teryt:simc":157,"addr:teryt:sym_ul":384035,"contact:phone":"+48 818211382","contact:email":"przedszkole.stroza@vp.pl","contact:website":"http:\/\/www.przedszkolestroza.pl","ref:regon":"060436564","ref:vatin":"PL7151645187","operator":"Gmina Kra\u015bnik","operator:type":"government","amenity":"kindergarten"}},{"id":85479,"type":"Feature","geometry":{"type":"Point","coordinates":[22.1546,50.90759]},"properties":{"isced:level":"1;2","ref:rspo":85479,"official_name":"Szko\u0142a Podstawowa w Kowalinie","name":"Szko\u0142a Podstawowa w Kowalinie","addr:country":"PL","addr:postcode":"23-200","addr:place":"Kowalin","addr:housenumber":"45","addr:teryt:sym_ul":383828,"contact:phone":"+48 818251493","contact:email":"spkowalin@gminakrasnik.pl","ref:regon":"001180553","ref:vatin":"PL7151645201","operator":"Gmina Kra\u015bnik","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 85480,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.2953,
+                    50.88915
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 85480,
+                "official_name": "Szko\u0142a Podstawowa im. Marii Konopnickiej w S\u0142odkowie Trzecim",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "23-206",
+                "addr:place": "S\u0142odk\u00f3w Trzeci",
+                "addr:housenumber": "7",
+                "addr:teryt:sym_ul": 383952,
+                "contact:phone": "+48 818211383",
+                "contact:email": "szkst@poczta.onet.pl",
+                "contact:website": "http:\/\/www.spslodkow.gminakrasnik.pl",
+                "ref:regon": "001180560",
+                "ref:vatin": "PL7151645193",
+                "operator": "Gmina Kra\u015bnik",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 276650,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.2953,
+                    50.88912
+                ]
+            },
+            "properties": {
+                "ref:rspo": 276650,
+                "official_name": "Spice Gears Academy Niepubliczna Szko\u0142a Robotyki",
+                "name": "Spice Gears Academy Niepubliczna Szko\u0142a Robotyki",
+                "addr:country": "PL",
+                "addr:postcode": "23-206",
+                "addr:place": "S\u0142odk\u00f3w Trzeci",
+                "addr:housenumber": "7",
+                "addr:teryt:sym_ul": 383952,
+                "contact:email": "biuro@sgpoland.pl",
+                "ref:regon": "387335315",
+                "operator": "Spice Gears Poland Sp\u00f3\u0142ka Z Ograniczon\u0105 Odpowiedzialno\u015bci\u0105",
+                "operator:type": "private",
+                "fixme": "w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. amenity=training + training=*, amenity=dancing_school, amenity=language_school, amenity=music_school)"
+            }
+        },
+        {
+            "id": 85481,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.288709640503,
+                    50.902351379395
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 85481,
+                "official_name": "Szko\u0142a Podstawowa im. Ks. Stanis\u0142awa Zieli\u0144skiego w Str\u00f3\u017cy",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "23-206",
+                "addr:city": "Str\u00f3\u017ca-Kolonia",
+                "addr:street": "ul. Akacjowa",
+                "addr:housenumber": "2A",
+                "addr:teryt:simc": 157,
+                "addr:teryt:sym_ul": 384035,
+                "contact:phone": "+48 818211325",
+                "contact:email": "szkoalastroza@poczta.fm",
+                "contact:website": "http:\/\/www.szkolastroza.pl",
+                "ref:regon": "000593158",
+                "ref:vatin": "PL7151020501",
+                "operator": "Gmina Kra\u015bnik",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 85482,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.288709640503,
+                    50.902321379395
+                ]
+            },
+            "properties": {
+                "ref:rspo": 85482,
+                "official_name": "Przedszkole w Str\u00f3\u017cy",
+                "name": "Przedszkole w Str\u00f3\u017cy",
+                "addr:country": "PL",
+                "addr:postcode": "23-206",
+                "addr:city": "Str\u00f3\u017ca-Kolonia",
+                "addr:street": "ul. Akacjowa",
+                "addr:housenumber": "4A",
+                "addr:teryt:simc": 157,
+                "addr:teryt:sym_ul": 384035,
+                "contact:phone": "+48 818211382",
+                "contact:email": "przedszkole.stroza@vp.pl",
+                "contact:website": "http:\/\/www.przedszkolestroza.pl",
+                "ref:regon": "060436564",
+                "ref:vatin": "PL7151645187",
+                "operator": "Gmina Kra\u015bnik",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 85479,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.1546,
+                    50.90759
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 85479,
+                "official_name": "Szko\u0142a Podstawowa w Kowalinie",
+                "name": "Szko\u0142a Podstawowa w Kowalinie",
+                "addr:country": "PL",
+                "addr:postcode": "23-200",
+                "addr:place": "Kowalin",
+                "addr:housenumber": "45",
+                "addr:teryt:sym_ul": 383828,
+                "contact:phone": "+48 818251493",
+                "contact:email": "spkowalin@gminakrasnik.pl",
+                "ref:regon": "001180553",
+                "ref:vatin": "PL7151645201",
+                "operator": "Gmina Kra\u015bnik",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

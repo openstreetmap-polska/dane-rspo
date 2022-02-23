@@ -1,1 +1,99 @@
-{"type":"FeatureCollection","features":[{"id":2918,"type":"Feature","geometry":{"type":"Point","coordinates":[14.28473,53.72359]},"properties":{"ref:rspo":2918,"official_name":"Przedszkole \"Z\u0142ota Rybka\"","name":"Przedszkole \"Z\u0142ota Rybka\"","addr:country":"PL","addr:postcode":"72-022","addr:city":"Nowe Warpno","addr:street":"ul. Ko\u015bciuszki","addr:housenumber":"47","addr:teryt:simc":9572,"addr:teryt:sym_ul":979308,"contact:phone":"+48 913129668","contact:email":"przedszkolenw@o2.pl","ref:regon":"000262154","ref:vatin":"PL8512772170","operator":"Gmina Nowe Warpno","operator:type":"government","amenity":"kindergarten"}},{"id":6796,"type":"Feature","geometry":{"type":"Point","coordinates":[14.28148,53.72523]},"properties":{"isced:level":"1;2","ref:rspo":6796,"official_name":"Szko\u0142a Podstawowa w Nowym Warpnie","name":"Szko\u0142a Podstawowa w Nowym Warpnie","addr:country":"PL","addr:postcode":"72-022","addr:city":"Nowe Warpno","addr:street":"pl. Zwyci\u0119stwa","addr:housenumber":"6","addr:teryt:simc":26325,"addr:teryt:sym_ul":979308,"contact:phone":"+48 913129651","contact:email":"warpno@interia.pl","contact:website":"https:\/\/zs.nowewarpno.pl\/","ref:regon":"000262349","ref:vatin":"PL8512748154","operator":"Gmina Nowe Warpno","operator:type":"government","amenity":"school"}},{"id":276099,"type":"Feature","geometry":{"type":"Point","coordinates":[14.28148,53.7252]},"properties":{"ref:rspo":276099,"official_name":"Zespo\u0142 Szkolno-Przedszkolny w Nowym Warpnie","name":"Zespo\u0142 Szkolno-Przedszkolny w Nowym Warpnie","addr:country":"PL","addr:postcode":"72-022","addr:city":"Nowe Warpno","addr:street":"pl. Zwyci\u0119stwa","addr:housenumber":"6","addr:teryt:simc":26325,"addr:teryt:sym_ul":979308,"contact:phone":"+48 913129651","contact:email":"warpno@interia.pl","contact:website":"http:\/\/zs.nowewarpno.pl","ref:regon":"386619631","ref:vatin":"PL8513251728","operator":"Gmina Nowe Warpno","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education."}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 2918,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.28473,
+                    53.72359
+                ]
+            },
+            "properties": {
+                "ref:rspo": 2918,
+                "official_name": "Przedszkole \"Z\u0142ota Rybka\"",
+                "name": "Przedszkole \"Z\u0142ota Rybka\"",
+                "addr:country": "PL",
+                "addr:postcode": "72-022",
+                "addr:city": "Nowe Warpno",
+                "addr:street": "ul. Ko\u015bciuszki",
+                "addr:housenumber": "47",
+                "addr:teryt:simc": 9572,
+                "addr:teryt:sym_ul": 979308,
+                "contact:phone": "+48 913129668",
+                "contact:email": "przedszkolenw@o2.pl",
+                "ref:regon": "000262154",
+                "ref:vatin": "PL8512772170",
+                "operator": "Gmina Nowe Warpno",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 6796,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.28148,
+                    53.72523
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 6796,
+                "official_name": "Szko\u0142a Podstawowa w Nowym Warpnie",
+                "name": "Szko\u0142a Podstawowa w Nowym Warpnie",
+                "addr:country": "PL",
+                "addr:postcode": "72-022",
+                "addr:city": "Nowe Warpno",
+                "addr:street": "pl. Zwyci\u0119stwa",
+                "addr:housenumber": "6",
+                "addr:teryt:simc": 26325,
+                "addr:teryt:sym_ul": 979308,
+                "contact:phone": "+48 913129651",
+                "contact:email": "warpno@interia.pl",
+                "contact:website": "https:\/\/zs.nowewarpno.pl\/",
+                "ref:regon": "000262349",
+                "ref:vatin": "PL8512748154",
+                "operator": "Gmina Nowe Warpno",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 276099,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.28148,
+                    53.7252
+                ]
+            },
+            "properties": {
+                "ref:rspo": 276099,
+                "official_name": "Zespo\u0142 Szkolno-Przedszkolny w Nowym Warpnie",
+                "name": "Zespo\u0142 Szkolno-Przedszkolny w Nowym Warpnie",
+                "addr:country": "PL",
+                "addr:postcode": "72-022",
+                "addr:city": "Nowe Warpno",
+                "addr:street": "pl. Zwyci\u0119stwa",
+                "addr:housenumber": "6",
+                "addr:teryt:simc": 26325,
+                "addr:teryt:sym_ul": 979308,
+                "contact:phone": "+48 913129651",
+                "contact:email": "warpno@interia.pl",
+                "contact:website": "http:\/\/zs.nowewarpno.pl",
+                "ref:regon": "386619631",
+                "ref:vatin": "PL8513251728",
+                "operator": "Gmina Nowe Warpno",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education."
+            }
+        }
+    ]
+}

@@ -1,1 +1,65 @@
-{"type":"FeatureCollection","features":[{"id":105756,"type":"Feature","geometry":{"type":"Point","coordinates":[23.007552,51.605123]},"properties":{"isced:level":"1;2","ref:rspo":105756,"official_name":"Szko\u0142a Podstawowa im. Armii Krajowej w D\u0119bowej K\u0142odzie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"21-211","addr:place":"D\u0119bowa K\u0142oda","addr:housenumber":"2","addr:teryt:sym_ul":11340,"contact:phone":"+48 833557409","contact:email":"gm-debowa@wp.pl","contact:website":"http:\/\/www.spdebowa.pl","ref:regon":"000712999","ref:vatin":"PL5391394312","operator":"Gmina D\u0119bowa K\u0142oda","operator:type":"government","amenity":"school"}},{"id":105759,"type":"Feature","geometry":{"type":"Point","coordinates":[23.129015,51.6064439]},"properties":{"isced:level":"1;2","ref:rspo":105759,"official_name":"Szko\u0142a Podstawowa w Kode\u0144cu","name":"Szko\u0142a Podstawowa w Kode\u0144cu","addr:country":"PL","addr:postcode":"21-211","addr:place":"Kodeniec","addr:housenumber":"71","addr:teryt:sym_ul":11363,"contact:phone":"+48 833559009","contact:email":"spkodeniec@interia.pl","contact:website":"http:\/\/www.kodeniec.szkolna.net","ref:regon":"001121272","ref:vatin":"PL5391394329","operator":"Gmina D\u0119bowa K\u0142oda","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 105756,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.007552,
+                    51.605123
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 105756,
+                "official_name": "Szko\u0142a Podstawowa im. Armii Krajowej w D\u0119bowej K\u0142odzie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "21-211",
+                "addr:place": "D\u0119bowa K\u0142oda",
+                "addr:housenumber": "2",
+                "addr:teryt:sym_ul": 11340,
+                "contact:phone": "+48 833557409",
+                "contact:email": "gm-debowa@wp.pl",
+                "contact:website": "http:\/\/www.spdebowa.pl",
+                "ref:regon": "000712999",
+                "ref:vatin": "PL5391394312",
+                "operator": "Gmina D\u0119bowa K\u0142oda",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 105759,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.129015,
+                    51.6064439
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 105759,
+                "official_name": "Szko\u0142a Podstawowa w Kode\u0144cu",
+                "name": "Szko\u0142a Podstawowa w Kode\u0144cu",
+                "addr:country": "PL",
+                "addr:postcode": "21-211",
+                "addr:place": "Kodeniec",
+                "addr:housenumber": "71",
+                "addr:teryt:sym_ul": 11363,
+                "contact:phone": "+48 833559009",
+                "contact:email": "spkodeniec@interia.pl",
+                "contact:website": "http:\/\/www.kodeniec.szkolna.net",
+                "ref:regon": "001121272",
+                "ref:vatin": "PL5391394329",
+                "operator": "Gmina D\u0119bowa K\u0142oda",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

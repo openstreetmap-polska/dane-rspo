@@ -1,1 +1,165 @@
-{"type":"FeatureCollection","features":[{"id":56447,"type":"Feature","geometry":{"type":"Point","coordinates":[20.08861,51.86166]},"properties":{"isced:level":"1;2","ref:rspo":56447,"official_name":"Szko\u0142apodstawowa w Lni\u015bnie","name":"Szko\u0142apodstawowa w Lni\u015bnie","addr:country":"PL","addr:postcode":"96-126","addr:place":"Lnisno","addr:housenumber":"69A","addr:door":"brak","addr:teryt:sym_ul":728316,"contact:phone":"+48 468311126","contact:email":"splnisno@wp.pl","contact:website":"http:\/\/www.splnisno.edu.pl","ref:regon":"001112540","ref:vatin":"PL8361689659","operator":"Gmina Godzian\u00f3w","operator:type":"government","amenity":"school"}},{"id":56444,"type":"Feature","geometry":{"type":"Point","coordinates":[20.03844,51.89251]},"properties":{"ref:rspo":56444,"official_name":"Przedszkole w Godzianowie","name":"Przedszkole w Godzianowie","addr:country":"PL","addr:postcode":"96-126","addr:city":"Godzian\u00f3w","addr:street":"ul. Sportowa","addr:housenumber":"5","addr:door":"brak","addr:teryt:simc":20683,"addr:teryt:sym_ul":728262,"contact:phone":"+48 468311157","contact:email":"przedszkole-godzianow@o2.pl","contact:website":"http:\/\/www.wikom.pl\/pgodzianow","ref:regon":"750020980","ref:vatin":"PL8361689636","operator":"Gmina Godzian\u00f3w","operator:type":"government","amenity":"kindergarten"}},{"id":41881,"type":"Feature","geometry":{"type":"Point","coordinates":[20.03546,51.89303]},"properties":{"ref:rspo":41881,"official_name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 Og\u00f3lnokszta\u0142c\u0105cych w Godzianowie","name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 Og\u00f3lnokszta\u0142c\u0105cych w Godzianowie","addr:country":"PL","addr:postcode":"96-126","addr:city":"Godzian\u00f3w","addr:street":"ul. Sportowa","addr:housenumber":"4","addr:door":"brak","addr:teryt:simc":20683,"addr:teryt:sym_ul":728262,"contact:phone":"+48 468311123","contact:email":"zsogodz@poczta.onet.pl","contact:website":"http:\/\/zso-godzianow.pl","ref:regon":"750099710","ref:vatin":"PL8361526093","operator":"Gmina Godzian\u00f3w","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 57641;58998"}},{"id":57641,"type":"Feature","geometry":{"type":"Point","coordinates":[20.03546,51.893]},"properties":{"isced:level":"1;2","ref:rspo":57641,"official_name":"Szko\u0142a Podstawowa im. Jana Paw\u0142a II w Godzianowie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"96-126","addr:city":"Godzian\u00f3w","addr:street":"ul. Sportowa","addr:housenumber":"4","addr:teryt:simc":20683,"addr:teryt:sym_ul":728262,"contact:phone":"+48 468311123","contact:email":"zsogodz@poczta.onet.pl","contact:website":"http:\/\/www.zso-godzianow.pl","ref:regon":"000266755","operator":"Gmina Godzian\u00f3w","operator:type":"government","amenity":"school","note":"Parent RSPO: 41881"}},{"id":58998,"type":"Feature","geometry":{"type":"Point","coordinates":[20.03546,51.892970000000005]},"properties":{"isced:level":"3","ref:rspo":58998,"official_name":"Liceum Og\u00f3lnokszta\u0142c\u0105ce Im 26 Pu\u0142ku Artylerii Lekkiej","name":"Liceum Og\u00f3lnokszta\u0142c\u0105ce Im 26 Pu\u0142ku Artylerii Lekkiej","addr:country":"PL","addr:postcode":"96-126","addr:city":"Godzian\u00f3w","addr:street":"ul. Sportowa","addr:housenumber":"4","addr:teryt:simc":20683,"addr:teryt:sym_ul":728262,"contact:phone":"+48 468311123","contact:email":"zsogodz@poczta.onet.pl","ref:regon":"750814325","operator":"Gmina Godzian\u00f3w","operator:type":"government","amenity":"school","note":"Parent RSPO: 41881"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 56447,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.08861,
+                    51.86166
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 56447,
+                "official_name": "Szko\u0142apodstawowa w Lni\u015bnie",
+                "name": "Szko\u0142apodstawowa w Lni\u015bnie",
+                "addr:country": "PL",
+                "addr:postcode": "96-126",
+                "addr:place": "Lnisno",
+                "addr:housenumber": "69A",
+                "addr:door": "brak",
+                "addr:teryt:sym_ul": 728316,
+                "contact:phone": "+48 468311126",
+                "contact:email": "splnisno@wp.pl",
+                "contact:website": "http:\/\/www.splnisno.edu.pl",
+                "ref:regon": "001112540",
+                "ref:vatin": "PL8361689659",
+                "operator": "Gmina Godzian\u00f3w",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 56444,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.03844,
+                    51.89251
+                ]
+            },
+            "properties": {
+                "ref:rspo": 56444,
+                "official_name": "Przedszkole w Godzianowie",
+                "name": "Przedszkole w Godzianowie",
+                "addr:country": "PL",
+                "addr:postcode": "96-126",
+                "addr:city": "Godzian\u00f3w",
+                "addr:street": "ul. Sportowa",
+                "addr:housenumber": "5",
+                "addr:door": "brak",
+                "addr:teryt:simc": 20683,
+                "addr:teryt:sym_ul": 728262,
+                "contact:phone": "+48 468311157",
+                "contact:email": "przedszkole-godzianow@o2.pl",
+                "contact:website": "http:\/\/www.wikom.pl\/pgodzianow",
+                "ref:regon": "750020980",
+                "ref:vatin": "PL8361689636",
+                "operator": "Gmina Godzian\u00f3w",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 41881,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.03546,
+                    51.89303
+                ]
+            },
+            "properties": {
+                "ref:rspo": 41881,
+                "official_name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Og\u00f3lnokszta\u0142c\u0105cych w Godzianowie",
+                "name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Og\u00f3lnokszta\u0142c\u0105cych w Godzianowie",
+                "addr:country": "PL",
+                "addr:postcode": "96-126",
+                "addr:city": "Godzian\u00f3w",
+                "addr:street": "ul. Sportowa",
+                "addr:housenumber": "4",
+                "addr:door": "brak",
+                "addr:teryt:simc": 20683,
+                "addr:teryt:sym_ul": 728262,
+                "contact:phone": "+48 468311123",
+                "contact:email": "zsogodz@poczta.onet.pl",
+                "contact:website": "http:\/\/zso-godzianow.pl",
+                "ref:regon": "750099710",
+                "ref:vatin": "PL8361526093",
+                "operator": "Gmina Godzian\u00f3w",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 57641;58998"
+            }
+        },
+        {
+            "id": 57641,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.03546,
+                    51.893
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 57641,
+                "official_name": "Szko\u0142a Podstawowa im. Jana Paw\u0142a II w Godzianowie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "96-126",
+                "addr:city": "Godzian\u00f3w",
+                "addr:street": "ul. Sportowa",
+                "addr:housenumber": "4",
+                "addr:teryt:simc": 20683,
+                "addr:teryt:sym_ul": 728262,
+                "contact:phone": "+48 468311123",
+                "contact:email": "zsogodz@poczta.onet.pl",
+                "contact:website": "http:\/\/www.zso-godzianow.pl",
+                "ref:regon": "000266755",
+                "operator": "Gmina Godzian\u00f3w",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 41881"
+            }
+        },
+        {
+            "id": 58998,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.03546,
+                    51.892970000000005
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 58998,
+                "official_name": "Liceum Og\u00f3lnokszta\u0142c\u0105ce Im 26 Pu\u0142ku Artylerii Lekkiej",
+                "name": "Liceum Og\u00f3lnokszta\u0142c\u0105ce Im 26 Pu\u0142ku Artylerii Lekkiej",
+                "addr:country": "PL",
+                "addr:postcode": "96-126",
+                "addr:city": "Godzian\u00f3w",
+                "addr:street": "ul. Sportowa",
+                "addr:housenumber": "4",
+                "addr:teryt:simc": 20683,
+                "addr:teryt:sym_ul": 728262,
+                "contact:phone": "+48 468311123",
+                "contact:email": "zsogodz@poczta.onet.pl",
+                "ref:regon": "750814325",
+                "operator": "Gmina Godzian\u00f3w",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 41881"
+            }
+        }
+    ]
+}

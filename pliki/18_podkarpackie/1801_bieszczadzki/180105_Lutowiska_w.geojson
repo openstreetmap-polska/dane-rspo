@@ -1,1 +1,148 @@
-{"type":"FeatureCollection","features":[{"id":62073,"type":"Feature","geometry":{"type":"Point","coordinates":[22.68265,49.18762]},"properties":{"ref:rspo":62073,"official_name":"Szkolne Schronisko M\u0142odzie\u017cowe w Stuposianach","name":"Szkolne Schronisko M\u0142odzie\u017cowe w Stuposianach","addr:country":"PL","addr:postcode":"38-713","addr:place":"Stuposiany","addr:housenumber":"9","addr:teryt:sym_ul":356270,"contact:phone":"+48 134610048","ref:regon":"180317415","ref:vatin":"PL6891220604","operator":"Gmina Lutowiska","operator:type":"government","tourism":"hostel","note":"Parent RSPO: 58189"}},{"id":58189,"type":"Feature","geometry":{"type":"Point","coordinates":[22.69644,49.24997]},"properties":{"ref:rspo":58189,"official_name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 w Lutowiskach","name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 w Lutowiskach","addr:country":"PL","addr:postcode":"38-713","addr:place":"Lutowiska","addr:housenumber":"45","addr:teryt:sym_ul":356205,"contact:phone":"+48 134610025","contact:email":"lutowiska@op.pl","ref:regon":"371180167","ref:vatin":"PL6891189231","operator":"Gmina Lutowiska","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 61639;61928;62073;130222"}},{"id":61639,"type":"Feature","geometry":{"type":"Point","coordinates":[22.69644,49.249939999999995]},"properties":{"isced:level":"1;2","ref:rspo":61639,"official_name":"Szko\u0142a Podstawowa Im Wojsk Ochrony Pogranicza","name":"Szko\u0142a Podstawowa Im Wojsk Ochrony Pogranicza","addr:country":"PL","addr:postcode":"38-713","addr:place":"Lutowiska","addr:housenumber":"45","addr:teryt:sym_ul":356205,"contact:phone":"+48 134610025","ref:regon":"000595105","ref:vatin":"PL6891160983","operator":"Gmina Lutowiska","operator:type":"government","amenity":"school","note":"Parent RSPO: 58189"}},{"id":61928,"type":"Feature","geometry":{"type":"Point","coordinates":[22.69644,49.24991]},"properties":{"ref:rspo":61928,"official_name":"Szkolne Schronisko M\u0142odzie\u017cowe w Lutowiskach","name":"Szkolne Schronisko M\u0142odzie\u017cowe w Lutowiskach","addr:country":"PL","addr:postcode":"38-713","addr:place":"Lutowiska","addr:housenumber":"45","addr:teryt:sym_ul":356205,"contact:phone":"+48 693045151","ref:regon":"180059781","ref:vatin":"PL6891207294","operator":"Gmina Lutowiska","operator:type":"government","tourism":"hostel","note":"Parent RSPO: 58189"}},{"id":130222,"type":"Feature","geometry":{"type":"Point","coordinates":[22.68597,49.25621]},"properties":{"ref:rspo":130222,"official_name":"Akademia Rozwoju Ma\u0142ego Dziecka w Gminie Lutowiska","name":"Akademia Rozwoju Ma\u0142ego Dziecka w Gminie Lutowiska","addr:country":"PL","addr:postcode":"38-713","addr:place":"Lutowiska","addr:housenumber":"96","addr:teryt:sym_ul":356205,"contact:phone":"+48 134610300","contact:email":"lutowiska@op.pl","ref:regon":"363661772","operator":"Gmina Lutowiska","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 58189"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 62073,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.68265,
+                    49.18762
+                ]
+            },
+            "properties": {
+                "ref:rspo": 62073,
+                "official_name": "Szkolne Schronisko M\u0142odzie\u017cowe w Stuposianach",
+                "name": "Szkolne Schronisko M\u0142odzie\u017cowe w Stuposianach",
+                "addr:country": "PL",
+                "addr:postcode": "38-713",
+                "addr:place": "Stuposiany",
+                "addr:housenumber": "9",
+                "addr:teryt:sym_ul": 356270,
+                "contact:phone": "+48 134610048",
+                "ref:regon": "180317415",
+                "ref:vatin": "PL6891220604",
+                "operator": "Gmina Lutowiska",
+                "operator:type": "government",
+                "tourism": "hostel",
+                "note": "Parent RSPO: 58189"
+            }
+        },
+        {
+            "id": 58189,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.69644,
+                    49.24997
+                ]
+            },
+            "properties": {
+                "ref:rspo": 58189,
+                "official_name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 w Lutowiskach",
+                "name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 w Lutowiskach",
+                "addr:country": "PL",
+                "addr:postcode": "38-713",
+                "addr:place": "Lutowiska",
+                "addr:housenumber": "45",
+                "addr:teryt:sym_ul": 356205,
+                "contact:phone": "+48 134610025",
+                "contact:email": "lutowiska@op.pl",
+                "ref:regon": "371180167",
+                "ref:vatin": "PL6891189231",
+                "operator": "Gmina Lutowiska",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 61639;61928;62073;130222"
+            }
+        },
+        {
+            "id": 61639,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.69644,
+                    49.249939999999995
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 61639,
+                "official_name": "Szko\u0142a Podstawowa Im Wojsk Ochrony Pogranicza",
+                "name": "Szko\u0142a Podstawowa Im Wojsk Ochrony Pogranicza",
+                "addr:country": "PL",
+                "addr:postcode": "38-713",
+                "addr:place": "Lutowiska",
+                "addr:housenumber": "45",
+                "addr:teryt:sym_ul": 356205,
+                "contact:phone": "+48 134610025",
+                "ref:regon": "000595105",
+                "ref:vatin": "PL6891160983",
+                "operator": "Gmina Lutowiska",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 58189"
+            }
+        },
+        {
+            "id": 61928,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.69644,
+                    49.24991
+                ]
+            },
+            "properties": {
+                "ref:rspo": 61928,
+                "official_name": "Szkolne Schronisko M\u0142odzie\u017cowe w Lutowiskach",
+                "name": "Szkolne Schronisko M\u0142odzie\u017cowe w Lutowiskach",
+                "addr:country": "PL",
+                "addr:postcode": "38-713",
+                "addr:place": "Lutowiska",
+                "addr:housenumber": "45",
+                "addr:teryt:sym_ul": 356205,
+                "contact:phone": "+48 693045151",
+                "ref:regon": "180059781",
+                "ref:vatin": "PL6891207294",
+                "operator": "Gmina Lutowiska",
+                "operator:type": "government",
+                "tourism": "hostel",
+                "note": "Parent RSPO: 58189"
+            }
+        },
+        {
+            "id": 130222,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.68597,
+                    49.25621
+                ]
+            },
+            "properties": {
+                "ref:rspo": 130222,
+                "official_name": "Akademia Rozwoju Ma\u0142ego Dziecka w Gminie Lutowiska",
+                "name": "Akademia Rozwoju Ma\u0142ego Dziecka w Gminie Lutowiska",
+                "addr:country": "PL",
+                "addr:postcode": "38-713",
+                "addr:place": "Lutowiska",
+                "addr:housenumber": "96",
+                "addr:teryt:sym_ul": 356205,
+                "contact:phone": "+48 134610300",
+                "contact:email": "lutowiska@op.pl",
+                "ref:regon": "363661772",
+                "operator": "Gmina Lutowiska",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 58189"
+            }
+        }
+    ]
+}

@@ -1,1 +1,178 @@
-{"type":"FeatureCollection","features":[{"id":114406,"type":"Feature","geometry":{"type":"Point","coordinates":[17.803782,51.217099]},"properties":{"ref:rspo":114406,"official_name":"Przedszkole w Tr\u0119baczowie","name":"Przedszkole w Tr\u0119baczowie","addr:country":"PL","addr:postcode":"63-642","addr:place":"Tr\u0119bacz\u00f3w","addr:housenumber":"30","addr:teryt:sym_ul":206776,"contact:phone":"+48 627861170","contact:email":"szkolatrebaczow@interia.pl","ref:regon":"251597590","operator":"Gmina Perz\u00f3w","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 105431"}},{"id":105431,"type":"Feature","geometry":{"type":"Point","coordinates":[17.802155,51.2204489]},"properties":{"ref:rspo":105431,"official_name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 w Tr\u0119baczowie","name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 w Tr\u0119baczowie","addr:country":"PL","addr:postcode":"63-642","addr:place":"Tr\u0119bacz\u00f3w","addr:housenumber":"142","addr:teryt:sym_ul":206776,"contact:phone":"+48 627861170","contact:email":"szkolatrebaczow@interia.pl","ref:regon":"001173429","ref:vatin":"PL6191980885","operator":"Gmina Perz\u00f3w","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 114402;114406"}},{"id":114402,"type":"Feature","geometry":{"type":"Point","coordinates":[17.802155,51.2204189]},"properties":{"isced:level":"1;2","ref:rspo":114402,"official_name":"Szko\u0142a Podstawowa im. Tadeusza Ko\u015bciuszki","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"63-642","addr:place":"Tr\u0119bacz\u00f3w","addr:housenumber":"142","addr:teryt:sym_ul":206776,"contact:phone":"+48 627861170","contact:email":"szkolatrebaczow@interia.pl","ref:regon":"251597584","operator":"Gmina Perz\u00f3w","operator:type":"government","amenity":"school","note":"Parent RSPO: 105431"}},{"id":105432,"type":"Feature","geometry":{"type":"Point","coordinates":[17.8112189,51.2730199]},"properties":{"ref:rspo":105432,"official_name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 w Perzowie","name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 w Perzowie","addr:country":"PL","addr:postcode":"63-642","addr:place":"Perz\u00f3w","addr:housenumber":"77A","addr:teryt:sym_ul":206730,"contact:phone":"+48 627861511","contact:email":"szkola_perzow@interia.pl","ref:regon":"251597704","ref:vatin":"PL6191980589","operator":"Gmina Perz\u00f3w","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 114399;114400"}},{"id":114399,"type":"Feature","geometry":{"type":"Point","coordinates":[17.8112189,51.2729899]},"properties":{"isced:level":"1;2","ref:rspo":114399,"official_name":"Szko\u0142a Podstawowa im. Adama Mickiewicza","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"63-642","addr:place":"Perz\u00f3w","addr:housenumber":"77A","addr:teryt:sym_ul":206730,"contact:phone":"+48 627861511","contact:email":"szkola_perzow@interia.pl","ref:regon":"001173406","operator":"Gmina Perz\u00f3w","operator:type":"government","amenity":"school","note":"Parent RSPO: 105432"}},{"id":114400,"type":"Feature","geometry":{"type":"Point","coordinates":[17.8112189,51.272959900000004]},"properties":{"ref:rspo":114400,"official_name":"Przedszkole w Perzowie","name":"Przedszkole w Perzowie","addr:country":"PL","addr:postcode":"63-642","addr:place":"Perz\u00f3w","addr:housenumber":"77A","addr:teryt:sym_ul":206730,"contact:phone":"+48 627861018","ref:regon":"251597696","operator":"Gmina Perz\u00f3w","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 105432"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 114406,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.803782,
+                    51.217099
+                ]
+            },
+            "properties": {
+                "ref:rspo": 114406,
+                "official_name": "Przedszkole w Tr\u0119baczowie",
+                "name": "Przedszkole w Tr\u0119baczowie",
+                "addr:country": "PL",
+                "addr:postcode": "63-642",
+                "addr:place": "Tr\u0119bacz\u00f3w",
+                "addr:housenumber": "30",
+                "addr:teryt:sym_ul": 206776,
+                "contact:phone": "+48 627861170",
+                "contact:email": "szkolatrebaczow@interia.pl",
+                "ref:regon": "251597590",
+                "operator": "Gmina Perz\u00f3w",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 105431"
+            }
+        },
+        {
+            "id": 105431,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.802155,
+                    51.2204489
+                ]
+            },
+            "properties": {
+                "ref:rspo": 105431,
+                "official_name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 w Tr\u0119baczowie",
+                "name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 w Tr\u0119baczowie",
+                "addr:country": "PL",
+                "addr:postcode": "63-642",
+                "addr:place": "Tr\u0119bacz\u00f3w",
+                "addr:housenumber": "142",
+                "addr:teryt:sym_ul": 206776,
+                "contact:phone": "+48 627861170",
+                "contact:email": "szkolatrebaczow@interia.pl",
+                "ref:regon": "001173429",
+                "ref:vatin": "PL6191980885",
+                "operator": "Gmina Perz\u00f3w",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 114402;114406"
+            }
+        },
+        {
+            "id": 114402,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.802155,
+                    51.2204189
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 114402,
+                "official_name": "Szko\u0142a Podstawowa im. Tadeusza Ko\u015bciuszki",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "63-642",
+                "addr:place": "Tr\u0119bacz\u00f3w",
+                "addr:housenumber": "142",
+                "addr:teryt:sym_ul": 206776,
+                "contact:phone": "+48 627861170",
+                "contact:email": "szkolatrebaczow@interia.pl",
+                "ref:regon": "251597584",
+                "operator": "Gmina Perz\u00f3w",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 105431"
+            }
+        },
+        {
+            "id": 105432,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.8112189,
+                    51.2730199
+                ]
+            },
+            "properties": {
+                "ref:rspo": 105432,
+                "official_name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 w Perzowie",
+                "name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 w Perzowie",
+                "addr:country": "PL",
+                "addr:postcode": "63-642",
+                "addr:place": "Perz\u00f3w",
+                "addr:housenumber": "77A",
+                "addr:teryt:sym_ul": 206730,
+                "contact:phone": "+48 627861511",
+                "contact:email": "szkola_perzow@interia.pl",
+                "ref:regon": "251597704",
+                "ref:vatin": "PL6191980589",
+                "operator": "Gmina Perz\u00f3w",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 114399;114400"
+            }
+        },
+        {
+            "id": 114399,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.8112189,
+                    51.2729899
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 114399,
+                "official_name": "Szko\u0142a Podstawowa im. Adama Mickiewicza",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "63-642",
+                "addr:place": "Perz\u00f3w",
+                "addr:housenumber": "77A",
+                "addr:teryt:sym_ul": 206730,
+                "contact:phone": "+48 627861511",
+                "contact:email": "szkola_perzow@interia.pl",
+                "ref:regon": "001173406",
+                "operator": "Gmina Perz\u00f3w",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 105432"
+            }
+        },
+        {
+            "id": 114400,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.8112189,
+                    51.272959900000004
+                ]
+            },
+            "properties": {
+                "ref:rspo": 114400,
+                "official_name": "Przedszkole w Perzowie",
+                "name": "Przedszkole w Perzowie",
+                "addr:country": "PL",
+                "addr:postcode": "63-642",
+                "addr:place": "Perz\u00f3w",
+                "addr:housenumber": "77A",
+                "addr:teryt:sym_ul": 206730,
+                "contact:phone": "+48 627861018",
+                "ref:regon": "251597696",
+                "operator": "Gmina Perz\u00f3w",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 105432"
+            }
+        }
+    ]
+}

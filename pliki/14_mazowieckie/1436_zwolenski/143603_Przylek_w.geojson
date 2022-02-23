@@ -1,1 +1,125 @@
-{"type":"FeatureCollection","features":[{"id":272296,"type":"Feature","geometry":{"type":"Point","coordinates":[21.73543,51.3222499]},"properties":{"isced:level":"1;2","ref:rspo":272296,"official_name":"Publiczna Szko\u0142a Podstawowa w Przy\u0142\u0119ku","name":"Publiczna Szko\u0142a Podstawowa w Przy\u0142\u0119ku","addr:country":"PL","addr:postcode":"26-704","addr:place":"Przy\u0142\u0119k","addr:housenumber":"142","addr:teryt:sym_ul":633478,"contact:phone":"+48 486773024","contact:email":"pspprzylek@interia.pl","contact:website":"http:\/\/pspprzylek.pl","ref:regon":"384093136","ref:vatin":"PL8111772649","operator":"Gmina Przy\u0142\u0119k","operator:type":"government","amenity":"school"}},{"id":24477,"type":"Feature","geometry":{"type":"Point","coordinates":[21.69766,51.32598]},"properties":{"isced:level":"1;2","ref:rspo":24477,"official_name":"Publiczna Szko\u0142a Podstawowa im. Heleny D\u0142ugoszewskiej w Babinie","name":"Publiczna Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"26-704","addr:place":"Babin","addr:housenumber":"38","addr:teryt:sym_ul":633260,"contact:phone":"+48 486773072","contact:email":"pspbabin@op.pl","contact:website":"http:\/\/www.pspbabin.webd.pl","ref:regon":"001146355","ref:vatin":"PL8111694300","operator":"Gmina Przy\u0142\u0119k","operator:type":"government","amenity":"school"}},{"id":24667,"type":"Feature","geometry":{"type":"Point","coordinates":[21.67539,51.35506]},"properties":{"isced:level":"1;2","ref:rspo":24667,"official_name":"Publiczna Szko\u0142a Podstawowa im. Haliny Miros\u0142awskiej w Grabowie Nad Wis\u0142\u0105","name":"Publiczna Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"26-704","addr:place":"Grab\u00f3w nad Wis\u0142\u0105","addr:housenumber":"57","addr:teryt:sym_ul":633283,"contact:phone":"+48 486775862","contact:email":"pspgrabow@op.pl","contact:website":"http:\/\/www.pspgrabow.szkolnastrona.pl","ref:regon":"001146970","ref:vatin":"PL8111696517","operator":"Gmina Przy\u0142\u0119k","operator:type":"government","amenity":"school"}},{"id":24632,"type":"Feature","geometry":{"type":"Point","coordinates":[21.79395,51.36943]},"properties":{"isced:level":"1;2","ref:rspo":24632,"official_name":"Publiczna Szko\u0142a Podstawowa im. Pp\u0142k. Ak J\u00f3zefa Pawlaka \"Brzozy\" w \u0141aguszowie","name":"Publiczna Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"26-704","addr:place":"\u0141agusz\u00f3w","addr:housenumber":"29","addr:teryt:sym_ul":633389,"contact:phone":"+48 486775001","contact:email":"psplag@vp.pl","contact:website":"https:\/\/splaguszow.edupage.org","ref:regon":"670919879","ref:vatin":"PL8111696523","operator":"Gmina Przy\u0142\u0119k","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 272296,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.73543,
+                    51.3222499
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 272296,
+                "official_name": "Publiczna Szko\u0142a Podstawowa w Przy\u0142\u0119ku",
+                "name": "Publiczna Szko\u0142a Podstawowa w Przy\u0142\u0119ku",
+                "addr:country": "PL",
+                "addr:postcode": "26-704",
+                "addr:place": "Przy\u0142\u0119k",
+                "addr:housenumber": "142",
+                "addr:teryt:sym_ul": 633478,
+                "contact:phone": "+48 486773024",
+                "contact:email": "pspprzylek@interia.pl",
+                "contact:website": "http:\/\/pspprzylek.pl",
+                "ref:regon": "384093136",
+                "ref:vatin": "PL8111772649",
+                "operator": "Gmina Przy\u0142\u0119k",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 24477,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.69766,
+                    51.32598
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 24477,
+                "official_name": "Publiczna Szko\u0142a Podstawowa im. Heleny D\u0142ugoszewskiej w Babinie",
+                "name": "Publiczna Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "26-704",
+                "addr:place": "Babin",
+                "addr:housenumber": "38",
+                "addr:teryt:sym_ul": 633260,
+                "contact:phone": "+48 486773072",
+                "contact:email": "pspbabin@op.pl",
+                "contact:website": "http:\/\/www.pspbabin.webd.pl",
+                "ref:regon": "001146355",
+                "ref:vatin": "PL8111694300",
+                "operator": "Gmina Przy\u0142\u0119k",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 24667,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.67539,
+                    51.35506
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 24667,
+                "official_name": "Publiczna Szko\u0142a Podstawowa im. Haliny Miros\u0142awskiej w Grabowie Nad Wis\u0142\u0105",
+                "name": "Publiczna Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "26-704",
+                "addr:place": "Grab\u00f3w nad Wis\u0142\u0105",
+                "addr:housenumber": "57",
+                "addr:teryt:sym_ul": 633283,
+                "contact:phone": "+48 486775862",
+                "contact:email": "pspgrabow@op.pl",
+                "contact:website": "http:\/\/www.pspgrabow.szkolnastrona.pl",
+                "ref:regon": "001146970",
+                "ref:vatin": "PL8111696517",
+                "operator": "Gmina Przy\u0142\u0119k",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 24632,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.79395,
+                    51.36943
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 24632,
+                "official_name": "Publiczna Szko\u0142a Podstawowa im. Pp\u0142k. Ak J\u00f3zefa Pawlaka \"Brzozy\" w \u0141aguszowie",
+                "name": "Publiczna Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "26-704",
+                "addr:place": "\u0141agusz\u00f3w",
+                "addr:housenumber": "29",
+                "addr:teryt:sym_ul": 633389,
+                "contact:phone": "+48 486775001",
+                "contact:email": "psplag@vp.pl",
+                "contact:website": "https:\/\/splaguszow.edupage.org",
+                "ref:regon": "670919879",
+                "ref:vatin": "PL8111696523",
+                "operator": "Gmina Przy\u0142\u0119k",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

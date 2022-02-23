@@ -1,1 +1,127 @@
-{"type":"FeatureCollection","features":[{"id":125755,"type":"Feature","geometry":{"type":"Point","coordinates":[20.66565,52.88054]},"properties":{"ref:rspo":125755,"official_name":"Centrum Edukacyjne Logos","name":"Centrum Edukacyjne Logos","addr:country":"PL","addr:postcode":"06-406","addr:city":"W\u0142adys\u0142awowo","addr:street":"ul. Ciechanowska","addr:housenumber":"3","addr:teryt:simc":2994,"addr:teryt:sym_ul":121844,"contact:phone":"+48 795642995","ref:regon":"147477952","operator":"\"Haven\" Sp\u00f3\u0142dzielnia Socjalna","operator:type":"cooperative","fixme":"w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. amenity=training + training=*, amenity=dancing_school, amenity=language_school, amenity=music_school)"}},{"id":74873,"type":"Feature","geometry":{"type":"Point","coordinates":[20.67259,52.8839]},"properties":{"isced:level":"1;2","ref:rspo":74873,"official_name":"Szko\u0142a Podstawowa im.zygmunta Krasi\u0144skiego w Opinog\u00f3rze G\u00f3rnej","name":"Szko\u0142a Podstawowa im.zygmunta Krasi\u0144skiego w Opinog\u00f3rze G\u00f3rnej","addr:country":"PL","addr:postcode":"06-406","addr:city":"Opinog\u00f3ra G\u00f3rna","addr:street":"ul. Zygmunta Krasi\u0144skiego","addr:housenumber":"25","addr:teryt:simc":9848,"addr:teryt:sym_ul":121643,"contact:phone":"+48 236717016","contact:email":"spopinogora@wp.pl","contact:website":"http:\/\/spopinogora.edupage.org","ref:regon":"000784332","ref:vatin":"PL5661755583","operator":"Gmina Opinog\u00f3ra G\u00f3rna","operator:type":"government","amenity":"school"}},{"id":74874,"type":"Feature","geometry":{"type":"Point","coordinates":[20.748506,52.9618539]},"properties":{"isced:level":"1;2","ref:rspo":74874,"official_name":"Szko\u0142a Podstawowa im. \u015aw. Stanis\u0142awa Kostki w Woli Wierzbowskiej","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"06-406","addr:place":"Wola Wierzbowska","addr:housenumber":"27","addr:teryt:sym_ul":121850,"contact:phone":"+48 236717810","contact:email":"spwolaw@op.pl","contact:website":"http:\/\/spwolaw.superszkolna.pl","ref:regon":"001158039","ref:vatin":"PL5661755502","operator":"Gmina Opinog\u00f3ra G\u00f3rna","operator:type":"government","amenity":"school"}},{"id":74875,"type":"Feature","geometry":{"type":"Point","coordinates":[20.62493,53.05604]},"properties":{"isced:level":"1;2","ref:rspo":74875,"official_name":"Szko\u0142a Podstawowa im. Marii Konopnickiej w Ko\u0142aczkowie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"06-406","addr:city":"Ko\u0142aczk\u00f3w","addr:street":"ul. Szkolna","addr:housenumber":"2","addr:teryt:simc":21970,"addr:teryt:sym_ul":121560,"contact:phone":"+48 236711627","contact:email":"spkol@kolaczkow.edu.pl","contact:website":"https:\/\/spkolaczkow.edupage.org\/","ref:regon":"001158022","ref:vatin":"PL5661755560","operator":"Gmina Opinog\u00f3ra G\u00f3rna","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 125755,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.66565,
+                    52.88054
+                ]
+            },
+            "properties": {
+                "ref:rspo": 125755,
+                "official_name": "Centrum Edukacyjne Logos",
+                "name": "Centrum Edukacyjne Logos",
+                "addr:country": "PL",
+                "addr:postcode": "06-406",
+                "addr:city": "W\u0142adys\u0142awowo",
+                "addr:street": "ul. Ciechanowska",
+                "addr:housenumber": "3",
+                "addr:teryt:simc": 2994,
+                "addr:teryt:sym_ul": 121844,
+                "contact:phone": "+48 795642995",
+                "ref:regon": "147477952",
+                "operator": "\"Haven\" Sp\u00f3\u0142dzielnia Socjalna",
+                "operator:type": "cooperative",
+                "fixme": "w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. amenity=training + training=*, amenity=dancing_school, amenity=language_school, amenity=music_school)"
+            }
+        },
+        {
+            "id": 74873,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.67259,
+                    52.8839
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 74873,
+                "official_name": "Szko\u0142a Podstawowa im.zygmunta Krasi\u0144skiego w Opinog\u00f3rze G\u00f3rnej",
+                "name": "Szko\u0142a Podstawowa im.zygmunta Krasi\u0144skiego w Opinog\u00f3rze G\u00f3rnej",
+                "addr:country": "PL",
+                "addr:postcode": "06-406",
+                "addr:city": "Opinog\u00f3ra G\u00f3rna",
+                "addr:street": "ul. Zygmunta Krasi\u0144skiego",
+                "addr:housenumber": "25",
+                "addr:teryt:simc": 9848,
+                "addr:teryt:sym_ul": 121643,
+                "contact:phone": "+48 236717016",
+                "contact:email": "spopinogora@wp.pl",
+                "contact:website": "http:\/\/spopinogora.edupage.org",
+                "ref:regon": "000784332",
+                "ref:vatin": "PL5661755583",
+                "operator": "Gmina Opinog\u00f3ra G\u00f3rna",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 74874,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.748506,
+                    52.9618539
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 74874,
+                "official_name": "Szko\u0142a Podstawowa im. \u015aw. Stanis\u0142awa Kostki w Woli Wierzbowskiej",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "06-406",
+                "addr:place": "Wola Wierzbowska",
+                "addr:housenumber": "27",
+                "addr:teryt:sym_ul": 121850,
+                "contact:phone": "+48 236717810",
+                "contact:email": "spwolaw@op.pl",
+                "contact:website": "http:\/\/spwolaw.superszkolna.pl",
+                "ref:regon": "001158039",
+                "ref:vatin": "PL5661755502",
+                "operator": "Gmina Opinog\u00f3ra G\u00f3rna",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 74875,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.62493,
+                    53.05604
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 74875,
+                "official_name": "Szko\u0142a Podstawowa im. Marii Konopnickiej w Ko\u0142aczkowie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "06-406",
+                "addr:city": "Ko\u0142aczk\u00f3w",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "2",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 121560,
+                "contact:phone": "+48 236711627",
+                "contact:email": "spkol@kolaczkow.edu.pl",
+                "contact:website": "https:\/\/spkolaczkow.edupage.org\/",
+                "ref:regon": "001158022",
+                "ref:vatin": "PL5661755560",
+                "operator": "Gmina Opinog\u00f3ra G\u00f3rna",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

@@ -1,1 +1,94 @@
-{"type":"FeatureCollection","features":[{"id":27278,"type":"Feature","geometry":{"type":"Point","coordinates":[19.8192999,51.85328]},"properties":{"isced:level":"1;2","ref:rspo":27278,"official_name":"Szko\u0142a Podstawowa w Ko\u0142acinie","name":"Szko\u0142a Podstawowa w Ko\u0142acinie","addr:country":"PL","addr:postcode":"95-061","addr:place":"Ko\u0142acin","addr:housenumber":"105A","addr:teryt:sym_ul":726866,"contact:phone":"+48 468747122","contact:email":"spkolacin@onet.pl","contact:website":"http:\/\/spkolacin.edupage.org","ref:regon":"001111931","ref:vatin":"PL8331016482","operator":"Gmina Dmosin","operator:type":"government","amenity":"school","note":"Children RSPO: 58116"}},{"id":58116,"type":"Feature","geometry":{"type":"Point","coordinates":[19.76672,51.8775]},"properties":{"isced:level":"1;2","ref:rspo":58116,"official_name":"Oddzia\u0142 Filialny w Woli Cyrusowej Szko\u0142y Podstawowej w Ko\u0142acinie","name":"Oddzia\u0142 Filialny w Woli Cyrusowej Szko\u0142y Podstawowej w Ko\u0142acinie","addr:country":"PL","addr:postcode":"95-061","addr:place":"Wola Cyrusowa","addr:housenumber":"69","addr:teryt:sym_ul":727274,"contact:phone":"+48 468747188","ref:regon":"111193100","operator":"Gmina Dmosin","operator:type":"government","amenity":"school","note":"Parent RSPO: 27278"}},{"id":48118,"type":"Feature","geometry":{"type":"Point","coordinates":[19.75404,51.92821]},"properties":{"isced:level":"1;2","ref:rspo":48118,"official_name":"Szko\u0142a Podstawowa im. Jana Brzechwy w Dmosinie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"95-061","addr:place":"Dmosin","addr:housenumber":"1C","addr:teryt:sym_ul":726719,"contact:phone":"+48 468746211","contact:email":"szkola@spdmosin.pl","contact:website":"http:\/\/www.szkoladmosin.edupage.org","ref:regon":"000681023","ref:vatin":"PL8331016507","operator":"Gmina Dmosin","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 27278,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8192999,
+                    51.85328
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 27278,
+                "official_name": "Szko\u0142a Podstawowa w Ko\u0142acinie",
+                "name": "Szko\u0142a Podstawowa w Ko\u0142acinie",
+                "addr:country": "PL",
+                "addr:postcode": "95-061",
+                "addr:place": "Ko\u0142acin",
+                "addr:housenumber": "105A",
+                "addr:teryt:sym_ul": 726866,
+                "contact:phone": "+48 468747122",
+                "contact:email": "spkolacin@onet.pl",
+                "contact:website": "http:\/\/spkolacin.edupage.org",
+                "ref:regon": "001111931",
+                "ref:vatin": "PL8331016482",
+                "operator": "Gmina Dmosin",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Children RSPO: 58116"
+            }
+        },
+        {
+            "id": 58116,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.76672,
+                    51.8775
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 58116,
+                "official_name": "Oddzia\u0142 Filialny w Woli Cyrusowej Szko\u0142y Podstawowej w Ko\u0142acinie",
+                "name": "Oddzia\u0142 Filialny w Woli Cyrusowej Szko\u0142y Podstawowej w Ko\u0142acinie",
+                "addr:country": "PL",
+                "addr:postcode": "95-061",
+                "addr:place": "Wola Cyrusowa",
+                "addr:housenumber": "69",
+                "addr:teryt:sym_ul": 727274,
+                "contact:phone": "+48 468747188",
+                "ref:regon": "111193100",
+                "operator": "Gmina Dmosin",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 27278"
+            }
+        },
+        {
+            "id": 48118,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.75404,
+                    51.92821
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 48118,
+                "official_name": "Szko\u0142a Podstawowa im. Jana Brzechwy w Dmosinie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "95-061",
+                "addr:place": "Dmosin",
+                "addr:housenumber": "1C",
+                "addr:teryt:sym_ul": 726719,
+                "contact:phone": "+48 468746211",
+                "contact:email": "szkola@spdmosin.pl",
+                "contact:website": "http:\/\/www.szkoladmosin.edupage.org",
+                "ref:regon": "000681023",
+                "ref:vatin": "PL8331016507",
+                "operator": "Gmina Dmosin",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

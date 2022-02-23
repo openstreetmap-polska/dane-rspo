@@ -1,1 +1,129 @@
-{"type":"FeatureCollection","features":[{"id":72899,"type":"Feature","geometry":{"type":"Point","coordinates":[15.1244,51.2257729]},"properties":{"isced:level":"1;2","ref:rspo":72899,"official_name":"Szko\u0142a Podstawowa im. Jana Brzechwy w D\u0142u\u017cynie Dolnej","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"59-930","addr:place":"D\u0142u\u017cyna Dolna","addr:housenumber":"66A","addr:teryt:sym_ul":191900,"contact:phone":"+48 757718425","contact:email":"sekretariat@spdluzyna.szkolnastrona.pl","contact:website":"http:\/\/www.spdluzyna.szkolnastrona.pl","ref:regon":"001179900","ref:vatin":"PL6151510245","operator":"Gmina Pie\u0144sk","operator:type":"government","amenity":"school"}},{"id":104927,"type":"Feature","geometry":{"type":"Point","coordinates":[15.0529,51.24679]},"properties":{"ref:rspo":104927,"official_name":"Przedszkole Publiczne Nr 1 w Pie\u0144sku","name":"Przedszkole Publiczne Nr 1 w Pie\u0144sku","addr:country":"PL","addr:postcode":"59-930","addr:city":"Pie\u0144sk","addr:street":"ul. Boles\u0142awiecka","addr:housenumber":"49","addr:teryt:simc":1761,"addr:teryt:sym_ul":936351,"contact:phone":"+48 757786463","contact:email":"sekretariat@przedszkole-piensk.pl","contact:website":"http:\/\/www.przedszkole-piensk.pl","ref:regon":"230377198","ref:vatin":"PL6151766832","operator":"Gmina Pie\u0144sk","operator:type":"government","amenity":"kindergarten"}},{"id":262436,"type":"Feature","geometry":{"type":"Point","coordinates":[15.04201,51.24895]},"properties":{"isced:level":"1;2","ref:rspo":262436,"official_name":"Szko\u0142a Podstawowa Nr 2 w Pie\u0144sku im. O. Micha\u0142a Tomaszka","name":"Szko\u0142a Podstawowa Nr 2 w Pie\u0144sku","addr:country":"PL","addr:postcode":"59-930","addr:city":"Pie\u0144sk","addr:street":"ul. Zgorzelecka","addr:housenumber":"29","addr:teryt:simc":26030,"addr:teryt:sym_ul":936351,"contact:phone":"+48 757786522","contact:email":"sekretariat@sp2piensk.pl","contact:website":"http:\/\/sp2piensk.pl","ref:regon":"368010520","operator":"Gmina Pie\u0144sk","operator:type":"government","amenity":"school"}},{"id":72787,"type":"Feature","geometry":{"type":"Point","coordinates":[15.04541,51.25198]},"properties":{"isced:level":"1;2","ref:rspo":72787,"official_name":"Szko\u0142a Podstawowa Nr 1\nIm. Polskich \u017bo\u0142nierzy Wrze\u015bnia 1939 R.","name":"Szko\u0142a Podstawowa Nr 1\nIm. Polskich \u017bo\u0142nierzy Wrze\u015bnia 1939 R.","addr:country":"PL","addr:postcode":"59-930","addr:city":"Pie\u0144sk","addr:street":"ul. Szkolna","addr:housenumber":"1","addr:teryt:simc":21970,"addr:teryt:sym_ul":936351,"contact:phone":"+48 757786510","contact:email":"sekretariat@sp1piensk.edu.pl","contact:website":"http:\/\/sp1piensk.edu.pl","ref:regon":"001179194","ref:vatin":"PL6151510216","operator":"Gmina Pie\u0144sk","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 72899,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.1244,
+                    51.2257729
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 72899,
+                "official_name": "Szko\u0142a Podstawowa im. Jana Brzechwy w D\u0142u\u017cynie Dolnej",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "59-930",
+                "addr:place": "D\u0142u\u017cyna Dolna",
+                "addr:housenumber": "66A",
+                "addr:teryt:sym_ul": 191900,
+                "contact:phone": "+48 757718425",
+                "contact:email": "sekretariat@spdluzyna.szkolnastrona.pl",
+                "contact:website": "http:\/\/www.spdluzyna.szkolnastrona.pl",
+                "ref:regon": "001179900",
+                "ref:vatin": "PL6151510245",
+                "operator": "Gmina Pie\u0144sk",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 104927,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.0529,
+                    51.24679
+                ]
+            },
+            "properties": {
+                "ref:rspo": 104927,
+                "official_name": "Przedszkole Publiczne Nr 1 w Pie\u0144sku",
+                "name": "Przedszkole Publiczne Nr 1 w Pie\u0144sku",
+                "addr:country": "PL",
+                "addr:postcode": "59-930",
+                "addr:city": "Pie\u0144sk",
+                "addr:street": "ul. Boles\u0142awiecka",
+                "addr:housenumber": "49",
+                "addr:teryt:simc": 1761,
+                "addr:teryt:sym_ul": 936351,
+                "contact:phone": "+48 757786463",
+                "contact:email": "sekretariat@przedszkole-piensk.pl",
+                "contact:website": "http:\/\/www.przedszkole-piensk.pl",
+                "ref:regon": "230377198",
+                "ref:vatin": "PL6151766832",
+                "operator": "Gmina Pie\u0144sk",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 262436,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.04201,
+                    51.24895
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 262436,
+                "official_name": "Szko\u0142a Podstawowa Nr 2 w Pie\u0144sku im. O. Micha\u0142a Tomaszka",
+                "name": "Szko\u0142a Podstawowa Nr 2 w Pie\u0144sku",
+                "addr:country": "PL",
+                "addr:postcode": "59-930",
+                "addr:city": "Pie\u0144sk",
+                "addr:street": "ul. Zgorzelecka",
+                "addr:housenumber": "29",
+                "addr:teryt:simc": 26030,
+                "addr:teryt:sym_ul": 936351,
+                "contact:phone": "+48 757786522",
+                "contact:email": "sekretariat@sp2piensk.pl",
+                "contact:website": "http:\/\/sp2piensk.pl",
+                "ref:regon": "368010520",
+                "operator": "Gmina Pie\u0144sk",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 72787,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.04541,
+                    51.25198
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 72787,
+                "official_name": "Szko\u0142a Podstawowa Nr 1\nIm. Polskich \u017bo\u0142nierzy Wrze\u015bnia 1939 R.",
+                "name": "Szko\u0142a Podstawowa Nr 1\nIm. Polskich \u017bo\u0142nierzy Wrze\u015bnia 1939 R.",
+                "addr:country": "PL",
+                "addr:postcode": "59-930",
+                "addr:city": "Pie\u0144sk",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 936351,
+                "contact:phone": "+48 757786510",
+                "contact:email": "sekretariat@sp1piensk.edu.pl",
+                "contact:website": "http:\/\/sp1piensk.edu.pl",
+                "ref:regon": "001179194",
+                "ref:vatin": "PL6151510216",
+                "operator": "Gmina Pie\u0144sk",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

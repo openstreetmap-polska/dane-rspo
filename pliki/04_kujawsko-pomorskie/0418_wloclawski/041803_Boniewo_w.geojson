@@ -1,1 +1,159 @@
-{"type":"FeatureCollection","features":[{"id":8021,"type":"Feature","geometry":{"type":"Point","coordinates":[18.8802,52.4658]},"properties":{"ref:rspo":8021,"official_name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 w Boniewie","name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 w Boniewie","addr:country":"PL","addr:postcode":"87-851","addr:city":"Boniewo","addr:street":"ul. Szkolna","addr:housenumber":"32","addr:teryt:simc":21970,"addr:teryt:sym_ul":858697,"contact:phone":"+48 542840125","contact:email":"sp.boniewo@interia.pl","contact:website":"http:\/\/zsboniewo.pl","ref:regon":"341321869","operator":"Gmina Boniewo","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 9415;9436"}},{"id":106642,"type":"Feature","geometry":{"type":"Point","coordinates":[18.8802,52.46577]},"properties":{"isced:level":"3","ref:rspo":106642,"official_name":"Liceum Og\u00f3lnokszta\u0142c\u0105ce dla Doros\u0142ych w Boniewie","name":"Liceum Og\u00f3lnokszta\u0142c\u0105ce dla Doros\u0142ych w Boniewie","addr:country":"PL","addr:postcode":"87-851","addr:city":"Boniewo","addr:street":"ul. Szkolna","addr:housenumber":"32","addr:teryt:simc":21970,"addr:teryt:sym_ul":858697,"contact:phone":"+48 542840125","contact:email":"sce@sce.az.pl","contact:website":"http:\/\/www.sce.az.pl","ref:regon":"341383089","operator":"Dane Do Uzupe\u0142nienia","operator:type":"private","amenity":"school"}},{"id":9415,"type":"Feature","geometry":{"type":"Point","coordinates":[18.8802,52.465740000000004]},"properties":{"isced:level":"1;2","ref:rspo":9415,"official_name":"Publiczna Szko\u0142a Podstawowa w Boniewie","name":"Publiczna Szko\u0142a Podstawowa w Boniewie","addr:country":"PL","addr:postcode":"87-851","addr:city":"Boniewo","addr:street":"ul. Szkolna","addr:housenumber":"32","addr:teryt:simc":21970,"addr:teryt:sym_ul":858697,"contact:phone":"+48 542840125","contact:email":"sp.boniewo@interia.pl","contact:website":"http:\/\/www.zsboniewo.pl","ref:regon":"001087374","operator":"Gmina Boniewo","operator:type":"government","amenity":"school","note":"Parent RSPO: 8021"}},{"id":9436,"type":"Feature","geometry":{"type":"Point","coordinates":[18.8802,52.46571]},"properties":{"ref:rspo":9436,"official_name":"Publiczne Przedszkole w Boniewie","name":"Publiczne Przedszkole w Boniewie","addr:country":"PL","addr:postcode":"87-851","addr:city":"Boniewo","addr:street":"ul. Szkolna","addr:housenumber":"32","addr:teryt:simc":21970,"addr:teryt:sym_ul":858697,"contact:phone":"+48 542840125","contact:email":"sp.boniewo@interia.pl","ref:regon":"341195471","operator":"Gmina Boniewo","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 8021"}},{"id":118887,"type":"Feature","geometry":{"type":"Point","coordinates":[18.93342,52.50447]},"properties":{"ref:rspo":118887,"official_name":"Plac\u00f3wka Kszta\u0142cenia Ustawicznego Polwind","name":"Plac\u00f3wka Kszta\u0142cenia Ustawicznego Polwind","addr:country":"PL","addr:postcode":"87-890","addr:place":"Kaniewo","addr:housenumber":"41","addr:teryt:sym_ul":858757,"contact:phone":"+48 606858499","contact:email":"biuro@polwind.com.pl","contact:website":"http:\/\/www.polwind.com","ref:regon":"341468992","ref:vatin":"PL8882942345","operator":"Przedsi\u0119biorstwo Technologiczne \"Polwind\" Sp\u00f3\u0142ka Z Ograniczon\u0105 Odpowiedzialno\u015bci\u0105","operator:type":"private","fixme":"w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. amenity=training + training=*, amenity=dancing_school, amenity=language_school, amenity=music_school) albo amenity=school, amenity=college, albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education."}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 8021,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.8802,
+                    52.4658
+                ]
+            },
+            "properties": {
+                "ref:rspo": 8021,
+                "official_name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 w Boniewie",
+                "name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 w Boniewie",
+                "addr:country": "PL",
+                "addr:postcode": "87-851",
+                "addr:city": "Boniewo",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "32",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 858697,
+                "contact:phone": "+48 542840125",
+                "contact:email": "sp.boniewo@interia.pl",
+                "contact:website": "http:\/\/zsboniewo.pl",
+                "ref:regon": "341321869",
+                "operator": "Gmina Boniewo",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 9415;9436"
+            }
+        },
+        {
+            "id": 106642,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.8802,
+                    52.46577
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 106642,
+                "official_name": "Liceum Og\u00f3lnokszta\u0142c\u0105ce dla Doros\u0142ych w Boniewie",
+                "name": "Liceum Og\u00f3lnokszta\u0142c\u0105ce dla Doros\u0142ych w Boniewie",
+                "addr:country": "PL",
+                "addr:postcode": "87-851",
+                "addr:city": "Boniewo",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "32",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 858697,
+                "contact:phone": "+48 542840125",
+                "contact:email": "sce@sce.az.pl",
+                "contact:website": "http:\/\/www.sce.az.pl",
+                "ref:regon": "341383089",
+                "operator": "Dane Do Uzupe\u0142nienia",
+                "operator:type": "private",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 9415,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.8802,
+                    52.465740000000004
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 9415,
+                "official_name": "Publiczna Szko\u0142a Podstawowa w Boniewie",
+                "name": "Publiczna Szko\u0142a Podstawowa w Boniewie",
+                "addr:country": "PL",
+                "addr:postcode": "87-851",
+                "addr:city": "Boniewo",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "32",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 858697,
+                "contact:phone": "+48 542840125",
+                "contact:email": "sp.boniewo@interia.pl",
+                "contact:website": "http:\/\/www.zsboniewo.pl",
+                "ref:regon": "001087374",
+                "operator": "Gmina Boniewo",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 8021"
+            }
+        },
+        {
+            "id": 9436,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.8802,
+                    52.46571
+                ]
+            },
+            "properties": {
+                "ref:rspo": 9436,
+                "official_name": "Publiczne Przedszkole w Boniewie",
+                "name": "Publiczne Przedszkole w Boniewie",
+                "addr:country": "PL",
+                "addr:postcode": "87-851",
+                "addr:city": "Boniewo",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "32",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 858697,
+                "contact:phone": "+48 542840125",
+                "contact:email": "sp.boniewo@interia.pl",
+                "ref:regon": "341195471",
+                "operator": "Gmina Boniewo",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 8021"
+            }
+        },
+        {
+            "id": 118887,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.93342,
+                    52.50447
+                ]
+            },
+            "properties": {
+                "ref:rspo": 118887,
+                "official_name": "Plac\u00f3wka Kszta\u0142cenia Ustawicznego Polwind",
+                "name": "Plac\u00f3wka Kszta\u0142cenia Ustawicznego Polwind",
+                "addr:country": "PL",
+                "addr:postcode": "87-890",
+                "addr:place": "Kaniewo",
+                "addr:housenumber": "41",
+                "addr:teryt:sym_ul": 858757,
+                "contact:phone": "+48 606858499",
+                "contact:email": "biuro@polwind.com.pl",
+                "contact:website": "http:\/\/www.polwind.com",
+                "ref:regon": "341468992",
+                "ref:vatin": "PL8882942345",
+                "operator": "Przedsi\u0119biorstwo Technologiczne \"Polwind\" Sp\u00f3\u0142ka Z Ograniczon\u0105 Odpowiedzialno\u015bci\u0105",
+                "operator:type": "private",
+                "fixme": "w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. amenity=training + training=*, amenity=dancing_school, amenity=language_school, amenity=music_school) albo amenity=school, amenity=college, albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education."
+            }
+        }
+    ]
+}

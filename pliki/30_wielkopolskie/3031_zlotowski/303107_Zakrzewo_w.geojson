@@ -1,1 +1,155 @@
-{"type":"FeatureCollection","features":[{"id":83763,"type":"Feature","geometry":{"type":"Point","coordinates":[17.1451797,53.4074394]},"properties":{"isced:level":"1;2","ref:rspo":83763,"official_name":"Publiczna Szko\u0142a Podstawowa im. Ks. Dr Boles\u0142awa Doma\u0144skiego w Zakrzewie","name":"Publiczna Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"77-424","addr:city":"Zakrzewo","addr:street":"ul. Marii Magdaleny G\u0105szczak","addr:housenumber":"29","addr:teryt:simc":5424,"addr:teryt:sym_ul":533989,"contact:phone":"+48 672667129","contact:email":"pspzakrzewo@o2.pl","ref:regon":"000563654","ref:vatin":"PL7671546379","operator":"Gmina Zakrzewo","operator:type":"government","amenity":"school"}},{"id":83762,"type":"Feature","geometry":{"type":"Point","coordinates":[17.16238,53.41072]},"properties":{"ref:rspo":83762,"official_name":"Przedszkole Publiczne im. Kr\u00f3lewny \u015anie\u017cki","name":"Przedszkole Publiczne","addr:country":"PL","addr:postcode":"77-424","addr:city":"Zakrzewo","addr:street":"ul. ks. dr. Boles\u0142awa Doma\u0144skiego","addr:housenumber":"13","addr:teryt:simc":4085,"addr:teryt:sym_ul":533989,"contact:phone":"+48 672667012","contact:email":"ppzakrzewo@wp.pl","contact:website":"http:\/\/przedszkole-zakrzewo.pl\/","ref:regon":"572040172","ref:vatin":"PL7671546333","operator":"Gmina Zakrzewo","operator:type":"government","amenity":"kindergarten"}},{"id":83761,"type":"Feature","geometry":{"type":"Point","coordinates":[17.0918199,53.44653]},"properties":{"ref:rspo":83761,"official_name":"Przedszkole Publiczne w Starej Wi\u015bniewce","name":"Przedszkole Publiczne w Starej Wi\u015bniewce","addr:country":"PL","addr:postcode":"77-411","addr:place":"Stara Wi\u015bniewka","addr:housenumber":"16","addr:teryt:sym_ul":533943,"contact:phone":"+48 672631878","ref:regon":"572040166","ref:vatin":"PL7671546356","operator":"Gmina Zakrzewo","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 267713"}},{"id":267713,"type":"Feature","geometry":{"type":"Point","coordinates":[17.09077,53.44815]},"properties":{"ref:rspo":267713,"official_name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w Starej Wi\u015bniewce","name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w Starej Wi\u015bniewce","addr:country":"PL","addr:postcode":"77-411","addr:place":"Stara Wi\u015bniewka","addr:housenumber":"51","addr:teryt:sym_ul":533943,"contact:phone":"+48 672631876","contact:email":"spwisniewka@tlen.pl","ref:regon":"380539687","operator":"Gmina Zakrzewo","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 83759;83761"}},{"id":83759,"type":"Feature","geometry":{"type":"Point","coordinates":[17.09077,53.448119999999996]},"properties":{"isced:level":"1;2","ref:rspo":83759,"official_name":"Publiczna Szko\u0142a Podstawowa im. Obro\u0144c\u00f3w Polsko\u015bci w Starej Wi\u015bneiwce","name":"Publiczna Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"77-411","addr:place":"Stara Wi\u015bniewka","addr:housenumber":"51","addr:teryt:sym_ul":533943,"contact:phone":"+48 672631876","contact:email":"spwisniewka@tlen.pl","contact:website":"http:\/\/www.spwisniewka.cba.pl\/","ref:regon":"001149135","ref:vatin":"PL7671546385","operator":"Gmina Zakrzewo","operator:type":"government","amenity":"school","note":"Parent RSPO: 267713"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 83763,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.1451797,
+                    53.4074394
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 83763,
+                "official_name": "Publiczna Szko\u0142a Podstawowa im. Ks. Dr Boles\u0142awa Doma\u0144skiego w Zakrzewie",
+                "name": "Publiczna Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "77-424",
+                "addr:city": "Zakrzewo",
+                "addr:street": "ul. Marii Magdaleny G\u0105szczak",
+                "addr:housenumber": "29",
+                "addr:teryt:simc": 5424,
+                "addr:teryt:sym_ul": 533989,
+                "contact:phone": "+48 672667129",
+                "contact:email": "pspzakrzewo@o2.pl",
+                "ref:regon": "000563654",
+                "ref:vatin": "PL7671546379",
+                "operator": "Gmina Zakrzewo",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 83762,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.16238,
+                    53.41072
+                ]
+            },
+            "properties": {
+                "ref:rspo": 83762,
+                "official_name": "Przedszkole Publiczne im. Kr\u00f3lewny \u015anie\u017cki",
+                "name": "Przedszkole Publiczne",
+                "addr:country": "PL",
+                "addr:postcode": "77-424",
+                "addr:city": "Zakrzewo",
+                "addr:street": "ul. ks. dr. Boles\u0142awa Doma\u0144skiego",
+                "addr:housenumber": "13",
+                "addr:teryt:simc": 4085,
+                "addr:teryt:sym_ul": 533989,
+                "contact:phone": "+48 672667012",
+                "contact:email": "ppzakrzewo@wp.pl",
+                "contact:website": "http:\/\/przedszkole-zakrzewo.pl\/",
+                "ref:regon": "572040172",
+                "ref:vatin": "PL7671546333",
+                "operator": "Gmina Zakrzewo",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 83761,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.0918199,
+                    53.44653
+                ]
+            },
+            "properties": {
+                "ref:rspo": 83761,
+                "official_name": "Przedszkole Publiczne w Starej Wi\u015bniewce",
+                "name": "Przedszkole Publiczne w Starej Wi\u015bniewce",
+                "addr:country": "PL",
+                "addr:postcode": "77-411",
+                "addr:place": "Stara Wi\u015bniewka",
+                "addr:housenumber": "16",
+                "addr:teryt:sym_ul": 533943,
+                "contact:phone": "+48 672631878",
+                "ref:regon": "572040166",
+                "ref:vatin": "PL7671546356",
+                "operator": "Gmina Zakrzewo",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 267713"
+            }
+        },
+        {
+            "id": 267713,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.09077,
+                    53.44815
+                ]
+            },
+            "properties": {
+                "ref:rspo": 267713,
+                "official_name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w Starej Wi\u015bniewce",
+                "name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w Starej Wi\u015bniewce",
+                "addr:country": "PL",
+                "addr:postcode": "77-411",
+                "addr:place": "Stara Wi\u015bniewka",
+                "addr:housenumber": "51",
+                "addr:teryt:sym_ul": 533943,
+                "contact:phone": "+48 672631876",
+                "contact:email": "spwisniewka@tlen.pl",
+                "ref:regon": "380539687",
+                "operator": "Gmina Zakrzewo",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 83759;83761"
+            }
+        },
+        {
+            "id": 83759,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.09077,
+                    53.448119999999996
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 83759,
+                "official_name": "Publiczna Szko\u0142a Podstawowa im. Obro\u0144c\u00f3w Polsko\u015bci w Starej Wi\u015bneiwce",
+                "name": "Publiczna Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "77-411",
+                "addr:place": "Stara Wi\u015bniewka",
+                "addr:housenumber": "51",
+                "addr:teryt:sym_ul": 533943,
+                "contact:phone": "+48 672631876",
+                "contact:email": "spwisniewka@tlen.pl",
+                "contact:website": "http:\/\/www.spwisniewka.cba.pl\/",
+                "ref:regon": "001149135",
+                "ref:vatin": "PL7671546385",
+                "operator": "Gmina Zakrzewo",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 267713"
+            }
+        }
+    ]
+}

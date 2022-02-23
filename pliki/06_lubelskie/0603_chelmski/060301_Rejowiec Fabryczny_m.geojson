@@ -1,1 +1,101 @@
-{"type":"FeatureCollection","features":[{"id":103340,"type":"Feature","geometry":{"type":"Point","coordinates":[23.24409,51.12157]},"properties":{"isced:level":"1;2","ref:rspo":103340,"official_name":"Szko\u0142a Podstawowa Im Miko\u0142aja Reja w Rejowcu Fabrycznym","name":"Szko\u0142a Podstawowa Im Miko\u0142aja Reja w Rejowcu Fabrycznym","addr:country":"PL","addr:postcode":"22-170","addr:city":"Rejowiec Fabryczny","addr:street":"ul. Lubelska","addr:housenumber":"18","addr:teryt:simc":11307,"addr:teryt:sym_ul":930176,"contact:phone":"+48 825664119","contact:email":"sprejowiecfabr@poczta.onet.pl","contact:website":"http:\/\/www.sprejfabr.rejowiec.pl\/","ref:regon":"000561649","ref:vatin":"PL5632224162","operator":"Miasto Rejowiec Fabryczny","operator:type":"government","amenity":"school"}},{"id":19490,"type":"Feature","geometry":{"type":"Point","coordinates":[23.24258,51.1220799]},"properties":{"ref:rspo":19490,"official_name":"Poradnia Psychologiczno-Pedagogiczna w Rejowcu Fabrycznym","name":"Poradnia Psychologiczno-Pedagogiczna w Rejowcu Fabrycznym","addr:country":"PL","addr:postcode":"22-170","addr:city":"Rejowiec Fabryczny","addr:street":"ul. Lubelska","addr:housenumber":"24","addr:door":"b","addr:teryt:simc":11307,"addr:teryt:sym_ul":930176,"contact:phone":"+48 825663000","contact:email":"poradnia.rejowiec@wp.pl","ref:regon":"110099252","ref:vatin":"PL5641380111","operator":"Powiat Che\u0142mski","operator:type":"government","healthcare":"councelling","counselling_type":"education","fixme":"w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. healthcare=councelling + counselling_type=education albo healthcare=psychotherapist)"}},{"id":84625,"type":"Feature","geometry":{"type":"Point","coordinates":[23.24258,51.1220499]},"properties":{"ref:rspo":84625,"official_name":"Przedszkole Miejskie w Rejowcu Fabrycznym","name":"Przedszkole Miejskie w Rejowcu Fabrycznym","addr:country":"PL","addr:postcode":"22-170","addr:city":"Rejowiec Fabryczny","addr:street":"ul. Lubelska","addr:housenumber":"24","addr:teryt:simc":11307,"addr:teryt:sym_ul":930176,"contact:phone":"+48 825664043","contact:email":"przedszkole.rejowiec@op.pl","contact:website":"http:\/\/przedszkole.rejowiec.pl","ref:regon":"110601562","ref:vatin":"PL5641430493","operator":"Miasto Rejowiec Fabryczny","operator:type":"government","amenity":"kindergarten"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 103340,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.24409,
+                    51.12157
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 103340,
+                "official_name": "Szko\u0142a Podstawowa Im Miko\u0142aja Reja w Rejowcu Fabrycznym",
+                "name": "Szko\u0142a Podstawowa Im Miko\u0142aja Reja w Rejowcu Fabrycznym",
+                "addr:country": "PL",
+                "addr:postcode": "22-170",
+                "addr:city": "Rejowiec Fabryczny",
+                "addr:street": "ul. Lubelska",
+                "addr:housenumber": "18",
+                "addr:teryt:simc": 11307,
+                "addr:teryt:sym_ul": 930176,
+                "contact:phone": "+48 825664119",
+                "contact:email": "sprejowiecfabr@poczta.onet.pl",
+                "contact:website": "http:\/\/www.sprejfabr.rejowiec.pl\/",
+                "ref:regon": "000561649",
+                "ref:vatin": "PL5632224162",
+                "operator": "Miasto Rejowiec Fabryczny",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 19490,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.24258,
+                    51.1220799
+                ]
+            },
+            "properties": {
+                "ref:rspo": 19490,
+                "official_name": "Poradnia Psychologiczno-Pedagogiczna w Rejowcu Fabrycznym",
+                "name": "Poradnia Psychologiczno-Pedagogiczna w Rejowcu Fabrycznym",
+                "addr:country": "PL",
+                "addr:postcode": "22-170",
+                "addr:city": "Rejowiec Fabryczny",
+                "addr:street": "ul. Lubelska",
+                "addr:housenumber": "24",
+                "addr:door": "b",
+                "addr:teryt:simc": 11307,
+                "addr:teryt:sym_ul": 930176,
+                "contact:phone": "+48 825663000",
+                "contact:email": "poradnia.rejowiec@wp.pl",
+                "ref:regon": "110099252",
+                "ref:vatin": "PL5641380111",
+                "operator": "Powiat Che\u0142mski",
+                "operator:type": "government",
+                "healthcare": "counselling",
+                "counselling_type": "education",
+                "fixme": "w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. healthcare=counselling + counselling_type=education albo healthcare=psychotherapist)"
+            }
+        },
+        {
+            "id": 84625,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.24258,
+                    51.1220499
+                ]
+            },
+            "properties": {
+                "ref:rspo": 84625,
+                "official_name": "Przedszkole Miejskie w Rejowcu Fabrycznym",
+                "name": "Przedszkole Miejskie w Rejowcu Fabrycznym",
+                "addr:country": "PL",
+                "addr:postcode": "22-170",
+                "addr:city": "Rejowiec Fabryczny",
+                "addr:street": "ul. Lubelska",
+                "addr:housenumber": "24",
+                "addr:teryt:simc": 11307,
+                "addr:teryt:sym_ul": 930176,
+                "contact:phone": "+48 825664043",
+                "contact:email": "przedszkole.rejowiec@op.pl",
+                "contact:website": "http:\/\/przedszkole.rejowiec.pl",
+                "ref:regon": "110601562",
+                "ref:vatin": "PL5641430493",
+                "operator": "Miasto Rejowiec Fabryczny",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        }
+    ]
+}

@@ -1,1 +1,156 @@
-{"type":"FeatureCollection","features":[{"id":75327,"type":"Feature","geometry":{"type":"Point","coordinates":[21.39355,54.16171]},"properties":{"isced:level":"1;2","ref:rspo":75327,"official_name":"Szko\u0142a Podstwowa w Windzie","name":"Szko\u0142a Podstwowa w Windzie","addr:country":"PL","addr:postcode":"11-410","addr:place":"Winda","addr:housenumber":"6","addr:teryt:sym_ul":469694,"contact:phone":"+48 897531323","contact:email":"winda6@wp.pl","contact:website":"http:\/\/spwinda.edupage.org\/","ref:regon":"001123874","ref:vatin":"PL7422258167","operator":"Gmina Barciany","operator:type":"government","amenity":"school"}},{"id":75326,"type":"Feature","geometry":{"type":"Point","coordinates":[21.22249,54.21634]},"properties":{"isced:level":"1;2","ref:rspo":75326,"official_name":"Szko\u0142a Podstawowa w Drogoszach","name":"Szko\u0142a Podstawowa w Drogoszach","addr:country":"PL","addr:postcode":"11-410","addr:place":"Drogosze","addr:housenumber":"40","addr:teryt:sym_ul":469062,"contact:phone":"+48 897532555","contact:email":"spdrogosze@wp.pl","contact:website":"http:\/\/zsdrogosze.edupage.org\/","ref:regon":"001123845","ref:vatin":"PL7422258032","operator":"Gmina Barciany","operator:type":"government","amenity":"school"}},{"id":71222,"type":"Feature","geometry":{"type":"Point","coordinates":[21.19303,54.28982]},"properties":{"isced:level":"1;2","ref:rspo":71222,"official_name":"Szko\u0142a Podstawowa w Barcianach im. Stra\u017cy Granicznej w Barcianach","name":"Szko\u0142a Podstawowa w Barcianach","addr:country":"PL","addr:postcode":"11-410","addr:city":"Barciany","addr:street":"ul. Nowa","addr:housenumber":"1A","addr:teryt:simc":14330,"addr:teryt:sym_ul":468996,"contact:phone":"+48 897531059","contact:email":"gimbar@wp.pl","contact:website":"http:\/\/szkolabarciany.edupage.org\/","ref:regon":"000654210","ref:vatin":"PL7422258049","operator":"Gmina Barciany","operator:type":"government","amenity":"school"}},{"id":128385,"type":"Feature","geometry":{"type":"Point","coordinates":[21.19303,54.289789999999996]},"properties":{"ref:rspo":128385,"official_name":"Publiczne Przedszkole Samorz\u0105dowe w Barcianach Wraz Z Oddzia\u0142ami Zamiejscowymi w Drogoszach, Windzie I Mo\u0142tajnach","name":"Publiczne Przedszkole Samorz\u0105dowe w Barcianach Wraz Z Oddzia\u0142ami Zamiejscowymi w Drogoszach, Windzie I Mo\u0142tajnach","addr:country":"PL","addr:postcode":"11-410","addr:city":"Barciany","addr:street":"ul. Nowa","addr:housenumber":"1A","addr:teryt:simc":14330,"addr:teryt:sym_ul":468996,"contact:phone":"+48 897531059","contact:email":"przedszkolebarciany@wp.pl","ref:regon":"362264307","operator":"Gmina Barciany","operator:type":"government","amenity":"kindergarten"}},{"id":75325,"type":"Feature","geometry":{"type":"Point","coordinates":[21.35584,54.29448]},"properties":{"isced:level":"1;2","ref:rspo":75325,"official_name":"Szko\u0142a Podstawowa im. Jana Paw\u0142a II w Mo\u0142tajnach","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"11-410","addr:place":"Mo\u0142tajny","addr:housenumber":"1","addr:teryt:sym_ul":469369,"contact:phone":"+48 897532007","contact:email":"spmoltajny@wp.pl","contact:website":"http:\/\/www.spmoltajny.szkolna.net","ref:regon":"001123851","ref:vatin":"PL7422257989","operator":"Gmina Barciany","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 75327,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.39355,
+                    54.16171
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 75327,
+                "official_name": "Szko\u0142a Podstwowa w Windzie",
+                "name": "Szko\u0142a Podstwowa w Windzie",
+                "addr:country": "PL",
+                "addr:postcode": "11-410",
+                "addr:place": "Winda",
+                "addr:housenumber": "6",
+                "addr:teryt:sym_ul": 469694,
+                "contact:phone": "+48 897531323",
+                "contact:email": "winda6@wp.pl",
+                "contact:website": "http:\/\/spwinda.edupage.org\/",
+                "ref:regon": "001123874",
+                "ref:vatin": "PL7422258167",
+                "operator": "Gmina Barciany",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 75326,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.22249,
+                    54.21634
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 75326,
+                "official_name": "Szko\u0142a Podstawowa w Drogoszach",
+                "name": "Szko\u0142a Podstawowa w Drogoszach",
+                "addr:country": "PL",
+                "addr:postcode": "11-410",
+                "addr:place": "Drogosze",
+                "addr:housenumber": "40",
+                "addr:teryt:sym_ul": 469062,
+                "contact:phone": "+48 897532555",
+                "contact:email": "spdrogosze@wp.pl",
+                "contact:website": "http:\/\/zsdrogosze.edupage.org\/",
+                "ref:regon": "001123845",
+                "ref:vatin": "PL7422258032",
+                "operator": "Gmina Barciany",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 71222,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.19303,
+                    54.28982
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 71222,
+                "official_name": "Szko\u0142a Podstawowa w Barcianach im. Stra\u017cy Granicznej w Barcianach",
+                "name": "Szko\u0142a Podstawowa w Barcianach",
+                "addr:country": "PL",
+                "addr:postcode": "11-410",
+                "addr:city": "Barciany",
+                "addr:street": "ul. Nowa",
+                "addr:housenumber": "1A",
+                "addr:teryt:simc": 14330,
+                "addr:teryt:sym_ul": 468996,
+                "contact:phone": "+48 897531059",
+                "contact:email": "gimbar@wp.pl",
+                "contact:website": "http:\/\/szkolabarciany.edupage.org\/",
+                "ref:regon": "000654210",
+                "ref:vatin": "PL7422258049",
+                "operator": "Gmina Barciany",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 128385,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.19303,
+                    54.289789999999996
+                ]
+            },
+            "properties": {
+                "ref:rspo": 128385,
+                "official_name": "Publiczne Przedszkole Samorz\u0105dowe w Barcianach Wraz Z Oddzia\u0142ami Zamiejscowymi w Drogoszach, Windzie I Mo\u0142tajnach",
+                "name": "Publiczne Przedszkole Samorz\u0105dowe w Barcianach Wraz Z Oddzia\u0142ami Zamiejscowymi w Drogoszach, Windzie I Mo\u0142tajnach",
+                "addr:country": "PL",
+                "addr:postcode": "11-410",
+                "addr:city": "Barciany",
+                "addr:street": "ul. Nowa",
+                "addr:housenumber": "1A",
+                "addr:teryt:simc": 14330,
+                "addr:teryt:sym_ul": 468996,
+                "contact:phone": "+48 897531059",
+                "contact:email": "przedszkolebarciany@wp.pl",
+                "ref:regon": "362264307",
+                "operator": "Gmina Barciany",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 75325,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.35584,
+                    54.29448
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 75325,
+                "official_name": "Szko\u0142a Podstawowa im. Jana Paw\u0142a II w Mo\u0142tajnach",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "11-410",
+                "addr:place": "Mo\u0142tajny",
+                "addr:housenumber": "1",
+                "addr:teryt:sym_ul": 469369,
+                "contact:phone": "+48 897532007",
+                "contact:email": "spmoltajny@wp.pl",
+                "contact:website": "http:\/\/www.spmoltajny.szkolna.net",
+                "ref:regon": "001123851",
+                "ref:vatin": "PL7422257989",
+                "operator": "Gmina Barciany",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

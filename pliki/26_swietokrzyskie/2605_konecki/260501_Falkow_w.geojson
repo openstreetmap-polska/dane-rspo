@@ -1,1 +1,155 @@
-{"type":"FeatureCollection","features":[{"id":11433,"type":"Feature","geometry":{"type":"Point","coordinates":[20.02341,51.10808]},"properties":{"isced:level":"1;2","ref:rspo":11433,"official_name":"Publiczna Szko\u0142a Podstawowa im. Henryka Sienkiewicza w Czermnie","name":"Publiczna Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"26-260","addr:city":"Czermno","addr:street":"ul. Ko\u015bcielna","addr:housenumber":"86","addr:teryt:simc":9546,"addr:teryt:sym_ul":539012,"contact:phone":"+48 447873424","contact:email":"pspczermno@poczta.onet.pl","ref:regon":"001139970","ref:vatin":"PL6581807048","operator":"Gmina Fa\u0142k\u00f3w","operator:type":"government","amenity":"school"}},{"id":90504,"type":"Feature","geometry":{"type":"Point","coordinates":[20.02406,51.10809]},"properties":{"ref:rspo":90504,"official_name":"Punkt Przedszkolny Nr 3 w Czermnie","name":"Punkt Przedszkolny Nr 3 w Czermnie","addr:country":"PL","addr:postcode":"26-260","addr:city":"Czermno","addr:street":"ul. Ko\u015bcielna","addr:housenumber":"78","addr:teryt:simc":9546,"addr:teryt:sym_ul":539012,"contact:phone":"+48 447873424","contact:email":"gmina.falkow@wp.pl","ref:regon":"260651256","operator":"Gmina Fa\u0142k\u00f3w","operator:type":"government","amenity":"kindergarten"}},{"id":11471,"type":"Feature","geometry":{"type":"Point","coordinates":[20.10819,51.1323999]},"properties":{"isced:level":"1;2","ref:rspo":11471,"official_name":"Publiczna Szko\u0142a Podstawowa im. Stefana \u017beromskiego w Fa\u0142kowie","name":"Publiczna Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"26-260","addr:city":"Fa\u0142k\u00f3w","addr:street":"ul. Glinianki","addr:housenumber":"47","addr:teryt:simc":5562,"addr:teryt:sym_ul":539041,"contact:phone":"+48 447873508","contact:email":"pspfalkow@gmail.com","contact:website":"http:\/\/www.pspfalkow.pl","ref:regon":"000556358","ref:vatin":"PL7681370166","operator":"Gmina Fa\u0142k\u00f3w","operator:type":"government","amenity":"school"}},{"id":90502,"type":"Feature","geometry":{"type":"Point","coordinates":[20.10819,51.1323699]},"properties":{"ref:rspo":90502,"official_name":"Punkt Przedszkolny Nr 1 w Fa\u0142kowie","name":"Punkt Przedszkolny Nr 1 w Fa\u0142kowie","addr:country":"PL","addr:postcode":"26-260","addr:city":"Fa\u0142k\u00f3w","addr:street":"ul. Glinianki","addr:housenumber":"47","addr:teryt:simc":5562,"addr:teryt:sym_ul":539041,"contact:phone":"+48 447873508","contact:email":"gmina.falkow@wp.pl","ref:regon":"260651233","operator":"Gmina Fa\u0142k\u00f3w","operator:type":"government","amenity":"kindergarten"}},{"id":129192,"type":"Feature","geometry":{"type":"Point","coordinates":[20.10494,51.13501]},"properties":{"ref:rspo":129192,"official_name":"Punkt Przedszkolny Nr 2 w Fa\u0142kowie","name":"Punkt Przedszkolny Nr 2 w Fa\u0142kowie","addr:country":"PL","addr:postcode":"26-260","addr:city":"Fa\u0142k\u00f3w","addr:street":"ul. Spacerowa","addr:housenumber":"2","addr:teryt:simc":20641,"addr:teryt:sym_ul":539041,"contact:phone":"+48 447873535","contact:email":"gmina.falkow@wp.pl","ref:regon":"260651240","operator":"Gmina Fa\u0142k\u00f3w","operator:type":"government","amenity":"kindergarten"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 11433,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.02341,
+                    51.10808
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 11433,
+                "official_name": "Publiczna Szko\u0142a Podstawowa im. Henryka Sienkiewicza w Czermnie",
+                "name": "Publiczna Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "26-260",
+                "addr:city": "Czermno",
+                "addr:street": "ul. Ko\u015bcielna",
+                "addr:housenumber": "86",
+                "addr:teryt:simc": 9546,
+                "addr:teryt:sym_ul": 539012,
+                "contact:phone": "+48 447873424",
+                "contact:email": "pspczermno@poczta.onet.pl",
+                "ref:regon": "001139970",
+                "ref:vatin": "PL6581807048",
+                "operator": "Gmina Fa\u0142k\u00f3w",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 90504,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.02406,
+                    51.10809
+                ]
+            },
+            "properties": {
+                "ref:rspo": 90504,
+                "official_name": "Punkt Przedszkolny Nr 3 w Czermnie",
+                "name": "Punkt Przedszkolny Nr 3 w Czermnie",
+                "addr:country": "PL",
+                "addr:postcode": "26-260",
+                "addr:city": "Czermno",
+                "addr:street": "ul. Ko\u015bcielna",
+                "addr:housenumber": "78",
+                "addr:teryt:simc": 9546,
+                "addr:teryt:sym_ul": 539012,
+                "contact:phone": "+48 447873424",
+                "contact:email": "gmina.falkow@wp.pl",
+                "ref:regon": "260651256",
+                "operator": "Gmina Fa\u0142k\u00f3w",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 11471,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.10819,
+                    51.1323999
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 11471,
+                "official_name": "Publiczna Szko\u0142a Podstawowa im. Stefana \u017beromskiego w Fa\u0142kowie",
+                "name": "Publiczna Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "26-260",
+                "addr:city": "Fa\u0142k\u00f3w",
+                "addr:street": "ul. Glinianki",
+                "addr:housenumber": "47",
+                "addr:teryt:simc": 5562,
+                "addr:teryt:sym_ul": 539041,
+                "contact:phone": "+48 447873508",
+                "contact:email": "pspfalkow@gmail.com",
+                "contact:website": "http:\/\/www.pspfalkow.pl",
+                "ref:regon": "000556358",
+                "ref:vatin": "PL7681370166",
+                "operator": "Gmina Fa\u0142k\u00f3w",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 90502,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.10819,
+                    51.1323699
+                ]
+            },
+            "properties": {
+                "ref:rspo": 90502,
+                "official_name": "Punkt Przedszkolny Nr 1 w Fa\u0142kowie",
+                "name": "Punkt Przedszkolny Nr 1 w Fa\u0142kowie",
+                "addr:country": "PL",
+                "addr:postcode": "26-260",
+                "addr:city": "Fa\u0142k\u00f3w",
+                "addr:street": "ul. Glinianki",
+                "addr:housenumber": "47",
+                "addr:teryt:simc": 5562,
+                "addr:teryt:sym_ul": 539041,
+                "contact:phone": "+48 447873508",
+                "contact:email": "gmina.falkow@wp.pl",
+                "ref:regon": "260651233",
+                "operator": "Gmina Fa\u0142k\u00f3w",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 129192,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.10494,
+                    51.13501
+                ]
+            },
+            "properties": {
+                "ref:rspo": 129192,
+                "official_name": "Punkt Przedszkolny Nr 2 w Fa\u0142kowie",
+                "name": "Punkt Przedszkolny Nr 2 w Fa\u0142kowie",
+                "addr:country": "PL",
+                "addr:postcode": "26-260",
+                "addr:city": "Fa\u0142k\u00f3w",
+                "addr:street": "ul. Spacerowa",
+                "addr:housenumber": "2",
+                "addr:teryt:simc": 20641,
+                "addr:teryt:sym_ul": 539041,
+                "contact:phone": "+48 447873535",
+                "contact:email": "gmina.falkow@wp.pl",
+                "ref:regon": "260651240",
+                "operator": "Gmina Fa\u0142k\u00f3w",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        }
+    ]
+}

@@ -1,1 +1,96 @@
-{"type":"FeatureCollection","features":[{"id":15421,"type":"Feature","geometry":{"type":"Point","coordinates":[23.0058956,52.6062479]},"properties":{"isced:level":"1;2","ref:rspo":15421,"official_name":"Szko\u0142a Podstawowa w Andryjankach","name":"Szko\u0142a Podstawowa w Andryjankach","addr:country":"PL","addr:postcode":"17-111","addr:place":"Andryjanki","addr:housenumber":"1","addr:teryt:sym_ul":24029,"contact:phone":"+48 857314432","contact:email":"sp_andryjanki@wp.pl","contact:website":"http:\/\/www.szkola@andryjanki.edu.pl","ref:regon":"001163566","ref:vatin":"PL5431876082","operator":"Gmina Bo\u0107ki","operator:type":"government","amenity":"school"}},{"id":73766,"type":"Feature","geometry":{"type":"Point","coordinates":[23.04362,52.64971]},"properties":{"isced:level":"1;2","ref:rspo":73766,"official_name":"Szko\u0142a Podstawowa im. Jana Paw\u0142a II w Bo\u0107kach","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"17-111","addr:city":"Bo\u0107ki","addr:street":"ul. Dubie\u0144ska","addr:housenumber":"4","addr:teryt:simc":4331,"addr:teryt:sym_ul":24035,"contact:phone":"+48 857313168","contact:email":"zs_bocki@wp.pl","contact:website":"https:\/\/zsbocki.edupage.org\/","ref:regon":"000266324","operator":"Gmina Bo\u0107ki","operator:type":"government","amenity":"school"}},{"id":15422,"type":"Feature","geometry":{"type":"Point","coordinates":[23.04326,52.65015]},"properties":{"ref:rspo":15422,"official_name":"Punkt Przedszkolny Przy Szkole Podstawowej w Bo\u0107kach","name":"Punkt Przedszkolny Przy Szkole Podstawowej w Bo\u0107kach","addr:country":"PL","addr:postcode":"17-111","addr:city":"Bo\u0107ki","addr:street":"ul. Plac Armii Krajowej","addr:housenumber":"5","addr:teryt:simc":53652,"addr:teryt:sym_ul":24035,"contact:phone":"+48 857313142","contact:email":"zs_bocki@wp.pl","contact:website":"http:\/\/www.zsbocki.edupage.org","ref:regon":"200727836","operator":"Gmina Bo\u0107ki","operator:type":"government","amenity":"kindergarten"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 15421,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.0058956,
+                    52.6062479
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 15421,
+                "official_name": "Szko\u0142a Podstawowa w Andryjankach",
+                "name": "Szko\u0142a Podstawowa w Andryjankach",
+                "addr:country": "PL",
+                "addr:postcode": "17-111",
+                "addr:place": "Andryjanki",
+                "addr:housenumber": "1",
+                "addr:teryt:sym_ul": 24029,
+                "contact:phone": "+48 857314432",
+                "contact:email": "sp_andryjanki@wp.pl",
+                "contact:website": "http:\/\/www.szkola@andryjanki.edu.pl",
+                "ref:regon": "001163566",
+                "ref:vatin": "PL5431876082",
+                "operator": "Gmina Bo\u0107ki",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 73766,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.04362,
+                    52.64971
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 73766,
+                "official_name": "Szko\u0142a Podstawowa im. Jana Paw\u0142a II w Bo\u0107kach",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "17-111",
+                "addr:city": "Bo\u0107ki",
+                "addr:street": "ul. Dubie\u0144ska",
+                "addr:housenumber": "4",
+                "addr:teryt:simc": 4331,
+                "addr:teryt:sym_ul": 24035,
+                "contact:phone": "+48 857313168",
+                "contact:email": "zs_bocki@wp.pl",
+                "contact:website": "https:\/\/zsbocki.edupage.org\/",
+                "ref:regon": "000266324",
+                "operator": "Gmina Bo\u0107ki",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 15422,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.04326,
+                    52.65015
+                ]
+            },
+            "properties": {
+                "ref:rspo": 15422,
+                "official_name": "Punkt Przedszkolny Przy Szkole Podstawowej w Bo\u0107kach",
+                "name": "Punkt Przedszkolny Przy Szkole Podstawowej w Bo\u0107kach",
+                "addr:country": "PL",
+                "addr:postcode": "17-111",
+                "addr:city": "Bo\u0107ki",
+                "addr:street": "ul. Plac Armii Krajowej",
+                "addr:housenumber": "5",
+                "addr:teryt:simc": 53652,
+                "addr:teryt:sym_ul": 24035,
+                "contact:phone": "+48 857313142",
+                "contact:email": "zs_bocki@wp.pl",
+                "contact:website": "http:\/\/www.zsbocki.edupage.org",
+                "ref:regon": "200727836",
+                "operator": "Gmina Bo\u0107ki",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        }
+    ]
+}

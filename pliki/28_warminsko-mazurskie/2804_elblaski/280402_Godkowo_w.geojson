@@ -1,1 +1,90 @@
-{"type":"FeatureCollection","features":[{"id":65215,"type":"Feature","geometry":{"type":"Point","coordinates":[19.8985929,54.083126]},"properties":{"isced:level":"1;2","ref:rspo":65215,"official_name":"Szko\u0142a Podstawowa im. Bohater\u00f3w Westerplatte w Godkowie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"14-407","addr:place":"Godkowo","addr:housenumber":"1","addr:teryt:sym_ul":150254,"contact:phone":"+48 552497233","contact:email":"spgodkowo@wp.pl","contact:website":"http:\/\/www.spgodkowo.szkolnastrona.pl","ref:regon":"000265514","ref:vatin":"PL5782796730","operator":"Gmina Godkowo","operator:type":"government","amenity":"school"}},{"id":118747,"type":"Feature","geometry":{"type":"Point","coordinates":[19.8089279,54.085215]},"properties":{"isced:level":"1;2","ref:rspo":118747,"official_name":"Publiczna Szko\u0142a Podstawowa Stowarzyszenia Przyjaci\u00f3\u0142 Szk\u00f3\u0142 Katolickich","name":"Publiczna Szko\u0142a Podstawowa Stowarzyszenia Przyjaci\u00f3\u0142 Szk\u00f3\u0142 Katolickich","addr:country":"PL","addr:postcode":"14-407","addr:place":"Bielica","addr:housenumber":"11","addr:teryt:sym_ul":150202,"contact:phone":"+48 552497605","contact:email":"spbielica@op.pl","ref:regon":"281522226","operator":"Stowarzyszenie Przyjaci\u00f3\u0142 Szk\u00f3\u0142 Katolickich","operator:type":"ngo","amenity":"school"}},{"id":124659,"type":"Feature","geometry":{"type":"Point","coordinates":[19.9389599,54.122427]},"properties":{"ref:rspo":124659,"official_name":"Punkt Przedszkolny w Dobrym","name":"Punkt Przedszkolny w Dobrym","addr:country":"PL","addr:postcode":"14-407","addr:place":"Dobry","addr:housenumber":"29","addr:teryt:sym_ul":150248,"contact:phone":"+48 552338210","contact:email":"tpd.punktyprzedszkolne@o2.pl","ref:regon":"281622324","operator":"Towarzystwo Przyjaci\u00f3\u0142 Dzieci Zarz\u0105d Oddzia\u0142u Okr\u0119gowego W Elbl\u0105gu","operator:type":"ngo","amenity":"kindergarten"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 65215,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8985929,
+                    54.083126
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 65215,
+                "official_name": "Szko\u0142a Podstawowa im. Bohater\u00f3w Westerplatte w Godkowie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "14-407",
+                "addr:place": "Godkowo",
+                "addr:housenumber": "1",
+                "addr:teryt:sym_ul": 150254,
+                "contact:phone": "+48 552497233",
+                "contact:email": "spgodkowo@wp.pl",
+                "contact:website": "http:\/\/www.spgodkowo.szkolnastrona.pl",
+                "ref:regon": "000265514",
+                "ref:vatin": "PL5782796730",
+                "operator": "Gmina Godkowo",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 118747,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8089279,
+                    54.085215
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 118747,
+                "official_name": "Publiczna Szko\u0142a Podstawowa Stowarzyszenia Przyjaci\u00f3\u0142 Szk\u00f3\u0142 Katolickich",
+                "name": "Publiczna Szko\u0142a Podstawowa Stowarzyszenia Przyjaci\u00f3\u0142 Szk\u00f3\u0142 Katolickich",
+                "addr:country": "PL",
+                "addr:postcode": "14-407",
+                "addr:place": "Bielica",
+                "addr:housenumber": "11",
+                "addr:teryt:sym_ul": 150202,
+                "contact:phone": "+48 552497605",
+                "contact:email": "spbielica@op.pl",
+                "ref:regon": "281522226",
+                "operator": "Stowarzyszenie Przyjaci\u00f3\u0142 Szk\u00f3\u0142 Katolickich",
+                "operator:type": "ngo",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 124659,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.9389599,
+                    54.122427
+                ]
+            },
+            "properties": {
+                "ref:rspo": 124659,
+                "official_name": "Punkt Przedszkolny w Dobrym",
+                "name": "Punkt Przedszkolny w Dobrym",
+                "addr:country": "PL",
+                "addr:postcode": "14-407",
+                "addr:place": "Dobry",
+                "addr:housenumber": "29",
+                "addr:teryt:sym_ul": 150248,
+                "contact:phone": "+48 552338210",
+                "contact:email": "tpd.punktyprzedszkolne@o2.pl",
+                "ref:regon": "281622324",
+                "operator": "Towarzystwo Przyjaci\u00f3\u0142 Dzieci Zarz\u0105d Oddzia\u0142u Okr\u0119gowego W Elbl\u0105gu",
+                "operator:type": "ngo",
+                "amenity": "kindergarten"
+            }
+        }
+    ]
+}

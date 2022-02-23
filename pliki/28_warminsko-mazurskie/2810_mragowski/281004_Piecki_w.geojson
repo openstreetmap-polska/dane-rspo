@@ -1,1 +1,158 @@
-{"type":"FeatureCollection","features":[{"id":272955,"type":"Feature","geometry":{"type":"Point","coordinates":[21.4299,53.68726]},"properties":{"isced:level":"1;2","ref:rspo":272955,"official_name":"Szko\u0142a Podstawowa im. Karola Wojty\u0142y w Pieckach Szko\u0142a Filialna w Krutyni","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"11-710","addr:place":"Kruty\u0144","addr:housenumber":"23","addr:teryt:sym_ul":486155,"contact:phone":"+48 897421012","contact:email":"sppiecki@tlen.pl","contact:website":"http:\/\/sppiecki.edupage.pl","ref:regon":"268642000","operator":"Gmina Piecki","operator:type":"government","amenity":"school","note":"Parent RSPO: 15221"}},{"id":75375,"type":"Feature","geometry":{"type":"Point","coordinates":[21.31924,53.71526]},"properties":{"isced:level":"1;2","ref:rspo":75375,"official_name":"Szko\u0142a Podstawowa w Nawiadach","name":"Szko\u0142a Podstawowa w Nawiadach","addr:country":"PL","addr:postcode":"11-710","addr:place":"Nawiady","addr:housenumber":"31","addr:teryt:sym_ul":486267,"contact:phone":"+48 897420055","contact:email":"spnawiady@piecki.com.pl","contact:website":"http:\/\/sp-nawiady.edupage.org","ref:regon":"001209593","ref:vatin":"PL7421921793","operator":"Gmina Piecki","operator:type":"government","amenity":"school"}},{"id":31526,"type":"Feature","geometry":{"type":"Point","coordinates":[21.340759277344,53.748920440674]},"properties":{"ref:rspo":31526,"official_name":"Samorz\u0105dowe Przedszkole \"S\u0142oneczny Zak\u0105tek\" w Pieckach","name":"Samorz\u0105dowe Przedszkole \"S\u0142oneczny Zak\u0105tek\" w Pieckach","addr:country":"PL","addr:postcode":"11-710","addr:city":"Piecki","addr:street":"os. Osiedle Lawendowe","addr:housenumber":"18","addr:teryt:simc":51600,"addr:teryt:sym_ul":486296,"contact:phone":"+48 897421034","contact:email":"przedszkolepiecki@wp.pl","ref:regon":"000268553","ref:vatin":"PL7421598808","operator":"Gmina Piecki","operator:type":"government","amenity":"kindergarten"}},{"id":15221,"type":"Feature","geometry":{"type":"Point","coordinates":[21.34062,53.75261]},"properties":{"isced:level":"1;2","ref:rspo":15221,"official_name":"Szko\u0142a Podstawowa im. Karola Wojty\u0142y w Pieckach","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"11-710","addr:city":"Piecki","addr:street":"ul. Zwyci\u0119stwa","addr:housenumber":"23","addr:teryt:simc":26326,"addr:teryt:sym_ul":486296,"contact:phone":"+48 897421012","contact:email":"sppiecki@tlen.pl","contact:website":"http:\/\/sppiecki.edupage.org","ref:regon":"000268642","ref:vatin":"PL7422248826","operator":"Gmina Piecki","operator:type":"government","amenity":"school","note":"Children RSPO: 272954;272955"}},{"id":272954,"type":"Feature","geometry":{"type":"Point","coordinates":[21.2377,53.76421]},"properties":{"isced:level":"1;2","ref:rspo":272954,"official_name":"Szko\u0142a Podstawowa im. Karola Wojty\u0142y w Pieckach Szko\u0142a Filialna w D\u0142u\u017ccu","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"11-710","addr:place":"D\u0142u\u017cec","addr:housenumber":"17","addr:teryt:sym_ul":486014,"contact:phone":"+48 897421012","contact:email":"sppiecki@tlen.pl","contact:website":"http:\/\/sppiecki.edupage.org","ref:regon":"268642000","operator":"Gmina Piecki","operator:type":"government","amenity":"school","note":"Parent RSPO: 15221"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 272955,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.4299,
+                    53.68726
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 272955,
+                "official_name": "Szko\u0142a Podstawowa im. Karola Wojty\u0142y w Pieckach Szko\u0142a Filialna w Krutyni",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "11-710",
+                "addr:place": "Kruty\u0144",
+                "addr:housenumber": "23",
+                "addr:teryt:sym_ul": 486155,
+                "contact:phone": "+48 897421012",
+                "contact:email": "sppiecki@tlen.pl",
+                "contact:website": "http:\/\/sppiecki.edupage.pl",
+                "ref:regon": "268642000",
+                "operator": "Gmina Piecki",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 15221"
+            }
+        },
+        {
+            "id": 75375,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.31924,
+                    53.71526
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 75375,
+                "official_name": "Szko\u0142a Podstawowa w Nawiadach",
+                "name": "Szko\u0142a Podstawowa w Nawiadach",
+                "addr:country": "PL",
+                "addr:postcode": "11-710",
+                "addr:place": "Nawiady",
+                "addr:housenumber": "31",
+                "addr:teryt:sym_ul": 486267,
+                "contact:phone": "+48 897420055",
+                "contact:email": "spnawiady@piecki.com.pl",
+                "contact:website": "http:\/\/sp-nawiady.edupage.org",
+                "ref:regon": "001209593",
+                "ref:vatin": "PL7421921793",
+                "operator": "Gmina Piecki",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 31526,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.340759277344,
+                    53.748920440674
+                ]
+            },
+            "properties": {
+                "ref:rspo": 31526,
+                "official_name": "Samorz\u0105dowe Przedszkole \"S\u0142oneczny Zak\u0105tek\" w Pieckach",
+                "name": "Samorz\u0105dowe Przedszkole \"S\u0142oneczny Zak\u0105tek\" w Pieckach",
+                "addr:country": "PL",
+                "addr:postcode": "11-710",
+                "addr:city": "Piecki",
+                "addr:street": "os. Osiedle Lawendowe",
+                "addr:housenumber": "18",
+                "addr:teryt:simc": 51600,
+                "addr:teryt:sym_ul": 486296,
+                "contact:phone": "+48 897421034",
+                "contact:email": "przedszkolepiecki@wp.pl",
+                "ref:regon": "000268553",
+                "ref:vatin": "PL7421598808",
+                "operator": "Gmina Piecki",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 15221,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.34062,
+                    53.75261
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 15221,
+                "official_name": "Szko\u0142a Podstawowa im. Karola Wojty\u0142y w Pieckach",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "11-710",
+                "addr:city": "Piecki",
+                "addr:street": "ul. Zwyci\u0119stwa",
+                "addr:housenumber": "23",
+                "addr:teryt:simc": 26326,
+                "addr:teryt:sym_ul": 486296,
+                "contact:phone": "+48 897421012",
+                "contact:email": "sppiecki@tlen.pl",
+                "contact:website": "http:\/\/sppiecki.edupage.org",
+                "ref:regon": "000268642",
+                "ref:vatin": "PL7422248826",
+                "operator": "Gmina Piecki",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Children RSPO: 272954;272955"
+            }
+        },
+        {
+            "id": 272954,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.2377,
+                    53.76421
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 272954,
+                "official_name": "Szko\u0142a Podstawowa im. Karola Wojty\u0142y w Pieckach Szko\u0142a Filialna w D\u0142u\u017ccu",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "11-710",
+                "addr:place": "D\u0142u\u017cec",
+                "addr:housenumber": "17",
+                "addr:teryt:sym_ul": 486014,
+                "contact:phone": "+48 897421012",
+                "contact:email": "sppiecki@tlen.pl",
+                "contact:website": "http:\/\/sppiecki.edupage.org",
+                "ref:regon": "268642000",
+                "operator": "Gmina Piecki",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 15221"
+            }
+        }
+    ]
+}

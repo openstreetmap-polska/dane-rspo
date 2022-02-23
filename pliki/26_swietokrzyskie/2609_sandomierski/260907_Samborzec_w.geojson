@@ -1,1 +1,443 @@
-{"type":"FeatureCollection","features":[{"id":24787,"type":"Feature","geometry":{"type":"Point","coordinates":[21.64092,50.61219]},"properties":{"isced:level":"1;2","ref:rspo":24787,"official_name":"Publiczna Szko\u0142a Podstawowa im. W\u0142adys\u0142awa Reymonta w Skotnikach","name":"Publiczna Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"27-650","addr:place":"Skotniki","addr:housenumber":"64","addr:teryt:sym_ul":807056,"contact:phone":"+48 158314299","contact:email":"pspskotniki@wp.pl","contact:website":"http:\/\/pspskotniki.pl","ref:regon":"260637894","ref:vatin":"PL8641686745","operator":"\"Stowarzyszenie Przyjaci\u00f3\u0142 Szko\u0142y W Skotnikach K.sandomierza\"","operator:type":"ngo","amenity":"school"}},{"id":81158,"type":"Feature","geometry":{"type":"Point","coordinates":[21.64092,50.612159999999996]},"properties":{"ref:rspo":81158,"official_name":"Publiczny Punkt Przedszkolny Przy Publicznej Szkole Podstawowej w Skotnikach","name":"Publiczny Punkt Przedszkolny Przy Publicznej Szkole Podstawowej w Skotnikach","addr:country":"PL","addr:postcode":"27-650","addr:place":"Skotniki","addr:housenumber":"64","addr:teryt:sym_ul":807056,"contact:phone":"+48 158314299","contact:email":"pspskotniki@wp.pl","ref:regon":"260648521","operator":"\"Stowarzyszenie Przyjaci\u00f3\u0142 Szko\u0142y W Skotnikach K.sandomierza\"","operator:type":"ngo","amenity":"kindergarten"}},{"id":42128,"type":"Feature","geometry":{"type":"Point","coordinates":[21.578021,50.6394413]},"properties":{"ref:rspo":42128,"official_name":"Gminne Przedszkole w Chobrzanach","name":"Gminne Przedszkole w Chobrzanach","addr:country":"PL","addr:postcode":"27-650","addr:place":"Chobrzany","addr:housenumber":"110","addr:teryt:sym_ul":806690,"contact:phone":"+48 158314318","contact:email":"zpocho@wp.pl","contact:website":"http:\/\/www.lochobrzany.pl","ref:regon":"291181266","ref:vatin":"PL8641696301","operator":"Gmina Samborzec","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 18391"}},{"id":18391,"type":"Feature","geometry":{"type":"Point","coordinates":[21.58342,50.63962]},"properties":{"ref:rspo":18391,"official_name":"Zesp\u00f3\u0142 Plac\u00f3wek O\u015bwiatowych w Chobrzanach","name":"Zesp\u00f3\u0142 Plac\u00f3wek O\u015bwiatowych w Chobrzanach","addr:country":"PL","addr:postcode":"27-650","addr:place":"Chobrzany","addr:housenumber":"111","addr:teryt:sym_ul":806690,"contact:phone":"+48 158314318","contact:email":"zpocho@wp.pl","contact:website":"http:\/\/www.zpochobrzany.pl","ref:regon":"260034581","ref:vatin":"PL8641888905","operator":"Gmina Samborzec","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 42124;42127;42128"}},{"id":42124,"type":"Feature","geometry":{"type":"Point","coordinates":[21.58342,50.63959]},"properties":{"isced:level":"1;2","ref:rspo":42124,"official_name":"Publiczna Szko\u0142a Podstawowa im. Stefana \u017beromskiego w Chobrzanach","name":"Publiczna Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"27-650","addr:place":"Chobrzany","addr:housenumber":"111","addr:teryt:sym_ul":806690,"contact:phone":"+48 158314318","contact:email":"liceumchob@poczta.onet.pl","contact:website":"http:\/\/www.lochobrzany.pl","ref:regon":"001185970","ref:vatin":"PL8641695342","operator":"Gmina Samborzec","operator:type":"government","amenity":"school","note":"Parent RSPO: 18391"}},{"id":42127,"type":"Feature","geometry":{"type":"Point","coordinates":[21.58342,50.63956]},"properties":{"isced:level":"3","ref:rspo":42127,"official_name":"Liceum Og\u00f3lnokszta\u0142c\u0105ce im. Stefana \u017beromskiego w Chobrzanach","name":"Liceum Og\u00f3lnokszta\u0142c\u0105ce","addr:country":"PL","addr:postcode":"27-650","addr:place":"Chobrzany","addr:housenumber":"111","addr:teryt:sym_ul":806690,"contact:phone":"+48 158314320","contact:email":"liceumchob@poczta.onet.pl","contact:website":"http:\/\/www.lochobrzany.pl","ref:regon":"292893810","ref:vatin":"PL8641033285","operator":"Gmina Samborzec","operator:type":"government","amenity":"school","note":"Parent RSPO: 18391"}},{"id":18390,"type":"Feature","geometry":{"type":"Point","coordinates":[21.6468238,50.6453742]},"properties":{"ref:rspo":18390,"official_name":"Zesp\u00f3\u0142 Publicznych Plac\u00f3wek O\u015bwiatowych w Samborcu","name":"Zesp\u00f3\u0142 Publicznych Plac\u00f3wek O\u015bwiatowych w Samborcu","addr:country":"PL","addr:postcode":"27-650","addr:place":"Samborzec","addr:housenumber":"79","addr:teryt:sym_ul":807040,"contact:phone":"+48 789092702","contact:email":"gimsam@poczta.onet.pl","ref:regon":"260177464","ref:vatin":"PL8641888897","operator":"Gmina Samborzec","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 42121;130940"}},{"id":42121,"type":"Feature","geometry":{"type":"Point","coordinates":[21.6468238,50.6453442]},"properties":{"isced:level":"1;2","ref:rspo":42121,"official_name":"Publiczna Szko\u0142a Podstawowa im. Tadeusza Ko\u015bciuszki w Samborcu","name":"Publiczna Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"27-650","addr:place":"Samborzec","addr:housenumber":"79","addr:teryt:sym_ul":807040,"contact:phone":"+48 789092702","contact:email":"gimsam@poczta.onet.pl","contact:website":"http:\/\/zpposamborzec.pl","ref:regon":"000655988","ref:vatin":"PL8641686768","operator":"Gmina Samborzec","operator:type":"government","amenity":"school","note":"Parent RSPO: 18390"}},{"id":130940,"type":"Feature","geometry":{"type":"Point","coordinates":[21.6468238,50.6453142]},"properties":{"ref:rspo":130940,"official_name":"Publiczne Przedszkole \u201eWeso\u0142e Jab\u0142uszko\u201d w Samborcu","name":"Publiczne Przedszkole \u201eWeso\u0142e Jab\u0142uszko\u201d w Samborcu","addr:country":"PL","addr:postcode":"27-650","addr:place":"Samborzec","addr:housenumber":"79","addr:teryt:sym_ul":807040,"contact:phone":"+48 789092702","contact:email":"gimsam@poczta.onet.pl","contact:website":"http:\/\/www.zpposamborzec.pl","ref:regon":"364742633","operator":"Gmina Samborzec","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 18390"}},{"id":24788,"type":"Feature","geometry":{"type":"Point","coordinates":[21.71246,50.64832]},"properties":{"isced:level":"1;2","ref:rspo":24788,"official_name":"Publiczna Szko\u0142a Podstawowa im. Armii Krajowej w Zawierzbiu","name":"Publiczna Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"27-650","addr:place":"Zawierzbie","addr:housenumber":"67","addr:teryt:sym_ul":807211,"contact:phone":"+48 607215301","contact:email":"sp-zawierzbie@o2.pl","ref:regon":"260637902","ref:vatin":"PL8641686691","operator":"Stowarzyszenie Przyjaci\u00f3\u0142 Szko\u0142y \"Dobro Dzieci\" W Zawierzbiu","operator:type":"ngo","amenity":"school"}},{"id":120717,"type":"Feature","geometry":{"type":"Point","coordinates":[21.71246,50.648289999999996]},"properties":{"ref:rspo":120717,"official_name":"Publiczny Punkt Przedszkolny \u201eT\u0119czowe Przedszkole\u201d Przy Publicznej Szkole Podstawowej w Zawierzbiu","name":"Publiczny Punkt Przedszkolny \u201eT\u0119czowe Przedszkole\u201d Przy Publicznej Szkole Podstawowej w Zawierzbiu","addr:country":"PL","addr:postcode":"27-650","addr:place":"Zawierzbie","addr:housenumber":"67","addr:teryt:sym_ul":807211,"contact:phone":"+48 158323145","contact:email":"sp-zawierzbie@o2.pl","ref:regon":"260728906","operator":"Stowarzyszenie Przyjaci\u00f3\u0142 Szko\u0142y \"Dobro Dzieci\" W Zawierzbiu","operator:type":"ngo","amenity":"kindergarten"}},{"id":24786,"type":"Feature","geometry":{"type":"Point","coordinates":[21.62871,50.65543]},"properties":{"isced:level":"1;2","ref:rspo":24786,"official_name":"Publiczna Szko\u0142a Podstawowa w \u015amiechowicach","name":"Publiczna Szko\u0142a Podstawowa w \u015amiechowicach","addr:country":"PL","addr:postcode":"27-650","addr:place":"\u015amiechowice","addr:housenumber":"99","addr:teryt:sym_ul":807145,"contact:phone":"+48 158314460","contact:email":"spsmiechowice@wp.pl","ref:regon":"260637888","ref:vatin":"PL8641686774","operator":"\"Stowarzyszenie Przyjaci\u00f3\u0142 Szko\u0142y W \u015amiechowicach K. Sandomierza\"","operator:type":"ngo","amenity":"school"}},{"id":125819,"type":"Feature","geometry":{"type":"Point","coordinates":[21.62871,50.6554]},"properties":{"ref:rspo":125819,"official_name":"Publiczny Punkt Przedszkolny \u201eBajeczka\u201d Przy Publicznej Szkole Podstawowej w \u015amiechowicach","name":"Publiczny Punkt Przedszkolny \u201eBajeczka\u201d Przy Publicznej Szkole Podstawowej w \u015amiechowicach","addr:country":"PL","addr:postcode":"27-650","addr:place":"\u015amiechowice","addr:housenumber":"99","addr:teryt:sym_ul":807145,"contact:phone":"+48 158314460","contact:email":"spsmiechowice@wp.pl","ref:regon":"260803594","operator":"\"Stowarzyszenie Przyjaci\u00f3\u0142 Szko\u0142y W \u015amiechowicach K. Sandomierza\"","operator:type":"ngo","amenity":"kindergarten"}},{"id":24785,"type":"Feature","geometry":{"type":"Point","coordinates":[21.69395,50.66613]},"properties":{"isced:level":"1;2","ref:rspo":24785,"official_name":"Publiczna Szko\u0142a Podstawowa w Z\u0142otej","name":"Publiczna Szko\u0142a Podstawowa w Z\u0142otej","addr:country":"PL","addr:postcode":"27-650","addr:place":"Z\u0142ota","addr:housenumber":"121","addr:teryt:sym_ul":807263,"contact:phone":"+48 158314449","contact:email":"spzlota@wp.pl","ref:regon":"260637871","ref:vatin":"PL8641686751","operator":"Stowarzyszenie Przyjaci\u00f3\u0142 Szko\u0142y W Z\u0142otej K. Sandomierza","operator:type":"ngo","amenity":"school"}},{"id":58470,"type":"Feature","geometry":{"type":"Point","coordinates":[21.69395,50.6661]},"properties":{"ref:rspo":58470,"official_name":"Publiczny Punkt Przedszkolny Przy Publicznej Szkole Podstawowej w Z\u0142otej","name":"Publiczny Punkt Przedszkolny Przy Publicznej Szkole Podstawowej w Z\u0142otej","addr:country":"PL","addr:postcode":"27-650","addr:place":"Z\u0142ota","addr:housenumber":"121","addr:teryt:sym_ul":807263,"contact:phone":"+48 158314449","contact:email":"spzlota@wp.pl","ref:regon":"260644428","operator":"Stowarzyszenie Przyjaci\u00f3\u0142 Szko\u0142y W Z\u0142otej K. Sandomierza","operator:type":"ngo","amenity":"kindergarten"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 24787,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.64092,
+                    50.61219
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 24787,
+                "official_name": "Publiczna Szko\u0142a Podstawowa im. W\u0142adys\u0142awa Reymonta w Skotnikach",
+                "name": "Publiczna Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "27-650",
+                "addr:place": "Skotniki",
+                "addr:housenumber": "64",
+                "addr:teryt:sym_ul": 807056,
+                "contact:phone": "+48 158314299",
+                "contact:email": "pspskotniki@wp.pl",
+                "contact:website": "http:\/\/pspskotniki.pl",
+                "ref:regon": "260637894",
+                "ref:vatin": "PL8641686745",
+                "operator": "\"Stowarzyszenie Przyjaci\u00f3\u0142 Szko\u0142y W Skotnikach K.sandomierza\"",
+                "operator:type": "ngo",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 81158,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.64092,
+                    50.612159999999996
+                ]
+            },
+            "properties": {
+                "ref:rspo": 81158,
+                "official_name": "Publiczny Punkt Przedszkolny Przy Publicznej Szkole Podstawowej w Skotnikach",
+                "name": "Publiczny Punkt Przedszkolny Przy Publicznej Szkole Podstawowej w Skotnikach",
+                "addr:country": "PL",
+                "addr:postcode": "27-650",
+                "addr:place": "Skotniki",
+                "addr:housenumber": "64",
+                "addr:teryt:sym_ul": 807056,
+                "contact:phone": "+48 158314299",
+                "contact:email": "pspskotniki@wp.pl",
+                "ref:regon": "260648521",
+                "operator": "\"Stowarzyszenie Przyjaci\u00f3\u0142 Szko\u0142y W Skotnikach K.sandomierza\"",
+                "operator:type": "ngo",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 42128,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.578021,
+                    50.6394413
+                ]
+            },
+            "properties": {
+                "ref:rspo": 42128,
+                "official_name": "Gminne Przedszkole w Chobrzanach",
+                "name": "Gminne Przedszkole w Chobrzanach",
+                "addr:country": "PL",
+                "addr:postcode": "27-650",
+                "addr:place": "Chobrzany",
+                "addr:housenumber": "110",
+                "addr:teryt:sym_ul": 806690,
+                "contact:phone": "+48 158314318",
+                "contact:email": "zpocho@wp.pl",
+                "contact:website": "http:\/\/www.lochobrzany.pl",
+                "ref:regon": "291181266",
+                "ref:vatin": "PL8641696301",
+                "operator": "Gmina Samborzec",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 18391"
+            }
+        },
+        {
+            "id": 18391,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.58342,
+                    50.63962
+                ]
+            },
+            "properties": {
+                "ref:rspo": 18391,
+                "official_name": "Zesp\u00f3\u0142 Plac\u00f3wek O\u015bwiatowych w Chobrzanach",
+                "name": "Zesp\u00f3\u0142 Plac\u00f3wek O\u015bwiatowych w Chobrzanach",
+                "addr:country": "PL",
+                "addr:postcode": "27-650",
+                "addr:place": "Chobrzany",
+                "addr:housenumber": "111",
+                "addr:teryt:sym_ul": 806690,
+                "contact:phone": "+48 158314318",
+                "contact:email": "zpocho@wp.pl",
+                "contact:website": "http:\/\/www.zpochobrzany.pl",
+                "ref:regon": "260034581",
+                "ref:vatin": "PL8641888905",
+                "operator": "Gmina Samborzec",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 42124;42127;42128"
+            }
+        },
+        {
+            "id": 42124,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.58342,
+                    50.63959
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 42124,
+                "official_name": "Publiczna Szko\u0142a Podstawowa im. Stefana \u017beromskiego w Chobrzanach",
+                "name": "Publiczna Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "27-650",
+                "addr:place": "Chobrzany",
+                "addr:housenumber": "111",
+                "addr:teryt:sym_ul": 806690,
+                "contact:phone": "+48 158314318",
+                "contact:email": "liceumchob@poczta.onet.pl",
+                "contact:website": "http:\/\/www.lochobrzany.pl",
+                "ref:regon": "001185970",
+                "ref:vatin": "PL8641695342",
+                "operator": "Gmina Samborzec",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 18391"
+            }
+        },
+        {
+            "id": 42127,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.58342,
+                    50.63956
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 42127,
+                "official_name": "Liceum Og\u00f3lnokszta\u0142c\u0105ce im. Stefana \u017beromskiego w Chobrzanach",
+                "name": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+                "addr:country": "PL",
+                "addr:postcode": "27-650",
+                "addr:place": "Chobrzany",
+                "addr:housenumber": "111",
+                "addr:teryt:sym_ul": 806690,
+                "contact:phone": "+48 158314320",
+                "contact:email": "liceumchob@poczta.onet.pl",
+                "contact:website": "http:\/\/www.lochobrzany.pl",
+                "ref:regon": "292893810",
+                "ref:vatin": "PL8641033285",
+                "operator": "Gmina Samborzec",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 18391"
+            }
+        },
+        {
+            "id": 18390,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.6468238,
+                    50.6453742
+                ]
+            },
+            "properties": {
+                "ref:rspo": 18390,
+                "official_name": "Zesp\u00f3\u0142 Publicznych Plac\u00f3wek O\u015bwiatowych w Samborcu",
+                "name": "Zesp\u00f3\u0142 Publicznych Plac\u00f3wek O\u015bwiatowych w Samborcu",
+                "addr:country": "PL",
+                "addr:postcode": "27-650",
+                "addr:place": "Samborzec",
+                "addr:housenumber": "79",
+                "addr:teryt:sym_ul": 807040,
+                "contact:phone": "+48 789092702",
+                "contact:email": "gimsam@poczta.onet.pl",
+                "ref:regon": "260177464",
+                "ref:vatin": "PL8641888897",
+                "operator": "Gmina Samborzec",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 42121;130940"
+            }
+        },
+        {
+            "id": 42121,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.6468238,
+                    50.6453442
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 42121,
+                "official_name": "Publiczna Szko\u0142a Podstawowa im. Tadeusza Ko\u015bciuszki w Samborcu",
+                "name": "Publiczna Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "27-650",
+                "addr:place": "Samborzec",
+                "addr:housenumber": "79",
+                "addr:teryt:sym_ul": 807040,
+                "contact:phone": "+48 789092702",
+                "contact:email": "gimsam@poczta.onet.pl",
+                "contact:website": "http:\/\/zpposamborzec.pl",
+                "ref:regon": "000655988",
+                "ref:vatin": "PL8641686768",
+                "operator": "Gmina Samborzec",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 18390"
+            }
+        },
+        {
+            "id": 130940,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.6468238,
+                    50.6453142
+                ]
+            },
+            "properties": {
+                "ref:rspo": 130940,
+                "official_name": "Publiczne Przedszkole \u201eWeso\u0142e Jab\u0142uszko\u201d w Samborcu",
+                "name": "Publiczne Przedszkole \u201eWeso\u0142e Jab\u0142uszko\u201d w Samborcu",
+                "addr:country": "PL",
+                "addr:postcode": "27-650",
+                "addr:place": "Samborzec",
+                "addr:housenumber": "79",
+                "addr:teryt:sym_ul": 807040,
+                "contact:phone": "+48 789092702",
+                "contact:email": "gimsam@poczta.onet.pl",
+                "contact:website": "http:\/\/www.zpposamborzec.pl",
+                "ref:regon": "364742633",
+                "operator": "Gmina Samborzec",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 18390"
+            }
+        },
+        {
+            "id": 24788,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.71246,
+                    50.64832
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 24788,
+                "official_name": "Publiczna Szko\u0142a Podstawowa im. Armii Krajowej w Zawierzbiu",
+                "name": "Publiczna Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "27-650",
+                "addr:place": "Zawierzbie",
+                "addr:housenumber": "67",
+                "addr:teryt:sym_ul": 807211,
+                "contact:phone": "+48 607215301",
+                "contact:email": "sp-zawierzbie@o2.pl",
+                "ref:regon": "260637902",
+                "ref:vatin": "PL8641686691",
+                "operator": "Stowarzyszenie Przyjaci\u00f3\u0142 Szko\u0142y \"Dobro Dzieci\" W Zawierzbiu",
+                "operator:type": "ngo",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 120717,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.71246,
+                    50.648289999999996
+                ]
+            },
+            "properties": {
+                "ref:rspo": 120717,
+                "official_name": "Publiczny Punkt Przedszkolny \u201eT\u0119czowe Przedszkole\u201d Przy Publicznej Szkole Podstawowej w Zawierzbiu",
+                "name": "Publiczny Punkt Przedszkolny \u201eT\u0119czowe Przedszkole\u201d Przy Publicznej Szkole Podstawowej w Zawierzbiu",
+                "addr:country": "PL",
+                "addr:postcode": "27-650",
+                "addr:place": "Zawierzbie",
+                "addr:housenumber": "67",
+                "addr:teryt:sym_ul": 807211,
+                "contact:phone": "+48 158323145",
+                "contact:email": "sp-zawierzbie@o2.pl",
+                "ref:regon": "260728906",
+                "operator": "Stowarzyszenie Przyjaci\u00f3\u0142 Szko\u0142y \"Dobro Dzieci\" W Zawierzbiu",
+                "operator:type": "ngo",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 24786,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.62871,
+                    50.65543
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 24786,
+                "official_name": "Publiczna Szko\u0142a Podstawowa w \u015amiechowicach",
+                "name": "Publiczna Szko\u0142a Podstawowa w \u015amiechowicach",
+                "addr:country": "PL",
+                "addr:postcode": "27-650",
+                "addr:place": "\u015amiechowice",
+                "addr:housenumber": "99",
+                "addr:teryt:sym_ul": 807145,
+                "contact:phone": "+48 158314460",
+                "contact:email": "spsmiechowice@wp.pl",
+                "ref:regon": "260637888",
+                "ref:vatin": "PL8641686774",
+                "operator": "\"Stowarzyszenie Przyjaci\u00f3\u0142 Szko\u0142y W \u015amiechowicach K. Sandomierza\"",
+                "operator:type": "ngo",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 125819,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.62871,
+                    50.6554
+                ]
+            },
+            "properties": {
+                "ref:rspo": 125819,
+                "official_name": "Publiczny Punkt Przedszkolny \u201eBajeczka\u201d Przy Publicznej Szkole Podstawowej w \u015amiechowicach",
+                "name": "Publiczny Punkt Przedszkolny \u201eBajeczka\u201d Przy Publicznej Szkole Podstawowej w \u015amiechowicach",
+                "addr:country": "PL",
+                "addr:postcode": "27-650",
+                "addr:place": "\u015amiechowice",
+                "addr:housenumber": "99",
+                "addr:teryt:sym_ul": 807145,
+                "contact:phone": "+48 158314460",
+                "contact:email": "spsmiechowice@wp.pl",
+                "ref:regon": "260803594",
+                "operator": "\"Stowarzyszenie Przyjaci\u00f3\u0142 Szko\u0142y W \u015amiechowicach K. Sandomierza\"",
+                "operator:type": "ngo",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 24785,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.69395,
+                    50.66613
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 24785,
+                "official_name": "Publiczna Szko\u0142a Podstawowa w Z\u0142otej",
+                "name": "Publiczna Szko\u0142a Podstawowa w Z\u0142otej",
+                "addr:country": "PL",
+                "addr:postcode": "27-650",
+                "addr:place": "Z\u0142ota",
+                "addr:housenumber": "121",
+                "addr:teryt:sym_ul": 807263,
+                "contact:phone": "+48 158314449",
+                "contact:email": "spzlota@wp.pl",
+                "ref:regon": "260637871",
+                "ref:vatin": "PL8641686751",
+                "operator": "Stowarzyszenie Przyjaci\u00f3\u0142 Szko\u0142y W Z\u0142otej K. Sandomierza",
+                "operator:type": "ngo",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 58470,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.69395,
+                    50.6661
+                ]
+            },
+            "properties": {
+                "ref:rspo": 58470,
+                "official_name": "Publiczny Punkt Przedszkolny Przy Publicznej Szkole Podstawowej w Z\u0142otej",
+                "name": "Publiczny Punkt Przedszkolny Przy Publicznej Szkole Podstawowej w Z\u0142otej",
+                "addr:country": "PL",
+                "addr:postcode": "27-650",
+                "addr:place": "Z\u0142ota",
+                "addr:housenumber": "121",
+                "addr:teryt:sym_ul": 807263,
+                "contact:phone": "+48 158314449",
+                "contact:email": "spzlota@wp.pl",
+                "ref:regon": "260644428",
+                "operator": "Stowarzyszenie Przyjaci\u00f3\u0142 Szko\u0142y W Z\u0142otej K. Sandomierza",
+                "operator:type": "ngo",
+                "amenity": "kindergarten"
+            }
+        }
+    ]
+}

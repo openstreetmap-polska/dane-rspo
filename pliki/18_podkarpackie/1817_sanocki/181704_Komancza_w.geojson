@@ -1,1 +1,177 @@
-{"type":"FeatureCollection","features":[{"id":277264,"type":"Feature","geometry":{"type":"Point","coordinates":[22.08069,49.24971]},"properties":{"ref:rspo":277264,"official_name":"Publiczny Punkt Przedszkolny","name":"Publiczny Punkt Przedszkolny","addr:country":"PL","addr:postcode":"38-543","addr:place":"Nowy \u0141upk\u00f3w","addr:housenumber":"b\/n","addr:teryt:sym_ul":354353,"contact:phone":"+48 134677237","contact:email":"szkolalupkow@op.pl","ref:regon":"388465913","operator":"Stowarzyszenie Na Rzecz Rozwoju \u0141upkowa I Okolic","operator:type":"ngo","amenity":"kindergarten"}},{"id":53108,"type":"Feature","geometry":{"type":"Point","coordinates":[22.09138,49.25009]},"properties":{"isced:level":"1;2","ref:rspo":53108,"official_name":"Publiczna Szko\u0142a Podstawowa w Nowym \u0141upkowie","name":"Publiczna Szko\u0142a Podstawowa w Nowym \u0141upkowie","addr:country":"PL","addr:postcode":"38-543","addr:place":"Nowy \u0141upk\u00f3w","addr:housenumber":"BN","addr:teryt:sym_ul":354353,"contact:phone":"+48 134677237","contact:email":"szkolalupkow@op.pl","ref:regon":"180901019","ref:vatin":"PL6871955188","operator":"Stowarzyszenie Na Rzecz Rozwoju \u0141upkowa I Okolic","operator:type":"ngo","amenity":"school"}},{"id":41805,"type":"Feature","geometry":{"type":"Point","coordinates":[22.0535,49.34105]},"properties":{"isced:level":"1;2","ref:rspo":41805,"official_name":"Szko\u0142a Podstawowa im. Kardyna\u0142a Stefana Wyszy\u0144skiego w Koma\u0144czy","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"38-543","addr:place":"Koma\u0144cza","addr:housenumber":"249","addr:teryt:sym_ul":354293,"contact:phone":"+48 134677042","contact:email":"szkolkom@komancza.pl","contact:website":"http:\/\/www.spkomancza.edupage.org","ref:regon":"000629749","ref:vatin":"PL6871927619","operator":"Gmina Koma\u0144cza","operator:type":"government","amenity":"school"}},{"id":41414,"type":"Feature","geometry":{"type":"Point","coordinates":[21.98763,49.38967]},"properties":{"isced:level":"1;2","ref:rspo":41414,"official_name":"Publiczna Szko\u0142a Podstawowa Stowarzyszenia Przyjaci\u00f3\u0142 Szk\u00f3\u0142 Katolickich im. \u015aw. Brata Alberta Chmielowskiego w Wis\u0142oku Wielkim","name":"Publiczna Szko\u0142a Podstawowa Stowarzyszenia Przyjaci\u00f3\u0142 Szk\u00f3\u0142 Katolickich","addr:country":"PL","addr:postcode":"38-543","addr:place":"Wis\u0142ok Wielki","addr:housenumber":"26A","addr:teryt:sym_ul":354519,"contact:phone":"+48 134663017","contact:email":"spwislok1@poczta.onet.pl","contact:website":"http:\/\/spsk.wislok.info.pl","ref:regon":"180902272","operator":"Stowarzyszenie Przyjaci\u00f3\u0142 Szk\u00f3\u0142 Katolickich","operator:type":"ngo","amenity":"school"}},{"id":125931,"type":"Feature","geometry":{"type":"Point","coordinates":[21.98763,49.38964]},"properties":{"ref:rspo":125931,"official_name":"Punkt Przedszkolny Stowarzyszenia Przyjaci\u00f3\u0142 Szk\u00f3\u0142 Katolickich","name":"Punkt Przedszkolny Stowarzyszenia Przyjaci\u00f3\u0142 Szk\u00f3\u0142 Katolickich","addr:country":"PL","addr:postcode":"38-543","addr:place":"Wis\u0142ok Wielki","addr:housenumber":"26A","addr:teryt:sym_ul":354519,"contact:phone":"+48 134663017","contact:email":"spwislok1@poczta.onet.pl","ref:regon":"360107029","operator":"Stowarzyszenie Przyjaci\u00f3\u0142 Szk\u00f3\u0142 Katolickich","operator:type":"ngo","amenity":"kindergarten"}},{"id":43312,"type":"Feature","geometry":{"type":"Point","coordinates":[21.99922,49.53588]},"properties":{"isced:level":"1;2","ref:rspo":43312,"official_name":"Szko\u0142a Podstawowa w Rzepedzi","name":"Szko\u0142a Podstawowa w Rzepedzi","addr:country":"PL","addr:postcode":"38-542","addr:place":"Osiedle A","addr:housenumber":"30","addr:teryt:sym_ul":354436,"contact:phone":"+48 134678011","contact:email":"zsr_sekretariat@op.pl","contact:website":"http:\/\/www.sprzepedz.szkolnastrona.pl","ref:regon":"001214810","ref:vatin":"PL6871736061","operator":"Gmina Koma\u0144cza","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 277264,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.08069,
+                    49.24971
+                ]
+            },
+            "properties": {
+                "ref:rspo": 277264,
+                "official_name": "Publiczny Punkt Przedszkolny",
+                "name": "Publiczny Punkt Przedszkolny",
+                "addr:country": "PL",
+                "addr:postcode": "38-543",
+                "addr:place": "Nowy \u0141upk\u00f3w",
+                "addr:housenumber": "b\/n",
+                "addr:teryt:sym_ul": 354353,
+                "contact:phone": "+48 134677237",
+                "contact:email": "szkolalupkow@op.pl",
+                "ref:regon": "388465913",
+                "operator": "Stowarzyszenie Na Rzecz Rozwoju \u0141upkowa I Okolic",
+                "operator:type": "ngo",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 53108,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.09138,
+                    49.25009
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 53108,
+                "official_name": "Publiczna Szko\u0142a Podstawowa w Nowym \u0141upkowie",
+                "name": "Publiczna Szko\u0142a Podstawowa w Nowym \u0141upkowie",
+                "addr:country": "PL",
+                "addr:postcode": "38-543",
+                "addr:place": "Nowy \u0141upk\u00f3w",
+                "addr:housenumber": "BN",
+                "addr:teryt:sym_ul": 354353,
+                "contact:phone": "+48 134677237",
+                "contact:email": "szkolalupkow@op.pl",
+                "ref:regon": "180901019",
+                "ref:vatin": "PL6871955188",
+                "operator": "Stowarzyszenie Na Rzecz Rozwoju \u0141upkowa I Okolic",
+                "operator:type": "ngo",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 41805,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.0535,
+                    49.34105
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 41805,
+                "official_name": "Szko\u0142a Podstawowa im. Kardyna\u0142a Stefana Wyszy\u0144skiego w Koma\u0144czy",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "38-543",
+                "addr:place": "Koma\u0144cza",
+                "addr:housenumber": "249",
+                "addr:teryt:sym_ul": 354293,
+                "contact:phone": "+48 134677042",
+                "contact:email": "szkolkom@komancza.pl",
+                "contact:website": "http:\/\/www.spkomancza.edupage.org",
+                "ref:regon": "000629749",
+                "ref:vatin": "PL6871927619",
+                "operator": "Gmina Koma\u0144cza",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 41414,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.98763,
+                    49.38967
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 41414,
+                "official_name": "Publiczna Szko\u0142a Podstawowa Stowarzyszenia Przyjaci\u00f3\u0142 Szk\u00f3\u0142 Katolickich im. \u015aw. Brata Alberta Chmielowskiego w Wis\u0142oku Wielkim",
+                "name": "Publiczna Szko\u0142a Podstawowa Stowarzyszenia Przyjaci\u00f3\u0142 Szk\u00f3\u0142 Katolickich",
+                "addr:country": "PL",
+                "addr:postcode": "38-543",
+                "addr:place": "Wis\u0142ok Wielki",
+                "addr:housenumber": "26A",
+                "addr:teryt:sym_ul": 354519,
+                "contact:phone": "+48 134663017",
+                "contact:email": "spwislok1@poczta.onet.pl",
+                "contact:website": "http:\/\/spsk.wislok.info.pl",
+                "ref:regon": "180902272",
+                "operator": "Stowarzyszenie Przyjaci\u00f3\u0142 Szk\u00f3\u0142 Katolickich",
+                "operator:type": "ngo",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 125931,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.98763,
+                    49.38964
+                ]
+            },
+            "properties": {
+                "ref:rspo": 125931,
+                "official_name": "Punkt Przedszkolny Stowarzyszenia Przyjaci\u00f3\u0142 Szk\u00f3\u0142 Katolickich",
+                "name": "Punkt Przedszkolny Stowarzyszenia Przyjaci\u00f3\u0142 Szk\u00f3\u0142 Katolickich",
+                "addr:country": "PL",
+                "addr:postcode": "38-543",
+                "addr:place": "Wis\u0142ok Wielki",
+                "addr:housenumber": "26A",
+                "addr:teryt:sym_ul": 354519,
+                "contact:phone": "+48 134663017",
+                "contact:email": "spwislok1@poczta.onet.pl",
+                "ref:regon": "360107029",
+                "operator": "Stowarzyszenie Przyjaci\u00f3\u0142 Szk\u00f3\u0142 Katolickich",
+                "operator:type": "ngo",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 43312,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.99922,
+                    49.53588
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 43312,
+                "official_name": "Szko\u0142a Podstawowa w Rzepedzi",
+                "name": "Szko\u0142a Podstawowa w Rzepedzi",
+                "addr:country": "PL",
+                "addr:postcode": "38-542",
+                "addr:place": "Osiedle A",
+                "addr:housenumber": "30",
+                "addr:teryt:sym_ul": 354436,
+                "contact:phone": "+48 134678011",
+                "contact:email": "zsr_sekretariat@op.pl",
+                "contact:website": "http:\/\/www.sprzepedz.szkolnastrona.pl",
+                "ref:regon": "001214810",
+                "ref:vatin": "PL6871736061",
+                "operator": "Gmina Koma\u0144cza",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

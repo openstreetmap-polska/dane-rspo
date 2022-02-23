@@ -1,1 +1,124 @@
-{"type":"FeatureCollection","features":[{"id":56075,"type":"Feature","geometry":{"type":"Point","coordinates":[18.8109855,53.6174117]},"properties":{"ref:rspo":56075,"official_name":"O\u015brodek Rehabilitacyjno - Edukacyjno - Wychowawczy w Okr\u0105g\u0142ej \u0141\u0105ce","name":"O\u015brodek Rehabilitacyjno - Edukacyjno - Wychowawczy w Okr\u0105g\u0142ej \u0141\u0105ce","addr:country":"PL","addr:postcode":"82-522","addr:place":"Okr\u0105g\u0142a \u0141\u0105ka","addr:housenumber":"40","addr:teryt:sym_ul":156512,"contact:phone":"+48 552751548","contact:email":"orew@fundacja.kwidzyn.pl","ref:regon":"221765941","operator":"Fundacja Wspierania Spo\u0142eczno\u015bci Lokalnych 'Sapere Aude'","operator:type":"ngo","amenity":"school"}},{"id":35307,"type":"Feature","geometry":{"type":"Point","coordinates":[18.7548863,53.6479051]},"properties":{"isced:level":"1;2","ref:rspo":35307,"official_name":"Szko\u0142a Podstawowa w Nebrowie Wielkim","name":"Szko\u0142a Podstawowa w Nebrowie Wielkim","addr:country":"PL","addr:postcode":"82-522","addr:city":"Nebrowo Wielkie","addr:street":"ul. Szkolna","addr:housenumber":"6","addr:teryt:simc":21970,"addr:teryt:sym_ul":156506,"contact:phone":"+48 552751390","contact:email":"zs.nebrowo@wp.pl","contact:website":"http:\/\/spnebrowo.edupage.org","ref:regon":"192987253","ref:vatin":"PL5811766997","operator":"Gmina Sadlinki","operator:type":"government","amenity":"school"}},{"id":35305,"type":"Feature","geometry":{"type":"Point","coordinates":[18.87379,53.66111]},"properties":{"isced:level":"1;2","ref:rspo":35305,"official_name":"Szko\u0142a Podstawowa im. Henryka Sienkiewicza w Sadlinkach","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"82-522","addr:city":"Sadlinki","addr:street":"ul. Grudzi\u0105dzka","addr:housenumber":"14a","addr:teryt:simc":6236,"addr:teryt:sym_ul":156541,"contact:email":"spsadlinki@gmail.com","ref:regon":"220733867","ref:vatin":"PL5811766968","operator":"Gmina Sadlinki","operator:type":"government","amenity":"school"}},{"id":28214,"type":"Feature","geometry":{"type":"Point","coordinates":[18.88741,53.67074]},"properties":{"ref:rspo":28214,"official_name":"Przedszkole Publiczne w Sadlinkach","name":"Przedszkole Publiczne w Sadlinkach","addr:country":"PL","addr:postcode":"82-522","addr:city":"Sadlinki","addr:street":"ul. Kwidzy\u0144ska","addr:housenumber":"9","addr:teryt:simc":10572,"addr:teryt:sym_ul":156541,"contact:phone":"+48 552796026","contact:email":"ppsadlinki@o2.pl","ref:regon":"220150090","ref:vatin":"PL5811865481","operator":"Gmina Sadlinki","operator:type":"government","amenity":"kindergarten"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 56075,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.8109855,
+                    53.6174117
+                ]
+            },
+            "properties": {
+                "ref:rspo": 56075,
+                "official_name": "O\u015brodek Rehabilitacyjno - Edukacyjno - Wychowawczy w Okr\u0105g\u0142ej \u0141\u0105ce",
+                "name": "O\u015brodek Rehabilitacyjno - Edukacyjno - Wychowawczy w Okr\u0105g\u0142ej \u0141\u0105ce",
+                "addr:country": "PL",
+                "addr:postcode": "82-522",
+                "addr:place": "Okr\u0105g\u0142a \u0141\u0105ka",
+                "addr:housenumber": "40",
+                "addr:teryt:sym_ul": 156512,
+                "contact:phone": "+48 552751548",
+                "contact:email": "orew@fundacja.kwidzyn.pl",
+                "ref:regon": "221765941",
+                "operator": "Fundacja Wspierania Spo\u0142eczno\u015bci Lokalnych 'Sapere Aude'",
+                "operator:type": "ngo",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 35307,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.7548863,
+                    53.6479051
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 35307,
+                "official_name": "Szko\u0142a Podstawowa w Nebrowie Wielkim",
+                "name": "Szko\u0142a Podstawowa w Nebrowie Wielkim",
+                "addr:country": "PL",
+                "addr:postcode": "82-522",
+                "addr:city": "Nebrowo Wielkie",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "6",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 156506,
+                "contact:phone": "+48 552751390",
+                "contact:email": "zs.nebrowo@wp.pl",
+                "contact:website": "http:\/\/spnebrowo.edupage.org",
+                "ref:regon": "192987253",
+                "ref:vatin": "PL5811766997",
+                "operator": "Gmina Sadlinki",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 35305,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.87379,
+                    53.66111
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 35305,
+                "official_name": "Szko\u0142a Podstawowa im. Henryka Sienkiewicza w Sadlinkach",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "82-522",
+                "addr:city": "Sadlinki",
+                "addr:street": "ul. Grudzi\u0105dzka",
+                "addr:housenumber": "14a",
+                "addr:teryt:simc": 6236,
+                "addr:teryt:sym_ul": 156541,
+                "contact:email": "spsadlinki@gmail.com",
+                "ref:regon": "220733867",
+                "ref:vatin": "PL5811766968",
+                "operator": "Gmina Sadlinki",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 28214,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.88741,
+                    53.67074
+                ]
+            },
+            "properties": {
+                "ref:rspo": 28214,
+                "official_name": "Przedszkole Publiczne w Sadlinkach",
+                "name": "Przedszkole Publiczne w Sadlinkach",
+                "addr:country": "PL",
+                "addr:postcode": "82-522",
+                "addr:city": "Sadlinki",
+                "addr:street": "ul. Kwidzy\u0144ska",
+                "addr:housenumber": "9",
+                "addr:teryt:simc": 10572,
+                "addr:teryt:sym_ul": 156541,
+                "contact:phone": "+48 552796026",
+                "contact:email": "ppsadlinki@o2.pl",
+                "ref:regon": "220150090",
+                "ref:vatin": "PL5811865481",
+                "operator": "Gmina Sadlinki",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        }
+    ]
+}

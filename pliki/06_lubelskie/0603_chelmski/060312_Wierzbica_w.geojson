@@ -1,1 +1,126 @@
-{"type":"FeatureCollection","features":[{"id":52719,"type":"Feature","geometry":{"type":"Point","coordinates":[23.3000829,51.2269949]},"properties":{"isced:level":"1;2","ref:rspo":52719,"official_name":"Szko\u0142a Podstawowa w \u015awi\u0119cicy","name":"Szko\u0142a Podstawowa w \u015awi\u0119cicy","addr:country":"PL","addr:postcode":"22-150","addr:place":"\u015awi\u0119cica","addr:housenumber":"58","addr:teryt:sym_ul":109547,"contact:phone":"+48 825693259","contact:email":"szkola_swiecica@poczta.onet.pl","contact:website":"http:\/\/www.spswiecica.szkolnastrona.pl","ref:regon":"001175954","ref:vatin":"PL5631992456","operator":"Gmina Wierzbica","operator:type":"government","amenity":"school"}},{"id":52718,"type":"Feature","geometry":{"type":"Point","coordinates":[23.30909,51.26138]},"properties":{"ref:rspo":52718,"official_name":"Gminne Przedszkole w Wierzbicy","name":"Gminne Przedszkole w Wierzbicy","addr:country":"PL","addr:postcode":"22-150","addr:city":"Wierzbica-Osiedle","addr:street":"ul. Che\u0142mska","addr:housenumber":"7","addr:teryt:simc":2709,"addr:teryt:sym_ul":990830,"contact:phone":"+48 825693220","contact:email":"przedszkole@gpwierzbica.pl","ref:regon":"110600930","ref:vatin":"PL5631569781","operator":"Gmina Wierzbica","operator:type":"government","amenity":"kindergarten"}},{"id":52722,"type":"Feature","geometry":{"type":"Point","coordinates":[23.3037199,51.26523]},"properties":{"isced:level":"1;2","ref:rspo":52722,"official_name":"Szko\u0142a Podstawowa im. Kazimierza G\u00f3rskiego w Wierzbicy","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"22-150","addr:city":"Wierzbica-Osiedle","addr:street":"ul. Pogodna","addr:housenumber":"8","addr:teryt:simc":16900,"addr:teryt:sym_ul":990830,"contact:phone":"+48 825693233","contact:email":"szkola@spwierzbica.pl","contact:website":"http:\/\/spwierzbica.pl","ref:regon":"001175894","ref:vatin":"PL5632188093","operator":"Gmina Wierzbica","operator:type":"government","amenity":"school"}},{"id":276917,"type":"Feature","geometry":{"type":"Point","coordinates":[23.3037199,51.2652]},"properties":{"ref:rspo":276917,"official_name":"Poradnia Psychologiczno-Pedagogiczna w Wierzbicy","name":"Poradnia Psychologiczno-Pedagogiczna w Wierzbicy","addr:country":"PL","addr:postcode":"22-150","addr:city":"Wierzbica-Osiedle","addr:street":"ul. Pogodna","addr:housenumber":"8","addr:teryt:simc":16900,"addr:teryt:sym_ul":990830,"ref:regon":"387821429","operator":"Powiat Che\u0142mski","operator:type":"government","healthcare":"councelling","counselling_type":"education","fixme":"w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. healthcare=councelling + counselling_type=education albo healthcare=psychotherapist)"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 52719,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.3000829,
+                    51.2269949
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 52719,
+                "official_name": "Szko\u0142a Podstawowa w \u015awi\u0119cicy",
+                "name": "Szko\u0142a Podstawowa w \u015awi\u0119cicy",
+                "addr:country": "PL",
+                "addr:postcode": "22-150",
+                "addr:place": "\u015awi\u0119cica",
+                "addr:housenumber": "58",
+                "addr:teryt:sym_ul": 109547,
+                "contact:phone": "+48 825693259",
+                "contact:email": "szkola_swiecica@poczta.onet.pl",
+                "contact:website": "http:\/\/www.spswiecica.szkolnastrona.pl",
+                "ref:regon": "001175954",
+                "ref:vatin": "PL5631992456",
+                "operator": "Gmina Wierzbica",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 52718,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.30909,
+                    51.26138
+                ]
+            },
+            "properties": {
+                "ref:rspo": 52718,
+                "official_name": "Gminne Przedszkole w Wierzbicy",
+                "name": "Gminne Przedszkole w Wierzbicy",
+                "addr:country": "PL",
+                "addr:postcode": "22-150",
+                "addr:city": "Wierzbica-Osiedle",
+                "addr:street": "ul. Che\u0142mska",
+                "addr:housenumber": "7",
+                "addr:teryt:simc": 2709,
+                "addr:teryt:sym_ul": 990830,
+                "contact:phone": "+48 825693220",
+                "contact:email": "przedszkole@gpwierzbica.pl",
+                "ref:regon": "110600930",
+                "ref:vatin": "PL5631569781",
+                "operator": "Gmina Wierzbica",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 52722,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.3037199,
+                    51.26523
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 52722,
+                "official_name": "Szko\u0142a Podstawowa im. Kazimierza G\u00f3rskiego w Wierzbicy",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "22-150",
+                "addr:city": "Wierzbica-Osiedle",
+                "addr:street": "ul. Pogodna",
+                "addr:housenumber": "8",
+                "addr:teryt:simc": 16900,
+                "addr:teryt:sym_ul": 990830,
+                "contact:phone": "+48 825693233",
+                "contact:email": "szkola@spwierzbica.pl",
+                "contact:website": "http:\/\/spwierzbica.pl",
+                "ref:regon": "001175894",
+                "ref:vatin": "PL5632188093",
+                "operator": "Gmina Wierzbica",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 276917,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.3037199,
+                    51.2652
+                ]
+            },
+            "properties": {
+                "ref:rspo": 276917,
+                "official_name": "Poradnia Psychologiczno-Pedagogiczna w Wierzbicy",
+                "name": "Poradnia Psychologiczno-Pedagogiczna w Wierzbicy",
+                "addr:country": "PL",
+                "addr:postcode": "22-150",
+                "addr:city": "Wierzbica-Osiedle",
+                "addr:street": "ul. Pogodna",
+                "addr:housenumber": "8",
+                "addr:teryt:simc": 16900,
+                "addr:teryt:sym_ul": 990830,
+                "ref:regon": "387821429",
+                "operator": "Powiat Che\u0142mski",
+                "operator:type": "government",
+                "healthcare": "counselling",
+                "counselling_type": "education",
+                "fixme": "w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. healthcare=counselling + counselling_type=education albo healthcare=psychotherapist)"
+            }
+        }
+    ]
+}

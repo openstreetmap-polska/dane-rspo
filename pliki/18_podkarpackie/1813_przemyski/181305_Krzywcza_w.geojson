@@ -1,1 +1,207 @@
-{"type":"FeatureCollection","features":[{"id":130204,"type":"Feature","geometry":{"type":"Point","coordinates":[22.5761,49.78438]},"properties":{"isced:level":"1;2","ref:rspo":130204,"official_name":"Szko\u0142a Podstawowa w Reczpolu","name":"Szko\u0142a Podstawowa w Reczpolu","addr:country":"PL","addr:postcode":"37-755","addr:place":"Reczpol","addr:housenumber":"87A","addr:teryt:sym_ul":605192,"contact:phone":"+48 166727425","contact:email":"szkolareczpol@wp.pl","contact:website":"http:\/\/www.spreczpol.szkolna.net","ref:regon":"363634232","operator":"Stowarzyszenie Dla Edukacji","operator:type":"ngo","amenity":"school"}},{"id":130188,"type":"Feature","geometry":{"type":"Point","coordinates":[22.4882199,49.79369]},"properties":{"isced:level":"1;2","ref:rspo":130188,"official_name":"Szko\u0142a Podstawowa im. Sybirak\u00f3w w Bachowie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"37-755","addr:place":"Bach\u00f3w","addr:housenumber":"43","addr:teryt:sym_ul":605080,"contact:phone":"+48 166511085","contact:email":"janusz.chr2004@gmail.com","ref:regon":"363617819","operator":"Stowarzyszenie \"Jeste\u015bmy Razem W Ruszelczycach\"","operator:type":"ngo","amenity":"school"}},{"id":123560,"type":"Feature","geometry":{"type":"Point","coordinates":[22.54463,49.79867]},"properties":{"ref:rspo":123560,"official_name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 w Krzywczy","name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 w Krzywczy","addr:country":"PL","addr:postcode":"37-755","addr:place":"Krzywcza","addr:housenumber":"97","addr:teryt:sym_ul":605128,"contact:phone":"+48 166711003","contact:email":"krzywcza@poczta.fm","contact:website":"http:\/\/krzywcza.edu.pl","ref:regon":"181129762","operator":"Gmina Krzywcza","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 31822;34739"}},{"id":31822,"type":"Feature","geometry":{"type":"Point","coordinates":[22.54463,49.79864]},"properties":{"isced:level":"1;2","ref:rspo":31822,"official_name":"Szko\u0142a Podstawowa im. 11 Karpackiej Dywizji Piechoty w Krzywczy","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"37-755","addr:place":"Krzywcza","addr:housenumber":"97","addr:teryt:sym_ul":605128,"contact:phone":"+48 166711003","contact:email":"krzywcza@poczta.fm","contact:website":"http:\/\/krzywcza.edu.pl","ref:regon":"000663278","operator":"Gmina Krzywcza","operator:type":"government","amenity":"school","note":"Parent RSPO: 123560"}},{"id":34739,"type":"Feature","geometry":{"type":"Point","coordinates":[22.54463,49.798610000000004]},"properties":{"ref:rspo":34739,"official_name":"Samorz\u0105dowe Przedszkole w Krzywczy","name":"Samorz\u0105dowe Przedszkole w Krzywczy","addr:country":"PL","addr:postcode":"37-755","addr:place":"Krzywcza","addr:housenumber":"97","addr:teryt:sym_ul":605128,"contact:phone":"+48 166711415","contact:email":"krzywcza@poczta.fm","contact:website":"http:\/\/www.krzywcza.edu.pl","ref:regon":"001057077","operator":"Gmina Krzywcza","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 123560"}},{"id":3692,"type":"Feature","geometry":{"type":"Point","coordinates":[22.52085,49.81102]},"properties":{"isced:level":"1;2","ref:rspo":3692,"official_name":"Niepubliczna Szko\u0142a Podstawowa w Ruszelczycach","name":"Niepubliczna Szko\u0142a Podstawowa w Ruszelczycach","addr:country":"PL","addr:postcode":"37-755","addr:place":"Ruszelczyce","addr:housenumber":"59A","addr:teryt:sym_ul":605246,"contact:phone":"+48 166711487","contact:email":"spruszelczyce@op.pl","ref:regon":"180877166","operator":"Stowarzyszenie \"Jeste\u015bmy Razem W Ruszelczycach\"","operator:type":"ngo","amenity":"school"}},{"id":31823,"type":"Feature","geometry":{"type":"Point","coordinates":[22.47659,49.81981]},"properties":{"isced:level":"1;2","ref:rspo":31823,"official_name":"Szko\u0142a Podstawowa im. J. S\u0142owackiego w Babicach","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"37-754","addr:place":"Babice","addr:housenumber":"27","addr:teryt:sym_ul":605022,"contact:phone":"+48 166711204","contact:email":"spbabice@wp.pl","ref:regon":"001207619","operator":"Gmina Krzywcza","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 130204,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.5761,
+                    49.78438
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 130204,
+                "official_name": "Szko\u0142a Podstawowa w Reczpolu",
+                "name": "Szko\u0142a Podstawowa w Reczpolu",
+                "addr:country": "PL",
+                "addr:postcode": "37-755",
+                "addr:place": "Reczpol",
+                "addr:housenumber": "87A",
+                "addr:teryt:sym_ul": 605192,
+                "contact:phone": "+48 166727425",
+                "contact:email": "szkolareczpol@wp.pl",
+                "contact:website": "http:\/\/www.spreczpol.szkolna.net",
+                "ref:regon": "363634232",
+                "operator": "Stowarzyszenie Dla Edukacji",
+                "operator:type": "ngo",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 130188,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.4882199,
+                    49.79369
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 130188,
+                "official_name": "Szko\u0142a Podstawowa im. Sybirak\u00f3w w Bachowie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "37-755",
+                "addr:place": "Bach\u00f3w",
+                "addr:housenumber": "43",
+                "addr:teryt:sym_ul": 605080,
+                "contact:phone": "+48 166511085",
+                "contact:email": "janusz.chr2004@gmail.com",
+                "ref:regon": "363617819",
+                "operator": "Stowarzyszenie \"Jeste\u015bmy Razem W Ruszelczycach\"",
+                "operator:type": "ngo",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 123560,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.54463,
+                    49.79867
+                ]
+            },
+            "properties": {
+                "ref:rspo": 123560,
+                "official_name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 w Krzywczy",
+                "name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 w Krzywczy",
+                "addr:country": "PL",
+                "addr:postcode": "37-755",
+                "addr:place": "Krzywcza",
+                "addr:housenumber": "97",
+                "addr:teryt:sym_ul": 605128,
+                "contact:phone": "+48 166711003",
+                "contact:email": "krzywcza@poczta.fm",
+                "contact:website": "http:\/\/krzywcza.edu.pl",
+                "ref:regon": "181129762",
+                "operator": "Gmina Krzywcza",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 31822;34739"
+            }
+        },
+        {
+            "id": 31822,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.54463,
+                    49.79864
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 31822,
+                "official_name": "Szko\u0142a Podstawowa im. 11 Karpackiej Dywizji Piechoty w Krzywczy",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "37-755",
+                "addr:place": "Krzywcza",
+                "addr:housenumber": "97",
+                "addr:teryt:sym_ul": 605128,
+                "contact:phone": "+48 166711003",
+                "contact:email": "krzywcza@poczta.fm",
+                "contact:website": "http:\/\/krzywcza.edu.pl",
+                "ref:regon": "000663278",
+                "operator": "Gmina Krzywcza",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 123560"
+            }
+        },
+        {
+            "id": 34739,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.54463,
+                    49.798610000000004
+                ]
+            },
+            "properties": {
+                "ref:rspo": 34739,
+                "official_name": "Samorz\u0105dowe Przedszkole w Krzywczy",
+                "name": "Samorz\u0105dowe Przedszkole w Krzywczy",
+                "addr:country": "PL",
+                "addr:postcode": "37-755",
+                "addr:place": "Krzywcza",
+                "addr:housenumber": "97",
+                "addr:teryt:sym_ul": 605128,
+                "contact:phone": "+48 166711415",
+                "contact:email": "krzywcza@poczta.fm",
+                "contact:website": "http:\/\/www.krzywcza.edu.pl",
+                "ref:regon": "001057077",
+                "operator": "Gmina Krzywcza",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 123560"
+            }
+        },
+        {
+            "id": 3692,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.52085,
+                    49.81102
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 3692,
+                "official_name": "Niepubliczna Szko\u0142a Podstawowa w Ruszelczycach",
+                "name": "Niepubliczna Szko\u0142a Podstawowa w Ruszelczycach",
+                "addr:country": "PL",
+                "addr:postcode": "37-755",
+                "addr:place": "Ruszelczyce",
+                "addr:housenumber": "59A",
+                "addr:teryt:sym_ul": 605246,
+                "contact:phone": "+48 166711487",
+                "contact:email": "spruszelczyce@op.pl",
+                "ref:regon": "180877166",
+                "operator": "Stowarzyszenie \"Jeste\u015bmy Razem W Ruszelczycach\"",
+                "operator:type": "ngo",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 31823,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.47659,
+                    49.81981
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 31823,
+                "official_name": "Szko\u0142a Podstawowa im. J. S\u0142owackiego w Babicach",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "37-754",
+                "addr:place": "Babice",
+                "addr:housenumber": "27",
+                "addr:teryt:sym_ul": 605022,
+                "contact:phone": "+48 166711204",
+                "contact:email": "spbabice@wp.pl",
+                "ref:regon": "001207619",
+                "operator": "Gmina Krzywcza",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

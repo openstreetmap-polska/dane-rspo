@@ -1,1 +1,222 @@
-{"type":"FeatureCollection","features":[{"id":60606,"type":"Feature","geometry":{"type":"Point","coordinates":[19.62741,52.5813]},"properties":{"isced:level":"1;2","ref:rspo":60606,"official_name":"Szko\u0142a Podstawowa im. W\u0142adys\u0142awa Stanis\u0142awa Reymonta w Maszewie Du\u017cym","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"09-400","addr:city":"Maszewo Du\u017ce","addr:street":"ul. Szkolna","addr:housenumber":"14","addr:teryt:simc":21970,"addr:teryt:sym_ul":576243,"contact:phone":"+48 243662188","contact:email":"kontakt@spmd.edu.pl","contact:website":"http:\/\/www.spmd.edu.pl","ref:regon":"610199446","ref:vatin":"PL7742745012","operator":"Gmina Stara Bia\u0142a","operator:type":"government","amenity":"school"}},{"id":55078,"type":"Feature","geometry":{"type":"Point","coordinates":[19.58442,52.60177]},"properties":{"ref:rspo":55078,"official_name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w Wyszynie","name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w Wyszynie","addr:country":"PL","addr:postcode":"09-411","addr:place":"Wyszyna","addr:housenumber":"2","addr:teryt:sym_ul":576409,"contact:phone":"+48 243662199","contact:email":"sp@wyszyna.pl","contact:website":"http:\/\/www.wyszyna.pl","ref:regon":"145492203","ref:vatin":"PL7743245990","operator":"Gmina Stara Bia\u0142a","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 68488;68490"}},{"id":68488,"type":"Feature","geometry":{"type":"Point","coordinates":[19.58442,52.60174]},"properties":{"ref:rspo":68488,"official_name":"Samorz\u0105dowe Przedszkole im. Kornela Makuszy\u0144skiego w Wyszynie","name":"Samorz\u0105dowe Przedszkole","addr:country":"PL","addr:postcode":"09-411","addr:place":"Wyszyna","addr:housenumber":"2","addr:teryt:sym_ul":576409,"contact:phone":"+48 243662199","contact:email":"sp@wyszyna.pl","contact:website":"http:\/\/www.wyszyna.pl","ref:regon":"143758364","ref:vatin":"PL7743207179","operator":"Gmina Stara Bia\u0142a","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 55078"}},{"id":68490,"type":"Feature","geometry":{"type":"Point","coordinates":[19.58442,52.601710000000004]},"properties":{"isced:level":"1;2","ref:rspo":68490,"official_name":"Szko\u0142a Podstawowa im. Kornela Makuszy\u0144skiego w Wyszynie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"09-411","addr:place":"Wyszyna","addr:housenumber":"2","addr:teryt:sym_ul":576409,"contact:phone":"+48 243662199","contact:email":"sp@wyszyna.pl","contact:website":"http:\/\/www.wyszyna.pl","ref:regon":"001113137","ref:vatin":"PL7742746017","operator":"Gmina Stara Bia\u0142a","operator:type":"government","amenity":"school","note":"Parent RSPO: 55078"}},{"id":54403,"type":"Feature","geometry":{"type":"Point","coordinates":[19.6517809,52.6040718]},"properties":{"isced:level":"1;2","ref:rspo":54403,"official_name":"Szko\u0142a Podstawowa im. Jana Paw\u0142a II w Starej Bia\u0142ej","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"09-411","addr:place":"Stara Bia\u0142a","addr:housenumber":"53","addr:teryt:sym_ul":576355,"contact:phone":"+48 243656816","contact:email":"sp@starabiala.pl","contact:website":"http:\/\/sp.starabiala.pl","ref:regon":"000640828","ref:vatin":"PL7742744656","operator":"Gmina Stara Bia\u0142a","operator:type":"government","amenity":"school"}},{"id":126457,"type":"Feature","geometry":{"type":"Point","coordinates":[19.69349,52.65746]},"properties":{"ref:rspo":126457,"official_name":"Przedszkole w Nowych Proboszczewicach","name":"Przedszkole w Nowych Proboszczewicach","addr:country":"PL","addr:postcode":"09-412","addr:city":"Nowe Proboszczewice","addr:street":"ul. Floria\u0144ska","addr:housenumber":"20","addr:teryt:simc":5085,"addr:teryt:sym_ul":576295,"contact:phone":"+48 243660625","contact:email":"przedszkole@nproboszczewice.pl","contact:website":"http:\/\/www.nproboszczewice.pl","ref:regon":"360332520","ref:vatin":"PL7743221848","operator":"Gmina Stara Bia\u0142a","operator:type":"government","amenity":"kindergarten"}},{"id":60611,"type":"Feature","geometry":{"type":"Point","coordinates":[19.6952,52.65907]},"properties":{"isced:level":"1;2","ref:rspo":60611,"official_name":"Szko\u0142a Podstawowa w Starych Proboszczewicach","name":"Szko\u0142a Podstawowa w Starych Proboszczewicach","addr:country":"PL","addr:postcode":"09-412","addr:city":"Stare Proboszczewice","addr:street":"ul. Floria\u0144ska","addr:housenumber":"4","addr:teryt:simc":5085,"addr:teryt:sym_ul":576361,"contact:phone":"+48 243650079","contact:email":"szkola@spproboszczewice.pl","contact:website":"http:\/\/www.spproboszczewice.pl","ref:regon":"001113143","ref:vatin":"PL7742744857","operator":"Gmina Stara Bia\u0142a","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 60606,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.62741,
+                    52.5813
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 60606,
+                "official_name": "Szko\u0142a Podstawowa im. W\u0142adys\u0142awa Stanis\u0142awa Reymonta w Maszewie Du\u017cym",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "09-400",
+                "addr:city": "Maszewo Du\u017ce",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "14",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 576243,
+                "contact:phone": "+48 243662188",
+                "contact:email": "kontakt@spmd.edu.pl",
+                "contact:website": "http:\/\/www.spmd.edu.pl",
+                "ref:regon": "610199446",
+                "ref:vatin": "PL7742745012",
+                "operator": "Gmina Stara Bia\u0142a",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 55078,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.58442,
+                    52.60177
+                ]
+            },
+            "properties": {
+                "ref:rspo": 55078,
+                "official_name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w Wyszynie",
+                "name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w Wyszynie",
+                "addr:country": "PL",
+                "addr:postcode": "09-411",
+                "addr:place": "Wyszyna",
+                "addr:housenumber": "2",
+                "addr:teryt:sym_ul": 576409,
+                "contact:phone": "+48 243662199",
+                "contact:email": "sp@wyszyna.pl",
+                "contact:website": "http:\/\/www.wyszyna.pl",
+                "ref:regon": "145492203",
+                "ref:vatin": "PL7743245990",
+                "operator": "Gmina Stara Bia\u0142a",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 68488;68490"
+            }
+        },
+        {
+            "id": 68488,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.58442,
+                    52.60174
+                ]
+            },
+            "properties": {
+                "ref:rspo": 68488,
+                "official_name": "Samorz\u0105dowe Przedszkole im. Kornela Makuszy\u0144skiego w Wyszynie",
+                "name": "Samorz\u0105dowe Przedszkole",
+                "addr:country": "PL",
+                "addr:postcode": "09-411",
+                "addr:place": "Wyszyna",
+                "addr:housenumber": "2",
+                "addr:teryt:sym_ul": 576409,
+                "contact:phone": "+48 243662199",
+                "contact:email": "sp@wyszyna.pl",
+                "contact:website": "http:\/\/www.wyszyna.pl",
+                "ref:regon": "143758364",
+                "ref:vatin": "PL7743207179",
+                "operator": "Gmina Stara Bia\u0142a",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 55078"
+            }
+        },
+        {
+            "id": 68490,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.58442,
+                    52.601710000000004
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 68490,
+                "official_name": "Szko\u0142a Podstawowa im. Kornela Makuszy\u0144skiego w Wyszynie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "09-411",
+                "addr:place": "Wyszyna",
+                "addr:housenumber": "2",
+                "addr:teryt:sym_ul": 576409,
+                "contact:phone": "+48 243662199",
+                "contact:email": "sp@wyszyna.pl",
+                "contact:website": "http:\/\/www.wyszyna.pl",
+                "ref:regon": "001113137",
+                "ref:vatin": "PL7742746017",
+                "operator": "Gmina Stara Bia\u0142a",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 55078"
+            }
+        },
+        {
+            "id": 54403,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.6517809,
+                    52.6040718
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 54403,
+                "official_name": "Szko\u0142a Podstawowa im. Jana Paw\u0142a II w Starej Bia\u0142ej",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "09-411",
+                "addr:place": "Stara Bia\u0142a",
+                "addr:housenumber": "53",
+                "addr:teryt:sym_ul": 576355,
+                "contact:phone": "+48 243656816",
+                "contact:email": "sp@starabiala.pl",
+                "contact:website": "http:\/\/sp.starabiala.pl",
+                "ref:regon": "000640828",
+                "ref:vatin": "PL7742744656",
+                "operator": "Gmina Stara Bia\u0142a",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 126457,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.69349,
+                    52.65746
+                ]
+            },
+            "properties": {
+                "ref:rspo": 126457,
+                "official_name": "Przedszkole w Nowych Proboszczewicach",
+                "name": "Przedszkole w Nowych Proboszczewicach",
+                "addr:country": "PL",
+                "addr:postcode": "09-412",
+                "addr:city": "Nowe Proboszczewice",
+                "addr:street": "ul. Floria\u0144ska",
+                "addr:housenumber": "20",
+                "addr:teryt:simc": 5085,
+                "addr:teryt:sym_ul": 576295,
+                "contact:phone": "+48 243660625",
+                "contact:email": "przedszkole@nproboszczewice.pl",
+                "contact:website": "http:\/\/www.nproboszczewice.pl",
+                "ref:regon": "360332520",
+                "ref:vatin": "PL7743221848",
+                "operator": "Gmina Stara Bia\u0142a",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 60611,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.6952,
+                    52.65907
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 60611,
+                "official_name": "Szko\u0142a Podstawowa w Starych Proboszczewicach",
+                "name": "Szko\u0142a Podstawowa w Starych Proboszczewicach",
+                "addr:country": "PL",
+                "addr:postcode": "09-412",
+                "addr:city": "Stare Proboszczewice",
+                "addr:street": "ul. Floria\u0144ska",
+                "addr:housenumber": "4",
+                "addr:teryt:simc": 5085,
+                "addr:teryt:sym_ul": 576361,
+                "contact:phone": "+48 243650079",
+                "contact:email": "szkola@spproboszczewice.pl",
+                "contact:website": "http:\/\/www.spproboszczewice.pl",
+                "ref:regon": "001113143",
+                "ref:vatin": "PL7742744857",
+                "operator": "Gmina Stara Bia\u0142a",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

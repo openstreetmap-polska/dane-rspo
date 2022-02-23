@@ -1,1 +1,473 @@
-{"type":"FeatureCollection","features":[{"id":86088,"type":"Feature","geometry":{"type":"Point","coordinates":[16.5482799,51.87977]},"properties":{"ref:rspo":86088,"official_name":"Przedszkole Niepubliczne w Wilkowicach","name":"Przedszkole Niepubliczne w Wilkowicach","addr:country":"PL","addr:postcode":"64-115","addr:city":"Wilkowice","addr:street":"ul. Ogrodowa","addr:housenumber":"2c","addr:teryt:simc":14834,"addr:teryt:sym_ul":373037,"contact:phone":"+48 603684034","contact:email":"akademia.smyka@wp.pl","ref:regon":"302269895","operator":"Dane Do Uzupe\u0142nienia","operator:type":"private","amenity":"kindergarten"}},{"id":126021,"type":"Feature","geometry":{"type":"Point","coordinates":[16.53389,51.88054]},"properties":{"ref:rspo":126021,"official_name":"Firma Szkoleniowo-Us\u0142ugowa Edumi Izabela Muszy\u0144ska","name":"Firma Szkoleniowo-Us\u0142ugowa Edumi Izabela Muszy\u0144ska","addr:country":"PL","addr:postcode":"64-115","addr:city":"Wilkowice","addr:street":"ul. Modrzewiowa","addr:housenumber":"29b","addr:teryt:simc":13184,"addr:teryt:sym_ul":373037,"contact:phone":"+48 693878658","contact:email":"edumi2@wp.pl","ref:regon":"360136090","ref:vatin":"PL6971536769","operator":"Izabela Muszy\u0144ska","operator:type":"private","fixme":"w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. amenity=training + training=*, amenity=dancing_school, amenity=language_school, amenity=music_school)"}},{"id":275360,"type":"Feature","geometry":{"type":"Point","coordinates":[16.53753,51.88595]},"properties":{"ref:rspo":275360,"official_name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w Wilkowicach","name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w Wilkowicach","addr:country":"PL","addr:postcode":"64-115","addr:city":"Wilkowice","addr:street":"ul. Szkolna","addr:housenumber":"28","addr:teryt:simc":21970,"addr:teryt:sym_ul":373037,"contact:phone":"+48 655341395","contact:email":"spwilkowice@wp.pl","contact:website":"https:\/\/sp-wilkowice.edupage.org","ref:regon":"386825750","ref:vatin":"PL6972079185","operator":"Gmina Lipno","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 86087;275922"}},{"id":86087,"type":"Feature","geometry":{"type":"Point","coordinates":[16.53753,51.88592]},"properties":{"isced:level":"1;2","ref:rspo":86087,"official_name":"Szko\u0142a Podstawowa im. Powsta\u0144c\u00f3w Wielkopolskich w Wilkowicach","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"64-115","addr:city":"Wilkowice","addr:street":"ul. Szkolna","addr:housenumber":"28","addr:teryt:simc":21970,"addr:teryt:sym_ul":373037,"contact:phone":"+48 655341395","contact:email":"spwilkowice@wp.pl","contact:website":"http:\/\/www.sp-wilkowice.edupage.org","ref:regon":"001118057","operator":"Gmina Lipno","operator:type":"government","amenity":"school","note":"Parent RSPO: 275360"}},{"id":275359,"type":"Feature","geometry":{"type":"Point","coordinates":[16.6147985,51.9141289]},"properties":{"ref:rspo":275359,"official_name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w Goniembicach","name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w Goniembicach","addr:country":"PL","addr:postcode":"64-111","addr:place":"Goniembice","addr:housenumber":"30","addr:teryt:sym_ul":372871,"contact:phone":"+48 655340135","contact:email":"sp_goniembice@wp.pl","ref:regon":"386825678","ref:vatin":"PL6972079216","operator":"Gmina Lipno","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 86084;275920;275921"}},{"id":86084,"type":"Feature","geometry":{"type":"Point","coordinates":[16.6147985,51.9140989]},"properties":{"isced:level":"1;2","ref:rspo":86084,"official_name":"Szko\u0142a Podstawowa im. 17 Pu\u0142ku U\u0142an\u00f3w Wielkopolskich w Goniembicach","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"64-111","addr:place":"Goniembice","addr:housenumber":"30","addr:teryt:sym_ul":372871,"contact:phone":"+48 655340135","contact:email":"sp_goniembice@wp.pl","contact:website":"http:\/\/www.goniembice.pl","ref:regon":"001118040","operator":"Gmina Lipno","operator:type":"government","amenity":"school","note":"Parent RSPO: 275359"}},{"id":275920,"type":"Feature","geometry":{"type":"Point","coordinates":[16.6147985,51.914068900000004]},"properties":{"ref:rspo":275920,"official_name":"Przedszkole w Goniembicach","name":"Przedszkole w Goniembicach","addr:country":"PL","addr:postcode":"64-111","addr:place":"Goniembice","addr:housenumber":"30","addr:teryt:sym_ul":372871,"contact:phone":"+48 655340135","ref:regon":"386953442","operator":"Gmina Lipno","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 275359"}},{"id":86086,"type":"Feature","geometry":{"type":"Point","coordinates":[16.55878,51.9185]},"properties":{"ref:rspo":86086,"official_name":"Przedszkole w Lipnie","name":"Przedszkole w Lipnie","addr:country":"PL","addr:postcode":"64-111","addr:city":"Lipno","addr:street":"ul. Powsta\u0144c\u00f3w Wielkopolskich","addr:housenumber":"46","addr:teryt:simc":17377,"addr:teryt:sym_ul":372931,"contact:phone":"+48 655340928","contact:email":"przedszkole@lipno.pl","ref:regon":"300098662","operator":"Gmina Lipno","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 275361"}},{"id":275361,"type":"Feature","geometry":{"type":"Point","coordinates":[16.55504,51.91934]},"properties":{"ref:rspo":275361,"official_name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w Lipnie","name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w Lipnie","addr:country":"PL","addr:postcode":"64-111","addr:city":"Lipno","addr:street":"ul. Powsta\u0144c\u00f3w Wielkopolskich","addr:housenumber":"68","addr:teryt:simc":17377,"addr:teryt:sym_ul":372931,"contact:phone":"+48 655340259","contact:email":"sp_lipno@splipno.pl","ref:regon":"386825796","ref:vatin":"PL6972343392","operator":"Gmina Lipno","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 64706;86086;275923"}},{"id":64706,"type":"Feature","geometry":{"type":"Point","coordinates":[16.55504,51.919309999999996]},"properties":{"isced:level":"1;2","ref:rspo":64706,"official_name":"Szko\u0142a Podstawowa im. Wojska Polskiego w Lipnie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"64-111","addr:city":"Lipno","addr:street":"ul. Powsta\u0144c\u00f3w Wielkopolskich","addr:housenumber":"68","addr:teryt:simc":17377,"addr:teryt:sym_ul":372931,"contact:phone":"+48 655340259","contact:email":"sp_lipno@splipno.pl","ref:regon":"000266896","operator":"Gmina Lipno","operator:type":"government","amenity":"school","note":"Parent RSPO: 275361"}},{"id":275921,"type":"Feature","geometry":{"type":"Point","coordinates":[16.59195,51.95204]},"properties":{"ref:rspo":275921,"official_name":"Przedszkole w G\u00f3rce Duchownej","name":"Przedszkole w G\u00f3rce Duchownej","addr:country":"PL","addr:postcode":"64-111","addr:place":"G\u00f3rka Duchowna","addr:housenumber":"68","addr:teryt:sym_ul":372888,"ref:regon":"386953502","operator":"Gmina Lipno","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 275359"}},{"id":275923,"type":"Feature","geometry":{"type":"Point","coordinates":[16.54501,51.95436]},"properties":{"ref:rspo":275923,"official_name":"Przedszkole w Radomicku","name":"Przedszkole w Radomicku","addr:country":"PL","addr:postcode":"64-111","addr:place":"Radomicko","addr:housenumber":"2","addr:teryt:sym_ul":372954,"ref:regon":"386953608","operator":"Gmina Lipno","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 275361"}},{"id":128750,"type":"Feature","geometry":{"type":"Point","coordinates":[16.58794,51.95689]},"properties":{"isced:level":"1;2","ref:rspo":128750,"official_name":"Szko\u0142a Podstawowa w G\u00f3rce Duchownej","name":"Szko\u0142a Podstawowa w G\u00f3rce Duchownej","addr:country":"PL","addr:postcode":"64-111","addr:place":"G\u00f3rka Duchowna","addr:housenumber":"12","addr:teryt:sym_ul":372888,"contact:phone":"+48 535305150","contact:email":"karinia1@op.pl","ref:regon":"362392815","ref:vatin":"PL6972317182","operator":"Fundacja \u015awi\u0119tej Siostry Faustyny","operator:type":"ngo","amenity":"school"}},{"id":272776,"type":"Feature","geometry":{"type":"Point","coordinates":[16.58794,51.95686]},"properties":{"isced:level":"1;2","ref:rspo":272776,"official_name":"Niepubliczna Szko\u0142a Podstawowa \"Odkrywcy\"","name":"Niepubliczna Szko\u0142a Podstawowa \"Odkrywcy\"","addr:country":"PL","addr:postcode":"64-111","addr:place":"G\u00f3rka Duchowna","addr:housenumber":"12","addr:teryt:sym_ul":372888,"contact:email":"materialynauczycieliszkola@gmail.com","ref:regon":"384286160","ref:vatin":"PL6972379332","operator":"Fundacja \u015awi\u0119tej Siostry Faustyny","operator:type":"ngo","amenity":"school"}},{"id":273153,"type":"Feature","geometry":{"type":"Point","coordinates":[16.58794,51.956830000000004]},"properties":{"isced:level":"3","ref:rspo":273153,"official_name":"Niepubliczne Liceum Og\u00f3lnokszta\u0142c\u0105ce w G\u00f3rce Duchownej","name":"Niepubliczne Liceum Og\u00f3lnokszta\u0142c\u0105ce w G\u00f3rce Duchownej","addr:country":"PL","addr:postcode":"64-111","addr:place":"G\u00f3rka Duchowna","addr:housenumber":"12","addr:teryt:sym_ul":372888,"contact:email":"nlogorkaduchowna@gmail.com","ref:regon":"384385991","operator":"Joanna Strzelecka","operator:type":"private","amenity":"school"}},{"id":275922,"type":"Feature","geometry":{"type":"Point","coordinates":[16.60735,52.24916]},"properties":{"ref:rspo":275922,"official_name":"Przedszkole w Wilkowicach","name":"Przedszkole w Wilkowicach","addr:country":"PL","addr:postcode":"64-115","addr:city":"Wilkowice","addr:street":"park Park","addr:housenumber":"7","addr:teryt:simc":15697,"addr:teryt:sym_ul":373037,"ref:regon":"386953531","operator":"Gmina Lipno","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 275360"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 86088,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.5482799,
+                    51.87977
+                ]
+            },
+            "properties": {
+                "ref:rspo": 86088,
+                "official_name": "Przedszkole Niepubliczne w Wilkowicach",
+                "name": "Przedszkole Niepubliczne w Wilkowicach",
+                "addr:country": "PL",
+                "addr:postcode": "64-115",
+                "addr:city": "Wilkowice",
+                "addr:street": "ul. Ogrodowa",
+                "addr:housenumber": "2c",
+                "addr:teryt:simc": 14834,
+                "addr:teryt:sym_ul": 373037,
+                "contact:phone": "+48 603684034",
+                "contact:email": "akademia.smyka@wp.pl",
+                "ref:regon": "302269895",
+                "operator": "Dane Do Uzupe\u0142nienia",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 126021,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.53389,
+                    51.88054
+                ]
+            },
+            "properties": {
+                "ref:rspo": 126021,
+                "official_name": "Firma Szkoleniowo-Us\u0142ugowa Edumi Izabela Muszy\u0144ska",
+                "name": "Firma Szkoleniowo-Us\u0142ugowa Edumi Izabela Muszy\u0144ska",
+                "addr:country": "PL",
+                "addr:postcode": "64-115",
+                "addr:city": "Wilkowice",
+                "addr:street": "ul. Modrzewiowa",
+                "addr:housenumber": "29b",
+                "addr:teryt:simc": 13184,
+                "addr:teryt:sym_ul": 373037,
+                "contact:phone": "+48 693878658",
+                "contact:email": "edumi2@wp.pl",
+                "ref:regon": "360136090",
+                "ref:vatin": "PL6971536769",
+                "operator": "Izabela Muszy\u0144ska",
+                "operator:type": "private",
+                "fixme": "w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. amenity=training + training=*, amenity=dancing_school, amenity=language_school, amenity=music_school)"
+            }
+        },
+        {
+            "id": 275360,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.53753,
+                    51.88595
+                ]
+            },
+            "properties": {
+                "ref:rspo": 275360,
+                "official_name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w Wilkowicach",
+                "name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w Wilkowicach",
+                "addr:country": "PL",
+                "addr:postcode": "64-115",
+                "addr:city": "Wilkowice",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "28",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 373037,
+                "contact:phone": "+48 655341395",
+                "contact:email": "spwilkowice@wp.pl",
+                "contact:website": "https:\/\/sp-wilkowice.edupage.org",
+                "ref:regon": "386825750",
+                "ref:vatin": "PL6972079185",
+                "operator": "Gmina Lipno",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 86087;275922"
+            }
+        },
+        {
+            "id": 86087,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.53753,
+                    51.88592
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 86087,
+                "official_name": "Szko\u0142a Podstawowa im. Powsta\u0144c\u00f3w Wielkopolskich w Wilkowicach",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "64-115",
+                "addr:city": "Wilkowice",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "28",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 373037,
+                "contact:phone": "+48 655341395",
+                "contact:email": "spwilkowice@wp.pl",
+                "contact:website": "http:\/\/www.sp-wilkowice.edupage.org",
+                "ref:regon": "001118057",
+                "operator": "Gmina Lipno",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 275360"
+            }
+        },
+        {
+            "id": 275359,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.6147985,
+                    51.9141289
+                ]
+            },
+            "properties": {
+                "ref:rspo": 275359,
+                "official_name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w Goniembicach",
+                "name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w Goniembicach",
+                "addr:country": "PL",
+                "addr:postcode": "64-111",
+                "addr:place": "Goniembice",
+                "addr:housenumber": "30",
+                "addr:teryt:sym_ul": 372871,
+                "contact:phone": "+48 655340135",
+                "contact:email": "sp_goniembice@wp.pl",
+                "ref:regon": "386825678",
+                "ref:vatin": "PL6972079216",
+                "operator": "Gmina Lipno",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 86084;275920;275921"
+            }
+        },
+        {
+            "id": 86084,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.6147985,
+                    51.9140989
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 86084,
+                "official_name": "Szko\u0142a Podstawowa im. 17 Pu\u0142ku U\u0142an\u00f3w Wielkopolskich w Goniembicach",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "64-111",
+                "addr:place": "Goniembice",
+                "addr:housenumber": "30",
+                "addr:teryt:sym_ul": 372871,
+                "contact:phone": "+48 655340135",
+                "contact:email": "sp_goniembice@wp.pl",
+                "contact:website": "http:\/\/www.goniembice.pl",
+                "ref:regon": "001118040",
+                "operator": "Gmina Lipno",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 275359"
+            }
+        },
+        {
+            "id": 275920,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.6147985,
+                    51.914068900000004
+                ]
+            },
+            "properties": {
+                "ref:rspo": 275920,
+                "official_name": "Przedszkole w Goniembicach",
+                "name": "Przedszkole w Goniembicach",
+                "addr:country": "PL",
+                "addr:postcode": "64-111",
+                "addr:place": "Goniembice",
+                "addr:housenumber": "30",
+                "addr:teryt:sym_ul": 372871,
+                "contact:phone": "+48 655340135",
+                "ref:regon": "386953442",
+                "operator": "Gmina Lipno",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 275359"
+            }
+        },
+        {
+            "id": 86086,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.55878,
+                    51.9185
+                ]
+            },
+            "properties": {
+                "ref:rspo": 86086,
+                "official_name": "Przedszkole w Lipnie",
+                "name": "Przedszkole w Lipnie",
+                "addr:country": "PL",
+                "addr:postcode": "64-111",
+                "addr:city": "Lipno",
+                "addr:street": "ul. Powsta\u0144c\u00f3w Wielkopolskich",
+                "addr:housenumber": "46",
+                "addr:teryt:simc": 17377,
+                "addr:teryt:sym_ul": 372931,
+                "contact:phone": "+48 655340928",
+                "contact:email": "przedszkole@lipno.pl",
+                "ref:regon": "300098662",
+                "operator": "Gmina Lipno",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 275361"
+            }
+        },
+        {
+            "id": 275361,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.55504,
+                    51.91934
+                ]
+            },
+            "properties": {
+                "ref:rspo": 275361,
+                "official_name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w Lipnie",
+                "name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w Lipnie",
+                "addr:country": "PL",
+                "addr:postcode": "64-111",
+                "addr:city": "Lipno",
+                "addr:street": "ul. Powsta\u0144c\u00f3w Wielkopolskich",
+                "addr:housenumber": "68",
+                "addr:teryt:simc": 17377,
+                "addr:teryt:sym_ul": 372931,
+                "contact:phone": "+48 655340259",
+                "contact:email": "sp_lipno@splipno.pl",
+                "ref:regon": "386825796",
+                "ref:vatin": "PL6972343392",
+                "operator": "Gmina Lipno",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 64706;86086;275923"
+            }
+        },
+        {
+            "id": 64706,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.55504,
+                    51.919309999999996
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 64706,
+                "official_name": "Szko\u0142a Podstawowa im. Wojska Polskiego w Lipnie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "64-111",
+                "addr:city": "Lipno",
+                "addr:street": "ul. Powsta\u0144c\u00f3w Wielkopolskich",
+                "addr:housenumber": "68",
+                "addr:teryt:simc": 17377,
+                "addr:teryt:sym_ul": 372931,
+                "contact:phone": "+48 655340259",
+                "contact:email": "sp_lipno@splipno.pl",
+                "ref:regon": "000266896",
+                "operator": "Gmina Lipno",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 275361"
+            }
+        },
+        {
+            "id": 275921,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.59195,
+                    51.95204
+                ]
+            },
+            "properties": {
+                "ref:rspo": 275921,
+                "official_name": "Przedszkole w G\u00f3rce Duchownej",
+                "name": "Przedszkole w G\u00f3rce Duchownej",
+                "addr:country": "PL",
+                "addr:postcode": "64-111",
+                "addr:place": "G\u00f3rka Duchowna",
+                "addr:housenumber": "68",
+                "addr:teryt:sym_ul": 372888,
+                "ref:regon": "386953502",
+                "operator": "Gmina Lipno",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 275359"
+            }
+        },
+        {
+            "id": 275923,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.54501,
+                    51.95436
+                ]
+            },
+            "properties": {
+                "ref:rspo": 275923,
+                "official_name": "Przedszkole w Radomicku",
+                "name": "Przedszkole w Radomicku",
+                "addr:country": "PL",
+                "addr:postcode": "64-111",
+                "addr:place": "Radomicko",
+                "addr:housenumber": "2",
+                "addr:teryt:sym_ul": 372954,
+                "ref:regon": "386953608",
+                "operator": "Gmina Lipno",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 275361"
+            }
+        },
+        {
+            "id": 128750,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.58794,
+                    51.95689
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 128750,
+                "official_name": "Szko\u0142a Podstawowa w G\u00f3rce Duchownej",
+                "name": "Szko\u0142a Podstawowa w G\u00f3rce Duchownej",
+                "addr:country": "PL",
+                "addr:postcode": "64-111",
+                "addr:place": "G\u00f3rka Duchowna",
+                "addr:housenumber": "12",
+                "addr:teryt:sym_ul": 372888,
+                "contact:phone": "+48 535305150",
+                "contact:email": "karinia1@op.pl",
+                "ref:regon": "362392815",
+                "ref:vatin": "PL6972317182",
+                "operator": "Fundacja \u015awi\u0119tej Siostry Faustyny",
+                "operator:type": "ngo",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 272776,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.58794,
+                    51.95686
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 272776,
+                "official_name": "Niepubliczna Szko\u0142a Podstawowa \"Odkrywcy\"",
+                "name": "Niepubliczna Szko\u0142a Podstawowa \"Odkrywcy\"",
+                "addr:country": "PL",
+                "addr:postcode": "64-111",
+                "addr:place": "G\u00f3rka Duchowna",
+                "addr:housenumber": "12",
+                "addr:teryt:sym_ul": 372888,
+                "contact:email": "materialynauczycieliszkola@gmail.com",
+                "ref:regon": "384286160",
+                "ref:vatin": "PL6972379332",
+                "operator": "Fundacja \u015awi\u0119tej Siostry Faustyny",
+                "operator:type": "ngo",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 273153,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.58794,
+                    51.956830000000004
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 273153,
+                "official_name": "Niepubliczne Liceum Og\u00f3lnokszta\u0142c\u0105ce w G\u00f3rce Duchownej",
+                "name": "Niepubliczne Liceum Og\u00f3lnokszta\u0142c\u0105ce w G\u00f3rce Duchownej",
+                "addr:country": "PL",
+                "addr:postcode": "64-111",
+                "addr:place": "G\u00f3rka Duchowna",
+                "addr:housenumber": "12",
+                "addr:teryt:sym_ul": 372888,
+                "contact:email": "nlogorkaduchowna@gmail.com",
+                "ref:regon": "384385991",
+                "operator": "Joanna Strzelecka",
+                "operator:type": "private",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 275922,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.60735,
+                    52.24916
+                ]
+            },
+            "properties": {
+                "ref:rspo": 275922,
+                "official_name": "Przedszkole w Wilkowicach",
+                "name": "Przedszkole w Wilkowicach",
+                "addr:country": "PL",
+                "addr:postcode": "64-115",
+                "addr:city": "Wilkowice",
+                "addr:street": "park Park",
+                "addr:housenumber": "7",
+                "addr:teryt:simc": 15697,
+                "addr:teryt:sym_ul": 373037,
+                "ref:regon": "386953531",
+                "operator": "Gmina Lipno",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 275360"
+            }
+        }
+    ]
+}

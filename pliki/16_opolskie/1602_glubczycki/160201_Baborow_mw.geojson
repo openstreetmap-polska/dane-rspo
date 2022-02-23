@@ -1,1 +1,101 @@
-{"type":"FeatureCollection","features":[{"id":83261,"type":"Feature","geometry":{"type":"Point","coordinates":[17.98697,50.15923]},"properties":{"ref:rspo":83261,"official_name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w Baborowie","name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w Baborowie","addr:country":"PL","addr:postcode":"48-120","addr:city":"Babor\u00f3w","addr:street":"ul. Wiejska","addr:housenumber":"5a","addr:teryt:simc":24048,"addr:teryt:sym_ul":965200,"contact:phone":"+48 774036950","contact:email":"zs_baborow@wodip.opole.pl","contact:website":"http:\/\/www.zs_baborow.wodip.opole.pl\/","ref:regon":"161370574","ref:vatin":"PL7481578488","operator":"Gmina Babor\u00f3w","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 114793;114797"}},{"id":114793,"type":"Feature","geometry":{"type":"Point","coordinates":[17.98697,50.1592]},"properties":{"ref:rspo":114793,"official_name":"Publiczne Przedszkole w Baborowie","name":"Publiczne Przedszkole w Baborowie","addr:country":"PL","addr:postcode":"48-120","addr:city":"Babor\u00f3w","addr:street":"ul. Wiejska","addr:housenumber":"5A","addr:teryt:simc":24048,"addr:teryt:sym_ul":965200,"contact:phone":"+48 774036950","contact:email":"zs_baborow@wodip.opole.pl","contact:website":"http:\/\/www.zs_baborow.wodip.opole.pl","ref:regon":"160148247","operator":"Gmina Babor\u00f3w","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 83261"}},{"id":114797,"type":"Feature","geometry":{"type":"Point","coordinates":[17.98697,50.15917]},"properties":{"isced:level":"1;2","ref:rspo":114797,"official_name":"Publiczna Szko\u0142a Podstawowa w Baborowie","name":"Publiczna Szko\u0142a Podstawowa w Baborowie","addr:country":"PL","addr:postcode":"48-120","addr:city":"Babor\u00f3w","addr:street":"ul. Wiejska","addr:housenumber":"5A","addr:teryt:simc":24048,"addr:teryt:sym_ul":965200,"contact:phone":"+48 774036950","contact:email":"zs_baborow@wodip.opole.pl","contact:website":"http:\/\/www.zs_baborow.wodip.opole.pl","ref:regon":"000261628","operator":"Gmina Babor\u00f3w","operator:type":"government","amenity":"school","note":"Parent RSPO: 83261"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 83261,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.98697,
+                    50.15923
+                ]
+            },
+            "properties": {
+                "ref:rspo": 83261,
+                "official_name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w Baborowie",
+                "name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w Baborowie",
+                "addr:country": "PL",
+                "addr:postcode": "48-120",
+                "addr:city": "Babor\u00f3w",
+                "addr:street": "ul. Wiejska",
+                "addr:housenumber": "5a",
+                "addr:teryt:simc": 24048,
+                "addr:teryt:sym_ul": 965200,
+                "contact:phone": "+48 774036950",
+                "contact:email": "zs_baborow@wodip.opole.pl",
+                "contact:website": "http:\/\/www.zs_baborow.wodip.opole.pl\/",
+                "ref:regon": "161370574",
+                "ref:vatin": "PL7481578488",
+                "operator": "Gmina Babor\u00f3w",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 114793;114797"
+            }
+        },
+        {
+            "id": 114793,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.98697,
+                    50.1592
+                ]
+            },
+            "properties": {
+                "ref:rspo": 114793,
+                "official_name": "Publiczne Przedszkole w Baborowie",
+                "name": "Publiczne Przedszkole w Baborowie",
+                "addr:country": "PL",
+                "addr:postcode": "48-120",
+                "addr:city": "Babor\u00f3w",
+                "addr:street": "ul. Wiejska",
+                "addr:housenumber": "5A",
+                "addr:teryt:simc": 24048,
+                "addr:teryt:sym_ul": 965200,
+                "contact:phone": "+48 774036950",
+                "contact:email": "zs_baborow@wodip.opole.pl",
+                "contact:website": "http:\/\/www.zs_baborow.wodip.opole.pl",
+                "ref:regon": "160148247",
+                "operator": "Gmina Babor\u00f3w",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 83261"
+            }
+        },
+        {
+            "id": 114797,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.98697,
+                    50.15917
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 114797,
+                "official_name": "Publiczna Szko\u0142a Podstawowa w Baborowie",
+                "name": "Publiczna Szko\u0142a Podstawowa w Baborowie",
+                "addr:country": "PL",
+                "addr:postcode": "48-120",
+                "addr:city": "Babor\u00f3w",
+                "addr:street": "ul. Wiejska",
+                "addr:housenumber": "5A",
+                "addr:teryt:simc": 24048,
+                "addr:teryt:sym_ul": 965200,
+                "contact:phone": "+48 774036950",
+                "contact:email": "zs_baborow@wodip.opole.pl",
+                "contact:website": "http:\/\/www.zs_baborow.wodip.opole.pl",
+                "ref:regon": "000261628",
+                "operator": "Gmina Babor\u00f3w",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 83261"
+            }
+        }
+    ]
+}

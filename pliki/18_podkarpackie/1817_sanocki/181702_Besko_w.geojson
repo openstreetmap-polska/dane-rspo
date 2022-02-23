@@ -1,1 +1,100 @@
-{"type":"FeatureCollection","features":[{"id":126909,"type":"Feature","geometry":{"type":"Point","coordinates":[21.93988,49.57278]},"properties":{"isced:level":"1;2","ref:rspo":126909,"official_name":"Szko\u0142a Podstawowa w Besku Filia w Mymoniu","name":"Szko\u0142a Podstawowa w Besku Filia w Mymoniu","addr:country":"PL","addr:postcode":"38-524","addr:city":"Mymo\u0144","addr:street":"ul. Szkolna","addr:housenumber":"14","addr:teryt:simc":21970,"addr:teryt:sym_ul":344656,"contact:phone":"+48 134673020","contact:email":"sp.mymon14@wp.pl","ref:regon":"629821000","ref:vatin":"PL6871802763","operator":"Gmina Besko","operator:type":"government","amenity":"school","note":"Parent RSPO: 58903"}},{"id":58903,"type":"Feature","geometry":{"type":"Point","coordinates":[21.95777,49.59089]},"properties":{"isced:level":"1;2","ref:rspo":58903,"official_name":"Szko\u0142a Podstawowa w Besku","name":"Szko\u0142a Podstawowa w Besku","addr:country":"PL","addr:postcode":"38-524","addr:city":"Besko","addr:street":"ul. Kolejowa","addr:housenumber":"54","addr:teryt:simc":8828,"addr:teryt:sym_ul":344573,"contact:phone":"+48 134673530","contact:email":"zsbesko@zsbesko.pl","contact:website":"http:\/\/zsbesko.pl","ref:regon":"000629821","ref:vatin":"PL6871802763","operator":"Gmina Besko","operator:type":"government","amenity":"school","note":"Children RSPO: 126909"}},{"id":113852,"type":"Feature","geometry":{"type":"Point","coordinates":[21.96222,49.59152]},"properties":{"ref:rspo":113852,"official_name":"Przedszkole Niepubliczne Si\u00f3str Felicjanek Pod Wezwaniem \u015aw. J\u00f3zefa w Besku","name":"Przedszkole Niepubliczne Si\u00f3str Felicjanek Pod Wezwaniem \u015aw. J\u00f3zefa w Besku","addr:country":"PL","addr:postcode":"38-524","addr:city":"Besko","addr:street":"ul. Starowiejska","addr:housenumber":"51","addr:teryt:simc":20998,"addr:teryt:sym_ul":344573,"contact:phone":"+48 134673058","contact:email":"beskofel@poczta.fm","ref:regon":"180965456","ref:vatin":"PL6871450175","operator":"Zgromadzenie Si\u00f3str \u015aw.feliksa Z Kantalicjo, Prowincja Krakowska","operator:type":"religious","amenity":"kindergarten"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 126909,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.93988,
+                    49.57278
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 126909,
+                "official_name": "Szko\u0142a Podstawowa w Besku Filia w Mymoniu",
+                "name": "Szko\u0142a Podstawowa w Besku Filia w Mymoniu",
+                "addr:country": "PL",
+                "addr:postcode": "38-524",
+                "addr:city": "Mymo\u0144",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "14",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 344656,
+                "contact:phone": "+48 134673020",
+                "contact:email": "sp.mymon14@wp.pl",
+                "ref:regon": "629821000",
+                "ref:vatin": "PL6871802763",
+                "operator": "Gmina Besko",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 58903"
+            }
+        },
+        {
+            "id": 58903,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.95777,
+                    49.59089
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 58903,
+                "official_name": "Szko\u0142a Podstawowa w Besku",
+                "name": "Szko\u0142a Podstawowa w Besku",
+                "addr:country": "PL",
+                "addr:postcode": "38-524",
+                "addr:city": "Besko",
+                "addr:street": "ul. Kolejowa",
+                "addr:housenumber": "54",
+                "addr:teryt:simc": 8828,
+                "addr:teryt:sym_ul": 344573,
+                "contact:phone": "+48 134673530",
+                "contact:email": "zsbesko@zsbesko.pl",
+                "contact:website": "http:\/\/zsbesko.pl",
+                "ref:regon": "000629821",
+                "ref:vatin": "PL6871802763",
+                "operator": "Gmina Besko",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Children RSPO: 126909"
+            }
+        },
+        {
+            "id": 113852,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.96222,
+                    49.59152
+                ]
+            },
+            "properties": {
+                "ref:rspo": 113852,
+                "official_name": "Przedszkole Niepubliczne Si\u00f3str Felicjanek Pod Wezwaniem \u015aw. J\u00f3zefa w Besku",
+                "name": "Przedszkole Niepubliczne Si\u00f3str Felicjanek Pod Wezwaniem \u015aw. J\u00f3zefa w Besku",
+                "addr:country": "PL",
+                "addr:postcode": "38-524",
+                "addr:city": "Besko",
+                "addr:street": "ul. Starowiejska",
+                "addr:housenumber": "51",
+                "addr:teryt:simc": 20998,
+                "addr:teryt:sym_ul": 344573,
+                "contact:phone": "+48 134673058",
+                "contact:email": "beskofel@poczta.fm",
+                "ref:regon": "180965456",
+                "ref:vatin": "PL6871450175",
+                "operator": "Zgromadzenie Si\u00f3str \u015aw.feliksa Z Kantalicjo, Prowincja Krakowska",
+                "operator:type": "religious",
+                "amenity": "kindergarten"
+            }
+        }
+    ]
+}

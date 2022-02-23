@@ -1,1 +1,122 @@
-{"type":"FeatureCollection","features":[{"id":40961,"type":"Feature","geometry":{"type":"Point","coordinates":[21.1506599,50.36371]},"properties":{"isced:level":"1;2","ref:rspo":40961,"official_name":"Publiczna Szko\u0142a Podstawowa w Gacach S\u0142upieckich","name":"Publiczna Szko\u0142a Podstawowa w Gacach S\u0142upieckich","addr:country":"PL","addr:postcode":"28-232","addr:place":"Gace S\u0142upieckie","addr:housenumber":"85","addr:teryt:sym_ul":798529,"contact:phone":"+48 158659308","contact:email":"pspgaceslupieckie@lubnice.eu","ref:regon":"001186946","ref:vatin":"PL8661573010","operator":"Gmina \u0141ubnice","operator:type":"government","amenity":"school"}},{"id":40960,"type":"Feature","geometry":{"type":"Point","coordinates":[21.20727,50.37787]},"properties":{"isced:level":"1;2","ref:rspo":40960,"official_name":"Publiczna Szko\u0142a Podstawowa w Budziskach","name":"Publiczna Szko\u0142a Podstawowa w Budziskach","addr:country":"PL","addr:postcode":"28-232","addr:place":"Budziska","addr:housenumber":"146","addr:teryt:sym_ul":798417,"contact:phone":"+48 158659200","contact:email":"pspbudziska@lubnice.eu","ref:regon":"001186930","ref:vatin":"PL8661540720","operator":"Gmina \u0141ubnice","operator:type":"government","amenity":"school"}},{"id":40958,"type":"Feature","geometry":{"type":"Point","coordinates":[21.14913,50.40937]},"properties":{"isced:level":"1;2","ref:rspo":40958,"official_name":"Publiczna Szko\u0142a Podstawowa im. Wojciecha Skuzy w \u0141ubnicach","name":"Publiczna Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"28-232","addr:place":"\u0141ubnice","addr:housenumber":"62","addr:teryt:sym_ul":798593,"contact:phone":"+48 158659224","contact:email":"psplubnice@lubnice.eu","ref:regon":"001016233","ref:vatin":"PL8661575925","operator":"Gmina \u0141ubnice","operator:type":"government","amenity":"school"}},{"id":40962,"type":"Feature","geometry":{"type":"Point","coordinates":[21.16416,50.4553299]},"properties":{"isced:level":"1;2","ref:rspo":40962,"official_name":"Publiczna Szko\u0142a Podstawowa w Wilkowej","name":"Publiczna Szko\u0142a Podstawowa w Wilkowej","addr:country":"PL","addr:postcode":"28-232","addr:place":"Wilkowa","addr:housenumber":"47","addr:teryt:sym_ul":798908,"contact:phone":"+48 158659680","contact:email":"pspwilkowa@lubnice.eu","contact:website":"http:\/\/www.psp-wilkowa.cba.pl\/","ref:regon":"001186343","ref:vatin":"PL8661573004","operator":"Gmina \u0141ubnice","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 40961,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.1506599,
+                    50.36371
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 40961,
+                "official_name": "Publiczna Szko\u0142a Podstawowa w Gacach S\u0142upieckich",
+                "name": "Publiczna Szko\u0142a Podstawowa w Gacach S\u0142upieckich",
+                "addr:country": "PL",
+                "addr:postcode": "28-232",
+                "addr:place": "Gace S\u0142upieckie",
+                "addr:housenumber": "85",
+                "addr:teryt:sym_ul": 798529,
+                "contact:phone": "+48 158659308",
+                "contact:email": "pspgaceslupieckie@lubnice.eu",
+                "ref:regon": "001186946",
+                "ref:vatin": "PL8661573010",
+                "operator": "Gmina \u0141ubnice",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 40960,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.20727,
+                    50.37787
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 40960,
+                "official_name": "Publiczna Szko\u0142a Podstawowa w Budziskach",
+                "name": "Publiczna Szko\u0142a Podstawowa w Budziskach",
+                "addr:country": "PL",
+                "addr:postcode": "28-232",
+                "addr:place": "Budziska",
+                "addr:housenumber": "146",
+                "addr:teryt:sym_ul": 798417,
+                "contact:phone": "+48 158659200",
+                "contact:email": "pspbudziska@lubnice.eu",
+                "ref:regon": "001186930",
+                "ref:vatin": "PL8661540720",
+                "operator": "Gmina \u0141ubnice",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 40958,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.14913,
+                    50.40937
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 40958,
+                "official_name": "Publiczna Szko\u0142a Podstawowa im. Wojciecha Skuzy w \u0141ubnicach",
+                "name": "Publiczna Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "28-232",
+                "addr:place": "\u0141ubnice",
+                "addr:housenumber": "62",
+                "addr:teryt:sym_ul": 798593,
+                "contact:phone": "+48 158659224",
+                "contact:email": "psplubnice@lubnice.eu",
+                "ref:regon": "001016233",
+                "ref:vatin": "PL8661575925",
+                "operator": "Gmina \u0141ubnice",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 40962,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.16416,
+                    50.4553299
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 40962,
+                "official_name": "Publiczna Szko\u0142a Podstawowa w Wilkowej",
+                "name": "Publiczna Szko\u0142a Podstawowa w Wilkowej",
+                "addr:country": "PL",
+                "addr:postcode": "28-232",
+                "addr:place": "Wilkowa",
+                "addr:housenumber": "47",
+                "addr:teryt:sym_ul": 798908,
+                "contact:phone": "+48 158659680",
+                "contact:email": "pspwilkowa@lubnice.eu",
+                "contact:website": "http:\/\/www.psp-wilkowa.cba.pl\/",
+                "ref:regon": "001186343",
+                "ref:vatin": "PL8661573004",
+                "operator": "Gmina \u0141ubnice",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

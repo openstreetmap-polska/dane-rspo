@@ -1,1 +1,223 @@
-{"type":"FeatureCollection","features":[{"id":48715,"type":"Feature","geometry":{"type":"Point","coordinates":[19.01425,50.44732]},"properties":{"ref:rspo":48715,"official_name":"Przedszkole w T\u0105pkowicach","name":"Przedszkole w T\u0105pkowicach","addr:country":"PL","addr:postcode":"42-624","addr:city":"T\u0105pkowice","addr:street":"ul. Kopernika","addr:housenumber":"2","addr:teryt:simc":9276,"addr:teryt:sym_ul":222396,"contact:phone":"+48 323939019","contact:email":"przedszkole.tapkowice@gzoiw.pl","contact:website":"http:\/\/www.przedtapkowice.szkolnastrona.pl","ref:regon":"271506442","ref:vatin":"PL6452497657","operator":"Gmina O\u017carowice","operator:type":"government","amenity":"kindergarten"}},{"id":53327,"type":"Feature","geometry":{"type":"Point","coordinates":[19.01425,50.447289999999995]},"properties":{"isced:level":"1;2","ref:rspo":53327,"official_name":"Szko\u0142a Podstawowa im. Micha\u0142a Okurza\u0142ego w T\u0105pkowicach","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"42-624","addr:city":"T\u0105pkowice","addr:street":"ul. Kopernika","addr:housenumber":"2","addr:teryt:simc":9276,"addr:teryt:sym_ul":222396,"contact:phone":"+48 323939016","contact:email":"sp.tapkowice@gzoiw.pl","contact:website":"http:\/\/www.szkolatap.superszkolna.pl","ref:regon":"000270194","ref:vatin":"PL6452497663","operator":"Gmina O\u017carowice","operator:type":"government","amenity":"school"}},{"id":55714,"type":"Feature","geometry":{"type":"Point","coordinates":[19.0715499,50.46163]},"properties":{"isced:level":"1;2","ref:rspo":55714,"official_name":"Niepubliczna Szko\u0142a Podstawowa w Pyrzowicach","name":"Niepubliczna Szko\u0142a Podstawowa w Pyrzowicach","addr:country":"PL","addr:postcode":"42-625","addr:city":"Pyrzowice","addr:street":"ul. Wolno\u015bci","addr:housenumber":"46","addr:teryt:simc":24687,"addr:teryt:sym_ul":222380,"contact:phone":"+48 322845019","contact:email":"nsppyrzowice@interia.pl","ref:regon":"243082981","ref:vatin":"PL6452301803","operator":"Stowarzyszenie Rozwoju Wsi Pyrzowice","operator:type":"ngo","amenity":"school"}},{"id":55737,"type":"Feature","geometry":{"type":"Point","coordinates":[19.0715499,50.4616]},"properties":{"ref:rspo":55737,"official_name":"Niepubliczne Przedszkole w Pyrzowicach","name":"Niepubliczne Przedszkole w Pyrzowicach","addr:country":"PL","addr:postcode":"42-625","addr:city":"Pyrzowice","addr:street":"ul. Wolno\u015bci","addr:housenumber":"46","addr:teryt:simc":24687,"addr:teryt:sym_ul":222380,"contact:phone":"+48 322845019","contact:email":"nsppyrzowice@interia.pl","ref:regon":"243082969","ref:vatin":"PL6452301803","operator":"Stowarzyszenie Rozwoju Wsi Pyrzowice","operator:type":"ngo","amenity":"kindergarten"}},{"id":262315,"type":"Feature","geometry":{"type":"Point","coordinates":[19.03842,50.46689]},"properties":{"isced:level":"1;2","ref:rspo":262315,"official_name":"Szko\u0142a Podstawowa w O\u017carowicach","name":"Szko\u0142a Podstawowa w O\u017carowicach","addr:country":"PL","addr:postcode":"42-625","addr:city":"O\u017carowice","addr:street":"ul. Szkolna","addr:housenumber":"10","addr:teryt:simc":21970,"addr:teryt:sym_ul":222373,"contact:phone":"+48 323939015","contact:email":"sp.ozarowice@gzoiw.pl","ref:regon":"367993620","ref:vatin":"PL6452552511","operator":"Gmina O\u017carowice","operator:type":"government","amenity":"school"}},{"id":48818,"type":"Feature","geometry":{"type":"Point","coordinates":[19.04432,50.46803]},"properties":{"ref:rspo":48818,"official_name":"Przedszkole w O\u017carowicach","name":"Przedszkole w O\u017carowicach","addr:country":"PL","addr:postcode":"42-625","addr:city":"O\u017carowice","addr:street":"ul. Tarnog\u00f3rska","addr:housenumber":"12a","addr:teryt:simc":22677,"addr:teryt:sym_ul":222373,"contact:phone":"+48 323939018","contact:email":"przedszkole.ozarowice@gzoiw.pl","contact:website":"http:\/\/www.przedszkoleozarowice.szkolnastrona.pl","ref:regon":"271506436","ref:vatin":"PL6452497686","operator":"Gmina O\u017carowice","operator:type":"government","amenity":"kindergarten"}},{"id":53748,"type":"Feature","geometry":{"type":"Point","coordinates":[19.08858,50.49631]},"properties":{"isced:level":"1;2","ref:rspo":53748,"official_name":"Szko\u0142a Podstawowa im. Jana Paw\u0142a II w Zendku","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"42-625","addr:city":"Zendek","addr:street":"ul. G\u0142\u00f3wna","addr:housenumber":"126","addr:teryt:simc":5635,"addr:teryt:sym_ul":222404,"contact:phone":"+48 323939017","contact:email":"sp.zendek@gzoiw.pl","contact:website":"http:\/\/www.spzendek.szkolnastrona.pl","ref:regon":"001199050","ref:vatin":"PL6452497568","operator":"Gmina O\u017carowice","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 48715,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.01425,
+                    50.44732
+                ]
+            },
+            "properties": {
+                "ref:rspo": 48715,
+                "official_name": "Przedszkole w T\u0105pkowicach",
+                "name": "Przedszkole w T\u0105pkowicach",
+                "addr:country": "PL",
+                "addr:postcode": "42-624",
+                "addr:city": "T\u0105pkowice",
+                "addr:street": "ul. Kopernika",
+                "addr:housenumber": "2",
+                "addr:teryt:simc": 9276,
+                "addr:teryt:sym_ul": 222396,
+                "contact:phone": "+48 323939019",
+                "contact:email": "przedszkole.tapkowice@gzoiw.pl",
+                "contact:website": "http:\/\/www.przedtapkowice.szkolnastrona.pl",
+                "ref:regon": "271506442",
+                "ref:vatin": "PL6452497657",
+                "operator": "Gmina O\u017carowice",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 53327,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.01425,
+                    50.447289999999995
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 53327,
+                "official_name": "Szko\u0142a Podstawowa im. Micha\u0142a Okurza\u0142ego w T\u0105pkowicach",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "42-624",
+                "addr:city": "T\u0105pkowice",
+                "addr:street": "ul. Kopernika",
+                "addr:housenumber": "2",
+                "addr:teryt:simc": 9276,
+                "addr:teryt:sym_ul": 222396,
+                "contact:phone": "+48 323939016",
+                "contact:email": "sp.tapkowice@gzoiw.pl",
+                "contact:website": "http:\/\/www.szkolatap.superszkolna.pl",
+                "ref:regon": "000270194",
+                "ref:vatin": "PL6452497663",
+                "operator": "Gmina O\u017carowice",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 55714,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0715499,
+                    50.46163
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 55714,
+                "official_name": "Niepubliczna Szko\u0142a Podstawowa w Pyrzowicach",
+                "name": "Niepubliczna Szko\u0142a Podstawowa w Pyrzowicach",
+                "addr:country": "PL",
+                "addr:postcode": "42-625",
+                "addr:city": "Pyrzowice",
+                "addr:street": "ul. Wolno\u015bci",
+                "addr:housenumber": "46",
+                "addr:teryt:simc": 24687,
+                "addr:teryt:sym_ul": 222380,
+                "contact:phone": "+48 322845019",
+                "contact:email": "nsppyrzowice@interia.pl",
+                "ref:regon": "243082981",
+                "ref:vatin": "PL6452301803",
+                "operator": "Stowarzyszenie Rozwoju Wsi Pyrzowice",
+                "operator:type": "ngo",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 55737,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0715499,
+                    50.4616
+                ]
+            },
+            "properties": {
+                "ref:rspo": 55737,
+                "official_name": "Niepubliczne Przedszkole w Pyrzowicach",
+                "name": "Niepubliczne Przedszkole w Pyrzowicach",
+                "addr:country": "PL",
+                "addr:postcode": "42-625",
+                "addr:city": "Pyrzowice",
+                "addr:street": "ul. Wolno\u015bci",
+                "addr:housenumber": "46",
+                "addr:teryt:simc": 24687,
+                "addr:teryt:sym_ul": 222380,
+                "contact:phone": "+48 322845019",
+                "contact:email": "nsppyrzowice@interia.pl",
+                "ref:regon": "243082969",
+                "ref:vatin": "PL6452301803",
+                "operator": "Stowarzyszenie Rozwoju Wsi Pyrzowice",
+                "operator:type": "ngo",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 262315,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.03842,
+                    50.46689
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 262315,
+                "official_name": "Szko\u0142a Podstawowa w O\u017carowicach",
+                "name": "Szko\u0142a Podstawowa w O\u017carowicach",
+                "addr:country": "PL",
+                "addr:postcode": "42-625",
+                "addr:city": "O\u017carowice",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "10",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 222373,
+                "contact:phone": "+48 323939015",
+                "contact:email": "sp.ozarowice@gzoiw.pl",
+                "ref:regon": "367993620",
+                "ref:vatin": "PL6452552511",
+                "operator": "Gmina O\u017carowice",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 48818,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.04432,
+                    50.46803
+                ]
+            },
+            "properties": {
+                "ref:rspo": 48818,
+                "official_name": "Przedszkole w O\u017carowicach",
+                "name": "Przedszkole w O\u017carowicach",
+                "addr:country": "PL",
+                "addr:postcode": "42-625",
+                "addr:city": "O\u017carowice",
+                "addr:street": "ul. Tarnog\u00f3rska",
+                "addr:housenumber": "12a",
+                "addr:teryt:simc": 22677,
+                "addr:teryt:sym_ul": 222373,
+                "contact:phone": "+48 323939018",
+                "contact:email": "przedszkole.ozarowice@gzoiw.pl",
+                "contact:website": "http:\/\/www.przedszkoleozarowice.szkolnastrona.pl",
+                "ref:regon": "271506436",
+                "ref:vatin": "PL6452497686",
+                "operator": "Gmina O\u017carowice",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 53748,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.08858,
+                    50.49631
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 53748,
+                "official_name": "Szko\u0142a Podstawowa im. Jana Paw\u0142a II w Zendku",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "42-625",
+                "addr:city": "Zendek",
+                "addr:street": "ul. G\u0142\u00f3wna",
+                "addr:housenumber": "126",
+                "addr:teryt:simc": 5635,
+                "addr:teryt:sym_ul": 222404,
+                "contact:phone": "+48 323939017",
+                "contact:email": "sp.zendek@gzoiw.pl",
+                "contact:website": "http:\/\/www.spzendek.szkolnastrona.pl",
+                "ref:regon": "001199050",
+                "ref:vatin": "PL6452497568",
+                "operator": "Gmina O\u017carowice",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

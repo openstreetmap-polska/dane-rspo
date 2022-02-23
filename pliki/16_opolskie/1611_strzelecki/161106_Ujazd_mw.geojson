@@ -1,1 +1,194 @@
-{"type":"FeatureCollection","features":[{"id":10251,"type":"Feature","geometry":{"type":"Point","coordinates":[18.35649,50.4270799]},"properties":{"isced:level":"1;2","ref:rspo":10251,"official_name":"Publiczna Szko\u0142a Podstawowa w Jaryszowie","name":"Publiczna Szko\u0142a Podstawowa w Jaryszowie","addr:country":"PL","addr:postcode":"47-143","addr:city":"Jarysz\u00f3w","addr:street":"ul. Stawowa","addr:housenumber":"1","addr:teryt:simc":21101,"addr:teryt:sym_ul":504321,"contact:phone":"+48 774637450","contact:email":"sekretariat@pspjaryszow.pl","contact:website":"https:\/\/www.pspjaryszow.pl\/","ref:regon":"001195945","ref:vatin":"PL7561815022","operator":"Gmina Ujazd","operator:type":"government","amenity":"school","note":"Children RSPO: 110205"}},{"id":55487,"type":"Feature","geometry":{"type":"Point","coordinates":[18.31265,50.43926]},"properties":{"isced:level":"1;2","ref:rspo":55487,"official_name":"Filia Publicznej Szko\u0142y Podstawowej w Olszowej Z Siedzib\u0105 w Zimnej W\u00f3dce","name":"Filia Publicznej Szko\u0142y Podstawowej w Olszowej Z Siedzib\u0105 w Zimnej W\u00f3dce","addr:country":"PL","addr:postcode":"47-143","addr:city":"Zimna W\u00f3dka","addr:street":"ul. Strzelecka","addr:housenumber":"2","addr:teryt:simc":21381,"addr:teryt:sym_ul":504479,"contact:phone":"+48 774637870","ref:regon":"119596800","ref:vatin":"PL7561815039","operator":"Gmina Ujazd","operator:type":"government","amenity":"school","note":"Parent RSPO: 10250"}},{"id":10250,"type":"Feature","geometry":{"type":"Point","coordinates":[18.27626,50.45554]},"properties":{"isced:level":"1;2","ref:rspo":10250,"official_name":"Publiczna Szko\u0142a Podstawowa w Olszowej","name":"Publiczna Szko\u0142a Podstawowa w Olszowej","addr:country":"PL","addr:postcode":"47-143","addr:city":"Olszowa","addr:street":"ul. Szkolna","addr:housenumber":"7","addr:teryt:simc":21970,"addr:teryt:sym_ul":504380,"contact:phone":"+48 774637412","contact:email":"info@pspolszowa.pl","ref:regon":"001195968","ref:vatin":"PL7561815039","operator":"Gmina Ujazd","operator:type":"government","amenity":"school","note":"Children RSPO: 55487"}},{"id":110205,"type":"Feature","geometry":{"type":"Point","coordinates":[18.35178,50.45776]},"properties":{"isced:level":"1;2","ref:rspo":110205,"official_name":"Filia Publicznej Szko\u0142y Podstawowej w Jaryszowie Z Siedzib\u0105 w Sieroniowicach","name":"Filia Publicznej Szko\u0142y Podstawowej w Jaryszowie Z Siedzib\u0105 w Sieroniowicach","addr:country":"PL","addr:postcode":"47-143","addr:city":"Sieroniowice","addr:street":"ul. Strzelecka","addr:housenumber":"26","addr:teryt:simc":21381,"addr:teryt:sym_ul":504427,"contact:phone":"+48 774637557","ref:regon":"119594500","ref:vatin":"PL7561815022","operator":"Gmina Ujazd","operator:type":"government","amenity":"school","note":"Parent RSPO: 10251"}},{"id":10253,"type":"Feature","geometry":{"type":"Point","coordinates":[18.34776,50.4590699]},"properties":{"ref:rspo":10253,"official_name":"Publiczne Przedszkole w Uje\u017adzie","name":"Publiczne Przedszkole w Uje\u017adzie","addr:country":"PL","addr:postcode":"47-143","addr:city":"Ujazd","addr:street":"ul. Strzelecka","addr:housenumber":"8","addr:teryt:simc":21381,"addr:teryt:sym_ul":965967,"contact:phone":"+48 774637031","contact:email":"sekretariat@ppujazd.pl","contact:website":"http:\/\/ppujazd.pl","ref:regon":"530574127","ref:vatin":"PL7561817328","operator":"Gmina Ujazd","operator:type":"government","amenity":"kindergarten"}},{"id":10354,"type":"Feature","geometry":{"type":"Point","coordinates":[18.34615,50.4602]},"properties":{"isced:level":"1;2","ref:rspo":10354,"official_name":"Publiczna Szko\u0142a Podstawowa w Uje\u017adzie","name":"Publiczna Szko\u0142a Podstawowa w Uje\u017adzie","addr:country":"PL","addr:postcode":"47-143","addr:city":"Ujazd","addr:street":"ul. Strzelecka","addr:housenumber":"6","addr:teryt:simc":21381,"addr:teryt:sym_ul":965967,"contact:phone":"+48 774637723","contact:email":"sekretariat@pspujazd.pl","ref:regon":"000264704","ref:vatin":"PL7561818003","operator":"Gmina Ujazd","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 10251,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.35649,
+                    50.4270799
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 10251,
+                "official_name": "Publiczna Szko\u0142a Podstawowa w Jaryszowie",
+                "name": "Publiczna Szko\u0142a Podstawowa w Jaryszowie",
+                "addr:country": "PL",
+                "addr:postcode": "47-143",
+                "addr:city": "Jarysz\u00f3w",
+                "addr:street": "ul. Stawowa",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 21101,
+                "addr:teryt:sym_ul": 504321,
+                "contact:phone": "+48 774637450",
+                "contact:email": "sekretariat@pspjaryszow.pl",
+                "contact:website": "https:\/\/www.pspjaryszow.pl\/",
+                "ref:regon": "001195945",
+                "ref:vatin": "PL7561815022",
+                "operator": "Gmina Ujazd",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Children RSPO: 110205"
+            }
+        },
+        {
+            "id": 55487,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.31265,
+                    50.43926
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 55487,
+                "official_name": "Filia Publicznej Szko\u0142y Podstawowej w Olszowej Z Siedzib\u0105 w Zimnej W\u00f3dce",
+                "name": "Filia Publicznej Szko\u0142y Podstawowej w Olszowej Z Siedzib\u0105 w Zimnej W\u00f3dce",
+                "addr:country": "PL",
+                "addr:postcode": "47-143",
+                "addr:city": "Zimna W\u00f3dka",
+                "addr:street": "ul. Strzelecka",
+                "addr:housenumber": "2",
+                "addr:teryt:simc": 21381,
+                "addr:teryt:sym_ul": 504479,
+                "contact:phone": "+48 774637870",
+                "ref:regon": "119596800",
+                "ref:vatin": "PL7561815039",
+                "operator": "Gmina Ujazd",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 10250"
+            }
+        },
+        {
+            "id": 10250,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.27626,
+                    50.45554
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 10250,
+                "official_name": "Publiczna Szko\u0142a Podstawowa w Olszowej",
+                "name": "Publiczna Szko\u0142a Podstawowa w Olszowej",
+                "addr:country": "PL",
+                "addr:postcode": "47-143",
+                "addr:city": "Olszowa",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "7",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 504380,
+                "contact:phone": "+48 774637412",
+                "contact:email": "info@pspolszowa.pl",
+                "ref:regon": "001195968",
+                "ref:vatin": "PL7561815039",
+                "operator": "Gmina Ujazd",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Children RSPO: 55487"
+            }
+        },
+        {
+            "id": 110205,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.35178,
+                    50.45776
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 110205,
+                "official_name": "Filia Publicznej Szko\u0142y Podstawowej w Jaryszowie Z Siedzib\u0105 w Sieroniowicach",
+                "name": "Filia Publicznej Szko\u0142y Podstawowej w Jaryszowie Z Siedzib\u0105 w Sieroniowicach",
+                "addr:country": "PL",
+                "addr:postcode": "47-143",
+                "addr:city": "Sieroniowice",
+                "addr:street": "ul. Strzelecka",
+                "addr:housenumber": "26",
+                "addr:teryt:simc": 21381,
+                "addr:teryt:sym_ul": 504427,
+                "contact:phone": "+48 774637557",
+                "ref:regon": "119594500",
+                "ref:vatin": "PL7561815022",
+                "operator": "Gmina Ujazd",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 10251"
+            }
+        },
+        {
+            "id": 10253,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.34776,
+                    50.4590699
+                ]
+            },
+            "properties": {
+                "ref:rspo": 10253,
+                "official_name": "Publiczne Przedszkole w Uje\u017adzie",
+                "name": "Publiczne Przedszkole w Uje\u017adzie",
+                "addr:country": "PL",
+                "addr:postcode": "47-143",
+                "addr:city": "Ujazd",
+                "addr:street": "ul. Strzelecka",
+                "addr:housenumber": "8",
+                "addr:teryt:simc": 21381,
+                "addr:teryt:sym_ul": 965967,
+                "contact:phone": "+48 774637031",
+                "contact:email": "sekretariat@ppujazd.pl",
+                "contact:website": "http:\/\/ppujazd.pl",
+                "ref:regon": "530574127",
+                "ref:vatin": "PL7561817328",
+                "operator": "Gmina Ujazd",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 10354,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.34615,
+                    50.4602
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 10354,
+                "official_name": "Publiczna Szko\u0142a Podstawowa w Uje\u017adzie",
+                "name": "Publiczna Szko\u0142a Podstawowa w Uje\u017adzie",
+                "addr:country": "PL",
+                "addr:postcode": "47-143",
+                "addr:city": "Ujazd",
+                "addr:street": "ul. Strzelecka",
+                "addr:housenumber": "6",
+                "addr:teryt:simc": 21381,
+                "addr:teryt:sym_ul": 965967,
+                "contact:phone": "+48 774637723",
+                "contact:email": "sekretariat@pspujazd.pl",
+                "ref:regon": "000264704",
+                "ref:vatin": "PL7561818003",
+                "operator": "Gmina Ujazd",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

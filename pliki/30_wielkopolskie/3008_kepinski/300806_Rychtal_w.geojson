@@ -1,1 +1,127 @@
-{"type":"FeatureCollection","features":[{"id":6112,"type":"Feature","geometry":{"type":"Point","coordinates":[17.956159,51.133542]},"properties":{"isced:level":"1;2","ref:rspo":6112,"official_name":"Szko\u0142a Podstawowa w Wielkim Buczku","name":"Szko\u0142a Podstawowa w Wielkim Buczku","addr:country":"PL","addr:postcode":"63-630","addr:place":"Wielki Buczek","addr:housenumber":"6b","addr:teryt:sym_ul":208137,"contact:phone":"+48 627816815","contact:email":"sp.buczek5@op.pl","contact:website":"http:\/\/spwielkibuczek.szkolnastrona.pl","ref:regon":"001172051","ref:vatin":"PL6191903695","operator":"Gmina Rychtal","operator:type":"government","amenity":"school"}},{"id":3469,"type":"Feature","geometry":{"type":"Point","coordinates":[17.85171,51.14525]},"properties":{"isced:level":"1;2","ref:rspo":3469,"official_name":"Szko\u0142a Podstawowa w Rychtalu im. Ojca Konrada Stolarka","name":"Szko\u0142a Podstawowa w Rychtalu","addr:country":"PL","addr:postcode":"63-630","addr:city":"Rychtal","addr:street":"ul. K\u0119pi\u0144ska","addr:housenumber":"13","addr:teryt:simc":8353,"addr:teryt:sym_ul":208077,"contact:phone":"+48 627816830","contact:email":"sprychtal@sprychtal.pl","contact:website":"http:\/\/sprychtal.pl","ref:regon":"000600444","ref:vatin":"PL6191903726","operator":"Gmina Rychtal","operator:type":"government","amenity":"school"}},{"id":4796,"type":"Feature","geometry":{"type":"Point","coordinates":[17.85755,51.14963]},"properties":{"ref:rspo":4796,"official_name":"Publiczne Przedszkole Samorz\u0105dowe w Rychtalu","name":"Publiczne Przedszkole Samorz\u0105dowe w Rychtalu","addr:country":"PL","addr:postcode":"63-630","addr:city":"Rychtal","addr:street":"ul. Osiedle 600-lecia","addr:housenumber":"4","addr:teryt:simc":15244,"addr:teryt:sym_ul":208077,"contact:phone":"+48 627816809","contact:email":"przedszkolerychtal@op.pl","ref:regon":"251594999","ref:vatin":"PL6191903689","operator":"Gmina Rychtal","operator:type":"government","amenity":"kindergarten"}},{"id":3470,"type":"Feature","geometry":{"type":"Point","coordinates":[17.866184,51.1994429]},"properties":{"isced:level":"1;2","ref:rspo":3470,"official_name":"Szko\u0142a Podstawowa w Dro\u017ckach","name":"Szko\u0142a Podstawowa w Dro\u017ckach","addr:country":"PL","addr:postcode":"63-630","addr:place":"Dro\u017cki","addr:housenumber":"34","addr:teryt:sym_ul":207971,"contact:phone":"+48 627816817","contact:email":"szkoladrozki@poczta.onet.pl","contact:website":"http:\/\/spdrozki.eu","ref:regon":"001172068","ref:vatin":"PL6191903732","operator":"Gmina Rychtal","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 6112,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.956159,
+                    51.133542
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 6112,
+                "official_name": "Szko\u0142a Podstawowa w Wielkim Buczku",
+                "name": "Szko\u0142a Podstawowa w Wielkim Buczku",
+                "addr:country": "PL",
+                "addr:postcode": "63-630",
+                "addr:place": "Wielki Buczek",
+                "addr:housenumber": "6b",
+                "addr:teryt:sym_ul": 208137,
+                "contact:phone": "+48 627816815",
+                "contact:email": "sp.buczek5@op.pl",
+                "contact:website": "http:\/\/spwielkibuczek.szkolnastrona.pl",
+                "ref:regon": "001172051",
+                "ref:vatin": "PL6191903695",
+                "operator": "Gmina Rychtal",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 3469,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.85171,
+                    51.14525
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 3469,
+                "official_name": "Szko\u0142a Podstawowa w Rychtalu im. Ojca Konrada Stolarka",
+                "name": "Szko\u0142a Podstawowa w Rychtalu",
+                "addr:country": "PL",
+                "addr:postcode": "63-630",
+                "addr:city": "Rychtal",
+                "addr:street": "ul. K\u0119pi\u0144ska",
+                "addr:housenumber": "13",
+                "addr:teryt:simc": 8353,
+                "addr:teryt:sym_ul": 208077,
+                "contact:phone": "+48 627816830",
+                "contact:email": "sprychtal@sprychtal.pl",
+                "contact:website": "http:\/\/sprychtal.pl",
+                "ref:regon": "000600444",
+                "ref:vatin": "PL6191903726",
+                "operator": "Gmina Rychtal",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 4796,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.85755,
+                    51.14963
+                ]
+            },
+            "properties": {
+                "ref:rspo": 4796,
+                "official_name": "Publiczne Przedszkole Samorz\u0105dowe w Rychtalu",
+                "name": "Publiczne Przedszkole Samorz\u0105dowe w Rychtalu",
+                "addr:country": "PL",
+                "addr:postcode": "63-630",
+                "addr:city": "Rychtal",
+                "addr:street": "ul. Osiedle 600-lecia",
+                "addr:housenumber": "4",
+                "addr:teryt:simc": 15244,
+                "addr:teryt:sym_ul": 208077,
+                "contact:phone": "+48 627816809",
+                "contact:email": "przedszkolerychtal@op.pl",
+                "ref:regon": "251594999",
+                "ref:vatin": "PL6191903689",
+                "operator": "Gmina Rychtal",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 3470,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.866184,
+                    51.1994429
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 3470,
+                "official_name": "Szko\u0142a Podstawowa w Dro\u017ckach",
+                "name": "Szko\u0142a Podstawowa w Dro\u017ckach",
+                "addr:country": "PL",
+                "addr:postcode": "63-630",
+                "addr:place": "Dro\u017cki",
+                "addr:housenumber": "34",
+                "addr:teryt:sym_ul": 207971,
+                "contact:phone": "+48 627816817",
+                "contact:email": "szkoladrozki@poczta.onet.pl",
+                "contact:website": "http:\/\/spdrozki.eu",
+                "ref:regon": "001172068",
+                "ref:vatin": "PL6191903732",
+                "operator": "Gmina Rychtal",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

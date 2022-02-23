@@ -1,1 +1,101 @@
-{"type":"FeatureCollection","features":[{"id":13965,"type":"Feature","geometry":{"type":"Point","coordinates":[22.1713,53.92004]},"properties":{"ref:rspo":13965,"official_name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 Samorz\u0105dowych w Starych Juchach","name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 Samorz\u0105dowych w Starych Juchach","addr:country":"PL","addr:postcode":"19-330","addr:city":"Stare Juchy","addr:street":"ul. Mazurska","addr:housenumber":"11","addr:teryt:simc":12555,"addr:teryt:sym_ul":768712,"contact:phone":"+48 876199026","contact:email":"zssstarejuchy@o2.pl","contact:website":"http:\/\/zssstarejuchy.szkolna.net","ref:regon":"510892297","ref:vatin":"PL8481599083","operator":"Gmina Stare Juchy","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 21274;21276"}},{"id":21274,"type":"Feature","geometry":{"type":"Point","coordinates":[22.1713,53.92001]},"properties":{"isced:level":"1;2","ref:rspo":21274,"official_name":"Szko\u0142a Podstawowa w Starych Juchach","name":"Szko\u0142a Podstawowa w Starych Juchach","addr:country":"PL","addr:postcode":"19-330","addr:city":"Stare Juchy","addr:street":"ul. Mazurska","addr:housenumber":"11","addr:teryt:simc":12555,"addr:teryt:sym_ul":768712,"contact:phone":"+48 876199026","contact:email":"zssstarejuchy@o2.pl","contact:website":"http:\/\/www.zssstarejuchy.boo.pl\/","ref:regon":"519456103","operator":"Gmina Stare Juchy","operator:type":"government","amenity":"school","note":"Parent RSPO: 13965"}},{"id":21276,"type":"Feature","geometry":{"type":"Point","coordinates":[22.17102,53.92048]},"properties":{"ref:rspo":21276,"official_name":"Przedszkole Samorz\u0105dowe w Starych Juchach","name":"Przedszkole Samorz\u0105dowe w Starych Juchach","addr:country":"PL","addr:postcode":"19-330","addr:city":"Stare Juchy","addr:street":"ul. Mazurska","addr:housenumber":"9","addr:teryt:simc":12555,"addr:teryt:sym_ul":768712,"contact:phone":"+48 876199026","contact:email":"zssstarejuchy@neostrada.pl","contact:website":"http:\/\/www.zssstarejuchy.boo.pl\/","ref:regon":"001010992","operator":"Gmina Stare Juchy","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 13965"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 13965,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.1713,
+                    53.92004
+                ]
+            },
+            "properties": {
+                "ref:rspo": 13965,
+                "official_name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Samorz\u0105dowych w Starych Juchach",
+                "name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Samorz\u0105dowych w Starych Juchach",
+                "addr:country": "PL",
+                "addr:postcode": "19-330",
+                "addr:city": "Stare Juchy",
+                "addr:street": "ul. Mazurska",
+                "addr:housenumber": "11",
+                "addr:teryt:simc": 12555,
+                "addr:teryt:sym_ul": 768712,
+                "contact:phone": "+48 876199026",
+                "contact:email": "zssstarejuchy@o2.pl",
+                "contact:website": "http:\/\/zssstarejuchy.szkolna.net",
+                "ref:regon": "510892297",
+                "ref:vatin": "PL8481599083",
+                "operator": "Gmina Stare Juchy",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 21274;21276"
+            }
+        },
+        {
+            "id": 21274,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.1713,
+                    53.92001
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 21274,
+                "official_name": "Szko\u0142a Podstawowa w Starych Juchach",
+                "name": "Szko\u0142a Podstawowa w Starych Juchach",
+                "addr:country": "PL",
+                "addr:postcode": "19-330",
+                "addr:city": "Stare Juchy",
+                "addr:street": "ul. Mazurska",
+                "addr:housenumber": "11",
+                "addr:teryt:simc": 12555,
+                "addr:teryt:sym_ul": 768712,
+                "contact:phone": "+48 876199026",
+                "contact:email": "zssstarejuchy@o2.pl",
+                "contact:website": "http:\/\/www.zssstarejuchy.boo.pl\/",
+                "ref:regon": "519456103",
+                "operator": "Gmina Stare Juchy",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 13965"
+            }
+        },
+        {
+            "id": 21276,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.17102,
+                    53.92048
+                ]
+            },
+            "properties": {
+                "ref:rspo": 21276,
+                "official_name": "Przedszkole Samorz\u0105dowe w Starych Juchach",
+                "name": "Przedszkole Samorz\u0105dowe w Starych Juchach",
+                "addr:country": "PL",
+                "addr:postcode": "19-330",
+                "addr:city": "Stare Juchy",
+                "addr:street": "ul. Mazurska",
+                "addr:housenumber": "9",
+                "addr:teryt:simc": 12555,
+                "addr:teryt:sym_ul": 768712,
+                "contact:phone": "+48 876199026",
+                "contact:email": "zssstarejuchy@neostrada.pl",
+                "contact:website": "http:\/\/www.zssstarejuchy.boo.pl\/",
+                "ref:regon": "001010992",
+                "operator": "Gmina Stare Juchy",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 13965"
+            }
+        }
+    ]
+}

@@ -1,1 +1,128 @@
-{"type":"FeatureCollection","features":[{"id":25279,"type":"Feature","geometry":{"type":"Point","coordinates":[14.45731,53.08949]},"properties":{"ref:rspo":25279,"official_name":"Punkt Przedszkolny w Krzywinie","name":"Punkt Przedszkolny w Krzywinie","addr:country":"PL","addr:postcode":"74-121","addr:city":"Krzywin","addr:street":"ul. Kr\u00f3lewiecka","addr:housenumber":"44","addr:teryt:simc":9983,"addr:teryt:sym_ul":785426,"contact:phone":"+48 914167587","contact:email":"spwk3@wp.pl","ref:regon":"321282990","operator":"Gmina Widuchowa","operator:type":"government","amenity":"kindergarten"}},{"id":25276,"type":"Feature","geometry":{"type":"Point","coordinates":[14.45779,53.08977]},"properties":{"isced:level":"1;2","ref:rspo":25276,"official_name":"Szko\u0142a Podstawowa w Krzywinie","name":"Szko\u0142a Podstawowa w Krzywinie","addr:country":"PL","addr:postcode":"74-121","addr:city":"Krzywin","addr:street":"ul. Kr\u00f3lewiecka","addr:housenumber":"42","addr:teryt:simc":9983,"addr:teryt:sym_ul":785426,"contact:phone":"+48 914167511","contact:email":"spwk3@wp.pl","contact:website":"http:\/\/www.sp-krzywin.edupage.org","ref:regon":"001223222","ref:vatin":"PL8581729680","operator":"Gmina Widuchowa","operator:type":"government","amenity":"school"}},{"id":25278,"type":"Feature","geometry":{"type":"Point","coordinates":[14.39074,53.12295]},"properties":{"ref:rspo":25278,"official_name":"Gminne Przedszkole w Widuchowej","name":"Gminne Przedszkole w Widuchowej","addr:country":"PL","addr:postcode":"74-120","addr:city":"Widuchowa","addr:street":"ul. Tatrza\u0144ska","addr:housenumber":"20","addr:teryt:simc":22717,"addr:teryt:sym_ul":785538,"contact:phone":"+48 914167239","contact:email":"przedszkolewid@wp.pl","ref:regon":"320903289","ref:vatin":"PL8581837033","operator":"Gmina Widuchowa","operator:type":"government","amenity":"kindergarten"}},{"id":88338,"type":"Feature","geometry":{"type":"Point","coordinates":[14.39002,53.12636]},"properties":{"isced:level":"1;2","ref:rspo":88338,"official_name":"Publiczna Szko\u0142a Podstawowa w Widuchowej","name":"Publiczna Szko\u0142a Podstawowa w Widuchowej","addr:country":"PL","addr:postcode":"74-120","addr:city":"Widuchowa","addr:street":"ul. Barnima III","addr:housenumber":"1","addr:teryt:simc":30329,"addr:teryt:sym_ul":785538,"contact:phone":"+48 914167115","contact:email":"sekretariat@spwiduchowa.pl","contact:website":"https:\/\/spwiduchowa.edupage.org","ref:regon":"000271791","ref:vatin":"PL8581729674","operator":"Gmina Widuchowa","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 25279,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.45731,
+                    53.08949
+                ]
+            },
+            "properties": {
+                "ref:rspo": 25279,
+                "official_name": "Punkt Przedszkolny w Krzywinie",
+                "name": "Punkt Przedszkolny w Krzywinie",
+                "addr:country": "PL",
+                "addr:postcode": "74-121",
+                "addr:city": "Krzywin",
+                "addr:street": "ul. Kr\u00f3lewiecka",
+                "addr:housenumber": "44",
+                "addr:teryt:simc": 9983,
+                "addr:teryt:sym_ul": 785426,
+                "contact:phone": "+48 914167587",
+                "contact:email": "spwk3@wp.pl",
+                "ref:regon": "321282990",
+                "operator": "Gmina Widuchowa",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 25276,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.45779,
+                    53.08977
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 25276,
+                "official_name": "Szko\u0142a Podstawowa w Krzywinie",
+                "name": "Szko\u0142a Podstawowa w Krzywinie",
+                "addr:country": "PL",
+                "addr:postcode": "74-121",
+                "addr:city": "Krzywin",
+                "addr:street": "ul. Kr\u00f3lewiecka",
+                "addr:housenumber": "42",
+                "addr:teryt:simc": 9983,
+                "addr:teryt:sym_ul": 785426,
+                "contact:phone": "+48 914167511",
+                "contact:email": "spwk3@wp.pl",
+                "contact:website": "http:\/\/www.sp-krzywin.edupage.org",
+                "ref:regon": "001223222",
+                "ref:vatin": "PL8581729680",
+                "operator": "Gmina Widuchowa",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 25278,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.39074,
+                    53.12295
+                ]
+            },
+            "properties": {
+                "ref:rspo": 25278,
+                "official_name": "Gminne Przedszkole w Widuchowej",
+                "name": "Gminne Przedszkole w Widuchowej",
+                "addr:country": "PL",
+                "addr:postcode": "74-120",
+                "addr:city": "Widuchowa",
+                "addr:street": "ul. Tatrza\u0144ska",
+                "addr:housenumber": "20",
+                "addr:teryt:simc": 22717,
+                "addr:teryt:sym_ul": 785538,
+                "contact:phone": "+48 914167239",
+                "contact:email": "przedszkolewid@wp.pl",
+                "ref:regon": "320903289",
+                "ref:vatin": "PL8581837033",
+                "operator": "Gmina Widuchowa",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 88338,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.39002,
+                    53.12636
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 88338,
+                "official_name": "Publiczna Szko\u0142a Podstawowa w Widuchowej",
+                "name": "Publiczna Szko\u0142a Podstawowa w Widuchowej",
+                "addr:country": "PL",
+                "addr:postcode": "74-120",
+                "addr:city": "Widuchowa",
+                "addr:street": "ul. Barnima III",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 30329,
+                "addr:teryt:sym_ul": 785538,
+                "contact:phone": "+48 914167115",
+                "contact:email": "sekretariat@spwiduchowa.pl",
+                "contact:website": "https:\/\/spwiduchowa.edupage.org",
+                "ref:regon": "000271791",
+                "ref:vatin": "PL8581729674",
+                "operator": "Gmina Widuchowa",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

@@ -1,1 +1,124 @@
-{"type":"FeatureCollection","features":[{"id":40638,"type":"Feature","geometry":{"type":"Point","coordinates":[18.97609,51.69018]},"properties":{"ref:rspo":40638,"official_name":"Publiczne Przedszkole w Szadku","name":"Publiczne Przedszkole w Szadku","addr:country":"PL","addr:postcode":"98-240","addr:city":"Szadek","addr:street":"ul. Widawska","addr:housenumber":"7","addr:teryt:simc":23999,"addr:teryt:sym_ul":976451,"contact:phone":"+48 438215148","contact:email":"p@przedszkoleszadek.eu","contact:website":"http:\/\/przedszkoleszadek.eu","ref:regon":"731507670","operator":"Gmina Szadek","operator:type":"government","amenity":"kindergarten"}},{"id":54099,"type":"Feature","geometry":{"type":"Point","coordinates":[18.97487,51.69302]},"properties":{"isced:level":"1;2","ref:rspo":54099,"official_name":"Szko\u0142a Podstawowa im. Tadeusza Ko\u015bciuszki w Szadku","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"98-240","addr:city":"Szadek","addr:street":"ul. Prusinowska","addr:housenumber":"4","addr:teryt:simc":17586,"addr:teryt:sym_ul":976451,"contact:phone":"+48 438215031","contact:email":"szkola@szadek.edu.pl","contact:website":"http:\/\/www.szadek.edu.pl","ref:regon":"000262852","operator":"Gmina Szadek","operator:type":"government","amenity":"school"}},{"id":40637,"type":"Feature","geometry":{"type":"Point","coordinates":[18.91592,51.72847]},"properties":{"isced:level":"1;2","ref:rspo":40637,"official_name":"Szko\u0142a Podstawowa im. Jana Paw\u0142a w Prusinowicach","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"98-240","addr:place":"Prusinowice","addr:housenumber":"49","addr:teryt:sym_ul":714573,"contact:phone":"+48 438215697","contact:email":"prusinowice@wp.pl","contact:website":"http:\/\/spprusinowice.edupage.org","ref:regon":"001161662","operator":"Gmina Szadek","operator:type":"government","amenity":"school"}},{"id":40636,"type":"Feature","geometry":{"type":"Point","coordinates":[18.99468,51.75335]},"properties":{"isced:level":"1;2","ref:rspo":40636,"official_name":"Szko\u0142a Podstawowa w Krokocicach","name":"Szko\u0142a Podstawowa w Krokocicach","addr:country":"PL","addr:postcode":"98-240","addr:place":"Krokocice","addr:housenumber":"2","addr:teryt:sym_ul":714490,"contact:phone":"+48 438215771","contact:email":"spkrokocice@interia.pl","contact:website":"http:\/\/www.krokocice.szkolnastrona.pl","ref:regon":"001161679","operator":"Gmina Szadek","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 40638,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.97609,
+                    51.69018
+                ]
+            },
+            "properties": {
+                "ref:rspo": 40638,
+                "official_name": "Publiczne Przedszkole w Szadku",
+                "name": "Publiczne Przedszkole w Szadku",
+                "addr:country": "PL",
+                "addr:postcode": "98-240",
+                "addr:city": "Szadek",
+                "addr:street": "ul. Widawska",
+                "addr:housenumber": "7",
+                "addr:teryt:simc": 23999,
+                "addr:teryt:sym_ul": 976451,
+                "contact:phone": "+48 438215148",
+                "contact:email": "p@przedszkoleszadek.eu",
+                "contact:website": "http:\/\/przedszkoleszadek.eu",
+                "ref:regon": "731507670",
+                "operator": "Gmina Szadek",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 54099,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.97487,
+                    51.69302
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 54099,
+                "official_name": "Szko\u0142a Podstawowa im. Tadeusza Ko\u015bciuszki w Szadku",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "98-240",
+                "addr:city": "Szadek",
+                "addr:street": "ul. Prusinowska",
+                "addr:housenumber": "4",
+                "addr:teryt:simc": 17586,
+                "addr:teryt:sym_ul": 976451,
+                "contact:phone": "+48 438215031",
+                "contact:email": "szkola@szadek.edu.pl",
+                "contact:website": "http:\/\/www.szadek.edu.pl",
+                "ref:regon": "000262852",
+                "operator": "Gmina Szadek",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 40637,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.91592,
+                    51.72847
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 40637,
+                "official_name": "Szko\u0142a Podstawowa im. Jana Paw\u0142a w Prusinowicach",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "98-240",
+                "addr:place": "Prusinowice",
+                "addr:housenumber": "49",
+                "addr:teryt:sym_ul": 714573,
+                "contact:phone": "+48 438215697",
+                "contact:email": "prusinowice@wp.pl",
+                "contact:website": "http:\/\/spprusinowice.edupage.org",
+                "ref:regon": "001161662",
+                "operator": "Gmina Szadek",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 40636,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.99468,
+                    51.75335
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 40636,
+                "official_name": "Szko\u0142a Podstawowa w Krokocicach",
+                "name": "Szko\u0142a Podstawowa w Krokocicach",
+                "addr:country": "PL",
+                "addr:postcode": "98-240",
+                "addr:place": "Krokocice",
+                "addr:housenumber": "2",
+                "addr:teryt:sym_ul": 714490,
+                "contact:phone": "+48 438215771",
+                "contact:email": "spkrokocice@interia.pl",
+                "contact:website": "http:\/\/www.krokocice.szkolnastrona.pl",
+                "ref:regon": "001161679",
+                "operator": "Gmina Szadek",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

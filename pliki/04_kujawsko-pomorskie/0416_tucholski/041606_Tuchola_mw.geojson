@@ -1,1 +1,987 @@
-{"type":"FeatureCollection","features":[{"id":60501,"type":"Feature","geometry":{"type":"Point","coordinates":[17.89258,53.56971]},"properties":{"isced:level":"1;2","ref:rspo":60501,"official_name":"Szko\u0142a Podstawowa Nr 5 w Tucholi","name":"Szko\u0142a Podstawowa Nr 5 w Tucholi","addr:country":"PL","addr:postcode":"89-500","addr:city":"Tuchola","addr:street":"ul. \u015awiecka","addr:housenumber":"105","addr:teryt:simc":22475,"addr:teryt:sym_ul":929724,"contact:phone":"+48 523342026","contact:email":"sp5_tuchola@wp.pl","ref:regon":"091538361","ref:vatin":"PL5611302129","operator":"Gmina Tuchola","operator:type":"government","amenity":"school"}},{"id":74848,"type":"Feature","geometry":{"type":"Point","coordinates":[17.8672,53.57715]},"properties":{"ref:rspo":74848,"official_name":"Przedszkole Nr 1 w Tucholi","name":"Przedszkole Nr 1 w Tucholi","addr:country":"PL","addr:postcode":"89-500","addr:city":"Tuchola","addr:street":"ul. Bydgoska","addr:housenumber":"13a","addr:teryt:simc":2498,"addr:teryt:sym_ul":929724,"contact:phone":"+48 523343930","contact:email":"przedszkole1_tuchola@o2.pl","ref:regon":"091284736","ref:vatin":"PL5611009642","operator":"Gmina Tuchola","operator:type":"government","amenity":"kindergarten"}},{"id":39142,"type":"Feature","geometry":{"type":"Point","coordinates":[17.87295,53.58072]},"properties":{"ref:rspo":39142,"official_name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 Licealnych I Technicznych im. Ziemi Tucholskiej w Tucholi","name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 Licealnych I Technicznych","addr:country":"PL","addr:postcode":"89-500","addr:city":"Tuchola","addr:street":"ul. \u015awiecka","addr:housenumber":"89a","addr:teryt:simc":22475,"addr:teryt:sym_ul":929724,"contact:phone":"+48 523343363","contact:email":"poczta@zslit-tuchola.pl","contact:website":"http:\/\/www.zslit-tuchola.pl","ref:regon":"000200816","ref:vatin":"PL5611067438","operator":"Powiat Tucholski","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 54234;119792"}},{"id":275384,"type":"Feature","geometry":{"type":"Point","coordinates":[17.87295,53.58069]},"properties":{"ref:rspo":275384,"official_name":"Tucholskie Centrum Edukacji Zawodowej w Tucholi","name":"Tucholskie Centrum Edukacji Zawodowej w Tucholi","addr:country":"PL","addr:postcode":"89-500","addr:city":"Tuchola","addr:street":"ul. \u015awiecka","addr:housenumber":"89a","addr:teryt:simc":22475,"addr:teryt:sym_ul":929724,"contact:phone":"+48 523343531","contact:email":"tcez@tuchola.pl","contact:website":"http:\/\/www.tcez.tuchola.pl","ref:regon":"092962670","ref:vatin":"PL5611454690","operator":"Powiat Tucholski","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 61350;68153"}},{"id":277358,"type":"Feature","geometry":{"type":"Point","coordinates":[17.87295,53.58066]},"properties":{"ref:rspo":277358,"official_name":"Runtime Niepubliczna Plac\u00f3wka Kszta\u0142cenia Ustawicznego","name":"Runtime Niepubliczna Plac\u00f3wka Kszta\u0142cenia Ustawicznego","addr:country":"PL","addr:postcode":"89-500","addr:city":"Tuchola","addr:street":"ul. \u015awiecka","addr:housenumber":"89a","addr:teryt:simc":22475,"addr:teryt:sym_ul":929724,"contact:email":"agnieszka.klawikowska@atut-ak.pl","ref:regon":"388700870","operator":"Runtime Sp\u00f3\u0142ka Z Ograniczon\u0105 Odpowiedzialno\u015bci\u0105","operator:type":"private","fixme":"w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. amenity=training + training=*, amenity=dancing_school, amenity=language_school, amenity=music_school)"}},{"id":54234,"type":"Feature","geometry":{"type":"Point","coordinates":[17.87295,53.58063]},"properties":{"isced:level":"3","ref:rspo":54234,"official_name":"Bran\u017cowa Szko\u0142a I Stopnia Nr 1 w Tucholi","name":"Bran\u017cowa Szko\u0142a I Stopnia Nr 1 w Tucholi","addr:country":"PL","addr:postcode":"89-500","addr:city":"Tuchola","addr:street":"ul. \u015awiecka","addr:housenumber":"89A","addr:teryt:simc":22475,"addr:teryt:sym_ul":929724,"contact:phone":"+48 523343363","contact:email":"poczta@zslit-tuchola.pl","contact:website":"http:\/\/www.zslit-tuchola.pl","ref:regon":"093154506","operator":"Powiat Tucholski","operator:type":"government","amenity":"school","note":"Parent RSPO: 39142"}},{"id":119792,"type":"Feature","geometry":{"type":"Point","coordinates":[17.87295,53.5806]},"properties":{"isced:level":"3","ref:rspo":119792,"official_name":"Technikum Nr 1 w Tucholi","name":"Technikum Nr 1 w Tucholi","addr:country":"PL","addr:postcode":"89-500","addr:city":"Tuchola","addr:street":"ul. \u015awiecka","addr:housenumber":"89a","addr:teryt:simc":22475,"addr:teryt:sym_ul":929724,"contact:phone":"+48 523343363","contact:email":"poczta@zslit-tuchola.pl","contact:website":"http:\/\/www.zslit-tuchola.pl","ref:regon":"341477531","operator":"Powiat Tucholski","operator:type":"government","amenity":"school","note":"Parent RSPO: 39142"}},{"id":72342,"type":"Feature","geometry":{"type":"Point","coordinates":[17.87295,53.58057]},"properties":{"isced:level":"3","ref:rspo":72342,"official_name":"Liceum Og\u00f3lnokszta\u0142c\u0105ce dla Doros\u0142ych","name":"Liceum Og\u00f3lnokszta\u0142c\u0105ce dla Doros\u0142ych","addr:country":"PL","addr:postcode":"89-500","addr:city":"Tuchola","addr:street":"ul. \u015awiecka","addr:housenumber":"89a","addr:teryt:simc":22475,"addr:teryt:sym_ul":929724,"contact:phone":"+48 523343531","contact:email":"tcez@tuchola.pl","contact:website":"http:\/\/www.tcez.tuchola.pl","ref:regon":"093203162","operator":"Powiat Tucholski","operator:type":"government","amenity":"school","note":"Parent RSPO: 61350"}},{"id":72346,"type":"Feature","geometry":{"type":"Point","coordinates":[17.87295,53.58054]},"properties":{"isced:level":"4","ref:rspo":72346,"official_name":"Szko\u0142a Policealna w Tucholi","name":"Szko\u0142a Policealna w Tucholi","addr:country":"PL","addr:postcode":"89-500","addr:city":"Tuchola","addr:street":"ul. \u015awiecka","addr:housenumber":"89a","addr:teryt:simc":22475,"addr:teryt:sym_ul":929724,"contact:phone":"+48 523343531","contact:email":"tcez@tuchola.pl","contact:website":"http:\/\/www.tcez.tuchola.pl","ref:regon":"093150371","operator":"Powiat Tucholski","operator:type":"government","amenity":"college","note":"Parent RSPO: 61350"}},{"id":274743,"type":"Feature","geometry":{"type":"Point","coordinates":[17.87295,53.58051]},"properties":{"isced:level":"3","ref:rspo":274743,"official_name":"Bran\u017cowa Szko\u0142a II Stopnia w Tucholi","name":"Bran\u017cowa Szko\u0142a II Stopnia w Tucholi","addr:country":"PL","addr:postcode":"89-500","addr:city":"Tuchola","addr:street":"ul. \u015awiecka","addr:housenumber":"89a","addr:teryt:simc":22475,"addr:teryt:sym_ul":929724,"contact:phone":"+48 523343531","contact:email":"tcez@tuchola.pl","contact:website":"http:\/\/www.tcez.tuchola.pl","ref:regon":"386287353","operator":"Powiat Tucholski","operator:type":"government","amenity":"school","note":"Parent RSPO: 61350"}},{"id":61350,"type":"Feature","geometry":{"type":"Point","coordinates":[17.87295,53.58048]},"properties":{"ref:rspo":61350,"official_name":"Centrum Kszta\u0142cenia Ustawicznego","name":"Centrum Kszta\u0142cenia Ustawicznego","addr:country":"PL","addr:postcode":"89-500","addr:city":"Tuchola","addr:street":"ul. \u015awiecka","addr:housenumber":"89a","addr:teryt:simc":22475,"addr:teryt:sym_ul":929724,"contact:phone":"+48 523343531","contact:email":"tcez@tuchola.pl","contact:website":"http:\/\/www.tcez.tuchola.pl","ref:regon":"093182840","ref:vatin":"PL5611454690","operator":"Powiat Tucholski","operator:type":"government","amenity":"school","fixme":"amenity=school lub amenity=college","note":"Children RSPO: 72342;72346;274743Parent RSPO: 275384"}},{"id":68153,"type":"Feature","geometry":{"type":"Point","coordinates":[17.87295,53.58045]},"properties":{"ref:rspo":68153,"official_name":"Centrum Kszta\u0142cenia Zawodowego","name":"Centrum Kszta\u0142cenia Zawodowego","addr:country":"PL","addr:postcode":"89-500","addr:city":"Tuchola","addr:street":"ul. \u015awiecka","addr:housenumber":"89a","addr:teryt:simc":22475,"addr:teryt:sym_ul":929724,"contact:phone":"+48 523343531","contact:email":"tcez@tuchola.pl","contact:website":"http:\/\/www.tcez.tuchola.pl","ref:regon":"092507799","ref:vatin":"PL5611454690","operator":"Powiat Tucholski","operator:type":"government","fixme":"w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. amenity=training + training=*, amenity=dancing_school, amenity=language_school, amenity=music_school) albo amenity=school, amenity=college, albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Parent RSPO: 275384"}},{"id":262537,"type":"Feature","geometry":{"type":"Point","coordinates":[17.86934,53.58563]},"properties":{"isced:level":"1;2","ref:rspo":262537,"official_name":"Szko\u0142a Podstawowa Nr 2 im. Dr Kazimierza Karasiewicza w Tucholi","name":"Szko\u0142a Podstawowa Nr 2","addr:country":"PL","addr:postcode":"89-501","addr:city":"Tuchola","addr:street":"ul. Piastowska","addr:housenumber":"23","addr:teryt:simc":16046,"addr:teryt:sym_ul":929724,"contact:phone":"+48 523363010","contact:email":"sp2.tuchola@gmail.com","contact:website":"http:\/\/sp2.tuchola.pl","ref:regon":"368030651","ref:vatin":"PL5611601777","operator":"Gmina Tuchola","operator:type":"government","amenity":"school"}},{"id":39119,"type":"Feature","geometry":{"type":"Point","coordinates":[17.87019,53.58563]},"properties":{"ref:rspo":39119,"official_name":"Poradnia Psychologiczno - Pedagogiczna w Tucholi","name":"Poradnia Psychologiczno - Pedagogiczna w Tucholi","addr:country":"PL","addr:postcode":"89-501","addr:city":"Tuchola","addr:street":"ul. Piastowska","addr:housenumber":"30","addr:teryt:simc":16046,"addr:teryt:sym_ul":929724,"contact:phone":"+48 523343863","contact:email":"poradnia@poradniatuchola.pl","contact:website":"http:\/\/www.poradnia.tuchola.pl","ref:regon":"092910928","ref:vatin":"PL5611437384","operator":"Powiat Tucholski","operator:type":"government","healthcare":"councelling","counselling_type":"education","fixme":"w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. healthcare=councelling + counselling_type=education albo healthcare=psychotherapist)"}},{"id":41225,"type":"Feature","geometry":{"type":"Point","coordinates":[17.87019,53.5856]},"properties":{"ref:rspo":41225,"official_name":"Specjalny O\u015brodek Szkolno - Wychowawczy im. Kawaler\u00f3w Orderu U\u015bmiechu w Tucholi","name":"Specjalny O\u015brodek Szkolno - Wychowawczy","addr:country":"PL","addr:postcode":"89-501","addr:city":"Tuchola","addr:street":"ul. Piastowska","addr:housenumber":"30","addr:teryt:simc":16046,"addr:teryt:sym_ul":929724,"contact:phone":"+48 523345024","contact:email":"sosw.tuchola@wp.pl","contact:website":"http:\/\/www.specjalna.tuchola.pl","ref:regon":"093192122","ref:vatin":"PL5611510750","operator":"Powiat Tucholski","operator:type":"government","amenity":"school","note":"Children RSPO: 52485;52486;108708;122697"}},{"id":52485,"type":"Feature","geometry":{"type":"Point","coordinates":[17.87019,53.585570000000004]},"properties":{"isced:level":"3","ref:rspo":52485,"official_name":"Bran\u017cowa Szko\u0142a Specjalna I Stopnia w Tucholi","name":"Bran\u017cowa Szko\u0142a Specjalna I Stopnia w Tucholi","addr:country":"PL","addr:postcode":"89-501","addr:city":"Tuchola","addr:street":"ul. Piastowska","addr:housenumber":"30","addr:teryt:simc":16046,"addr:teryt:sym_ul":929724,"contact:phone":"+48 523345024","contact:email":"sosw.tuchola@wp.pl","contact:website":"http:\/\/www.specjalna.tuchola.pl","ref:regon":"093192116","operator":"Powiat Tucholski","operator:type":"government","amenity":"school","note":"Parent RSPO: 41225"}},{"id":52486,"type":"Feature","geometry":{"type":"Point","coordinates":[17.87019,53.58554]},"properties":{"ref:rspo":52486,"official_name":"Szko\u0142a Specjalna Przysposabiaj\u0105ca Do Pracy w Tucholi","name":"Szko\u0142a Specjalna Przysposabiaj\u0105ca Do Pracy w Tucholi","addr:country":"PL","addr:postcode":"89-500","addr:city":"Tuchola","addr:street":"ul. Piastowska","addr:housenumber":"30","addr:teryt:simc":16046,"addr:teryt:sym_ul":929724,"contact:phone":"+48 523345024","contact:email":"sosw.tuchola@wp.pl","contact:website":"http:\/\/www.specjalna.tuchola.pl","ref:regon":"340043546","operator":"Powiat Tucholski","operator:type":"government","amenity":"school","note":"Parent RSPO: 41225"}},{"id":108708,"type":"Feature","geometry":{"type":"Point","coordinates":[17.87019,53.58551]},"properties":{"ref:rspo":108708,"official_name":"Przedszkole Specjalne dla Dzieci Z Upo\u015bledzeniem Umys\u0142owym w Stopniu Umiarkowanym, Znacznym, Z Autyzmem Oraz Niepe\u0142nosprawno\u015bciami Sprz\u0119\u017conymi w Specjalnym O\u015brodku Szkolno-Wychowawczym w Tucholi","name":"Przedszkole Specjalne dla Dzieci Z Upo\u015bledzeniem Umys\u0142owym w Stopniu Umiarkowanym, Znacznym, Z Autyzmem Oraz Niepe\u0142nosprawno\u015bciami Sprz\u0119\u017conymi w Specjalnym O\u015brodku Szkolno-Wychowawczym w Tucholi","addr:country":"PL","addr:postcode":"89-501","addr:city":"Tuchola","addr:street":"ul. Piastowska","addr:housenumber":"30","addr:teryt:simc":16046,"addr:teryt:sym_ul":929724,"contact:phone":"+48 523345024","contact:email":"sosw.tuchola@wp.pl","contact:website":"http:\/\/www.specjalna.tuchola.pl","ref:regon":"341387331","operator":"Powiat Tucholski","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 41225"}},{"id":122697,"type":"Feature","geometry":{"type":"Point","coordinates":[17.87019,53.585480000000004]},"properties":{"isced:level":"1;2","ref:rspo":122697,"official_name":"Szko\u0142a Podstawowa Specjalna w Tucholi","name":"Szko\u0142a Podstawowa Specjalna w Tucholi","addr:country":"PL","addr:postcode":"89-500","addr:city":"Tuchola","addr:street":"ul. Piastowska","addr:housenumber":"30","addr:teryt:simc":16046,"addr:teryt:sym_ul":929724,"contact:phone":"+48 523345024","contact:email":"sosw.tuchola@wp.pl","contact:website":"http:\/\/www.specjalna.tuchola.pl","ref:regon":"001229414","ref:vatin":"PL5611004320","operator":"Powiat Tucholski","operator:type":"government","amenity":"school","note":"Parent RSPO: 41225"}},{"id":60498,"type":"Feature","geometry":{"type":"Point","coordinates":[17.87106,53.58625]},"properties":{"ref:rspo":60498,"official_name":"Przedszkole Nr 2 w Tucholi","name":"Przedszkole Nr 2 w Tucholi","addr:country":"PL","addr:postcode":"89-500","addr:city":"Tuchola","addr:street":"ul. Piastowska","addr:housenumber":"32","addr:teryt:simc":16046,"addr:teryt:sym_ul":929724,"contact:phone":"+48 523345537","contact:email":"przedszkole2tuchola@gmail.com","ref:regon":"091538349","ref:vatin":"PL5611302135","operator":"Gmina Tuchola","operator:type":"government","amenity":"kindergarten"}},{"id":60487,"type":"Feature","geometry":{"type":"Point","coordinates":[17.8557099,53.58799]},"properties":{"isced:level":"1;2","ref:rspo":60487,"official_name":"Szko\u0142a Podstawowa Nr 1 im. Ks.pp\u0142k. J\u00f3zefa Wryczy w Tucholi","name":"Szko\u0142a Podstawowa Nr 1","addr:country":"PL","addr:postcode":"89-500","addr:city":"Tuchola","addr:street":"ul. Szkolna","addr:housenumber":"4","addr:teryt:simc":21970,"addr:teryt:sym_ul":929724,"contact:phone":"+48 523343515","contact:email":"sp1tuchola@o2.pl","ref:regon":"000272075","ref:vatin":"PL5611009524","operator":"Gmina Tuchola","operator:type":"government","amenity":"school"}},{"id":43581,"type":"Feature","geometry":{"type":"Point","coordinates":[17.86589,53.58804]},"properties":{"isced:level":"3","ref:rspo":43581,"official_name":"Liceum Og\u00f3lnokszta\u0142c\u0105ce im. Bart\u0142omieja Nowodworskiego w Tucholi","name":"Liceum Og\u00f3lnokszta\u0142c\u0105ce","addr:country":"PL","addr:postcode":"89-500","addr:city":"Tuchola","addr:street":"ul. Pocztowa","addr:housenumber":"8a","addr:teryt:simc":16579,"addr:teryt:sym_ul":929724,"contact:phone":"+48 523363850","contact:email":"sekretariat@nowodworek.pl","contact:website":"http:\/\/www.nowodworek.pl","ref:regon":"000228341","ref:vatin":"PL5611427339","operator":"Powiat Tucholski","operator:type":"government","amenity":"school"}},{"id":35113,"type":"Feature","geometry":{"type":"Point","coordinates":[17.86305,53.58859]},"properties":{"ref:rspo":35113,"official_name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 Licealnych I Agrotechnicznych im. Leona Janty - Po\u0142czy\u0144skiego w Tucholi","name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 Licealnych I Agrotechnicznych","addr:country":"PL","addr:postcode":"89-500","addr:city":"Tuchola","addr:street":"ul. Nowodworskiego","addr:housenumber":"9-13","addr:teryt:simc":14420,"addr:teryt:sym_ul":929724,"contact:phone":"+48 523348483","contact:email":"zslia@tuchola.pl","contact:website":"http:\/\/www.zsliatuchola.pl","ref:regon":"092571260","ref:vatin":"PL5611425168","operator":"Powiat Tucholski","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 47786;119793"}},{"id":38952,"type":"Feature","geometry":{"type":"Point","coordinates":[17.86305,53.58856]},"properties":{"isced:level":"3","ref:rspo":38952,"official_name":"Technikum Le\u015bne w Tucholi im. Adama Loreta","name":"Technikum Le\u015bne w Tucholi","addr:country":"PL","addr:postcode":"89-500","addr:city":"Tuchola","addr:street":"ul. Nowodworskiego","addr:housenumber":"9-13","addr:teryt:simc":14420,"addr:teryt:sym_ul":929724,"contact:phone":"+48 523348661","contact:email":"sekretariat@tltuchola.pl","contact:website":"http:\/\/www.tltuchola.pl","ref:regon":"340343745","ref:vatin":"PL5611599187","operator":"Ministerstwo \u015arodowiska","operator:type":"public","amenity":"school"}},{"id":47786,"type":"Feature","geometry":{"type":"Point","coordinates":[17.86305,53.588530000000006]},"properties":{"isced:level":"3","ref:rspo":47786,"official_name":"Bran\u017cowa Szko\u0142a I Stopnia Nr 2 w Tucholi","name":"Bran\u017cowa Szko\u0142a I Stopnia Nr 2 w Tucholi","addr:country":"PL","addr:postcode":"89-500","addr:city":"Tuchola","addr:street":"ul. Nowodworskiego","addr:housenumber":"9-13","addr:teryt:simc":14420,"addr:teryt:sym_ul":929724,"contact:phone":"+48 523348483","contact:email":"zslia@tuchola.pl","contact:website":"http:\/\/www.zsliatuchola.pl","ref:regon":"092571277","operator":"Powiat Tucholski","operator:type":"government","amenity":"school","note":"Parent RSPO: 35113"}},{"id":119793,"type":"Feature","geometry":{"type":"Point","coordinates":[17.86305,53.5885]},"properties":{"isced:level":"3","ref:rspo":119793,"official_name":"Technikum Nr 2 w Tucholi","name":"Technikum Nr 2 w Tucholi","addr:country":"PL","addr:postcode":"89-500","addr:city":"Tuchola","addr:street":"ul. Nowodworskiego","addr:housenumber":"9-13","addr:teryt:simc":14420,"addr:teryt:sym_ul":929724,"contact:phone":"+48 523348483","contact:email":"zslia@tuchola.pl","contact:website":"http:\/\/www.zsliatuchola.pl","ref:regon":"341477548","operator":"Powiat Tucholski","operator:type":"government","amenity":"school","note":"Parent RSPO: 35113"}},{"id":60493,"type":"Feature","geometry":{"type":"Point","coordinates":[17.86678,53.58871]},"properties":{"isced:level":"1;2","ref:rspo":60493,"official_name":"Szko\u0142a Podstawowa Nr 3 im. Miko\u0142aja Kopernika w Tucholi","name":"Szko\u0142a Podstawowa Nr 3","addr:country":"PL","addr:postcode":"89-500","addr:city":"Tuchola","addr:street":"ul. Pocztowa","addr:housenumber":"10","addr:teryt:simc":16579,"addr:teryt:sym_ul":929724,"contact:phone":"+48 523342176","contact:email":"sp3t@wp.pl","contact:website":"http:\/\/sp3.tuchola.pl","ref:regon":"001156402","ref:vatin":"PL5611009547","operator":"Gmina Tuchola","operator:type":"government","amenity":"school"}},{"id":60494,"type":"Feature","geometry":{"type":"Point","coordinates":[17.8809757,53.6238077]},"properties":{"isced:level":"1;2","ref:rspo":60494,"official_name":"Szko\u0142a Podstawowa im. Leona Wycz\u00f3\u0142kowskiego w Kie\u0142pinie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"89-500","addr:place":"Kie\u0142pin","addr:housenumber":"57","addr:teryt:sym_ul":98559,"contact:phone":"+48 523341929","contact:email":"szkola.kielpin57@wp.pl","contact:website":"http:\/\/spkielpin.edupage.org","ref:regon":"001156253","ref:vatin":"PL5611009576","operator":"Gmina Tuchola","operator:type":"government","amenity":"school"}},{"id":60490,"type":"Feature","geometry":{"type":"Point","coordinates":[17.8102547,53.6465495]},"properties":{"isced:level":"1;2","ref:rspo":60490,"official_name":"Szko\u0142a Podstawowa im. Boles\u0142awa Meggera w Stobnie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"89-502","addr:place":"Stobno","addr:housenumber":"33","addr:teryt:sym_ul":98890,"contact:phone":"+48 525592573","contact:email":"spstobno@op.pl","contact:website":"http:\/\/spstobno.edupage.org","ref:regon":"001156230","ref:vatin":"PL5611009582","operator":"Gmina Tuchola","operator:type":"government","amenity":"school"}},{"id":60488,"type":"Feature","geometry":{"type":"Point","coordinates":[17.78869,53.6602]},"properties":{"isced:level":"1;2","ref:rspo":60488,"official_name":"Szko\u0142a Podstawowa w Raci\u0105\u017cu","name":"Szko\u0142a Podstawowa w Raci\u0105\u017cu","addr:country":"PL","addr:postcode":"89-500","addr:city":"Raci\u0105\u017c","addr:street":"ul. Lipowa","addr:housenumber":"17","addr:teryt:simc":11139,"addr:teryt:sym_ul":98826,"contact:phone":"+48 523361721","contact:email":"sp_raciaz@wp.pl","contact:website":"http:\/\/spraciaz.com.pl","ref:regon":"001156425","ref:vatin":"PL5611009599","operator":"Gmina Tuchola","operator:type":"government","amenity":"school"}},{"id":60491,"type":"Feature","geometry":{"type":"Point","coordinates":[17.94168,53.70919]},"properties":{"isced:level":"1;2","ref:rspo":60491,"official_name":"Szko\u0142a Podstawowa im.jana Paw\u0142a II w Legb\u0105dzie","name":"Szko\u0142a Podstawowa im.jana Paw\u0142a II w Legb\u0105dzie","addr:country":"PL","addr:postcode":"89-504","addr:city":"Legb\u0105d","addr:street":"ul. Szkolna","addr:housenumber":"5","addr:teryt:simc":21970,"addr:teryt:sym_ul":98683,"contact:phone":"+48 523341529","contact:email":"splegbad@wp.pl","contact:website":"http:\/\/splegbad.edupage.org","ref:regon":"001156419","ref:vatin":"PL5611009607","operator":"Gmina Tuchola","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 60501,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.89258,
+                    53.56971
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 60501,
+                "official_name": "Szko\u0142a Podstawowa Nr 5 w Tucholi",
+                "name": "Szko\u0142a Podstawowa Nr 5 w Tucholi",
+                "addr:country": "PL",
+                "addr:postcode": "89-500",
+                "addr:city": "Tuchola",
+                "addr:street": "ul. \u015awiecka",
+                "addr:housenumber": "105",
+                "addr:teryt:simc": 22475,
+                "addr:teryt:sym_ul": 929724,
+                "contact:phone": "+48 523342026",
+                "contact:email": "sp5_tuchola@wp.pl",
+                "ref:regon": "091538361",
+                "ref:vatin": "PL5611302129",
+                "operator": "Gmina Tuchola",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 74848,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.8672,
+                    53.57715
+                ]
+            },
+            "properties": {
+                "ref:rspo": 74848,
+                "official_name": "Przedszkole Nr 1 w Tucholi",
+                "name": "Przedszkole Nr 1 w Tucholi",
+                "addr:country": "PL",
+                "addr:postcode": "89-500",
+                "addr:city": "Tuchola",
+                "addr:street": "ul. Bydgoska",
+                "addr:housenumber": "13a",
+                "addr:teryt:simc": 2498,
+                "addr:teryt:sym_ul": 929724,
+                "contact:phone": "+48 523343930",
+                "contact:email": "przedszkole1_tuchola@o2.pl",
+                "ref:regon": "091284736",
+                "ref:vatin": "PL5611009642",
+                "operator": "Gmina Tuchola",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 39142,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.87295,
+                    53.58072
+                ]
+            },
+            "properties": {
+                "ref:rspo": 39142,
+                "official_name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Licealnych I Technicznych im. Ziemi Tucholskiej w Tucholi",
+                "name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Licealnych I Technicznych",
+                "addr:country": "PL",
+                "addr:postcode": "89-500",
+                "addr:city": "Tuchola",
+                "addr:street": "ul. \u015awiecka",
+                "addr:housenumber": "89a",
+                "addr:teryt:simc": 22475,
+                "addr:teryt:sym_ul": 929724,
+                "contact:phone": "+48 523343363",
+                "contact:email": "poczta@zslit-tuchola.pl",
+                "contact:website": "http:\/\/www.zslit-tuchola.pl",
+                "ref:regon": "000200816",
+                "ref:vatin": "PL5611067438",
+                "operator": "Powiat Tucholski",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 54234;119792"
+            }
+        },
+        {
+            "id": 275384,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.87295,
+                    53.58069
+                ]
+            },
+            "properties": {
+                "ref:rspo": 275384,
+                "official_name": "Tucholskie Centrum Edukacji Zawodowej w Tucholi",
+                "name": "Tucholskie Centrum Edukacji Zawodowej w Tucholi",
+                "addr:country": "PL",
+                "addr:postcode": "89-500",
+                "addr:city": "Tuchola",
+                "addr:street": "ul. \u015awiecka",
+                "addr:housenumber": "89a",
+                "addr:teryt:simc": 22475,
+                "addr:teryt:sym_ul": 929724,
+                "contact:phone": "+48 523343531",
+                "contact:email": "tcez@tuchola.pl",
+                "contact:website": "http:\/\/www.tcez.tuchola.pl",
+                "ref:regon": "092962670",
+                "ref:vatin": "PL5611454690",
+                "operator": "Powiat Tucholski",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 61350;68153"
+            }
+        },
+        {
+            "id": 277358,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.87295,
+                    53.58066
+                ]
+            },
+            "properties": {
+                "ref:rspo": 277358,
+                "official_name": "Runtime Niepubliczna Plac\u00f3wka Kszta\u0142cenia Ustawicznego",
+                "name": "Runtime Niepubliczna Plac\u00f3wka Kszta\u0142cenia Ustawicznego",
+                "addr:country": "PL",
+                "addr:postcode": "89-500",
+                "addr:city": "Tuchola",
+                "addr:street": "ul. \u015awiecka",
+                "addr:housenumber": "89a",
+                "addr:teryt:simc": 22475,
+                "addr:teryt:sym_ul": 929724,
+                "contact:email": "agnieszka.klawikowska@atut-ak.pl",
+                "ref:regon": "388700870",
+                "operator": "Runtime Sp\u00f3\u0142ka Z Ograniczon\u0105 Odpowiedzialno\u015bci\u0105",
+                "operator:type": "private",
+                "fixme": "w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. amenity=training + training=*, amenity=dancing_school, amenity=language_school, amenity=music_school)"
+            }
+        },
+        {
+            "id": 54234,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.87295,
+                    53.58063
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 54234,
+                "official_name": "Bran\u017cowa Szko\u0142a I Stopnia Nr 1 w Tucholi",
+                "name": "Bran\u017cowa Szko\u0142a I Stopnia Nr 1 w Tucholi",
+                "addr:country": "PL",
+                "addr:postcode": "89-500",
+                "addr:city": "Tuchola",
+                "addr:street": "ul. \u015awiecka",
+                "addr:housenumber": "89A",
+                "addr:teryt:simc": 22475,
+                "addr:teryt:sym_ul": 929724,
+                "contact:phone": "+48 523343363",
+                "contact:email": "poczta@zslit-tuchola.pl",
+                "contact:website": "http:\/\/www.zslit-tuchola.pl",
+                "ref:regon": "093154506",
+                "operator": "Powiat Tucholski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 39142"
+            }
+        },
+        {
+            "id": 119792,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.87295,
+                    53.5806
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 119792,
+                "official_name": "Technikum Nr 1 w Tucholi",
+                "name": "Technikum Nr 1 w Tucholi",
+                "addr:country": "PL",
+                "addr:postcode": "89-500",
+                "addr:city": "Tuchola",
+                "addr:street": "ul. \u015awiecka",
+                "addr:housenumber": "89a",
+                "addr:teryt:simc": 22475,
+                "addr:teryt:sym_ul": 929724,
+                "contact:phone": "+48 523343363",
+                "contact:email": "poczta@zslit-tuchola.pl",
+                "contact:website": "http:\/\/www.zslit-tuchola.pl",
+                "ref:regon": "341477531",
+                "operator": "Powiat Tucholski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 39142"
+            }
+        },
+        {
+            "id": 72342,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.87295,
+                    53.58057
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 72342,
+                "official_name": "Liceum Og\u00f3lnokszta\u0142c\u0105ce dla Doros\u0142ych",
+                "name": "Liceum Og\u00f3lnokszta\u0142c\u0105ce dla Doros\u0142ych",
+                "addr:country": "PL",
+                "addr:postcode": "89-500",
+                "addr:city": "Tuchola",
+                "addr:street": "ul. \u015awiecka",
+                "addr:housenumber": "89a",
+                "addr:teryt:simc": 22475,
+                "addr:teryt:sym_ul": 929724,
+                "contact:phone": "+48 523343531",
+                "contact:email": "tcez@tuchola.pl",
+                "contact:website": "http:\/\/www.tcez.tuchola.pl",
+                "ref:regon": "093203162",
+                "operator": "Powiat Tucholski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 61350"
+            }
+        },
+        {
+            "id": 72346,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.87295,
+                    53.58054
+                ]
+            },
+            "properties": {
+                "isced:level": "4",
+                "ref:rspo": 72346,
+                "official_name": "Szko\u0142a Policealna w Tucholi",
+                "name": "Szko\u0142a Policealna w Tucholi",
+                "addr:country": "PL",
+                "addr:postcode": "89-500",
+                "addr:city": "Tuchola",
+                "addr:street": "ul. \u015awiecka",
+                "addr:housenumber": "89a",
+                "addr:teryt:simc": 22475,
+                "addr:teryt:sym_ul": 929724,
+                "contact:phone": "+48 523343531",
+                "contact:email": "tcez@tuchola.pl",
+                "contact:website": "http:\/\/www.tcez.tuchola.pl",
+                "ref:regon": "093150371",
+                "operator": "Powiat Tucholski",
+                "operator:type": "government",
+                "amenity": "college",
+                "note": "Parent RSPO: 61350"
+            }
+        },
+        {
+            "id": 274743,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.87295,
+                    53.58051
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 274743,
+                "official_name": "Bran\u017cowa Szko\u0142a II Stopnia w Tucholi",
+                "name": "Bran\u017cowa Szko\u0142a II Stopnia w Tucholi",
+                "addr:country": "PL",
+                "addr:postcode": "89-500",
+                "addr:city": "Tuchola",
+                "addr:street": "ul. \u015awiecka",
+                "addr:housenumber": "89a",
+                "addr:teryt:simc": 22475,
+                "addr:teryt:sym_ul": 929724,
+                "contact:phone": "+48 523343531",
+                "contact:email": "tcez@tuchola.pl",
+                "contact:website": "http:\/\/www.tcez.tuchola.pl",
+                "ref:regon": "386287353",
+                "operator": "Powiat Tucholski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 61350"
+            }
+        },
+        {
+            "id": 61350,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.87295,
+                    53.58048
+                ]
+            },
+            "properties": {
+                "ref:rspo": 61350,
+                "official_name": "Centrum Kszta\u0142cenia Ustawicznego",
+                "name": "Centrum Kszta\u0142cenia Ustawicznego",
+                "addr:country": "PL",
+                "addr:postcode": "89-500",
+                "addr:city": "Tuchola",
+                "addr:street": "ul. \u015awiecka",
+                "addr:housenumber": "89a",
+                "addr:teryt:simc": 22475,
+                "addr:teryt:sym_ul": 929724,
+                "contact:phone": "+48 523343531",
+                "contact:email": "tcez@tuchola.pl",
+                "contact:website": "http:\/\/www.tcez.tuchola.pl",
+                "ref:regon": "093182840",
+                "ref:vatin": "PL5611454690",
+                "operator": "Powiat Tucholski",
+                "operator:type": "government",
+                "amenity": "school",
+                "fixme": "amenity=school lub amenity=college",
+                "note": "Children RSPO: 72342;72346;274743Parent RSPO: 275384"
+            }
+        },
+        {
+            "id": 68153,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.87295,
+                    53.58045
+                ]
+            },
+            "properties": {
+                "ref:rspo": 68153,
+                "official_name": "Centrum Kszta\u0142cenia Zawodowego",
+                "name": "Centrum Kszta\u0142cenia Zawodowego",
+                "addr:country": "PL",
+                "addr:postcode": "89-500",
+                "addr:city": "Tuchola",
+                "addr:street": "ul. \u015awiecka",
+                "addr:housenumber": "89a",
+                "addr:teryt:simc": 22475,
+                "addr:teryt:sym_ul": 929724,
+                "contact:phone": "+48 523343531",
+                "contact:email": "tcez@tuchola.pl",
+                "contact:website": "http:\/\/www.tcez.tuchola.pl",
+                "ref:regon": "092507799",
+                "ref:vatin": "PL5611454690",
+                "operator": "Powiat Tucholski",
+                "operator:type": "government",
+                "fixme": "w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. amenity=training + training=*, amenity=dancing_school, amenity=language_school, amenity=music_school) albo amenity=school, amenity=college, albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Parent RSPO: 275384"
+            }
+        },
+        {
+            "id": 262537,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.86934,
+                    53.58563
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 262537,
+                "official_name": "Szko\u0142a Podstawowa Nr 2 im. Dr Kazimierza Karasiewicza w Tucholi",
+                "name": "Szko\u0142a Podstawowa Nr 2",
+                "addr:country": "PL",
+                "addr:postcode": "89-501",
+                "addr:city": "Tuchola",
+                "addr:street": "ul. Piastowska",
+                "addr:housenumber": "23",
+                "addr:teryt:simc": 16046,
+                "addr:teryt:sym_ul": 929724,
+                "contact:phone": "+48 523363010",
+                "contact:email": "sp2.tuchola@gmail.com",
+                "contact:website": "http:\/\/sp2.tuchola.pl",
+                "ref:regon": "368030651",
+                "ref:vatin": "PL5611601777",
+                "operator": "Gmina Tuchola",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 39119,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.87019,
+                    53.58563
+                ]
+            },
+            "properties": {
+                "ref:rspo": 39119,
+                "official_name": "Poradnia Psychologiczno - Pedagogiczna w Tucholi",
+                "name": "Poradnia Psychologiczno - Pedagogiczna w Tucholi",
+                "addr:country": "PL",
+                "addr:postcode": "89-501",
+                "addr:city": "Tuchola",
+                "addr:street": "ul. Piastowska",
+                "addr:housenumber": "30",
+                "addr:teryt:simc": 16046,
+                "addr:teryt:sym_ul": 929724,
+                "contact:phone": "+48 523343863",
+                "contact:email": "poradnia@poradniatuchola.pl",
+                "contact:website": "http:\/\/www.poradnia.tuchola.pl",
+                "ref:regon": "092910928",
+                "ref:vatin": "PL5611437384",
+                "operator": "Powiat Tucholski",
+                "operator:type": "government",
+                "healthcare": "counselling",
+                "counselling_type": "education",
+                "fixme": "w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. healthcare=counselling + counselling_type=education albo healthcare=psychotherapist)"
+            }
+        },
+        {
+            "id": 41225,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.87019,
+                    53.5856
+                ]
+            },
+            "properties": {
+                "ref:rspo": 41225,
+                "official_name": "Specjalny O\u015brodek Szkolno - Wychowawczy im. Kawaler\u00f3w Orderu U\u015bmiechu w Tucholi",
+                "name": "Specjalny O\u015brodek Szkolno - Wychowawczy",
+                "addr:country": "PL",
+                "addr:postcode": "89-501",
+                "addr:city": "Tuchola",
+                "addr:street": "ul. Piastowska",
+                "addr:housenumber": "30",
+                "addr:teryt:simc": 16046,
+                "addr:teryt:sym_ul": 929724,
+                "contact:phone": "+48 523345024",
+                "contact:email": "sosw.tuchola@wp.pl",
+                "contact:website": "http:\/\/www.specjalna.tuchola.pl",
+                "ref:regon": "093192122",
+                "ref:vatin": "PL5611510750",
+                "operator": "Powiat Tucholski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Children RSPO: 52485;52486;108708;122697"
+            }
+        },
+        {
+            "id": 52485,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.87019,
+                    53.585570000000004
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 52485,
+                "official_name": "Bran\u017cowa Szko\u0142a Specjalna I Stopnia w Tucholi",
+                "name": "Bran\u017cowa Szko\u0142a Specjalna I Stopnia w Tucholi",
+                "addr:country": "PL",
+                "addr:postcode": "89-501",
+                "addr:city": "Tuchola",
+                "addr:street": "ul. Piastowska",
+                "addr:housenumber": "30",
+                "addr:teryt:simc": 16046,
+                "addr:teryt:sym_ul": 929724,
+                "contact:phone": "+48 523345024",
+                "contact:email": "sosw.tuchola@wp.pl",
+                "contact:website": "http:\/\/www.specjalna.tuchola.pl",
+                "ref:regon": "093192116",
+                "operator": "Powiat Tucholski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 41225"
+            }
+        },
+        {
+            "id": 52486,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.87019,
+                    53.58554
+                ]
+            },
+            "properties": {
+                "ref:rspo": 52486,
+                "official_name": "Szko\u0142a Specjalna Przysposabiaj\u0105ca Do Pracy w Tucholi",
+                "name": "Szko\u0142a Specjalna Przysposabiaj\u0105ca Do Pracy w Tucholi",
+                "addr:country": "PL",
+                "addr:postcode": "89-500",
+                "addr:city": "Tuchola",
+                "addr:street": "ul. Piastowska",
+                "addr:housenumber": "30",
+                "addr:teryt:simc": 16046,
+                "addr:teryt:sym_ul": 929724,
+                "contact:phone": "+48 523345024",
+                "contact:email": "sosw.tuchola@wp.pl",
+                "contact:website": "http:\/\/www.specjalna.tuchola.pl",
+                "ref:regon": "340043546",
+                "operator": "Powiat Tucholski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 41225"
+            }
+        },
+        {
+            "id": 108708,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.87019,
+                    53.58551
+                ]
+            },
+            "properties": {
+                "ref:rspo": 108708,
+                "official_name": "Przedszkole Specjalne dla Dzieci Z Upo\u015bledzeniem Umys\u0142owym w Stopniu Umiarkowanym, Znacznym, Z Autyzmem Oraz Niepe\u0142nosprawno\u015bciami Sprz\u0119\u017conymi w Specjalnym O\u015brodku Szkolno-Wychowawczym w Tucholi",
+                "name": "Przedszkole Specjalne dla Dzieci Z Upo\u015bledzeniem Umys\u0142owym w Stopniu Umiarkowanym, Znacznym, Z Autyzmem Oraz Niepe\u0142nosprawno\u015bciami Sprz\u0119\u017conymi w Specjalnym O\u015brodku Szkolno-Wychowawczym w Tucholi",
+                "addr:country": "PL",
+                "addr:postcode": "89-501",
+                "addr:city": "Tuchola",
+                "addr:street": "ul. Piastowska",
+                "addr:housenumber": "30",
+                "addr:teryt:simc": 16046,
+                "addr:teryt:sym_ul": 929724,
+                "contact:phone": "+48 523345024",
+                "contact:email": "sosw.tuchola@wp.pl",
+                "contact:website": "http:\/\/www.specjalna.tuchola.pl",
+                "ref:regon": "341387331",
+                "operator": "Powiat Tucholski",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 41225"
+            }
+        },
+        {
+            "id": 122697,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.87019,
+                    53.585480000000004
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 122697,
+                "official_name": "Szko\u0142a Podstawowa Specjalna w Tucholi",
+                "name": "Szko\u0142a Podstawowa Specjalna w Tucholi",
+                "addr:country": "PL",
+                "addr:postcode": "89-500",
+                "addr:city": "Tuchola",
+                "addr:street": "ul. Piastowska",
+                "addr:housenumber": "30",
+                "addr:teryt:simc": 16046,
+                "addr:teryt:sym_ul": 929724,
+                "contact:phone": "+48 523345024",
+                "contact:email": "sosw.tuchola@wp.pl",
+                "contact:website": "http:\/\/www.specjalna.tuchola.pl",
+                "ref:regon": "001229414",
+                "ref:vatin": "PL5611004320",
+                "operator": "Powiat Tucholski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 41225"
+            }
+        },
+        {
+            "id": 60498,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.87106,
+                    53.58625
+                ]
+            },
+            "properties": {
+                "ref:rspo": 60498,
+                "official_name": "Przedszkole Nr 2 w Tucholi",
+                "name": "Przedszkole Nr 2 w Tucholi",
+                "addr:country": "PL",
+                "addr:postcode": "89-500",
+                "addr:city": "Tuchola",
+                "addr:street": "ul. Piastowska",
+                "addr:housenumber": "32",
+                "addr:teryt:simc": 16046,
+                "addr:teryt:sym_ul": 929724,
+                "contact:phone": "+48 523345537",
+                "contact:email": "przedszkole2tuchola@gmail.com",
+                "ref:regon": "091538349",
+                "ref:vatin": "PL5611302135",
+                "operator": "Gmina Tuchola",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 60487,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.8557099,
+                    53.58799
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 60487,
+                "official_name": "Szko\u0142a Podstawowa Nr 1 im. Ks.pp\u0142k. J\u00f3zefa Wryczy w Tucholi",
+                "name": "Szko\u0142a Podstawowa Nr 1",
+                "addr:country": "PL",
+                "addr:postcode": "89-500",
+                "addr:city": "Tuchola",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "4",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 929724,
+                "contact:phone": "+48 523343515",
+                "contact:email": "sp1tuchola@o2.pl",
+                "ref:regon": "000272075",
+                "ref:vatin": "PL5611009524",
+                "operator": "Gmina Tuchola",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 43581,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.86589,
+                    53.58804
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 43581,
+                "official_name": "Liceum Og\u00f3lnokszta\u0142c\u0105ce im. Bart\u0142omieja Nowodworskiego w Tucholi",
+                "name": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+                "addr:country": "PL",
+                "addr:postcode": "89-500",
+                "addr:city": "Tuchola",
+                "addr:street": "ul. Pocztowa",
+                "addr:housenumber": "8a",
+                "addr:teryt:simc": 16579,
+                "addr:teryt:sym_ul": 929724,
+                "contact:phone": "+48 523363850",
+                "contact:email": "sekretariat@nowodworek.pl",
+                "contact:website": "http:\/\/www.nowodworek.pl",
+                "ref:regon": "000228341",
+                "ref:vatin": "PL5611427339",
+                "operator": "Powiat Tucholski",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 35113,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.86305,
+                    53.58859
+                ]
+            },
+            "properties": {
+                "ref:rspo": 35113,
+                "official_name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Licealnych I Agrotechnicznych im. Leona Janty - Po\u0142czy\u0144skiego w Tucholi",
+                "name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Licealnych I Agrotechnicznych",
+                "addr:country": "PL",
+                "addr:postcode": "89-500",
+                "addr:city": "Tuchola",
+                "addr:street": "ul. Nowodworskiego",
+                "addr:housenumber": "9-13",
+                "addr:teryt:simc": 14420,
+                "addr:teryt:sym_ul": 929724,
+                "contact:phone": "+48 523348483",
+                "contact:email": "zslia@tuchola.pl",
+                "contact:website": "http:\/\/www.zsliatuchola.pl",
+                "ref:regon": "092571260",
+                "ref:vatin": "PL5611425168",
+                "operator": "Powiat Tucholski",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 47786;119793"
+            }
+        },
+        {
+            "id": 38952,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.86305,
+                    53.58856
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 38952,
+                "official_name": "Technikum Le\u015bne w Tucholi im. Adama Loreta",
+                "name": "Technikum Le\u015bne w Tucholi",
+                "addr:country": "PL",
+                "addr:postcode": "89-500",
+                "addr:city": "Tuchola",
+                "addr:street": "ul. Nowodworskiego",
+                "addr:housenumber": "9-13",
+                "addr:teryt:simc": 14420,
+                "addr:teryt:sym_ul": 929724,
+                "contact:phone": "+48 523348661",
+                "contact:email": "sekretariat@tltuchola.pl",
+                "contact:website": "http:\/\/www.tltuchola.pl",
+                "ref:regon": "340343745",
+                "ref:vatin": "PL5611599187",
+                "operator": "Ministerstwo \u015arodowiska",
+                "operator:type": "public",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 47786,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.86305,
+                    53.588530000000006
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 47786,
+                "official_name": "Bran\u017cowa Szko\u0142a I Stopnia Nr 2 w Tucholi",
+                "name": "Bran\u017cowa Szko\u0142a I Stopnia Nr 2 w Tucholi",
+                "addr:country": "PL",
+                "addr:postcode": "89-500",
+                "addr:city": "Tuchola",
+                "addr:street": "ul. Nowodworskiego",
+                "addr:housenumber": "9-13",
+                "addr:teryt:simc": 14420,
+                "addr:teryt:sym_ul": 929724,
+                "contact:phone": "+48 523348483",
+                "contact:email": "zslia@tuchola.pl",
+                "contact:website": "http:\/\/www.zsliatuchola.pl",
+                "ref:regon": "092571277",
+                "operator": "Powiat Tucholski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 35113"
+            }
+        },
+        {
+            "id": 119793,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.86305,
+                    53.5885
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 119793,
+                "official_name": "Technikum Nr 2 w Tucholi",
+                "name": "Technikum Nr 2 w Tucholi",
+                "addr:country": "PL",
+                "addr:postcode": "89-500",
+                "addr:city": "Tuchola",
+                "addr:street": "ul. Nowodworskiego",
+                "addr:housenumber": "9-13",
+                "addr:teryt:simc": 14420,
+                "addr:teryt:sym_ul": 929724,
+                "contact:phone": "+48 523348483",
+                "contact:email": "zslia@tuchola.pl",
+                "contact:website": "http:\/\/www.zsliatuchola.pl",
+                "ref:regon": "341477548",
+                "operator": "Powiat Tucholski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 35113"
+            }
+        },
+        {
+            "id": 60493,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.86678,
+                    53.58871
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 60493,
+                "official_name": "Szko\u0142a Podstawowa Nr 3 im. Miko\u0142aja Kopernika w Tucholi",
+                "name": "Szko\u0142a Podstawowa Nr 3",
+                "addr:country": "PL",
+                "addr:postcode": "89-500",
+                "addr:city": "Tuchola",
+                "addr:street": "ul. Pocztowa",
+                "addr:housenumber": "10",
+                "addr:teryt:simc": 16579,
+                "addr:teryt:sym_ul": 929724,
+                "contact:phone": "+48 523342176",
+                "contact:email": "sp3t@wp.pl",
+                "contact:website": "http:\/\/sp3.tuchola.pl",
+                "ref:regon": "001156402",
+                "ref:vatin": "PL5611009547",
+                "operator": "Gmina Tuchola",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 60494,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.8809757,
+                    53.6238077
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 60494,
+                "official_name": "Szko\u0142a Podstawowa im. Leona Wycz\u00f3\u0142kowskiego w Kie\u0142pinie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "89-500",
+                "addr:place": "Kie\u0142pin",
+                "addr:housenumber": "57",
+                "addr:teryt:sym_ul": 98559,
+                "contact:phone": "+48 523341929",
+                "contact:email": "szkola.kielpin57@wp.pl",
+                "contact:website": "http:\/\/spkielpin.edupage.org",
+                "ref:regon": "001156253",
+                "ref:vatin": "PL5611009576",
+                "operator": "Gmina Tuchola",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 60490,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.8102547,
+                    53.6465495
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 60490,
+                "official_name": "Szko\u0142a Podstawowa im. Boles\u0142awa Meggera w Stobnie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "89-502",
+                "addr:place": "Stobno",
+                "addr:housenumber": "33",
+                "addr:teryt:sym_ul": 98890,
+                "contact:phone": "+48 525592573",
+                "contact:email": "spstobno@op.pl",
+                "contact:website": "http:\/\/spstobno.edupage.org",
+                "ref:regon": "001156230",
+                "ref:vatin": "PL5611009582",
+                "operator": "Gmina Tuchola",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 60488,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.78869,
+                    53.6602
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 60488,
+                "official_name": "Szko\u0142a Podstawowa w Raci\u0105\u017cu",
+                "name": "Szko\u0142a Podstawowa w Raci\u0105\u017cu",
+                "addr:country": "PL",
+                "addr:postcode": "89-500",
+                "addr:city": "Raci\u0105\u017c",
+                "addr:street": "ul. Lipowa",
+                "addr:housenumber": "17",
+                "addr:teryt:simc": 11139,
+                "addr:teryt:sym_ul": 98826,
+                "contact:phone": "+48 523361721",
+                "contact:email": "sp_raciaz@wp.pl",
+                "contact:website": "http:\/\/spraciaz.com.pl",
+                "ref:regon": "001156425",
+                "ref:vatin": "PL5611009599",
+                "operator": "Gmina Tuchola",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 60491,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.94168,
+                    53.70919
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 60491,
+                "official_name": "Szko\u0142a Podstawowa im.jana Paw\u0142a II w Legb\u0105dzie",
+                "name": "Szko\u0142a Podstawowa im.jana Paw\u0142a II w Legb\u0105dzie",
+                "addr:country": "PL",
+                "addr:postcode": "89-504",
+                "addr:city": "Legb\u0105d",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "5",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 98683,
+                "contact:phone": "+48 523341529",
+                "contact:email": "splegbad@wp.pl",
+                "contact:website": "http:\/\/splegbad.edupage.org",
+                "ref:regon": "001156419",
+                "ref:vatin": "PL5611009607",
+                "operator": "Gmina Tuchola",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

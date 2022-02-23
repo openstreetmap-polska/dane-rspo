@@ -1,1 +1,121 @@
-{"type":"FeatureCollection","features":[{"id":271930,"type":"Feature","geometry":{"type":"Point","coordinates":[19.51664,53.21256]},"properties":{"isced:level":"1;2","ref:rspo":271930,"official_name":"Szko\u0142a Podstawowa w Jastrz\u0119biu","name":"Szko\u0142a Podstawowa w Jastrz\u0119biu","addr:country":"PL","addr:postcode":"87-322","addr:place":"Jastrz\u0119bie","addr:housenumber":"14","addr:teryt:sym_ul":843780,"contact:phone":"+48 564955712","contact:email":"spjastrzebie14@gmail.com","ref:regon":"383804581","ref:vatin":"PL8741795994","operator":"Gmina Bartniczka","operator:type":"government","amenity":"school"}},{"id":118852,"type":"Feature","geometry":{"type":"Point","coordinates":[19.54865,53.2482]},"properties":{"ref:rspo":118852,"official_name":"Przedszkole Publiczne w \u0141aszewie","name":"Przedszkole Publiczne w \u0141aszewie","addr:country":"PL","addr:postcode":"87-321","addr:place":"\u0141aszewo","addr:housenumber":"49","addr:teryt:sym_ul":843856,"contact:phone":"+48 564955547","contact:email":"przedszkolelaszewo@wp.pl","contact:website":"http:\/\/przedszkolelaszewo.pl","ref:regon":"341468940","ref:vatin":"PL8741776465","operator":"Gmina Bartniczka","operator:type":"government","amenity":"kindergarten"}},{"id":125218,"type":"Feature","geometry":{"type":"Point","coordinates":[19.60612,53.24944]},"properties":{"ref:rspo":125218,"official_name":"Punkt Przedszkolny Stowarzyszenia Przyjaci\u00f3\u0142 Szk\u00f3\u0142 Katolickich","name":"Punkt Przedszkolny Stowarzyszenia Przyjaci\u00f3\u0142 Szk\u00f3\u0142 Katolickich","addr:country":"PL","addr:postcode":"87-321","addr:place":"Gr\u0105\u017cawy","addr:housenumber":"33","addr:teryt:sym_ul":843738,"contact:phone":"+48 512328884","contact:email":"miesiaczkowo@interia.pl","ref:regon":"341626296","ref:vatin":"PL8741777536","operator":"Stowarzyszenie Przyjaci\u00f3\u0142 Szk\u00f3\u0142 Katolickich","operator:type":"ngo","amenity":"kindergarten"}},{"id":51944,"type":"Feature","geometry":{"type":"Point","coordinates":[19.64026,53.2568399]},"properties":{"isced:level":"1;2","ref:rspo":51944,"official_name":"Szko\u0142a Podstawowa im. Janusza Korczaka w Radoszkach","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"87-321","addr:place":"Radoszki","addr:housenumber":"64A","addr:teryt:sym_ul":843879,"contact:phone":"+48 564936646","contact:email":"spradoszki@wp.pl","contact:website":"http:\/\/spradoszki.edupage.org","ref:regon":"001212419","ref:vatin":"PL8741558099","operator":"Gmina Bartniczka","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 271930,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.51664,
+                    53.21256
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 271930,
+                "official_name": "Szko\u0142a Podstawowa w Jastrz\u0119biu",
+                "name": "Szko\u0142a Podstawowa w Jastrz\u0119biu",
+                "addr:country": "PL",
+                "addr:postcode": "87-322",
+                "addr:place": "Jastrz\u0119bie",
+                "addr:housenumber": "14",
+                "addr:teryt:sym_ul": 843780,
+                "contact:phone": "+48 564955712",
+                "contact:email": "spjastrzebie14@gmail.com",
+                "ref:regon": "383804581",
+                "ref:vatin": "PL8741795994",
+                "operator": "Gmina Bartniczka",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 118852,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.54865,
+                    53.2482
+                ]
+            },
+            "properties": {
+                "ref:rspo": 118852,
+                "official_name": "Przedszkole Publiczne w \u0141aszewie",
+                "name": "Przedszkole Publiczne w \u0141aszewie",
+                "addr:country": "PL",
+                "addr:postcode": "87-321",
+                "addr:place": "\u0141aszewo",
+                "addr:housenumber": "49",
+                "addr:teryt:sym_ul": 843856,
+                "contact:phone": "+48 564955547",
+                "contact:email": "przedszkolelaszewo@wp.pl",
+                "contact:website": "http:\/\/przedszkolelaszewo.pl",
+                "ref:regon": "341468940",
+                "ref:vatin": "PL8741776465",
+                "operator": "Gmina Bartniczka",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 125218,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.60612,
+                    53.24944
+                ]
+            },
+            "properties": {
+                "ref:rspo": 125218,
+                "official_name": "Punkt Przedszkolny Stowarzyszenia Przyjaci\u00f3\u0142 Szk\u00f3\u0142 Katolickich",
+                "name": "Punkt Przedszkolny Stowarzyszenia Przyjaci\u00f3\u0142 Szk\u00f3\u0142 Katolickich",
+                "addr:country": "PL",
+                "addr:postcode": "87-321",
+                "addr:place": "Gr\u0105\u017cawy",
+                "addr:housenumber": "33",
+                "addr:teryt:sym_ul": 843738,
+                "contact:phone": "+48 512328884",
+                "contact:email": "miesiaczkowo@interia.pl",
+                "ref:regon": "341626296",
+                "ref:vatin": "PL8741777536",
+                "operator": "Stowarzyszenie Przyjaci\u00f3\u0142 Szk\u00f3\u0142 Katolickich",
+                "operator:type": "ngo",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 51944,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.64026,
+                    53.2568399
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 51944,
+                "official_name": "Szko\u0142a Podstawowa im. Janusza Korczaka w Radoszkach",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "87-321",
+                "addr:place": "Radoszki",
+                "addr:housenumber": "64A",
+                "addr:teryt:sym_ul": 843879,
+                "contact:phone": "+48 564936646",
+                "contact:email": "spradoszki@wp.pl",
+                "contact:website": "http:\/\/spradoszki.edupage.org",
+                "ref:regon": "001212419",
+                "ref:vatin": "PL8741558099",
+                "operator": "Gmina Bartniczka",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

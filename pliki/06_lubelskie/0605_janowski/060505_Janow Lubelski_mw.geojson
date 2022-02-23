@@ -1,1 +1,841 @@
-{"type":"FeatureCollection","features":[{"id":123078,"type":"Feature","geometry":{"type":"Point","coordinates":[22.410989761352,50.598491668701]},"properties":{"isced:level":"1;2","ref:rspo":123078,"official_name":"Publiczna Szko\u0142a Podstawowa w Momotach G\u00f3rnych","name":"Publiczna Szko\u0142a Podstawowa w Momotach G\u00f3rnych","addr:country":"PL","addr:postcode":"23-300","addr:place":"Momoty G\u00f3rne","addr:housenumber":"23","addr:teryt:sym_ul":794655,"contact:phone":"+48 158726101","contact:email":"pspmomoty@onet.pl","contact:website":"http:\/\/psp.momoty.webd.pl\/","ref:regon":"001177433","ref:vatin":"PL8621007540","operator":"Gmina Jan\u00f3w Lubelski","operator:type":"government","amenity":"school"}},{"id":268610,"type":"Feature","geometry":{"type":"Point","coordinates":[22.410989761352,50.598461668701]},"properties":{"ref:rspo":268610,"official_name":"Niepubliczny Punkt Przedszkolny Melomiko Justyna \u0141ukasik Oddzia\u0142 w Momotach G\u00f3rnych","name":"Niepubliczny Punkt Przedszkolny Melomiko Justyna \u0141ukasik Oddzia\u0142 w Momotach G\u00f3rnych","addr:country":"PL","addr:postcode":"23-300","addr:place":"Momoty G\u00f3rne","addr:housenumber":"23","addr:teryt:sym_ul":794655,"contact:email":"lukasik-justyna@wp.pl","ref:regon":"381215716","ref:vatin":"PL8621543209","operator":"Justyna \u0141ukasik","operator:type":"private","amenity":"kindergarten"}},{"id":14989,"type":"Feature","geometry":{"type":"Point","coordinates":[22.42216,50.70124]},"properties":{"ref:rspo":14989,"official_name":"Poradnia Psychologiczno-Pedagogiczna w Janowie Lubelskim","name":"Poradnia Psychologiczno-Pedagogiczna w Janowie Lubelskim","addr:country":"PL","addr:postcode":"23-300","addr:city":"Jan\u00f3w Lubelski","addr:street":"ul. Jana Zamoyskiego","addr:housenumber":"77","addr:teryt:simc":25579,"addr:teryt:sym_ul":980493,"contact:phone":"+48 158724041","contact:email":"pppjanow@wp.pl","contact:website":"http:\/\/pppjanow.szkolnastrona.pl","ref:regon":"000902665","ref:vatin":"PL8621007617","operator":"Powiat Janowski","operator:type":"government","healthcare":"councelling","counselling_type":"education","fixme":"w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. healthcare=councelling + counselling_type=education albo healthcare=psychotherapist)"}},{"id":114991,"type":"Feature","geometry":{"type":"Point","coordinates":[22.42216,50.701209999999996]},"properties":{"ref:rspo":114991,"official_name":"O\u015brodek Rewalidacyjno-Wychowawczy w Janowie Lubelskim","name":"O\u015brodek Rewalidacyjno-Wychowawczy w Janowie Lubelskim","addr:country":"PL","addr:postcode":"23-300","addr:city":"Jan\u00f3w Lubelski","addr:street":"ul. Jana Zamoyskiego","addr:housenumber":"77","addr:teryt:simc":25579,"addr:teryt:sym_ul":980493,"contact:phone":"+48 158431420","contact:email":"orwjanow@onet.pl","ref:regon":"061568820","operator":"Powiat Janowski","operator:type":"government","amenity":"school"}},{"id":14990,"type":"Feature","geometry":{"type":"Point","coordinates":[22.41796,50.70225]},"properties":{"ref:rspo":14990,"official_name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 w Janowie Lubelskim","name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 w Janowie Lubelskim","addr:country":"PL","addr:postcode":"23-300","addr:city":"Jan\u00f3w Lubelski","addr:street":"ul. Jana Zamoyskiego","addr:housenumber":"68","addr:teryt:simc":25579,"addr:teryt:sym_ul":980493,"contact:phone":"+48 158720843","contact:email":"protechlo@op.pl","contact:website":"http:\/\/www.zsjanow.xt.pl","ref:regon":"830184724","ref:vatin":"PL8621007793","operator":"Powiat Janowski","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 111937;111938;269652"}},{"id":111937,"type":"Feature","geometry":{"type":"Point","coordinates":[22.41796,50.70222]},"properties":{"isced:level":"3","ref:rspo":111937,"official_name":"Ii Liceum Og\u00f3lnokszta\u0142c\u0105ce im. Wicentego Witosa w Janowie Lubelskim","name":"Ii Liceum Og\u00f3lnokszta\u0142c\u0105ce","addr:country":"PL","addr:postcode":"23-300","addr:city":"Jan\u00f3w Lubelski","addr:street":"ul. Jana Zamoyskiego","addr:housenumber":"68","addr:teryt:simc":25579,"addr:teryt:sym_ul":980493,"contact:phone":"+48 158720843","contact:email":"protechlo@op.pl","contact:website":"http:\/\/zsjanow.fc.pl","ref:regon":"431256786","operator":"Powiat Janowski","operator:type":"government","amenity":"school","note":"Parent RSPO: 14990"}},{"id":111938,"type":"Feature","geometry":{"type":"Point","coordinates":[22.41796,50.70219]},"properties":{"isced:level":"3","ref:rspo":111938,"official_name":"Technikum Zawodowe im. Wincentego Witosa w Janowie Lubelskim","name":"Technikum Zawodowe","addr:country":"PL","addr:postcode":"23-300","addr:city":"Jan\u00f3w Lubelski","addr:street":"ul. Jana Zamoyskiego","addr:housenumber":"68","addr:teryt:simc":25579,"addr:teryt:sym_ul":980493,"contact:phone":"+48 158720843","contact:email":"protechlo@op.pl","contact:website":"http:\/\/zsjanow.fc.pl","ref:regon":"431256800","operator":"Powiat Janowski","operator:type":"government","amenity":"school","note":"Parent RSPO: 14990"}},{"id":269652,"type":"Feature","geometry":{"type":"Point","coordinates":[22.41796,50.70216]},"properties":{"isced:level":"4","ref:rspo":269652,"official_name":"Policealna Szkola dla Doros\u0142ych","name":"Policealna Szkola dla Doros\u0142ych","addr:country":"PL","addr:postcode":"23-300","addr:city":"Jan\u00f3w Lubelski","addr:street":"ul. Jana Zamoyskiego","addr:housenumber":"68","addr:teryt:simc":25579,"addr:teryt:sym_ul":980493,"contact:phone":"+48 158720843","contact:email":"protechlo@op.pl","contact:website":"http:\/\/zsjanow.fc.pl","ref:regon":"381634264","operator":"Powiat Janowski","operator:type":"government","amenity":"college","note":"Parent RSPO: 14990"}},{"id":275500,"type":"Feature","geometry":{"type":"Point","coordinates":[22.42743,50.70225]},"properties":{"ref:rspo":275500,"official_name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w Janowie Lubelskim","name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w Janowie Lubelskim","addr:country":"PL","addr:postcode":"23-300","addr:city":"Jan\u00f3w Lubelski","addr:street":"ul. Ksi\u0119dza Skorupki","addr:housenumber":"11","addr:teryt:simc":39042,"addr:teryt:sym_ul":980493,"contact:phone":"+48 158724682","contact:email":"pspjanow@o2.pl","contact:website":"http:\/\/www.szkola.pspzoi.webd.pro","ref:regon":"386921241","ref:vatin":"PL8621647860","operator":"Gmina Jan\u00f3w Lubelski","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 89075;275903"}},{"id":89075,"type":"Feature","geometry":{"type":"Point","coordinates":[22.42743,50.70222]},"properties":{"isced:level":"1;2","ref:rspo":89075,"official_name":"Publiczna Szko\u0142a Podstawowa Z Oddzia\u0142ami Integracyjnymi im. Jana Zamoyskiego w Janowie Lubelskim","name":"Publiczna Szko\u0142a Podstawowa Z Oddzia\u0142ami Integracyjnymi","addr:country":"PL","addr:postcode":"23-300","addr:city":"Jan\u00f3w Lubelski","addr:street":"ul. Ksi\u0119dza Skorupki","addr:housenumber":"11","addr:teryt:simc":39042,"addr:teryt:sym_ul":980493,"contact:phone":"+48 158724682","contact:email":"pspjanow@o2.pl","contact:website":"http:\/\/szkola.pspzoi.webd.pro","ref:regon":"830003600","ref:vatin":"PL8621591906","operator":"Gmina Jan\u00f3w Lubelski","operator:type":"government","amenity":"school","note":"Parent RSPO: 275500"}},{"id":49795,"type":"Feature","geometry":{"type":"Point","coordinates":[22.41806,50.70276]},"properties":{"isced:level":"4","ref:rspo":49795,"official_name":"Szko\u0142a Policealna - Medyczne Studium Zawodowe im. Stefanii Wo\u0142ynki w Janowie Lubelskim","name":"Szko\u0142a Policealna - Medyczne Studium Zawodowe","addr:country":"PL","addr:postcode":"23-300","addr:city":"Jan\u00f3w Lubelski","addr:street":"ul. Jana Zamoyskiego","addr:housenumber":"57","addr:teryt:simc":25579,"addr:teryt:sym_ul":980493,"contact:phone":"+48 158723041","contact:email":"mszjanowlub@o2.pl","contact:website":"http:\/\/www.msz-janowlubelski.pl","ref:regon":"432258155","ref:vatin":"PL8621004027","operator":"Wojew\u00f3dztwo Lubelskie","operator:type":"government","amenity":"college"}},{"id":89078,"type":"Feature","geometry":{"type":"Point","coordinates":[22.42049,50.70334]},"properties":{"ref:rspo":89078,"official_name":"Publiczne Samorz\u0105dowe Przedszkole Nr 3 w Janowie Lubelskim","name":"Publiczne Samorz\u0105dowe Przedszkole Nr 3 w Janowie Lubelskim","addr:country":"PL","addr:postcode":"23-300","addr:city":"Jan\u00f3w Lubelski","addr:street":"ul. Jana Paw\u0142a II","addr:housenumber":"49","addr:teryt:simc":7123,"addr:teryt:sym_ul":980493,"contact:phone":"+48 158724684","contact:email":"przedszkole3-83@o2.pl","contact:website":"http:\/\/przedszkole3janowlubelski.przedszkolowo.pl","ref:regon":"060719635","ref:vatin":"PL8621594106","operator":"Gmina Jan\u00f3w Lubelski","operator:type":"government","amenity":"kindergarten"}},{"id":125740,"type":"Feature","geometry":{"type":"Point","coordinates":[22.41861,50.70524]},"properties":{"ref:rspo":125740,"official_name":"Pedagogiczna Biblioteka Wojew\u00f3dzka im. Ken w Lublinie Filia w Janowie Lubelskim","name":"Pedagogiczna Biblioteka Wojew\u00f3dzka","addr:country":"PL","addr:postcode":"23-300","addr:city":"Jan\u00f3w Lubelski","addr:street":"ul. Ogrodowa","addr:housenumber":"22","addr:teryt:simc":14834,"addr:teryt:sym_ul":980493,"contact:phone":"+48 158720033","contact:email":"fjanow@ken.pbw.lublin.pl","contact:website":"http:\/\/ken.pbw.lublin.pl\/janow\/","ref:regon":"636867001","ref:vatin":"PL9461776909","operator":"Wojew\u00f3dztwo Lubelskie","operator:type":"government","amenity":"library","note":"Parent RSPO: 42908"}},{"id":14995,"type":"Feature","geometry":{"type":"Point","coordinates":[22.41618,50.70527]},"properties":{"isced:level":"3","ref:rspo":14995,"official_name":"I Liceum Og\u00f3lnokszta\u0142c\u0105ce im. Bohater\u00f3w Porytowego Wzg\u00f3rza w Janowie Lubelskim","name":"I Liceum Og\u00f3lnokszta\u0142c\u0105ce","addr:country":"PL","addr:postcode":"23-300","addr:city":"Jan\u00f3w Lubelski","addr:street":"ul. Jana Paw\u0142a II","addr:housenumber":"1","addr:teryt:simc":7123,"addr:teryt:sym_ul":980493,"contact:phone":"+48 158720356","contact:email":"losekretariat@gmail.com","contact:website":"http:\/\/www.liceum.fc.pl","ref:regon":"000719056","ref:vatin":"PL8621010186","operator":"Powiat Janowski","operator:type":"government","amenity":"school"}},{"id":276040,"type":"Feature","geometry":{"type":"Point","coordinates":[22.41002,50.70557]},"properties":{"ref:rspo":276040,"official_name":"Niepubliczne Przedszkole Gwiazdeczka 4","name":"Niepubliczne Przedszkole Gwiazdeczka 4","addr:country":"PL","addr:postcode":"23-300","addr:city":"Jan\u00f3w Lubelski","addr:street":"ul. Weso\u0142a","addr:housenumber":"2","addr:teryt:simc":23884,"addr:teryt:sym_ul":980493,"contact:email":"ulas70@op.pl","ref:regon":"386972310","operator":"Urszula Smo\u0142ecka","operator:type":"private","amenity":"kindergarten"}},{"id":89079,"type":"Feature","geometry":{"type":"Point","coordinates":[22.42049,50.70583]},"properties":{"ref:rspo":89079,"official_name":"Publiczne Samorz\u0105dowe Przedszkole Nr 1 Z Oddzia\u0142ami Integracyjnymi w Janowie Lubelskim","name":"Publiczne Samorz\u0105dowe Przedszkole Nr 1 Z Oddzia\u0142ami Integracyjnymi w Janowie Lubelskim","addr:country":"PL","addr:postcode":"23-300","addr:city":"Jan\u00f3w Lubelski","addr:street":"ul. Ogrodowa","addr:housenumber":"18","addr:teryt:simc":14834,"addr:teryt:sym_ul":980493,"contact:phone":"+48 158724683","contact:email":"przedszkole_nr1@op.pl","ref:regon":"060719693","ref:vatin":"PL8621575712","operator":"Gmina Jan\u00f3w Lubelski","operator:type":"government","amenity":"kindergarten"}},{"id":14996,"type":"Feature","geometry":{"type":"Point","coordinates":[22.42085,50.70682]},"properties":{"ref:rspo":14996,"official_name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 Technicznych w Janowie Lubelskim","name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 Technicznych w Janowie Lubelskim","addr:country":"PL","addr:postcode":"23-300","addr:city":"Jan\u00f3w Lubelski","addr:street":"ul. Ogrodowa","addr:housenumber":"20","addr:teryt:simc":14834,"addr:teryt:sym_ul":980493,"contact:phone":"+48 158724015","contact:email":"zszjanow@o2.pl","contact:website":"http:\/\/www.zszjanow.fc.pl","ref:regon":"000184862","ref:vatin":"PL8621006546","operator":"Powiat Janowski","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 111925;111934;111935;274447;275704"}},{"id":273034,"type":"Feature","geometry":{"type":"Point","coordinates":[22.42085,50.70679]},"properties":{"ref:rspo":273034,"official_name":"Atum-Centrum Szkoleniowe","name":"Atum-Centrum Szkoleniowe","addr:country":"PL","addr:postcode":"23-300","addr:city":"Jan\u00f3w Lubelski","addr:street":"ul. Ogrodowa","addr:housenumber":"20","addr:teryt:simc":14834,"addr:teryt:sym_ul":980493,"contact:email":"biuro@atum.edu.pl","ref:regon":"384365215","operator":"Atum Sp\u00f3\u0142ka Z Ograniczon\u0105 Odpowiedzialno\u015bci\u0105","operator:type":"private","fixme":"w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. amenity=training + training=*, amenity=dancing_school, amenity=language_school, amenity=music_school)"}},{"id":273039,"type":"Feature","geometry":{"type":"Point","coordinates":[22.42085,50.70676]},"properties":{"ref:rspo":273039,"official_name":"Recentia-Centrum Szkoleniowe","name":"Recentia-Centrum Szkoleniowe","addr:country":"PL","addr:postcode":"23-300","addr:city":"Jan\u00f3w Lubelski","addr:street":"ul. Ogrodowa","addr:housenumber":"20","addr:teryt:simc":14834,"addr:teryt:sym_ul":980493,"contact:email":"m.dajewska@recentia.pl","ref:regon":"384358965","operator":"Marta Dajewska","operator:type":"private","fixme":"w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. amenity=training + training=*, amenity=dancing_school, amenity=language_school, amenity=music_school)"}},{"id":111925,"type":"Feature","geometry":{"type":"Point","coordinates":[22.42085,50.70673]},"properties":{"isced:level":"3","ref:rspo":111925,"official_name":"Bran\u017cowa Szko\u0142a I Stopnia w Janowie Lubelskim","name":"Bran\u017cowa Szko\u0142a I Stopnia w Janowie Lubelskim","addr:country":"PL","addr:postcode":"23-300","addr:city":"Jan\u00f3w Lubelski","addr:street":"ul. Ogrodowa","addr:housenumber":"20","addr:teryt:simc":14834,"addr:teryt:sym_ul":980493,"contact:phone":"+48 158724015","contact:email":"zszjanow@o2.pl","contact:website":"http:\/\/zszjanow.fc.pl","ref:regon":"431258153","operator":"Powiat Janowski","operator:type":"government","amenity":"school","note":"Parent RSPO: 14996"}},{"id":111934,"type":"Feature","geometry":{"type":"Point","coordinates":[22.42085,50.7067]},"properties":{"isced:level":"3","ref:rspo":111934,"official_name":"Liceum Og\u00f3lnokszta\u0142c\u0105ce dla Doros\u0142ych w Janowie Lubelskim","name":"Liceum Og\u00f3lnokszta\u0142c\u0105ce dla Doros\u0142ych w Janowie Lubelskim","addr:country":"PL","addr:postcode":"23-300","addr:city":"Jan\u00f3w Lubelski","addr:street":"ul. Ogrodowa","addr:housenumber":"20","addr:teryt:simc":14834,"addr:teryt:sym_ul":980493,"contact:phone":"+48 158724015","contact:email":"zszjanow@o2.pl","contact:website":"http:\/\/zszjanow.ddl2.pl","ref:regon":"061536836","operator":"Powiat Janowski","operator:type":"government","amenity":"school","note":"Parent RSPO: 14996"}},{"id":111935,"type":"Feature","geometry":{"type":"Point","coordinates":[22.42085,50.70667]},"properties":{"ref:rspo":111935,"official_name":"Szkolne Schronisko M\u0142odzie\u017cowe Przy Zespole Szk\u00f3\u0142 Zawodowych w Janowie Lubelskim","name":"Szkolne Schronisko M\u0142odzie\u017cowe Przy Zespole Szk\u00f3\u0142 Zawodowych w Janowie Lubelskim","addr:country":"PL","addr:postcode":"23-300","addr:city":"Jan\u00f3w Lubelski","addr:street":"ul. Ogrodowa","addr:housenumber":"20","addr:teryt:simc":14834,"addr:teryt:sym_ul":980493,"contact:phone":"+48 158724015","contact:email":"zszjanow@o2.pl","contact:website":"http:\/\/zszjanow.fc.pl","ref:regon":"061536842","operator":"Powiat Janowski","operator:type":"government","tourism":"hostel","note":"Parent RSPO: 14996"}},{"id":274447,"type":"Feature","geometry":{"type":"Point","coordinates":[22.42085,50.70664]},"properties":{"isced:level":"3","ref:rspo":274447,"official_name":"Technikum","name":"Technikum","addr:country":"PL","addr:postcode":"23-300","addr:city":"Jan\u00f3w Lubelski","addr:street":"ul. Ogrodowa","addr:housenumber":"20","addr:teryt:simc":14834,"addr:teryt:sym_ul":980493,"contact:phone":"+48 158724015","contact:email":"zszjanow@o2.pl","contact:website":"http:\/\/www.zszjanow.fc.pl","ref:regon":"385799683","operator":"Powiat Janowski","operator:type":"government","amenity":"school","note":"Parent RSPO: 14996"}},{"id":275704,"type":"Feature","geometry":{"type":"Point","coordinates":[22.42085,50.70661]},"properties":{"isced:level":"3","ref:rspo":275704,"official_name":"Bran\u017cowa Szko\u0142a II Stopnia","name":"Bran\u017cowa Szko\u0142a II Stopnia","addr:country":"PL","addr:postcode":"23-300","addr:city":"Jan\u00f3w Lubelski","addr:street":"ul. Ogrodowa","addr:housenumber":"20","addr:door":"Ogrodowa","addr:teryt:simc":14834,"addr:teryt:sym_ul":980493,"contact:phone":"+48 158724015","contact:email":"zszjanow@o2.pl","contact:website":"http:\/\/www.zszjanow.fc.pl","ref:regon":"386932612","operator":"Powiat Janowski","operator:type":"government","amenity":"school","note":"Parent RSPO: 14996"}},{"id":275903,"type":"Feature","geometry":{"type":"Point","coordinates":[22.4201,50.70686]},"properties":{"ref:rspo":275903,"official_name":"Publiczne Przedszkole Nr 4","name":"Publiczne Przedszkole Nr 4","addr:country":"PL","addr:postcode":"23-300","addr:city":"Jan\u00f3w Lubelski","addr:street":"ul. Ogrodowa","addr:housenumber":"25","addr:teryt:simc":14834,"addr:teryt:sym_ul":980493,"contact:phone":"+48 158724682","contact:email":"pspjanow@o2.pl","contact:website":"http:\/\/szkola.pspzoi.webd.pro\/","ref:regon":"386951489","operator":"Gmina Jan\u00f3w Lubelski","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 275500"}},{"id":111728,"type":"Feature","geometry":{"type":"Point","coordinates":[22.431209564209,50.726509094238]},"properties":{"isced:level":"1;2","ref:rspo":111728,"official_name":"Publiczna Szko\u0142a Podstawowa im. Tadeusza Ko\u015bciuszki w Bia\u0142ej Drugiej","name":"Publiczna Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"23-300","addr:place":"Bia\u0142a Druga","addr:housenumber":"142","addr:teryt:sym_ul":794448,"contact:phone":"+48 158720154","contact:email":"bszkola@o2.pl","contact:website":"http:\/\/www.zs-biala.idsl.pl","ref:regon":"001177410","ref:vatin":"PL8621643968","operator":"Gmina Jan\u00f3w Lubelski","operator:type":"government","amenity":"school"}},{"id":268579,"type":"Feature","geometry":{"type":"Point","coordinates":[22.431209564209,50.726479094237995]},"properties":{"ref:rspo":268579,"official_name":"Niepubliczny Punkt Przedszkolny Melomiko Justyna \u0141ukasik","name":"Niepubliczny Punkt Przedszkolny Melomiko Justyna \u0141ukasik","addr:country":"PL","addr:postcode":"23-300","addr:place":"Bia\u0142a Druga","addr:housenumber":"142","addr:teryt:sym_ul":794448,"contact:email":"lukasik-justyna@wp.pl","ref:regon":"381206491","ref:vatin":"PL8621543209","operator":"Justyna \u0141ukasik","operator:type":"private","amenity":"kindergarten"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 123078,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.410989761352,
+                    50.598491668701
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 123078,
+                "official_name": "Publiczna Szko\u0142a Podstawowa w Momotach G\u00f3rnych",
+                "name": "Publiczna Szko\u0142a Podstawowa w Momotach G\u00f3rnych",
+                "addr:country": "PL",
+                "addr:postcode": "23-300",
+                "addr:place": "Momoty G\u00f3rne",
+                "addr:housenumber": "23",
+                "addr:teryt:sym_ul": 794655,
+                "contact:phone": "+48 158726101",
+                "contact:email": "pspmomoty@onet.pl",
+                "contact:website": "http:\/\/psp.momoty.webd.pl\/",
+                "ref:regon": "001177433",
+                "ref:vatin": "PL8621007540",
+                "operator": "Gmina Jan\u00f3w Lubelski",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 268610,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.410989761352,
+                    50.598461668701
+                ]
+            },
+            "properties": {
+                "ref:rspo": 268610,
+                "official_name": "Niepubliczny Punkt Przedszkolny Melomiko Justyna \u0141ukasik Oddzia\u0142 w Momotach G\u00f3rnych",
+                "name": "Niepubliczny Punkt Przedszkolny Melomiko Justyna \u0141ukasik Oddzia\u0142 w Momotach G\u00f3rnych",
+                "addr:country": "PL",
+                "addr:postcode": "23-300",
+                "addr:place": "Momoty G\u00f3rne",
+                "addr:housenumber": "23",
+                "addr:teryt:sym_ul": 794655,
+                "contact:email": "lukasik-justyna@wp.pl",
+                "ref:regon": "381215716",
+                "ref:vatin": "PL8621543209",
+                "operator": "Justyna \u0141ukasik",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 14989,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.42216,
+                    50.70124
+                ]
+            },
+            "properties": {
+                "ref:rspo": 14989,
+                "official_name": "Poradnia Psychologiczno-Pedagogiczna w Janowie Lubelskim",
+                "name": "Poradnia Psychologiczno-Pedagogiczna w Janowie Lubelskim",
+                "addr:country": "PL",
+                "addr:postcode": "23-300",
+                "addr:city": "Jan\u00f3w Lubelski",
+                "addr:street": "ul. Jana Zamoyskiego",
+                "addr:housenumber": "77",
+                "addr:teryt:simc": 25579,
+                "addr:teryt:sym_ul": 980493,
+                "contact:phone": "+48 158724041",
+                "contact:email": "pppjanow@wp.pl",
+                "contact:website": "http:\/\/pppjanow.szkolnastrona.pl",
+                "ref:regon": "000902665",
+                "ref:vatin": "PL8621007617",
+                "operator": "Powiat Janowski",
+                "operator:type": "government",
+                "healthcare": "counselling",
+                "counselling_type": "education",
+                "fixme": "w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. healthcare=counselling + counselling_type=education albo healthcare=psychotherapist)"
+            }
+        },
+        {
+            "id": 114991,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.42216,
+                    50.701209999999996
+                ]
+            },
+            "properties": {
+                "ref:rspo": 114991,
+                "official_name": "O\u015brodek Rewalidacyjno-Wychowawczy w Janowie Lubelskim",
+                "name": "O\u015brodek Rewalidacyjno-Wychowawczy w Janowie Lubelskim",
+                "addr:country": "PL",
+                "addr:postcode": "23-300",
+                "addr:city": "Jan\u00f3w Lubelski",
+                "addr:street": "ul. Jana Zamoyskiego",
+                "addr:housenumber": "77",
+                "addr:teryt:simc": 25579,
+                "addr:teryt:sym_ul": 980493,
+                "contact:phone": "+48 158431420",
+                "contact:email": "orwjanow@onet.pl",
+                "ref:regon": "061568820",
+                "operator": "Powiat Janowski",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 14990,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.41796,
+                    50.70225
+                ]
+            },
+            "properties": {
+                "ref:rspo": 14990,
+                "official_name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 w Janowie Lubelskim",
+                "name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 w Janowie Lubelskim",
+                "addr:country": "PL",
+                "addr:postcode": "23-300",
+                "addr:city": "Jan\u00f3w Lubelski",
+                "addr:street": "ul. Jana Zamoyskiego",
+                "addr:housenumber": "68",
+                "addr:teryt:simc": 25579,
+                "addr:teryt:sym_ul": 980493,
+                "contact:phone": "+48 158720843",
+                "contact:email": "protechlo@op.pl",
+                "contact:website": "http:\/\/www.zsjanow.xt.pl",
+                "ref:regon": "830184724",
+                "ref:vatin": "PL8621007793",
+                "operator": "Powiat Janowski",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 111937;111938;269652"
+            }
+        },
+        {
+            "id": 111937,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.41796,
+                    50.70222
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 111937,
+                "official_name": "Ii Liceum Og\u00f3lnokszta\u0142c\u0105ce im. Wicentego Witosa w Janowie Lubelskim",
+                "name": "Ii Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+                "addr:country": "PL",
+                "addr:postcode": "23-300",
+                "addr:city": "Jan\u00f3w Lubelski",
+                "addr:street": "ul. Jana Zamoyskiego",
+                "addr:housenumber": "68",
+                "addr:teryt:simc": 25579,
+                "addr:teryt:sym_ul": 980493,
+                "contact:phone": "+48 158720843",
+                "contact:email": "protechlo@op.pl",
+                "contact:website": "http:\/\/zsjanow.fc.pl",
+                "ref:regon": "431256786",
+                "operator": "Powiat Janowski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 14990"
+            }
+        },
+        {
+            "id": 111938,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.41796,
+                    50.70219
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 111938,
+                "official_name": "Technikum Zawodowe im. Wincentego Witosa w Janowie Lubelskim",
+                "name": "Technikum Zawodowe",
+                "addr:country": "PL",
+                "addr:postcode": "23-300",
+                "addr:city": "Jan\u00f3w Lubelski",
+                "addr:street": "ul. Jana Zamoyskiego",
+                "addr:housenumber": "68",
+                "addr:teryt:simc": 25579,
+                "addr:teryt:sym_ul": 980493,
+                "contact:phone": "+48 158720843",
+                "contact:email": "protechlo@op.pl",
+                "contact:website": "http:\/\/zsjanow.fc.pl",
+                "ref:regon": "431256800",
+                "operator": "Powiat Janowski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 14990"
+            }
+        },
+        {
+            "id": 269652,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.41796,
+                    50.70216
+                ]
+            },
+            "properties": {
+                "isced:level": "4",
+                "ref:rspo": 269652,
+                "official_name": "Policealna Szkola dla Doros\u0142ych",
+                "name": "Policealna Szkola dla Doros\u0142ych",
+                "addr:country": "PL",
+                "addr:postcode": "23-300",
+                "addr:city": "Jan\u00f3w Lubelski",
+                "addr:street": "ul. Jana Zamoyskiego",
+                "addr:housenumber": "68",
+                "addr:teryt:simc": 25579,
+                "addr:teryt:sym_ul": 980493,
+                "contact:phone": "+48 158720843",
+                "contact:email": "protechlo@op.pl",
+                "contact:website": "http:\/\/zsjanow.fc.pl",
+                "ref:regon": "381634264",
+                "operator": "Powiat Janowski",
+                "operator:type": "government",
+                "amenity": "college",
+                "note": "Parent RSPO: 14990"
+            }
+        },
+        {
+            "id": 275500,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.42743,
+                    50.70225
+                ]
+            },
+            "properties": {
+                "ref:rspo": 275500,
+                "official_name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w Janowie Lubelskim",
+                "name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w Janowie Lubelskim",
+                "addr:country": "PL",
+                "addr:postcode": "23-300",
+                "addr:city": "Jan\u00f3w Lubelski",
+                "addr:street": "ul. Ksi\u0119dza Skorupki",
+                "addr:housenumber": "11",
+                "addr:teryt:simc": 39042,
+                "addr:teryt:sym_ul": 980493,
+                "contact:phone": "+48 158724682",
+                "contact:email": "pspjanow@o2.pl",
+                "contact:website": "http:\/\/www.szkola.pspzoi.webd.pro",
+                "ref:regon": "386921241",
+                "ref:vatin": "PL8621647860",
+                "operator": "Gmina Jan\u00f3w Lubelski",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 89075;275903"
+            }
+        },
+        {
+            "id": 89075,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.42743,
+                    50.70222
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 89075,
+                "official_name": "Publiczna Szko\u0142a Podstawowa Z Oddzia\u0142ami Integracyjnymi im. Jana Zamoyskiego w Janowie Lubelskim",
+                "name": "Publiczna Szko\u0142a Podstawowa Z Oddzia\u0142ami Integracyjnymi",
+                "addr:country": "PL",
+                "addr:postcode": "23-300",
+                "addr:city": "Jan\u00f3w Lubelski",
+                "addr:street": "ul. Ksi\u0119dza Skorupki",
+                "addr:housenumber": "11",
+                "addr:teryt:simc": 39042,
+                "addr:teryt:sym_ul": 980493,
+                "contact:phone": "+48 158724682",
+                "contact:email": "pspjanow@o2.pl",
+                "contact:website": "http:\/\/szkola.pspzoi.webd.pro",
+                "ref:regon": "830003600",
+                "ref:vatin": "PL8621591906",
+                "operator": "Gmina Jan\u00f3w Lubelski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 275500"
+            }
+        },
+        {
+            "id": 49795,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.41806,
+                    50.70276
+                ]
+            },
+            "properties": {
+                "isced:level": "4",
+                "ref:rspo": 49795,
+                "official_name": "Szko\u0142a Policealna - Medyczne Studium Zawodowe im. Stefanii Wo\u0142ynki w Janowie Lubelskim",
+                "name": "Szko\u0142a Policealna - Medyczne Studium Zawodowe",
+                "addr:country": "PL",
+                "addr:postcode": "23-300",
+                "addr:city": "Jan\u00f3w Lubelski",
+                "addr:street": "ul. Jana Zamoyskiego",
+                "addr:housenumber": "57",
+                "addr:teryt:simc": 25579,
+                "addr:teryt:sym_ul": 980493,
+                "contact:phone": "+48 158723041",
+                "contact:email": "mszjanowlub@o2.pl",
+                "contact:website": "http:\/\/www.msz-janowlubelski.pl",
+                "ref:regon": "432258155",
+                "ref:vatin": "PL8621004027",
+                "operator": "Wojew\u00f3dztwo Lubelskie",
+                "operator:type": "government",
+                "amenity": "college"
+            }
+        },
+        {
+            "id": 89078,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.42049,
+                    50.70334
+                ]
+            },
+            "properties": {
+                "ref:rspo": 89078,
+                "official_name": "Publiczne Samorz\u0105dowe Przedszkole Nr 3 w Janowie Lubelskim",
+                "name": "Publiczne Samorz\u0105dowe Przedszkole Nr 3 w Janowie Lubelskim",
+                "addr:country": "PL",
+                "addr:postcode": "23-300",
+                "addr:city": "Jan\u00f3w Lubelski",
+                "addr:street": "ul. Jana Paw\u0142a II",
+                "addr:housenumber": "49",
+                "addr:teryt:simc": 7123,
+                "addr:teryt:sym_ul": 980493,
+                "contact:phone": "+48 158724684",
+                "contact:email": "przedszkole3-83@o2.pl",
+                "contact:website": "http:\/\/przedszkole3janowlubelski.przedszkolowo.pl",
+                "ref:regon": "060719635",
+                "ref:vatin": "PL8621594106",
+                "operator": "Gmina Jan\u00f3w Lubelski",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 125740,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.41861,
+                    50.70524
+                ]
+            },
+            "properties": {
+                "ref:rspo": 125740,
+                "official_name": "Pedagogiczna Biblioteka Wojew\u00f3dzka im. Ken w Lublinie Filia w Janowie Lubelskim",
+                "name": "Pedagogiczna Biblioteka Wojew\u00f3dzka",
+                "addr:country": "PL",
+                "addr:postcode": "23-300",
+                "addr:city": "Jan\u00f3w Lubelski",
+                "addr:street": "ul. Ogrodowa",
+                "addr:housenumber": "22",
+                "addr:teryt:simc": 14834,
+                "addr:teryt:sym_ul": 980493,
+                "contact:phone": "+48 158720033",
+                "contact:email": "fjanow@ken.pbw.lublin.pl",
+                "contact:website": "http:\/\/ken.pbw.lublin.pl\/janow\/",
+                "ref:regon": "636867001",
+                "ref:vatin": "PL9461776909",
+                "operator": "Wojew\u00f3dztwo Lubelskie",
+                "operator:type": "government",
+                "amenity": "library",
+                "note": "Parent RSPO: 42908"
+            }
+        },
+        {
+            "id": 14995,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.41618,
+                    50.70527
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 14995,
+                "official_name": "I Liceum Og\u00f3lnokszta\u0142c\u0105ce im. Bohater\u00f3w Porytowego Wzg\u00f3rza w Janowie Lubelskim",
+                "name": "I Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+                "addr:country": "PL",
+                "addr:postcode": "23-300",
+                "addr:city": "Jan\u00f3w Lubelski",
+                "addr:street": "ul. Jana Paw\u0142a II",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 7123,
+                "addr:teryt:sym_ul": 980493,
+                "contact:phone": "+48 158720356",
+                "contact:email": "losekretariat@gmail.com",
+                "contact:website": "http:\/\/www.liceum.fc.pl",
+                "ref:regon": "000719056",
+                "ref:vatin": "PL8621010186",
+                "operator": "Powiat Janowski",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 276040,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.41002,
+                    50.70557
+                ]
+            },
+            "properties": {
+                "ref:rspo": 276040,
+                "official_name": "Niepubliczne Przedszkole Gwiazdeczka 4",
+                "name": "Niepubliczne Przedszkole Gwiazdeczka 4",
+                "addr:country": "PL",
+                "addr:postcode": "23-300",
+                "addr:city": "Jan\u00f3w Lubelski",
+                "addr:street": "ul. Weso\u0142a",
+                "addr:housenumber": "2",
+                "addr:teryt:simc": 23884,
+                "addr:teryt:sym_ul": 980493,
+                "contact:email": "ulas70@op.pl",
+                "ref:regon": "386972310",
+                "operator": "Urszula Smo\u0142ecka",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 89079,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.42049,
+                    50.70583
+                ]
+            },
+            "properties": {
+                "ref:rspo": 89079,
+                "official_name": "Publiczne Samorz\u0105dowe Przedszkole Nr 1 Z Oddzia\u0142ami Integracyjnymi w Janowie Lubelskim",
+                "name": "Publiczne Samorz\u0105dowe Przedszkole Nr 1 Z Oddzia\u0142ami Integracyjnymi w Janowie Lubelskim",
+                "addr:country": "PL",
+                "addr:postcode": "23-300",
+                "addr:city": "Jan\u00f3w Lubelski",
+                "addr:street": "ul. Ogrodowa",
+                "addr:housenumber": "18",
+                "addr:teryt:simc": 14834,
+                "addr:teryt:sym_ul": 980493,
+                "contact:phone": "+48 158724683",
+                "contact:email": "przedszkole_nr1@op.pl",
+                "ref:regon": "060719693",
+                "ref:vatin": "PL8621575712",
+                "operator": "Gmina Jan\u00f3w Lubelski",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 14996,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.42085,
+                    50.70682
+                ]
+            },
+            "properties": {
+                "ref:rspo": 14996,
+                "official_name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Technicznych w Janowie Lubelskim",
+                "name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Technicznych w Janowie Lubelskim",
+                "addr:country": "PL",
+                "addr:postcode": "23-300",
+                "addr:city": "Jan\u00f3w Lubelski",
+                "addr:street": "ul. Ogrodowa",
+                "addr:housenumber": "20",
+                "addr:teryt:simc": 14834,
+                "addr:teryt:sym_ul": 980493,
+                "contact:phone": "+48 158724015",
+                "contact:email": "zszjanow@o2.pl",
+                "contact:website": "http:\/\/www.zszjanow.fc.pl",
+                "ref:regon": "000184862",
+                "ref:vatin": "PL8621006546",
+                "operator": "Powiat Janowski",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 111925;111934;111935;274447;275704"
+            }
+        },
+        {
+            "id": 273034,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.42085,
+                    50.70679
+                ]
+            },
+            "properties": {
+                "ref:rspo": 273034,
+                "official_name": "Atum-Centrum Szkoleniowe",
+                "name": "Atum-Centrum Szkoleniowe",
+                "addr:country": "PL",
+                "addr:postcode": "23-300",
+                "addr:city": "Jan\u00f3w Lubelski",
+                "addr:street": "ul. Ogrodowa",
+                "addr:housenumber": "20",
+                "addr:teryt:simc": 14834,
+                "addr:teryt:sym_ul": 980493,
+                "contact:email": "biuro@atum.edu.pl",
+                "ref:regon": "384365215",
+                "operator": "Atum Sp\u00f3\u0142ka Z Ograniczon\u0105 Odpowiedzialno\u015bci\u0105",
+                "operator:type": "private",
+                "fixme": "w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. amenity=training + training=*, amenity=dancing_school, amenity=language_school, amenity=music_school)"
+            }
+        },
+        {
+            "id": 273039,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.42085,
+                    50.70676
+                ]
+            },
+            "properties": {
+                "ref:rspo": 273039,
+                "official_name": "Recentia-Centrum Szkoleniowe",
+                "name": "Recentia-Centrum Szkoleniowe",
+                "addr:country": "PL",
+                "addr:postcode": "23-300",
+                "addr:city": "Jan\u00f3w Lubelski",
+                "addr:street": "ul. Ogrodowa",
+                "addr:housenumber": "20",
+                "addr:teryt:simc": 14834,
+                "addr:teryt:sym_ul": 980493,
+                "contact:email": "m.dajewska@recentia.pl",
+                "ref:regon": "384358965",
+                "operator": "Marta Dajewska",
+                "operator:type": "private",
+                "fixme": "w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. amenity=training + training=*, amenity=dancing_school, amenity=language_school, amenity=music_school)"
+            }
+        },
+        {
+            "id": 111925,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.42085,
+                    50.70673
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 111925,
+                "official_name": "Bran\u017cowa Szko\u0142a I Stopnia w Janowie Lubelskim",
+                "name": "Bran\u017cowa Szko\u0142a I Stopnia w Janowie Lubelskim",
+                "addr:country": "PL",
+                "addr:postcode": "23-300",
+                "addr:city": "Jan\u00f3w Lubelski",
+                "addr:street": "ul. Ogrodowa",
+                "addr:housenumber": "20",
+                "addr:teryt:simc": 14834,
+                "addr:teryt:sym_ul": 980493,
+                "contact:phone": "+48 158724015",
+                "contact:email": "zszjanow@o2.pl",
+                "contact:website": "http:\/\/zszjanow.fc.pl",
+                "ref:regon": "431258153",
+                "operator": "Powiat Janowski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 14996"
+            }
+        },
+        {
+            "id": 111934,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.42085,
+                    50.7067
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 111934,
+                "official_name": "Liceum Og\u00f3lnokszta\u0142c\u0105ce dla Doros\u0142ych w Janowie Lubelskim",
+                "name": "Liceum Og\u00f3lnokszta\u0142c\u0105ce dla Doros\u0142ych w Janowie Lubelskim",
+                "addr:country": "PL",
+                "addr:postcode": "23-300",
+                "addr:city": "Jan\u00f3w Lubelski",
+                "addr:street": "ul. Ogrodowa",
+                "addr:housenumber": "20",
+                "addr:teryt:simc": 14834,
+                "addr:teryt:sym_ul": 980493,
+                "contact:phone": "+48 158724015",
+                "contact:email": "zszjanow@o2.pl",
+                "contact:website": "http:\/\/zszjanow.ddl2.pl",
+                "ref:regon": "061536836",
+                "operator": "Powiat Janowski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 14996"
+            }
+        },
+        {
+            "id": 111935,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.42085,
+                    50.70667
+                ]
+            },
+            "properties": {
+                "ref:rspo": 111935,
+                "official_name": "Szkolne Schronisko M\u0142odzie\u017cowe Przy Zespole Szk\u00f3\u0142 Zawodowych w Janowie Lubelskim",
+                "name": "Szkolne Schronisko M\u0142odzie\u017cowe Przy Zespole Szk\u00f3\u0142 Zawodowych w Janowie Lubelskim",
+                "addr:country": "PL",
+                "addr:postcode": "23-300",
+                "addr:city": "Jan\u00f3w Lubelski",
+                "addr:street": "ul. Ogrodowa",
+                "addr:housenumber": "20",
+                "addr:teryt:simc": 14834,
+                "addr:teryt:sym_ul": 980493,
+                "contact:phone": "+48 158724015",
+                "contact:email": "zszjanow@o2.pl",
+                "contact:website": "http:\/\/zszjanow.fc.pl",
+                "ref:regon": "061536842",
+                "operator": "Powiat Janowski",
+                "operator:type": "government",
+                "tourism": "hostel",
+                "note": "Parent RSPO: 14996"
+            }
+        },
+        {
+            "id": 274447,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.42085,
+                    50.70664
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 274447,
+                "official_name": "Technikum",
+                "name": "Technikum",
+                "addr:country": "PL",
+                "addr:postcode": "23-300",
+                "addr:city": "Jan\u00f3w Lubelski",
+                "addr:street": "ul. Ogrodowa",
+                "addr:housenumber": "20",
+                "addr:teryt:simc": 14834,
+                "addr:teryt:sym_ul": 980493,
+                "contact:phone": "+48 158724015",
+                "contact:email": "zszjanow@o2.pl",
+                "contact:website": "http:\/\/www.zszjanow.fc.pl",
+                "ref:regon": "385799683",
+                "operator": "Powiat Janowski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 14996"
+            }
+        },
+        {
+            "id": 275704,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.42085,
+                    50.70661
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 275704,
+                "official_name": "Bran\u017cowa Szko\u0142a II Stopnia",
+                "name": "Bran\u017cowa Szko\u0142a II Stopnia",
+                "addr:country": "PL",
+                "addr:postcode": "23-300",
+                "addr:city": "Jan\u00f3w Lubelski",
+                "addr:street": "ul. Ogrodowa",
+                "addr:housenumber": "20",
+                "addr:door": "Ogrodowa",
+                "addr:teryt:simc": 14834,
+                "addr:teryt:sym_ul": 980493,
+                "contact:phone": "+48 158724015",
+                "contact:email": "zszjanow@o2.pl",
+                "contact:website": "http:\/\/www.zszjanow.fc.pl",
+                "ref:regon": "386932612",
+                "operator": "Powiat Janowski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 14996"
+            }
+        },
+        {
+            "id": 275903,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.4201,
+                    50.70686
+                ]
+            },
+            "properties": {
+                "ref:rspo": 275903,
+                "official_name": "Publiczne Przedszkole Nr 4",
+                "name": "Publiczne Przedszkole Nr 4",
+                "addr:country": "PL",
+                "addr:postcode": "23-300",
+                "addr:city": "Jan\u00f3w Lubelski",
+                "addr:street": "ul. Ogrodowa",
+                "addr:housenumber": "25",
+                "addr:teryt:simc": 14834,
+                "addr:teryt:sym_ul": 980493,
+                "contact:phone": "+48 158724682",
+                "contact:email": "pspjanow@o2.pl",
+                "contact:website": "http:\/\/szkola.pspzoi.webd.pro\/",
+                "ref:regon": "386951489",
+                "operator": "Gmina Jan\u00f3w Lubelski",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 275500"
+            }
+        },
+        {
+            "id": 111728,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.431209564209,
+                    50.726509094238
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 111728,
+                "official_name": "Publiczna Szko\u0142a Podstawowa im. Tadeusza Ko\u015bciuszki w Bia\u0142ej Drugiej",
+                "name": "Publiczna Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "23-300",
+                "addr:place": "Bia\u0142a Druga",
+                "addr:housenumber": "142",
+                "addr:teryt:sym_ul": 794448,
+                "contact:phone": "+48 158720154",
+                "contact:email": "bszkola@o2.pl",
+                "contact:website": "http:\/\/www.zs-biala.idsl.pl",
+                "ref:regon": "001177410",
+                "ref:vatin": "PL8621643968",
+                "operator": "Gmina Jan\u00f3w Lubelski",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 268579,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.431209564209,
+                    50.726479094237995
+                ]
+            },
+            "properties": {
+                "ref:rspo": 268579,
+                "official_name": "Niepubliczny Punkt Przedszkolny Melomiko Justyna \u0141ukasik",
+                "name": "Niepubliczny Punkt Przedszkolny Melomiko Justyna \u0141ukasik",
+                "addr:country": "PL",
+                "addr:postcode": "23-300",
+                "addr:place": "Bia\u0142a Druga",
+                "addr:housenumber": "142",
+                "addr:teryt:sym_ul": 794448,
+                "contact:email": "lukasik-justyna@wp.pl",
+                "ref:regon": "381206491",
+                "ref:vatin": "PL8621543209",
+                "operator": "Justyna \u0141ukasik",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        }
+    ]
+}

@@ -1,1 +1,182 @@
-{"type":"FeatureCollection","features":[{"id":84202,"type":"Feature","geometry":{"type":"Point","coordinates":[20.79236,51.20641]},"properties":{"isced:level":"1;2","ref:rspo":84202,"official_name":"Szko\u0142a Podstawowa im. J. Kochanowskiego Z Oddzia\u0142em Przedszkolnym","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"26-500","addr:place":"Budki Drugie","addr:housenumber":"1","addr:teryt:sym_ul":615760,"contact:phone":"+48 486291379","contact:email":"szkola80@onet.eu","ref:regon":"001194503","ref:vatin":"PL7991456413","operator":"Gmina Chlewiska","operator:type":"government","amenity":"school"}},{"id":86996,"type":"Feature","geometry":{"type":"Point","coordinates":[20.75801,51.24244]},"properties":{"isced:level":"1;2","ref:rspo":86996,"official_name":"Szko\u0142a Podstawowa im. Mjr. H. Dobrza\u0144skiego \"Hubala\"","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"26-510","addr:city":"Chlewiska","addr:street":"ul. Szkolna","addr:housenumber":"15","addr:teryt:simc":21970,"addr:teryt:sym_ul":615799,"contact:phone":"+48 486287276","contact:email":"szkolachlewiska@wp.pl","ref:regon":"000583705","ref:vatin":"PL7991456465","operator":"Gmina Chlewiska","operator:type":"government","amenity":"school"}},{"id":84203,"type":"Feature","geometry":{"type":"Point","coordinates":[20.75677,51.24328]},"properties":{"ref:rspo":84203,"official_name":"Samorz\u0105dowe Przedszkole","name":"Samorz\u0105dowe Przedszkole","addr:country":"PL","addr:postcode":"26-510","addr:city":"Chlewiska","addr:street":"ul. Szkolna","addr:housenumber":"6","addr:teryt:simc":21970,"addr:teryt:sym_ul":615799,"contact:phone":"+48 483621620","contact:email":"przedszkole3@op.pl","ref:regon":"670824920","ref:vatin":"PL7991456407","operator":"Gmina Chlewiska","operator:type":"government","amenity":"kindergarten"}},{"id":84199,"type":"Feature","geometry":{"type":"Point","coordinates":[20.66367,51.25154]},"properties":{"isced:level":"1;2","ref:rspo":84199,"official_name":"Szko\u0142a Podstawowa im. P\u0142k. Dionizego Czachowskiego Z Oddzia\u0142em Przedszkolnym","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"26-510","addr:place":"Sk\u0142oby","addr:housenumber":"1","addr:teryt:sym_ul":615954,"contact:phone":"+48 486291919","contact:email":"sklobypsp@gmail.com","ref:regon":"001194466","ref:vatin":"PL7991456442","operator":"Gmina Chlewiska","operator:type":"government","amenity":"school"}},{"id":84204,"type":"Feature","geometry":{"type":"Point","coordinates":[20.81664,51.25231]},"properties":{"isced:level":"1;2","ref:rspo":84204,"official_name":"Szko\u0142a Podstawowa im. M. Konopnickiej Z Oddzia\u0142em Przedszkolnym","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"26-510","addr:place":"Paw\u0142\u00f3w","addr:housenumber":"230","addr:teryt:sym_ul":615925,"contact:phone":"+48 486176660","contact:email":"kasia2156@vp.pl","ref:regon":"001194526","ref:vatin":"PL7991456488","operator":"Gmina Chlewiska","operator:type":"government","amenity":"school"}},{"id":84201,"type":"Feature","geometry":{"type":"Point","coordinates":[20.78354,51.26743]},"properties":{"isced:level":"1;2","ref:rspo":84201,"official_name":"Szko\u0142a Podstawowa im. H. Sienkiewicza Z Oddzia\u0142ami Przedszkolnymi","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"26-510","addr:place":"Cukr\u00f3wka","addr:housenumber":"57","addr:teryt:sym_ul":615813,"contact:phone":"+48 486292081","contact:email":"pspcukrowka@wp.pl","ref:regon":"001194510","ref:vatin":"PL7991456471","operator":"Gmina Chlewiska","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 84202,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.79236,
+                    51.20641
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 84202,
+                "official_name": "Szko\u0142a Podstawowa im. J. Kochanowskiego Z Oddzia\u0142em Przedszkolnym",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "26-500",
+                "addr:place": "Budki Drugie",
+                "addr:housenumber": "1",
+                "addr:teryt:sym_ul": 615760,
+                "contact:phone": "+48 486291379",
+                "contact:email": "szkola80@onet.eu",
+                "ref:regon": "001194503",
+                "ref:vatin": "PL7991456413",
+                "operator": "Gmina Chlewiska",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 86996,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.75801,
+                    51.24244
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 86996,
+                "official_name": "Szko\u0142a Podstawowa im. Mjr. H. Dobrza\u0144skiego \"Hubala\"",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "26-510",
+                "addr:city": "Chlewiska",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "15",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 615799,
+                "contact:phone": "+48 486287276",
+                "contact:email": "szkolachlewiska@wp.pl",
+                "ref:regon": "000583705",
+                "ref:vatin": "PL7991456465",
+                "operator": "Gmina Chlewiska",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 84203,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.75677,
+                    51.24328
+                ]
+            },
+            "properties": {
+                "ref:rspo": 84203,
+                "official_name": "Samorz\u0105dowe Przedszkole",
+                "name": "Samorz\u0105dowe Przedszkole",
+                "addr:country": "PL",
+                "addr:postcode": "26-510",
+                "addr:city": "Chlewiska",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "6",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 615799,
+                "contact:phone": "+48 483621620",
+                "contact:email": "przedszkole3@op.pl",
+                "ref:regon": "670824920",
+                "ref:vatin": "PL7991456407",
+                "operator": "Gmina Chlewiska",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 84199,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.66367,
+                    51.25154
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 84199,
+                "official_name": "Szko\u0142a Podstawowa im. P\u0142k. Dionizego Czachowskiego Z Oddzia\u0142em Przedszkolnym",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "26-510",
+                "addr:place": "Sk\u0142oby",
+                "addr:housenumber": "1",
+                "addr:teryt:sym_ul": 615954,
+                "contact:phone": "+48 486291919",
+                "contact:email": "sklobypsp@gmail.com",
+                "ref:regon": "001194466",
+                "ref:vatin": "PL7991456442",
+                "operator": "Gmina Chlewiska",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 84204,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.81664,
+                    51.25231
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 84204,
+                "official_name": "Szko\u0142a Podstawowa im. M. Konopnickiej Z Oddzia\u0142em Przedszkolnym",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "26-510",
+                "addr:place": "Paw\u0142\u00f3w",
+                "addr:housenumber": "230",
+                "addr:teryt:sym_ul": 615925,
+                "contact:phone": "+48 486176660",
+                "contact:email": "kasia2156@vp.pl",
+                "ref:regon": "001194526",
+                "ref:vatin": "PL7991456488",
+                "operator": "Gmina Chlewiska",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 84201,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.78354,
+                    51.26743
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 84201,
+                "official_name": "Szko\u0142a Podstawowa im. H. Sienkiewicza Z Oddzia\u0142ami Przedszkolnymi",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "26-510",
+                "addr:place": "Cukr\u00f3wka",
+                "addr:housenumber": "57",
+                "addr:teryt:sym_ul": 615813,
+                "contact:phone": "+48 486292081",
+                "contact:email": "pspcukrowka@wp.pl",
+                "ref:regon": "001194510",
+                "ref:vatin": "PL7991456471",
+                "operator": "Gmina Chlewiska",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

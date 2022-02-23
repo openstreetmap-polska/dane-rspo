@@ -1,1 +1,231 @@
-{"type":"FeatureCollection","features":[{"id":127708,"type":"Feature","geometry":{"type":"Point","coordinates":[22.0582299,51.62024]},"properties":{"isced:level":"1;2","ref:rspo":127708,"official_name":"Szko\u0142a Podstawowa w Nowodworze Filia w Trzciankach","name":"Szko\u0142a Podstawowa w Nowodworze Filia w Trzciankach","addr:country":"PL","addr:postcode":"08-503","addr:place":"Trzcianki","addr:housenumber":"64","addr:teryt:sym_ul":388079,"contact:phone":"+48 818661004","ref:regon":"593187000","operator":"Gmina Nowodw\u00f3r","operator:type":"government","amenity":"school","note":"Parent RSPO: 107737"}},{"id":107737,"type":"Feature","geometry":{"type":"Point","coordinates":[22.10222,51.63895]},"properties":{"isced:level":"1;2","ref:rspo":107737,"official_name":"Szko\u0142a Podstawowa im. Wac\u0142awa Na\u0142kowskiego w Nowodworze","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"08-503","addr:place":"Nowodw\u00f3r","addr:housenumber":"73","addr:teryt:sym_ul":388010,"contact:phone":"+48 818661006","contact:email":"zsonowodwor@gmail.com","ref:regon":"000593187","operator":"Gmina Nowodw\u00f3r","operator:type":"government","amenity":"school","note":"Children RSPO: 127708"}},{"id":127704,"type":"Feature","geometry":{"type":"Point","coordinates":[22.10222,51.63892]},"properties":{"ref:rspo":127704,"official_name":"Punkt Przedszkolny w Nowodworze","name":"Punkt Przedszkolny w Nowodworze","addr:country":"PL","addr:postcode":"08-503","addr:place":"Nowodw\u00f3r","addr:housenumber":"73","addr:teryt:sym_ul":388010,"contact:phone":"+48 818661920","contact:email":"oswiata@nowodwor.eurzad.eu","ref:regon":"361810736","operator":"Gmina Nowodw\u00f3r","operator:type":"government","amenity":"kindergarten"}},{"id":106638,"type":"Feature","geometry":{"type":"Point","coordinates":[22.05041,51.65088]},"properties":{"isced:level":"1;2","ref:rspo":106638,"official_name":"Szko\u0142a Podstawowa w Jakub\u00f3wce","name":"Szko\u0142a Podstawowa w Jakub\u00f3wce","addr:country":"PL","addr:postcode":"08-503","addr:place":"Jakub\u00f3wka","addr:housenumber":"65","addr:teryt:sym_ul":387980,"contact:email":"acuch@o2.pl","contact:website":"http:\/\/www.jakubowka.szkolna.net","ref:regon":"061508478","ref:vatin":"PL5060074306","operator":"Stowarzyszenie Rozwoju I Promocji Jakub\u00f3wki","operator:type":"ngo","amenity":"school"}},{"id":104717,"type":"Feature","geometry":{"type":"Point","coordinates":[22.1466,51.6718199]},"properties":{"isced:level":"1;2","ref:rspo":104717,"official_name":"Szko\u0142a Podstawowa w Nied\u017awiedziu","name":"Szko\u0142a Podstawowa w Nied\u017awiedziu","addr:country":"PL","addr:postcode":"08-503","addr:place":"Nied\u017awied\u017a","addr:housenumber":"62","addr:teryt:sym_ul":388004,"contact:phone":"+48 818661011","contact:email":"sp.niedzwiedz@vp.pl","contact:website":"http:\/\/www.sp.niedzwiedz.szkolnastrona.pl","ref:regon":"001151623","ref:vatin":"PL5060037021","operator":"Gmina Nowodw\u00f3r","operator:type":"government","amenity":"school"}},{"id":127711,"type":"Feature","geometry":{"type":"Point","coordinates":[22.1466,51.6717899]},"properties":{"ref:rspo":127711,"official_name":"Zesp\u00f3\u0142 Wychowania Przedszkolnego w Nied\u017awiedziu","name":"Zesp\u00f3\u0142 Wychowania Przedszkolnego w Nied\u017awiedziu","addr:country":"PL","addr:postcode":"08-503","addr:place":"Nied\u017awied\u017a","addr:housenumber":"62","addr:teryt:sym_ul":388004,"contact:phone":"+48 818661920","contact:email":"oswiata@nowodwor.eurzad.eu","ref:regon":"361810890","operator":"Gmina Nowodw\u00f3r","operator:type":"government","amenity":"kindergarten"}},{"id":108790,"type":"Feature","geometry":{"type":"Point","coordinates":[22.09566,51.69975]},"properties":{"isced:level":"1;2","ref:rspo":108790,"official_name":"Szko\u0142a Podstawowa im. Henryka Sienkiewicza w Grabowie Szlacheckim","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"08-503","addr:place":"Grab\u00f3w Szlachecki","addr:housenumber":"61","addr:teryt:sym_ul":387950,"contact:phone":"+48 817234677","contact:email":"zsograbow@wp.pl","contact:website":"http:\/\/www.zsograbow.szkolnastrona.pl","ref:regon":"001151793","operator":"Gmina Nowodw\u00f3r","operator:type":"government","amenity":"school"}},{"id":127709,"type":"Feature","geometry":{"type":"Point","coordinates":[22.09566,51.69972]},"properties":{"ref:rspo":127709,"official_name":"Punkt Przedszkolny w Grabowie Szlacheckim","name":"Punkt Przedszkolny w Grabowie Szlacheckim","addr:country":"PL","addr:postcode":"08-503","addr:place":"Grab\u00f3w Szlachecki","addr:housenumber":"61","addr:teryt:sym_ul":387950,"contact:phone":"+48 818661920","contact:email":"oswiata@nowodwor.eurzad.eu","ref:regon":"361810788","operator":"Gmina Nowodw\u00f3r","operator:type":"government","amenity":"kindergarten"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 127708,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.0582299,
+                    51.62024
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 127708,
+                "official_name": "Szko\u0142a Podstawowa w Nowodworze Filia w Trzciankach",
+                "name": "Szko\u0142a Podstawowa w Nowodworze Filia w Trzciankach",
+                "addr:country": "PL",
+                "addr:postcode": "08-503",
+                "addr:place": "Trzcianki",
+                "addr:housenumber": "64",
+                "addr:teryt:sym_ul": 388079,
+                "contact:phone": "+48 818661004",
+                "ref:regon": "593187000",
+                "operator": "Gmina Nowodw\u00f3r",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 107737"
+            }
+        },
+        {
+            "id": 107737,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.10222,
+                    51.63895
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 107737,
+                "official_name": "Szko\u0142a Podstawowa im. Wac\u0142awa Na\u0142kowskiego w Nowodworze",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "08-503",
+                "addr:place": "Nowodw\u00f3r",
+                "addr:housenumber": "73",
+                "addr:teryt:sym_ul": 388010,
+                "contact:phone": "+48 818661006",
+                "contact:email": "zsonowodwor@gmail.com",
+                "ref:regon": "000593187",
+                "operator": "Gmina Nowodw\u00f3r",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Children RSPO: 127708"
+            }
+        },
+        {
+            "id": 127704,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.10222,
+                    51.63892
+                ]
+            },
+            "properties": {
+                "ref:rspo": 127704,
+                "official_name": "Punkt Przedszkolny w Nowodworze",
+                "name": "Punkt Przedszkolny w Nowodworze",
+                "addr:country": "PL",
+                "addr:postcode": "08-503",
+                "addr:place": "Nowodw\u00f3r",
+                "addr:housenumber": "73",
+                "addr:teryt:sym_ul": 388010,
+                "contact:phone": "+48 818661920",
+                "contact:email": "oswiata@nowodwor.eurzad.eu",
+                "ref:regon": "361810736",
+                "operator": "Gmina Nowodw\u00f3r",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 106638,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.05041,
+                    51.65088
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 106638,
+                "official_name": "Szko\u0142a Podstawowa w Jakub\u00f3wce",
+                "name": "Szko\u0142a Podstawowa w Jakub\u00f3wce",
+                "addr:country": "PL",
+                "addr:postcode": "08-503",
+                "addr:place": "Jakub\u00f3wka",
+                "addr:housenumber": "65",
+                "addr:teryt:sym_ul": 387980,
+                "contact:email": "acuch@o2.pl",
+                "contact:website": "http:\/\/www.jakubowka.szkolna.net",
+                "ref:regon": "061508478",
+                "ref:vatin": "PL5060074306",
+                "operator": "Stowarzyszenie Rozwoju I Promocji Jakub\u00f3wki",
+                "operator:type": "ngo",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 104717,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.1466,
+                    51.6718199
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 104717,
+                "official_name": "Szko\u0142a Podstawowa w Nied\u017awiedziu",
+                "name": "Szko\u0142a Podstawowa w Nied\u017awiedziu",
+                "addr:country": "PL",
+                "addr:postcode": "08-503",
+                "addr:place": "Nied\u017awied\u017a",
+                "addr:housenumber": "62",
+                "addr:teryt:sym_ul": 388004,
+                "contact:phone": "+48 818661011",
+                "contact:email": "sp.niedzwiedz@vp.pl",
+                "contact:website": "http:\/\/www.sp.niedzwiedz.szkolnastrona.pl",
+                "ref:regon": "001151623",
+                "ref:vatin": "PL5060037021",
+                "operator": "Gmina Nowodw\u00f3r",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 127711,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.1466,
+                    51.6717899
+                ]
+            },
+            "properties": {
+                "ref:rspo": 127711,
+                "official_name": "Zesp\u00f3\u0142 Wychowania Przedszkolnego w Nied\u017awiedziu",
+                "name": "Zesp\u00f3\u0142 Wychowania Przedszkolnego w Nied\u017awiedziu",
+                "addr:country": "PL",
+                "addr:postcode": "08-503",
+                "addr:place": "Nied\u017awied\u017a",
+                "addr:housenumber": "62",
+                "addr:teryt:sym_ul": 388004,
+                "contact:phone": "+48 818661920",
+                "contact:email": "oswiata@nowodwor.eurzad.eu",
+                "ref:regon": "361810890",
+                "operator": "Gmina Nowodw\u00f3r",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 108790,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.09566,
+                    51.69975
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 108790,
+                "official_name": "Szko\u0142a Podstawowa im. Henryka Sienkiewicza w Grabowie Szlacheckim",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "08-503",
+                "addr:place": "Grab\u00f3w Szlachecki",
+                "addr:housenumber": "61",
+                "addr:teryt:sym_ul": 387950,
+                "contact:phone": "+48 817234677",
+                "contact:email": "zsograbow@wp.pl",
+                "contact:website": "http:\/\/www.zsograbow.szkolnastrona.pl",
+                "ref:regon": "001151793",
+                "operator": "Gmina Nowodw\u00f3r",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 127709,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.09566,
+                    51.69972
+                ]
+            },
+            "properties": {
+                "ref:rspo": 127709,
+                "official_name": "Punkt Przedszkolny w Grabowie Szlacheckim",
+                "name": "Punkt Przedszkolny w Grabowie Szlacheckim",
+                "addr:country": "PL",
+                "addr:postcode": "08-503",
+                "addr:place": "Grab\u00f3w Szlachecki",
+                "addr:housenumber": "61",
+                "addr:teryt:sym_ul": 387950,
+                "contact:phone": "+48 818661920",
+                "contact:email": "oswiata@nowodwor.eurzad.eu",
+                "ref:regon": "361810788",
+                "operator": "Gmina Nowodw\u00f3r",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        }
+    ]
+}

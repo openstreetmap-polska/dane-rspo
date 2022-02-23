@@ -1,1 +1,187 @@
-{"type":"FeatureCollection","features":[{"id":20876,"type":"Feature","geometry":{"type":"Point","coordinates":[21.34153,50.30192]},"properties":{"isced:level":"1;2","ref:rspo":20876,"official_name":"Szko\u0142a Podstawowa w Trzcianie","name":"Szko\u0142a Podstawowa w Trzcianie","addr:country":"PL","addr:postcode":"39-304","addr:place":"Trzciana","addr:housenumber":"289","addr:teryt:sym_ul":648103,"contact:phone":"+48 177740591","contact:email":"sptrzciana@poczta.fm","contact:website":"http:\/\/www.sptrzciana.szkolna.net","ref:regon":"001130957","ref:vatin":"PL8171808090","operator":"Gmina Czermin","operator:type":"government","amenity":"school"}},{"id":16102,"type":"Feature","geometry":{"type":"Point","coordinates":[21.27914,50.31901]},"properties":{"isced:level":"1;2","ref:rspo":16102,"official_name":"Szko\u0142a Podstawowa w Brniu Osuchowskim","name":"Szko\u0142a Podstawowa w Brniu Osuchowskim","addr:country":"PL","addr:postcode":"39-304","addr:place":"Bre\u0144 Osuchowski","addr:housenumber":"64","addr:teryt:sym_ul":647606,"contact:phone":"+48 177741430","contact:email":"spbrenosuchowski@interia.pl","contact:website":"http:\/\/spbrenosuchowski.edupage.org","ref:regon":"001130928","ref:vatin":"PL8171808115","operator":"Gmina Czermin","operator:type":"government","amenity":"school"}},{"id":272175,"type":"Feature","geometry":{"type":"Point","coordinates":[21.32779,50.3391499]},"properties":{"ref:rspo":272175,"official_name":"Zesp\u00f3\u0142 Szkolno - Przedszkolny w Czerminie","name":"Zesp\u00f3\u0142 Szkolno - Przedszkolny w Czerminie","addr:country":"PL","addr:postcode":"39-304","addr:place":"Czermin","addr:housenumber":"454","addr:teryt:sym_ul":647724,"contact:phone":"+48 177740315","contact:email":"zszpwc454@interia.pl","contact:website":"http:\/\/www.szkolaczermin.ugu.pl","ref:regon":"384000910","ref:vatin":"PL8172194299","operator":"Gmina Czermin","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 14595;19733"}},{"id":14595,"type":"Feature","geometry":{"type":"Point","coordinates":[21.32779,50.3391199]},"properties":{"ref:rspo":14595,"official_name":"Przedszkole Publiczne w Czerminie","name":"Przedszkole Publiczne w Czerminie","addr:country":"PL","addr:postcode":"39-304","addr:place":"Czermin","addr:housenumber":"454","addr:teryt:sym_ul":647724,"contact:phone":"+48 177740315","contact:email":"przedszkole454@interia.pl","contact:website":"http:\/\/www.przedszkoleczermin.dbv.pl","ref:regon":"690008783","ref:vatin":"PL8171080346","operator":"Gmina Czermin","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 272175"}},{"id":19733,"type":"Feature","geometry":{"type":"Point","coordinates":[21.32779,50.339089900000005]},"properties":{"isced:level":"1;2","ref:rspo":19733,"official_name":"Szko\u0142a Podstawowa w Czerminie","name":"Szko\u0142a Podstawowa w Czerminie","addr:country":"PL","addr:postcode":"39-304","addr:place":"Czermin","addr:housenumber":"454","addr:teryt:sym_ul":647724,"contact:phone":"+48 177740315","contact:email":"zszpwc454@interia.pl","contact:website":"http:\/\/www.spczermin.ugu.pl","ref:regon":"000559813","ref:vatin":"PL8171808055","operator":"Gmina Czermin","operator:type":"government","amenity":"school","note":"Parent RSPO: 272175"}},{"id":19732,"type":"Feature","geometry":{"type":"Point","coordinates":[21.24303,50.35562]},"properties":{"isced:level":"1;2","ref:rspo":19732,"official_name":"Szko\u0142a Podstawowa w Ota\u0142\u0119\u017cy","name":"Szko\u0142a Podstawowa w Ota\u0142\u0119\u017cy","addr:country":"PL","addr:postcode":"39-306","addr:place":"Ota\u0142\u0119\u017c","addr:housenumber":"15","addr:teryt:sym_ul":647925,"contact:phone":"+48 177741010","contact:email":"spotalez@poczta.onet.pl","contact:website":"http:\/\/www.spotalez.pl\/","ref:regon":"001130940","ref:vatin":"PL8171808084","operator":"Gmina Czermin","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 20876,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.34153,
+                    50.30192
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 20876,
+                "official_name": "Szko\u0142a Podstawowa w Trzcianie",
+                "name": "Szko\u0142a Podstawowa w Trzcianie",
+                "addr:country": "PL",
+                "addr:postcode": "39-304",
+                "addr:place": "Trzciana",
+                "addr:housenumber": "289",
+                "addr:teryt:sym_ul": 648103,
+                "contact:phone": "+48 177740591",
+                "contact:email": "sptrzciana@poczta.fm",
+                "contact:website": "http:\/\/www.sptrzciana.szkolna.net",
+                "ref:regon": "001130957",
+                "ref:vatin": "PL8171808090",
+                "operator": "Gmina Czermin",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 16102,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.27914,
+                    50.31901
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 16102,
+                "official_name": "Szko\u0142a Podstawowa w Brniu Osuchowskim",
+                "name": "Szko\u0142a Podstawowa w Brniu Osuchowskim",
+                "addr:country": "PL",
+                "addr:postcode": "39-304",
+                "addr:place": "Bre\u0144 Osuchowski",
+                "addr:housenumber": "64",
+                "addr:teryt:sym_ul": 647606,
+                "contact:phone": "+48 177741430",
+                "contact:email": "spbrenosuchowski@interia.pl",
+                "contact:website": "http:\/\/spbrenosuchowski.edupage.org",
+                "ref:regon": "001130928",
+                "ref:vatin": "PL8171808115",
+                "operator": "Gmina Czermin",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 272175,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.32779,
+                    50.3391499
+                ]
+            },
+            "properties": {
+                "ref:rspo": 272175,
+                "official_name": "Zesp\u00f3\u0142 Szkolno - Przedszkolny w Czerminie",
+                "name": "Zesp\u00f3\u0142 Szkolno - Przedszkolny w Czerminie",
+                "addr:country": "PL",
+                "addr:postcode": "39-304",
+                "addr:place": "Czermin",
+                "addr:housenumber": "454",
+                "addr:teryt:sym_ul": 647724,
+                "contact:phone": "+48 177740315",
+                "contact:email": "zszpwc454@interia.pl",
+                "contact:website": "http:\/\/www.szkolaczermin.ugu.pl",
+                "ref:regon": "384000910",
+                "ref:vatin": "PL8172194299",
+                "operator": "Gmina Czermin",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 14595;19733"
+            }
+        },
+        {
+            "id": 14595,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.32779,
+                    50.3391199
+                ]
+            },
+            "properties": {
+                "ref:rspo": 14595,
+                "official_name": "Przedszkole Publiczne w Czerminie",
+                "name": "Przedszkole Publiczne w Czerminie",
+                "addr:country": "PL",
+                "addr:postcode": "39-304",
+                "addr:place": "Czermin",
+                "addr:housenumber": "454",
+                "addr:teryt:sym_ul": 647724,
+                "contact:phone": "+48 177740315",
+                "contact:email": "przedszkole454@interia.pl",
+                "contact:website": "http:\/\/www.przedszkoleczermin.dbv.pl",
+                "ref:regon": "690008783",
+                "ref:vatin": "PL8171080346",
+                "operator": "Gmina Czermin",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 272175"
+            }
+        },
+        {
+            "id": 19733,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.32779,
+                    50.339089900000005
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 19733,
+                "official_name": "Szko\u0142a Podstawowa w Czerminie",
+                "name": "Szko\u0142a Podstawowa w Czerminie",
+                "addr:country": "PL",
+                "addr:postcode": "39-304",
+                "addr:place": "Czermin",
+                "addr:housenumber": "454",
+                "addr:teryt:sym_ul": 647724,
+                "contact:phone": "+48 177740315",
+                "contact:email": "zszpwc454@interia.pl",
+                "contact:website": "http:\/\/www.spczermin.ugu.pl",
+                "ref:regon": "000559813",
+                "ref:vatin": "PL8171808055",
+                "operator": "Gmina Czermin",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 272175"
+            }
+        },
+        {
+            "id": 19732,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.24303,
+                    50.35562
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 19732,
+                "official_name": "Szko\u0142a Podstawowa w Ota\u0142\u0119\u017cy",
+                "name": "Szko\u0142a Podstawowa w Ota\u0142\u0119\u017cy",
+                "addr:country": "PL",
+                "addr:postcode": "39-306",
+                "addr:place": "Ota\u0142\u0119\u017c",
+                "addr:housenumber": "15",
+                "addr:teryt:sym_ul": 647925,
+                "contact:phone": "+48 177741010",
+                "contact:email": "spotalez@poczta.onet.pl",
+                "contact:website": "http:\/\/www.spotalez.pl\/",
+                "ref:regon": "001130940",
+                "ref:vatin": "PL8171808084",
+                "operator": "Gmina Czermin",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

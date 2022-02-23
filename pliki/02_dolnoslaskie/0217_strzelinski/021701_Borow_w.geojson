@@ -1,1 +1,162 @@
-{"type":"FeatureCollection","features":[{"id":90686,"type":"Feature","geometry":{"type":"Point","coordinates":[16.98555,50.82663]},"properties":{"isced:level":"1;2","ref:rspo":90686,"official_name":"Publiczna Szko\u0142a Podstawowa im. Marii Konopnickiej w Zielenicach","name":"Publiczna Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"57-160","addr:place":"Zielenice","addr:housenumber":"26","addr:teryt:sym_ul":872993,"contact:phone":"+48 713930729","contact:email":"sekretariat@spzielenice.pl","contact:website":"http:\/\/spzielenice.pl","ref:regon":"000704847","ref:vatin":"PL9141350936","operator":"Gmina Bor\u00f3w","operator:type":"government","amenity":"school"}},{"id":31496,"type":"Feature","geometry":{"type":"Point","coordinates":[17.0649799,50.8669]},"properties":{"isced:level":"1;2","ref:rspo":31496,"official_name":"Publiczna Szko\u0142a Podstawowa im. Wincentego Witosa w Borku Strzeli\u0144skim","name":"Publiczna Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"57-160","addr:city":"Borek Strzeli\u0144ski","addr:street":"ul. Szkolna","addr:housenumber":"3","addr:teryt:simc":21970,"addr:teryt:sym_ul":872770,"contact:phone":"+48 713930588","contact:email":"sekretariat@szkolaborek.pl","contact:website":"http:\/\/szkolaborek.edupage.org\/","ref:regon":"000704853","ref:vatin":"PL9141364677","operator":"Gmina Bor\u00f3w","operator:type":"government","amenity":"school"}},{"id":31463,"type":"Feature","geometry":{"type":"Point","coordinates":[16.9944099,50.88561]},"properties":{"ref:rspo":31463,"official_name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 Publicznych w Borowie","name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 Publicznych w Borowie","addr:country":"PL","addr:postcode":"57-160","addr:city":"Bor\u00f3w","addr:street":"ul. Wroc\u0142awska","addr:housenumber":"24","addr:teryt:simc":24806,"addr:teryt:sym_ul":872786,"contact:phone":"+48 713933029","contact:email":"kontakt@zsp-borow.pl","contact:website":"http:\/\/www.zsp-borow.pl","ref:regon":"932916111","ref:vatin":"PL9141486216","operator":"Gmina Bor\u00f3w","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 91249;91286"}},{"id":91249,"type":"Feature","geometry":{"type":"Point","coordinates":[16.9944099,50.88558]},"properties":{"isced:level":"1;2","ref:rspo":91249,"official_name":"Publiczna Szko\u0142a Podstawowa im. Macieja Rataja w Borowie","name":"Publiczna Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"57-160","addr:city":"Bor\u00f3w","addr:street":"ul. Wroc\u0142awska","addr:housenumber":"24","addr:teryt:simc":24806,"addr:teryt:sym_ul":872786,"contact:phone":"+48 713933029","contact:email":"kontakt@zsp-borow.pl","contact:website":"http:\/\/www.zsp-borow.pl","ref:regon":"000560680","ref:vatin":"PL9141363531","operator":"Gmina Bor\u00f3w","operator:type":"government","amenity":"school","note":"Parent RSPO: 31463"}},{"id":91286,"type":"Feature","geometry":{"type":"Point","coordinates":[16.9944099,50.88555]},"properties":{"ref:rspo":91286,"official_name":"Przedszkole Publiczne w Borowie","name":"Przedszkole Publiczne w Borowie","addr:country":"PL","addr:postcode":"57-160","addr:city":"Bor\u00f3w","addr:street":"ul. Wroc\u0142awska","addr:housenumber":"24","addr:teryt:simc":24806,"addr:teryt:sym_ul":872786,"contact:phone":"+48 713933029","ref:regon":"020619882","operator":"Gmina Bor\u00f3w","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 31463"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 90686,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.98555,
+                    50.82663
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 90686,
+                "official_name": "Publiczna Szko\u0142a Podstawowa im. Marii Konopnickiej w Zielenicach",
+                "name": "Publiczna Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "57-160",
+                "addr:place": "Zielenice",
+                "addr:housenumber": "26",
+                "addr:teryt:sym_ul": 872993,
+                "contact:phone": "+48 713930729",
+                "contact:email": "sekretariat@spzielenice.pl",
+                "contact:website": "http:\/\/spzielenice.pl",
+                "ref:regon": "000704847",
+                "ref:vatin": "PL9141350936",
+                "operator": "Gmina Bor\u00f3w",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 31496,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.0649799,
+                    50.8669
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 31496,
+                "official_name": "Publiczna Szko\u0142a Podstawowa im. Wincentego Witosa w Borku Strzeli\u0144skim",
+                "name": "Publiczna Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "57-160",
+                "addr:city": "Borek Strzeli\u0144ski",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "3",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 872770,
+                "contact:phone": "+48 713930588",
+                "contact:email": "sekretariat@szkolaborek.pl",
+                "contact:website": "http:\/\/szkolaborek.edupage.org\/",
+                "ref:regon": "000704853",
+                "ref:vatin": "PL9141364677",
+                "operator": "Gmina Bor\u00f3w",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 31463,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.9944099,
+                    50.88561
+                ]
+            },
+            "properties": {
+                "ref:rspo": 31463,
+                "official_name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Publicznych w Borowie",
+                "name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Publicznych w Borowie",
+                "addr:country": "PL",
+                "addr:postcode": "57-160",
+                "addr:city": "Bor\u00f3w",
+                "addr:street": "ul. Wroc\u0142awska",
+                "addr:housenumber": "24",
+                "addr:teryt:simc": 24806,
+                "addr:teryt:sym_ul": 872786,
+                "contact:phone": "+48 713933029",
+                "contact:email": "kontakt@zsp-borow.pl",
+                "contact:website": "http:\/\/www.zsp-borow.pl",
+                "ref:regon": "932916111",
+                "ref:vatin": "PL9141486216",
+                "operator": "Gmina Bor\u00f3w",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 91249;91286"
+            }
+        },
+        {
+            "id": 91249,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.9944099,
+                    50.88558
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 91249,
+                "official_name": "Publiczna Szko\u0142a Podstawowa im. Macieja Rataja w Borowie",
+                "name": "Publiczna Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "57-160",
+                "addr:city": "Bor\u00f3w",
+                "addr:street": "ul. Wroc\u0142awska",
+                "addr:housenumber": "24",
+                "addr:teryt:simc": 24806,
+                "addr:teryt:sym_ul": 872786,
+                "contact:phone": "+48 713933029",
+                "contact:email": "kontakt@zsp-borow.pl",
+                "contact:website": "http:\/\/www.zsp-borow.pl",
+                "ref:regon": "000560680",
+                "ref:vatin": "PL9141363531",
+                "operator": "Gmina Bor\u00f3w",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 31463"
+            }
+        },
+        {
+            "id": 91286,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.9944099,
+                    50.88555
+                ]
+            },
+            "properties": {
+                "ref:rspo": 91286,
+                "official_name": "Przedszkole Publiczne w Borowie",
+                "name": "Przedszkole Publiczne w Borowie",
+                "addr:country": "PL",
+                "addr:postcode": "57-160",
+                "addr:city": "Bor\u00f3w",
+                "addr:street": "ul. Wroc\u0142awska",
+                "addr:housenumber": "24",
+                "addr:teryt:simc": 24806,
+                "addr:teryt:sym_ul": 872786,
+                "contact:phone": "+48 713933029",
+                "ref:regon": "020619882",
+                "operator": "Gmina Bor\u00f3w",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 31463"
+            }
+        }
+    ]
+}

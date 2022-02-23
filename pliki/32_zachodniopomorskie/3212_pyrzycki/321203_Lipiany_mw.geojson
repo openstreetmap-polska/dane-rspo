@@ -1,1 +1,200 @@
-{"type":"FeatureCollection","features":[{"id":64486,"type":"Feature","geometry":{"type":"Point","coordinates":[14.97273,53.00161]},"properties":{"ref:rspo":64486,"official_name":"Zesp\u00f3\u0142 Szk\u00f3\u0142","name":"Zesp\u00f3\u0142 Szk\u00f3\u0142","addr:country":"PL","addr:postcode":"74-240","addr:city":"Lipiany","addr:street":"ul. Tadeusza Ko\u015bciuszki","addr:housenumber":"1","addr:teryt:simc":9582,"addr:teryt:sym_ul":979120,"contact:phone":"+48 915641270","contact:email":"szkola@zs-lipiany.pl","contact:website":"http:\/\/www.zs-lipiany.pl","ref:regon":"810057148","ref:vatin":"PL8530002910","operator":"Gmina Lipiany","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 78035;82736;82739;114532"}},{"id":78035,"type":"Feature","geometry":{"type":"Point","coordinates":[14.97273,53.00158]},"properties":{"isced:level":"3","ref:rspo":78035,"official_name":"Liceum Og\u00f3lnokszta\u0142c\u0105ce","name":"Liceum Og\u00f3lnokszta\u0142c\u0105ce","addr:country":"PL","addr:postcode":"74-240","addr:city":"Lipiany","addr:street":"ul. Tadeusza Ko\u015bciuszki","addr:housenumber":"1","addr:teryt:simc":9582,"addr:teryt:sym_ul":979120,"contact:phone":"+48 915641270","contact:email":"szkola@zs-lipiany.pl","contact:website":"http:\/\/www.zs-lipiany.pl","ref:regon":"812539029","ref:vatin":"PL8530002910","operator":"Gmina Lipiany","operator:type":"government","amenity":"school","note":"Parent RSPO: 64486"}},{"id":82736,"type":"Feature","geometry":{"type":"Point","coordinates":[14.97273,53.00155]},"properties":{"isced:level":"1;2","ref:rspo":82736,"official_name":"Szko\u0142a Podstawowa Z Oddzia\u0142ami Przedszkolnymi im. Kornela Makuszy\u0144skiego","name":"Szko\u0142a Podstawowa Z Oddzia\u0142ami Przedszkolnymi","addr:country":"PL","addr:postcode":"74-240","addr:city":"Lipiany","addr:street":"ul. Tadeusza Ko\u015bciuszki","addr:housenumber":"1","addr:teryt:simc":9582,"addr:teryt:sym_ul":979120,"contact:phone":"+48 915641270","contact:email":"szkola@zs-lipiany.pl","contact:website":"http:\/\/www.zs-lipiany.pl","ref:regon":"812077155","ref:vatin":"PL8530002910","operator":"Gmina Lipiany","operator:type":"government","amenity":"school","note":"Parent RSPO: 64486"}},{"id":82739,"type":"Feature","geometry":{"type":"Point","coordinates":[14.97273,53.00152]},"properties":{"isced:level":"3","ref:rspo":82739,"official_name":"Bran\u017cowa Szko\u0142a I Stopnia","name":"Bran\u017cowa Szko\u0142a I Stopnia","addr:country":"PL","addr:postcode":"74-240","addr:city":"Lipiany","addr:street":"ul. Tadeusza Ko\u015bciuszki","addr:housenumber":"1","addr:teryt:simc":9582,"addr:teryt:sym_ul":979120,"contact:phone":"+48 915641270","contact:email":"szkola@zs-lipiany.pl","contact:website":"http:\/\/www.zs-lipiany.pl","ref:regon":"812539064","ref:vatin":"PL8530002910","operator":"Gmina Lipiany","operator:type":"government","amenity":"school","note":"Parent RSPO: 64486"}},{"id":114532,"type":"Feature","geometry":{"type":"Point","coordinates":[14.97273,53.00149]},"properties":{"ref:rspo":114532,"official_name":"Szko\u0142a Podstawowa Oddzia\u0142 Przedszkolny","name":"Szko\u0142a Podstawowa Oddzia\u0142 Przedszkolny","addr:country":"PL","addr:postcode":"74-240","addr:city":"Lipiany","addr:street":"ul. Tadeusza Ko\u015bciuszki","addr:housenumber":"1","addr:teryt:simc":9582,"addr:teryt:sym_ul":979120,"contact:phone":"+48 915641270","contact:email":"szkola@zs-lipiany.pl","contact:website":"http:\/\/zs-lipiany.pl","ref:regon":"321373340","ref:vatin":"PL8530002910","operator":"Gmina Lipiany","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 64486"}},{"id":64626,"type":"Feature","geometry":{"type":"Point","coordinates":[14.952770233154,53.003219604492]},"properties":{"ref:rspo":64626,"official_name":"Przedszkole Miejskie im. Kubusia Puchatka","name":"Przedszkole Miejskie","addr:country":"PL","addr:postcode":"74-240","addr:city":"Lipiany","addr:street":"ul. gen. J\u00f3zefa Bema","addr:housenumber":"19","addr:teryt:simc":1014,"addr:teryt:sym_ul":979120,"contact:phone":"+48 915641378","contact:email":"przedszkole@lipiany.pl","contact:website":"http:\/\/przedszkole-lipiany.przedszkolowo.pl\/","ref:regon":"320885143","ref:vatin":"PL8531509114","operator":"Gmina Lipiany","operator:type":"government","amenity":"kindergarten"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 64486,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.97273,
+                    53.00161
+                ]
+            },
+            "properties": {
+                "ref:rspo": 64486,
+                "official_name": "Zesp\u00f3\u0142 Szk\u00f3\u0142",
+                "name": "Zesp\u00f3\u0142 Szk\u00f3\u0142",
+                "addr:country": "PL",
+                "addr:postcode": "74-240",
+                "addr:city": "Lipiany",
+                "addr:street": "ul. Tadeusza Ko\u015bciuszki",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 9582,
+                "addr:teryt:sym_ul": 979120,
+                "contact:phone": "+48 915641270",
+                "contact:email": "szkola@zs-lipiany.pl",
+                "contact:website": "http:\/\/www.zs-lipiany.pl",
+                "ref:regon": "810057148",
+                "ref:vatin": "PL8530002910",
+                "operator": "Gmina Lipiany",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 78035;82736;82739;114532"
+            }
+        },
+        {
+            "id": 78035,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.97273,
+                    53.00158
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 78035,
+                "official_name": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+                "name": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+                "addr:country": "PL",
+                "addr:postcode": "74-240",
+                "addr:city": "Lipiany",
+                "addr:street": "ul. Tadeusza Ko\u015bciuszki",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 9582,
+                "addr:teryt:sym_ul": 979120,
+                "contact:phone": "+48 915641270",
+                "contact:email": "szkola@zs-lipiany.pl",
+                "contact:website": "http:\/\/www.zs-lipiany.pl",
+                "ref:regon": "812539029",
+                "ref:vatin": "PL8530002910",
+                "operator": "Gmina Lipiany",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 64486"
+            }
+        },
+        {
+            "id": 82736,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.97273,
+                    53.00155
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 82736,
+                "official_name": "Szko\u0142a Podstawowa Z Oddzia\u0142ami Przedszkolnymi im. Kornela Makuszy\u0144skiego",
+                "name": "Szko\u0142a Podstawowa Z Oddzia\u0142ami Przedszkolnymi",
+                "addr:country": "PL",
+                "addr:postcode": "74-240",
+                "addr:city": "Lipiany",
+                "addr:street": "ul. Tadeusza Ko\u015bciuszki",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 9582,
+                "addr:teryt:sym_ul": 979120,
+                "contact:phone": "+48 915641270",
+                "contact:email": "szkola@zs-lipiany.pl",
+                "contact:website": "http:\/\/www.zs-lipiany.pl",
+                "ref:regon": "812077155",
+                "ref:vatin": "PL8530002910",
+                "operator": "Gmina Lipiany",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 64486"
+            }
+        },
+        {
+            "id": 82739,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.97273,
+                    53.00152
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 82739,
+                "official_name": "Bran\u017cowa Szko\u0142a I Stopnia",
+                "name": "Bran\u017cowa Szko\u0142a I Stopnia",
+                "addr:country": "PL",
+                "addr:postcode": "74-240",
+                "addr:city": "Lipiany",
+                "addr:street": "ul. Tadeusza Ko\u015bciuszki",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 9582,
+                "addr:teryt:sym_ul": 979120,
+                "contact:phone": "+48 915641270",
+                "contact:email": "szkola@zs-lipiany.pl",
+                "contact:website": "http:\/\/www.zs-lipiany.pl",
+                "ref:regon": "812539064",
+                "ref:vatin": "PL8530002910",
+                "operator": "Gmina Lipiany",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 64486"
+            }
+        },
+        {
+            "id": 114532,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.97273,
+                    53.00149
+                ]
+            },
+            "properties": {
+                "ref:rspo": 114532,
+                "official_name": "Szko\u0142a Podstawowa Oddzia\u0142 Przedszkolny",
+                "name": "Szko\u0142a Podstawowa Oddzia\u0142 Przedszkolny",
+                "addr:country": "PL",
+                "addr:postcode": "74-240",
+                "addr:city": "Lipiany",
+                "addr:street": "ul. Tadeusza Ko\u015bciuszki",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 9582,
+                "addr:teryt:sym_ul": 979120,
+                "contact:phone": "+48 915641270",
+                "contact:email": "szkola@zs-lipiany.pl",
+                "contact:website": "http:\/\/zs-lipiany.pl",
+                "ref:regon": "321373340",
+                "ref:vatin": "PL8530002910",
+                "operator": "Gmina Lipiany",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 64486"
+            }
+        },
+        {
+            "id": 64626,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.952770233154,
+                    53.003219604492
+                ]
+            },
+            "properties": {
+                "ref:rspo": 64626,
+                "official_name": "Przedszkole Miejskie im. Kubusia Puchatka",
+                "name": "Przedszkole Miejskie",
+                "addr:country": "PL",
+                "addr:postcode": "74-240",
+                "addr:city": "Lipiany",
+                "addr:street": "ul. gen. J\u00f3zefa Bema",
+                "addr:housenumber": "19",
+                "addr:teryt:simc": 1014,
+                "addr:teryt:sym_ul": 979120,
+                "contact:phone": "+48 915641378",
+                "contact:email": "przedszkole@lipiany.pl",
+                "contact:website": "http:\/\/przedszkole-lipiany.przedszkolowo.pl\/",
+                "ref:regon": "320885143",
+                "ref:vatin": "PL8531509114",
+                "operator": "Gmina Lipiany",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        }
+    ]
+}

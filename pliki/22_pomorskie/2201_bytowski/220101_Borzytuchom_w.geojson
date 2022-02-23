@@ -1,1 +1,158 @@
-{"type":"FeatureCollection","features":[{"id":104616,"type":"Feature","geometry":{"type":"Point","coordinates":[17.40491,54.16476]},"properties":{"isced:level":"1;2","ref:rspo":104616,"official_name":"Szko\u0142a Filialna w D\u0105br\u00f3wce","name":"Szko\u0142a Filialna w D\u0105br\u00f3wce","addr:country":"PL","addr:postcode":"77-100","addr:place":"D\u0105br\u00f3wka","addr:housenumber":"21","addr:teryt:sym_ul":740850,"contact:phone":"+48 598231584","contact:email":"szkola.dabrowka@op.pl","ref:regon":"647434000","operator":"Gmina Borzytuchom","operator:type":"government","amenity":"school","note":"Parent RSPO: 48416"}},{"id":39767,"type":"Feature","geometry":{"type":"Point","coordinates":[17.3661299,54.19907]},"properties":{"ref:rspo":39767,"official_name":"Przedszkole Samorz\u0105dowe Borzytuchom","name":"Przedszkole Samorz\u0105dowe Borzytuchom","addr:country":"PL","addr:postcode":"77-141","addr:city":"Borzytuchom","addr:street":"ul. Ogrodowa","addr:housenumber":"4","addr:teryt:simc":14834,"addr:teryt:sym_ul":740837,"contact:phone":"+48 598211916","contact:email":"przedszkole.zsb@wp.pl","ref:regon":"000893475","operator":"Gmina Borzytuchom","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 30340"}},{"id":30340,"type":"Feature","geometry":{"type":"Point","coordinates":[17.3766399,54.2019]},"properties":{"ref:rspo":30340,"official_name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 w Borzytuchomiu","name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 w Borzytuchomiu","addr:country":"PL","addr:postcode":"77-141","addr:city":"Borzytuchom","addr:street":"ul. Szkolna","addr:housenumber":"1","addr:teryt:simc":21970,"addr:teryt:sym_ul":740837,"contact:phone":"+48 598588710","contact:email":"zsborzytuchom@vp.pl","contact:website":"http:\/\/www.zsborzytuchom.republika.pl","ref:regon":"771560360","ref:vatin":"PL8421626296","operator":"Gmina Borzytuchom","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 39767;48416"}},{"id":48416,"type":"Feature","geometry":{"type":"Point","coordinates":[17.3766399,54.20187]},"properties":{"isced:level":"1;2","ref:rspo":48416,"official_name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 w Borzytuchomiu - Szko\u0142a Podstawowa","name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 w Borzytuchomiu - Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"77-141","addr:city":"Borzytuchom","addr:street":"ul. Szkolna","addr:housenumber":"1","addr:teryt:simc":21970,"addr:teryt:sym_ul":740837,"contact:phone":"+48 598588710","contact:email":"zsborzytuchom@vp.pl","contact:website":"http:\/\/www.zsborzytuchom.republika.pl","ref:regon":"000647434","operator":"Gmina Borzytuchom","operator:type":"government","amenity":"school","note":"Children RSPO: 104616;277902Parent RSPO: 30340"}},{"id":277902,"type":"Feature","geometry":{"type":"Point","coordinates":[17.42284,54.22211]},"properties":{"isced:level":"1;2","ref:rspo":277902,"official_name":"Szko\u0142a Filialna w Niedarzynie","name":"Szko\u0142a Filialna w Niedarzynie","addr:country":"PL","addr:postcode":"77-141","addr:place":"Niedarzyno","addr:housenumber":"21B","addr:teryt:sym_ul":740910,"contact:phone":"+48 598211307","contact:email":"sp-niedarzyno@wp.pl","ref:regon":"647434000","operator":"Gmina Borzytuchom","operator:type":"government","amenity":"school","note":"Parent RSPO: 48416"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 104616,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.40491,
+                    54.16476
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 104616,
+                "official_name": "Szko\u0142a Filialna w D\u0105br\u00f3wce",
+                "name": "Szko\u0142a Filialna w D\u0105br\u00f3wce",
+                "addr:country": "PL",
+                "addr:postcode": "77-100",
+                "addr:place": "D\u0105br\u00f3wka",
+                "addr:housenumber": "21",
+                "addr:teryt:sym_ul": 740850,
+                "contact:phone": "+48 598231584",
+                "contact:email": "szkola.dabrowka@op.pl",
+                "ref:regon": "647434000",
+                "operator": "Gmina Borzytuchom",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 48416"
+            }
+        },
+        {
+            "id": 39767,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.3661299,
+                    54.19907
+                ]
+            },
+            "properties": {
+                "ref:rspo": 39767,
+                "official_name": "Przedszkole Samorz\u0105dowe Borzytuchom",
+                "name": "Przedszkole Samorz\u0105dowe Borzytuchom",
+                "addr:country": "PL",
+                "addr:postcode": "77-141",
+                "addr:city": "Borzytuchom",
+                "addr:street": "ul. Ogrodowa",
+                "addr:housenumber": "4",
+                "addr:teryt:simc": 14834,
+                "addr:teryt:sym_ul": 740837,
+                "contact:phone": "+48 598211916",
+                "contact:email": "przedszkole.zsb@wp.pl",
+                "ref:regon": "000893475",
+                "operator": "Gmina Borzytuchom",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 30340"
+            }
+        },
+        {
+            "id": 30340,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.3766399,
+                    54.2019
+                ]
+            },
+            "properties": {
+                "ref:rspo": 30340,
+                "official_name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 w Borzytuchomiu",
+                "name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 w Borzytuchomiu",
+                "addr:country": "PL",
+                "addr:postcode": "77-141",
+                "addr:city": "Borzytuchom",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 740837,
+                "contact:phone": "+48 598588710",
+                "contact:email": "zsborzytuchom@vp.pl",
+                "contact:website": "http:\/\/www.zsborzytuchom.republika.pl",
+                "ref:regon": "771560360",
+                "ref:vatin": "PL8421626296",
+                "operator": "Gmina Borzytuchom",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 39767;48416"
+            }
+        },
+        {
+            "id": 48416,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.3766399,
+                    54.20187
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 48416,
+                "official_name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 w Borzytuchomiu - Szko\u0142a Podstawowa",
+                "name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 w Borzytuchomiu - Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "77-141",
+                "addr:city": "Borzytuchom",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 740837,
+                "contact:phone": "+48 598588710",
+                "contact:email": "zsborzytuchom@vp.pl",
+                "contact:website": "http:\/\/www.zsborzytuchom.republika.pl",
+                "ref:regon": "000647434",
+                "operator": "Gmina Borzytuchom",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Children RSPO: 104616;277902Parent RSPO: 30340"
+            }
+        },
+        {
+            "id": 277902,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.42284,
+                    54.22211
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 277902,
+                "official_name": "Szko\u0142a Filialna w Niedarzynie",
+                "name": "Szko\u0142a Filialna w Niedarzynie",
+                "addr:country": "PL",
+                "addr:postcode": "77-141",
+                "addr:place": "Niedarzyno",
+                "addr:housenumber": "21B",
+                "addr:teryt:sym_ul": 740910,
+                "contact:phone": "+48 598211307",
+                "contact:email": "sp-niedarzyno@wp.pl",
+                "ref:regon": "647434000",
+                "operator": "Gmina Borzytuchom",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 48416"
+            }
+        }
+    ]
+}

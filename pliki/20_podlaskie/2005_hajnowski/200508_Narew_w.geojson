@@ -1,1 +1,101 @@
-{"type":"FeatureCollection","features":[{"id":25464,"type":"Feature","geometry":{"type":"Point","coordinates":[23.53151,52.90846]},"properties":{"ref:rspo":25464,"official_name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w Narwi","name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w Narwi","addr:country":"PL","addr:postcode":"17-210","addr:city":"Narew","addr:street":"ul. Adama Mickiewicza","addr:housenumber":"81","addr:teryt:simc":12740,"addr:teryt:sym_ul":36274,"contact:phone":"+48 856816644","contact:email":"spignarew@wp.pl","contact:website":"http:\/\/www.zespolszkol.narew.gmina.pl","ref:regon":"200547376","ref:vatin":"PL6030074555","operator":"Gmina Narew","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 87234;87235"}},{"id":87234,"type":"Feature","geometry":{"type":"Point","coordinates":[23.53151,52.908429999999996]},"properties":{"isced:level":"1;2","ref:rspo":87234,"official_name":"Szko\u0142a Podstawowa im. Gen. Zygmunta Berlinga w Narwi","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"17-210","addr:city":"Narew","addr:street":"ul. Adama Mickiewicza","addr:housenumber":"81","addr:teryt:simc":12740,"addr:teryt:sym_ul":36274,"contact:phone":"+48 856816644","contact:email":"spignarew@wp.pl","contact:website":"http:\/\/www.zespolszkol.narew.gmina.pl","ref:regon":"000558073","operator":"Gmina Narew","operator:type":"government","amenity":"school","note":"Parent RSPO: 25464"}},{"id":87235,"type":"Feature","geometry":{"type":"Point","coordinates":[23.53151,52.9084]},"properties":{"ref:rspo":87235,"official_name":"Przedszkole Samorz\u0105dowe w Narwi","name":"Przedszkole Samorz\u0105dowe w Narwi","addr:country":"PL","addr:postcode":"17-210","addr:city":"Narew","addr:street":"ul. Adama Mickiewicza","addr:housenumber":"81","addr:teryt:simc":12740,"addr:teryt:sym_ul":36274,"contact:phone":"+48 856816644","contact:email":"spignarew@wp.pl","contact:website":"http:\/\/www.zespolszkol.narew.gmina.pl","ref:regon":"000943032","operator":"Gmina Narew","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 25464"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 25464,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.53151,
+                    52.90846
+                ]
+            },
+            "properties": {
+                "ref:rspo": 25464,
+                "official_name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w Narwi",
+                "name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w Narwi",
+                "addr:country": "PL",
+                "addr:postcode": "17-210",
+                "addr:city": "Narew",
+                "addr:street": "ul. Adama Mickiewicza",
+                "addr:housenumber": "81",
+                "addr:teryt:simc": 12740,
+                "addr:teryt:sym_ul": 36274,
+                "contact:phone": "+48 856816644",
+                "contact:email": "spignarew@wp.pl",
+                "contact:website": "http:\/\/www.zespolszkol.narew.gmina.pl",
+                "ref:regon": "200547376",
+                "ref:vatin": "PL6030074555",
+                "operator": "Gmina Narew",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 87234;87235"
+            }
+        },
+        {
+            "id": 87234,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.53151,
+                    52.908429999999996
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 87234,
+                "official_name": "Szko\u0142a Podstawowa im. Gen. Zygmunta Berlinga w Narwi",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "17-210",
+                "addr:city": "Narew",
+                "addr:street": "ul. Adama Mickiewicza",
+                "addr:housenumber": "81",
+                "addr:teryt:simc": 12740,
+                "addr:teryt:sym_ul": 36274,
+                "contact:phone": "+48 856816644",
+                "contact:email": "spignarew@wp.pl",
+                "contact:website": "http:\/\/www.zespolszkol.narew.gmina.pl",
+                "ref:regon": "000558073",
+                "operator": "Gmina Narew",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 25464"
+            }
+        },
+        {
+            "id": 87235,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.53151,
+                    52.9084
+                ]
+            },
+            "properties": {
+                "ref:rspo": 87235,
+                "official_name": "Przedszkole Samorz\u0105dowe w Narwi",
+                "name": "Przedszkole Samorz\u0105dowe w Narwi",
+                "addr:country": "PL",
+                "addr:postcode": "17-210",
+                "addr:city": "Narew",
+                "addr:street": "ul. Adama Mickiewicza",
+                "addr:housenumber": "81",
+                "addr:teryt:simc": 12740,
+                "addr:teryt:sym_ul": 36274,
+                "contact:phone": "+48 856816644",
+                "contact:email": "spignarew@wp.pl",
+                "contact:website": "http:\/\/www.zespolszkol.narew.gmina.pl",
+                "ref:regon": "000943032",
+                "operator": "Gmina Narew",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 25464"
+            }
+        }
+    ]
+}

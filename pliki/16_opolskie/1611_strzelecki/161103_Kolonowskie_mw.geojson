@@ -1,1 +1,161 @@
-{"type":"FeatureCollection","features":[{"id":59662,"type":"Feature","geometry":{"type":"Point","coordinates":[18.35092,50.64834]},"properties":{"isced:level":"1;2","ref:rspo":59662,"official_name":"Publiczna Szko\u0142a Podstawowa Nr 1 im. Marii Sk\u0142odowskiej-Curie w Kolonowskiem","name":"Publiczna Szko\u0142a Podstawowa Nr 1","addr:country":"PL","addr:postcode":"47-110","addr:city":"Kolonowskie","addr:street":"ul. 1 Maja","addr:housenumber":"5","addr:teryt:simc":11926,"addr:teryt:sym_ul":965631,"contact:phone":"+48 774611126","contact:email":"pspnr10@poczta.onet.pl","contact:website":"http:\/\/pspkol.edupage.org","ref:regon":"000562040","ref:vatin":"PL7561812963","operator":"Gmina Kolonowskie","operator:type":"government","amenity":"school"}},{"id":57159,"type":"Feature","geometry":{"type":"Point","coordinates":[18.35312,50.65052]},"properties":{"ref:rspo":57159,"official_name":"Przedszkole Publiczne w Staniszczach Wielkich","name":"Przedszkole Publiczne w Staniszczach Wielkich","addr:country":"PL","addr:postcode":"47-113","addr:city":"Staniszcze Wielkie","addr:street":"ul. Ko\u015bcielna","addr:housenumber":"15","addr:teryt:simc":9546,"addr:teryt:sym_ul":496745,"contact:phone":"+48 774611260","contact:email":"przedszkole.staniszcze@onet.pl","ref:regon":"530583830","ref:vatin":"PL7561862524","operator":"Gmina Kolonowskie","operator:type":"government","amenity":"kindergarten"}},{"id":56596,"type":"Feature","geometry":{"type":"Point","coordinates":[18.38056,50.65314]},"properties":{"ref:rspo":56596,"official_name":"Przedszkole Publiczne Nr 1 w Kolonowskiem","name":"Przedszkole Publiczne Nr 1 w Kolonowskiem","addr:country":"PL","addr:postcode":"47-110","addr:city":"Kolonowskie","addr:street":"ul. ks. Czerwionki","addr:housenumber":"16","addr:teryt:simc":32344,"addr:teryt:sym_ul":965631,"contact:phone":"+48 774611455","contact:email":"przedszkole.kolonowskie@interia.pl","ref:regon":"530583818","ref:vatin":"PL7561862501","operator":"Gmina Kolonowskie","operator:type":"government","amenity":"kindergarten"}},{"id":58114,"type":"Feature","geometry":{"type":"Point","coordinates":[18.35328,50.66256]},"properties":{"isced:level":"1;2","ref:rspo":58114,"official_name":"Publiczna Szko\u0142a Podstawowa Staniszcze Wielkie-Kolonowskie 3 im. Jana Paw\u0142a Ii","name":"Publiczna Szko\u0142a Podstawowa Staniszcze Wielkie-Kolonowskie 3","addr:country":"PL","addr:postcode":"47-113","addr:city":"Kolonowskie","addr:street":"ul. Jana Paw\u0142a II","addr:housenumber":"4","addr:teryt:simc":7123,"addr:teryt:sym_ul":965631,"contact:phone":"+48 774611158","contact:email":"szkolfos@tlen.pl","contact:website":"http:\/\/www.pspstaniszczewielkie.pl","ref:regon":"001182776","ref:vatin":"PL7561826652","operator":"Gmina Kolonowskie","operator:type":"government","amenity":"school"}},{"id":58148,"type":"Feature","geometry":{"type":"Point","coordinates":[18.31603,50.66327]},"properties":{"isced:level":"1;2","ref:rspo":58148,"official_name":"Publiczna Szko\u0142a Podstawowa Staniszcze Ma\u0142e-Sp\u00f3rok im. \u015aw. Jacka","name":"Publiczna Szko\u0142a Podstawowa Staniszcze Ma\u0142e-Sp\u00f3rok","addr:country":"PL","addr:postcode":"47-113","addr:city":"Staniszcze Ma\u0142e","addr:street":"ul. Szkolna","addr:housenumber":"1","addr:teryt:simc":21970,"addr:teryt:sym_ul":496716,"contact:phone":"+48 774611064","contact:email":"pocztapspsms@gmail.com","contact:website":"http:\/\/pspsms.edupage.org","ref:regon":"001182747","ref:vatin":"PL7561809820","operator":"Gmina Kolonowskie","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 59662,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.35092,
+                    50.64834
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 59662,
+                "official_name": "Publiczna Szko\u0142a Podstawowa Nr 1 im. Marii Sk\u0142odowskiej-Curie w Kolonowskiem",
+                "name": "Publiczna Szko\u0142a Podstawowa Nr 1",
+                "addr:country": "PL",
+                "addr:postcode": "47-110",
+                "addr:city": "Kolonowskie",
+                "addr:street": "ul. 1 Maja",
+                "addr:housenumber": "5",
+                "addr:teryt:simc": 11926,
+                "addr:teryt:sym_ul": 965631,
+                "contact:phone": "+48 774611126",
+                "contact:email": "pspnr10@poczta.onet.pl",
+                "contact:website": "http:\/\/pspkol.edupage.org",
+                "ref:regon": "000562040",
+                "ref:vatin": "PL7561812963",
+                "operator": "Gmina Kolonowskie",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 57159,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.35312,
+                    50.65052
+                ]
+            },
+            "properties": {
+                "ref:rspo": 57159,
+                "official_name": "Przedszkole Publiczne w Staniszczach Wielkich",
+                "name": "Przedszkole Publiczne w Staniszczach Wielkich",
+                "addr:country": "PL",
+                "addr:postcode": "47-113",
+                "addr:city": "Staniszcze Wielkie",
+                "addr:street": "ul. Ko\u015bcielna",
+                "addr:housenumber": "15",
+                "addr:teryt:simc": 9546,
+                "addr:teryt:sym_ul": 496745,
+                "contact:phone": "+48 774611260",
+                "contact:email": "przedszkole.staniszcze@onet.pl",
+                "ref:regon": "530583830",
+                "ref:vatin": "PL7561862524",
+                "operator": "Gmina Kolonowskie",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 56596,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.38056,
+                    50.65314
+                ]
+            },
+            "properties": {
+                "ref:rspo": 56596,
+                "official_name": "Przedszkole Publiczne Nr 1 w Kolonowskiem",
+                "name": "Przedszkole Publiczne Nr 1 w Kolonowskiem",
+                "addr:country": "PL",
+                "addr:postcode": "47-110",
+                "addr:city": "Kolonowskie",
+                "addr:street": "ul. ks. Czerwionki",
+                "addr:housenumber": "16",
+                "addr:teryt:simc": 32344,
+                "addr:teryt:sym_ul": 965631,
+                "contact:phone": "+48 774611455",
+                "contact:email": "przedszkole.kolonowskie@interia.pl",
+                "ref:regon": "530583818",
+                "ref:vatin": "PL7561862501",
+                "operator": "Gmina Kolonowskie",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 58114,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.35328,
+                    50.66256
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 58114,
+                "official_name": "Publiczna Szko\u0142a Podstawowa Staniszcze Wielkie-Kolonowskie 3 im. Jana Paw\u0142a Ii",
+                "name": "Publiczna Szko\u0142a Podstawowa Staniszcze Wielkie-Kolonowskie 3",
+                "addr:country": "PL",
+                "addr:postcode": "47-113",
+                "addr:city": "Kolonowskie",
+                "addr:street": "ul. Jana Paw\u0142a II",
+                "addr:housenumber": "4",
+                "addr:teryt:simc": 7123,
+                "addr:teryt:sym_ul": 965631,
+                "contact:phone": "+48 774611158",
+                "contact:email": "szkolfos@tlen.pl",
+                "contact:website": "http:\/\/www.pspstaniszczewielkie.pl",
+                "ref:regon": "001182776",
+                "ref:vatin": "PL7561826652",
+                "operator": "Gmina Kolonowskie",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 58148,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.31603,
+                    50.66327
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 58148,
+                "official_name": "Publiczna Szko\u0142a Podstawowa Staniszcze Ma\u0142e-Sp\u00f3rok im. \u015aw. Jacka",
+                "name": "Publiczna Szko\u0142a Podstawowa Staniszcze Ma\u0142e-Sp\u00f3rok",
+                "addr:country": "PL",
+                "addr:postcode": "47-113",
+                "addr:city": "Staniszcze Ma\u0142e",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 496716,
+                "contact:phone": "+48 774611064",
+                "contact:email": "pocztapspsms@gmail.com",
+                "contact:website": "http:\/\/pspsms.edupage.org",
+                "ref:regon": "001182747",
+                "ref:vatin": "PL7561809820",
+                "operator": "Gmina Kolonowskie",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

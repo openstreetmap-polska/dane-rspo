@@ -1,1 +1,127 @@
-{"type":"FeatureCollection","features":[{"id":68338,"type":"Feature","geometry":{"type":"Point","coordinates":[18.80169,54.60806]},"properties":{"ref:rspo":68338,"official_name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 Og\u00f3lnokszta\u0142c\u0105cych w Helu","name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 Og\u00f3lnokszta\u0142c\u0105cych w Helu","addr:country":"PL","addr:postcode":"84-150","addr:city":"Hel","addr:street":"ul. Szkolna","addr:housenumber":"1","addr:teryt:simc":21970,"addr:teryt:sym_ul":934501,"contact:phone":"+48 586750683","contact:email":"sekretariat@zsohel.edu.pl","contact:website":"http:\/\/www.zsohel.edu.pl","ref:regon":"191330999","ref:vatin":"PL5871422563","operator":"Gmina Miejska Hel","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 110014;110019;110022"}},{"id":110014,"type":"Feature","geometry":{"type":"Point","coordinates":[18.80169,54.60803]},"properties":{"ref:rspo":110014,"official_name":"Przedszkole Miejskie","name":"Przedszkole Miejskie","addr:country":"PL","addr:postcode":"84-150","addr:city":"Hel","addr:street":"ul. Szkolna","addr:housenumber":"1","addr:teryt:simc":21970,"addr:teryt:sym_ul":934501,"contact:phone":"+48 586750683","ref:regon":"190008184","operator":"Gmina Miejska Hel","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 68338"}},{"id":110019,"type":"Feature","geometry":{"type":"Point","coordinates":[18.80169,54.608000000000004]},"properties":{"isced:level":"1;2","ref:rspo":110019,"official_name":"Szko\u0142a Podstawowa","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"84-150","addr:city":"Hel","addr:street":"ul. Szkolna","addr:housenumber":"1","addr:teryt:simc":21970,"addr:teryt:sym_ul":934501,"contact:phone":"+48 586750683","ref:regon":"192939952","operator":"Gmina Miejska Hel","operator:type":"government","amenity":"school","note":"Parent RSPO: 68338"}},{"id":110022,"type":"Feature","geometry":{"type":"Point","coordinates":[18.80169,54.60797]},"properties":{"isced:level":"3","ref:rspo":110022,"official_name":"Liceum Og\u00f3lnokszta\u0142c\u0105ce","name":"Liceum Og\u00f3lnokszta\u0142c\u0105ce","addr:country":"PL","addr:postcode":"84-150","addr:city":"Hel","addr:street":"ul. Szkolna","addr:housenumber":"1","addr:teryt:simc":21970,"addr:teryt:sym_ul":934501,"contact:phone":"+48 586750683","ref:regon":"192939975","operator":"Gmina Miejska Hel","operator:type":"government","amenity":"school","note":"Parent RSPO: 68338"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 68338,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.80169,
+                    54.60806
+                ]
+            },
+            "properties": {
+                "ref:rspo": 68338,
+                "official_name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Og\u00f3lnokszta\u0142c\u0105cych w Helu",
+                "name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Og\u00f3lnokszta\u0142c\u0105cych w Helu",
+                "addr:country": "PL",
+                "addr:postcode": "84-150",
+                "addr:city": "Hel",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 934501,
+                "contact:phone": "+48 586750683",
+                "contact:email": "sekretariat@zsohel.edu.pl",
+                "contact:website": "http:\/\/www.zsohel.edu.pl",
+                "ref:regon": "191330999",
+                "ref:vatin": "PL5871422563",
+                "operator": "Gmina Miejska Hel",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 110014;110019;110022"
+            }
+        },
+        {
+            "id": 110014,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.80169,
+                    54.60803
+                ]
+            },
+            "properties": {
+                "ref:rspo": 110014,
+                "official_name": "Przedszkole Miejskie",
+                "name": "Przedszkole Miejskie",
+                "addr:country": "PL",
+                "addr:postcode": "84-150",
+                "addr:city": "Hel",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 934501,
+                "contact:phone": "+48 586750683",
+                "ref:regon": "190008184",
+                "operator": "Gmina Miejska Hel",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 68338"
+            }
+        },
+        {
+            "id": 110019,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.80169,
+                    54.608000000000004
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 110019,
+                "official_name": "Szko\u0142a Podstawowa",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "84-150",
+                "addr:city": "Hel",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 934501,
+                "contact:phone": "+48 586750683",
+                "ref:regon": "192939952",
+                "operator": "Gmina Miejska Hel",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 68338"
+            }
+        },
+        {
+            "id": 110022,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.80169,
+                    54.60797
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 110022,
+                "official_name": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+                "name": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+                "addr:country": "PL",
+                "addr:postcode": "84-150",
+                "addr:city": "Hel",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 934501,
+                "contact:phone": "+48 586750683",
+                "ref:regon": "192939975",
+                "operator": "Gmina Miejska Hel",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 68338"
+            }
+        }
+    ]
+}

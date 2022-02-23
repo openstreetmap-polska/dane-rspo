@@ -1,1 +1,125 @@
-{"type":"FeatureCollection","features":[{"id":123581,"type":"Feature","geometry":{"type":"Point","coordinates":[19.78468,51.06445]},"properties":{"isced:level":"1;2","ref:rspo":123581,"official_name":"Filialna Szko\u0142a Podstawowa w Kraszewicach","name":"Filialna Szko\u0142a Podstawowa w Kraszewicach","addr:country":"PL","addr:postcode":"97-515","addr:place":"Kraszewice","addr:housenumber":"113","addr:teryt:sym_ul":545722,"contact:phone":"+48 447874713","contact:email":"strzelcepsp@op.pl","contact:website":"http:\/\/www.strzelcepsp.edu.pl","ref:regon":"123666700","operator":"Gmina Mas\u0142owice","operator:type":"government","amenity":"school","note":"Parent RSPO: 113578"}},{"id":113578,"type":"Feature","geometry":{"type":"Point","coordinates":[19.79123,51.0996]},"properties":{"isced:level":"1;2","ref:rspo":113578,"official_name":"Publiczna Szko\u0142a Podstawowa im. Jana Paw\u0142a II w Strzelcach Ma\u0142ych","name":"Publiczna Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"97-515","addr:place":"Strzelce Ma\u0142e","addr:housenumber":"33","addr:teryt:sym_ul":545797,"contact:phone":"+48 447874713","contact:email":"strzelcepsp@op.pl","contact:website":"http:\/\/www.strzelcepsp.edu.pl","ref:regon":"001236667","ref:vatin":"PL7722328311","operator":"Gmina Mas\u0142owice","operator:type":"government","amenity":"school","note":"Children RSPO: 123581;123582"}},{"id":59931,"type":"Feature","geometry":{"type":"Point","coordinates":[19.78369,51.10655]},"properties":{"ref:rspo":59931,"official_name":"Publiczne Samorz\u0105dowe Przedszkole w Mas\u0142owicach","name":"Publiczne Samorz\u0105dowe Przedszkole w Mas\u0142owicach","addr:country":"PL","addr:postcode":"97-515","addr:place":"Mas\u0142owice","addr:housenumber":"39","addr:teryt:sym_ul":545751,"contact:phone":"+48 447874868","contact:email":"kontakt@przedszkolemaslowice.edu.pl","contact:website":"http:\/\/www.przedszkolemaslowice.edu.pl","ref:regon":"590020333","ref:vatin":"PL7722209055","operator":"Gmina Mas\u0142owice","operator:type":"government","amenity":"kindergarten"}},{"id":123582,"type":"Feature","geometry":{"type":"Point","coordinates":[19.71646,51.14684]},"properties":{"isced:level":"1;2","ref:rspo":123582,"official_name":"Filialna Szko\u0142a Podstawowa w Przer\u0119bie","name":"Filialna Szko\u0142a Podstawowa w Przer\u0119bie","addr:country":"PL","addr:postcode":"97-515","addr:place":"Przer\u0105b","addr:housenumber":"61","addr:teryt:sym_ul":545774,"contact:phone":"+48 447874720","contact:email":"strzelcepsp@op.pl","contact:website":"http:\/\/www.strzelcepsp.edu.pl","ref:regon":"123666700","operator":"Gmina Mas\u0142owice","operator:type":"government","amenity":"school","note":"Parent RSPO: 113578"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 123581,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.78468,
+                    51.06445
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 123581,
+                "official_name": "Filialna Szko\u0142a Podstawowa w Kraszewicach",
+                "name": "Filialna Szko\u0142a Podstawowa w Kraszewicach",
+                "addr:country": "PL",
+                "addr:postcode": "97-515",
+                "addr:place": "Kraszewice",
+                "addr:housenumber": "113",
+                "addr:teryt:sym_ul": 545722,
+                "contact:phone": "+48 447874713",
+                "contact:email": "strzelcepsp@op.pl",
+                "contact:website": "http:\/\/www.strzelcepsp.edu.pl",
+                "ref:regon": "123666700",
+                "operator": "Gmina Mas\u0142owice",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 113578"
+            }
+        },
+        {
+            "id": 113578,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.79123,
+                    51.0996
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 113578,
+                "official_name": "Publiczna Szko\u0142a Podstawowa im. Jana Paw\u0142a II w Strzelcach Ma\u0142ych",
+                "name": "Publiczna Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "97-515",
+                "addr:place": "Strzelce Ma\u0142e",
+                "addr:housenumber": "33",
+                "addr:teryt:sym_ul": 545797,
+                "contact:phone": "+48 447874713",
+                "contact:email": "strzelcepsp@op.pl",
+                "contact:website": "http:\/\/www.strzelcepsp.edu.pl",
+                "ref:regon": "001236667",
+                "ref:vatin": "PL7722328311",
+                "operator": "Gmina Mas\u0142owice",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Children RSPO: 123581;123582"
+            }
+        },
+        {
+            "id": 59931,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.78369,
+                    51.10655
+                ]
+            },
+            "properties": {
+                "ref:rspo": 59931,
+                "official_name": "Publiczne Samorz\u0105dowe Przedszkole w Mas\u0142owicach",
+                "name": "Publiczne Samorz\u0105dowe Przedszkole w Mas\u0142owicach",
+                "addr:country": "PL",
+                "addr:postcode": "97-515",
+                "addr:place": "Mas\u0142owice",
+                "addr:housenumber": "39",
+                "addr:teryt:sym_ul": 545751,
+                "contact:phone": "+48 447874868",
+                "contact:email": "kontakt@przedszkolemaslowice.edu.pl",
+                "contact:website": "http:\/\/www.przedszkolemaslowice.edu.pl",
+                "ref:regon": "590020333",
+                "ref:vatin": "PL7722209055",
+                "operator": "Gmina Mas\u0142owice",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 123582,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.71646,
+                    51.14684
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 123582,
+                "official_name": "Filialna Szko\u0142a Podstawowa w Przer\u0119bie",
+                "name": "Filialna Szko\u0142a Podstawowa w Przer\u0119bie",
+                "addr:country": "PL",
+                "addr:postcode": "97-515",
+                "addr:place": "Przer\u0105b",
+                "addr:housenumber": "61",
+                "addr:teryt:sym_ul": 545774,
+                "contact:phone": "+48 447874720",
+                "contact:email": "strzelcepsp@op.pl",
+                "contact:website": "http:\/\/www.strzelcepsp.edu.pl",
+                "ref:regon": "123666700",
+                "operator": "Gmina Mas\u0142owice",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 113578"
+            }
+        }
+    ]
+}

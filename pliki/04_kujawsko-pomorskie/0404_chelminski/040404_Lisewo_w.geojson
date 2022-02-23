@@ -1,1 +1,131 @@
-{"type":"FeatureCollection","features":[{"id":80721,"type":"Feature","geometry":{"type":"Point","coordinates":[18.68662,53.2908]},"properties":{"isced:level":"1;2","ref:rspo":80721,"official_name":"Zesp\u00f3\u0142 Szkolno- Przedszkolny Szko\u0142a Podstawowa w Lisewie im. Janusza Korczaka","name":"Zesp\u00f3\u0142 Szkolno- Przedszkolny Szko\u0142a Podstawowa w Lisewie","addr:country":"PL","addr:postcode":"86-230","addr:city":"Lisewo","addr:street":"ul. Toru\u0144ska","addr:housenumber":"16","addr:teryt:simc":22902,"addr:teryt:sym_ul":846151,"contact:phone":"+48 566768650","contact:email":"zsp_lisewo@outlook.com","contact:website":"http:\/\/www.zsp-lisewo.pl","ref:regon":"000556737","ref:vatin":"PL8751197591","operator":"Gmina Lisewo","operator:type":"government","amenity":"school","note":"Parent RSPO: 59162"}},{"id":59162,"type":"Feature","geometry":{"type":"Point","coordinates":[18.68728,53.29084]},"properties":{"ref:rspo":59162,"official_name":"Zesp\u00f3\u0142 Szkolno - Przedszkolny w Lisewie","name":"Zesp\u00f3\u0142 Szkolno - Przedszkolny w Lisewie","addr:country":"PL","addr:postcode":"86-230","addr:city":"Lisewo","addr:street":"ul. Toru\u0144ska","addr:housenumber":"17","addr:teryt:simc":22902,"addr:teryt:sym_ul":846151,"contact:phone":"+48 566767916","contact:email":"zsp_lisewo@outlook.com","contact:website":"http:\/\/www.zsp-lisewo.pl","ref:regon":"340266163","ref:vatin":"PL8751497933","operator":"Gmina Lisewo","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 80721;81214"}},{"id":81214,"type":"Feature","geometry":{"type":"Point","coordinates":[18.68718,53.29144]},"properties":{"ref:rspo":81214,"official_name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny Gminne Przedszkole w Lisewie","name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny Gminne Przedszkole w Lisewie","addr:country":"PL","addr:postcode":"86-230","addr:city":"Lisewo","addr:street":"ul. Toru\u0144ska","addr:housenumber":"15","addr:teryt:simc":22902,"addr:teryt:sym_ul":846151,"contact:phone":"+48 566767916","ref:regon":"340538704","ref:vatin":"PL8751307097","operator":"Gmina Lisewo","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 59162"}},{"id":59013,"type":"Feature","geometry":{"type":"Point","coordinates":[18.61687,53.3123099]},"properties":{"isced:level":"1;2","ref:rspo":59013,"official_name":"Szko\u0142a Podstawowa Im Marii Sk\u0142odowskiej- Curie w Krusinie","name":"Szko\u0142a Podstawowa Im Marii Sk\u0142odowskiej- Curie w Krusinie","addr:country":"PL","addr:postcode":"86-230","addr:place":"Krusin","addr:housenumber":"53","addr:teryt:sym_ul":846122,"contact:phone":"+48 566768022","contact:email":"dyrektor@spkrusin.pl","contact:website":"http:\/\/spkrusinedupage.org","ref:regon":"001212394","ref:vatin":"PL8751410085","operator":"Gmina Lisewo","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 80721,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.68662,
+                    53.2908
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 80721,
+                "official_name": "Zesp\u00f3\u0142 Szkolno- Przedszkolny Szko\u0142a Podstawowa w Lisewie im. Janusza Korczaka",
+                "name": "Zesp\u00f3\u0142 Szkolno- Przedszkolny Szko\u0142a Podstawowa w Lisewie",
+                "addr:country": "PL",
+                "addr:postcode": "86-230",
+                "addr:city": "Lisewo",
+                "addr:street": "ul. Toru\u0144ska",
+                "addr:housenumber": "16",
+                "addr:teryt:simc": 22902,
+                "addr:teryt:sym_ul": 846151,
+                "contact:phone": "+48 566768650",
+                "contact:email": "zsp_lisewo@outlook.com",
+                "contact:website": "http:\/\/www.zsp-lisewo.pl",
+                "ref:regon": "000556737",
+                "ref:vatin": "PL8751197591",
+                "operator": "Gmina Lisewo",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 59162"
+            }
+        },
+        {
+            "id": 59162,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.68728,
+                    53.29084
+                ]
+            },
+            "properties": {
+                "ref:rspo": 59162,
+                "official_name": "Zesp\u00f3\u0142 Szkolno - Przedszkolny w Lisewie",
+                "name": "Zesp\u00f3\u0142 Szkolno - Przedszkolny w Lisewie",
+                "addr:country": "PL",
+                "addr:postcode": "86-230",
+                "addr:city": "Lisewo",
+                "addr:street": "ul. Toru\u0144ska",
+                "addr:housenumber": "17",
+                "addr:teryt:simc": 22902,
+                "addr:teryt:sym_ul": 846151,
+                "contact:phone": "+48 566767916",
+                "contact:email": "zsp_lisewo@outlook.com",
+                "contact:website": "http:\/\/www.zsp-lisewo.pl",
+                "ref:regon": "340266163",
+                "ref:vatin": "PL8751497933",
+                "operator": "Gmina Lisewo",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 80721;81214"
+            }
+        },
+        {
+            "id": 81214,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.68718,
+                    53.29144
+                ]
+            },
+            "properties": {
+                "ref:rspo": 81214,
+                "official_name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny Gminne Przedszkole w Lisewie",
+                "name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny Gminne Przedszkole w Lisewie",
+                "addr:country": "PL",
+                "addr:postcode": "86-230",
+                "addr:city": "Lisewo",
+                "addr:street": "ul. Toru\u0144ska",
+                "addr:housenumber": "15",
+                "addr:teryt:simc": 22902,
+                "addr:teryt:sym_ul": 846151,
+                "contact:phone": "+48 566767916",
+                "ref:regon": "340538704",
+                "ref:vatin": "PL8751307097",
+                "operator": "Gmina Lisewo",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 59162"
+            }
+        },
+        {
+            "id": 59013,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.61687,
+                    53.3123099
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 59013,
+                "official_name": "Szko\u0142a Podstawowa Im Marii Sk\u0142odowskiej- Curie w Krusinie",
+                "name": "Szko\u0142a Podstawowa Im Marii Sk\u0142odowskiej- Curie w Krusinie",
+                "addr:country": "PL",
+                "addr:postcode": "86-230",
+                "addr:place": "Krusin",
+                "addr:housenumber": "53",
+                "addr:teryt:sym_ul": 846122,
+                "contact:phone": "+48 566768022",
+                "contact:email": "dyrektor@spkrusin.pl",
+                "contact:website": "http:\/\/spkrusinedupage.org",
+                "ref:regon": "001212394",
+                "ref:vatin": "PL8751410085",
+                "operator": "Gmina Lisewo",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

@@ -1,1 +1,98 @@
-{"type":"FeatureCollection","features":[{"id":35338,"type":"Feature","geometry":{"type":"Point","coordinates":[21.41088,52.95317]},"properties":{"ref:rspo":35338,"official_name":"Publiczna Szko\u0142a Podstawowa \nZ Publicznym Przedszkolem w M\u0142ynarzach","name":"Publiczna Szko\u0142a Podstawowa \nZ Publicznym Przedszkolem w M\u0142ynarzach","addr:country":"PL","addr:postcode":"06-231","addr:city":"M\u0142ynarze","addr:street":"ul. Ostro\u0142\u0119cka","addr:housenumber":"24","addr:teryt:simc":15382,"addr:teryt:sym_ul":514727,"contact:phone":"+48 297680085","contact:email":"spmlyn0@poczta.onet.pl","contact:website":"http:\/\/spmlynarze.szkolnastrona.pl","ref:regon":"141559991","ref:vatin":"PL7571453589","operator":"Gmina M\u0142ynarze","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 50338;53775"}},{"id":50338,"type":"Feature","geometry":{"type":"Point","coordinates":[21.41088,52.95314]},"properties":{"isced:level":"1;2","ref:rspo":50338,"official_name":"Publiczna Szko\u0142a Podstawowa \nIm. Papie\u017ca Jana Paw\u0142a II \nW M\u0142ynarzach","name":"Publiczna Szko\u0142a Podstawowa \nIm. Papie\u017ca Jana Paw\u0142a II \nW M\u0142ynarzach","addr:country":"PL","addr:postcode":"06-231","addr:city":"M\u0142ynarze","addr:street":"ul. Ostro\u0142\u0119cka","addr:housenumber":"24","addr:teryt:simc":15382,"addr:teryt:sym_ul":514727,"contact:phone":"+48 297680085","contact:email":"spmlyn0@poczta.onet.pl","ref:regon":"001106545","operator":"Gmina M\u0142ynarze","operator:type":"government","amenity":"school","note":"Parent RSPO: 35338"}},{"id":53775,"type":"Feature","geometry":{"type":"Point","coordinates":[21.41088,52.95311]},"properties":{"ref:rspo":53775,"official_name":"Publiczne Przedszkole w M\u0142ynarzach","name":"Publiczne Przedszkole w M\u0142ynarzach","addr:country":"PL","addr:postcode":"06-231","addr:city":"M\u0142ynarze","addr:street":"ul. Ostro\u0142\u0119cka","addr:housenumber":"24","addr:teryt:simc":15382,"addr:teryt:sym_ul":514727,"contact:phone":"+48 297680085","ref:regon":"141671558","operator":"Gmina M\u0142ynarze","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 35338"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 35338,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.41088,
+                    52.95317
+                ]
+            },
+            "properties": {
+                "ref:rspo": 35338,
+                "official_name": "Publiczna Szko\u0142a Podstawowa \nZ Publicznym Przedszkolem w M\u0142ynarzach",
+                "name": "Publiczna Szko\u0142a Podstawowa \nZ Publicznym Przedszkolem w M\u0142ynarzach",
+                "addr:country": "PL",
+                "addr:postcode": "06-231",
+                "addr:city": "M\u0142ynarze",
+                "addr:street": "ul. Ostro\u0142\u0119cka",
+                "addr:housenumber": "24",
+                "addr:teryt:simc": 15382,
+                "addr:teryt:sym_ul": 514727,
+                "contact:phone": "+48 297680085",
+                "contact:email": "spmlyn0@poczta.onet.pl",
+                "contact:website": "http:\/\/spmlynarze.szkolnastrona.pl",
+                "ref:regon": "141559991",
+                "ref:vatin": "PL7571453589",
+                "operator": "Gmina M\u0142ynarze",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 50338;53775"
+            }
+        },
+        {
+            "id": 50338,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.41088,
+                    52.95314
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 50338,
+                "official_name": "Publiczna Szko\u0142a Podstawowa \nIm. Papie\u017ca Jana Paw\u0142a II \nW M\u0142ynarzach",
+                "name": "Publiczna Szko\u0142a Podstawowa \nIm. Papie\u017ca Jana Paw\u0142a II \nW M\u0142ynarzach",
+                "addr:country": "PL",
+                "addr:postcode": "06-231",
+                "addr:city": "M\u0142ynarze",
+                "addr:street": "ul. Ostro\u0142\u0119cka",
+                "addr:housenumber": "24",
+                "addr:teryt:simc": 15382,
+                "addr:teryt:sym_ul": 514727,
+                "contact:phone": "+48 297680085",
+                "contact:email": "spmlyn0@poczta.onet.pl",
+                "ref:regon": "001106545",
+                "operator": "Gmina M\u0142ynarze",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 35338"
+            }
+        },
+        {
+            "id": 53775,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.41088,
+                    52.95311
+                ]
+            },
+            "properties": {
+                "ref:rspo": 53775,
+                "official_name": "Publiczne Przedszkole w M\u0142ynarzach",
+                "name": "Publiczne Przedszkole w M\u0142ynarzach",
+                "addr:country": "PL",
+                "addr:postcode": "06-231",
+                "addr:city": "M\u0142ynarze",
+                "addr:street": "ul. Ostro\u0142\u0119cka",
+                "addr:housenumber": "24",
+                "addr:teryt:simc": 15382,
+                "addr:teryt:sym_ul": 514727,
+                "contact:phone": "+48 297680085",
+                "ref:regon": "141671558",
+                "operator": "Gmina M\u0142ynarze",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 35338"
+            }
+        }
+    ]
+}

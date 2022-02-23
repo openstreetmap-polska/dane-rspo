@@ -1,1 +1,126 @@
-{"type":"FeatureCollection","features":[{"id":55951,"type":"Feature","geometry":{"type":"Point","coordinates":[19.94981,52.3644]},"properties":{"ref:rspo":55951,"official_name":"Przedszkole Samorz\u0105dowe w S\u0142ubicach","name":"Przedszkole Samorz\u0105dowe w S\u0142ubicach","addr:country":"PL","addr:postcode":"09-533","addr:city":"S\u0142ubice","addr:street":"ul. P\u0142ocka","addr:housenumber":"30","addr:teryt:simc":16511,"addr:teryt:sym_ul":575568,"contact:phone":"+48 242778025","contact:email":"przedszkole.slubice2@op.pl","ref:regon":"000903713","ref:vatin":"PL7742694131","operator":"Gmina S\u0142ubice","operator:type":"government","amenity":"kindergarten"}},{"id":55954,"type":"Feature","geometry":{"type":"Point","coordinates":[19.94981,52.36437]},"properties":{"isced:level":"1;2","ref:rspo":55954,"official_name":"Szko\u0142a Podstawowa im. Ojca \u015awi\u0119tego Jana Paw\u0142a II w S\u0142ubicach","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"09-533","addr:city":"S\u0142ubice","addr:street":"ul. P\u0142ocka","addr:housenumber":"30","addr:teryt:simc":16511,"addr:teryt:sym_ul":575568,"contact:phone":"+48 242778074","contact:email":"spslubice@slubice.org.pl","ref:regon":"000705019","ref:vatin":"PL7742690854","operator":"Gmina S\u0142ubice","operator:type":"government","amenity":"school"}},{"id":55958,"type":"Feature","geometry":{"type":"Point","coordinates":[19.96473,52.40039]},"properties":{"isced:level":"1;2","ref:rspo":55958,"official_name":"Szko\u0142a Podstawowa im. W\u0142adys\u0142awa Jagie\u0142\u0142y w Piotrk\u00f3wku","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"09-533","addr:place":"Piotrk\u00f3wek","addr:housenumber":"75","addr:teryt:sym_ul":575491,"contact:phone":"+48 242778012","contact:email":"szkola_jagiello@op.pl","contact:website":"http:\/\/www.sppiotrkowek.slubice.org.pl","ref:regon":"001113440","ref:vatin":"PL7742690860","operator":"Gmina S\u0142ubice","operator:type":"government","amenity":"school"}},{"id":55956,"type":"Feature","geometry":{"type":"Point","coordinates":[19.9016723,52.4374991]},"properties":{"isced:level":"1;2","ref:rspo":55956,"official_name":"Szko\u0142a Podstawowa w \u015awiniarach","name":"Szko\u0142a Podstawowa w \u015awiniarach","addr:country":"PL","addr:postcode":"09-533","addr:place":"\u015awiniary","addr:housenumber":"4","addr:teryt:sym_ul":575574,"contact:phone":"+48 242772908","contact:email":"szkola_swiniary@poczta.onet.pl","contact:website":"http:\/\/www.spswiniary.slubice.org.pl","ref:regon":"001113433","ref:vatin":"PL7742690877","operator":"Gmina S\u0142ubice","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 55951,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.94981,
+                    52.3644
+                ]
+            },
+            "properties": {
+                "ref:rspo": 55951,
+                "official_name": "Przedszkole Samorz\u0105dowe w S\u0142ubicach",
+                "name": "Przedszkole Samorz\u0105dowe w S\u0142ubicach",
+                "addr:country": "PL",
+                "addr:postcode": "09-533",
+                "addr:city": "S\u0142ubice",
+                "addr:street": "ul. P\u0142ocka",
+                "addr:housenumber": "30",
+                "addr:teryt:simc": 16511,
+                "addr:teryt:sym_ul": 575568,
+                "contact:phone": "+48 242778025",
+                "contact:email": "przedszkole.slubice2@op.pl",
+                "ref:regon": "000903713",
+                "ref:vatin": "PL7742694131",
+                "operator": "Gmina S\u0142ubice",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 55954,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.94981,
+                    52.36437
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 55954,
+                "official_name": "Szko\u0142a Podstawowa im. Ojca \u015awi\u0119tego Jana Paw\u0142a II w S\u0142ubicach",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "09-533",
+                "addr:city": "S\u0142ubice",
+                "addr:street": "ul. P\u0142ocka",
+                "addr:housenumber": "30",
+                "addr:teryt:simc": 16511,
+                "addr:teryt:sym_ul": 575568,
+                "contact:phone": "+48 242778074",
+                "contact:email": "spslubice@slubice.org.pl",
+                "ref:regon": "000705019",
+                "ref:vatin": "PL7742690854",
+                "operator": "Gmina S\u0142ubice",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 55958,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.96473,
+                    52.40039
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 55958,
+                "official_name": "Szko\u0142a Podstawowa im. W\u0142adys\u0142awa Jagie\u0142\u0142y w Piotrk\u00f3wku",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "09-533",
+                "addr:place": "Piotrk\u00f3wek",
+                "addr:housenumber": "75",
+                "addr:teryt:sym_ul": 575491,
+                "contact:phone": "+48 242778012",
+                "contact:email": "szkola_jagiello@op.pl",
+                "contact:website": "http:\/\/www.sppiotrkowek.slubice.org.pl",
+                "ref:regon": "001113440",
+                "ref:vatin": "PL7742690860",
+                "operator": "Gmina S\u0142ubice",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 55956,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.9016723,
+                    52.4374991
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 55956,
+                "official_name": "Szko\u0142a Podstawowa w \u015awiniarach",
+                "name": "Szko\u0142a Podstawowa w \u015awiniarach",
+                "addr:country": "PL",
+                "addr:postcode": "09-533",
+                "addr:place": "\u015awiniary",
+                "addr:housenumber": "4",
+                "addr:teryt:sym_ul": 575574,
+                "contact:phone": "+48 242772908",
+                "contact:email": "szkola_swiniary@poczta.onet.pl",
+                "contact:website": "http:\/\/www.spswiniary.slubice.org.pl",
+                "ref:regon": "001113433",
+                "ref:vatin": "PL7742690877",
+                "operator": "Gmina S\u0142ubice",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

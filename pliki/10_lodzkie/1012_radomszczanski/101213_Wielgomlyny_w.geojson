@@ -1,1 +1,99 @@
-{"type":"FeatureCollection","features":[{"id":58986,"type":"Feature","geometry":{"type":"Point","coordinates":[19.8329,50.9887]},"properties":{"isced:level":"1;2","ref:rspo":58986,"official_name":"Publiczna Szko\u0142a Podstawowa im. Jaros\u0142awa D\u0105browskiego w Krz\u0119towie","name":"Publiczna Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"97-525","addr:city":"Krz\u0119t\u00f3w","addr:street":"ul. Stodolna","addr:housenumber":"22","addr:teryt:simc":21193,"addr:teryt:sym_ul":554916,"contact:phone":"+48 447871904","contact:email":"pspkrzetow@op.pl","contact:website":"http:\/\/www.pspkrzetow.superszkolna.pl","ref:regon":"001159955","ref:vatin":"PL7722120208","operator":"Gmina Wielgom\u0142yny","operator:type":"government","amenity":"school"}},{"id":60142,"type":"Feature","geometry":{"type":"Point","coordinates":[19.75954,51.01187]},"properties":{"isced:level":"1;2","ref:rspo":60142,"official_name":"Publiczna Szko\u0142a Podstawowa w Wielgom\u0142ynach","name":"Publiczna Szko\u0142a Podstawowa w Wielgom\u0142ynach","addr:country":"PL","addr:postcode":"97-525","addr:city":"Wielgom\u0142yny","addr:street":"ul. Radomszcza\u0144ska","addr:housenumber":"9","addr:teryt:simc":18317,"addr:teryt:sym_ul":555086,"contact:phone":"+48 447871013","contact:email":"pspwielgomlyny@poczta.onet.pl","contact:website":"http:\/\/www.pspwielgomlyny.superszkolna.pl","ref:regon":"000756459","ref:vatin":"PL7721526865","operator":"Gmina Wielgom\u0142yny","operator:type":"government","amenity":"school"}},{"id":58988,"type":"Feature","geometry":{"type":"Point","coordinates":[19.74911,51.04201]},"properties":{"isced:level":"1;2","ref:rspo":58988,"official_name":"Publiczna Szko\u0142a Podstawowa w Zag\u00f3rzu","name":"Publiczna Szko\u0142a Podstawowa w Zag\u00f3rzu","addr:country":"PL","addr:postcode":"97-525","addr:place":"Zag\u00f3rze","addr:housenumber":"30","addr:teryt:sym_ul":555235,"contact:phone":"+48 447871076","contact:email":"pspz1@poczta.onet.pl","contact:website":"http:\/\/www.pspzagorze.superszkolna.pl","ref:regon":"001159961","ref:vatin":"PL7722120183","operator":"Gmina Wielgom\u0142yny","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 58986,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8329,
+                    50.9887
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 58986,
+                "official_name": "Publiczna Szko\u0142a Podstawowa im. Jaros\u0142awa D\u0105browskiego w Krz\u0119towie",
+                "name": "Publiczna Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "97-525",
+                "addr:city": "Krz\u0119t\u00f3w",
+                "addr:street": "ul. Stodolna",
+                "addr:housenumber": "22",
+                "addr:teryt:simc": 21193,
+                "addr:teryt:sym_ul": 554916,
+                "contact:phone": "+48 447871904",
+                "contact:email": "pspkrzetow@op.pl",
+                "contact:website": "http:\/\/www.pspkrzetow.superszkolna.pl",
+                "ref:regon": "001159955",
+                "ref:vatin": "PL7722120208",
+                "operator": "Gmina Wielgom\u0142yny",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 60142,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.75954,
+                    51.01187
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 60142,
+                "official_name": "Publiczna Szko\u0142a Podstawowa w Wielgom\u0142ynach",
+                "name": "Publiczna Szko\u0142a Podstawowa w Wielgom\u0142ynach",
+                "addr:country": "PL",
+                "addr:postcode": "97-525",
+                "addr:city": "Wielgom\u0142yny",
+                "addr:street": "ul. Radomszcza\u0144ska",
+                "addr:housenumber": "9",
+                "addr:teryt:simc": 18317,
+                "addr:teryt:sym_ul": 555086,
+                "contact:phone": "+48 447871013",
+                "contact:email": "pspwielgomlyny@poczta.onet.pl",
+                "contact:website": "http:\/\/www.pspwielgomlyny.superszkolna.pl",
+                "ref:regon": "000756459",
+                "ref:vatin": "PL7721526865",
+                "operator": "Gmina Wielgom\u0142yny",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 58988,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.74911,
+                    51.04201
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 58988,
+                "official_name": "Publiczna Szko\u0142a Podstawowa w Zag\u00f3rzu",
+                "name": "Publiczna Szko\u0142a Podstawowa w Zag\u00f3rzu",
+                "addr:country": "PL",
+                "addr:postcode": "97-525",
+                "addr:place": "Zag\u00f3rze",
+                "addr:housenumber": "30",
+                "addr:teryt:sym_ul": 555235,
+                "contact:phone": "+48 447871076",
+                "contact:email": "pspz1@poczta.onet.pl",
+                "contact:website": "http:\/\/www.pspzagorze.superszkolna.pl",
+                "ref:regon": "001159961",
+                "ref:vatin": "PL7722120183",
+                "operator": "Gmina Wielgom\u0142yny",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

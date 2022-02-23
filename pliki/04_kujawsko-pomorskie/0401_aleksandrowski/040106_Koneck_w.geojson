@@ -1,1 +1,214 @@
-{"type":"FeatureCollection","features":[{"id":86316,"type":"Feature","geometry":{"type":"Point","coordinates":[18.76382,52.78343]},"properties":{"isced:level":"1;2","ref:rspo":86316,"official_name":"Szko\u0142a Podstawowa w \u015awi\u0119tem","name":"Szko\u0142a Podstawowa w \u015awi\u0119tem","addr:country":"PL","addr:postcode":"87-702","addr:place":"\u015awi\u0119te","addr:housenumber":"1","addr:teryt:sym_ul":863907,"contact:email":"sp_swiete@wp.pl","contact:website":"http:\/\/spswiete.edupage.org","ref:regon":"341353148","ref:vatin":"PL8911492578","operator":"Stowarzyszenie Kulturalno-O\u015bwiatowe Na Rzecz Rozwoju Wsi \u015awi\u0119te I Okolic","operator:type":"ngo","amenity":"school"}},{"id":119764,"type":"Feature","geometry":{"type":"Point","coordinates":[18.76382,52.7834]},"properties":{"ref:rspo":119764,"official_name":"Bajkowy Zak\u0105tek","name":"Bajkowy Zak\u0105tek","addr:country":"PL","addr:postcode":"87-702","addr:place":"\u015awi\u0119te","addr:housenumber":"1","addr:teryt:sym_ul":863907,"contact:website":"http:\/\/spswiete.edupage.org","ref:regon":"341477301","operator":"Stowarzyszenie Kulturalno-O\u015bwiatowe Na Rzecz Rozwoju Wsi \u015awi\u0119te I Okolic","operator:type":"ngo","amenity":"kindergarten"}},{"id":89330,"type":"Feature","geometry":{"type":"Point","coordinates":[18.71579,52.78466]},"properties":{"ref:rspo":89330,"official_name":"Zesp\u00f3L Szk\u00f3L im. Prymasa Tysi\u0105clecia Kardyna\u0142a Stefana Wyszy\u0144skiego w Konecku","name":"Zesp\u00f3L Szk\u00f3L","addr:country":"PL","addr:postcode":"87-702","addr:city":"Koneck","addr:street":"ul. W\u0142odzimierza Luba\u0144skiego","addr:housenumber":"15","addr:teryt:simc":55523,"addr:teryt:sym_ul":863793,"contact:phone":"+48 542722019","contact:email":"zs.koneck@gmail.com","contact:website":"http:\/\/zs-koneck.edupage.org","ref:regon":"911257662","operator":"Gmina Koneck","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 91660;91661"}},{"id":274648,"type":"Feature","geometry":{"type":"Point","coordinates":[18.71579,52.78463]},"properties":{"ref:rspo":274648,"official_name":"Publiczna Szko\u0142a Muzyczna I Stopnia w Konecku","name":"Publiczna Szko\u0142a Muzyczna I Stopnia w Konecku","addr:country":"PL","addr:postcode":"87-702","addr:city":"Koneck","addr:street":"ul. W\u0142odzimierza Luba\u0144skiego","addr:housenumber":"15","addr:teryt:simc":55523,"addr:teryt:sym_ul":863793,"contact:phone":"+48 531462118","contact:email":"psm@koneck.eu","contact:website":"http:\/\/www.psmkoneck.pl","ref:regon":"386136714","operator":"Gmina Koneck","operator:type":"government","amenity":"music_school"}},{"id":91660,"type":"Feature","geometry":{"type":"Point","coordinates":[18.71579,52.784600000000005]},"properties":{"isced:level":"1;2","ref:rspo":91660,"official_name":"Publiczna Szko\u0142a Podstawowa im. Prymasa Tysi\u0105clecia Kardyna\u0142a Stefana Wyszy\u0144skiego w Konecku","name":"Publiczna Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"87-702","addr:city":"Koneck","addr:street":"ul. W\u0142odzimierza Luba\u0144skiego","addr:housenumber":"15","addr:teryt:simc":55523,"addr:teryt:sym_ul":863793,"contact:phone":"+48 542722019","contact:email":"zs.koneck@gmail.com","contact:website":"http:\/\/zs-koneck.cba.pl","ref:regon":"000597363","ref:vatin":"PL8911387781","operator":"Gmina Koneck","operator:type":"government","amenity":"school","note":"Parent RSPO: 89330"}},{"id":91661,"type":"Feature","geometry":{"type":"Point","coordinates":[18.71579,52.78457]},"properties":{"ref:rspo":91661,"official_name":"Przedszkole w Konecku","name":"Przedszkole w Konecku","addr:country":"PL","addr:postcode":"87-702","addr:city":"Koneck","addr:street":"ul. W\u0142odzimierza Luba\u0144skiego","addr:housenumber":"15","addr:teryt:simc":55523,"addr:teryt:sym_ul":863793,"contact:phone":"+48 542722019","ref:regon":"911257685","ref:vatin":"PL8911493572","operator":"Gmina Koneck","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 89330"}},{"id":7232,"type":"Feature","geometry":{"type":"Point","coordinates":[18.6505,52.79552]},"properties":{"isced:level":"1;2","ref:rspo":7232,"official_name":"Szko\u0142a Podstawowa w Straszewie","name":"Szko\u0142a Podstawowa w Straszewie","addr:country":"PL","addr:postcode":"87-702","addr:place":"Straszewo","addr:housenumber":"17","addr:teryt:sym_ul":863882,"contact:phone":"+48 542722270","contact:email":"sp.straszewo@onet.pl","contact:website":"http:\/\/www.spstraszewo.szkolna.net","ref:regon":"341321007","operator":"Stowarzyszenie \"Jeste\u015bmy Razem\"","operator:type":"ngo","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 86316,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.76382,
+                    52.78343
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 86316,
+                "official_name": "Szko\u0142a Podstawowa w \u015awi\u0119tem",
+                "name": "Szko\u0142a Podstawowa w \u015awi\u0119tem",
+                "addr:country": "PL",
+                "addr:postcode": "87-702",
+                "addr:place": "\u015awi\u0119te",
+                "addr:housenumber": "1",
+                "addr:teryt:sym_ul": 863907,
+                "contact:email": "sp_swiete@wp.pl",
+                "contact:website": "http:\/\/spswiete.edupage.org",
+                "ref:regon": "341353148",
+                "ref:vatin": "PL8911492578",
+                "operator": "Stowarzyszenie Kulturalno-O\u015bwiatowe Na Rzecz Rozwoju Wsi \u015awi\u0119te I Okolic",
+                "operator:type": "ngo",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 119764,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.76382,
+                    52.7834
+                ]
+            },
+            "properties": {
+                "ref:rspo": 119764,
+                "official_name": "Bajkowy Zak\u0105tek",
+                "name": "Bajkowy Zak\u0105tek",
+                "addr:country": "PL",
+                "addr:postcode": "87-702",
+                "addr:place": "\u015awi\u0119te",
+                "addr:housenumber": "1",
+                "addr:teryt:sym_ul": 863907,
+                "contact:website": "http:\/\/spswiete.edupage.org",
+                "ref:regon": "341477301",
+                "operator": "Stowarzyszenie Kulturalno-O\u015bwiatowe Na Rzecz Rozwoju Wsi \u015awi\u0119te I Okolic",
+                "operator:type": "ngo",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 89330,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.71579,
+                    52.78466
+                ]
+            },
+            "properties": {
+                "ref:rspo": 89330,
+                "official_name": "Zesp\u00f3L Szk\u00f3L im. Prymasa Tysi\u0105clecia Kardyna\u0142a Stefana Wyszy\u0144skiego w Konecku",
+                "name": "Zesp\u00f3L Szk\u00f3L",
+                "addr:country": "PL",
+                "addr:postcode": "87-702",
+                "addr:city": "Koneck",
+                "addr:street": "ul. W\u0142odzimierza Luba\u0144skiego",
+                "addr:housenumber": "15",
+                "addr:teryt:simc": 55523,
+                "addr:teryt:sym_ul": 863793,
+                "contact:phone": "+48 542722019",
+                "contact:email": "zs.koneck@gmail.com",
+                "contact:website": "http:\/\/zs-koneck.edupage.org",
+                "ref:regon": "911257662",
+                "operator": "Gmina Koneck",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 91660;91661"
+            }
+        },
+        {
+            "id": 274648,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.71579,
+                    52.78463
+                ]
+            },
+            "properties": {
+                "ref:rspo": 274648,
+                "official_name": "Publiczna Szko\u0142a Muzyczna I Stopnia w Konecku",
+                "name": "Publiczna Szko\u0142a Muzyczna I Stopnia w Konecku",
+                "addr:country": "PL",
+                "addr:postcode": "87-702",
+                "addr:city": "Koneck",
+                "addr:street": "ul. W\u0142odzimierza Luba\u0144skiego",
+                "addr:housenumber": "15",
+                "addr:teryt:simc": 55523,
+                "addr:teryt:sym_ul": 863793,
+                "contact:phone": "+48 531462118",
+                "contact:email": "psm@koneck.eu",
+                "contact:website": "http:\/\/www.psmkoneck.pl",
+                "ref:regon": "386136714",
+                "operator": "Gmina Koneck",
+                "operator:type": "government",
+                "amenity": "music_school"
+            }
+        },
+        {
+            "id": 91660,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.71579,
+                    52.784600000000005
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 91660,
+                "official_name": "Publiczna Szko\u0142a Podstawowa im. Prymasa Tysi\u0105clecia Kardyna\u0142a Stefana Wyszy\u0144skiego w Konecku",
+                "name": "Publiczna Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "87-702",
+                "addr:city": "Koneck",
+                "addr:street": "ul. W\u0142odzimierza Luba\u0144skiego",
+                "addr:housenumber": "15",
+                "addr:teryt:simc": 55523,
+                "addr:teryt:sym_ul": 863793,
+                "contact:phone": "+48 542722019",
+                "contact:email": "zs.koneck@gmail.com",
+                "contact:website": "http:\/\/zs-koneck.cba.pl",
+                "ref:regon": "000597363",
+                "ref:vatin": "PL8911387781",
+                "operator": "Gmina Koneck",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 89330"
+            }
+        },
+        {
+            "id": 91661,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.71579,
+                    52.78457
+                ]
+            },
+            "properties": {
+                "ref:rspo": 91661,
+                "official_name": "Przedszkole w Konecku",
+                "name": "Przedszkole w Konecku",
+                "addr:country": "PL",
+                "addr:postcode": "87-702",
+                "addr:city": "Koneck",
+                "addr:street": "ul. W\u0142odzimierza Luba\u0144skiego",
+                "addr:housenumber": "15",
+                "addr:teryt:simc": 55523,
+                "addr:teryt:sym_ul": 863793,
+                "contact:phone": "+48 542722019",
+                "ref:regon": "911257685",
+                "ref:vatin": "PL8911493572",
+                "operator": "Gmina Koneck",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 89330"
+            }
+        },
+        {
+            "id": 7232,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.6505,
+                    52.79552
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 7232,
+                "official_name": "Szko\u0142a Podstawowa w Straszewie",
+                "name": "Szko\u0142a Podstawowa w Straszewie",
+                "addr:country": "PL",
+                "addr:postcode": "87-702",
+                "addr:place": "Straszewo",
+                "addr:housenumber": "17",
+                "addr:teryt:sym_ul": 863882,
+                "contact:phone": "+48 542722270",
+                "contact:email": "sp.straszewo@onet.pl",
+                "contact:website": "http:\/\/www.spstraszewo.szkolna.net",
+                "ref:regon": "341321007",
+                "operator": "Stowarzyszenie \"Jeste\u015bmy Razem\"",
+                "operator:type": "ngo",
+                "amenity": "school"
+            }
+        }
+    ]
+}

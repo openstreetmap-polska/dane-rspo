@@ -1,1 +1,99 @@
-{"type":"FeatureCollection","features":[{"id":56032,"type":"Feature","geometry":{"type":"Point","coordinates":[21.81525,52.20799]},"properties":{"isced:level":"1;2","ref:rspo":56032,"official_name":"Szko\u0142a Podstawowa im.boles\u0142awa Prusa","name":"Szko\u0142a Podstawowa im.boles\u0142awa Prusa","addr:country":"PL","addr:postcode":"05-310","addr:city":"Ka\u0142uszyn","addr:street":"ul. Pocztowa","addr:housenumber":"4","addr:teryt:simc":16579,"addr:teryt:sym_ul":975380,"contact:phone":"+48 257576021","contact:email":"sekretariat@spkaluszyn.edu.pl","contact:website":"http:\/\/www.sp.kaluszyn.pl","ref:regon":"000556022","ref:vatin":"PL8221945364","operator":"Gmina Ka\u0142uszyn","operator:type":"government","amenity":"school","note":"Children RSPO: 109395"}},{"id":72604,"type":"Feature","geometry":{"type":"Point","coordinates":[21.81441,52.20849]},"properties":{"ref:rspo":72604,"official_name":"Przedszkole Publiczne","name":"Przedszkole Publiczne","addr:country":"PL","addr:postcode":"05-310","addr:city":"Ka\u0142uszyn","addr:street":"ul. Pocztowa","addr:housenumber":"2","addr:teryt:simc":16579,"addr:teryt:sym_ul":975380,"contact:phone":"+48 257576606","contact:email":"przedszkolekaluszyn3@interia.pl","contact:website":"http:\/\/www.przedszkole.kaluszyn.pl","ref:regon":"142650400","ref:vatin":"PL8222325250","operator":"Gmina Ka\u0142uszyn","operator:type":"government","amenity":"kindergarten"}},{"id":109395,"type":"Feature","geometry":{"type":"Point","coordinates":[21.7866399,52.23961]},"properties":{"isced:level":"1;2","ref:rspo":109395,"official_name":"Szko\u0142a Filialna w Chro\u015bcicach","name":"Szko\u0142a Filialna w Chro\u015bcicach","addr:country":"PL","addr:postcode":"05-310","addr:place":"Chro\u015bcice","addr:housenumber":"2A","addr:teryt:sym_ul":673756,"contact:phone":"+48 257576184","contact:email":"fsp.chroscice@wp.pl","contact:website":"http:\/\/www.sp.kaluszyn.pl","ref:regon":"556022000","operator":"Gmina Ka\u0142uszyn","operator:type":"government","amenity":"school","note":"Parent RSPO: 56032"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 56032,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.81525,
+                    52.20799
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 56032,
+                "official_name": "Szko\u0142a Podstawowa im.boles\u0142awa Prusa",
+                "name": "Szko\u0142a Podstawowa im.boles\u0142awa Prusa",
+                "addr:country": "PL",
+                "addr:postcode": "05-310",
+                "addr:city": "Ka\u0142uszyn",
+                "addr:street": "ul. Pocztowa",
+                "addr:housenumber": "4",
+                "addr:teryt:simc": 16579,
+                "addr:teryt:sym_ul": 975380,
+                "contact:phone": "+48 257576021",
+                "contact:email": "sekretariat@spkaluszyn.edu.pl",
+                "contact:website": "http:\/\/www.sp.kaluszyn.pl",
+                "ref:regon": "000556022",
+                "ref:vatin": "PL8221945364",
+                "operator": "Gmina Ka\u0142uszyn",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Children RSPO: 109395"
+            }
+        },
+        {
+            "id": 72604,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.81441,
+                    52.20849
+                ]
+            },
+            "properties": {
+                "ref:rspo": 72604,
+                "official_name": "Przedszkole Publiczne",
+                "name": "Przedszkole Publiczne",
+                "addr:country": "PL",
+                "addr:postcode": "05-310",
+                "addr:city": "Ka\u0142uszyn",
+                "addr:street": "ul. Pocztowa",
+                "addr:housenumber": "2",
+                "addr:teryt:simc": 16579,
+                "addr:teryt:sym_ul": 975380,
+                "contact:phone": "+48 257576606",
+                "contact:email": "przedszkolekaluszyn3@interia.pl",
+                "contact:website": "http:\/\/www.przedszkole.kaluszyn.pl",
+                "ref:regon": "142650400",
+                "ref:vatin": "PL8222325250",
+                "operator": "Gmina Ka\u0142uszyn",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 109395,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.7866399,
+                    52.23961
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 109395,
+                "official_name": "Szko\u0142a Filialna w Chro\u015bcicach",
+                "name": "Szko\u0142a Filialna w Chro\u015bcicach",
+                "addr:country": "PL",
+                "addr:postcode": "05-310",
+                "addr:place": "Chro\u015bcice",
+                "addr:housenumber": "2A",
+                "addr:teryt:sym_ul": 673756,
+                "contact:phone": "+48 257576184",
+                "contact:email": "fsp.chroscice@wp.pl",
+                "contact:website": "http:\/\/www.sp.kaluszyn.pl",
+                "ref:regon": "556022000",
+                "operator": "Gmina Ka\u0142uszyn",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 56032"
+            }
+        }
+    ]
+}

@@ -1,1 +1,67 @@
-{"type":"FeatureCollection","features":[{"id":53290,"type":"Feature","geometry":{"type":"Point","coordinates":[23.32505,52.57486]},"properties":{"ref:rspo":53290,"official_name":"Przedszkole w Kleszczelach","name":"Przedszkole w Kleszczelach","addr:country":"PL","addr:postcode":"17-250","addr:city":"Kleszczele","addr:street":"pl. Parkowy","addr:housenumber":"4","addr:teryt:simc":15712,"addr:teryt:sym_ul":31727,"contact:phone":"+48 856818203","contact:email":"pwk@um.kleszczele.wrotapodlasia.pl","ref:regon":"200409496","ref:vatin":"PL6030071427","operator":"Gmina Kleszczele","operator:type":"government","amenity":"kindergarten"}},{"id":58802,"type":"Feature","geometry":{"type":"Point","coordinates":[23.32505,52.57483]},"properties":{"isced:level":"1;2","ref:rspo":58802,"official_name":"Szko\u0142a Podstawowa w Kleszczelach","name":"Szko\u0142a Podstawowa w Kleszczelach","addr:country":"PL","addr:postcode":"17-250","addr:city":"Kleszczele","addr:street":"pl. Parkowy","addr:housenumber":"4","addr:teryt:simc":15712,"addr:teryt:sym_ul":31727,"contact:phone":"+48 856818116","contact:email":"kleszczele@fr.pl","contact:website":"http:\/\/www.kleszczele.fr.pl\/","ref:regon":"000563157","ref:vatin":"PL5432043177","operator":"Gmina Kleszczele","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 53290,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.32505,
+                    52.57486
+                ]
+            },
+            "properties": {
+                "ref:rspo": 53290,
+                "official_name": "Przedszkole w Kleszczelach",
+                "name": "Przedszkole w Kleszczelach",
+                "addr:country": "PL",
+                "addr:postcode": "17-250",
+                "addr:city": "Kleszczele",
+                "addr:street": "pl. Parkowy",
+                "addr:housenumber": "4",
+                "addr:teryt:simc": 15712,
+                "addr:teryt:sym_ul": 31727,
+                "contact:phone": "+48 856818203",
+                "contact:email": "pwk@um.kleszczele.wrotapodlasia.pl",
+                "ref:regon": "200409496",
+                "ref:vatin": "PL6030071427",
+                "operator": "Gmina Kleszczele",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 58802,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.32505,
+                    52.57483
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 58802,
+                "official_name": "Szko\u0142a Podstawowa w Kleszczelach",
+                "name": "Szko\u0142a Podstawowa w Kleszczelach",
+                "addr:country": "PL",
+                "addr:postcode": "17-250",
+                "addr:city": "Kleszczele",
+                "addr:street": "pl. Parkowy",
+                "addr:housenumber": "4",
+                "addr:teryt:simc": 15712,
+                "addr:teryt:sym_ul": 31727,
+                "contact:phone": "+48 856818116",
+                "contact:email": "kleszczele@fr.pl",
+                "contact:website": "http:\/\/www.kleszczele.fr.pl\/",
+                "ref:regon": "000563157",
+                "ref:vatin": "PL5432043177",
+                "operator": "Gmina Kleszczele",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

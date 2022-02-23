@@ -1,1 +1,151 @@
-{"type":"FeatureCollection","features":[{"id":6144,"type":"Feature","geometry":{"type":"Point","coordinates":[15.48304,53.6151399]},"properties":{"ref:rspo":6144,"official_name":"Niepubliczna Szko\u0142a Specjalna Przysposabiaj\u0105ca Do Pracy","name":"Niepubliczna Szko\u0142a Specjalna Przysposabiaj\u0105ca Do Pracy","addr:country":"PL","addr:postcode":"72-314","addr:place":"Siedlice","addr:housenumber":"16a","addr:teryt:sym_ul":782296,"contact:phone":"+48 915777144","contact:email":"sonira@sonira.pl","contact:website":"https:\/\/zsnradowowielkie.szkolnastrona.pl\/spdp\/","ref:regon":"321267252","ref:vatin":"PL2530333124","operator":"Stowarzyszenie Na Rzecz Os\u00f3b Z Niepe\u0142nosprawno\u015bci\u0105 Intelektualn\u0105, Ruchow\u0105 I Z Autyzmem W Resku","operator:type":"ngo","amenity":"school"}},{"id":71943,"type":"Feature","geometry":{"type":"Point","coordinates":[15.45192,53.66274]},"properties":{"isced:level":"1;2","ref:rspo":71943,"official_name":"Szko\u0142a Podstawowa im. Kornela Makuszy\u0144skiego w Radowie Ma\u0142ym","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"72-314","addr:place":"Radowo Ma\u0142e","addr:housenumber":"36","addr:teryt:sym_ul":782215,"contact:phone":"+48 913972291","contact:email":"radgim@poczta.onet.pl","contact:website":"http:\/\/www.zsp-radowo-male.eu","ref:regon":"000595803","ref:vatin":"PL2530123898","operator":"Gmina Radowo Ma\u0142e","operator:type":"government","amenity":"school"}},{"id":6693,"type":"Feature","geometry":{"type":"Point","coordinates":[15.41356,53.68614]},"properties":{"isced:level":"1;2","ref:rspo":6693,"official_name":"Niepubliczna Szko\u0142a Podstawowa Specjalna Nr 1 w Radowie Wielkim","name":"Niepubliczna Szko\u0142a Podstawowa Specjalna Nr 1 w Radowie Wielkim","addr:country":"PL","addr:postcode":"72-314","addr:place":"Radowo Wielkie","addr:housenumber":"11","addr:teryt:sym_ul":782244,"contact:phone":"+48 915777144","contact:email":"sonira@sonira.pl","contact:website":"https:\/\/zsnradowowielkie.szkolnastrona.pl\/sp\/","ref:regon":"321268576","ref:vatin":"PL2530314428","operator":"Aleksandra Klimaszewska","operator:type":"private","amenity":"school"}},{"id":26498,"type":"Feature","geometry":{"type":"Point","coordinates":[15.41356,53.68611]},"properties":{"ref:rspo":26498,"official_name":"O\u015brodek Rehabilitacyjno-Edukacyjno-Wychowawczy","name":"O\u015brodek Rehabilitacyjno-Edukacyjno-Wychowawczy","addr:country":"PL","addr:postcode":"72-314","addr:place":"Radowo Wielkie","addr:housenumber":"11","addr:teryt:sym_ul":782244,"contact:phone":"+48 915777144","contact:email":"sonira@sonira.pl","contact:website":"https:\/\/zsnradowowielkie.szkolnastrona.pl\/orew\/","ref:regon":"321283854","ref:vatin":"PL2530314434","operator":"Aleksandra Klimaszewska","operator:type":"private","amenity":"school"}},{"id":130013,"type":"Feature","geometry":{"type":"Point","coordinates":[15.41356,53.686080000000004]},"properties":{"ref:rspo":130013,"official_name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 Niepublicznych w Radowie Wielkim","name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 Niepublicznych w Radowie Wielkim","addr:country":"PL","addr:postcode":"72-314","addr:place":"Radowo Wielkie","addr:housenumber":"11","addr:teryt:sym_ul":782244,"contact:phone":"+48 915777144","ref:regon":"363392272","ref:vatin":"PL2530314440","operator":"Aleksandra Klimaszewska","operator:type":"private","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education."}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 6144,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.48304,
+                    53.6151399
+                ]
+            },
+            "properties": {
+                "ref:rspo": 6144,
+                "official_name": "Niepubliczna Szko\u0142a Specjalna Przysposabiaj\u0105ca Do Pracy",
+                "name": "Niepubliczna Szko\u0142a Specjalna Przysposabiaj\u0105ca Do Pracy",
+                "addr:country": "PL",
+                "addr:postcode": "72-314",
+                "addr:place": "Siedlice",
+                "addr:housenumber": "16a",
+                "addr:teryt:sym_ul": 782296,
+                "contact:phone": "+48 915777144",
+                "contact:email": "sonira@sonira.pl",
+                "contact:website": "https:\/\/zsnradowowielkie.szkolnastrona.pl\/spdp\/",
+                "ref:regon": "321267252",
+                "ref:vatin": "PL2530333124",
+                "operator": "Stowarzyszenie Na Rzecz Os\u00f3b Z Niepe\u0142nosprawno\u015bci\u0105 Intelektualn\u0105, Ruchow\u0105 I Z Autyzmem W Resku",
+                "operator:type": "ngo",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 71943,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.45192,
+                    53.66274
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 71943,
+                "official_name": "Szko\u0142a Podstawowa im. Kornela Makuszy\u0144skiego w Radowie Ma\u0142ym",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "72-314",
+                "addr:place": "Radowo Ma\u0142e",
+                "addr:housenumber": "36",
+                "addr:teryt:sym_ul": 782215,
+                "contact:phone": "+48 913972291",
+                "contact:email": "radgim@poczta.onet.pl",
+                "contact:website": "http:\/\/www.zsp-radowo-male.eu",
+                "ref:regon": "000595803",
+                "ref:vatin": "PL2530123898",
+                "operator": "Gmina Radowo Ma\u0142e",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 6693,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.41356,
+                    53.68614
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 6693,
+                "official_name": "Niepubliczna Szko\u0142a Podstawowa Specjalna Nr 1 w Radowie Wielkim",
+                "name": "Niepubliczna Szko\u0142a Podstawowa Specjalna Nr 1 w Radowie Wielkim",
+                "addr:country": "PL",
+                "addr:postcode": "72-314",
+                "addr:place": "Radowo Wielkie",
+                "addr:housenumber": "11",
+                "addr:teryt:sym_ul": 782244,
+                "contact:phone": "+48 915777144",
+                "contact:email": "sonira@sonira.pl",
+                "contact:website": "https:\/\/zsnradowowielkie.szkolnastrona.pl\/sp\/",
+                "ref:regon": "321268576",
+                "ref:vatin": "PL2530314428",
+                "operator": "Aleksandra Klimaszewska",
+                "operator:type": "private",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 26498,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.41356,
+                    53.68611
+                ]
+            },
+            "properties": {
+                "ref:rspo": 26498,
+                "official_name": "O\u015brodek Rehabilitacyjno-Edukacyjno-Wychowawczy",
+                "name": "O\u015brodek Rehabilitacyjno-Edukacyjno-Wychowawczy",
+                "addr:country": "PL",
+                "addr:postcode": "72-314",
+                "addr:place": "Radowo Wielkie",
+                "addr:housenumber": "11",
+                "addr:teryt:sym_ul": 782244,
+                "contact:phone": "+48 915777144",
+                "contact:email": "sonira@sonira.pl",
+                "contact:website": "https:\/\/zsnradowowielkie.szkolnastrona.pl\/orew\/",
+                "ref:regon": "321283854",
+                "ref:vatin": "PL2530314434",
+                "operator": "Aleksandra Klimaszewska",
+                "operator:type": "private",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 130013,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.41356,
+                    53.686080000000004
+                ]
+            },
+            "properties": {
+                "ref:rspo": 130013,
+                "official_name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Niepublicznych w Radowie Wielkim",
+                "name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Niepublicznych w Radowie Wielkim",
+                "addr:country": "PL",
+                "addr:postcode": "72-314",
+                "addr:place": "Radowo Wielkie",
+                "addr:housenumber": "11",
+                "addr:teryt:sym_ul": 782244,
+                "contact:phone": "+48 915777144",
+                "ref:regon": "363392272",
+                "ref:vatin": "PL2530314440",
+                "operator": "Aleksandra Klimaszewska",
+                "operator:type": "private",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education."
+            }
+        }
+    ]
+}

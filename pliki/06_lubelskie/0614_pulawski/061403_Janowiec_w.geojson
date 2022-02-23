@@ -1,1 +1,103 @@
-{"type":"FeatureCollection","features":[{"id":131397,"type":"Feature","geometry":{"type":"Point","coordinates":[21.88041,51.32754]},"properties":{"ref:rspo":131397,"official_name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 w Janowcu","name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 w Janowcu","addr:country":"PL","addr:postcode":"24-123","addr:city":"Janowiec","addr:street":"ul. Osiedle Szkolne","addr:housenumber":"5B","addr:teryt:simc":15287,"addr:teryt:sym_ul":381373,"contact:phone":"+48 818815212","contact:email":"spjanowiec@o2.pl","contact:website":"http:\/\/www.zsjanowiec.szkolnastrona.pl","ref:regon":"365157865","ref:vatin":"PL7162819171","operator":"Gmina Janowiec","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 121563;121571"}},{"id":121563,"type":"Feature","geometry":{"type":"Point","coordinates":[21.88041,51.32751]},"properties":{"isced:level":"1;2","ref:rspo":121563,"official_name":"Szko\u0142a Podstawowa w Janowcu im. Bohater\u00f3w 2 Dywizji Piechoty I Armii Wojska Polskiego","name":"Szko\u0142a Podstawowa w Janowcu","addr:country":"PL","addr:postcode":"24-123","addr:city":"Janowiec","addr:street":"ul. Osiedle Szkolne","addr:housenumber":"5b","addr:teryt:simc":15287,"addr:teryt:sym_ul":381373,"contact:phone":"+48 818815212","contact:email":"spjanowiec@o2.pl","contact:website":"http:\/\/www.zsjanowiec.szkolnastrona.pl","ref:regon":"000577366","ref:vatin":"PL7162427465","operator":"Gmina Janowiec","operator:type":"government","amenity":"school","note":"Parent RSPO: 131397"}},{"id":121571,"type":"Feature","geometry":{"type":"Point","coordinates":[21.88041,51.32748]},"properties":{"ref:rspo":121571,"official_name":"Przedszkole Samorz\u0105dowe w Janowcu","name":"Przedszkole Samorz\u0105dowe w Janowcu","addr:country":"PL","addr:postcode":"24-123","addr:city":"Janowiec","addr:street":"ul. Osiedle Szkolne","addr:housenumber":"5b","addr:teryt:simc":15287,"addr:teryt:sym_ul":381373,"contact:phone":"+48 818815212","contact:email":"spjanowiec@o2.pl","contact:website":"http:\/\/www.zsjanowiec.szkolnastrona.pl","ref:regon":"060703806","ref:vatin":"PL7162430668","operator":"Gmina Janowiec","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 131397"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 131397,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.88041,
+                    51.32754
+                ]
+            },
+            "properties": {
+                "ref:rspo": 131397,
+                "official_name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 w Janowcu",
+                "name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 w Janowcu",
+                "addr:country": "PL",
+                "addr:postcode": "24-123",
+                "addr:city": "Janowiec",
+                "addr:street": "ul. Osiedle Szkolne",
+                "addr:housenumber": "5B",
+                "addr:teryt:simc": 15287,
+                "addr:teryt:sym_ul": 381373,
+                "contact:phone": "+48 818815212",
+                "contact:email": "spjanowiec@o2.pl",
+                "contact:website": "http:\/\/www.zsjanowiec.szkolnastrona.pl",
+                "ref:regon": "365157865",
+                "ref:vatin": "PL7162819171",
+                "operator": "Gmina Janowiec",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 121563;121571"
+            }
+        },
+        {
+            "id": 121563,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.88041,
+                    51.32751
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 121563,
+                "official_name": "Szko\u0142a Podstawowa w Janowcu im. Bohater\u00f3w 2 Dywizji Piechoty I Armii Wojska Polskiego",
+                "name": "Szko\u0142a Podstawowa w Janowcu",
+                "addr:country": "PL",
+                "addr:postcode": "24-123",
+                "addr:city": "Janowiec",
+                "addr:street": "ul. Osiedle Szkolne",
+                "addr:housenumber": "5b",
+                "addr:teryt:simc": 15287,
+                "addr:teryt:sym_ul": 381373,
+                "contact:phone": "+48 818815212",
+                "contact:email": "spjanowiec@o2.pl",
+                "contact:website": "http:\/\/www.zsjanowiec.szkolnastrona.pl",
+                "ref:regon": "000577366",
+                "ref:vatin": "PL7162427465",
+                "operator": "Gmina Janowiec",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 131397"
+            }
+        },
+        {
+            "id": 121571,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.88041,
+                    51.32748
+                ]
+            },
+            "properties": {
+                "ref:rspo": 121571,
+                "official_name": "Przedszkole Samorz\u0105dowe w Janowcu",
+                "name": "Przedszkole Samorz\u0105dowe w Janowcu",
+                "addr:country": "PL",
+                "addr:postcode": "24-123",
+                "addr:city": "Janowiec",
+                "addr:street": "ul. Osiedle Szkolne",
+                "addr:housenumber": "5b",
+                "addr:teryt:simc": 15287,
+                "addr:teryt:sym_ul": 381373,
+                "contact:phone": "+48 818815212",
+                "contact:email": "spjanowiec@o2.pl",
+                "contact:website": "http:\/\/www.zsjanowiec.szkolnastrona.pl",
+                "ref:regon": "060703806",
+                "ref:vatin": "PL7162430668",
+                "operator": "Gmina Janowiec",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 131397"
+            }
+        }
+    ]
+}

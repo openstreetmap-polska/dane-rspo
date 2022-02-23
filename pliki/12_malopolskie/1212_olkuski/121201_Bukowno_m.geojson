@@ -1,1 +1,192 @@
-{"type":"FeatureCollection","features":[{"id":64944,"type":"Feature","geometry":{"type":"Point","coordinates":[19.4445799,50.26285]},"properties":{"ref:rspo":64944,"official_name":"Przedszkole Publiczne Si\u00f3str Prezentek w Bukownie","name":"Przedszkole Publiczne Si\u00f3str Prezentek w Bukownie","addr:country":"PL","addr:postcode":"32-332","addr:city":"Bukowno","addr:street":"ul. Tadeusza Ko\u015bciuszki","addr:housenumber":"57","addr:teryt:simc":9582,"addr:teryt:sym_ul":938404,"contact:phone":"+48 780164161","contact:email":"przedbukprezentki@op.pl","contact:website":"http:\/\/www.przedszkoleprezentek.bukowno.eprzedszkola.pl","ref:regon":"122699356","ref:vatin":"PL6371411290","operator":"Zgromadzenie Panien Ofiarowania Naj\u015bwi\u0119tszej Maryi Panny\/Pp.prezentki\/W Krakowie-Dom Zakonny","operator:type":"religious","amenity":"kindergarten"}},{"id":49975,"type":"Feature","geometry":{"type":"Point","coordinates":[19.45889,50.26549]},"properties":{"ref:rspo":49975,"official_name":"Miejskie Przedszkole w Bukownie","name":"Miejskie Przedszkole w Bukownie","addr:country":"PL","addr:postcode":"32-332","addr:city":"Bukowno","addr:street":"ul. Niepodleg\u0142o\u015bci","addr:housenumber":"11","addr:teryt:simc":14203,"addr:teryt:sym_ul":938404,"contact:phone":"+48 326422080","contact:email":"przedszkole@mpbukowno.pl","contact:website":"http:\/\/www.mpbukowno.pl","ref:regon":"272295823","ref:vatin":"PL6371819766","operator":"Gmina Bukowno","operator:type":"government","amenity":"kindergarten"}},{"id":61356,"type":"Feature","geometry":{"type":"Point","coordinates":[19.46606,50.26696]},"properties":{"isced:level":"1;2","ref:rspo":61356,"official_name":"Szko\u0142a Podstawowa Nr 1 im. 1000-Lecia Pa\u0144stwa Polskiego w Bukownie","name":"Szko\u0142a Podstawowa Nr 1","addr:country":"PL","addr:postcode":"32-332","addr:city":"Bukowno","addr:street":"ul. Szkolna","addr:housenumber":"8","addr:teryt:simc":21970,"addr:teryt:sym_ul":938404,"contact:phone":"+48 326421039","contact:email":"sp1bukowno@wp.pl","contact:website":"http:\/\/www.sp1bukowno.edupage.org","ref:regon":"001205804","ref:vatin":"PL6372104880","operator":"Gmina Bukowno","operator:type":"government","amenity":"school"}},{"id":268264,"type":"Feature","geometry":{"type":"Point","coordinates":[19.46834,50.2737399]},"properties":{"ref:rspo":268264,"official_name":"Przedszkole Terapeutyczne \"Smyka\u0142ka\" im. Aliny Ratusi\u0144skiej w Bukownie","name":"Przedszkole Terapeutyczne \"Smyka\u0142ka\"","addr:country":"PL","addr:postcode":"32-332","addr:city":"Bukowno","addr:street":"ul. Kolejowa","addr:housenumber":"30","addr:teryt:simc":8828,"addr:teryt:sym_ul":938404,"contact:email":"przedszkole@rsm.olkusz.pl","contact:website":"http:\/\/przedszkole.rsm.olkusz.pl","ref:regon":"381048833","ref:vatin":"PL6372011902","operator":"Stowarzyszenie Dobroczynne \"Res Sacra Miser\"","operator:type":"ngo","amenity":"kindergarten"}},{"id":275844,"type":"Feature","geometry":{"type":"Point","coordinates":[19.46834,50.2737099]},"properties":{"ref:rspo":275844,"official_name":"Niepubliczna Poradnia Psychologiczno-Pedagogiczna \"Na Ska\u0142ce\"","name":"Niepubliczna Poradnia Psychologiczno-Pedagogiczna \"Na Ska\u0142ce\"","addr:country":"PL","addr:postcode":"32-332","addr:city":"Bukowno","addr:street":"ul. Kolejowa","addr:housenumber":"30","addr:teryt:simc":8828,"addr:teryt:sym_ul":938404,"contact:email":"stowarzyszenie@rsm.olkusz.pl","contact:website":"http:\/\/rsm.olkusz.pl","ref:regon":"386941858","operator":"Stowarzyszenie Dobroczynne \"Res Sacra Miser\"","operator:type":"ngo","healthcare":"councelling","counselling_type":"education","fixme":"w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. healthcare=councelling + counselling_type=education albo healthcare=psychotherapist)"}},{"id":64943,"type":"Feature","geometry":{"type":"Point","coordinates":[19.4295352,50.2817682]},"properties":{"isced:level":"1;2","ref:rspo":64943,"official_name":"Szko\u0142a Podstawowa Nr 2 im. W\u0142adys\u0142awa Stanis\u0142awa Reymonta w Bukownie","name":"Szko\u0142a Podstawowa Nr 2","addr:country":"PL","addr:postcode":"32-332","addr:city":"Bukowno","addr:street":"ul. S\u0142awkowska","addr:housenumber":"133","addr:teryt:simc":20210,"addr:teryt:sym_ul":938404,"contact:phone":"+48 326421003","contact:email":"sp2bukowno@wp.pl","contact:website":"http:\/\/www.sp2bukowno.edupage.org","ref:regon":"001205827","ref:vatin":"PL6372008662","operator":"Gmina Bukowno","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 64944,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.4445799,
+                    50.26285
+                ]
+            },
+            "properties": {
+                "ref:rspo": 64944,
+                "official_name": "Przedszkole Publiczne Si\u00f3str Prezentek w Bukownie",
+                "name": "Przedszkole Publiczne Si\u00f3str Prezentek w Bukownie",
+                "addr:country": "PL",
+                "addr:postcode": "32-332",
+                "addr:city": "Bukowno",
+                "addr:street": "ul. Tadeusza Ko\u015bciuszki",
+                "addr:housenumber": "57",
+                "addr:teryt:simc": 9582,
+                "addr:teryt:sym_ul": 938404,
+                "contact:phone": "+48 780164161",
+                "contact:email": "przedbukprezentki@op.pl",
+                "contact:website": "http:\/\/www.przedszkoleprezentek.bukowno.eprzedszkola.pl",
+                "ref:regon": "122699356",
+                "ref:vatin": "PL6371411290",
+                "operator": "Zgromadzenie Panien Ofiarowania Naj\u015bwi\u0119tszej Maryi Panny\/Pp.prezentki\/W Krakowie-Dom Zakonny",
+                "operator:type": "religious",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 49975,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.45889,
+                    50.26549
+                ]
+            },
+            "properties": {
+                "ref:rspo": 49975,
+                "official_name": "Miejskie Przedszkole w Bukownie",
+                "name": "Miejskie Przedszkole w Bukownie",
+                "addr:country": "PL",
+                "addr:postcode": "32-332",
+                "addr:city": "Bukowno",
+                "addr:street": "ul. Niepodleg\u0142o\u015bci",
+                "addr:housenumber": "11",
+                "addr:teryt:simc": 14203,
+                "addr:teryt:sym_ul": 938404,
+                "contact:phone": "+48 326422080",
+                "contact:email": "przedszkole@mpbukowno.pl",
+                "contact:website": "http:\/\/www.mpbukowno.pl",
+                "ref:regon": "272295823",
+                "ref:vatin": "PL6371819766",
+                "operator": "Gmina Bukowno",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 61356,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.46606,
+                    50.26696
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 61356,
+                "official_name": "Szko\u0142a Podstawowa Nr 1 im. 1000-Lecia Pa\u0144stwa Polskiego w Bukownie",
+                "name": "Szko\u0142a Podstawowa Nr 1",
+                "addr:country": "PL",
+                "addr:postcode": "32-332",
+                "addr:city": "Bukowno",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "8",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 938404,
+                "contact:phone": "+48 326421039",
+                "contact:email": "sp1bukowno@wp.pl",
+                "contact:website": "http:\/\/www.sp1bukowno.edupage.org",
+                "ref:regon": "001205804",
+                "ref:vatin": "PL6372104880",
+                "operator": "Gmina Bukowno",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 268264,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.46834,
+                    50.2737399
+                ]
+            },
+            "properties": {
+                "ref:rspo": 268264,
+                "official_name": "Przedszkole Terapeutyczne \"Smyka\u0142ka\" im. Aliny Ratusi\u0144skiej w Bukownie",
+                "name": "Przedszkole Terapeutyczne \"Smyka\u0142ka\"",
+                "addr:country": "PL",
+                "addr:postcode": "32-332",
+                "addr:city": "Bukowno",
+                "addr:street": "ul. Kolejowa",
+                "addr:housenumber": "30",
+                "addr:teryt:simc": 8828,
+                "addr:teryt:sym_ul": 938404,
+                "contact:email": "przedszkole@rsm.olkusz.pl",
+                "contact:website": "http:\/\/przedszkole.rsm.olkusz.pl",
+                "ref:regon": "381048833",
+                "ref:vatin": "PL6372011902",
+                "operator": "Stowarzyszenie Dobroczynne \"Res Sacra Miser\"",
+                "operator:type": "ngo",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 275844,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.46834,
+                    50.2737099
+                ]
+            },
+            "properties": {
+                "ref:rspo": 275844,
+                "official_name": "Niepubliczna Poradnia Psychologiczno-Pedagogiczna \"Na Ska\u0142ce\"",
+                "name": "Niepubliczna Poradnia Psychologiczno-Pedagogiczna \"Na Ska\u0142ce\"",
+                "addr:country": "PL",
+                "addr:postcode": "32-332",
+                "addr:city": "Bukowno",
+                "addr:street": "ul. Kolejowa",
+                "addr:housenumber": "30",
+                "addr:teryt:simc": 8828,
+                "addr:teryt:sym_ul": 938404,
+                "contact:email": "stowarzyszenie@rsm.olkusz.pl",
+                "contact:website": "http:\/\/rsm.olkusz.pl",
+                "ref:regon": "386941858",
+                "operator": "Stowarzyszenie Dobroczynne \"Res Sacra Miser\"",
+                "operator:type": "ngo",
+                "healthcare": "counselling",
+                "counselling_type": "education",
+                "fixme": "w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. healthcare=counselling + counselling_type=education albo healthcare=psychotherapist)"
+            }
+        },
+        {
+            "id": 64943,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.4295352,
+                    50.2817682
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 64943,
+                "official_name": "Szko\u0142a Podstawowa Nr 2 im. W\u0142adys\u0142awa Stanis\u0142awa Reymonta w Bukownie",
+                "name": "Szko\u0142a Podstawowa Nr 2",
+                "addr:country": "PL",
+                "addr:postcode": "32-332",
+                "addr:city": "Bukowno",
+                "addr:street": "ul. S\u0142awkowska",
+                "addr:housenumber": "133",
+                "addr:teryt:simc": 20210,
+                "addr:teryt:sym_ul": 938404,
+                "contact:phone": "+48 326421003",
+                "contact:email": "sp2bukowno@wp.pl",
+                "contact:website": "http:\/\/www.sp2bukowno.edupage.org",
+                "ref:regon": "001205827",
+                "ref:vatin": "PL6372008662",
+                "operator": "Gmina Bukowno",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

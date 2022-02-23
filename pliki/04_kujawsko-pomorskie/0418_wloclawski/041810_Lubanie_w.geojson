@@ -1,1 +1,90 @@
-{"type":"FeatureCollection","features":[{"id":38925,"type":"Feature","geometry":{"type":"Point","coordinates":[18.91938,52.74648]},"properties":{"ref:rspo":38925,"official_name":"Przedszkole Samorz\u0105dowe im. Jana Paw\u0142a II w Lubaniu","name":"Przedszkole Samorz\u0105dowe","addr:country":"PL","addr:postcode":"87-732","addr:place":"Lubanie","addr:housenumber":"28B","addr:teryt:sym_ul":864976,"contact:email":"przedszkolelubanie@wp.pl","contact:website":"http:\/\/przedszkolelubanie.weebly.com","ref:regon":"910038828","operator":"Gmina Lubanie","operator:type":"government","amenity":"kindergarten"}},{"id":38969,"type":"Feature","geometry":{"type":"Point","coordinates":[18.9185,52.74861]},"properties":{"isced:level":"1;2","ref:rspo":38969,"official_name":"Szko\u0142a Podstawowa im. Jana Paw\u0142a II w Lubaniu","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"87-732","addr:place":"Lubanie","addr:housenumber":"14","addr:teryt:sym_ul":864976,"contact:phone":"+48 542513326","contact:email":"zespollubanie@o2.pl","contact:website":"https:\/\/zszlubanie.wixsite.com\/glowna","ref:regon":"000994851","operator":"Gmina Lubanie","operator:type":"government","amenity":"school"}},{"id":4174,"type":"Feature","geometry":{"type":"Point","coordinates":[18.84268,52.75555]},"properties":{"isced:level":"1;2","ref:rspo":4174,"official_name":"Szko\u0142a Podstawowa im. Ziemi Kujawskiej w Przywieczerzynie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"87-732","addr:place":"Zosin","addr:housenumber":"24","addr:teryt:sym_ul":865094,"contact:phone":"+48 693401673","contact:email":"przywieczerzyn@wp.pl","ref:regon":"001136167","ref:vatin":"PL8911387054","operator":"Gmina Lubanie","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 38925,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.91938,
+                    52.74648
+                ]
+            },
+            "properties": {
+                "ref:rspo": 38925,
+                "official_name": "Przedszkole Samorz\u0105dowe im. Jana Paw\u0142a II w Lubaniu",
+                "name": "Przedszkole Samorz\u0105dowe",
+                "addr:country": "PL",
+                "addr:postcode": "87-732",
+                "addr:place": "Lubanie",
+                "addr:housenumber": "28B",
+                "addr:teryt:sym_ul": 864976,
+                "contact:email": "przedszkolelubanie@wp.pl",
+                "contact:website": "http:\/\/przedszkolelubanie.weebly.com",
+                "ref:regon": "910038828",
+                "operator": "Gmina Lubanie",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 38969,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.9185,
+                    52.74861
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 38969,
+                "official_name": "Szko\u0142a Podstawowa im. Jana Paw\u0142a II w Lubaniu",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "87-732",
+                "addr:place": "Lubanie",
+                "addr:housenumber": "14",
+                "addr:teryt:sym_ul": 864976,
+                "contact:phone": "+48 542513326",
+                "contact:email": "zespollubanie@o2.pl",
+                "contact:website": "https:\/\/zszlubanie.wixsite.com\/glowna",
+                "ref:regon": "000994851",
+                "operator": "Gmina Lubanie",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 4174,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.84268,
+                    52.75555
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 4174,
+                "official_name": "Szko\u0142a Podstawowa im. Ziemi Kujawskiej w Przywieczerzynie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "87-732",
+                "addr:place": "Zosin",
+                "addr:housenumber": "24",
+                "addr:teryt:sym_ul": 865094,
+                "contact:phone": "+48 693401673",
+                "contact:email": "przywieczerzyn@wp.pl",
+                "ref:regon": "001136167",
+                "ref:vatin": "PL8911387054",
+                "operator": "Gmina Lubanie",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

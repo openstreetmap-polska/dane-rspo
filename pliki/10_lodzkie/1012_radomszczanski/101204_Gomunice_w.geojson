@@ -1,1 +1,195 @@
-{"type":"FeatureCollection","features":[{"id":84392,"type":"Feature","geometry":{"type":"Point","coordinates":[19.48486,51.1689099]},"properties":{"ref:rspo":84392,"official_name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w Gomunicach","name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w Gomunicach","addr:country":"PL","addr:postcode":"97-545","addr:city":"Gomunice","addr:street":"ul. S\u0142owackiego","addr:housenumber":"12","addr:teryt:simc":20286,"addr:teryt:sym_ul":539532,"contact:phone":"+48 446282420","contact:email":"zszp_gomunice@wp.pl","contact:website":"http:\/\/www.zszpgomunice.szkolnastrona.pl","ref:regon":"000208870","ref:vatin":"PL7721954176","operator":"Gmina Gomunice","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 84362;88061"}},{"id":88061,"type":"Feature","geometry":{"type":"Point","coordinates":[19.48486,51.1688799]},"properties":{"isced:level":"1;2","ref:rspo":88061,"official_name":"Szko\u0142a Podstawowa w Gomunicach","name":"Szko\u0142a Podstawowa w Gomunicach","addr:country":"PL","addr:postcode":"97-545","addr:city":"Gomunice","addr:street":"ul. S\u0142owackiego","addr:housenumber":"12","addr:teryt:simc":20286,"addr:teryt:sym_ul":539532,"contact:phone":"+48 446842420","contact:email":"zszp_gomunice@wp.pl","contact:website":"http:\/\/www.gomunice.szkola.pl","ref:regon":"592148824","operator":"Gmina Gomunice","operator:type":"government","amenity":"school","note":"Parent RSPO: 84392"}},{"id":84362,"type":"Feature","geometry":{"type":"Point","coordinates":[19.48355,51.1696]},"properties":{"ref:rspo":84362,"official_name":"Publiczne Przedszkole w Gomunicach","name":"Publiczne Przedszkole w Gomunicach","addr:country":"PL","addr:postcode":"97-545","addr:city":"Gomunice","addr:street":"ul. Krasi\u0144skiego","addr:housenumber":"38","addr:teryt:simc":9841,"addr:teryt:sym_ul":539532,"contact:phone":"+48 446842420","ref:regon":"592148830","operator":"Gmina Gomunice","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 84392"}},{"id":74211,"type":"Feature","geometry":{"type":"Point","coordinates":[19.545259475708,51.184898376465]},"properties":{"ref:rspo":74211,"official_name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w Chrzanowicach","name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w Chrzanowicach","addr:country":"PL","addr:postcode":"97-545","addr:city":"Chrzanowice","addr:street":"ul. W\u0142odzimierza \u0141uckiego","addr:housenumber":"16","addr:teryt:simc":11729,"addr:teryt:sym_ul":539489,"contact:phone":"+48 446843746","contact:email":"szkchrzan@poczta.onet.pl","contact:website":"http:\/\/www.zspchrzanowice.szkolnastrona.pl","ref:regon":"001139958","ref:vatin":"PL7721954331","operator":"Gmina Gomunice","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 83446;83512"}},{"id":83446,"type":"Feature","geometry":{"type":"Point","coordinates":[19.545259475708,51.184868376465]},"properties":{"isced:level":"1;2","ref:rspo":83446,"official_name":"Szko\u0142a Podstawowa im. Boles\u0142awa Prusa w Chrzanowicach","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"97-545","addr:city":"Chrzanowice","addr:street":"ul. W\u0142odzimierza \u0141uckiego","addr:housenumber":"16","addr:teryt:simc":11729,"addr:teryt:sym_ul":539489,"contact:phone":"+48 446843746","contact:email":"szkchrzan@poczta.onet.pl","contact:website":"http:\/\/www.zspchrzanowice.szkolnastrona.pl","ref:regon":"592147664","operator":"Gmina Gomunice","operator:type":"government","amenity":"school","note":"Parent RSPO: 74211"}},{"id":83512,"type":"Feature","geometry":{"type":"Point","coordinates":[19.545259475708,51.184838376465]},"properties":{"ref:rspo":83512,"official_name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny Przedszkole w Chrzanowicach","name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny Przedszkole w Chrzanowicach","addr:country":"PL","addr:postcode":"97-545","addr:city":"Chrzanowice","addr:street":"ul. W\u0142odzimierza \u0141uckiego","addr:housenumber":"16","addr:teryt:simc":11729,"addr:teryt:sym_ul":539489,"contact:phone":"+48 446843746","contact:email":"szkchrzan@poczta.onet.pl","contact:website":"http:\/\/www.zspchrzanowice.szkolnastrona.pl","ref:regon":"592147641","operator":"Gmina Gomunice","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 74211"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 84392,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.48486,
+                    51.1689099
+                ]
+            },
+            "properties": {
+                "ref:rspo": 84392,
+                "official_name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w Gomunicach",
+                "name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w Gomunicach",
+                "addr:country": "PL",
+                "addr:postcode": "97-545",
+                "addr:city": "Gomunice",
+                "addr:street": "ul. S\u0142owackiego",
+                "addr:housenumber": "12",
+                "addr:teryt:simc": 20286,
+                "addr:teryt:sym_ul": 539532,
+                "contact:phone": "+48 446282420",
+                "contact:email": "zszp_gomunice@wp.pl",
+                "contact:website": "http:\/\/www.zszpgomunice.szkolnastrona.pl",
+                "ref:regon": "000208870",
+                "ref:vatin": "PL7721954176",
+                "operator": "Gmina Gomunice",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 84362;88061"
+            }
+        },
+        {
+            "id": 88061,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.48486,
+                    51.1688799
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 88061,
+                "official_name": "Szko\u0142a Podstawowa w Gomunicach",
+                "name": "Szko\u0142a Podstawowa w Gomunicach",
+                "addr:country": "PL",
+                "addr:postcode": "97-545",
+                "addr:city": "Gomunice",
+                "addr:street": "ul. S\u0142owackiego",
+                "addr:housenumber": "12",
+                "addr:teryt:simc": 20286,
+                "addr:teryt:sym_ul": 539532,
+                "contact:phone": "+48 446842420",
+                "contact:email": "zszp_gomunice@wp.pl",
+                "contact:website": "http:\/\/www.gomunice.szkola.pl",
+                "ref:regon": "592148824",
+                "operator": "Gmina Gomunice",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 84392"
+            }
+        },
+        {
+            "id": 84362,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.48355,
+                    51.1696
+                ]
+            },
+            "properties": {
+                "ref:rspo": 84362,
+                "official_name": "Publiczne Przedszkole w Gomunicach",
+                "name": "Publiczne Przedszkole w Gomunicach",
+                "addr:country": "PL",
+                "addr:postcode": "97-545",
+                "addr:city": "Gomunice",
+                "addr:street": "ul. Krasi\u0144skiego",
+                "addr:housenumber": "38",
+                "addr:teryt:simc": 9841,
+                "addr:teryt:sym_ul": 539532,
+                "contact:phone": "+48 446842420",
+                "ref:regon": "592148830",
+                "operator": "Gmina Gomunice",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 84392"
+            }
+        },
+        {
+            "id": 74211,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.545259475708,
+                    51.184898376465
+                ]
+            },
+            "properties": {
+                "ref:rspo": 74211,
+                "official_name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w Chrzanowicach",
+                "name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w Chrzanowicach",
+                "addr:country": "PL",
+                "addr:postcode": "97-545",
+                "addr:city": "Chrzanowice",
+                "addr:street": "ul. W\u0142odzimierza \u0141uckiego",
+                "addr:housenumber": "16",
+                "addr:teryt:simc": 11729,
+                "addr:teryt:sym_ul": 539489,
+                "contact:phone": "+48 446843746",
+                "contact:email": "szkchrzan@poczta.onet.pl",
+                "contact:website": "http:\/\/www.zspchrzanowice.szkolnastrona.pl",
+                "ref:regon": "001139958",
+                "ref:vatin": "PL7721954331",
+                "operator": "Gmina Gomunice",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 83446;83512"
+            }
+        },
+        {
+            "id": 83446,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.545259475708,
+                    51.184868376465
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 83446,
+                "official_name": "Szko\u0142a Podstawowa im. Boles\u0142awa Prusa w Chrzanowicach",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "97-545",
+                "addr:city": "Chrzanowice",
+                "addr:street": "ul. W\u0142odzimierza \u0141uckiego",
+                "addr:housenumber": "16",
+                "addr:teryt:simc": 11729,
+                "addr:teryt:sym_ul": 539489,
+                "contact:phone": "+48 446843746",
+                "contact:email": "szkchrzan@poczta.onet.pl",
+                "contact:website": "http:\/\/www.zspchrzanowice.szkolnastrona.pl",
+                "ref:regon": "592147664",
+                "operator": "Gmina Gomunice",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 74211"
+            }
+        },
+        {
+            "id": 83512,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.545259475708,
+                    51.184838376465
+                ]
+            },
+            "properties": {
+                "ref:rspo": 83512,
+                "official_name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny Przedszkole w Chrzanowicach",
+                "name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny Przedszkole w Chrzanowicach",
+                "addr:country": "PL",
+                "addr:postcode": "97-545",
+                "addr:city": "Chrzanowice",
+                "addr:street": "ul. W\u0142odzimierza \u0141uckiego",
+                "addr:housenumber": "16",
+                "addr:teryt:simc": 11729,
+                "addr:teryt:sym_ul": 539489,
+                "contact:phone": "+48 446843746",
+                "contact:email": "szkchrzan@poczta.onet.pl",
+                "contact:website": "http:\/\/www.zspchrzanowice.szkolnastrona.pl",
+                "ref:regon": "592147641",
+                "operator": "Gmina Gomunice",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 74211"
+            }
+        }
+    ]
+}

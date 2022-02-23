@@ -1,1 +1,37 @@
-{"type":"FeatureCollection","features":[{"id":52505,"type":"Feature","geometry":{"type":"Point","coordinates":[22.97225,54.32654]},"properties":{"isced:level":"1;2","ref:rspo":52505,"official_name":"Szko\u0142a Podstawowa im. Henryka Sienkiewicza w Rutce-Tartak","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"16-406","addr:city":"Rutka-Tartak","addr:street":"ul. Szkolna","addr:housenumber":"12","addr:teryt:simc":21970,"addr:teryt:sym_ul":767470,"contact:phone":"+48 875687218","contact:email":"sp.rutka@gazeta.pl","contact:website":"http:\/\/zss-rutkatartak.cba.pl","ref:regon":"001145249","ref:vatin":"PL8442352088","operator":"Gmina Rutka-Tartak","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 52505,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.97225,
+                    54.32654
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 52505,
+                "official_name": "Szko\u0142a Podstawowa im. Henryka Sienkiewicza w Rutce-Tartak",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "16-406",
+                "addr:city": "Rutka-Tartak",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "12",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 767470,
+                "contact:phone": "+48 875687218",
+                "contact:email": "sp.rutka@gazeta.pl",
+                "contact:website": "http:\/\/zss-rutkatartak.cba.pl",
+                "ref:regon": "001145249",
+                "ref:vatin": "PL8442352088",
+                "operator": "Gmina Rutka-Tartak",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

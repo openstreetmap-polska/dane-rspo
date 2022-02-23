@@ -1,1 +1,159 @@
-{"type":"FeatureCollection","features":[{"id":10349,"type":"Feature","geometry":{"type":"Point","coordinates":[19.517746,54.076828]},"properties":{"isced:level":"1;2","ref:rspo":10349,"official_name":"Publiczna Szko\u0142a Podstawowa w W\u0119zinie","name":"Publiczna Szko\u0142a Podstawowa w W\u0119zinie","addr:country":"PL","addr:postcode":"82-310","addr:place":"W\u0119zina","addr:housenumber":"16","addr:teryt:sym_ul":149624,"contact:phone":"+48 552311002","contact:email":"psp.wezina@spwezina.pl","contact:website":"http:\/\/www.spwezina.gminaelblag.pl","ref:regon":"170319043","ref:vatin":"PL5782816390","operator":"Gmina Elbl\u0105g","operator:type":"government","amenity":"school"}},{"id":10348,"type":"Feature","geometry":{"type":"Point","coordinates":[19.523218,54.108777]},"properties":{"isced:level":"1;2","ref:rspo":10348,"official_name":"Publiczna Szko\u0142a Podstawowa w Pilonie","name":"Publiczna Szko\u0142a Podstawowa w Pilonie","addr:country":"PL","addr:postcode":"82-310","addr:place":"Pilona","addr:housenumber":"5","addr:teryt:sym_ul":149541,"contact:phone":"+48 552312928","contact:email":"sppilona1@interia.pl","contact:website":"http:\/\/www.sppilona.gminaelblag.pl","ref:regon":"170319014","ref:vatin":"PL5782816378","operator":"Gmina Elbl\u0105g","operator:type":"government","amenity":"school"}},{"id":14648,"type":"Feature","geometry":{"type":"Point","coordinates":[19.45629,54.13697]},"properties":{"isced:level":"3","ref:rspo":14648,"official_name":"Liceum Sztuk Plastycznych w Gronowie G\u00f3rnym","name":"Liceum Sztuk Plastycznych w Gronowie G\u00f3rnym","addr:country":"PL","addr:postcode":"82-310","addr:city":"Gronowo G\u00f3rne","addr:street":"ul. Szafirowa","addr:housenumber":"12","addr:teryt:simc":21712,"addr:teryt:sym_ul":149328,"contact:phone":"+48 552333176","contact:email":"lspgronowo@elblag.com.pl","contact:website":"http:\/\/www.liceumplastyczne.elblag.com.pl","ref:regon":"000817729","ref:vatin":"PL5782153340","operator":"Powiat Elbl\u0105ski","operator:type":"government","amenity":"school"}},{"id":14134,"type":"Feature","geometry":{"type":"Point","coordinates":[19.46181,54.14087]},"properties":{"isced:level":"1;2","ref:rspo":14134,"official_name":"Publiczna Szko\u0142a Podstawowa w Gronowie G\u00f3rnym","name":"Publiczna Szko\u0142a Podstawowa w Gronowie G\u00f3rnym","addr:country":"PL","addr:postcode":"82-310","addr:city":"Gronowo G\u00f3rne","addr:street":"ul. Szmaragdowa","addr:housenumber":"5","addr:teryt:simc":22003,"addr:teryt:sym_ul":149328,"contact:phone":"+48 552333226","contact:email":"sekretariat@szkolagronowog.pl","contact:website":"http:\/\/www.spgg.edupage.org","ref:regon":"170062503","ref:vatin":"PL5783110321","operator":"Gmina Elbl\u0105g","operator:type":"government","amenity":"school"}},{"id":14132,"type":"Feature","geometry":{"type":"Point","coordinates":[19.348476,54.224989]},"properties":{"isced:level":"1;2","ref:rspo":14132,"official_name":"Publiczna Szko\u0142a Podstawowa im. Pa\u0144stwowej Stra\u017cy Po\u017carnej w Nowakowie","name":"Publiczna Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"82-310","addr:place":"Nowakowo","addr:housenumber":"47","addr:teryt:sym_ul":149452,"contact:phone":"+48 552312793","contact:email":"zsnowakowo@wp.pl","contact:website":"http:\/\/www.zsnowakowo.gminaelblag.pl","ref:regon":"170319008","ref:vatin":"PL5782981539","operator":"Gmina Elbl\u0105g","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 10349,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.517746,
+                    54.076828
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 10349,
+                "official_name": "Publiczna Szko\u0142a Podstawowa w W\u0119zinie",
+                "name": "Publiczna Szko\u0142a Podstawowa w W\u0119zinie",
+                "addr:country": "PL",
+                "addr:postcode": "82-310",
+                "addr:place": "W\u0119zina",
+                "addr:housenumber": "16",
+                "addr:teryt:sym_ul": 149624,
+                "contact:phone": "+48 552311002",
+                "contact:email": "psp.wezina@spwezina.pl",
+                "contact:website": "http:\/\/www.spwezina.gminaelblag.pl",
+                "ref:regon": "170319043",
+                "ref:vatin": "PL5782816390",
+                "operator": "Gmina Elbl\u0105g",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 10348,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.523218,
+                    54.108777
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 10348,
+                "official_name": "Publiczna Szko\u0142a Podstawowa w Pilonie",
+                "name": "Publiczna Szko\u0142a Podstawowa w Pilonie",
+                "addr:country": "PL",
+                "addr:postcode": "82-310",
+                "addr:place": "Pilona",
+                "addr:housenumber": "5",
+                "addr:teryt:sym_ul": 149541,
+                "contact:phone": "+48 552312928",
+                "contact:email": "sppilona1@interia.pl",
+                "contact:website": "http:\/\/www.sppilona.gminaelblag.pl",
+                "ref:regon": "170319014",
+                "ref:vatin": "PL5782816378",
+                "operator": "Gmina Elbl\u0105g",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 14648,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.45629,
+                    54.13697
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 14648,
+                "official_name": "Liceum Sztuk Plastycznych w Gronowie G\u00f3rnym",
+                "name": "Liceum Sztuk Plastycznych w Gronowie G\u00f3rnym",
+                "addr:country": "PL",
+                "addr:postcode": "82-310",
+                "addr:city": "Gronowo G\u00f3rne",
+                "addr:street": "ul. Szafirowa",
+                "addr:housenumber": "12",
+                "addr:teryt:simc": 21712,
+                "addr:teryt:sym_ul": 149328,
+                "contact:phone": "+48 552333176",
+                "contact:email": "lspgronowo@elblag.com.pl",
+                "contact:website": "http:\/\/www.liceumplastyczne.elblag.com.pl",
+                "ref:regon": "000817729",
+                "ref:vatin": "PL5782153340",
+                "operator": "Powiat Elbl\u0105ski",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 14134,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.46181,
+                    54.14087
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 14134,
+                "official_name": "Publiczna Szko\u0142a Podstawowa w Gronowie G\u00f3rnym",
+                "name": "Publiczna Szko\u0142a Podstawowa w Gronowie G\u00f3rnym",
+                "addr:country": "PL",
+                "addr:postcode": "82-310",
+                "addr:city": "Gronowo G\u00f3rne",
+                "addr:street": "ul. Szmaragdowa",
+                "addr:housenumber": "5",
+                "addr:teryt:simc": 22003,
+                "addr:teryt:sym_ul": 149328,
+                "contact:phone": "+48 552333226",
+                "contact:email": "sekretariat@szkolagronowog.pl",
+                "contact:website": "http:\/\/www.spgg.edupage.org",
+                "ref:regon": "170062503",
+                "ref:vatin": "PL5783110321",
+                "operator": "Gmina Elbl\u0105g",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 14132,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.348476,
+                    54.224989
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 14132,
+                "official_name": "Publiczna Szko\u0142a Podstawowa im. Pa\u0144stwowej Stra\u017cy Po\u017carnej w Nowakowie",
+                "name": "Publiczna Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "82-310",
+                "addr:place": "Nowakowo",
+                "addr:housenumber": "47",
+                "addr:teryt:sym_ul": 149452,
+                "contact:phone": "+48 552312793",
+                "contact:email": "zsnowakowo@wp.pl",
+                "contact:website": "http:\/\/www.zsnowakowo.gminaelblag.pl",
+                "ref:regon": "170319008",
+                "ref:vatin": "PL5782981539",
+                "operator": "Gmina Elbl\u0105g",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

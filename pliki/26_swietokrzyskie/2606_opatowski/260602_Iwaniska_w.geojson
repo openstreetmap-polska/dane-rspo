@@ -1,1 +1,151 @@
-{"type":"FeatureCollection","features":[{"id":275835,"type":"Feature","geometry":{"type":"Point","coordinates":[21.2411299,50.69462]},"properties":{"isced:level":"1;2","ref:rspo":275835,"official_name":"Publiczna Szko\u0142a Podstawowa w Iwaniskach - Szko\u0142a Filialna w Wygie\u0142zowie","name":"Publiczna Szko\u0142a Podstawowa w Iwaniskach - Szko\u0142a Filialna w Wygie\u0142zowie","addr:country":"PL","addr:postcode":"27-570","addr:place":"Wygie\u0142z\u00f3w","addr:housenumber":"6","addr:teryt:sym_ul":794359,"contact:phone":"+48 158601215","contact:email":"spwyg@vp.pl","ref:regon":"269021000","operator":"Gmina Iwaniska","operator:type":"government","amenity":"school","note":"Parent RSPO: 52751"}},{"id":262584,"type":"Feature","geometry":{"type":"Point","coordinates":[21.3097299,50.71309]},"properties":{"isced:level":"1;2","ref:rspo":262584,"official_name":"Publiczna Szko\u0142a Podstawowa w Uje\u017adzie","name":"Publiczna Szko\u0142a Podstawowa w Uje\u017adzie","addr:country":"PL","addr:postcode":"27-570","addr:place":"Ujazd","addr:housenumber":"9","addr:teryt:sym_ul":794253,"contact:phone":"+48 158601209","contact:email":"pspujazd@onet.pl","ref:regon":"368038954","operator":"Gmina Iwaniska","operator:type":"government","amenity":"school"}},{"id":262583,"type":"Feature","geometry":{"type":"Point","coordinates":[21.38103,50.72514]},"properties":{"isced:level":"1;2","ref:rspo":262583,"official_name":"Publiczna Szko\u0142a Podstawowa w Myd\u0142owie","name":"Publiczna Szko\u0142a Podstawowa w Myd\u0142owie","addr:country":"PL","addr:postcode":"27-570","addr:place":"Myd\u0142\u00f3w","addr:housenumber":"1","addr:teryt:sym_ul":793963,"contact:phone":"+48 158604134","contact:email":"mydlow@poczta.onet.pl","ref:regon":"368038925","operator":"Gmina Iwaniska","operator:type":"government","amenity":"school"}},{"id":272850,"type":"Feature","geometry":{"type":"Point","coordinates":[21.189,50.72599]},"properties":{"isced:level":"1;2","ref:rspo":272850,"official_name":"Publiczna Szko\u0142a Podstawowa w Iwaniskach - Szko\u0142a Filialna im. Biskupa Jana Chrapka w Jastrz\u0119bskiej Woli","name":"Publiczna Szko\u0142a Podstawowa w Iwaniskach - Szko\u0142a Filialna","addr:country":"PL","addr:postcode":"27-570","addr:place":"Jastrz\u0119bska Wola","addr:housenumber":"4","addr:teryt:sym_ul":793710,"contact:phone":"+48 158601204","contact:email":"szkola.jastrzebskawola@wp.pl","ref:regon":"269021000","operator":"Gmina Iwaniska","operator:type":"government","amenity":"school","note":"Parent RSPO: 52751"}},{"id":52751,"type":"Feature","geometry":{"type":"Point","coordinates":[21.2834975,50.7326895]},"properties":{"isced:level":"1;2","ref:rspo":52751,"official_name":"Publiczna Szko\u0142a Podstawowa w Iwaniskach","name":"Publiczna Szko\u0142a Podstawowa w Iwaniskach","addr:country":"PL","addr:postcode":"27-570","addr:city":"Iwaniska","addr:street":"ul. Opatowska","addr:housenumber":"26","addr:teryt:simc":15073,"addr:teryt:sym_ul":793673,"contact:phone":"+48 158601204","contact:email":"spiwaniska@poczta.onet.pl","ref:regon":"000269021","ref:vatin":"PL8631522172","operator":"Gmina Iwaniska","operator:type":"government","amenity":"school","note":"Children RSPO: 272850;275835"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 275835,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.2411299,
+                    50.69462
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 275835,
+                "official_name": "Publiczna Szko\u0142a Podstawowa w Iwaniskach - Szko\u0142a Filialna w Wygie\u0142zowie",
+                "name": "Publiczna Szko\u0142a Podstawowa w Iwaniskach - Szko\u0142a Filialna w Wygie\u0142zowie",
+                "addr:country": "PL",
+                "addr:postcode": "27-570",
+                "addr:place": "Wygie\u0142z\u00f3w",
+                "addr:housenumber": "6",
+                "addr:teryt:sym_ul": 794359,
+                "contact:phone": "+48 158601215",
+                "contact:email": "spwyg@vp.pl",
+                "ref:regon": "269021000",
+                "operator": "Gmina Iwaniska",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 52751"
+            }
+        },
+        {
+            "id": 262584,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.3097299,
+                    50.71309
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 262584,
+                "official_name": "Publiczna Szko\u0142a Podstawowa w Uje\u017adzie",
+                "name": "Publiczna Szko\u0142a Podstawowa w Uje\u017adzie",
+                "addr:country": "PL",
+                "addr:postcode": "27-570",
+                "addr:place": "Ujazd",
+                "addr:housenumber": "9",
+                "addr:teryt:sym_ul": 794253,
+                "contact:phone": "+48 158601209",
+                "contact:email": "pspujazd@onet.pl",
+                "ref:regon": "368038954",
+                "operator": "Gmina Iwaniska",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 262583,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.38103,
+                    50.72514
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 262583,
+                "official_name": "Publiczna Szko\u0142a Podstawowa w Myd\u0142owie",
+                "name": "Publiczna Szko\u0142a Podstawowa w Myd\u0142owie",
+                "addr:country": "PL",
+                "addr:postcode": "27-570",
+                "addr:place": "Myd\u0142\u00f3w",
+                "addr:housenumber": "1",
+                "addr:teryt:sym_ul": 793963,
+                "contact:phone": "+48 158604134",
+                "contact:email": "mydlow@poczta.onet.pl",
+                "ref:regon": "368038925",
+                "operator": "Gmina Iwaniska",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 272850,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.189,
+                    50.72599
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 272850,
+                "official_name": "Publiczna Szko\u0142a Podstawowa w Iwaniskach - Szko\u0142a Filialna im. Biskupa Jana Chrapka w Jastrz\u0119bskiej Woli",
+                "name": "Publiczna Szko\u0142a Podstawowa w Iwaniskach - Szko\u0142a Filialna",
+                "addr:country": "PL",
+                "addr:postcode": "27-570",
+                "addr:place": "Jastrz\u0119bska Wola",
+                "addr:housenumber": "4",
+                "addr:teryt:sym_ul": 793710,
+                "contact:phone": "+48 158601204",
+                "contact:email": "szkola.jastrzebskawola@wp.pl",
+                "ref:regon": "269021000",
+                "operator": "Gmina Iwaniska",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 52751"
+            }
+        },
+        {
+            "id": 52751,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.2834975,
+                    50.7326895
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 52751,
+                "official_name": "Publiczna Szko\u0142a Podstawowa w Iwaniskach",
+                "name": "Publiczna Szko\u0142a Podstawowa w Iwaniskach",
+                "addr:country": "PL",
+                "addr:postcode": "27-570",
+                "addr:city": "Iwaniska",
+                "addr:street": "ul. Opatowska",
+                "addr:housenumber": "26",
+                "addr:teryt:simc": 15073,
+                "addr:teryt:sym_ul": 793673,
+                "contact:phone": "+48 158601204",
+                "contact:email": "spiwaniska@poczta.onet.pl",
+                "ref:regon": "000269021",
+                "ref:vatin": "PL8631522172",
+                "operator": "Gmina Iwaniska",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Children RSPO: 272850;275835"
+            }
+        }
+    ]
+}

@@ -1,1 +1,505 @@
-{"type":"FeatureCollection","features":[{"id":63952,"type":"Feature","geometry":{"type":"Point","coordinates":[18.98302,50.78896]},"properties":{"ref:rspo":63952,"official_name":"Publiczne Przedszkole w Siedlcu","name":"Publiczne Przedszkole w Siedlcu","addr:country":"PL","addr:postcode":"42-244","addr:city":"Siedlec","addr:street":"ul. Kazimierza Wielkiego","addr:housenumber":"63","addr:teryt:simc":8265,"addr:teryt:sym_ul":138655,"contact:phone":"+48 343284151","contact:email":"ppsiedlec@op.pl","contact:website":"http:\/\/ppsiedlec.szkolnastrona.pl","ref:regon":"150046388","ref:vatin":"PL9490357049","operator":"Gmina Mst\u00f3w","operator:type":"government","amenity":"kindergarten"}},{"id":64648,"type":"Feature","geometry":{"type":"Point","coordinates":[19.3277329,50.794486]},"properties":{"ref:rspo":64648,"official_name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w Ma\u0142usach Wielkich","name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w Ma\u0142usach Wielkich","addr:country":"PL","addr:postcode":"42-244","addr:place":"Ma\u0142usy Wielkie","addr:housenumber":"19","addr:teryt:sym_ul":138610,"contact:phone":"+48 343284129","contact:email":"zspmalusy@gmail.com","ref:regon":"152133861","ref:vatin":"PL9491863754","operator":"Gmina Mst\u00f3w","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 111484;111512"}},{"id":111484,"type":"Feature","geometry":{"type":"Point","coordinates":[19.3277329,50.794456]},"properties":{"ref:rspo":111484,"official_name":"Przedszkole w Ma\u0142usach Wielkich","name":"Przedszkole w Ma\u0142usach Wielkich","addr:country":"PL","addr:postcode":"42-244","addr:place":"Ma\u0142usy Wielkie","addr:housenumber":"19","addr:teryt:sym_ul":138610,"contact:phone":"+48 343284531","contact:email":"zspmalusy@gmail.com","ref:regon":"150046365","ref:vatin":"PL9491863754","operator":"Gmina Mst\u00f3w","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 64648"}},{"id":111512,"type":"Feature","geometry":{"type":"Point","coordinates":[19.3277329,50.794426]},"properties":{"isced:level":"1;2","ref:rspo":111512,"official_name":"Szko\u0142a Podstawowa im. Mieczys\u0142awa Wierzby w Ma\u0142usach Wielkich","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"42-244","addr:place":"Ma\u0142usy Wielkie","addr:housenumber":"19","addr:teryt:sym_ul":138610,"contact:phone":"+48 343284129","contact:email":"zspmalusy@gmail.com","ref:regon":"001204331","ref:vatin":"PL9491863754","operator":"Gmina Mst\u00f3w","operator:type":"government","amenity":"school","note":"Parent RSPO: 64648"}},{"id":27397,"type":"Feature","geometry":{"type":"Point","coordinates":[19.28706,50.79723]},"properties":{"isced:level":"1;2","ref:rspo":27397,"official_name":"Szko\u0142a Podstawowa im. Kornela Makuszy\u0144skiego w Brzyszowie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"42-244","addr:city":"Brzysz\u00f3w","addr:street":"ul. Szkolna","addr:housenumber":"2","addr:teryt:simc":21970,"addr:teryt:sym_ul":138483,"contact:phone":"+48 343284119","contact:email":"spbrzyszow@tlen.pl","ref:regon":"001204271","ref:vatin":"PL9490356305","operator":"Gmina Mst\u00f3w","operator:type":"government","amenity":"school"}},{"id":64644,"type":"Feature","geometry":{"type":"Point","coordinates":[19.38587,50.80982]},"properties":{"isced:level":"1;2","ref:rspo":64644,"official_name":"Szko\u0142a Podstawowa w Mokrzeszy","name":"Szko\u0142a Podstawowa w Mokrzeszy","addr:country":"PL","addr:postcode":"42-244","addr:city":"Mokrzesz","addr:street":"ul. Ko\u015bcielna","addr:housenumber":"24","addr:teryt:simc":9546,"addr:teryt:sym_ul":138626,"contact:phone":"+48 343284548","contact:email":"spmokrzesz@onet.eu","ref:regon":"001204325","ref:vatin":"PL9490356512","operator":"Gmina Mst\u00f3w","operator:type":"government","amenity":"school"}},{"id":64646,"type":"Feature","geometry":{"type":"Point","coordinates":[19.32641,50.81682]},"properties":{"ref:rspo":64646,"official_name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w Zawadzie","name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w Zawadzie","addr:country":"PL","addr:postcode":"42-244","addr:city":"Zawada","addr:street":"ul. G\u0142\u00f3wna","addr:housenumber":"18","addr:teryt:simc":5635,"addr:teryt:sym_ul":138690,"contact:phone":"+48 343284029","contact:email":"zsp.zawada@onet.eu","ref:regon":"240169598","ref:vatin":"PL9492013644","operator":"Gmina Mst\u00f3w","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 84422;84427"}},{"id":84422,"type":"Feature","geometry":{"type":"Point","coordinates":[19.32641,50.81679]},"properties":{"isced:level":"1;2","ref:rspo":84422,"official_name":"Szko\u0142a Podstawowa w Zawadzie","name":"Szko\u0142a Podstawowa w Zawadzie","addr:country":"PL","addr:postcode":"42-244","addr:city":"Zawada","addr:street":"ul. G\u0142\u00f3wna","addr:housenumber":"18","addr:teryt:simc":5635,"addr:teryt:sym_ul":138690,"contact:phone":"+48 343284029","contact:email":"zsp.zawada@onet.eu","ref:regon":"001204302","ref:vatin":"PL9492013644","operator":"Gmina Mst\u00f3w","operator:type":"government","amenity":"school","note":"Parent RSPO: 64646"}},{"id":84427,"type":"Feature","geometry":{"type":"Point","coordinates":[19.32641,50.81676]},"properties":{"ref:rspo":84427,"official_name":"Publiczne Przedszkole w Zawadzie","name":"Publiczne Przedszkole w Zawadzie","addr:country":"PL","addr:postcode":"42-244","addr:city":"Zawada","addr:street":"ul. G\u0142\u00f3wna","addr:housenumber":"18","addr:teryt:simc":5635,"addr:teryt:sym_ul":138690,"contact:phone":"+48 343284029","contact:email":"zsp.zawada@onet.eu","ref:regon":"150046371","ref:vatin":"PL9492013644","operator":"Gmina Mst\u00f3w","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 64646"}},{"id":111473,"type":"Feature","geometry":{"type":"Point","coordinates":[19.28324,50.8280699]},"properties":{"isced:level":"1;2","ref:rspo":111473,"official_name":"Szko\u0142a Podstawowa im.tadeusza Ko\u015bciuszki w Mstowie","name":"Szko\u0142a Podstawowa im.tadeusza Ko\u015bciuszki w Mstowie","addr:country":"PL","addr:postcode":"42-244","addr:city":"Mst\u00f3w","addr:street":"ul. Partyzant\u00f3w","addr:housenumber":"2","addr:teryt:simc":15733,"addr:teryt:sym_ul":138649,"contact:phone":"+48 343284107","contact:email":"sekretariat@szkolamstow.pl","contact:website":"http:\/\/www.szkolamstow.pl","ref:regon":"000661960","ref:vatin":"PL9492053661","operator":"Gmina Mst\u00f3w","operator:type":"government","amenity":"school","note":"Children RSPO: 276749"}},{"id":64643,"type":"Feature","geometry":{"type":"Point","coordinates":[19.38277,50.83181]},"properties":{"isced:level":"1;2","ref:rspo":64643,"official_name":"Szko\u0142a Podstawowa im. \u015aw.huberta w Krasicach","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"42-244","addr:city":"Krasice","addr:street":"ul. Stra\u017cacka","addr:housenumber":"7","addr:teryt:simc":21271,"addr:teryt:sym_ul":138566,"contact:phone":"+48 343284560","contact:email":"spkrasice@vp.pl","ref:regon":"001204288","ref:vatin":"PL9490356392","operator":"Gmina Mst\u00f3w","operator:type":"government","amenity":"school"}},{"id":64645,"type":"Feature","geometry":{"type":"Point","coordinates":[19.28438949585,50.835140228271]},"properties":{"ref:rspo":64645,"official_name":"Przedszkole w Wancerzowie","name":"Przedszkole w Wancerzowie","addr:country":"PL","addr:postcode":"42-244","addr:city":"Wancerz\u00f3w","addr:street":"ul. Gminna","addr:housenumber":"11","addr:teryt:simc":5654,"addr:teryt:sym_ul":138678,"contact:phone":"+48 343146265","contact:email":"przedszkolewancerzow@op.pl","ref:regon":"150009370","ref:vatin":"PL9490357055","operator":"Gmina Mst\u00f3w","operator:type":"government","amenity":"kindergarten"}},{"id":64649,"type":"Feature","geometry":{"type":"Point","coordinates":[19.24525,50.83751]},"properties":{"ref:rspo":64649,"official_name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny im.jana Paw\u0142a II w Jaskrowie","name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny im.jana Paw\u0142a II w Jaskrowie","addr:country":"PL","addr:postcode":"42-244","addr:city":"Jaskr\u00f3w","addr:street":"ul. Starowiejska","addr:housenumber":"2","addr:teryt:simc":20998,"addr:teryt:sym_ul":138520,"contact:phone":"+48 343284771","contact:email":"zspjaskrow@op.pl","contact:website":"http:\/\/www.zspjaskrow.republika.pl","ref:regon":"152133878","ref:vatin":"PL9491863760","operator":"Gmina Mst\u00f3w","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 111472;111488"}},{"id":111472,"type":"Feature","geometry":{"type":"Point","coordinates":[19.24525,50.83748]},"properties":{"ref:rspo":111472,"official_name":"Przedszkole w Jaskrowie","name":"Przedszkole w Jaskrowie","addr:country":"PL","addr:postcode":"42-244","addr:city":"Jaskr\u00f3w","addr:street":"ul. Starowiejska","addr:housenumber":"2","addr:teryt:simc":20998,"addr:teryt:sym_ul":138520,"contact:phone":"+48 343284771","contact:email":"zspjaskrow@op.pl","contact:website":"http:\/\/www.zspjaskrow.republika.pl","ref:regon":"150046359","ref:vatin":"PL9491863760","operator":"Gmina Mst\u00f3w","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 64649"}},{"id":111488,"type":"Feature","geometry":{"type":"Point","coordinates":[19.24525,50.837450000000004]},"properties":{"isced:level":"1;2","ref:rspo":111488,"official_name":"Szko\u0142a Podstawowa w Jaskrowie","name":"Szko\u0142a Podstawowa w Jaskrowie","addr:country":"PL","addr:postcode":"42-244","addr:city":"Jaskr\u00f3w","addr:street":"ul. Starowiejska","addr:housenumber":"2","addr:teryt:simc":20998,"addr:teryt:sym_ul":138520,"contact:phone":"+48 343284771","contact:email":"zspjaskrow@op.pl","contact:website":"http:\/\/www.zspjaskrow.republika.pl","ref:regon":"001204319","ref:vatin":"PL9491863760","operator":"Gmina Mst\u00f3w","operator:type":"government","amenity":"school","note":"Parent RSPO: 64649"}},{"id":276749,"type":"Feature","geometry":{"type":"Point","coordinates":[19.30937,50.85472]},"properties":{"isced:level":"1;2","ref:rspo":276749,"official_name":"Filia w Kucharach","name":"Filia w Kucharach","addr:country":"PL","addr:postcode":"42-244","addr:city":"Kuchary","addr:street":"ul. G\u0142\u00f3wna","addr:housenumber":"18","addr:teryt:simc":5635,"addr:teryt:sym_ul":138572,"contact:phone":"+48 343284047","contact:email":"spkuchary@poczta.fm","ref:regon":"661960000","operator":"Gmina Mst\u00f3w","operator:type":"government","amenity":"school","note":"Parent RSPO: 111473"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 63952,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.98302,
+                    50.78896
+                ]
+            },
+            "properties": {
+                "ref:rspo": 63952,
+                "official_name": "Publiczne Przedszkole w Siedlcu",
+                "name": "Publiczne Przedszkole w Siedlcu",
+                "addr:country": "PL",
+                "addr:postcode": "42-244",
+                "addr:city": "Siedlec",
+                "addr:street": "ul. Kazimierza Wielkiego",
+                "addr:housenumber": "63",
+                "addr:teryt:simc": 8265,
+                "addr:teryt:sym_ul": 138655,
+                "contact:phone": "+48 343284151",
+                "contact:email": "ppsiedlec@op.pl",
+                "contact:website": "http:\/\/ppsiedlec.szkolnastrona.pl",
+                "ref:regon": "150046388",
+                "ref:vatin": "PL9490357049",
+                "operator": "Gmina Mst\u00f3w",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 64648,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.3277329,
+                    50.794486
+                ]
+            },
+            "properties": {
+                "ref:rspo": 64648,
+                "official_name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w Ma\u0142usach Wielkich",
+                "name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w Ma\u0142usach Wielkich",
+                "addr:country": "PL",
+                "addr:postcode": "42-244",
+                "addr:place": "Ma\u0142usy Wielkie",
+                "addr:housenumber": "19",
+                "addr:teryt:sym_ul": 138610,
+                "contact:phone": "+48 343284129",
+                "contact:email": "zspmalusy@gmail.com",
+                "ref:regon": "152133861",
+                "ref:vatin": "PL9491863754",
+                "operator": "Gmina Mst\u00f3w",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 111484;111512"
+            }
+        },
+        {
+            "id": 111484,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.3277329,
+                    50.794456
+                ]
+            },
+            "properties": {
+                "ref:rspo": 111484,
+                "official_name": "Przedszkole w Ma\u0142usach Wielkich",
+                "name": "Przedszkole w Ma\u0142usach Wielkich",
+                "addr:country": "PL",
+                "addr:postcode": "42-244",
+                "addr:place": "Ma\u0142usy Wielkie",
+                "addr:housenumber": "19",
+                "addr:teryt:sym_ul": 138610,
+                "contact:phone": "+48 343284531",
+                "contact:email": "zspmalusy@gmail.com",
+                "ref:regon": "150046365",
+                "ref:vatin": "PL9491863754",
+                "operator": "Gmina Mst\u00f3w",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 64648"
+            }
+        },
+        {
+            "id": 111512,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.3277329,
+                    50.794426
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 111512,
+                "official_name": "Szko\u0142a Podstawowa im. Mieczys\u0142awa Wierzby w Ma\u0142usach Wielkich",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "42-244",
+                "addr:place": "Ma\u0142usy Wielkie",
+                "addr:housenumber": "19",
+                "addr:teryt:sym_ul": 138610,
+                "contact:phone": "+48 343284129",
+                "contact:email": "zspmalusy@gmail.com",
+                "ref:regon": "001204331",
+                "ref:vatin": "PL9491863754",
+                "operator": "Gmina Mst\u00f3w",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 64648"
+            }
+        },
+        {
+            "id": 27397,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.28706,
+                    50.79723
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 27397,
+                "official_name": "Szko\u0142a Podstawowa im. Kornela Makuszy\u0144skiego w Brzyszowie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "42-244",
+                "addr:city": "Brzysz\u00f3w",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "2",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 138483,
+                "contact:phone": "+48 343284119",
+                "contact:email": "spbrzyszow@tlen.pl",
+                "ref:regon": "001204271",
+                "ref:vatin": "PL9490356305",
+                "operator": "Gmina Mst\u00f3w",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 64644,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.38587,
+                    50.80982
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 64644,
+                "official_name": "Szko\u0142a Podstawowa w Mokrzeszy",
+                "name": "Szko\u0142a Podstawowa w Mokrzeszy",
+                "addr:country": "PL",
+                "addr:postcode": "42-244",
+                "addr:city": "Mokrzesz",
+                "addr:street": "ul. Ko\u015bcielna",
+                "addr:housenumber": "24",
+                "addr:teryt:simc": 9546,
+                "addr:teryt:sym_ul": 138626,
+                "contact:phone": "+48 343284548",
+                "contact:email": "spmokrzesz@onet.eu",
+                "ref:regon": "001204325",
+                "ref:vatin": "PL9490356512",
+                "operator": "Gmina Mst\u00f3w",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 64646,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.32641,
+                    50.81682
+                ]
+            },
+            "properties": {
+                "ref:rspo": 64646,
+                "official_name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w Zawadzie",
+                "name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w Zawadzie",
+                "addr:country": "PL",
+                "addr:postcode": "42-244",
+                "addr:city": "Zawada",
+                "addr:street": "ul. G\u0142\u00f3wna",
+                "addr:housenumber": "18",
+                "addr:teryt:simc": 5635,
+                "addr:teryt:sym_ul": 138690,
+                "contact:phone": "+48 343284029",
+                "contact:email": "zsp.zawada@onet.eu",
+                "ref:regon": "240169598",
+                "ref:vatin": "PL9492013644",
+                "operator": "Gmina Mst\u00f3w",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 84422;84427"
+            }
+        },
+        {
+            "id": 84422,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.32641,
+                    50.81679
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 84422,
+                "official_name": "Szko\u0142a Podstawowa w Zawadzie",
+                "name": "Szko\u0142a Podstawowa w Zawadzie",
+                "addr:country": "PL",
+                "addr:postcode": "42-244",
+                "addr:city": "Zawada",
+                "addr:street": "ul. G\u0142\u00f3wna",
+                "addr:housenumber": "18",
+                "addr:teryt:simc": 5635,
+                "addr:teryt:sym_ul": 138690,
+                "contact:phone": "+48 343284029",
+                "contact:email": "zsp.zawada@onet.eu",
+                "ref:regon": "001204302",
+                "ref:vatin": "PL9492013644",
+                "operator": "Gmina Mst\u00f3w",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 64646"
+            }
+        },
+        {
+            "id": 84427,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.32641,
+                    50.81676
+                ]
+            },
+            "properties": {
+                "ref:rspo": 84427,
+                "official_name": "Publiczne Przedszkole w Zawadzie",
+                "name": "Publiczne Przedszkole w Zawadzie",
+                "addr:country": "PL",
+                "addr:postcode": "42-244",
+                "addr:city": "Zawada",
+                "addr:street": "ul. G\u0142\u00f3wna",
+                "addr:housenumber": "18",
+                "addr:teryt:simc": 5635,
+                "addr:teryt:sym_ul": 138690,
+                "contact:phone": "+48 343284029",
+                "contact:email": "zsp.zawada@onet.eu",
+                "ref:regon": "150046371",
+                "ref:vatin": "PL9492013644",
+                "operator": "Gmina Mst\u00f3w",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 64646"
+            }
+        },
+        {
+            "id": 111473,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.28324,
+                    50.8280699
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 111473,
+                "official_name": "Szko\u0142a Podstawowa im.tadeusza Ko\u015bciuszki w Mstowie",
+                "name": "Szko\u0142a Podstawowa im.tadeusza Ko\u015bciuszki w Mstowie",
+                "addr:country": "PL",
+                "addr:postcode": "42-244",
+                "addr:city": "Mst\u00f3w",
+                "addr:street": "ul. Partyzant\u00f3w",
+                "addr:housenumber": "2",
+                "addr:teryt:simc": 15733,
+                "addr:teryt:sym_ul": 138649,
+                "contact:phone": "+48 343284107",
+                "contact:email": "sekretariat@szkolamstow.pl",
+                "contact:website": "http:\/\/www.szkolamstow.pl",
+                "ref:regon": "000661960",
+                "ref:vatin": "PL9492053661",
+                "operator": "Gmina Mst\u00f3w",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Children RSPO: 276749"
+            }
+        },
+        {
+            "id": 64643,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.38277,
+                    50.83181
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 64643,
+                "official_name": "Szko\u0142a Podstawowa im. \u015aw.huberta w Krasicach",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "42-244",
+                "addr:city": "Krasice",
+                "addr:street": "ul. Stra\u017cacka",
+                "addr:housenumber": "7",
+                "addr:teryt:simc": 21271,
+                "addr:teryt:sym_ul": 138566,
+                "contact:phone": "+48 343284560",
+                "contact:email": "spkrasice@vp.pl",
+                "ref:regon": "001204288",
+                "ref:vatin": "PL9490356392",
+                "operator": "Gmina Mst\u00f3w",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 64645,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.28438949585,
+                    50.835140228271
+                ]
+            },
+            "properties": {
+                "ref:rspo": 64645,
+                "official_name": "Przedszkole w Wancerzowie",
+                "name": "Przedszkole w Wancerzowie",
+                "addr:country": "PL",
+                "addr:postcode": "42-244",
+                "addr:city": "Wancerz\u00f3w",
+                "addr:street": "ul. Gminna",
+                "addr:housenumber": "11",
+                "addr:teryt:simc": 5654,
+                "addr:teryt:sym_ul": 138678,
+                "contact:phone": "+48 343146265",
+                "contact:email": "przedszkolewancerzow@op.pl",
+                "ref:regon": "150009370",
+                "ref:vatin": "PL9490357055",
+                "operator": "Gmina Mst\u00f3w",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 64649,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.24525,
+                    50.83751
+                ]
+            },
+            "properties": {
+                "ref:rspo": 64649,
+                "official_name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny im.jana Paw\u0142a II w Jaskrowie",
+                "name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny im.jana Paw\u0142a II w Jaskrowie",
+                "addr:country": "PL",
+                "addr:postcode": "42-244",
+                "addr:city": "Jaskr\u00f3w",
+                "addr:street": "ul. Starowiejska",
+                "addr:housenumber": "2",
+                "addr:teryt:simc": 20998,
+                "addr:teryt:sym_ul": 138520,
+                "contact:phone": "+48 343284771",
+                "contact:email": "zspjaskrow@op.pl",
+                "contact:website": "http:\/\/www.zspjaskrow.republika.pl",
+                "ref:regon": "152133878",
+                "ref:vatin": "PL9491863760",
+                "operator": "Gmina Mst\u00f3w",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 111472;111488"
+            }
+        },
+        {
+            "id": 111472,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.24525,
+                    50.83748
+                ]
+            },
+            "properties": {
+                "ref:rspo": 111472,
+                "official_name": "Przedszkole w Jaskrowie",
+                "name": "Przedszkole w Jaskrowie",
+                "addr:country": "PL",
+                "addr:postcode": "42-244",
+                "addr:city": "Jaskr\u00f3w",
+                "addr:street": "ul. Starowiejska",
+                "addr:housenumber": "2",
+                "addr:teryt:simc": 20998,
+                "addr:teryt:sym_ul": 138520,
+                "contact:phone": "+48 343284771",
+                "contact:email": "zspjaskrow@op.pl",
+                "contact:website": "http:\/\/www.zspjaskrow.republika.pl",
+                "ref:regon": "150046359",
+                "ref:vatin": "PL9491863760",
+                "operator": "Gmina Mst\u00f3w",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 64649"
+            }
+        },
+        {
+            "id": 111488,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.24525,
+                    50.837450000000004
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 111488,
+                "official_name": "Szko\u0142a Podstawowa w Jaskrowie",
+                "name": "Szko\u0142a Podstawowa w Jaskrowie",
+                "addr:country": "PL",
+                "addr:postcode": "42-244",
+                "addr:city": "Jaskr\u00f3w",
+                "addr:street": "ul. Starowiejska",
+                "addr:housenumber": "2",
+                "addr:teryt:simc": 20998,
+                "addr:teryt:sym_ul": 138520,
+                "contact:phone": "+48 343284771",
+                "contact:email": "zspjaskrow@op.pl",
+                "contact:website": "http:\/\/www.zspjaskrow.republika.pl",
+                "ref:regon": "001204319",
+                "ref:vatin": "PL9491863760",
+                "operator": "Gmina Mst\u00f3w",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 64649"
+            }
+        },
+        {
+            "id": 276749,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.30937,
+                    50.85472
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 276749,
+                "official_name": "Filia w Kucharach",
+                "name": "Filia w Kucharach",
+                "addr:country": "PL",
+                "addr:postcode": "42-244",
+                "addr:city": "Kuchary",
+                "addr:street": "ul. G\u0142\u00f3wna",
+                "addr:housenumber": "18",
+                "addr:teryt:simc": 5635,
+                "addr:teryt:sym_ul": 138572,
+                "contact:phone": "+48 343284047",
+                "contact:email": "spkuchary@poczta.fm",
+                "ref:regon": "661960000",
+                "operator": "Gmina Mst\u00f3w",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 111473"
+            }
+        }
+    ]
+}

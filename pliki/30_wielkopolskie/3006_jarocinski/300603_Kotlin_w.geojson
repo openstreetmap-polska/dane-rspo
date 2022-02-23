@@ -1,1 +1,157 @@
-{"type":"FeatureCollection","features":[{"id":22779,"type":"Feature","geometry":{"type":"Point","coordinates":[17.64539,51.91861]},"properties":{"isced:level":"1;2","ref:rspo":22779,"official_name":"Szko\u0142a Podstawowa im. Marii Konopnickiej w Kotlinie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"63-220","addr:city":"Kotlin","addr:street":"ul. Marii Konopnickiej","addr:housenumber":"22","addr:teryt:simc":9186,"addr:teryt:sym_ul":200414,"contact:phone":"+48 627405425","contact:email":"szkola_kotlin@o2.pl","contact:website":"http:\/\/www.spkotlin.szkolnastrona.pl","ref:regon":"000600415","ref:vatin":"PL6171840454","operator":"Gmina Kotlin","operator:type":"government","amenity":"school"}},{"id":22787,"type":"Feature","geometry":{"type":"Point","coordinates":[17.64539,51.91858]},"properties":{"ref:rspo":22787,"official_name":"Publiczne Przedszkole \"S\u0142oneczko\" w Kotlinie","name":"Publiczne Przedszkole \"S\u0142oneczko\" w Kotlinie","addr:country":"PL","addr:postcode":"63-220","addr:city":"Kotlin","addr:street":"ul. Marii Konopnickiej","addr:housenumber":"22","addr:teryt:simc":9186,"addr:teryt:sym_ul":200414,"contact:phone":"+48 627405425","contact:email":"przedszkolekotlin@wp.pl","contact:website":"http:\/\/www.przedszkolekotlin.manifo.com","ref:regon":"251590085","ref:vatin":"PL6171959439","operator":"Gmina Kotlin","operator:type":"government","amenity":"kindergarten"}},{"id":131543,"type":"Feature","geometry":{"type":"Point","coordinates":[17.64539,51.91855]},"properties":{"isced:level":"3","ref:rspo":131543,"official_name":"Prestige Liceum Og\u00f3lnokszta\u0142cace w Kotlinie","name":"Prestige Liceum Og\u00f3lnokszta\u0142cace w Kotlinie","addr:country":"PL","addr:postcode":"63-220","addr:city":"Kotlin","addr:street":"ul. Marii Konopnickiej","addr:housenumber":"22","addr:teryt:simc":9186,"addr:teryt:sym_ul":200414,"contact:phone":"+48 523533967","contact:email":"kontakt@zsprestige.pl","ref:regon":"365218118","operator":"Tw\u00f3j Prestige Sp\u00f3\u0142ka Z Ograniczon\u0105 Odpowiedzialno\u015bci\u0105","operator:type":"private","amenity":"school"}},{"id":22788,"type":"Feature","geometry":{"type":"Point","coordinates":[17.5999139,51.954634]},"properties":{"isced:level":"1;2","ref:rspo":22788,"official_name":"Szko\u0142a Podstawowa im.kornela Makuszy\u0144skiego w Woli Ksi\u0105\u017c\u0119cej","name":"Szko\u0142a Podstawowa im.kornela Makuszy\u0144skiego w Woli Ksi\u0105\u017c\u0119cej","addr:country":"PL","addr:postcode":"63-220","addr:place":"Wola Ksi\u0105\u017c\u0119ca","addr:housenumber":"103","addr:teryt:sym_ul":200503,"contact:phone":"+48 627401402","contact:email":"wolasp1883@gmail.com","contact:website":"http:\/\/www.wolasp.republika.pl","ref:regon":"001171896","ref:vatin":"PL6171835720","operator":"Gmina Kotlin","operator:type":"government","amenity":"school"}},{"id":22785,"type":"Feature","geometry":{"type":"Point","coordinates":[17.6848749,51.9549079]},"properties":{"isced:level":"1;2","ref:rspo":22785,"official_name":"Szko\u0142a Podstawowa im. Arkadego Fiedlera w S\u0142awoszewie Z Siedzib\u0105 w Parzewie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"63-220","addr:place":"Parzew","addr:housenumber":"6A","addr:teryt:sym_ul":200450,"contact:phone":"+48 627406235","contact:email":"spslawoszew@vp.pl","ref:regon":"001171710","ref:vatin":"PL6171840448","operator":"Gmina Kotlin","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 22779,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.64539,
+                    51.91861
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 22779,
+                "official_name": "Szko\u0142a Podstawowa im. Marii Konopnickiej w Kotlinie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "63-220",
+                "addr:city": "Kotlin",
+                "addr:street": "ul. Marii Konopnickiej",
+                "addr:housenumber": "22",
+                "addr:teryt:simc": 9186,
+                "addr:teryt:sym_ul": 200414,
+                "contact:phone": "+48 627405425",
+                "contact:email": "szkola_kotlin@o2.pl",
+                "contact:website": "http:\/\/www.spkotlin.szkolnastrona.pl",
+                "ref:regon": "000600415",
+                "ref:vatin": "PL6171840454",
+                "operator": "Gmina Kotlin",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 22787,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.64539,
+                    51.91858
+                ]
+            },
+            "properties": {
+                "ref:rspo": 22787,
+                "official_name": "Publiczne Przedszkole \"S\u0142oneczko\" w Kotlinie",
+                "name": "Publiczne Przedszkole \"S\u0142oneczko\" w Kotlinie",
+                "addr:country": "PL",
+                "addr:postcode": "63-220",
+                "addr:city": "Kotlin",
+                "addr:street": "ul. Marii Konopnickiej",
+                "addr:housenumber": "22",
+                "addr:teryt:simc": 9186,
+                "addr:teryt:sym_ul": 200414,
+                "contact:phone": "+48 627405425",
+                "contact:email": "przedszkolekotlin@wp.pl",
+                "contact:website": "http:\/\/www.przedszkolekotlin.manifo.com",
+                "ref:regon": "251590085",
+                "ref:vatin": "PL6171959439",
+                "operator": "Gmina Kotlin",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 131543,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.64539,
+                    51.91855
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 131543,
+                "official_name": "Prestige Liceum Og\u00f3lnokszta\u0142cace w Kotlinie",
+                "name": "Prestige Liceum Og\u00f3lnokszta\u0142cace w Kotlinie",
+                "addr:country": "PL",
+                "addr:postcode": "63-220",
+                "addr:city": "Kotlin",
+                "addr:street": "ul. Marii Konopnickiej",
+                "addr:housenumber": "22",
+                "addr:teryt:simc": 9186,
+                "addr:teryt:sym_ul": 200414,
+                "contact:phone": "+48 523533967",
+                "contact:email": "kontakt@zsprestige.pl",
+                "ref:regon": "365218118",
+                "operator": "Tw\u00f3j Prestige Sp\u00f3\u0142ka Z Ograniczon\u0105 Odpowiedzialno\u015bci\u0105",
+                "operator:type": "private",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 22788,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.5999139,
+                    51.954634
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 22788,
+                "official_name": "Szko\u0142a Podstawowa im.kornela Makuszy\u0144skiego w Woli Ksi\u0105\u017c\u0119cej",
+                "name": "Szko\u0142a Podstawowa im.kornela Makuszy\u0144skiego w Woli Ksi\u0105\u017c\u0119cej",
+                "addr:country": "PL",
+                "addr:postcode": "63-220",
+                "addr:place": "Wola Ksi\u0105\u017c\u0119ca",
+                "addr:housenumber": "103",
+                "addr:teryt:sym_ul": 200503,
+                "contact:phone": "+48 627401402",
+                "contact:email": "wolasp1883@gmail.com",
+                "contact:website": "http:\/\/www.wolasp.republika.pl",
+                "ref:regon": "001171896",
+                "ref:vatin": "PL6171835720",
+                "operator": "Gmina Kotlin",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 22785,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.6848749,
+                    51.9549079
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 22785,
+                "official_name": "Szko\u0142a Podstawowa im. Arkadego Fiedlera w S\u0142awoszewie Z Siedzib\u0105 w Parzewie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "63-220",
+                "addr:place": "Parzew",
+                "addr:housenumber": "6A",
+                "addr:teryt:sym_ul": 200450,
+                "contact:phone": "+48 627406235",
+                "contact:email": "spslawoszew@vp.pl",
+                "ref:regon": "001171710",
+                "ref:vatin": "PL6171840448",
+                "operator": "Gmina Kotlin",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

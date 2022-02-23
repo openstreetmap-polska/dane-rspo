@@ -1,1 +1,68 @@
-{"type":"FeatureCollection","features":[{"id":87356,"type":"Feature","geometry":{"type":"Point","coordinates":[22.09092,52.46726]},"properties":{"ref:rspo":87356,"official_name":"Gminne Przedszkole w Miedznie","name":"Gminne Przedszkole w Miedznie","addr:country":"PL","addr:postcode":"07-106","addr:city":"Miedzna","addr:street":"pl. Wolno\u015bci","addr:housenumber":"8","addr:teryt:simc":24685,"addr:teryt:sym_ul":681224,"contact:phone":"+48 256918333","contact:email":"miedznaprzedszkole@poczta.onet.pl","contact:website":"http:\/\/przedszkole-miedzna.pl","ref:regon":"711673504","ref:vatin":"PL8241607481","operator":"Gmina Miedzna","operator:type":"government","amenity":"kindergarten"}},{"id":86713,"type":"Feature","geometry":{"type":"Point","coordinates":[22.0851849,52.4709013]},"properties":{"isced:level":"1;2","ref:rspo":86713,"official_name":"Szko\u0142a Podstawowa im. Tadeusza Ko\u015bciuszki w Miedznie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"07-106","addr:city":"Miedzna","addr:street":"ul. Ko\u015bcielna","addr:housenumber":"15","addr:teryt:simc":9546,"addr:teryt:sym_ul":681224,"contact:phone":"+48 257910581","contact:email":"miedznapodstawowa@poczta.onet.pl","contact:website":"http:\/\/sp-miedzna.pl","ref:regon":"000720119","ref:vatin":"PL8241607506","operator":"Gmina Miedzna","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 87356,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.09092,
+                    52.46726
+                ]
+            },
+            "properties": {
+                "ref:rspo": 87356,
+                "official_name": "Gminne Przedszkole w Miedznie",
+                "name": "Gminne Przedszkole w Miedznie",
+                "addr:country": "PL",
+                "addr:postcode": "07-106",
+                "addr:city": "Miedzna",
+                "addr:street": "pl. Wolno\u015bci",
+                "addr:housenumber": "8",
+                "addr:teryt:simc": 24685,
+                "addr:teryt:sym_ul": 681224,
+                "contact:phone": "+48 256918333",
+                "contact:email": "miedznaprzedszkole@poczta.onet.pl",
+                "contact:website": "http:\/\/przedszkole-miedzna.pl",
+                "ref:regon": "711673504",
+                "ref:vatin": "PL8241607481",
+                "operator": "Gmina Miedzna",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 86713,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.0851849,
+                    52.4709013
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 86713,
+                "official_name": "Szko\u0142a Podstawowa im. Tadeusza Ko\u015bciuszki w Miedznie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "07-106",
+                "addr:city": "Miedzna",
+                "addr:street": "ul. Ko\u015bcielna",
+                "addr:housenumber": "15",
+                "addr:teryt:simc": 9546,
+                "addr:teryt:sym_ul": 681224,
+                "contact:phone": "+48 257910581",
+                "contact:email": "miedznapodstawowa@poczta.onet.pl",
+                "contact:website": "http:\/\/sp-miedzna.pl",
+                "ref:regon": "000720119",
+                "ref:vatin": "PL8241607506",
+                "operator": "Gmina Miedzna",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

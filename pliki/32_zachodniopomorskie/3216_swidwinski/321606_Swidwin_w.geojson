@@ -1,1 +1,120 @@
-{"type":"FeatureCollection","features":[{"id":125558,"type":"Feature","geometry":{"type":"Point","coordinates":[15.8633601,53.747267]},"properties":{"ref:rspo":125558,"official_name":"Przedszkole \"Republika Malucha \" Towarzystwo Przyjaci\u00f3\u0142 Dzieci w Kluczkowie","name":"Przedszkole \"Republika Malucha \" Towarzystwo Przyjaci\u00f3\u0142 Dzieci w Kluczkowie","addr:country":"PL","addr:postcode":"78-324","addr:place":"Kluczkowo","addr:housenumber":"9","addr:teryt:sym_ul":312863,"contact:phone":"+48 943425627","contact:email":"tpd@zeto.koszalin.pl","ref:regon":"321581161","operator":"Towarzystwo Przyjaci\u00f3\u0142 Dzieci Oddzia\u0142 Okr\u0119gowy W Koszalinie","operator:type":"ngo","amenity":"kindergarten"}},{"id":267763,"type":"Feature","geometry":{"type":"Point","coordinates":[15.692501,53.758139]},"properties":{"isced:level":"1;2","ref:rspo":267763,"official_name":"Publiczna Szko\u0142a Podstawowa w Oparznie","name":"Publiczna Szko\u0142a Podstawowa w Oparznie","addr:country":"PL","addr:postcode":"78-300","addr:place":"Oparzno","addr:housenumber":"31","addr:teryt:sym_ul":312952,"contact:phone":"+48 943652455","contact:email":"spoparzno@onet.eu","ref:regon":"380606107","ref:vatin":"PL6722092078","operator":"Gmina \u015awidwin","operator:type":"government","amenity":"school"}},{"id":72708,"type":"Feature","geometry":{"type":"Point","coordinates":[15.880596160889,53.798034667969]},"properties":{"isced:level":"1;2","ref:rspo":72708,"official_name":"Publiczna Szko\u0142a Podstawowa w Bierzwnicy","name":"Publiczna Szko\u0142a Podstawowa w Bierzwnicy","addr:country":"PL","addr:postcode":"78-324","addr:place":"Bierzwnica","addr:housenumber":"52","addr:teryt:sym_ul":1010383,"contact:phone":"+48 943656180","contact:email":"zsbierzwnica@op.pl","contact:website":"http:\/\/zsbierzwnica.edupage.org","ref:regon":"001175492","ref:vatin":"PL6722022310","operator":"Gmina \u015awidwin","operator:type":"government","amenity":"school"}},{"id":72710,"type":"Feature","geometry":{"type":"Point","coordinates":[15.679392,53.815754]},"properties":{"isced:level":"1;2","ref:rspo":72710,"official_name":"Publiczna Szko\u0142a Podstawowa im. Ziemi \u015awidwi\u0144skiej w Lekowie","name":"Publiczna Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"78-312","addr:place":"Lekowo","addr:housenumber":"44c","addr:teryt:sym_ul":312892,"contact:phone":"+48 943655693","contact:email":"sekretariat@zslekowo.pl","contact:website":"http:\/\/www.zslekowo.szkolnastrona.pl","ref:regon":"001175530","operator":"Gmina \u015awidwin","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 125558,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.8633601,
+                    53.747267
+                ]
+            },
+            "properties": {
+                "ref:rspo": 125558,
+                "official_name": "Przedszkole \"Republika Malucha \" Towarzystwo Przyjaci\u00f3\u0142 Dzieci w Kluczkowie",
+                "name": "Przedszkole \"Republika Malucha \" Towarzystwo Przyjaci\u00f3\u0142 Dzieci w Kluczkowie",
+                "addr:country": "PL",
+                "addr:postcode": "78-324",
+                "addr:place": "Kluczkowo",
+                "addr:housenumber": "9",
+                "addr:teryt:sym_ul": 312863,
+                "contact:phone": "+48 943425627",
+                "contact:email": "tpd@zeto.koszalin.pl",
+                "ref:regon": "321581161",
+                "operator": "Towarzystwo Przyjaci\u00f3\u0142 Dzieci Oddzia\u0142 Okr\u0119gowy W Koszalinie",
+                "operator:type": "ngo",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 267763,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.692501,
+                    53.758139
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 267763,
+                "official_name": "Publiczna Szko\u0142a Podstawowa w Oparznie",
+                "name": "Publiczna Szko\u0142a Podstawowa w Oparznie",
+                "addr:country": "PL",
+                "addr:postcode": "78-300",
+                "addr:place": "Oparzno",
+                "addr:housenumber": "31",
+                "addr:teryt:sym_ul": 312952,
+                "contact:phone": "+48 943652455",
+                "contact:email": "spoparzno@onet.eu",
+                "ref:regon": "380606107",
+                "ref:vatin": "PL6722092078",
+                "operator": "Gmina \u015awidwin",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 72708,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.880596160889,
+                    53.798034667969
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 72708,
+                "official_name": "Publiczna Szko\u0142a Podstawowa w Bierzwnicy",
+                "name": "Publiczna Szko\u0142a Podstawowa w Bierzwnicy",
+                "addr:country": "PL",
+                "addr:postcode": "78-324",
+                "addr:place": "Bierzwnica",
+                "addr:housenumber": "52",
+                "addr:teryt:sym_ul": 1010383,
+                "contact:phone": "+48 943656180",
+                "contact:email": "zsbierzwnica@op.pl",
+                "contact:website": "http:\/\/zsbierzwnica.edupage.org",
+                "ref:regon": "001175492",
+                "ref:vatin": "PL6722022310",
+                "operator": "Gmina \u015awidwin",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 72710,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.679392,
+                    53.815754
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 72710,
+                "official_name": "Publiczna Szko\u0142a Podstawowa im. Ziemi \u015awidwi\u0144skiej w Lekowie",
+                "name": "Publiczna Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "78-312",
+                "addr:place": "Lekowo",
+                "addr:housenumber": "44c",
+                "addr:teryt:sym_ul": 312892,
+                "contact:phone": "+48 943655693",
+                "contact:email": "sekretariat@zslekowo.pl",
+                "contact:website": "http:\/\/www.zslekowo.szkolnastrona.pl",
+                "ref:regon": "001175530",
+                "operator": "Gmina \u015awidwin",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

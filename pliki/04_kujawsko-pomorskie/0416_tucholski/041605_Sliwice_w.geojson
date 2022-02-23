@@ -1,1 +1,191 @@
-{"type":"FeatureCollection","features":[{"id":3371,"type":"Feature","geometry":{"type":"Point","coordinates":[18.1937539,53.689518]},"properties":{"isced:level":"1;2","ref:rspo":3371,"official_name":"Szko\u0142a Podstawowa","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"89-530","addr:place":"\u015aliwiczki","addr:housenumber":"97","addr:teryt:sym_ul":97643,"contact:phone":"+48 523340210","contact:email":"spsliwiczki@wp.pl","contact:website":"http:\/\/www.sp.sliwiczki.e12.pl","ref:regon":"001155220","ref:vatin":"PL5611403847","operator":"Gmina \u015aliwice","operator:type":"government","amenity":"school"}},{"id":3370,"type":"Feature","geometry":{"type":"Point","coordinates":[18.1381646,53.691122]},"properties":{"isced:level":"1;2","ref:rspo":3370,"official_name":"Szko\u0142a Podstawowa","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"89-530","addr:place":"Li\u0144sk","addr:housenumber":"37","addr:teryt:sym_ul":97420,"contact:phone":"+48 523340010","contact:email":"splinsk@vp.pl","contact:website":"http:\/\/www.sp-linsk.edu.pl","ref:regon":"001157749","ref:vatin":"PL5611403801","operator":"Gmina \u015aliwice","operator:type":"government","amenity":"school"}},{"id":3372,"type":"Feature","geometry":{"type":"Point","coordinates":[18.17781,53.70726]},"properties":{"isced:level":"1;2","ref:rspo":3372,"official_name":"Szko\u0142a Podstawowa im. Ks. Pra\u0142ata Erharda Staniszewskiego","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"89-530","addr:city":"\u015aliwice","addr:street":"ul. Szkolna","addr:housenumber":"9","addr:teryt:simc":21970,"addr:teryt:sym_ul":97620,"contact:phone":"+48 523340026","contact:email":"spsliwice@wp.pl","contact:website":"https:\/\/www.sp-sliwice.pl","ref:regon":"000553934","ref:vatin":"PL5611403853","operator":"Gmina \u015aliwice","operator:type":"government","amenity":"school"}},{"id":40067,"type":"Feature","geometry":{"type":"Point","coordinates":[18.17781,53.707229999999996]},"properties":{"ref:rspo":40067,"official_name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 w \u015aliwicach","name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 w \u015aliwicach","addr:country":"PL","addr:postcode":"89-530","addr:city":"\u015aliwice","addr:street":"ul. Szkolna","addr:housenumber":"9","addr:teryt:simc":21970,"addr:teryt:sym_ul":97620,"contact:phone":"+48 523340406","contact:email":"zsp-sliwice@tlen.pl","contact:website":"http:\/\/zs-sliwice.pl","ref:regon":"340156807","ref:vatin":"PL5611542715","operator":"Powiat Tucholski","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 74784"}},{"id":74784,"type":"Feature","geometry":{"type":"Point","coordinates":[18.17781,53.7072]},"properties":{"isced:level":"3","ref:rspo":74784,"official_name":"Bran\u017cowa Szko\u0142a I Stopnia w \u015aliwicach","name":"Bran\u017cowa Szko\u0142a I Stopnia w \u015aliwicach","addr:country":"PL","addr:postcode":"89-530","addr:city":"\u015aliwice","addr:street":"ul. Szkolna","addr:housenumber":"9","addr:teryt:simc":21970,"addr:teryt:sym_ul":97620,"contact:phone":"+48 523340406","contact:email":"zsp-sliwice@tlen.pl","ref:regon":"340156836","operator":"Powiat Tucholski","operator:type":"government","amenity":"school","note":"Parent RSPO: 40067"}},{"id":3373,"type":"Feature","geometry":{"type":"Point","coordinates":[18.17834,53.71081]},"properties":{"ref:rspo":3373,"official_name":"Przedszkole Samorz\u0105dowe \"Borowiaczek\"","name":"Przedszkole Samorz\u0105dowe \"Borowiaczek\"","addr:country":"PL","addr:postcode":"89-530","addr:city":"\u015aliwice","addr:street":"ul. Pocztowa","addr:housenumber":"2","addr:teryt:simc":16579,"addr:teryt:sym_ul":97620,"contact:phone":"+48 523340091","contact:email":"borowiaczek2@o2.pl","ref:regon":"000270892","ref:vatin":"PL5611052052","operator":"Gmina \u015aliwice","operator:type":"government","amenity":"kindergarten"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 3371,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.1937539,
+                    53.689518
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 3371,
+                "official_name": "Szko\u0142a Podstawowa",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "89-530",
+                "addr:place": "\u015aliwiczki",
+                "addr:housenumber": "97",
+                "addr:teryt:sym_ul": 97643,
+                "contact:phone": "+48 523340210",
+                "contact:email": "spsliwiczki@wp.pl",
+                "contact:website": "http:\/\/www.sp.sliwiczki.e12.pl",
+                "ref:regon": "001155220",
+                "ref:vatin": "PL5611403847",
+                "operator": "Gmina \u015aliwice",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 3370,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.1381646,
+                    53.691122
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 3370,
+                "official_name": "Szko\u0142a Podstawowa",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "89-530",
+                "addr:place": "Li\u0144sk",
+                "addr:housenumber": "37",
+                "addr:teryt:sym_ul": 97420,
+                "contact:phone": "+48 523340010",
+                "contact:email": "splinsk@vp.pl",
+                "contact:website": "http:\/\/www.sp-linsk.edu.pl",
+                "ref:regon": "001157749",
+                "ref:vatin": "PL5611403801",
+                "operator": "Gmina \u015aliwice",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 3372,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.17781,
+                    53.70726
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 3372,
+                "official_name": "Szko\u0142a Podstawowa im. Ks. Pra\u0142ata Erharda Staniszewskiego",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "89-530",
+                "addr:city": "\u015aliwice",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "9",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 97620,
+                "contact:phone": "+48 523340026",
+                "contact:email": "spsliwice@wp.pl",
+                "contact:website": "https:\/\/www.sp-sliwice.pl",
+                "ref:regon": "000553934",
+                "ref:vatin": "PL5611403853",
+                "operator": "Gmina \u015aliwice",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 40067,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.17781,
+                    53.707229999999996
+                ]
+            },
+            "properties": {
+                "ref:rspo": 40067,
+                "official_name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 w \u015aliwicach",
+                "name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 w \u015aliwicach",
+                "addr:country": "PL",
+                "addr:postcode": "89-530",
+                "addr:city": "\u015aliwice",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "9",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 97620,
+                "contact:phone": "+48 523340406",
+                "contact:email": "zsp-sliwice@tlen.pl",
+                "contact:website": "http:\/\/zs-sliwice.pl",
+                "ref:regon": "340156807",
+                "ref:vatin": "PL5611542715",
+                "operator": "Powiat Tucholski",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 74784"
+            }
+        },
+        {
+            "id": 74784,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.17781,
+                    53.7072
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 74784,
+                "official_name": "Bran\u017cowa Szko\u0142a I Stopnia w \u015aliwicach",
+                "name": "Bran\u017cowa Szko\u0142a I Stopnia w \u015aliwicach",
+                "addr:country": "PL",
+                "addr:postcode": "89-530",
+                "addr:city": "\u015aliwice",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "9",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 97620,
+                "contact:phone": "+48 523340406",
+                "contact:email": "zsp-sliwice@tlen.pl",
+                "ref:regon": "340156836",
+                "operator": "Powiat Tucholski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 40067"
+            }
+        },
+        {
+            "id": 3373,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.17834,
+                    53.71081
+                ]
+            },
+            "properties": {
+                "ref:rspo": 3373,
+                "official_name": "Przedszkole Samorz\u0105dowe \"Borowiaczek\"",
+                "name": "Przedszkole Samorz\u0105dowe \"Borowiaczek\"",
+                "addr:country": "PL",
+                "addr:postcode": "89-530",
+                "addr:city": "\u015aliwice",
+                "addr:street": "ul. Pocztowa",
+                "addr:housenumber": "2",
+                "addr:teryt:simc": 16579,
+                "addr:teryt:sym_ul": 97620,
+                "contact:phone": "+48 523340091",
+                "contact:email": "borowiaczek2@o2.pl",
+                "ref:regon": "000270892",
+                "ref:vatin": "PL5611052052",
+                "operator": "Gmina \u015aliwice",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        }
+    ]
+}

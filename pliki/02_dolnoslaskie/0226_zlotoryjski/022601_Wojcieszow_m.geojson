@@ -1,1 +1,160 @@
-{"type":"FeatureCollection","features":[{"id":19326,"type":"Feature","geometry":{"type":"Point","coordinates":[15.92855,50.93437]},"properties":{"ref:rspo":19326,"official_name":"Specjalny O\u015brodek Szkolno-Wychowawczy im. Katarzyny Rogowiec w Wojcieszowie","name":"Specjalny O\u015brodek Szkolno-Wychowawczy","addr:country":"PL","addr:postcode":"59-550","addr:city":"Wojciesz\u00f3w","addr:street":"ul. Miedziana","addr:housenumber":"1","addr:teryt:simc":12765,"addr:teryt:sym_ul":936517,"contact:phone":"+48 757512361","contact:email":"soswwojcieszow@wp.pl","contact:website":"http:\/\/www.sosw-wojcieszow.pl\/","ref:regon":"001095818","ref:vatin":"PL6111142315","operator":"Powiat Z\u0142otoryjski","operator:type":"government","amenity":"school","note":"Children RSPO: 31963;31994"}},{"id":31963,"type":"Feature","geometry":{"type":"Point","coordinates":[15.92855,50.93434]},"properties":{"isced:level":"1;2","ref:rspo":31963,"official_name":"Szkola Podstawowa Specjalna","name":"Szkola Podstawowa Specjalna","addr:country":"PL","addr:postcode":"59-550","addr:city":"Wojciesz\u00f3w","addr:street":"ul. Miedziana","addr:housenumber":"1","addr:teryt:simc":12765,"addr:teryt:sym_ul":936517,"contact:phone":"+48 757512361","contact:email":"soswojcieszow@wp.pl","ref:regon":"391009771","operator":"Powiat Z\u0142otoryjski","operator:type":"government","amenity":"school","note":"Parent RSPO: 19326"}},{"id":31994,"type":"Feature","geometry":{"type":"Point","coordinates":[15.92855,50.93431]},"properties":{"ref:rspo":31994,"official_name":"Szko\u0142a Specjalna Przysposabiaj\u0105ca Do Pracy","name":"Szko\u0142a Specjalna Przysposabiaj\u0105ca Do Pracy","addr:country":"PL","addr:postcode":"59-550","addr:city":"Wojciesz\u00f3w","addr:street":"ul. Miedziana","addr:housenumber":"1","addr:teryt:simc":12765,"addr:teryt:sym_ul":936517,"contact:phone":"+48 757512361","contact:email":"soswojcieszow@wp.pl","ref:regon":"391009736","operator":"Powiat Z\u0142otoryjski","operator:type":"government","amenity":"school","note":"Parent RSPO: 19326"}},{"id":41057,"type":"Feature","geometry":{"type":"Point","coordinates":[15.92542,50.94579]},"properties":{"ref:rspo":41057,"official_name":"Miejskie Przedszkole Publiczne w Wojcieszowie","name":"Miejskie Przedszkole Publiczne w Wojcieszowie","addr:country":"PL","addr:postcode":"59-550","addr:city":"Wojciesz\u00f3w","addr:street":"ul. Boles\u0142awa Chrobrego","addr:housenumber":"50","addr:teryt:simc":1742,"addr:teryt:sym_ul":936517,"contact:phone":"+48 757512564","contact:email":"przedszkolew@wp.pl","contact:website":"http:\/\/www.przedszkole-wojcieszow.pl","ref:regon":"001068804","ref:vatin":"PL6941626166","operator":"Gmina Wojciesz\u00f3w","operator:type":"government","amenity":"kindergarten"}},{"id":42548,"type":"Feature","geometry":{"type":"Point","coordinates":[15.93019,50.94618]},"properties":{"isced:level":"1;2","ref:rspo":42548,"official_name":"Szko\u0142a Podstawowa im. W\u0142adys\u0142awa Broniewskiego w Wojcieszowie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"59-550","addr:city":"Wojciesz\u00f3w","addr:street":"ul. Stefana \u017beromskiego","addr:housenumber":"8","addr:teryt:simc":26469,"addr:teryt:sym_ul":936517,"contact:phone":"+48 757512298","contact:email":"szkolapodstawowa@wojcieszow.pl","contact:website":"http:\/\/www.zszwojcieszow.pl","ref:regon":"000241258","operator":"Gmina Wojciesz\u00f3w","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 19326,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.92855,
+                    50.93437
+                ]
+            },
+            "properties": {
+                "ref:rspo": 19326,
+                "official_name": "Specjalny O\u015brodek Szkolno-Wychowawczy im. Katarzyny Rogowiec w Wojcieszowie",
+                "name": "Specjalny O\u015brodek Szkolno-Wychowawczy",
+                "addr:country": "PL",
+                "addr:postcode": "59-550",
+                "addr:city": "Wojciesz\u00f3w",
+                "addr:street": "ul. Miedziana",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 12765,
+                "addr:teryt:sym_ul": 936517,
+                "contact:phone": "+48 757512361",
+                "contact:email": "soswwojcieszow@wp.pl",
+                "contact:website": "http:\/\/www.sosw-wojcieszow.pl\/",
+                "ref:regon": "001095818",
+                "ref:vatin": "PL6111142315",
+                "operator": "Powiat Z\u0142otoryjski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Children RSPO: 31963;31994"
+            }
+        },
+        {
+            "id": 31963,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.92855,
+                    50.93434
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 31963,
+                "official_name": "Szkola Podstawowa Specjalna",
+                "name": "Szkola Podstawowa Specjalna",
+                "addr:country": "PL",
+                "addr:postcode": "59-550",
+                "addr:city": "Wojciesz\u00f3w",
+                "addr:street": "ul. Miedziana",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 12765,
+                "addr:teryt:sym_ul": 936517,
+                "contact:phone": "+48 757512361",
+                "contact:email": "soswojcieszow@wp.pl",
+                "ref:regon": "391009771",
+                "operator": "Powiat Z\u0142otoryjski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 19326"
+            }
+        },
+        {
+            "id": 31994,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.92855,
+                    50.93431
+                ]
+            },
+            "properties": {
+                "ref:rspo": 31994,
+                "official_name": "Szko\u0142a Specjalna Przysposabiaj\u0105ca Do Pracy",
+                "name": "Szko\u0142a Specjalna Przysposabiaj\u0105ca Do Pracy",
+                "addr:country": "PL",
+                "addr:postcode": "59-550",
+                "addr:city": "Wojciesz\u00f3w",
+                "addr:street": "ul. Miedziana",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 12765,
+                "addr:teryt:sym_ul": 936517,
+                "contact:phone": "+48 757512361",
+                "contact:email": "soswojcieszow@wp.pl",
+                "ref:regon": "391009736",
+                "operator": "Powiat Z\u0142otoryjski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 19326"
+            }
+        },
+        {
+            "id": 41057,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.92542,
+                    50.94579
+                ]
+            },
+            "properties": {
+                "ref:rspo": 41057,
+                "official_name": "Miejskie Przedszkole Publiczne w Wojcieszowie",
+                "name": "Miejskie Przedszkole Publiczne w Wojcieszowie",
+                "addr:country": "PL",
+                "addr:postcode": "59-550",
+                "addr:city": "Wojciesz\u00f3w",
+                "addr:street": "ul. Boles\u0142awa Chrobrego",
+                "addr:housenumber": "50",
+                "addr:teryt:simc": 1742,
+                "addr:teryt:sym_ul": 936517,
+                "contact:phone": "+48 757512564",
+                "contact:email": "przedszkolew@wp.pl",
+                "contact:website": "http:\/\/www.przedszkole-wojcieszow.pl",
+                "ref:regon": "001068804",
+                "ref:vatin": "PL6941626166",
+                "operator": "Gmina Wojciesz\u00f3w",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 42548,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.93019,
+                    50.94618
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 42548,
+                "official_name": "Szko\u0142a Podstawowa im. W\u0142adys\u0142awa Broniewskiego w Wojcieszowie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "59-550",
+                "addr:city": "Wojciesz\u00f3w",
+                "addr:street": "ul. Stefana \u017beromskiego",
+                "addr:housenumber": "8",
+                "addr:teryt:simc": 26469,
+                "addr:teryt:sym_ul": 936517,
+                "contact:phone": "+48 757512298",
+                "contact:email": "szkolapodstawowa@wojcieszow.pl",
+                "contact:website": "http:\/\/www.zszwojcieszow.pl",
+                "ref:regon": "000241258",
+                "operator": "Gmina Wojciesz\u00f3w",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

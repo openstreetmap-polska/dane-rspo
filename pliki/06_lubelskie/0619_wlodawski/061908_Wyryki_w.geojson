@@ -1,1 +1,144 @@
-{"type":"FeatureCollection","features":[{"id":104216,"type":"Feature","geometry":{"type":"Point","coordinates":[23.435669,51.5159499]},"properties":{"ref:rspo":104216,"official_name":"Punkt Przedszkolny w Suchawie","name":"Punkt Przedszkolny w Suchawie","addr:country":"PL","addr:postcode":"22-200","addr:place":"Suchawa","addr:housenumber":"8B","addr:teryt:sym_ul":110906,"contact:phone":"+48 825913006","contact:email":"zs_wyryki@interia.pl","ref:regon":"061503825","operator":"Gmina Wyryki","operator:type":"government","amenity":"kindergarten"}},{"id":104214,"type":"Feature","geometry":{"type":"Point","coordinates":[23.384773,51.561994]},"properties":{"isced:level":"1;2","ref:rspo":104214,"official_name":"Szko\u0142a Podstawowa im. Armii Krajowej w Wyrykach","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"22-205","addr:place":"Wyryki-Po\u0142\u00f3d","addr:housenumber":"208","addr:teryt:sym_ul":110958,"contact:phone":"+48 825913006","contact:email":"zs_wyryki@interia.pl","ref:regon":"000594092","operator":"Gmina Wyryki","operator:type":"government","amenity":"school"}},{"id":103336,"type":"Feature","geometry":{"type":"Point","coordinates":[23.3937638,51.562497]},"properties":{"ref:rspo":103336,"official_name":"Punkt Przedszkolny w Wyrykach","name":"Punkt Przedszkolny w Wyrykach","addr:country":"PL","addr:postcode":"22-205","addr:place":"Wyryki-Po\u0142\u00f3d","addr:housenumber":"155","addr:teryt:sym_ul":110958,"contact:phone":"+48 825913006","contact:email":"zs_wyryki@interia.pl","ref:regon":"061498219","operator":"Gmina Wyryki","operator:type":"government","amenity":"kindergarten"}},{"id":49658,"type":"Feature","geometry":{"type":"Point","coordinates":[23.338389,51.6042829]},"properties":{"isced:level":"1;2","ref:rspo":49658,"official_name":"Szko\u0142a Podstawowa im. Jana Paw\u0142a II w Kaplonosach","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"22-205","addr:place":"Kaplonosy","addr:housenumber":"73","addr:teryt:sym_ul":110740,"contact:phone":"+48 825717226","contact:email":"spkaplonosy@wp.pl","ref:regon":"001144920","ref:vatin":"PL5651382910","operator":"Gmina Wyryki","operator:type":"government","amenity":"school"}},{"id":276765,"type":"Feature","geometry":{"type":"Point","coordinates":[23.338389,51.6042529]},"properties":{"ref:rspo":276765,"official_name":"Punkt Przedszkolny w Kaplonosach","name":"Punkt Przedszkolny w Kaplonosach","addr:country":"PL","addr:postcode":"22-205","addr:place":"Kaplonosy","addr:housenumber":"73","addr:teryt:sym_ul":110740,"contact:phone":"+48 825717226","contact:email":"spkaplonosy@wp.pl","contact:website":"http:\/\/spkaplonosy.szkolnastrona.pl","ref:regon":"387537527","operator":"Gmina Wyryki","operator:type":"government","amenity":"kindergarten"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 104216,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.435669,
+                    51.5159499
+                ]
+            },
+            "properties": {
+                "ref:rspo": 104216,
+                "official_name": "Punkt Przedszkolny w Suchawie",
+                "name": "Punkt Przedszkolny w Suchawie",
+                "addr:country": "PL",
+                "addr:postcode": "22-200",
+                "addr:place": "Suchawa",
+                "addr:housenumber": "8B",
+                "addr:teryt:sym_ul": 110906,
+                "contact:phone": "+48 825913006",
+                "contact:email": "zs_wyryki@interia.pl",
+                "ref:regon": "061503825",
+                "operator": "Gmina Wyryki",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 104214,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.384773,
+                    51.561994
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 104214,
+                "official_name": "Szko\u0142a Podstawowa im. Armii Krajowej w Wyrykach",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "22-205",
+                "addr:place": "Wyryki-Po\u0142\u00f3d",
+                "addr:housenumber": "208",
+                "addr:teryt:sym_ul": 110958,
+                "contact:phone": "+48 825913006",
+                "contact:email": "zs_wyryki@interia.pl",
+                "ref:regon": "000594092",
+                "operator": "Gmina Wyryki",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 103336,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.3937638,
+                    51.562497
+                ]
+            },
+            "properties": {
+                "ref:rspo": 103336,
+                "official_name": "Punkt Przedszkolny w Wyrykach",
+                "name": "Punkt Przedszkolny w Wyrykach",
+                "addr:country": "PL",
+                "addr:postcode": "22-205",
+                "addr:place": "Wyryki-Po\u0142\u00f3d",
+                "addr:housenumber": "155",
+                "addr:teryt:sym_ul": 110958,
+                "contact:phone": "+48 825913006",
+                "contact:email": "zs_wyryki@interia.pl",
+                "ref:regon": "061498219",
+                "operator": "Gmina Wyryki",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 49658,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.338389,
+                    51.6042829
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 49658,
+                "official_name": "Szko\u0142a Podstawowa im. Jana Paw\u0142a II w Kaplonosach",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "22-205",
+                "addr:place": "Kaplonosy",
+                "addr:housenumber": "73",
+                "addr:teryt:sym_ul": 110740,
+                "contact:phone": "+48 825717226",
+                "contact:email": "spkaplonosy@wp.pl",
+                "ref:regon": "001144920",
+                "ref:vatin": "PL5651382910",
+                "operator": "Gmina Wyryki",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 276765,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.338389,
+                    51.6042529
+                ]
+            },
+            "properties": {
+                "ref:rspo": 276765,
+                "official_name": "Punkt Przedszkolny w Kaplonosach",
+                "name": "Punkt Przedszkolny w Kaplonosach",
+                "addr:country": "PL",
+                "addr:postcode": "22-205",
+                "addr:place": "Kaplonosy",
+                "addr:housenumber": "73",
+                "addr:teryt:sym_ul": 110740,
+                "contact:phone": "+48 825717226",
+                "contact:email": "spkaplonosy@wp.pl",
+                "contact:website": "http:\/\/spkaplonosy.szkolnastrona.pl",
+                "ref:regon": "387537527",
+                "operator": "Gmina Wyryki",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        }
+    ]
+}

@@ -1,1 +1,183 @@
-{"type":"FeatureCollection","features":[{"id":277723,"type":"Feature","geometry":{"type":"Point","coordinates":[23.01473,53.12563]},"properties":{"ref:rspo":277723,"official_name":"Przedszkole Samorz\u0105dowe w Barszczewie","name":"Przedszkole Samorz\u0105dowe w Barszczewie","addr:country":"PL","addr:postcode":"16-070","addr:place":"Barszczewo","addr:housenumber":"42","addr:teryt:sym_ul":25046,"contact:phone":"+48 857191390","contact:email":"psbarszczewo@choroszcz.pl","ref:regon":"389397786","ref:vatin":"PL9662152699","operator":"Gmina Choroszcz","operator:type":"government","amenity":"kindergarten"}},{"id":270401,"type":"Feature","geometry":{"type":"Point","coordinates":[22.99006,53.14236]},"properties":{"ref:rspo":270401,"official_name":"Niepubliczne Przedszkole Czerwone Serduszko","name":"Niepubliczne Przedszkole Czerwone Serduszko","addr:country":"PL","addr:postcode":"16-070","addr:city":"Choroszcz","addr:street":"ul. Bociania","addr:housenumber":"2","addr:teryt:simc":1518,"addr:teryt:sym_ul":922811,"contact:phone":"+48 882559774","contact:email":"biuro@czerwoneserduszko.pl","contact:website":"http:\/\/czerwoneserduszko.pl","ref:regon":"382528067","operator":"Stowarzyszenie Konsultingowo-Doradcze \"Wrota Biznesu\"","operator:type":"ngo","amenity":"kindergarten"}},{"id":52687,"type":"Feature","geometry":{"type":"Point","coordinates":[22.99125,53.14628]},"properties":{"ref:rspo":52687,"official_name":"Przedszkole Samorz\u0105dowe im. Jana Paw\u0142a II w Choroszczy","name":"Przedszkole Samorz\u0105dowe","addr:country":"PL","addr:postcode":"16-070","addr:city":"Choroszcz","addr:street":"ul. Powstania Styczniowego","addr:housenumber":"4","addr:teryt:simc":17340,"addr:teryt:sym_ul":922811,"contact:phone":"+48 857191007","contact:email":"ps@choroszcz.pl","contact:website":"http:\/\/www.ps-choroszcz.pl\/","ref:regon":"200407860","ref:vatin":"PL9662054092","operator":"Gmina Choroszcz","operator:type":"government","amenity":"kindergarten"}},{"id":52691,"type":"Feature","geometry":{"type":"Point","coordinates":[22.98892,53.14796]},"properties":{"isced:level":"1;2","ref:rspo":52691,"official_name":"Szko\u0142a Podstawowa im. Henryka Sienkiewicza w Choroszczy","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"16-070","addr:city":"Choroszcz","addr:street":"ul. Powstania Styczniowego","addr:housenumber":"26A","addr:teryt:simc":17340,"addr:teryt:sym_ul":922811,"contact:phone":"+48 857131480","contact:email":"sp@choroszcz.pl","contact:website":"http:\/\/sp.choroszcz.pl","ref:regon":"052131121","ref:vatin":"PL9661624699","operator":"Gmina Choroszcz","operator:type":"government","amenity":"school"}},{"id":24069,"type":"Feature","geometry":{"type":"Point","coordinates":[22.943715,53.169201]},"properties":{"isced:level":"1;2","ref:rspo":24069,"official_name":"Szko\u0142a Podstawowa w Z\u0142otorii","name":"Szko\u0142a Podstawowa w Z\u0142otorii","addr:country":"PL","addr:postcode":"16-070","addr:place":"Z\u0142otoria","addr:housenumber":"159A","addr:teryt:sym_ul":25342,"contact:phone":"+48 693520063","contact:email":"spzlotoria@choroszcz.pl","contact:website":"http:\/\/www.spzlotoria.edupage.org","ref:regon":"001163997","ref:vatin":"PL9661398547","operator":"Gmina Choroszcz","operator:type":"government","amenity":"school"}},{"id":277725,"type":"Feature","geometry":{"type":"Point","coordinates":[22.943715,53.169171]},"properties":{"ref:rspo":277725,"official_name":"Punkt Przedszkolny Przy Szkole Podstawowej w Z\u0142otorii","name":"Punkt Przedszkolny Przy Szkole Podstawowej w Z\u0142otorii","addr:country":"PL","addr:postcode":"16-070","addr:place":"Z\u0142otoria","addr:housenumber":"159a","addr:teryt:sym_ul":25342,"contact:email":"spzlotoria@choroszcz.pl","contact:website":"http:\/\/spzlotoria.edupage.org\/","ref:regon":"389397800","operator":"Gmina Choroszcz","operator:type":"government","amenity":"kindergarten"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 277723,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.01473,
+                    53.12563
+                ]
+            },
+            "properties": {
+                "ref:rspo": 277723,
+                "official_name": "Przedszkole Samorz\u0105dowe w Barszczewie",
+                "name": "Przedszkole Samorz\u0105dowe w Barszczewie",
+                "addr:country": "PL",
+                "addr:postcode": "16-070",
+                "addr:place": "Barszczewo",
+                "addr:housenumber": "42",
+                "addr:teryt:sym_ul": 25046,
+                "contact:phone": "+48 857191390",
+                "contact:email": "psbarszczewo@choroszcz.pl",
+                "ref:regon": "389397786",
+                "ref:vatin": "PL9662152699",
+                "operator": "Gmina Choroszcz",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 270401,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.99006,
+                    53.14236
+                ]
+            },
+            "properties": {
+                "ref:rspo": 270401,
+                "official_name": "Niepubliczne Przedszkole Czerwone Serduszko",
+                "name": "Niepubliczne Przedszkole Czerwone Serduszko",
+                "addr:country": "PL",
+                "addr:postcode": "16-070",
+                "addr:city": "Choroszcz",
+                "addr:street": "ul. Bociania",
+                "addr:housenumber": "2",
+                "addr:teryt:simc": 1518,
+                "addr:teryt:sym_ul": 922811,
+                "contact:phone": "+48 882559774",
+                "contact:email": "biuro@czerwoneserduszko.pl",
+                "contact:website": "http:\/\/czerwoneserduszko.pl",
+                "ref:regon": "382528067",
+                "operator": "Stowarzyszenie Konsultingowo-Doradcze \"Wrota Biznesu\"",
+                "operator:type": "ngo",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 52687,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.99125,
+                    53.14628
+                ]
+            },
+            "properties": {
+                "ref:rspo": 52687,
+                "official_name": "Przedszkole Samorz\u0105dowe im. Jana Paw\u0142a II w Choroszczy",
+                "name": "Przedszkole Samorz\u0105dowe",
+                "addr:country": "PL",
+                "addr:postcode": "16-070",
+                "addr:city": "Choroszcz",
+                "addr:street": "ul. Powstania Styczniowego",
+                "addr:housenumber": "4",
+                "addr:teryt:simc": 17340,
+                "addr:teryt:sym_ul": 922811,
+                "contact:phone": "+48 857191007",
+                "contact:email": "ps@choroszcz.pl",
+                "contact:website": "http:\/\/www.ps-choroszcz.pl\/",
+                "ref:regon": "200407860",
+                "ref:vatin": "PL9662054092",
+                "operator": "Gmina Choroszcz",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 52691,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.98892,
+                    53.14796
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 52691,
+                "official_name": "Szko\u0142a Podstawowa im. Henryka Sienkiewicza w Choroszczy",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "16-070",
+                "addr:city": "Choroszcz",
+                "addr:street": "ul. Powstania Styczniowego",
+                "addr:housenumber": "26A",
+                "addr:teryt:simc": 17340,
+                "addr:teryt:sym_ul": 922811,
+                "contact:phone": "+48 857131480",
+                "contact:email": "sp@choroszcz.pl",
+                "contact:website": "http:\/\/sp.choroszcz.pl",
+                "ref:regon": "052131121",
+                "ref:vatin": "PL9661624699",
+                "operator": "Gmina Choroszcz",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 24069,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.943715,
+                    53.169201
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 24069,
+                "official_name": "Szko\u0142a Podstawowa w Z\u0142otorii",
+                "name": "Szko\u0142a Podstawowa w Z\u0142otorii",
+                "addr:country": "PL",
+                "addr:postcode": "16-070",
+                "addr:place": "Z\u0142otoria",
+                "addr:housenumber": "159A",
+                "addr:teryt:sym_ul": 25342,
+                "contact:phone": "+48 693520063",
+                "contact:email": "spzlotoria@choroszcz.pl",
+                "contact:website": "http:\/\/www.spzlotoria.edupage.org",
+                "ref:regon": "001163997",
+                "ref:vatin": "PL9661398547",
+                "operator": "Gmina Choroszcz",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 277725,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.943715,
+                    53.169171
+                ]
+            },
+            "properties": {
+                "ref:rspo": 277725,
+                "official_name": "Punkt Przedszkolny Przy Szkole Podstawowej w Z\u0142otorii",
+                "name": "Punkt Przedszkolny Przy Szkole Podstawowej w Z\u0142otorii",
+                "addr:country": "PL",
+                "addr:postcode": "16-070",
+                "addr:place": "Z\u0142otoria",
+                "addr:housenumber": "159a",
+                "addr:teryt:sym_ul": 25342,
+                "contact:email": "spzlotoria@choroszcz.pl",
+                "contact:website": "http:\/\/spzlotoria.edupage.org\/",
+                "ref:regon": "389397800",
+                "operator": "Gmina Choroszcz",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        }
+    ]
+}

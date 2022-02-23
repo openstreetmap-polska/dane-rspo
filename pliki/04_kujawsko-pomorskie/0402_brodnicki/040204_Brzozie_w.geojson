@@ -1,1 +1,95 @@
-{"type":"FeatureCollection","features":[{"id":19747,"type":"Feature","geometry":{"type":"Point","coordinates":[19.69039,53.2881]},"properties":{"isced:level":"1;2","ref:rspo":19747,"official_name":"Szko\u0142a Podstawowa","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"87-313","addr:place":"Wielkie Le\u017ano","addr:housenumber":"1","addr:teryt:sym_ul":841426,"contact:phone":"+48 564935582","contact:email":"splezno@tlen.pl","contact:website":"http:\/\/spwielkielezno.edupage.org","ref:regon":"001211325","ref:vatin":"PL8741642150","operator":"Gmina Brzozie","operator:type":"government","amenity":"school"}},{"id":19750,"type":"Feature","geometry":{"type":"Point","coordinates":[19.50108,53.2977599]},"properties":{"isced:level":"1;2","ref:rspo":19750,"official_name":"Szko\u0142a Podstawowa","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"87-313","addr:place":"Jajkowo","addr:housenumber":"11","addr:teryt:sym_ul":841283,"contact:phone":"+48 564985021","contact:email":"jajkowo@poczta.fm","contact:website":"http:\/\/www.spjajkowo.szkolnastrona.pl\/","ref:regon":"001211331","ref:vatin":"PL8741642173","operator":"Gmina Brzozie","operator:type":"government","amenity":"school"}},{"id":19748,"type":"Feature","geometry":{"type":"Point","coordinates":[19.60797,53.3269499]},"properties":{"isced:level":"1;2","ref:rspo":19748,"official_name":"Szko\u0142a Podstawowa","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"87-313","addr:place":"Brzozie","addr:housenumber":"51B","addr:teryt:sym_ul":841260,"contact:phone":"+48 564935470","contact:email":"spbrzozie@wp.pl","contact:website":"http:\/\/www.spbrzozie.szkolnastrona.pl","ref:regon":"000267772","ref:vatin":"PL8741642144","operator":"Gmina Brzozie","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 19747,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.69039,
+                    53.2881
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 19747,
+                "official_name": "Szko\u0142a Podstawowa",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "87-313",
+                "addr:place": "Wielkie Le\u017ano",
+                "addr:housenumber": "1",
+                "addr:teryt:sym_ul": 841426,
+                "contact:phone": "+48 564935582",
+                "contact:email": "splezno@tlen.pl",
+                "contact:website": "http:\/\/spwielkielezno.edupage.org",
+                "ref:regon": "001211325",
+                "ref:vatin": "PL8741642150",
+                "operator": "Gmina Brzozie",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 19750,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.50108,
+                    53.2977599
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 19750,
+                "official_name": "Szko\u0142a Podstawowa",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "87-313",
+                "addr:place": "Jajkowo",
+                "addr:housenumber": "11",
+                "addr:teryt:sym_ul": 841283,
+                "contact:phone": "+48 564985021",
+                "contact:email": "jajkowo@poczta.fm",
+                "contact:website": "http:\/\/www.spjajkowo.szkolnastrona.pl\/",
+                "ref:regon": "001211331",
+                "ref:vatin": "PL8741642173",
+                "operator": "Gmina Brzozie",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 19748,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.60797,
+                    53.3269499
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 19748,
+                "official_name": "Szko\u0142a Podstawowa",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "87-313",
+                "addr:place": "Brzozie",
+                "addr:housenumber": "51B",
+                "addr:teryt:sym_ul": 841260,
+                "contact:phone": "+48 564935470",
+                "contact:email": "spbrzozie@wp.pl",
+                "contact:website": "http:\/\/www.spbrzozie.szkolnastrona.pl",
+                "ref:regon": "000267772",
+                "ref:vatin": "PL8741642144",
+                "operator": "Gmina Brzozie",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

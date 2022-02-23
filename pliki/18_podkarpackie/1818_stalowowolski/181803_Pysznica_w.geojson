@@ -1,1 +1,193 @@
-{"type":"FeatureCollection","features":[{"id":43666,"type":"Feature","geometry":{"type":"Point","coordinates":[22.16701,50.54631]},"properties":{"isced:level":"1;2","ref:rspo":43666,"official_name":"Publiczna Szko\u0142a Podstawowa im.kardyna\u0142a Stefana Wyszy\u0144skiego w K\u0142y\u017cowie","name":"Publiczna Szko\u0142a Podstawowa im.kardyna\u0142a Stefana Wyszy\u0144skiego w K\u0142y\u017cowie","addr:country":"PL","addr:postcode":"37-403","addr:city":"K\u0142y\u017c\u00f3w","addr:street":"ul. Mickiewicza","addr:housenumber":"70","addr:teryt:simc":12734,"addr:teryt:sym_ul":804388,"contact:phone":"+48 158410746","contact:email":"zs.klyzow@pysznica.pl","contact:website":"http:\/\/www.zsklyzow.szkolnastrona.pl","ref:regon":"831202074","ref:vatin":"PL8652149761","operator":"Gmina Pysznica","operator:type":"government","amenity":"school"}},{"id":42744,"type":"Feature","geometry":{"type":"Point","coordinates":[22.21406,50.55867]},"properties":{"isced:level":"1;2","ref:rspo":42744,"official_name":"Publiczna Szko\u0142a Podstawowa im.or\u0142a Bia\u0142ego w Krzakach","name":"Publiczna Szko\u0142a Podstawowa im.or\u0142a Bia\u0142ego w Krzakach","addr:country":"PL","addr:postcode":"37-403","addr:city":"Krzaki","addr:street":"ul. Nowa","addr:housenumber":"15","addr:teryt:simc":14330,"addr:teryt:sym_ul":804454,"contact:phone":"+48 158410747","contact:email":"psp.krzaki@pysznica.pl","contact:website":"http:\/\/www.pspkrzaki.szkolna.net\/","ref:regon":"001186805","ref:vatin":"PL8652149703","operator":"Gmina Pysznica","operator:type":"government","amenity":"school"}},{"id":42153,"type":"Feature","geometry":{"type":"Point","coordinates":[22.13381,50.56873]},"properties":{"isced:level":"1;2","ref:rspo":42153,"official_name":"Publiczna Szko\u0142a Podstawowa im.jana Paw\u0142a II w Pysznicy","name":"Publiczna Szko\u0142a Podstawowa im.jana Paw\u0142a II w Pysznicy","addr:country":"PL","addr:postcode":"37-403","addr:city":"Pysznica","addr:street":"ul. Sportowa","addr:housenumber":"1","addr:teryt:simc":20683,"addr:teryt:sym_ul":804490,"contact:phone":"+48 158144067","contact:email":"szpysznica@o2.pl","contact:website":"http:\/\/www.szkola.pysznica.pl","ref:regon":"831201979","ref:vatin":"PL8652149755","operator":"Gmina Pysznica","operator:type":"government","amenity":"school"}},{"id":43885,"type":"Feature","geometry":{"type":"Point","coordinates":[22.12431,50.57397]},"properties":{"ref:rspo":43885,"official_name":"Przedszkole w Pysznicy","name":"Przedszkole w Pysznicy","addr:country":"PL","addr:postcode":"37-403","addr:city":"Pysznica","addr:street":"ul. Wolno\u015bci","addr:housenumber":"295","addr:teryt:simc":24687,"addr:teryt:sym_ul":804490,"contact:phone":"+48 158410034","contact:email":"przedszkole@pysznica.pl","contact:website":"http:\/\/www.przedszkole.pysznica.pl","ref:regon":"830006247","ref:vatin":"PL8652225002","operator":"Gmina Pysznica","operator:type":"government","amenity":"kindergarten"}},{"id":42155,"type":"Feature","geometry":{"type":"Point","coordinates":[22.10434,50.60349]},"properties":{"isced:level":"1;2","ref:rspo":42155,"official_name":"Publiczna Szko\u0142a Podstawowa im. Armii Krajowej w Jastkowicach","name":"Publiczna Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"37-403","addr:city":"Jastkowice","addr:street":"ul. Mickiewicza","addr:housenumber":"1","addr:teryt:simc":12734,"addr:teryt:sym_ul":804193,"contact:phone":"+48 158410311","contact:email":"sekretariat@zsjastkowice.pl","contact:website":"http:\/\/www.zsjastkowice.pl","ref:regon":"831202430","ref:vatin":"PL8652149778","operator":"Gmina Pysznica","operator:type":"government","amenity":"school"}},{"id":273475,"type":"Feature","geometry":{"type":"Point","coordinates":[22.10325,50.6062299]},"properties":{"ref:rspo":273475,"official_name":"Punkt Przedszkolny w Jastkowicach Przy Przedszkolu w Pysznicy","name":"Punkt Przedszkolny w Jastkowicach Przy Przedszkolu w Pysznicy","addr:country":"PL","addr:postcode":"37-403","addr:city":"Jastkowice","addr:street":"ul. Armii Krajowej","addr:housenumber":"36","addr:teryt:simc":432,"addr:teryt:sym_ul":804193,"contact:phone":"+48 158410034","contact:email":"przedszkole@pysznica.pl","ref:regon":"384477888","operator":"Gmina Pysznica","operator:type":"government","amenity":"kindergarten"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 43666,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.16701,
+                    50.54631
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 43666,
+                "official_name": "Publiczna Szko\u0142a Podstawowa im.kardyna\u0142a Stefana Wyszy\u0144skiego w K\u0142y\u017cowie",
+                "name": "Publiczna Szko\u0142a Podstawowa im.kardyna\u0142a Stefana Wyszy\u0144skiego w K\u0142y\u017cowie",
+                "addr:country": "PL",
+                "addr:postcode": "37-403",
+                "addr:city": "K\u0142y\u017c\u00f3w",
+                "addr:street": "ul. Mickiewicza",
+                "addr:housenumber": "70",
+                "addr:teryt:simc": 12734,
+                "addr:teryt:sym_ul": 804388,
+                "contact:phone": "+48 158410746",
+                "contact:email": "zs.klyzow@pysznica.pl",
+                "contact:website": "http:\/\/www.zsklyzow.szkolnastrona.pl",
+                "ref:regon": "831202074",
+                "ref:vatin": "PL8652149761",
+                "operator": "Gmina Pysznica",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 42744,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.21406,
+                    50.55867
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 42744,
+                "official_name": "Publiczna Szko\u0142a Podstawowa im.or\u0142a Bia\u0142ego w Krzakach",
+                "name": "Publiczna Szko\u0142a Podstawowa im.or\u0142a Bia\u0142ego w Krzakach",
+                "addr:country": "PL",
+                "addr:postcode": "37-403",
+                "addr:city": "Krzaki",
+                "addr:street": "ul. Nowa",
+                "addr:housenumber": "15",
+                "addr:teryt:simc": 14330,
+                "addr:teryt:sym_ul": 804454,
+                "contact:phone": "+48 158410747",
+                "contact:email": "psp.krzaki@pysznica.pl",
+                "contact:website": "http:\/\/www.pspkrzaki.szkolna.net\/",
+                "ref:regon": "001186805",
+                "ref:vatin": "PL8652149703",
+                "operator": "Gmina Pysznica",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 42153,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.13381,
+                    50.56873
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 42153,
+                "official_name": "Publiczna Szko\u0142a Podstawowa im.jana Paw\u0142a II w Pysznicy",
+                "name": "Publiczna Szko\u0142a Podstawowa im.jana Paw\u0142a II w Pysznicy",
+                "addr:country": "PL",
+                "addr:postcode": "37-403",
+                "addr:city": "Pysznica",
+                "addr:street": "ul. Sportowa",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 20683,
+                "addr:teryt:sym_ul": 804490,
+                "contact:phone": "+48 158144067",
+                "contact:email": "szpysznica@o2.pl",
+                "contact:website": "http:\/\/www.szkola.pysznica.pl",
+                "ref:regon": "831201979",
+                "ref:vatin": "PL8652149755",
+                "operator": "Gmina Pysznica",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 43885,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.12431,
+                    50.57397
+                ]
+            },
+            "properties": {
+                "ref:rspo": 43885,
+                "official_name": "Przedszkole w Pysznicy",
+                "name": "Przedszkole w Pysznicy",
+                "addr:country": "PL",
+                "addr:postcode": "37-403",
+                "addr:city": "Pysznica",
+                "addr:street": "ul. Wolno\u015bci",
+                "addr:housenumber": "295",
+                "addr:teryt:simc": 24687,
+                "addr:teryt:sym_ul": 804490,
+                "contact:phone": "+48 158410034",
+                "contact:email": "przedszkole@pysznica.pl",
+                "contact:website": "http:\/\/www.przedszkole.pysznica.pl",
+                "ref:regon": "830006247",
+                "ref:vatin": "PL8652225002",
+                "operator": "Gmina Pysznica",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 42155,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.10434,
+                    50.60349
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 42155,
+                "official_name": "Publiczna Szko\u0142a Podstawowa im. Armii Krajowej w Jastkowicach",
+                "name": "Publiczna Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "37-403",
+                "addr:city": "Jastkowice",
+                "addr:street": "ul. Mickiewicza",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 12734,
+                "addr:teryt:sym_ul": 804193,
+                "contact:phone": "+48 158410311",
+                "contact:email": "sekretariat@zsjastkowice.pl",
+                "contact:website": "http:\/\/www.zsjastkowice.pl",
+                "ref:regon": "831202430",
+                "ref:vatin": "PL8652149778",
+                "operator": "Gmina Pysznica",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 273475,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.10325,
+                    50.6062299
+                ]
+            },
+            "properties": {
+                "ref:rspo": 273475,
+                "official_name": "Punkt Przedszkolny w Jastkowicach Przy Przedszkolu w Pysznicy",
+                "name": "Punkt Przedszkolny w Jastkowicach Przy Przedszkolu w Pysznicy",
+                "addr:country": "PL",
+                "addr:postcode": "37-403",
+                "addr:city": "Jastkowice",
+                "addr:street": "ul. Armii Krajowej",
+                "addr:housenumber": "36",
+                "addr:teryt:simc": 432,
+                "addr:teryt:sym_ul": 804193,
+                "contact:phone": "+48 158410034",
+                "contact:email": "przedszkole@pysznica.pl",
+                "ref:regon": "384477888",
+                "operator": "Gmina Pysznica",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        }
+    ]
+}

@@ -1,1 +1,175 @@
-{"type":"FeatureCollection","features":[{"id":104498,"type":"Feature","geometry":{"type":"Point","coordinates":[19.08629,53.40621]},"properties":{"isced:level":"1;2","ref:rspo":104498,"official_name":"Szko\u0142a Podstawowa w Bursztynowie","name":"Szko\u0142a Podstawowa w Bursztynowie","addr:country":"PL","addr:postcode":"86-341","addr:place":"Bursztynowo","addr:housenumber":"44","addr:teryt:sym_ul":849209,"contact:phone":"+48 564668103","contact:email":"sp.bursztynowo@interia.pl","contact:website":"http:\/\/www.spbursztyn.sldc.pl","ref:regon":"001211644","operator":"Gmina \u015awiecie Nad Os\u0105","operator:type":"government","amenity":"school"}},{"id":104499,"type":"Feature","geometry":{"type":"Point","coordinates":[19.04394,53.42835]},"properties":{"isced:level":"1;2","ref:rspo":104499,"official_name":"Szko\u0142a Podstawowa im. J\u00f3zefa Wybickiego","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"86-341","addr:place":"Linowo","addr:housenumber":"37","addr:teryt:sym_ul":849238,"contact:phone":"+48 564669611","contact:email":"sp.linowo@vp.pl","contact:website":"http:\/\/splinowo.pl","ref:regon":"001211638","operator":"Gmina \u015awiecie Nad Os\u0105","operator:type":"government","amenity":"school"}},{"id":107242,"type":"Feature","geometry":{"type":"Point","coordinates":[19.09892,53.44098]},"properties":{"ref:rspo":107242,"official_name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 I Plac\u00f3wek Nr 1 w \u015awieciu Nad Os\u0105","name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 I Plac\u00f3wek Nr 1 w \u015awieciu Nad Os\u0105","addr:country":"PL","addr:postcode":"86-341","addr:place":"\u015awiecie nad Os\u0105","addr:housenumber":"113","addr:teryt:sym_ul":849333,"contact:phone":"+48 564661633","ref:regon":"871714558","operator":"Gmina \u015awiecie Nad Os\u0105","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 109544;109554"}},{"id":109544,"type":"Feature","geometry":{"type":"Point","coordinates":[19.09892,53.44095]},"properties":{"ref:rspo":109544,"official_name":"Przedszkole Gminne","name":"Przedszkole Gminne","addr:country":"PL","addr:postcode":"86-341","addr:place":"\u015awiecie nad Os\u0105","addr:housenumber":"113","addr:teryt:sym_ul":849333,"contact:phone":"+48 564661633","ref:regon":"000270863","operator":"Gmina \u015awiecie Nad Os\u0105","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 107242"}},{"id":109554,"type":"Feature","geometry":{"type":"Point","coordinates":[19.09892,53.440920000000006]},"properties":{"isced:level":"1;2","ref:rspo":109554,"official_name":"Szko\u0142a Podstawowa","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"86-341","addr:place":"\u015awiecie nad Os\u0105","addr:housenumber":"113","addr:teryt:sym_ul":849333,"contact:phone":"+48 564661633","ref:regon":"000271288","operator":"Gmina \u015awiecie Nad Os\u0105","operator:type":"government","amenity":"school","note":"Parent RSPO: 107242"}},{"id":104497,"type":"Feature","geometry":{"type":"Point","coordinates":[19.17286,53.46353]},"properties":{"isced:level":"1;2","ref:rspo":104497,"official_name":"Szko\u0142a Podstawowa im. Ks. Jana Twardowskiego","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"86-342","addr:place":"Lisnowo","addr:housenumber":"1","addr:teryt:sym_ul":849244,"contact:phone":"+48 564660576","contact:email":"splisnowo@gmail.com","contact:website":"http:\/\/www.splisnowo.szkolnastrona.pl","ref:regon":"001211621","operator":"Gmina \u015awiecie Nad Os\u0105","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 104498,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.08629,
+                    53.40621
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 104498,
+                "official_name": "Szko\u0142a Podstawowa w Bursztynowie",
+                "name": "Szko\u0142a Podstawowa w Bursztynowie",
+                "addr:country": "PL",
+                "addr:postcode": "86-341",
+                "addr:place": "Bursztynowo",
+                "addr:housenumber": "44",
+                "addr:teryt:sym_ul": 849209,
+                "contact:phone": "+48 564668103",
+                "contact:email": "sp.bursztynowo@interia.pl",
+                "contact:website": "http:\/\/www.spbursztyn.sldc.pl",
+                "ref:regon": "001211644",
+                "operator": "Gmina \u015awiecie Nad Os\u0105",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 104499,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.04394,
+                    53.42835
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 104499,
+                "official_name": "Szko\u0142a Podstawowa im. J\u00f3zefa Wybickiego",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "86-341",
+                "addr:place": "Linowo",
+                "addr:housenumber": "37",
+                "addr:teryt:sym_ul": 849238,
+                "contact:phone": "+48 564669611",
+                "contact:email": "sp.linowo@vp.pl",
+                "contact:website": "http:\/\/splinowo.pl",
+                "ref:regon": "001211638",
+                "operator": "Gmina \u015awiecie Nad Os\u0105",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 107242,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.09892,
+                    53.44098
+                ]
+            },
+            "properties": {
+                "ref:rspo": 107242,
+                "official_name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 I Plac\u00f3wek Nr 1 w \u015awieciu Nad Os\u0105",
+                "name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 I Plac\u00f3wek Nr 1 w \u015awieciu Nad Os\u0105",
+                "addr:country": "PL",
+                "addr:postcode": "86-341",
+                "addr:place": "\u015awiecie nad Os\u0105",
+                "addr:housenumber": "113",
+                "addr:teryt:sym_ul": 849333,
+                "contact:phone": "+48 564661633",
+                "ref:regon": "871714558",
+                "operator": "Gmina \u015awiecie Nad Os\u0105",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 109544;109554"
+            }
+        },
+        {
+            "id": 109544,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.09892,
+                    53.44095
+                ]
+            },
+            "properties": {
+                "ref:rspo": 109544,
+                "official_name": "Przedszkole Gminne",
+                "name": "Przedszkole Gminne",
+                "addr:country": "PL",
+                "addr:postcode": "86-341",
+                "addr:place": "\u015awiecie nad Os\u0105",
+                "addr:housenumber": "113",
+                "addr:teryt:sym_ul": 849333,
+                "contact:phone": "+48 564661633",
+                "ref:regon": "000270863",
+                "operator": "Gmina \u015awiecie Nad Os\u0105",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 107242"
+            }
+        },
+        {
+            "id": 109554,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.09892,
+                    53.440920000000006
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 109554,
+                "official_name": "Szko\u0142a Podstawowa",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "86-341",
+                "addr:place": "\u015awiecie nad Os\u0105",
+                "addr:housenumber": "113",
+                "addr:teryt:sym_ul": 849333,
+                "contact:phone": "+48 564661633",
+                "ref:regon": "000271288",
+                "operator": "Gmina \u015awiecie Nad Os\u0105",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 107242"
+            }
+        },
+        {
+            "id": 104497,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.17286,
+                    53.46353
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 104497,
+                "official_name": "Szko\u0142a Podstawowa im. Ks. Jana Twardowskiego",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "86-342",
+                "addr:place": "Lisnowo",
+                "addr:housenumber": "1",
+                "addr:teryt:sym_ul": 849244,
+                "contact:phone": "+48 564660576",
+                "contact:email": "splisnowo@gmail.com",
+                "contact:website": "http:\/\/www.splisnowo.szkolnastrona.pl",
+                "ref:regon": "001211621",
+                "operator": "Gmina \u015awiecie Nad Os\u0105",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

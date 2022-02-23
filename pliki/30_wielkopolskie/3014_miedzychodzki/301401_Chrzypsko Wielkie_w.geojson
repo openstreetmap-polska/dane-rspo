@@ -1,1 +1,97 @@
-{"type":"FeatureCollection","features":[{"id":3905,"type":"Feature","geometry":{"type":"Point","coordinates":[16.22056,52.62525]},"properties":{"ref:rspo":3905,"official_name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 w Chrzypsku Wielkim","name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 w Chrzypsku Wielkim","addr:country":"PL","addr:postcode":"64-412","addr:city":"Chrzypsko Wielkie","addr:street":"ul. Szkolna","addr:housenumber":"34","addr:teryt:simc":21970,"addr:teryt:sym_ul":581221,"contact:phone":"+48 612951235","contact:email":"sekretariat@chrzypsko.edu.pl","ref:regon":"639630930","operator":"Gmina Chrzypsko Wielkie","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 109433;109445"}},{"id":109433,"type":"Feature","geometry":{"type":"Point","coordinates":[16.22056,52.62522]},"properties":{"isced:level":"1;2","ref:rspo":109433,"official_name":"Szko\u0142a Podstawowa im. Miko\u0142aja Kopernika w Chrzypsku Wielkim","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"64-412","addr:city":"Chrzypsko Wielkie","addr:street":"ul. Szkolna","addr:housenumber":"34","addr:teryt:simc":21970,"addr:teryt:sym_ul":581221,"contact:phone":"+48 612951235","contact:email":"sekretariat@chrzypsko.edu.pl","ref:regon":"634239871","operator":"Gmina Chrzypsko Wielkie","operator:type":"government","amenity":"school","note":"Parent RSPO: 3905"}},{"id":109445,"type":"Feature","geometry":{"type":"Point","coordinates":[16.22031,52.6270849]},"properties":{"ref:rspo":109445,"official_name":"Przedszkole \"U Reksia\" w Chrzypsku Wielkim","name":"Przedszkole \"U Reksia\" w Chrzypsku Wielkim","addr:country":"PL","addr:postcode":"64-412","addr:city":"Chrzypsko Wielkie","addr:street":"ul. G\u0142\u00f3wna","addr:housenumber":"19","addr:teryt:simc":5635,"addr:teryt:sym_ul":581221,"contact:phone":"+48 612951184","contact:email":"sekretariat@chrzypsko.edu.pl","ref:regon":"630033871","operator":"Gmina Chrzypsko Wielkie","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 3905"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 3905,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.22056,
+                    52.62525
+                ]
+            },
+            "properties": {
+                "ref:rspo": 3905,
+                "official_name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 w Chrzypsku Wielkim",
+                "name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 w Chrzypsku Wielkim",
+                "addr:country": "PL",
+                "addr:postcode": "64-412",
+                "addr:city": "Chrzypsko Wielkie",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "34",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 581221,
+                "contact:phone": "+48 612951235",
+                "contact:email": "sekretariat@chrzypsko.edu.pl",
+                "ref:regon": "639630930",
+                "operator": "Gmina Chrzypsko Wielkie",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 109433;109445"
+            }
+        },
+        {
+            "id": 109433,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.22056,
+                    52.62522
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 109433,
+                "official_name": "Szko\u0142a Podstawowa im. Miko\u0142aja Kopernika w Chrzypsku Wielkim",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "64-412",
+                "addr:city": "Chrzypsko Wielkie",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "34",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 581221,
+                "contact:phone": "+48 612951235",
+                "contact:email": "sekretariat@chrzypsko.edu.pl",
+                "ref:regon": "634239871",
+                "operator": "Gmina Chrzypsko Wielkie",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 3905"
+            }
+        },
+        {
+            "id": 109445,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.22031,
+                    52.6270849
+                ]
+            },
+            "properties": {
+                "ref:rspo": 109445,
+                "official_name": "Przedszkole \"U Reksia\" w Chrzypsku Wielkim",
+                "name": "Przedszkole \"U Reksia\" w Chrzypsku Wielkim",
+                "addr:country": "PL",
+                "addr:postcode": "64-412",
+                "addr:city": "Chrzypsko Wielkie",
+                "addr:street": "ul. G\u0142\u00f3wna",
+                "addr:housenumber": "19",
+                "addr:teryt:simc": 5635,
+                "addr:teryt:sym_ul": 581221,
+                "contact:phone": "+48 612951184",
+                "contact:email": "sekretariat@chrzypsko.edu.pl",
+                "ref:regon": "630033871",
+                "operator": "Gmina Chrzypsko Wielkie",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 3905"
+            }
+        }
+    ]
+}

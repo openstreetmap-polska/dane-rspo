@@ -1,1 +1,193 @@
-{"type":"FeatureCollection","features":[{"id":90547,"type":"Feature","geometry":{"type":"Point","coordinates":[14.97958,53.82181]},"properties":{"ref:rspo":90547,"official_name":"Przedszkole Publiczne w Golczewie","name":"Przedszkole Publiczne w Golczewie","addr:country":"PL","addr:postcode":"72-410","addr:city":"Golczewo","addr:street":"ul. Szkolna","addr:housenumber":"9","addr:teryt:simc":21970,"addr:teryt:sym_ul":978881,"contact:phone":"+48 913860522","contact:email":"szkola@szkola.golczewo.pl","ref:regon":"812076049","operator":"Gmina Golczewo","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 86369"}},{"id":86369,"type":"Feature","geometry":{"type":"Point","coordinates":[14.97795,53.82192]},"properties":{"ref:rspo":86369,"official_name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 Publicznych w Golczewie","name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 Publicznych w Golczewie","addr:country":"PL","addr:postcode":"72-410","addr:city":"Golczewo","addr:street":"ul. Szkolna","addr:housenumber":"2","addr:teryt:simc":21970,"addr:teryt:sym_ul":978881,"contact:phone":"+48 913216996","contact:email":"szkola@szkola.golczewo.pl","ref:regon":"320557746","ref:vatin":"PL9860213289","operator":"Gmina Golczewo","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 90547;90548;90550;268956"}},{"id":90548,"type":"Feature","geometry":{"type":"Point","coordinates":[14.97795,53.821889999999996]},"properties":{"isced:level":"1;2","ref:rspo":90548,"official_name":"Szko\u0142a Podstawowa im. Boles\u0142awa Chrobrego w Golczewie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"72-410","addr:city":"Golczewo","addr:street":"ul. Szkolna","addr:housenumber":"2","addr:teryt:simc":21970,"addr:teryt:sym_ul":978881,"contact:phone":"+48 913216996","contact:email":"szkola@szkola.golczewo.pl","ref:regon":"811897867","operator":"Gmina Golczewo","operator:type":"government","amenity":"school","note":"Parent RSPO: 86369"}},{"id":90550,"type":"Feature","geometry":{"type":"Point","coordinates":[14.97795,53.82186]},"properties":{"isced:level":"3","ref:rspo":90550,"official_name":"Liceum Og\u00f3lnokszta\u0142c\u0105ce w Golczewie","name":"Liceum Og\u00f3lnokszta\u0142c\u0105ce w Golczewie","addr:country":"PL","addr:postcode":"72-410","addr:city":"Golczewo","addr:street":"ul. Szkolna","addr:housenumber":"2","addr:teryt:simc":21970,"addr:teryt:sym_ul":978881,"contact:phone":"+48 913216996","contact:email":"szkola@szkola.golczewo.pl","contact:website":"http:\/\/szkola.golczewo.pl\/","ref:regon":"812085338","operator":"Gmina Golczewo","operator:type":"government","amenity":"school","note":"Parent RSPO: 86369"}},{"id":268956,"type":"Feature","geometry":{"type":"Point","coordinates":[14.97795,53.82183]},"properties":{"isced:level":"3","ref:rspo":268956,"official_name":"Bran\u017cowa Szko\u0142a I Stopnia w Golczewie","name":"Bran\u017cowa Szko\u0142a I Stopnia w Golczewie","addr:country":"PL","addr:postcode":"72-410","addr:city":"Golczewo","addr:street":"ul. Szkolna","addr:housenumber":"2","addr:teryt:simc":21970,"addr:teryt:sym_ul":978881,"contact:phone":"+48 913216996","contact:email":"szkola@szkola.golczewo.pl","contact:website":"http:\/\/www.szkola.golczewo.pl","ref:regon":"381308620","operator":"Gmina Golczewo","operator:type":"government","amenity":"school","note":"Parent RSPO: 86369"}},{"id":86368,"type":"Feature","geometry":{"type":"Point","coordinates":[14.753046989441,53.897853851318]},"properties":{"isced:level":"1;2","ref:rspo":86368,"official_name":"Szko\u0142a Podstawowa w Wysokiej Kamie\u0144skiej","name":"Szko\u0142a Podstawowa w Wysokiej Kamie\u0144skiej","addr:country":"PL","addr:postcode":"72-410","addr:city":"Wysoka Kamie\u0144ska","addr:street":"ul. Szkolna","addr:housenumber":"5","addr:teryt:simc":21970,"addr:teryt:sym_ul":775110,"contact:phone":"+48 913832070","contact:email":"dyrekcja@spwysoka.com.pl","ref:regon":"001223529","ref:vatin":"PL9860213355","operator":"Gmina Golczewo","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 90547,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.97958,
+                    53.82181
+                ]
+            },
+            "properties": {
+                "ref:rspo": 90547,
+                "official_name": "Przedszkole Publiczne w Golczewie",
+                "name": "Przedszkole Publiczne w Golczewie",
+                "addr:country": "PL",
+                "addr:postcode": "72-410",
+                "addr:city": "Golczewo",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "9",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 978881,
+                "contact:phone": "+48 913860522",
+                "contact:email": "szkola@szkola.golczewo.pl",
+                "ref:regon": "812076049",
+                "operator": "Gmina Golczewo",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 86369"
+            }
+        },
+        {
+            "id": 86369,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.97795,
+                    53.82192
+                ]
+            },
+            "properties": {
+                "ref:rspo": 86369,
+                "official_name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Publicznych w Golczewie",
+                "name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Publicznych w Golczewie",
+                "addr:country": "PL",
+                "addr:postcode": "72-410",
+                "addr:city": "Golczewo",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "2",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 978881,
+                "contact:phone": "+48 913216996",
+                "contact:email": "szkola@szkola.golczewo.pl",
+                "ref:regon": "320557746",
+                "ref:vatin": "PL9860213289",
+                "operator": "Gmina Golczewo",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 90547;90548;90550;268956"
+            }
+        },
+        {
+            "id": 90548,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.97795,
+                    53.821889999999996
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 90548,
+                "official_name": "Szko\u0142a Podstawowa im. Boles\u0142awa Chrobrego w Golczewie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "72-410",
+                "addr:city": "Golczewo",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "2",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 978881,
+                "contact:phone": "+48 913216996",
+                "contact:email": "szkola@szkola.golczewo.pl",
+                "ref:regon": "811897867",
+                "operator": "Gmina Golczewo",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 86369"
+            }
+        },
+        {
+            "id": 90550,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.97795,
+                    53.82186
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 90550,
+                "official_name": "Liceum Og\u00f3lnokszta\u0142c\u0105ce w Golczewie",
+                "name": "Liceum Og\u00f3lnokszta\u0142c\u0105ce w Golczewie",
+                "addr:country": "PL",
+                "addr:postcode": "72-410",
+                "addr:city": "Golczewo",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "2",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 978881,
+                "contact:phone": "+48 913216996",
+                "contact:email": "szkola@szkola.golczewo.pl",
+                "contact:website": "http:\/\/szkola.golczewo.pl\/",
+                "ref:regon": "812085338",
+                "operator": "Gmina Golczewo",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 86369"
+            }
+        },
+        {
+            "id": 268956,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.97795,
+                    53.82183
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 268956,
+                "official_name": "Bran\u017cowa Szko\u0142a I Stopnia w Golczewie",
+                "name": "Bran\u017cowa Szko\u0142a I Stopnia w Golczewie",
+                "addr:country": "PL",
+                "addr:postcode": "72-410",
+                "addr:city": "Golczewo",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "2",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 978881,
+                "contact:phone": "+48 913216996",
+                "contact:email": "szkola@szkola.golczewo.pl",
+                "contact:website": "http:\/\/www.szkola.golczewo.pl",
+                "ref:regon": "381308620",
+                "operator": "Gmina Golczewo",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 86369"
+            }
+        },
+        {
+            "id": 86368,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.753046989441,
+                    53.897853851318
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 86368,
+                "official_name": "Szko\u0142a Podstawowa w Wysokiej Kamie\u0144skiej",
+                "name": "Szko\u0142a Podstawowa w Wysokiej Kamie\u0144skiej",
+                "addr:country": "PL",
+                "addr:postcode": "72-410",
+                "addr:city": "Wysoka Kamie\u0144ska",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "5",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 775110,
+                "contact:phone": "+48 913832070",
+                "contact:email": "dyrekcja@spwysoka.com.pl",
+                "ref:regon": "001223529",
+                "ref:vatin": "PL9860213355",
+                "operator": "Gmina Golczewo",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

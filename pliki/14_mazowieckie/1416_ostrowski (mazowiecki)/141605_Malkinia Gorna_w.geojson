@@ -1,1 +1,535 @@
-{"type":"FeatureCollection","features":[{"id":7788,"type":"Feature","geometry":{"type":"Point","coordinates":[21.99439,52.65773]},"properties":{"isced:level":"1;2","ref:rspo":7788,"official_name":"Szko\u0142a Podstawowa im. Jana Paw\u0142a II w Prostyni","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"07-319","addr:place":"Prosty\u0144","addr:housenumber":"60","addr:teryt:sym_ul":514495,"contact:phone":"+48 296449200","contact:email":"sp_prostyn@poczta.onet.pl","contact:website":"http:\/\/spprostyn.malkiniagorna.eu","ref:regon":"001106746","ref:vatin":"PL7591619573","operator":"Gmina Ma\u0142kinia G\u00f3rna","operator:type":"government","amenity":"school"}},{"id":6639,"type":"Feature","geometry":{"type":"Point","coordinates":[21.94673,52.6689]},"properties":{"isced:level":"1;2","ref:rspo":6639,"official_name":"Szko\u0142a Podstawowa im. Kardyna\u0142a Stefana Wyszy\u0144skiego w Kie\u0142czewie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"07-319","addr:city":"Kie\u0142czew","addr:street":"ul. Prymasa Tysi\u0105clecia","addr:housenumber":"49","addr:teryt:simc":17605,"addr:teryt:sym_ul":514325,"contact:phone":"+48 296449289","contact:email":"a.koros@interia.pl","contact:website":"http:\/\/spkielczew.malkiniagorna.pl","ref:regon":"001244690","ref:vatin":"PL7591522448","operator":"Gmina Ma\u0142kinia G\u00f3rna","operator:type":"government","amenity":"school"}},{"id":109969,"type":"Feature","geometry":{"type":"Point","coordinates":[22.053,52.69085]},"properties":{"ref:rspo":109969,"official_name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 im. Stanis\u0142awa Staszica w Ma\u0142kini G\u00f3rnej","name":"Zesp\u00f3\u0142 Szk\u00f3\u0142","addr:country":"PL","addr:postcode":"07-320","addr:city":"Ma\u0142kinia G\u00f3rna","addr:street":"ul. Nurska","addr:housenumber":"150","addr:teryt:simc":14549,"addr:teryt:sym_ul":514408,"contact:phone":"+48 296448625","contact:email":"zsmalkinia@op.pl","contact:website":"http:\/\/www.zsmalkinia.pl","ref:regon":"000193750","operator":"Powiat Ostrowski","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 114355;114356;114357;114358;114359;125973;276827"}},{"id":114355,"type":"Feature","geometry":{"type":"Point","coordinates":[22.053,52.690819999999995]},"properties":{"isced:level":"3","ref:rspo":114355,"official_name":"Liceum Og\u00f3lnokszta\u0142c\u0105ce w Zespole Szk\u00f3\u0142 im. Stanis\u0142awa Staszica w Ma\u0142kini G\u00f3rnej","name":"Liceum Og\u00f3lnokszta\u0142c\u0105ce w Zespole Szk\u00f3\u0142","addr:country":"PL","addr:postcode":"07-320","addr:city":"Ma\u0142kinia G\u00f3rna","addr:street":"ul. Nurska","addr:housenumber":"150","addr:teryt:simc":14549,"addr:teryt:sym_ul":514408,"contact:phone":"+48 296448625","contact:email":"zsmalkinia@op.pl","contact:website":"http:\/\/www.zsmalkinia.pl","ref:regon":"551255325","operator":"Powiat Ostrowski","operator:type":"government","amenity":"school","note":"Parent RSPO: 109969"}},{"id":114356,"type":"Feature","geometry":{"type":"Point","coordinates":[22.053,52.69079]},"properties":{"isced:level":"3","ref:rspo":114356,"official_name":"Liceum Og\u00f3lnokszta\u0142c\u0105ce dla Doros\u0142ych w Zespole Szk\u00f3\u0142 im. Stanis\u0142awa Staszica w Ma\u0142kini G\u00f3rnej","name":"Liceum Og\u00f3lnokszta\u0142c\u0105ce dla Doros\u0142ych w Zespole Szk\u00f3\u0142","addr:country":"PL","addr:postcode":"07-320","addr:city":"Ma\u0142kinia G\u00f3rna","addr:street":"ul. Nurska","addr:housenumber":"150","addr:teryt:simc":14549,"addr:teryt:sym_ul":514408,"contact:phone":"+48 296448625","contact:email":"zsmalkinia@op.pl","contact:website":"http:\/\/www.zsmalkinia.pl","ref:regon":"141101708","operator":"Powiat Ostrowski","operator:type":"government","amenity":"school","note":"Parent RSPO: 109969"}},{"id":114357,"type":"Feature","geometry":{"type":"Point","coordinates":[22.053,52.69076]},"properties":{"isced:level":"3","ref:rspo":114357,"official_name":"Technikum Nr 1 w Zespole Szk\u00f3\u0142 im. Stanis\u0142awa Staszica w Ma\u0142kini G\u00f3rnej","name":"Technikum Nr 1 w Zespole Szk\u00f3\u0142","addr:country":"PL","addr:postcode":"07-320","addr:city":"Ma\u0142kinia G\u00f3rna","addr:street":"ul. Nurska","addr:housenumber":"150","addr:teryt:simc":14549,"addr:teryt:sym_ul":514408,"contact:phone":"+48 296448625","contact:email":"zsmalkinia@op.pl","contact:website":"http:\/\/www.zsmalkinia.pl","ref:regon":"140104828","operator":"Powiat Ostrowski","operator:type":"government","amenity":"school","note":"Parent RSPO: 109969"}},{"id":114358,"type":"Feature","geometry":{"type":"Point","coordinates":[22.053,52.690729999999995]},"properties":{"isced:level":"3","ref:rspo":114358,"official_name":"Technikum Nr 2 w Zespole Szk\u00f3\u0142 im. Stanis\u0142awa Staszica w Ma\u0142kini G\u00f3rnej","name":"Technikum Nr 2 w Zespole Szk\u00f3\u0142","addr:country":"PL","addr:postcode":"07-320","addr:city":"Ma\u0142kinia G\u00f3rna","addr:street":"ul. Nurska","addr:housenumber":"150","addr:teryt:simc":14549,"addr:teryt:sym_ul":514408,"contact:phone":"+48 296448625","contact:email":"zsmalkinia@op.pl","contact:website":"http:\/\/www.zsmalkinia.pl","ref:regon":"140104886","operator":"Powiat Ostrowski","operator:type":"government","amenity":"school","note":"Parent RSPO: 109969"}},{"id":114359,"type":"Feature","geometry":{"type":"Point","coordinates":[22.053,52.6907]},"properties":{"isced:level":"3","ref:rspo":114359,"official_name":"Bran\u017cowa Szko\u0142a I Stopnia w Zespole Szk\u00f3\u0142 im. Stanis\u0142awa Staszica w Ma\u0142kini G\u00f3rnej","name":"Bran\u017cowa Szko\u0142a I Stopnia w Zespole Szk\u00f3\u0142","addr:country":"PL","addr:postcode":"07-320","addr:city":"Ma\u0142kinia G\u00f3rna","addr:street":"ul. Nurska","addr:housenumber":"150","addr:teryt:simc":14549,"addr:teryt:sym_ul":514408,"contact:phone":"+48 296448625","contact:email":"zsmalkinia@op.pl","contact:website":"http:\/\/www.zsmalkinia.pl","ref:regon":"551255331","operator":"Powiat Ostrowski","operator:type":"government","amenity":"school","note":"Parent RSPO: 109969"}},{"id":125973,"type":"Feature","geometry":{"type":"Point","coordinates":[22.053,52.69067]},"properties":{"ref:rspo":125973,"official_name":"Centrum Kszta\u0142cenia Zawodowego w Zespole Szk\u00f3\u0142 im. Stanis\u0142awa Staszica w Ma\u0142kini G\u00f3rnej","name":"Centrum Kszta\u0142cenia Zawodowego w Zespole Szk\u00f3\u0142","addr:country":"PL","addr:postcode":"07-320","addr:city":"Ma\u0142kinia G\u00f3rna","addr:street":"ul. Nurska","addr:housenumber":"150","addr:teryt:simc":14549,"addr:teryt:sym_ul":514408,"contact:phone":"+48 296448625","contact:email":"zsmalkinia@op.pl","contact:website":"http:\/\/zsmalkinia.pl","ref:regon":"141083287","operator":"Powiat Ostrowski","operator:type":"government","fixme":"w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. amenity=training + training=*, amenity=dancing_school, amenity=language_school, amenity=music_school) albo amenity=school, amenity=college, albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Parent RSPO: 109969"}},{"id":276827,"type":"Feature","geometry":{"type":"Point","coordinates":[22.053,52.690639999999995]},"properties":{"isced:level":"4","ref:rspo":276827,"official_name":"Szko\u0142a Policealna w Ma\u0142kini G\u00f3rnej","name":"Szko\u0142a Policealna w Ma\u0142kini G\u00f3rnej","addr:country":"PL","addr:postcode":"07-320","addr:city":"Ma\u0142kinia G\u00f3rna","addr:street":"ul. Nurska","addr:housenumber":"150","addr:teryt:simc":14549,"addr:teryt:sym_ul":514408,"contact:phone":"+48 296448625","contact:email":"zsmalkinia@op.pl","contact:website":"http:\/\/zsmalkinia.pl","ref:regon":"387668028","operator":"Powiat Ostrowski","operator:type":"government","amenity":"college","note":"Parent RSPO: 109969"}},{"id":6544,"type":"Feature","geometry":{"type":"Point","coordinates":[22.05349,52.69252]},"properties":{"ref:rspo":6544,"official_name":"Przedszkole Samorz\u0105dowe w Ma\u0142kini G\u00f3rnej","name":"Przedszkole Samorz\u0105dowe w Ma\u0142kini G\u00f3rnej","addr:country":"PL","addr:postcode":"07-320","addr:city":"Ma\u0142kinia G\u00f3rna","addr:street":"ul. Przedszkolna","addr:housenumber":"2","addr:teryt:simc":17683,"addr:teryt:sym_ul":514408,"contact:phone":"+48 296448792","contact:email":"przedszkole_sam@wp.pl","contact:website":"http:\/\/przedszkole.malkiniagorna.pl","ref:regon":"000912793","ref:vatin":"PL7591522508","operator":"Gmina Ma\u0142kinia G\u00f3rna","operator:type":"government","amenity":"kindergarten"}},{"id":6453,"type":"Feature","geometry":{"type":"Point","coordinates":[22.05915,52.69433]},"properties":{"isced:level":"1;2","ref:rspo":6453,"official_name":"Szko\u0142a Podstawowa Nr 2 im. Fryderyka Chopina","name":"Szko\u0142a Podstawowa Nr 2","addr:country":"PL","addr:postcode":"07-320","addr:city":"Ma\u0142kinia G\u00f3rna","addr:street":"ul. Le\u015bna","addr:housenumber":"15","addr:teryt:simc":10898,"addr:teryt:sym_ul":514408,"contact:phone":"+48 296448100","contact:email":"sp2malkinia@wp.pl","contact:website":"http:\/\/sp2.malkiniagorna.pl","ref:regon":"550061292","ref:vatin":"PL7591742730","operator":"Gmina Ma\u0142kinia G\u00f3rna","operator:type":"government","amenity":"school"}},{"id":122702,"type":"Feature","geometry":{"type":"Point","coordinates":[22.05915,52.6943]},"properties":{"ref:rspo":122702,"official_name":"Stowarzyszenie Edukacja I Nauka w Ma\u0142kini G\u00f3rnej","name":"Stowarzyszenie Edukacja I Nauka w Ma\u0142kini G\u00f3rnej","addr:country":"PL","addr:postcode":"07-320","addr:city":"Ma\u0142kinia G\u00f3rna","addr:street":"ul. Le\u015bna","addr:housenumber":"15","addr:teryt:simc":10898,"addr:teryt:sym_ul":514408,"contact:phone":"+48 296448100","contact:email":"stowarzyszenie@stowarzyszenie.edu.pl","ref:regon":"147179137","operator":"Stowarzyszenie Edukacja I Nauka","operator:type":"ngo","fixme":"w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. amenity=training + training=*, amenity=dancing_school, amenity=language_school, amenity=music_school)"}},{"id":6642,"type":"Feature","geometry":{"type":"Point","coordinates":[21.95912,52.69663]},"properties":{"isced:level":"1;2","ref:rspo":6642,"official_name":"Szko\u0142a Podstawowa im. Ks. Jana Twardowskiego w Glinie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"07-320","addr:place":"Glina","addr:housenumber":"83","addr:teryt:sym_ul":514242,"contact:phone":"+48 296449864","contact:email":"spglina@wp.pl","contact:website":"http:\/\/spglina.malkiniagorna.pl","ref:regon":"001244684","ref:vatin":"PL7591522425","operator":"Gmina Ma\u0142kinia G\u00f3rna","operator:type":"government","amenity":"school"}},{"id":7432,"type":"Feature","geometry":{"type":"Point","coordinates":[22.02376,52.69761]},"properties":{"isced:level":"1;2","ref:rspo":7432,"official_name":"Szko\u0142a Podstawowa Nr 1 im. Marii Curie - Sk\u0142odowskiej w Ma\u0142kini G\u00f3rnej","name":"Szko\u0142a Podstawowa Nr 1","addr:country":"PL","addr:postcode":"07-320","addr:city":"Ma\u0142kinia G\u00f3rna","addr:street":"ul. Ostrowska","addr:housenumber":"58","addr:teryt:simc":15390,"addr:teryt:sym_ul":514408,"contact:phone":"+48 297455608","contact:email":"sp1_malkinia@wp.pl","contact:website":"http:\/\/sp1.malkiniagorna.pl","ref:regon":"000640952","ref:vatin":"PL7591619567","operator":"Gmina Ma\u0142kinia G\u00f3rna","operator:type":"government","amenity":"school"}},{"id":122545,"type":"Feature","geometry":{"type":"Point","coordinates":[22.02376,52.697579999999995]},"properties":{"ref:rspo":122545,"official_name":"O\u015brodek Rozwoju Edukacji w Ma\u0142kini G\u00f3rnej","name":"O\u015brodek Rozwoju Edukacji w Ma\u0142kini G\u00f3rnej","addr:country":"PL","addr:postcode":"07-320","addr:city":"Ma\u0142kinia G\u00f3rna","addr:street":"ul. Ostrowska","addr:housenumber":"58","addr:teryt:simc":15390,"addr:teryt:sym_ul":514408,"contact:phone":"+48 297455608","contact:email":"pce@pl.edu.pl","ref:regon":"147155935","operator":"Diagram Jan Olszewski","operator:type":"consortium","fixme":"w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. amenity=training + training=*, amenity=dancing_school, amenity=language_school, amenity=music_school)"}},{"id":6629,"type":"Feature","geometry":{"type":"Point","coordinates":[21.98962,52.73588]},"properties":{"isced:level":"1;2","ref:rspo":6629,"official_name":"Szko\u0142a Podstawowa w Orle","name":"Szko\u0142a Podstawowa w Orle","addr:country":"PL","addr:postcode":"07-320","addr:place":"Or\u0142o","addr:housenumber":"11","addr:teryt:sym_ul":514443,"contact:phone":"+48 296447142","contact:email":"sporlo@malkiniagorna.pl","contact:website":"http:\/\/www.sporlo.malkiniagorna.eu","ref:regon":"001106730","ref:vatin":"PL7591522477","operator":"Gmina Ma\u0142kinia G\u00f3rna","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 7788,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.99439,
+                    52.65773
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 7788,
+                "official_name": "Szko\u0142a Podstawowa im. Jana Paw\u0142a II w Prostyni",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "07-319",
+                "addr:place": "Prosty\u0144",
+                "addr:housenumber": "60",
+                "addr:teryt:sym_ul": 514495,
+                "contact:phone": "+48 296449200",
+                "contact:email": "sp_prostyn@poczta.onet.pl",
+                "contact:website": "http:\/\/spprostyn.malkiniagorna.eu",
+                "ref:regon": "001106746",
+                "ref:vatin": "PL7591619573",
+                "operator": "Gmina Ma\u0142kinia G\u00f3rna",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 6639,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.94673,
+                    52.6689
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 6639,
+                "official_name": "Szko\u0142a Podstawowa im. Kardyna\u0142a Stefana Wyszy\u0144skiego w Kie\u0142czewie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "07-319",
+                "addr:city": "Kie\u0142czew",
+                "addr:street": "ul. Prymasa Tysi\u0105clecia",
+                "addr:housenumber": "49",
+                "addr:teryt:simc": 17605,
+                "addr:teryt:sym_ul": 514325,
+                "contact:phone": "+48 296449289",
+                "contact:email": "a.koros@interia.pl",
+                "contact:website": "http:\/\/spkielczew.malkiniagorna.pl",
+                "ref:regon": "001244690",
+                "ref:vatin": "PL7591522448",
+                "operator": "Gmina Ma\u0142kinia G\u00f3rna",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 109969,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.053,
+                    52.69085
+                ]
+            },
+            "properties": {
+                "ref:rspo": 109969,
+                "official_name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 im. Stanis\u0142awa Staszica w Ma\u0142kini G\u00f3rnej",
+                "name": "Zesp\u00f3\u0142 Szk\u00f3\u0142",
+                "addr:country": "PL",
+                "addr:postcode": "07-320",
+                "addr:city": "Ma\u0142kinia G\u00f3rna",
+                "addr:street": "ul. Nurska",
+                "addr:housenumber": "150",
+                "addr:teryt:simc": 14549,
+                "addr:teryt:sym_ul": 514408,
+                "contact:phone": "+48 296448625",
+                "contact:email": "zsmalkinia@op.pl",
+                "contact:website": "http:\/\/www.zsmalkinia.pl",
+                "ref:regon": "000193750",
+                "operator": "Powiat Ostrowski",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 114355;114356;114357;114358;114359;125973;276827"
+            }
+        },
+        {
+            "id": 114355,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.053,
+                    52.690819999999995
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 114355,
+                "official_name": "Liceum Og\u00f3lnokszta\u0142c\u0105ce w Zespole Szk\u00f3\u0142 im. Stanis\u0142awa Staszica w Ma\u0142kini G\u00f3rnej",
+                "name": "Liceum Og\u00f3lnokszta\u0142c\u0105ce w Zespole Szk\u00f3\u0142",
+                "addr:country": "PL",
+                "addr:postcode": "07-320",
+                "addr:city": "Ma\u0142kinia G\u00f3rna",
+                "addr:street": "ul. Nurska",
+                "addr:housenumber": "150",
+                "addr:teryt:simc": 14549,
+                "addr:teryt:sym_ul": 514408,
+                "contact:phone": "+48 296448625",
+                "contact:email": "zsmalkinia@op.pl",
+                "contact:website": "http:\/\/www.zsmalkinia.pl",
+                "ref:regon": "551255325",
+                "operator": "Powiat Ostrowski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 109969"
+            }
+        },
+        {
+            "id": 114356,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.053,
+                    52.69079
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 114356,
+                "official_name": "Liceum Og\u00f3lnokszta\u0142c\u0105ce dla Doros\u0142ych w Zespole Szk\u00f3\u0142 im. Stanis\u0142awa Staszica w Ma\u0142kini G\u00f3rnej",
+                "name": "Liceum Og\u00f3lnokszta\u0142c\u0105ce dla Doros\u0142ych w Zespole Szk\u00f3\u0142",
+                "addr:country": "PL",
+                "addr:postcode": "07-320",
+                "addr:city": "Ma\u0142kinia G\u00f3rna",
+                "addr:street": "ul. Nurska",
+                "addr:housenumber": "150",
+                "addr:teryt:simc": 14549,
+                "addr:teryt:sym_ul": 514408,
+                "contact:phone": "+48 296448625",
+                "contact:email": "zsmalkinia@op.pl",
+                "contact:website": "http:\/\/www.zsmalkinia.pl",
+                "ref:regon": "141101708",
+                "operator": "Powiat Ostrowski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 109969"
+            }
+        },
+        {
+            "id": 114357,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.053,
+                    52.69076
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 114357,
+                "official_name": "Technikum Nr 1 w Zespole Szk\u00f3\u0142 im. Stanis\u0142awa Staszica w Ma\u0142kini G\u00f3rnej",
+                "name": "Technikum Nr 1 w Zespole Szk\u00f3\u0142",
+                "addr:country": "PL",
+                "addr:postcode": "07-320",
+                "addr:city": "Ma\u0142kinia G\u00f3rna",
+                "addr:street": "ul. Nurska",
+                "addr:housenumber": "150",
+                "addr:teryt:simc": 14549,
+                "addr:teryt:sym_ul": 514408,
+                "contact:phone": "+48 296448625",
+                "contact:email": "zsmalkinia@op.pl",
+                "contact:website": "http:\/\/www.zsmalkinia.pl",
+                "ref:regon": "140104828",
+                "operator": "Powiat Ostrowski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 109969"
+            }
+        },
+        {
+            "id": 114358,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.053,
+                    52.690729999999995
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 114358,
+                "official_name": "Technikum Nr 2 w Zespole Szk\u00f3\u0142 im. Stanis\u0142awa Staszica w Ma\u0142kini G\u00f3rnej",
+                "name": "Technikum Nr 2 w Zespole Szk\u00f3\u0142",
+                "addr:country": "PL",
+                "addr:postcode": "07-320",
+                "addr:city": "Ma\u0142kinia G\u00f3rna",
+                "addr:street": "ul. Nurska",
+                "addr:housenumber": "150",
+                "addr:teryt:simc": 14549,
+                "addr:teryt:sym_ul": 514408,
+                "contact:phone": "+48 296448625",
+                "contact:email": "zsmalkinia@op.pl",
+                "contact:website": "http:\/\/www.zsmalkinia.pl",
+                "ref:regon": "140104886",
+                "operator": "Powiat Ostrowski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 109969"
+            }
+        },
+        {
+            "id": 114359,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.053,
+                    52.6907
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 114359,
+                "official_name": "Bran\u017cowa Szko\u0142a I Stopnia w Zespole Szk\u00f3\u0142 im. Stanis\u0142awa Staszica w Ma\u0142kini G\u00f3rnej",
+                "name": "Bran\u017cowa Szko\u0142a I Stopnia w Zespole Szk\u00f3\u0142",
+                "addr:country": "PL",
+                "addr:postcode": "07-320",
+                "addr:city": "Ma\u0142kinia G\u00f3rna",
+                "addr:street": "ul. Nurska",
+                "addr:housenumber": "150",
+                "addr:teryt:simc": 14549,
+                "addr:teryt:sym_ul": 514408,
+                "contact:phone": "+48 296448625",
+                "contact:email": "zsmalkinia@op.pl",
+                "contact:website": "http:\/\/www.zsmalkinia.pl",
+                "ref:regon": "551255331",
+                "operator": "Powiat Ostrowski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 109969"
+            }
+        },
+        {
+            "id": 125973,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.053,
+                    52.69067
+                ]
+            },
+            "properties": {
+                "ref:rspo": 125973,
+                "official_name": "Centrum Kszta\u0142cenia Zawodowego w Zespole Szk\u00f3\u0142 im. Stanis\u0142awa Staszica w Ma\u0142kini G\u00f3rnej",
+                "name": "Centrum Kszta\u0142cenia Zawodowego w Zespole Szk\u00f3\u0142",
+                "addr:country": "PL",
+                "addr:postcode": "07-320",
+                "addr:city": "Ma\u0142kinia G\u00f3rna",
+                "addr:street": "ul. Nurska",
+                "addr:housenumber": "150",
+                "addr:teryt:simc": 14549,
+                "addr:teryt:sym_ul": 514408,
+                "contact:phone": "+48 296448625",
+                "contact:email": "zsmalkinia@op.pl",
+                "contact:website": "http:\/\/zsmalkinia.pl",
+                "ref:regon": "141083287",
+                "operator": "Powiat Ostrowski",
+                "operator:type": "government",
+                "fixme": "w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. amenity=training + training=*, amenity=dancing_school, amenity=language_school, amenity=music_school) albo amenity=school, amenity=college, albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Parent RSPO: 109969"
+            }
+        },
+        {
+            "id": 276827,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.053,
+                    52.690639999999995
+                ]
+            },
+            "properties": {
+                "isced:level": "4",
+                "ref:rspo": 276827,
+                "official_name": "Szko\u0142a Policealna w Ma\u0142kini G\u00f3rnej",
+                "name": "Szko\u0142a Policealna w Ma\u0142kini G\u00f3rnej",
+                "addr:country": "PL",
+                "addr:postcode": "07-320",
+                "addr:city": "Ma\u0142kinia G\u00f3rna",
+                "addr:street": "ul. Nurska",
+                "addr:housenumber": "150",
+                "addr:teryt:simc": 14549,
+                "addr:teryt:sym_ul": 514408,
+                "contact:phone": "+48 296448625",
+                "contact:email": "zsmalkinia@op.pl",
+                "contact:website": "http:\/\/zsmalkinia.pl",
+                "ref:regon": "387668028",
+                "operator": "Powiat Ostrowski",
+                "operator:type": "government",
+                "amenity": "college",
+                "note": "Parent RSPO: 109969"
+            }
+        },
+        {
+            "id": 6544,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.05349,
+                    52.69252
+                ]
+            },
+            "properties": {
+                "ref:rspo": 6544,
+                "official_name": "Przedszkole Samorz\u0105dowe w Ma\u0142kini G\u00f3rnej",
+                "name": "Przedszkole Samorz\u0105dowe w Ma\u0142kini G\u00f3rnej",
+                "addr:country": "PL",
+                "addr:postcode": "07-320",
+                "addr:city": "Ma\u0142kinia G\u00f3rna",
+                "addr:street": "ul. Przedszkolna",
+                "addr:housenumber": "2",
+                "addr:teryt:simc": 17683,
+                "addr:teryt:sym_ul": 514408,
+                "contact:phone": "+48 296448792",
+                "contact:email": "przedszkole_sam@wp.pl",
+                "contact:website": "http:\/\/przedszkole.malkiniagorna.pl",
+                "ref:regon": "000912793",
+                "ref:vatin": "PL7591522508",
+                "operator": "Gmina Ma\u0142kinia G\u00f3rna",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 6453,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.05915,
+                    52.69433
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 6453,
+                "official_name": "Szko\u0142a Podstawowa Nr 2 im. Fryderyka Chopina",
+                "name": "Szko\u0142a Podstawowa Nr 2",
+                "addr:country": "PL",
+                "addr:postcode": "07-320",
+                "addr:city": "Ma\u0142kinia G\u00f3rna",
+                "addr:street": "ul. Le\u015bna",
+                "addr:housenumber": "15",
+                "addr:teryt:simc": 10898,
+                "addr:teryt:sym_ul": 514408,
+                "contact:phone": "+48 296448100",
+                "contact:email": "sp2malkinia@wp.pl",
+                "contact:website": "http:\/\/sp2.malkiniagorna.pl",
+                "ref:regon": "550061292",
+                "ref:vatin": "PL7591742730",
+                "operator": "Gmina Ma\u0142kinia G\u00f3rna",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 122702,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.05915,
+                    52.6943
+                ]
+            },
+            "properties": {
+                "ref:rspo": 122702,
+                "official_name": "Stowarzyszenie Edukacja I Nauka w Ma\u0142kini G\u00f3rnej",
+                "name": "Stowarzyszenie Edukacja I Nauka w Ma\u0142kini G\u00f3rnej",
+                "addr:country": "PL",
+                "addr:postcode": "07-320",
+                "addr:city": "Ma\u0142kinia G\u00f3rna",
+                "addr:street": "ul. Le\u015bna",
+                "addr:housenumber": "15",
+                "addr:teryt:simc": 10898,
+                "addr:teryt:sym_ul": 514408,
+                "contact:phone": "+48 296448100",
+                "contact:email": "stowarzyszenie@stowarzyszenie.edu.pl",
+                "ref:regon": "147179137",
+                "operator": "Stowarzyszenie Edukacja I Nauka",
+                "operator:type": "ngo",
+                "fixme": "w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. amenity=training + training=*, amenity=dancing_school, amenity=language_school, amenity=music_school)"
+            }
+        },
+        {
+            "id": 6642,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.95912,
+                    52.69663
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 6642,
+                "official_name": "Szko\u0142a Podstawowa im. Ks. Jana Twardowskiego w Glinie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "07-320",
+                "addr:place": "Glina",
+                "addr:housenumber": "83",
+                "addr:teryt:sym_ul": 514242,
+                "contact:phone": "+48 296449864",
+                "contact:email": "spglina@wp.pl",
+                "contact:website": "http:\/\/spglina.malkiniagorna.pl",
+                "ref:regon": "001244684",
+                "ref:vatin": "PL7591522425",
+                "operator": "Gmina Ma\u0142kinia G\u00f3rna",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 7432,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.02376,
+                    52.69761
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 7432,
+                "official_name": "Szko\u0142a Podstawowa Nr 1 im. Marii Curie - Sk\u0142odowskiej w Ma\u0142kini G\u00f3rnej",
+                "name": "Szko\u0142a Podstawowa Nr 1",
+                "addr:country": "PL",
+                "addr:postcode": "07-320",
+                "addr:city": "Ma\u0142kinia G\u00f3rna",
+                "addr:street": "ul. Ostrowska",
+                "addr:housenumber": "58",
+                "addr:teryt:simc": 15390,
+                "addr:teryt:sym_ul": 514408,
+                "contact:phone": "+48 297455608",
+                "contact:email": "sp1_malkinia@wp.pl",
+                "contact:website": "http:\/\/sp1.malkiniagorna.pl",
+                "ref:regon": "000640952",
+                "ref:vatin": "PL7591619567",
+                "operator": "Gmina Ma\u0142kinia G\u00f3rna",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 122545,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.02376,
+                    52.697579999999995
+                ]
+            },
+            "properties": {
+                "ref:rspo": 122545,
+                "official_name": "O\u015brodek Rozwoju Edukacji w Ma\u0142kini G\u00f3rnej",
+                "name": "O\u015brodek Rozwoju Edukacji w Ma\u0142kini G\u00f3rnej",
+                "addr:country": "PL",
+                "addr:postcode": "07-320",
+                "addr:city": "Ma\u0142kinia G\u00f3rna",
+                "addr:street": "ul. Ostrowska",
+                "addr:housenumber": "58",
+                "addr:teryt:simc": 15390,
+                "addr:teryt:sym_ul": 514408,
+                "contact:phone": "+48 297455608",
+                "contact:email": "pce@pl.edu.pl",
+                "ref:regon": "147155935",
+                "operator": "Diagram Jan Olszewski",
+                "operator:type": "consortium",
+                "fixme": "w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. amenity=training + training=*, amenity=dancing_school, amenity=language_school, amenity=music_school)"
+            }
+        },
+        {
+            "id": 6629,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.98962,
+                    52.73588
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 6629,
+                "official_name": "Szko\u0142a Podstawowa w Orle",
+                "name": "Szko\u0142a Podstawowa w Orle",
+                "addr:country": "PL",
+                "addr:postcode": "07-320",
+                "addr:place": "Or\u0142o",
+                "addr:housenumber": "11",
+                "addr:teryt:sym_ul": 514443,
+                "contact:phone": "+48 296447142",
+                "contact:email": "sporlo@malkiniagorna.pl",
+                "contact:website": "http:\/\/www.sporlo.malkiniagorna.eu",
+                "ref:regon": "001106730",
+                "ref:vatin": "PL7591522477",
+                "operator": "Gmina Ma\u0142kinia G\u00f3rna",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

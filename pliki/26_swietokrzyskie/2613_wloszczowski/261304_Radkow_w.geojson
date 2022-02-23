@@ -1,1 +1,95 @@
-{"type":"FeatureCollection","features":[{"id":277827,"type":"Feature","geometry":{"type":"Point","coordinates":[19.987227,50.713775]},"properties":{"ref:rspo":277827,"official_name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w Radkowie","name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w Radkowie","addr:country":"PL","addr:postcode":"29-135","addr:place":"Radk\u00f3w","addr:housenumber":"88","addr:teryt:sym_ul":144207,"contact:phone":"+48 343541016","contact:email":"gimn_radkow@interia.pl","contact:website":"http:\/\/www.zsradkow.pl","ref:regon":"389572999","ref:vatin":"PL6090081369","operator":"Gmina Radk\u00f3w","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 64303;86158"}},{"id":64303,"type":"Feature","geometry":{"type":"Point","coordinates":[19.987227,50.713744999999996]},"properties":{"ref:rspo":64303,"official_name":"Przedszkole Samorz\u0105dowe w Radkowie","name":"Przedszkole Samorz\u0105dowe w Radkowie","addr:country":"PL","addr:postcode":"29-135","addr:place":"Radk\u00f3w","addr:housenumber":"88","addr:teryt:sym_ul":144207,"contact:phone":"+48 343541034","contact:email":"przedszkole.sam.radkow@wp.pl","ref:regon":"150026888","ref:vatin":"PL6562101726","operator":"Gmina Radk\u00f3w","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 277827"}},{"id":86158,"type":"Feature","geometry":{"type":"Point","coordinates":[19.987227,50.713715]},"properties":{"isced:level":"1;2","ref:rspo":86158,"official_name":"Szko\u0142a Podstawowa w Radkowie","name":"Szko\u0142a Podstawowa w Radkowie","addr:country":"PL","addr:postcode":"29-135","addr:place":"Radk\u00f3w","addr:housenumber":"88","addr:teryt:sym_ul":144207,"contact:phone":"+48 343541016","contact:email":"gimn_radkow@interia.pl","ref:regon":"001020393","ref:vatin":"PL6090070673","operator":"Gmina Radk\u00f3w","operator:type":"government","amenity":"school","note":"Parent RSPO: 277827"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 277827,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.987227,
+                    50.713775
+                ]
+            },
+            "properties": {
+                "ref:rspo": 277827,
+                "official_name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w Radkowie",
+                "name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w Radkowie",
+                "addr:country": "PL",
+                "addr:postcode": "29-135",
+                "addr:place": "Radk\u00f3w",
+                "addr:housenumber": "88",
+                "addr:teryt:sym_ul": 144207,
+                "contact:phone": "+48 343541016",
+                "contact:email": "gimn_radkow@interia.pl",
+                "contact:website": "http:\/\/www.zsradkow.pl",
+                "ref:regon": "389572999",
+                "ref:vatin": "PL6090081369",
+                "operator": "Gmina Radk\u00f3w",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 64303;86158"
+            }
+        },
+        {
+            "id": 64303,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.987227,
+                    50.713744999999996
+                ]
+            },
+            "properties": {
+                "ref:rspo": 64303,
+                "official_name": "Przedszkole Samorz\u0105dowe w Radkowie",
+                "name": "Przedszkole Samorz\u0105dowe w Radkowie",
+                "addr:country": "PL",
+                "addr:postcode": "29-135",
+                "addr:place": "Radk\u00f3w",
+                "addr:housenumber": "88",
+                "addr:teryt:sym_ul": 144207,
+                "contact:phone": "+48 343541034",
+                "contact:email": "przedszkole.sam.radkow@wp.pl",
+                "ref:regon": "150026888",
+                "ref:vatin": "PL6562101726",
+                "operator": "Gmina Radk\u00f3w",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 277827"
+            }
+        },
+        {
+            "id": 86158,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.987227,
+                    50.713715
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 86158,
+                "official_name": "Szko\u0142a Podstawowa w Radkowie",
+                "name": "Szko\u0142a Podstawowa w Radkowie",
+                "addr:country": "PL",
+                "addr:postcode": "29-135",
+                "addr:place": "Radk\u00f3w",
+                "addr:housenumber": "88",
+                "addr:teryt:sym_ul": 144207,
+                "contact:phone": "+48 343541016",
+                "contact:email": "gimn_radkow@interia.pl",
+                "ref:regon": "001020393",
+                "ref:vatin": "PL6090070673",
+                "operator": "Gmina Radk\u00f3w",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 277827"
+            }
+        }
+    ]
+}

@@ -1,1 +1,221 @@
-{"type":"FeatureCollection","features":[{"id":267774,"type":"Feature","geometry":{"type":"Point","coordinates":[17.991183,52.1995979]},"properties":{"ref:rspo":267774,"official_name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w Ratyniu","name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w Ratyniu","addr:country":"PL","addr:postcode":"62-406","addr:place":"Raty\u0144","addr:housenumber":"15A","addr:teryt:sym_ul":289644,"contact:phone":"+48 632764801","contact:email":"szkola.ratyn@wp.pl","ref:regon":"380628445","operator":"Gmina L\u0105dek","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 81767;83310"}},{"id":83310,"type":"Feature","geometry":{"type":"Point","coordinates":[17.991183,52.1995679]},"properties":{"isced:level":"1;2","ref:rspo":83310,"official_name":"Szko\u0142a Podstawowa im. Or\u0142a Bia\u0142ego w Ratyniu","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"62-406","addr:place":"Raty\u0144","addr:housenumber":"15A","addr:teryt:sym_ul":289644,"contact:phone":"+48 632764801","contact:email":"szkola.ratyn@wp.pl","contact:website":"http:\/\/www.spratyn.edupage.org","ref:regon":"001190391","ref:vatin":"PL6671201881","operator":"Gmina L\u0105dek","operator:type":"government","amenity":"school","note":"Parent RSPO: 267774"}},{"id":81767,"type":"Feature","geometry":{"type":"Point","coordinates":[17.9485129,52.209029]},"properties":{"ref:rspo":81767,"official_name":"Przedszkole Gminne w Dolanach","name":"Przedszkole Gminne w Dolanach","addr:country":"PL","addr:postcode":"62-406","addr:place":"Dolany","addr:housenumber":"84A","addr:teryt:sym_ul":289549,"contact:phone":"+48 632763367","contact:email":"przedszkole.dolany@poczta.onet.pl","ref:regon":"310513389","ref:vatin":"PL6671720345","operator":"Gmina L\u0105dek","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 267774"}},{"id":272187,"type":"Feature","geometry":{"type":"Point","coordinates":[17.9250599,52.20906]},"properties":{"ref:rspo":272187,"official_name":"Zesp\u00f3\u0142 Szkolno - Przedszkolny w L\u0105dku","name":"Zesp\u00f3\u0142 Szkolno - Przedszkolny w L\u0105dku","addr:country":"PL","addr:postcode":"62-406","addr:city":"L\u0105dek","addr:street":"ul. Pyzderska","addr:housenumber":"31","addr:teryt:simc":18237,"addr:teryt:sym_ul":289615,"contact:phone":"+48 632763013","contact:email":"sekretariat@szkolaladek.pl","contact:website":"http:\/\/spladek.pl","ref:regon":"384005103","operator":"Gmina L\u0105dek","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 83259;272153"}},{"id":83259,"type":"Feature","geometry":{"type":"Point","coordinates":[17.9250599,52.20903]},"properties":{"isced:level":"1;2","ref:rspo":83259,"official_name":"Szko\u0142a Podstawowa im. Wojska Polskiego w L\u0105dku","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"62-406","addr:city":"L\u0105dek","addr:street":"ul. Pyzderska","addr:housenumber":"31","addr:teryt:simc":18237,"addr:teryt:sym_ul":289615,"contact:phone":"+48 632763013","contact:email":"sekretariat@szkolaladek.pl","ref:regon":"000674804","ref:vatin":"PL6671226929","operator":"Gmina L\u0105dek","operator:type":"government","amenity":"school","note":"Parent RSPO: 272187"}},{"id":272153,"type":"Feature","geometry":{"type":"Point","coordinates":[17.9250599,52.209]},"properties":{"ref:rspo":272153,"official_name":"Przedszkole Gminne w L\u0105dku","name":"Przedszkole Gminne w L\u0105dku","addr:country":"PL","addr:postcode":"62-406","addr:city":"L\u0105dek","addr:street":"ul. Pyzderska","addr:housenumber":"31","addr:teryt:simc":18237,"addr:teryt:sym_ul":289615,"contact:phone":"+48 632763013","contact:email":"sekretariat@szkolaladek.pl","contact:website":"http:\/\/spladek.pl","ref:regon":"383973987","operator":"Gmina L\u0105dek","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 272187"}},{"id":67806,"type":"Feature","geometry":{"type":"Point","coordinates":[17.81549,52.21062]},"properties":{"isced:level":"1;2","ref:rspo":67806,"official_name":"Szko\u0142a Podstawowa im. Krzysztofa Kamila Baczy\u0144skiego w Ci\u0105\u017ceniu","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"62-404","addr:city":"Ci\u0105\u017ce\u0144","addr:street":"ul. Wolno\u015bci","addr:housenumber":"42A","addr:teryt:simc":24687,"addr:teryt:sym_ul":289503,"contact:phone":"+48 632764166","contact:email":"spciazen@poczta.onet.pl","contact:website":"http:\/\/spciazen.superszkolna.pl","ref:regon":"001190385","ref:vatin":"PL6671058024","operator":"Gmina L\u0105dek","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 267774,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.991183,
+                    52.1995979
+                ]
+            },
+            "properties": {
+                "ref:rspo": 267774,
+                "official_name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w Ratyniu",
+                "name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w Ratyniu",
+                "addr:country": "PL",
+                "addr:postcode": "62-406",
+                "addr:place": "Raty\u0144",
+                "addr:housenumber": "15A",
+                "addr:teryt:sym_ul": 289644,
+                "contact:phone": "+48 632764801",
+                "contact:email": "szkola.ratyn@wp.pl",
+                "ref:regon": "380628445",
+                "operator": "Gmina L\u0105dek",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 81767;83310"
+            }
+        },
+        {
+            "id": 83310,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.991183,
+                    52.1995679
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 83310,
+                "official_name": "Szko\u0142a Podstawowa im. Or\u0142a Bia\u0142ego w Ratyniu",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "62-406",
+                "addr:place": "Raty\u0144",
+                "addr:housenumber": "15A",
+                "addr:teryt:sym_ul": 289644,
+                "contact:phone": "+48 632764801",
+                "contact:email": "szkola.ratyn@wp.pl",
+                "contact:website": "http:\/\/www.spratyn.edupage.org",
+                "ref:regon": "001190391",
+                "ref:vatin": "PL6671201881",
+                "operator": "Gmina L\u0105dek",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 267774"
+            }
+        },
+        {
+            "id": 81767,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.9485129,
+                    52.209029
+                ]
+            },
+            "properties": {
+                "ref:rspo": 81767,
+                "official_name": "Przedszkole Gminne w Dolanach",
+                "name": "Przedszkole Gminne w Dolanach",
+                "addr:country": "PL",
+                "addr:postcode": "62-406",
+                "addr:place": "Dolany",
+                "addr:housenumber": "84A",
+                "addr:teryt:sym_ul": 289549,
+                "contact:phone": "+48 632763367",
+                "contact:email": "przedszkole.dolany@poczta.onet.pl",
+                "ref:regon": "310513389",
+                "ref:vatin": "PL6671720345",
+                "operator": "Gmina L\u0105dek",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 267774"
+            }
+        },
+        {
+            "id": 272187,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.9250599,
+                    52.20906
+                ]
+            },
+            "properties": {
+                "ref:rspo": 272187,
+                "official_name": "Zesp\u00f3\u0142 Szkolno - Przedszkolny w L\u0105dku",
+                "name": "Zesp\u00f3\u0142 Szkolno - Przedszkolny w L\u0105dku",
+                "addr:country": "PL",
+                "addr:postcode": "62-406",
+                "addr:city": "L\u0105dek",
+                "addr:street": "ul. Pyzderska",
+                "addr:housenumber": "31",
+                "addr:teryt:simc": 18237,
+                "addr:teryt:sym_ul": 289615,
+                "contact:phone": "+48 632763013",
+                "contact:email": "sekretariat@szkolaladek.pl",
+                "contact:website": "http:\/\/spladek.pl",
+                "ref:regon": "384005103",
+                "operator": "Gmina L\u0105dek",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 83259;272153"
+            }
+        },
+        {
+            "id": 83259,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.9250599,
+                    52.20903
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 83259,
+                "official_name": "Szko\u0142a Podstawowa im. Wojska Polskiego w L\u0105dku",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "62-406",
+                "addr:city": "L\u0105dek",
+                "addr:street": "ul. Pyzderska",
+                "addr:housenumber": "31",
+                "addr:teryt:simc": 18237,
+                "addr:teryt:sym_ul": 289615,
+                "contact:phone": "+48 632763013",
+                "contact:email": "sekretariat@szkolaladek.pl",
+                "ref:regon": "000674804",
+                "ref:vatin": "PL6671226929",
+                "operator": "Gmina L\u0105dek",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 272187"
+            }
+        },
+        {
+            "id": 272153,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.9250599,
+                    52.209
+                ]
+            },
+            "properties": {
+                "ref:rspo": 272153,
+                "official_name": "Przedszkole Gminne w L\u0105dku",
+                "name": "Przedszkole Gminne w L\u0105dku",
+                "addr:country": "PL",
+                "addr:postcode": "62-406",
+                "addr:city": "L\u0105dek",
+                "addr:street": "ul. Pyzderska",
+                "addr:housenumber": "31",
+                "addr:teryt:simc": 18237,
+                "addr:teryt:sym_ul": 289615,
+                "contact:phone": "+48 632763013",
+                "contact:email": "sekretariat@szkolaladek.pl",
+                "contact:website": "http:\/\/spladek.pl",
+                "ref:regon": "383973987",
+                "operator": "Gmina L\u0105dek",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 272187"
+            }
+        },
+        {
+            "id": 67806,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.81549,
+                    52.21062
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 67806,
+                "official_name": "Szko\u0142a Podstawowa im. Krzysztofa Kamila Baczy\u0144skiego w Ci\u0105\u017ceniu",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "62-404",
+                "addr:city": "Ci\u0105\u017ce\u0144",
+                "addr:street": "ul. Wolno\u015bci",
+                "addr:housenumber": "42A",
+                "addr:teryt:simc": 24687,
+                "addr:teryt:sym_ul": 289503,
+                "contact:phone": "+48 632764166",
+                "contact:email": "spciazen@poczta.onet.pl",
+                "contact:website": "http:\/\/spciazen.superszkolna.pl",
+                "ref:regon": "001190385",
+                "ref:vatin": "PL6671058024",
+                "operator": "Gmina L\u0105dek",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

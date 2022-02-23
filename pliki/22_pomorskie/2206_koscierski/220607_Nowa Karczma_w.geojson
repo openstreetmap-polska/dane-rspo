@@ -1,1 +1,220 @@
-{"type":"FeatureCollection","features":[{"id":5511,"type":"Feature","geometry":{"type":"Point","coordinates":[18.003494262695,54.047260284424]},"properties":{"ref:rspo":5511,"official_name":"Przedszkole Niepubliczne Krasnal","name":"Przedszkole Niepubliczne Krasnal","addr:country":"PL","addr:postcode":"83-422","addr:city":"Luba\u0144","addr:street":"ul. Tadeusza Maderskiego","addr:housenumber":"11","addr:door":"1","addr:teryt:simc":48840,"addr:teryt:sym_ul":167875,"contact:email":"luban.krasnal@op.pl","ref:regon":"221730180","ref:vatin":"PL5911648429","operator":"Anna Pepli\u0144ska","operator:type":"private","amenity":"kindergarten"}},{"id":42255,"type":"Feature","geometry":{"type":"Point","coordinates":[18.003494262695,54.047230284423996]},"properties":{"isced:level":"1;2","ref:rspo":42255,"official_name":"Szko\u0142a Podstawowa im.braci Czarli\u0144skich w Lubaniu","name":"Szko\u0142a Podstawowa im.braci Czarli\u0144skich w Lubaniu","addr:country":"PL","addr:postcode":"83-422","addr:city":"Luba\u0144","addr:street":"ul. Braci Czarli\u0144skich","addr:housenumber":"23","addr:teryt:simc":48839,"addr:teryt:sym_ul":167875,"contact:phone":"+48 586882034","contact:email":"szkolalub@interia.pl","contact:website":"https:\/\/zsluban.edupage.org\/","ref:regon":"192966044","ref:vatin":"PL5911627485","operator":"Gmina Nowa Karczma","operator:type":"government","amenity":"school"}},{"id":31540,"type":"Feature","geometry":{"type":"Point","coordinates":[18.20234,54.13113]},"properties":{"isced:level":"1;2","ref:rspo":31540,"official_name":"Szko\u0142a Podstawowa im. Dra Aleksandra Majkowskiego w Nowej Karczmie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"83-404","addr:city":"Nowa Karczma","addr:street":"ul. Szkolna","addr:housenumber":"4","addr:teryt:simc":21970,"addr:teryt:sym_ul":167912,"contact:phone":"+48 586877111","contact:email":"gim-nk@wp.pl","contact:website":"http:\/\/nowakaczma.szkolnastrona.pl","ref:regon":"190586892","ref:vatin":"PL5911627456","operator":"Gmina Nowa Karczma","operator:type":"government","amenity":"school"}},{"id":5510,"type":"Feature","geometry":{"type":"Point","coordinates":[18.2905378,54.138356]},"properties":{"isced:level":"1;2","ref:rspo":5510,"official_name":"Szko\u0142a Podstawowa im. P\u0142k. Franciszka Hynka w Szatarpach","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"83-421","addr:place":"Szatarpy","addr:housenumber":"15","addr:teryt:sym_ul":168053,"contact:phone":"+48 586877177","contact:email":"szatarpy@gmail.com","ref:regon":"190586923","ref:vatin":"PL5911628160","operator":"Gmina Nowa Karczma","operator:type":"government","amenity":"school"}},{"id":5509,"type":"Feature","geometry":{"type":"Point","coordinates":[18.14564,54.16619]},"properties":{"ref:rspo":5509,"official_name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 w Grabowie","name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 w Grabowie","addr:country":"PL","addr:postcode":"83-403","addr:city":"Grabowo Ko\u015bcierskie","addr:street":"ul. Starowiejska","addr:housenumber":"68","addr:teryt:simc":20998,"addr:teryt:sym_ul":167786,"contact:phone":"+48 586870112","contact:email":"grabowoszkola@poczta.onet.pl","ref:regon":"190586900","ref:vatin":"PL5911627462","operator":"Gmina Nowa Karczma","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 31538;31539"}},{"id":31538,"type":"Feature","geometry":{"type":"Point","coordinates":[18.14564,54.16616]},"properties":{"isced:level":"1;2","ref:rspo":31538,"official_name":"Szko\u0142a Podstawowa im. Gen. J\u00f3zefa Wybickiego w Grabowie Ko\u015bcierskim","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"83-403","addr:city":"Grabowo Ko\u015bcierskie","addr:street":"ul. Starowiejska","addr:housenumber":"68","addr:teryt:simc":20998,"addr:teryt:sym_ul":167786,"contact:phone":"+48 586870112","contact:email":"grabowoszkola@poczta.onet.pl","ref:regon":"221759337","operator":"Gmina Nowa Karczma","operator:type":"government","amenity":"school","note":"Parent RSPO: 5509"}},{"id":31539,"type":"Feature","geometry":{"type":"Point","coordinates":[18.14564,54.16613]},"properties":{"ref:rspo":31539,"official_name":"Samorz\u0105dowe Przedszkole w Grabowie Ko\u015bcierskim","name":"Samorz\u0105dowe Przedszkole w Grabowie Ko\u015bcierskim","addr:country":"PL","addr:postcode":"83-403","addr:city":"Grabowo Ko\u015bcierskie","addr:street":"ul. Starowiejska","addr:housenumber":"68","addr:teryt:simc":20998,"addr:teryt:sym_ul":167786,"contact:phone":"+48 586870112","ref:regon":"190581736","operator":"Gmina Nowa Karczma","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 5509"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 5511,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.003494262695,
+                    54.047260284424
+                ]
+            },
+            "properties": {
+                "ref:rspo": 5511,
+                "official_name": "Przedszkole Niepubliczne Krasnal",
+                "name": "Przedszkole Niepubliczne Krasnal",
+                "addr:country": "PL",
+                "addr:postcode": "83-422",
+                "addr:city": "Luba\u0144",
+                "addr:street": "ul. Tadeusza Maderskiego",
+                "addr:housenumber": "11",
+                "addr:door": "1",
+                "addr:teryt:simc": 48840,
+                "addr:teryt:sym_ul": 167875,
+                "contact:email": "luban.krasnal@op.pl",
+                "ref:regon": "221730180",
+                "ref:vatin": "PL5911648429",
+                "operator": "Anna Pepli\u0144ska",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 42255,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.003494262695,
+                    54.047230284423996
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 42255,
+                "official_name": "Szko\u0142a Podstawowa im.braci Czarli\u0144skich w Lubaniu",
+                "name": "Szko\u0142a Podstawowa im.braci Czarli\u0144skich w Lubaniu",
+                "addr:country": "PL",
+                "addr:postcode": "83-422",
+                "addr:city": "Luba\u0144",
+                "addr:street": "ul. Braci Czarli\u0144skich",
+                "addr:housenumber": "23",
+                "addr:teryt:simc": 48839,
+                "addr:teryt:sym_ul": 167875,
+                "contact:phone": "+48 586882034",
+                "contact:email": "szkolalub@interia.pl",
+                "contact:website": "https:\/\/zsluban.edupage.org\/",
+                "ref:regon": "192966044",
+                "ref:vatin": "PL5911627485",
+                "operator": "Gmina Nowa Karczma",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 31540,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.20234,
+                    54.13113
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 31540,
+                "official_name": "Szko\u0142a Podstawowa im. Dra Aleksandra Majkowskiego w Nowej Karczmie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "83-404",
+                "addr:city": "Nowa Karczma",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "4",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 167912,
+                "contact:phone": "+48 586877111",
+                "contact:email": "gim-nk@wp.pl",
+                "contact:website": "http:\/\/nowakaczma.szkolnastrona.pl",
+                "ref:regon": "190586892",
+                "ref:vatin": "PL5911627456",
+                "operator": "Gmina Nowa Karczma",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 5510,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.2905378,
+                    54.138356
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 5510,
+                "official_name": "Szko\u0142a Podstawowa im. P\u0142k. Franciszka Hynka w Szatarpach",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "83-421",
+                "addr:place": "Szatarpy",
+                "addr:housenumber": "15",
+                "addr:teryt:sym_ul": 168053,
+                "contact:phone": "+48 586877177",
+                "contact:email": "szatarpy@gmail.com",
+                "ref:regon": "190586923",
+                "ref:vatin": "PL5911628160",
+                "operator": "Gmina Nowa Karczma",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 5509,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.14564,
+                    54.16619
+                ]
+            },
+            "properties": {
+                "ref:rspo": 5509,
+                "official_name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 w Grabowie",
+                "name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 w Grabowie",
+                "addr:country": "PL",
+                "addr:postcode": "83-403",
+                "addr:city": "Grabowo Ko\u015bcierskie",
+                "addr:street": "ul. Starowiejska",
+                "addr:housenumber": "68",
+                "addr:teryt:simc": 20998,
+                "addr:teryt:sym_ul": 167786,
+                "contact:phone": "+48 586870112",
+                "contact:email": "grabowoszkola@poczta.onet.pl",
+                "ref:regon": "190586900",
+                "ref:vatin": "PL5911627462",
+                "operator": "Gmina Nowa Karczma",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 31538;31539"
+            }
+        },
+        {
+            "id": 31538,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.14564,
+                    54.16616
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 31538,
+                "official_name": "Szko\u0142a Podstawowa im. Gen. J\u00f3zefa Wybickiego w Grabowie Ko\u015bcierskim",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "83-403",
+                "addr:city": "Grabowo Ko\u015bcierskie",
+                "addr:street": "ul. Starowiejska",
+                "addr:housenumber": "68",
+                "addr:teryt:simc": 20998,
+                "addr:teryt:sym_ul": 167786,
+                "contact:phone": "+48 586870112",
+                "contact:email": "grabowoszkola@poczta.onet.pl",
+                "ref:regon": "221759337",
+                "operator": "Gmina Nowa Karczma",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 5509"
+            }
+        },
+        {
+            "id": 31539,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.14564,
+                    54.16613
+                ]
+            },
+            "properties": {
+                "ref:rspo": 31539,
+                "official_name": "Samorz\u0105dowe Przedszkole w Grabowie Ko\u015bcierskim",
+                "name": "Samorz\u0105dowe Przedszkole w Grabowie Ko\u015bcierskim",
+                "addr:country": "PL",
+                "addr:postcode": "83-403",
+                "addr:city": "Grabowo Ko\u015bcierskie",
+                "addr:street": "ul. Starowiejska",
+                "addr:housenumber": "68",
+                "addr:teryt:simc": 20998,
+                "addr:teryt:sym_ul": 167786,
+                "contact:phone": "+48 586870112",
+                "ref:regon": "190581736",
+                "operator": "Gmina Nowa Karczma",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 5509"
+            }
+        }
+    ]
+}

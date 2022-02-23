@@ -1,1 +1,189 @@
-{"type":"FeatureCollection","features":[{"id":58495,"type":"Feature","geometry":{"type":"Point","coordinates":[19.84435,52.50349]},"properties":{"ref:rspo":58495,"official_name":"Samorz\u0105dowe Przedszkole \"Niezapominajka\" w S\u0142upnie","name":"Samorz\u0105dowe Przedszkole \"Niezapominajka\" w S\u0142upnie","addr:country":"PL","addr:postcode":"09-472","addr:city":"S\u0142upno","addr:street":"ul. Ko\u015bcielna","addr:housenumber":"13","addr:teryt:simc":9546,"addr:teryt:sym_ul":575901,"contact:phone":"+48 242602201","contact:email":"kontakt@niezapominajkaslupno.pl","contact:website":"http:\/\/www.niezapominajkaslupno.pl","ref:regon":"000904144","ref:vatin":"PL7742895668","operator":"Gmina S\u0142upno","operator:type":"government","amenity":"kindergarten"}},{"id":58492,"type":"Feature","geometry":{"type":"Point","coordinates":[19.84637,52.50427]},"properties":{"isced:level":"1;2","ref:rspo":58492,"official_name":"Szko\u0142a Podstawowa im. Abp. Antoniego Juliana Nowowiejskiego w S\u0142upnie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"09-472","addr:city":"S\u0142upno","addr:street":"ul. Ko\u015bcielna","addr:housenumber":"16","addr:teryt:simc":9546,"addr:teryt:sym_ul":575901,"contact:phone":"+48 242612928","contact:email":"spslupno@wp.pl","contact:website":"http:\/\/www.spslupno.pl","ref:regon":"001127429","ref:vatin":"PL7742695426","operator":"Gmina S\u0142upno","operator:type":"government","amenity":"school"}},{"id":269283,"type":"Feature","geometry":{"type":"Point","coordinates":[19.84762,52.515]},"properties":{"ref:rspo":269283,"official_name":"Kotki Dwa","name":"Kotki Dwa","addr:country":"PL","addr:postcode":"09-470","addr:city":"S\u0142upno","addr:street":"ul. Jab\u0142oni","addr:housenumber":"13","addr:teryt:simc":6965,"addr:teryt:sym_ul":575901,"contact:phone":"+48 607377564","contact:email":"malgorzata.mioduska1@gmail.com","ref:regon":"381423219","operator":"Ma\u0142gorzata Olaszkiewicz","operator:type":"private","amenity":"kindergarten"}},{"id":58494,"type":"Feature","geometry":{"type":"Point","coordinates":[19.91702,52.52587]},"properties":{"isced:level":"1;2","ref:rspo":58494,"official_name":"Szko\u0142a Podstawowa im. Ma\u0142ego Powsta\u0144ca w \u015awi\u0119cie\u0144cu","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"09-472","addr:place":"\u015awi\u0119cieniec","addr:housenumber":"10A","addr:teryt:sym_ul":575999,"contact:phone":"+48 242606518","contact:email":"sekretariat@szkolaswiecieniec.pl","contact:website":"http:\/\/www.szkolaswiecieniec.pl","ref:regon":"001127435","ref:vatin":"PL7742695395","operator":"Gmina S\u0142upno","operator:type":"government","amenity":"school"}},{"id":126972,"type":"Feature","geometry":{"type":"Point","coordinates":[19.7843899,52.54606]},"properties":{"ref:rspo":126972,"official_name":"Niepubliczne Przedszkole \"Domowe Przedszkole\"","name":"Niepubliczne Przedszkole \"Domowe Przedszkole\"","addr:country":"PL","addr:postcode":"09-410","addr:city":"Nowe Gulczewo","addr:street":"ul. Ketlinga","addr:housenumber":"17","addr:teryt:simc":8325,"addr:teryt:sym_ul":575835,"contact:phone":"+48 791102765","contact:email":"marzena-szypszak@o2.pl","ref:regon":"361001735","ref:vatin":"PL7742526209","operator":"Marzena Szypszak","operator:type":"private","amenity":"kindergarten"}},{"id":58493,"type":"Feature","geometry":{"type":"Point","coordinates":[19.59746,52.64694]},"properties":{"isced:level":"1;2","ref:rspo":58493,"official_name":"Szko\u0142a Podstawowa w Liszynie","name":"Szko\u0142a Podstawowa w Liszynie","addr:country":"PL","addr:postcode":"09-408","addr:city":"Liszyno","addr:street":"ul. Wawrzy\u0144ca Sikory","addr:housenumber":"19","addr:teryt:simc":37256,"addr:teryt:sym_ul":575769,"contact:phone":"+48 242612922","contact:email":"dyrektor@spliszyno.pl","contact:website":"http:\/\/www.spliszyno.pl","ref:regon":"001127412","ref:vatin":"PL7742695432","operator":"Gmina S\u0142upno","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 58495,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.84435,
+                    52.50349
+                ]
+            },
+            "properties": {
+                "ref:rspo": 58495,
+                "official_name": "Samorz\u0105dowe Przedszkole \"Niezapominajka\" w S\u0142upnie",
+                "name": "Samorz\u0105dowe Przedszkole \"Niezapominajka\" w S\u0142upnie",
+                "addr:country": "PL",
+                "addr:postcode": "09-472",
+                "addr:city": "S\u0142upno",
+                "addr:street": "ul. Ko\u015bcielna",
+                "addr:housenumber": "13",
+                "addr:teryt:simc": 9546,
+                "addr:teryt:sym_ul": 575901,
+                "contact:phone": "+48 242602201",
+                "contact:email": "kontakt@niezapominajkaslupno.pl",
+                "contact:website": "http:\/\/www.niezapominajkaslupno.pl",
+                "ref:regon": "000904144",
+                "ref:vatin": "PL7742895668",
+                "operator": "Gmina S\u0142upno",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 58492,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.84637,
+                    52.50427
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 58492,
+                "official_name": "Szko\u0142a Podstawowa im. Abp. Antoniego Juliana Nowowiejskiego w S\u0142upnie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "09-472",
+                "addr:city": "S\u0142upno",
+                "addr:street": "ul. Ko\u015bcielna",
+                "addr:housenumber": "16",
+                "addr:teryt:simc": 9546,
+                "addr:teryt:sym_ul": 575901,
+                "contact:phone": "+48 242612928",
+                "contact:email": "spslupno@wp.pl",
+                "contact:website": "http:\/\/www.spslupno.pl",
+                "ref:regon": "001127429",
+                "ref:vatin": "PL7742695426",
+                "operator": "Gmina S\u0142upno",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 269283,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.84762,
+                    52.515
+                ]
+            },
+            "properties": {
+                "ref:rspo": 269283,
+                "official_name": "Kotki Dwa",
+                "name": "Kotki Dwa",
+                "addr:country": "PL",
+                "addr:postcode": "09-470",
+                "addr:city": "S\u0142upno",
+                "addr:street": "ul. Jab\u0142oni",
+                "addr:housenumber": "13",
+                "addr:teryt:simc": 6965,
+                "addr:teryt:sym_ul": 575901,
+                "contact:phone": "+48 607377564",
+                "contact:email": "malgorzata.mioduska1@gmail.com",
+                "ref:regon": "381423219",
+                "operator": "Ma\u0142gorzata Olaszkiewicz",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 58494,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.91702,
+                    52.52587
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 58494,
+                "official_name": "Szko\u0142a Podstawowa im. Ma\u0142ego Powsta\u0144ca w \u015awi\u0119cie\u0144cu",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "09-472",
+                "addr:place": "\u015awi\u0119cieniec",
+                "addr:housenumber": "10A",
+                "addr:teryt:sym_ul": 575999,
+                "contact:phone": "+48 242606518",
+                "contact:email": "sekretariat@szkolaswiecieniec.pl",
+                "contact:website": "http:\/\/www.szkolaswiecieniec.pl",
+                "ref:regon": "001127435",
+                "ref:vatin": "PL7742695395",
+                "operator": "Gmina S\u0142upno",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 126972,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.7843899,
+                    52.54606
+                ]
+            },
+            "properties": {
+                "ref:rspo": 126972,
+                "official_name": "Niepubliczne Przedszkole \"Domowe Przedszkole\"",
+                "name": "Niepubliczne Przedszkole \"Domowe Przedszkole\"",
+                "addr:country": "PL",
+                "addr:postcode": "09-410",
+                "addr:city": "Nowe Gulczewo",
+                "addr:street": "ul. Ketlinga",
+                "addr:housenumber": "17",
+                "addr:teryt:simc": 8325,
+                "addr:teryt:sym_ul": 575835,
+                "contact:phone": "+48 791102765",
+                "contact:email": "marzena-szypszak@o2.pl",
+                "ref:regon": "361001735",
+                "ref:vatin": "PL7742526209",
+                "operator": "Marzena Szypszak",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 58493,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.59746,
+                    52.64694
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 58493,
+                "official_name": "Szko\u0142a Podstawowa w Liszynie",
+                "name": "Szko\u0142a Podstawowa w Liszynie",
+                "addr:country": "PL",
+                "addr:postcode": "09-408",
+                "addr:city": "Liszyno",
+                "addr:street": "ul. Wawrzy\u0144ca Sikory",
+                "addr:housenumber": "19",
+                "addr:teryt:simc": 37256,
+                "addr:teryt:sym_ul": 575769,
+                "contact:phone": "+48 242612922",
+                "contact:email": "dyrektor@spliszyno.pl",
+                "contact:website": "http:\/\/www.spliszyno.pl",
+                "ref:regon": "001127412",
+                "ref:vatin": "PL7742695432",
+                "operator": "Gmina S\u0142upno",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

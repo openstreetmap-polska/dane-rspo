@@ -1,1 +1,36 @@
-{"type":"FeatureCollection","features":[{"id":7613,"type":"Feature","geometry":{"type":"Point","coordinates":[23.74289,50.99065]},"properties":{"isced:level":"1;2","ref:rspo":7613,"official_name":"Szko\u0142a Podstawowa w \u017bmudzi","name":"Szko\u0142a Podstawowa w \u017bmudzi","addr:country":"PL","addr:postcode":"22-114","addr:city":"\u017bmud\u017a","addr:street":"ul. Kasztanowa","addr:housenumber":"7","addr:teryt:simc":8171,"addr:teryt:sym_ul":111484,"contact:phone":"+48 825680178","contact:email":"szkola@sp-zmudz.pl","ref:regon":"000594011","ref:vatin":"PL5631995489","operator":"Gmina \u017bmud\u017a","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 7613,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.74289,
+                    50.99065
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 7613,
+                "official_name": "Szko\u0142a Podstawowa w \u017bmudzi",
+                "name": "Szko\u0142a Podstawowa w \u017bmudzi",
+                "addr:country": "PL",
+                "addr:postcode": "22-114",
+                "addr:city": "\u017bmud\u017a",
+                "addr:street": "ul. Kasztanowa",
+                "addr:housenumber": "7",
+                "addr:teryt:simc": 8171,
+                "addr:teryt:sym_ul": 111484,
+                "contact:phone": "+48 825680178",
+                "contact:email": "szkola@sp-zmudz.pl",
+                "ref:regon": "000594011",
+                "ref:vatin": "PL5631995489",
+                "operator": "Gmina \u017bmud\u017a",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

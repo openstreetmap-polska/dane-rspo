@@ -1,1 +1,161 @@
-{"type":"FeatureCollection","features":[{"id":125286,"type":"Feature","geometry":{"type":"Point","coordinates":[22.1359299,52.59163]},"properties":{"ref:rspo":125286,"official_name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 w Kosowie Lackim","name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 w Kosowie Lackim","addr:country":"PL","addr:postcode":"08-330","addr:city":"Kos\u00f3w Lacki","addr:street":"ul. Armii Krajowej","addr:housenumber":"6","addr:teryt:simc":432,"addr:teryt:sym_ul":676128,"contact:phone":"+48 257810334","contact:email":"zs@kosowlacki.pl","contact:website":"http:\/\/www.lo.kosowlacki.pl","ref:regon":"147434871","operator":"Gmina Kos\u00f3w Lacki","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 80146;123914"}},{"id":80146,"type":"Feature","geometry":{"type":"Point","coordinates":[22.1359299,52.5916]},"properties":{"isced:level":"3","ref:rspo":80146,"official_name":"Publiczne Liceum Og\u00f3lnokszta\u0142c\u0105ce im. Or\u0142a Bia\u0142ego","name":"Publiczne Liceum Og\u00f3lnokszta\u0142c\u0105ce","addr:country":"PL","addr:postcode":"08-330","addr:city":"Kos\u00f3w Lacki","addr:street":"ul. Armii Krajowej","addr:housenumber":"6","addr:teryt:simc":432,"addr:teryt:sym_ul":676128,"contact:phone":"+48 257810334","contact:email":"zs@kosowlacki.pl","contact:website":"http:\/\/www.lo.kosowlacki.pl","ref:regon":"712570060","operator":"Gmina Kos\u00f3w Lacki","operator:type":"government","amenity":"school","note":"Parent RSPO: 125286"}},{"id":123914,"type":"Feature","geometry":{"type":"Point","coordinates":[22.1359299,52.591570000000004]},"properties":{"isced:level":"3","ref:rspo":123914,"official_name":"Bran\u017cowa Szko\u0142a I Stopnia w Kosowie Lackim","name":"Bran\u017cowa Szko\u0142a I Stopnia w Kosowie Lackim","addr:country":"PL","addr:postcode":"08-330","addr:city":"Kos\u00f3w Lacki","addr:street":"ul. Armii Krajowej","addr:housenumber":"6","addr:teryt:simc":432,"addr:teryt:sym_ul":676128,"contact:phone":"+48 257810334","contact:email":"zs@kosowlacki.pl","contact:website":"http:\/\/www.lo.kosowlacki.pl","ref:regon":"147362982","operator":"Gmina Kos\u00f3w Lacki","operator:type":"government","amenity":"school","note":"Parent RSPO: 125286"}},{"id":80143,"type":"Feature","geometry":{"type":"Point","coordinates":[22.14028,52.59218]},"properties":{"isced:level":"1;2","ref:rspo":80143,"official_name":"Szko\u0142a Podstawowa im. Stefana Kardyna\u0142a Wyszy\u0144skiego w Kosowie Lackim","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"08-330","addr:city":"Kos\u00f3w Lacki","addr:street":"ul. Polna","addr:housenumber":"1","addr:teryt:simc":17011,"addr:teryt:sym_ul":676128,"contact:phone":"+48 257879626","contact:email":"szkolakos@wp.pl","contact:website":"http:\/\/www.sp.kosowlacki.pl","ref:regon":"000632898","operator":"Gmina Kos\u00f3w Lacki","operator:type":"government","amenity":"school"}},{"id":80147,"type":"Feature","geometry":{"type":"Point","coordinates":[22.14028,52.59215]},"properties":{"ref:rspo":80147,"official_name":"Gminne Przedszkole w Kosowie Lackim","name":"Gminne Przedszkole w Kosowie Lackim","addr:country":"PL","addr:postcode":"08-330","addr:city":"Kos\u00f3w Lacki","addr:street":"ul. Polna","addr:housenumber":"1","addr:teryt:simc":17011,"addr:teryt:sym_ul":676128,"contact:phone":"+48 257879041","contact:email":"przedszkole.kosowlacki@vp.pl","ref:regon":"710432336","operator":"Gmina Kos\u00f3w Lacki","operator:type":"government","amenity":"kindergarten"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 125286,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.1359299,
+                    52.59163
+                ]
+            },
+            "properties": {
+                "ref:rspo": 125286,
+                "official_name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 w Kosowie Lackim",
+                "name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 w Kosowie Lackim",
+                "addr:country": "PL",
+                "addr:postcode": "08-330",
+                "addr:city": "Kos\u00f3w Lacki",
+                "addr:street": "ul. Armii Krajowej",
+                "addr:housenumber": "6",
+                "addr:teryt:simc": 432,
+                "addr:teryt:sym_ul": 676128,
+                "contact:phone": "+48 257810334",
+                "contact:email": "zs@kosowlacki.pl",
+                "contact:website": "http:\/\/www.lo.kosowlacki.pl",
+                "ref:regon": "147434871",
+                "operator": "Gmina Kos\u00f3w Lacki",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 80146;123914"
+            }
+        },
+        {
+            "id": 80146,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.1359299,
+                    52.5916
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 80146,
+                "official_name": "Publiczne Liceum Og\u00f3lnokszta\u0142c\u0105ce im. Or\u0142a Bia\u0142ego",
+                "name": "Publiczne Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+                "addr:country": "PL",
+                "addr:postcode": "08-330",
+                "addr:city": "Kos\u00f3w Lacki",
+                "addr:street": "ul. Armii Krajowej",
+                "addr:housenumber": "6",
+                "addr:teryt:simc": 432,
+                "addr:teryt:sym_ul": 676128,
+                "contact:phone": "+48 257810334",
+                "contact:email": "zs@kosowlacki.pl",
+                "contact:website": "http:\/\/www.lo.kosowlacki.pl",
+                "ref:regon": "712570060",
+                "operator": "Gmina Kos\u00f3w Lacki",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 125286"
+            }
+        },
+        {
+            "id": 123914,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.1359299,
+                    52.591570000000004
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 123914,
+                "official_name": "Bran\u017cowa Szko\u0142a I Stopnia w Kosowie Lackim",
+                "name": "Bran\u017cowa Szko\u0142a I Stopnia w Kosowie Lackim",
+                "addr:country": "PL",
+                "addr:postcode": "08-330",
+                "addr:city": "Kos\u00f3w Lacki",
+                "addr:street": "ul. Armii Krajowej",
+                "addr:housenumber": "6",
+                "addr:teryt:simc": 432,
+                "addr:teryt:sym_ul": 676128,
+                "contact:phone": "+48 257810334",
+                "contact:email": "zs@kosowlacki.pl",
+                "contact:website": "http:\/\/www.lo.kosowlacki.pl",
+                "ref:regon": "147362982",
+                "operator": "Gmina Kos\u00f3w Lacki",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 125286"
+            }
+        },
+        {
+            "id": 80143,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.14028,
+                    52.59218
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 80143,
+                "official_name": "Szko\u0142a Podstawowa im. Stefana Kardyna\u0142a Wyszy\u0144skiego w Kosowie Lackim",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "08-330",
+                "addr:city": "Kos\u00f3w Lacki",
+                "addr:street": "ul. Polna",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 17011,
+                "addr:teryt:sym_ul": 676128,
+                "contact:phone": "+48 257879626",
+                "contact:email": "szkolakos@wp.pl",
+                "contact:website": "http:\/\/www.sp.kosowlacki.pl",
+                "ref:regon": "000632898",
+                "operator": "Gmina Kos\u00f3w Lacki",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 80147,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.14028,
+                    52.59215
+                ]
+            },
+            "properties": {
+                "ref:rspo": 80147,
+                "official_name": "Gminne Przedszkole w Kosowie Lackim",
+                "name": "Gminne Przedszkole w Kosowie Lackim",
+                "addr:country": "PL",
+                "addr:postcode": "08-330",
+                "addr:city": "Kos\u00f3w Lacki",
+                "addr:street": "ul. Polna",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 17011,
+                "addr:teryt:sym_ul": 676128,
+                "contact:phone": "+48 257879041",
+                "contact:email": "przedszkole.kosowlacki@vp.pl",
+                "ref:regon": "710432336",
+                "operator": "Gmina Kos\u00f3w Lacki",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        }
+    ]
+}

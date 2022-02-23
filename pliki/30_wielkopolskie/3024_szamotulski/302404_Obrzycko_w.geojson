@@ -1,1 +1,35 @@
-{"type":"FeatureCollection","features":[{"id":112093,"type":"Feature","geometry":{"type":"Point","coordinates":[16.50071,52.66023]},"properties":{"isced:level":"1;2","ref:rspo":112093,"official_name":"Szko\u0142a Podstawowa im. Juliana Tuwima w Gaju Ma\u0142ym","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"64-520","addr:place":"Gaj Ma\u0142y","addr:housenumber":"32","addr:teryt:sym_ul":591946,"contact:phone":"+48 612913760","contact:email":"szkolagaj@op.pl","contact:website":"http:\/\/www.spgajmaly.pl","ref:regon":"001228403","ref:vatin":"PL7872119767","operator":"Gmina Obrzycko","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 112093,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.50071,
+                    52.66023
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 112093,
+                "official_name": "Szko\u0142a Podstawowa im. Juliana Tuwima w Gaju Ma\u0142ym",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "64-520",
+                "addr:place": "Gaj Ma\u0142y",
+                "addr:housenumber": "32",
+                "addr:teryt:sym_ul": 591946,
+                "contact:phone": "+48 612913760",
+                "contact:email": "szkolagaj@op.pl",
+                "contact:website": "http:\/\/www.spgajmaly.pl",
+                "ref:regon": "001228403",
+                "ref:vatin": "PL7872119767",
+                "operator": "Gmina Obrzycko",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

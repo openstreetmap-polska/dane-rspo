@@ -1,1 +1,96 @@
-{"type":"FeatureCollection","features":[{"id":56658,"type":"Feature","geometry":{"type":"Point","coordinates":[17.24635,53.49263]},"properties":{"isced:level":"1;2","ref:rspo":56658,"official_name":"Szko\u0142a Podstawowa im. Jana Paw\u0142a II w Lipce","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"77-420","addr:city":"Lipka","addr:street":"ul. Szkolna","addr:housenumber":"6","addr:teryt:simc":21970,"addr:teryt:sym_ul":527049,"contact:phone":"+48 672665022","contact:email":"zslipka@wp.pl","contact:website":"http:\/\/www.splipka.pl","ref:regon":"000579655","ref:vatin":"PL7671706937","operator":"Gmina Lipka","operator:type":"government","amenity":"school"}},{"id":30194,"type":"Feature","geometry":{"type":"Point","coordinates":[17.2485,53.49781]},"properties":{"ref:rspo":30194,"official_name":"Przedszkole Gminne w Lipce","name":"Przedszkole Gminne w Lipce","addr:country":"PL","addr:postcode":"77-420","addr:city":"Lipka","addr:street":"ul. Gajowa","addr:housenumber":"1","addr:teryt:simc":5265,"addr:teryt:sym_ul":527049,"contact:phone":"+48 672665005","contact:email":"pglipka@o2.pl","contact:website":"http:\/\/www.przedszkolegminnelipka.edupage.org","ref:regon":"570338252","ref:vatin":"PL7671495995","operator":"Gmina Lipka","operator:type":"government","amenity":"kindergarten"}},{"id":56661,"type":"Feature","geometry":{"type":"Point","coordinates":[17.1273899,53.50413]},"properties":{"isced:level":"1;2","ref:rspo":56661,"official_name":"Szko\u0142a Podstawowa im. Janusza Korczaka w \u0141\u0105kiem","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"77-420","addr:place":"\u0141\u0105kie","addr:housenumber":"89","addr:teryt:sym_ul":527078,"contact:phone":"+48 672631595","contact:email":"zslakie@poczta.onet.pl","ref:regon":"001142140","operator":"Gmina Lipka","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 56658,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.24635,
+                    53.49263
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 56658,
+                "official_name": "Szko\u0142a Podstawowa im. Jana Paw\u0142a II w Lipce",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "77-420",
+                "addr:city": "Lipka",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "6",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 527049,
+                "contact:phone": "+48 672665022",
+                "contact:email": "zslipka@wp.pl",
+                "contact:website": "http:\/\/www.splipka.pl",
+                "ref:regon": "000579655",
+                "ref:vatin": "PL7671706937",
+                "operator": "Gmina Lipka",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 30194,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.2485,
+                    53.49781
+                ]
+            },
+            "properties": {
+                "ref:rspo": 30194,
+                "official_name": "Przedszkole Gminne w Lipce",
+                "name": "Przedszkole Gminne w Lipce",
+                "addr:country": "PL",
+                "addr:postcode": "77-420",
+                "addr:city": "Lipka",
+                "addr:street": "ul. Gajowa",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 5265,
+                "addr:teryt:sym_ul": 527049,
+                "contact:phone": "+48 672665005",
+                "contact:email": "pglipka@o2.pl",
+                "contact:website": "http:\/\/www.przedszkolegminnelipka.edupage.org",
+                "ref:regon": "570338252",
+                "ref:vatin": "PL7671495995",
+                "operator": "Gmina Lipka",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 56661,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.1273899,
+                    53.50413
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 56661,
+                "official_name": "Szko\u0142a Podstawowa im. Janusza Korczaka w \u0141\u0105kiem",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "77-420",
+                "addr:place": "\u0141\u0105kie",
+                "addr:housenumber": "89",
+                "addr:teryt:sym_ul": 527078,
+                "contact:phone": "+48 672631595",
+                "contact:email": "zslakie@poczta.onet.pl",
+                "ref:regon": "001142140",
+                "operator": "Gmina Lipka",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

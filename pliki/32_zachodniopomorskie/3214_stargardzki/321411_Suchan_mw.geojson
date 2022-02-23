@@ -1,1 +1,91 @@
-{"type":"FeatureCollection","features":[{"id":122455,"type":"Feature","geometry":{"type":"Point","coordinates":[15.45769,53.27213]},"properties":{"ref:rspo":122455,"official_name":"Niepubliczne Przedszkole Towarzystwa Przyjaci\u00f3\u0142 Dzieci w Wapnicy","name":"Niepubliczne Przedszkole Towarzystwa Przyjaci\u00f3\u0142 Dzieci w Wapnicy","addr:country":"PL","addr:postcode":"73-132","addr:place":"Wapnica","addr:housenumber":"19","addr:teryt:sym_ul":784094,"contact:website":"http:\/\/tpd.szczecin.pl","ref:regon":"321494108","operator":"Towarzystwo Przyjaci\u00f3\u0142 Dzieci Zachodniopomorski Oddzia\u0142 Regionalny W Szczecinie","operator:type":"ngo","amenity":"kindergarten"}},{"id":64540,"type":"Feature","geometry":{"type":"Point","coordinates":[15.31342,53.2792699]},"properties":{"isced:level":"1;2","ref:rspo":64540,"official_name":"Szko\u0142a Podstawowa im. Janusza Kusoci\u0144skiego w Suchaniu","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"73-132","addr:city":"Sucha\u0144","addr:street":"ul. Kardyna\u0142a Augusta Hlonda","addr:housenumber":"1","addr:teryt:simc":40863,"addr:teryt:sym_ul":979716,"contact:phone":"+48 915624012","contact:email":"spsu@post.pl","contact:website":"http:\/\/szkolasuchan.pl","ref:regon":"000264963","ref:vatin":"PL8542320490","operator":"Gmina Sucha\u0144","operator:type":"government","amenity":"school"}},{"id":122453,"type":"Feature","geometry":{"type":"Point","coordinates":[15.31342,53.2792399]},"properties":{"ref:rspo":122453,"official_name":"Niepubliczne Przedszkole \"S\u0142oneczko\" Towarzystwa Przyjaci\u00f3\u0142 Dzieci w Suchaniu","name":"Niepubliczne Przedszkole \"S\u0142oneczko\" Towarzystwa Przyjaci\u00f3\u0142 Dzieci w Suchaniu","addr:country":"PL","addr:postcode":"73-132","addr:city":"Sucha\u0144","addr:street":"ul. Kardyna\u0142a Augusta Hlonda","addr:housenumber":"1","addr:teryt:simc":40863,"addr:teryt:sym_ul":979716,"contact:website":"http:\/\/tpd.szczecin.pl","ref:regon":"321493847","operator":"Towarzystwo Przyjaci\u00f3\u0142 Dzieci Zachodniopomorski Oddzia\u0142 Regionalny W Szczecinie","operator:type":"ngo","amenity":"kindergarten"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 122455,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.45769,
+                    53.27213
+                ]
+            },
+            "properties": {
+                "ref:rspo": 122455,
+                "official_name": "Niepubliczne Przedszkole Towarzystwa Przyjaci\u00f3\u0142 Dzieci w Wapnicy",
+                "name": "Niepubliczne Przedszkole Towarzystwa Przyjaci\u00f3\u0142 Dzieci w Wapnicy",
+                "addr:country": "PL",
+                "addr:postcode": "73-132",
+                "addr:place": "Wapnica",
+                "addr:housenumber": "19",
+                "addr:teryt:sym_ul": 784094,
+                "contact:website": "http:\/\/tpd.szczecin.pl",
+                "ref:regon": "321494108",
+                "operator": "Towarzystwo Przyjaci\u00f3\u0142 Dzieci Zachodniopomorski Oddzia\u0142 Regionalny W Szczecinie",
+                "operator:type": "ngo",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 64540,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.31342,
+                    53.2792699
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 64540,
+                "official_name": "Szko\u0142a Podstawowa im. Janusza Kusoci\u0144skiego w Suchaniu",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "73-132",
+                "addr:city": "Sucha\u0144",
+                "addr:street": "ul. Kardyna\u0142a Augusta Hlonda",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 40863,
+                "addr:teryt:sym_ul": 979716,
+                "contact:phone": "+48 915624012",
+                "contact:email": "spsu@post.pl",
+                "contact:website": "http:\/\/szkolasuchan.pl",
+                "ref:regon": "000264963",
+                "ref:vatin": "PL8542320490",
+                "operator": "Gmina Sucha\u0144",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 122453,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.31342,
+                    53.2792399
+                ]
+            },
+            "properties": {
+                "ref:rspo": 122453,
+                "official_name": "Niepubliczne Przedszkole \"S\u0142oneczko\" Towarzystwa Przyjaci\u00f3\u0142 Dzieci w Suchaniu",
+                "name": "Niepubliczne Przedszkole \"S\u0142oneczko\" Towarzystwa Przyjaci\u00f3\u0142 Dzieci w Suchaniu",
+                "addr:country": "PL",
+                "addr:postcode": "73-132",
+                "addr:city": "Sucha\u0144",
+                "addr:street": "ul. Kardyna\u0142a Augusta Hlonda",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 40863,
+                "addr:teryt:sym_ul": 979716,
+                "contact:website": "http:\/\/tpd.szczecin.pl",
+                "ref:regon": "321493847",
+                "operator": "Towarzystwo Przyjaci\u00f3\u0142 Dzieci Zachodniopomorski Oddzia\u0142 Regionalny W Szczecinie",
+                "operator:type": "ngo",
+                "amenity": "kindergarten"
+            }
+        }
+    ]
+}

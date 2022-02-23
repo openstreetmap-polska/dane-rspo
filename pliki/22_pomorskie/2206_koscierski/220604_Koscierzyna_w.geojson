@@ -1,1 +1,797 @@
-{"type":"FeatureCollection","features":[{"id":60561,"type":"Feature","geometry":{"type":"Point","coordinates":[18.228552,54.042978]},"properties":{"ref:rspo":60561,"official_name":"Powiatowe Centrum M\u0142odzie\u017cy im.j\u00f3zefa Pi\u0142sudskiego","name":"Powiatowe Centrum M\u0142odzie\u017cy im.j\u00f3zefa Pi\u0142sudskiego","addr:country":"PL","addr:postcode":"83-400","addr:place":"Garczyn","addr:housenumber":"1","addr:teryt:sym_ul":164919,"contact:phone":"+48 586864098","contact:email":"pcm.garczyn@powiatkoscierski.pl","ref:regon":"193005565","ref:vatin":"PL5911581493","operator":"Powiat Ko\u015bcierski","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 82898;82899;85740"}},{"id":82898,"type":"Feature","geometry":{"type":"Point","coordinates":[18.228552,54.042947999999996]},"properties":{"ref:rspo":82898,"official_name":"Szkolne Schronisko M\u0142odzie\u017cowe w Garczynie","name":"Szkolne Schronisko M\u0142odzie\u017cowe w Garczynie","addr:country":"PL","addr:postcode":"83-400","addr:place":"Garczyn","addr:housenumber":"1","addr:teryt:sym_ul":164919,"contact:phone":"+48 586864098","ref:regon":"220050499","operator":"Powiat Ko\u015bcierski","operator:type":"government","tourism":"hostel","note":"Parent RSPO: 60561"}},{"id":82899,"type":"Feature","geometry":{"type":"Point","coordinates":[18.228552,54.042918]},"properties":{"ref:rspo":82899,"official_name":"Mi\u0119dzyszkolny O\u015brodek Sportu","name":"Mi\u0119dzyszkolny O\u015brodek Sportu","addr:country":"PL","addr:postcode":"83-400","addr:place":"Garczyn","addr:housenumber":"1","addr:teryt:sym_ul":164919,"contact:phone":"+48 586864098","contact:email":"pcm.garczyn@powiatkoscierski.pl","ref:regon":"220050507","operator":"Powiat Ko\u015bcierski","operator:type":"government","leisure":"sports_centre","note":"Parent RSPO: 60561"}},{"id":85740,"type":"Feature","geometry":{"type":"Point","coordinates":[18.228552,54.042888]},"properties":{"ref:rspo":85740,"official_name":"Ognisko Pracy Pozaszkolnej","name":"Ognisko Pracy Pozaszkolnej","addr:country":"PL","addr:postcode":"83-400","addr:place":"Garczyn","addr:housenumber":"1","addr:teryt:sym_ul":164919,"contact:phone":"+48 586864098","contact:email":"pcm.garczyn@powiatkoscierski.pl","ref:regon":"220050513","operator":"Powiat Ko\u015bcierski","operator:type":"government","amenity":"community_centre","community_centre:for":"child;juvenile","note":"Parent RSPO: 60561"}},{"id":8139,"type":"Feature","geometry":{"type":"Point","coordinates":[17.915130615234,54.046890258789]},"properties":{"ref:rspo":8139,"official_name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 w W\u0105glikowicach","name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 w W\u0105glikowicach","addr:country":"PL","addr:postcode":"83-406","addr:city":"W\u0105glikowice","addr:street":"ul. Ko\u015bcierska","addr:housenumber":"8","addr:teryt:simc":9556,"addr:teryt:sym_ul":164776,"contact:phone":"+48 586861223","contact:email":"sp_wag@poczta.onet.pl","ref:regon":"193080242","ref:vatin":"PL5911693252","operator":"Gmina Ko\u015bcierzyna","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 8141;119638"}},{"id":8141,"type":"Feature","geometry":{"type":"Point","coordinates":[17.915130615234,54.046860258788996]},"properties":{"isced:level":"1;2","ref:rspo":8141,"official_name":"Szko\u0142a Podstawowa w W\u0105glikowicach","name":"Szko\u0142a Podstawowa w W\u0105glikowicach","addr:country":"PL","addr:postcode":"83-406","addr:city":"W\u0105glikowice","addr:street":"ul. Ko\u015bcierska","addr:housenumber":"8","addr:teryt:simc":9556,"addr:teryt:sym_ul":164776,"contact:phone":"+48 586861223","contact:email":"sp_wag@poczta.onet.pl","ref:regon":"000736161","ref:vatin":"PL5911472166","operator":"Gmina Ko\u015bcierzyna","operator:type":"government","amenity":"school","note":"Parent RSPO: 8139"}},{"id":119638,"type":"Feature","geometry":{"type":"Point","coordinates":[17.915130615234,54.046830258789]},"properties":{"ref:rspo":119638,"official_name":"Publiczne Przedszkole w W\u0105glikowicach","name":"Publiczne Przedszkole w W\u0105glikowicach","addr:country":"PL","addr:postcode":"83-406","addr:city":"W\u0105glikowice","addr:street":"ul. Ko\u015bcierska","addr:housenumber":"8","addr:teryt:simc":9556,"addr:teryt:sym_ul":164776,"contact:phone":"+48 586861223","contact:email":"sp_wag@poczta.onet.pl","ref:regon":"221948080","operator":"Gmina Ko\u015bcierzyna","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 8139"}},{"id":8124,"type":"Feature","geometry":{"type":"Point","coordinates":[18.090322,54.064816]},"properties":{"isced:level":"1;2","ref:rspo":8124,"official_name":"Szko\u0142a Podstawowa w Niedamowie","name":"Szko\u0142a Podstawowa w Niedamowie","addr:country":"PL","addr:postcode":"83-423","addr:place":"Niedamowo","addr:housenumber":"44","addr:teryt:sym_ul":164530,"contact:phone":"+48 586861469","contact:email":"spniedamowo@wp.pl","ref:regon":"001203449","ref:vatin":"PL5911472137","operator":"Gmina Ko\u015bcierzyna","operator:type":"government","amenity":"school"}},{"id":133390,"type":"Feature","geometry":{"type":"Point","coordinates":[18.090322,54.064786]},"properties":{"ref:rspo":133390,"official_name":"Punkt Przedszkolny w Niedamowie","name":"Punkt Przedszkolny w Niedamowie","addr:country":"PL","addr:postcode":"83-400","addr:place":"Niedamowo","addr:housenumber":"44","addr:teryt:sym_ul":164530,"contact:phone":"+48 586861469","contact:email":"spniedamowo@wp.pl","ref:regon":"367167359","operator":"Gmina Ko\u015bcierzyna","operator:type":"government","amenity":"kindergarten"}},{"id":8126,"type":"Feature","geometry":{"type":"Point","coordinates":[17.78687,54.09838]},"properties":{"isced:level":"1;2","ref:rspo":8126,"official_name":"Szko\u0142a Podstawowa w Kornem","name":"Szko\u0142a Podstawowa w Kornem","addr:country":"PL","addr:postcode":"83-409","addr:city":"Korne","addr:street":"ul. M\u0142y\u0144ska","addr:housenumber":"14","addr:teryt:simc":13132,"addr:teryt:sym_ul":164405,"contact:phone":"+48 586867144","contact:email":"spkor@gmina.koscierzyna.pl","contact:website":"http:\/\/www.spkorne@szkolnastrona.pl","ref:regon":"000736178","ref:vatin":"PL5911472054","operator":"Gmina Ko\u015bcierzyna","operator:type":"government","amenity":"school"}},{"id":8130,"type":"Feature","geometry":{"type":"Point","coordinates":[18.06023,54.09914]},"properties":{"ref:rspo":8130,"official_name":"Zesp\u00f3\u0142 Kszta\u0142cenia w Wielkim Klinczu","name":"Zesp\u00f3\u0142 Kszta\u0142cenia w Wielkim Klinczu","addr:country":"PL","addr:postcode":"83-423","addr:city":"Wielki Klincz","addr:street":"ul. Szkolna","addr:housenumber":"22","addr:teryt:simc":21970,"addr:teryt:sym_ul":164842,"contact:phone":"+48 586861528","contact:email":"zkwk1@wp.pl","ref:regon":"193079345","ref:vatin":"PL5911607666","operator":"Gmina Ko\u015bcierzyna","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 85100;88012"}},{"id":85100,"type":"Feature","geometry":{"type":"Point","coordinates":[18.06023,54.099109999999996]},"properties":{"isced:level":"1;2","ref:rspo":85100,"official_name":"Szko\u0142a Podstawowa w Wielkim Klinczu","name":"Szko\u0142a Podstawowa w Wielkim Klinczu","addr:country":"PL","addr:postcode":"83-423","addr:city":"Wielki Klincz","addr:street":"ul. Szkolna","addr:housenumber":"22","addr:teryt:simc":21970,"addr:teryt:sym_ul":164842,"contact:phone":"+48 586861553","contact:email":"zkwk1@wp.pl","contact:website":"http:\/\/szkolaklincz.pl","ref:regon":"000736155","ref:vatin":"PL5911472172","operator":"Gmina Ko\u015bcierzyna","operator:type":"government","amenity":"school","note":"Parent RSPO: 8130"}},{"id":127251,"type":"Feature","geometry":{"type":"Point","coordinates":[18.06058,54.1013]},"properties":{"ref:rspo":127251,"official_name":"Niepubliczne Przedszkole Jolanta Reichel \"Tweety\"","name":"Niepubliczne Przedszkole Jolanta Reichel \"Tweety\"","addr:country":"PL","addr:postcode":"83-423","addr:city":"Wielki Klincz","addr:street":"ul. S\u0119dzickiego","addr:housenumber":"2A","addr:teryt:simc":19724,"addr:teryt:sym_ul":164842,"contact:phone":"+48 664732592","contact:email":"przedszkole.wielkiklincz@wp.pl","ref:regon":"361260477","ref:vatin":"PL5911289947","operator":"Niepubliczne Przedszkole Jolanta Reichel \"Tweety\"","operator:type":"consortium","amenity":"kindergarten"}},{"id":88012,"type":"Feature","geometry":{"type":"Point","coordinates":[18.062879562378,54.101570129395]},"properties":{"ref:rspo":88012,"official_name":"Publiczne Przedszkole w Wwielkim Klinczu","name":"Publiczne Przedszkole w Wwielkim Klinczu","addr:country":"PL","addr:postcode":"83-423","addr:city":"Wielki Klincz","addr:street":"ul. Ko\u015bcierska","addr:housenumber":"20","addr:teryt:simc":9556,"addr:teryt:sym_ul":164842,"contact:phone":"+48 586861413","contact:email":"zkwk1@wp.pl","ref:regon":"190584290","operator":"Gmina Ko\u015bcierzyna","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 8130"}},{"id":8138,"type":"Feature","geometry":{"type":"Point","coordinates":[18.060721,54.105008]},"properties":{"isced:level":"1;2","ref:rspo":8138,"official_name":"Szko\u0142a Podstawowa w Wielkim Podlesiu","name":"Szko\u0142a Podstawowa w Wielkim Podlesiu","addr:country":"PL","addr:postcode":"83-423","addr:place":"Wielki Podle\u015b","addr:housenumber":"12","addr:teryt:sym_ul":164888,"contact:phone":"+48 586862234","contact:email":"wpodles@wp.pl","contact:website":"http:\/\/spwp.cba.pl","ref:regon":"190427627","ref:vatin":"PL5911472002","operator":"Gmina Ko\u015bcierzyna","operator:type":"government","amenity":"school"}},{"id":8128,"type":"Feature","geometry":{"type":"Point","coordinates":[17.8717599,54.1131]},"properties":{"ref:rspo":8128,"official_name":"Zesp\u00f3\u0142 Kszta\u0142cenia w \u0141ubianie","name":"Zesp\u00f3\u0142 Kszta\u0142cenia w \u0141ubianie","addr:country":"PL","addr:postcode":"83-407","addr:city":"\u0141ubiana","addr:street":"ul. Szkolna","addr:housenumber":"1","addr:teryt:simc":21970,"addr:teryt:sym_ul":164500,"contact:phone":"+48 586874306","contact:email":"sekretariat@zklub.koscierzyna.pl","ref:regon":"193079492","ref:vatin":"PL5911594449","operator":"Gmina Ko\u015bcierzyna","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 85071;85072"}},{"id":85071,"type":"Feature","geometry":{"type":"Point","coordinates":[17.8717599,54.11307]},"properties":{"isced:level":"1;2","ref:rspo":85071,"official_name":"Szko\u0142a Podstawowa w \u0141ubianie","name":"Szko\u0142a Podstawowa w \u0141ubianie","addr:country":"PL","addr:postcode":"83-407","addr:city":"\u0141ubiana","addr:street":"ul. Szkolna","addr:housenumber":"1","addr:teryt:simc":21970,"addr:teryt:sym_ul":164500,"contact:phone":"+48 586874306","contact:email":"sekretariat@zklub.koscierzyna.pl","contact:website":"http:\/\/zk-lubiana.koscierzyna.pl","ref:regon":"190096700","ref:vatin":"PL5911472143","operator":"Gmina Ko\u015bcierzyna","operator:type":"government","amenity":"school","note":"Parent RSPO: 8128"}},{"id":85072,"type":"Feature","geometry":{"type":"Point","coordinates":[17.8717599,54.113040000000005]},"properties":{"ref:rspo":85072,"official_name":"Publiczne Przedszkole w \u0141ubianie","name":"Publiczne Przedszkole w \u0141ubianie","addr:country":"PL","addr:postcode":"83-407","addr:city":"\u0141ubiana","addr:street":"ul. Szkolna","addr:housenumber":"1","addr:teryt:simc":21970,"addr:teryt:sym_ul":164500,"contact:phone":"+48 586874306","contact:email":"sekretariat@zklub.koscierzyna.pl","ref:regon":"190584284","operator":"Gmina Ko\u015bcierzyna","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 8128"}},{"id":263567,"type":"Feature","geometry":{"type":"Point","coordinates":[18.036539077759,54.125019073486]},"properties":{"ref:rspo":263567,"official_name":"Zesp\u00f3\u0142 Szkolno Przedszkolny w Nowym Klinczu","name":"Zesp\u00f3\u0142 Szkolno Przedszkolny w Nowym Klinczu","addr:country":"PL","addr:postcode":"83-400","addr:city":"Nowy Klincz","addr:street":"ul. Spacerowa","addr:housenumber":"25","addr:teryt:simc":20641,"addr:teryt:sym_ul":164612,"contact:phone":"+48 586863514","contact:email":"spnkl@koscierzyna.pl","ref:regon":"368203169","operator":"Gmina Ko\u015bcierzyna","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 8125;263568"}},{"id":8125,"type":"Feature","geometry":{"type":"Point","coordinates":[18.036539077759,54.124989073486]},"properties":{"isced:level":"1;2","ref:rspo":8125,"official_name":"Szko\u0142a Podstawowa w Nowym Klinczu","name":"Szko\u0142a Podstawowa w Nowym Klinczu","addr:country":"PL","addr:postcode":"83-400","addr:city":"Nowy Klincz","addr:street":"ul. Spacerowa","addr:housenumber":"25","addr:teryt:simc":20641,"addr:teryt:sym_ul":164612,"contact:phone":"+48 586863514","contact:email":"spnkl@koscierzyna.pl","ref:regon":"000736209","ref:vatin":"PL5911472108","operator":"Gmina Ko\u015bcierzyna","operator:type":"government","amenity":"school","note":"Parent RSPO: 263567"}},{"id":263568,"type":"Feature","geometry":{"type":"Point","coordinates":[18.036539077759,54.124959073486]},"properties":{"ref:rspo":263568,"official_name":"Przedszkole Nowy Klincz","name":"Przedszkole Nowy Klincz","addr:country":"PL","addr:postcode":"83-400","addr:city":"Nowy Klincz","addr:street":"ul. Spacerowa","addr:housenumber":"25","addr:teryt:simc":20641,"addr:teryt:sym_ul":164612,"contact:phone":"+48 586863514","contact:email":"spnkl@koscierzyna.pl","ref:regon":"368203212","operator":"Gmina Ko\u015bcierzyna","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 263567"}},{"id":8127,"type":"Feature","geometry":{"type":"Point","coordinates":[18.040340423584,54.164119720459]},"properties":{"isced:level":"1;2","ref:rspo":8127,"official_name":"Szko\u0142a Podstawowa w Kaliskach","name":"Szko\u0142a Podstawowa w Kaliskach","addr:country":"PL","addr:postcode":"83-400","addr:city":"Kaliska Ko\u015bcierskie","addr:street":"ul. Szkolna","addr:housenumber":"7","addr:teryt:simc":21970,"addr:teryt:sym_ul":164380,"contact:phone":"+48 586862081","contact:email":"szkola.kaliska@wp.pl","ref:regon":"000736190","ref:vatin":"PL5911472120","operator":"Gmina Ko\u015bcierzyna","operator:type":"government","amenity":"school"}},{"id":8133,"type":"Feature","geometry":{"type":"Point","coordinates":[17.97045,54.16858]},"properties":{"ref:rspo":8133,"official_name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 w Skorzewie","name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 w Skorzewie","addr:country":"PL","addr:postcode":"83-400","addr:city":"Skorzewo","addr:street":"ul. Franciszka Pepli\u0144skiego","addr:housenumber":"6","addr:teryt:simc":31131,"addr:teryt:sym_ul":164670,"contact:phone":"+48 586871201","contact:email":"skorzewo@wp.pl","ref:regon":"193079807","ref:vatin":"PL5911595182","operator":"Gmina Ko\u015bcierzyna","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 8135;9196"}},{"id":8135,"type":"Feature","geometry":{"type":"Point","coordinates":[17.97045,54.168549999999996]},"properties":{"isced:level":"1;2","ref:rspo":8135,"official_name":"Szko\u0142a Podstawowa w Skorzewie","name":"Szko\u0142a Podstawowa w Skorzewie","addr:country":"PL","addr:postcode":"83-400","addr:city":"Skorzewo","addr:street":"ul. Franciszka Pepli\u0144skiego","addr:housenumber":"6","addr:teryt:simc":31131,"addr:teryt:sym_ul":164670,"contact:phone":"+48 586871201","contact:email":"skorzewo@wp.pl","ref:regon":"000736184","ref:vatin":"PL5911472048","operator":"Gmina Ko\u015bcierzyna","operator:type":"government","amenity":"school","note":"Parent RSPO: 8133"}},{"id":9196,"type":"Feature","geometry":{"type":"Point","coordinates":[17.96928,54.1687]},"properties":{"ref:rspo":9196,"official_name":"Publiczne Przedszkole w Skorzewie","name":"Publiczne Przedszkole w Skorzewie","addr:country":"PL","addr:postcode":"83-400","addr:city":"Skorzewo","addr:street":"ul. gen. Antoniego Zdrojewskiego","addr:housenumber":"1\/A","addr:teryt:simc":50164,"addr:teryt:sym_ul":164670,"contact:phone":"+48 586871201","contact:email":"skorzewo@wp.pl","ref:regon":"221735213","operator":"Gmina Ko\u015bcierzyna","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 8133"}},{"id":133391,"type":"Feature","geometry":{"type":"Point","coordinates":[18.100752,54.184966]},"properties":{"ref:rspo":133391,"official_name":"Punkt Przedszkolny w K\u0142obuczynie","name":"Punkt Przedszkolny w K\u0142obuczynie","addr:country":"PL","addr:postcode":"83-315","addr:place":"K\u0142obuczyno","addr:housenumber":"1","addr:teryt:sym_ul":164397,"contact:phone":"+48 586862081","contact:email":"szkola.kaliska@wp.pl","contact:website":"http:\/\/www.spkaliska.szkolnastrona.pl","ref:regon":"367167218","operator":"Gmina Ko\u015bcierzyna","operator:type":"government","amenity":"kindergarten"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 60561,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.228552,
+                    54.042978
+                ]
+            },
+            "properties": {
+                "ref:rspo": 60561,
+                "official_name": "Powiatowe Centrum M\u0142odzie\u017cy im.j\u00f3zefa Pi\u0142sudskiego",
+                "name": "Powiatowe Centrum M\u0142odzie\u017cy im.j\u00f3zefa Pi\u0142sudskiego",
+                "addr:country": "PL",
+                "addr:postcode": "83-400",
+                "addr:place": "Garczyn",
+                "addr:housenumber": "1",
+                "addr:teryt:sym_ul": 164919,
+                "contact:phone": "+48 586864098",
+                "contact:email": "pcm.garczyn@powiatkoscierski.pl",
+                "ref:regon": "193005565",
+                "ref:vatin": "PL5911581493",
+                "operator": "Powiat Ko\u015bcierski",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 82898;82899;85740"
+            }
+        },
+        {
+            "id": 82898,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.228552,
+                    54.042947999999996
+                ]
+            },
+            "properties": {
+                "ref:rspo": 82898,
+                "official_name": "Szkolne Schronisko M\u0142odzie\u017cowe w Garczynie",
+                "name": "Szkolne Schronisko M\u0142odzie\u017cowe w Garczynie",
+                "addr:country": "PL",
+                "addr:postcode": "83-400",
+                "addr:place": "Garczyn",
+                "addr:housenumber": "1",
+                "addr:teryt:sym_ul": 164919,
+                "contact:phone": "+48 586864098",
+                "ref:regon": "220050499",
+                "operator": "Powiat Ko\u015bcierski",
+                "operator:type": "government",
+                "tourism": "hostel",
+                "note": "Parent RSPO: 60561"
+            }
+        },
+        {
+            "id": 82899,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.228552,
+                    54.042918
+                ]
+            },
+            "properties": {
+                "ref:rspo": 82899,
+                "official_name": "Mi\u0119dzyszkolny O\u015brodek Sportu",
+                "name": "Mi\u0119dzyszkolny O\u015brodek Sportu",
+                "addr:country": "PL",
+                "addr:postcode": "83-400",
+                "addr:place": "Garczyn",
+                "addr:housenumber": "1",
+                "addr:teryt:sym_ul": 164919,
+                "contact:phone": "+48 586864098",
+                "contact:email": "pcm.garczyn@powiatkoscierski.pl",
+                "ref:regon": "220050507",
+                "operator": "Powiat Ko\u015bcierski",
+                "operator:type": "government",
+                "leisure": "sports_centre",
+                "note": "Parent RSPO: 60561"
+            }
+        },
+        {
+            "id": 85740,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.228552,
+                    54.042888
+                ]
+            },
+            "properties": {
+                "ref:rspo": 85740,
+                "official_name": "Ognisko Pracy Pozaszkolnej",
+                "name": "Ognisko Pracy Pozaszkolnej",
+                "addr:country": "PL",
+                "addr:postcode": "83-400",
+                "addr:place": "Garczyn",
+                "addr:housenumber": "1",
+                "addr:teryt:sym_ul": 164919,
+                "contact:phone": "+48 586864098",
+                "contact:email": "pcm.garczyn@powiatkoscierski.pl",
+                "ref:regon": "220050513",
+                "operator": "Powiat Ko\u015bcierski",
+                "operator:type": "government",
+                "amenity": "community_centre",
+                "community_centre:for": "child;juvenile",
+                "note": "Parent RSPO: 60561"
+            }
+        },
+        {
+            "id": 8139,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.915130615234,
+                    54.046890258789
+                ]
+            },
+            "properties": {
+                "ref:rspo": 8139,
+                "official_name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 w W\u0105glikowicach",
+                "name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 w W\u0105glikowicach",
+                "addr:country": "PL",
+                "addr:postcode": "83-406",
+                "addr:city": "W\u0105glikowice",
+                "addr:street": "ul. Ko\u015bcierska",
+                "addr:housenumber": "8",
+                "addr:teryt:simc": 9556,
+                "addr:teryt:sym_ul": 164776,
+                "contact:phone": "+48 586861223",
+                "contact:email": "sp_wag@poczta.onet.pl",
+                "ref:regon": "193080242",
+                "ref:vatin": "PL5911693252",
+                "operator": "Gmina Ko\u015bcierzyna",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 8141;119638"
+            }
+        },
+        {
+            "id": 8141,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.915130615234,
+                    54.046860258788996
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 8141,
+                "official_name": "Szko\u0142a Podstawowa w W\u0105glikowicach",
+                "name": "Szko\u0142a Podstawowa w W\u0105glikowicach",
+                "addr:country": "PL",
+                "addr:postcode": "83-406",
+                "addr:city": "W\u0105glikowice",
+                "addr:street": "ul. Ko\u015bcierska",
+                "addr:housenumber": "8",
+                "addr:teryt:simc": 9556,
+                "addr:teryt:sym_ul": 164776,
+                "contact:phone": "+48 586861223",
+                "contact:email": "sp_wag@poczta.onet.pl",
+                "ref:regon": "000736161",
+                "ref:vatin": "PL5911472166",
+                "operator": "Gmina Ko\u015bcierzyna",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 8139"
+            }
+        },
+        {
+            "id": 119638,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.915130615234,
+                    54.046830258789
+                ]
+            },
+            "properties": {
+                "ref:rspo": 119638,
+                "official_name": "Publiczne Przedszkole w W\u0105glikowicach",
+                "name": "Publiczne Przedszkole w W\u0105glikowicach",
+                "addr:country": "PL",
+                "addr:postcode": "83-406",
+                "addr:city": "W\u0105glikowice",
+                "addr:street": "ul. Ko\u015bcierska",
+                "addr:housenumber": "8",
+                "addr:teryt:simc": 9556,
+                "addr:teryt:sym_ul": 164776,
+                "contact:phone": "+48 586861223",
+                "contact:email": "sp_wag@poczta.onet.pl",
+                "ref:regon": "221948080",
+                "operator": "Gmina Ko\u015bcierzyna",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 8139"
+            }
+        },
+        {
+            "id": 8124,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.090322,
+                    54.064816
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 8124,
+                "official_name": "Szko\u0142a Podstawowa w Niedamowie",
+                "name": "Szko\u0142a Podstawowa w Niedamowie",
+                "addr:country": "PL",
+                "addr:postcode": "83-423",
+                "addr:place": "Niedamowo",
+                "addr:housenumber": "44",
+                "addr:teryt:sym_ul": 164530,
+                "contact:phone": "+48 586861469",
+                "contact:email": "spniedamowo@wp.pl",
+                "ref:regon": "001203449",
+                "ref:vatin": "PL5911472137",
+                "operator": "Gmina Ko\u015bcierzyna",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 133390,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.090322,
+                    54.064786
+                ]
+            },
+            "properties": {
+                "ref:rspo": 133390,
+                "official_name": "Punkt Przedszkolny w Niedamowie",
+                "name": "Punkt Przedszkolny w Niedamowie",
+                "addr:country": "PL",
+                "addr:postcode": "83-400",
+                "addr:place": "Niedamowo",
+                "addr:housenumber": "44",
+                "addr:teryt:sym_ul": 164530,
+                "contact:phone": "+48 586861469",
+                "contact:email": "spniedamowo@wp.pl",
+                "ref:regon": "367167359",
+                "operator": "Gmina Ko\u015bcierzyna",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 8126,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.78687,
+                    54.09838
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 8126,
+                "official_name": "Szko\u0142a Podstawowa w Kornem",
+                "name": "Szko\u0142a Podstawowa w Kornem",
+                "addr:country": "PL",
+                "addr:postcode": "83-409",
+                "addr:city": "Korne",
+                "addr:street": "ul. M\u0142y\u0144ska",
+                "addr:housenumber": "14",
+                "addr:teryt:simc": 13132,
+                "addr:teryt:sym_ul": 164405,
+                "contact:phone": "+48 586867144",
+                "contact:email": "spkor@gmina.koscierzyna.pl",
+                "contact:website": "http:\/\/www.spkorne@szkolnastrona.pl",
+                "ref:regon": "000736178",
+                "ref:vatin": "PL5911472054",
+                "operator": "Gmina Ko\u015bcierzyna",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 8130,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.06023,
+                    54.09914
+                ]
+            },
+            "properties": {
+                "ref:rspo": 8130,
+                "official_name": "Zesp\u00f3\u0142 Kszta\u0142cenia w Wielkim Klinczu",
+                "name": "Zesp\u00f3\u0142 Kszta\u0142cenia w Wielkim Klinczu",
+                "addr:country": "PL",
+                "addr:postcode": "83-423",
+                "addr:city": "Wielki Klincz",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "22",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 164842,
+                "contact:phone": "+48 586861528",
+                "contact:email": "zkwk1@wp.pl",
+                "ref:regon": "193079345",
+                "ref:vatin": "PL5911607666",
+                "operator": "Gmina Ko\u015bcierzyna",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 85100;88012"
+            }
+        },
+        {
+            "id": 85100,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.06023,
+                    54.099109999999996
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 85100,
+                "official_name": "Szko\u0142a Podstawowa w Wielkim Klinczu",
+                "name": "Szko\u0142a Podstawowa w Wielkim Klinczu",
+                "addr:country": "PL",
+                "addr:postcode": "83-423",
+                "addr:city": "Wielki Klincz",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "22",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 164842,
+                "contact:phone": "+48 586861553",
+                "contact:email": "zkwk1@wp.pl",
+                "contact:website": "http:\/\/szkolaklincz.pl",
+                "ref:regon": "000736155",
+                "ref:vatin": "PL5911472172",
+                "operator": "Gmina Ko\u015bcierzyna",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 8130"
+            }
+        },
+        {
+            "id": 127251,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.06058,
+                    54.1013
+                ]
+            },
+            "properties": {
+                "ref:rspo": 127251,
+                "official_name": "Niepubliczne Przedszkole Jolanta Reichel \"Tweety\"",
+                "name": "Niepubliczne Przedszkole Jolanta Reichel \"Tweety\"",
+                "addr:country": "PL",
+                "addr:postcode": "83-423",
+                "addr:city": "Wielki Klincz",
+                "addr:street": "ul. S\u0119dzickiego",
+                "addr:housenumber": "2A",
+                "addr:teryt:simc": 19724,
+                "addr:teryt:sym_ul": 164842,
+                "contact:phone": "+48 664732592",
+                "contact:email": "przedszkole.wielkiklincz@wp.pl",
+                "ref:regon": "361260477",
+                "ref:vatin": "PL5911289947",
+                "operator": "Niepubliczne Przedszkole Jolanta Reichel \"Tweety\"",
+                "operator:type": "consortium",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 88012,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.062879562378,
+                    54.101570129395
+                ]
+            },
+            "properties": {
+                "ref:rspo": 88012,
+                "official_name": "Publiczne Przedszkole w Wwielkim Klinczu",
+                "name": "Publiczne Przedszkole w Wwielkim Klinczu",
+                "addr:country": "PL",
+                "addr:postcode": "83-423",
+                "addr:city": "Wielki Klincz",
+                "addr:street": "ul. Ko\u015bcierska",
+                "addr:housenumber": "20",
+                "addr:teryt:simc": 9556,
+                "addr:teryt:sym_ul": 164842,
+                "contact:phone": "+48 586861413",
+                "contact:email": "zkwk1@wp.pl",
+                "ref:regon": "190584290",
+                "operator": "Gmina Ko\u015bcierzyna",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 8130"
+            }
+        },
+        {
+            "id": 8138,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.060721,
+                    54.105008
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 8138,
+                "official_name": "Szko\u0142a Podstawowa w Wielkim Podlesiu",
+                "name": "Szko\u0142a Podstawowa w Wielkim Podlesiu",
+                "addr:country": "PL",
+                "addr:postcode": "83-423",
+                "addr:place": "Wielki Podle\u015b",
+                "addr:housenumber": "12",
+                "addr:teryt:sym_ul": 164888,
+                "contact:phone": "+48 586862234",
+                "contact:email": "wpodles@wp.pl",
+                "contact:website": "http:\/\/spwp.cba.pl",
+                "ref:regon": "190427627",
+                "ref:vatin": "PL5911472002",
+                "operator": "Gmina Ko\u015bcierzyna",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 8128,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.8717599,
+                    54.1131
+                ]
+            },
+            "properties": {
+                "ref:rspo": 8128,
+                "official_name": "Zesp\u00f3\u0142 Kszta\u0142cenia w \u0141ubianie",
+                "name": "Zesp\u00f3\u0142 Kszta\u0142cenia w \u0141ubianie",
+                "addr:country": "PL",
+                "addr:postcode": "83-407",
+                "addr:city": "\u0141ubiana",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 164500,
+                "contact:phone": "+48 586874306",
+                "contact:email": "sekretariat@zklub.koscierzyna.pl",
+                "ref:regon": "193079492",
+                "ref:vatin": "PL5911594449",
+                "operator": "Gmina Ko\u015bcierzyna",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 85071;85072"
+            }
+        },
+        {
+            "id": 85071,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.8717599,
+                    54.11307
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 85071,
+                "official_name": "Szko\u0142a Podstawowa w \u0141ubianie",
+                "name": "Szko\u0142a Podstawowa w \u0141ubianie",
+                "addr:country": "PL",
+                "addr:postcode": "83-407",
+                "addr:city": "\u0141ubiana",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 164500,
+                "contact:phone": "+48 586874306",
+                "contact:email": "sekretariat@zklub.koscierzyna.pl",
+                "contact:website": "http:\/\/zk-lubiana.koscierzyna.pl",
+                "ref:regon": "190096700",
+                "ref:vatin": "PL5911472143",
+                "operator": "Gmina Ko\u015bcierzyna",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 8128"
+            }
+        },
+        {
+            "id": 85072,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.8717599,
+                    54.113040000000005
+                ]
+            },
+            "properties": {
+                "ref:rspo": 85072,
+                "official_name": "Publiczne Przedszkole w \u0141ubianie",
+                "name": "Publiczne Przedszkole w \u0141ubianie",
+                "addr:country": "PL",
+                "addr:postcode": "83-407",
+                "addr:city": "\u0141ubiana",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 164500,
+                "contact:phone": "+48 586874306",
+                "contact:email": "sekretariat@zklub.koscierzyna.pl",
+                "ref:regon": "190584284",
+                "operator": "Gmina Ko\u015bcierzyna",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 8128"
+            }
+        },
+        {
+            "id": 263567,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.036539077759,
+                    54.125019073486
+                ]
+            },
+            "properties": {
+                "ref:rspo": 263567,
+                "official_name": "Zesp\u00f3\u0142 Szkolno Przedszkolny w Nowym Klinczu",
+                "name": "Zesp\u00f3\u0142 Szkolno Przedszkolny w Nowym Klinczu",
+                "addr:country": "PL",
+                "addr:postcode": "83-400",
+                "addr:city": "Nowy Klincz",
+                "addr:street": "ul. Spacerowa",
+                "addr:housenumber": "25",
+                "addr:teryt:simc": 20641,
+                "addr:teryt:sym_ul": 164612,
+                "contact:phone": "+48 586863514",
+                "contact:email": "spnkl@koscierzyna.pl",
+                "ref:regon": "368203169",
+                "operator": "Gmina Ko\u015bcierzyna",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 8125;263568"
+            }
+        },
+        {
+            "id": 8125,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.036539077759,
+                    54.124989073486
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 8125,
+                "official_name": "Szko\u0142a Podstawowa w Nowym Klinczu",
+                "name": "Szko\u0142a Podstawowa w Nowym Klinczu",
+                "addr:country": "PL",
+                "addr:postcode": "83-400",
+                "addr:city": "Nowy Klincz",
+                "addr:street": "ul. Spacerowa",
+                "addr:housenumber": "25",
+                "addr:teryt:simc": 20641,
+                "addr:teryt:sym_ul": 164612,
+                "contact:phone": "+48 586863514",
+                "contact:email": "spnkl@koscierzyna.pl",
+                "ref:regon": "000736209",
+                "ref:vatin": "PL5911472108",
+                "operator": "Gmina Ko\u015bcierzyna",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 263567"
+            }
+        },
+        {
+            "id": 263568,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.036539077759,
+                    54.124959073486
+                ]
+            },
+            "properties": {
+                "ref:rspo": 263568,
+                "official_name": "Przedszkole Nowy Klincz",
+                "name": "Przedszkole Nowy Klincz",
+                "addr:country": "PL",
+                "addr:postcode": "83-400",
+                "addr:city": "Nowy Klincz",
+                "addr:street": "ul. Spacerowa",
+                "addr:housenumber": "25",
+                "addr:teryt:simc": 20641,
+                "addr:teryt:sym_ul": 164612,
+                "contact:phone": "+48 586863514",
+                "contact:email": "spnkl@koscierzyna.pl",
+                "ref:regon": "368203212",
+                "operator": "Gmina Ko\u015bcierzyna",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 263567"
+            }
+        },
+        {
+            "id": 8127,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.040340423584,
+                    54.164119720459
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 8127,
+                "official_name": "Szko\u0142a Podstawowa w Kaliskach",
+                "name": "Szko\u0142a Podstawowa w Kaliskach",
+                "addr:country": "PL",
+                "addr:postcode": "83-400",
+                "addr:city": "Kaliska Ko\u015bcierskie",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "7",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 164380,
+                "contact:phone": "+48 586862081",
+                "contact:email": "szkola.kaliska@wp.pl",
+                "ref:regon": "000736190",
+                "ref:vatin": "PL5911472120",
+                "operator": "Gmina Ko\u015bcierzyna",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 8133,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.97045,
+                    54.16858
+                ]
+            },
+            "properties": {
+                "ref:rspo": 8133,
+                "official_name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 w Skorzewie",
+                "name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 w Skorzewie",
+                "addr:country": "PL",
+                "addr:postcode": "83-400",
+                "addr:city": "Skorzewo",
+                "addr:street": "ul. Franciszka Pepli\u0144skiego",
+                "addr:housenumber": "6",
+                "addr:teryt:simc": 31131,
+                "addr:teryt:sym_ul": 164670,
+                "contact:phone": "+48 586871201",
+                "contact:email": "skorzewo@wp.pl",
+                "ref:regon": "193079807",
+                "ref:vatin": "PL5911595182",
+                "operator": "Gmina Ko\u015bcierzyna",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 8135;9196"
+            }
+        },
+        {
+            "id": 8135,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.97045,
+                    54.168549999999996
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 8135,
+                "official_name": "Szko\u0142a Podstawowa w Skorzewie",
+                "name": "Szko\u0142a Podstawowa w Skorzewie",
+                "addr:country": "PL",
+                "addr:postcode": "83-400",
+                "addr:city": "Skorzewo",
+                "addr:street": "ul. Franciszka Pepli\u0144skiego",
+                "addr:housenumber": "6",
+                "addr:teryt:simc": 31131,
+                "addr:teryt:sym_ul": 164670,
+                "contact:phone": "+48 586871201",
+                "contact:email": "skorzewo@wp.pl",
+                "ref:regon": "000736184",
+                "ref:vatin": "PL5911472048",
+                "operator": "Gmina Ko\u015bcierzyna",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 8133"
+            }
+        },
+        {
+            "id": 9196,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.96928,
+                    54.1687
+                ]
+            },
+            "properties": {
+                "ref:rspo": 9196,
+                "official_name": "Publiczne Przedszkole w Skorzewie",
+                "name": "Publiczne Przedszkole w Skorzewie",
+                "addr:country": "PL",
+                "addr:postcode": "83-400",
+                "addr:city": "Skorzewo",
+                "addr:street": "ul. gen. Antoniego Zdrojewskiego",
+                "addr:housenumber": "1\/A",
+                "addr:teryt:simc": 50164,
+                "addr:teryt:sym_ul": 164670,
+                "contact:phone": "+48 586871201",
+                "contact:email": "skorzewo@wp.pl",
+                "ref:regon": "221735213",
+                "operator": "Gmina Ko\u015bcierzyna",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 8133"
+            }
+        },
+        {
+            "id": 133391,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.100752,
+                    54.184966
+                ]
+            },
+            "properties": {
+                "ref:rspo": 133391,
+                "official_name": "Punkt Przedszkolny w K\u0142obuczynie",
+                "name": "Punkt Przedszkolny w K\u0142obuczynie",
+                "addr:country": "PL",
+                "addr:postcode": "83-315",
+                "addr:place": "K\u0142obuczyno",
+                "addr:housenumber": "1",
+                "addr:teryt:sym_ul": 164397,
+                "contact:phone": "+48 586862081",
+                "contact:email": "szkola.kaliska@wp.pl",
+                "contact:website": "http:\/\/www.spkaliska.szkolnastrona.pl",
+                "ref:regon": "367167218",
+                "operator": "Gmina Ko\u015bcierzyna",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        }
+    ]
+}

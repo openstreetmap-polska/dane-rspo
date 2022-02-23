@@ -1,1 +1,97 @@
-{"type":"FeatureCollection","features":[{"id":47154,"type":"Feature","geometry":{"type":"Point","coordinates":[15.121429,51.038118]},"properties":{"isced:level":"1;2","ref:rspo":47154,"official_name":"Szko\u0142a Podstawowa im. Or\u0142a Bia\u0142ego w Biernej","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"59-970","addr:place":"Bierna","addr:housenumber":"57","addr:teryt:sym_ul":192442,"contact:phone":"+48 757776108","contact:email":"spbierna@interia.pl","contact:website":"http:\/\/www.spbierna.pl","ref:regon":"000711095","ref:vatin":"PL6151875627","operator":"Gmina Sulik\u00f3w","operator:type":"government","amenity":"school"}},{"id":40829,"type":"Feature","geometry":{"type":"Point","coordinates":[15.06722,51.07749]},"properties":{"ref:rspo":40829,"official_name":"Przedszkole Publiczne w Sulikowie","name":"Przedszkole Publiczne w Sulikowie","addr:country":"PL","addr:postcode":"59-975","addr:city":"Sulik\u00f3w","addr:street":"ul. Dworcowa","addr:housenumber":"2","addr:teryt:simc":4434,"addr:teryt:sym_ul":192608,"contact:phone":"+48 757787319","contact:email":"przedszkole@sulikow.pl","contact:website":"http:\/\/www.przedszkolesulikow.szkolnastrona.pl","ref:regon":"230916838","ref:vatin":"PL6151875656","operator":"Gmina Sulik\u00f3w","operator:type":"government","amenity":"kindergarten"}},{"id":47156,"type":"Feature","geometry":{"type":"Point","coordinates":[15.06443,51.07785]},"properties":{"isced:level":"1;2","ref:rspo":47156,"official_name":"Szko\u0142a Podstawowa im. Jana Paw\u0142a II w Sulikowie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"59-975","addr:city":"Sulik\u00f3w","addr:street":"ul. Zgorzelecka","addr:housenumber":"28","addr:teryt:simc":26030,"addr:teryt:sym_ul":192608,"contact:phone":"+48 757787353","contact:email":"sekretariat@spsulikow.pl","ref:regon":"000650666","ref:vatin":"PL6152053212","operator":"Gmina Sulik\u00f3w","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 47154,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.121429,
+                    51.038118
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 47154,
+                "official_name": "Szko\u0142a Podstawowa im. Or\u0142a Bia\u0142ego w Biernej",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "59-970",
+                "addr:place": "Bierna",
+                "addr:housenumber": "57",
+                "addr:teryt:sym_ul": 192442,
+                "contact:phone": "+48 757776108",
+                "contact:email": "spbierna@interia.pl",
+                "contact:website": "http:\/\/www.spbierna.pl",
+                "ref:regon": "000711095",
+                "ref:vatin": "PL6151875627",
+                "operator": "Gmina Sulik\u00f3w",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 40829,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.06722,
+                    51.07749
+                ]
+            },
+            "properties": {
+                "ref:rspo": 40829,
+                "official_name": "Przedszkole Publiczne w Sulikowie",
+                "name": "Przedszkole Publiczne w Sulikowie",
+                "addr:country": "PL",
+                "addr:postcode": "59-975",
+                "addr:city": "Sulik\u00f3w",
+                "addr:street": "ul. Dworcowa",
+                "addr:housenumber": "2",
+                "addr:teryt:simc": 4434,
+                "addr:teryt:sym_ul": 192608,
+                "contact:phone": "+48 757787319",
+                "contact:email": "przedszkole@sulikow.pl",
+                "contact:website": "http:\/\/www.przedszkolesulikow.szkolnastrona.pl",
+                "ref:regon": "230916838",
+                "ref:vatin": "PL6151875656",
+                "operator": "Gmina Sulik\u00f3w",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 47156,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.06443,
+                    51.07785
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 47156,
+                "official_name": "Szko\u0142a Podstawowa im. Jana Paw\u0142a II w Sulikowie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "59-975",
+                "addr:city": "Sulik\u00f3w",
+                "addr:street": "ul. Zgorzelecka",
+                "addr:housenumber": "28",
+                "addr:teryt:simc": 26030,
+                "addr:teryt:sym_ul": 192608,
+                "contact:phone": "+48 757787353",
+                "contact:email": "sekretariat@spsulikow.pl",
+                "ref:regon": "000650666",
+                "ref:vatin": "PL6152053212",
+                "operator": "Gmina Sulik\u00f3w",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

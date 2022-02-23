@@ -1,1 +1,771 @@
-{"type":"FeatureCollection","features":[{"id":49792,"type":"Feature","geometry":{"type":"Point","coordinates":[18.61792,50.3870999]},"properties":{"ref:rspo":49792,"official_name":"Przedszkole Nr 1","name":"Przedszkole Nr 1","addr:country":"PL","addr:postcode":"44-120","addr:city":"Pyskowice","addr:street":"ul. O\u015bwi\u0119cimska","addr:housenumber":"28","addr:teryt:simc":15440,"addr:teryt:sym_ul":942417,"contact:phone":"+48 322332580","contact:email":"przedszkole1pyskowice@wp.pl","contact:website":"http:\/\/www.przedszkole1pyskowice.szkolnastrona.pl","ref:regon":"271503544","ref:vatin":"PL9690681642","operator":"Gmina Pyskowice","operator:type":"government","amenity":"kindergarten"}},{"id":48079,"type":"Feature","geometry":{"type":"Point","coordinates":[18.55793,50.38838]},"properties":{"ref:rspo":48079,"official_name":"Dzier\u017cno Sp. Z O.o. w Pyskowicach","name":"Dzier\u017cno Sp. Z O.o. w Pyskowicach","addr:country":"PL","addr:postcode":"44-120","addr:city":"Pyskowice","addr:street":"ul. Na Grobli","addr:housenumber":"2","addr:teryt:simc":13600,"addr:teryt:sym_ul":942417,"contact:phone":"+48 322332348","contact:email":"dzierzno@neostrada.pl","contact:website":"http:\/\/www.dzierzno.pl","ref:regon":"243073380","ref:vatin":"PL6310022826","operator":"Dzier\u017cno Sp\u00f3\u0142ka Z Ograniczon\u0105 Odpowiedzialno\u015bci\u0105 W Upad\u0142o\u015bci Likwidacyjnej","operator:type":"private","fixme":"w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. amenity=training + training=*, amenity=dancing_school, amenity=language_school, amenity=music_school)"}},{"id":62124,"type":"Feature","geometry":{"type":"Point","coordinates":[18.62793,50.39155]},"properties":{"isced:level":"1;2","ref:rspo":62124,"official_name":"Szko\u0142a Podstawowa Nr 5 w Pyskowicach","name":"Szko\u0142a Podstawowa Nr 5 w Pyskowicach","addr:country":"PL","addr:postcode":"44-120","addr:city":"Pyskowice","addr:street":"ul. Szkolna","addr:housenumber":"2","addr:teryt:simc":21970,"addr:teryt:sym_ul":942417,"contact:phone":"+48 322333248","contact:email":"sp5pyskowice@wp.pl","contact:website":"http:\/\/www.sp5pyskowice.pl","ref:regon":"000724583","ref:vatin":"PL9691341434","operator":"Gmina Pyskowice","operator:type":"government","amenity":"school"}},{"id":57668,"type":"Feature","geometry":{"type":"Point","coordinates":[18.628009796143,50.394618988037]},"properties":{"ref:rspo":57668,"official_name":"Przedszkole Nr 5","name":"Przedszkole Nr 5","addr:country":"PL","addr:postcode":"44-120","addr:city":"Pyskowice","addr:street":"ul. Szopena","addr:housenumber":"9B","addr:teryt:simc":22022,"addr:teryt:sym_ul":942417,"contact:phone":"+48 322332438","contact:email":"przedszkolenr5@vp.pl","contact:website":"http:\/\/www.p5pyskowice.szkolnastrona.pl","ref:regon":"271503596","ref:vatin":"PL9690682819","operator":"Gmina Pyskowice","operator:type":"government","amenity":"kindergarten"}},{"id":48078,"type":"Feature","geometry":{"type":"Point","coordinates":[18.62784,50.39654]},"properties":{"ref:rspo":48078,"official_name":"Zak\u0142ad Doskonalenia Zawodowego w Katowicach O\u015brodek Kszta\u0142cenia Zawodowego w Pyskowicach","name":"Zak\u0142ad Doskonalenia Zawodowego w Katowicach O\u015brodek Kszta\u0142cenia Zawodowego w Pyskowicach","addr:country":"PL","addr:postcode":"44-120","addr:city":"Pyskowice","addr:street":"ul. Powsta\u0144c\u00f3w \u015al\u0105skich","addr:housenumber":"7","addr:teryt:simc":17366,"addr:teryt:sym_ul":942417,"contact:phone":"+48 322333159","contact:email":"pyskowice@zdz.katowice.pl","contact:website":"http:\/\/www.kursy.pyskowice.zdz.pl","ref:regon":"243073373","ref:vatin":"PL6340135558","operator":"Zak\u0142ad Doskonalenia Zawodowego W Katowicach","operator:type":"ngo","fixme":"w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. amenity=training + training=*, amenity=dancing_school, amenity=language_school, amenity=music_school)"}},{"id":17690,"type":"Feature","geometry":{"type":"Point","coordinates":[18.62848,50.39938]},"properties":{"ref:rspo":17690,"official_name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 Specjalnych w Pyskowicach","name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 Specjalnych w Pyskowicach","addr:country":"PL","addr:postcode":"44-120","addr:city":"Pyskowice","addr:street":"ul. J\u00f3zefa Poniatowskiego","addr:housenumber":"2","addr:teryt:simc":17107,"addr:teryt:sym_ul":942417,"contact:phone":"+48 322332651","contact:email":"zsspyskowice@powiatgliwicki.pl","contact:website":"http:\/\/www.zsspyskowice.eu","ref:regon":"276607254","ref:vatin":"PL9691611520","operator":"Powiat Gliwicki","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 29916;29917;29918"}},{"id":29916,"type":"Feature","geometry":{"type":"Point","coordinates":[18.62848,50.39935]},"properties":{"ref:rspo":29916,"official_name":"Szko\u0142a Specjalna Przysposabiaj\u0105ca Do Pracy w Pyskowicach w Zespole Szk\u00f3\u0142 Specjalnych Z Siedzib\u0105 w Pyskowicach Przy Ul. Poniatowskiego 2","name":"Szko\u0142a Specjalna Przysposabiaj\u0105ca Do Pracy w Pyskowicach w Zespole Szk\u00f3\u0142 Specjalnych Z Siedzib\u0105 w Pyskowicach Przy Ul. Poniatowskiego 2","addr:country":"PL","addr:postcode":"44-120","addr:city":"Pyskowice","addr:street":"ul. J\u00f3zefa Poniatowskiego","addr:housenumber":"2","addr:teryt:simc":17107,"addr:teryt:sym_ul":942417,"contact:phone":"+48 322332651","contact:email":"zsspyskowice@powiatgliwicki.pl","contact:website":"http:\/\/www.zsspyskowice.eu","ref:regon":"240430111","ref:vatin":"PL9691611520","operator":"Powiat Gliwicki","operator:type":"government","amenity":"school","note":"Parent RSPO: 17690"}},{"id":29917,"type":"Feature","geometry":{"type":"Point","coordinates":[18.62848,50.39932]},"properties":{"isced:level":"3","ref:rspo":29917,"official_name":"Bran\u017cowa Szko\u0142a I Stopnia Specjalna w Pyskowicach w Zespole Szk\u00f3\u0142 Specjalnych Z Siedzib\u0105 w Pyskowicach Przy Ul. Poniatowskiego 2","name":"Bran\u017cowa Szko\u0142a I Stopnia Specjalna w Pyskowicach w Zespole Szk\u00f3\u0142 Specjalnych Z Siedzib\u0105 w Pyskowicach Przy Ul. Poniatowskiego 2","addr:country":"PL","addr:postcode":"44-120","addr:city":"Pyskowice","addr:street":"ul. J\u00f3zefa Poniatowskiego","addr:housenumber":"2","addr:teryt:simc":17107,"addr:teryt:sym_ul":942417,"contact:phone":"+48 322332651","contact:email":"zsspyskowice@powiatgliwicki.pl","contact:website":"http:\/\/www.zsspyskowice.eu","ref:regon":"241674849","ref:vatin":"PL9691611520","operator":"Powiat Gliwicki","operator:type":"government","amenity":"school","note":"Parent RSPO: 17690"}},{"id":29918,"type":"Feature","geometry":{"type":"Point","coordinates":[18.62848,50.39929]},"properties":{"isced:level":"1;2","ref:rspo":29918,"official_name":"Szko\u0142a Podstawowa Specjalna w Pyskowicach w Zespole Szk\u00f3\u0142 Specjalnych Z Siedzib\u0105 w Pyskowicach Przy Ul. Poniatowskiego 2","name":"Szko\u0142a Podstawowa Specjalna w Pyskowicach w Zespole Szk\u00f3\u0142 Specjalnych Z Siedzib\u0105 w Pyskowicach Przy Ul. Poniatowskiego 2","addr:country":"PL","addr:postcode":"44-120","addr:city":"Pyskowice","addr:street":"ul. J\u00f3zefa Poniatowskiego","addr:housenumber":"2","addr:teryt:simc":17107,"addr:teryt:sym_ul":942417,"contact:phone":"+48 322332651","contact:email":"zsspyskowice@powiatgliwicki.pl","contact:website":"http:\/\/www.zsspyskowice.eu","ref:regon":"000724554","ref:vatin":"PL9691611520","operator":"Powiat Gliwicki","operator:type":"government","amenity":"school","note":"Parent RSPO: 17690"}},{"id":17687,"type":"Feature","geometry":{"type":"Point","coordinates":[18.63376,50.39947]},"properties":{"ref:rspo":17687,"official_name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 im.marii Konopnickiej w Pyskowicach","name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 im.marii Konopnickiej w Pyskowicach","addr:country":"PL","addr:postcode":"44-120","addr:city":"Pyskowice","addr:street":"ul. kard. Stefana Wyszy\u0144skiego","addr:housenumber":"37","addr:teryt:simc":25107,"addr:teryt:sym_ul":942417,"contact:phone":"+48 322332596","contact:email":"zsmkpyskowice@op.pl","contact:website":"http:\/\/www.zsmk.edu.pl","ref:regon":"000835928","ref:vatin":"PL9690054661","operator":"Powiat Gliwicki","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 20543;20545;20546;20550"}},{"id":17757,"type":"Feature","geometry":{"type":"Point","coordinates":[18.63376,50.39944]},"properties":{"ref:rspo":17757,"official_name":"Poradnia Psychologiczno-Pedagogiczna w Pyskowicach","name":"Poradnia Psychologiczno-Pedagogiczna w Pyskowicach","addr:country":"PL","addr:postcode":"44-120","addr:city":"Pyskowice","addr:street":"ul. kard. Stefana Wyszy\u0144skiego","addr:housenumber":"37","addr:teryt:simc":25107,"addr:teryt:sym_ul":942417,"contact:phone":"+48 322333223","contact:email":"ppppyskowice@poczta.onet.pl","contact:website":"http:\/\/www.bip.ppppyskowice.powiatgliwicki.finn.pl","ref:regon":"000724614","ref:vatin":"PL9690760666","operator":"Powiat Gliwicki","operator:type":"government","healthcare":"councelling","counselling_type":"education","fixme":"w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. healthcare=councelling + counselling_type=education albo healthcare=psychotherapist)"}},{"id":20543,"type":"Feature","geometry":{"type":"Point","coordinates":[18.63376,50.39941]},"properties":{"isced:level":"3","ref:rspo":20543,"official_name":"Liceum Og\u00f3lnokszta\u0142c\u0105ce im. Marii Konopnickiej w Pyskowicach w Zespole Szk\u00f3\u0142 im. Marii Konopnickiej w Pyskowicach, Z Siedzib\u0105 Przy Ul. Kard. St. Wyszy\u0144skiego 37, 44-120 Pyskowice","name":"Liceum Og\u00f3lnokszta\u0142c\u0105ce","addr:country":"PL","addr:postcode":"44-120","addr:city":"Pyskowice","addr:street":"ul. kard. Stefana Wyszy\u0144skiego","addr:housenumber":"37","addr:teryt:simc":25107,"addr:teryt:sym_ul":942417,"contact:phone":"+48 322332596","contact:email":"zsmkpyskowice@op.pl","contact:website":"http:\/\/www.zsmk.edu.pl","ref:regon":"000724608","ref:vatin":"PL9690054661","operator":"Powiat Gliwicki","operator:type":"government","amenity":"school","note":"Parent RSPO: 17687"}},{"id":20545,"type":"Feature","geometry":{"type":"Point","coordinates":[18.63376,50.39938]},"properties":{"isced:level":"3","ref:rspo":20545,"official_name":"Bran\u017cowa Szko\u0142a I Stopnia w Pyskowicach w Zespole Szk\u00f3\u0142 im. Marii Konopnickiej w Pyskowicach","name":"Bran\u017cowa Szko\u0142a I Stopnia w Pyskowicach w Zespole Szk\u00f3\u0142","addr:country":"PL","addr:postcode":"44-120","addr:city":"Pyskowice","addr:street":"ul. kard. Stefana Wyszy\u0144skiego","addr:housenumber":"37","addr:teryt:simc":25107,"addr:teryt:sym_ul":942417,"contact:phone":"+48 322332596","contact:email":"zsmkpyskowice@op.pl","contact:website":"http:\/\/www.zsmk.edu.pl","ref:regon":"000837264","ref:vatin":"PL9690054661","operator":"Powiat Gliwicki","operator:type":"government","amenity":"school","note":"Parent RSPO: 17687"}},{"id":20546,"type":"Feature","geometry":{"type":"Point","coordinates":[18.63376,50.39935]},"properties":{"isced:level":"3","ref:rspo":20546,"official_name":"Technikum w Pyskowicach w Zespole Szk\u00f3\u0142 im. Marii Konopnickiej w Pyskowicach, Z Siedzib\u0105 Przy Ul. Kard. St. Wyszy\u0144skiego 37, 44-120 Pyskowice","name":"Technikum w Pyskowicach w Zespole Szk\u00f3\u0142","addr:country":"PL","addr:postcode":"44-120","addr:city":"Pyskowice","addr:street":"ul. kard. Stefana Wyszy\u0144skiego","addr:housenumber":"37","addr:teryt:simc":25107,"addr:teryt:sym_ul":942417,"contact:phone":"+48 322332596","contact:email":"zsmkpyskowice@op.pl","contact:website":"http:\/\/www.zsmk.edu.pl","ref:regon":"240731433","ref:vatin":"PL9690054661","operator":"Powiat Gliwicki","operator:type":"government","amenity":"school","note":"Parent RSPO: 17687"}},{"id":20550,"type":"Feature","geometry":{"type":"Point","coordinates":[18.63376,50.39932]},"properties":{"isced:level":"4","ref:rspo":20550,"official_name":"Szko\u0142a Policealna w Pyskowicach w Zespole Szk\u00f3\u0142 im. Marii Konopnickiej w Pyskowicach","name":"Szko\u0142a Policealna w Pyskowicach w Zespole Szk\u00f3\u0142","addr:country":"PL","addr:postcode":"44-120","addr:city":"Pyskowice","addr:street":"ul. kard. Stefana Wyszy\u0144skiego","addr:housenumber":"37","addr:teryt:simc":25107,"addr:teryt:sym_ul":942417,"contact:phone":"+48 322332596","contact:email":"zsmkpyskowice@op.pl","contact:website":"http:\/\/www.zsmk.edu.pl","ref:regon":"240491561","ref:vatin":"PL9690054661","operator":"Powiat Gliwicki","operator:type":"government","amenity":"college","note":"Parent RSPO: 17687"}},{"id":262279,"type":"Feature","geometry":{"type":"Point","coordinates":[18.632,50.39997]},"properties":{"isced:level":"1;2","ref:rspo":262279,"official_name":"Szko\u0142a Podstawowa Nr 3 im. Noblist\u00f3w Polskich","name":"Szko\u0142a Podstawowa Nr 3","addr:country":"PL","addr:postcode":"44-120","addr:city":"Pyskowice","addr:street":"ul. Strzelc\u00f3w Bytomskich","addr:housenumber":"1","addr:teryt:simc":21365,"addr:teryt:sym_ul":942417,"contact:phone":"+48 322332685","contact:email":"sekretariat@sp3pyskowice.pl","contact:website":"http:\/\/www.sp3pyskowice.szkolnastrona.pl","ref:regon":"367992767","operator":"Gmina Pyskowice","operator:type":"government","amenity":"school"}},{"id":42979,"type":"Feature","geometry":{"type":"Point","coordinates":[18.61799,50.40029]},"properties":{"ref:rspo":42979,"official_name":"Mtl Asco Rail Centrum Edukacji Technicznej w Pyskowicach","name":"Mtl Asco Rail Centrum Edukacji Technicznej w Pyskowicach","addr:country":"PL","addr:postcode":"44-120","addr:city":"Pyskowice","addr:street":"ul. Wielowiejska","addr:housenumber":"53","addr:teryt:simc":24115,"addr:teryt:sym_ul":942417,"contact:phone":"+48 323327000","contact:email":"asco@asco.info.pl","contact:website":"http:\/\/www.mtlasco.pl","ref:regon":"243071641","ref:vatin":"PL6310111062","operator":"Asco Rail Sp\u00f3\u0142ka Z Ograniczon\u0105 Odpowiedzialno\u015bci\u0105","operator:type":"private","fixme":"w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. amenity=training + training=*, amenity=dancing_school, amenity=language_school, amenity=music_school)"}},{"id":50399,"type":"Feature","geometry":{"type":"Point","coordinates":[18.62127,50.40088]},"properties":{"ref:rspo":50399,"official_name":"Przedszkole Nr 4","name":"Przedszkole Nr 4","addr:country":"PL","addr:postcode":"44-120","addr:city":"Pyskowice","addr:street":"ul. Henryka D\u0105browskiego","addr:housenumber":"3","addr:teryt:simc":3678,"addr:teryt:sym_ul":942417,"contact:phone":"+48 322332215","contact:email":"przedszk4@op.pl","contact:website":"http:\/\/www.przedszkole4.edu.pl","ref:regon":"271503573","ref:vatin":"PL9690682699","operator":"Gmina Pyskowice","operator:type":"government","amenity":"kindergarten"}},{"id":49279,"type":"Feature","geometry":{"type":"Point","coordinates":[18.62098,50.4014499]},"properties":{"isced:level":"1;2","ref:rspo":49279,"official_name":"Szko\u0142a Podstawowa Nr 4 im. Jaros\u0142awa D\u0105browskiego","name":"Szko\u0142a Podstawowa Nr 4","addr:country":"PL","addr:postcode":"44-120","addr:city":"Pyskowice","addr:street":"ul. Wojska Polskiego","addr:housenumber":"23","addr:teryt:simc":24628,"addr:teryt:sym_ul":942417,"contact:phone":"+48 322332010","contact:email":"sp4@poczta.onet.pl","contact:website":"http:\/\/www.sp4pyskowice.szkolnastrona.pl","ref:regon":"000724577","ref:vatin":"PL9690683552","operator":"Gmina Pyskowice","operator:type":"government","amenity":"school"}},{"id":73775,"type":"Feature","geometry":{"type":"Point","coordinates":[18.62098,50.4014199]},"properties":{"ref:rspo":73775,"official_name":"Ognisko Pracy Pozaszkolnej","name":"Ognisko Pracy Pozaszkolnej","addr:country":"PL","addr:postcode":"44-120","addr:city":"Pyskowice","addr:street":"ul. Wojska Polskiego","addr:housenumber":"23","addr:teryt:simc":24628,"addr:teryt:sym_ul":942417,"contact:email":"opppyskowice1@wp.pl","contact:website":"http:\/\/www.opppyskowice.pl","ref:regon":"273240669","ref:vatin":"PL9691262249","operator":"Gmina Pyskowice","operator:type":"government","amenity":"community_centre","community_centre:for":"child;juvenile"}},{"id":49981,"type":"Feature","geometry":{"type":"Point","coordinates":[18.634,50.4017]},"properties":{"ref:rspo":49981,"official_name":"Przedszkole Nr 2","name":"Przedszkole Nr 2","addr:country":"PL","addr:postcode":"44-120","addr:city":"Pyskowice","addr:street":"ul. Wyzwolenia Boczna","addr:housenumber":"2","addr:teryt:simc":25134,"addr:teryt:sym_ul":942417,"contact:phone":"+48 322332751","contact:email":"przedszkole2pyskowice@interia.pl","contact:website":"http:\/\/www.przedszkole2pyskowice.pl","ref:regon":"271503580","ref:vatin":"PL9690682363","operator":"Gmina Pyskowice","operator:type":"government","amenity":"kindergarten"}},{"id":53815,"type":"Feature","geometry":{"type":"Point","coordinates":[18.62415,50.40201]},"properties":{"ref:rspo":53815,"official_name":"Przedszkole Nr 3 Z Oddzia\u0142ami Integracyjnymi w Pyskowicach","name":"Przedszkole Nr 3 Z Oddzia\u0142ami Integracyjnymi w Pyskowicach","addr:country":"PL","addr:postcode":"44-120","addr:city":"Pyskowice","addr:street":"ul. Wojska Polskiego","addr:housenumber":"19","addr:teryt:simc":24628,"addr:teryt:sym_ul":942417,"contact:phone":"+48 322332743","contact:email":"przedszk_3@op.pl","contact:website":"http:\/\/www.przedszkole3pyskowice.szkolnastrona.pl","ref:regon":"271503567","ref:vatin":"PL9690682558","operator":"Gmina Pyskowice","operator:type":"government","amenity":"kindergarten"}},{"id":49651,"type":"Feature","geometry":{"type":"Point","coordinates":[18.6345,50.40294]},"properties":{"isced:level":"1;2","ref:rspo":49651,"official_name":"Szko\u0142a Podstwowa Nr 6 Z Oddzia\u0142ami Integracyjnymi","name":"Szko\u0142a Podstwowa Nr 6 Z Oddzia\u0142ami Integracyjnymi","addr:country":"PL","addr:postcode":"44-120","addr:city":"Pyskowice","addr:street":"ul. Wyzwolenia","addr:housenumber":"4","addr:teryt:simc":25133,"addr:teryt:sym_ul":942417,"contact:phone":"+48 322332317","contact:email":"sekretariat@psp6pyskowice.pl","contact:website":"http:\/\/sp6pyskowice.szkolnastrona.pl","ref:regon":"000724590","ref:vatin":"PL9690683233","operator":"Gmina Pyskowice","operator:type":"government","amenity":"school"}},{"id":42980,"type":"Feature","geometry":{"type":"Point","coordinates":[18.62653,50.40692]},"properties":{"ref:rspo":42980,"official_name":"Szko\u0142a J\u0119zyk\u00f3w Obcych \"Metropolis\" w Pyskowicach","name":"Szko\u0142a J\u0119zyk\u00f3w Obcych \"Metropolis\" w Pyskowicach","addr:country":"PL","addr:postcode":"44-120","addr:city":"Pyskowice","addr:street":"ul. Mieszka I","addr:housenumber":"8","addr:teryt:simc":12832,"addr:teryt:sym_ul":942417,"contact:phone":"+48 323330408","contact:email":"biuro@metropolis.biz.pl","contact:website":"http:\/\/www.metropolis.biz.pl","ref:regon":"243071865","ref:vatin":"PL9690326763","operator":"Andrzej Zaj\u0105c","operator:type":"private","fixme":"w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. amenity=training + training=*, amenity=dancing_school, amenity=language_school, amenity=music_school)"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 49792,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.61792,
+                    50.3870999
+                ]
+            },
+            "properties": {
+                "ref:rspo": 49792,
+                "official_name": "Przedszkole Nr 1",
+                "name": "Przedszkole Nr 1",
+                "addr:country": "PL",
+                "addr:postcode": "44-120",
+                "addr:city": "Pyskowice",
+                "addr:street": "ul. O\u015bwi\u0119cimska",
+                "addr:housenumber": "28",
+                "addr:teryt:simc": 15440,
+                "addr:teryt:sym_ul": 942417,
+                "contact:phone": "+48 322332580",
+                "contact:email": "przedszkole1pyskowice@wp.pl",
+                "contact:website": "http:\/\/www.przedszkole1pyskowice.szkolnastrona.pl",
+                "ref:regon": "271503544",
+                "ref:vatin": "PL9690681642",
+                "operator": "Gmina Pyskowice",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 48079,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.55793,
+                    50.38838
+                ]
+            },
+            "properties": {
+                "ref:rspo": 48079,
+                "official_name": "Dzier\u017cno Sp. Z O.o. w Pyskowicach",
+                "name": "Dzier\u017cno Sp. Z O.o. w Pyskowicach",
+                "addr:country": "PL",
+                "addr:postcode": "44-120",
+                "addr:city": "Pyskowice",
+                "addr:street": "ul. Na Grobli",
+                "addr:housenumber": "2",
+                "addr:teryt:simc": 13600,
+                "addr:teryt:sym_ul": 942417,
+                "contact:phone": "+48 322332348",
+                "contact:email": "dzierzno@neostrada.pl",
+                "contact:website": "http:\/\/www.dzierzno.pl",
+                "ref:regon": "243073380",
+                "ref:vatin": "PL6310022826",
+                "operator": "Dzier\u017cno Sp\u00f3\u0142ka Z Ograniczon\u0105 Odpowiedzialno\u015bci\u0105 W Upad\u0142o\u015bci Likwidacyjnej",
+                "operator:type": "private",
+                "fixme": "w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. amenity=training + training=*, amenity=dancing_school, amenity=language_school, amenity=music_school)"
+            }
+        },
+        {
+            "id": 62124,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.62793,
+                    50.39155
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 62124,
+                "official_name": "Szko\u0142a Podstawowa Nr 5 w Pyskowicach",
+                "name": "Szko\u0142a Podstawowa Nr 5 w Pyskowicach",
+                "addr:country": "PL",
+                "addr:postcode": "44-120",
+                "addr:city": "Pyskowice",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "2",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 942417,
+                "contact:phone": "+48 322333248",
+                "contact:email": "sp5pyskowice@wp.pl",
+                "contact:website": "http:\/\/www.sp5pyskowice.pl",
+                "ref:regon": "000724583",
+                "ref:vatin": "PL9691341434",
+                "operator": "Gmina Pyskowice",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 57668,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.628009796143,
+                    50.394618988037
+                ]
+            },
+            "properties": {
+                "ref:rspo": 57668,
+                "official_name": "Przedszkole Nr 5",
+                "name": "Przedszkole Nr 5",
+                "addr:country": "PL",
+                "addr:postcode": "44-120",
+                "addr:city": "Pyskowice",
+                "addr:street": "ul. Szopena",
+                "addr:housenumber": "9B",
+                "addr:teryt:simc": 22022,
+                "addr:teryt:sym_ul": 942417,
+                "contact:phone": "+48 322332438",
+                "contact:email": "przedszkolenr5@vp.pl",
+                "contact:website": "http:\/\/www.p5pyskowice.szkolnastrona.pl",
+                "ref:regon": "271503596",
+                "ref:vatin": "PL9690682819",
+                "operator": "Gmina Pyskowice",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 48078,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.62784,
+                    50.39654
+                ]
+            },
+            "properties": {
+                "ref:rspo": 48078,
+                "official_name": "Zak\u0142ad Doskonalenia Zawodowego w Katowicach O\u015brodek Kszta\u0142cenia Zawodowego w Pyskowicach",
+                "name": "Zak\u0142ad Doskonalenia Zawodowego w Katowicach O\u015brodek Kszta\u0142cenia Zawodowego w Pyskowicach",
+                "addr:country": "PL",
+                "addr:postcode": "44-120",
+                "addr:city": "Pyskowice",
+                "addr:street": "ul. Powsta\u0144c\u00f3w \u015al\u0105skich",
+                "addr:housenumber": "7",
+                "addr:teryt:simc": 17366,
+                "addr:teryt:sym_ul": 942417,
+                "contact:phone": "+48 322333159",
+                "contact:email": "pyskowice@zdz.katowice.pl",
+                "contact:website": "http:\/\/www.kursy.pyskowice.zdz.pl",
+                "ref:regon": "243073373",
+                "ref:vatin": "PL6340135558",
+                "operator": "Zak\u0142ad Doskonalenia Zawodowego W Katowicach",
+                "operator:type": "ngo",
+                "fixme": "w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. amenity=training + training=*, amenity=dancing_school, amenity=language_school, amenity=music_school)"
+            }
+        },
+        {
+            "id": 17690,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.62848,
+                    50.39938
+                ]
+            },
+            "properties": {
+                "ref:rspo": 17690,
+                "official_name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Specjalnych w Pyskowicach",
+                "name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Specjalnych w Pyskowicach",
+                "addr:country": "PL",
+                "addr:postcode": "44-120",
+                "addr:city": "Pyskowice",
+                "addr:street": "ul. J\u00f3zefa Poniatowskiego",
+                "addr:housenumber": "2",
+                "addr:teryt:simc": 17107,
+                "addr:teryt:sym_ul": 942417,
+                "contact:phone": "+48 322332651",
+                "contact:email": "zsspyskowice@powiatgliwicki.pl",
+                "contact:website": "http:\/\/www.zsspyskowice.eu",
+                "ref:regon": "276607254",
+                "ref:vatin": "PL9691611520",
+                "operator": "Powiat Gliwicki",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 29916;29917;29918"
+            }
+        },
+        {
+            "id": 29916,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.62848,
+                    50.39935
+                ]
+            },
+            "properties": {
+                "ref:rspo": 29916,
+                "official_name": "Szko\u0142a Specjalna Przysposabiaj\u0105ca Do Pracy w Pyskowicach w Zespole Szk\u00f3\u0142 Specjalnych Z Siedzib\u0105 w Pyskowicach Przy Ul. Poniatowskiego 2",
+                "name": "Szko\u0142a Specjalna Przysposabiaj\u0105ca Do Pracy w Pyskowicach w Zespole Szk\u00f3\u0142 Specjalnych Z Siedzib\u0105 w Pyskowicach Przy Ul. Poniatowskiego 2",
+                "addr:country": "PL",
+                "addr:postcode": "44-120",
+                "addr:city": "Pyskowice",
+                "addr:street": "ul. J\u00f3zefa Poniatowskiego",
+                "addr:housenumber": "2",
+                "addr:teryt:simc": 17107,
+                "addr:teryt:sym_ul": 942417,
+                "contact:phone": "+48 322332651",
+                "contact:email": "zsspyskowice@powiatgliwicki.pl",
+                "contact:website": "http:\/\/www.zsspyskowice.eu",
+                "ref:regon": "240430111",
+                "ref:vatin": "PL9691611520",
+                "operator": "Powiat Gliwicki",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 17690"
+            }
+        },
+        {
+            "id": 29917,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.62848,
+                    50.39932
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 29917,
+                "official_name": "Bran\u017cowa Szko\u0142a I Stopnia Specjalna w Pyskowicach w Zespole Szk\u00f3\u0142 Specjalnych Z Siedzib\u0105 w Pyskowicach Przy Ul. Poniatowskiego 2",
+                "name": "Bran\u017cowa Szko\u0142a I Stopnia Specjalna w Pyskowicach w Zespole Szk\u00f3\u0142 Specjalnych Z Siedzib\u0105 w Pyskowicach Przy Ul. Poniatowskiego 2",
+                "addr:country": "PL",
+                "addr:postcode": "44-120",
+                "addr:city": "Pyskowice",
+                "addr:street": "ul. J\u00f3zefa Poniatowskiego",
+                "addr:housenumber": "2",
+                "addr:teryt:simc": 17107,
+                "addr:teryt:sym_ul": 942417,
+                "contact:phone": "+48 322332651",
+                "contact:email": "zsspyskowice@powiatgliwicki.pl",
+                "contact:website": "http:\/\/www.zsspyskowice.eu",
+                "ref:regon": "241674849",
+                "ref:vatin": "PL9691611520",
+                "operator": "Powiat Gliwicki",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 17690"
+            }
+        },
+        {
+            "id": 29918,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.62848,
+                    50.39929
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 29918,
+                "official_name": "Szko\u0142a Podstawowa Specjalna w Pyskowicach w Zespole Szk\u00f3\u0142 Specjalnych Z Siedzib\u0105 w Pyskowicach Przy Ul. Poniatowskiego 2",
+                "name": "Szko\u0142a Podstawowa Specjalna w Pyskowicach w Zespole Szk\u00f3\u0142 Specjalnych Z Siedzib\u0105 w Pyskowicach Przy Ul. Poniatowskiego 2",
+                "addr:country": "PL",
+                "addr:postcode": "44-120",
+                "addr:city": "Pyskowice",
+                "addr:street": "ul. J\u00f3zefa Poniatowskiego",
+                "addr:housenumber": "2",
+                "addr:teryt:simc": 17107,
+                "addr:teryt:sym_ul": 942417,
+                "contact:phone": "+48 322332651",
+                "contact:email": "zsspyskowice@powiatgliwicki.pl",
+                "contact:website": "http:\/\/www.zsspyskowice.eu",
+                "ref:regon": "000724554",
+                "ref:vatin": "PL9691611520",
+                "operator": "Powiat Gliwicki",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 17690"
+            }
+        },
+        {
+            "id": 17687,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.63376,
+                    50.39947
+                ]
+            },
+            "properties": {
+                "ref:rspo": 17687,
+                "official_name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 im.marii Konopnickiej w Pyskowicach",
+                "name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 im.marii Konopnickiej w Pyskowicach",
+                "addr:country": "PL",
+                "addr:postcode": "44-120",
+                "addr:city": "Pyskowice",
+                "addr:street": "ul. kard. Stefana Wyszy\u0144skiego",
+                "addr:housenumber": "37",
+                "addr:teryt:simc": 25107,
+                "addr:teryt:sym_ul": 942417,
+                "contact:phone": "+48 322332596",
+                "contact:email": "zsmkpyskowice@op.pl",
+                "contact:website": "http:\/\/www.zsmk.edu.pl",
+                "ref:regon": "000835928",
+                "ref:vatin": "PL9690054661",
+                "operator": "Powiat Gliwicki",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 20543;20545;20546;20550"
+            }
+        },
+        {
+            "id": 17757,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.63376,
+                    50.39944
+                ]
+            },
+            "properties": {
+                "ref:rspo": 17757,
+                "official_name": "Poradnia Psychologiczno-Pedagogiczna w Pyskowicach",
+                "name": "Poradnia Psychologiczno-Pedagogiczna w Pyskowicach",
+                "addr:country": "PL",
+                "addr:postcode": "44-120",
+                "addr:city": "Pyskowice",
+                "addr:street": "ul. kard. Stefana Wyszy\u0144skiego",
+                "addr:housenumber": "37",
+                "addr:teryt:simc": 25107,
+                "addr:teryt:sym_ul": 942417,
+                "contact:phone": "+48 322333223",
+                "contact:email": "ppppyskowice@poczta.onet.pl",
+                "contact:website": "http:\/\/www.bip.ppppyskowice.powiatgliwicki.finn.pl",
+                "ref:regon": "000724614",
+                "ref:vatin": "PL9690760666",
+                "operator": "Powiat Gliwicki",
+                "operator:type": "government",
+                "healthcare": "counselling",
+                "counselling_type": "education",
+                "fixme": "w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. healthcare=counselling + counselling_type=education albo healthcare=psychotherapist)"
+            }
+        },
+        {
+            "id": 20543,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.63376,
+                    50.39941
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 20543,
+                "official_name": "Liceum Og\u00f3lnokszta\u0142c\u0105ce im. Marii Konopnickiej w Pyskowicach w Zespole Szk\u00f3\u0142 im. Marii Konopnickiej w Pyskowicach, Z Siedzib\u0105 Przy Ul. Kard. St. Wyszy\u0144skiego 37, 44-120 Pyskowice",
+                "name": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+                "addr:country": "PL",
+                "addr:postcode": "44-120",
+                "addr:city": "Pyskowice",
+                "addr:street": "ul. kard. Stefana Wyszy\u0144skiego",
+                "addr:housenumber": "37",
+                "addr:teryt:simc": 25107,
+                "addr:teryt:sym_ul": 942417,
+                "contact:phone": "+48 322332596",
+                "contact:email": "zsmkpyskowice@op.pl",
+                "contact:website": "http:\/\/www.zsmk.edu.pl",
+                "ref:regon": "000724608",
+                "ref:vatin": "PL9690054661",
+                "operator": "Powiat Gliwicki",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 17687"
+            }
+        },
+        {
+            "id": 20545,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.63376,
+                    50.39938
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 20545,
+                "official_name": "Bran\u017cowa Szko\u0142a I Stopnia w Pyskowicach w Zespole Szk\u00f3\u0142 im. Marii Konopnickiej w Pyskowicach",
+                "name": "Bran\u017cowa Szko\u0142a I Stopnia w Pyskowicach w Zespole Szk\u00f3\u0142",
+                "addr:country": "PL",
+                "addr:postcode": "44-120",
+                "addr:city": "Pyskowice",
+                "addr:street": "ul. kard. Stefana Wyszy\u0144skiego",
+                "addr:housenumber": "37",
+                "addr:teryt:simc": 25107,
+                "addr:teryt:sym_ul": 942417,
+                "contact:phone": "+48 322332596",
+                "contact:email": "zsmkpyskowice@op.pl",
+                "contact:website": "http:\/\/www.zsmk.edu.pl",
+                "ref:regon": "000837264",
+                "ref:vatin": "PL9690054661",
+                "operator": "Powiat Gliwicki",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 17687"
+            }
+        },
+        {
+            "id": 20546,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.63376,
+                    50.39935
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 20546,
+                "official_name": "Technikum w Pyskowicach w Zespole Szk\u00f3\u0142 im. Marii Konopnickiej w Pyskowicach, Z Siedzib\u0105 Przy Ul. Kard. St. Wyszy\u0144skiego 37, 44-120 Pyskowice",
+                "name": "Technikum w Pyskowicach w Zespole Szk\u00f3\u0142",
+                "addr:country": "PL",
+                "addr:postcode": "44-120",
+                "addr:city": "Pyskowice",
+                "addr:street": "ul. kard. Stefana Wyszy\u0144skiego",
+                "addr:housenumber": "37",
+                "addr:teryt:simc": 25107,
+                "addr:teryt:sym_ul": 942417,
+                "contact:phone": "+48 322332596",
+                "contact:email": "zsmkpyskowice@op.pl",
+                "contact:website": "http:\/\/www.zsmk.edu.pl",
+                "ref:regon": "240731433",
+                "ref:vatin": "PL9690054661",
+                "operator": "Powiat Gliwicki",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 17687"
+            }
+        },
+        {
+            "id": 20550,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.63376,
+                    50.39932
+                ]
+            },
+            "properties": {
+                "isced:level": "4",
+                "ref:rspo": 20550,
+                "official_name": "Szko\u0142a Policealna w Pyskowicach w Zespole Szk\u00f3\u0142 im. Marii Konopnickiej w Pyskowicach",
+                "name": "Szko\u0142a Policealna w Pyskowicach w Zespole Szk\u00f3\u0142",
+                "addr:country": "PL",
+                "addr:postcode": "44-120",
+                "addr:city": "Pyskowice",
+                "addr:street": "ul. kard. Stefana Wyszy\u0144skiego",
+                "addr:housenumber": "37",
+                "addr:teryt:simc": 25107,
+                "addr:teryt:sym_ul": 942417,
+                "contact:phone": "+48 322332596",
+                "contact:email": "zsmkpyskowice@op.pl",
+                "contact:website": "http:\/\/www.zsmk.edu.pl",
+                "ref:regon": "240491561",
+                "ref:vatin": "PL9690054661",
+                "operator": "Powiat Gliwicki",
+                "operator:type": "government",
+                "amenity": "college",
+                "note": "Parent RSPO: 17687"
+            }
+        },
+        {
+            "id": 262279,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.632,
+                    50.39997
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 262279,
+                "official_name": "Szko\u0142a Podstawowa Nr 3 im. Noblist\u00f3w Polskich",
+                "name": "Szko\u0142a Podstawowa Nr 3",
+                "addr:country": "PL",
+                "addr:postcode": "44-120",
+                "addr:city": "Pyskowice",
+                "addr:street": "ul. Strzelc\u00f3w Bytomskich",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 21365,
+                "addr:teryt:sym_ul": 942417,
+                "contact:phone": "+48 322332685",
+                "contact:email": "sekretariat@sp3pyskowice.pl",
+                "contact:website": "http:\/\/www.sp3pyskowice.szkolnastrona.pl",
+                "ref:regon": "367992767",
+                "operator": "Gmina Pyskowice",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 42979,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.61799,
+                    50.40029
+                ]
+            },
+            "properties": {
+                "ref:rspo": 42979,
+                "official_name": "Mtl Asco Rail Centrum Edukacji Technicznej w Pyskowicach",
+                "name": "Mtl Asco Rail Centrum Edukacji Technicznej w Pyskowicach",
+                "addr:country": "PL",
+                "addr:postcode": "44-120",
+                "addr:city": "Pyskowice",
+                "addr:street": "ul. Wielowiejska",
+                "addr:housenumber": "53",
+                "addr:teryt:simc": 24115,
+                "addr:teryt:sym_ul": 942417,
+                "contact:phone": "+48 323327000",
+                "contact:email": "asco@asco.info.pl",
+                "contact:website": "http:\/\/www.mtlasco.pl",
+                "ref:regon": "243071641",
+                "ref:vatin": "PL6310111062",
+                "operator": "Asco Rail Sp\u00f3\u0142ka Z Ograniczon\u0105 Odpowiedzialno\u015bci\u0105",
+                "operator:type": "private",
+                "fixme": "w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. amenity=training + training=*, amenity=dancing_school, amenity=language_school, amenity=music_school)"
+            }
+        },
+        {
+            "id": 50399,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.62127,
+                    50.40088
+                ]
+            },
+            "properties": {
+                "ref:rspo": 50399,
+                "official_name": "Przedszkole Nr 4",
+                "name": "Przedszkole Nr 4",
+                "addr:country": "PL",
+                "addr:postcode": "44-120",
+                "addr:city": "Pyskowice",
+                "addr:street": "ul. Henryka D\u0105browskiego",
+                "addr:housenumber": "3",
+                "addr:teryt:simc": 3678,
+                "addr:teryt:sym_ul": 942417,
+                "contact:phone": "+48 322332215",
+                "contact:email": "przedszk4@op.pl",
+                "contact:website": "http:\/\/www.przedszkole4.edu.pl",
+                "ref:regon": "271503573",
+                "ref:vatin": "PL9690682699",
+                "operator": "Gmina Pyskowice",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 49279,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.62098,
+                    50.4014499
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 49279,
+                "official_name": "Szko\u0142a Podstawowa Nr 4 im. Jaros\u0142awa D\u0105browskiego",
+                "name": "Szko\u0142a Podstawowa Nr 4",
+                "addr:country": "PL",
+                "addr:postcode": "44-120",
+                "addr:city": "Pyskowice",
+                "addr:street": "ul. Wojska Polskiego",
+                "addr:housenumber": "23",
+                "addr:teryt:simc": 24628,
+                "addr:teryt:sym_ul": 942417,
+                "contact:phone": "+48 322332010",
+                "contact:email": "sp4@poczta.onet.pl",
+                "contact:website": "http:\/\/www.sp4pyskowice.szkolnastrona.pl",
+                "ref:regon": "000724577",
+                "ref:vatin": "PL9690683552",
+                "operator": "Gmina Pyskowice",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 73775,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.62098,
+                    50.4014199
+                ]
+            },
+            "properties": {
+                "ref:rspo": 73775,
+                "official_name": "Ognisko Pracy Pozaszkolnej",
+                "name": "Ognisko Pracy Pozaszkolnej",
+                "addr:country": "PL",
+                "addr:postcode": "44-120",
+                "addr:city": "Pyskowice",
+                "addr:street": "ul. Wojska Polskiego",
+                "addr:housenumber": "23",
+                "addr:teryt:simc": 24628,
+                "addr:teryt:sym_ul": 942417,
+                "contact:email": "opppyskowice1@wp.pl",
+                "contact:website": "http:\/\/www.opppyskowice.pl",
+                "ref:regon": "273240669",
+                "ref:vatin": "PL9691262249",
+                "operator": "Gmina Pyskowice",
+                "operator:type": "government",
+                "amenity": "community_centre",
+                "community_centre:for": "child;juvenile"
+            }
+        },
+        {
+            "id": 49981,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.634,
+                    50.4017
+                ]
+            },
+            "properties": {
+                "ref:rspo": 49981,
+                "official_name": "Przedszkole Nr 2",
+                "name": "Przedszkole Nr 2",
+                "addr:country": "PL",
+                "addr:postcode": "44-120",
+                "addr:city": "Pyskowice",
+                "addr:street": "ul. Wyzwolenia Boczna",
+                "addr:housenumber": "2",
+                "addr:teryt:simc": 25134,
+                "addr:teryt:sym_ul": 942417,
+                "contact:phone": "+48 322332751",
+                "contact:email": "przedszkole2pyskowice@interia.pl",
+                "contact:website": "http:\/\/www.przedszkole2pyskowice.pl",
+                "ref:regon": "271503580",
+                "ref:vatin": "PL9690682363",
+                "operator": "Gmina Pyskowice",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 53815,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.62415,
+                    50.40201
+                ]
+            },
+            "properties": {
+                "ref:rspo": 53815,
+                "official_name": "Przedszkole Nr 3 Z Oddzia\u0142ami Integracyjnymi w Pyskowicach",
+                "name": "Przedszkole Nr 3 Z Oddzia\u0142ami Integracyjnymi w Pyskowicach",
+                "addr:country": "PL",
+                "addr:postcode": "44-120",
+                "addr:city": "Pyskowice",
+                "addr:street": "ul. Wojska Polskiego",
+                "addr:housenumber": "19",
+                "addr:teryt:simc": 24628,
+                "addr:teryt:sym_ul": 942417,
+                "contact:phone": "+48 322332743",
+                "contact:email": "przedszk_3@op.pl",
+                "contact:website": "http:\/\/www.przedszkole3pyskowice.szkolnastrona.pl",
+                "ref:regon": "271503567",
+                "ref:vatin": "PL9690682558",
+                "operator": "Gmina Pyskowice",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 49651,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.6345,
+                    50.40294
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 49651,
+                "official_name": "Szko\u0142a Podstwowa Nr 6 Z Oddzia\u0142ami Integracyjnymi",
+                "name": "Szko\u0142a Podstwowa Nr 6 Z Oddzia\u0142ami Integracyjnymi",
+                "addr:country": "PL",
+                "addr:postcode": "44-120",
+                "addr:city": "Pyskowice",
+                "addr:street": "ul. Wyzwolenia",
+                "addr:housenumber": "4",
+                "addr:teryt:simc": 25133,
+                "addr:teryt:sym_ul": 942417,
+                "contact:phone": "+48 322332317",
+                "contact:email": "sekretariat@psp6pyskowice.pl",
+                "contact:website": "http:\/\/sp6pyskowice.szkolnastrona.pl",
+                "ref:regon": "000724590",
+                "ref:vatin": "PL9690683233",
+                "operator": "Gmina Pyskowice",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 42980,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.62653,
+                    50.40692
+                ]
+            },
+            "properties": {
+                "ref:rspo": 42980,
+                "official_name": "Szko\u0142a J\u0119zyk\u00f3w Obcych \"Metropolis\" w Pyskowicach",
+                "name": "Szko\u0142a J\u0119zyk\u00f3w Obcych \"Metropolis\" w Pyskowicach",
+                "addr:country": "PL",
+                "addr:postcode": "44-120",
+                "addr:city": "Pyskowice",
+                "addr:street": "ul. Mieszka I",
+                "addr:housenumber": "8",
+                "addr:teryt:simc": 12832,
+                "addr:teryt:sym_ul": 942417,
+                "contact:phone": "+48 323330408",
+                "contact:email": "biuro@metropolis.biz.pl",
+                "contact:website": "http:\/\/www.metropolis.biz.pl",
+                "ref:regon": "243071865",
+                "ref:vatin": "PL9690326763",
+                "operator": "Andrzej Zaj\u0105c",
+                "operator:type": "private",
+                "fixme": "w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. amenity=training + training=*, amenity=dancing_school, amenity=language_school, amenity=music_school)"
+            }
+        }
+    ]
+}

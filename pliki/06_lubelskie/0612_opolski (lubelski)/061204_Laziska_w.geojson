@@ -1,1 +1,154 @@
-{"type":"FeatureCollection","features":[{"id":21177,"type":"Feature","geometry":{"type":"Point","coordinates":[21.80099,51.10654]},"properties":{"isced:level":"1;2","ref:rspo":21177,"official_name":"Szko\u0142a Podstawowa w Kamieniu","name":"Szko\u0142a Podstawowa w Kamieniu","addr:country":"PL","addr:postcode":"24-335","addr:place":"Piotrawin","addr:housenumber":"116","addr:teryt:sym_ul":385371,"contact:phone":"+48 818280166","contact:email":"kamien50@poczta.onet.pl","contact:website":"http:\/\/piotrawin.sp-kamien.pl","ref:regon":"001180760","ref:vatin":"PL7171619856","operator":"Gmina \u0141aziska","operator:type":"government","amenity":"school"}},{"id":20082,"type":"Feature","geometry":{"type":"Point","coordinates":[21.87282,51.10889]},"properties":{"isced:level":"1;2","ref:rspo":20082,"official_name":"Szko\u0142a Podstawowa w K\u0119pie Piotrawi\u0144skiej","name":"Szko\u0142a Podstawowa w K\u0119pie Piotrawi\u0144skiej","addr:country":"PL","addr:postcode":"24-335","addr:place":"K\u0119pa Piotrawi\u0144ska","addr:housenumber":"8","addr:teryt:sym_ul":385201,"contact:phone":"+48 818289113","contact:email":"szkola@spkepa.pl","contact:website":"http:\/\/www.spkepapiotr.eu","ref:regon":"001180748","ref:vatin":"PL7171619997","operator":"Gmina \u0141aziska","operator:type":"government","amenity":"school"}},{"id":262517,"type":"Feature","geometry":{"type":"Point","coordinates":[21.87935,51.14167]},"properties":{"isced:level":"1;2","ref:rspo":262517,"official_name":"Szko\u0142a Podstawowa im. Jana Kochanowskiego w \u0141aziskach","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"24-335","addr:place":"\u0141aziska","addr:housenumber":"79","addr:teryt:sym_ul":385313,"contact:phone":"+48 818289010","contact:email":"laziska@interia.pl","contact:website":"http:\/\/www.splaziska.pl","ref:regon":"368029286","operator":"Gmina \u0141aziska","operator:type":"government","amenity":"school"}},{"id":20415,"type":"Feature","geometry":{"type":"Point","coordinates":[21.81451,51.17627]},"properties":{"isced:level":"1;2","ref:rspo":20415,"official_name":"Szko\u0142a Podstawowa w Braciejowicach","name":"Szko\u0142a Podstawowa w Braciejowicach","addr:country":"PL","addr:postcode":"24-335","addr:place":"Braciejowice","addr:housenumber":"137","addr:teryt:sym_ul":385046,"contact:phone":"+48 818284187","contact:email":"sp.braciejowice@interia.pl","contact:website":"http:\/\/www.spbraciejowice.lublin.pl","ref:regon":"001180777","ref:vatin":"PL7171619833","operator":"Gmina \u0141aziska","operator:type":"government","amenity":"school"}},{"id":22431,"type":"Feature","geometry":{"type":"Point","coordinates":[21.8003399,51.19832]},"properties":{"isced:level":"1;2","ref:rspo":22431,"official_name":"Publiczna Szko\u0142a Podstawowa w Zakrzowie","name":"Publiczna Szko\u0142a Podstawowa w Zakrzowie","addr:country":"PL","addr:postcode":"24-335","addr:place":"Zakrz\u00f3w","addr:housenumber":"25A","addr:teryt:sym_ul":385431,"contact:phone":"+48 818284367","contact:email":"szkola403@wp.pl","contact:website":"http:\/\/www.pspzakrzow.szkolnastrona.pl","ref:regon":"061468744","ref:vatin":"PL7171625130","operator":"Stowarzyszenie Na Rzecz Ekorozwoju Wsi Zakrz\u00f3w","operator:type":"ngo","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 21177,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.80099,
+                    51.10654
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 21177,
+                "official_name": "Szko\u0142a Podstawowa w Kamieniu",
+                "name": "Szko\u0142a Podstawowa w Kamieniu",
+                "addr:country": "PL",
+                "addr:postcode": "24-335",
+                "addr:place": "Piotrawin",
+                "addr:housenumber": "116",
+                "addr:teryt:sym_ul": 385371,
+                "contact:phone": "+48 818280166",
+                "contact:email": "kamien50@poczta.onet.pl",
+                "contact:website": "http:\/\/piotrawin.sp-kamien.pl",
+                "ref:regon": "001180760",
+                "ref:vatin": "PL7171619856",
+                "operator": "Gmina \u0141aziska",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 20082,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.87282,
+                    51.10889
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 20082,
+                "official_name": "Szko\u0142a Podstawowa w K\u0119pie Piotrawi\u0144skiej",
+                "name": "Szko\u0142a Podstawowa w K\u0119pie Piotrawi\u0144skiej",
+                "addr:country": "PL",
+                "addr:postcode": "24-335",
+                "addr:place": "K\u0119pa Piotrawi\u0144ska",
+                "addr:housenumber": "8",
+                "addr:teryt:sym_ul": 385201,
+                "contact:phone": "+48 818289113",
+                "contact:email": "szkola@spkepa.pl",
+                "contact:website": "http:\/\/www.spkepapiotr.eu",
+                "ref:regon": "001180748",
+                "ref:vatin": "PL7171619997",
+                "operator": "Gmina \u0141aziska",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 262517,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.87935,
+                    51.14167
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 262517,
+                "official_name": "Szko\u0142a Podstawowa im. Jana Kochanowskiego w \u0141aziskach",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "24-335",
+                "addr:place": "\u0141aziska",
+                "addr:housenumber": "79",
+                "addr:teryt:sym_ul": 385313,
+                "contact:phone": "+48 818289010",
+                "contact:email": "laziska@interia.pl",
+                "contact:website": "http:\/\/www.splaziska.pl",
+                "ref:regon": "368029286",
+                "operator": "Gmina \u0141aziska",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 20415,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.81451,
+                    51.17627
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 20415,
+                "official_name": "Szko\u0142a Podstawowa w Braciejowicach",
+                "name": "Szko\u0142a Podstawowa w Braciejowicach",
+                "addr:country": "PL",
+                "addr:postcode": "24-335",
+                "addr:place": "Braciejowice",
+                "addr:housenumber": "137",
+                "addr:teryt:sym_ul": 385046,
+                "contact:phone": "+48 818284187",
+                "contact:email": "sp.braciejowice@interia.pl",
+                "contact:website": "http:\/\/www.spbraciejowice.lublin.pl",
+                "ref:regon": "001180777",
+                "ref:vatin": "PL7171619833",
+                "operator": "Gmina \u0141aziska",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 22431,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.8003399,
+                    51.19832
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 22431,
+                "official_name": "Publiczna Szko\u0142a Podstawowa w Zakrzowie",
+                "name": "Publiczna Szko\u0142a Podstawowa w Zakrzowie",
+                "addr:country": "PL",
+                "addr:postcode": "24-335",
+                "addr:place": "Zakrz\u00f3w",
+                "addr:housenumber": "25A",
+                "addr:teryt:sym_ul": 385431,
+                "contact:phone": "+48 818284367",
+                "contact:email": "szkola403@wp.pl",
+                "contact:website": "http:\/\/www.pspzakrzow.szkolnastrona.pl",
+                "ref:regon": "061468744",
+                "ref:vatin": "PL7171625130",
+                "operator": "Stowarzyszenie Na Rzecz Ekorozwoju Wsi Zakrz\u00f3w",
+                "operator:type": "ngo",
+                "amenity": "school"
+            }
+        }
+    ]
+}

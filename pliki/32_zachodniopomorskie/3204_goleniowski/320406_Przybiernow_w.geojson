@@ -1,1 +1,161 @@
-{"type":"FeatureCollection","features":[{"id":34864,"type":"Feature","geometry":{"type":"Point","coordinates":[14.78841,53.75541]},"properties":{"ref:rspo":34864,"official_name":"Zesp\u00f3\u0142 Szkolno - Przedszkolny Przybiern\u00f3w","name":"Zesp\u00f3\u0142 Szkolno - Przedszkolny Przybiern\u00f3w","addr:country":"PL","addr:postcode":"72-110","addr:city":"Przybiern\u00f3w","addr:street":"ul. Ko\u015bciuszki","addr:housenumber":"16","addr:teryt:simc":9572,"addr:teryt:sym_ul":781701,"contact:phone":"+48 914415120","contact:email":"zsp@przybiernow.pl","ref:regon":"812532257","ref:vatin":"PL8561230032","operator":"Gmina Przybiern\u00f3w","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 68634;68878"}},{"id":40058,"type":"Feature","geometry":{"type":"Point","coordinates":[14.78841,53.755379999999995]},"properties":{"ref:rspo":40058,"official_name":"O\u015brodek Rehabilitacyjno - Edukacyjno - Wychowawczy w Przybiernowie","name":"O\u015brodek Rehabilitacyjno - Edukacyjno - Wychowawczy w Przybiernowie","addr:country":"PL","addr:postcode":"72-110","addr:city":"Przybiern\u00f3w","addr:street":"ul. Ko\u015bciuszki","addr:housenumber":"16","addr:teryt:simc":9572,"addr:teryt:sym_ul":781701,"contact:phone":"+48 914041298","contact:email":"orew.przybiernow@psoniwolin.org","ref:regon":"321287792","ref:vatin":"PL9860133426","operator":"Polskie Stowarzyszenie Na Rzecz Os\u00f3b Z Niepe\u0142nosprawno\u015bci\u0105 Intelektualn\u0105 Ko\u0142o W Wolinie","operator:type":"ngo","amenity":"school"}},{"id":68634,"type":"Feature","geometry":{"type":"Point","coordinates":[14.78841,53.75535]},"properties":{"isced:level":"1;2","ref:rspo":68634,"official_name":"Szko\u0142a Podstawowa","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"72-110","addr:city":"Przybiern\u00f3w","addr:street":"ul. Ko\u015bciuszki","addr:housenumber":"16","addr:teryt:simc":9572,"addr:teryt:sym_ul":781701,"contact:phone":"+48 914415120","contact:email":"zsp@przybiernow.pl","ref:regon":"000269363","ref:vatin":"PL8561230032","operator":"Gmina Przybiern\u00f3w","operator:type":"government","amenity":"school","note":"Parent RSPO: 34864"}},{"id":68878,"type":"Feature","geometry":{"type":"Point","coordinates":[14.78841,53.75532]},"properties":{"ref:rspo":68878,"official_name":"Przedszkole Publiczne","name":"Przedszkole Publiczne","addr:country":"PL","addr:postcode":"72-110","addr:city":"Przybiern\u00f3w","addr:street":"ul. Ko\u015bciuszki","addr:housenumber":"16","addr:teryt:simc":9572,"addr:teryt:sym_ul":781701,"contact:phone":"+48 914186625","contact:email":"zsp@przybiernow.pl","ref:regon":"001003294","ref:vatin":"PL8561230032","operator":"Gmina Przybiern\u00f3w","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 34864"}},{"id":34652,"type":"Feature","geometry":{"type":"Point","coordinates":[14.90471,53.76663]},"properties":{"isced:level":"1;2","ref:rspo":34652,"official_name":"Szko\u0142a Podstawowa Czarnog\u0142owy","name":"Szko\u0142a Podstawowa Czarnog\u0142owy","addr:country":"PL","addr:postcode":"72-121","addr:city":"Czarnog\u0142owy","addr:street":"ul. Lipowa","addr:housenumber":"11","addr:teryt:simc":11139,"addr:teryt:sym_ul":781581,"contact:phone":"+48 914186211","contact:email":"spczarnoglowy@przybiernow.pl","ref:regon":"001223720","ref:vatin":"PL8561230032","operator":"Gmina Przybiern\u00f3w","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 34864,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.78841,
+                    53.75541
+                ]
+            },
+            "properties": {
+                "ref:rspo": 34864,
+                "official_name": "Zesp\u00f3\u0142 Szkolno - Przedszkolny Przybiern\u00f3w",
+                "name": "Zesp\u00f3\u0142 Szkolno - Przedszkolny Przybiern\u00f3w",
+                "addr:country": "PL",
+                "addr:postcode": "72-110",
+                "addr:city": "Przybiern\u00f3w",
+                "addr:street": "ul. Ko\u015bciuszki",
+                "addr:housenumber": "16",
+                "addr:teryt:simc": 9572,
+                "addr:teryt:sym_ul": 781701,
+                "contact:phone": "+48 914415120",
+                "contact:email": "zsp@przybiernow.pl",
+                "ref:regon": "812532257",
+                "ref:vatin": "PL8561230032",
+                "operator": "Gmina Przybiern\u00f3w",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 68634;68878"
+            }
+        },
+        {
+            "id": 40058,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.78841,
+                    53.755379999999995
+                ]
+            },
+            "properties": {
+                "ref:rspo": 40058,
+                "official_name": "O\u015brodek Rehabilitacyjno - Edukacyjno - Wychowawczy w Przybiernowie",
+                "name": "O\u015brodek Rehabilitacyjno - Edukacyjno - Wychowawczy w Przybiernowie",
+                "addr:country": "PL",
+                "addr:postcode": "72-110",
+                "addr:city": "Przybiern\u00f3w",
+                "addr:street": "ul. Ko\u015bciuszki",
+                "addr:housenumber": "16",
+                "addr:teryt:simc": 9572,
+                "addr:teryt:sym_ul": 781701,
+                "contact:phone": "+48 914041298",
+                "contact:email": "orew.przybiernow@psoniwolin.org",
+                "ref:regon": "321287792",
+                "ref:vatin": "PL9860133426",
+                "operator": "Polskie Stowarzyszenie Na Rzecz Os\u00f3b Z Niepe\u0142nosprawno\u015bci\u0105 Intelektualn\u0105 Ko\u0142o W Wolinie",
+                "operator:type": "ngo",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 68634,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.78841,
+                    53.75535
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 68634,
+                "official_name": "Szko\u0142a Podstawowa",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "72-110",
+                "addr:city": "Przybiern\u00f3w",
+                "addr:street": "ul. Ko\u015bciuszki",
+                "addr:housenumber": "16",
+                "addr:teryt:simc": 9572,
+                "addr:teryt:sym_ul": 781701,
+                "contact:phone": "+48 914415120",
+                "contact:email": "zsp@przybiernow.pl",
+                "ref:regon": "000269363",
+                "ref:vatin": "PL8561230032",
+                "operator": "Gmina Przybiern\u00f3w",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 34864"
+            }
+        },
+        {
+            "id": 68878,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.78841,
+                    53.75532
+                ]
+            },
+            "properties": {
+                "ref:rspo": 68878,
+                "official_name": "Przedszkole Publiczne",
+                "name": "Przedszkole Publiczne",
+                "addr:country": "PL",
+                "addr:postcode": "72-110",
+                "addr:city": "Przybiern\u00f3w",
+                "addr:street": "ul. Ko\u015bciuszki",
+                "addr:housenumber": "16",
+                "addr:teryt:simc": 9572,
+                "addr:teryt:sym_ul": 781701,
+                "contact:phone": "+48 914186625",
+                "contact:email": "zsp@przybiernow.pl",
+                "ref:regon": "001003294",
+                "ref:vatin": "PL8561230032",
+                "operator": "Gmina Przybiern\u00f3w",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 34864"
+            }
+        },
+        {
+            "id": 34652,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.90471,
+                    53.76663
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 34652,
+                "official_name": "Szko\u0142a Podstawowa Czarnog\u0142owy",
+                "name": "Szko\u0142a Podstawowa Czarnog\u0142owy",
+                "addr:country": "PL",
+                "addr:postcode": "72-121",
+                "addr:city": "Czarnog\u0142owy",
+                "addr:street": "ul. Lipowa",
+                "addr:housenumber": "11",
+                "addr:teryt:simc": 11139,
+                "addr:teryt:sym_ul": 781581,
+                "contact:phone": "+48 914186211",
+                "contact:email": "spczarnoglowy@przybiernow.pl",
+                "ref:regon": "001223720",
+                "ref:vatin": "PL8561230032",
+                "operator": "Gmina Przybiern\u00f3w",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

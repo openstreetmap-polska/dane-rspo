@@ -1,1 +1,216 @@
-{"type":"FeatureCollection","features":[{"id":16094,"type":"Feature","geometry":{"type":"Point","coordinates":[22.2936,50.44117]},"properties":{"isced:level":"1;2","ref:rspo":16094,"official_name":"Szko\u0142a Podstawowa w Bielinach","name":"Szko\u0142a Podstawowa w Bielinach","addr:country":"PL","addr:postcode":"37-410","addr:city":"Bieliny","addr:street":"ul. \u015bw. Wojciecha","addr:housenumber":"6","addr:teryt:simc":24581,"addr:teryt:sym_ul":808937,"contact:phone":"+48 158764107","contact:email":"pspbieliny@wp.pl","ref:regon":"001177605","ref:vatin":"PL8652261268","operator":"Gmina I Miasto  Ulan\u00f3w","operator:type":"government","amenity":"school"}},{"id":275790,"type":"Feature","geometry":{"type":"Point","coordinates":[22.267440795898,50.491191864014]},"properties":{"ref:rspo":275790,"official_name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w Ulanowie","name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w Ulanowie","addr:country":"PL","addr:postcode":"37-410","addr:city":"Ulan\u00f3w","addr:street":"ul. Tadeusza Buli","addr:housenumber":"3","addr:door":"-","addr:teryt:simc":2410,"addr:teryt:sym_ul":981386,"contact:phone":"+48 158763858","ref:regon":"386937101","operator":"Gmina I Miasto  Ulan\u00f3w","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 88241;276070"}},{"id":88241,"type":"Feature","geometry":{"type":"Point","coordinates":[22.267440795898,50.491161864013996]},"properties":{"isced:level":"1;2","ref:rspo":88241,"official_name":"Publiczna Szko\u0142a Podstawowa w Ulanowie","name":"Publiczna Szko\u0142a Podstawowa w Ulanowie","addr:country":"PL","addr:postcode":"37-410","addr:city":"Ulan\u00f3w","addr:street":"ul. Tadeusza Buli","addr:housenumber":"3","addr:teryt:simc":2410,"addr:teryt:sym_ul":981386,"contact:phone":"+48 158763858","contact:email":"zsulanow1@gmail.com","contact:website":"http:\/\/www.spulanow.pl","ref:regon":"000555465","operator":"Gmina I Miasto  Ulan\u00f3w","operator:type":"government","amenity":"school","note":"Parent RSPO: 275790"}},{"id":276070,"type":"Feature","geometry":{"type":"Point","coordinates":[22.267440795898,50.491131864014]},"properties":{"ref:rspo":276070,"official_name":"Przedszkole w Ulanowie","name":"Przedszkole w Ulanowie","addr:country":"PL","addr:postcode":"37-410","addr:city":"Ulan\u00f3w","addr:street":"ul. Tadeusza Buli","addr:housenumber":"3","addr:teryt:simc":2410,"addr:teryt:sym_ul":981386,"contact:phone":"+48 158763858","contact:email":"zsulanow1@gmail.com","ref:regon":"386978790","operator":"Gmina I Miasto  Ulan\u00f3w","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 275790"}},{"id":7248,"type":"Feature","geometry":{"type":"Point","coordinates":[22.26277,50.49886]},"properties":{"isced:level":"1;2","ref:rspo":7248,"official_name":"Szko\u0142a Podstawowa w W\u00f3lce Tanewskiej","name":"Szko\u0142a Podstawowa w W\u00f3lce Tanewskiej","addr:country":"PL","addr:postcode":"37-410","addr:city":"W\u00f3lka Tanewska","addr:street":"ul. G\u0142\u00f3wna","addr:housenumber":"61","addr:teryt:simc":5635,"addr:teryt:sym_ul":809291,"contact:phone":"+48 158763031","contact:email":"woltan2@poczta.onet.pl","ref:regon":"001177670","operator":"Gmina I Miasto  Ulan\u00f3w","operator:type":"government","amenity":"school"}},{"id":16170,"type":"Feature","geometry":{"type":"Point","coordinates":[22.31036,50.5051]},"properties":{"isced:level":"1;2","ref:rspo":16170,"official_name":"Szko\u0142a Podstawowa w D\u0105br\u00f3wce","name":"Szko\u0142a Podstawowa w D\u0105br\u00f3wce","addr:country":"PL","addr:postcode":"37-410","addr:place":"D\u0105br\u00f3wka","addr:housenumber":"15e","addr:teryt:sym_ul":809090,"contact:phone":"+48 158764756","contact:email":"dyrektor2@op.pl","ref:regon":"001177628","ref:vatin":"PL8652261251","operator":"Gmina I Miasto  Ulan\u00f3w","operator:type":"government","amenity":"school"}},{"id":39732,"type":"Feature","geometry":{"type":"Point","coordinates":[22.36297,50.50985]},"properties":{"isced:level":"1;2","ref:rspo":39732,"official_name":"Publiczna Szko\u0142a Podstawowa w Kurzynie \u015aredniej","name":"Publiczna Szko\u0142a Podstawowa w Kurzynie \u015aredniej","addr:country":"PL","addr:postcode":"37-410","addr:place":"Kurzyna \u015arednia","addr:housenumber":"35a","addr:teryt:sym_ul":809240,"contact:phone":"+48 158765101","contact:email":"gimnazjum6@op.pl","ref:regon":"001177663","operator":"Gmina I Miasto  Ulan\u00f3w","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 16094,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.2936,
+                    50.44117
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 16094,
+                "official_name": "Szko\u0142a Podstawowa w Bielinach",
+                "name": "Szko\u0142a Podstawowa w Bielinach",
+                "addr:country": "PL",
+                "addr:postcode": "37-410",
+                "addr:city": "Bieliny",
+                "addr:street": "ul. \u015bw. Wojciecha",
+                "addr:housenumber": "6",
+                "addr:teryt:simc": 24581,
+                "addr:teryt:sym_ul": 808937,
+                "contact:phone": "+48 158764107",
+                "contact:email": "pspbieliny@wp.pl",
+                "ref:regon": "001177605",
+                "ref:vatin": "PL8652261268",
+                "operator": "Gmina I Miasto  Ulan\u00f3w",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 275790,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.267440795898,
+                    50.491191864014
+                ]
+            },
+            "properties": {
+                "ref:rspo": 275790,
+                "official_name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w Ulanowie",
+                "name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w Ulanowie",
+                "addr:country": "PL",
+                "addr:postcode": "37-410",
+                "addr:city": "Ulan\u00f3w",
+                "addr:street": "ul. Tadeusza Buli",
+                "addr:housenumber": "3",
+                "addr:door": "-",
+                "addr:teryt:simc": 2410,
+                "addr:teryt:sym_ul": 981386,
+                "contact:phone": "+48 158763858",
+                "ref:regon": "386937101",
+                "operator": "Gmina I Miasto  Ulan\u00f3w",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 88241;276070"
+            }
+        },
+        {
+            "id": 88241,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.267440795898,
+                    50.491161864013996
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 88241,
+                "official_name": "Publiczna Szko\u0142a Podstawowa w Ulanowie",
+                "name": "Publiczna Szko\u0142a Podstawowa w Ulanowie",
+                "addr:country": "PL",
+                "addr:postcode": "37-410",
+                "addr:city": "Ulan\u00f3w",
+                "addr:street": "ul. Tadeusza Buli",
+                "addr:housenumber": "3",
+                "addr:teryt:simc": 2410,
+                "addr:teryt:sym_ul": 981386,
+                "contact:phone": "+48 158763858",
+                "contact:email": "zsulanow1@gmail.com",
+                "contact:website": "http:\/\/www.spulanow.pl",
+                "ref:regon": "000555465",
+                "operator": "Gmina I Miasto  Ulan\u00f3w",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 275790"
+            }
+        },
+        {
+            "id": 276070,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.267440795898,
+                    50.491131864014
+                ]
+            },
+            "properties": {
+                "ref:rspo": 276070,
+                "official_name": "Przedszkole w Ulanowie",
+                "name": "Przedszkole w Ulanowie",
+                "addr:country": "PL",
+                "addr:postcode": "37-410",
+                "addr:city": "Ulan\u00f3w",
+                "addr:street": "ul. Tadeusza Buli",
+                "addr:housenumber": "3",
+                "addr:teryt:simc": 2410,
+                "addr:teryt:sym_ul": 981386,
+                "contact:phone": "+48 158763858",
+                "contact:email": "zsulanow1@gmail.com",
+                "ref:regon": "386978790",
+                "operator": "Gmina I Miasto  Ulan\u00f3w",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 275790"
+            }
+        },
+        {
+            "id": 7248,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.26277,
+                    50.49886
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 7248,
+                "official_name": "Szko\u0142a Podstawowa w W\u00f3lce Tanewskiej",
+                "name": "Szko\u0142a Podstawowa w W\u00f3lce Tanewskiej",
+                "addr:country": "PL",
+                "addr:postcode": "37-410",
+                "addr:city": "W\u00f3lka Tanewska",
+                "addr:street": "ul. G\u0142\u00f3wna",
+                "addr:housenumber": "61",
+                "addr:teryt:simc": 5635,
+                "addr:teryt:sym_ul": 809291,
+                "contact:phone": "+48 158763031",
+                "contact:email": "woltan2@poczta.onet.pl",
+                "ref:regon": "001177670",
+                "operator": "Gmina I Miasto  Ulan\u00f3w",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 16170,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.31036,
+                    50.5051
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 16170,
+                "official_name": "Szko\u0142a Podstawowa w D\u0105br\u00f3wce",
+                "name": "Szko\u0142a Podstawowa w D\u0105br\u00f3wce",
+                "addr:country": "PL",
+                "addr:postcode": "37-410",
+                "addr:place": "D\u0105br\u00f3wka",
+                "addr:housenumber": "15e",
+                "addr:teryt:sym_ul": 809090,
+                "contact:phone": "+48 158764756",
+                "contact:email": "dyrektor2@op.pl",
+                "ref:regon": "001177628",
+                "ref:vatin": "PL8652261251",
+                "operator": "Gmina I Miasto  Ulan\u00f3w",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 39732,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.36297,
+                    50.50985
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 39732,
+                "official_name": "Publiczna Szko\u0142a Podstawowa w Kurzynie \u015aredniej",
+                "name": "Publiczna Szko\u0142a Podstawowa w Kurzynie \u015aredniej",
+                "addr:country": "PL",
+                "addr:postcode": "37-410",
+                "addr:place": "Kurzyna \u015arednia",
+                "addr:housenumber": "35a",
+                "addr:teryt:sym_ul": 809240,
+                "contact:phone": "+48 158765101",
+                "contact:email": "gimnazjum6@op.pl",
+                "ref:regon": "001177663",
+                "operator": "Gmina I Miasto  Ulan\u00f3w",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

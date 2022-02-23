@@ -1,1 +1,102 @@
-{"type":"FeatureCollection","features":[{"id":18476,"type":"Feature","geometry":{"type":"Point","coordinates":[15.55128,53.43895]},"properties":{"ref:rspo":18476,"official_name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 w I\u0144sku","name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 w I\u0144sku","addr:country":"PL","addr:postcode":"73-140","addr:city":"I\u0144sko","addr:street":"ul. Poprzeczna","addr:housenumber":"1","addr:teryt:simc":17171,"addr:teryt:sym_ul":979099,"contact:phone":"+48 915623109","contact:email":"podstinsko@op.pl","contact:website":"http:\/\/zsinsko.edupage.org","ref:regon":"320397024","ref:vatin":"PL8542320113","operator":"Gmina I\u0144sko","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 26854;132089"}},{"id":26854,"type":"Feature","geometry":{"type":"Point","coordinates":[15.55128,53.438919999999996]},"properties":{"isced:level":"1;2","ref:rspo":26854,"official_name":"Szko\u0142a Podstawowa im. Krzysztofa Kamila Baczy\u0144skiego w I\u0144sku","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"73-140","addr:city":"I\u0144sko","addr:street":"ul. Poprzeczna","addr:housenumber":"1","addr:teryt:simc":17171,"addr:teryt:sym_ul":979099,"contact:phone":"+48 915623109","contact:email":"podstinsko@op.pl","contact:website":"http:\/\/zsinsko.edupage.org","ref:regon":"000264176","ref:vatin":"PL8541009063","operator":"Gmina I\u0144sko","operator:type":"government","amenity":"school","note":"Parent RSPO: 18476"}},{"id":132089,"type":"Feature","geometry":{"type":"Point","coordinates":[15.55128,53.43889]},"properties":{"ref:rspo":132089,"official_name":"Przedszkole Publiczne Przy Zespole Szk\u00f3\u0142 w I\u0144sku","name":"Przedszkole Publiczne Przy Zespole Szk\u00f3\u0142 w I\u0144sku","addr:country":"PL","addr:postcode":"73-140","addr:city":"I\u0144sko","addr:street":"ul. Poprzeczna","addr:housenumber":"1","addr:teryt:simc":17171,"addr:teryt:sym_ul":979099,"contact:phone":"+48 915623015","contact:email":"podstinsko@op.pl","contact:website":"http:\/\/zsinsko.edupage.org","ref:regon":"365455077","operator":"Gmina I\u0144sko","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 18476"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 18476,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.55128,
+                    53.43895
+                ]
+            },
+            "properties": {
+                "ref:rspo": 18476,
+                "official_name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 w I\u0144sku",
+                "name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 w I\u0144sku",
+                "addr:country": "PL",
+                "addr:postcode": "73-140",
+                "addr:city": "I\u0144sko",
+                "addr:street": "ul. Poprzeczna",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 17171,
+                "addr:teryt:sym_ul": 979099,
+                "contact:phone": "+48 915623109",
+                "contact:email": "podstinsko@op.pl",
+                "contact:website": "http:\/\/zsinsko.edupage.org",
+                "ref:regon": "320397024",
+                "ref:vatin": "PL8542320113",
+                "operator": "Gmina I\u0144sko",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 26854;132089"
+            }
+        },
+        {
+            "id": 26854,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.55128,
+                    53.438919999999996
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 26854,
+                "official_name": "Szko\u0142a Podstawowa im. Krzysztofa Kamila Baczy\u0144skiego w I\u0144sku",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "73-140",
+                "addr:city": "I\u0144sko",
+                "addr:street": "ul. Poprzeczna",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 17171,
+                "addr:teryt:sym_ul": 979099,
+                "contact:phone": "+48 915623109",
+                "contact:email": "podstinsko@op.pl",
+                "contact:website": "http:\/\/zsinsko.edupage.org",
+                "ref:regon": "000264176",
+                "ref:vatin": "PL8541009063",
+                "operator": "Gmina I\u0144sko",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 18476"
+            }
+        },
+        {
+            "id": 132089,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.55128,
+                    53.43889
+                ]
+            },
+            "properties": {
+                "ref:rspo": 132089,
+                "official_name": "Przedszkole Publiczne Przy Zespole Szk\u00f3\u0142 w I\u0144sku",
+                "name": "Przedszkole Publiczne Przy Zespole Szk\u00f3\u0142 w I\u0144sku",
+                "addr:country": "PL",
+                "addr:postcode": "73-140",
+                "addr:city": "I\u0144sko",
+                "addr:street": "ul. Poprzeczna",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 17171,
+                "addr:teryt:sym_ul": 979099,
+                "contact:phone": "+48 915623015",
+                "contact:email": "podstinsko@op.pl",
+                "contact:website": "http:\/\/zsinsko.edupage.org",
+                "ref:regon": "365455077",
+                "operator": "Gmina I\u0144sko",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 18476"
+            }
+        }
+    ]
+}

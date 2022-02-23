@@ -1,1 +1,132 @@
-{"type":"FeatureCollection","features":[{"id":12448,"type":"Feature","geometry":{"type":"Point","coordinates":[21.0241659,52.788446]},"properties":{"isced:level":"1;2","ref:rspo":12448,"official_name":"Szko\u0142a Podstawowa w Szwelicach","name":"Szko\u0142a Podstawowa w Szwelicach","addr:country":"PL","addr:postcode":"06-100","addr:place":"Szwelice","addr:housenumber":"66","addr:teryt:sym_ul":117044,"contact:phone":"+48 296911404","contact:email":"szwelicepsp@wp.pl","contact:website":"http:\/\/pspszwelice.edu.pl","ref:regon":"001158826","ref:vatin":"PL7571372827","operator":"Gmina Karniewo","operator:type":"government","amenity":"school"}},{"id":25655,"type":"Feature","geometry":{"type":"Point","coordinates":[20.99179,52.83754]},"properties":{"ref:rspo":25655,"official_name":"Zesp\u00f3\u0142 Szkolno - Przedszkolny w Karniewie","name":"Zesp\u00f3\u0142 Szkolno - Przedszkolny w Karniewie","addr:country":"PL","addr:postcode":"06-425","addr:city":"Karniewo","addr:street":"ul. Szkolna","addr:housenumber":"9","addr:teryt:simc":21970,"addr:teryt:sym_ul":116889,"contact:phone":"+48 296911068","contact:email":"sekretariat@zspkarniewo.pl","contact:website":"http:\/\/www.karniewo.cnow.pl","ref:regon":"141529286","ref:vatin":"PL7571451159","operator":"Gmina Karniewo","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 73196;73197"}},{"id":73196,"type":"Feature","geometry":{"type":"Point","coordinates":[20.99179,52.837509999999995]},"properties":{"isced:level":"1;2","ref:rspo":73196,"official_name":"Szko\u0142a Podstawowa im. Oskara Kolberga w Karniewie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"06-425","addr:city":"Karniewo","addr:street":"ul. Szkolna","addr:housenumber":"9","addr:teryt:simc":21970,"addr:teryt:sym_ul":116889,"contact:phone":"+48 296911068","contact:email":"sekretariat@zspkarniewo.pl","contact:website":"http:\/\/www.karniewo.cnow.pl","ref:regon":"000266956","ref:vatin":"PL7571374045","operator":"Gmina Karniewo","operator:type":"government","amenity":"school","note":"Parent RSPO: 25655"}},{"id":73197,"type":"Feature","geometry":{"type":"Point","coordinates":[20.99099,52.83762]},"properties":{"ref:rspo":73197,"official_name":"Przedszkole Samorz\u0105dowe w Karniewie","name":"Przedszkole Samorz\u0105dowe w Karniewie","addr:country":"PL","addr:postcode":"06-425","addr:city":"Karniewo","addr:street":"ul. Szkolna","addr:housenumber":"9a","addr:teryt:simc":21970,"addr:teryt:sym_ul":116889,"contact:phone":"+48 296911068","contact:email":"sekretariat@zspkarniewo.pl","ref:regon":"130501193","ref:vatin":"PL7571373577","operator":"Gmina Karniewo","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 25655"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 12448,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0241659,
+                    52.788446
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 12448,
+                "official_name": "Szko\u0142a Podstawowa w Szwelicach",
+                "name": "Szko\u0142a Podstawowa w Szwelicach",
+                "addr:country": "PL",
+                "addr:postcode": "06-100",
+                "addr:place": "Szwelice",
+                "addr:housenumber": "66",
+                "addr:teryt:sym_ul": 117044,
+                "contact:phone": "+48 296911404",
+                "contact:email": "szwelicepsp@wp.pl",
+                "contact:website": "http:\/\/pspszwelice.edu.pl",
+                "ref:regon": "001158826",
+                "ref:vatin": "PL7571372827",
+                "operator": "Gmina Karniewo",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 25655,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.99179,
+                    52.83754
+                ]
+            },
+            "properties": {
+                "ref:rspo": 25655,
+                "official_name": "Zesp\u00f3\u0142 Szkolno - Przedszkolny w Karniewie",
+                "name": "Zesp\u00f3\u0142 Szkolno - Przedszkolny w Karniewie",
+                "addr:country": "PL",
+                "addr:postcode": "06-425",
+                "addr:city": "Karniewo",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "9",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 116889,
+                "contact:phone": "+48 296911068",
+                "contact:email": "sekretariat@zspkarniewo.pl",
+                "contact:website": "http:\/\/www.karniewo.cnow.pl",
+                "ref:regon": "141529286",
+                "ref:vatin": "PL7571451159",
+                "operator": "Gmina Karniewo",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 73196;73197"
+            }
+        },
+        {
+            "id": 73196,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.99179,
+                    52.837509999999995
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 73196,
+                "official_name": "Szko\u0142a Podstawowa im. Oskara Kolberga w Karniewie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "06-425",
+                "addr:city": "Karniewo",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "9",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 116889,
+                "contact:phone": "+48 296911068",
+                "contact:email": "sekretariat@zspkarniewo.pl",
+                "contact:website": "http:\/\/www.karniewo.cnow.pl",
+                "ref:regon": "000266956",
+                "ref:vatin": "PL7571374045",
+                "operator": "Gmina Karniewo",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 25655"
+            }
+        },
+        {
+            "id": 73197,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.99099,
+                    52.83762
+                ]
+            },
+            "properties": {
+                "ref:rspo": 73197,
+                "official_name": "Przedszkole Samorz\u0105dowe w Karniewie",
+                "name": "Przedszkole Samorz\u0105dowe w Karniewie",
+                "addr:country": "PL",
+                "addr:postcode": "06-425",
+                "addr:city": "Karniewo",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "9a",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 116889,
+                "contact:phone": "+48 296911068",
+                "contact:email": "sekretariat@zspkarniewo.pl",
+                "ref:regon": "130501193",
+                "ref:vatin": "PL7571373577",
+                "operator": "Gmina Karniewo",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 25655"
+            }
+        }
+    ]
+}

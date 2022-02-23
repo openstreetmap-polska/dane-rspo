@@ -1,1 +1,472 @@
-{"type":"FeatureCollection","features":[{"id":17785,"type":"Feature","geometry":{"type":"Point","coordinates":[20.4619399,51.42776]},"properties":{"isced:level":"1;2","ref:rspo":17785,"official_name":"Szko\u0142a Podstawowa w Brzustowcu","name":"Szko\u0142a Podstawowa w Brzustowcu","addr:country":"PL","addr:postcode":"26-340","addr:place":"Brzustowiec","addr:housenumber":"152","addr:teryt:sym_ul":617999,"contact:phone":"+48 483757113","contact:email":"spbrzustowiec@drzewica.pl","contact:website":"http:\/\/www.spbrzustowiec.szkolnastrona.pl","ref:regon":"001145634","ref:vatin":"PL7681833560","operator":"Gmina Drzewica","operator:type":"government","amenity":"school"}},{"id":21148,"type":"Feature","geometry":{"type":"Point","coordinates":[20.43515,51.43229]},"properties":{"ref:rspo":21148,"official_name":"Punkt Przedszkolny Przy Szkole Podstawowej w Brzustowcu","name":"Punkt Przedszkolny Przy Szkole Podstawowej w Brzustowcu","addr:country":"PL","addr:postcode":"26-340","addr:place":"Jelnia","addr:housenumber":"94A","addr:teryt:sym_ul":618190,"contact:phone":"+48 483757135","contact:email":"spjelnia@wp.pl","ref:regon":"101475191","ref:vatin":"PL7681833560","operator":"Gmina Drzewica","operator:type":"government","amenity":"kindergarten"}},{"id":18284,"type":"Feature","geometry":{"type":"Point","coordinates":[20.46681,51.44855]},"properties":{"ref:rspo":18284,"official_name":"Filia Poradni Psychologiczno-Pedagogicznej w Opocznie","name":"Filia Poradni Psychologiczno-Pedagogicznej w Opocznie","addr:country":"PL","addr:postcode":"26-340","addr:city":"Drzewica","addr:street":"ul. Stanis\u0142awa Staszica","addr:housenumber":"1","addr:teryt:simc":21071,"addr:teryt:sym_ul":973346,"contact:phone":"+48 483833554","contact:email":"pppdrzewica@gmail.com","ref:regon":"104586100","operator":"Powiat Opoczy\u0144ski","operator:type":"government","healthcare":"councelling","counselling_type":"education","fixme":"w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. healthcare=councelling + counselling_type=education albo healthcare=psychotherapist)","note":"Parent RSPO: 14269"}},{"id":17781,"type":"Feature","geometry":{"type":"Point","coordinates":[20.33971,51.44864]},"properties":{"isced:level":"1;2","ref:rspo":17781,"official_name":"Szko\u0142a Podstawowa w Idzikowicach","name":"Szko\u0142a Podstawowa w Idzikowicach","addr:country":"PL","addr:postcode":"26-340","addr:place":"Idzikowice","addr:housenumber":"30b","addr:teryt:sym_ul":618125,"contact:phone":"+48 483755225","contact:email":"spidzikowice@drzewica.pl","contact:website":"http:\/\/www.spidzikowice.szkolnastrona.pl","ref:regon":"670738735","ref:vatin":"PL7681834105","operator":"Gmina Drzewica","operator:type":"government","amenity":"school"}},{"id":9989,"type":"Feature","geometry":{"type":"Point","coordinates":[20.4665399,51.44906]},"properties":{"ref:rspo":9989,"official_name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 Powiatowych w Drzewicy","name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 Powiatowych w Drzewicy","addr:country":"PL","addr:postcode":"26-340","addr:city":"Drzewica","addr:street":"ul. Stanis\u0142awa Staszica","addr:housenumber":"5","addr:teryt:simc":21071,"addr:teryt:sym_ul":973346,"contact:phone":"+48 483756089","contact:email":"liceum.drzewica@wp.pl","contact:website":"http:\/\/www.liceumdrzewica.com.pl","ref:regon":"000028501","operator":"Powiat Opoczy\u0144ski","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 10731;10732;10734;10735;10736;276014"}},{"id":10731,"type":"Feature","geometry":{"type":"Point","coordinates":[20.4665399,51.44903]},"properties":{"isced:level":"3","ref:rspo":10731,"official_name":"Bran\u017cowa Szko\u0142a I Stopnia Imienia Majora Henryka Dobrza\u0144skiego \"Hubala\" w Drzewicy","name":"Bran\u017cowa Szko\u0142a I Stopnia Imienia Majora Henryka Dobrza\u0144skiego \"Hubala\" w Drzewicy","addr:country":"PL","addr:postcode":"26-340","addr:city":"Drzewica","addr:street":"ul. Stanis\u0142awa Staszica","addr:housenumber":"5","addr:teryt:simc":21071,"addr:teryt:sym_ul":973346,"contact:phone":"+48 483756089","contact:email":"liceum.drzewica@wp.pl","contact:website":"http:\/\/www.liceumdrzewica.com.pl","ref:regon":"592148008","operator":"Powiat Opoczy\u0144ski","operator:type":"government","amenity":"school","note":"Parent RSPO: 9989"}},{"id":10732,"type":"Feature","geometry":{"type":"Point","coordinates":[20.4665399,51.449000000000005]},"properties":{"isced:level":"4","ref:rspo":10732,"official_name":"Szko\u0142a Policealna w Drzewicy","name":"Szko\u0142a Policealna w Drzewicy","addr:country":"PL","addr:postcode":"26-340","addr:city":"Drzewica","addr:street":"ul. Stanis\u0142awa Staszica","addr:housenumber":"5","addr:teryt:simc":21071,"addr:teryt:sym_ul":973346,"contact:phone":"+48 483756089","contact:email":"liceum.drzewica@wp.pl","contact:website":"http:\/\/www.liceumdrzewica.com.pl","ref:regon":"100948339","operator":"Powiat Opoczy\u0144ski","operator:type":"government","amenity":"college","note":"Parent RSPO: 9989"}},{"id":10734,"type":"Feature","geometry":{"type":"Point","coordinates":[20.4665399,51.44897]},"properties":{"isced:level":"3","ref:rspo":10734,"official_name":"Zaoczne Liceum Og\u00f3lnokszta\u0142c\u0105ce dla Doros\u0142ych w Drzewicy","name":"Zaoczne Liceum Og\u00f3lnokszta\u0142c\u0105ce dla Doros\u0142ych w Drzewicy","addr:country":"PL","addr:postcode":"26-340","addr:city":"Drzewica","addr:street":"ul. Stanis\u0142awa Staszica","addr:housenumber":"5","addr:teryt:simc":21071,"addr:teryt:sym_ul":973346,"contact:phone":"+48 483756089","contact:email":"liceum.drzewica@wp.pl","contact:website":"http:\/\/www.liceumdrzewica.com.pl","ref:regon":"101467085","operator":"Powiat Opoczy\u0144ski","operator:type":"government","amenity":"school","note":"Parent RSPO: 9989"}},{"id":10735,"type":"Feature","geometry":{"type":"Point","coordinates":[20.4665399,51.44894]},"properties":{"isced:level":"3","ref:rspo":10735,"official_name":"Technikum w Drzewicy Imienia Majora Henryka Dobrza\u0144skiego \"Hubala\"","name":"Technikum w Drzewicy Imienia Majora Henryka Dobrza\u0144skiego \"Hubala\"","addr:country":"PL","addr:postcode":"26-340","addr:city":"Drzewica","addr:street":"ul. Stanis\u0142awa Staszica","addr:housenumber":"5","addr:teryt:simc":21071,"addr:teryt:sym_ul":973346,"contact:phone":"+48 483756089","contact:email":"liceum.drzewica@wp.pl","contact:website":"http:\/\/www.liceumdrzewica.com.pl","ref:regon":"100243120","operator":"Powiat Opoczy\u0144ski","operator:type":"government","amenity":"school","note":"Parent RSPO: 9989"}},{"id":10736,"type":"Feature","geometry":{"type":"Point","coordinates":[20.4665399,51.448910000000005]},"properties":{"isced:level":"3","ref:rspo":10736,"official_name":"Liceum Og\u00f3lnokszta\u0142c\u0105ce w Drzewicy Imienia Majora Henryka Dobrza\u0144skiego \"Hubala\"","name":"Liceum Og\u00f3lnokszta\u0142c\u0105ce w Drzewicy Imienia Majora Henryka Dobrza\u0144skiego \"Hubala\"","addr:country":"PL","addr:postcode":"26-340","addr:city":"Drzewica","addr:street":"ul. Stanis\u0142awa Staszica","addr:housenumber":"5","addr:teryt:simc":21071,"addr:teryt:sym_ul":973346,"contact:phone":"+48 483756089","contact:email":"liceum.drzewica@wp.pl","contact:website":"http:\/\/www.liceumdrzewica.com.pl","ref:regon":"670675101","operator":"Powiat Opoczy\u0144ski","operator:type":"government","amenity":"school","note":"Parent RSPO: 9989"}},{"id":276014,"type":"Feature","geometry":{"type":"Point","coordinates":[20.4665399,51.44888]},"properties":{"isced:level":"3","ref:rspo":276014,"official_name":"Bran\u017cowa Szko\u0142a II Stopnia w Drzewicy","name":"Bran\u017cowa Szko\u0142a II Stopnia w Drzewicy","addr:country":"PL","addr:postcode":"26-340","addr:city":"Drzewica","addr:street":"ul. Stanis\u0142awa Staszica","addr:housenumber":"5","addr:teryt:simc":21071,"addr:teryt:sym_ul":973346,"contact:phone":"+48 483756089","contact:email":"liceum.drzewica@wp.pl","contact:website":"http:\/\/www.liceumdrzewica.com.pl","ref:regon":"386965267","operator":"Powiat Opoczy\u0144ski","operator:type":"government","amenity":"school","note":"Parent RSPO: 9989"}},{"id":17788,"type":"Feature","geometry":{"type":"Point","coordinates":[20.4677599,51.45037]},"properties":{"ref:rspo":17788,"official_name":"Przedszkole Samorz\u0105dowe w Drzewicy","name":"Przedszkole Samorz\u0105dowe w Drzewicy","addr:country":"PL","addr:postcode":"26-340","addr:city":"Drzewica","addr:street":"ul. Stawowa","addr:housenumber":"58","addr:teryt:simc":21101,"addr:teryt:sym_ul":973346,"contact:phone":"+48 483756636","contact:email":"przedszkole@drzewica.pl","contact:website":"http:\/\/www.psdrzewica.szkolnastrona.pl","ref:regon":"592154032","ref:vatin":"PL7681833525","operator":"Gmina Drzewica","operator:type":"government","amenity":"kindergarten"}},{"id":17786,"type":"Feature","geometry":{"type":"Point","coordinates":[20.47019,51.45145]},"properties":{"isced:level":"1;2","ref:rspo":17786,"official_name":"Szko\u0142a Podstawowa im. Polskich Olimpijczyk\u00f3w w Drzewicy","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"26-340","addr:city":"Drzewica","addr:street":"ul. Szkolna","addr:housenumber":"18","addr:teryt:simc":21970,"addr:teryt:sym_ul":973346,"contact:phone":"+48 483756011","contact:email":"spdrzewica@drzewica.pl","contact:website":"http:\/\/www.spdrzewica.szkolnastrona.pl","ref:regon":"670986953","ref:vatin":"PL7681622573","operator":"Gmina Drzewica","operator:type":"government","amenity":"school"}},{"id":17784,"type":"Feature","geometry":{"type":"Point","coordinates":[20.39478,51.4523]},"properties":{"isced:level":"1;2","ref:rspo":17784,"official_name":"Szko\u0142a Podstawowa im. Miko\u0142aja Kopernika w Radzicach Du\u017cych","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"26-340","addr:place":"Radzice Du\u017ce","addr:housenumber":"169","addr:teryt:sym_ul":618250,"contact:phone":"+48 483755085","contact:email":"spradzice@drzewica.pl","contact:website":"http:\/\/www.spradzice.szkolnastrona.pl","ref:regon":"001145864","ref:vatin":"PL7681833531","operator":"Gmina Drzewica","operator:type":"government","amenity":"school"}},{"id":17783,"type":"Feature","geometry":{"type":"Point","coordinates":[20.5165,51.49066]},"properties":{"isced:level":"1;2","ref:rspo":17783,"official_name":"Szko\u0142a Podstawowa im. Stefana \u017beromskiego w Domasznie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"26-340","addr:place":"Domaszno","addr:housenumber":"31","addr:teryt:sym_ul":618071,"contact:phone":"+48 483758070","contact:email":"spdomaszno@drzewica.pl","contact:website":"http:\/\/www.spdomaszno.szkolnastrona.pl","ref:regon":"001145870","ref:vatin":"PL7681833577","operator":"Gmina Drzewica","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 17785,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.4619399,
+                    51.42776
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 17785,
+                "official_name": "Szko\u0142a Podstawowa w Brzustowcu",
+                "name": "Szko\u0142a Podstawowa w Brzustowcu",
+                "addr:country": "PL",
+                "addr:postcode": "26-340",
+                "addr:place": "Brzustowiec",
+                "addr:housenumber": "152",
+                "addr:teryt:sym_ul": 617999,
+                "contact:phone": "+48 483757113",
+                "contact:email": "spbrzustowiec@drzewica.pl",
+                "contact:website": "http:\/\/www.spbrzustowiec.szkolnastrona.pl",
+                "ref:regon": "001145634",
+                "ref:vatin": "PL7681833560",
+                "operator": "Gmina Drzewica",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 21148,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.43515,
+                    51.43229
+                ]
+            },
+            "properties": {
+                "ref:rspo": 21148,
+                "official_name": "Punkt Przedszkolny Przy Szkole Podstawowej w Brzustowcu",
+                "name": "Punkt Przedszkolny Przy Szkole Podstawowej w Brzustowcu",
+                "addr:country": "PL",
+                "addr:postcode": "26-340",
+                "addr:place": "Jelnia",
+                "addr:housenumber": "94A",
+                "addr:teryt:sym_ul": 618190,
+                "contact:phone": "+48 483757135",
+                "contact:email": "spjelnia@wp.pl",
+                "ref:regon": "101475191",
+                "ref:vatin": "PL7681833560",
+                "operator": "Gmina Drzewica",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 18284,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.46681,
+                    51.44855
+                ]
+            },
+            "properties": {
+                "ref:rspo": 18284,
+                "official_name": "Filia Poradni Psychologiczno-Pedagogicznej w Opocznie",
+                "name": "Filia Poradni Psychologiczno-Pedagogicznej w Opocznie",
+                "addr:country": "PL",
+                "addr:postcode": "26-340",
+                "addr:city": "Drzewica",
+                "addr:street": "ul. Stanis\u0142awa Staszica",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 21071,
+                "addr:teryt:sym_ul": 973346,
+                "contact:phone": "+48 483833554",
+                "contact:email": "pppdrzewica@gmail.com",
+                "ref:regon": "104586100",
+                "operator": "Powiat Opoczy\u0144ski",
+                "operator:type": "government",
+                "healthcare": "counselling",
+                "counselling_type": "education",
+                "fixme": "w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. healthcare=counselling + counselling_type=education albo healthcare=psychotherapist)",
+                "note": "Parent RSPO: 14269"
+            }
+        },
+        {
+            "id": 17781,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.33971,
+                    51.44864
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 17781,
+                "official_name": "Szko\u0142a Podstawowa w Idzikowicach",
+                "name": "Szko\u0142a Podstawowa w Idzikowicach",
+                "addr:country": "PL",
+                "addr:postcode": "26-340",
+                "addr:place": "Idzikowice",
+                "addr:housenumber": "30b",
+                "addr:teryt:sym_ul": 618125,
+                "contact:phone": "+48 483755225",
+                "contact:email": "spidzikowice@drzewica.pl",
+                "contact:website": "http:\/\/www.spidzikowice.szkolnastrona.pl",
+                "ref:regon": "670738735",
+                "ref:vatin": "PL7681834105",
+                "operator": "Gmina Drzewica",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 9989,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.4665399,
+                    51.44906
+                ]
+            },
+            "properties": {
+                "ref:rspo": 9989,
+                "official_name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Powiatowych w Drzewicy",
+                "name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Powiatowych w Drzewicy",
+                "addr:country": "PL",
+                "addr:postcode": "26-340",
+                "addr:city": "Drzewica",
+                "addr:street": "ul. Stanis\u0142awa Staszica",
+                "addr:housenumber": "5",
+                "addr:teryt:simc": 21071,
+                "addr:teryt:sym_ul": 973346,
+                "contact:phone": "+48 483756089",
+                "contact:email": "liceum.drzewica@wp.pl",
+                "contact:website": "http:\/\/www.liceumdrzewica.com.pl",
+                "ref:regon": "000028501",
+                "operator": "Powiat Opoczy\u0144ski",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 10731;10732;10734;10735;10736;276014"
+            }
+        },
+        {
+            "id": 10731,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.4665399,
+                    51.44903
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 10731,
+                "official_name": "Bran\u017cowa Szko\u0142a I Stopnia Imienia Majora Henryka Dobrza\u0144skiego \"Hubala\" w Drzewicy",
+                "name": "Bran\u017cowa Szko\u0142a I Stopnia Imienia Majora Henryka Dobrza\u0144skiego \"Hubala\" w Drzewicy",
+                "addr:country": "PL",
+                "addr:postcode": "26-340",
+                "addr:city": "Drzewica",
+                "addr:street": "ul. Stanis\u0142awa Staszica",
+                "addr:housenumber": "5",
+                "addr:teryt:simc": 21071,
+                "addr:teryt:sym_ul": 973346,
+                "contact:phone": "+48 483756089",
+                "contact:email": "liceum.drzewica@wp.pl",
+                "contact:website": "http:\/\/www.liceumdrzewica.com.pl",
+                "ref:regon": "592148008",
+                "operator": "Powiat Opoczy\u0144ski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 9989"
+            }
+        },
+        {
+            "id": 10732,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.4665399,
+                    51.449000000000005
+                ]
+            },
+            "properties": {
+                "isced:level": "4",
+                "ref:rspo": 10732,
+                "official_name": "Szko\u0142a Policealna w Drzewicy",
+                "name": "Szko\u0142a Policealna w Drzewicy",
+                "addr:country": "PL",
+                "addr:postcode": "26-340",
+                "addr:city": "Drzewica",
+                "addr:street": "ul. Stanis\u0142awa Staszica",
+                "addr:housenumber": "5",
+                "addr:teryt:simc": 21071,
+                "addr:teryt:sym_ul": 973346,
+                "contact:phone": "+48 483756089",
+                "contact:email": "liceum.drzewica@wp.pl",
+                "contact:website": "http:\/\/www.liceumdrzewica.com.pl",
+                "ref:regon": "100948339",
+                "operator": "Powiat Opoczy\u0144ski",
+                "operator:type": "government",
+                "amenity": "college",
+                "note": "Parent RSPO: 9989"
+            }
+        },
+        {
+            "id": 10734,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.4665399,
+                    51.44897
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 10734,
+                "official_name": "Zaoczne Liceum Og\u00f3lnokszta\u0142c\u0105ce dla Doros\u0142ych w Drzewicy",
+                "name": "Zaoczne Liceum Og\u00f3lnokszta\u0142c\u0105ce dla Doros\u0142ych w Drzewicy",
+                "addr:country": "PL",
+                "addr:postcode": "26-340",
+                "addr:city": "Drzewica",
+                "addr:street": "ul. Stanis\u0142awa Staszica",
+                "addr:housenumber": "5",
+                "addr:teryt:simc": 21071,
+                "addr:teryt:sym_ul": 973346,
+                "contact:phone": "+48 483756089",
+                "contact:email": "liceum.drzewica@wp.pl",
+                "contact:website": "http:\/\/www.liceumdrzewica.com.pl",
+                "ref:regon": "101467085",
+                "operator": "Powiat Opoczy\u0144ski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 9989"
+            }
+        },
+        {
+            "id": 10735,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.4665399,
+                    51.44894
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 10735,
+                "official_name": "Technikum w Drzewicy Imienia Majora Henryka Dobrza\u0144skiego \"Hubala\"",
+                "name": "Technikum w Drzewicy Imienia Majora Henryka Dobrza\u0144skiego \"Hubala\"",
+                "addr:country": "PL",
+                "addr:postcode": "26-340",
+                "addr:city": "Drzewica",
+                "addr:street": "ul. Stanis\u0142awa Staszica",
+                "addr:housenumber": "5",
+                "addr:teryt:simc": 21071,
+                "addr:teryt:sym_ul": 973346,
+                "contact:phone": "+48 483756089",
+                "contact:email": "liceum.drzewica@wp.pl",
+                "contact:website": "http:\/\/www.liceumdrzewica.com.pl",
+                "ref:regon": "100243120",
+                "operator": "Powiat Opoczy\u0144ski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 9989"
+            }
+        },
+        {
+            "id": 10736,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.4665399,
+                    51.448910000000005
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 10736,
+                "official_name": "Liceum Og\u00f3lnokszta\u0142c\u0105ce w Drzewicy Imienia Majora Henryka Dobrza\u0144skiego \"Hubala\"",
+                "name": "Liceum Og\u00f3lnokszta\u0142c\u0105ce w Drzewicy Imienia Majora Henryka Dobrza\u0144skiego \"Hubala\"",
+                "addr:country": "PL",
+                "addr:postcode": "26-340",
+                "addr:city": "Drzewica",
+                "addr:street": "ul. Stanis\u0142awa Staszica",
+                "addr:housenumber": "5",
+                "addr:teryt:simc": 21071,
+                "addr:teryt:sym_ul": 973346,
+                "contact:phone": "+48 483756089",
+                "contact:email": "liceum.drzewica@wp.pl",
+                "contact:website": "http:\/\/www.liceumdrzewica.com.pl",
+                "ref:regon": "670675101",
+                "operator": "Powiat Opoczy\u0144ski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 9989"
+            }
+        },
+        {
+            "id": 276014,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.4665399,
+                    51.44888
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 276014,
+                "official_name": "Bran\u017cowa Szko\u0142a II Stopnia w Drzewicy",
+                "name": "Bran\u017cowa Szko\u0142a II Stopnia w Drzewicy",
+                "addr:country": "PL",
+                "addr:postcode": "26-340",
+                "addr:city": "Drzewica",
+                "addr:street": "ul. Stanis\u0142awa Staszica",
+                "addr:housenumber": "5",
+                "addr:teryt:simc": 21071,
+                "addr:teryt:sym_ul": 973346,
+                "contact:phone": "+48 483756089",
+                "contact:email": "liceum.drzewica@wp.pl",
+                "contact:website": "http:\/\/www.liceumdrzewica.com.pl",
+                "ref:regon": "386965267",
+                "operator": "Powiat Opoczy\u0144ski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 9989"
+            }
+        },
+        {
+            "id": 17788,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.4677599,
+                    51.45037
+                ]
+            },
+            "properties": {
+                "ref:rspo": 17788,
+                "official_name": "Przedszkole Samorz\u0105dowe w Drzewicy",
+                "name": "Przedszkole Samorz\u0105dowe w Drzewicy",
+                "addr:country": "PL",
+                "addr:postcode": "26-340",
+                "addr:city": "Drzewica",
+                "addr:street": "ul. Stawowa",
+                "addr:housenumber": "58",
+                "addr:teryt:simc": 21101,
+                "addr:teryt:sym_ul": 973346,
+                "contact:phone": "+48 483756636",
+                "contact:email": "przedszkole@drzewica.pl",
+                "contact:website": "http:\/\/www.psdrzewica.szkolnastrona.pl",
+                "ref:regon": "592154032",
+                "ref:vatin": "PL7681833525",
+                "operator": "Gmina Drzewica",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 17786,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.47019,
+                    51.45145
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 17786,
+                "official_name": "Szko\u0142a Podstawowa im. Polskich Olimpijczyk\u00f3w w Drzewicy",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "26-340",
+                "addr:city": "Drzewica",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "18",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 973346,
+                "contact:phone": "+48 483756011",
+                "contact:email": "spdrzewica@drzewica.pl",
+                "contact:website": "http:\/\/www.spdrzewica.szkolnastrona.pl",
+                "ref:regon": "670986953",
+                "ref:vatin": "PL7681622573",
+                "operator": "Gmina Drzewica",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 17784,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.39478,
+                    51.4523
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 17784,
+                "official_name": "Szko\u0142a Podstawowa im. Miko\u0142aja Kopernika w Radzicach Du\u017cych",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "26-340",
+                "addr:place": "Radzice Du\u017ce",
+                "addr:housenumber": "169",
+                "addr:teryt:sym_ul": 618250,
+                "contact:phone": "+48 483755085",
+                "contact:email": "spradzice@drzewica.pl",
+                "contact:website": "http:\/\/www.spradzice.szkolnastrona.pl",
+                "ref:regon": "001145864",
+                "ref:vatin": "PL7681833531",
+                "operator": "Gmina Drzewica",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 17783,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.5165,
+                    51.49066
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 17783,
+                "official_name": "Szko\u0142a Podstawowa im. Stefana \u017beromskiego w Domasznie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "26-340",
+                "addr:place": "Domaszno",
+                "addr:housenumber": "31",
+                "addr:teryt:sym_ul": 618071,
+                "contact:phone": "+48 483758070",
+                "contact:email": "spdomaszno@drzewica.pl",
+                "contact:website": "http:\/\/www.spdomaszno.szkolnastrona.pl",
+                "ref:regon": "001145870",
+                "ref:vatin": "PL7681833577",
+                "operator": "Gmina Drzewica",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

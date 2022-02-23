@@ -1,1 +1,150 @@
-{"type":"FeatureCollection","features":[{"id":86965,"type":"Feature","geometry":{"type":"Point","coordinates":[20.1898899,51.74829]},"properties":{"isced:level":"1;2","ref:rspo":86965,"official_name":"Szko\u0142a Podstawowa w Boguszycach","name":"Szko\u0142a Podstawowa w Boguszycach","addr:country":"PL","addr:postcode":"96-200","addr:place":"Gar\u0142\u00f3w","addr:housenumber":"12","addr:teryt:sym_ul":735658,"contact:phone":"+48 468142488","contact:email":"spboguszyce@onet.pl","contact:website":"http:\/\/spboguszyce.edu.pl","ref:regon":"001227473","operator":"Gmina Rawa Mazowiecka","operator:type":"government","amenity":"school"}},{"id":83640,"type":"Feature","geometry":{"type":"Point","coordinates":[20.29272,51.7561899]},"properties":{"isced:level":"1;2","ref:rspo":83640,"official_name":"Szko\u0142a Podstawowa w Pukininie","name":"Szko\u0142a Podstawowa w Pukininie","addr:country":"PL","addr:postcode":"96-200","addr:place":"Pukinin","addr:housenumber":"39","addr:teryt:sym_ul":735931,"contact:phone":"+48 468142067","contact:email":"dyrektor@sppukinin.pl","contact:website":"http:\/\/www.sppukinin.pl","ref:regon":"001227361","ref:vatin":"PL8351605945","operator":"Gmina Rawa Mazowiecka","operator:type":"government","amenity":"school"}},{"id":84273,"type":"Feature","geometry":{"type":"Point","coordinates":[20.28349,51.78939]},"properties":{"isced:level":"1;2","ref:rspo":84273,"official_name":"Szko\u0142a Podstawowa w Konopnicy","name":"Szko\u0142a Podstawowa w Konopnicy","addr:country":"PL","addr:postcode":"96-200","addr:place":"Konopnica","addr:housenumber":"76","addr:teryt:sym_ul":735760,"contact:phone":"+48 468143613","contact:email":"sp.konopnica@wp.pl","contact:website":"http:\/\/www.spkonopnica.superszkolna.pl","ref:regon":"001227556","ref:vatin":"PL8351606100","operator":"Gmina Rawa Mazowiecka","operator:type":"government","amenity":"school"}},{"id":87119,"type":"Feature","geometry":{"type":"Point","coordinates":[20.16893,51.8235]},"properties":{"isced:level":"1;2","ref:rspo":87119,"official_name":"Szko\u0142a Podstawowa w Starej Wojskiej","name":"Szko\u0142a Podstawowa w Starej Wojskiej","addr:country":"PL","addr:postcode":"96-200","addr:place":"Stara Wojska","addr:housenumber":"30b","addr:teryt:sym_ul":735990,"contact:phone":"+48 468141893","contact:email":"zsowojska@op.pl","ref:regon":"001227540","operator":"Gmina Rawa Mazowiecka","operator:type":"government","amenity":"school"}},{"id":87040,"type":"Feature","geometry":{"type":"Point","coordinates":[20.27197,51.82479]},"properties":{"isced:level":"1;2","ref:rspo":87040,"official_name":"Szko\u0142a Podstawowa w Kurzeszynie","name":"Szko\u0142a Podstawowa w Kurzeszynie","addr:country":"PL","addr:postcode":"96-200","addr:place":"Nowy Kurzeszyn","addr:housenumber":"12","addr:teryt:sym_ul":735807,"contact:phone":"+48 468141323","contact:email":"sp.kurzeszyn@gmail.com","ref:regon":"001227480","operator":"Gmina Rawa Mazowiecka","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 86965,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.1898899,
+                    51.74829
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 86965,
+                "official_name": "Szko\u0142a Podstawowa w Boguszycach",
+                "name": "Szko\u0142a Podstawowa w Boguszycach",
+                "addr:country": "PL",
+                "addr:postcode": "96-200",
+                "addr:place": "Gar\u0142\u00f3w",
+                "addr:housenumber": "12",
+                "addr:teryt:sym_ul": 735658,
+                "contact:phone": "+48 468142488",
+                "contact:email": "spboguszyce@onet.pl",
+                "contact:website": "http:\/\/spboguszyce.edu.pl",
+                "ref:regon": "001227473",
+                "operator": "Gmina Rawa Mazowiecka",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 83640,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.29272,
+                    51.7561899
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 83640,
+                "official_name": "Szko\u0142a Podstawowa w Pukininie",
+                "name": "Szko\u0142a Podstawowa w Pukininie",
+                "addr:country": "PL",
+                "addr:postcode": "96-200",
+                "addr:place": "Pukinin",
+                "addr:housenumber": "39",
+                "addr:teryt:sym_ul": 735931,
+                "contact:phone": "+48 468142067",
+                "contact:email": "dyrektor@sppukinin.pl",
+                "contact:website": "http:\/\/www.sppukinin.pl",
+                "ref:regon": "001227361",
+                "ref:vatin": "PL8351605945",
+                "operator": "Gmina Rawa Mazowiecka",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 84273,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.28349,
+                    51.78939
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 84273,
+                "official_name": "Szko\u0142a Podstawowa w Konopnicy",
+                "name": "Szko\u0142a Podstawowa w Konopnicy",
+                "addr:country": "PL",
+                "addr:postcode": "96-200",
+                "addr:place": "Konopnica",
+                "addr:housenumber": "76",
+                "addr:teryt:sym_ul": 735760,
+                "contact:phone": "+48 468143613",
+                "contact:email": "sp.konopnica@wp.pl",
+                "contact:website": "http:\/\/www.spkonopnica.superszkolna.pl",
+                "ref:regon": "001227556",
+                "ref:vatin": "PL8351606100",
+                "operator": "Gmina Rawa Mazowiecka",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 87119,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.16893,
+                    51.8235
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 87119,
+                "official_name": "Szko\u0142a Podstawowa w Starej Wojskiej",
+                "name": "Szko\u0142a Podstawowa w Starej Wojskiej",
+                "addr:country": "PL",
+                "addr:postcode": "96-200",
+                "addr:place": "Stara Wojska",
+                "addr:housenumber": "30b",
+                "addr:teryt:sym_ul": 735990,
+                "contact:phone": "+48 468141893",
+                "contact:email": "zsowojska@op.pl",
+                "ref:regon": "001227540",
+                "operator": "Gmina Rawa Mazowiecka",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 87040,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.27197,
+                    51.82479
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 87040,
+                "official_name": "Szko\u0142a Podstawowa w Kurzeszynie",
+                "name": "Szko\u0142a Podstawowa w Kurzeszynie",
+                "addr:country": "PL",
+                "addr:postcode": "96-200",
+                "addr:place": "Nowy Kurzeszyn",
+                "addr:housenumber": "12",
+                "addr:teryt:sym_ul": 735807,
+                "contact:phone": "+48 468141323",
+                "contact:email": "sp.kurzeszyn@gmail.com",
+                "ref:regon": "001227480",
+                "operator": "Gmina Rawa Mazowiecka",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

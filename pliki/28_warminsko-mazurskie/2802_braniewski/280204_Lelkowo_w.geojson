@@ -1,1 +1,120 @@
-{"type":"FeatureCollection","features":[{"id":55545,"type":"Feature","geometry":{"type":"Point","coordinates":[20.2265088,54.3232178]},"properties":{"isced:level":"1;2","ref:rspo":55545,"official_name":"Szko\u0142a Podstawowa w Lelkowie","name":"Szko\u0142a Podstawowa w Lelkowie","addr:country":"PL","addr:postcode":"14-521","addr:place":"Lelkowo","addr:housenumber":"115","addr:teryt:sym_ul":151495,"contact:phone":"+48 552448103","contact:email":"sekretariat@sp.lelkowo.eu","contact:website":"http:\/\/www.sp.lelkowo.eu","ref:regon":"000636040","ref:vatin":"PL5821492662","operator":"Gmina Lelkowo","operator:type":"government","amenity":"school"}},{"id":112158,"type":"Feature","geometry":{"type":"Point","coordinates":[20.2265088,54.3231878]},"properties":{"ref:rspo":112158,"official_name":"Punkt Przedszkolny w Lelkowie","name":"Punkt Przedszkolny w Lelkowie","addr:country":"PL","addr:postcode":"14-521","addr:place":"Lelkowo","addr:housenumber":"115","addr:teryt:sym_ul":151495,"contact:phone":"+48 552448103","contact:email":"sekretariat@sp.lelkowo.eu","contact:website":"http:\/\/www.sp.lelkowo.eu","ref:regon":"281485525","operator":"Gmina Lelkowo","operator:type":"government","amenity":"kindergarten"}},{"id":42906,"type":"Feature","geometry":{"type":"Point","coordinates":[20.173706,54.372291]},"properties":{"isced:level":"1;2","ref:rspo":42906,"official_name":"Szko\u0142a Podstawowa w Zagajach","name":"Szko\u0142a Podstawowa w Zagajach","addr:country":"PL","addr:postcode":"14-521","addr:place":"Zagaje","addr:housenumber":"6","addr:teryt:sym_ul":151680,"contact:phone":"+48 552448781","contact:email":"sp_z@wp.pl","contact:website":"http:\/\/www.sp.zagaje.eu","ref:regon":"001197890","ref:vatin":"PL5821492633","operator":"Gmina Lelkowo","operator:type":"government","amenity":"school"}},{"id":124369,"type":"Feature","geometry":{"type":"Point","coordinates":[20.173706,54.372260999999995]},"properties":{"ref:rspo":124369,"official_name":"Punkt Przedszkolny w Zagajach","name":"Punkt Przedszkolny w Zagajach","addr:country":"PL","addr:postcode":"14-521","addr:place":"Zagaje","addr:housenumber":"6","addr:teryt:sym_ul":151680,"contact:phone":"+48 552448781","contact:email":"sp_z@wp.pl","ref:regon":"281619090","operator":"Gmina Lelkowo","operator:type":"government","amenity":"kindergarten"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 55545,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.2265088,
+                    54.3232178
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 55545,
+                "official_name": "Szko\u0142a Podstawowa w Lelkowie",
+                "name": "Szko\u0142a Podstawowa w Lelkowie",
+                "addr:country": "PL",
+                "addr:postcode": "14-521",
+                "addr:place": "Lelkowo",
+                "addr:housenumber": "115",
+                "addr:teryt:sym_ul": 151495,
+                "contact:phone": "+48 552448103",
+                "contact:email": "sekretariat@sp.lelkowo.eu",
+                "contact:website": "http:\/\/www.sp.lelkowo.eu",
+                "ref:regon": "000636040",
+                "ref:vatin": "PL5821492662",
+                "operator": "Gmina Lelkowo",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 112158,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.2265088,
+                    54.3231878
+                ]
+            },
+            "properties": {
+                "ref:rspo": 112158,
+                "official_name": "Punkt Przedszkolny w Lelkowie",
+                "name": "Punkt Przedszkolny w Lelkowie",
+                "addr:country": "PL",
+                "addr:postcode": "14-521",
+                "addr:place": "Lelkowo",
+                "addr:housenumber": "115",
+                "addr:teryt:sym_ul": 151495,
+                "contact:phone": "+48 552448103",
+                "contact:email": "sekretariat@sp.lelkowo.eu",
+                "contact:website": "http:\/\/www.sp.lelkowo.eu",
+                "ref:regon": "281485525",
+                "operator": "Gmina Lelkowo",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 42906,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.173706,
+                    54.372291
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 42906,
+                "official_name": "Szko\u0142a Podstawowa w Zagajach",
+                "name": "Szko\u0142a Podstawowa w Zagajach",
+                "addr:country": "PL",
+                "addr:postcode": "14-521",
+                "addr:place": "Zagaje",
+                "addr:housenumber": "6",
+                "addr:teryt:sym_ul": 151680,
+                "contact:phone": "+48 552448781",
+                "contact:email": "sp_z@wp.pl",
+                "contact:website": "http:\/\/www.sp.zagaje.eu",
+                "ref:regon": "001197890",
+                "ref:vatin": "PL5821492633",
+                "operator": "Gmina Lelkowo",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 124369,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.173706,
+                    54.372260999999995
+                ]
+            },
+            "properties": {
+                "ref:rspo": 124369,
+                "official_name": "Punkt Przedszkolny w Zagajach",
+                "name": "Punkt Przedszkolny w Zagajach",
+                "addr:country": "PL",
+                "addr:postcode": "14-521",
+                "addr:place": "Zagaje",
+                "addr:housenumber": "6",
+                "addr:teryt:sym_ul": 151680,
+                "contact:phone": "+48 552448781",
+                "contact:email": "sp_z@wp.pl",
+                "ref:regon": "281619090",
+                "operator": "Gmina Lelkowo",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        }
+    ]
+}

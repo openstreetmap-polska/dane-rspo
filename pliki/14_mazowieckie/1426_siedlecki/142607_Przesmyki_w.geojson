@@ -1,1 +1,192 @@
-{"type":"FeatureCollection","features":[{"id":5485,"type":"Feature","geometry":{"type":"Point","coordinates":[22.58734,52.26775]},"properties":{"ref:rspo":5485,"official_name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 w Przesmykach","name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 w Przesmykach","addr:country":"PL","addr:postcode":"08-109","addr:city":"Przesmyki","addr:street":"ul. Narutowicza","addr:housenumber":"18","addr:teryt:simc":14015,"addr:teryt:sym_ul":684582,"contact:phone":"+48 256412123","contact:email":"gim_przesmyki@interia.pl","contact:website":"http:\/\/przesmyki.mazowsze.me","ref:regon":"712571214","operator":"Gmina Przesmyki","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 3053;6711"}},{"id":6711,"type":"Feature","geometry":{"type":"Point","coordinates":[22.58734,52.26772]},"properties":{"isced:level":"1;2","ref:rspo":6711,"official_name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 w Przesmykach Szko\u0142a Podstawowa w Przesmykach","name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 w Przesmykach Szko\u0142a Podstawowa w Przesmykach","addr:country":"PL","addr:postcode":"08-109","addr:city":"Przesmyki","addr:street":"ul. Narutowicza","addr:housenumber":"18","addr:teryt:simc":14015,"addr:teryt:sym_ul":684582,"contact:phone":"+48 256412123","contact:email":"gim_przesmyki@interia.pl","contact:website":"http:\/\/przesmyki.mazowsze.me","ref:regon":"000584426","ref:vatin":"PL8212172098","operator":"Gmina Przesmyki","operator:type":"government","amenity":"school","note":"Parent RSPO: 5485"}},{"id":3053,"type":"Feature","geometry":{"type":"Point","coordinates":[22.5833,52.2702699]},"properties":{"ref:rspo":3053,"official_name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 Przedszkole w Przesmykach","name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 Przedszkole w Przesmykach","addr:country":"PL","addr:postcode":"08-109","addr:city":"Przesmyki","addr:street":"ul. 11 Listopada","addr:housenumber":"5","addr:teryt:simc":11205,"addr:teryt:sym_ul":684582,"contact:phone":"+48 256412200","contact:email":"gim_przesmyki@interia.pl","contact:website":"http:\/\/przesmyki.mazowsze.me","ref:regon":"710006289","operator":"Gmina Przesmyki","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 5485"}},{"id":5520,"type":"Feature","geometry":{"type":"Point","coordinates":[22.68279,52.29301]},"properties":{"ref:rspo":5520,"official_name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 w \u0141ysowie","name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 w \u0141ysowie","addr:country":"PL","addr:postcode":"08-109","addr:place":"\u0141ys\u00f3w","addr:housenumber":"89","addr:teryt:sym_ul":684547,"contact:phone":"+48 256412728","contact:email":"zslysow@op.pl","contact:website":"http:\/\/zslysow.pl","ref:regon":"140080690","operator":"Gmina Przesmyki","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 6708;6709"}},{"id":6708,"type":"Feature","geometry":{"type":"Point","coordinates":[22.68279,52.29298]},"properties":{"isced:level":"1;2","ref:rspo":6708,"official_name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 w \u0141ysowie Szko\u0142a Podstawowa w \u0141ysowie","name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 w \u0141ysowie Szko\u0142a Podstawowa w \u0141ysowie","addr:country":"PL","addr:postcode":"08-109","addr:place":"\u0141ys\u00f3w","addr:housenumber":"89","addr:teryt:sym_ul":684547,"contact:phone":"+48 256412728","contact:email":"zslysow@op.pl","contact:website":"http:\/\/zslysow.pl","ref:regon":"001123905","ref:vatin":"PL8212578274","operator":"Gmina Przesmyki","operator:type":"government","amenity":"school","note":"Parent RSPO: 5520"}},{"id":6709,"type":"Feature","geometry":{"type":"Point","coordinates":[22.68279,52.292950000000005]},"properties":{"ref:rspo":6709,"official_name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 w \u0141ysowie Przedszkole w \u0141ysowie","name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 w \u0141ysowie Przedszkole w \u0141ysowie","addr:country":"PL","addr:postcode":"08-109","addr:place":"\u0141ys\u00f3w","addr:housenumber":"89","addr:teryt:sym_ul":684547,"contact:phone":"+48 256412728","contact:email":"zslysow@op.pl","contact:website":"http:\/\/zslysow.pl","ref:regon":"712369530","ref:vatin":"PL8212578280","operator":"Gmina Przesmyki","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 5520"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 5485,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.58734,
+                    52.26775
+                ]
+            },
+            "properties": {
+                "ref:rspo": 5485,
+                "official_name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 w Przesmykach",
+                "name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 w Przesmykach",
+                "addr:country": "PL",
+                "addr:postcode": "08-109",
+                "addr:city": "Przesmyki",
+                "addr:street": "ul. Narutowicza",
+                "addr:housenumber": "18",
+                "addr:teryt:simc": 14015,
+                "addr:teryt:sym_ul": 684582,
+                "contact:phone": "+48 256412123",
+                "contact:email": "gim_przesmyki@interia.pl",
+                "contact:website": "http:\/\/przesmyki.mazowsze.me",
+                "ref:regon": "712571214",
+                "operator": "Gmina Przesmyki",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 3053;6711"
+            }
+        },
+        {
+            "id": 6711,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.58734,
+                    52.26772
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 6711,
+                "official_name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 w Przesmykach Szko\u0142a Podstawowa w Przesmykach",
+                "name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 w Przesmykach Szko\u0142a Podstawowa w Przesmykach",
+                "addr:country": "PL",
+                "addr:postcode": "08-109",
+                "addr:city": "Przesmyki",
+                "addr:street": "ul. Narutowicza",
+                "addr:housenumber": "18",
+                "addr:teryt:simc": 14015,
+                "addr:teryt:sym_ul": 684582,
+                "contact:phone": "+48 256412123",
+                "contact:email": "gim_przesmyki@interia.pl",
+                "contact:website": "http:\/\/przesmyki.mazowsze.me",
+                "ref:regon": "000584426",
+                "ref:vatin": "PL8212172098",
+                "operator": "Gmina Przesmyki",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 5485"
+            }
+        },
+        {
+            "id": 3053,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.5833,
+                    52.2702699
+                ]
+            },
+            "properties": {
+                "ref:rspo": 3053,
+                "official_name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Przedszkole w Przesmykach",
+                "name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Przedszkole w Przesmykach",
+                "addr:country": "PL",
+                "addr:postcode": "08-109",
+                "addr:city": "Przesmyki",
+                "addr:street": "ul. 11 Listopada",
+                "addr:housenumber": "5",
+                "addr:teryt:simc": 11205,
+                "addr:teryt:sym_ul": 684582,
+                "contact:phone": "+48 256412200",
+                "contact:email": "gim_przesmyki@interia.pl",
+                "contact:website": "http:\/\/przesmyki.mazowsze.me",
+                "ref:regon": "710006289",
+                "operator": "Gmina Przesmyki",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 5485"
+            }
+        },
+        {
+            "id": 5520,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.68279,
+                    52.29301
+                ]
+            },
+            "properties": {
+                "ref:rspo": 5520,
+                "official_name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 w \u0141ysowie",
+                "name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 w \u0141ysowie",
+                "addr:country": "PL",
+                "addr:postcode": "08-109",
+                "addr:place": "\u0141ys\u00f3w",
+                "addr:housenumber": "89",
+                "addr:teryt:sym_ul": 684547,
+                "contact:phone": "+48 256412728",
+                "contact:email": "zslysow@op.pl",
+                "contact:website": "http:\/\/zslysow.pl",
+                "ref:regon": "140080690",
+                "operator": "Gmina Przesmyki",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 6708;6709"
+            }
+        },
+        {
+            "id": 6708,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.68279,
+                    52.29298
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 6708,
+                "official_name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 w \u0141ysowie Szko\u0142a Podstawowa w \u0141ysowie",
+                "name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 w \u0141ysowie Szko\u0142a Podstawowa w \u0141ysowie",
+                "addr:country": "PL",
+                "addr:postcode": "08-109",
+                "addr:place": "\u0141ys\u00f3w",
+                "addr:housenumber": "89",
+                "addr:teryt:sym_ul": 684547,
+                "contact:phone": "+48 256412728",
+                "contact:email": "zslysow@op.pl",
+                "contact:website": "http:\/\/zslysow.pl",
+                "ref:regon": "001123905",
+                "ref:vatin": "PL8212578274",
+                "operator": "Gmina Przesmyki",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 5520"
+            }
+        },
+        {
+            "id": 6709,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.68279,
+                    52.292950000000005
+                ]
+            },
+            "properties": {
+                "ref:rspo": 6709,
+                "official_name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 w \u0141ysowie Przedszkole w \u0141ysowie",
+                "name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 w \u0141ysowie Przedszkole w \u0141ysowie",
+                "addr:country": "PL",
+                "addr:postcode": "08-109",
+                "addr:place": "\u0141ys\u00f3w",
+                "addr:housenumber": "89",
+                "addr:teryt:sym_ul": 684547,
+                "contact:phone": "+48 256412728",
+                "contact:email": "zslysow@op.pl",
+                "contact:website": "http:\/\/zslysow.pl",
+                "ref:regon": "712369530",
+                "ref:vatin": "PL8212578280",
+                "operator": "Gmina Przesmyki",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 5520"
+            }
+        }
+    ]
+}

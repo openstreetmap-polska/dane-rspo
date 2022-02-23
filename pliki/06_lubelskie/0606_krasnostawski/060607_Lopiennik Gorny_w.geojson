@@ -1,1 +1,94 @@
-{"type":"FeatureCollection","features":[{"id":31069,"type":"Feature","geometry":{"type":"Point","coordinates":[23.037111,51.047872]},"properties":{"isced:level":"1;2","ref:rspo":31069,"official_name":"Publiczna Szko\u0142a Podstawowa w \u0141opienniku Nadrzecznym","name":"Publiczna Szko\u0142a Podstawowa w \u0141opienniku Nadrzecznym","addr:country":"PL","addr:postcode":"22-351","addr:place":"\u0141opiennik Nadrzeczny","addr:housenumber":"5A","addr:teryt:sym_ul":105325,"contact:phone":"+48 825773317","contact:email":"zs-lopiennik@o2.pl","contact:website":"http:\/\/zs-lopiennik.edupage.org","ref:regon":"000594028","ref:vatin":"PL5641787775","operator":"Gmina \u0141opiennik G\u00f3rny","operator:type":"government","amenity":"school"}},{"id":30992,"type":"Feature","geometry":{"type":"Point","coordinates":[23.0949919,51.063063]},"properties":{"isced:level":"1;2","ref:rspo":30992,"official_name":"Publiczna Szko\u0142a Podstawowa w \u0141opienniku Dolnym","name":"Publiczna Szko\u0142a Podstawowa w \u0141opienniku Dolnym","addr:country":"PL","addr:postcode":"22-351","addr:place":"\u0141opiennik Dolny","addr:housenumber":"56","addr:teryt:sym_ul":105294,"contact:phone":"+48 825773007","contact:email":"splopiennikdolny@wp.pl","contact:website":"http:\/\/www.splopiennikdolny.superszkolna.pl","ref:regon":"001148957","ref:vatin":"PL5641049161","operator":"Gmina \u0141opiennik G\u00f3rny","operator:type":"government","amenity":"school"}},{"id":106086,"type":"Feature","geometry":{"type":"Point","coordinates":[23.1868208,51.0789789]},"properties":{"isced:level":"1;2","ref:rspo":106086,"official_name":"Niepubliczna Szko\u0142a Podstawowa w \u017bulinie","name":"Niepubliczna Szko\u0142a Podstawowa w \u017bulinie","addr:country":"PL","addr:postcode":"22-351","addr:place":"\u017bulin","addr:housenumber":"116","addr:teryt:sym_ul":105390,"contact:phone":"+48 825772617","contact:email":"sp-zulin@o2.pl","ref:regon":"061507881","ref:vatin":"PL5641787338","operator":"Stowarzyszenie Rozwoju Wsi Wola \u017buli\u0144ska - \u017bulin - Zagrody - Czech\u00f3w K\u0105t","operator:type":"ngo","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 31069,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.037111,
+                    51.047872
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 31069,
+                "official_name": "Publiczna Szko\u0142a Podstawowa w \u0141opienniku Nadrzecznym",
+                "name": "Publiczna Szko\u0142a Podstawowa w \u0141opienniku Nadrzecznym",
+                "addr:country": "PL",
+                "addr:postcode": "22-351",
+                "addr:place": "\u0141opiennik Nadrzeczny",
+                "addr:housenumber": "5A",
+                "addr:teryt:sym_ul": 105325,
+                "contact:phone": "+48 825773317",
+                "contact:email": "zs-lopiennik@o2.pl",
+                "contact:website": "http:\/\/zs-lopiennik.edupage.org",
+                "ref:regon": "000594028",
+                "ref:vatin": "PL5641787775",
+                "operator": "Gmina \u0141opiennik G\u00f3rny",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 30992,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.0949919,
+                    51.063063
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 30992,
+                "official_name": "Publiczna Szko\u0142a Podstawowa w \u0141opienniku Dolnym",
+                "name": "Publiczna Szko\u0142a Podstawowa w \u0141opienniku Dolnym",
+                "addr:country": "PL",
+                "addr:postcode": "22-351",
+                "addr:place": "\u0141opiennik Dolny",
+                "addr:housenumber": "56",
+                "addr:teryt:sym_ul": 105294,
+                "contact:phone": "+48 825773007",
+                "contact:email": "splopiennikdolny@wp.pl",
+                "contact:website": "http:\/\/www.splopiennikdolny.superszkolna.pl",
+                "ref:regon": "001148957",
+                "ref:vatin": "PL5641049161",
+                "operator": "Gmina \u0141opiennik G\u00f3rny",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 106086,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.1868208,
+                    51.0789789
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 106086,
+                "official_name": "Niepubliczna Szko\u0142a Podstawowa w \u017bulinie",
+                "name": "Niepubliczna Szko\u0142a Podstawowa w \u017bulinie",
+                "addr:country": "PL",
+                "addr:postcode": "22-351",
+                "addr:place": "\u017bulin",
+                "addr:housenumber": "116",
+                "addr:teryt:sym_ul": 105390,
+                "contact:phone": "+48 825772617",
+                "contact:email": "sp-zulin@o2.pl",
+                "ref:regon": "061507881",
+                "ref:vatin": "PL5641787338",
+                "operator": "Stowarzyszenie Rozwoju Wsi Wola \u017buli\u0144ska - \u017bulin - Zagrody - Czech\u00f3w K\u0105t",
+                "operator:type": "ngo",
+                "amenity": "school"
+            }
+        }
+    ]
+}

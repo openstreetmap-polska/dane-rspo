@@ -1,1 +1,66 @@
-{"type":"FeatureCollection","features":[{"id":30918,"type":"Feature","geometry":{"type":"Point","coordinates":[18.67437,54.70046]},"properties":{"isced:level":"1;2","ref:rspo":30918,"official_name":"Szko\u0142a Podstawowa im. J\u00f3zefa Wybickiego","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"84-140","addr:city":"Jastarnia","addr:street":"ul. Mariana Stelmaszczyka","addr:housenumber":"4","addr:teryt:simc":21139,"addr:teryt:sym_ul":934518,"contact:phone":"+48 586752040","contact:email":"spjastarnia@wp.pl","contact:website":"https:\/\/spjastarnia.szkolnastrona.pl","ref:regon":"000258359","ref:vatin":"PL5871291397","operator":"Gmina Jastarnia","operator:type":"government","amenity":"school"}},{"id":131836,"type":"Feature","geometry":{"type":"Point","coordinates":[18.6586399,54.70276]},"properties":{"ref:rspo":131836,"official_name":"Niepubliczne Przedszkole \"Promyczek\" im. \u015awi\u0119tego Ojca Pio","name":"Niepubliczne Przedszkole \"Promyczek\"","addr:country":"PL","addr:postcode":"84-140","addr:city":"Jastarnia","addr:street":"ul. Sztormowa","addr:housenumber":"6","addr:teryt:simc":22112,"addr:teryt:sym_ul":934518,"contact:email":"konki3@op.pl","ref:regon":"365368480","ref:vatin":"PL5871523175","operator":"Izabela Kohnke","operator:type":"private","amenity":"kindergarten"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 30918,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.67437,
+                    54.70046
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 30918,
+                "official_name": "Szko\u0142a Podstawowa im. J\u00f3zefa Wybickiego",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "84-140",
+                "addr:city": "Jastarnia",
+                "addr:street": "ul. Mariana Stelmaszczyka",
+                "addr:housenumber": "4",
+                "addr:teryt:simc": 21139,
+                "addr:teryt:sym_ul": 934518,
+                "contact:phone": "+48 586752040",
+                "contact:email": "spjastarnia@wp.pl",
+                "contact:website": "https:\/\/spjastarnia.szkolnastrona.pl",
+                "ref:regon": "000258359",
+                "ref:vatin": "PL5871291397",
+                "operator": "Gmina Jastarnia",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 131836,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.6586399,
+                    54.70276
+                ]
+            },
+            "properties": {
+                "ref:rspo": 131836,
+                "official_name": "Niepubliczne Przedszkole \"Promyczek\" im. \u015awi\u0119tego Ojca Pio",
+                "name": "Niepubliczne Przedszkole \"Promyczek\"",
+                "addr:country": "PL",
+                "addr:postcode": "84-140",
+                "addr:city": "Jastarnia",
+                "addr:street": "ul. Sztormowa",
+                "addr:housenumber": "6",
+                "addr:teryt:simc": 22112,
+                "addr:teryt:sym_ul": 934518,
+                "contact:email": "konki3@op.pl",
+                "ref:regon": "365368480",
+                "ref:vatin": "PL5871523175",
+                "operator": "Izabela Kohnke",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        }
+    ]
+}

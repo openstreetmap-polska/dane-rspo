@@ -1,1 +1,197 @@
-{"type":"FeatureCollection","features":[{"id":16558,"type":"Feature","geometry":{"type":"Point","coordinates":[22.72858,52.7220299]},"properties":{"isced:level":"1;2","ref:rspo":16558,"official_name":"Szko\u0142a Podstawowa im. Jana Paw\u0142a II w Rudce","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"17-123","addr:city":"Rudka","addr:street":"ul. Szkolna","addr:housenumber":"2","addr:teryt:simc":21970,"addr:teryt:sym_ul":38965,"contact:phone":"+48 857394004","contact:email":"gimnazjumwrudce@vp.pl","contact:website":"http:\/\/www.zsrudka.cba.pl","ref:regon":"001164057","ref:vatin":"PL5432047465","operator":"Gmina Rudka","operator:type":"government","amenity":"school"}},{"id":27755,"type":"Feature","geometry":{"type":"Point","coordinates":[22.72475,52.72684]},"properties":{"ref:rspo":27755,"official_name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 Centrum Kszta\u0142cenia Rolniczego im. Krzysztofa Kluka w Rudce","name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 Centrum Kszta\u0142cenia Rolniczego","addr:country":"PL","addr:postcode":"17-123","addr:city":"Rudka","addr:street":"ul. Ossoli\u0144skich","addr:housenumber":"1","addr:teryt:simc":15344,"addr:teryt:sym_ul":38965,"contact:phone":"+48 857394015","contact:email":"zsckr.rudka@o2.pl","contact:website":"http:\/\/www.zsrudka.edu.pl","ref:regon":"000097726","ref:vatin":"PL5431022902","operator":"Ministerstwo Rolnictwa I Rozwoju Wsi","operator:type":"public","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 83414;83415;83790;119901"}},{"id":83414,"type":"Feature","geometry":{"type":"Point","coordinates":[22.72475,52.72681]},"properties":{"isced:level":"3","ref:rspo":83414,"official_name":"Technikum w Rudce","name":"Technikum w Rudce","addr:country":"PL","addr:postcode":"17-123","addr:city":"Rudka","addr:street":"ul. Ossoli\u0144skich","addr:housenumber":"1","addr:teryt:simc":15344,"addr:teryt:sym_ul":38965,"contact:phone":"+48 857394015","contact:email":"zsckr.rudka@o2.pl","contact:website":"http:\/\/www.zsrudka.edu.pl","ref:regon":"052142604","operator":"Ministerstwo Rolnictwa I Rozwoju Wsi","operator:type":"public","amenity":"school","note":"Parent RSPO: 27755"}},{"id":83415,"type":"Feature","geometry":{"type":"Point","coordinates":[22.72475,52.726780000000005]},"properties":{"isced:level":"3","ref:rspo":83415,"official_name":"Bran\u017cowa Szko\u0142a I Stopnia w Rudce","name":"Bran\u017cowa Szko\u0142a I Stopnia w Rudce","addr:country":"PL","addr:postcode":"17-123","addr:city":"Rudka","addr:street":"ul. Ossoli\u0144skich","addr:housenumber":"1","addr:teryt:simc":15344,"addr:teryt:sym_ul":38965,"contact:phone":"+48 857394015","contact:email":"zsckr.rudka@o2.pl","contact:website":"http:\/\/www.zsrudka.edu.pl","ref:regon":"052142610","operator":"Ministerstwo Rolnictwa I Rozwoju Wsi","operator:type":"public","amenity":"school","note":"Parent RSPO: 27755"}},{"id":83790,"type":"Feature","geometry":{"type":"Point","coordinates":[22.72475,52.72675]},"properties":{"isced:level":"4","ref:rspo":83790,"official_name":"Szko\u0142a Policealna w Rudce","name":"Szko\u0142a Policealna w Rudce","addr:country":"PL","addr:postcode":"17-123","addr:city":"Rudka","addr:street":"ul. Ossoli\u0144skich","addr:housenumber":"1","addr:teryt:simc":15344,"addr:teryt:sym_ul":38965,"contact:phone":"+48 857394015","contact:email":"zsckr.rudka@o2.pl","contact:website":"http:\/\/www.zsrudka.edu.pl","ref:regon":"200742110","operator":"Ministerstwo Rolnictwa I Rozwoju Wsi","operator:type":"public","amenity":"college","note":"Parent RSPO: 27755"}},{"id":119901,"type":"Feature","geometry":{"type":"Point","coordinates":[22.72475,52.72672]},"properties":{"ref:rspo":119901,"official_name":"Centrum Kszta\u0142cenia Ustawicznego w Rudce","name":"Centrum Kszta\u0142cenia Ustawicznego w Rudce","addr:country":"PL","addr:postcode":"17-123","addr:city":"Rudka","addr:street":"ul. Ossoli\u0144skich","addr:housenumber":"1","addr:teryt:simc":15344,"addr:teryt:sym_ul":38965,"contact:phone":"+48 857394015","contact:email":"zsckr.rudka@o2.pl","contact:website":"http:\/\/www.zsrudka.pl","ref:regon":"200807239","operator":"Ministerstwo Rolnictwa I Rozwoju Wsi","operator:type":"public","fixme":"w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. amenity=training + training=*, amenity=dancing_school, amenity=language_school, amenity=music_school)","note":"Parent RSPO: 27755"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 16558,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.72858,
+                    52.7220299
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 16558,
+                "official_name": "Szko\u0142a Podstawowa im. Jana Paw\u0142a II w Rudce",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "17-123",
+                "addr:city": "Rudka",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "2",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 38965,
+                "contact:phone": "+48 857394004",
+                "contact:email": "gimnazjumwrudce@vp.pl",
+                "contact:website": "http:\/\/www.zsrudka.cba.pl",
+                "ref:regon": "001164057",
+                "ref:vatin": "PL5432047465",
+                "operator": "Gmina Rudka",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 27755,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.72475,
+                    52.72684
+                ]
+            },
+            "properties": {
+                "ref:rspo": 27755,
+                "official_name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Centrum Kszta\u0142cenia Rolniczego im. Krzysztofa Kluka w Rudce",
+                "name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Centrum Kszta\u0142cenia Rolniczego",
+                "addr:country": "PL",
+                "addr:postcode": "17-123",
+                "addr:city": "Rudka",
+                "addr:street": "ul. Ossoli\u0144skich",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 15344,
+                "addr:teryt:sym_ul": 38965,
+                "contact:phone": "+48 857394015",
+                "contact:email": "zsckr.rudka@o2.pl",
+                "contact:website": "http:\/\/www.zsrudka.edu.pl",
+                "ref:regon": "000097726",
+                "ref:vatin": "PL5431022902",
+                "operator": "Ministerstwo Rolnictwa I Rozwoju Wsi",
+                "operator:type": "public",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 83414;83415;83790;119901"
+            }
+        },
+        {
+            "id": 83414,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.72475,
+                    52.72681
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 83414,
+                "official_name": "Technikum w Rudce",
+                "name": "Technikum w Rudce",
+                "addr:country": "PL",
+                "addr:postcode": "17-123",
+                "addr:city": "Rudka",
+                "addr:street": "ul. Ossoli\u0144skich",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 15344,
+                "addr:teryt:sym_ul": 38965,
+                "contact:phone": "+48 857394015",
+                "contact:email": "zsckr.rudka@o2.pl",
+                "contact:website": "http:\/\/www.zsrudka.edu.pl",
+                "ref:regon": "052142604",
+                "operator": "Ministerstwo Rolnictwa I Rozwoju Wsi",
+                "operator:type": "public",
+                "amenity": "school",
+                "note": "Parent RSPO: 27755"
+            }
+        },
+        {
+            "id": 83415,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.72475,
+                    52.726780000000005
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 83415,
+                "official_name": "Bran\u017cowa Szko\u0142a I Stopnia w Rudce",
+                "name": "Bran\u017cowa Szko\u0142a I Stopnia w Rudce",
+                "addr:country": "PL",
+                "addr:postcode": "17-123",
+                "addr:city": "Rudka",
+                "addr:street": "ul. Ossoli\u0144skich",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 15344,
+                "addr:teryt:sym_ul": 38965,
+                "contact:phone": "+48 857394015",
+                "contact:email": "zsckr.rudka@o2.pl",
+                "contact:website": "http:\/\/www.zsrudka.edu.pl",
+                "ref:regon": "052142610",
+                "operator": "Ministerstwo Rolnictwa I Rozwoju Wsi",
+                "operator:type": "public",
+                "amenity": "school",
+                "note": "Parent RSPO: 27755"
+            }
+        },
+        {
+            "id": 83790,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.72475,
+                    52.72675
+                ]
+            },
+            "properties": {
+                "isced:level": "4",
+                "ref:rspo": 83790,
+                "official_name": "Szko\u0142a Policealna w Rudce",
+                "name": "Szko\u0142a Policealna w Rudce",
+                "addr:country": "PL",
+                "addr:postcode": "17-123",
+                "addr:city": "Rudka",
+                "addr:street": "ul. Ossoli\u0144skich",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 15344,
+                "addr:teryt:sym_ul": 38965,
+                "contact:phone": "+48 857394015",
+                "contact:email": "zsckr.rudka@o2.pl",
+                "contact:website": "http:\/\/www.zsrudka.edu.pl",
+                "ref:regon": "200742110",
+                "operator": "Ministerstwo Rolnictwa I Rozwoju Wsi",
+                "operator:type": "public",
+                "amenity": "college",
+                "note": "Parent RSPO: 27755"
+            }
+        },
+        {
+            "id": 119901,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.72475,
+                    52.72672
+                ]
+            },
+            "properties": {
+                "ref:rspo": 119901,
+                "official_name": "Centrum Kszta\u0142cenia Ustawicznego w Rudce",
+                "name": "Centrum Kszta\u0142cenia Ustawicznego w Rudce",
+                "addr:country": "PL",
+                "addr:postcode": "17-123",
+                "addr:city": "Rudka",
+                "addr:street": "ul. Ossoli\u0144skich",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 15344,
+                "addr:teryt:sym_ul": 38965,
+                "contact:phone": "+48 857394015",
+                "contact:email": "zsckr.rudka@o2.pl",
+                "contact:website": "http:\/\/www.zsrudka.pl",
+                "ref:regon": "200807239",
+                "operator": "Ministerstwo Rolnictwa I Rozwoju Wsi",
+                "operator:type": "public",
+                "fixme": "w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. amenity=training + training=*, amenity=dancing_school, amenity=language_school, amenity=music_school)",
+                "note": "Parent RSPO: 27755"
+            }
+        }
+    ]
+}

@@ -1,1 +1,97 @@
-{"type":"FeatureCollection","features":[{"id":61515,"type":"Feature","geometry":{"type":"Point","coordinates":[23.2797724,51.0929309]},"properties":{"isced:level":"1;2","ref:rspo":61515,"official_name":"Szko\u0142a Podstawowa im. Miko\u0142aja Reja w Rejowcu","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"22-360","addr:city":"Rejowiec","addr:street":"ul. Stanis\u0142awa Zwierzy\u0144skiego","addr:housenumber":"8A","addr:teryt:simc":26306,"addr:teryt:sym_ul":105667,"contact:phone":"+48 825688612","contact:email":"sp.rejowiec@interia.pl","contact:website":"http:\/\/www.sprejowiec.pl","ref:regon":"000561661","ref:vatin":"PL5641575151","operator":"Gmina Rejowiec","operator:type":"government","amenity":"school"}},{"id":61518,"type":"Feature","geometry":{"type":"Point","coordinates":[23.28294,51.09463]},"properties":{"ref:rspo":61518,"official_name":"Gminne Przedszkole w Rejowcu","name":"Gminne Przedszkole w Rejowcu","addr:country":"PL","addr:postcode":"22-360","addr:city":"Rejowiec","addr:street":"ul. Henryka D\u0105browskiego","addr:housenumber":"1","addr:teryt:simc":3678,"addr:teryt:sym_ul":105667,"contact:phone":"+48 825688689","contact:email":"przedszkole@gmina.rejowiec.pl","contact:website":"http:\/\/prejowiec.szkolnastrona.pl\/","ref:regon":"110258800","ref:vatin":"PL5641577799","operator":"Gmina Rejowiec","operator:type":"government","amenity":"kindergarten"}},{"id":61516,"type":"Feature","geometry":{"type":"Point","coordinates":[23.3577953,51.1242237]},"properties":{"isced:level":"1;2","ref:rspo":61516,"official_name":"Szko\u0142a Podstawowa im. 4 Brygady Pancernej Wojska Polskiego w Zawad\u00f3wce","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"22-360","addr:place":"Zawad\u00f3wka","addr:housenumber":"45","addr:teryt:sym_ul":105785,"contact:phone":"+48 825689926","contact:email":"spzawadowka@wp.pl","ref:regon":"061487032","ref:vatin":"PL5632399312","operator":"Dane Do Uzupe\u0142nienia","operator:type":"private","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 61515,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.2797724,
+                    51.0929309
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 61515,
+                "official_name": "Szko\u0142a Podstawowa im. Miko\u0142aja Reja w Rejowcu",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "22-360",
+                "addr:city": "Rejowiec",
+                "addr:street": "ul. Stanis\u0142awa Zwierzy\u0144skiego",
+                "addr:housenumber": "8A",
+                "addr:teryt:simc": 26306,
+                "addr:teryt:sym_ul": 105667,
+                "contact:phone": "+48 825688612",
+                "contact:email": "sp.rejowiec@interia.pl",
+                "contact:website": "http:\/\/www.sprejowiec.pl",
+                "ref:regon": "000561661",
+                "ref:vatin": "PL5641575151",
+                "operator": "Gmina Rejowiec",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 61518,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.28294,
+                    51.09463
+                ]
+            },
+            "properties": {
+                "ref:rspo": 61518,
+                "official_name": "Gminne Przedszkole w Rejowcu",
+                "name": "Gminne Przedszkole w Rejowcu",
+                "addr:country": "PL",
+                "addr:postcode": "22-360",
+                "addr:city": "Rejowiec",
+                "addr:street": "ul. Henryka D\u0105browskiego",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 3678,
+                "addr:teryt:sym_ul": 105667,
+                "contact:phone": "+48 825688689",
+                "contact:email": "przedszkole@gmina.rejowiec.pl",
+                "contact:website": "http:\/\/prejowiec.szkolnastrona.pl\/",
+                "ref:regon": "110258800",
+                "ref:vatin": "PL5641577799",
+                "operator": "Gmina Rejowiec",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 61516,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.3577953,
+                    51.1242237
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 61516,
+                "official_name": "Szko\u0142a Podstawowa im. 4 Brygady Pancernej Wojska Polskiego w Zawad\u00f3wce",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "22-360",
+                "addr:place": "Zawad\u00f3wka",
+                "addr:housenumber": "45",
+                "addr:teryt:sym_ul": 105785,
+                "contact:phone": "+48 825689926",
+                "contact:email": "spzawadowka@wp.pl",
+                "ref:regon": "061487032",
+                "ref:vatin": "PL5632399312",
+                "operator": "Dane Do Uzupe\u0142nienia",
+                "operator:type": "private",
+                "amenity": "school"
+            }
+        }
+    ]
+}

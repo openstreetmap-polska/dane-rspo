@@ -1,1 +1,747 @@
-{"type":"FeatureCollection","features":[{"id":277251,"type":"Feature","geometry":{"type":"Point","coordinates":[18.46776,51.03382]},"properties":{"ref:rspo":277251,"official_name":"Centrum Szkole\u0144 Miko Sp. Zo.o.","name":"Centrum Szkole\u0144 Miko Sp. Zo.o.","addr:country":"PL","addr:postcode":"46-320","addr:place":"Rosochy","addr:housenumber":"43","addr:door":"a","addr:teryt:sym_ul":143395,"contact:phone":"+48 343145433","contact:website":"http:\/\/csmiko.pl","ref:regon":"388444986","ref:vatin":"PL5761580545","operator":"Centrum Szkole\u0144 Miko Sp\u00f3\u0142ka Z Ograniczon\u0105 Odpowiedzialno\u015bci\u0105","operator:type":"private","fixme":"w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. amenity=training + training=*, amenity=dancing_school, amenity=language_school, amenity=music_school)"}},{"id":41233,"type":"Feature","geometry":{"type":"Point","coordinates":[18.4952,51.03674]},"properties":{"ref:rspo":41233,"official_name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w Strojcu","name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w Strojcu","addr:country":"PL","addr:postcode":"46-320","addr:city":"Strojec","addr:street":"ul. Szkolna","addr:housenumber":"6","addr:teryt:simc":21970,"addr:teryt:sym_ul":143449,"contact:phone":"+48 343592542","contact:email":"pspstrojec1@wp.pl","ref:regon":"160747918","ref:vatin":"PL5761571871","operator":"Gmina Praszka","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 53241;53243"}},{"id":53241,"type":"Feature","geometry":{"type":"Point","coordinates":[18.4952,51.03671]},"properties":{"isced:level":"1;2","ref:rspo":53241,"official_name":"Szko\u0142a Podstawowa im. Mjr Henryka Sucharskiego w Strojcu","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"46-320","addr:city":"Strojec","addr:street":"ul. Szkolna","addr:housenumber":"6","addr:teryt:simc":21970,"addr:teryt:sym_ul":143449,"contact:phone":"+48 343592542","contact:email":"pspstrojec1@wp.pl","ref:regon":"001199831","ref:vatin":"PL5761441275","operator":"Gmina Praszka","operator:type":"government","amenity":"school","note":"Parent RSPO: 41233"}},{"id":53243,"type":"Feature","geometry":{"type":"Point","coordinates":[18.4952,51.036680000000004]},"properties":{"ref:rspo":53243,"official_name":"Publiczne Przedszkole w Strojcu","name":"Publiczne Przedszkole w Strojcu","addr:country":"PL","addr:postcode":"46-320","addr:city":"Strojec","addr:street":"ul. Szkolna","addr:housenumber":"6","addr:teryt:simc":21970,"addr:teryt:sym_ul":143449,"contact:phone":"+48 343592542","contact:email":"pspstrojec1@wp.pl","ref:regon":"531630158","ref:vatin":"PL5761441364","operator":"Gmina Praszka","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 41233"}},{"id":49301,"type":"Feature","geometry":{"type":"Point","coordinates":[18.45512,51.05129]},"properties":{"ref:rspo":49301,"official_name":"Publiczne Przedszkole Nr 1","name":"Publiczne Przedszkole Nr 1","addr:country":"PL","addr:postcode":"46-320","addr:city":"Praszka","addr:street":"ul. Mickiewicza","addr:housenumber":"28","addr:teryt:simc":12734,"addr:teryt:sym_ul":932353,"contact:phone":"+48 343591015","contact:email":"przedszkole1praszka@interia.pl","ref:regon":"531630081","ref:vatin":"PL5761441358","operator":"Gmina Praszka","operator:type":"government","amenity":"kindergarten"}},{"id":43953,"type":"Feature","geometry":{"type":"Point","coordinates":[18.45121,51.05168]},"properties":{"isced:level":"1;2","ref:rspo":43953,"official_name":"Szko\u0142a Podstawowa Nr 3 im. Ks. Kardyna\u0142a Stefana Wyszy\u0144skiego","name":"Szko\u0142a Podstawowa Nr 3","addr:country":"PL","addr:postcode":"46-320","addr:city":"Praszka","addr:street":"ul. Listopadowa","addr:housenumber":"18","addr:teryt:simc":11211,"addr:teryt:sym_ul":932353,"contact:phone":"+48 343591032","contact:email":"sekretariat@sp3.praszka.pl","contact:website":"http:\/\/www.sp3.praszka.pl","ref:regon":"002757517","ref:vatin":"PL5761441341","operator":"Gmina Praszka","operator:type":"government","amenity":"school"}},{"id":49599,"type":"Feature","geometry":{"type":"Point","coordinates":[18.4494,51.05209]},"properties":{"ref:rspo":49599,"official_name":"Publiczne Przedszkole Nr 2","name":"Publiczne Przedszkole Nr 2","addr:country":"PL","addr:postcode":"46-320","addr:city":"Praszka","addr:street":"ul. Mickiewicza","addr:housenumber":"8","addr:teryt:simc":12734,"addr:teryt:sym_ul":932353,"contact:phone":"+48 343591156","contact:email":"przedszkole.2praszka@wp.pl","ref:regon":"531630106","ref:vatin":"PL5761441246","operator":"Gmina Praszka","operator:type":"government","amenity":"kindergarten"}},{"id":43917,"type":"Feature","geometry":{"type":"Point","coordinates":[18.44554,51.0539599]},"properties":{"ref:rspo":43917,"official_name":"Zesp\u00f3\u0142 Plac\u00f3wek Specjalnych","name":"Zesp\u00f3\u0142 Plac\u00f3wek Specjalnych","addr:country":"PL","addr:postcode":"46-320","addr:city":"Praszka","addr:street":"ul. Fabryczna","addr:housenumber":"1","addr:teryt:simc":4863,"addr:teryt:sym_ul":932353,"contact:phone":"+48 343591413","contact:email":"zpswpraszce@tlen.pl","contact:website":"http:\/\/zpswpraszce.pl","ref:regon":"531663790","ref:vatin":"PL5761487863","operator":"Gmina Praszka","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 124544;124545;124547"}},{"id":124544,"type":"Feature","geometry":{"type":"Point","coordinates":[18.44554,51.0539299]},"properties":{"isced:level":"1;2","ref:rspo":124544,"official_name":"Publiczna Szko\u0142a Podstawowa Nr 5 w Praszce","name":"Publiczna Szko\u0142a Podstawowa Nr 5 w Praszce","addr:country":"PL","addr:postcode":"46-320","addr:city":"Praszka","addr:street":"ul. Fabryczna","addr:housenumber":"1","addr:teryt:simc":4863,"addr:teryt:sym_ul":932353,"contact:phone":"+48 343591413","contact:email":"zpswpraszce@tlen.pl","ref:regon":"532332606","operator":"Gmina Praszka","operator:type":"government","amenity":"school","note":"Parent RSPO: 43917"}},{"id":124545,"type":"Feature","geometry":{"type":"Point","coordinates":[18.44554,51.053899900000005]},"properties":{"ref:rspo":124545,"official_name":"Publiczne Przedszkole Nr 3 w Praszce","name":"Publiczne Przedszkole Nr 3 w Praszce","addr:country":"PL","addr:postcode":"46-320","addr:city":"Praszka","addr:street":"ul. Fabryczna","addr:housenumber":"1","addr:teryt:simc":4863,"addr:teryt:sym_ul":932353,"contact:phone":"+48 343591413","contact:email":"zpswpraszce@tlen.pl","ref:regon":"532332612","ref:vatin":"PL5761487863","operator":"Gmina Praszka","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 43917"}},{"id":124547,"type":"Feature","geometry":{"type":"Point","coordinates":[18.44554,51.0538699]},"properties":{"ref:rspo":124547,"official_name":"Szko\u0142a Przysposabiaj\u0105ca Do Pracy w Praszce","name":"Szko\u0142a Przysposabiaj\u0105ca Do Pracy w Praszce","addr:country":"PL","addr:postcode":"46-320","addr:city":"Praszka","addr:street":"ul. Fabryczna","addr:housenumber":"1","addr:teryt:simc":4863,"addr:teryt:sym_ul":932353,"contact:phone":"+48 343591413","contact:email":"zpswpraszce@tlen.pl","ref:regon":"160201496","operator":"Gmina Praszka","operator:type":"government","amenity":"school","note":"Parent RSPO: 43917"}},{"id":48734,"type":"Feature","geometry":{"type":"Point","coordinates":[18.45606,51.05515]},"properties":{"isced:level":"1;2","ref:rspo":48734,"official_name":"Szko\u0142a Podstawowa Nr 4 im. Wandy Chotomskiej w Praszce","name":"Szko\u0142a Podstawowa Nr 4","addr:country":"PL","addr:postcode":"46-320","addr:city":"Praszka","addr:street":"ul. Styczniowa","addr:housenumber":"7","addr:teryt:simc":21474,"addr:teryt:sym_ul":932353,"contact:phone":"+48 343591021","contact:email":"sekretariat@sp4.praszka.pl","ref:regon":"150560808","ref:vatin":"PL5761441217","operator":"Gmina Praszka","operator:type":"government","amenity":"school"}},{"id":53238,"type":"Feature","geometry":{"type":"Point","coordinates":[18.45144,51.05621]},"properties":{"ref:rspo":53238,"official_name":"Przedszkole Niepubliczne Zgromadzenia Si\u00f3str Felicjanek","name":"Przedszkole Niepubliczne Zgromadzenia Si\u00f3str Felicjanek","addr:country":"PL","addr:postcode":"46-320","addr:city":"Praszka","addr:street":"pl. Grunwaldzki","addr:housenumber":"8","addr:teryt:simc":6262,"addr:teryt:sym_ul":932353,"contact:phone":"+48 343591926","contact:email":"felice1@op.pl","ref:regon":"161491585","ref:vatin":"PL5761449503","operator":"Zgromadzenie Si\u00f3str \u015aw.feliksa Z Kantalicjo, Prowincja Krakowska","operator:type":"religious","amenity":"kindergarten"}},{"id":51857,"type":"Feature","geometry":{"type":"Point","coordinates":[18.44282,51.05707]},"properties":{"isced:level":"1;2","ref:rspo":51857,"official_name":"Szko\u0142a Podstawowa Nr 2 w Praszce","name":"Szko\u0142a Podstawowa Nr 2 w Praszce","addr:country":"PL","addr:postcode":"46-320","addr:city":"Praszka","addr:street":"ul. Boczna","addr:housenumber":"4","addr:teryt:simc":1528,"addr:teryt:sym_ul":932353,"contact:phone":"+48 343591052","contact:email":"psp2praszka@op.pl","contact:website":"http:\/\/www.psp2praszka.republika.pl","ref:regon":"001199819","ref:vatin":"PL5761441298","operator":"Gmina Praszka","operator:type":"government","amenity":"school"}},{"id":25757,"type":"Feature","geometry":{"type":"Point","coordinates":[18.45623,51.06254]},"properties":{"isced:level":"3","ref:rspo":25757,"official_name":"I Liceum Og\u00f3lnokszta\u0142cace im. Powsta\u0144c\u00f3w \u015aL\u0105skich w Praszce","name":"I Liceum Og\u00f3lnokszta\u0142cace","addr:country":"PL","addr:postcode":"46-320","addr:city":"Praszka","addr:street":"ul. Kaliska","addr:housenumber":"38","addr:teryt:simc":7823,"addr:teryt:sym_ul":932353,"contact:phone":"+48 343591040","contact:email":"sekretariat@lo.praszka.pl","contact:website":"http:\/\/lo.praszka.pl","ref:regon":"532344615","ref:vatin":"PL5761191306","operator":"Powiat Oleski","operator:type":"government","amenity":"school"}},{"id":272211,"type":"Feature","geometry":{"type":"Point","coordinates":[18.527704,51.068321]},"properties":{"ref:rspo":272211,"official_name":"Publiczne Przedszkole w Ganie","name":"Publiczne Przedszkole w Ganie","addr:country":"PL","addr:postcode":"46-320","addr:place":"Gana","addr:housenumber":"28","addr:teryt:sym_ul":143283,"contact:email":"ppgana@wp.pl","ref:regon":"384033654","ref:vatin":"PL5761587702","operator":"Gmina Praszka","operator:type":"government","amenity":"kindergarten"}},{"id":51860,"type":"Feature","geometry":{"type":"Point","coordinates":[18.47688,51.07496]},"properties":{"isced:level":"1;2","ref:rspo":51860,"official_name":"Szko\u0142a Podstawowa im.wincentego Witosa w Kowalach","name":"Szko\u0142a Podstawowa im.wincentego Witosa w Kowalach","addr:country":"PL","addr:postcode":"46-320","addr:city":"Kowale","addr:street":"ul. Szkolna","addr:housenumber":"1","addr:teryt:simc":21970,"addr:teryt:sym_ul":143308,"contact:phone":"+48 343591129","contact:email":"psp-kowale1@wp.pl","contact:website":"https:\/\/spkowale.pl","ref:regon":"001199825","ref:vatin":"PL5761441269","operator":"Gmina Praszka","operator:type":"government","amenity":"school"}},{"id":25721,"type":"Feature","geometry":{"type":"Point","coordinates":[18.43747,51.09174]},"properties":{"ref:rspo":25721,"official_name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 Ponadpodstawowych w Praszce","name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 Ponadpodstawowych w Praszce","addr:country":"PL","addr:postcode":"46-320","addr:city":"Praszka","addr:street":"ul. Sportowa","addr:housenumber":"8","addr:teryt:simc":20683,"addr:teryt:sym_ul":932353,"contact:phone":"+48 343591196","contact:email":"sekretariat@zsp-praszka.pl","contact:website":"http:\/\/www.zsp-praszka.pl","ref:regon":"531660580","ref:vatin":"PL5761190488","operator":"Powiat Oleski","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 29516;29563;118800"}},{"id":29516,"type":"Feature","geometry":{"type":"Point","coordinates":[18.43747,51.09171]},"properties":{"isced:level":"3","ref:rspo":29516,"official_name":"Technikum w Praszce","name":"Technikum w Praszce","addr:country":"PL","addr:postcode":"46-320","addr:city":"Praszka","addr:street":"ul. Sportowa","addr:housenumber":"8","addr:teryt:simc":20683,"addr:teryt:sym_ul":932353,"contact:phone":"+48 343591196","contact:email":"sekretariat@zsp-praszka.pl","contact:website":"http:\/\/www.zsp-praszka.pl","ref:regon":"532373887","operator":"Powiat Oleski","operator:type":"government","amenity":"school","note":"Parent RSPO: 25721"}},{"id":29563,"type":"Feature","geometry":{"type":"Point","coordinates":[18.43747,51.091680000000004]},"properties":{"isced:level":"3","ref:rspo":29563,"official_name":"Bran\u017cowa Szko\u0142a I Stopnia w Praszce","name":"Bran\u017cowa Szko\u0142a I Stopnia w Praszce","addr:country":"PL","addr:postcode":"46-320","addr:city":"Praszka","addr:street":"ul. Sportowa","addr:housenumber":"8","addr:teryt:simc":20683,"addr:teryt:sym_ul":932353,"contact:phone":"+48 343591196","contact:email":"sekretariat@zsp-praszka.pl","contact:website":"http:\/\/www.zsp-praszka.pl","ref:regon":"532373841","operator":"Powiat Oleski","operator:type":"government","amenity":"school","note":"Parent RSPO: 25721"}},{"id":118800,"type":"Feature","geometry":{"type":"Point","coordinates":[18.43747,51.09165]},"properties":{"ref:rspo":118800,"official_name":"Centrum Kszta\u0142cenia Zawodowego w Zespole Szk\u00f3\u0142 Ponadpodstawowych w Praszce","name":"Centrum Kszta\u0142cenia Zawodowego w Zespole Szk\u00f3\u0142 Ponadpodstawowych w Praszce","addr:country":"PL","addr:postcode":"46-320","addr:city":"Praszka","addr:street":"ul. Sportowa","addr:housenumber":"8","addr:teryt:simc":20683,"addr:teryt:sym_ul":932353,"contact:phone":"+48 343591196","contact:email":"sekretariat@zsp-praszka.pl","contact:website":"http:\/\/www.zsp-praszka.pl","ref:regon":"161546091","operator":"Powiat Oleski","operator:type":"government","fixme":"w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. amenity=training + training=*, amenity=dancing_school, amenity=language_school, amenity=music_school) albo amenity=school, amenity=college, albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Parent RSPO: 25721"}},{"id":51862,"type":"Feature","geometry":{"type":"Point","coordinates":[18.43646,51.09289]},"properties":{"isced:level":"1;2","ref:rspo":51862,"official_name":"Szko\u0142a Podstawowa w Przedmo\u015bciu","name":"Szko\u0142a Podstawowa w Przedmo\u015bciu","addr:country":"PL","addr:postcode":"46-320","addr:city":"Przedmo\u015b\u0107","addr:street":"ul. G\u0142\u00f3wna","addr:housenumber":"22","addr:teryt:simc":5635,"addr:teryt:sym_ul":143389,"contact:phone":"+48 343591050","contact:email":"pspprzedmosc@o2.pl","contact:website":"http:\/\/psp.przedmosc.pl\/","ref:regon":"001199860","ref:vatin":"PL5761441335","operator":"Gmina Praszka","operator:type":"government","amenity":"school"}},{"id":68442,"type":"Feature","geometry":{"type":"Point","coordinates":[18.5374069,51.125164]},"properties":{"isced:level":"1;2","ref:rspo":68442,"official_name":"Publiczna Szko\u0142a Podstawowa Stowarzyszenia Przyjaci\u00f3\u0142 Szk\u00f3\u0142 Katolickich im. \u015aw. Jadwigi Kr\u00f3lowej w Wierzbiu","name":"Publiczna Szko\u0142a Podstawowa Stowarzyszenia Przyjaci\u00f3\u0142 Szk\u00f3\u0142 Katolickich","addr:country":"PL","addr:postcode":"46-320","addr:place":"Wierzbie","addr:housenumber":"44","addr:teryt:sym_ul":143478,"contact:phone":"+48 508620863","contact:email":"pspspskwierzbie@gmail.com","ref:regon":"161492372","ref:vatin":"PL5761575550","operator":"Stowarzyszenie Przyjaci\u00f3\u0142 Szk\u00f3\u0142 Katolickich","operator:type":"ngo","amenity":"school"}},{"id":272134,"type":"Feature","geometry":{"type":"Point","coordinates":[18.5374069,51.125133999999996]},"properties":{"ref:rspo":272134,"official_name":"Szko\u0142a Specjalna Przysposabiaj\u0105ca Do Pracy Stowarzyszenia Przyjaci\u00f3\u0142 Szk\u00f3\u0142 Katolickich w Wierzbiu","name":"Szko\u0142a Specjalna Przysposabiaj\u0105ca Do Pracy Stowarzyszenia Przyjaci\u00f3\u0142 Szk\u00f3\u0142 Katolickich w Wierzbiu","addr:country":"PL","addr:postcode":"46-320","addr:place":"Wierzbie","addr:housenumber":"44","addr:teryt:sym_ul":143478,"contact:phone":"+48 343570146","contact:email":"pspspskwierzbie@gmail.com","contact:website":"http:\/\/www.wierzbiepraszka.spsk.info.pl","ref:regon":"383954926","operator":"Stowarzyszenie Przyjaci\u00f3\u0142 Szk\u00f3\u0142 Katolickich","operator:type":"ngo","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 277251,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.46776,
+                    51.03382
+                ]
+            },
+            "properties": {
+                "ref:rspo": 277251,
+                "official_name": "Centrum Szkole\u0144 Miko Sp. Zo.o.",
+                "name": "Centrum Szkole\u0144 Miko Sp. Zo.o.",
+                "addr:country": "PL",
+                "addr:postcode": "46-320",
+                "addr:place": "Rosochy",
+                "addr:housenumber": "43",
+                "addr:door": "a",
+                "addr:teryt:sym_ul": 143395,
+                "contact:phone": "+48 343145433",
+                "contact:website": "http:\/\/csmiko.pl",
+                "ref:regon": "388444986",
+                "ref:vatin": "PL5761580545",
+                "operator": "Centrum Szkole\u0144 Miko Sp\u00f3\u0142ka Z Ograniczon\u0105 Odpowiedzialno\u015bci\u0105",
+                "operator:type": "private",
+                "fixme": "w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. amenity=training + training=*, amenity=dancing_school, amenity=language_school, amenity=music_school)"
+            }
+        },
+        {
+            "id": 41233,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.4952,
+                    51.03674
+                ]
+            },
+            "properties": {
+                "ref:rspo": 41233,
+                "official_name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w Strojcu",
+                "name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w Strojcu",
+                "addr:country": "PL",
+                "addr:postcode": "46-320",
+                "addr:city": "Strojec",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "6",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 143449,
+                "contact:phone": "+48 343592542",
+                "contact:email": "pspstrojec1@wp.pl",
+                "ref:regon": "160747918",
+                "ref:vatin": "PL5761571871",
+                "operator": "Gmina Praszka",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 53241;53243"
+            }
+        },
+        {
+            "id": 53241,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.4952,
+                    51.03671
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 53241,
+                "official_name": "Szko\u0142a Podstawowa im. Mjr Henryka Sucharskiego w Strojcu",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "46-320",
+                "addr:city": "Strojec",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "6",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 143449,
+                "contact:phone": "+48 343592542",
+                "contact:email": "pspstrojec1@wp.pl",
+                "ref:regon": "001199831",
+                "ref:vatin": "PL5761441275",
+                "operator": "Gmina Praszka",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 41233"
+            }
+        },
+        {
+            "id": 53243,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.4952,
+                    51.036680000000004
+                ]
+            },
+            "properties": {
+                "ref:rspo": 53243,
+                "official_name": "Publiczne Przedszkole w Strojcu",
+                "name": "Publiczne Przedszkole w Strojcu",
+                "addr:country": "PL",
+                "addr:postcode": "46-320",
+                "addr:city": "Strojec",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "6",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 143449,
+                "contact:phone": "+48 343592542",
+                "contact:email": "pspstrojec1@wp.pl",
+                "ref:regon": "531630158",
+                "ref:vatin": "PL5761441364",
+                "operator": "Gmina Praszka",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 41233"
+            }
+        },
+        {
+            "id": 49301,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.45512,
+                    51.05129
+                ]
+            },
+            "properties": {
+                "ref:rspo": 49301,
+                "official_name": "Publiczne Przedszkole Nr 1",
+                "name": "Publiczne Przedszkole Nr 1",
+                "addr:country": "PL",
+                "addr:postcode": "46-320",
+                "addr:city": "Praszka",
+                "addr:street": "ul. Mickiewicza",
+                "addr:housenumber": "28",
+                "addr:teryt:simc": 12734,
+                "addr:teryt:sym_ul": 932353,
+                "contact:phone": "+48 343591015",
+                "contact:email": "przedszkole1praszka@interia.pl",
+                "ref:regon": "531630081",
+                "ref:vatin": "PL5761441358",
+                "operator": "Gmina Praszka",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 43953,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.45121,
+                    51.05168
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 43953,
+                "official_name": "Szko\u0142a Podstawowa Nr 3 im. Ks. Kardyna\u0142a Stefana Wyszy\u0144skiego",
+                "name": "Szko\u0142a Podstawowa Nr 3",
+                "addr:country": "PL",
+                "addr:postcode": "46-320",
+                "addr:city": "Praszka",
+                "addr:street": "ul. Listopadowa",
+                "addr:housenumber": "18",
+                "addr:teryt:simc": 11211,
+                "addr:teryt:sym_ul": 932353,
+                "contact:phone": "+48 343591032",
+                "contact:email": "sekretariat@sp3.praszka.pl",
+                "contact:website": "http:\/\/www.sp3.praszka.pl",
+                "ref:regon": "002757517",
+                "ref:vatin": "PL5761441341",
+                "operator": "Gmina Praszka",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 49599,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.4494,
+                    51.05209
+                ]
+            },
+            "properties": {
+                "ref:rspo": 49599,
+                "official_name": "Publiczne Przedszkole Nr 2",
+                "name": "Publiczne Przedszkole Nr 2",
+                "addr:country": "PL",
+                "addr:postcode": "46-320",
+                "addr:city": "Praszka",
+                "addr:street": "ul. Mickiewicza",
+                "addr:housenumber": "8",
+                "addr:teryt:simc": 12734,
+                "addr:teryt:sym_ul": 932353,
+                "contact:phone": "+48 343591156",
+                "contact:email": "przedszkole.2praszka@wp.pl",
+                "ref:regon": "531630106",
+                "ref:vatin": "PL5761441246",
+                "operator": "Gmina Praszka",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 43917,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.44554,
+                    51.0539599
+                ]
+            },
+            "properties": {
+                "ref:rspo": 43917,
+                "official_name": "Zesp\u00f3\u0142 Plac\u00f3wek Specjalnych",
+                "name": "Zesp\u00f3\u0142 Plac\u00f3wek Specjalnych",
+                "addr:country": "PL",
+                "addr:postcode": "46-320",
+                "addr:city": "Praszka",
+                "addr:street": "ul. Fabryczna",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 4863,
+                "addr:teryt:sym_ul": 932353,
+                "contact:phone": "+48 343591413",
+                "contact:email": "zpswpraszce@tlen.pl",
+                "contact:website": "http:\/\/zpswpraszce.pl",
+                "ref:regon": "531663790",
+                "ref:vatin": "PL5761487863",
+                "operator": "Gmina Praszka",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 124544;124545;124547"
+            }
+        },
+        {
+            "id": 124544,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.44554,
+                    51.0539299
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 124544,
+                "official_name": "Publiczna Szko\u0142a Podstawowa Nr 5 w Praszce",
+                "name": "Publiczna Szko\u0142a Podstawowa Nr 5 w Praszce",
+                "addr:country": "PL",
+                "addr:postcode": "46-320",
+                "addr:city": "Praszka",
+                "addr:street": "ul. Fabryczna",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 4863,
+                "addr:teryt:sym_ul": 932353,
+                "contact:phone": "+48 343591413",
+                "contact:email": "zpswpraszce@tlen.pl",
+                "ref:regon": "532332606",
+                "operator": "Gmina Praszka",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 43917"
+            }
+        },
+        {
+            "id": 124545,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.44554,
+                    51.053899900000005
+                ]
+            },
+            "properties": {
+                "ref:rspo": 124545,
+                "official_name": "Publiczne Przedszkole Nr 3 w Praszce",
+                "name": "Publiczne Przedszkole Nr 3 w Praszce",
+                "addr:country": "PL",
+                "addr:postcode": "46-320",
+                "addr:city": "Praszka",
+                "addr:street": "ul. Fabryczna",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 4863,
+                "addr:teryt:sym_ul": 932353,
+                "contact:phone": "+48 343591413",
+                "contact:email": "zpswpraszce@tlen.pl",
+                "ref:regon": "532332612",
+                "ref:vatin": "PL5761487863",
+                "operator": "Gmina Praszka",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 43917"
+            }
+        },
+        {
+            "id": 124547,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.44554,
+                    51.0538699
+                ]
+            },
+            "properties": {
+                "ref:rspo": 124547,
+                "official_name": "Szko\u0142a Przysposabiaj\u0105ca Do Pracy w Praszce",
+                "name": "Szko\u0142a Przysposabiaj\u0105ca Do Pracy w Praszce",
+                "addr:country": "PL",
+                "addr:postcode": "46-320",
+                "addr:city": "Praszka",
+                "addr:street": "ul. Fabryczna",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 4863,
+                "addr:teryt:sym_ul": 932353,
+                "contact:phone": "+48 343591413",
+                "contact:email": "zpswpraszce@tlen.pl",
+                "ref:regon": "160201496",
+                "operator": "Gmina Praszka",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 43917"
+            }
+        },
+        {
+            "id": 48734,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.45606,
+                    51.05515
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 48734,
+                "official_name": "Szko\u0142a Podstawowa Nr 4 im. Wandy Chotomskiej w Praszce",
+                "name": "Szko\u0142a Podstawowa Nr 4",
+                "addr:country": "PL",
+                "addr:postcode": "46-320",
+                "addr:city": "Praszka",
+                "addr:street": "ul. Styczniowa",
+                "addr:housenumber": "7",
+                "addr:teryt:simc": 21474,
+                "addr:teryt:sym_ul": 932353,
+                "contact:phone": "+48 343591021",
+                "contact:email": "sekretariat@sp4.praszka.pl",
+                "ref:regon": "150560808",
+                "ref:vatin": "PL5761441217",
+                "operator": "Gmina Praszka",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 53238,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.45144,
+                    51.05621
+                ]
+            },
+            "properties": {
+                "ref:rspo": 53238,
+                "official_name": "Przedszkole Niepubliczne Zgromadzenia Si\u00f3str Felicjanek",
+                "name": "Przedszkole Niepubliczne Zgromadzenia Si\u00f3str Felicjanek",
+                "addr:country": "PL",
+                "addr:postcode": "46-320",
+                "addr:city": "Praszka",
+                "addr:street": "pl. Grunwaldzki",
+                "addr:housenumber": "8",
+                "addr:teryt:simc": 6262,
+                "addr:teryt:sym_ul": 932353,
+                "contact:phone": "+48 343591926",
+                "contact:email": "felice1@op.pl",
+                "ref:regon": "161491585",
+                "ref:vatin": "PL5761449503",
+                "operator": "Zgromadzenie Si\u00f3str \u015aw.feliksa Z Kantalicjo, Prowincja Krakowska",
+                "operator:type": "religious",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 51857,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.44282,
+                    51.05707
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 51857,
+                "official_name": "Szko\u0142a Podstawowa Nr 2 w Praszce",
+                "name": "Szko\u0142a Podstawowa Nr 2 w Praszce",
+                "addr:country": "PL",
+                "addr:postcode": "46-320",
+                "addr:city": "Praszka",
+                "addr:street": "ul. Boczna",
+                "addr:housenumber": "4",
+                "addr:teryt:simc": 1528,
+                "addr:teryt:sym_ul": 932353,
+                "contact:phone": "+48 343591052",
+                "contact:email": "psp2praszka@op.pl",
+                "contact:website": "http:\/\/www.psp2praszka.republika.pl",
+                "ref:regon": "001199819",
+                "ref:vatin": "PL5761441298",
+                "operator": "Gmina Praszka",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 25757,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.45623,
+                    51.06254
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 25757,
+                "official_name": "I Liceum Og\u00f3lnokszta\u0142cace im. Powsta\u0144c\u00f3w \u015aL\u0105skich w Praszce",
+                "name": "I Liceum Og\u00f3lnokszta\u0142cace",
+                "addr:country": "PL",
+                "addr:postcode": "46-320",
+                "addr:city": "Praszka",
+                "addr:street": "ul. Kaliska",
+                "addr:housenumber": "38",
+                "addr:teryt:simc": 7823,
+                "addr:teryt:sym_ul": 932353,
+                "contact:phone": "+48 343591040",
+                "contact:email": "sekretariat@lo.praszka.pl",
+                "contact:website": "http:\/\/lo.praszka.pl",
+                "ref:regon": "532344615",
+                "ref:vatin": "PL5761191306",
+                "operator": "Powiat Oleski",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 272211,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.527704,
+                    51.068321
+                ]
+            },
+            "properties": {
+                "ref:rspo": 272211,
+                "official_name": "Publiczne Przedszkole w Ganie",
+                "name": "Publiczne Przedszkole w Ganie",
+                "addr:country": "PL",
+                "addr:postcode": "46-320",
+                "addr:place": "Gana",
+                "addr:housenumber": "28",
+                "addr:teryt:sym_ul": 143283,
+                "contact:email": "ppgana@wp.pl",
+                "ref:regon": "384033654",
+                "ref:vatin": "PL5761587702",
+                "operator": "Gmina Praszka",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 51860,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.47688,
+                    51.07496
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 51860,
+                "official_name": "Szko\u0142a Podstawowa im.wincentego Witosa w Kowalach",
+                "name": "Szko\u0142a Podstawowa im.wincentego Witosa w Kowalach",
+                "addr:country": "PL",
+                "addr:postcode": "46-320",
+                "addr:city": "Kowale",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 143308,
+                "contact:phone": "+48 343591129",
+                "contact:email": "psp-kowale1@wp.pl",
+                "contact:website": "https:\/\/spkowale.pl",
+                "ref:regon": "001199825",
+                "ref:vatin": "PL5761441269",
+                "operator": "Gmina Praszka",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 25721,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.43747,
+                    51.09174
+                ]
+            },
+            "properties": {
+                "ref:rspo": 25721,
+                "official_name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Ponadpodstawowych w Praszce",
+                "name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Ponadpodstawowych w Praszce",
+                "addr:country": "PL",
+                "addr:postcode": "46-320",
+                "addr:city": "Praszka",
+                "addr:street": "ul. Sportowa",
+                "addr:housenumber": "8",
+                "addr:teryt:simc": 20683,
+                "addr:teryt:sym_ul": 932353,
+                "contact:phone": "+48 343591196",
+                "contact:email": "sekretariat@zsp-praszka.pl",
+                "contact:website": "http:\/\/www.zsp-praszka.pl",
+                "ref:regon": "531660580",
+                "ref:vatin": "PL5761190488",
+                "operator": "Powiat Oleski",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 29516;29563;118800"
+            }
+        },
+        {
+            "id": 29516,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.43747,
+                    51.09171
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 29516,
+                "official_name": "Technikum w Praszce",
+                "name": "Technikum w Praszce",
+                "addr:country": "PL",
+                "addr:postcode": "46-320",
+                "addr:city": "Praszka",
+                "addr:street": "ul. Sportowa",
+                "addr:housenumber": "8",
+                "addr:teryt:simc": 20683,
+                "addr:teryt:sym_ul": 932353,
+                "contact:phone": "+48 343591196",
+                "contact:email": "sekretariat@zsp-praszka.pl",
+                "contact:website": "http:\/\/www.zsp-praszka.pl",
+                "ref:regon": "532373887",
+                "operator": "Powiat Oleski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 25721"
+            }
+        },
+        {
+            "id": 29563,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.43747,
+                    51.091680000000004
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 29563,
+                "official_name": "Bran\u017cowa Szko\u0142a I Stopnia w Praszce",
+                "name": "Bran\u017cowa Szko\u0142a I Stopnia w Praszce",
+                "addr:country": "PL",
+                "addr:postcode": "46-320",
+                "addr:city": "Praszka",
+                "addr:street": "ul. Sportowa",
+                "addr:housenumber": "8",
+                "addr:teryt:simc": 20683,
+                "addr:teryt:sym_ul": 932353,
+                "contact:phone": "+48 343591196",
+                "contact:email": "sekretariat@zsp-praszka.pl",
+                "contact:website": "http:\/\/www.zsp-praszka.pl",
+                "ref:regon": "532373841",
+                "operator": "Powiat Oleski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 25721"
+            }
+        },
+        {
+            "id": 118800,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.43747,
+                    51.09165
+                ]
+            },
+            "properties": {
+                "ref:rspo": 118800,
+                "official_name": "Centrum Kszta\u0142cenia Zawodowego w Zespole Szk\u00f3\u0142 Ponadpodstawowych w Praszce",
+                "name": "Centrum Kszta\u0142cenia Zawodowego w Zespole Szk\u00f3\u0142 Ponadpodstawowych w Praszce",
+                "addr:country": "PL",
+                "addr:postcode": "46-320",
+                "addr:city": "Praszka",
+                "addr:street": "ul. Sportowa",
+                "addr:housenumber": "8",
+                "addr:teryt:simc": 20683,
+                "addr:teryt:sym_ul": 932353,
+                "contact:phone": "+48 343591196",
+                "contact:email": "sekretariat@zsp-praszka.pl",
+                "contact:website": "http:\/\/www.zsp-praszka.pl",
+                "ref:regon": "161546091",
+                "operator": "Powiat Oleski",
+                "operator:type": "government",
+                "fixme": "w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. amenity=training + training=*, amenity=dancing_school, amenity=language_school, amenity=music_school) albo amenity=school, amenity=college, albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Parent RSPO: 25721"
+            }
+        },
+        {
+            "id": 51862,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.43646,
+                    51.09289
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 51862,
+                "official_name": "Szko\u0142a Podstawowa w Przedmo\u015bciu",
+                "name": "Szko\u0142a Podstawowa w Przedmo\u015bciu",
+                "addr:country": "PL",
+                "addr:postcode": "46-320",
+                "addr:city": "Przedmo\u015b\u0107",
+                "addr:street": "ul. G\u0142\u00f3wna",
+                "addr:housenumber": "22",
+                "addr:teryt:simc": 5635,
+                "addr:teryt:sym_ul": 143389,
+                "contact:phone": "+48 343591050",
+                "contact:email": "pspprzedmosc@o2.pl",
+                "contact:website": "http:\/\/psp.przedmosc.pl\/",
+                "ref:regon": "001199860",
+                "ref:vatin": "PL5761441335",
+                "operator": "Gmina Praszka",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 68442,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.5374069,
+                    51.125164
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 68442,
+                "official_name": "Publiczna Szko\u0142a Podstawowa Stowarzyszenia Przyjaci\u00f3\u0142 Szk\u00f3\u0142 Katolickich im. \u015aw. Jadwigi Kr\u00f3lowej w Wierzbiu",
+                "name": "Publiczna Szko\u0142a Podstawowa Stowarzyszenia Przyjaci\u00f3\u0142 Szk\u00f3\u0142 Katolickich",
+                "addr:country": "PL",
+                "addr:postcode": "46-320",
+                "addr:place": "Wierzbie",
+                "addr:housenumber": "44",
+                "addr:teryt:sym_ul": 143478,
+                "contact:phone": "+48 508620863",
+                "contact:email": "pspspskwierzbie@gmail.com",
+                "ref:regon": "161492372",
+                "ref:vatin": "PL5761575550",
+                "operator": "Stowarzyszenie Przyjaci\u00f3\u0142 Szk\u00f3\u0142 Katolickich",
+                "operator:type": "ngo",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 272134,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.5374069,
+                    51.125133999999996
+                ]
+            },
+            "properties": {
+                "ref:rspo": 272134,
+                "official_name": "Szko\u0142a Specjalna Przysposabiaj\u0105ca Do Pracy Stowarzyszenia Przyjaci\u00f3\u0142 Szk\u00f3\u0142 Katolickich w Wierzbiu",
+                "name": "Szko\u0142a Specjalna Przysposabiaj\u0105ca Do Pracy Stowarzyszenia Przyjaci\u00f3\u0142 Szk\u00f3\u0142 Katolickich w Wierzbiu",
+                "addr:country": "PL",
+                "addr:postcode": "46-320",
+                "addr:place": "Wierzbie",
+                "addr:housenumber": "44",
+                "addr:teryt:sym_ul": 143478,
+                "contact:phone": "+48 343570146",
+                "contact:email": "pspspskwierzbie@gmail.com",
+                "contact:website": "http:\/\/www.wierzbiepraszka.spsk.info.pl",
+                "ref:regon": "383954926",
+                "operator": "Stowarzyszenie Przyjaci\u00f3\u0142 Szk\u00f3\u0142 Katolickich",
+                "operator:type": "ngo",
+                "amenity": "school"
+            }
+        }
+    ]
+}

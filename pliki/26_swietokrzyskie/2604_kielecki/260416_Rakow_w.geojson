@@ -1,1 +1,398 @@
-{"type":"FeatureCollection","features":[{"id":19463,"type":"Feature","geometry":{"type":"Point","coordinates":[21.05125,50.6795199]},"properties":{"ref:rspo":19463,"official_name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w Rakowie","name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w Rakowie","addr:country":"PL","addr:postcode":"26-035","addr:city":"Rak\u00f3w","addr:street":"ul. \u0141agowska","addr:housenumber":"25","addr:teryt:simc":11503,"addr:teryt:sym_ul":265879,"contact:phone":"+48 413535015","contact:email":"szkorak@poczta.onet.pl","contact:website":"http:\/\/zsp-rakow.edupage.org","ref:regon":"260515211","ref:vatin":"PL6572898583","operator":"Gmina Rak\u00f3w","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 27604;27756"}},{"id":27604,"type":"Feature","geometry":{"type":"Point","coordinates":[21.05125,50.6794899]},"properties":{"isced:level":"1;2","ref:rspo":27604,"official_name":"Szko\u0142a Podstawowa im. \u015aw Jana Paw\u0142a II w Rakowie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"26-035","addr:city":"Rak\u00f3w","addr:street":"ul. \u0141agowska","addr:housenumber":"25","addr:teryt:simc":11503,"addr:teryt:sym_ul":265879,"contact:phone":"+48 413535015","contact:email":"szkorak@poczta.onet.pl","ref:regon":"000645748","ref:vatin":"PL6572285260","operator":"Gmina Rak\u00f3w","operator:type":"government","amenity":"school","note":"Parent RSPO: 19463"}},{"id":27756,"type":"Feature","geometry":{"type":"Point","coordinates":[21.05125,50.679459900000005]},"properties":{"ref:rspo":27756,"official_name":"Przedszkole Gminne w Rakowie","name":"Przedszkole Gminne w Rakowie","addr:country":"PL","addr:postcode":"26-035","addr:city":"Rak\u00f3w","addr:street":"ul. \u0141agowska","addr:housenumber":"25","addr:teryt:simc":11503,"addr:teryt:sym_ul":265879,"contact:phone":"+48 413535015","contact:email":"szkorak@poczta.onet.pl","ref:regon":"290013236","ref:vatin":"PL6572286012","operator":"Gmina Rak\u00f3w","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 19463"}},{"id":19329,"type":"Feature","geometry":{"type":"Point","coordinates":[21.0880699,50.701595]},"properties":{"isced:level":"1;2","ref:rspo":19329,"official_name":"Szko\u0142a Podstawowa w Szumsku","name":"Szko\u0142a Podstawowa w Szumsku","addr:country":"PL","addr:postcode":"26-035","addr:place":"Szumsko","addr:housenumber":"42b","addr:teryt:sym_ul":266040,"contact:phone":"+48 413535170","contact:email":"spszumsko@spszumsko.edu.pl","contact:website":"http:\/\/spszumsko.edu.pl","ref:regon":"001217813","ref:vatin":"PL6572285231","operator":"Gmina Rak\u00f3w","operator:type":"government","amenity":"school"}},{"id":278045,"type":"Feature","geometry":{"type":"Point","coordinates":[21.0529109,50.705312]},"properties":{"ref:rspo":278045,"official_name":"Niepubliczny M\u0142odzie\u017cowy O\u015brodek Wychowawczy \"Druga Szansa\"","name":"Niepubliczny M\u0142odzie\u017cowy O\u015brodek Wychowawczy \"Druga Szansa\"","addr:country":"PL","addr:postcode":"26-035","addr:place":"Remb\u00f3w","addr:housenumber":"52","addr:teryt:sym_ul":265922,"contact:phone":"+48 413067027","contact:email":"sekretariat@nmowdrugaszansa.edu.pl","contact:website":"http:\/\/www.nmowdrugaszansa.edu.pl","ref:regon":"389750596","operator":"Stowarzyszenie Readaptacji Spo\u0142ecznej \"Druga Szansa\" W Rembowie","operator:type":"ngo","fixme":"amenity=social facility + social_facility=group_home + social_facility:for=juvenile","note":"Children RSPO: 278048;278049;278050;278052"}},{"id":278048,"type":"Feature","geometry":{"type":"Point","coordinates":[21.0529109,50.705282]},"properties":{"isced:level":"1;2","ref:rspo":278048,"official_name":"Szko\u0142a Podstawowa Specjalna w Rembowie","name":"Szko\u0142a Podstawowa Specjalna w Rembowie","addr:country":"PL","addr:postcode":"26-035","addr:place":"Remb\u00f3w","addr:housenumber":"52","addr:teryt:sym_ul":265922,"contact:phone":"+48 413067027","contact:email":"sekretariat@nmowdrugaszansa.edu.pl","contact:website":"http:\/\/www.nmowdrugaszansa.edu.pl","ref:regon":"389752052","operator":"Stowarzyszenie Readaptacji Spo\u0142ecznej \"Druga Szansa\" W Rembowie","operator:type":"ngo","amenity":"school","note":"Parent RSPO: 278045"}},{"id":278049,"type":"Feature","geometry":{"type":"Point","coordinates":[21.0529109,50.705252]},"properties":{"isced:level":"3","ref:rspo":278049,"official_name":"Liceum Og\u00f3lnokszta\u0142c\u0105ce Specjalne w Rembowie","name":"Liceum Og\u00f3lnokszta\u0142c\u0105ce Specjalne w Rembowie","addr:country":"PL","addr:postcode":"26-035","addr:place":"Remb\u00f3w","addr:housenumber":"52","addr:teryt:sym_ul":265922,"contact:phone":"+48 413067027","contact:email":"sekretariat@nmowdrugaszansa.edu.pl","contact:website":"http:\/\/www.nmowdrugaszansa.edu.pl","ref:regon":"389752141","operator":"Stowarzyszenie Readaptacji Spo\u0142ecznej \"Druga Szansa\" W Rembowie","operator:type":"ngo","amenity":"school","note":"Parent RSPO: 278045"}},{"id":278050,"type":"Feature","geometry":{"type":"Point","coordinates":[21.0529109,50.705222]},"properties":{"isced:level":"3","ref:rspo":278050,"official_name":"Technikum Specjalne w Rembowie","name":"Technikum Specjalne w Rembowie","addr:country":"PL","addr:postcode":"26-035","addr:place":"Remb\u00f3w","addr:housenumber":"52","addr:teryt:sym_ul":265922,"contact:phone":"+48 413067027","contact:email":"sekretariat@nmowdrugaszansa.edu.pl","contact:website":"http:\/\/www.nmowdrugaszansa.edu.pl","ref:regon":"389752282","operator":"Stowarzyszenie Readaptacji Spo\u0142ecznej \"Druga Szansa\" W Rembowie","operator:type":"ngo","amenity":"school","note":"Parent RSPO: 278045"}},{"id":278052,"type":"Feature","geometry":{"type":"Point","coordinates":[21.0529109,50.705192]},"properties":{"isced:level":"3","ref:rspo":278052,"official_name":"Bran\u017cowa Szko\u0142a I Stopnia Specjalna w Rembowie","name":"Bran\u017cowa Szko\u0142a I Stopnia Specjalna w Rembowie","addr:country":"PL","addr:postcode":"26-035","addr:place":"Remb\u00f3w","addr:housenumber":"52","addr:teryt:sym_ul":265922,"contact:phone":"+48 413067027","contact:email":"sekretariat@nmowdrugaszansa.edu.pl","contact:website":"http:\/\/www.nmowdrugaszansa.edu.pl","ref:regon":"389752460","operator":"Stowarzyszenie Readaptacji Spo\u0142ecznej \"Druga Szansa\" W Rembowie","operator:type":"ngo","amenity":"school","note":"Parent RSPO: 278045"}},{"id":133561,"type":"Feature","geometry":{"type":"Point","coordinates":[21.0402099,50.734435]},"properties":{"isced:level":"1;2","ref:rspo":133561,"official_name":"Szko\u0142a Podstawowa w Bardzie","name":"Szko\u0142a Podstawowa w Bardzie","addr:country":"PL","addr:postcode":"26-035","addr:place":"Bardo","addr:housenumber":"86","addr:teryt:sym_ul":265164,"contact:phone":"+48 413535180","contact:email":"spbardo@o2.pl","ref:regon":"367416437","ref:vatin":"PL6572932251","operator":"Gmina Rak\u00f3w","operator:type":"government","amenity":"school"}},{"id":278020,"type":"Feature","geometry":{"type":"Point","coordinates":[20.969274,50.7378239]},"properties":{"ref:rspo":278020,"official_name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w Ocies\u0119kach","name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w Ocies\u0119kach","addr:country":"PL","addr:postcode":"26-035","addr:place":"Ocies\u0119ki","addr:housenumber":"63","addr:teryt:sym_ul":265649,"contact:phone":"+48 413535313","contact:email":"spocieseki@poczta.onet.pl","ref:regon":"389743194","ref:vatin":"PL6572962996","operator":"Gmina Rak\u00f3w","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 4227;278024"}},{"id":4227,"type":"Feature","geometry":{"type":"Point","coordinates":[20.969274,50.7377939]},"properties":{"isced:level":"1;2","ref:rspo":4227,"official_name":"Szko\u0142a Podstawowa w Ocies\u0119kach","name":"Szko\u0142a Podstawowa w Ocies\u0119kach","addr:country":"PL","addr:postcode":"26-035","addr:place":"Ocies\u0119ki","addr:housenumber":"63","addr:teryt:sym_ul":265649,"contact:phone":"+48 413535313","contact:email":"spocieseki@poczta.onet.pl","ref:regon":"001217693","ref:vatin":"PL6572285225","operator":"Gmina Rak\u00f3w","operator:type":"government","amenity":"school","note":"Parent RSPO: 278020"}},{"id":278024,"type":"Feature","geometry":{"type":"Point","coordinates":[20.969274,50.737763900000004]},"properties":{"ref:rspo":278024,"official_name":"Przedszkole Publiczne w Ocies\u0119kach","name":"Przedszkole Publiczne w Ocies\u0119kach","addr:country":"PL","addr:postcode":"26-035","addr:place":"Ocies\u0119ki","addr:housenumber":"63","addr:teryt:sym_ul":265649,"contact:phone":"+48 413535313","contact:email":"spocieseki@poczta.onet.pl","ref:regon":"389744791","ref:vatin":"PL6572962973","operator":"Gmina Rak\u00f3w","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 278020"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 19463,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.05125,
+                    50.6795199
+                ]
+            },
+            "properties": {
+                "ref:rspo": 19463,
+                "official_name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w Rakowie",
+                "name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w Rakowie",
+                "addr:country": "PL",
+                "addr:postcode": "26-035",
+                "addr:city": "Rak\u00f3w",
+                "addr:street": "ul. \u0141agowska",
+                "addr:housenumber": "25",
+                "addr:teryt:simc": 11503,
+                "addr:teryt:sym_ul": 265879,
+                "contact:phone": "+48 413535015",
+                "contact:email": "szkorak@poczta.onet.pl",
+                "contact:website": "http:\/\/zsp-rakow.edupage.org",
+                "ref:regon": "260515211",
+                "ref:vatin": "PL6572898583",
+                "operator": "Gmina Rak\u00f3w",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 27604;27756"
+            }
+        },
+        {
+            "id": 27604,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.05125,
+                    50.6794899
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 27604,
+                "official_name": "Szko\u0142a Podstawowa im. \u015aw Jana Paw\u0142a II w Rakowie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "26-035",
+                "addr:city": "Rak\u00f3w",
+                "addr:street": "ul. \u0141agowska",
+                "addr:housenumber": "25",
+                "addr:teryt:simc": 11503,
+                "addr:teryt:sym_ul": 265879,
+                "contact:phone": "+48 413535015",
+                "contact:email": "szkorak@poczta.onet.pl",
+                "ref:regon": "000645748",
+                "ref:vatin": "PL6572285260",
+                "operator": "Gmina Rak\u00f3w",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 19463"
+            }
+        },
+        {
+            "id": 27756,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.05125,
+                    50.679459900000005
+                ]
+            },
+            "properties": {
+                "ref:rspo": 27756,
+                "official_name": "Przedszkole Gminne w Rakowie",
+                "name": "Przedszkole Gminne w Rakowie",
+                "addr:country": "PL",
+                "addr:postcode": "26-035",
+                "addr:city": "Rak\u00f3w",
+                "addr:street": "ul. \u0141agowska",
+                "addr:housenumber": "25",
+                "addr:teryt:simc": 11503,
+                "addr:teryt:sym_ul": 265879,
+                "contact:phone": "+48 413535015",
+                "contact:email": "szkorak@poczta.onet.pl",
+                "ref:regon": "290013236",
+                "ref:vatin": "PL6572286012",
+                "operator": "Gmina Rak\u00f3w",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 19463"
+            }
+        },
+        {
+            "id": 19329,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0880699,
+                    50.701595
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 19329,
+                "official_name": "Szko\u0142a Podstawowa w Szumsku",
+                "name": "Szko\u0142a Podstawowa w Szumsku",
+                "addr:country": "PL",
+                "addr:postcode": "26-035",
+                "addr:place": "Szumsko",
+                "addr:housenumber": "42b",
+                "addr:teryt:sym_ul": 266040,
+                "contact:phone": "+48 413535170",
+                "contact:email": "spszumsko@spszumsko.edu.pl",
+                "contact:website": "http:\/\/spszumsko.edu.pl",
+                "ref:regon": "001217813",
+                "ref:vatin": "PL6572285231",
+                "operator": "Gmina Rak\u00f3w",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 278045,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0529109,
+                    50.705312
+                ]
+            },
+            "properties": {
+                "ref:rspo": 278045,
+                "official_name": "Niepubliczny M\u0142odzie\u017cowy O\u015brodek Wychowawczy \"Druga Szansa\"",
+                "name": "Niepubliczny M\u0142odzie\u017cowy O\u015brodek Wychowawczy \"Druga Szansa\"",
+                "addr:country": "PL",
+                "addr:postcode": "26-035",
+                "addr:place": "Remb\u00f3w",
+                "addr:housenumber": "52",
+                "addr:teryt:sym_ul": 265922,
+                "contact:phone": "+48 413067027",
+                "contact:email": "sekretariat@nmowdrugaszansa.edu.pl",
+                "contact:website": "http:\/\/www.nmowdrugaszansa.edu.pl",
+                "ref:regon": "389750596",
+                "operator": "Stowarzyszenie Readaptacji Spo\u0142ecznej \"Druga Szansa\" W Rembowie",
+                "operator:type": "ngo",
+                "fixme": "amenity=social_facility + social_facility=group_home + social_facility:for=juvenile",
+                "note": "Children RSPO: 278048;278049;278050;278052"
+            }
+        },
+        {
+            "id": 278048,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0529109,
+                    50.705282
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 278048,
+                "official_name": "Szko\u0142a Podstawowa Specjalna w Rembowie",
+                "name": "Szko\u0142a Podstawowa Specjalna w Rembowie",
+                "addr:country": "PL",
+                "addr:postcode": "26-035",
+                "addr:place": "Remb\u00f3w",
+                "addr:housenumber": "52",
+                "addr:teryt:sym_ul": 265922,
+                "contact:phone": "+48 413067027",
+                "contact:email": "sekretariat@nmowdrugaszansa.edu.pl",
+                "contact:website": "http:\/\/www.nmowdrugaszansa.edu.pl",
+                "ref:regon": "389752052",
+                "operator": "Stowarzyszenie Readaptacji Spo\u0142ecznej \"Druga Szansa\" W Rembowie",
+                "operator:type": "ngo",
+                "amenity": "school",
+                "note": "Parent RSPO: 278045"
+            }
+        },
+        {
+            "id": 278049,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0529109,
+                    50.705252
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 278049,
+                "official_name": "Liceum Og\u00f3lnokszta\u0142c\u0105ce Specjalne w Rembowie",
+                "name": "Liceum Og\u00f3lnokszta\u0142c\u0105ce Specjalne w Rembowie",
+                "addr:country": "PL",
+                "addr:postcode": "26-035",
+                "addr:place": "Remb\u00f3w",
+                "addr:housenumber": "52",
+                "addr:teryt:sym_ul": 265922,
+                "contact:phone": "+48 413067027",
+                "contact:email": "sekretariat@nmowdrugaszansa.edu.pl",
+                "contact:website": "http:\/\/www.nmowdrugaszansa.edu.pl",
+                "ref:regon": "389752141",
+                "operator": "Stowarzyszenie Readaptacji Spo\u0142ecznej \"Druga Szansa\" W Rembowie",
+                "operator:type": "ngo",
+                "amenity": "school",
+                "note": "Parent RSPO: 278045"
+            }
+        },
+        {
+            "id": 278050,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0529109,
+                    50.705222
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 278050,
+                "official_name": "Technikum Specjalne w Rembowie",
+                "name": "Technikum Specjalne w Rembowie",
+                "addr:country": "PL",
+                "addr:postcode": "26-035",
+                "addr:place": "Remb\u00f3w",
+                "addr:housenumber": "52",
+                "addr:teryt:sym_ul": 265922,
+                "contact:phone": "+48 413067027",
+                "contact:email": "sekretariat@nmowdrugaszansa.edu.pl",
+                "contact:website": "http:\/\/www.nmowdrugaszansa.edu.pl",
+                "ref:regon": "389752282",
+                "operator": "Stowarzyszenie Readaptacji Spo\u0142ecznej \"Druga Szansa\" W Rembowie",
+                "operator:type": "ngo",
+                "amenity": "school",
+                "note": "Parent RSPO: 278045"
+            }
+        },
+        {
+            "id": 278052,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0529109,
+                    50.705192
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 278052,
+                "official_name": "Bran\u017cowa Szko\u0142a I Stopnia Specjalna w Rembowie",
+                "name": "Bran\u017cowa Szko\u0142a I Stopnia Specjalna w Rembowie",
+                "addr:country": "PL",
+                "addr:postcode": "26-035",
+                "addr:place": "Remb\u00f3w",
+                "addr:housenumber": "52",
+                "addr:teryt:sym_ul": 265922,
+                "contact:phone": "+48 413067027",
+                "contact:email": "sekretariat@nmowdrugaszansa.edu.pl",
+                "contact:website": "http:\/\/www.nmowdrugaszansa.edu.pl",
+                "ref:regon": "389752460",
+                "operator": "Stowarzyszenie Readaptacji Spo\u0142ecznej \"Druga Szansa\" W Rembowie",
+                "operator:type": "ngo",
+                "amenity": "school",
+                "note": "Parent RSPO: 278045"
+            }
+        },
+        {
+            "id": 133561,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0402099,
+                    50.734435
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 133561,
+                "official_name": "Szko\u0142a Podstawowa w Bardzie",
+                "name": "Szko\u0142a Podstawowa w Bardzie",
+                "addr:country": "PL",
+                "addr:postcode": "26-035",
+                "addr:place": "Bardo",
+                "addr:housenumber": "86",
+                "addr:teryt:sym_ul": 265164,
+                "contact:phone": "+48 413535180",
+                "contact:email": "spbardo@o2.pl",
+                "ref:regon": "367416437",
+                "ref:vatin": "PL6572932251",
+                "operator": "Gmina Rak\u00f3w",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 278020,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.969274,
+                    50.7378239
+                ]
+            },
+            "properties": {
+                "ref:rspo": 278020,
+                "official_name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w Ocies\u0119kach",
+                "name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w Ocies\u0119kach",
+                "addr:country": "PL",
+                "addr:postcode": "26-035",
+                "addr:place": "Ocies\u0119ki",
+                "addr:housenumber": "63",
+                "addr:teryt:sym_ul": 265649,
+                "contact:phone": "+48 413535313",
+                "contact:email": "spocieseki@poczta.onet.pl",
+                "ref:regon": "389743194",
+                "ref:vatin": "PL6572962996",
+                "operator": "Gmina Rak\u00f3w",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 4227;278024"
+            }
+        },
+        {
+            "id": 4227,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.969274,
+                    50.7377939
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 4227,
+                "official_name": "Szko\u0142a Podstawowa w Ocies\u0119kach",
+                "name": "Szko\u0142a Podstawowa w Ocies\u0119kach",
+                "addr:country": "PL",
+                "addr:postcode": "26-035",
+                "addr:place": "Ocies\u0119ki",
+                "addr:housenumber": "63",
+                "addr:teryt:sym_ul": 265649,
+                "contact:phone": "+48 413535313",
+                "contact:email": "spocieseki@poczta.onet.pl",
+                "ref:regon": "001217693",
+                "ref:vatin": "PL6572285225",
+                "operator": "Gmina Rak\u00f3w",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 278020"
+            }
+        },
+        {
+            "id": 278024,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.969274,
+                    50.737763900000004
+                ]
+            },
+            "properties": {
+                "ref:rspo": 278024,
+                "official_name": "Przedszkole Publiczne w Ocies\u0119kach",
+                "name": "Przedszkole Publiczne w Ocies\u0119kach",
+                "addr:country": "PL",
+                "addr:postcode": "26-035",
+                "addr:place": "Ocies\u0119ki",
+                "addr:housenumber": "63",
+                "addr:teryt:sym_ul": 265649,
+                "contact:phone": "+48 413535313",
+                "contact:email": "spocieseki@poczta.onet.pl",
+                "ref:regon": "389744791",
+                "ref:vatin": "PL6572962973",
+                "operator": "Gmina Rak\u00f3w",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 278020"
+            }
+        }
+    ]
+}

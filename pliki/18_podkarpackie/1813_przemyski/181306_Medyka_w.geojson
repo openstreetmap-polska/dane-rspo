@@ -1,1 +1,184 @@
-{"type":"FeatureCollection","features":[{"id":42488,"type":"Feature","geometry":{"type":"Point","coordinates":[22.88254,49.7738]},"properties":{"isced:level":"1;2","ref:rspo":42488,"official_name":"Szko\u0142a Podstawowa w Siedliskach","name":"Szko\u0142a Podstawowa w Siedliskach","addr:country":"PL","addr:postcode":"37-705","addr:place":"Siedliska","addr:housenumber":"115","addr:teryt:sym_ul":606642,"contact:phone":"+48 166780882","contact:email":"szkolasiedliska@vp.pl","contact:website":"http:\/\/sp.siedliska.superszkolna.pl","ref:regon":"001207766","ref:vatin":"PL7952141622","operator":"Gmina Medyka","operator:type":"government","amenity":"school"}},{"id":42462,"type":"Feature","geometry":{"type":"Point","coordinates":[22.85476,49.78879]},"properties":{"isced:level":"1;2","ref:rspo":42462,"official_name":"Szko\u0142a Podstawowa w Hureczku","name":"Szko\u0142a Podstawowa w Hureczku","addr:country":"PL","addr:postcode":"37-705","addr:place":"Hureczko","addr:housenumber":"100","addr:teryt:sym_ul":606501,"contact:phone":"+48 166780924","contact:email":"sphureczko@op.pl","contact:website":"http:\/\/sp_hureczko.republika.pl","ref:regon":"001207743","ref:vatin":"PL7952140901","operator":"Gmina Medyka","operator:type":"government","amenity":"school"}},{"id":34371,"type":"Feature","geometry":{"type":"Point","coordinates":[22.9318,49.8064899]},"properties":{"isced:level":"1;2","ref:rspo":34371,"official_name":"Szko\u0142a Podstawowa w Medyce im. Kr\u00f3la W\u0142. Jagie\u0142\u0142y","name":"Szko\u0142a Podstawowa w Medyce","addr:country":"PL","addr:postcode":"37-732","addr:place":"Medyka","addr:housenumber":"292","addr:teryt:sym_ul":606576,"contact:phone":"+48 166715385","contact:email":"spmedyka@wp.pl","contact:website":"http:\/\/www.spmedyka.pl","ref:regon":"000663290","ref:vatin":"PL7952141616","operator":"Gmina Medyka","operator:type":"government","amenity":"school"}},{"id":41827,"type":"Feature","geometry":{"type":"Point","coordinates":[22.93129,49.8084599]},"properties":{"ref:rspo":41827,"official_name":"Samorz\u0105dowe Przedszkole w Medyce","name":"Samorz\u0105dowe Przedszkole w Medyce","addr:country":"PL","addr:postcode":"37-732","addr:place":"Medyka","addr:housenumber":"478A","addr:teryt:sym_ul":606576,"contact:phone":"+48 166715546","contact:email":"przedszkolemedyka@interia.pl","contact:website":"http:\/\/www.przedszkolemedyka.cba.pl","ref:regon":"001057090","ref:vatin":"PL7952086277","operator":"Gmina Medyka","operator:type":"government","amenity":"kindergarten"}},{"id":42385,"type":"Feature","geometry":{"type":"Point","coordinates":[22.92048,49.83547]},"properties":{"isced:level":"1;2","ref:rspo":42385,"official_name":"Szko\u0142a Podstawowa w Torkach","name":"Szko\u0142a Podstawowa w Torkach","addr:country":"PL","addr:postcode":"37-732","addr:place":"Torki","addr:housenumber":"51","addr:teryt:sym_ul":606665,"contact:phone":"+48 166715229","contact:email":"sp_torki@op.pl","contact:website":"http:\/\/www.sptorki.drl.pl","ref:regon":"001207750","ref:vatin":"PL7952141013","operator":"Gmina Medyka","operator:type":"government","amenity":"school"}},{"id":42072,"type":"Feature","geometry":{"type":"Point","coordinates":[22.95615,49.85328]},"properties":{"isced:level":"1;2","ref:rspo":42072,"official_name":"Szko\u0142a Podstawowa w Lesznie","name":"Szko\u0142a Podstawowa w Lesznie","addr:country":"PL","addr:postcode":"37-723","addr:place":"Leszno","addr:housenumber":"178","addr:teryt:sym_ul":606560,"contact:phone":"+48 166715394","contact:email":"sp.leszno@wp.pl","contact:website":"http:\/\/www.spleszno.superszkolna.pl","ref:regon":"650945792","ref:vatin":"PL7952132907","operator":"Gmina Medyka","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 42488,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.88254,
+                    49.7738
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 42488,
+                "official_name": "Szko\u0142a Podstawowa w Siedliskach",
+                "name": "Szko\u0142a Podstawowa w Siedliskach",
+                "addr:country": "PL",
+                "addr:postcode": "37-705",
+                "addr:place": "Siedliska",
+                "addr:housenumber": "115",
+                "addr:teryt:sym_ul": 606642,
+                "contact:phone": "+48 166780882",
+                "contact:email": "szkolasiedliska@vp.pl",
+                "contact:website": "http:\/\/sp.siedliska.superszkolna.pl",
+                "ref:regon": "001207766",
+                "ref:vatin": "PL7952141622",
+                "operator": "Gmina Medyka",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 42462,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.85476,
+                    49.78879
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 42462,
+                "official_name": "Szko\u0142a Podstawowa w Hureczku",
+                "name": "Szko\u0142a Podstawowa w Hureczku",
+                "addr:country": "PL",
+                "addr:postcode": "37-705",
+                "addr:place": "Hureczko",
+                "addr:housenumber": "100",
+                "addr:teryt:sym_ul": 606501,
+                "contact:phone": "+48 166780924",
+                "contact:email": "sphureczko@op.pl",
+                "contact:website": "http:\/\/sp_hureczko.republika.pl",
+                "ref:regon": "001207743",
+                "ref:vatin": "PL7952140901",
+                "operator": "Gmina Medyka",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 34371,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.9318,
+                    49.8064899
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 34371,
+                "official_name": "Szko\u0142a Podstawowa w Medyce im. Kr\u00f3la W\u0142. Jagie\u0142\u0142y",
+                "name": "Szko\u0142a Podstawowa w Medyce",
+                "addr:country": "PL",
+                "addr:postcode": "37-732",
+                "addr:place": "Medyka",
+                "addr:housenumber": "292",
+                "addr:teryt:sym_ul": 606576,
+                "contact:phone": "+48 166715385",
+                "contact:email": "spmedyka@wp.pl",
+                "contact:website": "http:\/\/www.spmedyka.pl",
+                "ref:regon": "000663290",
+                "ref:vatin": "PL7952141616",
+                "operator": "Gmina Medyka",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 41827,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.93129,
+                    49.8084599
+                ]
+            },
+            "properties": {
+                "ref:rspo": 41827,
+                "official_name": "Samorz\u0105dowe Przedszkole w Medyce",
+                "name": "Samorz\u0105dowe Przedszkole w Medyce",
+                "addr:country": "PL",
+                "addr:postcode": "37-732",
+                "addr:place": "Medyka",
+                "addr:housenumber": "478A",
+                "addr:teryt:sym_ul": 606576,
+                "contact:phone": "+48 166715546",
+                "contact:email": "przedszkolemedyka@interia.pl",
+                "contact:website": "http:\/\/www.przedszkolemedyka.cba.pl",
+                "ref:regon": "001057090",
+                "ref:vatin": "PL7952086277",
+                "operator": "Gmina Medyka",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 42385,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.92048,
+                    49.83547
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 42385,
+                "official_name": "Szko\u0142a Podstawowa w Torkach",
+                "name": "Szko\u0142a Podstawowa w Torkach",
+                "addr:country": "PL",
+                "addr:postcode": "37-732",
+                "addr:place": "Torki",
+                "addr:housenumber": "51",
+                "addr:teryt:sym_ul": 606665,
+                "contact:phone": "+48 166715229",
+                "contact:email": "sp_torki@op.pl",
+                "contact:website": "http:\/\/www.sptorki.drl.pl",
+                "ref:regon": "001207750",
+                "ref:vatin": "PL7952141013",
+                "operator": "Gmina Medyka",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 42072,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.95615,
+                    49.85328
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 42072,
+                "official_name": "Szko\u0142a Podstawowa w Lesznie",
+                "name": "Szko\u0142a Podstawowa w Lesznie",
+                "addr:country": "PL",
+                "addr:postcode": "37-723",
+                "addr:place": "Leszno",
+                "addr:housenumber": "178",
+                "addr:teryt:sym_ul": 606560,
+                "contact:phone": "+48 166715394",
+                "contact:email": "sp.leszno@wp.pl",
+                "contact:website": "http:\/\/www.spleszno.superszkolna.pl",
+                "ref:regon": "650945792",
+                "ref:vatin": "PL7952132907",
+                "operator": "Gmina Medyka",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

@@ -1,1 +1,68 @@
-{"type":"FeatureCollection","features":[{"id":121671,"type":"Feature","geometry":{"type":"Point","coordinates":[19.201330184936,54.054618835449]},"properties":{"isced:level":"1;2","ref:rspo":121671,"official_name":"Szko\u0142a Podstawowa im. Genera\u0142a J\u00f3zefa Bema w Starym Polu","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"82-220","addr:city":"Stare Pole","addr:street":"ul. gen. J\u00f3zefa Bema","addr:housenumber":"6","addr:teryt:simc":1014,"addr:teryt:sym_ul":156707,"contact:phone":"+48 552713546","contact:email":"szkolastarepole@wp.pl","contact:website":"http:\/\/www.szkola-starepole.pl","ref:regon":"192789636","ref:vatin":"PL5791837109","operator":"Gmina Stare Pole","operator:type":"government","amenity":"school"}},{"id":35197,"type":"Feature","geometry":{"type":"Point","coordinates":[19.20691,54.05524]},"properties":{"ref:rspo":35197,"official_name":"Przedszkole w Starym Polu","name":"Przedszkole w Starym Polu","addr:country":"PL","addr:postcode":"82-220","addr:city":"Stare Pole","addr:street":"ul. Marynarki Wojennej","addr:housenumber":"22","addr:teryt:simc":12426,"addr:teryt:sym_ul":156707,"contact:phone":"+48 552713097","contact:email":"przedszkole@starepole.pl","contact:website":"http:\/\/www.przedszkole.starepole.pl","ref:regon":"170019631","ref:vatin":"PL5791030849","operator":"Gmina Stare Pole","operator:type":"government","amenity":"kindergarten"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 121671,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.201330184936,
+                    54.054618835449
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 121671,
+                "official_name": "Szko\u0142a Podstawowa im. Genera\u0142a J\u00f3zefa Bema w Starym Polu",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "82-220",
+                "addr:city": "Stare Pole",
+                "addr:street": "ul. gen. J\u00f3zefa Bema",
+                "addr:housenumber": "6",
+                "addr:teryt:simc": 1014,
+                "addr:teryt:sym_ul": 156707,
+                "contact:phone": "+48 552713546",
+                "contact:email": "szkolastarepole@wp.pl",
+                "contact:website": "http:\/\/www.szkola-starepole.pl",
+                "ref:regon": "192789636",
+                "ref:vatin": "PL5791837109",
+                "operator": "Gmina Stare Pole",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 35197,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.20691,
+                    54.05524
+                ]
+            },
+            "properties": {
+                "ref:rspo": 35197,
+                "official_name": "Przedszkole w Starym Polu",
+                "name": "Przedszkole w Starym Polu",
+                "addr:country": "PL",
+                "addr:postcode": "82-220",
+                "addr:city": "Stare Pole",
+                "addr:street": "ul. Marynarki Wojennej",
+                "addr:housenumber": "22",
+                "addr:teryt:simc": 12426,
+                "addr:teryt:sym_ul": 156707,
+                "contact:phone": "+48 552713097",
+                "contact:email": "przedszkole@starepole.pl",
+                "contact:website": "http:\/\/www.przedszkole.starepole.pl",
+                "ref:regon": "170019631",
+                "ref:vatin": "PL5791030849",
+                "operator": "Gmina Stare Pole",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        }
+    ]
+}

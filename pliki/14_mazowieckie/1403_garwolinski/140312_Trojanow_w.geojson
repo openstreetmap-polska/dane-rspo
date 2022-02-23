@@ -1,1 +1,181 @@
-{"type":"FeatureCollection","features":[{"id":88520,"type":"Feature","geometry":{"type":"Point","coordinates":[21.75553,51.64324]},"properties":{"isced:level":"1;2","ref:rspo":88520,"official_name":"Szko\u0142a Podstawowa im. Dawnych S\u0142owian w Podeb\u0142ociu Z Fili\u0105 w Wi\u0119ckowie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"08-455","addr:place":"Podeb\u0142ocie","addr:housenumber":"109","addr:teryt:sym_ul":692564,"contact:phone":"+48 256827222","contact:email":"sp.podeblocie@interia.pl","contact:website":"http:\/\/sp-podeblocie.edupage.org","ref:regon":"001137221","ref:vatin":"PL8261990833","operator":"Gmina Trojan\u00f3w","operator:type":"government","amenity":"school"}},{"id":88761,"type":"Feature","geometry":{"type":"Point","coordinates":[21.72458,51.6751]},"properties":{"isced:level":"1;2","ref:rspo":88761,"official_name":"Szko\u0142a Podstawowa im. Chor\u0105\u017cego Jerzego Paca w \u017byczynie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"08-455","addr:place":"\u017byczyn","addr:housenumber":"55A","addr:teryt:sym_ul":692587,"contact:phone":"+48 256834717","contact:email":"sp.zyczyn@wp.pl","contact:website":"http:\/\/spzyczyn.pl","ref:regon":"001137250","ref:vatin":"PL8261876221","operator":"Gmina Trojan\u00f3w","operator:type":"government","amenity":"school"}},{"id":129615,"type":"Feature","geometry":{"type":"Point","coordinates":[21.77555,51.6765]},"properties":{"ref:rspo":129615,"official_name":"Przedszkole Niepubliczne \"Ma\u0142y Mi\u015b\"","name":"Przedszkole Niepubliczne \"Ma\u0142y Mi\u015b\"","addr:country":"PL","addr:postcode":"08-455","addr:place":"Kozice","addr:housenumber":"116","addr:teryt:sym_ul":692475,"contact:email":"jasek-beata@wp.pl","ref:regon":"362689930","ref:vatin":"PL8261953039","operator":"Beata Jasek","operator:type":"private","amenity":"kindergarten"}},{"id":91611,"type":"Feature","geometry":{"type":"Point","coordinates":[21.77452,51.7236199]},"properties":{"isced:level":"1;2","ref:rspo":91611,"official_name":"Szko\u0142a Podstawowa im. \u015aw. Jana Paw\u0142a II w Korytnicy","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"08-455","addr:place":"Korytnica","addr:housenumber":"106","addr:teryt:sym_ul":692452,"contact:phone":"+48 256827077","contact:email":"korytnica@op.pl","contact:website":"http:\/\/spkorytnica.edupage.org","ref:regon":"001137209","ref:vatin":"PL8261990827","operator":"Gmina Trojan\u00f3w","operator:type":"government","amenity":"school"}},{"id":89737,"type":"Feature","geometry":{"type":"Point","coordinates":[21.7549199,51.73562]},"properties":{"isced:level":"1;2","ref:rspo":89737,"official_name":"Szko\u0142a Podstawowa w Woli Koryckiej G\u00f3rnej","name":"Szko\u0142a Podstawowa w Woli Koryckiej G\u00f3rnej","addr:country":"PL","addr:postcode":"08-455","addr:place":"Wola Korycka G\u00f3rna","addr:housenumber":"36","addr:teryt:sym_ul":692707,"contact:phone":"+48 256827023","contact:email":"szkolawolakorycka@wp.pl","ref:regon":"001137244","ref:vatin":"PL8261851221","operator":"Gmina Trojan\u00f3w","operator:type":"government","amenity":"school"}},{"id":88304,"type":"Feature","geometry":{"type":"Point","coordinates":[21.648216247559,51.825885772705]},"properties":{"isced:level":"1;2","ref:rspo":88304,"official_name":"Szko\u0142a Podstawowa im. Boles\u0142awa Grudniaka w Trojanowie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"08-455","addr:place":"Trojan\u00f3w","addr:housenumber":"161","addr:teryt:sym_ul":692630,"contact:phone":"+48 256827179","contact:email":"zstrojanow@poczta.onet.pl","contact:website":"http:\/\/sptrojanow.edupage.org","ref:regon":"000718074","ref:vatin":"PL8261878467","operator":"Gmina Trojan\u00f3w","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 88520,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.75553,
+                    51.64324
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 88520,
+                "official_name": "Szko\u0142a Podstawowa im. Dawnych S\u0142owian w Podeb\u0142ociu Z Fili\u0105 w Wi\u0119ckowie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "08-455",
+                "addr:place": "Podeb\u0142ocie",
+                "addr:housenumber": "109",
+                "addr:teryt:sym_ul": 692564,
+                "contact:phone": "+48 256827222",
+                "contact:email": "sp.podeblocie@interia.pl",
+                "contact:website": "http:\/\/sp-podeblocie.edupage.org",
+                "ref:regon": "001137221",
+                "ref:vatin": "PL8261990833",
+                "operator": "Gmina Trojan\u00f3w",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 88761,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.72458,
+                    51.6751
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 88761,
+                "official_name": "Szko\u0142a Podstawowa im. Chor\u0105\u017cego Jerzego Paca w \u017byczynie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "08-455",
+                "addr:place": "\u017byczyn",
+                "addr:housenumber": "55A",
+                "addr:teryt:sym_ul": 692587,
+                "contact:phone": "+48 256834717",
+                "contact:email": "sp.zyczyn@wp.pl",
+                "contact:website": "http:\/\/spzyczyn.pl",
+                "ref:regon": "001137250",
+                "ref:vatin": "PL8261876221",
+                "operator": "Gmina Trojan\u00f3w",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 129615,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.77555,
+                    51.6765
+                ]
+            },
+            "properties": {
+                "ref:rspo": 129615,
+                "official_name": "Przedszkole Niepubliczne \"Ma\u0142y Mi\u015b\"",
+                "name": "Przedszkole Niepubliczne \"Ma\u0142y Mi\u015b\"",
+                "addr:country": "PL",
+                "addr:postcode": "08-455",
+                "addr:place": "Kozice",
+                "addr:housenumber": "116",
+                "addr:teryt:sym_ul": 692475,
+                "contact:email": "jasek-beata@wp.pl",
+                "ref:regon": "362689930",
+                "ref:vatin": "PL8261953039",
+                "operator": "Beata Jasek",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 91611,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.77452,
+                    51.7236199
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 91611,
+                "official_name": "Szko\u0142a Podstawowa im. \u015aw. Jana Paw\u0142a II w Korytnicy",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "08-455",
+                "addr:place": "Korytnica",
+                "addr:housenumber": "106",
+                "addr:teryt:sym_ul": 692452,
+                "contact:phone": "+48 256827077",
+                "contact:email": "korytnica@op.pl",
+                "contact:website": "http:\/\/spkorytnica.edupage.org",
+                "ref:regon": "001137209",
+                "ref:vatin": "PL8261990827",
+                "operator": "Gmina Trojan\u00f3w",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 89737,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.7549199,
+                    51.73562
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 89737,
+                "official_name": "Szko\u0142a Podstawowa w Woli Koryckiej G\u00f3rnej",
+                "name": "Szko\u0142a Podstawowa w Woli Koryckiej G\u00f3rnej",
+                "addr:country": "PL",
+                "addr:postcode": "08-455",
+                "addr:place": "Wola Korycka G\u00f3rna",
+                "addr:housenumber": "36",
+                "addr:teryt:sym_ul": 692707,
+                "contact:phone": "+48 256827023",
+                "contact:email": "szkolawolakorycka@wp.pl",
+                "ref:regon": "001137244",
+                "ref:vatin": "PL8261851221",
+                "operator": "Gmina Trojan\u00f3w",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 88304,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.648216247559,
+                    51.825885772705
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 88304,
+                "official_name": "Szko\u0142a Podstawowa im. Boles\u0142awa Grudniaka w Trojanowie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "08-455",
+                "addr:place": "Trojan\u00f3w",
+                "addr:housenumber": "161",
+                "addr:teryt:sym_ul": 692630,
+                "contact:phone": "+48 256827179",
+                "contact:email": "zstrojanow@poczta.onet.pl",
+                "contact:website": "http:\/\/sptrojanow.edupage.org",
+                "ref:regon": "000718074",
+                "ref:vatin": "PL8261878467",
+                "operator": "Gmina Trojan\u00f3w",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

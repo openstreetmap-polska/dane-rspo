@@ -1,1 +1,66 @@
-{"type":"FeatureCollection","features":[{"id":73997,"type":"Feature","geometry":{"type":"Point","coordinates":[15.57249,54.0894]},"properties":{"isced:level":"1;2","ref:rspo":73997,"official_name":"Szko\u0142a Podstawowa im.armii Krajowej w Charzynie","name":"Szko\u0142a Podstawowa im.armii Krajowej w Charzynie","addr:country":"PL","addr:postcode":"78-122","addr:city":"Charzyno","addr:street":"ul. Wojska Polskiego","addr:housenumber":"11","addr:teryt:simc":24628,"addr:teryt:sym_ul":311237,"contact:phone":"+48 943582028","contact:email":"sp.charzyno@siemysl.pl","ref:regon":"001177261","operator":"Gmina Siemy\u015bl","operator:type":"government","amenity":"school"}},{"id":88099,"type":"Feature","geometry":{"type":"Point","coordinates":[15.57075,54.08951]},"properties":{"isced:level":"1;2","ref:rspo":88099,"official_name":"Szko\u0142a Podstawowa im.noblist\u00f3w Polskich w Siemy\u015blu","name":"Szko\u0142a Podstawowa im.noblist\u00f3w Polskich w Siemy\u015blu","addr:country":"PL","addr:postcode":"78-123","addr:city":"Siemy\u015bl","addr:street":"ul. Szkolna","addr:housenumber":"10","addr:teryt:simc":21970,"addr:teryt:sym_ul":311326,"contact:phone":"+48 943588025","contact:email":"zs.siemysl@siemysl.pl","contact:website":"http:\/\/www.szkola.siemysl.pl","ref:regon":"331060052","operator":"Gmina Siemy\u015bl","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 73997,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.57249,
+                    54.0894
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 73997,
+                "official_name": "Szko\u0142a Podstawowa im.armii Krajowej w Charzynie",
+                "name": "Szko\u0142a Podstawowa im.armii Krajowej w Charzynie",
+                "addr:country": "PL",
+                "addr:postcode": "78-122",
+                "addr:city": "Charzyno",
+                "addr:street": "ul. Wojska Polskiego",
+                "addr:housenumber": "11",
+                "addr:teryt:simc": 24628,
+                "addr:teryt:sym_ul": 311237,
+                "contact:phone": "+48 943582028",
+                "contact:email": "sp.charzyno@siemysl.pl",
+                "ref:regon": "001177261",
+                "operator": "Gmina Siemy\u015bl",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 88099,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.57075,
+                    54.08951
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 88099,
+                "official_name": "Szko\u0142a Podstawowa im.noblist\u00f3w Polskich w Siemy\u015blu",
+                "name": "Szko\u0142a Podstawowa im.noblist\u00f3w Polskich w Siemy\u015blu",
+                "addr:country": "PL",
+                "addr:postcode": "78-123",
+                "addr:city": "Siemy\u015bl",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "10",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 311326,
+                "contact:phone": "+48 943588025",
+                "contact:email": "zs.siemysl@siemysl.pl",
+                "contact:website": "http:\/\/www.szkola.siemysl.pl",
+                "ref:regon": "331060052",
+                "operator": "Gmina Siemy\u015bl",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

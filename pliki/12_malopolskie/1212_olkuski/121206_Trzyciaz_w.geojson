@@ -1,1 +1,158 @@
-{"type":"FeatureCollection","features":[{"id":87466,"type":"Feature","geometry":{"type":"Point","coordinates":[19.56074,50.27844]},"properties":{"isced:level":"1;2","ref:rspo":87466,"official_name":"Szko\u0142a Podstawowa im. Kr\u00f3la Jana III Sobieskiego w Jangrocie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"32-353","addr:city":"Jangrot","addr:street":"ul. Krakowska","addr:housenumber":"4","addr:teryt:simc":9796,"addr:teryt:sym_ul":339589,"contact:phone":"+48 123894012","contact:email":"spjangrot@interia.pl","contact:website":"http:\/\/www.spjangrot.itcom.pl","ref:regon":"000699690","ref:vatin":"PL6372006901","operator":"Gmina Trzyci\u0105\u017c","operator:type":"government","amenity":"school"}},{"id":86326,"type":"Feature","geometry":{"type":"Point","coordinates":[19.7906549,50.2876319]},"properties":{"isced:level":"1;2","ref:rspo":86326,"official_name":"Szko\u0142a Podstawowa im. Wincentego Witosa w Zadro\u017cu","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"32-353","addr:place":"Zadro\u017ce","addr:housenumber":"69","addr:teryt:sym_ul":339968,"contact:phone":"+48 123894181","contact:email":"szkola.zadroze@gmail.com","contact:website":"http:\/\/sp-zadroze.edupage.org","ref:regon":"001236242","ref:vatin":"PL6372005646","operator":"Gmina Trzyci\u0105\u017c","operator:type":"government","amenity":"school"}},{"id":87477,"type":"Feature","geometry":{"type":"Point","coordinates":[19.54838,50.30089]},"properties":{"isced:level":"1;2","ref:rspo":87477,"official_name":"Szko\u0142a Podstawowa im. \u015aw. Kr\u00f3lowej Jadwigi w Suchej","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"32-353","addr:city":"Sucha","addr:street":"ul. D\u0142uga","addr:housenumber":"94","addr:teryt:simc":3839,"addr:teryt:sym_ul":339827,"contact:phone":"+48 123894021","contact:email":"spsucha32@gmail.com","ref:regon":"001236259","ref:vatin":"PL6372005617","operator":"Gmina Trzyci\u0105\u017c","operator:type":"government","amenity":"school"}},{"id":2874,"type":"Feature","geometry":{"type":"Point","coordinates":[19.75975,50.30996]},"properties":{"isced:level":"1;2","ref:rspo":2874,"official_name":"Niepubliczna Szko\u0142a Podstawowa im. Jana Paw\u0142a II w Trzyci\u0105\u017cu","name":"Niepubliczna Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"32-353","addr:city":"Trzyci\u0105\u017c","addr:street":"ul. Le\u015bna","addr:housenumber":"14","addr:teryt:simc":10898,"addr:teryt:sym_ul":339916,"contact:phone":"+48 123894026","contact:email":"nsptrzyciaz@wp.pl","ref:regon":"122626848","ref:vatin":"PL6771458409","operator":"Anna Kieca","operator:type":"private","amenity":"school"}},{"id":272494,"type":"Feature","geometry":{"type":"Point","coordinates":[19.75975,50.309929999999994]},"properties":{"ref:rspo":272494,"official_name":"Przedszkole Samorz\u0105dowe Z Oddzia\u0142em Integracyjnym w Trzyci\u0105\u017cu","name":"Przedszkole Samorz\u0105dowe Z Oddzia\u0142em Integracyjnym w Trzyci\u0105\u017cu","addr:country":"PL","addr:postcode":"32-353","addr:city":"Trzyci\u0105\u017c","addr:street":"ul. Le\u015bna","addr:housenumber":"14 A","addr:teryt:simc":10898,"addr:teryt:sym_ul":339916,"contact:email":"kieca4@wp.pl","ref:regon":"384260380","ref:vatin":"PL6372208295","operator":"Gmina Trzyci\u0105\u017c","operator:type":"government","amenity":"kindergarten"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 87466,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.56074,
+                    50.27844
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 87466,
+                "official_name": "Szko\u0142a Podstawowa im. Kr\u00f3la Jana III Sobieskiego w Jangrocie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "32-353",
+                "addr:city": "Jangrot",
+                "addr:street": "ul. Krakowska",
+                "addr:housenumber": "4",
+                "addr:teryt:simc": 9796,
+                "addr:teryt:sym_ul": 339589,
+                "contact:phone": "+48 123894012",
+                "contact:email": "spjangrot@interia.pl",
+                "contact:website": "http:\/\/www.spjangrot.itcom.pl",
+                "ref:regon": "000699690",
+                "ref:vatin": "PL6372006901",
+                "operator": "Gmina Trzyci\u0105\u017c",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 86326,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.7906549,
+                    50.2876319
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 86326,
+                "official_name": "Szko\u0142a Podstawowa im. Wincentego Witosa w Zadro\u017cu",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "32-353",
+                "addr:place": "Zadro\u017ce",
+                "addr:housenumber": "69",
+                "addr:teryt:sym_ul": 339968,
+                "contact:phone": "+48 123894181",
+                "contact:email": "szkola.zadroze@gmail.com",
+                "contact:website": "http:\/\/sp-zadroze.edupage.org",
+                "ref:regon": "001236242",
+                "ref:vatin": "PL6372005646",
+                "operator": "Gmina Trzyci\u0105\u017c",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 87477,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.54838,
+                    50.30089
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 87477,
+                "official_name": "Szko\u0142a Podstawowa im. \u015aw. Kr\u00f3lowej Jadwigi w Suchej",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "32-353",
+                "addr:city": "Sucha",
+                "addr:street": "ul. D\u0142uga",
+                "addr:housenumber": "94",
+                "addr:teryt:simc": 3839,
+                "addr:teryt:sym_ul": 339827,
+                "contact:phone": "+48 123894021",
+                "contact:email": "spsucha32@gmail.com",
+                "ref:regon": "001236259",
+                "ref:vatin": "PL6372005617",
+                "operator": "Gmina Trzyci\u0105\u017c",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 2874,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.75975,
+                    50.30996
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 2874,
+                "official_name": "Niepubliczna Szko\u0142a Podstawowa im. Jana Paw\u0142a II w Trzyci\u0105\u017cu",
+                "name": "Niepubliczna Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "32-353",
+                "addr:city": "Trzyci\u0105\u017c",
+                "addr:street": "ul. Le\u015bna",
+                "addr:housenumber": "14",
+                "addr:teryt:simc": 10898,
+                "addr:teryt:sym_ul": 339916,
+                "contact:phone": "+48 123894026",
+                "contact:email": "nsptrzyciaz@wp.pl",
+                "ref:regon": "122626848",
+                "ref:vatin": "PL6771458409",
+                "operator": "Anna Kieca",
+                "operator:type": "private",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 272494,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.75975,
+                    50.309929999999994
+                ]
+            },
+            "properties": {
+                "ref:rspo": 272494,
+                "official_name": "Przedszkole Samorz\u0105dowe Z Oddzia\u0142em Integracyjnym w Trzyci\u0105\u017cu",
+                "name": "Przedszkole Samorz\u0105dowe Z Oddzia\u0142em Integracyjnym w Trzyci\u0105\u017cu",
+                "addr:country": "PL",
+                "addr:postcode": "32-353",
+                "addr:city": "Trzyci\u0105\u017c",
+                "addr:street": "ul. Le\u015bna",
+                "addr:housenumber": "14 A",
+                "addr:teryt:simc": 10898,
+                "addr:teryt:sym_ul": 339916,
+                "contact:email": "kieca4@wp.pl",
+                "ref:regon": "384260380",
+                "ref:vatin": "PL6372208295",
+                "operator": "Gmina Trzyci\u0105\u017c",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        }
+    ]
+}

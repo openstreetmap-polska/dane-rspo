@@ -1,1 +1,132 @@
-{"type":"FeatureCollection","features":[{"id":74245,"type":"Feature","geometry":{"type":"Point","coordinates":[19.87496,52.26665]},"properties":{"ref:rspo":74245,"official_name":"Przedszkole Samorz\u0105dowe w Kiernozi","name":"Przedszkole Samorz\u0105dowe w Kiernozi","addr:country":"PL","addr:postcode":"99-412","addr:city":"Kiernozia","addr:street":"ul. Ogrodowa","addr:housenumber":"5","addr:teryt:simc":14834,"addr:teryt:sym_ul":566894,"contact:phone":"+48 242779081","contact:email":"przedszkolewkiernozi@wp.pl","contact:website":"http:\/\/www.przedszkolekiernozia.szkolnastrona.pl","ref:regon":"750197588","ref:vatin":"PL8341775456","operator":"Gmina Kiernozia","operator:type":"government","amenity":"kindergarten"}},{"id":72746,"type":"Feature","geometry":{"type":"Point","coordinates":[19.87573,52.26712]},"properties":{"isced:level":"1;2","ref:rspo":72746,"official_name":"Szko\u0142a Podstawowa im. T. Ko\u015bciuszki w Kiernozi","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"99-412","addr:city":"Kiernozia","addr:street":"ul. Ogrodowa","addr:housenumber":"4B","addr:teryt:simc":14834,"addr:teryt:sym_ul":566894,"contact:phone":"+48 242779089","contact:email":"spkiernozia@post.pl","contact:website":"http:\/\/spkiernozia.szkolnastrona.pl","ref:regon":"000271621","ref:vatin":"PL8341707495","operator":"Gmina Kiernozia","operator:type":"government","amenity":"school"}},{"id":26660,"type":"Feature","geometry":{"type":"Point","coordinates":[19.86968,52.26742]},"properties":{"ref:rspo":26660,"official_name":"M\u0142odzie\u017cowy O\u015brodek Socjoterapii w Kiernozi","name":"M\u0142odzie\u017cowy O\u015brodek Socjoterapii w Kiernozi","addr:country":"PL","addr:postcode":"99-412","addr:city":"Kiernozia","addr:street":"ul. Sobocka","addr:housenumber":"2b","addr:teryt:simc":20449,"addr:teryt:sym_ul":566894,"contact:phone":"+48 242779084","contact:email":"oswkiernozia@wp.pl","contact:website":"http:\/\/www.moskiernozia.szkolnastrona.pl","ref:regon":"000636956","ref:vatin":"PL8341670817","operator":"Powiat \u0141owicki","operator:type":"government","fixme":"amenity=social facility + social_facility=group_home + social_facility:for=juvenile","note":"Children RSPO: 41453"}},{"id":41453,"type":"Feature","geometry":{"type":"Point","coordinates":[19.86968,52.26739]},"properties":{"isced:level":"1;2","ref:rspo":41453,"official_name":"Szko\u0142a Podstawowa Specjalna w M\u0142odzie\u017cowym O\u015brodku Socjoterapii w Kiernozi","name":"Szko\u0142a Podstawowa Specjalna w M\u0142odzie\u017cowym O\u015brodku Socjoterapii w Kiernozi","addr:country":"PL","addr:postcode":"99-412","addr:city":"Kiernozia","addr:street":"ul. Sobocka","addr:housenumber":"2b","addr:teryt:simc":20449,"addr:teryt:sym_ul":566894,"contact:phone":"+48 242779084","contact:email":"oswkiernozia@wp.pl","ref:regon":"000999370","ref:vatin":"PL8341670817","operator":"Powiat \u0141owicki","operator:type":"government","amenity":"school","note":"Parent RSPO: 26660"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 74245,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.87496,
+                    52.26665
+                ]
+            },
+            "properties": {
+                "ref:rspo": 74245,
+                "official_name": "Przedszkole Samorz\u0105dowe w Kiernozi",
+                "name": "Przedszkole Samorz\u0105dowe w Kiernozi",
+                "addr:country": "PL",
+                "addr:postcode": "99-412",
+                "addr:city": "Kiernozia",
+                "addr:street": "ul. Ogrodowa",
+                "addr:housenumber": "5",
+                "addr:teryt:simc": 14834,
+                "addr:teryt:sym_ul": 566894,
+                "contact:phone": "+48 242779081",
+                "contact:email": "przedszkolewkiernozi@wp.pl",
+                "contact:website": "http:\/\/www.przedszkolekiernozia.szkolnastrona.pl",
+                "ref:regon": "750197588",
+                "ref:vatin": "PL8341775456",
+                "operator": "Gmina Kiernozia",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 72746,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.87573,
+                    52.26712
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 72746,
+                "official_name": "Szko\u0142a Podstawowa im. T. Ko\u015bciuszki w Kiernozi",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "99-412",
+                "addr:city": "Kiernozia",
+                "addr:street": "ul. Ogrodowa",
+                "addr:housenumber": "4B",
+                "addr:teryt:simc": 14834,
+                "addr:teryt:sym_ul": 566894,
+                "contact:phone": "+48 242779089",
+                "contact:email": "spkiernozia@post.pl",
+                "contact:website": "http:\/\/spkiernozia.szkolnastrona.pl",
+                "ref:regon": "000271621",
+                "ref:vatin": "PL8341707495",
+                "operator": "Gmina Kiernozia",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 26660,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.86968,
+                    52.26742
+                ]
+            },
+            "properties": {
+                "ref:rspo": 26660,
+                "official_name": "M\u0142odzie\u017cowy O\u015brodek Socjoterapii w Kiernozi",
+                "name": "M\u0142odzie\u017cowy O\u015brodek Socjoterapii w Kiernozi",
+                "addr:country": "PL",
+                "addr:postcode": "99-412",
+                "addr:city": "Kiernozia",
+                "addr:street": "ul. Sobocka",
+                "addr:housenumber": "2b",
+                "addr:teryt:simc": 20449,
+                "addr:teryt:sym_ul": 566894,
+                "contact:phone": "+48 242779084",
+                "contact:email": "oswkiernozia@wp.pl",
+                "contact:website": "http:\/\/www.moskiernozia.szkolnastrona.pl",
+                "ref:regon": "000636956",
+                "ref:vatin": "PL8341670817",
+                "operator": "Powiat \u0141owicki",
+                "operator:type": "government",
+                "fixme": "amenity=social_facility + social_facility=group_home + social_facility:for=juvenile",
+                "note": "Children RSPO: 41453"
+            }
+        },
+        {
+            "id": 41453,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.86968,
+                    52.26739
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 41453,
+                "official_name": "Szko\u0142a Podstawowa Specjalna w M\u0142odzie\u017cowym O\u015brodku Socjoterapii w Kiernozi",
+                "name": "Szko\u0142a Podstawowa Specjalna w M\u0142odzie\u017cowym O\u015brodku Socjoterapii w Kiernozi",
+                "addr:country": "PL",
+                "addr:postcode": "99-412",
+                "addr:city": "Kiernozia",
+                "addr:street": "ul. Sobocka",
+                "addr:housenumber": "2b",
+                "addr:teryt:simc": 20449,
+                "addr:teryt:sym_ul": 566894,
+                "contact:phone": "+48 242779084",
+                "contact:email": "oswkiernozia@wp.pl",
+                "ref:regon": "000999370",
+                "ref:vatin": "PL8341670817",
+                "operator": "Powiat \u0141owicki",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 26660"
+            }
+        }
+    ]
+}

@@ -1,1 +1,193 @@
-{"type":"FeatureCollection","features":[{"id":106922,"type":"Feature","geometry":{"type":"Point","coordinates":[18.7769799,51.42209]},"properties":{"ref:rspo":106922,"official_name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 w Waszkowskiem","name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 w Waszkowskiem","addr:country":"PL","addr:postcode":"98-260","addr:place":"Waszkowskie","addr:housenumber":"12","addr:teryt:sym_ul":700950,"contact:phone":"+48 438214194","contact:email":"zswaszkowskie@zswaszkowskie.pl","contact:website":"http:\/\/www.ugburzenin.home.pl\/waszkowskie\/index.html","ref:regon":"100566000","ref:vatin":"PL8272238961","operator":"Gmina Burzenin","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 107123;107124"}},{"id":107123,"type":"Feature","geometry":{"type":"Point","coordinates":[18.7769799,51.422059999999995]},"properties":{"ref:rspo":107123,"official_name":"Przedszkole Publiczne w Waszkowskiem","name":"Przedszkole Publiczne w Waszkowskiem","addr:country":"PL","addr:postcode":"98-260","addr:place":"Waszkowskie","addr:housenumber":"12","addr:teryt:sym_ul":700950,"contact:phone":"+48 438214194","contact:email":"zswaszkowskie@zswaszkowskie.pl","contact:website":"http:\/\/www.ugburzenin.home.pl\/waszkowskie\/index.html","ref:regon":"100562195","operator":"Gmina Burzenin","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 106922"}},{"id":107124,"type":"Feature","geometry":{"type":"Point","coordinates":[18.7769799,51.42203]},"properties":{"isced:level":"1;2","ref:rspo":107124,"official_name":"Szko\u0142a Podstawowa w Waszkowskiem","name":"Szko\u0142a Podstawowa w Waszkowskiem","addr:country":"PL","addr:postcode":"98-260","addr:place":"Waszkowskie","addr:housenumber":"12","addr:teryt:sym_ul":700950,"contact:phone":"+48 438214194","contact:email":"zswaszkowskie@zswaszkowskie.pl","contact:website":"http:\/\/www.ugburzenin.home.pl\/waszkowskie\/index.html","ref:regon":"001149721","ref:vatin":"PL8272163772","operator":"Gmina Burzenin","operator:type":"government","amenity":"school","note":"Parent RSPO: 106922"}},{"id":106921,"type":"Feature","geometry":{"type":"Point","coordinates":[18.83141,51.46258]},"properties":{"ref:rspo":106921,"official_name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 w Burzeninie","name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 w Burzeninie","addr:country":"PL","addr:postcode":"98-260","addr:city":"Burzenin","addr:street":"ul. Sieradzka","addr:housenumber":"11","addr:teryt:simc":19844,"addr:teryt:sym_ul":700884,"contact:phone":"+48 438214068","contact:email":"spburzenin@wp.pl","contact:website":"http:\/\/www.zsburzenin.pl","ref:regon":"100566017","ref:vatin":"PL8272238978","operator":"Gmina Burzenin","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 107121;107122"}},{"id":107121,"type":"Feature","geometry":{"type":"Point","coordinates":[18.83141,51.46255]},"properties":{"isced:level":"1;2","ref:rspo":107121,"official_name":"Szko\u0142a Podstawowa im. Ks. Kan. Baltazara Pstroko\u0144skiego w Burzeninie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"98-260","addr:city":"Burzenin","addr:street":"ul. Sieradzka","addr:housenumber":"11","addr:teryt:simc":19844,"addr:teryt:sym_ul":700884,"contact:phone":"+48 438214068","contact:email":"spburzenin@wp.pl","contact:website":"http:\/\/www.zsburzenin.pl","ref:regon":"000268033","ref:vatin":"PL8272163789","operator":"Gmina Burzenin","operator:type":"government","amenity":"school","note":"Parent RSPO: 106921"}},{"id":107122,"type":"Feature","geometry":{"type":"Point","coordinates":[18.83141,51.462520000000005]},"properties":{"ref:rspo":107122,"official_name":"Przedszkole Publiczne w Burzeninie","name":"Przedszkole Publiczne w Burzeninie","addr:country":"PL","addr:postcode":"98-260","addr:city":"Burzenin","addr:street":"ul. Sieradzka","addr:housenumber":"11","addr:teryt:simc":19844,"addr:teryt:sym_ul":700884,"contact:phone":"+48 438214068","contact:email":"spburzenin@wp.pl","contact:website":"http:\/\/www.zsburzenin.pl","ref:regon":"100562203","operator":"Gmina Burzenin","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 106921"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 106922,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.7769799,
+                    51.42209
+                ]
+            },
+            "properties": {
+                "ref:rspo": 106922,
+                "official_name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 w Waszkowskiem",
+                "name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 w Waszkowskiem",
+                "addr:country": "PL",
+                "addr:postcode": "98-260",
+                "addr:place": "Waszkowskie",
+                "addr:housenumber": "12",
+                "addr:teryt:sym_ul": 700950,
+                "contact:phone": "+48 438214194",
+                "contact:email": "zswaszkowskie@zswaszkowskie.pl",
+                "contact:website": "http:\/\/www.ugburzenin.home.pl\/waszkowskie\/index.html",
+                "ref:regon": "100566000",
+                "ref:vatin": "PL8272238961",
+                "operator": "Gmina Burzenin",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 107123;107124"
+            }
+        },
+        {
+            "id": 107123,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.7769799,
+                    51.422059999999995
+                ]
+            },
+            "properties": {
+                "ref:rspo": 107123,
+                "official_name": "Przedszkole Publiczne w Waszkowskiem",
+                "name": "Przedszkole Publiczne w Waszkowskiem",
+                "addr:country": "PL",
+                "addr:postcode": "98-260",
+                "addr:place": "Waszkowskie",
+                "addr:housenumber": "12",
+                "addr:teryt:sym_ul": 700950,
+                "contact:phone": "+48 438214194",
+                "contact:email": "zswaszkowskie@zswaszkowskie.pl",
+                "contact:website": "http:\/\/www.ugburzenin.home.pl\/waszkowskie\/index.html",
+                "ref:regon": "100562195",
+                "operator": "Gmina Burzenin",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 106922"
+            }
+        },
+        {
+            "id": 107124,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.7769799,
+                    51.42203
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 107124,
+                "official_name": "Szko\u0142a Podstawowa w Waszkowskiem",
+                "name": "Szko\u0142a Podstawowa w Waszkowskiem",
+                "addr:country": "PL",
+                "addr:postcode": "98-260",
+                "addr:place": "Waszkowskie",
+                "addr:housenumber": "12",
+                "addr:teryt:sym_ul": 700950,
+                "contact:phone": "+48 438214194",
+                "contact:email": "zswaszkowskie@zswaszkowskie.pl",
+                "contact:website": "http:\/\/www.ugburzenin.home.pl\/waszkowskie\/index.html",
+                "ref:regon": "001149721",
+                "ref:vatin": "PL8272163772",
+                "operator": "Gmina Burzenin",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 106922"
+            }
+        },
+        {
+            "id": 106921,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.83141,
+                    51.46258
+                ]
+            },
+            "properties": {
+                "ref:rspo": 106921,
+                "official_name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 w Burzeninie",
+                "name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 w Burzeninie",
+                "addr:country": "PL",
+                "addr:postcode": "98-260",
+                "addr:city": "Burzenin",
+                "addr:street": "ul. Sieradzka",
+                "addr:housenumber": "11",
+                "addr:teryt:simc": 19844,
+                "addr:teryt:sym_ul": 700884,
+                "contact:phone": "+48 438214068",
+                "contact:email": "spburzenin@wp.pl",
+                "contact:website": "http:\/\/www.zsburzenin.pl",
+                "ref:regon": "100566017",
+                "ref:vatin": "PL8272238978",
+                "operator": "Gmina Burzenin",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 107121;107122"
+            }
+        },
+        {
+            "id": 107121,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.83141,
+                    51.46255
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 107121,
+                "official_name": "Szko\u0142a Podstawowa im. Ks. Kan. Baltazara Pstroko\u0144skiego w Burzeninie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "98-260",
+                "addr:city": "Burzenin",
+                "addr:street": "ul. Sieradzka",
+                "addr:housenumber": "11",
+                "addr:teryt:simc": 19844,
+                "addr:teryt:sym_ul": 700884,
+                "contact:phone": "+48 438214068",
+                "contact:email": "spburzenin@wp.pl",
+                "contact:website": "http:\/\/www.zsburzenin.pl",
+                "ref:regon": "000268033",
+                "ref:vatin": "PL8272163789",
+                "operator": "Gmina Burzenin",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 106921"
+            }
+        },
+        {
+            "id": 107122,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.83141,
+                    51.462520000000005
+                ]
+            },
+            "properties": {
+                "ref:rspo": 107122,
+                "official_name": "Przedszkole Publiczne w Burzeninie",
+                "name": "Przedszkole Publiczne w Burzeninie",
+                "addr:country": "PL",
+                "addr:postcode": "98-260",
+                "addr:city": "Burzenin",
+                "addr:street": "ul. Sieradzka",
+                "addr:housenumber": "11",
+                "addr:teryt:simc": 19844,
+                "addr:teryt:sym_ul": 700884,
+                "contact:phone": "+48 438214068",
+                "contact:email": "spburzenin@wp.pl",
+                "contact:website": "http:\/\/www.zsburzenin.pl",
+                "ref:regon": "100562203",
+                "operator": "Gmina Burzenin",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 106921"
+            }
+        }
+    ]
+}

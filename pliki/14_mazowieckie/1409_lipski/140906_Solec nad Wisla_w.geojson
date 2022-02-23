@@ -1,1 +1,382 @@
-{"type":"FeatureCollection","features":[{"id":90302,"type":"Feature","geometry":{"type":"Point","coordinates":[21.74609,51.06809]},"properties":{"isced:level":"1;2","ref:rspo":90302,"official_name":"Publiczna Szko\u0142a Podstawowa w Paw\u0142owicach","name":"Publiczna Szko\u0142a Podstawowa w Paw\u0142owicach","addr:country":"PL","addr:postcode":"27-320","addr:place":"Paw\u0142owice","addr:housenumber":"86","addr:teryt:sym_ul":637683,"contact:phone":"+48 483766004","contact:email":"zsspawlowice@wp.pl","contact:website":"http:\/\/psppawlowice.pl","ref:regon":"001196488","ref:vatin":"PL5090067481","operator":"Miasto I Gmina Solec Nad Wis\u0142\u0105","operator:type":"government","amenity":"school"}},{"id":18172,"type":"Feature","geometry":{"type":"Point","coordinates":[21.76293,51.13332]},"properties":{"ref:rspo":18172,"official_name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 w Solcu Nad Wis\u0142\u0105","name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 w Solcu Nad Wis\u0142\u0105","addr:country":"PL","addr:postcode":"27-320","addr:city":"Solec nad Wis\u0142\u0105","addr:street":"ul. Zygmunta \u0141oteckiego","addr:housenumber":"24","addr:teryt:simc":11686,"addr:teryt:sym_ul":637921,"contact:phone":"+48 483761202","contact:email":"zspsolec@wp.pl","contact:website":"http:\/\/www.zspsolec.pl","ref:regon":"000960065","ref:vatin":"PL8111640764","operator":"Powiat Lipski","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 20241;124957"}},{"id":18318,"type":"Feature","geometry":{"type":"Point","coordinates":[21.76293,51.133289999999995]},"properties":{"ref:rspo":18318,"official_name":"Centrum Kszta\u0142cenia Ustawicznego w Solcu Nad Wis\u0142\u0105","name":"Centrum Kszta\u0142cenia Ustawicznego w Solcu Nad Wis\u0142\u0105","addr:country":"PL","addr:postcode":"27-320","addr:city":"Solec nad Wis\u0142\u0105","addr:street":"ul. Zygmunta \u0141oteckiego","addr:housenumber":"24","addr:teryt:simc":11686,"addr:teryt:sym_ul":637921,"contact:phone":"+48 737571959","contact:email":"ckusolec@wp.pl","contact:website":"http:\/\/www.ckusolec.edu.pl","ref:regon":"140082104","ref:vatin":"PL5090012244","operator":"Powiat Lipski","operator:type":"government","amenity":"school","fixme":"amenity=school lub amenity=college","note":"Children RSPO: 20529;20697"}},{"id":20241,"type":"Feature","geometry":{"type":"Point","coordinates":[21.76293,51.13326]},"properties":{"isced:level":"3","ref:rspo":20241,"official_name":"Liceum Og\u00f3lnokszta\u0142c\u0105ce w Solcu Nad Wis\u0142\u0105","name":"Liceum Og\u00f3lnokszta\u0142c\u0105ce w Solcu Nad Wis\u0142\u0105","addr:country":"PL","addr:postcode":"27-320","addr:city":"Solec nad Wis\u0142\u0105","addr:street":"ul. Zygmunta \u0141oteckiego","addr:housenumber":"24","addr:teryt:simc":11686,"addr:teryt:sym_ul":637921,"contact:phone":"+48 483761202","contact:email":"zspsolec@wp.pl","contact:website":"http:\/\/www.zspsolec.pl","ref:regon":"672973096","operator":"Powiat Lipski","operator:type":"government","amenity":"school","note":"Parent RSPO: 18172"}},{"id":124957,"type":"Feature","geometry":{"type":"Point","coordinates":[21.76293,51.13323]},"properties":{"ref:rspo":124957,"official_name":"Szkolne Schronisko M\u0142odzie\u017cowe w Solcu Nad Wis\u0142\u0105","name":"Szkolne Schronisko M\u0142odzie\u017cowe w Solcu Nad Wis\u0142\u0105","addr:country":"PL","addr:postcode":"27-320","addr:city":"Solec nad Wis\u0142\u0105","addr:street":"ul. Zygmunta \u0141oteckiego","addr:housenumber":"24","addr:teryt:simc":11686,"addr:teryt:sym_ul":637921,"contact:phone":"+48 483761202","contact:email":"zspsolec@wp.pl","ref:regon":"672973104","operator":"Powiat Lipski","operator:type":"government","tourism":"hostel","note":"Parent RSPO: 18172"}},{"id":20529,"type":"Feature","geometry":{"type":"Point","coordinates":[21.76293,51.133199999999995]},"properties":{"isced:level":"3","ref:rspo":20529,"official_name":"Liceum Og\u00f3lnokszta\u0142c\u0105ce dla Doros\u0142ych w Solcu Nad Wis\u0142\u0105","name":"Liceum Og\u00f3lnokszta\u0142c\u0105ce dla Doros\u0142ych w Solcu Nad Wis\u0142\u0105","addr:country":"PL","addr:postcode":"27-320","addr:city":"Solec nad Wis\u0142\u0105","addr:street":"ul. Zygmunta \u0141oteckiego","addr:housenumber":"24","addr:teryt:simc":11686,"addr:teryt:sym_ul":637921,"contact:email":"ckusolec@wp.pl","contact:website":"http:\/\/www.ckusolec.edu.pl","ref:regon":"140265997","operator":"Powiat Lipski","operator:type":"government","amenity":"school","note":"Parent RSPO: 18318"}},{"id":20697,"type":"Feature","geometry":{"type":"Point","coordinates":[21.76293,51.13317]},"properties":{"isced:level":"4","ref:rspo":20697,"official_name":"Szko\u0142a Policealna w Solcu Nad Wis\u0142\u0105","name":"Szko\u0142a Policealna w Solcu Nad Wis\u0142\u0105","addr:country":"PL","addr:postcode":"27-320","addr:city":"Solec nad Wis\u0142\u0105","addr:street":"ul. Zygmunta \u0141oteckiego","addr:housenumber":"24","addr:teryt:simc":11686,"addr:teryt:sym_ul":637921,"contact:email":"ckusolec@wp.pl","contact:website":"http:\/\/www.ckusolec.edu.pl","ref:regon":"672973050","operator":"Powiat Lipski","operator:type":"government","amenity":"college","note":"Parent RSPO: 18318"}},{"id":85798,"type":"Feature","geometry":{"type":"Point","coordinates":[21.7704,51.13745]},"properties":{"isced:level":"1;2","ref:rspo":85798,"official_name":"Publiczna Szko\u0142a Podstawowa w Solcu Nad Wis\u0142\u0105","name":"Publiczna Szko\u0142a Podstawowa w Solcu Nad Wis\u0142\u0105","addr:country":"PL","addr:postcode":"27-320","addr:city":"Solec nad Wis\u0142\u0105","addr:street":"ul. Tadeusza Ko\u015bciuszki","addr:housenumber":"20","addr:teryt:simc":9582,"addr:teryt:sym_ul":637921,"contact:phone":"+48 483761214","contact:email":"spsolec@wp.pl","contact:website":"http:\/\/www.zsssolec.pl","ref:regon":"000580411","ref:vatin":"PL5090067506","operator":"Miasto I Gmina Solec Nad Wis\u0142\u0105","operator:type":"government","amenity":"school"}},{"id":17377,"type":"Feature","geometry":{"type":"Point","coordinates":[21.77361,51.14379]},"properties":{"ref:rspo":17377,"official_name":"M\u0142odzie\u017cowy O\u015brodek Socjoterapii w Solcu Nad Wis\u0142\u0105","name":"M\u0142odzie\u017cowy O\u015brodek Socjoterapii w Solcu Nad Wis\u0142\u0105","addr:country":"PL","addr:postcode":"27-320","addr:city":"Solec nad Wis\u0142\u0105","addr:street":"ul. Wczasowa","addr:housenumber":"44","addr:teryt:simc":23814,"addr:teryt:sym_ul":637921,"contact:phone":"+48 483761312","contact:email":"sekretariat@mossolec.pl","contact:website":"http:\/\/www.mossolec.pl","ref:regon":"143894937","ref:vatin":"PL5090065186","operator":"Powiat Lipski","operator:type":"government","fixme":"amenity=social facility + social_facility=group_home + social_facility:for=juvenile","note":"Children RSPO: 118779;263246"}},{"id":118779,"type":"Feature","geometry":{"type":"Point","coordinates":[21.77361,51.14376]},"properties":{"isced:level":"3","ref:rspo":118779,"official_name":"Bran\u017cowa Szko\u0142a I Stopnia Specjalna dla M\u0142odzie\u017cy Zagro\u017conej Niedostosowaniem Spo\u0142ecznym Przy M\u0142odzie\u017cowym O\u015brodku Socjoterapii w Solcu Nad Wis\u0142\u0105","name":"Bran\u017cowa Szko\u0142a I Stopnia Specjalna dla M\u0142odzie\u017cy Zagro\u017conej Niedostosowaniem Spo\u0142ecznym Przy M\u0142odzie\u017cowym O\u015brodku Socjoterapii w Solcu Nad Wis\u0142\u0105","addr:country":"PL","addr:postcode":"27-320","addr:city":"Solec nad Wis\u0142\u0105","addr:street":"ul. Wczasowa","addr:housenumber":"44","addr:teryt:simc":23814,"addr:teryt:sym_ul":637921,"contact:phone":"+48 483761312","contact:email":"sekretariat@mossolec.pl","contact:website":"http:\/\/www.mossolec.pl","ref:regon":"146818150","operator":"Powiat Lipski","operator:type":"government","amenity":"school","note":"Parent RSPO: 17377"}},{"id":263246,"type":"Feature","geometry":{"type":"Point","coordinates":[21.77361,51.143730000000005]},"properties":{"isced:level":"1;2","ref:rspo":263246,"official_name":"Szko\u0142a Podstawowa Specjalna Przy M\u0142odzie\u017cowym O\u015brodku Socjoterapii w Solcu Nad Wis\u0142\u0105","name":"Szko\u0142a Podstawowa Specjalna Przy M\u0142odzie\u017cowym O\u015brodku Socjoterapii w Solcu Nad Wis\u0142\u0105","addr:country":"PL","addr:postcode":"27-320","addr:city":"Solec nad Wis\u0142\u0105","addr:street":"ul. Wczasowa","addr:housenumber":"44","addr:teryt:simc":23814,"addr:teryt:sym_ul":637921,"contact:phone":"+48 483761312","contact:email":"sekretariat@mossolec.pl","contact:website":"http:\/\/www.mossolec.pl","ref:regon":"368178000","operator":"Powiat Lipski","operator:type":"government","amenity":"school","note":"Parent RSPO: 17377"}},{"id":75638,"type":"Feature","geometry":{"type":"Point","coordinates":[21.69977,51.14841]},"properties":{"isced:level":"1;2","ref:rspo":75638,"official_name":"Niepubliczna Szko\u0142a Podstawowa Z Oddzia\u0142ami Przedszkolnymi","name":"Niepubliczna Szko\u0142a Podstawowa Z Oddzia\u0142ami Przedszkolnymi","addr:country":"PL","addr:postcode":"27-320","addr:place":"Przedmie\u015bcie Dalsze","addr:housenumber":"1","addr:teryt:sym_ul":637750,"contact:phone":"+48 483761247","contact:email":"nsp.przedmiescie.dalsze@wp.pl","ref:regon":"146414990","ref:vatin":"PL5090066346","operator":"Stowarzyszenie Przyjaci\u00f3\u0142 Szko\u0142y W Przedmie\u015bciu Dalszym","operator:type":"ngo","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 90302,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.74609,
+                    51.06809
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 90302,
+                "official_name": "Publiczna Szko\u0142a Podstawowa w Paw\u0142owicach",
+                "name": "Publiczna Szko\u0142a Podstawowa w Paw\u0142owicach",
+                "addr:country": "PL",
+                "addr:postcode": "27-320",
+                "addr:place": "Paw\u0142owice",
+                "addr:housenumber": "86",
+                "addr:teryt:sym_ul": 637683,
+                "contact:phone": "+48 483766004",
+                "contact:email": "zsspawlowice@wp.pl",
+                "contact:website": "http:\/\/psppawlowice.pl",
+                "ref:regon": "001196488",
+                "ref:vatin": "PL5090067481",
+                "operator": "Miasto I Gmina Solec Nad Wis\u0142\u0105",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 18172,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.76293,
+                    51.13332
+                ]
+            },
+            "properties": {
+                "ref:rspo": 18172,
+                "official_name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 w Solcu Nad Wis\u0142\u0105",
+                "name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 w Solcu Nad Wis\u0142\u0105",
+                "addr:country": "PL",
+                "addr:postcode": "27-320",
+                "addr:city": "Solec nad Wis\u0142\u0105",
+                "addr:street": "ul. Zygmunta \u0141oteckiego",
+                "addr:housenumber": "24",
+                "addr:teryt:simc": 11686,
+                "addr:teryt:sym_ul": 637921,
+                "contact:phone": "+48 483761202",
+                "contact:email": "zspsolec@wp.pl",
+                "contact:website": "http:\/\/www.zspsolec.pl",
+                "ref:regon": "000960065",
+                "ref:vatin": "PL8111640764",
+                "operator": "Powiat Lipski",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 20241;124957"
+            }
+        },
+        {
+            "id": 18318,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.76293,
+                    51.133289999999995
+                ]
+            },
+            "properties": {
+                "ref:rspo": 18318,
+                "official_name": "Centrum Kszta\u0142cenia Ustawicznego w Solcu Nad Wis\u0142\u0105",
+                "name": "Centrum Kszta\u0142cenia Ustawicznego w Solcu Nad Wis\u0142\u0105",
+                "addr:country": "PL",
+                "addr:postcode": "27-320",
+                "addr:city": "Solec nad Wis\u0142\u0105",
+                "addr:street": "ul. Zygmunta \u0141oteckiego",
+                "addr:housenumber": "24",
+                "addr:teryt:simc": 11686,
+                "addr:teryt:sym_ul": 637921,
+                "contact:phone": "+48 737571959",
+                "contact:email": "ckusolec@wp.pl",
+                "contact:website": "http:\/\/www.ckusolec.edu.pl",
+                "ref:regon": "140082104",
+                "ref:vatin": "PL5090012244",
+                "operator": "Powiat Lipski",
+                "operator:type": "government",
+                "amenity": "school",
+                "fixme": "amenity=school lub amenity=college",
+                "note": "Children RSPO: 20529;20697"
+            }
+        },
+        {
+            "id": 20241,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.76293,
+                    51.13326
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 20241,
+                "official_name": "Liceum Og\u00f3lnokszta\u0142c\u0105ce w Solcu Nad Wis\u0142\u0105",
+                "name": "Liceum Og\u00f3lnokszta\u0142c\u0105ce w Solcu Nad Wis\u0142\u0105",
+                "addr:country": "PL",
+                "addr:postcode": "27-320",
+                "addr:city": "Solec nad Wis\u0142\u0105",
+                "addr:street": "ul. Zygmunta \u0141oteckiego",
+                "addr:housenumber": "24",
+                "addr:teryt:simc": 11686,
+                "addr:teryt:sym_ul": 637921,
+                "contact:phone": "+48 483761202",
+                "contact:email": "zspsolec@wp.pl",
+                "contact:website": "http:\/\/www.zspsolec.pl",
+                "ref:regon": "672973096",
+                "operator": "Powiat Lipski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 18172"
+            }
+        },
+        {
+            "id": 124957,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.76293,
+                    51.13323
+                ]
+            },
+            "properties": {
+                "ref:rspo": 124957,
+                "official_name": "Szkolne Schronisko M\u0142odzie\u017cowe w Solcu Nad Wis\u0142\u0105",
+                "name": "Szkolne Schronisko M\u0142odzie\u017cowe w Solcu Nad Wis\u0142\u0105",
+                "addr:country": "PL",
+                "addr:postcode": "27-320",
+                "addr:city": "Solec nad Wis\u0142\u0105",
+                "addr:street": "ul. Zygmunta \u0141oteckiego",
+                "addr:housenumber": "24",
+                "addr:teryt:simc": 11686,
+                "addr:teryt:sym_ul": 637921,
+                "contact:phone": "+48 483761202",
+                "contact:email": "zspsolec@wp.pl",
+                "ref:regon": "672973104",
+                "operator": "Powiat Lipski",
+                "operator:type": "government",
+                "tourism": "hostel",
+                "note": "Parent RSPO: 18172"
+            }
+        },
+        {
+            "id": 20529,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.76293,
+                    51.133199999999995
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 20529,
+                "official_name": "Liceum Og\u00f3lnokszta\u0142c\u0105ce dla Doros\u0142ych w Solcu Nad Wis\u0142\u0105",
+                "name": "Liceum Og\u00f3lnokszta\u0142c\u0105ce dla Doros\u0142ych w Solcu Nad Wis\u0142\u0105",
+                "addr:country": "PL",
+                "addr:postcode": "27-320",
+                "addr:city": "Solec nad Wis\u0142\u0105",
+                "addr:street": "ul. Zygmunta \u0141oteckiego",
+                "addr:housenumber": "24",
+                "addr:teryt:simc": 11686,
+                "addr:teryt:sym_ul": 637921,
+                "contact:email": "ckusolec@wp.pl",
+                "contact:website": "http:\/\/www.ckusolec.edu.pl",
+                "ref:regon": "140265997",
+                "operator": "Powiat Lipski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 18318"
+            }
+        },
+        {
+            "id": 20697,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.76293,
+                    51.13317
+                ]
+            },
+            "properties": {
+                "isced:level": "4",
+                "ref:rspo": 20697,
+                "official_name": "Szko\u0142a Policealna w Solcu Nad Wis\u0142\u0105",
+                "name": "Szko\u0142a Policealna w Solcu Nad Wis\u0142\u0105",
+                "addr:country": "PL",
+                "addr:postcode": "27-320",
+                "addr:city": "Solec nad Wis\u0142\u0105",
+                "addr:street": "ul. Zygmunta \u0141oteckiego",
+                "addr:housenumber": "24",
+                "addr:teryt:simc": 11686,
+                "addr:teryt:sym_ul": 637921,
+                "contact:email": "ckusolec@wp.pl",
+                "contact:website": "http:\/\/www.ckusolec.edu.pl",
+                "ref:regon": "672973050",
+                "operator": "Powiat Lipski",
+                "operator:type": "government",
+                "amenity": "college",
+                "note": "Parent RSPO: 18318"
+            }
+        },
+        {
+            "id": 85798,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.7704,
+                    51.13745
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 85798,
+                "official_name": "Publiczna Szko\u0142a Podstawowa w Solcu Nad Wis\u0142\u0105",
+                "name": "Publiczna Szko\u0142a Podstawowa w Solcu Nad Wis\u0142\u0105",
+                "addr:country": "PL",
+                "addr:postcode": "27-320",
+                "addr:city": "Solec nad Wis\u0142\u0105",
+                "addr:street": "ul. Tadeusza Ko\u015bciuszki",
+                "addr:housenumber": "20",
+                "addr:teryt:simc": 9582,
+                "addr:teryt:sym_ul": 637921,
+                "contact:phone": "+48 483761214",
+                "contact:email": "spsolec@wp.pl",
+                "contact:website": "http:\/\/www.zsssolec.pl",
+                "ref:regon": "000580411",
+                "ref:vatin": "PL5090067506",
+                "operator": "Miasto I Gmina Solec Nad Wis\u0142\u0105",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 17377,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.77361,
+                    51.14379
+                ]
+            },
+            "properties": {
+                "ref:rspo": 17377,
+                "official_name": "M\u0142odzie\u017cowy O\u015brodek Socjoterapii w Solcu Nad Wis\u0142\u0105",
+                "name": "M\u0142odzie\u017cowy O\u015brodek Socjoterapii w Solcu Nad Wis\u0142\u0105",
+                "addr:country": "PL",
+                "addr:postcode": "27-320",
+                "addr:city": "Solec nad Wis\u0142\u0105",
+                "addr:street": "ul. Wczasowa",
+                "addr:housenumber": "44",
+                "addr:teryt:simc": 23814,
+                "addr:teryt:sym_ul": 637921,
+                "contact:phone": "+48 483761312",
+                "contact:email": "sekretariat@mossolec.pl",
+                "contact:website": "http:\/\/www.mossolec.pl",
+                "ref:regon": "143894937",
+                "ref:vatin": "PL5090065186",
+                "operator": "Powiat Lipski",
+                "operator:type": "government",
+                "fixme": "amenity=social_facility + social_facility=group_home + social_facility:for=juvenile",
+                "note": "Children RSPO: 118779;263246"
+            }
+        },
+        {
+            "id": 118779,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.77361,
+                    51.14376
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 118779,
+                "official_name": "Bran\u017cowa Szko\u0142a I Stopnia Specjalna dla M\u0142odzie\u017cy Zagro\u017conej Niedostosowaniem Spo\u0142ecznym Przy M\u0142odzie\u017cowym O\u015brodku Socjoterapii w Solcu Nad Wis\u0142\u0105",
+                "name": "Bran\u017cowa Szko\u0142a I Stopnia Specjalna dla M\u0142odzie\u017cy Zagro\u017conej Niedostosowaniem Spo\u0142ecznym Przy M\u0142odzie\u017cowym O\u015brodku Socjoterapii w Solcu Nad Wis\u0142\u0105",
+                "addr:country": "PL",
+                "addr:postcode": "27-320",
+                "addr:city": "Solec nad Wis\u0142\u0105",
+                "addr:street": "ul. Wczasowa",
+                "addr:housenumber": "44",
+                "addr:teryt:simc": 23814,
+                "addr:teryt:sym_ul": 637921,
+                "contact:phone": "+48 483761312",
+                "contact:email": "sekretariat@mossolec.pl",
+                "contact:website": "http:\/\/www.mossolec.pl",
+                "ref:regon": "146818150",
+                "operator": "Powiat Lipski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 17377"
+            }
+        },
+        {
+            "id": 263246,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.77361,
+                    51.143730000000005
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 263246,
+                "official_name": "Szko\u0142a Podstawowa Specjalna Przy M\u0142odzie\u017cowym O\u015brodku Socjoterapii w Solcu Nad Wis\u0142\u0105",
+                "name": "Szko\u0142a Podstawowa Specjalna Przy M\u0142odzie\u017cowym O\u015brodku Socjoterapii w Solcu Nad Wis\u0142\u0105",
+                "addr:country": "PL",
+                "addr:postcode": "27-320",
+                "addr:city": "Solec nad Wis\u0142\u0105",
+                "addr:street": "ul. Wczasowa",
+                "addr:housenumber": "44",
+                "addr:teryt:simc": 23814,
+                "addr:teryt:sym_ul": 637921,
+                "contact:phone": "+48 483761312",
+                "contact:email": "sekretariat@mossolec.pl",
+                "contact:website": "http:\/\/www.mossolec.pl",
+                "ref:regon": "368178000",
+                "operator": "Powiat Lipski",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 17377"
+            }
+        },
+        {
+            "id": 75638,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.69977,
+                    51.14841
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 75638,
+                "official_name": "Niepubliczna Szko\u0142a Podstawowa Z Oddzia\u0142ami Przedszkolnymi",
+                "name": "Niepubliczna Szko\u0142a Podstawowa Z Oddzia\u0142ami Przedszkolnymi",
+                "addr:country": "PL",
+                "addr:postcode": "27-320",
+                "addr:place": "Przedmie\u015bcie Dalsze",
+                "addr:housenumber": "1",
+                "addr:teryt:sym_ul": 637750,
+                "contact:phone": "+48 483761247",
+                "contact:email": "nsp.przedmiescie.dalsze@wp.pl",
+                "ref:regon": "146414990",
+                "ref:vatin": "PL5090066346",
+                "operator": "Stowarzyszenie Przyjaci\u00f3\u0142 Szko\u0142y W Przedmie\u015bciu Dalszym",
+                "operator:type": "ngo",
+                "amenity": "school"
+            }
+        }
+    ]
+}

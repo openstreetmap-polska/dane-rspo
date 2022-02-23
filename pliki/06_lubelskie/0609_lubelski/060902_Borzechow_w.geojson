@@ -1,1 +1,92 @@
-{"type":"FeatureCollection","features":[{"id":91958,"type":"Feature","geometry":{"type":"Point","coordinates":[22.28487,51.06614]},"properties":{"isced:level":"1;2","ref:rspo":91958,"official_name":"Szko\u0142a Podstawowa im. Obro\u0144c\u00f3w Polsko\u015bci w K\u0142odnicy Dolnej","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"24-224","addr:place":"K\u0142odnica Dolna","addr:housenumber":"117","addr:teryt:sym_ul":379258,"contact:phone":"+48 815111209","contact:email":"klodszkola@wp.pl","ref:regon":"430542952","ref:vatin":"PL7132540470","operator":"Gmina Borzech\u00f3w","operator:type":"government","amenity":"school"}},{"id":57275,"type":"Feature","geometry":{"type":"Point","coordinates":[22.28535,51.09213]},"properties":{"isced:level":"1;2","ref:rspo":57275,"official_name":"Publiczna Szko\u0142a Podstawowa w Borzechowie im. Kazimierza Ras\u0142awskiego","name":"Publiczna Szko\u0142a Podstawowa w Borzechowie","addr:country":"PL","addr:postcode":"24-224","addr:place":"Borzech\u00f3w-Kolonia","addr:housenumber":"227","addr:teryt:sym_ul":379152,"contact:phone":"+48 815111026","contact:email":"spborzech@poczta.onet.pl","contact:website":"http:\/\/www.spborzechow.szkolna.net","ref:regon":"000593106","ref:vatin":"PL7132540493","operator":"Gmina Borzech\u00f3w","operator:type":"government","amenity":"school"}},{"id":272672,"type":"Feature","geometry":{"type":"Point","coordinates":[22.28535,51.092099999999995]},"properties":{"ref:rspo":272672,"official_name":"Przedszkole w Borzechowie","name":"Przedszkole w Borzechowie","addr:country":"PL","addr:postcode":"24-224","addr:place":"Borzech\u00f3w-Kolonia","addr:housenumber":"227","addr:teryt:sym_ul":379152,"contact:phone":"+48 815032354","contact:email":"przedszkole.borzechow227@wp.pl","contact:website":"http:\/\/www.pborzechow.szkolnastrona.pl","ref:regon":"384276262","operator":"Gmina Borzech\u00f3w","operator:type":"government","amenity":"kindergarten"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 91958,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.28487,
+                    51.06614
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 91958,
+                "official_name": "Szko\u0142a Podstawowa im. Obro\u0144c\u00f3w Polsko\u015bci w K\u0142odnicy Dolnej",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "24-224",
+                "addr:place": "K\u0142odnica Dolna",
+                "addr:housenumber": "117",
+                "addr:teryt:sym_ul": 379258,
+                "contact:phone": "+48 815111209",
+                "contact:email": "klodszkola@wp.pl",
+                "ref:regon": "430542952",
+                "ref:vatin": "PL7132540470",
+                "operator": "Gmina Borzech\u00f3w",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 57275,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.28535,
+                    51.09213
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 57275,
+                "official_name": "Publiczna Szko\u0142a Podstawowa w Borzechowie im. Kazimierza Ras\u0142awskiego",
+                "name": "Publiczna Szko\u0142a Podstawowa w Borzechowie",
+                "addr:country": "PL",
+                "addr:postcode": "24-224",
+                "addr:place": "Borzech\u00f3w-Kolonia",
+                "addr:housenumber": "227",
+                "addr:teryt:sym_ul": 379152,
+                "contact:phone": "+48 815111026",
+                "contact:email": "spborzech@poczta.onet.pl",
+                "contact:website": "http:\/\/www.spborzechow.szkolna.net",
+                "ref:regon": "000593106",
+                "ref:vatin": "PL7132540493",
+                "operator": "Gmina Borzech\u00f3w",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 272672,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.28535,
+                    51.092099999999995
+                ]
+            },
+            "properties": {
+                "ref:rspo": 272672,
+                "official_name": "Przedszkole w Borzechowie",
+                "name": "Przedszkole w Borzechowie",
+                "addr:country": "PL",
+                "addr:postcode": "24-224",
+                "addr:place": "Borzech\u00f3w-Kolonia",
+                "addr:housenumber": "227",
+                "addr:teryt:sym_ul": 379152,
+                "contact:phone": "+48 815032354",
+                "contact:email": "przedszkole.borzechow227@wp.pl",
+                "contact:website": "http:\/\/www.pborzechow.szkolnastrona.pl",
+                "ref:regon": "384276262",
+                "operator": "Gmina Borzech\u00f3w",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        }
+    ]
+}

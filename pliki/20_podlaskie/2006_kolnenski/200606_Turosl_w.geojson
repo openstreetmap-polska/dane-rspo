@@ -1,1 +1,204 @@
-{"type":"FeatureCollection","features":[{"id":80369,"type":"Feature","geometry":{"type":"Point","coordinates":[21.72598,53.38814]},"properties":{"isced:level":"1;2","ref:rspo":80369,"official_name":"Szko\u0142a Podstawowa Z Oddzia\u0142ami Integracyjnymi im. Ks. Jana Twardowskiego w Turo\u015bli","name":"Szko\u0142a Podstawowa Z Oddzia\u0142ami Integracyjnymi","addr:country":"PL","addr:postcode":"18-525","addr:city":"Turo\u015bl","addr:street":"ul. Jana Paw\u0142a II","addr:housenumber":"28","addr:teryt:simc":7123,"addr:teryt:sym_ul":409440,"contact:phone":"+48 862786203","contact:email":"spturosl@wp.pl","contact:website":"http:\/\/www.spturosl.edupage.pl","ref:regon":"000557688","operator":"Gmina Turo\u015bl","operator:type":"government","amenity":"school"}},{"id":125986,"type":"Feature","geometry":{"type":"Point","coordinates":[21.72598,53.38811]},"properties":{"ref:rspo":125986,"official_name":"Szkolne Schronisko M\u0142odzie\u017cowe Przy Szkole Podstawowej Z Oddzia\u0142ami Integracyjnymi im. Ks. Jana Twardowskiego w Turo\u015bli","name":"Szkolne Schronisko M\u0142odzie\u017cowe Przy Szkole Podstawowej Z Oddzia\u0142ami Integracyjnymi","addr:country":"PL","addr:postcode":"18-525","addr:city":"Turo\u015bl","addr:street":"ul. Jana Paw\u0142a II","addr:housenumber":"28","addr:teryt:simc":7123,"addr:teryt:sym_ul":409440,"contact:phone":"+48 862786203","ref:regon":"360128474","operator":"Gmina Turo\u015bl","operator:type":"government","tourism":"hostel"}},{"id":90626,"type":"Feature","geometry":{"type":"Point","coordinates":[21.79649,53.39204]},"properties":{"isced:level":"1;2","ref:rspo":90626,"official_name":"Szko\u0142a Podstawowa im. Marii Konopnickiej w Ptakach","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"18-525","addr:place":"Ptaki","addr:housenumber":"27","addr:teryt:sym_ul":409396,"contact:phone":"+48 862786125","contact:email":"spptaki@wp.pl","contact:website":"http:\/\/spptaki.edupage.org","ref:regon":"001129138","operator":"Gmina Turo\u015bl","operator:type":"government","amenity":"school"}},{"id":125987,"type":"Feature","geometry":{"type":"Point","coordinates":[21.79649,53.39201]},"properties":{"ref:rspo":125987,"official_name":"Szkolne Schronisko M\u0142odzie\u017cowe Przy Szkole Podstawowej im. Marii Konopnickiej w Ptakach","name":"Szkolne Schronisko M\u0142odzie\u017cowe Przy Szkole Podstawowej","addr:country":"PL","addr:postcode":"18-525","addr:place":"Ptaki","addr:housenumber":"27","addr:teryt:sym_ul":409396,"contact:phone":"+48 862786125","ref:regon":"360128511","operator":"Gmina Turo\u015bl","operator:type":"government","tourism":"hostel"}},{"id":90628,"type":"Feature","geometry":{"type":"Point","coordinates":[21.62548,53.44888]},"properties":{"isced:level":"1;2","ref:rspo":90628,"official_name":"Szko\u0142a Podstawowa w Ksebkach","name":"Szko\u0142a Podstawowa w Ksebkach","addr:country":"PL","addr:postcode":"18-525","addr:place":"Ksebki","addr:housenumber":"38","addr:teryt:sym_ul":409278,"contact:phone":"+48 862786103","contact:email":"spksebki38@vp.pl","ref:regon":"001129322","operator":"Gmina Turo\u015bl","operator:type":"government","amenity":"school"}},{"id":90627,"type":"Feature","geometry":{"type":"Point","coordinates":[21.74972,53.46319]},"properties":{"isced:level":"1;2","ref:rspo":90627,"official_name":"Szko\u0142a Podstawowa w \u0141asze","name":"Szko\u0142a Podstawowa w \u0141asze","addr:country":"PL","addr:postcode":"18-525","addr:place":"\u0141acha","addr:housenumber":"96","addr:teryt:sym_ul":409315,"contact:phone":"+48 862786185","contact:email":"szkolalacha@wp.pl","ref:regon":"001129121","operator":"Gmina Turo\u015bl","operator:type":"government","amenity":"school"}},{"id":80370,"type":"Feature","geometry":{"type":"Point","coordinates":[21.6698999,53.46513]},"properties":{"isced:level":"1;2","ref:rspo":80370,"official_name":"Szko\u0142a Podstawowa im. Stanis\u0142awa Krupki w Lemanie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"18-525","addr:place":"Leman","addr:housenumber":"48","addr:teryt:sym_ul":409284,"contact:phone":"+48 862786383","contact:email":"leszekszkola@interia.pl","contact:website":"http:\/\/www.leman-kurpie.pl","ref:regon":"001129368","operator":"Gmina Turo\u015bl","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 80369,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.72598,
+                    53.38814
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 80369,
+                "official_name": "Szko\u0142a Podstawowa Z Oddzia\u0142ami Integracyjnymi im. Ks. Jana Twardowskiego w Turo\u015bli",
+                "name": "Szko\u0142a Podstawowa Z Oddzia\u0142ami Integracyjnymi",
+                "addr:country": "PL",
+                "addr:postcode": "18-525",
+                "addr:city": "Turo\u015bl",
+                "addr:street": "ul. Jana Paw\u0142a II",
+                "addr:housenumber": "28",
+                "addr:teryt:simc": 7123,
+                "addr:teryt:sym_ul": 409440,
+                "contact:phone": "+48 862786203",
+                "contact:email": "spturosl@wp.pl",
+                "contact:website": "http:\/\/www.spturosl.edupage.pl",
+                "ref:regon": "000557688",
+                "operator": "Gmina Turo\u015bl",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 125986,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.72598,
+                    53.38811
+                ]
+            },
+            "properties": {
+                "ref:rspo": 125986,
+                "official_name": "Szkolne Schronisko M\u0142odzie\u017cowe Przy Szkole Podstawowej Z Oddzia\u0142ami Integracyjnymi im. Ks. Jana Twardowskiego w Turo\u015bli",
+                "name": "Szkolne Schronisko M\u0142odzie\u017cowe Przy Szkole Podstawowej Z Oddzia\u0142ami Integracyjnymi",
+                "addr:country": "PL",
+                "addr:postcode": "18-525",
+                "addr:city": "Turo\u015bl",
+                "addr:street": "ul. Jana Paw\u0142a II",
+                "addr:housenumber": "28",
+                "addr:teryt:simc": 7123,
+                "addr:teryt:sym_ul": 409440,
+                "contact:phone": "+48 862786203",
+                "ref:regon": "360128474",
+                "operator": "Gmina Turo\u015bl",
+                "operator:type": "government",
+                "tourism": "hostel"
+            }
+        },
+        {
+            "id": 90626,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.79649,
+                    53.39204
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 90626,
+                "official_name": "Szko\u0142a Podstawowa im. Marii Konopnickiej w Ptakach",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "18-525",
+                "addr:place": "Ptaki",
+                "addr:housenumber": "27",
+                "addr:teryt:sym_ul": 409396,
+                "contact:phone": "+48 862786125",
+                "contact:email": "spptaki@wp.pl",
+                "contact:website": "http:\/\/spptaki.edupage.org",
+                "ref:regon": "001129138",
+                "operator": "Gmina Turo\u015bl",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 125987,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.79649,
+                    53.39201
+                ]
+            },
+            "properties": {
+                "ref:rspo": 125987,
+                "official_name": "Szkolne Schronisko M\u0142odzie\u017cowe Przy Szkole Podstawowej im. Marii Konopnickiej w Ptakach",
+                "name": "Szkolne Schronisko M\u0142odzie\u017cowe Przy Szkole Podstawowej",
+                "addr:country": "PL",
+                "addr:postcode": "18-525",
+                "addr:place": "Ptaki",
+                "addr:housenumber": "27",
+                "addr:teryt:sym_ul": 409396,
+                "contact:phone": "+48 862786125",
+                "ref:regon": "360128511",
+                "operator": "Gmina Turo\u015bl",
+                "operator:type": "government",
+                "tourism": "hostel"
+            }
+        },
+        {
+            "id": 90628,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.62548,
+                    53.44888
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 90628,
+                "official_name": "Szko\u0142a Podstawowa w Ksebkach",
+                "name": "Szko\u0142a Podstawowa w Ksebkach",
+                "addr:country": "PL",
+                "addr:postcode": "18-525",
+                "addr:place": "Ksebki",
+                "addr:housenumber": "38",
+                "addr:teryt:sym_ul": 409278,
+                "contact:phone": "+48 862786103",
+                "contact:email": "spksebki38@vp.pl",
+                "ref:regon": "001129322",
+                "operator": "Gmina Turo\u015bl",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 90627,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.74972,
+                    53.46319
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 90627,
+                "official_name": "Szko\u0142a Podstawowa w \u0141asze",
+                "name": "Szko\u0142a Podstawowa w \u0141asze",
+                "addr:country": "PL",
+                "addr:postcode": "18-525",
+                "addr:place": "\u0141acha",
+                "addr:housenumber": "96",
+                "addr:teryt:sym_ul": 409315,
+                "contact:phone": "+48 862786185",
+                "contact:email": "szkolalacha@wp.pl",
+                "ref:regon": "001129121",
+                "operator": "Gmina Turo\u015bl",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 80370,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.6698999,
+                    53.46513
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 80370,
+                "official_name": "Szko\u0142a Podstawowa im. Stanis\u0142awa Krupki w Lemanie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "18-525",
+                "addr:place": "Leman",
+                "addr:housenumber": "48",
+                "addr:teryt:sym_ul": 409284,
+                "contact:phone": "+48 862786383",
+                "contact:email": "leszekszkola@interia.pl",
+                "contact:website": "http:\/\/www.leman-kurpie.pl",
+                "ref:regon": "001129368",
+                "operator": "Gmina Turo\u015bl",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

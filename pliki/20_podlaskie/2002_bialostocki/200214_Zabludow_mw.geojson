@@ -1,1 +1,220 @@
-{"type":"FeatureCollection","features":[{"id":30077,"type":"Feature","geometry":{"type":"Point","coordinates":[23.34465,53.01072]},"properties":{"ref:rspo":30077,"official_name":"Zesp\u00f3\u0142 Szkolno - Przedszkolny w Zab\u0142udowie","name":"Zesp\u00f3\u0142 Szkolno - Przedszkolny w Zab\u0142udowie","addr:country":"PL","addr:postcode":"16-060","addr:city":"Zab\u0142ud\u00f3w","addr:street":"ul. Adama Mickiewicza","addr:housenumber":"20","addr:teryt:simc":12740,"addr:teryt:sym_ul":923578,"contact:phone":"+48 857188020","contact:email":"zspzabludow@wp.pl","contact:website":"http:\/\/zspzabludow.edupage.org","ref:regon":"052144365","ref:vatin":"PL9661659930","operator":"Gmina Zab\u0142ud\u00f3w","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 73510;73677"}},{"id":73510,"type":"Feature","geometry":{"type":"Point","coordinates":[23.34465,53.01069]},"properties":{"isced:level":"1;2","ref:rspo":73510,"official_name":"Szko\u0142a Podstawowa im. Franciszka Karpi\u0144skiego w Zab\u0142udowie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"16-060","addr:city":"Zab\u0142ud\u00f3w","addr:street":"ul. Adama Mickiewicza","addr:housenumber":"20","addr:teryt:simc":12740,"addr:teryt:sym_ul":923578,"contact:phone":"+48 857188020","contact:email":"zspzabludow@wp.pl","contact:website":"http:\/\/zspzabludow.edupage.org","ref:regon":"000264928","ref:vatin":"PL9661411590","operator":"Gmina Zab\u0142ud\u00f3w","operator:type":"government","amenity":"school","note":"Parent RSPO: 30077"}},{"id":73677,"type":"Feature","geometry":{"type":"Point","coordinates":[23.34465,53.01066]},"properties":{"ref:rspo":73677,"official_name":"Przedszkole w Zab\u0142udowie","name":"Przedszkole w Zab\u0142udowie","addr:country":"PL","addr:postcode":"16-060","addr:city":"Zab\u0142ud\u00f3w","addr:street":"ul. Adama Mickiewicza","addr:housenumber":"20","addr:teryt:simc":12740,"addr:teryt:sym_ul":923578,"contact:phone":"+48 857188020","contact:email":"zspzabludow@wp.pl","contact:website":"http:\/\/zspzabludow.edupage.org","ref:regon":"052196244","operator":"Gmina Zab\u0142ud\u00f3w","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 30077"}},{"id":269600,"type":"Feature","geometry":{"type":"Point","coordinates":[23.33606,53.01346]},"properties":{"ref:rspo":269600,"official_name":"Edukacyjne Przedszkole \"Entliczek\"","name":"Edukacyjne Przedszkole \"Entliczek\"","addr:country":"PL","addr:postcode":"16-060","addr:city":"Zab\u0142ud\u00f3w","addr:street":"ul. Muchawiecka","addr:housenumber":"2","addr:teryt:simc":13464,"addr:teryt:sym_ul":923578,"contact:website":"http:\/\/as.edu.pl\/","ref:regon":"381610520","operator":"Fundacja Inicjatywa Na Rzecz Edukacji","operator:type":"ngo","amenity":"kindergarten"}},{"id":30723,"type":"Feature","geometry":{"type":"Point","coordinates":[23.3692438,53.0441969]},"properties":{"isced:level":"1;2","ref:rspo":30723,"official_name":"Szko\u0142a Podstawowa w Dobrzyni\u00f3wce","name":"Szko\u0142a Podstawowa w Dobrzyni\u00f3wce","addr:country":"PL","addr:postcode":"16-060","addr:place":"Dobrzyni\u00f3wka","addr:housenumber":"40","addr:teryt:sym_ul":44463,"contact:phone":"+48 857177019","contact:email":"spdobrzyniowka@zabludow.pl","contact:website":"http:\/\/www.dobrzyniowkaszkola.edupage.org","ref:regon":"001163661","ref:vatin":"PL9661411532","operator":"Gmina Zab\u0142ud\u00f3w","operator:type":"government","amenity":"school"}},{"id":30724,"type":"Feature","geometry":{"type":"Point","coordinates":[23.3389849,53.056086]},"properties":{"isced:level":"1;2","ref:rspo":30724,"official_name":"Szko\u0142a Podstawowa im. Sybirak\u00f3w w Rafa\u0142\u00f3wce","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"16-060","addr:place":"Rafa\u0142\u00f3wka","addr:housenumber":"64","addr:teryt:sym_ul":44813,"contact:phone":"+48 857177061","contact:email":"sprafalowka@zabludow.pl","contact:website":"http:\/\/www.sprafalowka.szkolnastrona.pl","ref:regon":"050011246","ref:vatin":"PL9661411199","operator":"Gmina Zab\u0142ud\u00f3w","operator:type":"government","amenity":"school"}},{"id":92141,"type":"Feature","geometry":{"type":"Point","coordinates":[23.1560199,53.1440452]},"properties":{"isced:level":"1;2","ref:rspo":92141,"official_name":"Szko\u0142a Podstawowa im. Wsp\u00f3lnoty Polskiej w Bia\u0142ostoczku","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"15-592","addr:place":"Bia\u0142ostoczek","addr:housenumber":"8","addr:teryt:sym_ul":44581,"contact:phone":"+48 857419625","contact:email":"spbialostoczek@zabludow.pl","contact:website":"http:\/\/www.spbialostoczek.pl","ref:regon":"050308800","ref:vatin":"PL9661413850","operator":"Gmina Zab\u0142ud\u00f3w","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 30077,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.34465,
+                    53.01072
+                ]
+            },
+            "properties": {
+                "ref:rspo": 30077,
+                "official_name": "Zesp\u00f3\u0142 Szkolno - Przedszkolny w Zab\u0142udowie",
+                "name": "Zesp\u00f3\u0142 Szkolno - Przedszkolny w Zab\u0142udowie",
+                "addr:country": "PL",
+                "addr:postcode": "16-060",
+                "addr:city": "Zab\u0142ud\u00f3w",
+                "addr:street": "ul. Adama Mickiewicza",
+                "addr:housenumber": "20",
+                "addr:teryt:simc": 12740,
+                "addr:teryt:sym_ul": 923578,
+                "contact:phone": "+48 857188020",
+                "contact:email": "zspzabludow@wp.pl",
+                "contact:website": "http:\/\/zspzabludow.edupage.org",
+                "ref:regon": "052144365",
+                "ref:vatin": "PL9661659930",
+                "operator": "Gmina Zab\u0142ud\u00f3w",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 73510;73677"
+            }
+        },
+        {
+            "id": 73510,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.34465,
+                    53.01069
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 73510,
+                "official_name": "Szko\u0142a Podstawowa im. Franciszka Karpi\u0144skiego w Zab\u0142udowie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "16-060",
+                "addr:city": "Zab\u0142ud\u00f3w",
+                "addr:street": "ul. Adama Mickiewicza",
+                "addr:housenumber": "20",
+                "addr:teryt:simc": 12740,
+                "addr:teryt:sym_ul": 923578,
+                "contact:phone": "+48 857188020",
+                "contact:email": "zspzabludow@wp.pl",
+                "contact:website": "http:\/\/zspzabludow.edupage.org",
+                "ref:regon": "000264928",
+                "ref:vatin": "PL9661411590",
+                "operator": "Gmina Zab\u0142ud\u00f3w",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 30077"
+            }
+        },
+        {
+            "id": 73677,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.34465,
+                    53.01066
+                ]
+            },
+            "properties": {
+                "ref:rspo": 73677,
+                "official_name": "Przedszkole w Zab\u0142udowie",
+                "name": "Przedszkole w Zab\u0142udowie",
+                "addr:country": "PL",
+                "addr:postcode": "16-060",
+                "addr:city": "Zab\u0142ud\u00f3w",
+                "addr:street": "ul. Adama Mickiewicza",
+                "addr:housenumber": "20",
+                "addr:teryt:simc": 12740,
+                "addr:teryt:sym_ul": 923578,
+                "contact:phone": "+48 857188020",
+                "contact:email": "zspzabludow@wp.pl",
+                "contact:website": "http:\/\/zspzabludow.edupage.org",
+                "ref:regon": "052196244",
+                "operator": "Gmina Zab\u0142ud\u00f3w",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 30077"
+            }
+        },
+        {
+            "id": 269600,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.33606,
+                    53.01346
+                ]
+            },
+            "properties": {
+                "ref:rspo": 269600,
+                "official_name": "Edukacyjne Przedszkole \"Entliczek\"",
+                "name": "Edukacyjne Przedszkole \"Entliczek\"",
+                "addr:country": "PL",
+                "addr:postcode": "16-060",
+                "addr:city": "Zab\u0142ud\u00f3w",
+                "addr:street": "ul. Muchawiecka",
+                "addr:housenumber": "2",
+                "addr:teryt:simc": 13464,
+                "addr:teryt:sym_ul": 923578,
+                "contact:website": "http:\/\/as.edu.pl\/",
+                "ref:regon": "381610520",
+                "operator": "Fundacja Inicjatywa Na Rzecz Edukacji",
+                "operator:type": "ngo",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 30723,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.3692438,
+                    53.0441969
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 30723,
+                "official_name": "Szko\u0142a Podstawowa w Dobrzyni\u00f3wce",
+                "name": "Szko\u0142a Podstawowa w Dobrzyni\u00f3wce",
+                "addr:country": "PL",
+                "addr:postcode": "16-060",
+                "addr:place": "Dobrzyni\u00f3wka",
+                "addr:housenumber": "40",
+                "addr:teryt:sym_ul": 44463,
+                "contact:phone": "+48 857177019",
+                "contact:email": "spdobrzyniowka@zabludow.pl",
+                "contact:website": "http:\/\/www.dobrzyniowkaszkola.edupage.org",
+                "ref:regon": "001163661",
+                "ref:vatin": "PL9661411532",
+                "operator": "Gmina Zab\u0142ud\u00f3w",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 30724,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.3389849,
+                    53.056086
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 30724,
+                "official_name": "Szko\u0142a Podstawowa im. Sybirak\u00f3w w Rafa\u0142\u00f3wce",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "16-060",
+                "addr:place": "Rafa\u0142\u00f3wka",
+                "addr:housenumber": "64",
+                "addr:teryt:sym_ul": 44813,
+                "contact:phone": "+48 857177061",
+                "contact:email": "sprafalowka@zabludow.pl",
+                "contact:website": "http:\/\/www.sprafalowka.szkolnastrona.pl",
+                "ref:regon": "050011246",
+                "ref:vatin": "PL9661411199",
+                "operator": "Gmina Zab\u0142ud\u00f3w",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 92141,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.1560199,
+                    53.1440452
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 92141,
+                "official_name": "Szko\u0142a Podstawowa im. Wsp\u00f3lnoty Polskiej w Bia\u0142ostoczku",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "15-592",
+                "addr:place": "Bia\u0142ostoczek",
+                "addr:housenumber": "8",
+                "addr:teryt:sym_ul": 44581,
+                "contact:phone": "+48 857419625",
+                "contact:email": "spbialostoczek@zabludow.pl",
+                "contact:website": "http:\/\/www.spbialostoczek.pl",
+                "ref:regon": "050308800",
+                "ref:vatin": "PL9661413850",
+                "operator": "Gmina Zab\u0142ud\u00f3w",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

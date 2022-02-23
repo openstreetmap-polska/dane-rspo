@@ -1,1 +1,64 @@
-{"type":"FeatureCollection","features":[{"id":12082,"type":"Feature","geometry":{"type":"Point","coordinates":[21.2081899,52.82067]},"properties":{"ref:rspo":12082,"official_name":"Przedszkole","name":"Przedszkole","addr:country":"PL","addr:postcode":"06-220","addr:place":"Stary Szelk\u00f3w","addr:housenumber":"39A","addr:teryt:sym_ul":521390,"contact:phone":"+48 297176735","contact:email":"psszelkow38@op.pl","contact:website":"http:\/\/www.pstaryszelkow.szkolnastrona.pl","ref:regon":"000912646","ref:vatin":"PL7571269957","operator":"Gmina Szelk\u00f3w","operator:type":"government","amenity":"kindergarten"}},{"id":12081,"type":"Feature","geometry":{"type":"Point","coordinates":[21.21131,52.82494]},"properties":{"isced:level":"1;2","ref:rspo":12081,"official_name":"Szko\u0142a Podstawowa im. Janusza Korczaka","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"06-220","addr:place":"Stary Szelk\u00f3w","addr:housenumber":"38","addr:teryt:sym_ul":521390,"contact:phone":"+48 297176732","contact:email":"szkolaszelkow@op.pl","contact:website":"http:\/\/spszelkow.szkolnastrona.pl","ref:regon":"000272543","ref:vatin":"PL7571008524","operator":"Gmina Szelk\u00f3w","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 12082,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.2081899,
+                    52.82067
+                ]
+            },
+            "properties": {
+                "ref:rspo": 12082,
+                "official_name": "Przedszkole",
+                "name": "Przedszkole",
+                "addr:country": "PL",
+                "addr:postcode": "06-220",
+                "addr:place": "Stary Szelk\u00f3w",
+                "addr:housenumber": "39A",
+                "addr:teryt:sym_ul": 521390,
+                "contact:phone": "+48 297176735",
+                "contact:email": "psszelkow38@op.pl",
+                "contact:website": "http:\/\/www.pstaryszelkow.szkolnastrona.pl",
+                "ref:regon": "000912646",
+                "ref:vatin": "PL7571269957",
+                "operator": "Gmina Szelk\u00f3w",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 12081,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.21131,
+                    52.82494
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 12081,
+                "official_name": "Szko\u0142a Podstawowa im. Janusza Korczaka",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "06-220",
+                "addr:place": "Stary Szelk\u00f3w",
+                "addr:housenumber": "38",
+                "addr:teryt:sym_ul": 521390,
+                "contact:phone": "+48 297176732",
+                "contact:email": "szkolaszelkow@op.pl",
+                "contact:website": "http:\/\/spszelkow.szkolnastrona.pl",
+                "ref:regon": "000272543",
+                "ref:vatin": "PL7571008524",
+                "operator": "Gmina Szelk\u00f3w",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

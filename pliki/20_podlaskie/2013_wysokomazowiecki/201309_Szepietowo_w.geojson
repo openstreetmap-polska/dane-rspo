@@ -1,1 +1,126 @@
-{"type":"FeatureCollection","features":[{"id":83766,"type":"Feature","geometry":{"type":"Point","coordinates":[22.57513,52.80159]},"properties":{"isced:level":"1;2","ref:rspo":83766,"official_name":"Szko\u0142a Podstawowa w Wojnach-Krupach","name":"Szko\u0142a Podstawowa w Wojnach-Krupach","addr:country":"PL","addr:postcode":"18-210","addr:place":"Wojny-Krupy","addr:housenumber":"11","addr:teryt:sym_ul":407523,"contact:phone":"+48 506112310","contact:email":"spwojny@op.pl","ref:regon":"001129687","ref:vatin":"PL7221380358","operator":"Gmina Szepietowo","operator:type":"government","amenity":"school"}},{"id":83880,"type":"Feature","geometry":{"type":"Point","coordinates":[22.57886,52.85413]},"properties":{"isced:level":"1;2","ref:rspo":83880,"official_name":"Szko\u0142a Podstawowa im. Polskiej Organizacji Wojskowej w D\u0105br\u00f3wce Ko\u015bcielnej","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"18-210","addr:place":"D\u0105br\u00f3wka Ko\u015bcielna","addr:housenumber":"35","addr:teryt:sym_ul":407227,"contact:phone":"+48 666825859","contact:email":"bktp@wp.pl","contact:website":"http:\/\/spdk.szkolnastrona.pl\/","ref:regon":"001129664","ref:vatin":"PL7221380424","operator":"Gmina Szepietowo","operator:type":"government","amenity":"school"}},{"id":81657,"type":"Feature","geometry":{"type":"Point","coordinates":[22.53799,52.86662]},"properties":{"ref:rspo":81657,"official_name":"Niepubliczne Przedszkole im. Kubusia Puchatka w Szepietowie","name":"Niepubliczne Przedszkole","addr:country":"PL","addr:postcode":"18-210","addr:city":"Szepietowo","addr:street":"ul. Nowa","addr:housenumber":"1A","addr:teryt:simc":14330,"addr:teryt:sym_ul":407380,"contact:email":"biuro@kubuspuchatek.com.pl","contact:website":"http:\/\/www.kubuspuchatek.com.pl","ref:regon":"200741670","ref:vatin":"PL7221188968","operator":"Sebastian Zar\u0119ba","operator:type":"private","amenity":"kindergarten"}},{"id":83544,"type":"Feature","geometry":{"type":"Point","coordinates":[22.54925,52.87129]},"properties":{"isced:level":"1;2","ref:rspo":83544,"official_name":"Szko\u0142a Podstawowa im. Kardyna\u0142a Stefana Wyszy\u0144skiego w Szepietowie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"18-210","addr:city":"Szepietowo","addr:street":"ul. 1 Maja","addr:housenumber":"2","addr:teryt:simc":11926,"addr:teryt:sym_ul":407380,"contact:phone":"+48 864760245","contact:email":"spszepietowo@o2.pl","contact:website":"http:\/\/www.spszepietowo.szkolnastrona.pl","ref:regon":"000271377","ref:vatin":"PL7221169764","operator":"Gmina Szepietowo","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 83766,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.57513,
+                    52.80159
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 83766,
+                "official_name": "Szko\u0142a Podstawowa w Wojnach-Krupach",
+                "name": "Szko\u0142a Podstawowa w Wojnach-Krupach",
+                "addr:country": "PL",
+                "addr:postcode": "18-210",
+                "addr:place": "Wojny-Krupy",
+                "addr:housenumber": "11",
+                "addr:teryt:sym_ul": 407523,
+                "contact:phone": "+48 506112310",
+                "contact:email": "spwojny@op.pl",
+                "ref:regon": "001129687",
+                "ref:vatin": "PL7221380358",
+                "operator": "Gmina Szepietowo",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 83880,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.57886,
+                    52.85413
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 83880,
+                "official_name": "Szko\u0142a Podstawowa im. Polskiej Organizacji Wojskowej w D\u0105br\u00f3wce Ko\u015bcielnej",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "18-210",
+                "addr:place": "D\u0105br\u00f3wka Ko\u015bcielna",
+                "addr:housenumber": "35",
+                "addr:teryt:sym_ul": 407227,
+                "contact:phone": "+48 666825859",
+                "contact:email": "bktp@wp.pl",
+                "contact:website": "http:\/\/spdk.szkolnastrona.pl\/",
+                "ref:regon": "001129664",
+                "ref:vatin": "PL7221380424",
+                "operator": "Gmina Szepietowo",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 81657,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.53799,
+                    52.86662
+                ]
+            },
+            "properties": {
+                "ref:rspo": 81657,
+                "official_name": "Niepubliczne Przedszkole im. Kubusia Puchatka w Szepietowie",
+                "name": "Niepubliczne Przedszkole",
+                "addr:country": "PL",
+                "addr:postcode": "18-210",
+                "addr:city": "Szepietowo",
+                "addr:street": "ul. Nowa",
+                "addr:housenumber": "1A",
+                "addr:teryt:simc": 14330,
+                "addr:teryt:sym_ul": 407380,
+                "contact:email": "biuro@kubuspuchatek.com.pl",
+                "contact:website": "http:\/\/www.kubuspuchatek.com.pl",
+                "ref:regon": "200741670",
+                "ref:vatin": "PL7221188968",
+                "operator": "Sebastian Zar\u0119ba",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 83544,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.54925,
+                    52.87129
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 83544,
+                "official_name": "Szko\u0142a Podstawowa im. Kardyna\u0142a Stefana Wyszy\u0144skiego w Szepietowie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "18-210",
+                "addr:city": "Szepietowo",
+                "addr:street": "ul. 1 Maja",
+                "addr:housenumber": "2",
+                "addr:teryt:simc": 11926,
+                "addr:teryt:sym_ul": 407380,
+                "contact:phone": "+48 864760245",
+                "contact:email": "spszepietowo@o2.pl",
+                "contact:website": "http:\/\/www.spszepietowo.szkolnastrona.pl",
+                "ref:regon": "000271377",
+                "ref:vatin": "PL7221169764",
+                "operator": "Gmina Szepietowo",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

@@ -1,1 +1,127 @@
-{"type":"FeatureCollection","features":[{"id":48291,"type":"Feature","geometry":{"type":"Point","coordinates":[18.413355,51.768018]},"properties":{"isced:level":"1;2","ref:rspo":48291,"official_name":"Szko\u0142a Podstawowa Im \u015aw Jana Paw\u0142a Ii","name":"Szko\u0142a Podstawowa Im \u015aw Jana Paw\u0142a Ii","addr:country":"PL","addr:postcode":"62-840","addr:place":"Moskurnia","addr:housenumber":"9a","addr:teryt:sym_ul":201224,"contact:phone":"+48 627637056","contact:email":"spmoskurnia@poczta.onet.pl","contact:website":"http:\/\/www.spmoskurnia.szkolnastrona.pl","ref:regon":"001171790","ref:vatin":"PL9680791381","operator":"Gmina Ko\u017aminek","operator:type":"government","amenity":"school"}},{"id":48290,"type":"Feature","geometry":{"type":"Point","coordinates":[18.291885,51.7891119]},"properties":{"isced:level":"1;2","ref:rspo":48290,"official_name":"Szko\u0142a Podstawowa im. Wincentego Witosa","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"62-840","addr:place":"Nowy Nakwasin","addr:housenumber":"48","addr:teryt:sym_ul":201253,"contact:phone":"+48 627637011","contact:email":"spnakwasin@poczta.onet.pl","contact:website":"http:\/\/www.spnowynakwasin.szkolnastrona.pl","ref:regon":"001171784","ref:vatin":"PL9680791412","operator":"Gmina Ko\u017aminek","operator:type":"government","amenity":"school"}},{"id":47061,"type":"Feature","geometry":{"type":"Point","coordinates":[18.33311,51.7982299]},"properties":{"ref:rspo":47061,"official_name":"Publiczne Przedszkole w Ko\u017aminku","name":"Publiczne Przedszkole w Ko\u017aminku","addr:country":"PL","addr:postcode":"62-840","addr:city":"Ko\u017aminek","addr:street":"ul. Miko\u0142aja Kopernika","addr:housenumber":"8a","addr:teryt:simc":9282,"addr:teryt:sym_ul":201141,"contact:phone":"+48 627637043","contact:email":"narowska@onet.eu","ref:regon":"250022960","ref:vatin":"PL9680616353","operator":"Gmina Ko\u017aminek","operator:type":"government","amenity":"kindergarten"}},{"id":48289,"type":"Feature","geometry":{"type":"Point","coordinates":[18.33623,51.79852]},"properties":{"isced:level":"1;2","ref:rspo":48289,"official_name":"Szko\u0142a Podstawowa im. Andrzeja Miel\u0119ckiego","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"62-840","addr:city":"Ko\u017aminek","addr:street":"ul. Szkolna","addr:housenumber":"1","addr:teryt:simc":21970,"addr:teryt:sym_ul":201141,"contact:phone":"+48 627637023","contact:email":"spkozminek@interia.pl","contact:website":"http:\/\/www.spkozminek.szkolnastrona.pl","ref:regon":"000252925","ref:vatin":"PL9680770203","operator":"Gmina Ko\u017aminek","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 48291,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.413355,
+                    51.768018
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 48291,
+                "official_name": "Szko\u0142a Podstawowa Im \u015aw Jana Paw\u0142a Ii",
+                "name": "Szko\u0142a Podstawowa Im \u015aw Jana Paw\u0142a Ii",
+                "addr:country": "PL",
+                "addr:postcode": "62-840",
+                "addr:place": "Moskurnia",
+                "addr:housenumber": "9a",
+                "addr:teryt:sym_ul": 201224,
+                "contact:phone": "+48 627637056",
+                "contact:email": "spmoskurnia@poczta.onet.pl",
+                "contact:website": "http:\/\/www.spmoskurnia.szkolnastrona.pl",
+                "ref:regon": "001171790",
+                "ref:vatin": "PL9680791381",
+                "operator": "Gmina Ko\u017aminek",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 48290,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.291885,
+                    51.7891119
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 48290,
+                "official_name": "Szko\u0142a Podstawowa im. Wincentego Witosa",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "62-840",
+                "addr:place": "Nowy Nakwasin",
+                "addr:housenumber": "48",
+                "addr:teryt:sym_ul": 201253,
+                "contact:phone": "+48 627637011",
+                "contact:email": "spnakwasin@poczta.onet.pl",
+                "contact:website": "http:\/\/www.spnowynakwasin.szkolnastrona.pl",
+                "ref:regon": "001171784",
+                "ref:vatin": "PL9680791412",
+                "operator": "Gmina Ko\u017aminek",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 47061,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.33311,
+                    51.7982299
+                ]
+            },
+            "properties": {
+                "ref:rspo": 47061,
+                "official_name": "Publiczne Przedszkole w Ko\u017aminku",
+                "name": "Publiczne Przedszkole w Ko\u017aminku",
+                "addr:country": "PL",
+                "addr:postcode": "62-840",
+                "addr:city": "Ko\u017aminek",
+                "addr:street": "ul. Miko\u0142aja Kopernika",
+                "addr:housenumber": "8a",
+                "addr:teryt:simc": 9282,
+                "addr:teryt:sym_ul": 201141,
+                "contact:phone": "+48 627637043",
+                "contact:email": "narowska@onet.eu",
+                "ref:regon": "250022960",
+                "ref:vatin": "PL9680616353",
+                "operator": "Gmina Ko\u017aminek",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 48289,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.33623,
+                    51.79852
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 48289,
+                "official_name": "Szko\u0142a Podstawowa im. Andrzeja Miel\u0119ckiego",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "62-840",
+                "addr:city": "Ko\u017aminek",
+                "addr:street": "ul. Szkolna",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 21970,
+                "addr:teryt:sym_ul": 201141,
+                "contact:phone": "+48 627637023",
+                "contact:email": "spkozminek@interia.pl",
+                "contact:website": "http:\/\/www.spkozminek.szkolnastrona.pl",
+                "ref:regon": "000252925",
+                "ref:vatin": "PL9680770203",
+                "operator": "Gmina Ko\u017aminek",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

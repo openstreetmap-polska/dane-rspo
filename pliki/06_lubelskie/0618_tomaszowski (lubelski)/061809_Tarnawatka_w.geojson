@@ -1,1 +1,130 @@
-{"type":"FeatureCollection","features":[{"id":40117,"type":"Feature","geometry":{"type":"Point","coordinates":[23.39583,50.5295599]},"properties":{"ref:rspo":40117,"official_name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 I Przedszkola w Tarnawatce","name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 I Przedszkola w Tarnawatce","addr:country":"PL","addr:postcode":"22-604","addr:city":"Tarnawatka","addr:street":"ul. Lubelska","addr:housenumber":"62","addr:teryt:simc":11307,"addr:teryt:sym_ul":901140,"contact:phone":"+48 846624792","contact:email":"zsip@tarnawatka.pl","contact:website":"http:\/\/www.zsip.cal.pl\/","ref:regon":"951215158","ref:vatin":"PL9211849659","operator":"Gmina Tarnawatka","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 115072;115423"}},{"id":115072,"type":"Feature","geometry":{"type":"Point","coordinates":[23.39583,50.5295299]},"properties":{"ref:rspo":115072,"official_name":"Przedszkole w Tarnawatce","name":"Przedszkole w Tarnawatce","addr:country":"PL","addr:postcode":"22-604","addr:city":"Tarnawatka","addr:street":"ul. Lubelska","addr:housenumber":"62","addr:teryt:simc":11307,"addr:teryt:sym_ul":901140,"contact:phone":"+48 846624543","contact:email":"sp_tarnawatka6@wp.pl","contact:website":"http:\/\/zsip.cal.pl","ref:regon":"951080110","operator":"Gmina Tarnawatka","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 40117"}},{"id":115423,"type":"Feature","geometry":{"type":"Point","coordinates":[23.39583,50.529499900000005]},"properties":{"isced:level":"1;2","ref:rspo":115423,"official_name":"Szko\u0142a Podstawowa w Tarnawatce","name":"Szko\u0142a Podstawowa w Tarnawatce","addr:country":"PL","addr:postcode":"22-604","addr:city":"Tarnawatka","addr:street":"ul. Lubelska","addr:housenumber":"62","addr:teryt:simc":11307,"addr:teryt:sym_ul":901140,"contact:phone":"+48 846624727","contact:email":"sp_tarnawatka6@wp.pl","ref:regon":"001002780","operator":"Gmina Tarnawatka","operator:type":"government","amenity":"school","note":"Parent RSPO: 40117"}},{"id":40115,"type":"Feature","geometry":{"type":"Point","coordinates":[23.45017,50.53174]},"properties":{"isced:level":"1;2","ref:rspo":40115,"official_name":"Szko\u0142a Podstawowa w Hucie Tarnawackiej","name":"Szko\u0142a Podstawowa w Hucie Tarnawackiej","addr:country":"PL","addr:postcode":"22-604","addr:place":"Huta Tarnawacka","addr:housenumber":"30a","addr:teryt:sym_ul":900940,"contact:phone":"+48 846624779","contact:email":"sphuta@interia.pl","contact:website":"http:\/\/www.sphuta.superszkolna.pl","ref:regon":"001136530","ref:vatin":"PL9211735996","operator":"Gmina Tarnawatka","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 40117,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.39583,
+                    50.5295599
+                ]
+            },
+            "properties": {
+                "ref:rspo": 40117,
+                "official_name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 I Przedszkola w Tarnawatce",
+                "name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 I Przedszkola w Tarnawatce",
+                "addr:country": "PL",
+                "addr:postcode": "22-604",
+                "addr:city": "Tarnawatka",
+                "addr:street": "ul. Lubelska",
+                "addr:housenumber": "62",
+                "addr:teryt:simc": 11307,
+                "addr:teryt:sym_ul": 901140,
+                "contact:phone": "+48 846624792",
+                "contact:email": "zsip@tarnawatka.pl",
+                "contact:website": "http:\/\/www.zsip.cal.pl\/",
+                "ref:regon": "951215158",
+                "ref:vatin": "PL9211849659",
+                "operator": "Gmina Tarnawatka",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 115072;115423"
+            }
+        },
+        {
+            "id": 115072,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.39583,
+                    50.5295299
+                ]
+            },
+            "properties": {
+                "ref:rspo": 115072,
+                "official_name": "Przedszkole w Tarnawatce",
+                "name": "Przedszkole w Tarnawatce",
+                "addr:country": "PL",
+                "addr:postcode": "22-604",
+                "addr:city": "Tarnawatka",
+                "addr:street": "ul. Lubelska",
+                "addr:housenumber": "62",
+                "addr:teryt:simc": 11307,
+                "addr:teryt:sym_ul": 901140,
+                "contact:phone": "+48 846624543",
+                "contact:email": "sp_tarnawatka6@wp.pl",
+                "contact:website": "http:\/\/zsip.cal.pl",
+                "ref:regon": "951080110",
+                "operator": "Gmina Tarnawatka",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 40117"
+            }
+        },
+        {
+            "id": 115423,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.39583,
+                    50.529499900000005
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 115423,
+                "official_name": "Szko\u0142a Podstawowa w Tarnawatce",
+                "name": "Szko\u0142a Podstawowa w Tarnawatce",
+                "addr:country": "PL",
+                "addr:postcode": "22-604",
+                "addr:city": "Tarnawatka",
+                "addr:street": "ul. Lubelska",
+                "addr:housenumber": "62",
+                "addr:teryt:simc": 11307,
+                "addr:teryt:sym_ul": 901140,
+                "contact:phone": "+48 846624727",
+                "contact:email": "sp_tarnawatka6@wp.pl",
+                "ref:regon": "001002780",
+                "operator": "Gmina Tarnawatka",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 40117"
+            }
+        },
+        {
+            "id": 40115,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.45017,
+                    50.53174
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 40115,
+                "official_name": "Szko\u0142a Podstawowa w Hucie Tarnawackiej",
+                "name": "Szko\u0142a Podstawowa w Hucie Tarnawackiej",
+                "addr:country": "PL",
+                "addr:postcode": "22-604",
+                "addr:place": "Huta Tarnawacka",
+                "addr:housenumber": "30a",
+                "addr:teryt:sym_ul": 900940,
+                "contact:phone": "+48 846624779",
+                "contact:email": "sphuta@interia.pl",
+                "contact:website": "http:\/\/www.sphuta.superszkolna.pl",
+                "ref:regon": "001136530",
+                "ref:vatin": "PL9211735996",
+                "operator": "Gmina Tarnawatka",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

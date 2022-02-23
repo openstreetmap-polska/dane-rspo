@@ -1,1 +1,705 @@
-{"type":"FeatureCollection","features":[{"id":66752,"type":"Feature","geometry":{"type":"Point","coordinates":[22.51445,52.91514]},"properties":{"ref:rspo":66752,"official_name":"Poradnia Psychologiczno-Pedagogiczna w Wysokiem Mazowieckiem","name":"Poradnia Psychologiczno-Pedagogiczna w Wysokiem Mazowieckiem","addr:country":"PL","addr:postcode":"18-200","addr:city":"Wysokie Mazowieckie","addr:street":"ul. Adama Mickiewicza","addr:housenumber":"1B","addr:teryt:simc":12740,"addr:teryt:sym_ul":957620,"contact:phone":"+48 862752552","contact:email":"wmppp@op.pl","ref:regon":"000833303","ref:vatin":"PL7221322237","operator":"Powiat Wysokomazowiecki","operator:type":"government","healthcare":"councelling","counselling_type":"education","fixme":"w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. healthcare=councelling + counselling_type=education albo healthcare=psychotherapist)"}},{"id":90097,"type":"Feature","geometry":{"type":"Point","coordinates":[22.51067,52.91617]},"properties":{"ref:rspo":90097,"official_name":"Przedszkole Miejskie Nr 1 \u015awiat Malucha w Wysokiem Mazowieckiem","name":"Przedszkole Miejskie Nr 1 \u015awiat Malucha w Wysokiem Mazowieckiem","addr:country":"PL","addr:postcode":"18-200","addr:city":"Wysokie Mazowieckie","addr:street":"ul. Armii Krajowej","addr:housenumber":"3","addr:teryt:simc":432,"addr:teryt:sym_ul":957620,"contact:phone":"+48 862750808","contact:email":"przedsznr1@onet.pl","contact:website":"http:\/\/pm1.wysokiemazowieckie.pl\/","ref:regon":"200412541","ref:vatin":"PL7221453092","operator":"Miasto Wysokie Mazowieckie","operator:type":"government","amenity":"kindergarten"}},{"id":103335,"type":"Feature","geometry":{"type":"Point","coordinates":[22.52544,52.91635]},"properties":{"ref:rspo":103335,"official_name":"Centrum Kszta\u0142cenia Zawodowego w Wysokiem Mazowieckiem","name":"Centrum Kszta\u0142cenia Zawodowego w Wysokiem Mazowieckiem","addr:country":"PL","addr:postcode":"18-200","addr:city":"Wysokie Mazowieckie","addr:street":"ul. W\u0142adys\u0142awa Pelca","addr:housenumber":"11","addr:teryt:simc":36496,"addr:teryt:sym_ul":957620,"contact:phone":"+48 862752234","contact:email":"ckzwmsekr@go2.pl","contact:website":"http:\/\/www.ckzwm.edu.pl","ref:regon":"451148822","ref:vatin":"PL7221470110","operator":"Powiat Wysokomazowiecki","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 66753;66754;66758;66761;122572;274853"}},{"id":66753,"type":"Feature","geometry":{"type":"Point","coordinates":[22.52544,52.91632]},"properties":{"isced:level":"3","ref:rspo":66753,"official_name":"Bran\u017cowa Szko\u0142a I Stopnia im. Armii Krajowej w Wysokiem Mazowieckiem","name":"Bran\u017cowa Szko\u0142a I Stopnia","addr:country":"PL","addr:postcode":"18-200","addr:city":"Wysokie Mazowieckie","addr:street":"ul. W\u0142adys\u0142awa Pelca","addr:housenumber":"11","addr:teryt:simc":36496,"addr:teryt:sym_ul":957620,"contact:phone":"+48 862752234","contact:email":"sekretariat@ckzwm.edu.pl.pl","contact:website":"http:\/\/www.ckzwm.edu.pl","ref:regon":"200739041","operator":"Powiat Wysokomazowiecki","operator:type":"government","amenity":"school","note":"Parent RSPO: 103335"}},{"id":66754,"type":"Feature","geometry":{"type":"Point","coordinates":[22.52544,52.916290000000004]},"properties":{"isced:level":"3","ref:rspo":66754,"official_name":"Technikum im. Armii Krajowej w Wysokiem Mazowieckiem","name":"Technikum","addr:country":"PL","addr:postcode":"18-200","addr:city":"Wysokie Mazowieckie","addr:street":"ul. W\u0142adys\u0142awa Pelca","addr:housenumber":"11","addr:teryt:simc":36496,"addr:teryt:sym_ul":957620,"contact:phone":"+48 862752234","contact:email":"sekretariat@ckzwm.edu.pl","contact:website":"http:\/\/www.ckz.edu.pl","ref:regon":"451189005","operator":"Powiat Wysokomazowiecki","operator:type":"government","amenity":"school","note":"Parent RSPO: 103335"}},{"id":66758,"type":"Feature","geometry":{"type":"Point","coordinates":[22.52544,52.91626]},"properties":{"isced:level":"4","ref:rspo":66758,"official_name":"Szko\u0142a Policealna Nr 3 w Wysokiem Mazowieckiem","name":"Szko\u0142a Policealna Nr 3 w Wysokiem Mazowieckiem","addr:country":"PL","addr:postcode":"18-200","addr:city":"Wysokie Mazowieckie","addr:street":"ul. W\u0142adys\u0142awa Pelca","addr:housenumber":"11","addr:teryt:simc":36496,"addr:teryt:sym_ul":957620,"contact:phone":"+48 862752234","contact:email":"sekretariat@ckzwm.edu.pl","contact:website":"http:\/\/ckzwm.edu.pl","ref:regon":"200027079","operator":"Powiat Wysokomazowiecki","operator:type":"government","amenity":"college","note":"Parent RSPO: 103335"}},{"id":66761,"type":"Feature","geometry":{"type":"Point","coordinates":[22.52544,52.91623]},"properties":{"ref:rspo":66761,"official_name":"Centrum Kszta\u0142cenia Zawodowego w Wysokiem Mazowieckiem","name":"Centrum Kszta\u0142cenia Zawodowego w Wysokiem Mazowieckiem","addr:country":"PL","addr:postcode":"18-200","addr:city":"Wysokie Mazowieckie","addr:street":"ul. W\u0142adys\u0142awa Pelca","addr:housenumber":"11","addr:teryt:simc":36496,"addr:teryt:sym_ul":957620,"contact:phone":"+48 862752234","contact:email":"sekretariat@ckzwm.edu.pl","contact:website":"http:\/\/www.ckzwm.edu.pl","ref:regon":"451188980","operator":"Powiat Wysokomazowiecki","operator:type":"government","fixme":"w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. amenity=training + training=*, amenity=dancing_school, amenity=language_school, amenity=music_school) albo amenity=school, amenity=college, albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Parent RSPO: 103335"}},{"id":122572,"type":"Feature","geometry":{"type":"Point","coordinates":[22.52544,52.9162]},"properties":{"isced:level":"3","ref:rspo":122572,"official_name":"Liceum Og\u00f3lnokszta\u0142c\u0105ce dla Doros\u0142ych Nr II w Wysokiem Mazowieckiem","name":"Liceum Og\u00f3lnokszta\u0142c\u0105ce dla Doros\u0142ych Nr II w Wysokiem Mazowieckiem","addr:country":"PL","addr:postcode":"18-200","addr:city":"Wysokie Mazowieckie","addr:street":"ul. W\u0142adys\u0142awa Pelca","addr:housenumber":"11","addr:teryt:simc":36496,"addr:teryt:sym_ul":957620,"contact:phone":"+48 862752234","contact:email":"sekretariat@ckzwm.edu.pl","contact:website":"http:\/\/www.ckzwm.edu.pl","ref:regon":"200844223","operator":"Powiat Wysokomazowiecki","operator:type":"government","amenity":"school","note":"Parent RSPO: 103335"}},{"id":274853,"type":"Feature","geometry":{"type":"Point","coordinates":[22.52544,52.91617]},"properties":{"isced:level":"3","ref:rspo":274853,"official_name":"Bran\u017cowa Szko\u0142a II Stopnia w Wysokiem Mazowieckiem","name":"Bran\u017cowa Szko\u0142a II Stopnia w Wysokiem Mazowieckiem","addr:country":"PL","addr:postcode":"18-200","addr:city":"Wysokie Mazowieckie","addr:street":"ul. W\u0142adys\u0142awa Pelca","addr:housenumber":"11","addr:teryt:simc":36496,"addr:teryt:sym_ul":957620,"contact:phone":"+48 862752234","contact:email":"sekretariat@ckzwm.edu.pl","contact:website":"http:\/\/www.ckzwm.edu.pl","ref:regon":"386341584","operator":"Powiat Wysokomazowiecki","operator:type":"government","amenity":"school","note":"Parent RSPO: 103335"}},{"id":131233,"type":"Feature","geometry":{"type":"Point","coordinates":[22.51874,52.9167]},"properties":{"ref:rspo":131233,"official_name":"Miejski Zesp\u00f3\u0142 Szk\u00f3\u0142 w Wysokiem Mazowieckiem","name":"Miejski Zesp\u00f3\u0142 Szk\u00f3\u0142 w Wysokiem Mazowieckiem","addr:country":"PL","addr:postcode":"18-200","addr:city":"Wysokie Mazowieckie","addr:street":"ul. Ludowa","addr:housenumber":"5","addr:teryt:simc":11383,"addr:teryt:sym_ul":957620,"contact:phone":"+48 862752657","contact:email":"sekretariat.mzs@wysokiemazowieckie.home.pl","contact:website":"http:\/\/gimwm.psis.edu.pl\/","ref:regon":"365054102","ref:vatin":"PL7221629421","operator":"Miasto Wysokie Mazowieckie","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 131240;263273"}},{"id":131240,"type":"Feature","geometry":{"type":"Point","coordinates":[22.51874,52.916669999999996]},"properties":{"ref:rspo":131240,"official_name":"Samorz\u0105dowa Szko\u0142a Muzyczna I Stopnia w Wysokiem Mazowieckiem","name":"Samorz\u0105dowa Szko\u0142a Muzyczna I Stopnia w Wysokiem Mazowieckiem","addr:country":"PL","addr:postcode":"18-200","addr:city":"Wysokie Mazowieckie","addr:street":"ul. Ludowa","addr:housenumber":"5","addr:teryt:simc":11383,"addr:teryt:sym_ul":957620,"contact:phone":"+48 862752657","contact:email":"sekretariat.mzs@wysokiemazowieckie.home.pl","contact:website":"http:\/\/gimwm.psis.edu.pl\/","ref:regon":"365065554","operator":"Miasto Wysokie Mazowieckie","operator:type":"government","amenity":"music_school","note":"Parent RSPO: 131233"}},{"id":263273,"type":"Feature","geometry":{"type":"Point","coordinates":[22.51874,52.91664]},"properties":{"isced:level":"1;2","ref:rspo":263273,"official_name":"Szko\u0142a Podstawowa Nr 2 im. Miko\u0142aja Kopernika w Wysokiem Mazowieckiem","name":"Szko\u0142a Podstawowa Nr 2","addr:country":"PL","addr:postcode":"18-200","addr:city":"Wysokie Mazowieckie","addr:street":"ul. Ludowa","addr:housenumber":"5","addr:teryt:simc":11383,"addr:teryt:sym_ul":957620,"contact:phone":"+48 862752657","contact:email":"sekretariat.mzs@wysokiemazowieckie.home.pl","contact:website":"http:\/\/gimwm.psis.edu.pl\/","ref:regon":"368179608","operator":"Miasto Wysokie Mazowieckie","operator:type":"government","amenity":"school","note":"Parent RSPO: 131233"}},{"id":6840,"type":"Feature","geometry":{"type":"Point","coordinates":[22.51822,52.91884]},"properties":{"ref:rspo":6840,"official_name":"Przedszkole Miejskie Nr 2 w Wysokiem Mazowieckiem","name":"Przedszkole Miejskie Nr 2 w Wysokiem Mazowieckiem","addr:country":"PL","addr:postcode":"18-200","addr:city":"Wysokie Mazowieckie","addr:street":"ul. Wo\u0142odyjowskiego","addr:housenumber":"2","addr:teryt:simc":24714,"addr:teryt:sym_ul":957620,"contact:phone":"+48 862752481","contact:email":"przedsz.nr2@op.pl","contact:website":"http:\/\/www.pm2.wysokiemazowieckie.pl","ref:regon":"200412535","ref:vatin":"PL7221452282","operator":"Miasto Wysokie Mazowieckie","operator:type":"government","amenity":"kindergarten"}},{"id":266816,"type":"Feature","geometry":{"type":"Point","coordinates":[22.51084,52.9189]},"properties":{"ref:rspo":266816,"official_name":"Centrum Edukacyjne \"Filip\" w Wysokiem Mazowieckiem","name":"Centrum Edukacyjne \"Filip\" w Wysokiem Mazowieckiem","addr:country":"PL","addr:postcode":"18-200","addr:city":"Wysokie Mazowieckie","addr:street":"ul. Jagiello\u0144ska","addr:housenumber":"7","addr:teryt:simc":7029,"addr:teryt:sym_ul":957620,"contact:phone":"+48 864762777","contact:email":"biuro.filip@o2.pl","contact:website":"http:\/\/www.osk-filip.pl","ref:regon":"369706040","operator":"O\u015brodek Szkoleniowy \"Filip\" Maciej Pawe\u0142 Zar\u0119ba","operator:type":"consortium","fixme":"w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. amenity=training + training=*, amenity=dancing_school, amenity=language_school, amenity=music_school)"}},{"id":42356,"type":"Feature","geometry":{"type":"Point","coordinates":[22.50998,52.91904]},"properties":{"ref:rspo":42356,"official_name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 Zawodowych im. Stanis\u0142awa Staszica w Wysokiem Mazowieckiem","name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 Zawodowych","addr:country":"PL","addr:postcode":"18-200","addr:city":"Wysokie Mazowieckie","addr:street":"ul. Jagiello\u0144ska","addr:housenumber":"4","addr:teryt:simc":7029,"addr:teryt:sym_ul":957620,"contact:phone":"+48 862752588","contact:email":"zesp_szk_zaw@o2.pl","contact:website":"http:\/\/www.zszwysmaz.podlasie.pl","ref:regon":"000184313","ref:vatin":"PL7221170371","operator":"Powiat Wysokomazowiecki","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 66765;127853"}},{"id":66765,"type":"Feature","geometry":{"type":"Point","coordinates":[22.50998,52.91901]},"properties":{"isced:level":"3","ref:rspo":66765,"official_name":"Technikum w Wysokiem Mazowieckiem","name":"Technikum w Wysokiem Mazowieckiem","addr:country":"PL","addr:postcode":"18-200","addr:city":"Wysokie Mazowieckie","addr:street":"ul. Jagiello\u0144ska","addr:housenumber":"4","addr:teryt:simc":7029,"addr:teryt:sym_ul":957620,"contact:phone":"+48 862752588","contact:email":"zesp_szk_zaw@o2.pl","contact:website":"http:\/\/www.zszwysmaz.podlasie.pl","ref:regon":"451187680","operator":"Powiat Wysokomazowiecki","operator:type":"government","amenity":"school","note":"Parent RSPO: 42356"}},{"id":127853,"type":"Feature","geometry":{"type":"Point","coordinates":[22.50998,52.918980000000005]},"properties":{"isced:level":"4","ref:rspo":127853,"official_name":"Szko\u0142a Policealna Nr 2 w Wysokiem Mazowieckiem","name":"Szko\u0142a Policealna Nr 2 w Wysokiem Mazowieckiem","addr:country":"PL","addr:postcode":"18-200","addr:city":"Wysokie Mazowieckie","addr:street":"ul. Jagiello\u0144ska","addr:housenumber":"4","addr:teryt:simc":7029,"addr:teryt:sym_ul":957620,"contact:phone":"+48 862752588","contact:email":"zesp_szk_zaw@o2.pl","ref:regon":"361923179","operator":"Powiat Wysokomazowiecki","operator:type":"government","amenity":"college","note":"Parent RSPO: 42356"}},{"id":6842,"type":"Feature","geometry":{"type":"Point","coordinates":[22.50789,52.91968]},"properties":{"isced:level":"1;2","ref:rspo":6842,"official_name":"Szko\u0142a Podstawowa Nr 1 im. Tadeusza Ko\u015bciuszki w Wysokiem Mazowieckiem","name":"Szko\u0142a Podstawowa Nr 1","addr:country":"PL","addr:postcode":"18-200","addr:city":"Wysokie Mazowieckie","addr:street":"ul. Ko\u015bcielna","addr:housenumber":"1","addr:teryt:simc":9546,"addr:teryt:sym_ul":957620,"contact:phone":"+48 862752008","contact:email":"dyrektor.sp1@wysokiemazowieckie.pl","contact:website":"http:\/\/www.sp1wysmaz.pl","ref:regon":"000719501","ref:vatin":"PL7221172364","operator":"Miasto Wysokie Mazowieckie","operator:type":"government","amenity":"school"}},{"id":40544,"type":"Feature","geometry":{"type":"Point","coordinates":[22.505800247192,52.920818328857]},"properties":{"ref:rspo":40544,"official_name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 Og\u00f3lnokszta\u0142c\u0105cych I Policealnych w Wysokiem Mazowieckiem","name":"Zesp\u00f3\u0142 Szk\u00f3\u0142 Og\u00f3lnokszta\u0142c\u0105cych I Policealnych w Wysokiem Mazowieckiem","addr:country":"PL","addr:postcode":"18-200","addr:city":"Wysokie Mazowieckie","addr:street":"ul. 1000-lecia","addr:housenumber":"15","addr:teryt:simc":9,"addr:teryt:sym_ul":957620,"contact:phone":"+48 862752235","contact:email":"sekretariat@jagiellonczyk.org.pl","contact:website":"http:\/\/www.jagiellonczyk.org.pl","ref:regon":"451204963","ref:vatin":"PL7221516272","operator":"Powiat Wysokomazowiecki","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 66704;66708;113910"}},{"id":66704,"type":"Feature","geometry":{"type":"Point","coordinates":[22.505800247192,52.920788328857]},"properties":{"isced:level":"3","ref:rspo":66704,"official_name":"Liceum Og\u00f3lnokszat\u0142c\u0105ce im.kr\u00f3la Kazimierza Jagiello\u0144czyka w Wysokiem Mazowieckiem","name":"Liceum Og\u00f3lnokszat\u0142c\u0105ce im.kr\u00f3la Kazimierza Jagiello\u0144czyka w Wysokiem Mazowieckiem","addr:country":"PL","addr:postcode":"18-200","addr:city":"Wysokie Mazowieckie","addr:street":"ul. 1000-lecia","addr:housenumber":"15","addr:teryt:simc":9,"addr:teryt:sym_ul":957620,"contact:phone":"+48 862752235","contact:email":"sekretariat@jagiellonczyk.org.pl","contact:website":"http:\/\/www.jagiellonczyk.org.pl","ref:regon":"000204228","operator":"Powiat Wysokomazowiecki","operator:type":"government","amenity":"school","note":"Parent RSPO: 40544"}},{"id":66708,"type":"Feature","geometry":{"type":"Point","coordinates":[22.505800247192,52.920758328857005]},"properties":{"isced:level":"4","ref:rspo":66708,"official_name":"Szko\u0142a Policealna Nr 1 w Wysokiem Mazowieckiem","name":"Szko\u0142a Policealna Nr 1 w Wysokiem Mazowieckiem","addr:country":"PL","addr:postcode":"18-200","addr:city":"Wysokie Mazowieckie","addr:street":"ul. 1000-lecia","addr:housenumber":"15","addr:teryt:simc":9,"addr:teryt:sym_ul":957620,"contact:phone":"+48 862752235","contact:email":"sekretariat@jagiellonczyk.org.pl","contact:website":"http:\/\/www.jagiellonczyk.org.pl","ref:regon":"451204957","operator":"Powiat Wysokomazowiecki","operator:type":"government","amenity":"college","note":"Parent RSPO: 40544"}},{"id":113910,"type":"Feature","geometry":{"type":"Point","coordinates":[22.505800247192,52.920728328857]},"properties":{"isced:level":"3","ref:rspo":113910,"official_name":"Liceum Og\u00f3lnokszat\u0142c\u0105ce dla Doros\u0142ych Nr I w Wysokiem Mazowieckiem","name":"Liceum Og\u00f3lnokszat\u0142c\u0105ce dla Doros\u0142ych Nr I w Wysokiem Mazowieckiem","addr:country":"PL","addr:postcode":"18-200","addr:city":"Wysokie Mazowieckie","addr:street":"ul. 1000-lecia","addr:housenumber":"15","addr:teryt:simc":9,"addr:teryt:sym_ul":957620,"contact:phone":"+48 862752235","contact:email":"sekretariat@jagiellonczyk.org.pl","ref:regon":"200777395","operator":"Powiat Wysokomazowiecki","operator:type":"government","amenity":"school","note":"Parent RSPO: 40544"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 66752,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.51445,
+                    52.91514
+                ]
+            },
+            "properties": {
+                "ref:rspo": 66752,
+                "official_name": "Poradnia Psychologiczno-Pedagogiczna w Wysokiem Mazowieckiem",
+                "name": "Poradnia Psychologiczno-Pedagogiczna w Wysokiem Mazowieckiem",
+                "addr:country": "PL",
+                "addr:postcode": "18-200",
+                "addr:city": "Wysokie Mazowieckie",
+                "addr:street": "ul. Adama Mickiewicza",
+                "addr:housenumber": "1B",
+                "addr:teryt:simc": 12740,
+                "addr:teryt:sym_ul": 957620,
+                "contact:phone": "+48 862752552",
+                "contact:email": "wmppp@op.pl",
+                "ref:regon": "000833303",
+                "ref:vatin": "PL7221322237",
+                "operator": "Powiat Wysokomazowiecki",
+                "operator:type": "government",
+                "healthcare": "counselling",
+                "counselling_type": "education",
+                "fixme": "w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. healthcare=counselling + counselling_type=education albo healthcare=psychotherapist)"
+            }
+        },
+        {
+            "id": 90097,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.51067,
+                    52.91617
+                ]
+            },
+            "properties": {
+                "ref:rspo": 90097,
+                "official_name": "Przedszkole Miejskie Nr 1 \u015awiat Malucha w Wysokiem Mazowieckiem",
+                "name": "Przedszkole Miejskie Nr 1 \u015awiat Malucha w Wysokiem Mazowieckiem",
+                "addr:country": "PL",
+                "addr:postcode": "18-200",
+                "addr:city": "Wysokie Mazowieckie",
+                "addr:street": "ul. Armii Krajowej",
+                "addr:housenumber": "3",
+                "addr:teryt:simc": 432,
+                "addr:teryt:sym_ul": 957620,
+                "contact:phone": "+48 862750808",
+                "contact:email": "przedsznr1@onet.pl",
+                "contact:website": "http:\/\/pm1.wysokiemazowieckie.pl\/",
+                "ref:regon": "200412541",
+                "ref:vatin": "PL7221453092",
+                "operator": "Miasto Wysokie Mazowieckie",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 103335,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.52544,
+                    52.91635
+                ]
+            },
+            "properties": {
+                "ref:rspo": 103335,
+                "official_name": "Centrum Kszta\u0142cenia Zawodowego w Wysokiem Mazowieckiem",
+                "name": "Centrum Kszta\u0142cenia Zawodowego w Wysokiem Mazowieckiem",
+                "addr:country": "PL",
+                "addr:postcode": "18-200",
+                "addr:city": "Wysokie Mazowieckie",
+                "addr:street": "ul. W\u0142adys\u0142awa Pelca",
+                "addr:housenumber": "11",
+                "addr:teryt:simc": 36496,
+                "addr:teryt:sym_ul": 957620,
+                "contact:phone": "+48 862752234",
+                "contact:email": "ckzwmsekr@go2.pl",
+                "contact:website": "http:\/\/www.ckzwm.edu.pl",
+                "ref:regon": "451148822",
+                "ref:vatin": "PL7221470110",
+                "operator": "Powiat Wysokomazowiecki",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 66753;66754;66758;66761;122572;274853"
+            }
+        },
+        {
+            "id": 66753,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.52544,
+                    52.91632
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 66753,
+                "official_name": "Bran\u017cowa Szko\u0142a I Stopnia im. Armii Krajowej w Wysokiem Mazowieckiem",
+                "name": "Bran\u017cowa Szko\u0142a I Stopnia",
+                "addr:country": "PL",
+                "addr:postcode": "18-200",
+                "addr:city": "Wysokie Mazowieckie",
+                "addr:street": "ul. W\u0142adys\u0142awa Pelca",
+                "addr:housenumber": "11",
+                "addr:teryt:simc": 36496,
+                "addr:teryt:sym_ul": 957620,
+                "contact:phone": "+48 862752234",
+                "contact:email": "sekretariat@ckzwm.edu.pl.pl",
+                "contact:website": "http:\/\/www.ckzwm.edu.pl",
+                "ref:regon": "200739041",
+                "operator": "Powiat Wysokomazowiecki",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 103335"
+            }
+        },
+        {
+            "id": 66754,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.52544,
+                    52.916290000000004
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 66754,
+                "official_name": "Technikum im. Armii Krajowej w Wysokiem Mazowieckiem",
+                "name": "Technikum",
+                "addr:country": "PL",
+                "addr:postcode": "18-200",
+                "addr:city": "Wysokie Mazowieckie",
+                "addr:street": "ul. W\u0142adys\u0142awa Pelca",
+                "addr:housenumber": "11",
+                "addr:teryt:simc": 36496,
+                "addr:teryt:sym_ul": 957620,
+                "contact:phone": "+48 862752234",
+                "contact:email": "sekretariat@ckzwm.edu.pl",
+                "contact:website": "http:\/\/www.ckz.edu.pl",
+                "ref:regon": "451189005",
+                "operator": "Powiat Wysokomazowiecki",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 103335"
+            }
+        },
+        {
+            "id": 66758,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.52544,
+                    52.91626
+                ]
+            },
+            "properties": {
+                "isced:level": "4",
+                "ref:rspo": 66758,
+                "official_name": "Szko\u0142a Policealna Nr 3 w Wysokiem Mazowieckiem",
+                "name": "Szko\u0142a Policealna Nr 3 w Wysokiem Mazowieckiem",
+                "addr:country": "PL",
+                "addr:postcode": "18-200",
+                "addr:city": "Wysokie Mazowieckie",
+                "addr:street": "ul. W\u0142adys\u0142awa Pelca",
+                "addr:housenumber": "11",
+                "addr:teryt:simc": 36496,
+                "addr:teryt:sym_ul": 957620,
+                "contact:phone": "+48 862752234",
+                "contact:email": "sekretariat@ckzwm.edu.pl",
+                "contact:website": "http:\/\/ckzwm.edu.pl",
+                "ref:regon": "200027079",
+                "operator": "Powiat Wysokomazowiecki",
+                "operator:type": "government",
+                "amenity": "college",
+                "note": "Parent RSPO: 103335"
+            }
+        },
+        {
+            "id": 66761,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.52544,
+                    52.91623
+                ]
+            },
+            "properties": {
+                "ref:rspo": 66761,
+                "official_name": "Centrum Kszta\u0142cenia Zawodowego w Wysokiem Mazowieckiem",
+                "name": "Centrum Kszta\u0142cenia Zawodowego w Wysokiem Mazowieckiem",
+                "addr:country": "PL",
+                "addr:postcode": "18-200",
+                "addr:city": "Wysokie Mazowieckie",
+                "addr:street": "ul. W\u0142adys\u0142awa Pelca",
+                "addr:housenumber": "11",
+                "addr:teryt:simc": 36496,
+                "addr:teryt:sym_ul": 957620,
+                "contact:phone": "+48 862752234",
+                "contact:email": "sekretariat@ckzwm.edu.pl",
+                "contact:website": "http:\/\/www.ckzwm.edu.pl",
+                "ref:regon": "451188980",
+                "operator": "Powiat Wysokomazowiecki",
+                "operator:type": "government",
+                "fixme": "w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. amenity=training + training=*, amenity=dancing_school, amenity=language_school, amenity=music_school) albo amenity=school, amenity=college, albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Parent RSPO: 103335"
+            }
+        },
+        {
+            "id": 122572,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.52544,
+                    52.9162
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 122572,
+                "official_name": "Liceum Og\u00f3lnokszta\u0142c\u0105ce dla Doros\u0142ych Nr II w Wysokiem Mazowieckiem",
+                "name": "Liceum Og\u00f3lnokszta\u0142c\u0105ce dla Doros\u0142ych Nr II w Wysokiem Mazowieckiem",
+                "addr:country": "PL",
+                "addr:postcode": "18-200",
+                "addr:city": "Wysokie Mazowieckie",
+                "addr:street": "ul. W\u0142adys\u0142awa Pelca",
+                "addr:housenumber": "11",
+                "addr:teryt:simc": 36496,
+                "addr:teryt:sym_ul": 957620,
+                "contact:phone": "+48 862752234",
+                "contact:email": "sekretariat@ckzwm.edu.pl",
+                "contact:website": "http:\/\/www.ckzwm.edu.pl",
+                "ref:regon": "200844223",
+                "operator": "Powiat Wysokomazowiecki",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 103335"
+            }
+        },
+        {
+            "id": 274853,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.52544,
+                    52.91617
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 274853,
+                "official_name": "Bran\u017cowa Szko\u0142a II Stopnia w Wysokiem Mazowieckiem",
+                "name": "Bran\u017cowa Szko\u0142a II Stopnia w Wysokiem Mazowieckiem",
+                "addr:country": "PL",
+                "addr:postcode": "18-200",
+                "addr:city": "Wysokie Mazowieckie",
+                "addr:street": "ul. W\u0142adys\u0142awa Pelca",
+                "addr:housenumber": "11",
+                "addr:teryt:simc": 36496,
+                "addr:teryt:sym_ul": 957620,
+                "contact:phone": "+48 862752234",
+                "contact:email": "sekretariat@ckzwm.edu.pl",
+                "contact:website": "http:\/\/www.ckzwm.edu.pl",
+                "ref:regon": "386341584",
+                "operator": "Powiat Wysokomazowiecki",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 103335"
+            }
+        },
+        {
+            "id": 131233,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.51874,
+                    52.9167
+                ]
+            },
+            "properties": {
+                "ref:rspo": 131233,
+                "official_name": "Miejski Zesp\u00f3\u0142 Szk\u00f3\u0142 w Wysokiem Mazowieckiem",
+                "name": "Miejski Zesp\u00f3\u0142 Szk\u00f3\u0142 w Wysokiem Mazowieckiem",
+                "addr:country": "PL",
+                "addr:postcode": "18-200",
+                "addr:city": "Wysokie Mazowieckie",
+                "addr:street": "ul. Ludowa",
+                "addr:housenumber": "5",
+                "addr:teryt:simc": 11383,
+                "addr:teryt:sym_ul": 957620,
+                "contact:phone": "+48 862752657",
+                "contact:email": "sekretariat.mzs@wysokiemazowieckie.home.pl",
+                "contact:website": "http:\/\/gimwm.psis.edu.pl\/",
+                "ref:regon": "365054102",
+                "ref:vatin": "PL7221629421",
+                "operator": "Miasto Wysokie Mazowieckie",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 131240;263273"
+            }
+        },
+        {
+            "id": 131240,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.51874,
+                    52.916669999999996
+                ]
+            },
+            "properties": {
+                "ref:rspo": 131240,
+                "official_name": "Samorz\u0105dowa Szko\u0142a Muzyczna I Stopnia w Wysokiem Mazowieckiem",
+                "name": "Samorz\u0105dowa Szko\u0142a Muzyczna I Stopnia w Wysokiem Mazowieckiem",
+                "addr:country": "PL",
+                "addr:postcode": "18-200",
+                "addr:city": "Wysokie Mazowieckie",
+                "addr:street": "ul. Ludowa",
+                "addr:housenumber": "5",
+                "addr:teryt:simc": 11383,
+                "addr:teryt:sym_ul": 957620,
+                "contact:phone": "+48 862752657",
+                "contact:email": "sekretariat.mzs@wysokiemazowieckie.home.pl",
+                "contact:website": "http:\/\/gimwm.psis.edu.pl\/",
+                "ref:regon": "365065554",
+                "operator": "Miasto Wysokie Mazowieckie",
+                "operator:type": "government",
+                "amenity": "music_school",
+                "note": "Parent RSPO: 131233"
+            }
+        },
+        {
+            "id": 263273,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.51874,
+                    52.91664
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 263273,
+                "official_name": "Szko\u0142a Podstawowa Nr 2 im. Miko\u0142aja Kopernika w Wysokiem Mazowieckiem",
+                "name": "Szko\u0142a Podstawowa Nr 2",
+                "addr:country": "PL",
+                "addr:postcode": "18-200",
+                "addr:city": "Wysokie Mazowieckie",
+                "addr:street": "ul. Ludowa",
+                "addr:housenumber": "5",
+                "addr:teryt:simc": 11383,
+                "addr:teryt:sym_ul": 957620,
+                "contact:phone": "+48 862752657",
+                "contact:email": "sekretariat.mzs@wysokiemazowieckie.home.pl",
+                "contact:website": "http:\/\/gimwm.psis.edu.pl\/",
+                "ref:regon": "368179608",
+                "operator": "Miasto Wysokie Mazowieckie",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 131233"
+            }
+        },
+        {
+            "id": 6840,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.51822,
+                    52.91884
+                ]
+            },
+            "properties": {
+                "ref:rspo": 6840,
+                "official_name": "Przedszkole Miejskie Nr 2 w Wysokiem Mazowieckiem",
+                "name": "Przedszkole Miejskie Nr 2 w Wysokiem Mazowieckiem",
+                "addr:country": "PL",
+                "addr:postcode": "18-200",
+                "addr:city": "Wysokie Mazowieckie",
+                "addr:street": "ul. Wo\u0142odyjowskiego",
+                "addr:housenumber": "2",
+                "addr:teryt:simc": 24714,
+                "addr:teryt:sym_ul": 957620,
+                "contact:phone": "+48 862752481",
+                "contact:email": "przedsz.nr2@op.pl",
+                "contact:website": "http:\/\/www.pm2.wysokiemazowieckie.pl",
+                "ref:regon": "200412535",
+                "ref:vatin": "PL7221452282",
+                "operator": "Miasto Wysokie Mazowieckie",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 266816,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.51084,
+                    52.9189
+                ]
+            },
+            "properties": {
+                "ref:rspo": 266816,
+                "official_name": "Centrum Edukacyjne \"Filip\" w Wysokiem Mazowieckiem",
+                "name": "Centrum Edukacyjne \"Filip\" w Wysokiem Mazowieckiem",
+                "addr:country": "PL",
+                "addr:postcode": "18-200",
+                "addr:city": "Wysokie Mazowieckie",
+                "addr:street": "ul. Jagiello\u0144ska",
+                "addr:housenumber": "7",
+                "addr:teryt:simc": 7029,
+                "addr:teryt:sym_ul": 957620,
+                "contact:phone": "+48 864762777",
+                "contact:email": "biuro.filip@o2.pl",
+                "contact:website": "http:\/\/www.osk-filip.pl",
+                "ref:regon": "369706040",
+                "operator": "O\u015brodek Szkoleniowy \"Filip\" Maciej Pawe\u0142 Zar\u0119ba",
+                "operator:type": "consortium",
+                "fixme": "w zale\u017cno\u015bci od przedmiotu dzia\u0142alno\u015bci (np. amenity=training + training=*, amenity=dancing_school, amenity=language_school, amenity=music_school)"
+            }
+        },
+        {
+            "id": 42356,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.50998,
+                    52.91904
+                ]
+            },
+            "properties": {
+                "ref:rspo": 42356,
+                "official_name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Zawodowych im. Stanis\u0142awa Staszica w Wysokiem Mazowieckiem",
+                "name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Zawodowych",
+                "addr:country": "PL",
+                "addr:postcode": "18-200",
+                "addr:city": "Wysokie Mazowieckie",
+                "addr:street": "ul. Jagiello\u0144ska",
+                "addr:housenumber": "4",
+                "addr:teryt:simc": 7029,
+                "addr:teryt:sym_ul": 957620,
+                "contact:phone": "+48 862752588",
+                "contact:email": "zesp_szk_zaw@o2.pl",
+                "contact:website": "http:\/\/www.zszwysmaz.podlasie.pl",
+                "ref:regon": "000184313",
+                "ref:vatin": "PL7221170371",
+                "operator": "Powiat Wysokomazowiecki",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 66765;127853"
+            }
+        },
+        {
+            "id": 66765,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.50998,
+                    52.91901
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 66765,
+                "official_name": "Technikum w Wysokiem Mazowieckiem",
+                "name": "Technikum w Wysokiem Mazowieckiem",
+                "addr:country": "PL",
+                "addr:postcode": "18-200",
+                "addr:city": "Wysokie Mazowieckie",
+                "addr:street": "ul. Jagiello\u0144ska",
+                "addr:housenumber": "4",
+                "addr:teryt:simc": 7029,
+                "addr:teryt:sym_ul": 957620,
+                "contact:phone": "+48 862752588",
+                "contact:email": "zesp_szk_zaw@o2.pl",
+                "contact:website": "http:\/\/www.zszwysmaz.podlasie.pl",
+                "ref:regon": "451187680",
+                "operator": "Powiat Wysokomazowiecki",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 42356"
+            }
+        },
+        {
+            "id": 127853,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.50998,
+                    52.918980000000005
+                ]
+            },
+            "properties": {
+                "isced:level": "4",
+                "ref:rspo": 127853,
+                "official_name": "Szko\u0142a Policealna Nr 2 w Wysokiem Mazowieckiem",
+                "name": "Szko\u0142a Policealna Nr 2 w Wysokiem Mazowieckiem",
+                "addr:country": "PL",
+                "addr:postcode": "18-200",
+                "addr:city": "Wysokie Mazowieckie",
+                "addr:street": "ul. Jagiello\u0144ska",
+                "addr:housenumber": "4",
+                "addr:teryt:simc": 7029,
+                "addr:teryt:sym_ul": 957620,
+                "contact:phone": "+48 862752588",
+                "contact:email": "zesp_szk_zaw@o2.pl",
+                "ref:regon": "361923179",
+                "operator": "Powiat Wysokomazowiecki",
+                "operator:type": "government",
+                "amenity": "college",
+                "note": "Parent RSPO: 42356"
+            }
+        },
+        {
+            "id": 6842,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.50789,
+                    52.91968
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 6842,
+                "official_name": "Szko\u0142a Podstawowa Nr 1 im. Tadeusza Ko\u015bciuszki w Wysokiem Mazowieckiem",
+                "name": "Szko\u0142a Podstawowa Nr 1",
+                "addr:country": "PL",
+                "addr:postcode": "18-200",
+                "addr:city": "Wysokie Mazowieckie",
+                "addr:street": "ul. Ko\u015bcielna",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 9546,
+                "addr:teryt:sym_ul": 957620,
+                "contact:phone": "+48 862752008",
+                "contact:email": "dyrektor.sp1@wysokiemazowieckie.pl",
+                "contact:website": "http:\/\/www.sp1wysmaz.pl",
+                "ref:regon": "000719501",
+                "ref:vatin": "PL7221172364",
+                "operator": "Miasto Wysokie Mazowieckie",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 40544,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.505800247192,
+                    52.920818328857
+                ]
+            },
+            "properties": {
+                "ref:rspo": 40544,
+                "official_name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Og\u00f3lnokszta\u0142c\u0105cych I Policealnych w Wysokiem Mazowieckiem",
+                "name": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Og\u00f3lnokszta\u0142c\u0105cych I Policealnych w Wysokiem Mazowieckiem",
+                "addr:country": "PL",
+                "addr:postcode": "18-200",
+                "addr:city": "Wysokie Mazowieckie",
+                "addr:street": "ul. 1000-lecia",
+                "addr:housenumber": "15",
+                "addr:teryt:simc": 9,
+                "addr:teryt:sym_ul": 957620,
+                "contact:phone": "+48 862752235",
+                "contact:email": "sekretariat@jagiellonczyk.org.pl",
+                "contact:website": "http:\/\/www.jagiellonczyk.org.pl",
+                "ref:regon": "451204963",
+                "ref:vatin": "PL7221516272",
+                "operator": "Powiat Wysokomazowiecki",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 66704;66708;113910"
+            }
+        },
+        {
+            "id": 66704,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.505800247192,
+                    52.920788328857
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 66704,
+                "official_name": "Liceum Og\u00f3lnokszat\u0142c\u0105ce im.kr\u00f3la Kazimierza Jagiello\u0144czyka w Wysokiem Mazowieckiem",
+                "name": "Liceum Og\u00f3lnokszat\u0142c\u0105ce im.kr\u00f3la Kazimierza Jagiello\u0144czyka w Wysokiem Mazowieckiem",
+                "addr:country": "PL",
+                "addr:postcode": "18-200",
+                "addr:city": "Wysokie Mazowieckie",
+                "addr:street": "ul. 1000-lecia",
+                "addr:housenumber": "15",
+                "addr:teryt:simc": 9,
+                "addr:teryt:sym_ul": 957620,
+                "contact:phone": "+48 862752235",
+                "contact:email": "sekretariat@jagiellonczyk.org.pl",
+                "contact:website": "http:\/\/www.jagiellonczyk.org.pl",
+                "ref:regon": "000204228",
+                "operator": "Powiat Wysokomazowiecki",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 40544"
+            }
+        },
+        {
+            "id": 66708,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.505800247192,
+                    52.920758328857005
+                ]
+            },
+            "properties": {
+                "isced:level": "4",
+                "ref:rspo": 66708,
+                "official_name": "Szko\u0142a Policealna Nr 1 w Wysokiem Mazowieckiem",
+                "name": "Szko\u0142a Policealna Nr 1 w Wysokiem Mazowieckiem",
+                "addr:country": "PL",
+                "addr:postcode": "18-200",
+                "addr:city": "Wysokie Mazowieckie",
+                "addr:street": "ul. 1000-lecia",
+                "addr:housenumber": "15",
+                "addr:teryt:simc": 9,
+                "addr:teryt:sym_ul": 957620,
+                "contact:phone": "+48 862752235",
+                "contact:email": "sekretariat@jagiellonczyk.org.pl",
+                "contact:website": "http:\/\/www.jagiellonczyk.org.pl",
+                "ref:regon": "451204957",
+                "operator": "Powiat Wysokomazowiecki",
+                "operator:type": "government",
+                "amenity": "college",
+                "note": "Parent RSPO: 40544"
+            }
+        },
+        {
+            "id": 113910,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.505800247192,
+                    52.920728328857
+                ]
+            },
+            "properties": {
+                "isced:level": "3",
+                "ref:rspo": 113910,
+                "official_name": "Liceum Og\u00f3lnokszat\u0142c\u0105ce dla Doros\u0142ych Nr I w Wysokiem Mazowieckiem",
+                "name": "Liceum Og\u00f3lnokszat\u0142c\u0105ce dla Doros\u0142ych Nr I w Wysokiem Mazowieckiem",
+                "addr:country": "PL",
+                "addr:postcode": "18-200",
+                "addr:city": "Wysokie Mazowieckie",
+                "addr:street": "ul. 1000-lecia",
+                "addr:housenumber": "15",
+                "addr:teryt:simc": 9,
+                "addr:teryt:sym_ul": 957620,
+                "contact:phone": "+48 862752235",
+                "contact:email": "sekretariat@jagiellonczyk.org.pl",
+                "ref:regon": "200777395",
+                "operator": "Powiat Wysokomazowiecki",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 40544"
+            }
+        }
+    ]
+}

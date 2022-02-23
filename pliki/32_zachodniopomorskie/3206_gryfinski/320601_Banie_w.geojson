@@ -1,1 +1,128 @@
-{"type":"FeatureCollection","features":[{"id":52377,"type":"Feature","geometry":{"type":"Point","coordinates":[14.62401,53.03533]},"properties":{"isced:level":"1;2","ref:rspo":52377,"official_name":"Szko\u0142a Podstawowa w Swobnicy","name":"Szko\u0142a Podstawowa w Swobnicy","addr:country":"PL","addr:postcode":"74-110","addr:place":"Swobnica","addr:housenumber":"12","addr:teryt:sym_ul":772783,"contact:phone":"+48 914166812","contact:email":"spswobnica@interia.pl","contact:website":"http:\/\/www.spswobnica.szkolnastrona.pl","ref:regon":"001223400","ref:vatin":"PL8581759540","operator":"Gmina Banie","operator:type":"government","amenity":"school"}},{"id":52379,"type":"Feature","geometry":{"type":"Point","coordinates":[14.66237,53.10116]},"properties":{"ref:rspo":52379,"official_name":"Przedszkole w Baniach","name":"Przedszkole w Baniach","addr:country":"PL","addr:postcode":"74-110","addr:city":"Banie","addr:street":"ul. Pocztowa","addr:housenumber":"3","addr:teryt:simc":16579,"addr:teryt:sym_ul":772642,"contact:phone":"+48 914166331","contact:email":"sekretariat@przedszkole.banie.pl","contact:website":"http:\/\/www.przedszkolebanie.edupage.org","ref:regon":"001003176","ref:vatin":"PL8581540971","operator":"Gmina Banie","operator:type":"government","amenity":"kindergarten"}},{"id":90480,"type":"Feature","geometry":{"type":"Point","coordinates":[14.66226,53.10236]},"properties":{"isced:level":"1;2","ref:rspo":90480,"official_name":"Szko\u0142a Podstawowa im. Marii Sk\u0142odowskiej -Curie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"74-110","addr:city":"Banie","addr:street":"ul. Sportowa","addr:housenumber":"1","addr:teryt:simc":20683,"addr:teryt:sym_ul":772642,"contact:phone":"+48 914166312","contact:email":"sekretariat@spbanie.pl","contact:website":"http:\/\/www.spbanie.edupage.org","ref:regon":"000265678","ref:vatin":"PL8581768993","operator":"Gmina Banie","operator:type":"government","amenity":"school"}},{"id":52376,"type":"Feature","geometry":{"type":"Point","coordinates":[14.61061,53.12676]},"properties":{"isced:level":"1;2","ref:rspo":52376,"official_name":"Szko\u0142a Podstawowa im. Miko\u0142aja Kopernika w Lubanowie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"74-111","addr:place":"Lubanowo","addr:housenumber":"53","addr:teryt:sym_ul":772702,"contact:phone":"+48 914166728","contact:email":"dyrektor@lubanowosp.pl","contact:website":"http:\/\/www.lubanowosp.pl","ref:regon":"001223417","ref:vatin":"PL8581759557","operator":"Gmina Banie","operator:type":"government","amenity":"school"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 52377,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.62401,
+                    53.03533
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 52377,
+                "official_name": "Szko\u0142a Podstawowa w Swobnicy",
+                "name": "Szko\u0142a Podstawowa w Swobnicy",
+                "addr:country": "PL",
+                "addr:postcode": "74-110",
+                "addr:place": "Swobnica",
+                "addr:housenumber": "12",
+                "addr:teryt:sym_ul": 772783,
+                "contact:phone": "+48 914166812",
+                "contact:email": "spswobnica@interia.pl",
+                "contact:website": "http:\/\/www.spswobnica.szkolnastrona.pl",
+                "ref:regon": "001223400",
+                "ref:vatin": "PL8581759540",
+                "operator": "Gmina Banie",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 52379,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.66237,
+                    53.10116
+                ]
+            },
+            "properties": {
+                "ref:rspo": 52379,
+                "official_name": "Przedszkole w Baniach",
+                "name": "Przedszkole w Baniach",
+                "addr:country": "PL",
+                "addr:postcode": "74-110",
+                "addr:city": "Banie",
+                "addr:street": "ul. Pocztowa",
+                "addr:housenumber": "3",
+                "addr:teryt:simc": 16579,
+                "addr:teryt:sym_ul": 772642,
+                "contact:phone": "+48 914166331",
+                "contact:email": "sekretariat@przedszkole.banie.pl",
+                "contact:website": "http:\/\/www.przedszkolebanie.edupage.org",
+                "ref:regon": "001003176",
+                "ref:vatin": "PL8581540971",
+                "operator": "Gmina Banie",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 90480,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.66226,
+                    53.10236
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 90480,
+                "official_name": "Szko\u0142a Podstawowa im. Marii Sk\u0142odowskiej -Curie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "74-110",
+                "addr:city": "Banie",
+                "addr:street": "ul. Sportowa",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 20683,
+                "addr:teryt:sym_ul": 772642,
+                "contact:phone": "+48 914166312",
+                "contact:email": "sekretariat@spbanie.pl",
+                "contact:website": "http:\/\/www.spbanie.edupage.org",
+                "ref:regon": "000265678",
+                "ref:vatin": "PL8581768993",
+                "operator": "Gmina Banie",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 52376,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.61061,
+                    53.12676
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 52376,
+                "official_name": "Szko\u0142a Podstawowa im. Miko\u0142aja Kopernika w Lubanowie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "74-111",
+                "addr:place": "Lubanowo",
+                "addr:housenumber": "53",
+                "addr:teryt:sym_ul": 772702,
+                "contact:phone": "+48 914166728",
+                "contact:email": "dyrektor@lubanowosp.pl",
+                "contact:website": "http:\/\/www.lubanowosp.pl",
+                "ref:regon": "001223417",
+                "ref:vatin": "PL8581759557",
+                "operator": "Gmina Banie",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        }
+    ]
+}

@@ -1,1 +1,185 @@
-{"type":"FeatureCollection","features":[{"id":127573,"type":"Feature","geometry":{"type":"Point","coordinates":[16.1276,51.05071]},"properties":{"ref:rspo":127573,"official_name":"Zesp\u00f3\u0142 Szkolno - Przedszkolny w Piotrowicach","name":"Zesp\u00f3\u0142 Szkolno - Przedszkolny w Piotrowicach","addr:country":"PL","addr:postcode":"59-424","addr:place":"Piotrowice","addr:housenumber":"139","addr:teryt:sym_ul":365687,"contact:phone":"+48 768708806","contact:email":"sekretariat@zsppiotrowice.mecinka.pl","contact:website":"http:\/\/www.sppiotrowice.info","ref:regon":"361728680","ref:vatin":"PL6951522830","operator":"Gmina M\u0119cinka","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 19089;127617"}},{"id":19089,"type":"Feature","geometry":{"type":"Point","coordinates":[16.1276,51.05068]},"properties":{"isced:level":"1;2","ref:rspo":19089,"official_name":"Szko\u0142a Podstawowa im. Piast\u00f3w \u015aL\u0105skich w Piotrowicach","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"59-424","addr:place":"Piotrowice","addr:housenumber":"139","addr:teryt:sym_ul":365687,"contact:phone":"+48 768708806","contact:email":"sekretariat@zsppiotrowice.mecinka.pl","contact:website":"http:\/\/www.sppiotrowice.info","ref:regon":"001239750","operator":"Gmina M\u0119cinka","operator:type":"government","amenity":"school","note":"Parent RSPO: 127573"}},{"id":127617,"type":"Feature","geometry":{"type":"Point","coordinates":[16.1276,51.050650000000005]},"properties":{"ref:rspo":127617,"official_name":"Przedszkole w Piotrowicach","name":"Przedszkole w Piotrowicach","addr:country":"PL","addr:postcode":"59-424","addr:place":"Piotrowice","addr:housenumber":"139","addr:teryt:sym_ul":365687,"contact:phone":"+48 768708806","contact:email":"sekretariat@zsppiotrowice.mecinka.pl","contact:website":"http:\/\/www.sppiotrowice.info","ref:regon":"361770557","operator":"Gmina M\u0119cinka","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 127573"}},{"id":52772,"type":"Feature","geometry":{"type":"Point","coordinates":[16.0999,51.07292]},"properties":{"ref:rspo":52772,"official_name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w M\u0119cince","name":"Zesp\u00f3\u0142 Szkolno-Przedszkolny w M\u0119cince","addr:country":"PL","addr:postcode":"59-424","addr:place":"M\u0119cinka","addr:housenumber":"10B","addr:teryt:sym_ul":365635,"contact:phone":"+48 768708285","contact:email":"zszmecinka@interia.pl","contact:website":"http:\/\/www.szkola.mecinka.pl","ref:regon":"020113065","ref:vatin":"PL6951453299","operator":"Gmina M\u0119cinka","operator:type":"government","landuse":"education","fixme":"amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.","note":"Children RSPO: 90290;127863"}},{"id":90290,"type":"Feature","geometry":{"type":"Point","coordinates":[16.0999,51.07289]},"properties":{"isced:level":"1;2","ref:rspo":90290,"official_name":"Szko\u0142a Podstawowa im. Miko\u0142aja Kopernika w M\u0119cince","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"59-424","addr:place":"M\u0119cinka","addr:housenumber":"10B","addr:teryt:sym_ul":365635,"contact:phone":"+48 768708285","contact:email":"zszmecinka@interia.pl","contact:website":"http:\/\/www.szkola.mecinka.pl","ref:regon":"000579626","operator":"Gmina M\u0119cinka","operator:type":"government","amenity":"school","note":"Parent RSPO: 52772"}},{"id":127863,"type":"Feature","geometry":{"type":"Point","coordinates":[16.0999,51.072860000000006]},"properties":{"ref:rspo":127863,"official_name":"Przedszkole w M\u0119cince","name":"Przedszkole w M\u0119cince","addr:country":"PL","addr:postcode":"59-424","addr:place":"M\u0119cinka","addr:housenumber":"10B","addr:teryt:sym_ul":365635,"contact:phone":"+48 768708285","contact:email":"sekretariat@zsp.mecinka.pl","contact:website":"http:\/\/www.szkola.mecinka.pl","ref:regon":"361931204","operator":"Gmina M\u0119cinka","operator:type":"government","amenity":"kindergarten","note":"Parent RSPO: 52772"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 127573,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.1276,
+                    51.05071
+                ]
+            },
+            "properties": {
+                "ref:rspo": 127573,
+                "official_name": "Zesp\u00f3\u0142 Szkolno - Przedszkolny w Piotrowicach",
+                "name": "Zesp\u00f3\u0142 Szkolno - Przedszkolny w Piotrowicach",
+                "addr:country": "PL",
+                "addr:postcode": "59-424",
+                "addr:place": "Piotrowice",
+                "addr:housenumber": "139",
+                "addr:teryt:sym_ul": 365687,
+                "contact:phone": "+48 768708806",
+                "contact:email": "sekretariat@zsppiotrowice.mecinka.pl",
+                "contact:website": "http:\/\/www.sppiotrowice.info",
+                "ref:regon": "361728680",
+                "ref:vatin": "PL6951522830",
+                "operator": "Gmina M\u0119cinka",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 19089;127617"
+            }
+        },
+        {
+            "id": 19089,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.1276,
+                    51.05068
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 19089,
+                "official_name": "Szko\u0142a Podstawowa im. Piast\u00f3w \u015aL\u0105skich w Piotrowicach",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "59-424",
+                "addr:place": "Piotrowice",
+                "addr:housenumber": "139",
+                "addr:teryt:sym_ul": 365687,
+                "contact:phone": "+48 768708806",
+                "contact:email": "sekretariat@zsppiotrowice.mecinka.pl",
+                "contact:website": "http:\/\/www.sppiotrowice.info",
+                "ref:regon": "001239750",
+                "operator": "Gmina M\u0119cinka",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 127573"
+            }
+        },
+        {
+            "id": 127617,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.1276,
+                    51.050650000000005
+                ]
+            },
+            "properties": {
+                "ref:rspo": 127617,
+                "official_name": "Przedszkole w Piotrowicach",
+                "name": "Przedszkole w Piotrowicach",
+                "addr:country": "PL",
+                "addr:postcode": "59-424",
+                "addr:place": "Piotrowice",
+                "addr:housenumber": "139",
+                "addr:teryt:sym_ul": 365687,
+                "contact:phone": "+48 768708806",
+                "contact:email": "sekretariat@zsppiotrowice.mecinka.pl",
+                "contact:website": "http:\/\/www.sppiotrowice.info",
+                "ref:regon": "361770557",
+                "operator": "Gmina M\u0119cinka",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 127573"
+            }
+        },
+        {
+            "id": 52772,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.0999,
+                    51.07292
+                ]
+            },
+            "properties": {
+                "ref:rspo": 52772,
+                "official_name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w M\u0119cince",
+                "name": "Zesp\u00f3\u0142 Szkolno-Przedszkolny w M\u0119cince",
+                "addr:country": "PL",
+                "addr:postcode": "59-424",
+                "addr:place": "M\u0119cinka",
+                "addr:housenumber": "10B",
+                "addr:teryt:sym_ul": 365635,
+                "contact:phone": "+48 768708285",
+                "contact:email": "zszmecinka@interia.pl",
+                "contact:website": "http:\/\/www.szkola.mecinka.pl",
+                "ref:regon": "020113065",
+                "ref:vatin": "PL6951453299",
+                "operator": "Gmina M\u0119cinka",
+                "operator:type": "government",
+                "landuse": "education",
+                "fixme": "amenity=school, amenity=college albo landuse=education w zale\u017cno\u015bci od tego, jakie plac\u00f3wki wchodz\u0105 w sk\u0142ad zespo\u0142u. Sprawd\u017a, kiedy stosowa\u0107 amenity=* a kiedy landuse=education.",
+                "note": "Children RSPO: 90290;127863"
+            }
+        },
+        {
+            "id": 90290,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.0999,
+                    51.07289
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 90290,
+                "official_name": "Szko\u0142a Podstawowa im. Miko\u0142aja Kopernika w M\u0119cince",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "59-424",
+                "addr:place": "M\u0119cinka",
+                "addr:housenumber": "10B",
+                "addr:teryt:sym_ul": 365635,
+                "contact:phone": "+48 768708285",
+                "contact:email": "zszmecinka@interia.pl",
+                "contact:website": "http:\/\/www.szkola.mecinka.pl",
+                "ref:regon": "000579626",
+                "operator": "Gmina M\u0119cinka",
+                "operator:type": "government",
+                "amenity": "school",
+                "note": "Parent RSPO: 52772"
+            }
+        },
+        {
+            "id": 127863,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.0999,
+                    51.072860000000006
+                ]
+            },
+            "properties": {
+                "ref:rspo": 127863,
+                "official_name": "Przedszkole w M\u0119cince",
+                "name": "Przedszkole w M\u0119cince",
+                "addr:country": "PL",
+                "addr:postcode": "59-424",
+                "addr:place": "M\u0119cinka",
+                "addr:housenumber": "10B",
+                "addr:teryt:sym_ul": 365635,
+                "contact:phone": "+48 768708285",
+                "contact:email": "sekretariat@zsp.mecinka.pl",
+                "contact:website": "http:\/\/www.szkola.mecinka.pl",
+                "ref:regon": "361931204",
+                "operator": "Gmina M\u0119cinka",
+                "operator:type": "government",
+                "amenity": "kindergarten",
+                "note": "Parent RSPO: 52772"
+            }
+        }
+    ]
+}

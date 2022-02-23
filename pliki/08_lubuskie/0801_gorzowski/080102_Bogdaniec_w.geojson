@@ -1,1 +1,222 @@
-{"type":"FeatureCollection","features":[{"id":69411,"type":"Feature","geometry":{"type":"Point","coordinates":[15.08611,52.663694]},"properties":{"isced:level":"1;2","ref:rspo":69411,"official_name":"Szko\u0142a Podstawowa w Jeni\u0144cu","name":"Szko\u0142a Podstawowa w Jeni\u0144cu","addr:country":"PL","addr:postcode":"66-450","addr:place":"Jeniniec","addr:housenumber":"8A","addr:teryt:sym_ul":178755,"contact:phone":"+48 957510043","contact:email":"sekretariat@spjeniniec.pl","contact:website":"http:\/\/www.spjeniniec.edupage.org","ref:regon":"210305961","ref:vatin":"PL5992320293","operator":"Gmina Bogdaniec","operator:type":"government","amenity":"school"}},{"id":69408,"type":"Feature","geometry":{"type":"Point","coordinates":[15.134029,52.673288]},"properties":{"isced:level":"1;2","ref:rspo":69408,"official_name":"Szko\u0142a Podstawowa im. Jana Paw\u0142a II w Lubczynie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"66-450","addr:place":"Lubczyno","addr:housenumber":"55","addr:teryt:sym_ul":178815,"contact:phone":"+48 957510106","contact:email":"sekretariat@splubczyno.pl","contact:website":"http:\/\/www.splubczyno.edupage.org","ref:regon":"210305978","ref:vatin":"PL5992041771","operator":"Gmina Bogdaniec","operator:type":"government","amenity":"school"}},{"id":75356,"type":"Feature","geometry":{"type":"Point","coordinates":[15.07083,52.6909599]},"properties":{"isced:level":"1;2","ref:rspo":75356,"official_name":"Szko\u0142a Podstawowa im. Henryka Sienkiewicza w Bogda\u0144cu","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"66-450","addr:city":"Bogdaniec","addr:street":"ul. Pocztowa","addr:housenumber":"7","addr:teryt:simc":16579,"addr:teryt:sym_ul":178672,"contact:phone":"+48 957510041","contact:email":"sekretariat@zsz-bogdaniec.edu.pl","contact:website":"http:\/\/www.zszbogdaniec.edupage.org","ref:regon":"211206959","ref:vatin":"PL5991079458","operator":"Gmina Bogdaniec","operator:type":"government","amenity":"school"}},{"id":69410,"type":"Feature","geometry":{"type":"Point","coordinates":[15.06624,52.69155]},"properties":{"ref:rspo":69410,"official_name":"Gminne Przedszkole Publiczne w Bogda\u0144cu","name":"Gminne Przedszkole Publiczne w Bogda\u0144cu","addr:country":"PL","addr:postcode":"66-450","addr:city":"Bogdaniec","addr:street":"ul. Le\u015bna","addr:housenumber":"14","addr:teryt:simc":10898,"addr:teryt:sym_ul":178672,"contact:phone":"+48 957510046","contact:email":"przedszkolebogdaniec@o2.pl","contact:website":"http:\/\/www.przedszkolebogdaniec.pl","ref:regon":"080407446","ref:vatin":"PL5993111350","operator":"Gmina Bogdaniec","operator:type":"government","amenity":"kindergarten"}},{"id":69402,"type":"Feature","geometry":{"type":"Point","coordinates":[15.12228,52.6999]},"properties":{"isced:level":"1;2","ref:rspo":69402,"official_name":"Szko\u0142a Podstawowa im. W\u0142odzimierza Korsaka w Jeninie","name":"Szko\u0142a Podstawowa","addr:country":"PL","addr:postcode":"66-450","addr:city":"Jenin","addr:street":"ul. Lipowa","addr:housenumber":"1","addr:teryt:simc":11139,"addr:teryt:sym_ul":178732,"contact:phone":"+48 957510039","contact:email":"sekretariat@spjenin.pl","contact:website":"http:\/\/www.spjenin.edupage.org","ref:regon":"211206586","ref:vatin":"PL5992744722","operator":"Gmina Bogdaniec","operator:type":"government","amenity":"school"}},{"id":69405,"type":"Feature","geometry":{"type":"Point","coordinates":[15.12228,52.69987]},"properties":{"ref:rspo":69405,"official_name":"Gminne Przedszkole Publiczne w Jeninie","name":"Gminne Przedszkole Publiczne w Jeninie","addr:country":"PL","addr:postcode":"66-450","addr:city":"Jenin","addr:street":"ul. Lipowa","addr:housenumber":"6","addr:teryt:simc":11139,"addr:teryt:sym_ul":178732,"contact:phone":"+48 957510015","contact:email":"ppjenin@wp.pl","contact:website":"http:\/\/www.przedszkolejenin.pl","ref:regon":"080407452","ref:vatin":"PL5993111344","operator":"Gmina Bogdaniec","operator:type":"government","amenity":"kindergarten"}},{"id":273939,"type":"Feature","geometry":{"type":"Point","coordinates":[15.12132,52.70142]},"properties":{"ref:rspo":273939,"official_name":"Przedszkole Niepubliczne Kraina Dzieci\u0144stwa w \u0141upowie","name":"Przedszkole Niepubliczne Kraina Dzieci\u0144stwa w \u0141upowie","addr:country":"PL","addr:postcode":"66-450","addr:city":"Jenin","addr:street":"ul. Lipowa","addr:housenumber":"12","addr:teryt:simc":11139,"addr:teryt:sym_ul":178732,"contact:phone":"+48 579612082","contact:email":"krainadziecinstwa.lupowo@gmail.com","contact:website":"http:\/\/krainadziecinstwa.pl","ref:regon":"384907171","ref:vatin":"PL5990202833","operator":"Dariusz Romanowicz","operator:type":"private","amenity":"kindergarten"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 69411,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.08611,
+                    52.663694
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 69411,
+                "official_name": "Szko\u0142a Podstawowa w Jeni\u0144cu",
+                "name": "Szko\u0142a Podstawowa w Jeni\u0144cu",
+                "addr:country": "PL",
+                "addr:postcode": "66-450",
+                "addr:place": "Jeniniec",
+                "addr:housenumber": "8A",
+                "addr:teryt:sym_ul": 178755,
+                "contact:phone": "+48 957510043",
+                "contact:email": "sekretariat@spjeniniec.pl",
+                "contact:website": "http:\/\/www.spjeniniec.edupage.org",
+                "ref:regon": "210305961",
+                "ref:vatin": "PL5992320293",
+                "operator": "Gmina Bogdaniec",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 69408,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.134029,
+                    52.673288
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 69408,
+                "official_name": "Szko\u0142a Podstawowa im. Jana Paw\u0142a II w Lubczynie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "66-450",
+                "addr:place": "Lubczyno",
+                "addr:housenumber": "55",
+                "addr:teryt:sym_ul": 178815,
+                "contact:phone": "+48 957510106",
+                "contact:email": "sekretariat@splubczyno.pl",
+                "contact:website": "http:\/\/www.splubczyno.edupage.org",
+                "ref:regon": "210305978",
+                "ref:vatin": "PL5992041771",
+                "operator": "Gmina Bogdaniec",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 75356,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.07083,
+                    52.6909599
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 75356,
+                "official_name": "Szko\u0142a Podstawowa im. Henryka Sienkiewicza w Bogda\u0144cu",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "66-450",
+                "addr:city": "Bogdaniec",
+                "addr:street": "ul. Pocztowa",
+                "addr:housenumber": "7",
+                "addr:teryt:simc": 16579,
+                "addr:teryt:sym_ul": 178672,
+                "contact:phone": "+48 957510041",
+                "contact:email": "sekretariat@zsz-bogdaniec.edu.pl",
+                "contact:website": "http:\/\/www.zszbogdaniec.edupage.org",
+                "ref:regon": "211206959",
+                "ref:vatin": "PL5991079458",
+                "operator": "Gmina Bogdaniec",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 69410,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.06624,
+                    52.69155
+                ]
+            },
+            "properties": {
+                "ref:rspo": 69410,
+                "official_name": "Gminne Przedszkole Publiczne w Bogda\u0144cu",
+                "name": "Gminne Przedszkole Publiczne w Bogda\u0144cu",
+                "addr:country": "PL",
+                "addr:postcode": "66-450",
+                "addr:city": "Bogdaniec",
+                "addr:street": "ul. Le\u015bna",
+                "addr:housenumber": "14",
+                "addr:teryt:simc": 10898,
+                "addr:teryt:sym_ul": 178672,
+                "contact:phone": "+48 957510046",
+                "contact:email": "przedszkolebogdaniec@o2.pl",
+                "contact:website": "http:\/\/www.przedszkolebogdaniec.pl",
+                "ref:regon": "080407446",
+                "ref:vatin": "PL5993111350",
+                "operator": "Gmina Bogdaniec",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 69402,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.12228,
+                    52.6999
+                ]
+            },
+            "properties": {
+                "isced:level": "1;2",
+                "ref:rspo": 69402,
+                "official_name": "Szko\u0142a Podstawowa im. W\u0142odzimierza Korsaka w Jeninie",
+                "name": "Szko\u0142a Podstawowa",
+                "addr:country": "PL",
+                "addr:postcode": "66-450",
+                "addr:city": "Jenin",
+                "addr:street": "ul. Lipowa",
+                "addr:housenumber": "1",
+                "addr:teryt:simc": 11139,
+                "addr:teryt:sym_ul": 178732,
+                "contact:phone": "+48 957510039",
+                "contact:email": "sekretariat@spjenin.pl",
+                "contact:website": "http:\/\/www.spjenin.edupage.org",
+                "ref:regon": "211206586",
+                "ref:vatin": "PL5992744722",
+                "operator": "Gmina Bogdaniec",
+                "operator:type": "government",
+                "amenity": "school"
+            }
+        },
+        {
+            "id": 69405,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.12228,
+                    52.69987
+                ]
+            },
+            "properties": {
+                "ref:rspo": 69405,
+                "official_name": "Gminne Przedszkole Publiczne w Jeninie",
+                "name": "Gminne Przedszkole Publiczne w Jeninie",
+                "addr:country": "PL",
+                "addr:postcode": "66-450",
+                "addr:city": "Jenin",
+                "addr:street": "ul. Lipowa",
+                "addr:housenumber": "6",
+                "addr:teryt:simc": 11139,
+                "addr:teryt:sym_ul": 178732,
+                "contact:phone": "+48 957510015",
+                "contact:email": "ppjenin@wp.pl",
+                "contact:website": "http:\/\/www.przedszkolejenin.pl",
+                "ref:regon": "080407452",
+                "ref:vatin": "PL5993111344",
+                "operator": "Gmina Bogdaniec",
+                "operator:type": "government",
+                "amenity": "kindergarten"
+            }
+        },
+        {
+            "id": 273939,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.12132,
+                    52.70142
+                ]
+            },
+            "properties": {
+                "ref:rspo": 273939,
+                "official_name": "Przedszkole Niepubliczne Kraina Dzieci\u0144stwa w \u0141upowie",
+                "name": "Przedszkole Niepubliczne Kraina Dzieci\u0144stwa w \u0141upowie",
+                "addr:country": "PL",
+                "addr:postcode": "66-450",
+                "addr:city": "Jenin",
+                "addr:street": "ul. Lipowa",
+                "addr:housenumber": "12",
+                "addr:teryt:simc": 11139,
+                "addr:teryt:sym_ul": 178732,
+                "contact:phone": "+48 579612082",
+                "contact:email": "krainadziecinstwa.lupowo@gmail.com",
+                "contact:website": "http:\/\/krainadziecinstwa.pl",
+                "ref:regon": "384907171",
+                "ref:vatin": "PL5990202833",
+                "operator": "Dariusz Romanowicz",
+                "operator:type": "private",
+                "amenity": "kindergarten"
+            }
+        }
+    ]
+}
